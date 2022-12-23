@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/30122680"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30122680"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing Market Size to Reach USD 98.05 Billion in 2030 | Emergen Research"
-    excerpt: "The natural language processing market size reached USD 12.43 Billion in 2021 and is expected to register a CAGR of 25.7% during the forecast period, according to latest analysis by Emergen Research."
-    publishedDateTime: 2022-12-21T20:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-natural-language-processing-market-size-reach-usd-9805-/2022/12/21/9734354.htm"
+  - title: "Automatic Speech Recognition Market 2022: Share and Outlook of Regulatory Scenario by 2028"
+    excerpt: "The research presents regional understandings of the Automatic Speech Recognition market, additionally bifurcated at the country level to give organizations a complete picture. DOWNLOAD FREE SAMPLE REPORT:  The worldwide Automatic Speech Recognition market is split into a type that includes Telisma S."
+    publishedDateTime: 2022-12-20T10:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-2022-share-and-outlook-of-regulatory-scenario-by-2028-2022-12-20"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 28
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/1579538/Emergen_Research_Logo.jpg"
-        width: 400
-        height: 225
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Truck Technology Market 2022: Share and Outlook of Regulatory Scenario by 2028"
+    excerpt: "Further, the SWOT analysis & other techniques are utilized to investigate this data & provide an informed perspective on the state of the business to assist design the best growth strategy for any vendors or to current penetration into the present & and likely direction of the global Self-Driving Truck Technology market."
+    publishedDateTime: 2022-12-20T15:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-2022-share-and-outlook-of-regulatory-scenario-by-2028-2022-12-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Software Market 2023 : Share and Outlook of Regulatory Scenario by 2029 with Top Countries Data"
+    excerpt: "A latest extensive market study titled Global “Voice Recognition Software Market\" Outlook from 2023 to 2029 enfolds"
+    publishedDateTime: 2022-12-19T13:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-2023-share-and-outlook-of-regulatory-scenario-by-2029-with-top-countries-data-2022-12-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "XF43LsH/hbrjnQw3tLN8EibkKUdB5yq+8w540vJByntFmTQ0cw4ocBqbjwxRf1tmtMoMC3auTML36SET7oUbfded8pHxI2HHmT5ghCU4jxX8dPtQofXgPKCj4RxHceRLqCvc7aNJnSLE/2okSIjKFKXhXV/Bi7KZDZNacsxwKf2GsNW+J9ySfoIhHSkeXjxRo1Z92UvLUmA9mtdwPadX3JecLK8T3T2K9n60iScUgvRBoDaeel4jOrMZQm6SNPybVOLx6V/3K10uNfFHdg9j6fippwwdEs3Rfh5PhEtdhfOecmlU7+NLt906cCcrAikMsxyO/R1Ght8Ot3m4I03M2SmBH/cM7ZFz5hE3E36hDtY=;CbljuEBy7o06m/OMN0M8cg=="

@@ -2,6 +2,162 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2022-10-19-realpage-the-worlds-largest-property-management-software-provider-selects-wallaroo-labs-to-scale-machine-learning.md",
+      "title": "RealPage, The World’s Largest Property Management Software Provider, Selects Wallaroo Labs To Scale Machine Learning",
+      "excerpt": "Today RealPage, the industry leader in SaaS-based Property Management Solutions, announced that they have selected Wallaroo",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/realpage-the-worlds-largest-property-management-software-provider-selects-wallaroo-labs-to-scale-machine-learning-2022-10-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/realpage-the-worlds-largest-property-management-software-provider-selects-wallaroo-labs-to-scale-machine-learning-2022-10-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-dr-timnit-gebru-to-deliver-a-masterclass-on-ethical-ai-at-relativity-fest.md",
+      "title": "Dr. Timnit Gebru to Deliver a Masterclass on Ethical AI at Relativity Fest",
+      "excerpt": "Dr. Timnit Gebru to Deliver a Masterclass on Ethical AI at Relativity Fest Oct 19, 2022 (PRNewswire via COMTEX) -- PR Newswire",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/dr-timnit-gebru-to-deliver-a-masterclass-on-ethical-ai-at-relativity-fest-2022-10-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/dr-timnit-gebru-to-deliver-a-masterclass-on-ethical-ai-at-relativity-fest-2022-10-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-how-to-use-dall-e-2-to-generate-ai-images.md",
+      "title": "How to use DALL-E 2 to generate AI images",
+      "excerpt": "DALL-E 2 is now open for public use, which means you can try your hand at generating AI images yourself until you find something perfect. Here's how to use it!",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/how-to-use-dall-e-2-to-generate-ai-images/",
+      "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-dall-e-2-to-generate-ai-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/DALL-E-2-Image-on-OpenAI.jpg?p=1",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-use-dall-e-2-to-generate-ai-images/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-dall-e-2-to-generate-ai-images/?amp",
+      "publishedDateTime": "2022-10-19T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-ai-is-changing-scientists-understanding-of-language-learning.md",
       "title": "AI is changing scientists’ understanding of language learning",
       "excerpt": "For this reason, many language scientists—including Noam Chomsky, a founder of modern linguistics—believe that language learners require a kind of glue to rein in the unruly nature of everyday language.",
@@ -1047,161 +1203,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-rivian-hires-former-waymo-exec-for-new-autonomy-ai-role.md",
-      "title": "Rivian hires former Waymo exec for new autonomy, AI role",
-      "excerpt": "Rivian has hired former Waymo executive James Philbin to lead autonomy and AI at the automaker, a new role that signals the company’s interest in automated driving technology. Philbin was ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/",
-      "originalUrl": "https://techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/IMG_2291.jpeg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/amp/",
-      "publishedDateTime": "2022-10-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-swap-robotics-is-paving-the-way-for-electric-solar-vegetation-cuts-and-sidewalk-snow-plowing.md",
-      "title": "Swap Robotics is paving the way for electric solar vegetation cuts and sidewalk snow plowing",
-      "excerpt": "Swap Robotics, a company that manufactures electric grass-cutting and snow removal robots, presented today at TechCrunch Disrupt Startup Battlefield to detail how it’s making sustainable outdoor ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/",
-      "originalUrl": "https://techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/swap-robotics.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/amp/",
-      "publishedDateTime": "2022-10-18T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-105m.md",
-      "title": "Keebo AI optimizes data warehouses with automated ‘learning’ platform, raises $10.5M",
-      "excerpt": "Keebo AI, which helps enterprises optimize their data warehouses, today announced it has raised $10.5 million in series A funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1176050900-e1666115841626.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/amp/",
-      "publishedDateTime": "2022-10-18T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

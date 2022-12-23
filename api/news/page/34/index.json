@@ -2,6 +2,153 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-11-24-flavonols-linked-to-slower-cognitive-decline.md",
+      "title": "Flavonols Linked to Slower Cognitive Decline",
+      "excerpt": "Opens in a new tab or window Higher dietary intake of total flavonols and individual flavonol constituents was linked with slower cognitive and memory decline in older adults, a longitudinal study ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/neurology/dementia/101921",
+      "originalUrl": "https://www.medpagetoday.com/neurology/dementia/101921",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/101xxx/101921.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-23T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-24-artificial-intelligence-robotic-dogs-market-global-industry-analysis-size-share-growth-trends-and-forecast-2022-2028.md",
+      "title": "Artificial Intelligence Robotic Dogs Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028",
+      "excerpt": "Artificial intelligence robotic dogs are being deployed in a number of different applications, including search",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotic-dogs-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-11-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotic-dogs-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-11-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-23T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-24-edge-ai-chips-market-emerging-economies-are-expected-to-offer-high-growth-opportunities-and-forecast-to-2028.md",
+      "title": "Edge AI Chips Market : Emerging economies are expected to offer high growth opportunities and Forecast to 2028",
+      "excerpt": "Nov 23, 2022 (The Expresswire) -- \"Edge AI Chips Market\" Research Report gives detailed facts with consideration to market size, cost revenue,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-emerging-economies-are-expected-to-offer-high-growth-opportunities-and-forecast-to-2028-2022-11-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-emerging-economies-are-expected-to-offer-high-growth-opportunities-and-forecast-to-2028-2022-11-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-23T09:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-24-can-ai-help-ease-traffic-congestion-researchers-say-yes.md",
       "title": "Can AI help ease traffic congestion? Researchers say yes",
       "excerpt": "Do you ever wonder why traffic comes to a standstill for no apparent reason? Researchers say the problem is you.",
@@ -992,144 +1139,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-profet-ai-selected-in-aichi-landing-pad-program-of-accelerate-aichi-by-500.md",
-      "title": "Profet AI Selected in \"Aichi Landing Pad\" - Program of Accelerate Aichi by 500",
-      "excerpt": "Profet AI Technology Co., Ltd. (Profet AI) announced today that it has been selected as one of the 17 international startups to participate in",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/profet-ai-selected-aichi-landing-pad-program-accelerate-aichi-500",
-      "originalUrl": "https://www.asiaone.com/business/profet-ai-selected-aichi-landing-pad-program-accelerate-aichi-500",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Nov2022/02_en.jpg?h=d09b6c17&itok=dpKM1koK",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T19:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-how-wafd-embraced-amazon-lexs-conversational-ai-to-improve-and-speed-up-telephone-banking.md",
-      "title": "How WaFd embraced Amazon Lex’s conversational AI to improve and speed up telephone banking",
-      "excerpt": "WaFd, formerly known as Washington Federal, is now using the Amazon Lex conversational AI technology to revolutionize its phone banking.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-wafd-embraced-amazon-lexs-conversational-ai-to-improve-and-speed-up-telephone-banking/",
-      "originalUrl": "https://venturebeat.com/ai/how-wafd-embraced-amazon-lexs-conversational-ai-to-improve-and-speed-up-telephone-banking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1147786413-e1658251881115.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-wafd-embraced-amazon-lexs-conversational-ai-to-improve-and-speed-up-telephone-banking/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-wafd-embraced-amazon-lexs-conversational-ai-to-improve-and-speed-up-telephone-banking/amp/",
-      "publishedDateTime": "2022-11-22T16:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-a-simpler-path-to-better-computer-vision.md",
-      "title": "A simpler path to better computer vision",
-      "excerpt": "A simpler path to better computer vision Date: November 23, 2022 Source: Massachusetts Institute of Technology Summary: Research finds using a large collection of simple, un-curated synthetic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221123125132.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221123125132.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

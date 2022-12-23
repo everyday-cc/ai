@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-18-speak-up-how-to-use-speech-recognition-and-dictate-text-in-windows.md",
+      "title": "Speak Up: How to Use Speech Recognition and Dictate Text in Windows",
+      "excerpt": "This can be done through Cortana, or you can use the speech recognition built directly into Windows 10 and 11 in order to speak to any supported version of Windows. Once you teach the operating ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/migrated-3765-windows-10/143275/speak-up-how-to-use-speech-recognition-and-dictate-text-in-windows",
+      "originalUrl": "https://uk.pcmag.com/migrated-3765-windows-10/143275/speak-up-how-to-use-speech-recognition-and-dictate-text-in-windows",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-physicianone-urgent-care-adopts-augnitos-voice-recognition-ai-solution-across-its-20-plus-locations-in-the-us.md",
       "title": "PhysicianOne Urgent Care Adopts Augnito's Voice Recognition AI Solution Across Its 20-Plus locations in the U.S.",
       "excerpt": "Augnito's medical voice recognition solution will be used by providers across all of PhysicianOne Urgent Care's 20-plus U.S. locations. \"PhysicianOne Urgent Care provides convenient access to high ...",
@@ -1336,49 +1379,6 @@
       "provider": {
         "name": "research",
         "domain": "research-live.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-netbase-quid-adds-visualizations-language-support.md",
-      "title": "NetBase Quid Adds Visualizations, Language Support",
-      "excerpt": "NetBase Quid's latest quarterly update includes now visualization and presentation modes, now user interface, support for more languages, and product integrations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/NetBase-Quid-Adds-Visualizations-Language-Support-155257.aspx",
-      "originalUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/NetBase-Quid-Adds-Visualizations-Language-Support-155257.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/148232-1022_WFO_NICE_480x610-ORG.png",
-          "width": 480,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
         "images": null,
         "publishers": null,
         "authors": null

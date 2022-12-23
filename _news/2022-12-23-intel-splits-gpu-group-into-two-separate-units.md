@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3684112/intel-splits-gpu-group-
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3684112/intel-splits-gpu-group-into-two-separate-units.amp.html"
 type: article
 quality: 59
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel struggles to maintain discrete GPU business"
+    excerpt: "Intel may find it increasingly difficult to maintain its discrete GPU business amid macro challenges and intense competition from AMD and Nvidia, according to sources at graphics card makers."
+    publishedDateTime: 2022-12-23T01:02:00Z
+    webUrl: "https://www.digitimes.com/news/a20221222PD211/amd-discrete-gpu-discrete-graphics-card-intel-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20221222pd211_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Intel Splits Graphics Chip Unit Into Two, Consumer Graphics Division to Join Client Computing Group"
     excerpt: "The consumer graphics unit will be combined with Intel 's client computing group, which makes chips for personal computers, while accelerated computing teams will join its data centre and artificial intelligence (AI) business,"
     publishedDateTime: 2022-12-22T05:34:00Z

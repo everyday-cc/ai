@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-23-ai-and-the-future-of-work-will-artificial-intelligence-affect-the-workforce.md",
+      "title": "AI and the future of work: will Artificial Intelligence affect the workforce?",
+      "excerpt": "One of the biggest questions this year: how long will we have our jobs? Here’s looking at how generative AI will transform knowledge work in the next decade",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/ai-artificial-intelligence-future-of-work-affect-jobs-workforce/article66287714.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/ai-artificial-intelligence-future-of-work-affect-jobs-workforce/article66287714.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/life-and-style/gjmen1/article66287716.ece/alternates/FREE_1200/AI%20artificial%20intelligence%20and%20jobs%20on%20Stable%20Diffusion%20v1.5.jpeg",
+          "width": 1200,
+          "height": 825,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/ai-artificial-intelligence-future-of-work-affect-jobs-workforce/article66287714.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ai-artificial-intelligence-future-of-work-affect-jobs-workforce/article66287714.ece/amp/",
+      "publishedDateTime": "2022-12-23T00:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-23-think-globally-act-locally-starting-small-with-ai-can-make-a-big-impact.md",
       "title": "Think globally, act locally: Starting small with AI can make a big impact",
       "excerpt": "Businesses should be careful and strategic in implementing AI. Determine long-term goals, start with small projects and know when to scale.",
@@ -312,7 +354,7 @@
       "originalUrl": "https://www.networkworld.com/article/3684112/intel-splits-gpu-group-into-two-separate-units.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1196,59 +1238,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic.md",
-      "title": "AI In Big Pharma: The First Antibody Designed Using AI In The Clinic",
-      "excerpt": "In recent years, a hand full of AI startup companies that managed to utilize AI/ML to discover novel targets and/or design therapeutics reached human clinical trials and received massive media attention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/12/21/ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic/",
-      "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/12/21/ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63a32fd78cc45940bdc9d411/0x0.jpg?format=jpg&crop=1502,1002,x0,y41,safe&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/12/21/ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2022/12/21/ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic/amp/",
-      "publishedDateTime": "2022-12-21T08:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "IBM AI"
       ]
     }
   ],

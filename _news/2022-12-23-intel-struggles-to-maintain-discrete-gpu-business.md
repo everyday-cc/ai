@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Intel splits up GPU division AXG Graphics Group"
-excerpt: "Intel will split its Accelerated Computing Systems and Graphics Group (AGX) into two different branches. Consumer GPUs move to the Client Compute Group"
-publishedDateTime: 2022-12-22T13:08:00Z
-originalUrl: "https://www.techzine.eu/news/infrastructure/97937/intel-splits-up-gpu-division-axg-graphics-group/"
-webUrl: "https://www.techzine.eu/news/infrastructure/97937/intel-splits-up-gpu-division-axg-graphics-group/"
+title: "Intel struggles to maintain discrete GPU business"
+excerpt: "Intel may find it increasingly difficult to maintain its discrete GPU business amid macro challenges and intense competition from AMD and Nvidia, according to sources at graphics card makers."
+publishedDateTime: 2022-12-23T01:02:00Z
+originalUrl: "https://www.digitimes.com/news/a20221222PD211/amd-discrete-gpu-discrete-graphics-card-intel-nvidia.html"
+webUrl: "https://www.digitimes.com/news/a20221222PD211/amd-discrete-gpu-discrete-graphics-card-intel-nvidia.html"
 type: article
-quality: 19
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: techzine
-  domain: techzine.eu
+  name: Digi Times
+  domain: digitimes.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://img.digitimes.com/newsshow/20221222pd211_files/2_2b.jpg"
+    width: 1280
+    height: 853
+    isCached: true
 
 related:
   - title: "Intel splits GPU group into two separate units"
@@ -35,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Intel struggles to maintain discrete GPU business"
-    excerpt: "Intel may find it increasingly difficult to maintain its discrete GPU business amid macro challenges and intense competition from AMD and Nvidia, according to sources at graphics card makers."
-    publishedDateTime: 2022-12-23T01:02:00Z
-    webUrl: "https://www.digitimes.com/news/a20221222PD211/amd-discrete-gpu-discrete-graphics-card-intel-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20221222pd211_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Intel Splits Graphics Chip Unit Into Two, Consumer Graphics Division to Join Client Computing Group"
     excerpt: "The consumer graphics unit will be combined with Intel 's client computing group, which makes chips for personal computers, while accelerated computing teams will join its data centre and artificial intelligence (AI) business,"
     publishedDateTime: 2022-12-22T05:34:00Z
@@ -65,7 +57,16 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel splits up GPU division AXG Graphics Group"
+    excerpt: "Intel will split its Accelerated Computing Systems and Graphics Group (AGX) into two different branches. Consumer GPUs move to the Client Compute Group"
+    publishedDateTime: 2022-12-22T13:08:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/97937/intel-splits-up-gpu-division-axg-graphics-group/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 19
 
-secured: "ALT24wM7qivOVsKmOqBLFjo+HGhhckDe0LV1mljceJ48fEaodnIvqUc7WoappG8aqiVgGdNRlcKhe1mkRQaDvLBTTREvzAbnx44TKol144dsQE+HCbquEMNdft+suzVFM8CHAZDDieyF+M/knMNTd2xCzcqVqqpoBed8xn+BZTHpTa3+cadQuQt362z1g3bnw98Y2aTnpzH9zkaJD3Eege8J/dRctFDCiu2mr7wjbcLMWgS9h7xue+TEUiYmIDHoofm+Co6VveYGS6EBwOmkLr8xvakISycysSGzIezvDi/4+VtcQYix4LYfxuLMsdpKZ1hmqv/mF4YADtW1kIv79mhO64OvLhHE9hnU5GxSho4=;TBL5O5Q1HaSQmj3XsL9VrQ=="
+secured: "qGpkTUvRS3wxsLVh+7Meaq//H0eV929+MCplzKhQtgMMpStTuadrW7zHtzayTm+NZnHj7qy/idXP6RhrBIOMwCMCe7sqewcBRpTK9MwbzziIRDz7B73B4FgJqP7a3K0ZVjeW2IoFpH6jRr1ZfEL+5KwY+UYzswgAhzqSzQSYXGE6t1g6ZIDzcngadAsjtH76yDyDJVkBHz1E9zlYVYYJiKv74lgG562I7TxS+aYE9LaC2oNt7gBzbOuolY/vGM9azCisPcu4G4wKZ7cApYeBlTFrk+M0AE3T3FeaOf1IBCNBR87r7D5dIyjenEUeq7R6BkA8LiozdDDThgeYa/abdrf6Da3qRoY+i8llIiVNVO0=;tKDDtADOwPWqV7MgWdM3Ug=="
 ---
 

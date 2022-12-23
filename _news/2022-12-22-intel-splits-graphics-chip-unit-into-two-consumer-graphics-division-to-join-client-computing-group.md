@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Intel struggles to maintain discrete GPU business"
+    excerpt: "Intel may find it increasingly difficult to maintain its discrete GPU business amid macro challenges and intense competition from AMD and Nvidia, according to sources at graphics card makers."
+    publishedDateTime: 2022-12-23T01:02:00Z
+    webUrl: "https://www.digitimes.com/news/a20221222PD211/amd-discrete-gpu-discrete-graphics-card-intel-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20221222pd211_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Intel splits up GPU division AXG Graphics Group"
     excerpt: "Intel will split its Accelerated Computing Systems and Graphics Group (AGX) into two different branches. Consumer GPUs move to the Client Compute Group"
     publishedDateTime: 2022-12-22T13:08:00Z

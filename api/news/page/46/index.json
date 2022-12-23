@@ -2,6 +2,146 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2022-11-15-prehistoric-predator-artificial-intelligence-says-no.md",
+      "title": "Prehistoric predator? Artificial intelligence says no",
+      "excerpt": "Artificial intelligence has revealed that prehistoric footprints thought to be made by a vicious dinosaur predator were in fact from a timid herbivore.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.html",
+      "originalUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/prehistoric-predator-a.jpg",
+          "width": 2880,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-prehistoric-predator-artificial-intelligence.amp",
+      "publishedDateTime": "2022-11-15T01:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools.md",
+      "title": "IIT Jodhpur, Swiggy join hands to develop facial recognition tools",
+      "excerpt": "This partnership was established when Swiggy recognised the need for an AI-driven capability that can automatically detect and extract faces from various types of images and selfies.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/education/iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools-8269419/lite/",
+      "originalUrl": "https://indianexpress.com/article/education/iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools-8269419/lite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/11/IIT-Jodhpur-1-1.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/education/iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools-8269419/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/iit-jodhpur-swiggy-join-hands-to-develop-facial-recognition-tools-8269419/lite/",
+      "publishedDateTime": "2022-11-15T00:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-deep-learning-system-market-is-dazzling-worldwide-size-share-demand-and-analysis-by-2028.md",
+      "title": "Deep Learning System Market Is Dazzling Worldwide | Size, Share, Demand and Analysis by 2028",
+      "excerpt": "Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 90 Pages Report Global “Deep",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-is-dazzling-worldwide-size-share-demand-and-analysis-by-2028-2022-11-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-is-dazzling-worldwide-size-share-demand-and-analysis-by-2028-2022-11-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T22:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-italy-outlaws-facial-recognition-tech-except-to-fight-crime.md",
       "title": "Italy outlaws facial recognition tech, except to fight crime",
       "excerpt": "REUTERS/Guglielmo Mangiapane/File Photo MILAN, Nov 14 (Reuters) - Italy prohibited the use of facial recognition and 'smart glasses' on Monday as its Data Protection Agency issued a rebuke to two ...",
@@ -1006,155 +1146,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-best-practices-for-bolstering-machine-learning-security.md",
-      "title": "Best practices for bolstering machine learning security",
-      "excerpt": "New considerations are necessary as more businesses adopt machine learning at scale. In association withCapital One Nearly 75% of the world’s largest companies have already integrated AI and machine learning (ML) into their business strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/11/14/1062881/best-practices-for-bolstering-machine-learning-security/",
-      "originalUrl": "https://www.technologyreview.com/2022/11/14/1062881/best-practices-for-bolstering-machine-learning-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/11/180913390_1200.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/11/14/1062881/best-practices-for-bolstering-machine-learning-security/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/14/1062881/best-practices-for-bolstering-machine-learning-security/amp/",
-      "publishedDateTime": "2022-11-14T07:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-giraffe-ai-labs-participated-in-singapore-fintech-festival-in-nov-2022.md",
-      "title": "Giraffe AI Labs participated in Singapore Fintech Festival in Nov 2022",
-      "excerpt": "Giraffe AI Labs announced on 7 November 2022 that it participated in the Singapore Fintech Festival (SFF) 2022",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/giraffe-ai-labs-participated-in-singapore-fintech-festival-in-nov-2022-2022-11-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/giraffe-ai-labs-participated-in-singapore-fintech-festival-in-nov-2022-2022-11-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-silicon-valley-chip-startup-cerebras-unveils-ai-supercomputer.md",
-      "title": "Silicon Valley chip startup Cerebras unveils AI supercomputer",
-      "excerpt": "Nov 14(Reuters) - Silicon Valley startup Cerebras Systems, known in the industry for its dinner plate-sized chip made for artificial intelligence work, on Monday unveiled its AI supercomputer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/silicon-valley-chip-startup-cerebras-unveils-ai-supercomputer-2022-11-14/",
-      "originalUrl": "https://www.reuters.com/technology/silicon-valley-chip-startup-cerebras-unveils-ai-supercomputer-2022-11-14/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/X6BvTKg1qgtNP1KK2SsEO00zaJM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WYSQLIVVLRILDAPGVO3O6B37DI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

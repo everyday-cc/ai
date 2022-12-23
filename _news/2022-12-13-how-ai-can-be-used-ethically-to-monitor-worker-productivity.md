@@ -3,8 +3,8 @@ category: news
 title: "How AI Can Be Used Ethically to Monitor Worker Productivity"
 excerpt: "Morgan Lewis’s Amy Schuh offers guidance for companies looking to employ AI to monitor their workforce. She shares important questions to ask beyond AI’s intended uses, and potential unintended consequences."
 publishedDateTime: 2022-12-13T09:00:00Z
-originalUrl: "https://news.bloomberglaw.com/business-and-practice/how-ai-can-be-used-ethically-to-monitor-worker-productivity"
-webUrl: "https://news.bloomberglaw.com/business-and-practice/how-ai-can-be-used-ethically-to-monitor-worker-productivity"
+originalUrl: "https://news.bloomberglaw.com/us-law-week/how-ai-can-be-used-ethically-to-monitor-worker-productivity"
+webUrl: "https://news.bloomberglaw.com/us-law-week/how-ai-can-be-used-ethically-to-monitor-worker-productivity"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 368
     isCached: true
 
-secured: "MaDkxye2IAD8b9GoljX2ncaB1kWQ25Z81/CuJH9FKTmnRXR34Ahv+6kdjz3VJj6rJGyUkfXOne3jyfgWIKH/hxPtsS6n+jlww64aePyIhAMbGId48cboxwQW60tULmzDJrX2/4yXXCRtXPu5gEuO/ooJs/Ott4SqiqgMDUefZFetSMugLdBFqFXcbYO7Wm5PidKQ48p7N0qjrR4ldyaB7bZKPDuK2c4QkTeGmw13eAaevVL7tgCUXLIm5wlgjqeYBPiRm5BOGxUQb+X0UBsvKFbilgXcmtMMhUf0pahaVitOgwcAhNktHUghf4Qtf1MihrioE+tvYpQlZ9rnmwVVJYRJyhiR+Sx/AmcP/aCZ50lEnZjWbQIdbFP9VV7rem2FYYRavNvxgJJ1FRGJijEUSvxAeKTSkeCyZ9ENhmR7FAGl+v+3AJNhAr8aB4WyIcWUTodgERlZRMasMiklqble9/aLX9IT/imETaxt+HyJbXTC287FP8fVGlbV1q5Ss+rVNrcbc8hy8ziqcqVWWjHibA==;BNxLCQvjCHHAh3uJzGRG3w=="
+secured: "Q0QmeMG+Lcck4RF/Uf5cTsJ5AGAXvG3Rsyv0IsRuDGvEBVKJOig0xuisM3IteTkFOtb/qlI4HozMnm+zMHxlnF3QYBTOzGbR6EGofZgNGhajeyEQKVfYos6R13JsqfYGqGgU2WQSoMJpvVIF9QoMmi9tkCsoUGy1ICTexfp+sq+u3vRwXzMAfhe5HbHv+3tpieYIDXJlNsfn6JRTAS2sjVnmL3rokNECCHTSrP/L4aebcH9/DpNZIL+it5IndCXwKrlYwLApTgMZFH4CWN99SCDXIMzmSyAYN6G+7A0N13mLg0PD4qf45p0AvTaaxdqkF47O/cGziTf9n/XLJARb+HIWlT1inPAWITDzCCUb2r4=;LkVJjWIZxYIDH2zPL+3eyA=="
 ---
 

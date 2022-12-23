@@ -2,6 +2,154 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2022-11-11-computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028.md",
+      "title": "Computer Vision Development Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028",
+      "excerpt": "Nov 11, 2022 (The Expresswire) -- \"Computer Vision Development Market\" Research Report gives detailed facts with consideration to market size, cost",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-11-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-11-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T21:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-young-onset-dementia-how-to-beat-cognitive-decline.md",
+      "title": "Young-onset dementia: how to beat cognitive decline",
+      "excerpt": "Dementia is a disease most often associated with growing old, the consequence of progressive decline in cognitive ability that gradually causes problems with memory, thinking and problem-solving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.irishexaminer.com/lifestyle/healthandwellbeing/arid-41003897.html",
+      "originalUrl": "https://www.irishexaminer.com/lifestyle/healthandwellbeing/arid-41003897.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.irishexaminer.com/cms_media/module_img/6571/3285659_5_seoimageog_GettyImages-1309122635_1_.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Irish Examiner",
+        "domain": "irishexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-japan-to-invest-up-to-500-mln-in-new-advanced-chip-development-company.md",
+      "title": "Japan to invest up to $500 mln in new advanced chip development company",
+      "excerpt": "that aims to re-establish Japan as a leading maker of advanced chips. \"Semiconductors are going to be a critical component for the development of new leading edge technologies such as AI, digital industries and in healthcare,\" Minister of Economy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/japan-invest-up-500-mln-new-advanced-chip-development-company-2022-11-11/",
+      "originalUrl": "https://www.reuters.com/technology/japan-invest-up-500-mln-new-advanced-chip-development-company-2022-11-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/-HGRp8TetewRZxXkozlMWTm3HlI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WPRHXI73MBPX5J54LYWMQ7XQME.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T16:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone.md",
       "title": "Stable Diffusion in your pocket? “Draw Things” brings AI images to iPhone",
       "excerpt": "Introduced in August, Stable Diffusion (SD) is an AI image generator model that creates novel images ... When running locally, SD requires a fairly beefy GPU to generate images quickly, but some developers optimized the model to run on older GPUs with ...",
@@ -1048,144 +1196,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-ibms-latest-quantum-computing-processor-triples-the-qubits-of-its-predecessor.md",
-      "title": "IBM's latest quantum computing processor triples the qubits of its predecessor",
-      "excerpt": "IBM's latest quantum computing processor ... to tackle calculations of much greater complexity in fields such as artificial intelligence, and the design of new materials for drug discovery and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/ibm-quantum-computing-processor-osprey-140042059.html",
-      "originalUrl": "https://www.engadget.com/ibm-quantum-computing-processor-osprey-140042059.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/b1208170-5ec1-11ed-ad7f-0a8837a7224a",
-          "width": 1517,
-          "height": 894,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/ibm-quantum-computing-processor-osprey-140042059.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ibm-quantum-computing-processor-osprey-140042059.html",
-      "publishedDateTime": "2022-11-10T04:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-blnk-a-fintech-that-provides-instant-consumer-credit-in-egypt-raises-32m-in-debt-and-equity.md",
-      "title": "Blnk, a fintech that provides instant consumer credit in Egypt, raises $32M in debt and equity",
-      "excerpt": "One of these options, consumer loans, is being explored by Blnk, a fintech launched last October ... within underserved communities across the country” and support its “AI-powered” lending infrastructure. Customers who use Blnk at the point ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/10/blnk-a-fintech-that-provides-instant-consumer-credit-in-egypt-raises-32m-in-debt-and-equity/",
-      "originalUrl": "https://techcrunch.com/2022/11/10/blnk-a-fintech-that-provides-instant-consumer-credit-in-egypt-raises-32m-in-debt-and-equity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/648DA3A2-B228-4346-96A6-10CD2E276BDB.jpeg",
-          "width": 1170,
-          "height": 687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/10/blnk-a-fintech-that-provides-instant-consumer-credit-in-egypt-raises-32m-in-debt-and-equity/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/blnk-a-fintech-that-provides-instant-consumer-credit-in-egypt-raises-32m-in-debt-and-equity/amp/",
-      "publishedDateTime": "2022-11-10T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-tech-giant-microsoft-to-invest-1b-plus-in-north-carolina-data-center-operations.md",
-      "title": "Tech giant Microsoft to invest $1B-plus in North Carolina data center operations",
-      "excerpt": "Microsoft Corp. will invest at least $1 billion within 10 years in data center operations in Catawba County, the technology giant revealed Wednesday. The announcement came after the Catawba County Board of Commissioners,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/triad/news/2022/11/10/catawba-county-microsoft-expansion-data-center.html",
-      "originalUrl": "https://www.bizjournals.com/triad/news/2022/11/10/catawba-county-microsoft-expansion-data-center.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T03:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

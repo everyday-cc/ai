@@ -2,6 +2,135 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2022-10-04-artificial-intelligence-used-to-better-monitor-maines-forests.md",
+      "title": "Artificial intelligence used to better monitor Maine's forests",
+      "excerpt": "Monitoring and measuring forest ecosystems are complex challenges because software, collection systems and computing environments require increasing amounts of energy. Now, the University of Maine's Wireless Sensor Networks laboratory,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-10-artificial-intelligence-maine-forests.html",
+      "originalUrl": "https://phys.org/news/2022-10-artificial-intelligence-maine-forests.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/maine-forest.jpg",
+          "width": 1800,
+          "height": 1362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-10-artificial-intelligence-maine-forests.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-artificial-intelligence-maine-forests.amp",
+      "publishedDateTime": "2022-10-04T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate.md",
+      "title": "Meta seeks to accelerate AI inference with open-source AITemplate",
+      "excerpt": "Meta is open sourcing its AITemplate technology that enables AI inference to run across multiple hardware vendors, with the claim of better performance.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate/",
+      "originalUrl": "https://venturebeat.com/ai/meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/04/screen-shot-2017-04-18-at-10-04-14-am.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate/amp/",
+      "publishedDateTime": "2022-10-04T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-artificial-intelligence-and-health-care-what-premeds-should-know.md",
+      "title": "Artificial Intelligence and Health Care: What Premeds Should Know",
+      "excerpt": "With the advent of electronic medical records and wearable technology, data is becoming exponentially abundant in health care. Artificial intelligence has the potential to reshape medicine. For ...",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/news/2022/10/artificial-intelligence-and-health-care-what-premeds-should-know/",
+      "originalUrl": "https://wtop.com/news/2022/10/artificial-intelligence-and-health-care-what-premeds-should-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wtop.com/news/2022/10/artificial-intelligence-and-health-care-what-premeds-should-know/amp/",
+      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2022/10/artificial-intelligence-and-health-care-what-premeds-should-know/amp/",
+      "publishedDateTime": "2022-10-04T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-robots-are-making-french-fries-faster-better-than-humans.md",
       "title": "Robots are making French fries faster, better than humans",
       "excerpt": "PASADENA, Calif. (Reuters) -Fast-food French fries and onion rings are going high-tech, thanks to a company in Southern California. Miso Robotics Inc in Pasadena has started rolling out its Flippy 2 robot,",
@@ -989,153 +1118,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-advances-in-computer-vision-propel-transportation-autonomy.md",
-      "title": "Advances In Computer Vision Propel Transportation Autonomy",
-      "excerpt": "Autonomous self-driving car is recognizing road signs. Computer vision and artificial intelligence ... [+] concept. Vision is a powerful human sensory input. It enables complex tasks and processes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/",
-      "originalUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6331c112fe78f82ae6dd5384/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/amp/",
-      "publishedDateTime": "2022-10-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-artificial-intelligence-continues-to-transform-healthcare.md",
-      "title": "Artificial Intelligence Continues to Transform Healthcare",
-      "excerpt": "Artificial intelligence is finding its way into healthcare at an astonishing rate. A new collaboration between Novartis Pharmaceuticals and Anumana is the latest example of how both pharma and medtech are embracing AI. The multi-year strategic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-311.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-white-house-proposes-voluntary-safety-and-transparency-rules-around-ai.md",
-      "title": "White House proposes voluntary safety and transparency rules around AI",
-      "excerpt": "In five bullet points crafted with feedback from the public, companies like Microsoft and Palantir and human rights and AI ethics groups, the document lays out safety, transparency and privacy ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/",
-      "originalUrl": "https://techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1297487090.jpeg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/amp/",
-      "publishedDateTime": "2022-10-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
