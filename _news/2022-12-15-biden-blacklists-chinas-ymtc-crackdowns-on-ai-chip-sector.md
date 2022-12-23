@@ -1,24 +1,20 @@
 ---
 category: news
-title: "Biden Blacklists China's YMTC, Crackdowns on AI Chip Sector"
-excerpt: "The 21 Chinese AI chip entities being added to the trade blacklist, which include Cambricon Technologies Corp and CETC, face an even tougher penalty, with the U.S. government effectively blocking ..."
-publishedDateTime: 2022-12-15T13:59:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2022-12-15/biden-to-blacklist-chinas-ymtc-crackdown-on-ai-chip-sector"
-webUrl: "https://money.usnews.com/investing/news/articles/2022-12-15/biden-to-blacklist-chinas-ymtc-crackdown-on-ai-chip-sector"
+title: "Biden blacklists China's YMTC, crackdowns on AI chip sector"
+excerpt: "WASHINGTON (Reuters) -The Biden administration on Thursday added Chinese memory chipmaker YMTC and 21 \"major\" Chinese players in the artificial intelligence chip sector to a trade blacklist ..."
+publishedDateTime: 2022-12-15T14:34:00Z
+originalUrl: "https://gazette.com/news/us-world/biden-blacklists-chinas-ymtc-crackdowns-on-ai-chip-sector/article_185a7193-0885-5637-b578-67f1f8527c7e.html"
+webUrl: "https://gazette.com/news/us-world/biden-blacklists-chinas-ymtc-crackdowns-on-ai-chip-sector/article_185a7193-0885-5637-b578-67f1f8527c7e.html"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Gazette
+  domain: gazette.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "WPoISwrOM9TME5NSVLeGNgw3+G/q2tDewXCT+7jMW3YCN/ulHw1wMc/HNE3DON9ze3R4xT68UWhzehVr4Ko/gRwvTYpCWuTurKTb7aZ705d3d99HKF6dR8Gdco1me+H5GVczTDRtuZynipC4QRW1MkA0OOk2ibmKMA6a+ANfzX5/mGOMYGPVfVh3rdMrXE49y+TPC2APgKqtgGrOEvB845iWnZyGhhMD1UoHw4BoaX0JJFYCVQ7cBW9tok69NHajYKU7Zt3OvffZ/boPvLLPrb20B6LSd78Yzf4wZsfsUUPJa2gNnzMFcBCKL1qQLU960RalBFQyjjiYO7Q/F5cfDlqhuh00N14hjQb7W0NcUMU=;EuLl1c55eJbeDrnOfPBLMg=="
+secured: "KbHvnkzdTrYG9ux04Ud7nG6i3qEFSbm+wDMa0EOU7xxkMvMK0YE0MBwBIz8Fn0hiihBgEtpm4gy0yd9Sk3x1zvdqNbkd4VvjMkoCut1/0qR9uz4o718iaMtnIFqVv3YAnuvdq3Z/Q8E7GOtvJFmluXoygULN7o7EE6pySgIqzYFDSuxcdzRT2j/6Rnm7fKA0GUMpOREobJVohOo3SC+zpdcJEI+T0l/mLKMzESIByMZyLVMPqYkJ9/zTq+1UZoNCwncqg00aJ2L01gs4vHrWlF8cALowEXJ7jxqjCJplm/QDZiMUKT1I/5mIs0aCM7FlojfFkOVfxrzbMsPjmyXfC0mJ+wPDyQzgrjJA0Rswyok=;kctj9SujV4lmhb3m/UlrFg=="
 ---
 
