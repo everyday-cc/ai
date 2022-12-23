@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2022/12/19/1064921/ai-based-data-an
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/19/1064921/ai-based-data-analytics-enable-business-insight/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: MIT Technology Review
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "How analytics and AI can help you build a better customer experience"
+    excerpt: "With the help of advanced technology, you can improve customer engagement and retention."
+    publishedDateTime: 2022-12-23T18:21:00Z
+    webUrl: "https://www.businessinsider.com/sc/how-analytics-and-ai-can-help-you-build-a-better-customer-experience"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/63a34e92ae4bde0019503d8c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Advancing artificial intelligence and data analytics"
     excerpt: "NASA computing and data science people are collaborating to find mission-related applications for artificial intelligence. For their work, they recently received an award from"
     publishedDateTime: 2022-12-19T22:37:00Z

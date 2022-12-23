@@ -8,8 +8,8 @@ webUrl: "https://www.republicworld.com/technology-news/other-tech-news/chat-gpt-
 ampWebUrl: "https://www.republicworld.com/amp/technology-news/other-tech-news/chat-gpt-3-a-look-at-the-artificial-intelligence-backed-chat-bot-articleshow.html"
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/other-tech-news/chat-gpt-3-a-look-at-the-artificial-intelligence-backed-chat-bot-articleshow.html"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/uxvx7l2h1zwplqbe_1671806696.jpeg"
@@ -26,6 +27,6 @@ images:
     height: 438
     isCached: true
 
-secured: "zKIWkhr0vT4W1N/uc65vVu7xWykOwie+9VcQ9mJdjxgEId61eXRkkTChc4CLkl4VQhPx/utxma0TUxUXXOxbyNymC02L1r0u3fQSiOvWK+Tmyr90NkVul9084EotkiJM4qt9TWQ3pnQ5FFGmMRuaSP5fzeJXKTNGp0bScs3O+9QKLEfNLIeAnU0N4QpKAwFMrWvZOerGhll9Q+X9d+bpYDyRwNzjZtFuFDlwczpQEESU63EcWxrweEFvdcC31daCiO5lotc5uKt1YHAoe4paal0t6Sfik1jNmLCVvobAAHceGszM5+K77f0DEFDkm7ow9YXDxe8HanTgaUetqz679daa+zgB4qcOFhcLCKkhiWg=;HZKOvzUxBo/de9MjKPNYPA=="
+secured: "fdq7G0Ze+SFPFL8BcfF6Nm7nfmbjamwSOGbcVA5qeOwYVAjlCrmI6mq4QoMeA+SDbaAlQMmAiLzrzpNRr/0JY3DjmqtjOxYRgAGUgl2vwHCsYyAh/cb7Bb6ebXwTOmUEaZNxGOwBc+NICKlX5nKyxfqLrIWgMSNqb3tzEd2RYYFCGY0WqL+QYy5+bJ9XETApMNB7puOvRJbfviQg24QkKgbbztDI+46DY4ldiVFFW4RtH+IhEVPwx8JQZ83kIlbcjoJnU3yatQ3OMgRvpa4ITxqNh8xnqJQQYTgJLi5tPya4yVLaLTn4mJOQFQUEE6VUiIZ4l3IGOoI3hhXE1zIFXwicOpeE14JYDOEk6rhBtyQbK7nDKAThFUbKpa9s2Hu+Gg8y5RPoIVdglfMLZ2N/3ic6jL0h3/7JPvC56AzqQ9XKz51u58CqTe7hrrNrCzT+T+vTzxEjcilYVGolHWTw34e9rT8+pkyvHfX8bsQeJqwWBslEKy0pXNfOi0ZP1j1gI64t95Z9QsWimmZpoloyrQ==;t5vyG/rIFzzur8RSuTbKZA=="
 ---
 

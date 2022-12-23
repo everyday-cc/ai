@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "How analytics and AI can help you build a better customer experience"
+    excerpt: "With the help of advanced technology, you can improve customer engagement and retention."
+    publishedDateTime: 2022-12-23T18:21:00Z
+    webUrl: "https://www.businessinsider.com/sc/how-analytics-and-ai-can-help-you-build-a-better-customer-experience"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/63a34e92ae4bde0019503d8c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AI-based data analytics enable business insight"
     excerpt: "For the music industry, it creates tremendous opportunities to collect, analyze, and monetize data about our listening habits. That was the directive SK Sharma was given in 2016, when he was hired as chief analytics and AI officer by Ingrooves Music Group,"
     publishedDateTime: 2022-12-19T16:22:00Z

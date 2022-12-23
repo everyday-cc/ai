@@ -96,20 +96,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Top Fintech Events Taking Place in Asia in Q1 2023"
-    excerpt: "With 2023 just around the corner, we’ve curated a list of the most highly anticipated fintech events and conferences taking place in the region in first quarter of the year that will help industry professionals and stakeholders keep up with this fast-evolving landscape."
-    publishedDateTime: 2022-12-19T02:47:00Z
-    webUrl: "https://fintechnews.sg/67679/events/top-fintech-events-taking-place-in-asia-in-q1-2023/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/12/Top-Fintech-Events-Taking-Place-in-Asia-in-Q1-2023.png?x64868"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "CPS Announces New FinTech-Driven Automotive Financing Platform Enhancements"
     excerpt: "CPS expects Informed.IQ’s AI tools to significantly reduce the funding time. For decades, CPS has focused on bringing improved intelligence to auto lending, becoming a leader in FinTech initiatives that enhance the front-end review and financial decision-making process."
     publishedDateTime: 2022-12-19T13:31:00Z

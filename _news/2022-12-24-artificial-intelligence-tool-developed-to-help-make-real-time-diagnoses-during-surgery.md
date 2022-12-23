@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2022-12-artificial-intelligence-tool-rea
 ampWebUrl: "https://medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.amp"
 type: article
-quality: 51
-heat: 61
+quality: 53
+heat: 63
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/surgery-5.jpg"
@@ -37,6 +38,6 @@ related:
       domain: fastcompany.com
     quality: 17
 
-secured: "fzOCdAW+mnCWnU0V5uMp8jqfh1TBVHoA1az9HATazdnokkQw4I2nlExOuVJJR8aTKe199LAySggwEW/2GXnWzt5kZPuADZvCkxuSuHVoVav/jwGhVRo5+YRmFxrWI9U+QICJbjbrhGGGMctQUNvh4rSPqrssFAWelEop6dMHJNVxfA3JD2LmptIngEr0OKDVL9drMS2yWd3N2rDRdpX/LIz5XARYiAdDcPIakDWaIrA+CMMm4S9PvxmWCenaGjUuLwtRnQFsMlQureNNoQbVSHgcHK08Gr6bFQ5VO1UX8zgy/tIuEqvNGODxeMcNoWlgFs2LbpT1gnlf2ezl6cCjjkKFDgOuZ59mAAr2ibTDT0k=;0XWXRk4gc3Y1yFJRFTnjWw=="
+secured: "YHUQfeMYFnEzkTLNUGm0uojsG3HgExfKJIwNz5uVfRu6ju4ZqMOuWd9z8BWoniMEA+Jq4B4wOBHQekjcN1VLbcWauwbHOZmiiaaTMYV7WlN2sSUA0pzhBtNL1IjZZ+c+R2a8s9atKBsJHBT2WKV5DdtSQ7cQMe4c1OqI8oA6v5/1xFpxn/rQmVVQYETEAmQ1Ms6RpfLdWWULv1zyTAB5lt862IeinT6JgN3vLGDhltRoy60pKLkQ8qS0ih3Ps5/3zYPuWfsKPC0GGhwMfhk3ljxOtCdwmG1hgGxwv1HPhrzfLInwDiN9dILc2md96FTW7HjvHuGtbGHgU+6ppzrFvNUH7NjHZFnHuoSE19GS96FUuzkSab/zSiO+pTbXD33tSubtoS58Qro6cQW9Lnryx4GfGaX7P0odSKWaPkpT6/EJG076l4tGxqJVLRe/3qO6oK03vORuMMBmr6tmzSwatFg1hC5+821FSl85EsvwDEgw+sRsmZIZNDTov95F7h3KgAZ3ymfYUEG8SiTVRms6KA==;taIV27aiPcuw5e+h2TXPWg=="
 ---
 

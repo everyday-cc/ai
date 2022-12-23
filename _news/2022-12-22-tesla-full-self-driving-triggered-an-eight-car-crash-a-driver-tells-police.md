@@ -47,6 +47,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "A Tesla in 'full-self-driving' mode caused an 8-car crash in California and injured 9 people, report says"
+    excerpt: "It appears Tesla's \"phantom braking\" problem, already under federal investigation, may be to blame for a Thanksgiving day crash."
+    publishedDateTime: 2022-12-23T18:11:00Z
+    webUrl: "https://www.businessinsider.com/teslas-fsd-car-crash-california-phantom-braking-2022-12"
+    ampWebUrl: "https://www.businessinsider.com/teslas-fsd-car-crash-california-phantom-braking-2022-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/teslas-fsd-car-crash-california-phantom-braking-2022-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/63a5ee1ef0d34c0018bc418e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Driver claims Tesla self-driving software triggered Thanksgiving Bay Bridge crash"
     excerpt: "A driver told authorities that their Tesla's \"full-self-driving\" software braked unexpectedly on Thanksgiving, triggering an eight-car injury accident on the Bay Bridge​."
     publishedDateTime: 2022-12-21T20:11:00Z
@@ -106,6 +122,22 @@ related:
       - url: "https://www.reuters.com/resizer/1kgipieDg6sut8wSZk9syGF_-oE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y3OSX6DIBVMORJAHNK4VN5UGPU.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Tesla driver blames self-driving mode for eight-car pileup"
+    excerpt: "A driver says an eight-car pileup on Thanksgiving Day was the result of his Tesla's Full Self-Driving mode malfunctioning."
+    publishedDateTime: 2022-12-23T17:30:00Z
+    webUrl: "https://www.popsci.com/technology/tesla-crash-full-self-driving-mode-san-francisco/"
+    ampWebUrl: "https://www.popsci.com/technology/tesla-crash-full-self-driving-mode-san-francisco/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/tesla-crash-full-self-driving-mode-san-francisco/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2022/12/23/Depositphotos_210743456_L.jpg?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
   - title: "Tesla Driver In 8-Vehicle Pileup On Bay Bridge Says Full Self-Driving Malfunctioned"
     excerpt: "The driver of the 2021 Tesla Model S told police that FSD malfunctioned but the accuracy of his statements was yet to be determined, reported Reuters. The police report said if the software malfunctioned,"

@@ -143,20 +143,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Neural Networks Market Dynamics with Top Players, Gross Margin, Regional Demand, Plans and Demand Status Forecast to 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Artificial"
-    publishedDateTime: 2022-12-19T02:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-dynamics-with-top-players-gross-margin-regional-demand-plans-and-demand-status-forecast-to-2028-2022-12-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence & Advanced Machine Learning Market 2023 Expected to Witness the Highest Revenue Growth Over Forecast to 2028"
     excerpt: "\" Artificial Intelligence and Advanced Machine Learning Market \" Insights 2022 - By Applications (Insurance,Banking and Capital Market), By Types (Smart Wallets,Voice-Assisted Bankin), By Segmentation analysis,"
     publishedDateTime: 2022-12-19T08:36:00Z
