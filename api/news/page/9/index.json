@@ -2,6 +2,153 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-12-13-tesla-our-failure-to-make-actual-self-driving-cars-is-not-fraud.md",
+      "title": "Tesla: Our ‘failure’ to make actual self-driving cars ‘is not fraud’",
+      "excerpt": "Tesla CEO Elon Musk has said numerous times since 2015 that Tesla cars would be entirely self-driving in two years, or less. But years after his self-imposed deadlines have blown by, it still hasn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/12/12/business/tesla-fsd-autopilot-lawsuit/index.html",
+      "originalUrl": "https://www.cnn.com/2022/12/12/business/tesla-fsd-autopilot-lawsuit/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221212163026-tesla-car-0630-file-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/12/12/business/tesla-fsd-autopilot-lawsuit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/12/business/tesla-fsd-autopilot-lawsuit/index.html",
+      "publishedDateTime": "2022-12-12T22:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-microsoft-now-requires-verification-for-uk-financial-services-advertisers.md",
+      "title": "Microsoft now requires verification for UK Financial Services advertisers",
+      "excerpt": "Search Engine Land » PPC » Microsoft now requires verification for UK Financial Services advertisers Starting early this year, Microsoft will allow only advertisers duly authorized by the UK ...",
+      "sourceUrl": null,
+      "webUrl": "https://searchengineland.com/microsoft-now-requires-verification-for-uk-financial-services-advertisers-390263",
+      "originalUrl": "https://searchengineland.com/microsoft-now-requires-verification-for-uk-financial-services-advertisers-390263",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://searchengineland.com/wp-content/seloads/2022/12/Shutterstock_1174442599.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T21:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Land",
+        "domain": "searchengineland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability.md",
+      "title": "Amid controversy and emerging regulations around AI for talent management, Beamery emphasizes explainability",
+      "excerpt": "Helping bring explainability to AI in talent management, Beamery announced it has raised $50 million in a series D round of funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/",
+      "originalUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/09/now-hiring-e1670889718739.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/amp/",
+      "publishedDateTime": "2022-12-12T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-did-a-robot-write-this-we-need-watermarks-to-spot-ai.md",
       "title": "Did a Robot write this? we need watermarks to spot AI",
       "excerpt": "And remarkably, it will soon get better. OpenAI is widely expected to release its next iteration known as GPT-4 in the coming months, and early testers say it is better than anything that came before.",
@@ -278,6 +425,49 @@
         "AI",
         "AI Ethics",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-first-global-forum-on-ethics-of-ai-held-in-prague-one-year-after-the-adoption-of-unescos-recommendation.md",
+      "title": "First Global Forum on Ethics of AI held in Prague, one year after the adoption of UNESCO’s Recommendation",
+      "excerpt": "It is in the process of setting up AI Experts without Borders, and the Global Network of Knowledge Centres on Ethics of AI – made up of some of the world’s leading universities and academic centres. To drive forward the gender equality agenda ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.unesco.org/en/articles/first-global-forum-ethics-ai-held-prague-one-year-after-adoption-unescos-recommendation",
+      "originalUrl": "https://www.unesco.org/en/articles/first-global-forum-ethics-ai-held-prague-one-year-after-adoption-unescos-recommendation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unesco.org/sites/default/files/styles/best_image/article/2022-12/GettyImages-476085510%20solarseven.jpg?itok=UGSIckda",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UNESCO",
+        "domain": "unesco.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -955,186 +1145,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-its-not-just-fun-lensa-ai-portrait-app-raises-ethical-privacy-concerns.md",
-      "title": "'It's not just fun': Lensa AI portrait app raises ethical, privacy concerns",
-      "excerpt": "Magic avatars' are the latest internet craze, but one expert says individuals uploading photos of themselves onto the Lensa AI portrait app may not be aware of the ethical and privacy concerns involved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/sci-tech/it-s-not-just-fun-lensa-ai-portrait-app-raises-ethical-privacy-concerns-1.6190874",
-      "originalUrl": "https://www.ctvnews.ca/sci-tech/it-s-not-just-fun-lensa-ai-portrait-app-raises-ethical-privacy-concerns-1.6190874",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/12/12/2582392/_jcr_content/renditions/videothumbnail.1670858793517.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2022/12/12/1_6190874.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2022/12/12/1_6190874.amp.html",
-      "publishedDateTime": "2022-12-12T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-an-ai-stretch-of-the-imagination.md",
-      "title": "An AI-Stretch Of The Imagination",
-      "excerpt": "A key tool to de-risk innovation and democratize data. And the best thing about it, is that while businesses can innovate to the max and offer you better products and services, your privacy remains intact.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61de03f0b6b2eca035a665be/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/",
-      "publishedDateTime": "2022-12-12T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-toggle-ai-introduces-direct-trading-integration-in-partnership-with-interactive-brokers.md",
-      "title": "TOGGLE AI Introduces Direct Trading Integration in Partnership With Interactive Brokers",
-      "excerpt": "TOGGLE AI, the intelligent investing dashboard, introduced today its first direct trading integration in partnership with Interactive Brokers. Interactive Brokers account holders can now execute trades directly on the TOGGLE AI platform,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/technology-science-1b15107c36304fc29d4d2038868f2dac",
-      "originalUrl": "https://apnews.com/article/technology-science-1b15107c36304fc29d4d2038868f2dac",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T05:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-innovations-in-robotics-3d-printing-anomaly-detection-system-iot-based-fusion-welding-ai-based-robotic-exoskeleton-researchandmarketscom.md",
-      "title": "Innovations in Robotics, 3D Printing, Anomaly Detection System, IoT Based Fusion Welding, AI Based Robotic Exoskeleton - ResearchAndMarkets.com",
-      "excerpt": "The “Innovations in Robotics, 3D Printing, Anomaly Detection System, IoT Based Fusion Welding, AI Based Robotic Exoskeleton” report has been added to ResearchAndMarkets.com’s offering. The Advanced Manufacturing Technology Opportunity Engine for the month of September 2022 captures innovations related to robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/technology-science-27a8b41dba004b038947f02624ddefe8",
-      "originalUrl": "https://apnews.com/article/technology-science-27a8b41dba004b038947f02624ddefe8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

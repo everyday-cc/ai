@@ -49,6 +49,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Stalking-horse report on facial recognition in Indian airports draws arrows"
+    excerpt: "The 74-page report about responsible AI has been quickly criticized by the Software Freedom Law Center and IFF for being incomplete."
+    publishedDateTime: 2022-12-20T19:54:00Z
+    webUrl: "https://www.biometricupdate.com/202212/stalking-horse-report-on-facial-recognition-in-indian-airports-draws-arrows"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
 
 secured: "PrfA3zgHGyY8kmdWPKql22plCVGuxjWJ0yGeqjqQgP0mmz9FY3ypPEEjnJ0sSx0mmFPCeGLwjIJoyEmIiPTL/eyH3MuNAic/8MOPhF7fPv0FiVkF2sl5GUImxgFJxBc8VLQdjZYMNcN3W33kwfuAR4bn2C0ScTde7pQqBUqP+Gdk9ft8sR270NyW7xPyoGS+Xmr/QtPehPFj6Se0r9VV06bxXVj3EqPxvz9VLAf2D/cBjFVwgtntW7Z388Azw7c5xvb5wlpuRdJfH96riY+0/hrA7ltWWkwsMKxVPVF6aKjOM5+lMc0PaiVsvVfUGiy7B5Uk2qshsBbWjSObAQBg/XAHbiiFUpLUQd+qbqyJf0E=;YDPi4EoGt+GjCDz0WncQcw=="
 ---

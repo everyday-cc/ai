@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-22-keep-autonomous-killing-machines-off-our-streets-opinion.md",
+      "title": "Keep Autonomous Killing Machines Off Our Streets | Opinion",
+      "excerpt": "Robots are not, yet, autonomous killing machines. Even the rule briefly considered in San Francisco, would have kept a human operator in the decision loop.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/keep-autonomous-killing-machines-off-our-streets-opinion-1768564",
+      "originalUrl": "https://www.newsweek.com/keep-autonomous-killing-machines-off-our-streets-opinion-1768564",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2167946/robot-warriors.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/keep-autonomous-killing-machines-off-our-streets-opinion-1768564?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/keep-autonomous-killing-machines-off-our-streets-opinion-1768564?amp=1",
+      "publishedDateTime": "2022-12-22T02:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-22-airtel-apollo-hospitals-and-aws-carry-out-indias-first-5g-driven-colonoscopy-trial.md",
+      "title": "Airtel, Apollo Hospitals and AWS carry out India’s first 5G-driven colonoscopy trial",
+      "excerpt": "Proving this fact, Bharti Airtel and Apollo Hospitals, along with HealthNet Global, AWS, and Avesha companies, have conducted India’s first 5G-driven, artificial intelligence (AI)-guided colonoscopy trial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fonearena.com/blog/381372/airtel-apollo-hospitals-aws-5g-colonoscopy-trial.html",
+      "originalUrl": "https://www.fonearena.com/blog/381372/airtel-apollo-hospitals-aws-5g-colonoscopy-trial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fonearena.com/blog/wp-content/uploads/2022/10/Airtel-5G-Plus.jpg",
+          "width": 574,
+          "height": 303,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fonearena.com/blog/381372/airtel-apollo-hospitals-aws-5g-colonoscopy-trial.html/amp",
+      "cdnAmpWebUrl": "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/381372/airtel-apollo-hospitals-aws-5g-colonoscopy-trial.html/amp",
+      "publishedDateTime": "2022-12-22T00:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FoneArena",
+        "domain": "fonearena.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-22-aws-reinvent-2022-aims-to-evolve-telcos-into-tech-cos.md",
       "title": "AWS Re:Invent 2022 Aims To Evolve Telcos Into Tech-Cos",
       "excerpt": "Vice President, Security, Carriers and Enterprise Networking, Will Townsend. The Amazon Web Services (AWS) re:Invent conference is decidedly back post-pandemic. He would like to share his insights into some of the more exciting telecom news and announcements that emerged from re:Invent.",
@@ -62,7 +157,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-12-ai-tool-patients-dystonia-botox.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -106,7 +201,7 @@
       "originalUrl": "https://gizmodo.com/mgs-facial-recognition-msg-rockettes-show-1849919528",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -253,7 +348,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/12/21/who-ultimately-owns-content-generated-by-chatgpt-and-other-ai-platforms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -669,7 +764,7 @@
       "originalUrl": "https://venturebeat.com/ai/8-mlops-predictions-for-enterprise-machine-learning-in-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1149,101 +1244,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-openai-releases-point-e-an-ai-that-generates-3d-models.md",
-      "title": "OpenAI releases Point-E, an AI that generates 3D models",
-      "excerpt": "The next breakthrough to take the AI world by storm might be 3D model generators. This week, OpenAI open sourced Point-E, a machine learning system that creates a 3D object given a text prompt. According to a paper published alongside the code base,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/",
-      "originalUrl": "https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/point-e-openai-e1671557202971.png?resize=1200,729",
-          "width": 1200,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/amp/",
-      "publishedDateTime": "2022-12-20T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-tech-tuesday-super-mario-world-handwriting-ai-robots-climbing-walls.md",
-      "title": "Tech Tuesday: Super Mario World, handwriting AI, robots climbing walls",
-      "excerpt": "From Super Mario World to Google taking on doctor’s handwriting and robot dogs that can climb walls, tech expert Greg Nibler joined AM Extra for the latest tech news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koin.com/am-extra/tech-tuesday-super-mario-world-handwriting-ai-robots-climbing-walls/",
-      "originalUrl": "https://www.koin.com/am-extra/tech-tuesday-super-mario-world-handwriting-ai-robots-climbing-walls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.koin.com/wp-content/uploads/sites/10/2022/12/Super-Mario-World-Universal-Studios-12202022.png?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.koin.com/am-extra/tech-tuesday-super-mario-world-handwriting-ai-robots-climbing-walls/amp/",
-      "cdnAmpWebUrl": "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/am-extra/tech-tuesday-super-mario-world-handwriting-ai-robots-climbing-walls/amp/",
-      "publishedDateTime": "2022-12-20T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KOIN 6",
-        "domain": "koin.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

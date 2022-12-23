@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-24-how-analytics-and-ai-can-help-you-build-a-better-customer-experience.md",
+      "title": "How analytics and AI can help you build a better customer experience",
+      "excerpt": "With the help of advanced technology, you can improve customer engagement and retention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/sc/how-analytics-and-ai-can-help-you-build-a-better-customer-experience",
+      "originalUrl": "https://www.businessinsider.com/sc/how-analytics-and-ai-can-help-you-build-a-better-customer-experience",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63a34e92ae4bde0019503d8c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-23T10:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "IBM AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-12-21-pointedly-asking-generative-ai-chatgpt-about-whether-santa-claus-is-real-proves-to-be-eye-opening-including-for-ai-ethics-and-ai-law.md",
       "title": "Pointedly Asking Generative AI ChatGPT About Whether Santa Claus Is Real Proves To Be Eye-Opening, Including For AI Ethics And AI Law",
       "excerpt": "I went ahead and asked the popular generative AI app ChatGPT about whether Santa Claus is real or not. Doing so provides a bonanza of AI Ethics and AI Law considerations. Enjoy this during especially during the upcoming holidays!",
@@ -62,7 +116,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029-2022-12-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 193,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -115,7 +169,7 @@
       "originalUrl": "https://www.wired.com/story/artificial-intelligence-animals-anthropomorphism/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -448,22 +502,13 @@
       "title": "How AI Can Be Used Ethically to Monitor Worker Productivity",
       "excerpt": "Morgan Lewis’s Amy Schuh offers guidance for companies looking to employ AI to monitor their workforce. She shares important questions to ask beyond AI’s intended uses, and potential unintended consequences.",
       "sourceUrl": null,
-      "webUrl": "https://news.bloomberglaw.com/business-and-practice/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
-      "originalUrl": "https://news.bloomberglaw.com/business-and-practice/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
+      "webUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
+      "originalUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/e99279d/2147483647/crop/8140x3134%2B41%2B324/resize/957x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fc8%2Ff4%2Fcaf4259d40df8f2a0e40e370f321%2Fgettyimages-883730222.jpg",
-          "width": 957,
-          "height": 368,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -520,6 +565,49 @@
         "AI",
         "AI Ethics",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-first-global-forum-on-ethics-of-ai-held-in-prague-one-year-after-the-adoption-of-unescos-recommendation.md",
+      "title": "First Global Forum on Ethics of AI held in Prague, one year after the adoption of UNESCO’s Recommendation",
+      "excerpt": "It is in the process of setting up AI Experts without Borders, and the Global Network of Knowledge Centres on Ethics of AI – made up of some of the world’s leading universities and academic centres. To drive forward the gender equality agenda ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.unesco.org/en/articles/first-global-forum-ethics-ai-held-prague-one-year-after-adoption-unescos-recommendation",
+      "originalUrl": "https://www.unesco.org/en/articles/first-global-forum-ethics-ai-held-prague-one-year-after-adoption-unescos-recommendation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unesco.org/sites/default/files/styles/best_image/article/2022-12/GettyImages-476085510%20solarseven.jpg?itok=UGSIckda",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UNESCO",
+        "domain": "unesco.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1326,102 +1414,6 @@
         "AI in Autos",
         "AI in Healthcare",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-27-commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology-must-persist.md",
-      "title": "Commentary: TSA faces ethical limits in use of AI. But work to improve the technology must persist",
-      "excerpt": "Artificial intelligence has become a disruptive force in society. Terms such as machine learning, deep learning and neural networks have become commonplace among mainstream media, eliciting visions of",
-      "sourceUrl": null,
-      "webUrl": "https://www.yakimaherald.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_fd545cca-6b5e-11ed-9ff9-6f01b48b3dcd.html",
-      "originalUrl": "https://www.yakimaherald.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_fd545cca-6b5e-11ed-9ff9-6f01b48b3dcd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/3/11/311406e6-6b5f-11ed-afac-1b658226b053/637e6ae553d68.image.jpg?resize=1024%2C686",
-          "width": 1024,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.yakimaherald.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_fd545cca-6b5e-11ed-9ff9-6f01b48b3dcd.amp.html",
-      "cdnAmpWebUrl": "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_fd545cca-6b5e-11ed-9ff9-6f01b48b3dcd.amp.html",
-      "publishedDateTime": "2022-11-27T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yakima Herald-Republic",
-        "domain": "yakimaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff.md",
-      "title": "Meta AI Unveils AI-Infused Diplomatic Charmer Which Stirs AI Ethics And AI Law Into Indelicate Tiff",
-      "excerpt": "Meta AI has released a fascinating AI-infused diplomacy acting app that plays the famous board game known as Diplomacy, doing so to a level seemingly on par with human players. We take a close look and assess the AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637dd91f8792833e25c808cc/0x0.jpg?format=jpg&crop=2117,1410,x20,y37,safe&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/amp/",
-      "publishedDateTime": "2022-11-23T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

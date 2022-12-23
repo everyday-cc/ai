@@ -107,6 +107,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-14-deepmind-launches-dramatron-script-writing-software.md",
+      "title": "DeepMind Launches Dramatron Script Writing Software",
+      "excerpt": "Alphabet’s DeepMind has developed a new AI tool that could have a big impact on the creative fields. Dramatron relies on existing, pre-trained large language models to generate long and coherent text that could help co-write theater scripts and screenplays.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/deepminds-new-dramatron-tool-helps-write-scripts-and-screenplays/",
+      "originalUrl": "https://www.unite.ai/deepminds-new-dramatron-tool-helps-write-scripts-and-screenplays/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unite.ai/wp-content/uploads/2022/12/dramatron-animation-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-14T05:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-artificial-intelligence-and-machine-learning-market-by-product-and-geography-forecast-and-analysis-2023-to-2028-with-top-countries-data.md",
       "title": "Artificial Intelligence and Machine Learning Market by Product and Geography : Forecast and Analysis 2023 to 2028 with Top Countries Data",
       "excerpt": "Artificial Intelligence and Machine Learning Market\" Research report encompasses a thorough study of the current",
@@ -1424,58 +1467,6 @@
         "AI",
         "AI Ethics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-diverse-teams-are-needed-to-save-the-planet.md",
-      "title": "Diverse Teams Are Needed to Save the Planet",
-      "excerpt": "For Lila Ibrahim, chief operating officer at DeepMind, and Hayaatun Sillem, CEO of the Royal Academy of Engineering, being both female and people of color meant the odds were stacked against them in their industry. But for Sillem, who is the first woman ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/wired-impact-diversity-inclusion/",
-      "originalUrl": "https://www.wired.com/story/wired-impact-diversity-inclusion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6376afe5aed231a201071873/master/pass/0393_WIREDImpact.JPG",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/wired-impact-diversity-inclusion/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/wired-impact-diversity-inclusion/amp",
-      "publishedDateTime": "2022-11-18T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

@@ -101,20 +101,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "US Airports to use facial recognition technology"
-    excerpt: "There’s a good chance that many people traveling for the holidays through some of the nation’s busiest airports will have their faces scanned."
-    publishedDateTime: 2022-12-19T15:42:00Z
-    webUrl: "https://kyma.com/news/national-world/2022/12/19/us-airports-to-use-facial-recognition-technology/"
-    type: article
-    provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 54
-    images:
-      - url: "https://kyma.b-cdn.net/2022/12/MGN_1280x960_00614B00-AHZFO.jpg"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "Portman introduces two bills on facial recognition, AI in government"
     excerpt: "The fate of the bills in a lame duck session of Congress is uncertain, but a Portman aide says the outgoing senator wants to be active on the subjects even after retiring."
     publishedDateTime: 2022-12-22T20:09:00Z
@@ -154,20 +140,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 34
-  - title: "Madison Square Garden Using Facial Recognition Technology To Kick Out Legal Adversaries"
-    excerpt: "In recent months, Madison Square Garden and its affiliated venues have used facial recognition technology to remove multiple lawyers from the premises because they’re employed by firms in active litigation against MSG."
-    publishedDateTime: 2022-12-21T21:03:00Z
-    webUrl: "https://www.stereogum.com/2209007/madison-square-garden-using-facial-recognition-technology-to-kick-out-legal-adversaries/news/"
-    type: article
-    provider:
-      name: Stereogum
-      domain: stereogum.com
-    quality: 31
-    images:
-      - url: "https://static.stereogum.com/uploads/2022/12/GettyImages-1447005870-1671656449-scaled.jpg"
-        width: 2560
-        height: 1790
-        isCached: true
   - title: "Facial-Recognition Tech Gets Lawyer Booted From Radio City Music Hall"
     excerpt: "Kelly Conlon says she purchased tickets for her and her daughter to see the Radio City Music Hall Christmas show as part of a Girl Scout outing. Upon entering, Conlon says she heard an announcement over the PA system describing her physical appearance."
     publishedDateTime: 2022-12-21T20:36:00Z
@@ -210,15 +182,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Woman's Expulsion From Radio City Renews Call For Facial Recognition Ban"
-    excerpt: "Madison Square Garden Entertainment's use of facial-recognition technology is spurring new controversy this week, in the wake of news that Radio City Music Hall denied admittance to a lawyer who was attempting to take her daughter to a Rockettes performance."
-    publishedDateTime: 2022-12-21T19:46:00Z
-    webUrl: "https://www.mediapost.com/publications/article/380902/radio-city-uses-facial-recognition-to-block-lawyer.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 18
 
 secured: "IK5dOLhklZ+yc/Bd8XkWanAG0NuvbowxD0hARFVBENUgxcCnVkgumktXVcCIwxw3zmrGCLegHyz9vICIK6xp85QOpDkiU7mvyxe7dpZR/pyMM1RWMOaE+20Tcpf+R4OOLpTX5LAGnWe2l3Sx9jumHbGqTUkqSDHWcReTud245vzJOc5dNEn/c0p98e86GlHD8t1o69U2y4F9gB8mZAnNyiUn37y6WMp2VpUAXq7Ef8oRGa9kD+X7xwOOblEgWR5unyM642fzPYRM4gpQbP6XducGQGY9w//MRCGLqLETGZDx4A0zfivpJF3tLp17LOUb/IZPBGZ5rIYSmVunD+r24SrXMvEvLT63+zvuXx4fH2M3utNBugSPokzOPRvMyaRFz+Vkg31By8UKEguFCRSN9GR5twdtKjm1AgpRdskEDPzn1XDR9F7TE7bOFMPvaJMgtJDr2KK9UAchynO4+7Mi3Yh24HAa0EP7AAYQoen32Meq6luKaGEpU6Wby0YyvB2LBmeX9q1vDK8P2IoyGWRPBw==;WDrKUEtDXrRwFxhLVowv5g=="
 ---

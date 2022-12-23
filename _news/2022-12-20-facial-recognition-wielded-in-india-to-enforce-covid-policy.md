@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Stalking-horse report on facial recognition in Indian airports draws arrows"
+    excerpt: "The 74-page report about responsible AI has been quickly criticized by the Software Freedom Law Center and IFF for being incomplete."
+    publishedDateTime: 2022-12-20T19:54:00Z
+    webUrl: "https://www.biometricupdate.com/202212/stalking-horse-report-on-facial-recognition-in-indian-airports-draws-arrows"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
   - title: "Hyderabad Symbolizes India’s Embrace of Surveillance, Facial Recognition Tech"
     excerpt: "India’s National Crime Records Bureau is building what could be among the world’s largest facial recognition systems."
     publishedDateTime: 2022-12-20T14:19:00Z

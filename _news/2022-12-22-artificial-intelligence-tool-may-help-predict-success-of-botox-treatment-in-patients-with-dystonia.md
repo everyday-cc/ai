@@ -44,6 +44,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 25
+  - title: "Artificial Intelligence may Predict Success of Botox Treatment in Dystonia Patients"
+    excerpt: "Innovative artificial intelligence (AI) platform called DystoniaBoTXNet may help predict which patients with dystonia respond to Botox treatment with 96 percent accuracy."
+    publishedDateTime: 2022-12-23T20:21:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 13
 
 secured: "CiWuQNBs3knKunuWHeF5+PkFdVvE0kZANpvyAJm8ccxBoFMqRi0s1kD3wgdXMBzCK/fSiCQs0PTOfxNbXx4PEjSACyioIwqsrkoXuyzjOSC40qYFs8vVko2LKUUrCXz8NHcYwRvCp33oLgIwncTb8ETNoRMWiOA+eZqqRV5mBOGRnsO79mUfS+QPOC4NhmFZorz2m2hTxYy2k6pHpFxC4kEa30/Wfe2C0xtIRTX37Dg/Cukoop6OC6nnDyWrh62ExSE7NQdrZKDdqy2APktKbPQdB4aQE2B++9rl7vsrHyGeXfIBeij8Yj88fKYvWdn9/mjwYP7jVs3Nugv+Imx33oP+luNGWcXolS2rdRPCU3OP5TYUcjSs4jukqKjrpUAk9pNzOXZMcDGI07hgM37M/rLwHmC+Eq8Q2AvbF2VpZiEurTr0gYn/maKBhuk6v4HiNDRnRGokR5c8QYQPOtrPfojPGlnOTZDbHhSy4kwq3zP6cpmXONCKSLywRbz07bnw83vfx4OkL3czeLFA5sCC/A==;CrFPaMz47SVU6wvsZsVxPQ=="
 ---

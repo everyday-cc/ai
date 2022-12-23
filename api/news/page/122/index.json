@@ -2,6 +2,160 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2022-09-12-a-start-ups-evolution-from-ai-lab-to-ai-business.md",
+      "title": "A Start-up’s Evolution from AI Lab to AI Business",
+      "excerpt": "This Tokyo-based start-up has been incrementally realising the potential of AI to reshape the internet of things (IoT) – ever since shifting focus from search engines to deep learning (and dropping its original moniker, Preferred Infrastructure) ...",
+      "sourceUrl": null,
+      "webUrl": "https://knowledge.insead.edu/entrepreneurship/start-ups-evolution-ai-lab-ai-business",
+      "originalUrl": "https://knowledge.insead.edu/entrepreneurship/start-ups-evolution-ai-lab-ai-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/images/2019/11/from_ai_lab_to_ai_business.jpg?itok=RHEzbS9N",
+          "width": 1999,
+          "height": 1499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "knowledge.insead.edu",
+        "domain": "insead.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-sir-ian-mckellen-hints-memory-really-does-get-worse-with-age-mild-cognitive-decline.md",
+      "title": "Sir Ian McKellen hints 'memory really does get worse' with age – mild cognitive decline",
+      "excerpt": "Could McKellen be hinting towards mild cognitive impairment (MCI) or dementia? Both conditions are more likely to occur in older age. McKellen told Radio Times: \"If you were to get to the stage ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/health/1667246/sir-ian-mckellen-health-memory-mild-cognitive-impairment-symptoms-dementia",
+      "originalUrl": "https://www.express.co.uk/life-style/health/1667246/sir-ian-mckellen-health-memory-mild-cognitive-impairment-symptoms-dementia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/11/590x/Sir-McKellen-is-at-risk-of-mild-cognitive-impairment-1667246.jpg?r=1662748553803",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/health/1667246/sir-ian-mckellen-health-memory-mild-cognitive-impairment-symptoms-dementia/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1667246/sir-ian-mckellen-health-memory-mild-cognitive-impairment-symptoms-dementia/amp",
+      "publishedDateTime": "2022-09-11T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-how-do-self-driving-cars-work-everything-you-need-to-know.md",
+      "title": "How do self-driving cars work? Everything you need to know",
+      "excerpt": "The idea of the self-driving car feels like something that comes straight out of science fiction, but it’s a future that the automotive industry is actively striving towards. One day ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/reference/how-do-self-driving-cars-work-everything-you-need-to-know",
+      "originalUrl": "https://www.tomsguide.com/reference/how-do-self-driving-cars-work-everything-you-need-to-know",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-11T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-driverless-vehicle-maker-aurrigo-to-float.md",
+      "title": "Driverless vehicle maker Aurrigo to float",
+      "excerpt": "A maker of driverless vehicles that could solve delays at airports is to list on Aim on Thursday, braving a stock market where there has been a dearth of company floats. Coventry-based Aurrigo ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetimes.co.uk/article/driverless-vehicle-maker-aurrigo-to-float-pxshf9fk7",
+      "originalUrl": "https://www.thetimes.co.uk/article/driverless-vehicle-maker-aurrigo-to-float-pxshf9fk7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-11T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-11-driverless-food-delivery-nuro-teams-up-with-uber-eats-to-deploy-autonomous-vehicles-in-mountain-view.md",
       "title": "Driverless food delivery: Nuro teams up with Uber Eats to deploy autonomous vehicles in Mountain View",
       "excerpt": "Mountain View-based Nuro and Uber are embarking on a new multiyear partnership to use Nuro's autonomous, electric vehicles for food deliveries in the United States, the companies announced ...",
@@ -960,179 +1114,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-indika-ai-bets-on-synthetic-data-to-overcome-challenges-of-real-world-data.md",
-      "title": "Indika AI bets on synthetic data to overcome challenges of real-world data",
-      "excerpt": "It is also improving fraud detection in the fintech industry and training language systems. High-quality datasets are required to train artificial intelligence (AI) solutions, so that the ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
-      "originalUrl": "https://yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/d99b1110116911ed9e63f54395117598/shutterstock1279483576-1662557345744.jpeg ",
-          "width": 5500,
-          "height": 4125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
-      "publishedDateTime": "2022-09-09T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YourStory",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-hisense-selects-synaptics-dbm10l-processor-for-first-ai-enabled-always-on-voice-remote-control.md",
-      "title": "Hisense Selects Synaptics' DBM10L Processor For First AI-Enabled Always-On Voice Remote Control",
-      "excerpt": "Synaptics ® Incorporated (Nasdaq: SYNA) today announced that Hisense, a global leader in consumer electronics and home appliances, selected the DBM10L with its dedicated neural processing unit (NPU) to implement the first artificial intelligence (AI)-enabled always-on voice (AOV) remote control unit (RCU),",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/09/09/9670608.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/09/09/9670608.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-tech-war-shanghai-ai-chip-maker-with-disgraced-chairman-is-now-chinas-new-hope-in-race-to-catch-up-with-nvidia.md",
-      "title": "Tech war: Shanghai AI chip maker with disgraced chairman is now China’s new hope in race to catch up with Nvidia",
-      "excerpt": "Nvidia, the leading global supplier of advanced GPUs, was told by the US to stop exporting two of its high-end artificial intelligence (AI) chips to China, prompting Chinese start-ups to fast ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-war/article/3191978/tech-war-shanghai-ai-chip-maker-disgraced-chairman-now-chinas-new",
-      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3191978/tech-war-shanghai-ai-chip-maker-disgraced-chairman-now-chinas-new",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/09/aa9945a1-a557-4eec-a64b-9316da5ae8d6_f414051d.jpg?itok=bnA6W9VB&v=1662717857",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-artificial-intelligence-could-be-a-great-equalizer.md",
-      "title": "Artificial Intelligence Could Be a Great Equalizer",
-      "excerpt": "The benefits of AI will accrue not only to the wealthy and technologists but also to the poor and disadvantaged.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/artificial-intelligence-couldbe-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/artificial-intelligence-couldbe-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI",
         "AI in Autos"
       ]

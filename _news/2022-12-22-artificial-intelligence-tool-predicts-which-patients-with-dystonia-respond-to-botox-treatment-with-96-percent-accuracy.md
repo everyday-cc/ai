@@ -39,6 +39,15 @@ related:
         width: 2128
         height: 1295
         isCached: true
+  - title: "Artificial Intelligence may Predict Success of Botox Treatment in Dystonia Patients"
+    excerpt: "Innovative artificial intelligence (AI) platform called DystoniaBoTXNet may help predict which patients with dystonia respond to Botox treatment with 96 percent accuracy."
+    publishedDateTime: 2022-12-23T20:21:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 13
   - title: "Artificial intelligence tool may help predict success of Botox treatment in patients with dystonia"
     excerpt: "An artificial intelligence platform, DystoniaBoTXNet, used brain MRIs to automatically identify which dystonia patient would respond to botulinum toxin treatment with an accuracy"
     publishedDateTime: 2022-12-22T14:30:00Z

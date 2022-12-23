@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-fa
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.amp.html"
 type: article
 quality: 88
-heat: 229
+heat: 199
 published: true
 
 provider:
@@ -105,20 +105,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "US Airports to use facial recognition technology"
-    excerpt: "There’s a good chance that many people traveling for the holidays through some of the nation’s busiest airports will have their faces scanned."
-    publishedDateTime: 2022-12-19T15:42:00Z
-    webUrl: "https://kyma.com/news/national-world/2022/12/19/us-airports-to-use-facial-recognition-technology/"
-    type: article
-    provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 54
-    images:
-      - url: "https://kyma.b-cdn.net/2022/12/MGN_1280x960_00614B00-AHZFO.jpg"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "Portman introduces two bills on facial recognition, AI in government"
     excerpt: "The fate of the bills in a lame duck session of Congress is uncertain, but a Portman aide says the outgoing senator wants to be active on the subjects even after retiring."
     publishedDateTime: 2022-12-22T20:09:00Z
@@ -158,20 +144,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 34
-  - title: "Madison Square Garden Using Facial Recognition Technology To Kick Out Legal Adversaries"
-    excerpt: "In recent months, Madison Square Garden and its affiliated venues have used facial recognition technology to remove multiple lawyers from the premises because they’re employed by firms in active litigation against MSG."
-    publishedDateTime: 2022-12-21T21:03:00Z
-    webUrl: "https://www.stereogum.com/2209007/madison-square-garden-using-facial-recognition-technology-to-kick-out-legal-adversaries/news/"
-    type: article
-    provider:
-      name: Stereogum
-      domain: stereogum.com
-    quality: 31
-    images:
-      - url: "https://static.stereogum.com/uploads/2022/12/GettyImages-1447005870-1671656449-scaled.jpg"
-        width: 2560
-        height: 1790
-        isCached: true
   - title: "Facial-Recognition Tech Gets Lawyer Booted From Radio City Music Hall"
     excerpt: "Kelly Conlon says she purchased tickets for her and her daughter to see the Radio City Music Hall Christmas show as part of a Girl Scout outing. Upon entering, Conlon says she heard an announcement over the PA system describing her physical appearance."
     publishedDateTime: 2022-12-21T20:36:00Z
@@ -214,15 +186,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Woman's Expulsion From Radio City Renews Call For Facial Recognition Ban"
-    excerpt: "Madison Square Garden Entertainment's use of facial-recognition technology is spurring new controversy this week, in the wake of news that Radio City Music Hall denied admittance to a lawyer who was attempting to take her daughter to a Rockettes performance."
-    publishedDateTime: 2022-12-21T19:46:00Z
-    webUrl: "https://www.mediapost.com/publications/article/380902/radio-city-uses-facial-recognition-to-block-lawyer.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 18
 
 secured: "yVEPKIFmw/wRMhummFKDJcDiqr0HlxiD2y2CRWw2vRFs3ulxwG4rwr8xu3IJUFwJlzUCh9tZCl2TaqceY6xNUeJgtPN167uhCO5dgbx2FSpwWDTbmo9xkOCJw0IH2/FLIqrjNUD00yDCE+hjNTmAxdygyUsf4BUVvmnBUaAVHLBBvMqmmUGIU9HXwjFMPTTrlSuBZPFQqINg+sdRso5D1OsyW65debUcY11rBNW8g7LMO77zOY1Jis8opNitlAF2pYekp7p7xPaENB8mtipAj7xtn/txCerOUAWNh+ZEa09ajzSg1Xoi4YJIQhAzMCIzNo40ix2PfN/Vf8Cfi4rOaCKZKa25qcVlv2AIi+4+x3URX0n72hHZhnR/eFaKw5r31GcIRrhWcJ9c77XiBCdF+Z6ytiEAYuuRtFemLDKYUSVM7+AwIuGKyrAENlAcXPwyaFren1EtH7mAz15QmYvT5ye9bKpO55CiJgcbrfealSJDAmwuTi0nGUUZANqmkHuE1m+WTy1nw4r9xWvS6KMbBA==;FLu3M8H30wAG9HHDSfRDIQ=="
 ---

@@ -2,6 +2,197 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2022-10-13-nvidia-not-cutting-it-google-and-amazons-latest-ai-chips-have-arrived.md",
+      "title": "Nvidia not cutting it? Google and Amazon’s latest AI chips have arrived",
+      "excerpt": "Kicking things off with Amazon, the cloud provider's Trainium chips are now generally available on AWS. First previewed at AWS re:Invent last year, Amazon's Trainium-powered Trn1n instances are designed to train large machine-learning models,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/10/11/google_amazon_ai_chips_nvidia/?td=rt-9cp",
+      "originalUrl": "https://www.theregister.com/2022/10/11/google_amazon_ai_chips_nvidia/?td=rt-9cp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/01/12/shutterstock_ai_chip.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/10/11/google_amazon_ai_chips_nvidia/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/10/11/google_amazon_ai_chips_nvidia/",
+      "publishedDateTime": "2022-10-12T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-microsoft-ignite-22-focuses-on-employee-engagement-developer-innovation-among-others.md",
+      "title": "Microsoft Ignite ‘22 focuses on employee engagement, developer innovation, among others",
+      "excerpt": "Satya Nadella laid out the five core imperatives that Microsoft is focused on, and then provided updates for each of them.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/microsoft/microsoft-ignite-22-microsoft-focuses-on-employee-engagement-developer-innovation-among-others/",
+      "originalUrl": "https://sdtimes.com/microsoft/microsoft-ignite-22-microsoft-focuses-on-employee-engagement-developer-innovation-among-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-12-at-2.03.39-PM.jpg",
+          "width": 969,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-robot-artist-ai-da-reset-while-speaking-to-uk-politicians.md",
+      "title": "Robot artist Ai-Da reset while speaking to UK politicians",
+      "excerpt": "Ai-Da, the world's first ultra-realistic humanoid robot artist, answered questions from UK lawmakers during a session hosted by the House of Lords Communications and Digital Committee, according to Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn/video/playlists/stories-worth-watching/",
+      "originalUrl": "https://edition.cnn.com/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn/video/playlists/stories-worth-watching/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221012154424-robot-ai-da-uk-parliament-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn",
+      "publishedDateTime": "2022-10-12T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-helping-the-body-and-brain-welcome-bionic-limbs-and-implants.md",
+      "title": "Helping the body and brain welcome bionic limbs and implants",
+      "excerpt": "Not that long ago, the concept of the bionic human seemed far-fetched, but wearable robotic suits, brain-controlled extra limbs and mind-operated wheelchairs are now under active development.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-10-body-brain-bionic-limbs-implants.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-body-brain-bionic-limbs-implants.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/helping-the-body-and-b.jpg",
+          "width": 2880,
+          "height": 1859,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-10-body-brain-bionic-limbs-implants.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-body-brain-bionic-limbs-implants.amp",
+      "publishedDateTime": "2022-10-12T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-pixel-7-pro-review-googles-best-flagship-phone-gets-better.md",
       "title": "Pixel 7 Pro Review: Google's Best Flagship Phone Gets Better",
       "excerpt": "The $899 Pixel 7 Pro may feel familiar to the 6 Pro, but it's still fantastic. Google's $899 (£849, AU$1,299) Pixel 7 Pro only has a few changes from last year's Pixel 6 Pro, but that's because a complete overhaul isn't something the company needed to do this time.",
@@ -1018,189 +1209,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches.md",
-      "title": "Vectara’s AI-based neural search-as-a-service challenges keyword-based searches",
-      "excerpt": "Vectara, formerly ZIR AI, has emerged from stealth with $20M in seed funding, offering AI-based neural search-as-a-service technology.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/",
-      "originalUrl": "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-search_search-engine_connected_network_1400992296-e1665532643283.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/amp/",
-      "publishedDateTime": "2022-10-12T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-regulatory-and-legacy-system-contraints-hampering-machine-learning-deployment.md",
-      "title": "Regulatory and legacy system contraints hampering machine learning deployment",
-      "excerpt": "UK financial firms blame a lack of regulatory clarity and legacy systems for constraining deeper deployment of machine learning technology, according to a survey conducted by the Bank of England.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/newsarticle/41125/regulatory-and-legacy-system-contraints-hampering-machine-learning-deployment",
-      "originalUrl": "https://www.finextra.com/newsarticle/41125/regulatory-and-legacy-system-contraints-hampering-machine-learning-deployment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/top_pics/xl/robo-ai.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-can-artificial-intelligence-help-identify-best-treatments-for-cancers-lsu-researchers-say-yes.md",
-      "title": "Can artificial intelligence help identify best treatments for cancers? LSU researchers say yes",
-      "excerpt": "A team of LSU researchers has developed a way to determine which drug therapies work best against an individual's unique type of cancer, possibly providing a way to find cures",
-      "sourceUrl": null,
-      "webUrl": "https://www.theadvocate.com/baton_rouge/news/education/article_76e1fb2c-3e9d-11ed-9210-8784fc7eaa99.html",
-      "originalUrl": "https://www.theadvocate.com/baton_rouge/news/education/article_76e1fb2c-3e9d-11ed-9210-8784fc7eaa99.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/c/06/c06b7424-44c6-11ed-ab1d-9b7bc78c5670/633daa3a94e74.image.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theadvocate.com/baton_rouge/news/education/article_76e1fb2c-3e9d-11ed-9210-8784fc7eaa99.amp.html",
-      "cdnAmpWebUrl": "https://www-theadvocate-com.cdn.ampproject.org/c/s/www.theadvocate.com/baton_rouge/news/education/article_76e1fb2c-3e9d-11ed-9210-8784fc7eaa99.amp.html",
-      "publishedDateTime": "2022-10-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Advocate",
-        "domain": "theadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-its-like-molecular-speed-dating-lsu-using-artificial-intelligence-in-cancer-treatments.md",
-      "title": "It's like molecular speed dating: LSU using artificial intelligence in cancer treatments",
-      "excerpt": "A team of LSU researchers has developed a way to determine which drug therapies work best against an individual's unique type of cancer, possibly providing a way to find cures",
-      "sourceUrl": null,
-      "webUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.html",
-      "originalUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/5/fc/5fc540e3-9765-5462-86ed-1865ed2efa75/63460726c216f.image.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.amp.html",
-      "cdnAmpWebUrl": "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.amp.html",
-      "publishedDateTime": "2022-10-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NOLA.com",
-        "domain": "nola.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

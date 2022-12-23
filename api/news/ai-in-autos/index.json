@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-24-artificial-intelligence-tool-developed-to-help-make-real-time-diagnoses-during-surgery.md",
+      "title": "Artificial intelligence tool developed to help make real-time diagnoses during surgery",
+      "excerpt": "When a patient undergoes a surgical operation to remove a tumor or treat a disease, the course of surgery is often not predetermined. To decide how much tissue needs to be removed, surgeons must know more about the condition they are treating,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/surgery-5.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.amp",
+      "publishedDateTime": "2022-12-23T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-12-23-ai-and-the-future-of-work-will-artificial-intelligence-affect-the-workforce.md",
       "title": "AI and the future of work: will Artificial Intelligence affect the workforce?",
       "excerpt": "One of the biggest questions this year: how long will we have our jobs? Here’s looking at how generative AI will transform knowledge work in the next decade",
@@ -462,24 +506,15 @@
     {
       "path": "_news/2022-12-17-phoenix-airport-1st-to-offer-self-driving-ride-service-waymo.md",
       "title": "Phoenix airport 1st to offer self-driving ride service Waymo",
-      "excerpt": "As Phoenix gets ready to host the Super Bowl, Mayor Kate Gallego announced Friday that Sky Harbor International Airport will be the first to offer the self-driving ride-hailing service Waymo. “The future is here,",
+      "excerpt": "Phoenix Mayor Kate Gallego arrives in a self-driving vehicle, Friday, Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Mayor Gallego a",
       "sourceUrl": null,
-      "webUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php",
-      "originalUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php",
+      "webUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php?src=sthplifestyle",
+      "originalUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php?src=sthplifestyle",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/30/64/10/23282182/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1362,40 +1397,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-investing-in-ai-top-canadian-artificial-intelligence-stocks-in-2022.md",
-      "title": "Investing in AI: Top Canadian Artificial Intelligence Stocks in 2022",
-      "excerpt": "Machine learning is a branch of artificial intelligence. It refers to a software’s ability to self-improve by using old data to interpret new information. A self-driving car, for example ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.ca/investing/top-canadian-artificial-intelligence-stocks/",
-      "originalUrl": "https://www.fool.ca/investing/top-canadian-artificial-intelligence-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool Canada",
-        "domain": "fool.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

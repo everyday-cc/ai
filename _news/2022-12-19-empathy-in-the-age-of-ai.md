@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/artificial-intelligence-animals-anthropo
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-animals-anthropomorphism/amp"
 type: article
 quality: 91
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2022-12/Screenshot%202022-12-16%20at%2011.33.54.png"
         width: 1536
         height: 726
-        isCached: true
-  - title: "Top 10 artificial intelligence stories of 2022"
-    excerpt: "IT strategies have become more data-centric. We look at how this has played out in 2022, with artificial intelligence (AI) deployments."
-    publishedDateTime: 2022-12-19T04:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252528086/Top-10-artificial-intelligence-stories-of-2022"
-    ampWebUrl: "https://www.computerweekly.com/news/252528086/Top-10-artificial-intelligence-stories-of-2022?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252528086/Top-10-artificial-intelligence-stories-of-2022?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 61
-    images:
-      - url: "https://www.computerweekly.com/rms/onlineimages/ai_a264431831.jpg"
-        width: 1200
-        height: 400
         isCached: true
   - title: "Engineers help artificial intelligence to learn more safely in the real world"
     excerpt: "Penn State researchers are looking for a safer and more efficient way to use machine learning in the real world. Using a simulated high-rise office building, they developed and tested a new reinforcement learning algorithm aimed at improving energy consumption and occupant comfort in a real-world setting."

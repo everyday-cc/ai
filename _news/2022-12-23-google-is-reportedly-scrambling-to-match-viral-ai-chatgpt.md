@@ -101,6 +101,15 @@ related:
       name: ArchDaily
       domain: archdaily.com
     quality: 16
+  - title: "What Do ChatGPT and AI-based Automatic Program Generation Mean for the Future of Software"
+    excerpt: "Since the release of the ChatGPT interactive AI assistant it has been surprising to see some of the snide, passive-aggressive reactions from some (not all) members of the software engineering community,"
+    publishedDateTime: 2022-12-23T20:36:00Z
+    webUrl: "https://cacm.acm.org/blogs/blog-cacm/268103-what-do-chatgpt-and-ai-based-automatic-program-generation-mean-for-the-future-of-software"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 10
 
 secured: "MH/tdzXX9zXuVjJS/l3woPuq7a8qvPMtOaQ+CfM+yeoUSiBXMnIz4QAdB7IEd2ddvYci89VxDXGsIIAM7EZSfxbpYc9n1fb8E8Smb73XQ9RM3xkoXKVSqXG7jOKVfrlQ8OwKTfaGb78UCR8bj1HSYLSFWut0kmwjBUi04QyY+zVD10i6Dp3Sg6EJYgshu7lVjaOmCvJZTfMkC050vnuojor17Bc32wDRvt8EsZT8xCNhaYgKICLK8AaYmFRFE57OKvDwZL71LbFILNeIWw8rpOn78r1139ms56U5OCxM7zBS4VQ772BIY2s5uJmlLMJUOkTA+zfuaC9mUh4VngXCYeJuyDztG1KE7qzk9CoJuDY=;rvwfFDMFBuJ6NDqcpg3zrQ=="
 ---

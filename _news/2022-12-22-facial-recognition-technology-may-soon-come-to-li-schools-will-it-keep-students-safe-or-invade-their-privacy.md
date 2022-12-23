@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "TSA's facial recognition technology raises security, privacy concerns"
+    excerpt: "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country."
+    publishedDateTime: 2022-12-23T17:57:00Z
+    webUrl: "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
+    ampWebUrl: "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+    cdnAmpWebUrl: "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+    type: article
+    provider:
+      name: kjrh.com
+      domain: kjrh.com
+    quality: 91
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/14ef04f/2147483647/strip/true/crop/8640x4860+0+450/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F74%2F29%2Fc213131e41038c94fc27d4a87df4%2Fap22350850581649.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "TSA tests facial recognition technology at more airports"
     excerpt: "There’s a good chance that many people traveling for the holidays through some of the nation’s busiest airports will have their faces scanned. That’s because the Transportation Security Administration is expanding its facial recognition pilot program."
     publishedDateTime: 2022-12-19T13:08:00Z
@@ -71,6 +87,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "US Airports to use facial recognition technology"
+    excerpt: "There’s a good chance that many people traveling for the holidays through some of the nation’s busiest airports will have their faces scanned."
+    publishedDateTime: 2022-12-19T15:42:00Z
+    webUrl: "https://kyma.com/news/national-world/2022/12/19/us-airports-to-use-facial-recognition-technology/"
+    type: article
+    provider:
+      name: KYMA
+      domain: kyma.com
+    quality: 54
+    images:
+      - url: "https://kyma.b-cdn.net/2022/12/MGN_1280x960_00614B00-AHZFO.jpg"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "TSA expands use of facial recognition airport pilot program"
     excerpt: "The Transportation Security Administration is now scanning your face at select airport checkpoints, part of a growing test with passengers as the subjects. Pete Muntean reports."
     publishedDateTime: 2022-12-20T02:41:00Z
@@ -85,28 +115,35 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Stalking-horse report on facial recognition in Indian airports draws arrows"
-    excerpt: "The 74-page report about responsible AI has been quickly criticized by the Software Freedom Law Center and IFF for being incomplete."
-    publishedDateTime: 2022-12-20T19:54:00Z
-    webUrl: "https://www.biometricupdate.com/202212/stalking-horse-report-on-facial-recognition-in-indian-airports-draws-arrows"
+  - title: "Baltimore councilman seeks to regulate facial recognition technology after ban expires"
+    excerpt: "Opponents of facial recognition technology cite potentially dangerous invasion of privacy There's a push to regulate facial recognition technology in Baltimore after a ban on it expires next week. Many people use it every day to unlock their phones."
+    publishedDateTime: 2022-12-23T22:19:00Z
+    webUrl: "https://www.wbaltv.com/article/baltimore-councilman-seeks-to-regulate-facial-recognition-technology-after-ban-expires/42329343"
+    ampWebUrl: "https://www.wbaltv.com/amp/article/baltimore-councilman-seeks-to-regulate-facial-recognition-technology-after-ban-expires/42329343"
+    cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/baltimore-councilman-seeks-to-regulate-facial-recognition-technology-after-ban-expires/42329343"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
-  - title: "Facial recognition software for employee time and attendance reports launched by RecFaces"
-    excerpt: "RecFaces has launched a facial recognition software solution for employee time and attendance tracking with autonomously operating terminals."
-    publishedDateTime: 2022-12-20T17:14:00Z
-    webUrl: "https://www.biometricupdate.com/202212/facial-recognition-software-for-employee-time-and-attendance-reports-launched-by-recfaces"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
+      name: WBAL-TV
+      domain: wbaltv.com
+    quality: 51
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
-        width: 2048
-        height: 1812
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/facial-recognition-technology-jpg-1671811901.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Madison Square Garden Using Facial Recognition Technology To Kick Out Legal Adversaries"
+    excerpt: "In recent months, Madison Square Garden and its affiliated venues have used facial recognition technology to remove multiple lawyers from the premises because they’re employed by firms in active litigation against MSG."
+    publishedDateTime: 2022-12-21T21:03:00Z
+    webUrl: "https://www.stereogum.com/2209007/madison-square-garden-using-facial-recognition-technology-to-kick-out-legal-adversaries/news/"
+    type: article
+    provider:
+      name: Stereogum
+      domain: stereogum.com
+    quality: 31
+    images:
+      - url: "https://static.stereogum.com/uploads/2022/12/GettyImages-1447005870-1671656449-scaled.jpg"
+        width: 2560
+        height: 1790
         isCached: true
   - title: "Facial recognition technology may soon come to LI schools. Will it keep students safe or invade their privacy?"
     excerpt: "Two state agencies are looking into the use of the surveillance system that opponents say invades privacy and proponents say helps to keep students safe."
@@ -122,15 +159,15 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Girl Scout mom gets kicked out of Rockettes show due to facial recognition technology"
-    excerpt: "One mom was kicked out of a Rockettes performance after facial recognition technology recognized her at Radio City Music Hall. Category : Viral & Trending"
-    publishedDateTime: 2022-12-21T19:50:00Z
-    webUrl: "https://www.mother.ly/news/viral-trending/facial-recognition-technology-rockettes-show/"
+  - title: "Woman's Expulsion From Radio City Renews Call For Facial Recognition Ban"
+    excerpt: "Madison Square Garden Entertainment's use of facial-recognition technology is spurring new controversy this week, in the wake of news that Radio City Music Hall denied admittance to a lawyer who was attempting to take her daughter to a Rockettes performance."
+    publishedDateTime: 2022-12-21T21:16:00Z
+    webUrl: "https://www.mediapost.com/publications/article/380902/womans-expulsion-from-radio-city-renews-call-for.html"
     type: article
     provider:
-      name: Mother
-      domain: mother.ly
-    quality: 12
+      name: MediaPost
+      domain: mediapost.com
+    quality: 18
 
 secured: "NN6SJ8vCfxlS9u26tVzdaZx3csbhYsYv8Vt3FH6hj/ohMUb8tUWMX/qJuDG1d0ROFKAPumsMoszYreLTwGIvR8ApsqFmXcoXZEvtncBW8+EVOlI1cUQqDE0F9jrXgNCiuxB3ZLCp2TGzzeZFMLU3ZN1PLBZawo40nwaVAFPLiLV95AnY/kbTQaeuQGqKKNFnug9qEW6wUwR1u1dRLVHGYL5xoh2CQdS04b08EELx5+AHfK7UAQK26DUgk5yGyEpnxQv7KoLFHtl3T/PFZVSvcFQ+C4yGH6FUZtwINm+555/a+rCJWSU/KmfUM/cSNXmiDcWZxia348A6ynr1QbN2eCF5N77OOxaYD54C1YawsIsVoCVZZn4iRkdnZK5cXoeoauTbsIMECWdc/mMSx1Pka9nPsh66OWcwvw2Q832T2YrvnTx+9/oiZKWFgyHMKWHkR/UarNtX/8JyiphsdJ50nZTPwRUXpUzg8gVnZOntZbgiOSXz+ztjVPwdWYSl0t+4LiWKgbx/dQ2MDhRTZa2xKA==;JAdJFOlbjU8RmvTkSCARfQ=="
 ---

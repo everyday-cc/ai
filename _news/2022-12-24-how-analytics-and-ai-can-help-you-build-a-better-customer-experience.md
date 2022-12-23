@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-23T18:21:00Z
 originalUrl: "https://www.businessinsider.com/sc/how-analytics-and-ai-can-help-you-build-a-better-customer-experience"
 webUrl: "https://www.businessinsider.com/sc/how-analytics-and-ai-can-help-you-build-a-better-customer-experience"
 type: article
-quality: 69
-heat: 99
+quality: 73
+heat: 103
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - AI
   - Facebook AI
   - IBM AI
+  - AI Ethics
 
 images:
   - url: "https://i.insider.com/63a34e92ae4bde0019503d8c?width=1200&format=jpeg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2022/12/21/who-ultimately
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/12/21/who-ultimately-owns-content-generated-by-chatgpt-and-other-ai-platforms/amp/"
 type: article
 quality: 86
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -105,6 +105,15 @@ related:
       name: ArchDaily
       domain: archdaily.com
     quality: 16
+  - title: "What Do ChatGPT and AI-based Automatic Program Generation Mean for the Future of Software"
+    excerpt: "Since the release of the ChatGPT interactive AI assistant it has been surprising to see some of the snide, passive-aggressive reactions from some (not all) members of the software engineering community,"
+    publishedDateTime: 2022-12-23T20:36:00Z
+    webUrl: "https://cacm.acm.org/blogs/blog-cacm/268103-what-do-chatgpt-and-ai-based-automatic-program-generation-mean-for-the-future-of-software"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 10
 
 secured: "6Z1xcq9sSnTKdx1OleUnT4J3CpwLC7caJlyxw1UISU6yVYx9drxIbrujIDgBJifzSjYEILOpSIDg7ZruirrllDuIFuNfpch19gA2pM9bps3KDKNynFhWe4+7xHpolLeWqgb2hZQoTN9ZY669cJY074hunQzfk8N7A16SX0whCSoTuzOwkvChz8MU0HBXGpm6BzB8wYXPTQYOG9rfdUrISFD70NU9rag6pvXfgrbZ/YuLrlIXHLK7IP0Uv1jZY7iVJ/osOD6UeZm0U1oyqWKeqsMauJrAHjgFsfnJEIH3DVynrobwI6FAPpUO7EtqzOA/esXXsrKkOTqVtlsiFlOK/CB1Tgk0WQJp7lvd+2lk55WCSnfu+Ng6JTrBTUkdxxal5J+Dfd6nmZ2FWZ5sndcT2b++0buu6zonnxhgcYmOP5VRpjWbUsIz1owSY7YYmeS4rWOsewp6KB6kQDNX5UbaG+5YFVYKr+uTo2c4C5LpCWiRFbt6wBjr3/9av3ILDQhfi7SoCieUzn9T3tnF8txpTg==;6kD+vw0H74OT4fPakGZyTQ=="
 ---

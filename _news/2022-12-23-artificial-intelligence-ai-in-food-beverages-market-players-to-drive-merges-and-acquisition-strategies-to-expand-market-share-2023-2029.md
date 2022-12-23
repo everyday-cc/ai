@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market Analysis Report 2023 Along with Statistics Figures, Forecasts till 2027"
-    excerpt: "As per Market Growth Report, “Machine Learning as a Service (MLaaS) market size was valued at USD 4829.73 million in"
-    publishedDateTime: 2022-12-19T03:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-analysis-report-2023-along-with-statistics-figures-forecasts-till-2027-2022-12-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Market 2023 Size Industry, Current Trends, Demand and Size Share Estimation by 2029 with Top Players MarketGrowthReports.com"
     excerpt: "Voice Recognition Market Report offers an Complete view about the cutthroat scene of the Voice Recognition market"
     publishedDateTime: 2022-12-23T06:43:00Z

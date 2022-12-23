@@ -10,7 +10,7 @@
       "originalUrl": "https://www.businessinsider.com/sc/how-analytics-and-ai-can-help-you-build-a-better-customer-experience",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,9 @@
       ],
       "topics": [
         "AI",
-        "Facebook AI"
+        "Facebook AI",
+        "IBM AI",
+        "AI Ethics"
       ]
     },
     {
@@ -106,6 +108,50 @@
       ]
     },
     {
+      "path": "_news/2022-12-24-tsas-facial-recognition-technology-raises-security-privacy-concerns.md",
+      "title": "TSA's facial recognition technology raises security, privacy concerns",
+      "excerpt": "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
+      "originalUrl": "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/14ef04f/2147483647/strip/true/crop/8640x4860+0+450/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F74%2F29%2Fc213131e41038c94fc27d4a87df4%2Fap22350850581649.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true",
+      "cdnAmpWebUrl": "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true",
+      "publishedDateTime": "2022-12-23T09:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "kjrh.com",
+        "domain": "kjrh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-12-24-how-to-assess-your-ai-projects-roi-as-recession-hits.md",
       "title": "How to assess your AI projects’ ROI as recession hits",
       "excerpt": "Advice for organizations as they assess the ROI and risk/return tradeoffs of their AI initiatives in the coming recession.",
@@ -154,6 +200,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-24-artificial-intelligence-tool-developed-to-help-make-real-time-diagnoses-during-surgery.md",
+      "title": "Artificial intelligence tool developed to help make real-time diagnoses during surgery",
+      "excerpt": "When a patient undergoes a surgical operation to remove a tumor or treat a disease, the course of surgery is often not predetermined. To decide how much tissue needs to be removed, surgeons must know more about the condition they are treating,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/surgery-5.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.amp",
+      "publishedDateTime": "2022-12-23T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -415,7 +505,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-report-2023-along-with-statistics-figures-forecasts-till-2029-2022-12-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -468,7 +558,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-expected-to-reach-significant-rate-by-2029-2022-12-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -571,7 +661,7 @@
       "originalUrl": "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -1160,101 +1250,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-keep-autonomous-killing-machines-off-our-streets-opinion.md",
-      "title": "Keep Autonomous Killing Machines Off Our Streets | Opinion",
-      "excerpt": "Robots are not, yet, autonomous killing machines. Even the rule briefly considered in San Francisco, would have kept a human operator in the decision loop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/keep-autonomous-killing-machines-off-our-streets-opinion-1768564",
-      "originalUrl": "https://www.newsweek.com/keep-autonomous-killing-machines-off-our-streets-opinion-1768564",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2167946/robot-warriors.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/keep-autonomous-killing-machines-off-our-streets-opinion-1768564?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/keep-autonomous-killing-machines-off-our-streets-opinion-1768564?amp=1",
-      "publishedDateTime": "2022-12-22T02:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-airtel-apollo-hospitals-and-aws-carry-out-indias-first-5g-driven-colonoscopy-trial.md",
-      "title": "Airtel, Apollo Hospitals and AWS carry out India’s first 5G-driven colonoscopy trial",
-      "excerpt": "Proving this fact, Bharti Airtel and Apollo Hospitals, along with HealthNet Global, AWS, and Avesha companies, have conducted India’s first 5G-driven, artificial intelligence (AI)-guided colonoscopy trial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fonearena.com/blog/381372/airtel-apollo-hospitals-aws-5g-colonoscopy-trial.html",
-      "originalUrl": "https://www.fonearena.com/blog/381372/airtel-apollo-hospitals-aws-5g-colonoscopy-trial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.fonearena.com/blog/wp-content/uploads/2022/10/Airtel-5G-Plus.jpg",
-          "width": 574,
-          "height": 303,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fonearena.com/blog/381372/airtel-apollo-hospitals-aws-5g-colonoscopy-trial.html/amp",
-      "cdnAmpWebUrl": "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/381372/airtel-apollo-hospitals-aws-5g-colonoscopy-trial.html/amp",
-      "publishedDateTime": "2022-12-22T00:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FoneArena",
-        "domain": "fonearena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

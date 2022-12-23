@@ -2,6 +2,204 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2022-10-19-new-research-paves-way-for-innovative-theory-of-cognitive-processing.md",
+      "title": "New research paves way for innovative theory of cognitive processing",
+      "excerpt": "\"We currently do not understand how neurons and glia work together, or how glial dysfunction contributes to cognitive deficits.\" Glial cells are abundant throughout the brain and play several ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/10/221019111400.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/10/221019111400.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-rivian-hires-former-waymo-exec-for-new-autonomy-ai-role.md",
+      "title": "Rivian hires former Waymo exec for new autonomy, AI role",
+      "excerpt": "Rivian has hired former Waymo executive James Philbin to lead autonomy and AI at the automaker, a new role that signals the company’s interest in automated driving technology. Philbin was ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/",
+      "originalUrl": "https://techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/IMG_2291.jpeg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/amp/",
+      "publishedDateTime": "2022-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-swap-robotics-is-paving-the-way-for-electric-solar-vegetation-cuts-and-sidewalk-snow-plowing.md",
+      "title": "Swap Robotics is paving the way for electric solar vegetation cuts and sidewalk snow plowing",
+      "excerpt": "Swap Robotics, a company that manufactures electric grass-cutting and snow removal robots, presented today at TechCrunch Disrupt Startup Battlefield to detail how it’s making sustainable outdoor ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/",
+      "originalUrl": "https://techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/swap-robotics.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/amp/",
+      "publishedDateTime": "2022-10-18T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-105m.md",
+      "title": "Keebo AI optimizes data warehouses with automated ‘learning’ platform, raises $10.5M",
+      "excerpt": "Keebo AI, which helps enterprises optimize their data warehouses, today announced it has raised $10.5 million in series A funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1176050900-e1666115841626.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/amp/",
+      "publishedDateTime": "2022-10-18T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-gpu-database-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2022-2028.md",
       "title": "GPU Database Market : An Exclusive Study On Upcoming Trends And Growth Opportunities from 2022-2028",
       "excerpt": "H2o.Ai, Fastdata.Io, Fuzzy Logix, Graphistry, Anac At last, all parts of the GPU Database Market are quantitatively also subjectively valued to think about the Global just as regional market equally.",
@@ -1002,187 +1200,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-cujo-ai-launches-explorer-first-ai-powered-device-intelligence-as-a-service.md",
-      "title": "CUJO AI Launches Explorer, First AI-powered Device Intelligence as a Service",
-      "excerpt": "CUJO AI, a global leader in cybersecurity and network intelligence solutions for network service providers (NSPs), today announced that Explorer, the AI-powered network intelligence solution, is available as a stand-alone Device Intelligence as a Service,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/10/18/9694211.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/10/18/9694211.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand.md",
-      "title": "Amazon to invest $5 bn to boost cloud infrastructure in Thailand",
-      "excerpt": "AWS’ cloud platform offers more than 200 services, including storage, robotics and artificial intelligence. AWS last month opened its first cloud data center in UAE and announced plans to setup ...",
-      "sourceUrl": null,
-      "webUrl": "https://infotechlead.com/cloud/amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand-75068",
-      "originalUrl": "https://infotechlead.com/cloud/amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand-75068",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://infotechlead.com/wp-content/uploads/2017/09/AWS-event-for-CIOs.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "infotechlead",
-        "domain": "infotechlead.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-2bcloud-expands-us-operations.md",
-      "title": "2bcloud Expands U.S. Operations",
-      "excerpt": "NEW YORK, (BUSINESS WIRE) -- 2bcloud, a leading multi-cloud cost optimization managed service provider for cloud natives from early stage to unicorns,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2bcloud-expands-us-operations-2022-10-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/2bcloud-expands-us-operations-2022-10-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-machine-learning-101-how-merchants-use-machines-to-fight-fraud.md",
-      "title": "Machine Learning 101: How Merchants Use Machines To Fight Fraud",
-      "excerpt": "As fraudsters and fraud mitigation strategies evolve, so too does a business leader's relationship with machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634d8fec5aed33b6bbc9a291/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/amp/",
-      "publishedDateTime": "2022-10-18T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

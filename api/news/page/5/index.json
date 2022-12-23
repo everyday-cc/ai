@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-12-17-ai-healthcare-bottlenecks-and-how-to-get-through-them.md",
+      "title": "AI healthcare bottlenecks (and how to get through them)",
+      "excerpt": "What are the biggest challenges facing the increasing use of AI in healthcare? Find out — and learn some solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-healthcare-bottlenecks-and-how-to-get-through-them/",
+      "originalUrl": "https://venturebeat.com/ai/ai-healthcare-bottlenecks-and-how-to-get-through-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/ai-weekly-feature-image-ai-and-healthcare.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-healthcare-bottlenecks-and-how-to-get-through-them/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-healthcare-bottlenecks-and-how-to-get-through-them/amp/",
+      "publishedDateTime": "2022-12-16T09:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-12-17-waymo-opens-phoenix-airport-rides-to-the-public-doubles-downtown-service-area.md",
       "title": "Waymo opens Phoenix airport rides to the public, doubles downtown service area",
       "excerpt": "Waymo will also be doubling its service area in downtown Phoenix following an initial launch of driverless rides in the area to the public last month, the company said. The developments come a ...",
@@ -1141,59 +1194,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-microsoft-azure-nvidia-make-ai-your-reality.md",
-      "title": "Microsoft Azure, NVidia – Make AI Your Reality",
-      "excerpt": "Artificial Intelligence can transform businesses and customer experiences but many companies struggle with how to build, operationalize and deploy AI-enabled products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/microsoft-nvidia/",
-      "originalUrl": "https://venturebeat.com/microsoft-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/large-language-header.jpg?resize=750%2C388&#038;strip=all",
-          "width": 750,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T13:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,112 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-28-computer-vision-in-healthcare-market-research-2022-growth-trends-outlook-and-future-scope-analysis-2030.md",
+      "title": "Computer Vision in Healthcare Market Research 2022 – Growth, Trends, Outlook and Future Scope Analysis 2030",
+      "excerpt": "Nov 28, 2022 (Heraldkeepers) -- The global Computer Vision in Healthcare market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-research-2022-growth-trends-outlook-and-future-scope-analysis-2030-2022-11-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-research-2022-growth-trends-outlook-and-future-scope-analysis-2030-2022-11-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard.md",
+      "title": "The future of AI and medical imaging, from Nvidia to Harvard",
+      "excerpt": "New initiatives are scaling AI models related to medical imaging and making diverse medical imaging data available to all.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/",
+      "originalUrl": "https://venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/bigstock-Bioengineering-And-Medical-Edu-455940277.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/amp/",
+      "publishedDateTime": "2022-11-28T06:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-needed-more-worker-involvement-in-artificial-intelligence-initiatives.md",
       "title": "Needed: More Worker Involvement In Artificial Intelligence Initiatives",
       "excerpt": "Something very important is missing from the AI picture: the involvement of the employees who will be charged with making AI and data-driven enterprises work.",
@@ -1290,93 +1396,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure.md",
-      "title": "Artificial Intelligence Enhanced Smartwatch ECG to Detect Heart Failure",
-      "excerpt": "Smartwatch ECG can effectively detect heart failure in nonclinical environment, revealed a new study in Nature Medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/health-images/smartwatch-health-monitoring-system.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm",
-      "publishedDateTime": "2022-11-15T20:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-why-artificial-intelligence-is-taking-over-contact-centers.md",
-      "title": "Why Artificial Intelligence Is Taking Over Contact Centers",
-      "excerpt": "Businesses with contact centers increasingly are striving to find ways to improve customer experience while reducing costs and the burden on employees. Enter artificial intelligence, which can help contact center agents respond to customers faster and be more productive while improving customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/article/2022/11/why-artificial-intelligence-taking-over-contact-centers",
-      "originalUrl": "https://biztechmagazine.com/article/2022/11/why-artificial-intelligence-taking-over-contact-centers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202211/chatbot%20Biz.jpg?itok=hMCJTqg9",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/article/2022/11/why-artificial-intelligence-taking-over-contact-centers?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/11/why-artificial-intelligence-taking-over-contact-centers?amp",
-      "publishedDateTime": "2022-11-15T12:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

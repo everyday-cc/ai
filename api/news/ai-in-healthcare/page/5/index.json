@@ -2,6 +2,104 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-04-in-the-latest-human-vs-machine-match-artificial-intelligence-wins-by-a-hair.md",
+      "title": "In the latest human vs. machine match, artificial intelligence wins by a hair",
+      "excerpt": "A protein scientist, who competed against a computer program, says machine learning will advance biotechnology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221102164140.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221102164140.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-how-artificial-intelligence-is-transforming-out-of-home-advertising-for-small-businesses.md",
+      "title": "How Artificial Intelligence Is Transforming Out-Of-Home Advertising For Small Businesses",
+      "excerpt": "Like almost every part of our lives, artificial intelligence is transforming out-of-home advertising. Now, it could be a more efficient alternative for small businesses, especially brick-and-mortar companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/03/how-artificial-intelligence-is-transforming-out-of-home-advertising-for-small-businesses/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/03/how-artificial-intelligence-is-transforming-out-of-home-advertising-for-small-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5faab56810f967bcd6e5b876/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/03/how-artificial-intelligence-is-transforming-out-of-home-advertising-for-small-businesses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/03/how-artificial-intelligence-is-transforming-out-of-home-advertising-for-small-businesses/amp/",
+      "publishedDateTime": "2022-11-03T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-artificial-intelligence-makes-enzyme-engineering-easy.md",
       "title": "Artificial intelligence makes enzyme engineering easy",
       "excerpt": "Artificial intelligence (a computer-based tool) can minimize this trial-and-error, but still relies on experimentally obtained crystal structures of enzymes—which can be unavailable or not ...",
@@ -1331,104 +1429,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029.md",
-      "title": "Military Artificial Intelligence (AI) Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2029",
-      "excerpt": "Military Artificial Intelligence (AI) Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029-2022-10-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029-2022-10-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T21:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Sales",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-study-finds-that-artificial-intelligence-can-determine-race-from-medical-images.md",
-      "title": "Study finds that artificial intelligence can determine race from medical images",
-      "excerpt": "Artificial intelligence (AI) is used in a wide variety of health care settings, from analyzing medical images to assisting with surgical procedures. While AI can sometimes outperform trained clinicians,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/study-finds-that-artif.jpg",
-          "width": 2880,
-          "height": 1338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp",
-      "publishedDateTime": "2022-10-19T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

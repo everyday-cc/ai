@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-12-artificial-intelligence-tool-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.amp"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Medical Xpress
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers discover Artificial intelligence tool that helps in cancer surgery"
+    excerpt: "The surgical procedure is frequently not predetermined when a patient has surgery to remove a tumour or treat an illness The margins of a tumour its stage an"
+    publishedDateTime: 2022-12-23T22:33:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273258377/researchers-discover-artificial-intelligence-tool-that-helps-in-cancer-surgery"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 33
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1671834457.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Presentation tool Tome launches AI to help make storytelling simpler"
     excerpt: "Since its March beta launch, Tome has prided itself on letting users quickly build presentations and tell online stories with just a few clicks or taps. As of today, the app will make it even easier for users to get started thanks to new AI tools that can help create presentations."
     publishedDateTime: 2022-12-20T09:00:00Z

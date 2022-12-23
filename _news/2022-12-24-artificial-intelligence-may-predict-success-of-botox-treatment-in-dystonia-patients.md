@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-23T20:21:00Z
 originalUrl: "https://www.medindia.net/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm"
 webUrl: "https://www.medindia.net/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm"
 type: article
+quality: 13
+heat: -1
+published: false
 
 provider:
   name: Medindia
@@ -14,6 +17,42 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "AI tool predicts which patients with dystonia respond to Botox treatment with 96% accuracy"
+    excerpt: "Dystonias are potentially disabling neurological conditions that can greatly affect quality of life. Effective treatments are sparse, with botulinum toxin (Botox) injections into the affected muscles considered the first-line therapy."
+    publishedDateTime: 2022-12-21T20:55:00Z
+    webUrl: "https://medicalxpress.com/news/2022-12-ai-tool-patients-dystonia-botox.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-12-ai-tool-patients-dystonia-botox.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-ai-tool-patients-dystonia-botox.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-91.jpg"
+        width: 2128
+        height: 1295
+        isCached: true
+  - title: "Artificial intelligence tool predicts which patients with dystonia respond to Botox treatment with 96 percent accuracy"
+    excerpt: "An artificial intelligence tool called DystoniaBoTXNet predicted which patients with dystonia would benefit from botulinum toxin injections with 96.3% accuracy. DystoniaBoTXNet could be a tool to aid clinical decision-making and address some of the issues patients with dystonia face with overtreatment and undertreatment with this first-line therapy."
+    publishedDateTime: 2022-12-21T21:17:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/12/221221121304.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 25
+  - title: "Artificial intelligence tool may help predict success of Botox treatment in patients with dystonia"
+    excerpt: "An artificial intelligence platform, DystoniaBoTXNet, used brain MRIs to automatically identify which dystonia patient would respond to botulinum toxin treatment with an accuracy"
+    publishedDateTime: 2022-12-22T14:30:00Z
+    webUrl: "https://medicaldialogues.in/neurology-neurosurgery/news/artificial-intelligence-tool-may-help-predict-success-of-botox-treatment-in-patients-with-dystonia-104456"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 5
 
 secured: "6hMPCnV111+Ae/UljEU1Tx9CBJSLlXks3WAgt5Cq9sUe0udFQDVya5s7kI8xbiJTIxNeHTONt6gbGsooujeDfwEM1cG+9tKe4G58H/EhCMnS1/Cd6Ywc8GqjdHPQql4XpyHlAf/wF3oO4G3tblxNAXCwIRmmq3yTlcd8GYI3aT2wg9Y89K5dm8QYcLgiu2jQcvFm+Lgwq5jWPn4xqrCbNwVZpJsXMGF4YUYGfg1zaP6cWzOmrXe6RR3rrp/f3wKOdMkXChUHzs5n4ZA8eWXrf8QSHdW699QfxJyyHV6ndoFCY6QcifMpvqw8uNvp9PKyib8jqx83qAE0L+0ta7YmgerGI/N+NaRzq0gI3DOYCao=;ULhwAXVFFouj8fUJ8tuSKw=="
 ---

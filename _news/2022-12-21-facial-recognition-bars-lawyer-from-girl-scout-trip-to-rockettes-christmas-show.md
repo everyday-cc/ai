@@ -107,6 +107,15 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 34
+  - title: "Girl Scout mom gets kicked out of Rockettes show due to facial recognition technology"
+    excerpt: "One mom was kicked out of a Rockettes performance after facial recognition technology recognized her at Radio City Music Hall. Category : Viral & Trending"
+    publishedDateTime: 2022-12-21T19:50:00Z
+    webUrl: "https://www.mother.ly/news/viral-trending/facial-recognition-technology-rockettes-show/"
+    type: article
+    provider:
+      name: Mother
+      domain: mother.ly
+    quality: 12
 
 secured: "RHYSNzZWhbgaZoJUdUOKZnoK9uWiYqW3GLqmyFkMxWHdh1xLhZNt+yqC4dI4fVdOySnMQk6QWF+4DrSkyp3lD33SsJCcjbcScXELaHEy5xxMpWxUMfIxqjvPahffRYiOmTfGXLo10sWwV2pjDERtZJwbcjxuVtm+gvsbVhzaHuYbswNYA4R63w1lH/8rbEDEysXAgBksXC2LkDWKQIuafLsrArlE023yiMowRowsCsw+hUUAz+V5eTaHBat4youbFB45rpMmazSC5py8lbLj5FtO4DUdsfEm5xFza9BTMV+rCw9Gq8d4KuEaTKmkHXctWCn63kHYTU6hDOu5RAxFu8Zvo1txIyEkJRG3/lJcq45ymnzxy11RAgkExZLvGwLJLDWuqyCHe0O27htw+z1/J+Xk7/Y81d2ZWaZk1+QMdFMY37DLtzKUpLxxU9mue1L9sElTX/gkFuMBDUgOH6LFF/SPGdf+U0cuhzC4CLiOJIvoOFWFFcG2R6aQ1uBehOp/a9NJkUNQt2rKpMgL6wr0bg==;Wf/nN2mtqLSHsThX31gbXA=="
 ---

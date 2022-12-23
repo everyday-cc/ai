@@ -2,6 +2,142 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-12-14-google-execs-warn-companys-reputation-could-suffer-if-it-moves-too-fast-on-ai-chat-technology.md",
+      "title": "Google execs warn company's reputation could suffer if it moves too fast on AI-chat technology",
+      "excerpt": "Google employees ask at a recent all-hands meeting if the popularity of AI chatbots represents a \"missed opportunity\" for the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/12/13/google-execs-warn-of-reputational-risk-with-chatgbt-like-tool.html",
+      "originalUrl": "https://www.cnbc.com/2022/12/13/google-execs-warn-of-reputational-risk-with-chatgbt-like-tool.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1670970512",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/12/13/google-execs-warn-of-reputational-risk-with-chatgbt-like-tool.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/12/13/google-execs-warn-of-reputational-risk-with-chatgbt-like-tool.html",
+      "publishedDateTime": "2022-12-13T12:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns.md",
+      "title": "Image-generating AI can copy and paste from training data, raising IP concerns",
+      "excerpt": "A new study offers some evidence that art-generating AI systems like Stable Diffusion copy from the data on which they were trained.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/13/image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns/",
+      "originalUrl": "https://techcrunch.com/2022/12/13/image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/13/image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/13/image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns/amp/",
+      "publishedDateTime": "2022-12-13T12:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-artificial-intelligence-in-healthcare-market-new-innovations-trends-technology-and-applications-market-report-to-2022-2028.md",
+      "title": "Artificial Intelligence in Healthcare Market New Innovations, Trends, Technology and Applications Market Report to 2022-2028",
+      "excerpt": "Pune, Maharashtra — (SBWIRE) — 12/13/2022 — Artificial Intelligence in Healthcare Market Analysis & Overview 2022: Artificial intelligence is utilised in medical research to discover how ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-new-innovations-trends-technology-and-applications-market-report-to-2022-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-new-innovations-trends-technology-and-applications-market-report-to-2022-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T12:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-a-tech-worker-is-selling-a-childrens-book-he-made-using-ai-professional-illustrators-are-pissed.md",
       "title": "A Tech Worker Is Selling A Children's Book He Made Using AI. Professional Illustrators Are Pissed.",
       "excerpt": "Ammaar Reshi told BuzzFeed News that he has received death threats and messages encouraging self-harm on social media.",
@@ -993,22 +1129,13 @@
       "title": "How AI Can Be Used Ethically to Monitor Worker Productivity",
       "excerpt": "Morgan Lewis’s Amy Schuh offers guidance for companies looking to employ AI to monitor their workforce. She shares important questions to ask beyond AI’s intended uses, and potential unintended consequences.",
       "sourceUrl": null,
-      "webUrl": "https://news.bloomberglaw.com/business-and-practice/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
-      "originalUrl": "https://news.bloomberglaw.com/business-and-practice/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
+      "webUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
+      "originalUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/e99279d/2147483647/crop/8140x3134%2B41%2B324/resize/957x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fc8%2Ff4%2Fcaf4259d40df8f2a0e40e370f321%2Fgettyimages-883730222.jpg",
-          "width": 957,
-          "height": 368,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1029,153 +1156,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-tesla-our-failure-to-make-actual-self-driving-cars-is-not-fraud.md",
-      "title": "Tesla: Our ‘failure’ to make actual self-driving cars ‘is not fraud’",
-      "excerpt": "Tesla CEO Elon Musk has said numerous times since 2015 that Tesla cars would be entirely self-driving in two years, or less. But years after his self-imposed deadlines have blown by, it still hasn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/12/12/business/tesla-fsd-autopilot-lawsuit/index.html",
-      "originalUrl": "https://www.cnn.com/2022/12/12/business/tesla-fsd-autopilot-lawsuit/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221212163026-tesla-car-0630-file-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/12/12/business/tesla-fsd-autopilot-lawsuit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/12/business/tesla-fsd-autopilot-lawsuit/index.html",
-      "publishedDateTime": "2022-12-12T22:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-microsoft-now-requires-verification-for-uk-financial-services-advertisers.md",
-      "title": "Microsoft now requires verification for UK Financial Services advertisers",
-      "excerpt": "Search Engine Land » PPC » Microsoft now requires verification for UK Financial Services advertisers Starting early this year, Microsoft will allow only advertisers duly authorized by the UK ...",
-      "sourceUrl": null,
-      "webUrl": "https://searchengineland.com/microsoft-now-requires-verification-for-uk-financial-services-advertisers-390263",
-      "originalUrl": "https://searchengineland.com/microsoft-now-requires-verification-for-uk-financial-services-advertisers-390263",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://searchengineland.com/wp-content/seloads/2022/12/Shutterstock_1174442599.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T21:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Land",
-        "domain": "searchengineland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability.md",
-      "title": "Amid controversy and emerging regulations around AI for talent management, Beamery emphasizes explainability",
-      "excerpt": "Helping bring explainability to AI in talent management, Beamery announced it has raised $50 million in a series D round of funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/",
-      "originalUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/09/now-hiring-e1670889718739.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/amp/",
-      "publishedDateTime": "2022-12-12T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

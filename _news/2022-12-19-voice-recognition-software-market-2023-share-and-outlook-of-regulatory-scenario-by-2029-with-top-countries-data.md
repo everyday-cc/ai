@@ -71,22 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market is Projected to Reach US$ 9.79 Billion in 2028"
-    excerpt: "Stratview Research, a leading market research firm has launched a report on the Voice Recognition Market which provides an in-depth analysis of the market dynamics, current and"
-    publishedDateTime: 2022-12-19T06:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/g30122680/voice-recognition-market-is-projected-to-reach-us-9-79-billion-in-2028"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30122680"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30122680"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-        width: 800
-        height: 313
-        isCached: true
 
 secured: "sThnE7QFb6zr8gSFnUeOipKJF/xPVjkQFLn9lVLMxG8+nSP9CRybeeJY/CXJ2Bv85H0fDxc5t8UtUoXJNn1ulc6tWhKd5WtjUAevUQBOJ6pFY4hbRLfaqAHOhA/+yC4bK6SJAEO0YGUPW3Oilydk8FR+oC4WCl/sxQOEGv7s0LzysI/VC+WG0zOodWFNpfoF0r0p+BanYkoc333ZSCNTfjhbeGJDzMywLDn5OBnzqN77TXaTPalBdfSNrl8BSxLmhc+L2Q6+5Ps7tHtFDZsHRtn/FE8+hA1o9c4AVz86YRzfCkLmEMoaEvczisZhxaGa+SWG4qu/ss98wkNIw0f/uAv5QjpClxDbZdu2BcfsLNw=;it9vpAQR5G0GudK2QHL0JA=="
 ---

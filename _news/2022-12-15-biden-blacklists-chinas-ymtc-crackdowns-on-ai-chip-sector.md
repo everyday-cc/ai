@@ -15,6 +15,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "KbHvnkzdTrYG9ux04Ud7nG6i3qEFSbm+wDMa0EOU7xxkMvMK0YE0MBwBIz8Fn0hiihBgEtpm4gy0yd9Sk3x1zvdqNbkd4VvjMkoCut1/0qR9uz4o718iaMtnIFqVv3YAnuvdq3Z/Q8E7GOtvJFmluXoygULN7o7EE6pySgIqzYFDSuxcdzRT2j/6Rnm7fKA0GUMpOREobJVohOo3SC+zpdcJEI+T0l/mLKMzESIByMZyLVMPqYkJ9/zTq+1UZoNCwncqg00aJ2L01gs4vHrWlF8cALowEXJ7jxqjCJplm/QDZiMUKT1I/5mIs0aCM7FlojfFkOVfxrzbMsPjmyXfC0mJ+wPDyQzgrjJA0Rswyok=;kctj9SujV4lmhb3m/UlrFg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/c/3f/c3fcc744-3d74-5ee5-840b-824b4f55c439/639b2dc0ce988.image.jpg?crop=800%2C420%2C0%2C48&resize=800%2C420&order=crop%2Cresize"
+    width: 800
+    height: 420
+    isCached: true
+
+secured: "HXeEIdrOP4zGXW9iU9ta65dvbC9leNgHrfRaT+3IG1zWYlgtgIFHN+mx13nE9AO76xS+dGXL+10zzB94I3UBAzdrZ/2NLaAfSaMz72NzhQqc2NYVXxGMdq3UM1utgtzFB4GcX36bS6xCZOJ2w8q/RTUoZT8RwkeSs8EUyxPN2aArRc05fz3sWgrjcEgsMnQzER0Xr8O6KIY/vpUfVikvfxB6eMElZ2+LEmq7TVfloYITcg0smisCrhJsgZ0l+LX9D8uLEKRrPKuh8oYPtpl1uTd/kWg1Vw+dVlijRdkSCDCj9U5rdGbx379RQWnyfjqi4z8tVjbQIQKyfQcM2pPjquwNBZIkzvWovPGdlkeFdXM=;0kCoStHJtAEigU9aaSSZ4Q=="
 ---
 

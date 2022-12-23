@@ -2,6 +2,189 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2022-10-12-vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches.md",
+      "title": "Vectara’s AI-based neural search-as-a-service challenges keyword-based searches",
+      "excerpt": "Vectara, formerly ZIR AI, has emerged from stealth with $20M in seed funding, offering AI-based neural search-as-a-service technology.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/",
+      "originalUrl": "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-search_search-engine_connected_network_1400992296-e1665532643283.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/amp/",
+      "publishedDateTime": "2022-10-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-regulatory-and-legacy-system-contraints-hampering-machine-learning-deployment.md",
+      "title": "Regulatory and legacy system contraints hampering machine learning deployment",
+      "excerpt": "UK financial firms blame a lack of regulatory clarity and legacy systems for constraining deeper deployment of machine learning technology, according to a survey conducted by the Bank of England.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/newsarticle/41125/regulatory-and-legacy-system-contraints-hampering-machine-learning-deployment",
+      "originalUrl": "https://www.finextra.com/newsarticle/41125/regulatory-and-legacy-system-contraints-hampering-machine-learning-deployment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/top_pics/xl/robo-ai.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-can-artificial-intelligence-help-identify-best-treatments-for-cancers-lsu-researchers-say-yes.md",
+      "title": "Can artificial intelligence help identify best treatments for cancers? LSU researchers say yes",
+      "excerpt": "A team of LSU researchers has developed a way to determine which drug therapies work best against an individual's unique type of cancer, possibly providing a way to find cures",
+      "sourceUrl": null,
+      "webUrl": "https://www.theadvocate.com/baton_rouge/news/education/article_76e1fb2c-3e9d-11ed-9210-8784fc7eaa99.html",
+      "originalUrl": "https://www.theadvocate.com/baton_rouge/news/education/article_76e1fb2c-3e9d-11ed-9210-8784fc7eaa99.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/c/06/c06b7424-44c6-11ed-ab1d-9b7bc78c5670/633daa3a94e74.image.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theadvocate.com/baton_rouge/news/education/article_76e1fb2c-3e9d-11ed-9210-8784fc7eaa99.amp.html",
+      "cdnAmpWebUrl": "https://www-theadvocate-com.cdn.ampproject.org/c/s/www.theadvocate.com/baton_rouge/news/education/article_76e1fb2c-3e9d-11ed-9210-8784fc7eaa99.amp.html",
+      "publishedDateTime": "2022-10-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Advocate",
+        "domain": "theadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-its-like-molecular-speed-dating-lsu-using-artificial-intelligence-in-cancer-treatments.md",
+      "title": "It's like molecular speed dating: LSU using artificial intelligence in cancer treatments",
+      "excerpt": "A team of LSU researchers has developed a way to determine which drug therapies work best against an individual's unique type of cancer, possibly providing a way to find cures",
+      "sourceUrl": null,
+      "webUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.html",
+      "originalUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/5/fc/5fc540e3-9765-5462-86ed-1865ed2efa75/63460726c216f.image.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.amp.html",
+      "cdnAmpWebUrl": "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.amp.html",
+      "publishedDateTime": "2022-10-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NOLA.com",
+        "domain": "nola.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-10-12-neural-circuit-that-control-alcohol-abuse-in-mice-identified.md",
       "title": "Neural Circuit That Control Alcohol Abuse in Mice Identified",
       "excerpt": "Would you like to receive further email communication from Technology Networks? - Select - Yes No “Alcohol dependence ... Reference: Belmer A, Depoortere R, Beecher K, Newman-Tancredi A, Bartlett SE. Neural serotonergic circuits for controlling long ...",
@@ -913,198 +1096,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-how-were-using-machine-learning-to-understand-proteins.md",
-      "title": "How we’re using machine learning to understand proteins",
-      "excerpt": "When most people think of proteins, their mind typically goes to protein-rich foods such as steak or tofu. But proteins are so much more. They’re essential to how living things operate and thrive, and studying them can help improve lives. For example, insulin treatments are life-changing for people with",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/machine-learning-to-understand-proteins/",
-      "originalUrl": "https://blog.google/technology/health/machine-learning-to-understand-proteins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-lyft-exec-was-wrong-about-driverless-vehicles-but-he-still-believes-in-their-potential.md",
-      "title": "Lyft exec was wrong about driverless vehicles — but he still believes in their potential",
-      "excerpt": "\"I really think in the next two to three years that kind of actual no driver, driverless vehicle will be something you can order pretty easily on the Lyft platform,\" he told CNBC last week in Detroit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html",
-      "originalUrl": "https://www.cnbc.com/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106305984-1576793205346gettyimages-1133498390.jpeg?v=1665486001",
-          "width": 5255,
-          "height": 3402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html",
-      "publishedDateTime": "2022-10-11T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-medical-speech-recognition-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028.md",
-      "title": "Medical Speech Recognition Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028",
-      "excerpt": "This \"Medical Speech Recognition market\" study analysis the top company in the global market and splits the Medical Speech Recognition market by product type and Application/end industries. Global \"Medical Speech Recognition Market\" Industry Report 2022 to 2028 examine the Medical Speech Recognition Market's growth potential and threats in terms of business tactics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/medical-speech-recognition-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/medical-speech-recognition-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit.md",
-      "title": "XACT Robotics® Receives FDA Clearance for its ACE Xtend™ Remote Control Unit",
-      "excerpt": "XACT Robotics ®, developer of the world’s first and only comprehensive robotic system for interventional procedures, announced today that its ACE Xtend™ Remote Control Unit received U.S. Food ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit/article_0c232374-2bbf-5a80-a421-62fd12eb7329.html",
-      "originalUrl": "https://www.eagletribune.com/region/xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit/article_0c232374-2bbf-5a80-a421-62fd12eb7329.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/3/8a/38a71a80-e7fe-52db-9cea-b4c69212cb07/6345a26dbcbb3.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

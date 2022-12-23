@@ -68,20 +68,6 @@ related:
         width: 800
         height: 313
         isCached: true
-  - title: "Salter Brothers tips into payments fintech IP Solutions"
-    excerpt: "Ex-Bombora stockpicker Gregg Taylor has ruled off his first unlisted investment in his new role as head of equities at Salter Brothers."
-    publishedDateTime: 2022-12-19T03:47:00Z
-    webUrl: "https://www.afr.com/street-talk/salter-brothers-tips-into-payments-fintech-ip-solutions-20221219-p5c7gz"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.3177%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_167/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/d273366b414b4410c3fc25265d75424676987cc2"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "What’s in store for FinTech in 2023?"
     excerpt: "FStech has reached out to thought leaders in the space to get their thoughts and opinions on what to expect in 2023"
     publishedDateTime: 2022-12-22T10:58:00Z

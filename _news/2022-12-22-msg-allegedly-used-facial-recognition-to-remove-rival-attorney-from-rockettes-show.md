@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/mgs-facial-recognition-msg-rockettes-show-1849
 webUrl: "https://gizmodo.com/mgs-facial-recognition-msg-rockettes-show-1849919528"
 type: article
 quality: 63
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -107,6 +107,15 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 34
+  - title: "Girl Scout mom gets kicked out of Rockettes show due to facial recognition technology"
+    excerpt: "One mom was kicked out of a Rockettes performance after facial recognition technology recognized her at Radio City Music Hall. Category : Viral & Trending"
+    publishedDateTime: 2022-12-21T19:50:00Z
+    webUrl: "https://www.mother.ly/news/viral-trending/facial-recognition-technology-rockettes-show/"
+    type: article
+    provider:
+      name: Mother
+      domain: mother.ly
+    quality: 12
 
 secured: "tWtnmrHk9qeh4VF+uR45rZUaNUGY6k3sc2TRwcBKyUKnCDJiu3aYdQTpxUjPl46KbdZb5tj+st6WgKPbz3vR8PF4DhvtzsE1QDG/drKilOJ8Ck6yvqnAOzqIPaqNnhLFFXU6864reUrlC6iGls5Pqw9Nv+/aDlq2OwHfB6AXTqXF1H0wrShQigqlgg3KbW5Qn182wozvUoZeQUZ4zjRjH9x7DDl5rytQms7kUyZX6oJSYVYh51clokQNgc3bTrxfx7ENogs6CbXnPcfHxy12xUjAm+Rsg4SWwPVEFmO2jyaRbz53BtK9TjPRXY9Y3OxoxdaZeiJRAk+DCjg7HBX3nC2wSQ8L/u9o0hgLJmVBDbQ=;j4crbeX7BmY2Wt8lh4Tt5w=="
 ---

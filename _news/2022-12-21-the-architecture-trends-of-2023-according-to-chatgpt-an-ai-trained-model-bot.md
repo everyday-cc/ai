@@ -101,6 +101,15 @@ related:
       name: Scientific American
       domain: scientificamerican.com
     quality: 16
+  - title: "What Do ChatGPT and AI-based Automatic Program Generation Mean for the Future of Software"
+    excerpt: "Since the release of the ChatGPT interactive AI assistant it has been surprising to see some of the snide, passive-aggressive reactions from some (not all) members of the software engineering community,"
+    publishedDateTime: 2022-12-23T20:36:00Z
+    webUrl: "https://cacm.acm.org/blogs/blog-cacm/268103-what-do-chatgpt-and-ai-based-automatic-program-generation-mean-for-the-future-of-software"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 10
 
 secured: "17/3jTmzn98I4WImikPenCaqK991dvBpzHor4q7lN/DBf2WkouttRhI2wYvXsGx2ralDLiEX2vZTgvwwb30s37FTBsLDLf3dbTfar/i+fERow2dHYtGtVWkyTnly/Z8MPyfo8OnQI6NF3dqwt85PqUPxd83/laLyf26+s6nHvgJzGyZ/JPFaYVL/XpTab2k346Wq6mWhxysJxlAXbV4tvyO6qtc0RqGMUSAQEpHgAdEjeCOfKhvbN6R4HHpbf2H8EbeORHL0/zoDhJjKoMVn+v0P9t+Vv5t1visMoIlumxZSZHmYVsROZb+x7tj+IOIF1VEu5lqkEeUfRsAVfmgEuvNryphry011TcN0BwaSMe6VSUzpGJs3xODPLex6xTsRcBOR3y22MwOjvG1LjSaJLMc1Exwucdr41h9KJGWw/yn49ekRcuhSNmLx2YJTC0psMYIYgpH1Upup+x2HrYRh9nxfDK8QOcX1Wp34ggM96W2nTeU5FZXUJ6g8B8DL0b5I6OmwuSFhuNdwDXk/0gmNVA==;sjxkJEAhGv0JqLbfkbmxqg=="
 ---

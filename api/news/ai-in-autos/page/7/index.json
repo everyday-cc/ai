@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-18-3-key-ways-artificial-intelligence-helps-organizations-drive-dei.md",
+      "title": "3 Key Ways Artificial Intelligence Helps Organizations Drive DE&I",
+      "excerpt": "Debates about the efficacy and ethics of using artificial intelligence (AI) —or not using it—when making decisions about hiring, promotions, and diversity, equity and inclusion (DE&I) have been going on for years. And while the AI Bill of Rights has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-intelligence-helps-organizations-drive-dei/",
+      "originalUrl": "https://www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-intelligence-helps-organizations-drive-dei/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/600af5868c1bda438d3a4b6a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-intelligence-helps-organizations-drive-dei/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-intelligence-helps-organizations-drive-dei/amp/",
+      "publishedDateTime": "2022-11-17T09:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-lyft-and-motional-to-offer-driverless-taxi-rides-in-los-angeles.md",
       "title": "Lyft and Motional to offer driverless taxi rides in Los Angeles",
       "excerpt": "Lyft and Motional have announced plans to launch a driverless ride-hailing service in Los Angeles using Ioniq 5 EV Level 4 robotaxis. Los Angeles will be the second city serviced by the two ...",
@@ -1314,40 +1367,6 @@
       "provider": {
         "name": "Mobile",
         "domain": "themobileindian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-automotive-artificial-intelligence-global-market-report-2022-growing-demand-for-autonomous-vehicles-driving-sector-researchandmarketscom.md",
-      "title": "Automotive Artificial Intelligence Global Market Report 2022: Growing Demand for Autonomous Vehicles Driving Sector - ResearchAndMarkets.com",
-      "excerpt": "The global automotive artificial intelligence market is expected to grow from $1.42 billion in 2021 to $1.98 billion in 2022 at a compound annual growth rate (CAGR) of 39.62%. The growth is mainly due to the companies rearranging their operations and recovering from the COVID-19 impact,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-9-automotive-artificial-intelligence-global-market-report-2022-growing-demand-for-autonomous-vehicles-driving-sector-researchandmarketscom",
-      "originalUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-9-automotive-artificial-intelligence-global-market-report-2022-growing-demand-for-autonomous-vehicles-driving-sector-researchandmarketscom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Buffalo News",
-        "domain": "buffalonews.com",
         "images": null,
         "publishers": null,
         "authors": null

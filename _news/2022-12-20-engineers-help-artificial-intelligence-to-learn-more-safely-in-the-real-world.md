@@ -73,22 +73,6 @@ related:
         width: 1536
         height: 726
         isCached: true
-  - title: "Top 10 artificial intelligence stories of 2022"
-    excerpt: "IT strategies have become more data-centric. We look at how this has played out in 2022, with artificial intelligence (AI) deployments."
-    publishedDateTime: 2022-12-19T04:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252528086/Top-10-artificial-intelligence-stories-of-2022"
-    ampWebUrl: "https://www.computerweekly.com/news/252528086/Top-10-artificial-intelligence-stories-of-2022?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252528086/Top-10-artificial-intelligence-stories-of-2022?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 61
-    images:
-      - url: "https://www.computerweekly.com/rms/onlineimages/ai_a264431831.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "Artificial intelligence and the rise of optical computing"
     excerpt: "An optical computer could likewise do lots of calculations at the same time. Using photons reduces power consumption, too. Electrical resistance generates heat, which wastes energy. The passage of photons through transparent media is resistance-free."
     publishedDateTime: 2022-12-20T16:00:00Z

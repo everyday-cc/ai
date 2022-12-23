@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market is Projected to Reach US$ 9.79 Billion in 2028"
-    excerpt: "Stratview Research, a leading market research firm has launched a report on the Voice Recognition Market which provides an in-depth analysis of the market dynamics, current and"
-    publishedDateTime: 2022-12-19T06:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/g30122680/voice-recognition-market-is-projected-to-reach-us-9-79-billion-in-2028"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30122680"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30122680"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-        width: 800
-        height: 313
-        isCached: true
   - title: "Voice Recognition Software Market 2023 : Share and Outlook of Regulatory Scenario by 2029 with Top Countries Data"
     excerpt: "A latest extensive market study titled Global “Voice Recognition Software Market\" Outlook from 2023 to 2029 enfolds"
     publishedDateTime: 2022-12-19T13:17:00Z

@@ -102,6 +102,15 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Girl Scout mom gets kicked out of Rockettes show due to facial recognition technology"
+    excerpt: "One mom was kicked out of a Rockettes performance after facial recognition technology recognized her at Radio City Music Hall. Category : Viral & Trending"
+    publishedDateTime: 2022-12-21T19:50:00Z
+    webUrl: "https://www.mother.ly/news/viral-trending/facial-recognition-technology-rockettes-show/"
+    type: article
+    provider:
+      name: Mother
+      domain: mother.ly
+    quality: 12
 
 secured: "cysYDLFk3denwpYAtcRP4GvN6LN2T7KdZvBJis7nrbn2joURiqpBjgTnYDH9JtBZL438lxUjcOUgKSiMDYjOP7nDUcqNFKYaocOqbeMVFoR+fABZrTzKOl7U6ZN3UJZjyF8p5M46XYsolfIjrDsWyNUM5EQjZUHzUyTniZKJxw94icyFvIzlFc+6VqoceXwmbMzpO4Y+wVQQYRhoMmK/bkXX4sacf2dub0eTdEdPwWt+YF70tSjNmZ9/MJrejwh4qPbKEWRTFSYBjQbAO+3gVmHRPJ11pe8noV39QK2RcVxzcjitEXsO0vtZ8zswvY+fpWoSkJGrEmgP3YStB8uN7zOiEduBwbhxRobpP4a/5wRl1gRl6cdKmH0o0i5OZzfdsjbyZ4cSxaokNoRsuPc8WSJc9mEmDMCZdLdBe2lcnEFtyLDbNFcmsxA9SyXtxbFnO6UT1ZdOjKv9wVgWR+zzs0OtLFGZ3Y+9ICNUxt/kWvxPm1S2NIEWGnY+c2fYVmRO9yGPn/W5yle9sRJObrNtjQ==;VEvya5O8EvBJOcVwsgX/PA=="
 ---

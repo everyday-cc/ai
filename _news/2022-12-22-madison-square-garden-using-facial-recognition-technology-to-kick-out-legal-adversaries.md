@@ -25,95 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "Madison Square Garden Uses Facial Recognition to Ban Its Owner’s Enemies"
-    excerpt: "MSG Entertainment, the owner of the arena and Radio City Music Hall, has put lawyers who represent people suing it on an “exclusion list” to keep them out of concerts and sporting events."
-    publishedDateTime: 2022-12-22T23:39:00Z
-    webUrl: "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html"
-    ampWebUrl: "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.amp.html"
+  - title: "TSA's facial recognition technology raises security, privacy concerns"
+    excerpt: "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country."
+    publishedDateTime: 2022-12-23T17:57:00Z
+    webUrl: "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
+    ampWebUrl: "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+    cdnAmpWebUrl: "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 88
+      name: kjrh.com
+      domain: kjrh.com
+    quality: 91
     images:
-      - url: "https://static01.nyt.com/images/2022/12/22/multimedia/00dolan-cam-2-5b5e/00dolan-cam-2-5b5e-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/14ef04f/2147483647/strip/true/crop/8640x4860+0+450/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F74%2F29%2Fc213131e41038c94fc27d4a87df4%2Fap22350850581649.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Madison Square Garden uses facial recognition against legal opponent"
-    excerpt: "Entertainment prevented a lawyer from attending a show with her daughter because she works for a firm currently suing one of its"
-    publishedDateTime: 2022-12-23T11:58:00Z
-    webUrl: "https://www.techspot.com/news/97059-madison-square-garden-uses-facial-recognition-against-legal.html"
+  - title: "TSA tests facial recognition technology at more airports"
+    excerpt: "There’s a good chance that many people traveling for the holidays through some of the nation’s busiest airports will have their faces scanned. That’s because the Transportation Security Administration is expanding its facial recognition pilot program."
+    publishedDateTime: 2022-12-19T13:08:00Z
+    webUrl: "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/"
+    ampWebUrl: "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ktre-com.cdn.ampproject.org/c/s/www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 84
+      name: KTRE
+      domain: ktre.com
+    quality: 74
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/12/2022-12-22-image-22.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/rJtC5wJXGKCN8WlDF2uXxgTJqTc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/FO6PWOKSHVCMJF5Q6UGNWYBJBU.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Girl Scout mom kicked out of Radio City and barred from seeing Rockettes after facial recognition tech identified her"
-    excerpt: "The mom and lawyers like her who work for firms that are suing Radio City's parent company, MSG Entertainment, are barred from setting foot in its venues while litigation is ongoing."
-    publishedDateTime: 2022-12-22T01:22:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/girl-scout-mom-kicked-radio-city-barred-seeing-rockettes-facial-recogn-rcna62606"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna62606"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna62606"
+  - title: "Face recognition technology to be used for security check at airports"
+    excerpt: "Smart check in’ is provided by ETC for pre-boarding security check at airports. It uses the advanced face recognition technology with high accuracy in authenticating information. This important service was introduced in the 78 th national conference of the police force on December 19-20,"
+    publishedDateTime: 2022-12-21T02:42:00Z
+    webUrl: "https://vietnamnet.vn/en/face-recognition-technology-to-be-used-for-security-check-at-airports-2092849.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 66
+      name: Vietnamnet
+      domain: vietnamnet.vn
+    quality: 71
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-12/221220-rockettes-mn-1500-b52743.jpg"
-        width: 2500
-        height: 1499
+      - url: "https://static-images.vnncdn.net/files/publish/2022/12/21/face-recognition-technology-to-be-used-for-security-check-at-airports-e64411183bc1457dba5508e8aee7a37f.jpg"
+        width: 560
+        height: 380
         isCached: true
-  - title: "Girl Scout Mom Denied Entry to Radio City Music Hall Due to Facial Recognition Tech"
-    excerpt: "Controversy grows as Radio City Music Hall incident involving a Girl Scout's mother sparks criticism that facial recognition tech is being used to target innocent people."
-    publishedDateTime: 2022-12-21T07:48:00Z
-    webUrl: "https://www.entrepreneur.com/business-news/girl-scout-mom-denied-entry-to-rockettes-show-due-to-face/441539"
+  - title: "TSA trying out facial recognition system at several new airports"
+    excerpt: "It is the new technology facing travelers as they fly for the holidays. RELATED: How does facial recognition technology work? The Transportation Security Administration is now scanning your face at select airport checkpoints as part of a growing test with passengers as the subjects."
+    publishedDateTime: 2022-12-19T15:34:00Z
+    webUrl: "https://abc13.com/airport-facial-recognition-tsa-technology-search/12588271/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 63
+      name: abc13
+      domain: abc13.com
+    quality: 54
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1671605619-GettyImages-1184155312-big-brother.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "MSG Policy Uses Facial Recognition To Boot Girl Scout Mom From Rockettes Show"
-    excerpt: "A Girl Scout mom was barred from entering a Rockettes show at Radio City Music Hall in New York City after being identified by facial recognition software. Kelly Conlon, who was traveling with her daughter's Girl Scout troop,"
-    publishedDateTime: 2022-12-21T21:43:00Z
-    webUrl: "https://www.ibtimes.com/msg-policy-uses-facial-recognition-boot-girl-scout-mom-rockettes-show-3649914"
-    ampWebUrl: "https://www.ibtimes.com/msg-policy-uses-facial-recognition-boot-girl-scout-mom-rockettes-show-3649914?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/msg-policy-uses-facial-recognition-boot-girl-scout-mom-rockettes-show-3649914?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 56
-    images:
-      - url: "https://d.ibtimes.com/en/full/3360158/radio-city-rockettes.jpg"
-        width: 2500
-        height: 1636
-        isCached: true
-  - title: "Mike Davis compares Madison Square Garden's facial recognition to Chinese Communist social credit"
-    excerpt: "Article III Project President Mike Davis decries Madison Square Garden for using facial recognition technology to restrict certain patrons on 'The Ingraham Angle.'"
-    publishedDateTime: 2022-12-23T04:21:00Z
-    webUrl: "https://www.foxnews.com/video/6317690968112"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 56
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d1b2fe9f-0084-4b46-bdce-ef58051a1a8f/32f0a019-d09c-41d1-86fa-5b01b8d881fd/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        width: 1024
-        height: 512
+      - url: "https://cdn.abcotvs.com/dip/images/12588274_121822-wls-face-recognition-img.jpg?w=1600"
+        width: 1600
+        height: 900
         isCached: true
   - title: "US Airports to use facial recognition technology"
     excerpt: "There’s a good chance that many people traveling for the holidays through some of the nation’s busiest airports will have their faces scanned."
@@ -129,91 +99,70 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Portman introduces two bills on facial recognition, AI in government"
-    excerpt: "The fate of the bills in a lame duck session of Congress is uncertain, but a Portman aide says the outgoing senator wants to be active on the subjects even after retiring."
-    publishedDateTime: 2022-12-22T20:09:00Z
-    webUrl: "https://fcw.com/congress/2022/12/portman-introduces-two-bills-facial-recognition-ai-government/381265/"
+  - title: "TSA expands use of facial recognition airport pilot program"
+    excerpt: "The Transportation Security Administration is now scanning your face at select airport checkpoints, part of a growing test with passengers as the subjects. Pete Muntean reports."
+    publishedDateTime: 2022-12-20T02:41:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/video/tsa-expands-use-of-facial-recognition-airport-pilot-program/"
     type: article
     provider:
-      name: Federal Computer Week
-      domain: fcw.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 54
     images:
-      - url: "https://cdn.fcw.com/media/img/cd/2022/12/22/122222_Getty_FCW_PortmanFacialAIBills/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Facial recognition software leads to mom being kicked out of Radio City Music Hall over her employer"
-    excerpt: "A mom chaperoning Girl Scouts to see a Christmas event at Radio Music Hall last month was kicked out after facial recognition software identified her as an employee of a New Jersey law firm battling the venue’s owner."
-    publishedDateTime: 2022-12-22T23:38:00Z
-    webUrl: "https://www.washingtontimes.com/news/2022/dec/22/kelly-conlon-girl-scout-mom-kicked-out-radio-city-/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2022/dec/22/kelly-conlon-girl-scout-mom-kicked-out-radio-city-/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/dec/22/kelly-conlon-girl-scout-mom-kicked-out-radio-city-/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 44
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/12/17/virus_outbreak_new_york_22278_c0-0-7532-4393_s1200x700.jpg?79d07c23ec0581095cf5b016f75cfc0a00e19a20"
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/20/deed59ef-9384-46fa-9d3b-c0d06aa7cf23/thumbnail/1200x630/0a4762dab90bf8ab2503c5d4b0fb455a/06be91a9325e57dee7f452bbb757003f.jpg"
         width: 1200
-        height: 700
+        height: 630
         isCached: true
-  - title: "MSG Facial-Recognition Tech Gets Lawyer Kicked Out of Radio City Show"
-    excerpt: "The woman was reportedly separated from her daughter and escorted out of the venue because the tech identified her as working for a law firm in litigation with MSG Entertainment."
-    publishedDateTime: 2022-12-21T13:04:00Z
-    webUrl: "https://www.pcmag.com/news/msg-facial-recognition-tech-gets-lawyer-kicked-out-of-radio-city-show"
+  - title: "Baltimore councilman seeks to regulate facial recognition technology after ban expires"
+    excerpt: "Opponents of facial recognition technology cite potentially dangerous invasion of privacy There's a push to regulate facial recognition technology in Baltimore after a ban on it expires next week. Many people use it every day to unlock their phones."
+    publishedDateTime: 2022-12-23T22:19:00Z
+    webUrl: "https://www.wbaltv.com/article/baltimore-councilman-seeks-to-regulate-facial-recognition-technology-after-ban-expires/42329343"
+    ampWebUrl: "https://www.wbaltv.com/amp/article/baltimore-councilman-seeks-to-regulate-facial-recognition-technology-after-ban-expires/42329343"
+    cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/baltimore-councilman-seeks-to-regulate-facial-recognition-technology-after-ban-expires/42329343"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 34
-  - title: "Facial-Recognition Tech Gets Lawyer Booted From Radio City Music Hall"
-    excerpt: "Kelly Conlon says she purchased tickets for her and her daughter to see the Radio City Music Hall Christmas show as part of a Girl Scout outing. Upon entering, Conlon says she heard an announcement over the PA system describing her physical appearance."
-    publishedDateTime: 2022-12-21T20:36:00Z
-    webUrl: "https://www.extremetech.com/extreme/341741-facial-recognition-tech-gets-lawyer-booted-from-radio-city-music-hall"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 24
+      name: WBAL-TV
+      domain: wbaltv.com
+    quality: 51
     images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2018/10/598521-facial-recognition-640x360.jpg"
-        width: 640
-        height: 360
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/facial-recognition-technology-jpg-1671811901.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 960
+        height: 540
         isCached: true
-  - title: "MSG uses facial recognition to kick out attorney whose firm is in litigation with James Dolan's company"
-    excerpt: "Multiple attorneys who work for law firms in active litigation against Madison Square Garden Entertainment have been barred from entering events owned by Dolan and MSG Entertainment. One of the most recent examples of this is Kelly Conlon,"
-    publishedDateTime: 2022-12-21T16:31:00Z
-    webUrl: "https://www.aol.com/sports/msg-uses-facial-recognition-kick-173048471.html"
+  - title: "Facial recognition technology may soon come to LI schools. Will it keep students safe or invade their privacy?"
+    excerpt: "Two state agencies are looking into the use of the surveillance system that opponents say invades privacy and proponents say helps to keep students safe."
+    publishedDateTime: 2022-12-22T12:56:00Z
+    webUrl: "https://www.newsday.com/long-island/education/facial-recognition-technology-schools-p70v0mx1"
+    ampWebUrl: "https://www.newsday.com/amp/long-island/education/facial-recognition-technology-schools-p70v0mx1"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/long-island/education/facial-recognition-technology-schools-p70v0mx1"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 23
+      name: Newsday
+      domain: newsday.com
+    quality: 39
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/J768M3povq_ZN6FCLEKDdA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_sports_800/e594c260fbfe854ba278c336630ec9cc"
-        width: 1200
-        height: 800
+      - url: "https://cdn.newsday.com/ace/c:NmFhYmM4OWUtZjFiOC00:ODAxNmQ4/landscape/1280"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Madison Square Garden's Parent Company Used Facial Recognition Tech To Eject Lawyers Suing Them From Shows"
-    excerpt: "Madison Square Garden Entertainment Corp. (MSG Entertainment) is using facial recognition technology to eject lawyers suing them from shows. According to a report by Rolling Stone, MSG Entertainment,"
-    publishedDateTime: 2022-12-23T16:00:00Z
-    webUrl: "https://metalinjection.net/news/madison-square-gardens-parent-company-used-facial-recognition-tech-to-eject-lawyers-suing-them-from-shows"
+  - title: "Facial recognition technology may soon come to LI schools. Will it keep students safe or invade their privacy?"
+    excerpt: "Two state agencies are looking into the use of the surveillance system that opponents say invades privacy and proponents say helps to keep students safe."
+    publishedDateTime: 2022-12-22T19:41:00Z
+    webUrl: "https://www.newsday.com/long-island/facial-recognition-technology-schools-p70v0mx1"
     type: article
     provider:
-      name: Metal Injection
-      domain: metalinjection.net
-    quality: 21
+      name: Newsday
+      domain: newsday.com
+    quality: 19
     images:
-      - url: "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2022/12/Madison-Square-Garden.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://cdn.newsday.com/ace/c:NmFhYmM4OWUtZjFiOC00:ODAxNmQ4/landscape/1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Woman's Expulsion From Radio City Renews Call For Facial Recognition Ban"
     excerpt: "Madison Square Garden Entertainment's use of facial-recognition technology is spurring new controversy this week, in the wake of news that Radio City Music Hall denied admittance to a lawyer who was attempting to take her daughter to a Rockettes performance."
-    publishedDateTime: 2022-12-21T19:46:00Z
-    webUrl: "https://www.mediapost.com/publications/article/380902/radio-city-uses-facial-recognition-to-block-lawyer.html"
+    publishedDateTime: 2022-12-21T21:16:00Z
+    webUrl: "https://www.mediapost.com/publications/article/380902/womans-expulsion-from-radio-city-renews-call-for.html"
     type: article
     provider:
       name: MediaPost

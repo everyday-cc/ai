@@ -34,6 +34,20 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "Researchers discover Artificial intelligence tool that helps in cancer surgery"
+    excerpt: "The surgical procedure is frequently not predetermined when a patient has surgery to remove a tumour or treat an illness The margins of a tumour its stage an"
+    publishedDateTime: 2022-12-23T22:33:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273258377/researchers-discover-artificial-intelligence-tool-that-helps-in-cancer-surgery"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 33
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1671834457.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "kObpWEQ4vzw/MhpZ6KKyNnc1cAnBCz1i/9KoXpV47FWqN79FtvMQW8yFyaAzA87wIoornQvJvLQVstmib6wqNhhclg2CZF7SuE8NRrqKHLXJKM9enq4NUwQkmjP39EgerRepLvXkmEQTesHKBV2qEmihZI3noQYAv5wXbysL2USUZyI2plSp2CA/vHCqsFT/87tirpmMTlR2pWgkz3rFm1FaecCw5Sb3pvKh2t77/vRQky/pWTfxVzCnJHpcfGuL6bUfrYtF0dlRNrWgPNQCufD3LGWcIhITG8helAYevqvSeBlCV7zEFNEhTTCYGA56r+ZWnvuN5aHQziq/QTSVqOfi501le0/EuS+QL0t4ov+wzsbcl+kMWe/zQa8S5fvhvmxEV7KAIpmZjVFAQGXemWYHt/rd21GpZCO+HUIW597clqHp8v/OxO229zkZTHP9iQC/IxknErdxD23dvz5/6LE9x+FkbMJjeeiqFmlz+IJ7BqfJ/uOzwG9B25Gm4eJj372DxuqWKouNtzo75wC7HA==;fsWtTdvUYr+hH+hUeSUasA=="
 ---
