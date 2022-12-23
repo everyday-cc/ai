@@ -23,20 +23,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "AI image generators: everything you need to know"
-    excerpt: "AI image generators are the most radical new development we've seen in the visual arts for some time – perhaps since the advent of digital photography. The technology has advanced massively in the last year,"
-    publishedDateTime: 2022-12-21T10:15:00Z
-    webUrl: "https://www.digitalcameraworld.com/features/ai-image-generators-everything-you-need-to-know"
-    type: article
-    provider:
-      name: digitalcameraworld
-      domain: digitalcameraworld.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/MkLLsUGUEnNwvRRFaygwu3-1200-80.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "What Companies Need to Know Before Investing in AI"
     excerpt: "Different forms of AI can improve performance through prediction; automation of routines; and identification of images, keywords, and patterns in voice and text. However, organizations often struggle with knowing where investments in AI will really pay off."
     publishedDateTime: 2022-12-19T13:25:00Z

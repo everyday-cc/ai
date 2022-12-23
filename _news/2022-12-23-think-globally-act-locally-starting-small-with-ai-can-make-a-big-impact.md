@@ -40,13 +40,13 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 76
+    quality: 78
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/not-everything-we-call.jpg"
         width: 1356
         height: 668
         isCached: true
 
-secured: "+qmPsR1SdRuHIajOlYv1u24xin2YwcCv8QYbBfsPMwilO0WBG/B4wRVLW6bIJxP3q018+cOzlUrf3Sta9+aooP/LUpPaEYDQGt6IyCGjd4WHpKtV0Q7WQ0Ts7RVaZqA0HkiaGU4ZySWwvSS7AOabRYenT8+yRMYk7J1em27dJyLMlgDlatV3Jdyg3iTt1ntbsoIaFgtKBtDTEJproT9zi/hpSO8/pMMlA1YFk0+Q+PNPFgoLIAI4HVNjQ7RfcjW4YgvasDYl7y3E8eAVx/CUJE78RMm2HCXUprHN3kSnZnxPbVNGra/pavtU8N72tXAvb7OhQPrfnEuO8zTxTOePw3IH5Xgm1J/4zrDlEZ2v8eQ=;anuaavIMs69RsIdjdVkJ0Q=="
+secured: "+JhYT8+PQP7H4iKO94zv4AGzGBeROzHYaIueqZnnzYnnU8ln9QjZoreX8yw6qY9UR+39+oG0578a5/MfxM/7GaxO2m0sTMRWpwrqsRS575RmHpltS/fHCWQxsa/N7XO2FZw23dvmWYh5BURdE/+EgVjb8B7eiHLOcgVwXjAwIWuhdJb9zTjwz/If2brzjA+BknaErzu6oOR+SACw2RwvHwQLfLggLyWUpSr7ABQNQ2JZ8KAaU1C3lKUjTZN50RHJXLnrDCzaRzAFSYxBOEadAgm1iS2aFt8N8M6rU80A+VNZvyZU6gc94qkVLWQKdOCjqMyjTULfqs4mUBc+0fYmBRtJHkImyzMkIfwHg4O/RAUenZehdn2pNrnzFv8BWEapoJK5JgX/h9uMOe8ESDOEfJyl+12UgbPrH3w117ZcLesaa3YJYEG/TTd0aX67L3alMQN36e0LRJqxkT+BcHwDQ4VOYMIr9o8T3zQ8SfXU1VNOhRHacfePZ0HeN/W4Su9D4hUGuh3a0HkAUEU52IjUYw==;8p/hrETKN7xpUBuRw3W/Ow=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-fa
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.amp.html"
 type: article
 quality: 88
-heat: 188
+heat: 198
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://d.ibtimes.com/en/full/3360158/radio-city-rockettes.jpg"
         width: 2500
         height: 1636
+        isCached: true
+  - title: "Mike Davis compares Madison Square Garden's facial recognition to Chinese Communist social credit"
+    excerpt: "Article III Project President Mike Davis decries Madison Square Garden for using facial recognition technology to restrict certain patrons on 'The Ingraham Angle.'"
+    publishedDateTime: 2022-12-23T04:21:00Z
+    webUrl: "https://www.foxnews.com/video/6317690968112"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 56
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d1b2fe9f-0084-4b46-bdce-ef58051a1a8f/32f0a019-d09c-41d1-86fa-5b01b8d881fd/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        width: 1024
+        height: 512
         isCached: true
   - title: "US Airports to use facial recognition technology"
     excerpt: "There’s a good chance that many people traveling for the holidays through some of the nation’s busiest airports will have their faces scanned."

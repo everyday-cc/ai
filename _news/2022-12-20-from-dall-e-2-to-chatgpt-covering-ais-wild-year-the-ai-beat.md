@@ -77,15 +77,6 @@ related:
         width: 1600
         height: 892
         isCached: true
-  - title: "Enraged Worries That Generative AI ChatGPT Spurs Students To Vastly Cheat When Writing Essays, Spawns Spellbound Attention For AI Ethics And AI Law"
-    excerpt: "Generative AI such as the ChatGPT app has gotten a huge backlash that students will readily now be able to cheat when writing essays and that we are doomed accordingly. We take a close look, considering both AI Ethics and AI Law considerations on this weighty concern."
-    publishedDateTime: 2022-12-18T11:59:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/18/enraged-worries-that-generative-ai-chatgpt-spurs-students-to-vastly-cheat-when-writing-essays-spawns-spellbound-attention-for-ai-ethics-and-ai-law/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 26
   - title: "AI Platforms like ChatGPT Are Easy to Use but Also Potentially Dangerous"
     excerpt: "Systems like ChatGPT are enormously entertaining and even mind-bogglingly human-sounding, but they are also unreliable and could create an avalanche of misinformation"
     publishedDateTime: 2022-12-19T20:41:00Z

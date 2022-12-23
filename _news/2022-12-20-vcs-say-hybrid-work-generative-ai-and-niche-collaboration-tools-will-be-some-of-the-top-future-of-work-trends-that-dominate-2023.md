@@ -28,45 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "How Generative AI Will Change All Knowledge Work"
-    excerpt: "The acceleration of applications around generative AI is showing us how quickly and broadly our work will change."
-    publishedDateTime: 2022-12-18T12:30:00Z
-    webUrl: "https://time.com/charter/6242075/how-generative-ai-will-change-all-knowledge-work/"
+  - title: "VCs say AI in the classroom and tech meant to help students who've fallen behind will be among the top edtech trends in 2023"
+    excerpt: "One startup attempting to tackle this is Clayful ... Several VCs including Quazzo of GSV also bet heavily that generative AI, or artificial intelligence that can create content, would become increasingly prevalent in schools and universities in the ..."
+    publishedDateTime: 2022-12-19T11:03:00Z
+    webUrl: "https://www.businessinsider.com/top-edtech-trends-2023-according-education-vcs-vr-teaching-ai-2022-12"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 69
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
     images:
-      - url: "https://api.time.com/wp-content/uploads/2022/12/image-7.png?w&#x3D;1600"
-        width: 1600
-        height: 1200
+      - url: "https://i.insider.com/6399dd1927c0a700193e0f10?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "How to spot AI-generated text"
-    excerpt: "The internet is increasingly awash with text written by AI software. We need new tools to detect it. This sentence was written by an AI—or was it? OpenAI’s new chatbot, ChatGPT, presents us with a problem: How will we know whether what we read online ..."
-    publishedDateTime: 2022-12-19T10:32:00Z
-    webUrl: "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/"
-    ampWebUrl: "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/12/pencils2a_1.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Three Ways To Become More Knowledgeable About AI"
-    excerpt: "AI technology, like many new and fast-moving technologies, presents a specific challenge to business leaders to think through how their business could be improved."
-    publishedDateTime: 2022-12-19T13:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/19/three-ways-to-become-more-knowledgeable-about-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "HTZ8OlyTzh+FrecytL1vPapyc3+GVjtUoa3YPyrjg7+wQnjOXDmWDVT1r92C6fK+TqZUW1mzguXRV4uqOoqQD8iAg7EuhzkOhTtU1RGadDK/O7DTROutif6XnAW3BSVcf10Cf1uBEyBRHogtCAWvEG3ZT+cyKQgs8O/+qkLMGUjJJG0V1luXsWO21PY+v/uVtq5p0KzYutQ9BGlR0W6cWsoIe2W4V/8rKucPJi3KEzEhpT8uUaLTqPoH+wlTttfpOsOIb0elgbpC9ck/K440tmsTZ+i4T3Ud/s7xAG97iHCfGSt6nNXDNR5TFHVvcQHKeFwig2w1k6T/mIlKrPvjg40qCC/tAflTW9Pl1cmY4+toUv4tzCur95Dx6+B+840eP8VsW/fbA3wH60B8k8Ye2a1ElLKGtGVct4OWg6wnWF15f78DmZk9UQYM+tY2k04vtO6qbU4/AZkjmUnvNY+aLv4MpF2jzivVdmk4FsiI8gABYZVMgR0owBRy634qxQrB+GdOYft1gOZqWpLNRDBhcA==;uhppSo/AKrY6PiQJPQ4JKA=="
 ---

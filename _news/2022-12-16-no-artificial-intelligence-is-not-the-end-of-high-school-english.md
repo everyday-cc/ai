@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mediadc.brightspotcdn.com/dims4/default/ac22e6c/2147483647/strip/true/crop/1800x945+0+34/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F57%2F09%2F4c43acef4d1aa0ac2519d17d6b80%2Ftech-071718.jpg"

@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://s42137.pcdn.co/wp-content/uploads/2022/12/artificiial-intelligence-diversity-scaled.jpg.optimal.jpg"

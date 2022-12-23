@@ -5,6 +5,8 @@ excerpt: "Today’s podcast looks at travel and artificial intelligence, Air Asi
 publishedDateTime: 2022-12-12T09:48:00Z
 originalUrl: "https://skift.com/2022/12/12/artificial-intelligence-and-the-future-of-travel/"
 webUrl: "https://skift.com/2022/12/12/artificial-intelligence-and-the-future-of-travel/"
+ampWebUrl: "https://skift.com/2022/12/12/artificial-intelligence-and-the-future-of-travel/amp/"
+cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2022/12/12/artificial-intelligence-and-the-future-of-travel/amp/"
 type: article
 quality: 19
 heat: -1
@@ -17,6 +19,13 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://skift.com/wp-content/uploads/2021/12/9255B8E8-615F-4148-B568-AD250F91DEF2.jpeg"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "The Future Of Retail: Four Ways For The Industry To Utilize AI"

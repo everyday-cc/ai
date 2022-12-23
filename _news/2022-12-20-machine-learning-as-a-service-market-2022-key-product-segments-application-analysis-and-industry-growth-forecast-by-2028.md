@@ -117,15 +117,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 29
-  - title: "Chatbots Market 2023 : Business Scenario, Corporate Profiles, Size and Dynamic Innovation by 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Chatbots"
-    publishedDateTime: 2022-12-18T11:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/chatbots-market-2023-business-scenario-corporate-profiles-size-and-dynamic-innovation-by-2028-2022-12-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
   - title: "Artificial Intelligence Products Market 2022 Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
     excerpt: "The study report provides aid to investors in gaining a better analysis of the Artificial Intelligence Products market along with the driving factors, restraints, opportunities, and challenges. The research report provides information on the definition and segmentation and explains the market's scope along with information on applications and end-users."
     publishedDateTime: 2022-12-20T22:11:00Z

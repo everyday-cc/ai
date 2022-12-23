@@ -32,7 +32,7 @@ related:
   - title: "Study finds AI assistants help developers produce code that's more likely to be buggy"
     excerpt: "In a paper titled, \"Do Users Write More Insecure Code with AI Assistants?\", Stanford boffins Neil Perry, Megha Srivastava, Deepak Kumar, and Dan Boneh answer that question in the affirmative. Worse still,"
     publishedDateTime: 2022-12-21T06:30:00Z
-    webUrl: "https://www.theregister.com/2022/12/21/ai_assistants_bad_code/?td=rt-3a"
+    webUrl: "https://www.theregister.com/2022/12/21/ai_assistants_bad_code/"
     ampWebUrl: "https://www.theregister.com/AMP/2022/12/21/ai_assistants_bad_code/"
     cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/12/21/ai_assistants_bad_code/"
     type: article

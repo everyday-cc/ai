@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-marke
 webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029-2022-12-20"
 type: article
 quality: 63
-heat: 183
+heat: 173
 published: true
 
 provider:
@@ -143,15 +143,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
-  - title: "Artificial Intelligence (AI) Consulting Market Market Size 2023 Industry Analysis, Key Players, Regional Demand, Opportunity and Forecast 2028"
-    excerpt: "Consulting Market \" Insights 2022 - By Applications (Technology Consulting, Management Consulting), By Types (, Strategy Development, Strategy Execution, Commercial Due Diligence, Customer Training, ),"
-    publishedDateTime: 2022-12-18T11:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-market-size-2023-industry-analysis-key-players-regional-demand-opportunity-and-forecast-2028-2022-12-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
   - title: "Swarm Intelligence Market 2023 : Industry Scenario, Strategies, Growth Factors and Forecast to 2028"
     excerpt: "By Types (Ant Colony Optimization,Particle Swarm Optimization,Other), By Segmentation analysis, Regions and Forecast to 2028. The Global Swarm Intelligence market Report provides In-depth analysis on the market status of the Swarm Intelligence Top manufacturers with best facts and figures,"
     publishedDateTime: 2022-12-19T08:41:00Z

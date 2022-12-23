@@ -2,6 +2,100 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2022-09-29-intel-reveals-arc-a770-gpu-price-and-availability.md",
+      "title": "Intel Reveals Arc A770 GPU price and availability",
+      "excerpt": "Intel claims that its GPU offers up to 65% better peak performance versus competing products (presumably NVIDIA RTX 3060 series) in ray tracing. In addition, A770 features a full complement of 32 Xe Cores and ray tracing units.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digit.in/news/pc-components/intel-reveals-arc-a770-gpu-price-and-availability-65431.html",
+      "originalUrl": "https://www.digit.in/news/pc-components/intel-reveals-arc-a770-gpu-price-and-availability-65431.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.digit.in/default/6c05faa58515f2a238ad80b12e86c16810dc453c.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digit.in/article/amp/pc-components/65431/intel-reveals-arc-a770-gpu-price-and-availability",
+      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/pc-components/65431/intel-reveals-arc-a770-gpu-price-and-availability",
+      "publishedDateTime": "2022-09-28T18:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-experts-warn-ai-assistants-are-hurting-the-social-development-of-children.md",
+      "title": "Experts warn AI assistants are hurting the social development of children",
+      "excerpt": "An analysis from Cambridge experts suggest that interactions with AI assistants like Alexa is impeding the social development of children and disrupt learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/digital-assistants-alexa-siri-research-affecting-social-growth-skills-children/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/digital-assistants-alexa-siri-research-affecting-social-growth-skills-children/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2018/03/wear_os_google_assistant.jpg?p=1",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/digital-assistants-alexa-siri-research-affecting-social-growth-skills-children/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/digital-assistants-alexa-siri-research-affecting-social-growth-skills-children/?amp",
+      "publishedDateTime": "2022-09-28T17:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-bioinspired-robots-walk-swim-slither-and-fly.md",
       "title": "Bioinspired robots walk, swim, slither and fly",
       "excerpt": "Part of Nature Outlook: Robotics and artificial intelligence Her mind returned to those curious ... Now Kim is developing control software that he hopes will allow the robot to move smoothly ...",
@@ -1078,92 +1172,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-chinas-ponyai-saic-ai-lab-to-advance-marvel-r-robotaxi-partnership.md",
-      "title": "China's Pony.ai, SAIC AI Lab to Advance Marvel-R Robotaxi Partnership",
-      "excerpt": "Pony.ai, a Chinese autonomous driving startup, and an artificial intelligence lab of SAIC Motor Group are deepening joint product development after revealing their driverless concept car Marvel-R. SAIC AI Lab and Pony.",
-      "sourceUrl": null,
-      "webUrl": "https://www.yicaiglobal.com/news/china-ponyai-saic-ai-lab-to-advance-marvel-r-robotaxi-partnership",
-      "originalUrl": "https://www.yicaiglobal.com/news/china-ponyai-saic-ai-lab-to-advance-marvel-r-robotaxi-partnership",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img.yicaiglobal.com/cdn/news/china-ponyai-saic-ai-lab-to-advance-marvel-r-robotaxi-partnership/23913886101189.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-28T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yicai Global",
-        "domain": "yicaiglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-3-cognitive-errors-that-can-lead-to-rumination.md",
-      "title": "3 Cognitive Errors That Can Lead to Rumination",
-      "excerpt": "Alice Boyes, Ph.D., translates principles from Cognitive Behavioral Therapy and social psychology into tips people can use in their everyday lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/in-practice/202209/3-cognitive-errors-can-lead-rumination",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/in-practice/202209/3-cognitive-errors-can-lead-rumination",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/valentin-salja-0ax51h4wvak-unsplash.jpg?itok=dn2FAPa4",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/in-practice/202209/3-cognitive-errors-can-lead-rumination?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/in-practice/202209/3-cognitive-errors-can-lead-rumination?amp",
-      "publishedDateTime": "2022-09-27T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

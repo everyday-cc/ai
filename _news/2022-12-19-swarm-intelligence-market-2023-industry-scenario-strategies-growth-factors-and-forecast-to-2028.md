@@ -150,15 +150,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
-  - title: "Artificial Intelligence (AI) Consulting Market Market Size 2023 Industry Analysis, Key Players, Regional Demand, Opportunity and Forecast 2028"
-    excerpt: "Consulting Market \" Insights 2022 - By Applications (Technology Consulting, Management Consulting), By Types (, Strategy Development, Strategy Execution, Commercial Due Diligence, Customer Training, ),"
-    publishedDateTime: 2022-12-18T11:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-market-size-2023-industry-analysis-key-players-regional-demand-opportunity-and-forecast-2028-2022-12-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
   - title: "Autonomous Vehicles Market Growth and Global Share 2023 | Developing Regions, Emerging Trends and Industry Size Forecast to 2029"
     excerpt: "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Autonomous Vehicles Market”"
     publishedDateTime: 2022-12-22T08:30:00Z

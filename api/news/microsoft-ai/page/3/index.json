@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-02-playing-the-piano-boosts-brain-processing-power-and-helps-lift-the-blues.md",
+      "title": "Playing the piano boosts brain processing power and helps lift the blues",
+      "excerpt": "A randomized control trial led by psychologists shows the positive effects learning to play music for just a few weeks has on cognitive abilities. A new study published by researchers at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/12/221202124841.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/12/221202124841.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-n-ix-obtains-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization.md",
       "title": "N-iX obtains the Modernization of Web Applications to Microsoft Azure Advanced Specialization",
       "excerpt": "N-iX, a leading European software development company, has earned the Modernization of Web Applications to Microsoft Azure advanced specialization. It is a validation of the company's deep knowledge and extensive experience in migrating and modernizing production web application workloads and managing app services in Azure.",
@@ -1275,49 +1318,6 @@
       "provider": {
         "name": "News Medical",
         "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-biggest-myths-of-ai.md",
-      "title": "Biggest myths of AI",
-      "excerpt": "“The notion that AI will be so smart that it will take over our lives. At the end of the day, AI is just a tool. Pretty much like the shovel or kitchen knife, it can be used both in good ways ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digit.in/amp-stories/biggest-myths-of-ai/",
-      "originalUrl": "https://www.digit.in/amp-stories/biggest-myths-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://transform.nws.ai/https%3A%2F%2Fcdn.thenewsroom.io%2Fplatform%2Fstory_media%2F1288797087%2Fscreenshot-2022-11-22-at-40703-pm.png/fill/1200/628/",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digit.in/amp-stories/biggest-myths-of-ai/",
-      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/amp-stories/biggest-myths-of-ai/",
-      "publishedDateTime": "2022-11-22T02:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digit",
-        "domain": "digit.in",
         "images": null,
         "publishers": null,
         "authors": null

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 816
         isCached: true
-  - title: "Channel 4’s Christmas message to be AI-generated and delivered by a robot"
-    excerpt: "The broadcast, which will run after the King’s official BBC Christmas message at 3pm, will see the robot speak about the highs and lows of 2022."
-    publishedDateTime: 2022-12-22T07:01:00Z
-    webUrl: "https://www.aol.com/channel-4-christmas-message-ai-000100334.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 53
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/eSirVuPNAD7yJddv60e3Vg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/32a5a227bc57f0175e4e706493d8d379"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "DA55vz8DRBoIFQ8vV0Ig4cHgwXhDBRDeprIcnu1QHRCmE9l5IHJCq4uWFYJfHY8CJnGVBHHk/+Ej20kcY+HtSM2iImevDSwvQhkV1pidqaRiOeqf385BcNsewHgzSz82jsbm2dJvgyn0ic/xb21ljODXGOR5E7njkO8Eg5bSpipmW0c85EHPrVe0i7LAv7MnvSGHUuXS+nPc+ZDO6Ow5JUEx3l8UsAlB9NVAjze0R3ptE9cPfJGuCpJx+3nB1uzmmdJ98nDVR+KECn+kFLO66c/3/5tpb0/OJUssP5DrW4pieEWU+7zTsne0hWQFbN+d8+vVtuqZQu81ugwZqhsMVXr4FM5qLhBoKPR7AQNzjEqfKWVuhH+sN3WvuXNzY1RwdgOJlCTrrupRNFSyMKFDoCrpaPzcBWiNQXdmGQxzbAH+sMr7WFPiaRQnzTO9LA+pTDE/hzJRmgcLKqP/b9ZqAIS+T9qlnD0SBKwVrQOvmlYcOVdvU8lihOOkWUi9gngFoabdU83/2yvP6a2eN9xI8g==;nVdlKSduJD8Fw+ckognlfA=="
 ---

@@ -19,6 +19,7 @@ topics:
   - AI
   - AI Ethics
   - Machine Learning
+  - AI in Autos
 
 related:
   - title: "AI healthcare bottlenecks (and how to get through them)"
