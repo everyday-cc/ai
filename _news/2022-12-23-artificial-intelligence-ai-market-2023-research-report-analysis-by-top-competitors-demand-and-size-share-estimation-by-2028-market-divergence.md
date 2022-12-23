@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GPU for Deep Learning Market New Innovations and Future Expansion 2022-2028"
+    excerpt: "MarketsandResearch.biz has introduced a new Global GPU for Deep Learning Market Research Report 2022-2028 survey report containing data and statistics about market structure and size. The market segments are analyzed on the segmentation and local stage to help determine the high areas."
+    publishedDateTime: 2022-12-20T15:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-new-innovations-and-future-expansion-2022-2028-2022-12-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
   - title: "Computer Vision Market : Competitive Strategy Analysis and Forecast Values 2022-2028"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Computer"
     publishedDateTime: 2022-12-22T04:41:00Z
@@ -122,6 +131,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech Recognition Market 2022 Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
+    excerpt: "The report is a comprehensive guide to comprehending the structure of the global Speech Recognition industry and the future trends that the industry is the potential to experience and thus would help plan an optimal approach to succeed in this Speech Recognition market."
+    publishedDateTime: 2022-12-20T14:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-2022-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028-2022-12-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
   - title: "Facial Recognition Market 2022 : Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
     excerpt: "By Types (3D facial recognition, 2D facial recognition), By Segmentation analysis, Regions and Forecast to 2028. The Global Facial Recognition market Report provides In-depth analysis on the market status of the Facial Recognition Top manufacturers with best facts and figures,"
     publishedDateTime: 2022-12-20T05:19:00Z

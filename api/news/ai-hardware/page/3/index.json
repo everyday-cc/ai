@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-02-top-10-chinese-ai-chip-companies-in-2022.md",
+      "title": "Top 10 Chinese AI chip companies in 2022",
+      "excerpt": "MediaTek Inc grabbed second spot on this year's ranking of top 50 Chinese AI chip companies, followed by Horizon Robotics. Let's take a look at the top 10 Chinese AI chip companies in 2022. Copyright 1995 - 2022 .",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202212/02/WS63892d40a31057c47eba233a.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202212/02/WS63892d40a31057c47eba233a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202212/02/638938f0a31057c4b4b0cb36.jpeg",
+          "width": 698,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T01:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-pci-sig-calls-out-gpu-chipmakers-over-flaming-plugs.md",
       "title": "PCI-SIG calls out GPU chipmakers over flaming plugs",
       "excerpt": "The Peripheral Component Interconnect Special Interest Group [PCI-SIG] has waded into companies like Nvidia for peddling products with the 16-pin 12VHPWR power connector, such as Nvidia's GeForce ...",
@@ -1377,49 +1420,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree.md",
-      "title": "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE",
-      "excerpt": "Applied Brain Research Inc. (ABR) today announced that it has been named a CES® 2023 Innovation Awards Honoree for the ABR Time Series Processor (TSP) AI chip. This year's Consumer Electronics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/29807580/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/29807580/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newswire.com/files/x/bd/36/f05eb2b9ef004d4ca52698a1dbf8.png",
-          "width": 608,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29807580",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29807580",
-      "publishedDateTime": "2022-11-21T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

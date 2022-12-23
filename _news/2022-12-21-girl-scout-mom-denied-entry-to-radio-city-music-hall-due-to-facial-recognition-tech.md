@@ -200,6 +200,29 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Madison Square Garden's Parent Company Used Facial Recognition Tech To Eject Lawyers Suing Them From Shows"
+    excerpt: "Madison Square Garden Entertainment Corp. (MSG Entertainment) is using facial recognition technology to eject lawyers suing them from shows. According to a report by Rolling Stone, MSG Entertainment,"
+    publishedDateTime: 2022-12-23T16:00:00Z
+    webUrl: "https://metalinjection.net/news/madison-square-gardens-parent-company-used-facial-recognition-tech-to-eject-lawyers-suing-them-from-shows"
+    type: article
+    provider:
+      name: Metal Injection
+      domain: metalinjection.net
+    quality: 21
+    images:
+      - url: "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2022/12/Madison-Square-Garden.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Woman's Expulsion From Radio City Renews Call For Facial Recognition Ban"
+    excerpt: "Madison Square Garden Entertainment's use of facial-recognition technology is spurring new controversy this week, in the wake of news that Radio City Music Hall denied admittance to a lawyer who was attempting to take her daughter to a Rockettes performance."
+    publishedDateTime: 2022-12-21T19:46:00Z
+    webUrl: "https://www.mediapost.com/publications/article/380902/radio-city-uses-facial-recognition-to-block-lawyer.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 18
 
 secured: "6tkENZCWRh4c/c4oBptfU1qVrA8JSmRcXCKTzu0Zn+MFzmhWki2P35S7MiLa0asLpwO73k9t7xhI+KqSO8Jb/NnPcF1g/XnqDcLBsbRZBMFFh3hJRMP7uFdEmitomK6+e319zknQRhf6Ze48fHG3xPdFYEolHStZzjAs6qqNQeeZgISula7VSYKGnJDPmRLxBQa1rfkFE2+wC+6I816SqRiTx/bEOylt6W5q8rbbqE8z8fZLz7Zr5h4ogQIZFhp60ut9rCyyijMCqCDKt4AZwiIkI+Y5o3Z7CwH2A+j6J7Tmx0CbM8HGdYjBZf/xHeL0Ax0ReEXXyz68WymDNK0cOfujnzLzuNO1mSjEB5EEQxGCBA69AjlfKHY4ie8TFdLFWlE4PPmkien/R7WAfPLgMDuFJfbgAPTC1B3CF5x59h4kxLP1Jz7NFVPgSQIqdCjqbAhoZPnSkYVhfRS9BgWTYyMFTcgtD7b12sH9897BzsA22sKEjjOh/QDCSdovWGItn8E4JOCav2Io/GWPlpuEVw==;tXjw8UyEGf8mFHA9ERXNog=="
 ---

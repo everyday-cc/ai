@@ -2,6 +2,292 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-12-01-amazon-to-warn-customers-on-limitations-of-its-ai.md",
+      "title": "Amazon to warn customers on limitations of its AI",
+      "excerpt": "Amazon chose software touching on sensitive demographic issues as a start for its service cards, which Kearns expects to grow in detail over time. One such service is called \"Rekognition.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/amazon-warn-customers-limitations-its-ai-3113256",
+      "originalUrl": "https://www.channelnewsasia.com/business/amazon-warn-customers-limitations-its-ai-3113256",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--ChyNQ6ox--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-30t214432z_2_lynxmpeiat0y5_rtroptp_3_amazon-com-layoffs.jpg?itok=iZxgCCnS",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T17:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-ai-bedtime-stories-ibm-cloud-docker-hub-eu-cybersec-legislation-esw-298.md",
+      "title": "AI Bedtime Stories, IBM Cloud, Docker Hub, & EU CyberSec Legislation – ESW #298",
+      "excerpt": "9. SUPPLY CHAIN: Hell’s Keychain – Supply Chain Attack in IBM Cloud’s Databases for PostgreSQL This just came off embargo this morning, but apparently, Wiz researchers were able to reach ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmagazine.com/podcast-segment/ai-bedtime-stories-ibm-cloud-docker-hub-eu-cybersec-legislation-esw-298",
+      "originalUrl": "https://www.scmagazine.com/podcast-segment/ai-bedtime-stories-ibm-cloud-docker-hub-eu-cybersec-legislation-esw-298",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.scmagazine.com/wp-content/uploads/2022/12/ESW_298_-_Seg_3-0.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SC Media",
+        "domain": "scmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-cognitive-space-hires-retired-general-as-strategic-advisor.md",
+      "title": "Cognitive Space hires retired general as strategic advisor",
+      "excerpt": "Cognitive Space developed a software tool called CNTIENT to manage a hybrid architecture of remote-sensing satellites. Credit: Cognitive Space Retired Maj. Gen. Aaron Prupas was most recently ...",
+      "sourceUrl": null,
+      "webUrl": "https://spacenews.com/cognitive-space-hires-retired-general-as-strategic-advisor/",
+      "originalUrl": "https://spacenews.com/cognitive-space-hires-retired-general-as-strategic-advisor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://spacenews.com/wp-content/uploads/2022/12/Screenshot-2022-12-01-at-4.12.29-AM.png",
+          "width": 1966,
+          "height": 1014,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SpaceNews",
+        "domain": "spacenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-stability-ai-doubles-down-on-aws.md",
+      "title": "Stability AI doubles down on AWS",
+      "excerpt": "Generative AI startups Stability AI today announced that AWS is now its preferred cloud partner for building and deploying its models.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/",
+      "originalUrl": "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/2_4x.png?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/amp/",
+      "publishedDateTime": "2022-11-30T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-disneys-new-neural-network-can-change-an-actors-age-with-ease.md",
+      "title": "Disney’s new neural network can change an actor’s age with ease",
+      "excerpt": "Disney researchers have created a new neural network that can alter the visual age of actors in TV or film, reports Gizmodo. The technology will allow TV or film producers to make actors appear ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/11/disney-creates-ai-fountain-of-youth-for-actors/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/11/disney-creates-ai-fountain-of-youth-for-actors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/disney_fran_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/disney-creates-ai-fountain-of-youth-for-actors/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/disney-creates-ai-fountain-of-youth-for-actors/amp/",
+      "publishedDateTime": "2022-11-30T15:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-san-franciscos-killer-robots-threaten-the-citys-most-vulnerable.md",
+      "title": "San Francisco's Killer Robots Threaten the City's Most Vulnerable",
+      "excerpt": "Law enforcement says that in some scenarios a lethal robot is the only way to protect public safety. Experts say the policy will harm communities of color.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/",
+      "originalUrl": "https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6387ab9b112650bb61bedb4b/master/pass/Security-SFPD-Lethal-Force-1367945379.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/amp",
+      "publishedDateTime": "2022-11-30T14:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-experimental-alzheimers-drug-slows-cognitive-decline.md",
       "title": "Experimental Alzheimer’s Drug Slows Cognitive Decline",
       "excerpt": "The experimental Alzheimer’s disease drug lecanemab slowed cognitive decline in some people with early Alzheimer’s disease but also caused serious side effects in some patients, according to ...",
@@ -840,281 +1126,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-baidu-to-supply-l2-driver-assisting-anp-30-mid-2023.md",
-      "title": "Baidu to supply L2+ driver-assisting ANP 3.0 mid-2023",
-      "excerpt": "Baidu unveiled its latest progress on unifying L4 and L2+ autonomous driving technology on Apollo Day held on November 29 and announced that it will deliver L2+ driver-assisting product \"ANP 3.0 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20221130VL211/adas-baidu.html",
-      "originalUrl": "https://www.digitimes.com/news/a20221130VL211/adas-baidu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20221130vl211_files/2_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-artificial-intelligence-will-drive-the-future-of-content-marketing.md",
-      "title": "Artificial Intelligence will drive the future of content marketing",
-      "excerpt": "Digital Marketing, backed by technological breakthroughs, has come a long way in changing the world around us. As a result, artificial technology, machine learning, and automation are at the heart of every business across",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-will-drive-the-future-of-content-marketing/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-will-drive-the-future-of-content-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-will-drive-the-future-of-content-marketing/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-will-drive-the-future-of-content-marketing/",
-      "publishedDateTime": "2022-11-30T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals.md",
-      "title": "Four Ways Companies Can Use Data And AI To Set, Meet And Beat Their ESG Goals",
-      "excerpt": "Consumer interest in sustainable and socially-conscious purchases appears to be intensifying despite global economic woes like inflation. Today, more than 75% of younger shoppers consider ESG issues when making purchase decisions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kyndryl/2022/11/30/four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals/",
-      "originalUrl": "https://www.forbes.com/sites/kyndryl/2022/11/30/four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63876f2f0477a8afa6db977c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kyndryl/2022/11/30/four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kyndryl/2022/11/30/four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals/amp/",
-      "publishedDateTime": "2022-11-30T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-neuralink-brain-chip-show-and-tell-update-how-to-watch-live.md",
-      "title": "Neuralink Brain Chip 'Show and Tell' Update: How to Watch Live",
-      "excerpt": "Maybe we'll see technology to type just by using your brain at Wednesday's update from the brain-implant startup co-founded by Elon Musk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/neuralink-brain-chip-show-and-tell-update-how-to-watch-live/",
-      "originalUrl": "https://www.cnet.com/science/neuralink-brain-chip-show-and-tell-update-how-to-watch-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/921e77c305dcb5b06fa9d09920c41e2fd4cefa40/hub/2022/11/28/a6afbd83-599a-42bf-b791-203f396668a0/neuralink-getty-images.jpg?auto=webp",
-          "width": 3543,
-          "height": 2362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/neuralink-brain-chip-show-and-tell-update-how-to-watch-live/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/neuralink-brain-chip-show-and-tell-update-how-to-watch-live/",
-      "publishedDateTime": "2022-11-30T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars.md",
-      "title": "Honda Plans New Autonomous Features but Sees Long Road Ahead to Self-Driving Cars",
-      "excerpt": "The auto maker said it would focus for now on partially autonomous driving technology to improve safety, joining others that say fully self-driving cars aren’t ready for prime time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402",
-      "originalUrl": "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-676004/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-cogniac-named-a-leader-in-idc-marketscape-worldwide-general-purpose-computer-vision-ai-software-platforms.md",
-      "title": "Cogniac Named a \"Leader\" in IDC MarketScape: Worldwide General-Purpose Computer Vision AI Software Platforms",
-      "excerpt": "Cogniac Corporation (“Cogniac”), a leader in enterprise-class computer vision software, was identified as a “Leader” in the IDC MarketScape report: Worldwide General-Purpose Computer Vision AI Software Platforms 2022 Vendor Assessment.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/30/9721761.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/30/9721761.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

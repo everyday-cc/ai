@@ -2,21 +2,21 @@
   "page": 126,
   "value": [
     {
-      "path": "_news/2022-06-27-govt-unveils-w1tr-spending-package-for-ai-chip-dominance.md",
-      "title": "Govt. unveils W1tr spending package for AI chip dominance",
-      "excerpt": "The government will also support feasibility studies for AI chips and endorse collaborative research projects with counterparts in the United States. The Science Ministry said the nation‘s focus ...",
+      "path": "_news/2022-09-07-mcdonalds-breakfasts-driverless-buses-among-innovations-launched-in-newcastle.md",
+      "title": "McDonald's breakfasts, driverless buses among innovations launched in Newcastle",
+      "excerpt": "The polymer bank note? Newcastle tested and passed. The driverless bus? Trialled in Newy. Sydney's infamous lockout laws? Taken up after a \"successful\" installation in Newcastle. The Hunter has ...",
       "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20220627000640",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20220627000640",
+      "webUrl": "https://www.abc.net.au/news/2022-09-07/mcdonalds-breakfasts-driverless-buses-newcastle-innovations/101399644",
+      "originalUrl": "https://www.abc.net.au/news/2022-09-07/mcdonalds-breakfasts-driverless-buses-newcastle-innovations/101399644",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F06%2F27%2F20220627000640_0.jpg",
-          "width": 630,
-          "height": 419,
+          "url": "https://live-production.wcms.abc-cdn.net.au/ed3cda7a3cd6263f40028637d2c3cb93?impolicy=wcms_crop_resize&cropH=467&cropW=700&xPos=0&yPos=230&width=862&height=575",
+          "width": 700,
+          "height": 467,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20220627000640",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20220627000640",
-      "publishedDateTime": "2022-06-27T08:01:00-07:00",
+      "ampWebUrl": "https://amp.abc.net.au/article/101399644",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101399644",
+      "publishedDateTime": "2022-09-06T16:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,36 +40,27 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-27-deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030.md",
-      "title": "Deep Learning Market Research Report With Revenue, Gross Margin, And Future Prospects Till 2030",
-      "excerpt": "Jun 27, 2022 (Heraldkeepers) -- The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. Browse Full Report: https ...",
+      "path": "_news/2022-09-07-video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026.md",
+      "title": "Video Content Management System Market Analysis, Size, Share, Facts and Figures, Services and Forecast 2026",
+      "excerpt": "The global Video Content Management System Market size expected to grow at a Compound Annual Growth Rate (CAGR) of 14.0% during the forecast period, to reach USD 6.8 billion by 2026 from USD 3.5 billion in 2021.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27",
+      "webUrl": "https://www.marketwatch.com/press-release/video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026-2022-09-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026-2022-09-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T07:11:00-07:00",
+      "publishedDateTime": "2022-09-06T15:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -92,171 +83,34 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-27-artificial-intelligence-market-overview-high-growth-opportunities-segmentation-trends-by-2020-2030.md",
-      "title": "Artificial Intelligence Market Overview, High Growth Opportunities, Segmentation, Trends By 2020-2030",
-      "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market. In terms of revenue, the global artificial intelligence market is estimated to expand at a CAGR of ...",
+      "path": "_news/2022-09-07-it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft.md",
+      "title": "IT services provider Long View is recognized as an industry leader in sustainability by Cisco and Microsoft",
+      "excerpt": "A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\".",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-market-overview-high-growth-opportunities-segmentation-trends-by-2020-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-market-overview-high-growth-opportunities-segmentation-trends-by-2020-2030",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft-1031727161",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft-1031727161",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/f4afc96392ec0b343620dafd81129cb3bc652810-e1657907126925-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T07:05:00-07:00",
+      "publishedDateTime": "2022-09-06T11:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-were-at-risk-of-creating-a-generation-of-racist-and-sexist-robots-study-shows-artificial-intelligence-quickly-becomes-bigoted-after-learning.md",
-      "title": "'We're at risk of creating a generation of racist and sexist robots': Study shows artificial intelligence quickly becomes bigoted after learning 'toxic stereotypes' on the internet",
-      "excerpt": "Fears have been raised about the future of artificial intelligence after a robot was found to have learned 'toxic stereotypes' from the internet. The machine showed significant gender and racial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10957023/Fears-AI-create-sexist-bigots-test-learns-toxic-stereotypes.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10957023/Fears-AI-create-sexist-bigots-test-learns-toxic-stereotypes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/06/27/13/59577011-0-image-a-34_1656333163498.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10957023/amp/Fears-AI-create-sexist-bigots-test-learns-toxic-stereotypes.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10957023/amp/Fears-AI-create-sexist-bigots-test-learns-toxic-stereotypes.html",
-      "publishedDateTime": "2022-06-27T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-artificial-intelligence-in-healthcare-global-market-to-grow-at-rate-of-48-through-2026.md",
-      "title": "Artificial Intelligence In Healthcare Global Market To Grow At Rate Of 48% Through 2026",
-      "excerpt": "Artificial Intelligence In Healthcare Market Report 2022 – Market Size, Trends, And Global Forecast 2022-2026 The Business Research Company's Artificial Intelligence In Healthcare Global Market ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104438808/Artificial-Intelligence-In-Healthcare-Global-Market-To-Grow-At-Rate-Of-48-Through-2026",
-      "originalUrl": "https://menafn.com/1104438808/Artificial-Intelligence-In-Healthcare-Global-Market-To-Grow-At-Rate-Of-48-Through-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?320197",
-          "width": 333,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-instagram-is-testing-ai-that-verifies-your-age-with-a-selfie-scan-its-not-perfect.md",
-      "title": "Instagram is testing AI that verifies your age with a selfie scan. It's not perfect",
-      "excerpt": "Instagram is testing new ways to verify its youngest users' ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html",
-      "originalUrl": "https://www.cnn.com/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220624020409-02-instagram-ai-age-estimation-face-scan-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html",
-      "publishedDateTime": "2022-06-27T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -272,275 +126,31 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-27-amazon-just-say-no-the-looming-horror-of-ai-voice-replication.md",
-      "title": "Amazon, just say no: The looming horror of AI voice replication",
-      "excerpt": "If an AI like Alexa really can convert less than a minute of recorded voice into real-time speech, it opens the door to dystopian gaslighting at a whole new level. It's frightening, creepy, and disturbing.",
+      "path": "_news/2022-09-07-taiwanese-president-cites-threat-of-chinese-cognitive-warfare.md",
+      "title": "Taiwanese President cites threat of Chinese ‘cognitive warfare’",
+      "excerpt": "Taiwanese President Tsai Ing-wen said on September 6 that China is conducting “cognitive warfare” by spreading misinformation in addition to its regular incursions into nearby waters and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
-      "originalUrl": "https://www.zdnet.com/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c88a1fe04f375fb5f453e199411c0f747b9bc8ce/2022/06/27/3d36094a-0ee2-4e13-92b8-74e1cd38fa8c/gettyimages-543194887-cloud-faces.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
-      "publishedDateTime": "2022-06-27T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-artificial-intelligence-ai-robots-market-is-booming-globally-with-top-key-players-nvdiasoftbankintelxilinxabbfanuc.md",
-      "title": "Artificial Intelligence (AI) Robots Market is booming Globally with Top key players – NVDIA,SoftBank,Intel,Xilinx,ABB,Fanuc",
-      "excerpt": "This report studies the Artificial Intelligence (AI) Robots Market with many aspects of the industry like the market size, market status, market trends and forecast, the report also provides ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-robots-market-is-booming-globally-with-top-key-players-nvdiasoftbankintelxilinxabbfanuc",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-robots-market-is-booming-globally-with-top-key-players-nvdiasoftbankintelxilinxabbfanuc",
+      "webUrl": "https://www.thehindu.com/news/international/taiwanese-president-cites-threat-of-chinese-cognitive-warfare/article65857145.ece",
+      "originalUrl": "https://www.thehindu.com/news/international/taiwanese-president-cites-threat-of-chinese-cognitive-warfare/article65857145.ece",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/9d10d8d3314df424ef41caaa66d71f8209d22a35-1-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T05:20:00-07:00",
+      "publishedDateTime": "2022-09-06T10:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-3d-em-uncovers-differences-in-neural-circuits-of-mice-monkeys-and-humans.md",
-      "title": "3D EM Uncovers Differences in Neural Circuits of Mice, Monkeys, and Humans",
-      "excerpt": "Neuroscientists use 3D EM data to gain insights into human neural circuitry, revealing an expanded network of interneurons in humans compared to mouse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/neuroscience/3d-em-uncovers-differences-in-neural-circuits-of-mice-monkeys-and-humans/",
-      "originalUrl": "https://www.genengnews.com/neuroscience/3d-em-uncovers-differences-in-neural-circuits-of-mice-monkeys-and-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.genengnews.com/wp-content/uploads/2022/06/Low-Res_mpi-brain-research-01.jpg.png",
-          "width": 700,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work.md",
-      "title": "India to get facial recognition tech at airports: Understanding how it will work",
-      "excerpt": "Starting from 31 August, the facial recognition technology under the Centre's DigiYatra scheme will facilitate passengers to proceed at airports without the need for physical boarding pass or identity cards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/india/india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html",
-      "originalUrl": "https://www.firstpost.com/india/india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.firstpost.com/wp-content/uploads/2022/05/Bengaluru-Kempegowda-International-Airport.jpg",
-          "width": 640,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/india/india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/india/india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html/amp",
-      "publishedDateTime": "2022-06-27T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-dall-e-mini-is-the-internets-favorite-ai-meme-machine.md",
-      "title": "DALL-E Mini Is the Internet's Favorite AI Meme Machine",
-      "excerpt": "The viral image generation app is good, absurd fun. It's also giving the world an education in how artificial intelligence may warp reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/dalle-ai-meme-machine/",
-      "originalUrl": "https://www.wired.com/story/dalle-ai-meme-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62b63286e0a13316321d2421/master/w_1680,h_979,c_limit/AI-Meme-Machine-Dall-E-Mini-Craiyon-3-Business.jpg",
-          "width": 1680,
-          "height": 979,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/dalle-ai-meme-machine/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dalle-ai-meme-machine/amp",
-      "publishedDateTime": "2022-06-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-coretech-system-joins-hands-with-microsoft-azure-and-creates-new-values-for-application-of-molding-analysis.md",
-      "title": "CoreTech System joins hands with Microsoft Azure and creates new values for application of molding analysis",
-      "excerpt": "The lineups of Microsoft Azure Data Services, namely Azure Synapse Analytics, Azure Machine Learning, Azure Datalake, Azure Data Explorer, and Power BI, furnish customers with data analysis model ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20220624PR200.html&chid=9",
-      "originalUrl": "https://www.digitimes.com/news/a20220624PR200.html&chid=9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20220624pr200_files/5_r.jpg",
-          "width": 336,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
+        "name": "The Hindu",
+        "domain": "thehindu.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -555,72 +165,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-27-training-data-the-overlooked-problem-of-modern-ai.md",
-      "title": "Training Data: The Overlooked Problem Of Modern AI",
-      "excerpt": "The importance of data labeling had been hugely underestimated and treated as a nontechnological, ineffective and boring management task.",
+      "path": "_news/2022-09-07-springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program.md",
+      "title": "SpringML Renews its Machine Learning Specialization in the Google Cloud Partner Advantage Program",
+      "excerpt": "Partners achieving this specialization have demonstrated success with data exploration, preprocessing, model training, model evaluation, model deployment, online prediction, and Google pretrained Machine Learning APIs.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program-1031727055",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program-1031727055",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62b5c1181f0fc88fc17a1f19/0x0.jpg?format=jpg&crop=1660,934,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/amp/",
-      "publishedDateTime": "2022-06-27T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-machine-learning-courses-market-competitive-landscape-analysis-with-forecast-by-2028.md",
-      "title": "Machine Learning Courses Market| Competitive Landscape Analysis With Forecast By 2028",
-      "excerpt": "Market Trends for Machine Learning Courses Market Insights and Forecast to 2028 from 2022 to 2028 According to the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-courses-market-competitive-landscape-analysis-with-forecast-by-2028-2022-06-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-courses-market-competitive-landscape-analysis-with-forecast-by-2028-2022-06-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/1892506/SpringML_Renews_Machine_Learning_Specialization.jpg",
+          "width": 400,
+          "height": 227,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -630,14 +189,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T02:31:00-07:00",
+      "publishedDateTime": "2022-09-06T10:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -656,513 +215,7 @@
         "Machine Learning",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2022-06-27-poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification.md",
-      "title": "Poolbeg Pharma Partner Completes AI Model for RSV Drug Identification",
-      "excerpt": "Poolbeg Pharma PLC said Monday that partner OneThree Biotech has completed its artificial intelligence model optimization to identify treatments for respiratory syncytial virus, with results expected in the fourth quarter. The pharmaceutical company said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
-      "originalUrl": "https://www.marketwatch.com/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
-      "publishedDateTime": "2022-06-27T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer.md",
-      "title": "Google’s ‘sentient AI’ likened to a 7-year-old child by engineer",
-      "excerpt": "A former engineer at Google has likened one of the company’s artificial intelligence programs to a seven or eight-year-old child. Blake Lemoine was put on administrative leave from Google after claiming the tech giant’s LaMDA (Language Model for Dialogue Applications) had become self-aware.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/",
-      "originalUrl": "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2022/06/Google-AI-engineer-Fox-News-5bc7.jpg?quality=90&strip=all&zoom=1&resize=600%2C339",
-          "width": 600,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/amp/",
-      "publishedDateTime": "2022-06-27T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-widely-used-ai-model-makes-robots-racist-and-sexist.md",
-      "title": "Widely Used AI Model Makes Robots Racist and Sexist",
-      "excerpt": "A robot operating with a popular internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples' jobs after a glance at their face.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/tn/news/widely-used-ai-model-makes-robots-racist-and-sexist-363042",
-      "originalUrl": "https://www.technologynetworks.com/tn/news/widely-used-ai-model-makes-robots-racist-and-sexist-363042",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/363042/widely-used-ai-model-makes-robots-racist-and-sexist-363042-640x360.jpg?cb=20220627",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-how-are-fintech-companies-helping-msmes-increase-customer-reach.md",
-      "title": "How Are Fintech Companies Helping MSMEs Increase Customer Reach",
-      "excerpt": "FinTech companies are useful as Data Analytics provides solutions to easily access the creditworthiness of a business or evaluate collateral available for loan. Moreover, Artificial Intelligence (AI) has emerged as an efficient tool, making application ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/430266",
-      "originalUrl": "https://www.entrepreneur.com/article/430266",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1656308376-joshuva-daniel-U4OS-GimdXA-unsplash.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-26T22:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-ai-ai-o-the-first-driverless-robot-tractor-unveiled-to-farmers-at-show.md",
-      "title": "AI-AI-O: The first driverless robot tractor unveiled to farmers at show",
-      "excerpt": "Capable of a multitude of farm tasks using normal farm implement attachments, the AgBot 5.115T2 is a 156hp dual tracked driverless tractor which is now available to buy from Angus-based precision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scotsman.com/country-and-farming/ai-ai-o-the-first-driverless-robot-tractor-unveiled-to-farmers-at-show-3745900",
-      "originalUrl": "https://www.scotsman.com/country-and-farming/ai-ai-o-the-first-driverless-robot-tractor-unveiled-to-farmers-at-show-3745900",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.scotsman.com/webimg/b25lY21zOmExMDliNTViLTAzMzMtNDRhYi04MTQ2LTI0ZjVkMGI3YmQ1MzplZmMyNDY0Yi01N2JiLTQwOTMtYmNlOS0yZjFkYjlhYzlmYzQ=.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-26T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Scotsman",
-        "domain": "scotsman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-cerebras-sets-record-for-largest-ai-model-on-a-single-chip.md",
-      "title": "Cerebras sets record for 'largest AI model' on a single chip",
-      "excerpt": "In brief US hardware startup Cerebras claims to have trained the largest AI model on a single device powered by the world's largest Wafer Scale Engine 2 chip the size of a plate. \"Using the Cerebras Software Platform (CSoft),",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/06/27/in_brief_ai/",
-      "originalUrl": "https://www.theregister.com/2022/06/27/in_brief_ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/05/12/brain.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/06/27/in_brief_ai/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/27/in_brief_ai/",
-      "publishedDateTime": "2022-06-26T21:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-ai-is-transforming-medicine-heres-how-we-make-sure-it-works-for-everyone.md",
-      "title": "AI is transforming medicine: Here’s how we make sure it works for everyone",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/26/ai-is-transforming-medicine-heres-how-we-make-sure-it-works-for-everyone/",
-      "originalUrl": "https://venturebeat.com/2022/06/26/ai-is-transforming-medicine-heres-how-we-make-sure-it-works-for-everyone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1333328712-metamorworks.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/26/ai-is-transforming-medicine-heres-how-we-make-sure-it-works-for-everyone/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/26/ai-is-transforming-medicine-heres-how-we-make-sure-it-works-for-everyone/amp/",
-      "publishedDateTime": "2022-06-26T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-area-high-school-students-learn-about-robotics-at-summer-camp.md",
-      "title": "Area high school students learn about robotics at summer camp",
-      "excerpt": "Isa Alstrom and Brody Guajardo worked together Tuesday to build a robot and create a program that will allow the robot to detect colors using sensors during the University of",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/news/area-high-school-students-learn-about-robotics-at-summer-camp/article_7846e020-f264-11ec-8346-2f09bd6ec0c0.html",
-      "originalUrl": "https://www.victoriaadvocate.com/news/area-high-school-students-learn-about-robotics-at-summer-camp/article_7846e020-f264-11ec-8346-2f09bd6ec0c0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/c/02/c02058d6-f264-11ec-b8b3-3f74528f226c/62b3730067bfb.image.jpg?resize=400%2C302",
-          "width": 400,
-          "height": 302,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-26T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-one-day-ai-will-seem-as-human-as-anyone-what-then.md",
-      "title": "One Day, AI Will Seem as Human as Anyone. What Then?",
-      "excerpt": "From here on out, the safe use of artificial intelligence requires demystifying the human condition. If we can’t recognize and understand how AI works—if even expert engineers can fool themselves into detecting agency in a “stochastic parrot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/lamda-sentience-psychology-ethics-policy/",
-      "originalUrl": "https://www.wired.com/story/lamda-sentience-psychology-ethics-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62b632dd403df153e6760345/master/pass/ideas-ai-intelligence.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/lamda-sentience-psychology-ethics-policy/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/lamda-sentience-psychology-ethics-policy/amp",
-      "publishedDateTime": "2022-06-26T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-26-big-firms-to-invest-20m-for-ai-research.md",
-      "title": "Big firms to invest $20M for AI research",
-      "excerpt": "BIG companies in the country will invest $20 million (around P1 billion) to establish a shared hub for artificial intelligence (AI) research in the Philippines. Trade Secretary Ramon Lopez said in a recent interview that conglomerates are funding the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.manilatimes.net/2022/06/27/business/top-business/big-firms-to-invest-20m-for-ai-research/1848821",
-      "originalUrl": "https://www.manilatimes.net/2022/06/27/business/top-business/big-firms-to-invest-20m-for-ai-research/1848821",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.manilatimes.net/manilatimes/uploads/images/2022/06/26/83648.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.manilatimes.net/2022/06/27/business/top-business/big-firms-to-invest-20m-for-ai-research/1848821/amp",
-      "cdnAmpWebUrl": "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2022/06/27/business/top-business/big-firms-to-invest-20m-for-ai-research/1848821/amp",
-      "publishedDateTime": "2022-06-26T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Manila Times",
-        "domain": "manilatimes.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-26-north-american-debut-of-ground-breaking-film-on-sunday-celebrates-revolutionary-mental-health-therapy.md",
-      "title": "North American debut of ground breaking film on Sunday celebrates revolutionary mental health therapy",
-      "excerpt": "CNW/ - When Claudia Gerini was growing up in Italy, she probably didn't think she would be helping lead a mental healthcare revolution on the other side",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswire.ca/news-releases/north-american-debut-of-ground-breaking-film-on-sunday-celebrates-revolutionary-mental-health-therapy-899814360.html",
-      "originalUrl": "https://www.newswire.ca/news-releases/north-american-debut-of-ground-breaking-film-on-sunday-celebrates-revolutionary-mental-health-therapy-899814360.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1847459/italian01en01.jpg?p=facebook",
-          "width": 1146,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-25T18:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire",
-        "domain": "newswire.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
     }
   ],
-  "nextPage": 127
+  "nextPage": null
 }

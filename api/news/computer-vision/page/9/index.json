@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-09-21-ai-computer-vision-market-share-size-financial-summaries-analysis-from-2022-2030-by-netapp-ibm-sas.md",
+      "title": "AI Computer Vision Market Share, Size, Financial Summaries Analysis from 2022-2030 | By -NetApp, IBM, SAS",
+      "excerpt": "The Global AI Computer Vision Market investigation report contains Types ( Standard, Customised ), Segmentation & all logical and factual briefs about the Market 2022 Overview, CAGR, Production Volume,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-share-size-financial-summaries-analysis-from-2022-2030-by--netapp-ibm-sas-2022-09-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-share-size-financial-summaries-analysis-from-2022-2030-by--netapp-ibm-sas-2022-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T00:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-global-face-recognition-device-market-analysis-by-size-segment-and-evolution-rate-by-type-and-application-forecast-to-2025.md",
       "title": "Global Face Recognition Device Market Analysis by Size, Segment and Evolution Rate by Type and Application Forecast to 2025",
       "excerpt": "Global Face Recognition Device Market report added by Market Study Report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends, companies active in the industry and forecasts for the coming years.",
@@ -1341,50 +1393,7 @@
         "Machine Learning",
         "AI Hardware"
       ]
-    },
-    {
-      "path": "_news/2022-09-07-iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law.md",
-      "title": "Iran might use facial recognition to identify women who violate hijab law",
-      "excerpt": "Iran might use facial recognition to identify women who violate hijab law. The regime continues a crackdown on women's dressing.",
-      "sourceUrl": null,
-      "webUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/",
-      "originalUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/assets/uploads/2018/06/15/US-restaurant-chain-in-hijab-row-orders-diversity-training.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/",
-      "publishedDateTime": "2022-09-06T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 10
 }

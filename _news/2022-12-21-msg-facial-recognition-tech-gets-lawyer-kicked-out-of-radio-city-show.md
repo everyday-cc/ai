@@ -199,6 +199,29 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Madison Square Garden's Parent Company Used Facial Recognition Tech To Eject Lawyers Suing Them From Shows"
+    excerpt: "Madison Square Garden Entertainment Corp. (MSG Entertainment) is using facial recognition technology to eject lawyers suing them from shows. According to a report by Rolling Stone, MSG Entertainment,"
+    publishedDateTime: 2022-12-23T16:00:00Z
+    webUrl: "https://metalinjection.net/news/madison-square-gardens-parent-company-used-facial-recognition-tech-to-eject-lawyers-suing-them-from-shows"
+    type: article
+    provider:
+      name: Metal Injection
+      domain: metalinjection.net
+    quality: 21
+    images:
+      - url: "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2022/12/Madison-Square-Garden.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Woman's Expulsion From Radio City Renews Call For Facial Recognition Ban"
+    excerpt: "Madison Square Garden Entertainment's use of facial-recognition technology is spurring new controversy this week, in the wake of news that Radio City Music Hall denied admittance to a lawyer who was attempting to take her daughter to a Rockettes performance."
+    publishedDateTime: 2022-12-21T19:46:00Z
+    webUrl: "https://www.mediapost.com/publications/article/380902/radio-city-uses-facial-recognition-to-block-lawyer.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 18
 
 secured: "64KvfNfgaiChenjqeVZs7nyzx0ImTBgipsX4Bujq2CEs0N10fYa9whPHr7mTzB+rdm+dl71DGWPL/cUA5eel78Gtocn4z9Qj4Ls1n6Vnvy0Z//6u0AzPzI/SiBh3gjjUJ4D4Hbcrc0XYvPCRE2Zn1M4VEo8YzcUfeMPVsNNC9phuFaCD8PWHUd6ZdJl4JSgUcIu2rMJ9Wjq8vTHDMU5n8ptzhNb8l+vm/H0mj6aJe1qCy3V0zSDIvKPyGgbdJEmhnC8Z0yyTSTvd97fAH9KNIv26leOPh2Wg9D27m5qLMJUg7En8f9VbhcdxDSI/Qf+1CkELN9pm21aDOTpMzDEmLejnz1FubBvuNDtOp38t3l0=;Z4SulJAS2LJSiUZBEDPdjQ=="
 ---

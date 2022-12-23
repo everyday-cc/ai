@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2022/12/21/who-ultimately
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/12/21/who-ultimately-owns-content-generated-by-chatgpt-and-other-ai-platforms/amp/"
 type: article
 quality: 86
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
     provider:
       name: YAHOO!News
       domain: techcrunch.com
+    quality: 47
+  - title: "Why Everyone's Obsessed With ChatGPT, a Mind-Blowing AI Chatbot"
+    excerpt: "This artificial intelligence bot can answer questions and write essays and program computers. But careful how much you trust it."
+    publishedDateTime: 2022-12-23T13:00:00Z
+    webUrl: "https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-a-mind-blowing-ai-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
     quality: 47
   - title: "Google is reportedly scrambling to match viral AI ChatGPT"
     excerpt: "ChatGPT is a “code red” event for Google, as the Search giant is struggling to showcase competing products by I/O 2023."

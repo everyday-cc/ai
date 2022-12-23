@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-19-with-robots-and-ai-a-five-star-hotel-to-help-honeybees.md",
+      "title": "With robots and AI, a “five-star hotel” to help honeybees",
+      "excerpt": "Beewise, a 4-year-old startup based in Oakland, California, offers a particularly inspiring example of how robotics and AI might radically slow and even reverse the global honeybee die-off.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/small-biz/entrepreneurship/with-robots-and-ai-a-five-star-hotel-to-help-honeybees/articleshow/96332573.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/small-biz/entrepreneurship/with-robots-and-ai-a-five-star-hotel-to-help-honeybees/articleshow/96332573.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-96746,msid-96332564/bees-istock.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/small-biz/entrepreneurship/with-robots-and-ai-a-five-star-hotel-to-help-honeybees/amp_articleshow/96332573.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/entrepreneurship/with-robots-and-ai-a-five-star-hotel-to-help-honeybees/amp_articleshow/96332573.cms",
+      "publishedDateTime": "2022-12-18T20:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-healthcare-natural-language-processing-nlp-market-geographical-segmentation-by-forecast-revenue-2023-2029.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market Geographical Segmentation By Forecast Revenue 2023-2029",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Dec 19, 2022 (The Expresswire) -- “Healthcare Natural Language Processing (NLP) Market\" is segmented by Company, Region (country), By Type, Application, stakeholders and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-geographical-segmentation-by-forecast-revenue-2023-2029-2022-12-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-geographical-segmentation-by-forecast-revenue-2023-2029-2022-12-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-12-19-ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future.md",
       "title": "AI Timelines: What Do Experts in Artificial Intelligence Expect for the Future?",
       "excerpt": "Many AI experts believe there is a chance human-level artificial intelligence will arrive within the next decades—some believe it will exist much sooner.",
@@ -206,8 +293,8 @@
       "title": "ChatGPT is proof the AI chatbots are here to stay",
       "excerpt": "Chat GPT crashed. “I immediately feel like I lost 50 points of IQ,” tweeted one user. “Now I have to use search engines like cavemen did,” exclaimed",
       "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/006c4ae0-7d4c-11ed-a3d2-203363978915?shareToken=c8bf647aff7eb7655ef38ee11c47fe04",
-      "originalUrl": "https://www.thetimes.co.uk/article/006c4ae0-7d4c-11ed-a3d2-203363978915?shareToken=c8bf647aff7eb7655ef38ee11c47fe04",
+      "webUrl": "https://www.thetimes.co.uk/article/chatgpt-is-proof-the-ai-chatbots-are-here-to-stay-6jhd2fbgf?shareToken=ef7b4fa70be33e29af1e523c0621c38f",
+      "originalUrl": "https://www.thetimes.co.uk/article/chatgpt-is-proof-the-ai-chatbots-are-here-to-stay-6jhd2fbgf?shareToken=ef7b4fa70be33e29af1e523c0621c38f",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -429,10 +516,10 @@
     {
       "path": "_news/2022-12-17-phoenix-airport-1st-to-offer-self-driving-ride-service-waymo.md",
       "title": "Phoenix airport 1st to offer self-driving ride service Waymo",
-      "excerpt": "Phoenix Mayor Kate Gallego arrives in a self-driving vehicle, Friday, Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Mayor Gallego a",
+      "excerpt": "As Phoenix gets ready to host the Super Bowl, Mayor Kate Gallego announced Friday that Sky Harbor International Airport will be the first to offer the self-driving ride-hailing service Waymo. “The future is here,",
       "sourceUrl": null,
-      "webUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php?src=sthplifestyle",
-      "originalUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php?src=sthplifestyle",
+      "webUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php",
+      "originalUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -715,10 +802,10 @@
     {
       "path": "_news/2022-12-17-how-artificial-intelligence-could-be-used-to-fight-wildfires.md",
       "title": "How artificial intelligence could be used to fight wildfires",
-      "excerpt": "A tech company is developing a new type of artificial intelligence to fight wildfires by using predictive analysis before the fires even start and AI logistics to help contain them.",
+      "excerpt": "A Virginia-based technology integration company called Science Applications International Corp., or SAIC, wants to use a new type of artificial intelligence to fight those fires by using ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
-      "originalUrl": "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
+      "webUrl": "https://www.fox10phoenix.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
+      "originalUrl": "https://www.fox10phoenix.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -726,13 +813,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
-      "cdnAmpWebUrl": "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
-      "publishedDateTime": "2022-12-16T11:58:00-08:00",
+      "ampWebUrl": "https://www.fox10phoenix.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
+      "cdnAmpWebUrl": "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
+      "publishedDateTime": "2022-12-16T12:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox 5 NY",
-        "domain": "fox5ny.com",
+        "name": "FOX 10 Phoenix",
+        "domain": "fox10phoenix.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1096,109 +1183,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-how-safe-do-cities-feel-machine-learning-techniques-could-help-find-out.md",
-      "title": "How Safe Do Cities Feel? Machine Learning Techniques Could Help Find Out!",
-      "excerpt": "The career path of Colombian physicist Luisa Fernanda Chaparro Sierra took her from studying the Higgs Boson at CERN, to using similar machine learning techniques to gauge perceptions of crime in the Colombian capital of Bogota.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewwight/2022/12/16/how-safe-do-cities-feel-machine-learning-techniques-could-help-find-out/",
-      "originalUrl": "https://www.forbes.com/sites/andrewwight/2022/12/16/how-safe-do-cities-feel-machine-learning-techniques-could-help-find-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63996acfe932dea8cf654b17/0x0.jpg?format=jpg&crop=1944,1944,x0,y648,safe&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewwight/2022/12/16/how-safe-do-cities-feel-machine-learning-techniques-could-help-find-out/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2022/12/16/how-safe-do-cities-feel-machine-learning-techniques-could-help-find-out/amp/",
-      "publishedDateTime": "2022-12-16T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-zoho-desk-redefining-the-customer-experience-with-ai.md",
-      "title": "Zoho Desk – Redefining The Customer Experience With AI",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as he covers new capabilities announced by Zoho, including a new feature called Blended Conversations, which seamlessly combines the capabilities of bot-powered self-service and human-driven conversational service capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/12/16/zoho-desk--redefining-the-customer-experience-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/12/16/zoho-desk--redefining-the-customer-experience-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639c8275d2a4ad563b8cea7f/0x0.jpg?format=jpg&crop=1080,607,x0,y32,safe&width=1200",
-          "width": 1080,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/12/16/zoho-desk--redefining-the-customer-experience-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/12/16/zoho-desk--redefining-the-customer-experience-with-ai/amp/",
-      "publishedDateTime": "2022-12-16T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

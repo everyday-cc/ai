@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://leadership.ng/wp-content/uploads/2022/05/LeadershipHeader.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "ARTIFICIAL INTELLIGENCE FOR NEW DRUG DISCOVERY"

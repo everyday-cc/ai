@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/19/layoffs-are-coming-for-self-drivin
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -93,6 +93,15 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 19
+  - title: "Self-Driving Startup TuSimple Slashes Staff in Bid to Right the Ship."
+    excerpt: "TuSimple announced it is cutting about 25% of its staff, or about 350 people, to save $55 to $65 million annually. The company will have about 1,100 people when the restructuring is complete."
+    publishedDateTime: 2022-12-22T17:32:00Z
+    webUrl: "https://www.barrons.com/articles/self-driving-startup-tusimple-cut-staff-restructuring-51671715893"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 4
 
 secured: "FmRLcAMKvZiQlj4dqVROhI/PanRSDkhWQJRQwjWlLWuIP8E/ucBbf8oxPrAofh/gzQPolkHEolr/wBp9Ttb7CmiIL5jGxvQSHJfd+AQTSjyGCvuYj6GoWhmGnCfQINKojqoBFxbJNrNI4gGJWq0hOQiFNQMmdv7JlO+cu9oVzfg3WYjlE8IOKbtw+vrYyK9KjZLPHviDmMYOpleDib9q3KUkWAGSqWXSxtxzo43mokOLyVGqCqNcn+aAQXJsDNhgMPQ5uY9MyiLkw/MhL2hWsocZ/NzgBMmgAOwATUpYp60uX/518ujsb3Rh8/8AsFSTogKXDyPCQtugP1f0dtPy5R+8VnsUJROMOYAczUDeQFM=;BdWip1+C6D+DS86bDDhYkQ=="
 ---

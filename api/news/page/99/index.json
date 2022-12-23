@@ -2,6 +2,293 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2022-09-29-inside-abu-dhabis-thriving-artificial-intelligence-scene.md",
+      "title": "Inside Abu Dhabi’s Thriving Artificial Intelligence Scene",
+      "excerpt": "Abu Dhabi is becoming a thriving hub for artificial intelligence and an increasingly attractive destination for meetings and events.",
+      "sourceUrl": null,
+      "webUrl": "https://skift.com/2022/09/28/inside-abu-dhabis-thriving-artificial-intelligence-scene/",
+      "originalUrl": "https://skift.com/2022/09/28/inside-abu-dhabis-thriving-artificial-intelligence-scene/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://skift.com/wp-content/uploads/2022/09/MBZUAI-External-shot..jpg",
+          "width": 1797,
+          "height": 1166,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://skift.com/2022/09/28/inside-abu-dhabis-thriving-artificial-intelligence-scene/amp/",
+      "cdnAmpWebUrl": "https://skift-com.cdn.ampproject.org/c/s/skift.com/2022/09/28/inside-abu-dhabis-thriving-artificial-intelligence-scene/amp/",
+      "publishedDateTime": "2022-09-28T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Skift",
+        "domain": "skift.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-machine-learning-helps-scientists-peer-a-second-into-the-future.md",
+      "title": "Machine learning helps scientists peer (a second) into the future",
+      "excerpt": "The past may be a fixed and immutable point, but with the help of machine learning, the future can at times be more easily divined.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-09-machine-scientists-peer-future.html",
+      "originalUrl": "https://phys.org/news/2022-09-machine-scientists-peer-future.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/machine-learning-helps-2.jpg",
+          "width": 700,
+          "height": 403,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-09-machine-scientists-peer-future.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-machine-scientists-peer-future.amp",
+      "publishedDateTime": "2022-09-28T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs.md",
+      "title": "Amazon's household robot Astro can now recognize your cats and dogs",
+      "excerpt": "Now Amazon's friendly house robot Astro will bring checking in on your pets to a whole new level. Amazon announced today that the Astro will soon be able to detect cats and dogs in the home. The pet recognition will allow the robot to,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
+      "originalUrl": "https://www.zdnet.com/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/374d54dc3923c98af0cea39805fd86bf0edad6bf/2022/09/28/31ede2b8-bbf6-46b3-ba51-9f6a9032a60c/screen-shot-2022-09-28-at-12-39-13-pm.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
+      "publishedDateTime": "2022-09-28T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-former-gop-congressman-i-came-to-believe-some-far-right-colleagues-had-serious-cognitive-issues.md",
+      "title": "Former GOP congressman: I “came to believe” some far-right colleagues had “serious cognitive issues”",
+      "excerpt": "In a new book by former Rep. Denver Riggleman, R-Va., in his last days serving in the House he admits he grew more and more disturbed by the wild ravings of two of his colleagues who were all ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.salon.com/2022/09/27/former-congressman-i-came-to-believe-some-far-right-colleagues-had-serious-cognitive-issues_partner/",
+      "originalUrl": "https://www.salon.com/2022/09/27/former-congressman-i-came-to-believe-some-far-right-colleagues-had-serious-cognitive-issues_partner/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2019/12/louie-gohmert-12121.jpg",
+          "width": 1200,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salon",
+        "domain": "salon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-amazon-wants-to-cocoon-you-with-ambient-intelligence.md",
+      "title": "Amazon Wants to Cocoon You With ‘Ambient Intelligence’",
+      "excerpt": "The company’s new smart gadget uses radar to track your breathing while you sleep. It’s part of Amazon’s plan to weave its products invisibly into your life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/amazon-wants-to-cocoon-you-with-ambient-intelligence/",
+      "originalUrl": "https://www.wired.com/story/amazon-wants-to-cocoon-you-with-ambient-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/633481ccc4d3ebc9237bc77d/master/pass/Halo_Rise_Pull-apart_01_RGB_science.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/amazon-wants-to-cocoon-you-with-ambient-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-wants-to-cocoon-you-with-ambient-intelligence/amp",
+      "publishedDateTime": "2022-09-28T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-build-an-ai-powered-virtual-agent-for-genesys-cloud-using-qnabot-and-amazon-lex.md",
+      "title": "Build an AI-powered virtual agent for Genesys Cloud using QnABot and Amazon Lex",
+      "excerpt": "The rise of artificial intelligence technologies enables organizations to adopt and improve self-service capabilities in contact center operations to create a more proactive, timely, and effective customer experience. Voice bots, or conversational interactive voice response systems (IVR), use natural",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-virtual-agent-for-genesys-cloud-using-qnabot-and-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-virtual-agent-for-genesys-cloud-using-qnabot-and-amazon-lex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/28/genesys-cloud-qna-bot.jpg",
+          "width": 1532,
+          "height": 756,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T09:29:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-28-make-your-very-own-ai-generated-pokemon-like-creature.md",
       "title": "Make your very own AI-generated Pokémon-like creature",
       "excerpt": "After nine generations of Pokémon, it can sometimes feel like the game developers are just pulling random words from a hat and seeing what they come up with. I still can’t decide if Klefki, the sentient keyring Pokémon,",
@@ -869,274 +1156,6 @@
         "IBM AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-new-trial-finds-first-ever-alzheimers-drug-to-slow-cognitive-decline.md",
-      "title": "New trial finds first-ever Alzheimer’s drug to slow cognitive decline",
-      "excerpt": "The drug seems to be successful at slowing cognitive decline ... He also noted health services should begin preparing for how this treatment can be equitably distributed if it does go on to ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/health-wellbeing/lecanemab-alzheimers-drug-slow-cognitive-decline-large-human-trial/",
-      "originalUrl": "https://newatlas.com/health-wellbeing/lecanemab-alzheimers-drug-slow-cognitive-decline-large-human-trial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/add920d/2147483647/strip/true/crop/7360x3864+0+524/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F92%2Faf%2Fde5ed6104a7ea392a28be31cfb4c%2Fdepositphotos-322004950-xl.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-amazon-intros-aws-iot-fleetwise-for-connected-cars.md",
-      "title": "Amazon Intros AWS IoT FleetWise for Connected Cars",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of AWS IoT FleetWise, a new service that makes it easier for automotive companies to collect,",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoconnectedcar.com/2022/09/amazon-intros-aws-iot-fleetwise-for-connected-cars/",
-      "originalUrl": "https://www.autoconnectedcar.com/2022/09/amazon-intros-aws-iot-fleetwise-for-connected-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoconnectedcar.com",
-        "domain": "autoconnectedcar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-open-source-initiative-expands-its-role-to-ai-and-machine-learning.md",
-      "title": "Open Source Initiative expands its role to AI and machine learning",
-      "excerpt": "Over the last 20 years, the OSI has been the guardian of open-source licenses, but now it will also address non-open-source licenses more and AI's role in software development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/open-source-initiative-expands-its-role-to-ai-and-machine-learning/",
-      "originalUrl": "https://www.zdnet.com/article/open-source-initiative-expands-its-role-to-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3c1ea6cf644b8f0c18c87df7ba298600562c668f/2021/03/24/c3ea3f5e-2f66-4702-934e-1f91f33c3cb9/open-source-initiative-logo.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/open-source-initiative-expands-its-role-to-ai-and-machine-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/open-source-initiative-expands-its-role-to-ai-and-machine-learning/",
-      "publishedDateTime": "2022-09-27T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-tcs-named-a-leader-and-star-performer-in-microsoft-azure-services-by-everest-group.md",
-      "title": "TCS Named a Leader and Star Performer in Microsoft Azure Services by Everest Group",
-      "excerpt": "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS) has been recognized as a Leader and Star Performer in Everest Group’s PEAK Matrix® for Microsoft Azure System Integration Capabilities .TCS was",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/tcs-named-a-leader-and-star-performer-in-microsoft-azure-services-by-everest-group/",
-      "originalUrl": "https://indiaeducationdiary.in/tcs-named-a-leader-and-star-performer-in-microsoft-azure-services-by-everest-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/tcs-named-a-leader-and-star-performer-in-microsoft-azure-services-by-everest-group/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/tcs-named-a-leader-and-star-performer-in-microsoft-azure-services-by-everest-group/",
-      "publishedDateTime": "2022-09-27T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-the-j7-is-irobots-first-two-in-one-vacuum-and-mop-combo.md",
-      "title": "The j7+ is iRobot’s first two-in-one vacuum and mop combo",
-      "excerpt": "Robot has revealed the Roomba Combo j7+, a premium robot vacuum featuring a retractable mop that allows it to both mop and vacuum without input from the user.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/",
-      "originalUrl": "https://www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/Roomba-j7-Lifestyle.jpg?p=1",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/?amp",
-      "publishedDateTime": "2022-09-27T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-aws-announces-general-availability-of-aws-iot-fleetwise.md",
-      "title": "AWS Announces General Availability of AWS IoT FleetWise",
-      "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-iot-fleetwise/",
-      "originalUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-iot-fleetwise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

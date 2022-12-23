@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/12/20/1065669/download-home-ro
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/20/1065669/download-home-robot-surveillance-problematic-ai-text/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1600
     height: 896
     isCached: true
+
+related:
+  - title: "The Download: 2022’s best stories, and what’s next for AI"
+    excerpt: "What’s next for AI In 2022, AI got creative. AI models can now produce remarkably convincing pieces of text, pictures, and even videos, with just a little prompting. It’s only been nine months since OpenAI set off the generative AI explosion with the launch of DALL-E 2,"
+    publishedDateTime: 2022-12-23T13:10:00Z
+    webUrl: "https://www.technologyreview.com/2022/12/23/1065916/download-2022-best-stories-whats-next-for-ai/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "IGJt0hiAQ8nqLGtJK9rdMHYIP+nTW+h7LlBcgnhGzKguHeRtTxSvYy/uTgUwopoeNcBrE7Gwjplqa95+HEj1UVyVKaLWfrnHH10I8IbghEobEJAzt170ZGK1l0YfpJYroKDJyR19FEq24xFbTc95mvUj4sr1vTIvwO3GuSMJnamJHMKNgYiNrXWg+w5GMQ3U7yKp9pIcIseUPVFXgPswrAr1xbw94rcACD3L6M1dmDA8L5RM+G7OSLfOkzOkU2wHpmkxD+677kHp+jtUnim1tm9r5Mq+dwjEQ/spD1ZySiBB3ctlNVzPT1HqapXWFB88pWHeWFxvL2KK1rgLIVurf0HcV0RiveXWMuq9HFpSe4ykiztRgocxzQPG3IciXo2BakhYwUiG3emCgeMe3c+jQ2yZ3dXP7B5kCOmEsB5uL4cjAbykpDoSggBVoxSxUS/TFc4bSH8x7HW78uuHqds7MpTjSmwXStldHLhdddJAIMIHUd8v+Q+XzgOBxQnFup/Dq6MS/9omATUBEr0feZFCjw==;PPpL9D7vcrOuOmMN7NiA3A=="
 ---

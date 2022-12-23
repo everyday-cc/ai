@@ -2,6 +2,264 @@
   "page": 117,
   "value": [
     {
+      "path": "_news/2022-09-14-david-lawrence-centers-and-university-of-south-florida-in-tampa-considering-affiliation.md",
+      "title": "David Lawrence Centers and University of South Florida in Tampa considering affiliation",
+      "excerpt": "The David Lawrence Centers is wading into new territory that could bring clinical trials to local residents diagnosed with Alzheimer’s disease and other cognitive disorders. The nonprofit and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.naplesnews.com/story/news/health/2022/09/14/clinical-trials-dementia-prevention-treatment-could-come-southwest-florida/10360034002/",
+      "originalUrl": "https://www.naplesnews.com/story/news/health/2022/09/14/clinical-trials-dementia-prevention-treatment-could-come-southwest-florida/10360034002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Naples Daily News",
+        "domain": "naplesnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-saudi-govt-authorities-ibm-join-forces-to-reduce-kingdoms-emissions.md",
+      "title": "Saudi govt authorities, IBM join forces to reduce kingdom’s emissions",
+      "excerpt": "Saudi Data and Artificial Intelligence Authority (SDAIA) and IBM announced the signing of a strategic agreement to drive adoption of artificial intelligence in the carbon capture and industrial ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfbusiness.com/saudi-govt-authorities-ibm-join-forces-to-reduce-kingdoms-emissions-through-ai/",
+      "originalUrl": "https://gulfbusiness.com/saudi-govt-authorities-ibm-join-forces-to-reduce-kingdoms-emissions-through-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gulfbusiness.com/wp-content/uploads/2022/09/ekrem-osmanoglu-Uor3RZNHZ9E-unsplash.jpg",
+          "width": 930,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf Business",
+        "domain": "gulfbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-global-voice-recognition-market-size-and-growth-analysis-2022-by-product-types-market-supply-revenue-volume-and-demand-forecast-to-2026.md",
+      "title": "Global Voice Recognition Market Size and Growth Analysis 2022 by Product Types, Market Supply, Revenue, Volume and Demand Forecast to 2026",
+      "excerpt": "Voice Recognition market is split by type and by application for the period 2022-2026, the growth among segments provide accurate calculations and forecasts for revenue by type, by application and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/global-voice-recognition-market-size-and-growth-analysis-2022-by-product-types-market-supply-revenue-volume-and-demand-forecast-to-2026",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-voice-recognition-market-size-and-growth-analysis-2022-by-product-types-market-supply-revenue-volume-and-demand-forecast-to-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/09/9ce944c9f6ec07bb66ff6e0c6ca0baf6adea883c-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-microsoft-shares-whats-next-in-machine-learning-at-nvidia-gtc.md",
+      "title": "Microsoft shares what's next in machine learning at NVIDIA GTC",
+      "excerpt": "Finding scalable solutions for today’s global challenges requires forward-thinking, transformative tools. As environmental, economic, and public health concerns mount, Microsoft Azure is addressing these challenges head on with high-performance computing (HPC), AI, and machine learning. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/microsoft-shares-whats-next-in-machine-learning-at-nvidia-gtc/",
+      "originalUrl": "https://azure.microsoft.com/blog/microsoft-shares-whats-next-in-machine-learning-at-nvidia-gtc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/30a8bf6a-b129-4564-97e3-e9cfb29c824a.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T02:00:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-attacking-neural-networks-could-lead-to-a-better-understanding-of-ai.md",
+      "title": "Attacking Neural Networks Could Lead to a Better Understanding of AI",
+      "excerpt": "How neural networks work is considered a bit of a mystery within the AI research community, but a novel method of \"attacking\" neural networks during the training process could reveal new insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/tn/news/attacking-neural-networks-could-lead-to-a-better-understanding-of-ai-365650",
+      "originalUrl": "https://www.technologynetworks.com/tn/news/attacking-neural-networks-could-lead-to-a-better-understanding-of-ai-365650",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/365650/attacking-neural-networks-could-lead-to-a-better-understanding-of-ai-365650-640x360.jpg?cb=20220914",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-kingdom-of-saudi-arabia-develop-ai-ethics-principles.md",
+      "title": "Kingdom of Saudi Arabia develop AI ethics principles",
+      "excerpt": "The Saudi Artificial Intelligence Ethics Principles provide a set of practical standards for AI development and implementation in the Kingdom",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/kingdom-of-saudi-arabia-develop-ai-ethics-principles-i0amqe86",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/kingdom-of-saudi-arabia-develop-ai-ethics-principles-i0amqe86",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/version/c:YzBlNTEwMzQtYmQxMS00:ZTJmMzg4/faha4655-jpg.JPG?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T01:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-saudi-data-and-ai-authority-and-ministry-of-energy-partner-with-ibm.md",
       "title": "Saudi Data and AI Authority and Ministry of Energy partner with IBM",
       "excerpt": "This is the first use case as part of a strategic agreement with SDAIA & Ministry of Energy to partner with IBM to reduce carbon emissions across the country. The AI technology developed with IBM’s will enable the detection and management of Carbon ...",
@@ -911,294 +1169,6 @@
         "AI",
         "AI in Autos",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-university-of-maryland-prof-urges-pause-on-facial-recognition.md",
-      "title": "University of Maryland Prof Urges Pause on Facial Recognition",
-      "excerpt": "Lauren Rhue, an assistant professor of information systems at the University of Maryland, says human intervention is necessary to mitigate bias in technologies from Amazon Rekognition, Face++ and Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition",
-      "originalUrl": "https://www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/fbebee5/2147483647/strip/true/crop/2100x1095+0+6/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F19%2F60%2F04d269dc468bba43ff8fcf021bc0%2Flauren-rhue.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition?_amp=true",
-      "publishedDateTime": "2022-09-13T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud.md",
-      "title": "Synopsys To Seed Startup Innovation With AI-Powered Chip Design Tools In The Cloud",
-      "excerpt": "This new chip design tool seed program for startups could help accelerate the pace of innovation in many markets and industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/09/13/synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/09/13/synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6320d84574a794428be9950b/0x0.jpg?format=jpg&width=1200",
-          "width": 1024,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/09/13/synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/09/13/synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud/amp/",
-      "publishedDateTime": "2022-09-13T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-oracle-mysql-heatwave-comes-to-aws.md",
-      "title": "Oracle MySQL HeatWave comes to AWS",
-      "excerpt": "Oracle’s MySQL database service supporting mixed analytical, transaction processing, and machine learning workloads is now available on Amazon Web Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.html",
-      "originalUrl": "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/11/apples_oranges_slices_mixture_puzzle_balance_opposites_fruit__savatore-gersace_flickr-100779885-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.amp.html",
-      "publishedDateTime": "2022-09-13T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-cognitive-decline-tied-to-dental-health-monkeypox-and-the-brain-what-is-brain-fog.md",
-      "title": "Cognitive Decline Tied to Dental Health; Monkeypox and the Brain; What Is Brain Fog?",
-      "excerpt": "(Journal of the American Geriatrics Society) The 1-year incidence of cognitive decline was lower among long-term care residents in Canada during the COVID-19 pandemic than before it, which may be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/neurology/generalneurology/100688",
-      "originalUrl": "https://www.medpagetoday.com/neurology/generalneurology/100688",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/100xxx/100688.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-what-the-eu-ai-act-means-for-the-insurance-industry.md",
-      "title": "What the EU AI Act means for the insurance industry",
-      "excerpt": "A new EU AI Act draft shows that regulatory oversight of AI and the data fed into AI systems will increase in Europe and also globally.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/what-the-eu-ai-act-means-for-the-insurance-industry/",
-      "originalUrl": "https://venturebeat.com/ai/what-the-eu-ai-act-means-for-the-insurance-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1037155966.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/what-the-eu-ai-act-means-for-the-insurance-industry/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-the-eu-ai-act-means-for-the-insurance-industry/amp/",
-      "publishedDateTime": "2022-09-13T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-ai-eye-podcast-722-stocks-discussed-nyse-ai-nasdaqgs-goog-otc-mrnj.md",
-      "title": "AI Eye Podcast 722: Stocks discussed: (NYSE: $AI) (NasdaqGS: $GOOG) (OTC: $MRNJ)",
-      "excerpt": "Investorideas.com, a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news, deal tracker and advancements in artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.investorideas.com/news/2022/artificial-intelligence/09131AI-GOOG-MRNJ.asp",
-      "originalUrl": "https://www.investorideas.com/news/2022/artificial-intelligence/09131AI-GOOG-MRNJ.asp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.investorideas.com/images/AI-Eye.jpg",
-          "width": 1280,
-          "height": 1206,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investor ideas",
-        "domain": "investorideas.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

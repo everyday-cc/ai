@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-22-abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree.md",
+      "title": "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE",
+      "excerpt": "Applied Brain Research Inc. (ABR) today announced that it has been named a CES® 2023 Innovation Awards Honoree for the ABR Time Series Processor (TSP) AI chip. This year's Consumer Electronics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/29807580/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/29807580/abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newswire.com/files/x/bd/36/f05eb2b9ef004d4ca52698a1dbf8.png",
+          "width": 608,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29807580",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29807580",
+      "publishedDateTime": "2022-11-21T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-21-nvidia-h100-gpu-performance-shatters-machine-learning-benchmarks-for-model-training.md",
       "title": "NVIDIA H100 GPU Performance Shatters Machine Learning Benchmarks For Model Training",
       "excerpt": "Goodson, dives in as a few weeks ago, a new set of MLCommons training results were released, this time for MLPerf 2.1 Training, which the NVIDIA H100 and A100 also dominated.",
@@ -1364,58 +1407,6 @@
         "name": "theregister",
         "domain": "theregister.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-nvidias-selling-a-nerfed-gpu-in-china-to-get-around-export-restrictions.md",
-      "title": "Nvidia’s selling a nerfed GPU in China to get around export restrictions",
-      "excerpt": "If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Nvidia’s note about not being able to be programmed to exceed the limits is important. Back when GPUs were in short supply, the company announced that its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/11/8/23447886/nvidia-a800-china-chip-ai-research-slowed-down-restrictions",
-      "originalUrl": "https://www.theverge.com/2022/11/8/23447886/nvidia-a800-china-chip-ai-research-slowed-down-restrictions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/0ApsR4WiWJXetEg7ocJyHe01OOc=/0x0:1980x1320/1200x628/filters:focal(990x660:991x661)/cdn.vox-cdn.com/uploads/chorus_asset/file/19970190/2555435ebae590030837.15346566_NVIDIA_A100_GPU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T15:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

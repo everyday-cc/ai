@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-23-how-ai-and-other-emerging-technologies-can-support-evidence-based-medicine.md",
+      "title": "How AI and other emerging technologies can support evidence-based medicine",
+      "excerpt": "King Faisal Specialist Hospital and Research Centre uses the latest technology to offer patients cutting-edge medical solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/sc/king-faisal-research-centre-uses-ai-and-other-technologies-to-help-patients",
+      "originalUrl": "https://www.businessinsider.com/sc/king-faisal-research-centre-uses-ai-and-other-technologies-to-help-patients",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63a320bd58babf00188d4a27?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-23T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-23-ai-isnt-really-helping-coders-write-better-or-more-secure-code.md",
       "title": "AI isn't really helping coders write better or more secure code",
       "excerpt": "A paper (opens in new tab) by researchers at Stanford University has found that coders who employed AI assistants such as GitHub Copilot and Facebook InCoder actually ended up writing less secure code.",
@@ -107,7 +159,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029-2022-12-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -530,6 +582,101 @@
       "ampWebUrl": "https://www.businessinsider.com/lensa-app-review-turn-selfies-digital-art-ai-technology-photos-2022-12?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lensa-app-review-turn-selfies-digital-art-ai-technology-photos-2022-12?amp",
       "publishedDateTime": "2022-12-09T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-what-you-should-know-before-using-the-lensa-ai-app.md",
+      "title": "What You Should Know Before Using the Lensa AI App",
+      "excerpt": "You’ve likely seen friends using the Lensa AI app to create colorful ... a director of ethics and responsible innovation research at The Alan Turing Institute and professor at the Queen ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.glamour.com/story/what-you-should-know-before-using-the-lensa-ai-app",
+      "originalUrl": "https://www.glamour.com/story/what-you-should-know-before-using-the-lensa-ai-app",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.glamour.com/photos/63934ea406c4dd60b5718418/16:9/w_1280,c_limit/Security-LensaAI-Birth-Venus-92825836.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T15:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Glamour",
+        "domain": "glamour.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-the-importance-of-driving-responsible-ai.md",
+      "title": "The importance of driving responsible AI",
+      "excerpt": "Organizations are increasingly depending upon artificial intelligence (AI) and machine learning (ML) to assist humans in decision making. It can be leveraged by organizations to help improve ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/sc/the-importance-of-driving-responsible-ai",
+      "originalUrl": "https://www.businessinsider.com/sc/the-importance-of-driving-responsible-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63593cc0fc29ff001a5f7b1d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T11:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1304,145 +1451,6 @@
       "provider": {
         "name": "The Financial Express",
         "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-review-shark-ai-ultra-2-in-1-robot-vacuum-and-mop.md",
-      "title": "Review: Shark AI Ultra 2-in-1 Robot Vacuum and Mop",
-      "excerpt": "So my expectations for Shark’s new AI Ultra robot vacuum were very low—especially ... If you want to be able to start the vacuum from your phone, without carrying it into the kitchen, you ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/review/shark-ai-ultra-robot-vacuum-and-mop/",
-      "originalUrl": "https://www.wired.com/review/shark-ai-ultra-robot-vacuum-and-mop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/637e69aec16b4f8de1df58df/master/pass/Shark-AI-Ultra-2-in-1-Robot-Vacuum-Review-Gear.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/review/shark-ai-ultra-robot-vacuum-and-mop/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/review/shark-ai-ultra-robot-vacuum-and-mop/amp",
-      "publishedDateTime": "2022-11-24T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-meta-takes-down-ai-bot-after-complaints-of-fake-research.md",
-      "title": "Meta takes down AI bot after complaints of fake research",
-      "excerpt": "In a statement released to The Daily Beast, the Meta AI team said that the bot was trained using \"106 billion tokens of open-access scientific text and data. This includes papers, textbooks, scientific websites,",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/meta-takes-down-ai-bot-after-complaints-of-fake-research-9587211.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/meta-takes-down-ai-bot-after-complaints-of-fake-research-9587211.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/11/meta-630x420.png",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/meta-takes-down-ai-bot-after-complaints-of-fake-research-9587211.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/meta-takes-down-ai-bot-after-complaints-of-fake-research-9587211.html/amp",
-      "publishedDateTime": "2022-11-23T04:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-researchers-ai-in-connected-cars-eased-rush-hour-congestion.md",
-      "title": "Researchers: AI in connected cars eased rush hour congestion",
-      "excerpt": "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no apparent reason — no construction or accident. Researchers say the problem is you.",
-      "sourceUrl": null,
-      "webUrl": "https://kesq.com/news/ap-california/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/",
-      "originalUrl": "https://kesq.com/news/ap-california/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kesq.b-cdn.net/2021/06/kesq.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-23T00:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KESQ News",
-        "domain": "kesq.com",
         "images": null,
         "publishers": null,
         "authors": null

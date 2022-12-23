@@ -74,6 +74,15 @@ related:
       name: YAHOO!News
       domain: techcrunch.com
     quality: 47
+  - title: "Why Everyone's Obsessed With ChatGPT, a Mind-Blowing AI Chatbot"
+    excerpt: "This artificial intelligence bot can answer questions and write essays and program computers. But careful how much you trust it."
+    publishedDateTime: 2022-12-23T13:00:00Z
+    webUrl: "https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-a-mind-blowing-ai-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
   - title: "AI Platforms like ChatGPT Are Easy to Use but Also Potentially Dangerous"
     excerpt: "Systems like ChatGPT are enormously entertaining and even mind-bogglingly human-sounding, but they are also unreliable and could create an avalanche of misinformation"
     publishedDateTime: 2022-12-19T20:41:00Z

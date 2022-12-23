@@ -2,6 +2,145 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-25-review-shark-ai-ultra-2-in-1-robot-vacuum-and-mop.md",
+      "title": "Review: Shark AI Ultra 2-in-1 Robot Vacuum and Mop",
+      "excerpt": "So my expectations for Shark’s new AI Ultra robot vacuum were very low—especially ... If you want to be able to start the vacuum from your phone, without carrying it into the kitchen, you ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/review/shark-ai-ultra-robot-vacuum-and-mop/",
+      "originalUrl": "https://www.wired.com/review/shark-ai-ultra-robot-vacuum-and-mop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/637e69aec16b4f8de1df58df/master/pass/Shark-AI-Ultra-2-in-1-Robot-Vacuum-Review-Gear.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/review/shark-ai-ultra-robot-vacuum-and-mop/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/review/shark-ai-ultra-robot-vacuum-and-mop/amp",
+      "publishedDateTime": "2022-11-24T11:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-meta-takes-down-ai-bot-after-complaints-of-fake-research.md",
+      "title": "Meta takes down AI bot after complaints of fake research",
+      "excerpt": "In a statement released to The Daily Beast, the Meta AI team said that the bot was trained using \"106 billion tokens of open-access scientific text and data. This includes papers, textbooks, scientific websites,",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/meta-takes-down-ai-bot-after-complaints-of-fake-research-9587211.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/meta-takes-down-ai-bot-after-complaints-of-fake-research-9587211.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/11/meta-630x420.png",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/meta-takes-down-ai-bot-after-complaints-of-fake-research-9587211.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/meta-takes-down-ai-bot-after-complaints-of-fake-research-9587211.html/amp",
+      "publishedDateTime": "2022-11-23T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-researchers-ai-in-connected-cars-eased-rush-hour-congestion.md",
+      "title": "Researchers: AI in connected cars eased rush hour congestion",
+      "excerpt": "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no apparent reason — no construction or accident. Researchers say the problem is you.",
+      "sourceUrl": null,
+      "webUrl": "https://kesq.com/news/ap-california/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/",
+      "originalUrl": "https://kesq.com/news/ap-california/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kesq.b-cdn.net/2021/06/kesq.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-23T00:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KESQ News",
+        "domain": "kesq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-facebook-says-it-has-created-a-human-level-board-game-ai.md",
       "title": "Facebook Says It Has Created A 'Human-Level' Board Game AI",
       "excerpt": "If you’ve never played Diplomacy, and so are maybe wondering what the big deal is, it’s a board game first released in the 1950s that is played mostly by people just sitting around a table (or breaking off into rooms) and negotiating stuff.",
@@ -1236,144 +1375,6 @@
         "AI in Autos",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-ai-assisted-cloud-service-to-aid-medical-diagnosis-in-japan.md",
-      "title": "AI-assisted cloud service to aid medical diagnosis in Japan",
-      "excerpt": "TOKYO -- A Japanese consortium including Hitachi and Microsoft Japan will use artificial intelligence to help doctors make diagnoses, tapping the cloud for data-sharing to eliminate the need for ...",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/Health-Care/AI-assisted-cloud-service-to-aid-medical-diagnosis-in-Japan",
-      "originalUrl": "https://asia.nikkei.com/Business/Health-Care/AI-assisted-cloud-service-to-aid-medical-diagnosis-in-Japan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F6%252F8%252F0%252F3%252F42763086-3-eng-GB%252FCropped-166663548420221024N%2520MRI%2520scan.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T20:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nikkei Asia",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-artificial-intelligence-in-accounting-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-104-pages-report.md",
-      "title": "Artificial Intelligence in Accounting Market Detailed Analysis of Current Scenario with Growth Forecasts to 2029 | 104 Pages Report",
-      "excerpt": "According to this latest study, In 2022 the growth of Artificial Intelligence in Accounting Market is projected to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-104-pages-report-2022-10-24-2319769",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-104-pages-report-2022-10-24-2319769",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T20:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-the-metaverse-is-here-and-onemeta-ai-is-already-changing-its-landscape-onei.md",
-      "title": "The Metaverse Is Here, And OneMeta AI Is Already Changing Its Landscape ($ONEI)",
-      "excerpt": "Many have heard the word \"Metaverse.\" Still, most have absolutely no clue what it is or means. A word of advice- learn about it. Why? Because it will change how people live, interact, and do business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/ab29375003/the-metaverse-is-here-and-onemeta-ai-is-already-changing-its-landscape-onei",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/ab29375003/the-metaverse-is-here-and-onemeta-ai-is-already-changing-its-landscape-onei",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1666363200.png",
-          "width": 1222,
-          "height": 1091,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29375003",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29375003",
-      "publishedDateTime": "2022-10-24T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

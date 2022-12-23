@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-26-shark-prime-day-deal-save-250-off-av2501ae-robot-vacuum-with-xl-hepa-self-empty-base.md",
+      "title": "Shark Prime Day Deal: Save $250 Off AV2501AE Robot Vacuum with XL HEPA Self-Empty Base",
+      "excerpt": "Several Shark robot vacuum cleaners empty themselves. Here’s everything you need to know if you’re trying to figure out which vacuum cleaner is right for you. We’ll start with the AI robot ...",
+      "sourceUrl": null,
+      "webUrl": "https://heavy.com/deals/shark-ai-robot-vacuum-prime-day-deal/",
+      "originalUrl": "https://heavy.com/deals/shark-ai-robot-vacuum-prime-day-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://heavy.com/wp-content/uploads/2021/11/Shark-AV2501AE-AI-Robot-Vacuum-with-XL-HEPA-Self-Empty-Base.jpg?quality=65&strip=all&w=780",
+          "width": 780,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://heavy.com/deals/shark-ai-robot-vacuum-prime-day-deal/amp/",
+      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/deals/shark-ai-robot-vacuum-prime-day-deal/amp/",
+      "publishedDateTime": "2022-11-25T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Heavy.com",
+        "domain": "heavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-25-how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021.md",
       "title": "How can AI, robotics and blockchain technology transform digital education: OECD’s Digital Education Report 2021",
       "excerpt": "Artificial intelligence(AI) and robotics and blockchain technology when used in a coordinated and combined manner, can potentially revolutionise the education system. The Organisation for Economic Cooperation and Development(OECD) report of 2021 brought to the fore the growing importance of robotics,",
@@ -1392,59 +1435,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-as-doubts-grow-over-self-driving-vehicles-this-ambitious-upstart-rolls-out-its-first-robot-trucks.md",
-      "title": "As Doubts Grow Over Self-Driving Vehicles, This Ambitious Upstart Rolls Out Its First Robot Trucks",
-      "excerpt": "Self-driving tech startup Waabi has deployed its first robot trucks and intends ... testing with the “Waabi World” simulator CEO Urtasun developed that allows the AI-enabled system to experience nearly limitless types of road conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2022/11/16/as-doubts-grow-over-self-driving-vehicles-this-ambitious-upstart-rolls-out-its-first-robot-trucks/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2022/11/16/as-doubts-grow-over-self-driving-vehicles-this-ambitious-upstart-rolls-out-its-first-robot-trucks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63743b5c8a22f01209f59b8f/0x0.jpg?format=jpg&crop=3532,1885,x156,y113,safe&width=1200",
-          "width": 1200,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

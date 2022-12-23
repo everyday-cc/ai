@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-23T12:28:00Z
 originalUrl: "https://www.androidheadlines.com/2022/12/tsmc-fends-off-samsung-to-secure-huge-4nm-chip-order-from-tesla.html"
 webUrl: "https://www.androidheadlines.com/2022/12/tsmc-fends-off-samsung-to-secure-huge-4nm-chip-order-from-tesla.html"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Android

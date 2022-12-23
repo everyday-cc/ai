@@ -37,6 +37,15 @@ related:
         width: 800
         height: 530
         isCached: true
+  - title: "How Machine Learning Could Predict Rare Disastrous Events"
+    excerpt: "When it comes to predicting disasters brought on by extreme events (think earthquakes, pandemics or “rogue waves” that could destroy coastal structures), computational modeling faces an al"
+    publishedDateTime: 2022-12-21T05:59:00Z
+    webUrl: "https://www.realclearscience.com/2022/12/21/how_machine_learning_could_predict_rare_disastrous_events_871440.html"
+    type: article
+    provider:
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 19
   - title: "Study shows how machine learning could predict rare disastrous events, like earthquakes or pandemics"
     excerpt: "In a new study in Nature Computational Science, the scientists describe how they combined statistical algorithms — which need less data to make accurate, efficient predictions — with a powerful machine learning technique developed at Brown and trained it to predict scenarios,"
     publishedDateTime: 2022-12-19T23:22:00Z

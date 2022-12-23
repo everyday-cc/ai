@@ -2,6 +2,144 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-12-the-ftc-is-closing-in-on-runaway-ai.md",
+      "title": "The FTC Is Closing In on Runaway AI",
+      "excerpt": "The US regulator is eager to end unfair use of artificial intelligence and commercial surveillance, but experts remain skeptical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ftc-ai-regulation/",
+      "originalUrl": "https://www.wired.com/story/ftc-ai-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/631a70b320bc56769c413043/master/pass/business-ftc-ai.jpg",
+          "width": 2401,
+          "height": 1351,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ftc-ai-regulation/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ftc-ai-regulation/amp",
+      "publishedDateTime": "2022-09-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-11-meta-is-building-ai-that-reads-brainwaves-the-reality-so-far-is-messy.md",
+      "title": "Meta Is Building AI That Reads Brainwaves. The Reality, So Far, Is Messy",
+      "excerpt": "Researchers at Meta, the parent company of Facebook, are working on a new way to understand what’s happening in people’s minds. On August 31, the company announced that research scientists in ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6210261/meta-ai-brains-speech/",
+      "originalUrl": "https://time.com/6210261/meta-ai-brains-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-10T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-10-artificial-intelligence-is-now-used-to-track-down-hate-speech.md",
+      "title": "Artificial intelligence is now used to track down hate speech",
+      "excerpt": "AI can help alleviate that burden by scaling up or down to fill in those gaps based on new influxes of users. Facebook, for instance, has seen massive growth, from 400 million users in the early ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newschannel5.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
+      "originalUrl": "https://www.newschannel5.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsy.com/images/videos/m/1660250991_F4WYcV.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newschannel5.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
+      "cdnAmpWebUrl": "https://www-newschannel5-com.cdn.ampproject.org/c/s/www.newschannel5.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
+      "publishedDateTime": "2022-09-09T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVF",
+        "domain": "newschannel5.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-tang-yu-an-ai-powered-robot-named-ceo-of-a-chinese-company.md",
       "title": "Tang Yu, An AI-Powered Robot, Named CEO Of A Chinese Company",
       "excerpt": "The metaverse firm has chosen an AI-powered virtual humanoid robot as its chief executive officer (CEO). The official announcement was made last week. According to a report in UK-based The Metro ...",

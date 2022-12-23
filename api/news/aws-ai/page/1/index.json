@@ -904,33 +904,24 @@
     {
       "path": "_news/2022-12-09-ai21-jurassic-1-foundation-model-now-available-on-amazon-sagemaker.md",
       "title": "AI21 Jurassic-1 Foundation Model Now Available on Amazon SageMaker",
-      "excerpt": "SageMaker provides a curated list of foundation models that are pre-trained, cutting down on expenses and time for customers, while being hosted and deployed securely on Amazon's AWS platform.",
+      "excerpt": "AI21 Labs, an Israeli startup aiming to fundamentally change the way people read and write using Generative AI, announced today that its Jurassic-1 Foundation Model used to power chatbots, answer questions,",
       "sourceUrl": null,
-      "webUrl": "https://www.ksn.com/business/press-releases/cision/20221208LN60463/ai21-jurassic-1-foundation-model-now-available-on-amazon-sagemaker/",
-      "originalUrl": "https://www.ksn.com/business/press-releases/cision/20221208LN60463/ai21-jurassic-1-foundation-model-now-available-on-amazon-sagemaker/",
+      "webUrl": "https://technews.tmcnet.com/news/2022/12/08/9727397.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/12/08/9727397.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/177dfabcc3fc406dbf064d537a70ce02-e1671768686674.jpg?w=2000&#038;ssl=1",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T09:08:00-08:00",
+      "publishedDateTime": "2022-12-08T08:54:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ksn.com",
-        "domain": "ksn.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

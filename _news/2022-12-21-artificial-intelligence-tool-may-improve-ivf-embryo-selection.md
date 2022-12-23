@@ -45,20 +45,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "Harnessing artificial intelligence technology for IVF embryo selection"
-    excerpt: "An artificial intelligence algorithm can determine non-invasively, with about 70 percent accuracy, if an in vitro fertilized embryo has a normal or abnormal number of chromosomes, according to a new study from researchers at Weill Cornell Medicine."
-    publishedDateTime: 2022-12-19T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/974901"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2dcce2b4-68eb-41a9-8e62-48d42f435b6e/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 201
-        isCached: true
   - title: "Non-invasive artificial intelligence approach for IVF embryo selection"
     excerpt: "An artificial intelligence algorithm can determine non-invasively, with about 70 percent accuracy, if an in vitro fertilized embryo has a normal or abnormal number of chromosomes, according to a new study from researchers at Weill Cornell Medicine."
     publishedDateTime: 2022-12-20T06:01:00Z
@@ -73,15 +59,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Legal Tech's Milestones for Legal AI and Contract Technology in 2022"
-    excerpt: "Legal industry experts weigh in on the biggest developments in AI and contract technology in the past year. AI continues to be one of the hottest technologies in nearly all industries, including legal."
-    publishedDateTime: 2022-12-21T14:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2022/12/21/legal-techs-milestones-for-legal-ai-and-contract-technology-in-2022/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 19
 
 secured: "NzYHKvL6mP1G3i5Qhas558rJIEbE0Aks9/SJui/95r6484AFpDmoPKpaKtHlLh//Z/1Ay1QRmPU3dd1E27eevcHI0rJPtSpmSdk4rwUS9JzBRvO5W/GtZd7YUc17x1HKxpNW6d++YSrzwpruJYupUhPO1/TxNFc48we91zDw21qTnNjzvgIEtAzbCWfV5+om7lFbMtyQLw6kwpU3NkGA7gJ2e6turqMu6A/kgFG1ZqHEh9oL6L/jUOea39l9dOyAmVOEzrDIMkfgQdQLMJCKZ5Y1iEKid+15XrUx0gtJ6iwmMdgHBMwDPPohFy1yl0RedxuTfEoi2XqP60vtXwbhjuX+6J9XGL9uQh42qeITgxE=;6XfTd3FMpIO3z/UjFhLJuw=="
 ---

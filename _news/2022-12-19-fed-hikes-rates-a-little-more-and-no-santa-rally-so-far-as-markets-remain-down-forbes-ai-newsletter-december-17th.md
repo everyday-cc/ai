@@ -30,35 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Inworld AI drives toward better AI characters in games with grants and Santa demo"
-    excerpt: "Avatars have been around for a lot of video game history, but for most of that history, players would never mistake those characters for the humans they imitate. Inworld AI wants to change that by infusing AI into virtual characters to make them smarter than ever."
-    publishedDateTime: 2022-12-21T16:31:00Z
-    webUrl: "https://venturebeat.com/games/inworld-ai-drives-toward-better-ai-characters-in-games-with-grants-and-santa-demo/"
-    ampWebUrl: "https://venturebeat.com/games/inworld-ai-drives-toward-better-ai-characters-in-games-with-grants-and-santa-demo/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/inworld-ai-drives-toward-better-ai-characters-in-games-with-grants-and-santa-demo/amp/"
+  - title: "Best GPU deals for December 2022"
+    excerpt: "GPU clock speeds are rated at 1,785 MHz ... you can grab this 12GB GDDR6 card, at 192-bit, with DLSS AI acceleration and ray tracing support for hyper-realistic, fluid motion, and immersive ..."
+    publishedDateTime: 2022-12-21T15:48:00Z
+    webUrl: "https://www.digitaltrends.com/dtdeals/best-cheap-gpu-deals/"
+    ampWebUrl: "https://www.digitaltrends.com/dtdeals/best-cheap-gpu-deals/"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/best-cheap-gpu-deals/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/12/inworld-santa.jpg?w=1200&strip=all"
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2018/05/razer-core-x-ext-gpu-openl.jpg?resize=1200%2C630&p=1"
         width: 1200
-        height: 747
-        isCached: true
-  - title: "Warner Bros. Working on Virtual Robot to Interact with Players in Video Games"
-    excerpt: "Warner Bros. is publishing a patent for a new social robot that could enhance the way video games understand and interact with players."
-    publishedDateTime: 2022-12-21T17:51:00Z
-    webUrl: "https://gamerant.com/warner-bros-patents-virtual-robot/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 36
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/12/multiversus-iron-giant.jpg"
-        width: 1800
-        height: 900
+        height: 630
         isCached: true
 
 secured: "hhJcG5HCK5lPjka9Siwy07UD0gSpAGWVw5qMd7qAJtfmB4+rju+NqNRcEzkf/J7vFU8ME0QroEWQjhCK4gA0PAcKZhFSfuUPA03hYQX3gWyFxNBgd9qHT4z7AHaMO80CgL5KA3pdL0Z3Qo21NLKxCpaPedqKlwiplr/c9HzL4tbtEr4CLTMK9JxMnS4sf/pQhFtSjXIJfuk0C53zcMbzQmwVI3XoUhdfHkfrbKFqs/AwJQSL3Fdex03RpAfpuvS03OsJCj8GPgKGG34NxyyS2MYg+DoQ+MCc1LQNl4pLWEDJO1e6KKu1fUnZVwS1a1XdcB7yPLzfMcvkEjiizkrjg4Hmg241Af8cvURA/AnDfs4=;oIChxrIbhe83yJ26KvKTJw=="

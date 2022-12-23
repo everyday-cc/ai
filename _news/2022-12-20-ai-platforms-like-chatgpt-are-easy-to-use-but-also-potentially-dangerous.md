@@ -68,6 +68,15 @@ related:
       name: YAHOO!News
       domain: techcrunch.com
     quality: 47
+  - title: "Why Everyone's Obsessed With ChatGPT, a Mind-Blowing AI Chatbot"
+    excerpt: "This artificial intelligence bot can answer questions and write essays and program computers. But careful how much you trust it."
+    publishedDateTime: 2022-12-23T13:00:00Z
+    webUrl: "https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-a-mind-blowing-ai-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
   - title: "Google is reportedly scrambling to match viral AI ChatGPT"
     excerpt: "ChatGPT is a “code red” event for Google, as the Search giant is struggling to showcase competing products by I/O 2023."
     publishedDateTime: 2022-12-22T16:33:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-23T12:55:00Z
 originalUrl: "https://www.tribuneindia.com/news/brand-connect/quantum-ai-canada-reviews-2023-–-scam-or-a-legit-platform-463847"
 webUrl: "https://www.tribuneindia.com/news/brand-connect/quantum-ai-canada-reviews-2023-–-scam-or-a-legit-platform-463847"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Tribune

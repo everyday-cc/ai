@@ -2,6 +2,301 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2022-11-10-vivo-unveils-v2-chip-to-use-it-with-dimensity-9200-for-ai-enhancements.md",
+      "title": "vivo unveils V2 chip, to use it with Dimensity 9200 for AI enhancements",
+      "excerpt": "The V2 chip, which was made by the company itself, is more compatible and has more features. It also has more on-chip memory, AI computing, and image processing. The last two generations of vivo’s self-developed imaging chips are V1 and V1+.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html",
+      "originalUrl": "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fonearena.com/blog/wp-content/uploads/2022/11/vivo-V2-chip.jpg",
+          "width": 839,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html/amp",
+      "cdnAmpWebUrl": "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/378360/vivo-v2-chip-dimensity-9200-ai-enhancements.html/amp",
+      "publishedDateTime": "2022-11-09T21:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FoneArena",
+        "domain": "fonearena.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-natural-language-processing-nlp-market-size-overview-by-rising-demands-trends-and-huge-business-opportunities-2022-to-2026.md",
+      "title": "Natural Language Processing (NLP) Market Size Overview by Rising Demands, Trends and Huge Business Opportunities 2022 to 2026",
+      "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Natural Language Processing (NLP) Market\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-overview-by-rising-demands-trends-and-huge-business-opportunities-2022-to-2026-2022-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-overview-by-rising-demands-trends-and-huge-business-opportunities-2022-to-2026-2022-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T20:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-how-covid-19-impacting-artificial-intelligence-ai-chips-market-globally-2022-2026.md",
+      "title": "How COVID-19 Impacting Artificial intelligence (AI) Chips Market Globally 2022-2026?",
+      "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial intelligence (AI) Chips Market\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/how-covid-19-impacting-artificial-intelligence-ai-chips-market-globally-2022-2026-2022-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/how-covid-19-impacting-artificial-intelligence-ai-chips-market-globally-2022-2026-2022-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T20:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-artificial-intelligence-ai-robots-market-outlook-2022-and-forecast-to-2030-by-abb-alphabet-amazon.md",
+      "title": "Artificial Intelligence (AI) Robots Market Outlook 2022 and Forecast to 2030 | By -ABB, Alphabet, Amazon",
+      "excerpt": "Robots Market Research Report (2022 -2030) here: The study report offers a comprehensive analysis of the global Artificial Intelligence (AI) Robots Market size across the globe as regional and country-level market size analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-outlook-2022-and-forecast-to-2030-by--abb-alphabet-amazon-2022-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-outlook-2022-and-forecast-to-2030-by--abb-alphabet-amazon-2022-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T20:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-meta-layoffs-hit-an-entire-ml-research-team-focused-on-infrastructure.md",
+      "title": "Meta layoffs hit an entire ML research team focused on infrastructure",
+      "excerpt": "After today's Meta layoffs, a researcher said entire team focused on applying ML across the infrastructure stack was cut.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/",
+      "originalUrl": "https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/zuck.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/amp/",
+      "publishedDateTime": "2022-11-09T20:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-ibm-debuts-new-quantum-processor-with-433-qubits.md",
+      "title": "IBM debuts new quantum processor with 433 qubits",
+      "excerpt": "IBM Corp. today debuted a new quantum processor ... could help advance research in areas such as chemistry, artificial intelligence and logistics. “The new 433 qubit ‘Osprey’ processor ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/11/09/ibm-debuts-new-quantum-processor-433-qubits/",
+      "originalUrl": "https://siliconangle.com/2022/11/09/ibm-debuts-new-quantum-processor-433-qubits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/ibm.png",
+          "width": 718,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T17:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-dentsu-collaborates-with-microsoft-to-build-path-to-the-metaverse-for-brands-business.md",
       "title": "Dentsu Collaborates With Microsoft To Build Path To The Metaverse For Brands & Business",
       "excerpt": "Dentsu International has announced it has collaborated with Microsoft to build a unique collaboration space in the metaverse, designed to excite and inspire brands to innovate and experiment with Web3 technologies.",
@@ -814,256 +1109,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-dentsu-and-microsoft-collaborate-to-build-a-path-to-the-metaverse.md",
-      "title": "dentsu and Microsoft collaborate to build a path to the Metaverse",
-      "excerpt": "Microsoft have united to build a space in the metaverse.The announcement:dentsu International today announced it has collaborated with Microsoft to build a unique collaboration space in the metaverse,",
-      "sourceUrl": null,
-      "webUrl": "https://mumbrella.com.au/dentsu-and-microsoft-collaborate-to-build-a-path-to-the-metaverse-764441",
-      "originalUrl": "https://mumbrella.com.au/dentsu-and-microsoft-collaborate-to-build-a-path-to-the-metaverse-764441",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mumbrella.com.au/wp-content/uploads/2022/11/thumbnail_Dentsu-NXT-Space-e1668049852492.png",
-          "width": 1032,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mumbrella.com.au/dentsu-and-microsoft-collaborate-to-build-a-path-to-the-metaverse-764441/amp",
-      "cdnAmpWebUrl": "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/dentsu-and-microsoft-collaborate-to-build-a-path-to-the-metaverse-764441/amp",
-      "publishedDateTime": "2022-11-09T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mumbrella",
-        "domain": "mumbrella.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-ibm-quantum-computing-progress-edges-toward-eventual-utility.md",
-      "title": "IBM Quantum Computing Progress Edges Toward Eventual Utility",
-      "excerpt": "Stephen Shankland has been a reporter at CNET since 1998 and writes about processors, digital photography, AI, quantum computing ... computing's long-term prospects, IBM said Wednesday it's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/ibm-quantum-computing-progress-edges-toward-eventual-utility/",
-      "originalUrl": "https://www.cnet.com/tech/computing/ibm-quantum-computing-progress-edges-toward-eventual-utility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/d735aade6ff6f7b818ce6c04b53150e98fc491ad/hub/2022/11/09/f0493856-5ab7-4633-a64a-f011ee909111/ibm-quantum-osprey-flexi-cables.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ibm-quantum-computing-progress-edges-toward-eventual-utility/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-quantum-computing-progress-edges-toward-eventual-utility/",
-      "publishedDateTime": "2022-11-09T07:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-honda-planning-self-driving-electric-vehicle-fitted-with-ai.md",
-      "title": "Honda planning self-driving electric vehicle fitted with AI",
-      "excerpt": "Honda Motor Co. said it is developing a self-driving compact electric car equipped with artificial intelligence (AI) that automatically picks up passengers at any location of their choosing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.asahi.com/ajw/articles/14760121",
-      "originalUrl": "https://www.asahi.com/ajw/articles/14760121",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://p.potaufeu.asahi.com/c996-p/picture/27207743/e21cf678151f1180730d954a38af462c.jpg",
-          "width": 660,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "朝日新聞社",
-        "domain": "asahi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-cloud-giants-file-major-eu-antitrust-suit-against-microsoft.md",
-      "title": "Cloud giants file major EU antitrust suit against Microsoft",
-      "excerpt": "A cloud computing industry group has filed an antitrust complaint about Microsoft to the European Commission’s Directorate-General for Competition. The body, dubbed Cloud Infrastructure Service Providers in Europe or \"Cispe\",",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/cloud-giants-file-major-eu-antitrust-suit-against-microsoft",
-      "originalUrl": "https://www.techradar.com/news/cloud-giants-file-major-eu-antitrust-suit-against-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-microsoft-365-apps-continue-to-be-the-most-exploited-cloud-services.md",
-      "title": "Microsoft 365 Apps Continue to be the Most Exploited Cloud Services",
-      "excerpt": "Microsoft 365 still gets the lion’s share. Attackers can choose to compromise a legitimate account and abuse multiple services to launch attacks from a trusted location, targeting that organization or even an external objective. Similarly, they can spin ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infosecurity-magazine.com/blogs/microsoft-apps-exploited-cloud/",
-      "originalUrl": "https://www.infosecurity-magazine.com/blogs/microsoft-apps-exploited-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T06:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Infosecurity-magazine.com",
-        "domain": "infosecurity-magazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-gbts-facial-and-body-recognition-patent-application-received-a-notice-of-allowance.md",
-      "title": "GBT's Facial and Body Recognition Patent Application Received a Notice of Allowance",
-      "excerpt": "(\"GBT/Tokenize\") received a notice of allowance for its facial and body recognition non-provisional patent application. The patent describes a pioneering technology for studying, identifying and recognizing features of an image,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/11/09/9709242.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/11/09/9709242.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

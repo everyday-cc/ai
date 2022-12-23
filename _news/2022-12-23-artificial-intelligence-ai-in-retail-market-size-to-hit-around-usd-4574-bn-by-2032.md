@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-23T13:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/12/g30185982/artificial-intelligence-ai-in-retail-market-size-to-hit-around-usd-45-74-bn-by-2032"
 webUrl: "https://www.benzinga.com/pressreleases/22/12/g30185982/artificial-intelligence-ai-in-retail-market-size-to-hit-around-usd-45-74-bn-by-2032"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: Benzinga.com

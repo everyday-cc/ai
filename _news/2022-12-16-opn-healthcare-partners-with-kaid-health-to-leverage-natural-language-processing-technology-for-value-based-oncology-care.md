@@ -5,6 +5,8 @@ excerpt: "Deployment of Real-World Natural Language Processing marks first use c
 publishedDateTime: 2022-12-15T18:07:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/12/b30097555/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-va"
 webUrl: "https://www.benzinga.com/pressreleases/22/12/b30097555/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-va"
+ampWebUrl: "https://www.benzinga.com/amp/content/30097555"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30097555"
 type: article
 
 provider:
@@ -16,6 +18,12 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "WNx1M5fhWfmxL53jNdnNtNBrw70GPoXqO9bemEEGNOxIuJJOzbQzxjPKqsey+ytn0p33/V4UEHlVRgG9i5fywACXjnqRXnHZ2Y2Ii/kSTCCK3XdEwxbrYs/BwHjXeiY/Lel/X9T62vIerJGxU9mG80Yf/iX8xmK72ag1OsZvn4By0a++FvZidQEbUd8SEdNzhHNs2yo1UnbIObe4uIQN9rNJpYslmfjECsZas/QqojssR4xgjej5/zRxCiC/ydYHl/9xsf1iunLRWP/r/MM284q3O8BG3hyA3YHoS7KnAWkfHhGJC2bcPctgkJAl/5nTtM3aN40EEapGE1pXY/I5EMstqJ5XP8SCzrKeP27IO6I=;/0WeHgwt//fjF/CTRlv+SA=="
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+    width: 800
+    height: 313
+    isCached: true
+
+secured: "H1rUIZ3x16hahwhu/4tNxNbxEg5+3CQ6VWU4r707V174/1yS3mm0EsM+mTkgv3vll67jQUK0Ic/zEtoKDaYb6sq59imXJ/pXAMRoJN8YYjt+1P4zj3Q07M5EWsx4rltpaRa8dJV3heKwbs+pG+THfoQoG08JTw2WxMJiIFS9uIU51+0Kd7Onq8KgdMtxc0AkBNNzD+0ieLDbt54ZprI/XL4reup0HtmsMVYkEyoXQtBDN4gLmXl4PPkyy2f7aQVo2Z0WMm6M18jlGqtTOjrBaGYoQgIOhWAEdtsGSxoD7b5KLrVF4m7lVfBMm6lwQWSsOagP50bML0InByoSLoEALJ3m91JMJ0vbN2GRom+4h5I=;ps5gW9NznbiLCdMScItavw=="
 ---
 

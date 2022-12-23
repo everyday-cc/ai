@@ -2,6 +2,302 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2022-10-10-artificial-intelligence-in-fintech-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-2030.md",
+      "title": "Artificial Intelligence In Fintech Market Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022-2030",
+      "excerpt": "The Global Artificial Intelligence In Fintech Market size is expected to reach $25.8 billion by 2028, rising at a market growth of 16.8% CAGR during the forecast period. This study offers information for creating plans to increase the market’s growth and effectiveness and is a comprehensive quantitative survey of the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-fintech-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-2030-2022-10-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-fintech-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-2030-2022-10-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-from-chatbots-to-predictive-analytics-6-ways-ai-can-help-your-business.md",
+      "title": "From Chatbots to Predictive Analytics: 6 Ways AI Can Help Your Business",
+      "excerpt": "Artificial intelligence, or AI, is one of the most talked about technologies today. And for a good reason – it has the potential to change the way we live and work. In business, there are endless ways that AI can be used to improve efficiency,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/from-chatbots-to-predictive-analytics-6-ways-ai-can-help-your-business/",
+      "originalUrl": "https://techbullion.com/from-chatbots-to-predictive-analytics-6-ways-ai-can-help-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/10/Chatbots-to-Predictive-Analytics.jpg",
+          "width": 512,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/from-chatbots-to-predictive-analytics-6-ways-ai-can-help-your-business/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/from-chatbots-to-predictive-analytics-6-ways-ai-can-help-your-business/amp/",
+      "publishedDateTime": "2022-10-10T00:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-machine-learning-vs-deep-learning-vs-neural-networks-whats-the-difference.md",
+      "title": "Machine learning vs deep learning vs neural networks: What’s the difference?",
+      "excerpt": "The terms machine learning and deep learning can seem interchangeable to most people, but they aren’t. Both considered subdivisions within the world of artificial intelligence (AI), the two have many differences,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/369163/machine-learning-vs-deep-learning-vs-neural-networks",
+      "originalUrl": "https://www.itpro.co.uk/technology/machine-learning/369163/machine-learning-vs-deep-learning-vs-neural-networks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816707/itpro/2019/01/ai_shutterstock_1089540200.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-deep-learning-chipset-market-highly-favourable-to-the-growth-rate-by-2028.md",
+      "title": "Deep Learning Chipset Market Highly Favourable To The Growth Rate By 2028",
+      "excerpt": "Deep Learning Chipset market trends from 2022 to 2028 The Global Deep Learning Chipset research report 2022-2028 provides",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-highly-favourable-to-the-growth-rate-by-2028-2022-10-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-highly-favourable-to-the-growth-rate-by-2028-2022-10-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-09T23:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-the-5-biggest-artificial-intelligence-ai-trends-in-2023.md",
+      "title": "The 5 Biggest Artificial Intelligence (AI) Trends In 2023",
+      "excerpt": "The Field of artificial intelligence (AI) is emerging and evolving faster than ever. Here, we look at some of the major trends in the field of artificial intelligence and machine learning in 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/10/the-5-biggest-artificial-intelligence-ai-trends-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/10/the-5-biggest-artificial-intelligence-ai-trends-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6343bdc93a68ef0014de06ad/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/10/the-5-biggest-artificial-intelligence-ai-trends-in-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/10/10/the-5-biggest-artificial-intelligence-ai-trends-in-2023/amp/",
+      "publishedDateTime": "2022-10-09T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali.md",
+      "title": "IIT Mandi start up to launch world's first giant swing backed by AI in Manali",
+      "excerpt": "The swing was built under a startup incubated at Indian Institute of Technology (IIT), Mandi, and is claimed to be a first-of-its-kind in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zeebiz.com/small-business/news-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali-202286",
+      "originalUrl": "https://www.zeebiz.com/small-business/news-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali-202286",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zeebiz.com/small-business/news-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali-202286/amp",
+      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/small-business/news-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali-202286/amp",
+      "publishedDateTime": "2022-10-09T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zee Business",
+        "domain": "zeebiz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-10-does-the-google-pixel-7-have-face-unlock-yes-but-theres-a-catch.md",
       "title": "Does the Google Pixel 7 have face unlock? Yes, but there’s a catch",
       "excerpt": "It’s an open question whether that lower-end camera was enough to drive Google’s facial recognition algorithms. Still, Google probably didn’t want to risk a face unlock feature performing ...",
@@ -835,292 +1131,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-scotlands-first-driverless-bus-system-launch-delayed-after-one-of-the-shuttles-got-lost.md",
-      "title": "Scotland's first driverless bus system launch delayed after one of the shuttles got LOST",
-      "excerpt": "The shuttle service is nicknamed Itsy Bitsy Teenie Weenie Driverless Machiney The launch day of the driverless busses saw chaos as one shuttle got lost Technical glitches meant the bus was stuck ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/10/07/20/63239185-0-image-a-16_1665172533692.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
-      "publishedDateTime": "2022-10-07T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-wike-signs-legislative-instrument-revoking-omehias-recognition-as-ex-rivers-gov.md",
-      "title": "Wike signs legislative instrument revoking Omehia’s recognition as ex-Rivers gov",
-      "excerpt": "“That in the first instance, the recognition was extra-judicial ... ordinarily should serve as the bastion of democracy, the voice and conscience of Rivers people, be reduced to the Governor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vanguardngr.com/2022/10/wike-signs-legislative-instrument-revoking-omehias-recognition-as-ex-rivers-gov/",
-      "originalUrl": "https://www.vanguardngr.com/2022/10/wike-signs-legislative-instrument-revoking-omehias-recognition-as-ex-rivers-gov/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vanguardngr.com/wp-content/uploads/2020/06/Nyesom-Wike-APC-the-juicy-blog.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vanguardngr.com/2022/10/wike-signs-legislative-instrument-revoking-omehias-recognition-as-ex-rivers-gov/",
-      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2022/10/wike-signs-legislative-instrument-revoking-omehias-recognition-as-ex-rivers-gov/",
-      "publishedDateTime": "2022-10-07T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vanguard",
-        "domain": "vanguardngr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-chip-stocks-crushed-to-two-year-low-as-more-tech-ai-ban-to-china-add-to-woes.md",
-      "title": "Chip stocks crushed to two-year low as more tech, AI ban to China add to woes",
-      "excerpt": "The chip sector melted down Friday for its third ... ambitions as it issued wider restrictions on semiconductor and AI technology that can be sold to the world’s second-largest economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/chip-stocks-slammed-by-new-ban-on-chip-and-ai-technology-for-china-11665168715",
-      "originalUrl": "https://www.marketwatch.com/story/chip-stocks-slammed-by-new-ban-on-chip-and-ai-technology-for-china-11665168715",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-07T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-biden-visits-ibm-to-promote-investments-in-us-semiconductor-production.md",
-      "title": "Biden Visits IBM to Promote Investments in U.S. Semiconductor Production",
-      "excerpt": "President Biden traveled to Poughkeepsie, N.Y., to connect a $20 billion investment by IBM to the bipartisan bill meant to spur production of critical microchips. Send any friend a story As a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconductors.html",
-      "originalUrl": "https://www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconductors.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/10/06/multimedia/06dc-biden-photo02-1-9057/06dc-biden-photo02-1-9057-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconductors.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconductors.amp.html",
-      "publishedDateTime": "2022-10-07T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-deep-learning-market-trends-companies-driver-segmentation-and-global-forecast-to-2028.md",
-      "title": "Deep Learning Market Trends, Companies, Driver, Segmentation and Global Forecast to 2028",
-      "excerpt": "Deep Learning Market study by \"The Insight Partners\" provides details about the market dynamics affecting the Deep",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-trends-companies-driver-segmentation-and-global-forecast-to-2028-2022-10-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-trends-companies-driver-segmentation-and-global-forecast-to-2028-2022-10-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-07T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-ai-generated-art-a-tool-for-enhancing-creativity.md",
-      "title": "AI-generated art: A tool for enhancing creativity",
-      "excerpt": "Artists should embrace #AI as the next advance in artistic progress, not summarily reject it as a creative tool.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/",
-      "originalUrl": "https://venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/openai-dall-e-2.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/amp/",
-      "publishedDateTime": "2022-10-07T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Facebook AI"
       ]
     }
   ],

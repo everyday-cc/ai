@@ -2,6 +2,144 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-25-ai-assisted-cloud-service-to-aid-medical-diagnosis-in-japan.md",
+      "title": "AI-assisted cloud service to aid medical diagnosis in Japan",
+      "excerpt": "TOKYO -- A Japanese consortium including Hitachi and Microsoft Japan will use artificial intelligence to help doctors make diagnoses, tapping the cloud for data-sharing to eliminate the need for ...",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/Health-Care/AI-assisted-cloud-service-to-aid-medical-diagnosis-in-Japan",
+      "originalUrl": "https://asia.nikkei.com/Business/Health-Care/AI-assisted-cloud-service-to-aid-medical-diagnosis-in-Japan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F6%252F8%252F0%252F3%252F42763086-3-eng-GB%252FCropped-166663548420221024N%2520MRI%2520scan.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T20:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nikkei Asia",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-artificial-intelligence-in-accounting-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-104-pages-report.md",
+      "title": "Artificial Intelligence in Accounting Market Detailed Analysis of Current Scenario with Growth Forecasts to 2029 | 104 Pages Report",
+      "excerpt": "According to this latest study, In 2022 the growth of Artificial Intelligence in Accounting Market is projected to",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-104-pages-report-2022-10-24-2319769",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-104-pages-report-2022-10-24-2319769",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T20:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-the-metaverse-is-here-and-onemeta-ai-is-already-changing-its-landscape-onei.md",
+      "title": "The Metaverse Is Here, And OneMeta AI Is Already Changing Its Landscape ($ONEI)",
+      "excerpt": "Many have heard the word \"Metaverse.\" Still, most have absolutely no clue what it is or means. A word of advice- learn about it. Why? Because it will change how people live, interact, and do business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/ab29375003/the-metaverse-is-here-and-onemeta-ai-is-already-changing-its-landscape-onei",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/ab29375003/the-metaverse-is-here-and-onemeta-ai-is-already-changing-its-landscape-onei",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1666363200.png",
+          "width": 1222,
+          "height": 1091,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29375003",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29375003",
+      "publishedDateTime": "2022-10-24T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-how-retail-ai-is-helping-sellers-keep-up-this-holiday-shopping-season-and-beyond.md",
       "title": "How retail AI is helping sellers keep up this holiday shopping season (and beyond)",
       "excerpt": "From predictive analytics to demand forecasting, retail AI is helping move inventories, predict trends and adequately price products.",
@@ -1302,163 +1440,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-facebook-parent-metas-ai-tool-can-create-artsy-videos-from-text.md",
-      "title": "Facebook Parent Meta's AI Tool Can Create Artsy Videos From Text",
-      "excerpt": "Facebook parent company Meta created these quirky videos with a new artificial intelligence system called Make-A-Video. It's part of Meta's research into technology that can create new content ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/social-media/facebook-parent-metas-ai-tool-can-create-artsy-videos-from-text/",
-      "originalUrl": "https://www.cnet.com/news/social-media/facebook-parent-metas-ai-tool-can-create-artsy-videos-from-text/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/0441ff6f1845b949eb387ef9fb00b0db60fb306b/hub/2022/09/28/c44efdc4-2a31-4890-88cf-dd90cb5d7c98/screen-shot-2022-09-28-at-3-20-49-pm.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-parent-metas-ai-tool-can-create-artsy-videos-from-text/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-parent-metas-ai-tool-can-create-artsy-videos-from-text/",
-      "publishedDateTime": "2022-09-29T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-metas-new-text-to-video-ai-generator-is-like-dall-e-for-video.md",
-      "title": "Meta’s new text-to-video AI generator is like DALL-E for video",
-      "excerpt": "In a Facebook post, Meta CEO Mark Zuckerberg described ... Meta says it is “openly sharing this generative AI research and results with the community for their feedback, and will continue ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/9/29/23378210/meta-text-to-video-ai-generation-make-a-video-model-dall-e",
-      "originalUrl": "https://www.theverge.com/2022/9/29/23378210/meta-text-to-video-ai-generation-make-a-video-model-dall-e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/jIxLtIXyU-0WuPMtCitTS-Ldtj4=/0x0:3031x2020/1200x628/filters:focal(1516x1010:1517x1011)/cdn.vox-cdn.com/uploads/chorus_asset/file/24064109/meta_ai_make_a_video.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-intel-geti-and-openvino-efforts-advance-ai-and-computer-vision.md",
-      "title": "Intel Geti and OpenVINO efforts advance AI and computer vision",
-      "excerpt": "Intel launches new platform with Geti to help make it easier for users to build computer vision models that can be deployed using OpenVINO.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-ai-and-computer-vision/",
-      "originalUrl": "https://venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-ai-and-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1351781263-e1664230107251.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-ai-and-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-ai-and-computer-vision/amp/",
-      "publishedDateTime": "2022-09-27T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

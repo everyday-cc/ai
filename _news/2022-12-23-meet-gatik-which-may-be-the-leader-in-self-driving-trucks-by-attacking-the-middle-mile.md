@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-23T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/bradtempleton/2022/12/23/meet-gatik-which-may-be-the-leader-in-self-driving-trucks-by-attacking-the-middle-mile/"
 webUrl: "https://www.forbes.com/sites/bradtempleton/2022/12/23/meet-gatik-which-may-be-the-leader-in-self-driving-trucks-by-attacking-the-middle-mile/"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: Forbes

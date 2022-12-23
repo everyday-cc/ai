@@ -89,6 +89,15 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 19
+  - title: "Self-Driving Startup TuSimple Slashes Staff in Bid to Right the Ship."
+    excerpt: "TuSimple announced it is cutting about 25% of its staff, or about 350 people, to save $55 to $65 million annually. The company will have about 1,100 people when the restructuring is complete."
+    publishedDateTime: 2022-12-22T17:32:00Z
+    webUrl: "https://www.barrons.com/articles/self-driving-startup-tusimple-cut-staff-restructuring-51671715893"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 4
 
 secured: "48wNo1thaWo4BQumTLOHn3vIpriu2ojgcnytkbvBXPMYAP8zohsfeu99URsVs5VyhhnXsaq7XgkSn8pp+qyhW47CT6k8kOiKwZ5CmpwB+OIXxsy4cvA1fwB1kHV4g8kghPmMNeqgB/ejwvsCsOJYg46FHh9pA80PRpvfKuyBZTFF6pdGCfyvHDDScFfD4upsrmY67y1Shnclyk7zVGGFBh3rPMnt7qqqo6NkwKUWdq+41VuxyTk6iY0DqhZcCZamKhTZB/uocg6334SVKpA+HEJOjOGdD7IKT+kvcAYP3Iv2UOjvuwDG6LkuXp4WyfPkchPPyrcVtKJ0dTJtU4gxt9M6i86nVPx26ufg0Y6B8jPPj/Ooy93Uy6uI6L5Vo2LNcFopAkmFn7fKIViw7Ik6lvnlsqqGF039w4/Eqiox7NkdctMT1el70uAY8+qWNZFxJC53a/MAQvESeLgB5kOY0qNpnAmEG1dbRnYeRBbsjhbUwR1kvqlObJotjAMMgF/op2nXrxlVuxioGBF0yMZzlw==;stERllqBY9kTTYJL3BXwmA=="
 ---

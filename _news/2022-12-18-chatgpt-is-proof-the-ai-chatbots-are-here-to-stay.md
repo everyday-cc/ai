@@ -3,8 +3,8 @@ category: news
 title: "ChatGPT is proof the AI chatbots are here to stay"
 excerpt: "Chat GPT crashed. “I immediately feel like I lost 50 points of IQ,” tweeted one user. “Now I have to use search engines like cavemen did,” exclaimed"
 publishedDateTime: 2022-12-18T00:00:00Z
-originalUrl: "https://www.thetimes.co.uk/article/006c4ae0-7d4c-11ed-a3d2-203363978915?shareToken=c8bf647aff7eb7655ef38ee11c47fe04"
-webUrl: "https://www.thetimes.co.uk/article/006c4ae0-7d4c-11ed-a3d2-203363978915?shareToken=c8bf647aff7eb7655ef38ee11c47fe04"
+originalUrl: "https://www.thetimes.co.uk/article/chatgpt-is-proof-the-ai-chatbots-are-here-to-stay-6jhd2fbgf?shareToken=ef7b4fa70be33e29af1e523c0621c38f"
+webUrl: "https://www.thetimes.co.uk/article/chatgpt-is-proof-the-ai-chatbots-are-here-to-stay-6jhd2fbgf?shareToken=ef7b4fa70be33e29af1e523c0621c38f"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 674
     isCached: true
 
-secured: "2cVFI3+1RBtYm4X4f4/tKyvG0mM7afajbC6ffz4ImCtcZltCfSU5kgoBvaWeYl4huIMGXzaNLGLpLBpDnCfZtJ2wg7FtgWcCvXcrCyTtr36JDFgX0X1BprTeapuquwd1cmNEggFhkosrXQjlTkeznNkDGkssdPjX46cA2bpwtMnvKzPE2IKYBn1lAwX2B8iQRqdOJMwPJTO9TDEFtOPUr2D0d/a1ZRA38avB7gFLgDH5RNbs940FYvi7yw5e+J9v489PcJxmm2ti4xuURvfetaLk5TKgYC6M2vr8CpOHRfKb9qdezpaY40q4DjnKKdOQvMnn4HPN56wO1BTSApPh66FNV7rtcX2tBEvg/IRGe01pSEqGEP/IrWL16fHuCU40bYzqUEa403AzOvb+zZuzto6Lo6f5OyWauC14zYDCpD+ZLnU8eCeAMRlW+ukeqQFGTq5Cza4YgTGNmxHD0Q9ELfcchvMoE4MBZRCSfYMg4WtCxDOaVxgtRRIEJtOXcNwbEaLKX+3xxWcjpHYhuBoBHg==;Nk1Q1TCDNM07K7rIu6PL4g=="
+secured: "J0rWGoavqDqDAYmHr4yxYVEcvg8fO/tU0L2Os0BRPKOR8p2mSUE4OLJp43W/FrGhC7yYPykJmk0QmVjZ8CxP4M/M/Bw7XbEO969u3KlRnE6YcI0DvGBPSIneEuW3wkyyqFTShSRTvYaro1S1dvGd5+vUYj6uNRhUSWP3WfjsQnIhdqSq9SCUbwcPWpTmjpKZAZJgm1DfpMbg8G0Qt00PND/mKVgncGurRQUE/OXzNXV4XT3cnNeKzlPQkcxmX4ZnCEi5/snpUtSezTBE4uVuVKA7gkuk+lxHZx+KuwlCxociBkjHQXh80J0cjkKs/APfqH+3s2r6ndid7pnIHd247FOUzE0M3A9mgS1iw1xli3Y=;7kNGZ3O3VnQlG1wVdU9j6g=="
 ---
 

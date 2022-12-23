@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-13-did-a-robot-write-this-we-need-watermarks-to-spot-ai.md",
+      "title": "Did a Robot write this? we need watermarks to spot AI",
+      "excerpt": "And remarkably, it will soon get better. OpenAI is widely expected to release its next iteration known as GPT-4 in the coming months, and early testers say it is better than anything that came before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html",
+      "originalUrl": "https://www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2021/05/Robot-rock-n-roll-monkey-FTfjMijq-Ws-unsplash.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html/amp",
+      "publishedDateTime": "2022-12-12T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-could-artificial-intelligence-help-us-build-a-technological-world-that-is-more-ethical.md",
       "title": "Could artificial intelligence help us build a technological world that is more ethical?",
       "excerpt": "Technology, and artificial intelligence in particular, could be used to empower users and help us move towards a world that is more ethically desirable",
@@ -1298,59 +1341,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-robo-truckers-and-the-ai-fueled-future-of-transport.md",
-      "title": "Robo Truckers and the AI-Fueled Future of Transport",
-      "excerpt": "Concerns about artificial intelligence replacing long-haul drivers are not new, but the real story is more nuanced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/",
-      "originalUrl": "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/638e52b0fefa29ce257ada8f/master/pass/artificial-intelligence-trucker-transport.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/amp",
-      "publishedDateTime": "2022-12-06T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI",
         "AI in Robotics"
       ]

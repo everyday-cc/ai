@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/google-s-in
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/google-s-india-focus-for-2023-beyond-harness-ai-to-solve-huge-problems-122121900518_1.html"
 type: article
 quality: 58
-heat: -1
+heat: 68
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Says India will contribute to AI breakthroughs; good time for start-ups"
-    excerpt: "Speaking at the ‘Google for India’ event — where the tech giant launched a slew of products and services for India — Pichai said technology is exponentially expanding and touching lives of people around the world and the moment calls for “responsible and balanced” regulation."
-    publishedDateTime: 2022-12-19T16:19:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/google-ceo-pitches-for-balance-between-regulation-and-innovation/article66281963.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/google-ceo-pitches-for-balance-between-regulation-and-innovation/article66281963.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/google-ceo-pitches-for-balance-between-regulation-and-innovation/article66281963.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: "https://bl-i.thgim.com/public/incoming/rjs1tn/article66281709.ece/alternates/FREE_1200/Google_DSC9372.jpg"
-        width: 1200
-        height: 896
-        isCached: true
   - title: "Google introduces AI-based solutions to ensure internet access for all Indians"
     excerpt: "During the 8th Google for India event held on December 19, Google showcased a series of new features and is looking to leverage its AI capabilities to help ensure democratized and secure internet access to all Indians,"
     publishedDateTime: 2022-12-20T03:24:00Z
