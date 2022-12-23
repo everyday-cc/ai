@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-12-ai-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-ai-artificial-intelligence.amp"
 type: article
 quality: 76
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: techxplore
@@ -28,17 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "Not everything we call AI is actually ‘artificial intelligence’. Here’s what you need to know"
-    excerpt: "Artificial intelligence has arrived. But what is it, exactly – and what’s behind some of the most splashy AIs we have encountered to date?"
-    publishedDateTime: 2022-12-22T03:50:00Z
-    webUrl: "https://theconversation.com/not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know-196732"
-    ampWebUrl: "https://theconversation.com/amp/not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know-196732"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know-196732"
+  - title: "Think globally, act locally: Starting small with AI can make a big impact"
+    excerpt: "Businesses should be careful and strategic in implementing AI. Determine long-term goals, start with small projects and know when to scale."
+    publishedDateTime: 2022-12-23T02:07:00Z
+    webUrl: "https://venturebeat.com/ai/think-globally-act-locally-starting-small-with-ai-can-make-a-big-impact/"
+    ampWebUrl: "https://venturebeat.com/ai/think-globally-act-locally-starting-small-with-ai-can-make-a-big-impact/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/think-globally-act-locally-starting-small-with-ai-can-make-a-big-impact/amp/"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 47
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1277718299-e1648759666670.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "62MZ+s9nqCYTuJV0TCBACcZ4fJCz1rnG1PrWdH7y1DWbbLTSM0Ec4XpADF5NgrygsxD5Nhw5wNBtFDN+eIAlvgB/o2TcLZZAGnLEQC8fOmxWt05a5L09dRaBj2KrB5IFD7p2rTEGuu80M9RbCE9zF6Q+dikWgMwsSG/XhxaWVW5Y3PgoKfl1HQqy5hicOGgsKwGldyg5UUazXnVMzNhFTt9D0d4jd089IJH8Z2sUAvTyfFWjAsgn5WyY2CRPKlKgg+SaHApAsYeIv1y5aVjEAMF3tY+7ZXhck5B7/9VsPznFp9GhlRibDpHF33BeVfias4Fvvd7xIil3soOHDEftaOas/k7xamPEKUfNQOstdmg=;YyK5YeiQR9OBfRTRZHBNBA=="
 ---

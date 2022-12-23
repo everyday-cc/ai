@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2022/12/19/1064921/ai-based-data-an
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/19/1064921/ai-based-data-analytics-enable-business-insight/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: MIT Technology Review
@@ -39,6 +39,20 @@ related:
       - url: "https://federalnewsnetwork.com/wp-content/uploads/2022/08/GettyImages-1345658982.jpg"
         width: 2309
         height: 1299
+        isCached: true
+  - title: "Data science and analytics startup Tredence raises $175M to solve AI’s last-mile problem"
+    excerpt: "Data science and artificial intelligence solutions startup Tredence Inc. said late today that it has closed on a bumper $175 million funding round led by Advent International. The company said it will use the funds from today’s Series B round to accelerate data-fueled growth and AI value realization for multiple industries."
+    publishedDateTime: 2022-12-23T01:07:00Z
+    webUrl: "https://siliconangle.com/2022/12/22/data-science-analytics-startup-tredence-raises-175m-solve-ais-last-mile-problem/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 28
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/Tredence_Logo.jpg"
+        width: 699
+        height: 439
         isCached: true
 
 secured: "0l1o/xzVwWtyiQLzJOEqc+/eBC4SQsjULTzOqZQ1OEE5pg1usYfED/gtWvathfW+pOkDz9Aibs3ZCwxQKL7Vq3PyKmrmsxTJsyEa1tEKtwde3JqwkdY5H5Miy4JehX0KWpKWO7NpZVl6D1DOK6jDgTQxCqveVK4swM2aS5d/m2bGJlNMHwiYJA5cxdSZFoBJtAMQ5dFW28CZqOSXqgSleOWP6/4N7aDQy1qAWtqFopZW3V+2g1YxPSxcuIcVrkHdEeHmSMi+WmDJwrgDi6L2WYKFKY+Ze5hakri0hdN/D0vNgaChHbqjrE2Z5g8TGDq+iljdTJQw5Ed3VcCapUkv7hRDSVi5udBEAAHNCiIej4A=;yzdtyXRxQyZxfyW70U5YqQ=="

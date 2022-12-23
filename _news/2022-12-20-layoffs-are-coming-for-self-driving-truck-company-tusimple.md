@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/19/layoffs-are-coming-for-self-drivin
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
         width: 540
         height: 540
+        isCached: true
+  - title: "Self-driving truck company TuSimple lays off 25% of staff days before Christmas"
+    excerpt: "It’s not a Merry Christmas for many employees of self-driving truck company TuSimple Holdings Inc. this year, with the company announcing that it is laying off 25% of its staff as part of a restructuring plan."
+    publishedDateTime: 2022-12-23T01:23:00Z
+    webUrl: "https://siliconangle.com/2022/12/22/self-driving-truck-company-tusimple-lays-off-25-staff-days-christmas/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 20
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/TuSimple.png"
+        width: 718
+        height: 400
         isCached: true
   - title: "Self Driving Startup TuSimple Slashes Staff in Bid to Right the Ship."
     excerpt: "TuSimple announced it is cutting about 25% of its staff, or about 350 people, to save $55 to $65 million annually. The company will have about 1,100 people when the restructuring is complete."

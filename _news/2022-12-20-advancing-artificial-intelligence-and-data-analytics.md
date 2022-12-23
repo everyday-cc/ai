@@ -40,6 +40,20 @@ related:
         width: 2584
         height: 2000
         isCached: true
+  - title: "Data science and analytics startup Tredence raises $175M to solve AI’s last-mile problem"
+    excerpt: "Data science and artificial intelligence solutions startup Tredence Inc. said late today that it has closed on a bumper $175 million funding round led by Advent International. The company said it will use the funds from today’s Series B round to accelerate data-fueled growth and AI value realization for multiple industries."
+    publishedDateTime: 2022-12-23T01:07:00Z
+    webUrl: "https://siliconangle.com/2022/12/22/data-science-analytics-startup-tredence-raises-175m-solve-ais-last-mile-problem/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 28
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/Tredence_Logo.jpg"
+        width: 699
+        height: 439
+        isCached: true
 
 secured: "IzgaH0lpUT5ZyKtcbL/aSRCh3mXHJ2LUeoTwRpoqXkQmnmpapCR2Tak/RvcPTVSuIP86Ii5gEGC1OG5yRkMCvnaeMszXtYUrzjJ8txGHy7/z/6eEklE/1nbxjhiqr5IgDSwYUYnIaGVKiYvFBbRaKiEr206MYrge6xjNSEcKpHWI8XeAlhSL0H4FRQmlaEKHTaGsQYJJPV+oiedQT5UjoQ574EuPG+7kZhPXRdGTUfF1qAX/UxytCifgMbD0sLxbA26YDGbiIBEF/e2ANcs8NE+DNE9MTEHwOYIAskgtkepKeUP8NXhADn/MDI44bLcoNFpID99/TakIh3RZMW/SK0csDsab12jPZkRCVnGl38KyUc5CZ9+kn1f/EUfPjtKCAnM8GW3MK3jXSrW3chlA6nWxv+SJoLmzcFv4tEl0fon4FlorFUdvCEgRwcX3LxyxrNQDRJs0SuzKGlVXL6ozZhn5IIeN5umnGVK969OQPX08V71Dd05CEGUEoVVTTeC4BrtAKzMr0Pl5lgDNvFWF9Q==;xXtKkrhb7yloYatiGVxqgw=="
 ---

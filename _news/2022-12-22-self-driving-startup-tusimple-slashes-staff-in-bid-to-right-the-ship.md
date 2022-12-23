@@ -74,6 +74,20 @@ related:
         width: 540
         height: 540
         isCached: true
+  - title: "Self-driving truck company TuSimple lays off 25% of staff days before Christmas"
+    excerpt: "It’s not a Merry Christmas for many employees of self-driving truck company TuSimple Holdings Inc. this year, with the company announcing that it is laying off 25% of its staff as part of a restructuring plan."
+    publishedDateTime: 2022-12-23T01:23:00Z
+    webUrl: "https://siliconangle.com/2022/12/22/self-driving-truck-company-tusimple-lays-off-25-staff-days-christmas/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 20
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/TuSimple.png"
+        width: 718
+        height: 400
+        isCached: true
 
 secured: "G0+LaQEJB9KKo1p/MPXVfNbfiOQH12fpj0uuyaYYnUYYZMBjzTOr/kZsfcBP6vfBWd8qhnGYYAIP4JFhPhxIK/IUHRrUmuJ0vU1Qra+2ueCdXZdBxHiwZpQyhKpW+DAVT66vPY57FOg8mxvqhIrUFzMoK9SgkZrvm7X9bkQkH65AMQFMryPszDgBHSD+HL5w90brEthrKffudMVMb078UzrZLxa3ZhaxHV/tHGk10fB4GUo98wpnia3K51jGaWyYNCL68g/LIvJN8O30HeDvHg3mSDsHnlIDio2PaeKeq4AqxBPD0eCUxC5zpV+rSHAj2BZXqjyENc6YCTkq5YveDByVqQD+v4bXMqezP27kG++hZTtk4ssGElrMJ7MBydYb/W129x7FN5Ny68vSq5XvWlyzUBqegY4ymEL3SkxtoLEQiguCvNBicdSHP2jItt5AG5WkoTVwR2bxHt+BhMphP9uNET3Dq1odo4If49X8kO4H6ovRkuD6h0IFbkm3Az+gmCawYi0gA6UuZ76HjZoK3A==;+d0uK+vT/Rz+Xa9baK0N6g=="
 ---

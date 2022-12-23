@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-b
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/amp/"
 type: article
 quality: 87
-heat: 228
+heat: 248
 published: true
 
 provider:
@@ -123,6 +123,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Tesla driver blames full-self-driving software for eight-car Thanksgiving Day pile up"
+    excerpt: "A serious accident on San Francisco's Bay Bridge has been blamed on Tesla's \"full-self-driving\" software by the driver, and the US government is investigating. The smash-up occurred around lunchtime on Thanksgiving Day on the Bay Area's second most famous bridge when the Tesla Model S reportedly slowed suddenly from the regulation 55mph to just 20 mph,"
+    publishedDateTime: 2022-12-23T02:30:00Z
+    webUrl: "https://www.theregister.com/2022/12/23/tesla_driver_software_crash/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/12/23/tesla_driver_software_crash/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/12/23/tesla_driver_software_crash/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 52
+    images:
+      - url: "https://regmedia.co.uk/2017/01/19/tesla.jpg"
+        width: 648
+        height: 432
+        isCached: true
   - title: "Tesla Full Self-Driving Linked to Eight-Car Crash"
     excerpt: "Already facing intense federal scrutiny after a series of previous accidents, a newly reported 8-car crash on San Francisco’s Bay Bridge is setting off new alarm bells after a driver told authorities the incident was triggered by the “Full Self-Driving” system in use by his Tesla Model S."
     publishedDateTime: 2022-12-22T10:00:00Z
@@ -164,6 +180,20 @@ related:
       - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_576,w_1024,x_0,y_106/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1671722489/GettyImages-1244600092_pp1bva"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Tesla's 'full self-driving' mode at center of blame for major accident"
+    excerpt: "Tesla's \"full self-driving\" mode is at the center of blame for a San Francisco car crash that left at least nine people injured."
+    publishedDateTime: 2022-12-23T01:59:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/tesla-full-self-driving-mode-at-center-of-blame-for-major-accident"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 39
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/4091693/2147483647/strip/true/crop/3000x1575+0+150/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F7c%2F8c%2F8323c749f5c8dd29fe11a01f59b2%2Fea581494781d3468df6b30bedde16501.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tesla 'full self-driving' triggered 8-car crash on Bay Bridge, driver tells police"
     excerpt: "The driver said the Tesla's \"full-self-driving\" software braked unexpectedly and triggered the eight-car pileup that led to nine people being treated for minor injuries, according to a California Highway Patrol traffic crash report."

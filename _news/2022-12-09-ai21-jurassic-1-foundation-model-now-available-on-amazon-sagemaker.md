@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/AP22337706260207.jpg?w=2000&#038;ssl=1"
-    width: 1200
-    height: 630
+  - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/Cold-Weather-1.jpg?w=2000&#038;ssl=1"
+    width: 658
+    height: 370
     isCached: true
 
-secured: "wubIxZ/hM/+h1d0BGuEiluVwQdP1iSo4J96ZVNnPQo01uSsrwbmZW+v7MVia8i6IfB4iXw+od/ZctIUjma7MGo/qcfeNZ/qGvreit48rxr9+yGM5Sthg0OdwKKCOEin5LfSQCEHEpLrkj8Uw/ce3Xzjiv+xUFZZV+90J1KLi0bGrkzIWlugcuT9CuyI+bE1AcMsoD1lxTEuQvMKvwnBm4nYns530+QVyFmzE7Ik1cq0GqbLYZcT74FmbtjpBZX7UuSykwTSlTfrLMD/mdg3E9YmG4EF+On4M/Wz4el2Xz67/b+NgQnNhqeIn6ArySy5VaeKEIwCU5ZGc3bvcrzO3GTSq+wsdxpQ1XSbaoTK/1X8=;i7QAIznaYuikWV1/tUC+6A=="
+secured: "nxj38KMSGbzPBAIQuiDJP6Rl8Q5iffWQz8nLEcztu3Rkj0No/IxpXy7oLB67dllYexsOFiU47qySyBy8AvbcViv3R4PV4aaS15ZJ95ZxgVN+3FxP5jk7aoc/hYVHVllmI775Tjf7VbOto1UlBHtJn7qJMt72EXyW+ZA3NLtxvYPPzBsyp9pAGtt6ENnMA0KsZ7jOj85N6DvtlrrfDDCBGlE0tbYmze6gXqIvDFsm6xcrYx8rsZ/u4LUuRTAw0tod/3t+qp3y7xisaHu5D9m2D4mbDg2c0hFlQGcPgl9hX8qeVyB+dvgZKwJRmoGhjk7low0pbf1jAfmiYcJA/DrNM87gMZqMn9APFRpRmzbPaAM=;d2AeGav9WZfJd6T0iDlwKg=="
 ---
 

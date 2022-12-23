@@ -2,49 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-10-19-neuchips-secures-20-million-in-series-b2-funding-to-deliver-ai-inference-platform-for-deep-learning-recommendation.md",
-      "title": "NEUCHIPS Secures $20 Million in Series B2 Funding to Deliver AI Inference Platform for Deep Learning Recommendation",
-      "excerpt": "October 19, 2022 -- NEUCHIPS, a leader in AI ASIC platforms for deep learning recommendation, today announced series B2 funding of $20M. The round includes strategic investors Wistron, JAFCO Asia, Powerchip Group and new investor Raydium Semiconductor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/news/52847/neuchips-series-b2-funding.html",
-      "originalUrl": "https://www.design-reuse.com/news/52847/neuchips-series-b2-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.design-reuse.com/news_img2/homepage52847/files_images_media_investmentmobile_460x460.jpg",
-          "width": 460,
-          "height": 260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-19-7-ways-to-better-sell-artificial-intelligence-to-the-business.md",
       "title": "7 Ways To Better Sell Artificial Intelligence To The Business",
       "excerpt": "AI transforms the systems and processes that have defined the way business is done. Selling AI as a new way requires some degree of finesse and business sense.",
@@ -1475,6 +1432,58 @@
         "name": "ukauthority.com",
         "domain": "ukauthority.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-deep-learning-market-2022-research-report-industry-growth-competitors-analysis-and-forecast-2030.md",
+      "title": "Deep Learning Market 2022 Research Report, Industry Growth, Competitors Analysis and Forecast 2030",
+      "excerpt": "The research also provides a market analysis using various analytical techniques, including Porter’s Five Forces Analysis and PESTEL Analysis. These tools provide an in-depth analysis of the micro- and macro-environmental elements that influence the market’s expansion during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2022-research-report-industry-growth-competitors-analysis-and-forecast-2030-2022-10-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2022-research-report-industry-growth-competitors-analysis-and-forecast-2030-2022-10-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
