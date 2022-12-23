@@ -11,11 +11,11 @@ affiliation:
 twitter:
   username: fmatorras
   url: https://twitter.com/fmatorras
-  followers: 291
+  followers: 290
 
 googleScholar:
   url: https://scholar.google.com/citations?user=q_wYjF8AAAAJ
-  citations: 335067
+  citations: 335066
 
 topics:
   - AI
