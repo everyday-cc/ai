@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "standardAI"
   url: "https://twitter.com/standardAI"
-  followers: 2726
+  followers: 2725
 
 size: 51-200 employees
 yearFounded: 2017
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "c+807NWUQGOxQOWsysJOhvsLqBlfbMoDaFxOVTvmlIYC9ESDt3DuBpBAqQYTQV4hGzK/NUMQJUW4Cgv8Q5cg5JnUS3wkLqDQUJXRnvNs7+2mFL/DIe1ebK/SEz9HTdLdmxepTli0pR+afy51dFtoUCctBEAwTuXKW/eb4/mg4l1cdiayRyuYI4GytUkLMbJo5gKc8X4sJ8LoPRWjgG54oEIiDqGHy4OZQuB690HVOBtivDvkQokur6TnJJkwxWlVsuYYJC8+1kiPZc5U8ICqjobM8d3IIdwjDMr4jBONAcmFYpUeUfLDlcQHT17JJWwh8lYHsZpcc+F+yLtmPGDvwN2kVqClyyKkjj4Im91cXiflXtvWGHhcOpuxpYGpuPqOKcWLFWDEmwqo6jr+bVlGIFxoK1DBgYlDIAatCjp0irA=;ws0A5YAYPEzrZhC2VLJQjA=="
+secured: "Ea+KH0r6wJvsHHzBOLxpxuY0TRULTfr83E3zizLDt809e5EccFRaIHuJfJbjV54aX6wvGuRHJM8Bj0ZA8KmF89rJO9euY0WpOrwFvUAtaP1XNYwvqkp2uqfTEGL2VkRsMPt4dHbFmeIWJfDyBghOsVMiTo9/farc9e4lyGU1j4gCLSYAIByjU1zVyJka+QSA7WlWnSTEB2p1lrDcKl1zbjcgHxcopmT60H4vFrGVhfEaXjm+CTRMYB8aGkKb2E5e7esyfR5XkmjMyA/NxldoLg1kbxfUTEjdnHB6Halyg1T120v7KqX6iIIjTUVlRHU8jUOffn++9nT9iuOCbLstcnFvez1Ykv9D2WZlLCOgOfSDL7vUaE6csy3aJulG4NUKQpcp2TjEmXzT6TEGA8/3mMcxHFwVeCdQ7ZR9EWD8zKA=;9TFF3ynsT0w/zxIjG/Xxdg=="
 ---
 

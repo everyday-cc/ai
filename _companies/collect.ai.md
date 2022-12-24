@@ -4,7 +4,7 @@ otherNames:
   - "cAI"
 overview: "collectAI is a software platform for intelligent receivables management with digital, AI-based payment services. It offers the products invoice, payment reminders and white-label payment pages. The smart technology flexibly optimizes the goals of higher collection rates, cost reduction and customer loyalty and combines digital communication channels with a variety of payment methods for a smooth process. Thus, collectAI fundamentally improves the customer experience and places the needs of the end user at the center of the service. collectAI, founded in 2016, is an affiliate company of one of Germany's largest e-commerce retailer, the Otto Group."
 type: "profile"
-heat: 50
+heat: 42
 
 website: https://www.collect.ai/
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "collectAI"
   url: "https://twitter.com/collectAI"
-  followers: 673
+  followers: 672
 
 size: 11-50 employees
 yearFounded: 2016
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "gcKudKb+UpGq+ZphgfE3339KgbDOHJUnmRk3dz1f6Gpz7dxKBlcv6FSEYF1dMmOMOTya7LLVWMe7Xj/22S2EuVltiOX7lCD7Kor3lAvSXrFM9y3j6zH6Lssn4CawMbG2ZopjVIsLu7ddwfu+D0ISrcm1gVN6mPIDaEnlMq8wgbEUT1oAFrMmgDmyngjBfg1gC7gXZIc8GkhzaIl+8XvBmJ4q8J+ngIf0OB+fgofXQG2Tr6F474ERhQh04LHrnT3w2F7SklKV271UhQnLbWWAA4b78WVZNeSUqS3Rm51+PwNH1h7WfnD24uRqsyayel3fRTrS8lsTbibmZ7RAo4X+4iqj3oCSgMKC8tN/+CiJILZ3zF08bmCCtp6jZ0rtg6I6VmOQLo0ouyo+MZ9sZ9USdQ==;eTcYLIis7tQCHgrJMarntQ=="
+secured: "P+GiOGZqyrS2Gb/G2XlJKl1EGvzu3vKV7DyI8xEtf70wyCU5eJBBZSgY/PU1yJNWxYZwmm1RISVgFBRS0vxfmmvdspGAiSZAVEV/joANn+uWBmJYR2c7Dibw8uOUQY5e5vf9mmI0p5D19fsuQtlXUg0cQkcmDAcRWirsj1x9CY9KbSTvMVxmR8RsjvrSOnVfcbWuUvXGtOMH+/fwE2VrhCr/VFaxWjkFh9NAqQwKItYwlWophYxMNUY9mNRc9B2zfcGlqE7DDJQ1SpnRct5TMfciRy+1eboOqzPpCf50EGMFycpD6s7Xjmei+7BikRjL0jZPP35rdq8x4GjCSGR0JYvpYlobUDw/istKWtfKDvZfF7yhk3M+fhNltSxxp/2NCyHRBqsh+pJ9Q6vWed5YuA==;evwoDEEhISywiekB7ti7Fg=="
 ---
 

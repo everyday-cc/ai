@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "verbit_"
   url: "https://twitter.com/verbit_"
-  followers: 1609
+  followers: 1611
 
 size: 51-200 employees
 locations:
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=C8AG8eTC8D0"
 
-secured: "c4Ng/lSZVnZTAQWzJu3cdNsmfiNFROZ9Gg0waEKOSDgwRKzYkEvPuUHdjPOODc6F/ffNhBEfRUB/jAicb/MAepxz4HqnOX6mvEkl/BH8IF8cEvKiGTT8s72QkntlBqBXH/LVEBcj5oeVonRmnmZKS0z+lcBEYkm6lU/8/QUQ7PWCQLIHWjKm+RVYeTuivhBETG5HCPVNUlhDv+o/JIH2nJz73u2s7Ht14Tbgr7DqRgJwM3SJ9jZ+kjOBtibrJeHGvgSjKMwC6RFR01QDyUe2EEv8LqG/kjAj48iml/b3kPo7o8N4nWJB6Rj6bOliconyTL3fxHOTAlC1q4SPSRcpaO2/t/tMCc3MCMT9lcbbaLPKbVev1gDat0vak1PXH4otCwiV6nOnyhFV0OR7kXXfp5IRpe5VH722boRp9Pt3Nls=;+lMTnJEwLYTNO0LSrafL7w=="
+secured: "VjodQGbW9fcT1m80XQtkyIlzw++OfVKFTdb+1+N/eKH9+Bh+jNJU6TuO6cJQHJKzVRAz2lNUnzpS7q0EGe/KEMBQtq8NmqEpVUlNSog8733RrEozyrR9VXpYu7rgI60+/vdZvgmnSugi9cHFsaY4uBs7NREhRc0BrCiAVkNheSWGQT+Kif+pPX9rhBWhAYDqTaAyq3jW42VQ57gXSmYsZaWuvwj66JGC6YnNDOA1KAVEQhYxbbHpRrbegzKQMRK94BgOlckSjOsKbTflaH5GG3DdmV/YRkALYrXMzpFq5nH2svL5G9pXJ0CiaaKCs7JeVaOUBVAYcO+W37mY0KQ2vuVR04Lan523I39IGzjj4x0DwcbDRNsb6J0/0A0IMYAChNRzhS3a4llgaF0P8C8dBjzv7Jpwi4ZatrEpwiBgH08=;5xYtEG3WanbK9tcZDfoVww=="
 ---
 

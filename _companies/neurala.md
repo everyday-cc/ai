@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "neurala"
   url: "https://twitter.com/neurala"
-  followers: 2751
+  followers: 2750
 
 size: 11-50 employees
 yearFounded: 2006
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=-bQYzR5kARM"
 
-secured: "gNIh860LAFrVjmtO01/SalaCWYHG4zYuWqfZNQS4DZPXleRIh1+NAcLI22qWtK+X1Re7TRgSvd7ElSM6INIf1HFCTPo5cFvrn/wAn8jdfJFl8nfrWI/ImXHWhl12u/rKCBYh3UrdEINw4SEZ1BiJXBn26lsXlLr5DKzV3eFoy34wFcuhakN1+lf9TTUez+KXimgJx2/CJi+UX5rtdWkfd11nrpwgzKciaVwmyEkkE+qt4n6gN1XGYIEBFVdhr/27v3gjvJc74UBbLxQdp1JZ6ah8AWB8lSUdzfycUQmisIChV9quvCT6mO6b5W1H69tr8r/cRA65LZmVSMO890Mum7NzmwFtYka9dJKtOQMhPp/h3fNkO+FvYA8V1XV7iHfKlufh3nWKtR2yFfoB0D1qtCPLzHFNg7R63DPiPNYaQpU=;1HtHMJb9F8gf/Zo+c5GT6w=="
+secured: "BtKfvY140+VnE3/5UXSoVUoBnaInph5c8fZNNmXTohCmIJ5o8OxoRbrXIlhhWHHxZDCYqiXKEKHIvS56VvFJjWGMX/4S9E6TNjEzR8vddvANsqB5J+e0qD8YxhMs0IXt+yq5A8/dm5jlLEJWKvNUT+ExhSFVQSYK5S7ASe/dea7pr/DBeXWLx908M7tPGdH3Hen18qS1ib2tcxueFxhCrI6IcWeX/l21uYH+15ZhLxU6Kd8GK2N7MnK0cylpX+Bj0GACELTe0/CLfHHUoo7ipOUwODrTt36O9i1cjyGx/E0amCqzgr1rFJ/4Yo3+hvqfocn3Zm6XOVifYPD0bStIJMKepfDIWhwctzFlx1WxE5Npezpu8DmIeguzwrtAFWhTCYHLGQazu+96TRf0HwUBcSFq0DrZRaFkHz6IevPB1ZA=;oC8HWc2Bk4E4jXGcAX+XIw=="
 ---
 
