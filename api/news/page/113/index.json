@@ -2,6 +2,58 @@
   "page": 113,
   "value": [
     {
+      "path": "_news/2022-09-17-top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords.md",
+      "title": "Top 5 stories of the week: AI revelations and Apple moves to kill passwords",
+      "excerpt": "Revelations, innovations and questions about AI unfolded in VentureBeat’s news coverage this week. Deep learning turned 10 and insights from the field’s top leaders like Yann LeCun and Geoffrey Hinton predict that there’s no sign of slowdown for deep learning anytime soon.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords/",
+      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1349108067.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords/amp/",
+      "publishedDateTime": "2022-09-16T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-17-2-artificial-intelligence-growth-stocks-shaping-the-future-of-technology.md",
       "title": "2 Artificial-Intelligence Growth Stocks Shaping the Future of Technology",
       "excerpt": "And artificial intelligence (AI ... speech recognition, robotics, and self-driving cars. The company stumbled in its most recent quarter. Revenue rose just 3% to $6.7 billion, and non-GAAP ...",
@@ -1110,50 +1162,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method.md",
-      "title": "The Mysterious Mathematics of AI Could be Decoded Using the Neural Network Method",
-      "excerpt": "Artificial Intelligence relies on Neural Networks making it think or process information like a human. There is both input and output but it mostly remains unknown what transpires in the processing unit of the Neural Networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techthirsty.com/the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method/",
-      "originalUrl": "https://www.techthirsty.com/the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techthirsty.com/wp-content/uploads/2022/09/Mysterious-Mathematics-of-AI-2.jpg",
-          "width": 1300,
-          "height": 859,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T02:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Thirsty",
-        "domain": "techthirsty.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

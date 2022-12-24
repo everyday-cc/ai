@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-09-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "The market for artificial intelligence (AI ... but its dominance of a bedrock technology for driverless cars justifies that premium-- and makes it a great AI stock to buy. Micron's business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/12/09/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2022/12/09/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/712259/digital-brain.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T03:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace.md",
       "title": "The Final Freedom: The Role Of Artificial Intelligence In The Workplace",
       "excerpt": "The reality is that AI does something unique in our technological evolution because rather than simply replicate and improve our interactions with the physical world, or accelerate rote tasks through automation,",
@@ -1359,50 +1411,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-perrone-robotics-forms-new-partnership-to-create-autonomous-driverless-transit-van.md",
-      "title": "Perrone Robotics forms new partnership to create autonomous, driverless transit van",
-      "excerpt": "Our autonomy kit, or our AV kit that we call ‘Tony’ - short for To Navigate You - that we integrate into these different forms of vehicle that bring this driverless capability into these ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbc29.com/2022/12/02/perrone-robotics-forms-new-partnership-create-autonomous-driverless-transit-van/",
-      "originalUrl": "https://www.nbc29.com/2022/12/02/perrone-robotics-forms-new-partnership-create-autonomous-driverless-transit-van/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wvir-prod.cdn.arcpublishing.com/resizer/HivFCV0Qs27gE6gNKv8dq15DzgA=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/YSABTKTZLZDQFGOY547MEJGAIM.bmp",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbc29.com/2022/12/02/perrone-robotics-forms-new-partnership-create-autonomous-driverless-transit-van/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nbc29-com.cdn.ampproject.org/c/s/www.nbc29.com/2022/12/02/perrone-robotics-forms-new-partnership-create-autonomous-driverless-transit-van/?outputType=amp",
-      "publishedDateTime": "2022-12-02T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC29",
-        "domain": "nbc29.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

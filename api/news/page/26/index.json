@@ -2,6 +2,50 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-12-01-artificial-intelligence-ai-in-precision-farming-market-demand-and-growth-analysis-report-2022-2028-microsoft-ibm.md",
+      "title": "Artificial Intelligence (AI) in Precision Farming Market Demand and Growth Analysis Report 2022-2028 | Microsoft, IBM",
+      "excerpt": "Artificial intelligence (AI) plays an important role in precision farming, helping farmers make better decisions to optimize their crops and operations. AI can be used to gather data from the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-precision-farming-market-demand-and-growth-analysis-report-2022-2028-microsoft-ibm",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-precision-farming-market-demand-and-growth-analysis-report-2022-2028-microsoft-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://xherald.com/wp-content/uploads/2022/12/Artificial-Intelligence-AI-in-Precision-Farming-Image1-1.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-how-fintech-can-help-you-weather-a-recession.md",
       "title": "How Fintech Can Help You Weather A Recession",
       "excerpt": "With many in fear of a recession, a growing number of businesses are in need of grant funding, and there are not many search engines that are cataloging the grants offered by thousands of organizations. Very few opportunities are in the marketplace that offers fintech services to help growing businesses with this catalog of offerings.",
@@ -1107,49 +1151,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-experimental-alzheimers-drug-slows-cognitive-decline.md",
-      "title": "Experimental Alzheimer’s Drug Slows Cognitive Decline",
-      "excerpt": "The experimental Alzheimer’s disease drug lecanemab slowed cognitive decline in some people with early Alzheimer’s disease but also caused serious side effects in some patients, according to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.everydayhealth.com/alzheimers-disease/experimental-alzheimers-drug-slows-cognitive-decline/",
-      "originalUrl": "https://www.everydayhealth.com/alzheimers-disease/experimental-alzheimers-drug-slows-cognitive-decline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.everydayhealth.com/images/experimental-alzheimers-drug-lecanemab-slows-decline-1440x810.jpg?sfvrsn=ff019268_1",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T14:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Everyday Health",
-        "domain": "everydayhealth.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

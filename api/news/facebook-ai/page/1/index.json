@@ -10,7 +10,7 @@
       "originalUrl": "https://www.businessinsider.com/sc/how-analytics-and-ai-can-help-you-build-a-better-customer-experience",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -53,58 +53,6 @@
         "Facebook AI",
         "IBM AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-how-ai-and-other-emerging-technologies-can-support-evidence-based-medicine.md",
-      "title": "How AI and other emerging technologies can support evidence-based medicine",
-      "excerpt": "King Faisal Specialist Hospital and Research Centre uses the latest technology to offer patients cutting-edge medical solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sc/king-faisal-research-centre-uses-ai-and-other-technologies-to-help-patients",
-      "originalUrl": "https://www.businessinsider.com/sc/king-faisal-research-centre-uses-ai-and-other-technologies-to-help-patients",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63a320bd58babf00188d4a27?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-23T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     },
     {
@@ -202,6 +150,52 @@
         "AI",
         "Machine Learning",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-12-20-2022-the-year-in-ai-and-robotics.md",
+      "title": "2022 - the year in AI and Robotics",
+      "excerpt": "However, ChatGPT’s impressive ability to write poetry to order was often superior to its grasp of physics and other subjects, suggesting that we may face years of false information being accepted as fact simply because an AI gave it in answer to a question.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/2022-year-ai-and-robotics",
+      "originalUrl": "https://diginomica.com/2022-year-ai-and-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2022-12/Screenshot%202022-12-16%20at%2011.33.54.png",
+          "width": 1536,
+          "height": 726,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-20T02:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI",
+        "AI Ethics",
+        "IBM AI"
       ]
     },
     {

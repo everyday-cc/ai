@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-opportunities-ai-is-unlocking-for-hea
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-opportunities-ai-is-unlocking-for-healthcare-operations/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 697
         height: 526
         isCached: true
-  - title: "AI can potentially assist future firefighting operations: Research"
-    excerpt: "The worst flames in firefighting are the ones you don't see coming. In the midst of the chaos of a burning building, it's difficult to spot the warning signs of impending flashover -- a deadly fire phenomenon in which nearly all combustible items in a room spontaneously ignite."
-    publishedDateTime: 2022-12-19T13:01:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20221219/4016425.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "iLspGm9t49OQC6UTL8Tvp4qmYRxez5XV/y5Ga4jIeGmYZx0Eab4rzcPc1JAAnjblHPNyK5bCNV6VYVM/8MCW081FWbQwWyS4dpzmisLR1bxV3TnnvG0/89Gs5ZbH7tcQ+QabAvrGTsDVMft81oowSnuHpioSNYVF2JY95n6O5O9QgaBXKrgPXXC9cn3jukc2/eJy1Vu5o5jwteUIu8lkPW0swbsS0S9UknUAOegbsJRrAgWpEqG+biPlvpHVxrT9vPQhlYhIg14NxTb5dEvX5SiFmmiwS3ftDU3wfMLWePMeT3Qbzqcypi8hB0TDEztR3VqfTkscSmLeqqagQ7SRS/wgPUVDAiuUdiYA4TAmVA8J42fjbTW03sTWrvQDJP0HPdRRekePqQJorDKPlm7shP/6aO5Y4xtYxCcYq74tt63u63Y6ufZMGNuSjqykrZHhUCSLcrDUT9yhDZwpt5WEe5z6Ri9YNBpLyUo+HGJBEuhgB5gbOZXrLaiMCB26VUoYfVxQyCrxWzGie6Un96MxjQ==;qa2mlz0vDZt22i74ga7wbw=="
 ---

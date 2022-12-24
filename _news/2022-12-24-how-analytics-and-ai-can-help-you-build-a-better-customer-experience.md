@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/sc/how-analytics-and-ai-can-help-y
 webUrl: "https://www.businessinsider.com/sc/how-analytics-and-ai-can-help-you-build-a-better-customer-experience"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2022/12/MIT_Hitachi_Cover_hires.png?w=2584"
         width: 2584
         height: 2000
-        isCached: true
-  - title: "Advancing artificial intelligence and data analytics"
-    excerpt: "NASA computing and data science people are collaborating to find mission-related applications for artificial intelligence. For their work, they recently received an award from"
-    publishedDateTime: 2022-12-19T22:37:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2022/12/advancing-artificial-intelligence-and-data-analytics/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2022/08/GettyImages-1345658982.jpg"
-        width: 2309
-        height: 1299
         isCached: true
   - title: "Data science and analytics startup Tredence raises $175M to solve AI’s last-mile problem"
     excerpt: "Data science and artificial intelligence solutions startup Tredence Inc. said late today that it has closed on a bumper $175 million funding round led by Advent International. The company said it will use the funds from today’s Series B round to accelerate data-fueled growth and AI value realization for multiple industries."

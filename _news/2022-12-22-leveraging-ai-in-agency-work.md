@@ -30,103 +30,50 @@ images:
     isCached: true
 
 related:
-  - title: "Empathy in the Age of AI"
-    excerpt: "According to some scholars, projecting our humanity onto AI could have real consequences, from further obscuring the way these minds actually function to reinforcing a dubious notion of the human mind as a sole,"
-    publishedDateTime: 2022-12-19T13:00:00Z
-    webUrl: "https://www.wired.com/story/artificial-intelligence-animals-anthropomorphism/"
-    ampWebUrl: "https://www.wired.com/story/artificial-intelligence-animals-anthropomorphism/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-animals-anthropomorphism/amp"
+  - title: "3 AI Trends IT Must Leverage For Innovation"
+    excerpt: "IT leaders keen on improving operational efficiency—and innovation—should familiarize themselves with AIOps, generative AI and TuringBots in 2023."
+    publishedDateTime: 2022-12-21T15:22:00Z
+    webUrl: "https://www.forbes.com/sites/delltechnologies/2022/12/21/3-ai-trends-it-must-leverage-for-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2022/12/21/3-ai-trends-it-must-leverage-for-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2022/12/21/3-ai-trends-it-must-leverage-for-innovation/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://media.wired.com/photos/639ccdabfd7f2c34ab1d70e9/master/pass/anthropomorphism-empathy-ai.jpg"
-        width: 2400
-        height: 1350
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63a32fb59c83afbc840c44cf/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "2022 - the year in AI and Robotics"
-    excerpt: "However, ChatGPT’s impressive ability to write poetry to order was often superior to its grasp of physics and other subjects, suggesting that we may face years of false information being accepted as fact simply because an AI gave it in answer to a question."
-    publishedDateTime: 2022-12-20T10:21:00Z
-    webUrl: "https://diginomica.com/2022-year-ai-and-robotics"
+  - title: "AWS Star Innovative Solutions Bets On Red Hat OpenShift, AI And Cloud Migration In 2023"
+    excerpt: "AWS partner Innovative Solutions is investing in cloud migration, AI, Red Hat OpenShift, DevOps and IT modernization to drive customer sales in 2023."
+    publishedDateTime: 2022-12-20T15:30:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-star-innovative-solutions-bets-on-red-hat-openshift-ai-and-cloud-migration-in-2023"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 75
+      name: CRN
+      domain: crn.com
+    quality: 46
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2022-12/Screenshot%202022-12-16%20at%2011.33.54.png"
-        width: 1536
-        height: 726
+      - url: "https://www.crn.com/resources/027c-16df3220380b-0e12e02d1a6d-1000/justin-copie-innovative-solutions.jpeg"
+        width: 611
+        height: 459
         isCached: true
-  - title: "Engineers help artificial intelligence to learn more safely in the real world"
-    excerpt: "Penn State researchers are looking for a safer and more efficient way to use machine learning in the real world. Using a simulated high-rise office building, they developed and tested a new reinforcement learning algorithm aimed at improving energy consumption and occupant comfort in a real-world setting."
-    publishedDateTime: 2022-12-19T18:35:00Z
-    webUrl: "https://techxplore.com/news/2022-12-artificial-intelligence-safely-real-world.html"
-    ampWebUrl: "https://techxplore.com/news/2022-12-artificial-intelligence-safely-real-world.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-artificial-intelligence-safely-real-world.amp"
+  - title: "High-frequency trading through artificial intelligence for financial innovation"
+    excerpt: "Professor Chien-Feng Huang, at the National University of Kaohsiung in Taiwan delves into high-frequency trading across Artificial Intelligence"
+    publishedDateTime: 2022-12-21T12:32:00Z
+    webUrl: "https://www.openaccessgovernment.org/article/high-frequency-trading-artificial-intelligence-financial-innovation/149943/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 56
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 33
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-building.jpg"
-        width: 1176
-        height: 1920
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/12/dreamstime_xxl_137795293-scaled.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Artificial intelligence and the rise of optical computing"
-    excerpt: "An optical computer could likewise do lots of calculations at the same time. Using photons reduces power consumption, too. Electrical resistance generates heat, which wastes energy. The passage of photons through transparent media is resistance-free."
-    publishedDateTime: 2022-12-20T16:00:00Z
-    webUrl: "https://www.economist.com/science-and-technology/2022/12/20/artificial-intelligence-and-the-rise-of-optical-computing"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 43
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221224_STD001.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Nvidia: Backbone Of The Artificial Intelligence Industry"
-    excerpt: "Nvidia, a leading provider of graphics cards, is facing headwinds due to lower gaming demand, but the industry tends to be cyclical. Read my view on NVDA."
-    publishedDateTime: 2022-12-21T23:30:00Z
-    webUrl: "https://seekingalpha.com/article/4565570-nvidia-backbone-artificial-intelligence-industry"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 41
-    images:
-      - url: "https://static.seekingalpha.com/uploads/2022/12/19/55230498-16714629618030434.png"
-        width: 640
-        height: 560
-        isCached: true
-  - title: "The human cost of artificial intelligence in photography"
-    excerpt: "AI is being increasingly used in photography. Is the industry at the mercy of the rise of the machines? Peter Dench finds out more."
-    publishedDateTime: 2022-12-23T11:30:00Z
-    webUrl: "https://www.amateurphotographer.co.uk/latest/photo-news/the-human-cost-of-ai-in-photography-180009"
-    type: article
-    provider:
-      name: amateur photographer
-      domain: amateurphotographer.co.uk
-    quality: 39
-    images:
-      - url: "https://www.amateurphotographer.co.uk/wp-content/uploads/2022/12/820px-Jack_Latham_LAtent_Bloom_Love3.jpg"
-        width: 820
-        height: 546
-        isCached: true
-  - title: "The case for ethical AI"
-    excerpt: "With CSR at the top of the corporate agenda, a focus on ensuring AI applications are delivered ethically is essential"
-    publishedDateTime: 2022-12-22T13:16:00Z
-    webUrl: "https://business-reporter.co.uk/ai--automation/the-case-for-ethical-ai"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 34
 
 secured: "nsYCyD32blYB8ftJ+YUeiH7FW70zuL9ZiM7xZz9XXBY/CbH9TM+TVCORTvFcIjHMTgdSupKPXYFr8UfOLf5uKBk0zyxaMSQN+F7qQDeSU6uL1tDVMThiYHsbn3CZ3jWfMRzTr7tIRAZGqXcOs5DZxJ79Iz8NyfomDcwsrJUgVOWKpP9nXUs5Uh3AVUYmDKosd4FCU6ePnYge3XcQIXk/hf7Ee1dSMrVGVyBSFHWs+OAXms7zTvyqVWxdEuEbhtu48yM9xwe3TTDFbii+oUsv36uvjgZbWBY7fm9d/hlOefK4xlXyph/8m0C4rqlugZN17fAhqkrXa/yceWSqY07yz00rLMub2FJ/sM7zhIkwXdk/RSo3IzgKzZ5viXdSdrfY1xsrJ+F2wFiyz/irjM+hAPd7L0VfOgjZ+eMX/lRwOP6TtCIW5iAVXKIfo4vvThEzZrldkoItLsvGwp8VPuX6VX6OmZaPhgLDbqDg3+vRAYQmskYe4E9QKjzQPCEg8Bua7/Z3hBZasIbjaY9FwEDzdg==;kbkT8BQYEpiWJXWOotazuA=="
 ---

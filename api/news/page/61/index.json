@@ -2,6 +2,49 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2022-11-02-synthesis-ai-releases-new-products-for-human-centric-computer-vision-models.md",
+      "title": "Synthesis AI Releases New Products for Human-Centric Computer Vision Models",
+      "excerpt": "Synthesis AI, a leading company in synthetic data technologies, has announced the release of two new products for the development of advanced human-centric computer vision models. The two products, called Synthesis Humans and Synthesis Scenarios,",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/synthesis-ai-releases-new-products-for-human-centric-computer-vision-models/",
+      "originalUrl": "https://www.unite.ai/synthesis-ai-releases-new-products-for-human-centric-computer-vision-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/cb:QRSi~1ce64/w:1000/h:600/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/11/get-started-quickly-1440x900-1.jpg.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-tomahawk-robotics-successfully-hosts-microsoft-azure-sdk-on-kxm-body-worn-edge-processor.md",
       "title": "Tomahawk Robotics Successfully Hosts Microsoft Azure SDK on KxM Body-Worn Edge Processor",
       "excerpt": "Tomahawk Robotics, a leading innovator of common control solutions, is pleased to share we have successfully hosted Microsoft Azure SDK on our KxM edge device, a body-worn Kinesis Ecosystem extension to provide processing and network management at the edge.",
@@ -1146,59 +1189,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-self-driving-ships-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share.md",
-      "title": "Self-driving Ships Market Industry Analysis 2022 To 2028 based on Sales, Revenue, Size, and Share.",
-      "excerpt": "Pre and Post Covid is covered and Report Customization is available. The global Self-driving Ships market size is projected to reach multi million by 2028, in comparision to 2021, at unexpected CAGR during 2022-2028 (Ask for Sample Report).",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-ships-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-11-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-ships-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-11-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-31T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

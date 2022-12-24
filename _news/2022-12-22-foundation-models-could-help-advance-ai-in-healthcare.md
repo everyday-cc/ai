@@ -65,15 +65,6 @@ related:
         width: 697
         height: 526
         isCached: true
-  - title: "AI can potentially assist future firefighting operations: Research"
-    excerpt: "The worst flames in firefighting are the ones you don't see coming. In the midst of the chaos of a burning building, it's difficult to spot the warning signs of impending flashover -- a deadly fire phenomenon in which nearly all combustible items in a room spontaneously ignite."
-    publishedDateTime: 2022-12-19T13:01:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20221219/4016425.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "VdEnHTxlzYgZRd9uB4za7ZfnrIvc6iE+FjRYPE69OxvbRNQI04/RBASxNU3S+6C3olyzGoo9U2Rxel+7wKk6npAf6HFo589JtjJtocRuZp7aMhFYSpZ0N3u+V6KDd1VvrhNSRKXtbSMRN5kMleZVw2TA1IIxyPRVtOVub7dbihOXgjFyj9p0VeU0USGJJDBCcuts83qlTGUW+rWrTRuVfHc1NmSjuHnWxjub5V46yHGclaFhoed3tlSMkilZY33aVBzQiJRuOcxMTG2niCJ+YKAg75FRRml+fvu9DNeJX2hxu9vIxXLsWxeLfE7AB+ZEC5iSRhXPdprwlD0MW5oWQySyoaXKwlpVYKCqLcisye4=;orixxwvbWlY9mZjR11Iaog=="
 ---

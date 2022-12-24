@@ -54,20 +54,6 @@ related:
         width: 2584
         height: 2000
         isCached: true
-  - title: "Advancing artificial intelligence and data analytics"
-    excerpt: "NASA computing and data science people are collaborating to find mission-related applications for artificial intelligence. For their work, they recently received an award from"
-    publishedDateTime: 2022-12-19T22:37:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2022/12/advancing-artificial-intelligence-and-data-analytics/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2022/08/GettyImages-1345658982.jpg"
-        width: 2309
-        height: 1299
-        isCached: true
 
 secured: "CJvoVzWu4aB2AC69ouCFFNfy8SyNB2KJ+Xpe7VqU3XK98jIQgesQySw0U1jZxg+H3bGsJ5IzA3tUbBThmaxjPJ+ccTG3ilckRd0GFvghI2IUiCrcSzep4bt5DF/d2DBZVLdTlkSg4tptkQovMm/yHjpgL8YMmJVYkqObH8Wv/EYO46Pa4vFWrQwqjttTmaUu3zFM666FFOymA32yIZGldMU70HL72afNPXa9yRY+TW7PocrRWhSSt7lxSW+cFBv57Id7ewOc8zV/Oumb29P0wPUDTPmwHjLS87w8APD63t5qpCkIFR2MZoVvjeW6C/NMfwkRoopRpPjSrRZ86u8si3Z9zU/z5jmskFMO1gKczDh9cRH6Lnongs+BcJXlWYFkQ8CVIWott/gwy/yaeuML6GeUU0qJvkEYfqIK4dgL8nyOyoJJq9161SOUoKs6MEu5WyiqkEYKFhtnbun3XoOA2WmR/qlRBBOfYyx5FYwn744y8kggxrB7/N0CuU3kuR8Hlv1tNvZd5P1S1HDngyKuTw==;OAmiBYL7ELe7FsbxCoN5nA=="
 ---

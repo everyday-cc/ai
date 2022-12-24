@@ -2,6 +2,58 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2022-11-09-in-the-age-of-artificial-intelligence-human-skills-are-needed-more-than-ever.md",
+      "title": "In the age of artificial intelligence, human skills are needed more than ever",
+      "excerpt": "Alan Turing, widely considered to be the father of theoretical computer science and artificial intelligence, reportedly said that “once the machine thinking method had started, it would not take ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/comment/opinion/article/3198719/age-artificial-intelligence-human-skills-are-needed-more-ever",
+      "originalUrl": "https://www.scmp.com/comment/opinion/article/3198719/age-artificial-intelligence-human-skills-are-needed-more-ever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2022/11/08/bc563069-25d9-4e6d-bab5-e1f1aa801ff8_edbd8e94.jpg?itok=Ya-ASJIt&v=1667899505",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3198719/age-artificial-intelligence-human-skills-are-needed-more-ever",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3198719/age-artificial-intelligence-human-skills-are-needed-more-ever",
+      "publishedDateTime": "2022-11-08T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-08-id-selfie-improving-digital-identity-verification-using-aws.md",
       "title": "“ID + Selfie” – Improving digital identity verification using AWS",
       "excerpt": "The COVID-19 global pandemic has accelerated the need to verify and onboard users online across several industries, such as financial services, insurance, and healthcare. When it comes to user experience it is crucial to provide a frictionless transaction while maintaining a high standard for identity",
@@ -1077,58 +1129,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-artificial-intelligence-ai-robots-market-2022-growth-analysis-key-stakeholders-regional-outlook-end-user-applicants-by-2028.md",
-      "title": "Artificial Intelligence (AI) Robots Market 2022: Growth Analysis, Key Stakeholders, Regional Outlook, End-User Applicants by 2028",
-      "excerpt": "The top-down approach helps recognize the Artificial Intelligence (AI) Robots market scenario along with the internal & external factors influencing the market. The bottom-up approach concentrates its analysis on micro attributes & specific features of the domain Artificial Intelligence (AI) Robots market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2022-growth-analysis-key-stakeholders-regional-outlook-end-user-applicants-by-2028-2022-11-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2022-growth-analysis-key-stakeholders-regional-outlook-end-user-applicants-by-2028-2022-11-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T12:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

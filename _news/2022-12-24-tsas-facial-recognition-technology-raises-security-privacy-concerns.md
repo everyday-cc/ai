@@ -134,8 +134,8 @@ related:
         isCached: true
   - title: "Woman's Expulsion From Radio City Renews Call For Facial Recognition Ban"
     excerpt: "Madison Square Garden Entertainment's use of facial-recognition technology is spurring new controversy this week, in the wake of news that Radio City Music Hall denied admittance to a lawyer who was attempting to take her daughter to a Rockettes performance."
-    publishedDateTime: 2022-12-21T19:46:00Z
-    webUrl: "https://www.mediapost.com/publications/article/380902/radio-city-uses-facial-recognition-to-block-lawyer.html"
+    publishedDateTime: 2022-12-21T21:16:00Z
+    webUrl: "https://www.mediapost.com/publications/article/380902/womans-expulsion-from-radio-city-renews-call-for.html"
     type: article
     provider:
       name: MediaPost
@@ -175,6 +175,6 @@ related:
         height: 720
         isCached: true
 
-secured: "O7vaNJEP+0ZFAoUe4F6+l6dKAmVm8ZMsnX2N4MJga1FcYeCxDfOR5k78ejW3PGoTCuwMXREuVhHrr8ZRw+jQltGtv1QU/Jwntk36sIwQAII6lf7HNaBaDfvPrAhVYDAVzY7qkEcwWO+RN6++MTSDf76m9comJVmZx0D6UUnOhfxwOe/0yXSR7+CiPrlZTwqYY7dE+1/zreDkI9SSaJ1pGO5prLbpWjrsiHPVl8uDDJi8n34AsxeB83fvFeUhPP4U2F6PTFRxRuy5Ej8UUg4W8ZPAXNruUHoFaXR6PbSpqqT7PfAeEbdk4uFyKBosV8RyLaBgGDxPkiSqCIM3LoWWtlDwfkr7lsz5PTE7YkROP6A=;+PkJHm+9F3istpzPMxauKg=="
+secured: "CY/eFWP4y0IXajU/Kf3McHRpDY8RtKXksslnJ/pjXfwgCl+V6QF0nkrkqIZpMemiuW7KKWeufdkB41ccPgTSNIX/J6DMC1EBY6+Zd0KzhP5d4QZG4fXv32Fe/v8j/tk3wnmoLt0RpXoa4p9AAO5EjdmNBa+LsSSv+5hmM1aEUv1eKKrbmp0XXBl7g+LomGCPtx3ggl3aWdWvbCzRLLjLXx8Ku66/ENP4lYOKnInOKGpm1SYowCoB1TXZTxR5r7ANMi8hW88jAy3IXmSDMLDCn5tbVO5D+SlDuRMg/5HmQEll/0qMKQuGVXzgdt3y8DH7O3pgKNoyiptzO5YueyvJ7/uUgYqTYRDC+ra9L2jyburG7AwNXJl3nNXUg/Pbq0qQHBJxN89c38Et3cjEWhIr7qXGLTPbqiZWk4bUDD8eE0oZDnVgRjNXHVdk9ehGTiT8DWnmrZ8M2iGz6REOThtXig7TDquqZHq8gCxj//diJz7Ys8t8sovORN1mGpCsoZmWaJtdWr4ONLMzXUETTuUvBA==;Kmq2bPkI4LYPyHaxJPqwIQ=="
 ---
 

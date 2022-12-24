@@ -10,7 +10,7 @@
       "originalUrl": "https://www.businessinsider.com/sc/how-analytics-and-ai-can-help-you-build-a-better-customer-experience",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -162,6 +162,52 @@
       "topics": [
         "AI",
         "AI in Robotics",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-20-2022-the-year-in-ai-and-robotics.md",
+      "title": "2022 - the year in AI and Robotics",
+      "excerpt": "However, ChatGPT’s impressive ability to write poetry to order was often superior to its grasp of physics and other subjects, suggesting that we may face years of false information being accepted as fact simply because an AI gave it in answer to a question.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/2022-year-ai-and-robotics",
+      "originalUrl": "https://diginomica.com/2022-year-ai-and-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2022-12/Screenshot%202022-12-16%20at%2011.33.54.png",
+          "width": 1536,
+          "height": 726,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-20T02:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI",
+        "AI Ethics",
         "IBM AI"
       ]
     },
@@ -1303,58 +1349,6 @@
         "IBM AI",
         "Microsoft AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-ibms-latest-quantum-computing-processor-triples-the-qubits-of-its-predecessor.md",
-      "title": "IBM's latest quantum computing processor triples the qubits of its predecessor",
-      "excerpt": "IBM's latest quantum computing processor ... to tackle calculations of much greater complexity in fields such as artificial intelligence, and the design of new materials for drug discovery and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/ibm-quantum-computing-processor-osprey-140042059.html",
-      "originalUrl": "https://www.engadget.com/ibm-quantum-computing-processor-osprey-140042059.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/b1208170-5ec1-11ed-ad7f-0a8837a7224a",
-          "width": 1517,
-          "height": 894,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/ibm-quantum-computing-processor-osprey-140042059.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ibm-quantum-computing-processor-osprey-140042059.html",
-      "publishedDateTime": "2022-11-10T04:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

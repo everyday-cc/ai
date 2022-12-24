@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2022/12/21/3-ai-trends
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2022/12/21/3-ai-trends-it-must-leverage-for-innovation/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Leveraging AI In Agency Work"
+    excerpt: "Artificial intelligence has reshaped many aspects of our business, personal and social worlds—you probably interact with AI daily and may not even realize it. As AI tools and solutions become less sci-fi and more business as usual,"
+    publishedDateTime: 2022-12-22T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/12/22/leveraging-ai-in-agency-work/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/12/22/leveraging-ai-in-agency-work/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/12/22/leveraging-ai-in-agency-work/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AWS Star Innovative Solutions Bets On Red Hat OpenShift, AI And Cloud Migration In 2023"
     excerpt: "AWS partner Innovative Solutions is investing in cloud migration, AI, Red Hat OpenShift, DevOps and IT modernization to drive customer sales in 2023."
     publishedDateTime: 2022-12-20T15:30:00Z

@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/robtoews/2022/12/20/10-ai-predictions-for-
 ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/12/20/10-ai-predictions-for-2023/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/12/20/10-ai-predictions-for-2023/amp/"
 type: article
-quality: 91
+quality: 93
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Google AI
   - AI
   - AI in Robotics
+  - AI Hardware
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63a14945d0e96ccdb4b9f51f/0x0.jpg?format=jpg&crop=1744,981,x0,y53,safe&width=1200"

@@ -2,6 +2,49 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2022-09-14-saudi-data-and-ai-authority-and-ministry-of-energy-partner-with-ibm.md",
+      "title": "Saudi Data and AI Authority and Ministry of Energy partner with IBM",
+      "excerpt": "This is the first use case as part of a strategic agreement with SDAIA & Ministry of Energy to partner with IBM to reduce carbon emissions across the country. The AI technology developed with IBM’s will enable the detection and management of Carbon ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-data-and-ai-authority-and-ministry-of-energy-partner-with-ibm-f53phycf",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-data-and-ai-authority-and-ministry-of-energy-partner-with-ibm-f53phycf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/version/c:MzRiYmNiMGMtZmEyMy00:NGM4NzMx/r6__8259-2-jpg.JPG?f=3%3A2",
+          "width": 860,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-deep-learning-chip-market-new-innovations-trends-market-size-research-global-share-and-growth-factor-and-forecast-2022-2031.md",
       "title": "Deep Learning Chip Market New Innovations Trends, Market Size, Research, Global Share and Growth Factor and Forecast: 2022-2031",
       "excerpt": "The total information and communication technology goods (including computers, peripheral devices, communication",
@@ -1155,40 +1198,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022.md",
-      "title": "Kyndi's Natural Language Search Solution Recognized as a KMWorld Top Trend-Setting Product of 2022",
-      "excerpt": "SAN MATEO, Calif., Sept. 13, 2022 /PRNewswire/ -- Kyndi, the leading natural language processing (NLP) company, today announced that KMWorld, the premier knowledge management publication ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022/article_66ee37e0-85af-5e00-9895-cf1abad99a4b.html",
-      "originalUrl": "https://www.news-journal.com/kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022/article_66ee37e0-85af-5e00-9895-cf1abad99a4b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

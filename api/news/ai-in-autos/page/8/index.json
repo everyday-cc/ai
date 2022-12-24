@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-10-tech-industries-that-should-boom-in-the-near-future.md",
+      "title": "Tech Industries That Should Boom in The Near Future",
+      "excerpt": "As technology is expanding and revolutionising, so is the number of high-tech businesses. Technological advancement offers entrepreneurs the perfect",
+      "sourceUrl": null,
+      "webUrl": "https://www.themobileindian.com/featured/tech-industries-that-should-boom-in-the-near-future",
+      "originalUrl": "https://www.themobileindian.com/featured/tech-industries-that-should-boom-in-the-near-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.themobileindian.com/wp-content/uploads/2021/06/Cell-Person-Phone-Smartphone-Technology-Texting-918633.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile",
+        "domain": "themobileindian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-automotive-artificial-intelligence-global-market-report-2022-growing-demand-for-autonomous-vehicles-driving-sector-researchandmarketscom.md",
       "title": "Automotive Artificial Intelligence Global Market Report 2022: Growing Demand for Autonomous Vehicles Driving Sector - ResearchAndMarkets.com",
       "excerpt": "The global automotive artificial intelligence market is expected to grow from $1.42 billion in 2021 to $1.98 billion in 2022 at a compound annual growth rate (CAGR) of 39.62%. The growth is mainly due to the companies rearranging their operations and recovering from the COVID-19 impact,",
@@ -1277,49 +1320,6 @@
         "AI",
         "AI in Healthcare",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-tesla-gave-full-self-driving-demo-to-california-dmv-amid-deceptive-claims.md",
-      "title": "Tesla gave full self driving demo to California DMV amid deceptive claims",
-      "excerpt": "Tesla gave a full self-driving demo to the California DMV and other FSD critics. In recent times the California DMV has been pressuring.",
-      "sourceUrl": null,
-      "webUrl": "https://techstory.in/tesla-gave-full-self-driving-demo-to-california-dmv-amid-deceptive-claims/",
-      "originalUrl": "https://techstory.in/tesla-gave-full-self-driving-demo-to-california-dmv-amid-deceptive-claims/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techstory.in/wp-content/uploads/2022/11/fsd-beta-canada-scaled-1.jpg",
-          "width": 2560,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tech",
-        "domain": "techstory.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

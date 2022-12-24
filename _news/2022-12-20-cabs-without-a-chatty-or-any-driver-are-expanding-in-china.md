@@ -26,22 +26,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Cabs without a chatty, or any, driver are expanding in China"
-    excerpt: "Baidu’s Apollo programme allows customers to hail and ride a fully autonomous robotaxi. Read more at straitstimes.com."
-    publishedDateTime: 2022-12-19T11:51:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/cabs-without-a-chatty-or-any-driver-are-expanding-in-china"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 24
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/12/19/China20Auto_3.JPG?VersionId=oWkDyEr4gleIArcAWPbgKn2uHAb7UCO2"
-        width: 860
-        height: 573
-        isCached: true
-
 secured: "klXmrSrz4pkRX8WP4sgIuei6oQzIHBgmQV3KSvbAMIQ1fgJXpqBMn4upvopHbzg3UvLQlHawn23/Or8BvanTaiKILSpVZ7XotQGkJsPpwsUgpbtlUJBMfSRVO2I8SkBD3BAB+S4uoMRz/lh4WxdKmE4J84N1224zwNZuQoo0+qGIxGozIQmDPFgoSM/nLv7yT8OppYN214wKKC/w1OzCaq3pcc03ckGTeBH7aKB8Qiz/FahX5Se6SMM2BQFxL1LC0Z7eZVUxRrOpFwE1f1IcDTs0ZQfKuTDgz/G2xZdG5zHYPiVqn3dAl6OjqEjNpl71Aggdgdz4gTaFzbbeBX+Yyh8fjV5hE/3u6oA2e+2RdOX9mSAw0BzE8KHSREs5hb9d40vC8vFX9b4KNtfO6msc0XljdSoMwo7Y+NkiOgVeNAJnPI6ZgqxlWXZ/49GSBI8y7YGXHqihgj+t+KswwxiRiTtncm84pmIcvQaEPmQNgNS/05ToVLtZXhJo+UY8UtyICLxTJugdjnQ3DfSLBN+iRw==;KBSZPsNnzAIxlRQvrg7/9w=="
 ---
 
