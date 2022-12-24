@@ -2,6 +2,155 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-10-28-artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings.md",
+      "title": "Artificial intelligence (AI) platform aims to give lenders improved efficiency, expanded financial product offerings",
+      "excerpt": "Lama AI says fintech partners can avoid building their own lending infrastructure, models and secure credit facilities while enjoying increased approval rates.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings/",
+      "originalUrl": "https://venturebeat.com/ai/artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/12/blockchain.fintech.shutterstock_534103801.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings/amp/",
+      "publishedDateTime": "2022-10-27T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-cruise-opens-robotaxi-waitlist-in-austin-and-phoenix.md",
+      "title": "Cruise opens robotaxi waitlist in Austin and Phoenix",
+      "excerpt": "but a spokesperson told TechCrunch today that Cruise will launch a fully driverless paid service immediately. The company began supervised testing in Austin last month with more than a dozen ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/27/cruise-opens-robotaxi-waitlist-in-austin-and-phoenix/",
+      "originalUrl": "https://techcrunch.com/2022/10/27/cruise-opens-robotaxi-waitlist-in-austin-and-phoenix/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/Cruise_700848.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/27/cruise-opens-robotaxi-waitlist-in-austin-and-phoenix/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/cruise-opens-robotaxi-waitlist-in-austin-and-phoenix/amp/",
+      "publishedDateTime": "2022-10-27T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-self-driving-wheelchair-market-research-report-analysis-by-competitors-sales-revenue-and-market-size-2022-to-2028.md",
+      "title": "Self Driving Wheelchair Market Research Report Analysis by Competitors, Sales, Revenue, and Market Size 2022 To 2028.",
+      "excerpt": "The \" Self Driving Wheelchair market \" research goes on to discuss the variables influencing and impeding demand throughout the anticipated time frame of 2022 to 2028 as well as their impact on demand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-research-report-analysis-by-competitors-sales-revenue-and-market-size-2022-to-2028-2022-10-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-research-report-analysis-by-competitors-sales-revenue-and-market-size-2022-to-2028-2022-10-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-10-28-luminars-lidar-technology-will-dethrone-tesla-in-the-driverless-car-race.md",
       "title": "Luminar’s Lidar Technology Will Dethrone Tesla in the Driverless Car Race",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/temp-64GTX At the beginning of 2022, investors",
@@ -1307,146 +1456,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-waymo-plans-to-launch-driverless-taxi-service-in-los-angeles.md",
-      "title": "Waymo plans to launch driverless taxi service in Los Angeles",
-      "excerpt": "A Waymo autonomous vehicle is seen reflected in a mirror as it drives along California Street on April 11 in San Francisco. Waymo has been driving autonomous cars in the Phoenix area since 2017 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/waymo-plans-to-launch-driverless-taxi-service-in-los-angeles-11666222720",
-      "originalUrl": "https://www.marketwatch.com/story/waymo-plans-to-launch-driverless-taxi-service-in-los-angeles-11666222720",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-ikea-is-using-driverless-trucks-to-move-its-furniture-in-texas.md",
-      "title": "IKEA Is Using Driverless Trucks to Move Its Furniture in Texas",
-      "excerpt": "Kodiak has been moving furniture and other IKEA goods since August, but the companies carried out a testing period before making the agreement public. The route runs from an IKEA distribution center in Baytown, east of Houstin, to a store in Frisco, 290 ...",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/10/20/ikea-is-using-driverless-trucks-to-move-its-furniture-in-texas/",
-      "originalUrl": "https://singularityhub.com/2022/10/20/ikea-is-using-driverless-trucks-to-move-its-furniture-in-texas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/10/Kodiak-Ikea-Back-2.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/10/20/ikea-is-using-driverless-trucks-to-move-its-furniture-in-texas/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/20/ikea-is-using-driverless-trucks-to-move-its-furniture-in-texas/?amp=1",
-      "publishedDateTime": "2022-10-19T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029.md",
-      "title": "Military Artificial Intelligence (AI) Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2029",
-      "excerpt": "Military Artificial Intelligence (AI) Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029-2022-10-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029-2022-10-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T21:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Sales",
-        "AI in Autos"
       ]
     }
   ],

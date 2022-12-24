@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "These Were the Top 10 Most-Read Singularity Hub Stories of 2022"
+    excerpt: "From houses 3D printed out of recycled plastic bottles to transistor gates the size of carbon atoms, science and tech continued to advance."
+    publishedDateTime: 2022-12-24T15:00:00Z
+    webUrl: "https://singularityhub.com/2022/12/24/these-were-the-top-10-most-read-singularity-hub-stories-of-2022/"
+    ampWebUrl: "https://singularityhub.com/2022/12/24/these-were-the-top-10-most-read-singularity-hub-stories-of-2022/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/24/these-were-the-top-10-most-read-singularity-hub-stories-of-2022/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 44
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/12/sun_and_stars.jpeg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "National Park Service provides money to survey SC settlement communities, provide stronger voice"
     excerpt: "The City of Charleston is getting $75,000 to document the assets of local Black neighborhoods established after the Civil War. Sumter County also is receiving $75,000 to do similar work."
     publishedDateTime: 2022-12-23T20:00:00Z

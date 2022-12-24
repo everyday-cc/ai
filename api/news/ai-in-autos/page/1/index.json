@@ -89,6 +89,58 @@
       ]
     },
     {
+      "path": "_news/2022-12-23-autonomous-vehicles-reality-check-part-2-moving-people.md",
+      "title": "Autonomous Vehicles Reality Check Part 2: Moving People",
+      "excerpt": "When it comes to Autonomous Vehicles, the dynamics of the technical, operational, and business factors are diverse. This Part Two of a three-part article series examines AV-enabled people-carrying. And,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richardbishop1/2022/12/22/autonomous-vehicles-reality-check-part-2-moving-people/",
+      "originalUrl": "https://www.forbes.com/sites/richardbishop1/2022/12/22/autonomous-vehicles-reality-check-part-2-moving-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63a4de278717a0459e63361a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/richardbishop1/2022/12/22/autonomous-vehicles-reality-check-part-2-moving-people/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2022/12/22/autonomous-vehicles-reality-check-part-2-moving-people/amp/",
+      "publishedDateTime": "2022-12-22T14:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-23-eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software.md",
       "title": "Eight-car Thanksgiving pileup blamed on Tesla “Full Self-Driving” software",
       "excerpt": "An eight-car collision on Thanksgiving Day (Nov. 24) is now being blamed on Tesla's \"Full Self-Driving\" (FSD) assistance system. The crash took place in the Bay Area in California on I-80 and left one person hospitalized and eight others with minor injuries.",
@@ -195,6 +247,58 @@
         "AI in Autos",
         "AI in Finance",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-22-self-driving-truck-company-tusimple-to-lay-off-25-of-workforce.md",
+      "title": "Self-driving truck company TuSimple to lay off 25% of workforce",
+      "excerpt": "Autonomous trucking company TuSimple will lay off 25% of staff, or 350 workers, as part of a broader restructuring plan.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/21/self-driving-truck-company-tusimple-to-lay-off-25-of-workforce/",
+      "originalUrl": "https://techcrunch.com/2022/12/21/self-driving-truck-company-tusimple-to-lay-off-25-of-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/TuSimple_Truck_6.jpg?resize=1200,633",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/21/self-driving-truck-company-tusimple-to-lay-off-25-of-workforce/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/21/self-driving-truck-company-tusimple-to-lay-off-25-of-workforce/amp/",
+      "publishedDateTime": "2022-12-21T14:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -406,6 +510,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future.md",
+      "title": "AI Timelines: What Do Experts in Artificial Intelligence Expect for the Future?",
+      "excerpt": "Many AI experts believe there is a chance human-level artificial intelligence will arrive within the next decades—some believe it will exist much sooner.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/",
+      "originalUrl": "https://singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/12/deepmind-unsplash-ai.jpeg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/?amp=1",
+      "publishedDateTime": "2022-12-18T13:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
       ]
     },
     {
@@ -1258,145 +1406,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles.md",
-      "title": "Tesla to Add Radar in Hopes of Achieving Full Self Driving in Vehicles",
-      "excerpt": "Chuck Gersham, CEO of Owl Autonomous Imaging, says that radar technology should theoretically be the correct move in pursuit of FSD but doesn’t believe it’ll be the last change by Tesla along this route.",
-      "sourceUrl": null,
-      "webUrl": "https://marketscale.com/industries/transportation/tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles/",
-      "originalUrl": "https://marketscale.com/industries/transportation/tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://marketscale.com/wp-content/uploads/2022/12/shutterstock_1140629366-scaled.jpg",
-          "width": 1920,
-          "height": 1273,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T16:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "marketscale",
-        "domain": "marketscale.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-minerva-university-ai-research-lab-turns-concepts-into-startups.md",
-      "title": "Minerva University AI Research Lab Turns Concepts into Startups",
-      "excerpt": "The Minerva University AI Research Lab has brought together groups of students to create and pitch their own AI tools, with an emphasis on addressing the ethical and technical concerns about the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/higher-ed/minerva-university-ai-research-lab-turns-concepts-into-startups",
-      "originalUrl": "https://www.govtech.com/education/higher-ed/minerva-university-ai-research-lab-turns-concepts-into-startups",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/0a149bf/2147483647/strip/true/crop/1280x667+0+27/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F10%2F5e%2F4a073e77485eaf7354b36982f673%2Fthumbnail-minerva-ai-lab-2.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/higher-ed/minerva-university-ai-research-lab-turns-concepts-into-startups?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/minerva-university-ai-research-lab-turns-concepts-into-startups?_amp=true",
-      "publishedDateTime": "2022-12-13T16:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction.md",
-      "title": "How AI-driven sentiment analysis can enhance employee satisfaction",
-      "excerpt": "Employees, these days, want to know that a company will look after them. One of the ways this shows up sharply is in the training and upskilling programs available.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/09/retention.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction/amp/",
-      "publishedDateTime": "2022-12-13T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

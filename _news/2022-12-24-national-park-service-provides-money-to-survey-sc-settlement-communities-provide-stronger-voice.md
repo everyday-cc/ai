@@ -41,6 +41,22 @@ related:
         width: 899
         height: 506
         isCached: true
+  - title: "These Were the Top 10 Most-Read Singularity Hub Stories of 2022"
+    excerpt: "From houses 3D printed out of recycled plastic bottles to transistor gates the size of carbon atoms, science and tech continued to advance."
+    publishedDateTime: 2022-12-24T15:00:00Z
+    webUrl: "https://singularityhub.com/2022/12/24/these-were-the-top-10-most-read-singularity-hub-stories-of-2022/"
+    ampWebUrl: "https://singularityhub.com/2022/12/24/these-were-the-top-10-most-read-singularity-hub-stories-of-2022/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/24/these-were-the-top-10-most-read-singularity-hub-stories-of-2022/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 44
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/12/sun_and_stars.jpeg"
+        width: 1068
+        height: 601
+        isCached: true
 
 secured: "IfG4DGWCiAkI3etjOZ406fB085r9Eci/HWas1q9/Q8Zjj3ocW3T1lg1e2+oNzsJsfoqOoxWVHkmo9ekpxVouMhr+KhiwXrCrVxSKu1kpOzJLywdAvjaFSDpS2UNl5JkIdiF7gPdKBMbJGZs/yFSQxwzvhrDGuP/3/LwrFf8RWO/Qn0EXZGfonp2C0Z2nU8FScCPIsMgee4H1AdRLBLhAvJz9WJ3IByG+AwRZMJpc2LEZbwLDWOIYd6Q5G1vRPuaUQTJn7KN4HVzhSy9arKk3MaPXJ3N554EZ92nr4el6qyP0yvkTqp6XiFWX7rcnZSCYPOtrP4deSiCM4NQBlUSAUtnwNuDOJvqaGWykI3YMKtKnK0B+OJqPG0k/bpGEtw6QhhbzfEJhXosaQKaj6pEviJuEvdn9vACzivrSR66kN1fXv3b4pIZrisVFX112CCmVXa2lPF16WmnlqaZCXpXpBLB3WZjavSxJH8iNST1L7wxPzADoUdz0rYi7IuRxNF9UuO3G00IdAnqNB/7Z8LEa/Q==;JK4zwXmKNDxIo3pyqi/2BA=="
 ---

@@ -51,29 +51,6 @@ related:
         width: 480
         height: 280
         isCached: true
-  - title: "With the help of machine learning, DC’s Security Bulldog wants to build better cyber defense"
-    excerpt: "Jeff Majka created the company in 2021 to help cyber professionals reduce the amount of time spent searching for potential problems with their software."
-    publishedDateTime: 2022-12-19T22:29:00Z
-    webUrl: "https://technical.ly/startups/the-security-bulldog-jeff-majka/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 45
-    images:
-      - url: "https://technical.ly/wp-content/uploads/2022/12/jeff-scaled-e1671488836852.jpg"
-        width: 750
-        height: 882
-        isCached: true
-  - title: "Cybersecurity firm with AWS roots eyes Raleigh office, local hires"
-    excerpt: "But it’s building up satellite locations in both Raleigh and Dallas. In Raleigh, that “satellite location” is Chris King, the firm’s head of product. Long term, the firm expects to have an actual office in Raleigh."
-    publishedDateTime: 2022-12-20T01:00:00Z
-    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/12/19/cybersecurity-protect-ai-raleigh-office-hiring.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "ke7z4MJaiXci+jyExVHLzmPbb1gqZLHEtgT1wZPq1jDwcmWwApi5RanAXT9cOpsXA9uJIgvm6AHYaGJjFJ9J7fXyymPCmj0HLSC6caN6mluwhEkJqWKFV65rPLIMqUiPqwKY2FIrERGA5Ef/rKfmFNEOv1P+UCi1X/2bx0UW5+H67WSotC4uIcQsnw7xKEL5i6NQdQq1mxEuwxLOPSE+ouojclxzhCNEKDdiqO1059dISCcO5Q1RyHRM/KE1/+cHwTMaHaXULZVklB9oDWDcrglh9PLxsaR3Oxl83Xw4A1Sdq2rM+xwDfxoVA3+42nMhruEoyi/bH0DTHXk4HG2n7WegM9Vi9Jh7sAdCws/oNTU=;n/kWtWZggEncg9Xip7+22w=="
 ---

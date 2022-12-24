@@ -2,32 +2,28 @@
 category: news
 title: "Self-Driving Cars Are a Natural Fit for Rural America"
 excerpt: "An aging population that often lives far from essential services is giving autonomous vehicles a chance to prove they can make a difference."
-publishedDateTime: 2022-12-22T11:00:00Z
-originalUrl: "https://www.bloomberg.com/opinion/articles/2022-12-22/self-driving-cars-are-a-natural-fit-for-rural-america"
-webUrl: "https://www.bloomberg.com/opinion/articles/2022-12-22/self-driving-cars-are-a-natural-fit-for-rural-america"
+publishedDateTime: 2022-12-22T13:46:00Z
+originalUrl: "https://www.washingtonpost.com/business/self-driving-cars-are-a-natural-fit-for-rural-america/2022/12/22/f9b18b4e-81f0-11ed-8738-ed7217de2775_story.html"
+webUrl: "https://www.washingtonpost.com/business/self-driving-cars-are-a-natural-fit-for-rural-america/2022/12/22/f9b18b4e-81f0-11ed-8738-ed7217de2775_story.html"
 type: article
-quality: 54
-heat: 54
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Bloomberg L.P.
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/id8EDdDRwNFM/v1/1200x799.jpg"
-    width: 1200
-    height: 799
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
-secured: "tsg/a4mKmYQ2bmAx0nTQyp4kd1Xs5v2mnb452S+jr/IU3ZjmQXghGRiGZhQy0yubu4eBQ/tXP+L/18v0KeMgPbGL22W7frASBxaCGmAv8LZ1ufAUqFl3ReqxnRIX/wO/N+HDFfXJhufOaEPek3jcOGuTOluJ9yFADreXv2Ose1Jy5V6hONwwftOVZTR0i68AxDHNpRxLl3Qvdj8nYkxBAJ6bgH635+iyPJl+sSENCu152RSV0LlvK1FcU9jgZr/XXQiz1dNc7YTQ2tlZ7cGmTkP6CU3ZyKDz1ir/2wJl85AU0wcYgw1ImD+dp1NHrrA3WXxpCjC/2BMQFc5P/5ou8nySroLQXFGNWcd+j7XkfXECVGF+ePnpP0oTAcQbkalqMhjaLogXEQtSgEaQNGZNcALVHIzk+lnUw3vDHp4LKgrwsRjVLfsz4P2pv0th9putQp8O9dX1VUiU+HhyVlX8tp/bMfZXiXCV2yUlRymZre0C0IiIuGVxRGE5OLB4m1v1hmVreINdzMfcSsfZCjtEVA==;IkSdMpZXUMlcU5MxOEGJWQ=="
+secured: "td+5LFXObp/YgWxcc0WPKPjlT/y72prGCGs5jmjmIH1bPiO9N/OqsV20u4jXzM9TeVh92eCDXMqN0DrdnDQVR+rpVH7NwWfYsltaNm/cuEA2w22KIioFkuQz0VMokrKwNxV9Y1nFftTLBgki1SUqzklVjGQXhaX6+CdwzptiMy/qD1UOk+2D+Hjt+gueS2ZvPJHmW83NBHSOb0ACc4ezj1hA4fycz4KSkCmMvP3BzcLScxbshuJlNXHvcDijW/ouycQTWTJElL2PY6CXO8Ku0QmP5Xugmf3Y2fXxtuBEO9vZ+MiQlrQQQPDhVon5kdvVUsnL9jxpopGoCcopGpnW3JeGqPSOSzwWOizT/tPn39k=;D/1fjYraccP+AcQ0vdhhsA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/geristengel/2022/12/21/female-founder-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/12/21/female-founder-of-cybersecurity-startup-builds-better-response-to-threats/amp/"
 type: article
 quality: 71
-heat: 111
+heat: 91
 published: true
 
 provider:
@@ -46,29 +46,6 @@ related:
         width: 480
         height: 280
         isCached: true
-  - title: "With the help of machine learning, DC’s Security Bulldog wants to build better cyber defense"
-    excerpt: "Jeff Majka created the company in 2021 to help cyber professionals reduce the amount of time spent searching for potential problems with their software."
-    publishedDateTime: 2022-12-19T22:29:00Z
-    webUrl: "https://technical.ly/startups/the-security-bulldog-jeff-majka/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 45
-    images:
-      - url: "https://technical.ly/wp-content/uploads/2022/12/jeff-scaled-e1671488836852.jpg"
-        width: 750
-        height: 882
-        isCached: true
-  - title: "Cybersecurity firm with AWS roots eyes Raleigh office, local hires"
-    excerpt: "But it’s building up satellite locations in both Raleigh and Dallas. In Raleigh, that “satellite location” is Chris King, the firm’s head of product. Long term, the firm expects to have an actual office in Raleigh."
-    publishedDateTime: 2022-12-20T01:00:00Z
-    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/12/19/cybersecurity-protect-ai-raleigh-office-hiring.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "The artificial intelligence in cybersecurity market size is"
     excerpt: "The artificial intelligence in cybersecurity market size is valued at USD 22.4 Billion in 2023 and is anticipated to be USD 60.6 Billion by 2028; growing at a CAGR of 21.9% from 2023 to 2028. The Driving Factors can be attributed to increasing instances of cyber threat,"
     publishedDateTime: 2022-12-22T15:24:00Z

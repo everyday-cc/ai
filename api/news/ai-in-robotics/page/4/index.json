@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-29-the-best-cyber-monday-robot-vacuum-deals.md",
+      "title": "The best Cyber Monday robot vacuum deals",
+      "excerpt": "Amazon, Walmart, Best Buy and other retailers are all holding massive Cyber Monday sales now, with deep discounts on the best robot vacuums of 2022. Some vacuum models are at the lowest price we've ever seen them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/the-best-cyber-monday-robot-vacuum-deals/",
+      "originalUrl": "https://www.cbsnews.com/essentials/the-best-cyber-monday-robot-vacuum-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/28/69bea5c1-d14f-4e08-8bef-0db588f6d9de/thumbnail/1200x630/7fb06b107e0207457de1f6bee0715ade/cm-robo-vac-hero.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/the-best-cyber-monday-robot-vacuum-deals/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-cyber-monday-robot-vacuum-deals/",
+      "publishedDateTime": "2022-11-28T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-11-27-how-bitcoin-and-artificial-intelligence-will-free-your-time.md",
       "title": "How Bitcoin And Artificial Intelligence Will Free Your Time",
       "excerpt": "The use of technology will give humans more time to practice mindfulness and do the things they want to do, without having to worry about making ends meet.",
@@ -1411,49 +1455,6 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-handing-off-control-while-keeping-the-human-engaged-is-a-constant-challenge-with-surgical-robotics-says-industry-expert.md",
-      "title": "Handing Off Control While Keeping the Human Engaged Is a Constant Challenge with Surgical Robotics, Says Industry Expert",
-      "excerpt": "As surgical robotics get smaller, more flexible, and more mechanically complex, new challenges arise, such as whether we should rely on the doctor to sort out the control of the devices, or if control should be offloaded to a semi or fully autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/robotics/handing-control-while-keeping-human-engaged-constant-challenge-surgical-robotics-says",
-      "originalUrl": "https://www.mddionline.com/robotics/handing-control-while-keeping-human-engaged-constant-challenge-surgical-robotics-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/hand-3685829_640_web.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

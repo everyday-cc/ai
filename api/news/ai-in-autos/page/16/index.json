@@ -2,6 +2,154 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-09-20-factbox-the-challenges-automakers-and-now-tesla-face-with-humanoid-robots.md",
+      "title": "Factbox: The challenges automakers, and now Tesla, face with humanoid robots",
+      "excerpt": "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/",
+      "originalUrl": "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/UIBi6hsuoRG96_8hgRaAlbj-InE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HK3GFOZNRJJNHFHO4TNPIOP7WM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-tesla-expands-its-full-self-driving-beta-to-60000-more-owners.md",
+      "title": "Tesla expands its Full Self-Driving Beta to 60,000 more owners",
+      "excerpt": "Beta program for the first time in a long time. After adding 60,000 additional owners, Tesla’s FSD Beta will have over 160,000 people in the program. The FSD Beta program enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/",
+      "originalUrl": "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/amp/",
+      "publishedDateTime": "2022-09-19T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
+      "title": "Truly autonomous cars may be impossible without helpful human touch",
+      "excerpt": "MILTON KEYNES, England (Reuters) -Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investing.com/news/world-news/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2894928",
+      "originalUrl": "https://www.investing.com/news/world-news/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2894928",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/LYNXNPEC9O0PR_L.jpg",
+          "width": 800,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-ai-ethics-and-the-quest-for-self-awareness-in-ai.md",
       "title": "AI Ethics And The Quest For Self-Awareness In AI",
       "excerpt": "One of the most evocative areas that vividly presents this ethical AI quandary is the advent of AI-based true self-driving cars. This will serve as a handy use case or exemplar for ample ...",
@@ -1267,144 +1415,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-europe-self-driving-car-market-2022-top-players-emerging-demand-business-profit-analysis-and-expansion-strategies-by-2030.md",
-      "title": "Europe Self-driving Car Market 2022 Top Players, Emerging Demand, Business Profit Analysis and Expansion Strategies by 2030",
-      "excerpt": "The Europe Self-driving Car Market is expected to expand at a CAGR of 49.9%, leading to global revenue of USD 38.51 Bn by 2024. The key players in the Europe Self-driving Car Market are Apple, Microsoft,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/europe-self-driving-car-market-2022-top-players-emerging-demand-business-profit-analysis-and-expansion-strategies-by-2030-2022-09-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/europe-self-driving-car-market-2022-top-players-emerging-demand-business-profit-analysis-and-expansion-strategies-by-2030-2022-09-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
-      "title": "Truly autonomous cars may be impossible without helpful human touch",
-      "excerpt": "Making robot cars that can drive more safely than people is immensely tough because self-driving software systems simply lack humans' ability to predict and assess risk quickly, especially when encountering unexpected incidents.",
-      "sourceUrl": null,
-      "webUrl": "https://europe.autonews.com/automakers/truly-autonomous-cars-may-be-impossible-without-human-touch",
-      "originalUrl": "https://europe.autonews.com/automakers/truly-autonomous-cars-may-be-impossible-without-human-touch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Vay%20driver%20web.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes.md",
-      "title": "The New Artificial Intelligence Of Car Audio Might Improve More Than Just Tunes",
-      "excerpt": "Hollywood has perennially portrayed Artificial Intelligence (AI) as the operating layer of dystopian robots who replace unsuspecting humans and create the escalating, central conflict. Yet, AI is now enhancing entertainment and,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/",
-      "originalUrl": "https://www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f137c370d99665add408c4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/amp/",
-      "publishedDateTime": "2022-09-13T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

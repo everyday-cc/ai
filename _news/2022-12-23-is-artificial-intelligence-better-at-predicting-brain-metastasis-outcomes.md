@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/is-artificial-intelligence-predict
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/is-artificial-intelligence-predict-at-predicting-brain-metastasis-outcomes-209781-1.htm"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://images.medindia.net/amp-images/health-images/astrocytomas-brain-tumors.jpg"
         width: 1200
         height: 1000
-        isCached: true
-  - title: "AI better than human eye at predicting brain metastasis outcomes, find researchers"
-    excerpt: "A recent study by York University researchers suggests an innovative artificial intelligence (AI) technique they developed is considerably more effective than the human eye when it comes to predicting therapy outcomes in patients with brain metastases."
-    publishedDateTime: 2022-12-19T21:52:00Z
-    webUrl: "https://medicalxpress.com/news/2022-12-ai-human-eye-brain-metastasis.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-12-ai-human-eye-brain-metastasis.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-ai-human-eye-brain-metastasis.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-better-than-human-e.jpg"
-        width: 629
-        height: 820
         isCached: true
   - title: "New AI Method Gives Faster Information About Cancer Patients and Clinicians"
     excerpt: "A recent study performed by scientists at York University has recommended that a new artificial intelligence (AI) method is significantly more effective compared to the human eye in anticipating therapy outcomes in patients with brain metastases."

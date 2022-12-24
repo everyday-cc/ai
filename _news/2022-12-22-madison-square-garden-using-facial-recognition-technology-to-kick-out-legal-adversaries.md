@@ -27,14 +27,14 @@ images:
 related:
   - title: "TSA's facial recognition technology raises security, privacy concerns"
     excerpt: "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country."
-    publishedDateTime: 2022-12-23T23:26:00Z
-    webUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
-    ampWebUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
-    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+    publishedDateTime: 2022-12-23T17:57:00Z
+    webUrl: "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
+    ampWebUrl: "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
     type: article
     provider:
-      name: ABC15 Arizona
-      domain: abc15.com
+      name: TMJ4
+      domain: tmj4.com
     quality: 91
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/14ef04f/2147483647/strip/true/crop/8640x4860+0+450/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F74%2F29%2Fc213131e41038c94fc27d4a87df4%2Fap22350850581649.jpg"
@@ -103,8 +103,8 @@ related:
         isCached: true
   - title: "Woman's Expulsion From Radio City Renews Call For Facial Recognition Ban"
     excerpt: "Madison Square Garden Entertainment's use of facial-recognition technology is spurring new controversy this week, in the wake of news that Radio City Music Hall denied admittance to a lawyer who was attempting to take her daughter to a Rockettes performance."
-    publishedDateTime: 2022-12-21T21:16:00Z
-    webUrl: "https://www.mediapost.com/publications/article/380902/womans-expulsion-from-radio-city-renews-call-for.html"
+    publishedDateTime: 2022-12-21T19:46:00Z
+    webUrl: "https://www.mediapost.com/publications/article/380902/radio-city-uses-facial-recognition-to-block-lawyer.html"
     type: article
     provider:
       name: MediaPost

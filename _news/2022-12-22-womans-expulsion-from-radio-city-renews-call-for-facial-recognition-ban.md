@@ -2,9 +2,9 @@
 category: news
 title: "Woman's Expulsion From Radio City Renews Call For Facial Recognition Ban"
 excerpt: "Madison Square Garden Entertainment's use of facial-recognition technology is spurring new controversy this week, in the wake of news that Radio City Music Hall denied admittance to a lawyer who was attempting to take her daughter to a Rockettes performance."
-publishedDateTime: 2022-12-21T21:16:00Z
-originalUrl: "https://www.mediapost.com/publications/article/380902/womans-expulsion-from-radio-city-renews-call-for.html"
-webUrl: "https://www.mediapost.com/publications/article/380902/womans-expulsion-from-radio-city-renews-call-for.html"
+publishedDateTime: 2022-12-21T19:46:00Z
+originalUrl: "https://www.mediapost.com/publications/article/380902/radio-city-uses-facial-recognition-to-block-lawyer.html"
+webUrl: "https://www.mediapost.com/publications/article/380902/radio-city-uses-facial-recognition-to-block-lawyer.html"
 type: article
 quality: 38
 heat: -1
@@ -27,14 +27,14 @@ images:
 related:
   - title: "TSA's facial recognition technology raises security, privacy concerns"
     excerpt: "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country."
-    publishedDateTime: 2022-12-23T23:26:00Z
-    webUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
-    ampWebUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
-    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+    publishedDateTime: 2022-12-23T17:57:00Z
+    webUrl: "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
+    ampWebUrl: "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
     type: article
     provider:
-      name: ABC15 Arizona
-      domain: abc15.com
+      name: TMJ4
+      domain: tmj4.com
     quality: 91
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/14ef04f/2147483647/strip/true/crop/8640x4860+0+450/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F74%2F29%2Fc213131e41038c94fc27d4a87df4%2Fap22350850581649.jpg"
@@ -130,6 +130,6 @@ related:
         height: 720
         isCached: true
 
-secured: "VlOblXQ8kzPspisGdlLF2nG4mbSpxMczrHE/7bM+9oRVMqLlWx1AmfpW3jgv+ebBPR/mRbUbpj0rcmt4YOhYL4ulPAbIoZ2J+fKD6IJ596h7AICV6yYPjymjm3MuDSRdelWJUZ7hEa0ICb5aS1BJwKaefqPqSyjCmVAsgb6jaPV41fmPgfGrNJ+o2Ge4I65aZGDd/dMarhMZTTSjth7wVO1juNVgAA1MGTRHHRfhMykpdHMj/M+OVIb0Vl3GRyFc1H/SZMkAtBUpzMhAnEN4M59Z7/ea/klijKnfiVJ2W/7a1p5aoysP+tsyNDXzJ+vEyuIbxr7rZgwse6fNhXHxrrrMmhYu4cecZUXJnJ76W7k=;Pu+YHGEayWzSVNgpGs87Wg=="
+secured: "PVNzxkWrHfjoNR4VvxQfJrqpT1veAsuPyYh9/eE2GvMy/3Fbbxj+ePCBlaEAYXTwf4RZpCkg1GhsKpDzuUkcB4mKQbgfCGZLFM01VjfvsmNWSf4wN8xcVsiBR2WELtxmnFLs9eUKn9xVxGE6S9zJG18in/r1fF3eaxefREcJ6sdJ6FGTnMNTfbZgkPe2j/du5VOffF4NlGdGFE6jU9KOF0WCeYMeb3bxiNvDRIwRa3Mnn9DyVw/XWsH2kRtzVo3yHPLe8mU4MDfdUheP0VMc6BfpAur8q5suLNP1dQSrpo0oVeuDGlKmHG44GSMHOdkXaJICqDcD7/wtyN29O9p4/tQU/sSXA1jOnVTzx5TXftM=;dfbst8k+QjfbejEvp9m79A=="
 ---
 

@@ -212,6 +212,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-14-6-ibm-cybersecurity-predictions-for-2023-ransomware-and-caas-will-spike.md",
+      "title": "6 IBM cybersecurity predictions for 2023: Ransomware and CaaS will spike",
+      "excerpt": "Recently, IBM Security and the X-Force threat research ... Intelligent Security Summit On-Demand Learn the critical role of AI & ML in cybersecurity and industry specific case studies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/ibm-cybersecurity-predictions/",
+      "originalUrl": "https://venturebeat.com/security/ibm-cybersecurity-predictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T23:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-how-ibms-watson-could-disrupt-medical-imaging.md",
       "title": "How IBM's Watson Could Disrupt Medical Imaging",
       "excerpt": "\"If IBM can make Watson AI products for image analytics clinically relevant and seamlessly integrate these tools into the EMR, control of the radiology IT market will increasingly shift away from traditional radiology IT vendors. It may even force a ...",
@@ -1293,62 +1336,6 @@
         "AI Ethics",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-13-artificial-intelligence-stocks-the-top-9-ai-investment-opportunities.md",
-      "title": "Artificial Intelligence Stocks: The Top 9 AI Investment Opportunities",
-      "excerpt": "How can you invest in artificial intelligence? How can investors use AI to become a better investor? We look at the best AI stocks on the market right now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63707c7f5fc25388eaa8fb80/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/amp/",
-      "publishedDateTime": "2022-11-13T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "IBM AI",
-        "Microsoft AI",
-        "AI in Autos"
       ]
     }
   ],

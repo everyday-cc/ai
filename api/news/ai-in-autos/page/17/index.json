@@ -2,6 +2,144 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-09-13-europe-self-driving-car-market-2022-top-players-emerging-demand-business-profit-analysis-and-expansion-strategies-by-2030.md",
+      "title": "Europe Self-driving Car Market 2022 Top Players, Emerging Demand, Business Profit Analysis and Expansion Strategies by 2030",
+      "excerpt": "The Europe Self-driving Car Market is expected to expand at a CAGR of 49.9%, leading to global revenue of USD 38.51 Bn by 2024. The key players in the Europe Self-driving Car Market are Apple, Microsoft,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/europe-self-driving-car-market-2022-top-players-emerging-demand-business-profit-analysis-and-expansion-strategies-by-2030-2022-09-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/europe-self-driving-car-market-2022-top-players-emerging-demand-business-profit-analysis-and-expansion-strategies-by-2030-2022-09-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T03:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
+      "title": "Truly autonomous cars may be impossible without helpful human touch",
+      "excerpt": "Making robot cars that can drive more safely than people is immensely tough because self-driving software systems simply lack humans' ability to predict and assess risk quickly, especially when encountering unexpected incidents.",
+      "sourceUrl": null,
+      "webUrl": "https://europe.autonews.com/automakers/truly-autonomous-cars-may-be-impossible-without-human-touch",
+      "originalUrl": "https://europe.autonews.com/automakers/truly-autonomous-cars-may-be-impossible-without-human-touch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Vay%20driver%20web.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes.md",
+      "title": "The New Artificial Intelligence Of Car Audio Might Improve More Than Just Tunes",
+      "excerpt": "Hollywood has perennially portrayed Artificial Intelligence (AI) as the operating layer of dystopian robots who replace unsuspecting humans and create the escalating, central conflict. Yet, AI is now enhancing entertainment and,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/",
+      "originalUrl": "https://www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f137c370d99665add408c4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/amp/",
+      "publishedDateTime": "2022-09-13T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-bot-services-market-trends-and-challenges-2022-supporting-growth-top-players-strategy-size-share-estimation-and-forecast-report-till-2028.md",
       "title": "Bot Services Market Trends and Challenges 2022 Supporting Growth, Top Players Strategy, Size, Share Estimation and Forecast Report till 2028",
       "excerpt": "Global Bot Services Market is valued at approximately USD $million in 2021 and is anticipated to grow with a healthy growth rate of more than % over the forecast period 2022-2028. A bot is a software application that performs automated tasks such as messaging,",
@@ -1157,127 +1295,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-baidu-announces-superconducting-quantum-computer-and-integration-solution.md",
-      "title": "Baidu Announces Superconducting Quantum Computer and Integration Solution",
-      "excerpt": "Subscribe for free. Baidu, the company behind the homonymous search engine, has announced its first quantum computing processor, named Qian Shi, along with an \"all-platform\" integration solution ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/09/Baidu-quantum-computing-platform/",
-      "originalUrl": "https://www.infoq.com/news/2022/09/Baidu-quantum-computing-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-uber-eats-and-nuro-sign-a-10-year-deal-to-do-robot-food-delivery-in-california-and-texas.md",
-      "title": "Uber Eats and Nuro sign a 10-year deal to do robot food delivery in California and Texas",
-      "excerpt": "Uber Eats customers in California and Texas may soon have their takeout delivered by a driverless delivery pod after the company signed a 10-year deal with autonomous driving startup Nuro.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/9/8/23339830/uber-eats-nuro-robot-delivery-ten-year-deal-california-texas",
-      "originalUrl": "https://www.theverge.com/2022/9/8/23339830/uber-eats-nuro-robot-delivery-ten-year-deal-california-texas",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/nep91_Q5GehtWtA_U2f1dgxLzNk=/0x0:2000x1125/1200x628/filters:focal(1000x563:1001x564)/cdn.vox-cdn.com/uploads/chorus_asset/file/24002511/Uber_Nuro_image_1.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-global-artificial-intelligence-market-report-to-2030-increasing-cross-industry-partnerships-and-collaborations-are-driving-growth.md",
-      "title": "Global Artificial Intelligence Market Report to 2030 - Increasing Cross-Industry Partnerships and Collaborations are Driving Growth",
-      "excerpt": "For more information about this report visit https://www.researchandmarkets.com/r/j7pdf5",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28788875/global-artificial-intelligence-market-report-to-2030-increasing-cross-industry-partnerships-and-co",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28788875/global-artificial-intelligence-market-report-to-2030-increasing-cross-industry-partnerships-and-co",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,42 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-30-artificial-intelligence-in-fmcg-and-retail-market-size-in-2022-business-statistics-with-top-countries-data-ibmmicrosoftnvidiaamazon-web.md",
+      "title": "Artificial Intelligence in FMCG and Retail Market Size In 2022 Business Statistics with Top Countries Data | IBM,Microsoft,Nvidia,Amazon Web Services",
+      "excerpt": "A qualitative report published by Market intelligence data research on “Artificial Intelligence in FMCG and Retail Market” this research report offers an in-depth examination of the current ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fmcg-and-retail-market-size-in-2022-business-statistics-with-top-countries-data-ibmmicrosoftnvidiaamazon-web-services",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fmcg-and-retail-market-size-in-2022-business-statistics-with-top-countries-data-ibmmicrosoftnvidiaamazon-web-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T02:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-thundersoft-joins-the-amazon-sagemaker-ready-program.md",
       "title": "ThunderSoft Joins the Amazon SageMaker Ready Program",
       "excerpt": "Joining the Amazon SageMaker Ready Program differentiates ThunderSoft as an AWS Partner Network (APN) member with a product that works with Amazon SageMaker and is generally available for and fully supports AWS customers.",
@@ -1327,49 +1363,6 @@
       "provider": {
         "name": "The Hindu",
         "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-aws-launches-second-infrastructure-region-in-india-to-invest-44-billion-by-2030.md",
-      "title": "AWS launches second infrastructure region in India, to invest $4.4 billion by 2030",
-      "excerpt": "The investment is also estimated to create an average of more than 48,000 full-time jobs annually, which will be part of the AWS supply chain in India including construction, facility maintenance, engineering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/",
-      "originalUrl": "https://www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/11/AWS.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/lite/",
-      "publishedDateTime": "2022-11-21T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

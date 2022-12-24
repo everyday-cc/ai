@@ -42,15 +42,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 34
-  - title: "Study shows how machine learning could predict rare disastrous events, like earthquakes or pandemics"
-    excerpt: "In a new study in Nature Computational Science, the scientists describe how they combined statistical algorithms — which need less data to make accurate, efficient predictions — with a powerful machine learning technique developed at Brown and trained it to predict scenarios,"
-    publishedDateTime: 2022-12-19T23:22:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/974778"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 4
 
 secured: "NDg3RN3yrWSZXcF7aeh9Ui+MB3wkGvNHxxBsyybpTpJfSOi+Bauxe8JXfGy55xVVo0ZZSFsWwxrLPCwXYJ6CEwOgvtDK3+E+DKESxAhxW0w3IWkGpDP7pvS3x9HkzG14IrClCBC00zYqr7EqMigI5cHCsSsanLdZleMWoFRE/7WYf9Ll99UZSsru5OCkYenxFqd5ew7dLC/Gf9sA/H9gMUMIrL5gXyjNYTeXH2Qjvt/RSKPs0Rawy2YXwY5mWvl3XQ11rUGQXKO5a9O8AOKtlYAWW8dfL/t7lYOkYmXzCgzHRwTo54pyumn2s4DeUGEEmg4uWzodNQg555gzVukg58HNqC1KG5BG+Xme0UwoVhU=;hPYClAor3CEL4m4Adf99cw=="
 ---

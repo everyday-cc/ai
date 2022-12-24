@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Layoffs are coming for self-driving truck company TuSimple"
-    excerpt: "Autonomous trucking technology company TuSimple reportedly plans to lay off a chunk of its staff as early as this week."
-    publishedDateTime: 2022-12-19T22:46:00Z
-    webUrl: "https://techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/"
-    ampWebUrl: "https://techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck-close-up.jpg?resize=1200,801"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Self-driving truck company TuSimple to lay off 25% of workforce"
     excerpt: "Autonomous trucking company TuSimple will lay off 25% of staff, or 350 workers, as part of a broader restructuring plan."
     publishedDateTime: 2022-12-21T22:06:00Z

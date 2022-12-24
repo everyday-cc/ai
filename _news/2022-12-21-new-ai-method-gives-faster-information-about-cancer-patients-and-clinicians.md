@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "AI better than human eye at predicting brain metastasis outcomes, find researchers"
-    excerpt: "A recent study by York University researchers suggests an innovative artificial intelligence (AI) technique they developed is considerably more effective than the human eye when it comes to predicting therapy outcomes in patients with brain metastases."
-    publishedDateTime: 2022-12-19T21:52:00Z
-    webUrl: "https://medicalxpress.com/news/2022-12-ai-human-eye-brain-metastasis.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-12-ai-human-eye-brain-metastasis.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-ai-human-eye-brain-metastasis.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-better-than-human-e.jpg"
-        width: 629
-        height: 820
-        isCached: true
 
 secured: "yXB82WOtkNj6szYwP7hHIVhGOEKMFFzD8juQpHotoWSvpze6EofVKw8HW7rURNm9asV9CmhsgKOiLxwXccgfTaHafWu5ixlMV2ARnPGM2jFaYfC2ig2+4kjyyh2+naMk53y3HaJWkNfOIYhZU857NIlWhK2FI7kNL1EAhpjhNNKY7A6fiH+FTYRKrZoZXHMIo/HFJ7I0v6Q3o6Vc52tXgbYxblBBvNslUir7K2WHe60GuCjjMu/sLfpUAGbWu24lDIrh2o1nOMR6fhC5M66mn2zZFI6Q9fcwJxuY0umQafBmA8QS1jDkqTYFm+UzsMP9v5FOu72yUzql8QcfnJru06bF/L677+Yj7dbp8yKW8gL+0IH6F2QKODxPJ8PQTdtm5SrKZfyn6SBy5PPJo4zuidusDC+vIUdVtRRKvnHrlNlwm3ZTLiCrnd+l3iN4rk0BTmcSSMkZCafRlvDPruUppXLvlAP8zJP2WU0Hmq13YtInXzDuC60X203OHiquk76QUqkzNRfTas7wBVkHbJRdeQ==;DHTuPuwFUEQYx3fBK8zF4w=="
 ---

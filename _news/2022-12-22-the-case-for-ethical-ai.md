@@ -61,19 +61,19 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Advancing artificial intelligence and data analytics"
-    excerpt: "NASA computing and data science people are collaborating to find mission-related applications for artificial intelligence. For their work, they recently received an award from"
-    publishedDateTime: 2022-12-19T22:37:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2022/12/advancing-artificial-intelligence-and-data-analytics/"
+  - title: "The best AI image generators in 2022"
+    excerpt: "Explore the possibilities of text-to-image creation with the best AI image generators available so far The best AI image generators have rocked the creative world over the past year, allowing anyone to quickly create images from text descriptions."
+    publishedDateTime: 2022-12-24T12:00:00Z
+    webUrl: "https://www.digitalcameraworld.com/buying-guides/best-ai-image-generator"
     type: article
     provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 37
+      name: digitalcameraworld
+      domain: digitalcameraworld.com
+    quality: 39
     images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2022/08/GettyImages-1345658982.jpg"
-        width: 2309
-        height: 1299
+      - url: "https://cdn.mos.cms.futurecdn.net/LgRNwjEHaV7zqAGeQLtYmL-1200-80.jpg"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "UBlzLCoi/J6+REgl5VizWFA+qcS8woaSSInPOwSoO78LjNG7Vz9Ctsmrh3vr1QKoMwEUw3Ho9V8mZeiyA8G/GhJU+/CLKiWntNH20LnO8+7MPETUA0Vlgze6K/ILUzT72aB2WqQwhX0rin4G5xP+VqIjw7+6F8fmdsvPJe48E58P91uFF1zlU0rLWdZ77hyVXE0E2YQ4H0urCVPxVRqkZUl2ZfGs8tT7CRwAcSTRfWqQ99Cfz3kFao2v+xrF0V87WBJBLxIHwcBTmCWgP8w/bwqfNxXluHiqWFnlJYkLd9IAQF2PUjOgqGSv5TIYEVHiTzqBSS/7aO/RchcJAIfMYqIbQ+7PAzrBIqmG3DrfaY8IwKKGAKrI8HPV2209U9TWb3igOniC/rIQ5p0TZwveKbRjWA1xeIrHCKfXtawp6NfEHyeZ2nQlC+DqTIBXcDH5cJHbI6a8JAW7IEVwJ/gQB0kSqJx7E9dUIk9GSzDLeNmgbrvJm7HCLrTTG1hTOeEtbUz2eGXz/HSM8FiHWtgJ3g==;WHBQBcAWY7NhsYjw7n1sww=="

@@ -6,11 +6,11 @@
       "title": "TSA's facial recognition technology raises security, privacy concerns",
       "excerpt": "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country.",
       "sourceUrl": null,
-      "webUrl": "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
-      "originalUrl": "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
+      "webUrl": "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
+      "originalUrl": "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true",
-      "cdnAmpWebUrl": "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true",
-      "publishedDateTime": "2022-12-23T15:26:00-08:00",
+      "ampWebUrl": "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true",
+      "cdnAmpWebUrl": "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true",
+      "publishedDateTime": "2022-12-23T09:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC15 Arizona",
-        "domain": "abc15.com",
+        "name": "TMJ4",
+        "domain": "tmj4.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -798,6 +798,41 @@
       ]
     },
     {
+      "path": "_news/2022-12-13-the-double-edged-sword-of-facial-recognition-technology.md",
+      "title": "The Double-Edged Sword of Facial Recognition Technology",
+      "excerpt": "On the television crime drama \"FBI,\" Special Agent Jubal Valentine brusquely orders an underling to run a photograph through facial recognition to identify a suspect. Boom! After a rocket-speed search,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dnronline.com/opinion/viewpoint/the-double-edged-sword-of-facial-recognition-technology/article_7f59e5c2-a5ec-5dc3-8a09-24015404b9fa.html",
+      "originalUrl": "https://www.dnronline.com/opinion/viewpoint/the-double-edged-sword-of-facial-recognition-technology/article_7f59e5c2-a5ec-5dc3-8a09-24015404b9fa.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T20:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily News-Record",
+        "domain": "dnronline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-diane-dimond-the-double-edged-sword-of-facial-recognition-tech.md",
       "title": "Diane Dimond: The double-edged sword of facial recognition tech",
       "excerpt": "On the television crime drama \"FBI,\" Special Agent Jubal Valentine brusquely orders an underling to run a photograph through facial recognition to identify a suspect. Boom! After a rocket-speed search,",
@@ -1332,49 +1367,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-mysterious-object-found-on-florida-beach-is-likely-a-shipwreck-from-the-1800s-archeologists-say.md",
-      "title": "Mysterious Object Found on Florida Beach Is Likely a Shipwreck from the 1800s, Archeologists Say",
-      "excerpt": "Beachgoers came across the enormous object — which is believed to be 80 and 100 feet in length — on Daytona Beach Shores over Thanksgiving weekend, according to the Associated Press.",
-      "sourceUrl": null,
-      "webUrl": "https://people.com/human-interest/mysterious-object-found-florida-beach-likely-shipwreck-1800s-archeologists-say/",
-      "originalUrl": "https://people.com/human-interest/mysterious-object-found-florida-beach-likely-shipwreck-1800s-archeologists-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://people.com/thmb/PTqIWapyxuDtYFAMV_mOGFWr4gw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(689x224:691x226)/daytona-beach-shipwrech-120722-ce7b98a215af46bcbcb1b1b88f800320.jpg",
-          "width": 1500,
-          "height": 979,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T14:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "People",
-        "domain": "people.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

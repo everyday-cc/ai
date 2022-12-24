@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-01-farm-robotics-technology-company-buys-big-santa-clara-office-building.md",
+      "title": "Farm robotics technology company buys big Santa Clara office building",
+      "excerpt": "A farm robotics company whose technologies could revolutionize farming and food production has bought a big Santa Clara office building that it had previously subleased.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2022/10/31/farm-robotics-tech-buy-big-santa-clara-office-real-estate-blue-river/",
+      "originalUrl": "https://www.eastbaytimes.com/2022/10/31/farm-robotics-tech-buy-big-santa-clara-office-real-estate-blue-river/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/10/SJM-L-SCLABUY-x-01-1.jpg?w=1024&h=523",
+          "width": 1024,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2022/10/31/farm-robotics-tech-buy-big-santa-clara-office-real-estate-blue-river/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/10/31/farm-robotics-tech-buy-big-santa-clara-office-real-estate-blue-river/amp/",
+      "publishedDateTime": "2022-10-31T17:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-01-robots-are-displacing-manual-labor-jobs.md",
       "title": "Robots Are Displacing Manual Labor Jobs",
       "excerpt": "While the panelists agreed that robots will replace may of the jobs that Leavitt referred to as “mind-numbing repetitive manual labor ... Rob Spiegel has covered automation and control for 17 years, 15 of them for Design News. Other topics he has ...",
@@ -1332,49 +1375,6 @@
       "provider": {
         "name": "CBS News",
         "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-new-flexible-steerable-device-placed-in-live-brains-by-minimally-invasive-robot.md",
-      "title": "New flexible, steerable device placed in live brains by minimally invasive robot",
-      "excerpt": "Imperial College London scientists have successfully placed a bioinspired steerable catheter into the brain of an animal for the first time.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-flexible-steerable-device-brains-minimally.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-flexible-steerable-device-brains-minimally.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/new-flexible-steerable.jpg",
-          "width": 1934,
-          "height": 1894,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-flexible-steerable-device-brains-minimally.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-flexible-steerable-device-brains-minimally.amp",
-      "publishedDateTime": "2022-10-21T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

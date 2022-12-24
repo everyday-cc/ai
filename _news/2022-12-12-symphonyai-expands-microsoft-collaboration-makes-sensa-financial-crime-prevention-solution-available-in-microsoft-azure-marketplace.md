@@ -1,24 +1,28 @@
 ---
 category: news
 title: "SymphonyAI expands Microsoft collaboration, makes Sensa financial crime prevention solution available in Microsoft Azure Marketplace"
-excerpt: "EnterpriseAI leader accelerating innovation to combat financial crime with transformative, next-generation AI-based solution PALO ALTO, Calif., Dec. 12, 2022 /PRNewswire/ -- SymphonyAI, a leader ..."
-publishedDateTime: 2022-12-12T12:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964946"
-webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964946"
+excerpt: "EnterpriseAI leader accelerating innovation to combat financial crime with transformative, next-generation AI-based solution PALO ALTO, Calif., /PRNewswire/ -- SymphonyAI, a leader in high-value enter"
+publishedDateTime: 2022-12-12T10:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/12/n30037746/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-availab"
+webUrl: "https://www.benzinga.com/pressreleases/22/12/n30037746/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-availab"
+ampWebUrl: "https://www.benzinga.com/amp/content/30037746"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30037746"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "I4gpFRMHWtG6rD1rs3fuASSJRuPb99VcF/qtYiC4a9IG7fq8gtDFpielEfuDrkgt899bgvfwRRsDZi3QgNl1FzF0DcXkD6xPakAE5X/ll5M2lwx1OgJkQMP2QpHNlVnr1FLcyYQbWXFcH0Bkn7T35+JzjqASzZer8q7QlXwyl4/4bC1t1GiEnWVePsjEHQ0x86JKWSq73WcaGiY0+CH3rgklkuYNDXQ0Xl3RYjBUUGqzcD4zNDxiL/CVd8lFchn5kljpOuxc/uwzL2GPaglu5ujzNAGJW1icAMoKlJPQuJqAi3TuGKAYNXa1Pf0+4QHHkEK/HPN/ithlhTBeCqrpm7E7Om3ScLTALuw1Pa9hpSw=;5kZCSGRGrYKlGBAV5iJHjQ=="
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+    width: 800
+    height: 313
+    isCached: true
+
+secured: "kmY0ZTdM50eb4eLsTcTaBfV+m8EecG2G/SoCF0Gg8I3HZ29NX382+SSIB5G36EgMAYOXXBwLMoc6t1ZGPQyeVlWbB6b/8Reapp0s8Jp47QiDMXl8csixYmv3ofKi1dJYzTYTbk+Yr5DPdsMSb00Kh+SR1zUFkoUgl3LD67KJw9XozCPCRC/lk5FxKKWFyLACYo3DUIyqJKGT3ms2AMwzUC8vRgPA4PLWpgcc96n6+8LF2JKXazxgFgfeCFIb9UQ3q5sSc7NBBVlQzL0hL/DgwPh38mSGdaPb+nXYtMmYH4rxAFKiAP0VhF58vG64sISidPlFKFLsNO6YhKpBWNKgBGE7bDAtGaWwlHk1x0SAYxU=;VaacM6Kgk/UNJG1qX/whyA=="
 ---
 

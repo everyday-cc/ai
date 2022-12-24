@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/23/reliance-buys-23-3-stake-in-us-bas
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/23/reliance-buys-23-3-stake-in-us-based-ai-firm-exyn/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-148797000.jpg?resize=1200,800"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Autonomous driving startup Helm.ai raises $31M in new funding"
-    excerpt: "Menlo Park, California-based Helm.ai offers a software platform that enables automakers to build self-driving vehicles. According to the startup, customers can use its platform to implement Level 4 autonomy. A vehicle with Level 4 autonomy is capable of ..."
-    publishedDateTime: 2022-12-19T22:14:00Z
-    webUrl: "https://siliconangle.com/2022/12/19/autonomous-driving-startup-helm-ai-raises-31m-new-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/helmai.png"
-        width: 786
-        height: 523
         isCached: true
 
 secured: "93KwbIS3Z9iAi0VqUok9CSYnjENVfLq5D+ZJlsmLOp4BT1powkZ2/fYhnGC9m5PpAyUM2e2WLvRKc8tdkKZ9UvZxrFz10QceIz6WYeJBRIpwSym2gDzUt1nBswlxdd66qOFPxSM7r9e7RDuehdbc72NBf1fMFinpwVrwTxN7T/V5Q851C5IUs1z1TD2X63I/QgCGCLlOdomeWLh8xElZATjoDPRVomquFDafRmkxmFh1yZ+6Q9GzV9BhHFeoThqiuFcBDll5Gj0xuzjbr8h8qraFz3rIpXTuX0Urt14W1CQ4nl5mZxKWWTKNJb5oDKZrs/M1GDtNvOItKoxJr4IwjZBpQbjm+RvRXh6fV9TGghisPZFQoEjcjGaJDZBZE9tkf31AlOrMN52+2GZjVE5h+d1Mbj1muMpV+jBRfPVEHNKZe59yH5VCrNtEmU4vbe4r3+Lj6d9DlHVwTv4UVt6RMnx08Qqp9Ux117vBNjIbzBItJKOyFjdZ2iZJr7Gpwj6uDJ2d/xOWCfBGO7e0D9ujTQ==;7aswjMz+EE++ekUaTwJskQ=="

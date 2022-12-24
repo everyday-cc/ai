@@ -2,6 +2,230 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2022-10-18-how-ai-can-help-farmers-feed-the-world.md",
+      "title": "How AI Can Help Farmers Feed The World",
+      "excerpt": "Climate change, unpredictable weather patterns, record heat waves, droughts and more have made producing enough food for the planet a challenge. As many as 800 million people go hungry each night—roughly 10% of the global population.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/how-ai-can-help-farmers-feed-the-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/how-ai-can-help-farmers-feed-the-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634d591a924b6eb431b5c039/0x0.jpg?format=jpg&crop=2650,1490,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/how-ai-can-help-farmers-feed-the-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/18/how-ai-can-help-farmers-feed-the-world/amp/",
+      "publishedDateTime": "2022-10-18T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-aws-announces-that-it-will-launch-an-infrastructure-region-in-thailand.md",
+      "title": "AWS announces that it will launch an infrastructure Region in Thailand",
+      "excerpt": "Amazon Web Services (AWS) has announced plans to open an infrastructure Region in Thailand. The new AWS Asia Pacific (Bangkok) Region will consist of three Availability Zones, adding to the existing 87 Availability Zones across 27 geographic regions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.continuitycentral.com/index.php/news/new-products-and-services/7806-aws-announces-that-it-will-launch-an-infrastructure-region-in-thailand",
+      "originalUrl": "https://www.continuitycentral.com/index.php/news/new-products-and-services/7806-aws-announces-that-it-will-launch-an-infrastructure-region-in-thailand",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.continuitycentral.com/images/fblogo.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "continuitycentral.com",
+        "domain": "continuitycentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-nsw-clubs-to-roll-out-facial-recognition-tech.md",
+      "title": "NSW clubs to roll out facial recognition tech",
+      "excerpt": "Facial recognition cameras will be used to identify problem gamblers in clubs and pubs across NSW. The Australian Hotels Association NSW and ClubsNSW are developing a state-of-the-art system to be rolled out across all clubs and hotels next year.",
+      "sourceUrl": null,
+      "webUrl": "https://thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/",
+      "originalUrl": "https://thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thenewdaily.com.au/wp-content/uploads/2022/10/1666127796-GettyImages-162316362.jpg?resize=960,600",
+          "width": 960,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/amp/",
+      "publishedDateTime": "2022-10-18T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thenewdaily",
+        "domain": "thenewdaily.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-has-there-been-a-second-ai-big-bang.md",
+      "title": "Has There Been A Second AI Big Bang?",
+      "excerpt": "Aleksa Gordic explains how the latest AI models work, and explores whether the arrival of Transformers amounts to a second Big Bang in AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63495cb7caf4d92519b5c039/0x0.jpg?format=jpg&width=1200",
+          "width": 935,
+          "height": 1021,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/amp/",
+      "publishedDateTime": "2022-10-18T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-facial-recognition-market-share-and-growth-insights-2022-global-size-analysis-demand-scope-future-trends-growing-opportunities-and-forecast.md",
+      "title": "Facial Recognition Market Share and Growth Insights 2022 Global Size Analysis, Demand Scope, Future Trends, Growing Opportunities and Forecast to 2027",
+      "excerpt": "The global Facial Recognition market size was valued at USD 3975.52 million in 2021 and is expected to expand at a CAGR of 14.47% during the forecast period, reaching USD 8946.11 million by 2027.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/facial-recognition-market-share-and-growth-insights-2022-global-size-analysis-demand-scope-future-trends-growing-opportunities-and-forecast-to-2027",
+      "originalUrl": "https://www.digitaljournal.com/pr/facial-recognition-market-share-and-growth-insights-2022-global-size-analysis-demand-scope-future-trends-growing-opportunities-and-forecast-to-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-aws-unveils-15-year-5b-investment-in-thailand-with-plans-for-new-region.md",
       "title": "AWS unveils 15-year $5B investment in Thailand, with plans for new region",
       "excerpt": "Cloud vendor says its $5 billion investment in Thailand will go towards a new region in Bangkok, where there already are 10 CloudFront edge points, and driving support for the country's early-stage startups and upskilling efforts.",
@@ -876,223 +1100,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-deep-learning-tool-identifies-bacteria-in-micrographs.md",
-      "title": "Deep learning tool identifies bacteria in micrographs",
-      "excerpt": "Omnipose, a deep learning software, is helping to solve the challenge of identifying varied and miniscule bacteria in microscopy images. It has gone beyond this initial goal to identify several other types of tiny objects in micrographs.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.html",
-      "originalUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-tool-ide.jpg",
-          "width": 795,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-deep-tool-bacteria-micrographs.amp",
-      "publishedDateTime": "2022-10-17T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-ambi-robotics-raises-32m-in-funding.md",
-      "title": "Ambi Robotics Raises $32M in Funding",
-      "excerpt": "Ambi Robotics, a Berkeley, CA-based robotics company, raised $32M in funding. The round was led by Tiger Global and Bow Capital with participation from Ahren and Pitney Bowes. The company intends to use the funds to achieve several milestones over the next 12 months,",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2022/10/ambi-robotics-raises-32m-in-funding.html",
-      "originalUrl": "https://www.finsmes.com/2022/10/ambi-robotics-raises-32m-in-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2022/10/Logo_Ambi_Robotics-scaled.jpeg",
-          "width": 2560,
-          "height": 950,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-the-chip-war-with-china-is-just-getting-started.md",
-      "title": "The Chip War With China Is Just Getting Started",
-      "excerpt": "Our overreliance on foreign sources for microchips, even from trusted allies such as Taiwan, Japan, and South Korea, is only part of a broader issue: America’s overreliance on global supply chains that are all too vulnerable to disruption,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/",
-      "originalUrl": "https://www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634d644194ab28271ead84e5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/amp/",
-      "publishedDateTime": "2022-10-17T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-hexagon-adds-ai-capabilities-to-power-real-time-crime-and-operations-centers.md",
-      "title": "Hexagon Adds AI Capabilities to Power Real-Time Crime and Operations Centers",
-      "excerpt": "Hexagon's Safety, Infrastructure & Geospatial division today announced the addition of artificial intelligence (AI) capabilities to HxGN Connect, Hexagon's real-time incident center as a service solution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29288352/hexagon-adds-ai-capabilities-to-power-real-time-crime-and-operations-centers",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29288352/hexagon-adds-ai-capabilities-to-power-real-time-crime-and-operations-centers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-nutanix-launches-cloud-clusters-nc2-on-microsoft-azure.md",
-      "title": "Nutanix Launches Cloud Clusters (NC2) on Microsoft Azure",
-      "excerpt": "Nutanix has announced the general availability of Nutanix Cloud Clusters (NC2) on Microsoft Azure, extending its hybrid cloud environment to Microsoft Azure dedicated bare metal nodes. NC2 on Azure offers a seamless hyperconverged infrastructure and unified management spanning private and public cloud environments to accelerate hybrid cloud adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/news/cloud/nutanix-launches-cloud-clusters-nc2-microsoft-azure",
-      "originalUrl": "https://financialit.net/news/cloud/nutanix-launches-cloud-clusters-nc2-microsoft-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/nutanix_12.png",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

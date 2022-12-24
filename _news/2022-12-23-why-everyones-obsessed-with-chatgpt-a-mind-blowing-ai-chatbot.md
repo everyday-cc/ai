@@ -151,7 +151,7 @@ related:
   - title: "What Do ChatGPT and AI-based Automatic Program Generation Mean for the Future of Software"
     excerpt: "Since the release of the ChatGPT interactive AI assistant it has been surprising to see some of the snide, passive-aggressive reactions from some (not all) members of the software engineering community,"
     publishedDateTime: 2022-12-23T20:36:00Z
-    webUrl: "https://cacm.acm.org/blogs/blog-cacm/268103-what-do-chatgpt-and-ai-based-automatic-program-generation-mean-for-the-future-of-software"
+    webUrl: "https://cacm.acm.org/blogs/blog-cacm/268103-what-do-chatgpt-and-ai-based-automatic-program-generation-mean-for-the-future-of-software/fulltext"
     type: article
     provider:
       name: acm.org

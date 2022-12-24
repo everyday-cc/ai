@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/12/21/self-driving-truck-company-tusimpl
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/21/self-driving-truck-company-tusimple-to-lay-off-25-of-workforce/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: YAHOO!News
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Layoffs are coming for self-driving truck company TuSimple"
-    excerpt: "Autonomous trucking technology company TuSimple reportedly plans to lay off a chunk of its staff as early as this week."
-    publishedDateTime: 2022-12-19T22:46:00Z
-    webUrl: "https://techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/"
-    ampWebUrl: "https://techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck-close-up.jpg?resize=1200,801"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Self-Driving Truck Company TuSimple Axed Close To 350 Employees As Macro Uncertainties Weigh"
     excerpt: "Autonomous driving technology company TuSimple Holdings Inc (NASDAQ:TSP) disclosed a restructuring plan to consolidate its position as a leader in the autonomous trucking industry. The restructuring plan involves a 25% reduction of TuSimple's total workforce,"
     publishedDateTime: 2022-12-22T13:28:00Z

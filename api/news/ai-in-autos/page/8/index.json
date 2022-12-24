@@ -2,6 +2,135 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-11-waymo-is-one-step-closer-to-charging-for-self-driving-taxis-in-california.md",
+      "title": "Waymo is one step closer to charging for self-driving taxis in California",
+      "excerpt": "The firm already had permission to charge for self-driving taxi rides with a safety ... modest compared to what's available in China. Baidu's robotaxi service is available to the public in larger ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/waymo-driverless-taxi-permit-california-dmv-150046627.html",
+      "originalUrl": "https://www.engadget.com/waymo-driverless-taxi-permit-california-dmv-150046627.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/25f6b130-60fd-11ed-ade3-926f5c8d40ba",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/waymo-driverless-taxi-permit-california-dmv-150046627.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-driverless-taxi-permit-california-dmv-150046627.html",
+      "publishedDateTime": "2022-11-10T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-inside-alphabet-xs-new-effort-to-combat-climate-change-with-seagrass.md",
+      "title": "Inside Alphabet X’s new effort to combat climate change with seagrass",
+      "excerpt": "A previously unrevealed program would use cameras, computer vision, and machine learning to track the carbon stored in the biomass of the oceans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/11/09/1062847/inside-alphabet-xs-new-effort-to-combat-climate-change-with-seagrass/",
+      "originalUrl": "https://www.technologyreview.com/2022/11/09/1062847/inside-alphabet-xs-new-effort-to-combat-climate-change-with-seagrass/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/11/TIDAL-Seagrass-story_Pulling-the-camera-system_022_1.jpeg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/11/09/1062847/inside-alphabet-xs-new-effort-to-combat-climate-change-with-seagrass/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/09/1062847/inside-alphabet-xs-new-effort-to-combat-climate-change-with-seagrass/amp/",
+      "publishedDateTime": "2022-11-10T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-automotive-artificial-intelligence-global-market-report-2022-growing-demand-for-autonomous-vehicles-driving-sector-researchandmarketscom.md",
+      "title": "Automotive Artificial Intelligence Global Market Report 2022: Growing Demand for Autonomous Vehicles Driving Sector - ResearchAndMarkets.com",
+      "excerpt": "As technology evolves, the automobile industry has taken advantage of new discoveries to provide new ways to make driving more autonomous. Using artificial intelligence to develop self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/automotive-artificial-intelligence-global-market-report-2022-growing-demand-for-autonomous-vehicles-driving-sector-/article_fdc7bf0a-af1e-59b2-8ee9-043092bb0dd2.html",
+      "originalUrl": "https://www.eagletribune.com/region/automotive-artificial-intelligence-global-market-report-2022-growing-demand-for-autonomous-vehicles-driving-sector-/article_fdc7bf0a-af1e-59b2-8ee9-043092bb0dd2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-tech-industries-that-should-boom-in-the-near-future.md",
       "title": "Tech Industries That Should Boom in The Near Future",
       "excerpt": "As technology is expanding and revolutionising, so is the number of high-tech businesses. Technological advancement offers entrepreneurs the perfect",
@@ -1198,128 +1327,6 @@
         "Machine Learning",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-driverless-cars-will-they-be-on-boston-roads-any-time-soon.md",
-      "title": "Driverless cars: Will they be on Boston roads any time soon?",
-      "excerpt": "Do you ever wonder what happened to driverless cars? In this week's edition of Tech Talk, Boston Globe's Hiawatha Bray shares what some of the setbacks have been with the technology and when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/radioboston/2022/11/03/self-driving-cars-boston-tech-talk",
-      "originalUrl": "https://www.wbur.org/radioboston/2022/11/03/self-driving-cars-boston-tech-talk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wbur.org/wp/2016/06/Radio-Boston-Artwork-Tile-3000px_wbur-1.jpg",
-          "width": 3000,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-huawei-and-tianjin-port-jointly-built-a-driverless-zero-carbon-vehicle-cloud-synergy-horizontal-transportation-solution.md",
-      "title": "Huawei and Tianjin Port jointly built a driverless, zero-carbon “vehicle-cloud synergy” horizontal transportation solution",
-      "excerpt": "Huawei and Tianjin Port have jointly collaborated on a driverless, zero-carbon \"vehicle-cloud synergy\" horizontal transportation solution. Huawei and Tianjin Port have jointly collaborated on a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/huawei-and-tianjin-port-jointly-built-driverless-zero-carbon-“vehicle-cloud-synergy”",
-      "originalUrl": "https://www.albawaba.com/business/pr/huawei-and-tianjin-port-jointly-built-driverless-zero-carbon-“vehicle-cloud-synergy”",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-artificial-intelligence-makes-enzyme-engineering-easy.md",
-      "title": "Artificial intelligence makes enzyme engineering easy",
-      "excerpt": "Artificial intelligence (a computer-based tool) can minimize this trial-and-error, but still relies on experimentally obtained crystal structures of enzymes—which can be unavailable or not ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-11-artificial-intelligence-enzyme-easy.html",
-      "originalUrl": "https://phys.org/news/2022-11-artificial-intelligence-enzyme-easy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-80.jpg",
-          "width": 997,
-          "height": 391,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-11-artificial-intelligence-enzyme-easy.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-artificial-intelligence-enzyme-easy.amp",
-      "publishedDateTime": "2022-11-02T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
       ]
     }
   ],
