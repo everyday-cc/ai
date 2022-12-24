@@ -1,15 +1,15 @@
 ---
 category: news
 title: "IBM and David Clark Cause Aim to Reduce Food Waste; Name AI-Powered Gardening App Winner of 5th Annual Call for Code"
-excerpt: "The top prize this year went to GardenMate for creating an app that uses IBM Watson® to connect gardeners ... technologies such as Hybrid Cloud and AI.\" Winning 2022 Call for Code Global ..."
-publishedDateTime: 2022-12-07T02:20:00Z
-originalUrl: "https://www.abc27.com/business/press-releases/cision/20221206NY57463/ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app-winner-of-5th-annual-call-for-code/"
-webUrl: "https://www.abc27.com/business/press-releases/cision/20221206NY57463/ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app-winner-of-5th-annual-call-for-code/"
+excerpt: "Today, Call for Code founding partner IBM (NYSE: IBM), creator, David Clark Cause, charitable partner United Nations Human Rights, and program affiliate, the Linux Foundation announced the winner of the fifth annual Call for Code Global Challenge,"
+publishedDateTime: 2022-12-07T02:54:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/12/08/9727471.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/12/08/9727471.htm"
 type: article
 
 provider:
-  name: abc27
-  domain: abc27.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - IBM AI
@@ -21,6 +21,6 @@ images:
     height: 300
     isCached: true
 
-secured: "qIqZPfMtGqYaxpfkI2I35nWWG8FXK8loRCbHDet9UYO5iZah2jC44KU8vGVfBPDpjbjJHPmcZXZsMzubZGyxnknXnDq6shBnQUc3OFZxVupSx7BkLzUVIPanJx5V1zOp2iD6xgNrudTALGLxwBX9AMJoPW4h0jFyGLFMAZmW2hqvWm2u9AAUoMhbqRJt4PFqWt3MYh6ObzPmKTZqGMcj1sFXcWUpIFQZY9JSOSPsemR4+BzZ6Yc5D6Yy4jOYuj8/Bz+zOPsleJF0/ydrhyko7RITeh9oI7YfhmWwpRWPj3ENNBX+2UZEoq4QlnSwXbDLCHilGh/B7fqT2IAlpJeXj1DYZrSQj/ck4XDSRpfmJy8=;XGUO9u8ccPRZ9o1j+JVHyQ=="
+secured: "9Zd1cFbZxGClPjG7QE11rAq/YtSI+Gs08Bm4FpEXRQvxFnarScmwfvVdynbc2MsKBmKHR65eOa6y96U45/9zxWij0yy6Vf7sJYntDbGhAHj1MFJBAU1ejPQ6bach3Qx3KPa1hMY9kkwQ028jzTXSqU7Lsx8GKy+xTq2w1N7aK5CHRmcJD9HgjbYg3TfF5wHQOuM9e/iCVrLCD7tEwiBvISCz7n/vOrjHELNyzv4JRBY3Kq0CeOw9bVXsy3ywxuCDP5EBZqw0E16WEeSxcxnjb8Lg5CRvdi63JZTY+Lsv9NOo3r/tENxemlQqHQRDy+l5y1VrcTxxatcvAtiWoCPxbWE8XWsMUWKqTGjoRTMfGCM=;Co35C/fz4+bWkGZE7PiR8Q=="
 ---
 

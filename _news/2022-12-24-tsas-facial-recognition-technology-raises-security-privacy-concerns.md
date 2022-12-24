@@ -2,19 +2,19 @@
 category: news
 title: "TSA's facial recognition technology raises security, privacy concerns"
 excerpt: "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country."
-publishedDateTime: 2022-12-23T17:57:00Z
-originalUrl: "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
-webUrl: "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
-ampWebUrl: "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
-cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+publishedDateTime: 2022-12-23T23:26:00Z
+originalUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
+webUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
+ampWebUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
 type: article
 quality: 91
-heat: 161
+heat: 152
 published: true
 
 provider:
-  name: TMJ4
-  domain: tmj4.com
+  name: ABC15 Arizona
+  domain: abc15.com
 
 topics:
   - Computer Vision
@@ -41,20 +41,6 @@ related:
       - url: "https://static-images.vnncdn.net/files/publish/2022/12/21/face-recognition-technology-to-be-used-for-security-check-at-airports-e64411183bc1457dba5508e8aee7a37f.jpg"
         width: 560
         height: 380
-        isCached: true
-  - title: "TSA expands use of facial recognition airport pilot program"
-    excerpt: "The Transportation Security Administration is now scanning your face at select airport checkpoints, part of a growing test with passengers as the subjects. Pete Muntean reports."
-    publishedDateTime: 2022-12-20T02:41:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/video/tsa-expands-use-of-facial-recognition-airport-pilot-program/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 54
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/20/deed59ef-9384-46fa-9d3b-c0d06aa7cf23/thumbnail/1200x630/0a4762dab90bf8ab2503c5d4b0fb455a/06be91a9325e57dee7f452bbb757003f.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Baltimore councilman seeks to regulate facial recognition technology after ban expires"
     excerpt: "Opponents of facial recognition technology cite potentially dangerous invasion of privacy There's a push to regulate facial recognition technology in Baltimore after a ban on it expires next week. Many people use it every day to unlock their phones."
@@ -131,6 +117,6 @@ related:
         height: 720
         isCached: true
 
-secured: "DfHYjmMNxekbRMLnJHETTAHewJOxOCyoG5/Fw3i0oFEuu9xAy8V0/rioGIeafJ7imVj2zz49fzTkX/7mbDvaaIZt5sdcSjjgYbrQSfvfFSCe+dsZRat45iuXBOJGr5GVsfGnE8WTxOe0TjZNjQ2QUVqDrMaL0sxSjJ2DauuS5QUMpkztx/2pwgbx6DkhugoThFZI2xiKuXG49E5m/x+JY5UxnXeCqvGhx/PkCf93qTILs44O2tLhcYYjIDkQ0ruJkJmBJJfApnmK/0LaPJTRbzp8FIvBhHz6gPKINJsnK7OiJqDkTkY/rSsPDQadWr10ruFNI24jB1agdBLDq5LOPnO2t8J/PggJwC/25rR7Yzs=;y6VYzIgD6sZerHX+UMsn4w=="
+secured: "tDVR14++OkGqBgRUkwLbxD/mqAGo36YALDF1BgO63B4k4sqavzjGvPiwec5QBMg2KyRgTiatB7E+WtFejG3huA1rL4gatU7unotCktgQxwDLNmDXQ5OQHmy/+4g434a6054bpZhGTlEFAdqLHw8iYEAQA7+wnuo5EpnkXjL7EY1vm0lVe5RwUGFcrw10IPW0ycTQA+dVkM0qppe5s3Zcz7m88ZHwd0dbSGPcElAtHARBMMN4HzC3VVQ1RU9ca5Zr/60N1NkOCL/eN6nhC2p1qoOfhjXn7Q7NgSb+CTz/VVpCeqlX3BfvayA85dtkxw26lHHQa0zy381RAi6kXurTTOXRhNqhE70Q6FlEl2E0274=;fZPQJdlYsTGr4QSJXKcQgQ=="
 ---
 

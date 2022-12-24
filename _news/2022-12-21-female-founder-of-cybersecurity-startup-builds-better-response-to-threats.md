@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/geristengel/2022/12/21/female-founder-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/12/21/female-founder-of-cybersecurity-startup-builds-better-response-to-threats/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://healthitsecurity.com/images/sized/GettyImages-1276687348_2-39a26234983c4eca9381530cb872a66d.jpg"
         width: 480
         height: 280
+        isCached: true
+  - title: "Tiffany Ricks creates AI cybersecurity platform that combats phishing attacks"
+    excerpt: "Tiffany Ricks is the founder and chief executive officer at HacWare, Inc. HacWare is an award-winning startup that provides AI-powered advanced cybersecurity education to teach security teams to combat phishing attacks."
+    publishedDateTime: 2022-12-24T18:08:00Z
+    webUrl: "https://rollingout.com/2022/12/24/tiffany-ricks-creates-ai-cybersecurity-platform-that-combats-phishing-attacks/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 34
+    images:
+      - url: "https://rollingout.com/wp-content/uploads/2022/12/Tiffany_Ricks_Headshot-1-960x960.jpg"
+        width: 960
+        height: 960
         isCached: true
   - title: "The artificial intelligence in cybersecurity market size is"
     excerpt: "The artificial intelligence in cybersecurity market size is valued at USD 22.4 Billion in 2023 and is anticipated to be USD 60.6 Billion by 2028; growing at a CAGR of 21.9% from 2023 to 2028. The Driving Factors can be attributed to increasing instances of cyber threat,"

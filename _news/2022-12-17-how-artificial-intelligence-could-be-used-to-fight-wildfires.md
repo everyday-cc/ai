@@ -1,22 +1,22 @@
 ---
 category: news
 title: "How artificial intelligence could be used to fight wildfires"
-excerpt: "A Virginia-based technology integration company called Science Applications International Corp., or SAIC, wants to use a new type of artificial intelligence to fight those fires by using ..."
-publishedDateTime: 2022-12-16T20:04:00Z
-originalUrl: "https://www.fox10phoenix.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires"
-webUrl: "https://www.fox10phoenix.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires"
-ampWebUrl: "https://www.fox10phoenix.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp"
-cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp"
+excerpt: "A tech company is developing a new type of artificial intelligence to fight wildfires by using predictive analysis before the fires even start and AI logistics to help contain them."
+publishedDateTime: 2022-12-16T19:58:00Z
+originalUrl: "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires"
+webUrl: "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires"
+ampWebUrl: "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp"
+cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp"
 type: article
 
 provider:
-  name: FOX 10 Phoenix
-  domain: fox10phoenix.com
+  name: Fox 5 NY
+  domain: fox5ny.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "IgqkpSH6zdRzM7dXQyVqpcm02gTtgFmXiGS55ATkcTCvnbDXZJx+1wQRnefjktRvRgUoWb3tkX2tah9Bb8p1B8K+osEGtbgwEo3eXk5I7hj5VjZ81cH37impRXmNOKOkHO6wBnLOMCzKuq4KThA7P7A1jU20L9UBBgC6roqZI+I8ICxS2+xYL0qjdcmUS2u3nxAckvGzr95G+dUedTYh7HIpruCkwlakkIeRRTY6W+mVgd4dx3XYG7wfQNylespmLgQPSSMNw7CFVNLaTAcf6I73W9m/RrnJjRIRsO3WJf6WxWSFfBn+kcF7axSJGfdmAcZuSXRNzsKH8gNA2+i6r0WRoEZpqLrpgECEcZ1JzPU=;xOZRbdxZmEjL1C9/F7voGg=="
+secured: "nWNy/5eL9BLnOioLMszknwLbEC6E5V1cEfOmZdo4gsC/suAX/CS+lq7SBmDxBig7VoE+eWFihsH6uQGuOfaU3y1QKt2u0UScVzj7ldzo4PkylkhRf7Q0vseNYwd/lqAQ1g3Vz9VSRV0XGNd4uXNyT6LCFPe0o4hWwwd5zVVKL5mvKeW+xw1s3YvhA0HJbD6nLImi9nWPR6BmWh5KKKrUzYe6fbfBh6Nu1zg0g7jGW88W4k6HPzVE0J0PFgez1LagonOn3DA/S0oKUWfBYneb25qGSIQVb2TWVc6+VqQAR0pDYvR/n2XlD9zL7XGoEiR3Fk7/0y1j7fuXDgADebof5OZbBXY955Dpj0jfWUzWZxM=;01Hie+fS2TFqc0B79CIArA=="
 ---
 

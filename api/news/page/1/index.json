@@ -147,6 +147,50 @@
       ]
     },
     {
+      "path": "_news/2022-12-24-tsas-facial-recognition-technology-raises-security-privacy-concerns.md",
+      "title": "TSA's facial recognition technology raises security, privacy concerns",
+      "excerpt": "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
+      "originalUrl": "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/14ef04f/2147483647/strip/true/crop/8640x4860+0+450/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F74%2F29%2Fc213131e41038c94fc27d4a87df4%2Fap22350850581649.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true",
+      "cdnAmpWebUrl": "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true",
+      "publishedDateTime": "2022-12-23T15:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC15 Arizona",
+        "domain": "abc15.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-12-24-sundeep-yerapotina-on-personal-finance-fintech-and-more.md",
       "title": "Sundeep Yerapotina on Personal Finance, Fintech, and More",
       "excerpt": "I had the opportunity to interview Mr. Sundeep Yerapotina, the Chief Risk Officer for Rewards Credit Cards at Citibank. He is a subject matter expert in the field of personal finance and credit risk management.",
@@ -293,50 +337,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-24-tsas-facial-recognition-technology-raises-security-privacy-concerns.md",
-      "title": "TSA's facial recognition technology raises security, privacy concerns",
-      "excerpt": "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
-      "originalUrl": "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/14ef04f/2147483647/strip/true/crop/8640x4860+0+450/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F74%2F29%2Fc213131e41038c94fc27d4a87df4%2Fap22350850581649.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true",
-      "cdnAmpWebUrl": "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true",
-      "publishedDateTime": "2022-12-23T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMJ4",
-        "domain": "tmj4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     },
     {

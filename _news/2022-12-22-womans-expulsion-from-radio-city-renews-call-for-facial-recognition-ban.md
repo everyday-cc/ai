@@ -27,14 +27,14 @@ images:
 related:
   - title: "TSA's facial recognition technology raises security, privacy concerns"
     excerpt: "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country."
-    publishedDateTime: 2022-12-23T17:57:00Z
-    webUrl: "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
-    ampWebUrl: "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
-    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+    publishedDateTime: 2022-12-23T23:26:00Z
+    webUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
+    ampWebUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
     type: article
     provider:
-      name: TMJ4
-      domain: tmj4.com
+      name: ABC15 Arizona
+      domain: abc15.com
     quality: 91
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/14ef04f/2147483647/strip/true/crop/8640x4860+0+450/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F74%2F29%2Fc213131e41038c94fc27d4a87df4%2Fap22350850581649.jpg"
@@ -54,20 +54,6 @@ related:
       - url: "https://static-images.vnncdn.net/files/publish/2022/12/21/face-recognition-technology-to-be-used-for-security-check-at-airports-e64411183bc1457dba5508e8aee7a37f.jpg"
         width: 560
         height: 380
-        isCached: true
-  - title: "TSA expands use of facial recognition airport pilot program"
-    excerpt: "The Transportation Security Administration is now scanning your face at select airport checkpoints, part of a growing test with passengers as the subjects. Pete Muntean reports."
-    publishedDateTime: 2022-12-20T02:41:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/video/tsa-expands-use-of-facial-recognition-airport-pilot-program/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 54
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/20/deed59ef-9384-46fa-9d3b-c0d06aa7cf23/thumbnail/1200x630/0a4762dab90bf8ab2503c5d4b0fb455a/06be91a9325e57dee7f452bbb757003f.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Baltimore councilman seeks to regulate facial recognition technology after ban expires"
     excerpt: "Opponents of facial recognition technology cite potentially dangerous invasion of privacy There's a push to regulate facial recognition technology in Baltimore after a ban on it expires next week. Many people use it every day to unlock their phones."
@@ -130,6 +116,6 @@ related:
         height: 720
         isCached: true
 
-secured: "PVNzxkWrHfjoNR4VvxQfJrqpT1veAsuPyYh9/eE2GvMy/3Fbbxj+ePCBlaEAYXTwf4RZpCkg1GhsKpDzuUkcB4mKQbgfCGZLFM01VjfvsmNWSf4wN8xcVsiBR2WELtxmnFLs9eUKn9xVxGE6S9zJG18in/r1fF3eaxefREcJ6sdJ6FGTnMNTfbZgkPe2j/du5VOffF4NlGdGFE6jU9KOF0WCeYMeb3bxiNvDRIwRa3Mnn9DyVw/XWsH2kRtzVo3yHPLe8mU4MDfdUheP0VMc6BfpAur8q5suLNP1dQSrpo0oVeuDGlKmHG44GSMHOdkXaJICqDcD7/wtyN29O9p4/tQU/sSXA1jOnVTzx5TXftM=;dfbst8k+QjfbejEvp9m79A=="
+secured: "iacuf8ykme1j6DxgbsTLQ9PqVx9k/1Q9KwrNj1BNu4KZbpFpzXy+1XQNeLeWeHW6eNa9mjSJ22slx6/nfyxkfRlrD7WmVFi1tzMPC0GqckM4E+o6BK5KwIzl9DD1QWJWS12y5vy9UG42vnmS0TDg1F015OsAOrmVicJN9yeqvpFuvReYyd27nNu2HgwOVSQJJ77/k3ad0HOvt1h0z/RTYbEfzUKJJPMD9Z/KPnmfDi17T9VuUl4i6RsB7fhP0D/B0AHBQJkkPIbuzFvfYAK63HJjqHiVL3wURAEllzaDFL9NIkklWXZhS6Fl8ZhsoUfz8wI6DXx0W98gSMWhyyQmmBNAtiUBx7OrCKiGACmZxpTICCXe0UKCfTTN6NaYsU4LRSOhqABBhOjyTaGtcDOPW/eNMLFT9m3aqUdfSZZZFVZ4nrY5feDrCCSf75e2AO0nh+QfZnh/ft6dF1/UevVUsjjA91J281rBtjTv76t9lEWGwElTXaq/7YwqB6GND7Rd37ZX2zTvbY9okrFiiBQzhw==;0w4orxeqvbYkwwkNn0ryoQ=="
 ---
 
