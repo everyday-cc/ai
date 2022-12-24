@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/this-jevtana-research-re
 webUrl: "https://www.marketwatch.com/press-release/this-jevtana-research-report-provides-detailed-segmentation-of-this-market-based-on-material-application-end-use-and-region-2022-12-22"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "The global Facial Recognition Phone market is segmented based on the end-use industry, type of product, and region."
+    excerpt: "The \" Facial Recognition Phone market size \" and forecast are offered, along with trends, growth drivers, opportunities, and challenges. The Facial Recognition Phone market analysis also thoroughly examines the effect of COVID-19 on the market."
+    publishedDateTime: 2022-12-24T07:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-global-facial-recognition-phone-market-is-segmented-based-on-the-end-use-industry-type-of-product-and-region-2022-12-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "HllmauyClkVc2qcqxl3PLJmaJJFZZiHKCu9Ly7tvxPOFCFzfFKUPaMdoXAC1/wi4CD5WOCiCOXbvlsXh4JLLoARe2I9lFtCLKljAr461npW1N8rbaGwEHE5B1/ZgIDUNBzGIowGxho1+dfF+f3O+TRTgtwAdSmhhvdDYpcHgqbtU2ZsB139dnvfuNAmXbasjudcY3XblIpNjpVDrg4SW5iN5G3qgHHGPEPBWWXUZ0MweXaoj4kThKiYj1B8Uktx6Jv0T+17yZ3SoAXQcz0SB2nIRhT3J9vyQOhbgRZ0x+fS/YSuYpHovy2TlLArfuHtaOb3qp2ZlPO93C0XPZkJbHcC5mcZEsUxH76QSOzPvwhY=;RNuNnzwprU5suTl0/soEaw=="
 ---

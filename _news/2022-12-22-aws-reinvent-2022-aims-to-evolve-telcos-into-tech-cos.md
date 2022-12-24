@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2022/12/21/aws-reinvent-20
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/12/21/aws-reinvent-2022-aims-to-evolve-telcos-into-tech-cos/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 936
     height: 468
     isCached: true
-
-related:
-  - title: "Telcos divided over artificial intelligence, Big Data benefits"
-    excerpt: "In its submission to the Telecom Regulatory Authority of India (Trai), Reliance Jio has said there are vast opportunities for deploying AI to improve network performance, overall QoS, spectrum management,"
-    publishedDateTime: 2022-12-20T06:50:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/telcos-divided-over-artificial-intelligence-big-data-benefits/96363374"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 37
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-96363374,imgsize-28138,width-1200,height=765,overlay-etbrandequity/digital/telcos-divided-over-artificial-intelligence-big-data-benefits.jpg"
-        width: 1200
-        height: 765
-        isCached: true
 
 secured: "mXNFH2m/n80u4L64RguvzVTO2/hYGcGQ5nWx6LWFvR9gQ/wEgRoRdXxhz4AjQxP/hZ7jPQVVxgkH3zma3JkQiyP4Q2WYNEaoXnGXaUo+i4hGP2RuT81b5AarJVyLIuWBj3hmJWlqLc0UUn/jFaZTGHtfy2UyuutoPoftU3yAvfI7aW/vPU9sGjBggyZe+cs/wnLgs3h/VKZXP864hIePWKKMB0mAp72jl6q5xO3N+KgDz4S4sK1oczUh52ZxJBAKlLE2cBa9idq+OQnUei0OuhcV9+hzr5dxmNqaklc1+S2VrtbqpAZLzquB0esNaF0tOJK3gMWZqGKHRthusWb5GnT40H0EjN9jl9X8emUdaVVSoUH/KG78EymyEKdodS090ttGslf6r1fbslFAJJH8KM2fuHrjrTuGqOsFSMHQPZLiUm9iBpHMYvsYvk8oX/ATlAsy7WetspDSB7+znfzALoNITxX0ceYrAtk6Lv7Bjm+9WhcGQiVjVNlCaZO6p6hga3njFO+bnAs4kSz9nfY1/Q==;4pckClEp0okN9ideSY0Klg=="
 ---

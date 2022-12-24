@@ -23,85 +23,22 @@ topics:
   - AI
 
 related:
-  - title: "Data and AI Ethics Market Research Highlighting Global Opportunities 2023 | Growth Trends and Share Forecast to 2029"
-    excerpt: "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Data and AI Ethics Market”"
-    publishedDateTime: 2022-12-20T05:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029-2022-12-20"
+  - title: "Health trends in 2023: More artificial intelligence, government scrutiny & new technologies"
+    excerpt: "What can patients and healthcare companies expect to happen in 2023? More tech, more AI, and increased scrutiny from governments, says Triangle-based biopharma firm Syneos Health."
+    publishedDateTime: 2022-12-23T11:27:00Z
+    webUrl: "https://wraltechwire.com/2022/12/23/health-trends-in-2023-more-artificial-intelligence-government-scrutiny-new-technologies/"
+    ampWebUrl: "https://wraltechwire.com/2022/12/23/health-trends-in-2023-more-artificial-intelligence-government-scrutiny-new-technologies/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/12/23/health-trends-in-2023-more-artificial-intelligence-government-scrutiny-new-technologies/?amp=1"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 49
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/12/new-years-day-g3b718be5c_1280-e1670727523431.jpg"
+        width: 1260
+        height: 710
         isCached: true
-  - title: "Automotive Artificial Intelligence(AI) Market Research, Development Status, Top Companies, Trends and Growth Analysis 2023 To 2027"
-    excerpt: "The “Automotive Artificial Intelligence(AI) Market” 2023 Research report will make detailed analysis mainly on"
-    publishedDateTime: 2022-12-20T06:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligenceai-market-research-development-status-top-companies-trends-and-growth-analysis-2023-to-2027-2022-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Computer Vision System Market Size and Market Scenario 2022 by Sales, Revenue, Countries, Development Potential and Forecast to 2028"
-    excerpt: "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global “Computer Vision System"
-    publishedDateTime: 2022-12-21T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-system-market-size-and-market-scenario-2022-by-sales-revenue-countries-development-potential-and-forecast-to-2028-2022-12-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Precision Medicine Market 2023 Recent Developments, Ongoing Trend & Regional Forecast to 2028"
-    excerpt: "Dec (The Expresswire) -- \"\"Artificial Intelligence in Precision Medicine Market\"\" Insights 2023 | New Updated Report [ No of Pages 80 ] The"
-    publishedDateTime: 2022-12-20T16:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-medicine-market-2023-recent-developments-ongoing-trend-regional-forecast-to-2028-2022-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Software Market Research Highlighting Global Opportunities 2023 | Growth Trends and Share Forecast to 2029"
-    excerpt: "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Artificial Intelligence"
-    publishedDateTime: 2022-12-23T05:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029-2022-12-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Autonomous Vehicles Market Growth and Global Share 2023 | Developing Regions, Emerging Trends and Industry Size Forecast to 2029"
-    excerpt: "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Autonomous Vehicles Market”"
-    publishedDateTime: 2022-12-22T08:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicles-market-growth-and-global-share-2023-developing-regions-emerging-trends-and-industry-size-forecast-to-2029-2022-12-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 5
 
 secured: "zQe+M/nks8xgBpvTHV1MChnvoof4n8/e4cOw7M8bfHXqrCJXkXut6FbBFEUwFAUjjKxZIfhR2evwOxkrxPUcVoWr6v85KbRdP/Go1YFbiXipxwEH90c6KC8frCw6i2+PY0R0z6ZN9sd2sBDSBufrVZXz0dSJIZMFv02F4Fd2gzRRJ2G6a6gODylrdqeQg2zBUewo162MXvjTrnbE/xcCr1I27iVN8xFuPAmp/xgLfr9QUj9IwCKtSgvGGVZvWWG+DyPfVIcUJpLPs5nKGMpoVqldS1F5IyJ4GtCgGoSvpWMUFd0K8oB5uDtO6XNBf4cD2D0vSKS5/9zzeDrP7svisoB++vj6X8fp//RSnJN6E/M=;XGisn5hEdCOFJv1v4rQE9Q=="
 ---

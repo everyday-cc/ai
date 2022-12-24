@@ -223,6 +223,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Tesla driver blames self-driving mode for 8-vehicle crash on Bay Bridge"
+    excerpt: "The driver of a 2021 Tesla Model S involved in an eight-vehicle crash Thanksgiving Day on the Bay Bridge told police he was in Full-Self Driving mode, which had malfunctioned."
+    publishedDateTime: 2022-12-23T01:07:00Z
+    webUrl: "https://www.ktvu.com/news/tesla-driver-blames-self-driving-mode-for-8-vehicle-crash-on-bay-bridge"
+    ampWebUrl: "https://www.ktvu.com/news/tesla-driver-blames-self-driving-mode-for-8-vehicle-crash-on-bay-bridge.amp"
+    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/tesla-driver-blames-self-driving-mode-for-8-vehicle-crash-on-bay-bridge.amp"
+    type: article
+    provider:
+      name: KTVU
+      domain: ktvu.com
+    quality: 39
   - title: "Tesla 'full self-driving' triggered 8-car crash on Bay Bridge, driver tells police"
     excerpt: "The driver said the Tesla's \"full-self-driving\" software braked unexpectedly and triggered the eight-car pileup that led to nine people being treated for minor injuries, according to a California Highway Patrol traffic crash report."
     publishedDateTime: 2022-12-22T02:14:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/12/221219123859.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/12/221219123859.htm"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning Model To Predict Disastrous Events"
-    excerpt: "Researchers have developed a machine learning model that can predict an upcoming natural calamity like earthquakes and pandemics. The world is a chain of"
-    publishedDateTime: 2022-12-20T06:19:00Z
-    webUrl: "https://www.electronicsforu.com/news/whats-new/machine-learning-model-to-predict-disastrous-events"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 39
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/12/machine-learning-2.jpg"
-        width: 800
-        height: 530
-        isCached: true
   - title: "How Machine Learning Could Predict Rare Disastrous Events"
     excerpt: "When it comes to predicting disasters brought on by extreme events (think earthquakes, pandemics or “rogue waves” that could destroy coastal structures), computational modeling faces an al"
     publishedDateTime: 2022-12-21T05:59:00Z

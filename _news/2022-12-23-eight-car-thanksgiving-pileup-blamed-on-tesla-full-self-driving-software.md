@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-b
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/amp/"
 type: article
 quality: 87
-heat: 277
+heat: 287
 published: true
 
 provider:
@@ -213,6 +213,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Tesla driver blames self-driving mode for 8-vehicle crash on Bay Bridge"
+    excerpt: "The driver of a 2021 Tesla Model S involved in an eight-vehicle crash Thanksgiving Day on the Bay Bridge told police he was in Full-Self Driving mode, which had malfunctioned."
+    publishedDateTime: 2022-12-23T01:07:00Z
+    webUrl: "https://www.ktvu.com/news/tesla-driver-blames-self-driving-mode-for-8-vehicle-crash-on-bay-bridge"
+    ampWebUrl: "https://www.ktvu.com/news/tesla-driver-blames-self-driving-mode-for-8-vehicle-crash-on-bay-bridge.amp"
+    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/tesla-driver-blames-self-driving-mode-for-8-vehicle-crash-on-bay-bridge.amp"
+    type: article
+    provider:
+      name: KTVU
+      domain: ktvu.com
+    quality: 39
   - title: "Tesla's 'full self-driving' mode at center of blame for major accident"
     excerpt: "Tesla's \"full self-driving\" mode is at the center of blame for a San Francisco car crash that left at least nine people injured."
     publishedDateTime: 2022-12-23T01:59:00Z

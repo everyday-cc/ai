@@ -1,21 +1,27 @@
 ---
 category: news
 title: "OPN Healthcare Partners with KAID Health to Leverage Natural Language Processing Technology for Value-Based Oncology Care"
-excerpt: "Deployment of Real-World Natural Language Processing marks first use case for oncology prior authorization. KAID Health, an AI-powered health care data analysis and provider engagement platform ..."
-publishedDateTime: 2022-12-15T18:07:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/12/b30097555/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-va"
-webUrl: "https://www.benzinga.com/pressreleases/22/12/b30097555/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-va"
+excerpt: "NLITE addresses key technological issues that to-date have hindered the widespread adoption of natural language processing (NLP) for prior authorization. NLITE aggregates similar clinical concepts ..."
+publishedDateTime: 2022-12-15T18:10:00Z
+originalUrl: "https://insurancenewsnet.com/oarticle/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care"
+webUrl: "https://insurancenewsnet.com/oarticle/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Insurancenewsnet.com
+  domain: insurancenewsnet.com
 
 topics:
   - Natural Language Processing
   - AI
   - AI in Healthcare
 
-secured: "Y0/vSM89pp06cTSbJqn2Yl1I885irKkTaLIRGUuZInRzL5Uz9oVsJixmsA28oN763BJHcZ0Vlxm5YF0C/9gZTBoWhnev+IJqCkYPS6TmnI045xtuokFESVlM484Y194Y9e4cJJcC6+vW+fTzh2lfo6kl5UqwMQfNSfjlCS7Rv22lFIVFcObXpCN9c4aGPWXGkE+rwup9E/mVw37Q0l3uks2jDa946+EDVFJgtrqATfxfaXWTy7vBFqA3DmLRcmwOoltdTWcoTvw60xRQyrt7dNJFLdEbOspp++D7e++IhxCdV2+uyZAxoTl9VuMC5zW5nkyaT3ZgVZyvzSiwgSTiwjmX8F99N0m42QGWqUAkfo8=;5hfpIyhFi466J1ILQMyGvQ=="
+images:
+  - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "viSaFTj9NSzaQidUIov53CzdFTv833vubg/6b+Hj2ubJn1RKuf2yu84T6M2Y3hZURaVwQ8q/lRgwknH6mRuUjbtJ0O2jHNo6fynfXIqIdfqRoTQLJzxa1M1GRIHYfbBMidL1jtm2FHJXRl0V45TR9iEecQlGQp/0GcKlreMb0tdAj3Qf7QipSaorbtJ9yWbZvJgLCyTIRBnbmwR2R4au2ryj+2KAJMDt7Nu8qEnPmBZgB/bNfLkoDL2EiZzzJKfUizKaU8t1UDQ6nQQ4w5CdjXN5rped6GRmojGotAi1GKCD5kybSD2x/ZoZfx/s1RCZ+0XvfsKfgH2iYJfMYBl4yhj2sGQNWk9IyT1WLQrlKe8=;dRycQ/yDIjEPVwPbxqvZyQ=="
 ---
 

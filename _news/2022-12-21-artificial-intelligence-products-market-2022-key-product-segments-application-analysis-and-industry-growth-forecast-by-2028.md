@@ -87,15 +87,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Development Market : Industry Analysis 2022 To 2028 based on Sales, Revenue, Size and Share"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Computer"
-    publishedDateTime: 2022-12-20T05:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-development-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
   - title: "Artificial Intelligence (AI) Market 2023 Research Report Analysis by TOP Competitors, Demand and Size Share Estimation by 2028, Market Divergence"
     excerpt: "In terms of Revenue in Million} Get a Sample Copy of the Artificial Intelligence (AI) Market Report 2022:  Brief description about Artificial Intelligence (AI) Market Growth 2029: Artificial Intelligence (AI) Marketsize,"
     publishedDateTime: 2022-12-23T06:42:00Z
@@ -133,24 +124,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 30
-  - title: "Facial Recognition Market 2022 : Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
-    excerpt: "By Types (3D facial recognition, 2D facial recognition), By Segmentation analysis, Regions and Forecast to 2028. The Global Facial Recognition market Report provides In-depth analysis on the market status of the Facial Recognition Top manufacturers with best facts and figures,"
-    publishedDateTime: 2022-12-20T05:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2022-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028-2022-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-  - title: "Artificial Intelligence Chipsets Market Global Industry Analysis by Size, Share, Growth Opportunities, Trends and Forecast 2023 – 2026"
-    excerpt: "Global “Artificial Intelligence Chipsets Market” 2023 Research report is an in-depth study of the market Analysis."
-    publishedDateTime: 2022-12-20T06:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-global-industry-analysis-by-size-share-growth-opportunities-trends-and-forecast-2023-2026-2022-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
   - title: "Global Artificial Intelligence In Cybersecurity Market 2022 to 2028: Ability to Predict and Prevent Breaches Drives Growth - ResearchAndMarkets.com"
     excerpt: "The Global Artificial Intelligence In Cybersecurity Market size is expected to reach $57.1 billion by 2028, rising at a market growth of 24.5% CAGR during the forecast period. AI-powered systems can be set up to automatically respond to dangers and combat online threats more quickly."
     publishedDateTime: 2022-12-21T12:59:00Z

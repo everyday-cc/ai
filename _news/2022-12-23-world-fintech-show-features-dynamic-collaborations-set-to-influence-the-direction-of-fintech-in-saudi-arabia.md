@@ -66,20 +66,6 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 18
-  - title: "World Fintech Show features dynamic collaborations set to influence the direction of FinTech in Saudi Arabia"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2022-12-20T06:15:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/world-fintech-show-features-dynamic-collaborations-set-to-influence-the-direction-of-fintech-in-saudi-arabia/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 5
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/12/Event-123.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "pkyTk2edBGAy+jpxcvGl9FrkSVQOGTXgYzGJm4G/yZEWF9fShGOR1ptO51XWsbPSVf/QFBa+cQUWePULeEax5AWLCWmEmTTT8Ax1RvcPOc2zUL4WHuhlxN+Lk7c+F8SvUgZcz88JODq/Cn1m70xZbIPubJkoZqP2/CDKegOYeiAzo3fOds1jDU7Q0S4Eq6Cq60IXAeqRv40Gff6qH4fMEog3TsiHI43vQ4BSdXtyd0ZCcSH19HAzbVQGqTixgrNn70qSfkU80+z2yDooljtq0U7KX5Po1rZINLfn0V1b5DMtKu+iEhbHF1ikuIzNPEtzVIsXvRmeZAxwz21+GRhu+gmMqxa6fjUsm89l7EI4Ak8=;BIMOBoc1mcyzyAWIVqY+UQ=="
 ---

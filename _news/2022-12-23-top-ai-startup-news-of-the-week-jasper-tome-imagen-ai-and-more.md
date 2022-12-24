@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-jasper-to
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-ai-startup-news-of-the-week-jasper-tome-imagen-ai-and-more/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 700
     isCached: true
+
+related:
+  - title: "Top 5 stories of the week: Visions of AI and security danced in readers heads"
+    excerpt: "While others were shopping and decorating for the holidays, VentureBeat readers didn’t check out for Christmas cheer this week. Rather, they were consuming coverage in two keys --- as reflected in our Top 5 stories of the week --- AI and security."
+    publishedDateTime: 2022-12-24T18:58:00Z
+    webUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-visions-of-ai-and-security-danced-in-readers-heads/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
 
 secured: "N6SEhEmSv57AY0y5/1xPdGQamOPjq2Bi/wd72LoBQn25gTgp5U69q0aX8B6c9ttxGiMllTlx7w7dhD1YOACTWqRcyhSYJaGdxGKj1CU4ZpCM0y7AEIQsvROW+QDMcm8hnKMGi0L0B1PoY/3e4ndWS+FuJNgSMhq6RUimg+GDcMPrSu1/w2QETfqRG3oycsuFeutBfrcZLEy775ZqodSM/i1rZGLJYsP6If/2xDV5k9BIPrQTcDHGEN1jrghVW14C69CKul48A1byN0aSWWl2t87zeiR4nGsabQYg48STXa7olPzMjIQ7kT/jygfzaeKDvTbwYd8hbpqg+jFr2D44DPeO+A47nJy1iBelrrV5gub6YCDrCT6IUFVfvUUJdkC412yKyDi56HV53AqpL8e3uUDrdYPjrmZmMw7+nTTh+xGyGvOYOytKfGXzgLgeFhQHgKlAW//LiQXa79ZfCzqx7gNcBVvH03BawmsAmzWMZ/lH3531OAcTaSZVHg/nDMil6FfDeSKVFlK7ko/FpjNvYA==;1Fku8G/p8UWsRQ2AEywo/A=="
 ---

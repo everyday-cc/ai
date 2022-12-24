@@ -45,20 +45,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "Non-invasive artificial intelligence approach for IVF embryo selection"
-    excerpt: "An artificial intelligence algorithm can determine non-invasively, with about 70 percent accuracy, if an in vitro fertilized embryo has a normal or abnormal number of chromosomes, according to a new study from researchers at Weill Cornell Medicine."
-    publishedDateTime: 2022-12-20T06:01:00Z
-    webUrl: "https://www.news-medical.net/news/20221220/Non-invasive-artificial-intelligence-approach-for-IVF-embryo-selection.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 37
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "NzYHKvL6mP1G3i5Qhas558rJIEbE0Aks9/SJui/95r6484AFpDmoPKpaKtHlLh//Z/1Ay1QRmPU3dd1E27eevcHI0rJPtSpmSdk4rwUS9JzBRvO5W/GtZd7YUc17x1HKxpNW6d++YSrzwpruJYupUhPO1/TxNFc48we91zDw21qTnNjzvgIEtAzbCWfV5+om7lFbMtyQLw6kwpU3NkGA7gJ2e6turqMu6A/kgFG1ZqHEh9oL6L/jUOea39l9dOyAmVOEzrDIMkfgQdQLMJCKZ5Y1iEKid+15XrUx0gtJ6iwmMdgHBMwDPPohFy1yl0RedxuTfEoi2XqP60vtXwbhjuX+6J9XGL9uQh42qeITgxE=;6XfTd3FMpIO3z/UjFhLJuw=="
 ---
