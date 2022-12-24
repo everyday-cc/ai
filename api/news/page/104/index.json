@@ -2,6 +2,214 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2022-09-26-supporting-the-next-generation-of-ai-leaders.md",
+      "title": "Supporting the next generation of AI leaders ",
+      "excerpt": "We’re partnering with six education charities and social enterprises in the United Kingdom (UK) to co-create a bespoke education programme to help tackle the gaps in STEM education and boost existing programmes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/supporting-the-next-generation-of-ai-leaders",
+      "originalUrl": "https://www.deepmind.com/blog/supporting-the-next-generation-of-ai-leaders",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/632b36a158023307b04d9228_Header%20(1).jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-ai-in-healthcare-still-has-a-long-journey-ahead.md",
+      "title": "AI In Healthcare Still Has A Long Journey Ahead",
+      "excerpt": "For many years, artificial intelligence (AI) technology has pledged the promise of vastly improving the healthcare industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-still-has-a-long-journey-ahead/",
+      "originalUrl": "https://www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-still-has-a-long-journey-ahead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6330caf663c91908687d2c1f/0x0.jpg?format=jpg&crop=4363,2454,x432,y241,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-still-has-a-long-journey-ahead/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-still-has-a-long-journey-ahead/amp/",
+      "publishedDateTime": "2022-09-25T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-working-with-ai-review-learning-to-love-the-machine.md",
+      "title": "‘Working With AI’ Review: Learning to Love the Machine",
+      "excerpt": "A compendium of case studies in which corporations stopped worrying and introduced artificial intelligence into their workflow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/working-with-ai-review-learning-to-love-the-machine-11664135970",
+      "originalUrl": "https://www.wsj.com/articles/working-with-ai-review-learning-to-love-the-machine-11664135970",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-630630/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/working-with-ai-review-learning-to-love-the-machine-11664135970",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/working-with-ai-review-learning-to-love-the-machine-11664135970",
+      "publishedDateTime": "2022-09-25T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-25-why-ai-will-never-rule-the-world.md",
+      "title": "Why AI will never rule the world",
+      "excerpt": "Despite fears that AI will one day take over the world, some experts contend that our existing AI systems are incapable of surpassing human intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/why-ai-will-never-rule-the-world/",
+      "originalUrl": "https://www.digitaltrends.com/computing/why-ai-will-never-rule-the-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/Superintelligence.jpeg?p=1",
+          "width": 1030,
+          "height": 687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/why-ai-will-never-rule-the-world/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/why-ai-will-never-rule-the-world/?amp",
+      "publishedDateTime": "2022-09-25T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-25-ai-generated-portraits-imagine-how-celebrities-would-look-like-if-they-were-alive-today.md",
       "title": "AI-Generated Portraits Imagine How Celebrities Would Look Like If They Were Alive Today",
       "excerpt": "Images generated by Artificial Intelligence (AI) have been making waves recently, and now one Turkey-based artist has used this technology to bring back celebrities from the dead. Photographer and ...",
@@ -960,170 +1168,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-the-future-is-now-driverless-road-freight-and-highly-automated-driving-had.md",
-      "title": "The future is now: driverless road freight and Highly Automated Driving (HAD)",
-      "excerpt": "Tim Wouda and Sjoerd Spaargaren, specialists in Automated Driving at HERE Technologies discuss the rise of autonomous trucking and the need for location intelligence like high-definition maps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/sponsored/the-future-is-now-driverless-road-freight-and-highly-automated-driving-had/",
-      "originalUrl": "https://www.just-auto.com/sponsored/the-future-is-now-driverless-road-freight-and-highly-automated-driving-had/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2022/09/HAD-article-hero-visual-1038x487.png",
-          "width": 1038,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-vw-group-gentravel-concept-predicts-a-true-level-5-full-self-driving-car.md",
-      "title": "VW Group Gen.Travel concept predicts a true Level 5, full self-driving car",
-      "excerpt": "What might private vehicle ownership look like in a world where driving is no longer necessary ... Voice activation and artificial intelligence can be used to control various functions.",
-      "sourceUrl": null,
-      "webUrl": "https://wgntv.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
-      "originalUrl": "https://wgntv.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGN-TV",
-        "domain": "wgntv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-microsofts-new-security-chief-looks-to-ai-to-fight-hackers-qa.md",
-      "title": "Microsoft’s New Security Chief Looks to AI to Fight Hackers: Q&A",
-      "excerpt": "His mission was to  chart a future course for the security business, which now generates more than $15 billion annually. Bell reorganized, combining groups scattered across businesses like Azure cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bnnbloomberg.ca/microsoft-s-new-security-chief-looks-to-ai-to-fight-hackers-q-a-1.1822834",
-      "originalUrl": "https://www.bnnbloomberg.ca/microsoft-s-new-security-chief-looks-to-ai-to-fight-hackers-q-a-1.1822834",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bnnbloomberg.ca/microsoft-s-new-security-chief-looks-to-ai-to-fight-hackers-q-a-1.1822834.amp.html",
-      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/microsoft-s-new-security-chief-looks-to-ai-to-fight-hackers-q-a-1.1822834.amp.html",
-      "publishedDateTime": "2022-09-23T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bnnbloomberg",
-        "domain": "bnnbloomberg.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-what-on-earth-is-that-super-bright-object-spotted-moving-toward-the-sun.md",
-      "title": "'What on Earth Is That?' Super Bright Object Spotted Moving Toward the Sun",
-      "excerpt": "\"What on Earth is that?,\" Strong tweeted, alongside the following coronagraph clip. \"There is a bright object on the right edge of the frame coming into view, i.e., moving the opposite way to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/solar-coronagraph-image-venus-object-sun-1745683",
-      "originalUrl": "https://www.newsweek.com/solar-coronagraph-image-venus-object-sun-1745683",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2121409/venus-seen-coronagraph.jpg",
-          "width": 1200,
-          "height": 847,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/solar-coronagraph-image-venus-object-sun-1745683?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/solar-coronagraph-image-venus-object-sun-1745683?amp=1",
-      "publishedDateTime": "2022-09-23T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -43,20 +43,6 @@ related:
         width: 800
         height: 313
         isCached: true
-  - title: "The case for optimism: encouraging fintech trends in 2023"
-    excerpt: "Fintech vendors leveraging data and cloud automation rapidly become the new security standard-bearers in various verticals. There is a fundamental and radical improvement in the tools available to assess risk and fraud."
-    publishedDateTime: 2022-12-19T10:08:00Z
-    webUrl: "https://www.finextra.com/blogposting/23430/the-case-for-optimism-encouraging-fintech-trends-in-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/741715aa-3c6c-47b7-8c75-a21f366cb9b5.jpg"
-        width: 500
-        height: 333
-        isCached: true
   - title: "AI In Fintech Market is likely to surge at a 16.5% CAGR from 2022 to 2032"
     excerpt: "According to an ESOMAR-certified Future Market Insights report, the global artificial intelligence in fintech market is expected to be worth US$ 10.1 billion in 2021 and US$ 11.76 billion by 2022. The market is expected to be worth US$ 54 billion by 2032,"
     publishedDateTime: 2022-12-20T11:26:00Z

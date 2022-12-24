@@ -51,20 +51,6 @@ related:
         width: 800
         height: 313
         isCached: true
-  - title: "The case for optimism: encouraging fintech trends in 2023"
-    excerpt: "Fintech vendors leveraging data and cloud automation rapidly become the new security standard-bearers in various verticals. There is a fundamental and radical improvement in the tools available to assess risk and fraud."
-    publishedDateTime: 2022-12-19T10:08:00Z
-    webUrl: "https://www.finextra.com/blogposting/23430/the-case-for-optimism-encouraging-fintech-trends-in-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/741715aa-3c6c-47b7-8c75-a21f366cb9b5.jpg"
-        width: 500
-        height: 333
-        isCached: true
   - title: "World Fintech Show features dynamic collaborations set to influence the direction of FinTech in Saudi Arabia"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2022-12-20T06:15:00Z

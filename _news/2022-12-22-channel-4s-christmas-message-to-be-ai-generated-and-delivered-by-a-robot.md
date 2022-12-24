@@ -25,61 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "How to spot AI-generated text"
-    excerpt: "The internet is increasingly awash with text written by AI software. We need new tools to detect it. This sentence was written by an AI—or was it? OpenAI’s new chatbot, ChatGPT, presents us with a problem: How will we know whether what we read online ..."
-    publishedDateTime: 2022-12-19T10:32:00Z
-    webUrl: "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/"
-    ampWebUrl: "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/amp/"
+  - title: "Facial recognition used in New York to stop woman from seeing Christmas show"
+    excerpt: "The attorney and mother said the security staff knew her name, her place of work, and said their facial recognition had flagged her, before telling her that she wasn’t allowed to be there"
+    publishedDateTime: 2022-12-21T06:20:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/facial-recognition-technology-new-york-stop-woman-attorney-law-christmas-show-msg/article66287817.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/facial-recognition-technology-new-york-stop-woman-attorney-law-christmas-show-msg/article66287817.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facial-recognition-technology-new-york-stop-woman-attorney-law-christmas-show-msg/article66287817.ece/amp/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: The Hindu
+      domain: thehindu.com
+    quality: 56
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/12/pencils2a_1.jpeg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://th-i.thgim.com/public/incoming/vulek9/article66287816.ece/alternates/FREE_1200/BRITAIN%20FACIAL%20RECOGNITION"
+        width: 1200
+        height: 816
         isCached: true
-  - title: "Startup claims to accurately identify AI-generated content"
-    excerpt: "Canadian content marketer Jonathan Gilham launched Originality.ai, claiming that it can detect content generated"
-    publishedDateTime: 2022-12-21T11:49:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/startup-claims-to-accurately-identify-ai-generated-content/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/startup-claims-to-accurately-identify-ai-generated-content/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/startup-claims-to-accurately-identify-ai-generated-content/amp/"
+  - title: "How to watch Channel 4’s Alternative Christmas Message from artificial intelligence"
+    excerpt: "This year's Channel 4 Alternative Christmas Message will be generated entirely by artificial intelligence. The broadcast, which will air at the same time as the traditional King's Speech on the BBC and ITV,"
+    publishedDateTime: 2022-12-22T00:02:00Z
+    webUrl: "https://www.radiotimes.com/tv/alternative-christmas-message-channel-4-watch/"
+    ampWebUrl: "https://www.radiotimes.com/tv/alternative-christmas-message-channel-4-watch/amp/"
+    cdnAmpWebUrl: "https://www-radiotimes-com.cdn.ampproject.org/c/s/www.radiotimes.com/tv/alternative-christmas-message-channel-4-watch/amp/"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 57
+      name: Radio Times
+      domain: radiotimes.com
+    quality: 53
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/12/Startup-claims-to-accurately-identify-AI-generated-content-2.jpg"
-        width: 1500
-        height: 844
+      - url: "https://images.immediate.co.uk/production/volatile/sites/3/2022/12/The-Alternative-Christmas-Message-2022-614ab28.jpg?quality=90&resize=620,413"
+        width: 620
+        height: 413
         isCached: true
-  - title: "AI image generators: everything you need to know"
-    excerpt: "AI image generators are the most radical new development we've seen in the visual arts for some time – perhaps since the advent of digital photography. The technology has advanced massively in the last year,"
-    publishedDateTime: 2022-12-21T10:15:00Z
-    webUrl: "https://www.digitalcameraworld.com/features/ai-image-generators-everything-you-need-to-know"
-    type: article
-    provider:
-      name: digitalcameraworld
-      domain: digitalcameraworld.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/MkLLsUGUEnNwvRRFaygwu3-1200-80.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "AI-generated book receives criticism on the internet"
-    excerpt: "Tthe story of a little girl named Alice and a robot named Sparkle who explore the frontiers of science and technology together."
-    publishedDateTime: 2022-12-19T12:04:00Z
-    webUrl: "https://www.thedailystar.net/daily-star-books/news/ai-generated-book-receives-criticism-the-internet-3200061"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 19
 
 secured: "zDO6+1vGeyP+cwRe2Nboy43XQWnpJsrfAGd5hTMfwHlltrABkj7ocyvEjLEy6dKA1hUrKnQevu8Ss1zb1wAE5uG3oW4GDkgpKH1errmtMsGmyTjB8Yuq2daI6XUSdPPaF3T6SCC+h29MGH8q0TUTRwKKHQCFTNTQ8X4ijahDvI08MvllGECCqA7coUbn7NrmyscmImIrt/e+L+fUfgZ2w6BddIrjM9NA/LgSDzNnl8z1EAVUTUWBvjnP2xumXlm3Gu/2n1H0Xw+iFp8C7ySLRnzOLJtH9aWv6OsKlj4RCGxxDcxRwKWFQkIn9X0rFC8bev8SefFKY2vOo2CISpeL7weUsV+FMjuNSpzPlJdFuevXNpu3Swcv3AbzVKM2MNLNO0/ugMBBSo7jR/cVxsWRXR8KwZZVz7E/JACZIwE/B0P2R2MIgUWBB9S/kKdJLaJ71ZIqULFXux3qKqNwRA5ii5vY7GEoe3E17zqpN00OQKcGCSJ7vlGV/Wa3CsPUHsVsCLfl4lpxyFRPcMl7c+/C8A==;eGkXAg64rqIeQ2xxUfUaOw=="
 ---

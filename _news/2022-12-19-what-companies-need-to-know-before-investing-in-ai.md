@@ -29,6 +29,20 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 47
+  - title: "AI image generators: everything you need to know"
+    excerpt: "AI image generators are the most radical new development we've seen in the visual arts for some time – perhaps since the advent of digital photography. The technology has advanced massively in the last year,"
+    publishedDateTime: 2022-12-21T10:15:00Z
+    webUrl: "https://www.digitalcameraworld.com/features/ai-image-generators-everything-you-need-to-know"
+    type: article
+    provider:
+      name: digitalcameraworld
+      domain: digitalcameraworld.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/MkLLsUGUEnNwvRRFaygwu3-1200-80.png"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "cxBd9+oKCavNyc4Zi0gUaSX9jLlf6kWUlhvrA8vMdzAMCHO8yrYpbnPhsHiC4BJeEfBXkWOahpZIsm3C4lPdce1AezHPONl06tEyaX7GzhcYY/Zo+BNyZDo3RdWaG6Vb1seqp3EOlyWyt/+KNgYdAT41pT+wmpWrcdVAEtwWCCyQ3lqt5FHhu9LVKXO/YrlEmFcSonaW+K9n0KPyDxYUtK8nvad9ym8TZJKS7h3x/FgUw+3ZecB4EcmAbS0yzW59sGPLJbGijfEGLm5R7P+YMSSrociaVwNL1evp9II+1MxH10Dh51sEfHtAdsZPTWrL11TRHW8CAPRfsDoFmzJSFR3g5/CZ2AE8VkpPtMaNGTFhF3Tqa9NDLFQE0i21GzyDOXrFxczH5sLKBoAjfoiKgiSNBQd5WjQrhBq48DVFhIMAGoAfPWvFq70J/thVFFhMjFZBQamzagJvvlBA1hVEorAUsQg+JAgGkyLRkMQJaqoBcIlLNrVu/6sWMFjk1TbyPXngPUh044XYYhFxCIoRtw==;2bbYiuzU6TRQmOoEGT1tdw=="
 ---

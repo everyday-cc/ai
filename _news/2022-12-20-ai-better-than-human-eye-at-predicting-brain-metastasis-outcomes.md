@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Is Artificial Intelligence Better at Predicting Brain Metastasis Outcomes"
+    excerpt: "The new artificial intelligence technique developed hopes to provide cancer patients and clinicians with better, faster information."
+    publishedDateTime: 2022-12-22T18:42:00Z
+    webUrl: "https://www.medindia.net/news/is-artificial-intelligence-predict-at-predicting-brain-metastasis-outcomes-209781-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/is-artificial-intelligence-predict-at-predicting-brain-metastasis-outcomes-209781-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/is-artificial-intelligence-predict-at-predicting-brain-metastasis-outcomes-209781-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 73
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/astrocytomas-brain-tumors.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Is Artificial Intelligence Predict at Predicting Brain Metastasis Outcomes"
     excerpt: "The new artificial intelligence technique developed hopes to provide cancer patients and clinicians with better, faster information."
     publishedDateTime: 2022-12-22T18:42:00Z
@@ -39,22 +55,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "World Cup predictions: How many games did our AI get right?"
-    excerpt: "In total, Kashef had a 67 percent accuracy level, but failed to predict Argentina as the 2022 World Cup winners."
-    publishedDateTime: 2022-12-21T13:34:00Z
-    webUrl: "https://www.aljazeera.com/news/2022/12/19/world-cup-predictions-did-our-ai"
-    ampWebUrl: "https://www.aljazeera.com/amp/news/2022/12/19/world-cup-predictions-did-our-ai"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2022/12/19/world-cup-predictions-did-our-ai"
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 59
-    images:
-      - url: "https://www.aljazeera.com/wp-content/uploads/2022/12/INTERACTIVE-World-Cup-FinalPredictor.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI better than human eye at predicting brain metastasis outcomes, find researchers"
     excerpt: "A recent study by York University researchers suggests an innovative artificial intelligence (AI) technique they developed is considerably more effective than the human eye when it comes to predicting therapy outcomes in patients with brain metastases."
     publishedDateTime: 2022-12-19T21:52:00Z
@@ -70,6 +70,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-better-than-human-e.jpg"
         width: 629
         height: 820
+        isCached: true
+  - title: "New AI Method Gives Faster Information About Cancer Patients and Clinicians"
+    excerpt: "A recent study performed by scientists at York University has recommended that a new artificial intelligence (AI) method is significantly more effective compared to the human eye in anticipating therapy outcomes in patients with brain metastases."
+    publishedDateTime: 2022-12-20T16:00:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13476"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 37
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13476_16715324380073081.png"
+        width: 300
+        height: 260
         isCached: true
 
 secured: "RxskS2qi7SQcvJAzGjW5e/4DBEAbKmQVRG9D24PdsBOvMRYqtPVEBjXBCC8nz3NaRi1ip3QLF9HjPKXfStvmfeBwoqht41cRtkPj7x2HQimYOxKGU8RpjeJShIsgmvzkU7p1J4yk+Hln1LvXuOYUhFFP8h6c3P0taKmXOqkwnMWgbf2Ut/mH4xF3tunEP9eduDMUiH0rPxex1YtE+tTVX+hXntiH0+63O71CMlLCoW6ND1Ostn0Igpl10Y3CjP4rX9XiOJHktGTNMmNVXN3QPt0MLtE9N3N2JVvOkTnXBV0pcalmuMf+kzsaCw8dlg4wY7RcAhVLTkj8uB1+ahBm9CD4Fk+YzzI/NJh9oQHhwCo=;kEdGacMjwHnYWPwhmLYnKA=="

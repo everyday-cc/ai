@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/facial-recognition-tech
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facial-recognition-technology-new-york-stop-woman-attorney-law-christmas-show-msg/article66287817.ece/amp/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Hindu
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Channel 4’s Christmas message to be AI-generated and delivered by a robot"
+    excerpt: "The broadcast, which will run after the King’s official BBC Christmas message at 3pm, will see the robot speak about the highs and lows of 2022."
+    publishedDateTime: 2022-12-22T07:01:00Z
+    webUrl: "https://www.aol.com/channel-4-christmas-message-ai-000100334.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 53
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/eSirVuPNAD7yJddv60e3Vg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/32a5a227bc57f0175e4e706493d8d379"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How to watch Channel 4’s Alternative Christmas Message from artificial intelligence"
     excerpt: "This year's Channel 4 Alternative Christmas Message will be generated entirely by artificial intelligence. The broadcast, which will air at the same time as the traditional King's Speech on the BBC and ITV,"
     publishedDateTime: 2022-12-22T00:02:00Z

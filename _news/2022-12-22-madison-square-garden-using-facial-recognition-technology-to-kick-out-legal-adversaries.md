@@ -27,14 +27,14 @@ images:
 related:
   - title: "TSA's facial recognition technology raises security, privacy concerns"
     excerpt: "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country."
-    publishedDateTime: 2022-12-23T17:57:00Z
-    webUrl: "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
-    ampWebUrl: "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
-    cdnAmpWebUrl: "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+    publishedDateTime: 2022-12-23T23:26:00Z
+    webUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
+    ampWebUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
     type: article
     provider:
-      name: kjrh.com
-      domain: kjrh.com
+      name: ABC15 Arizona
+      domain: abc15.com
     quality: 91
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/14ef04f/2147483647/strip/true/crop/8640x4860+0+450/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F74%2F29%2Fc213131e41038c94fc27d4a87df4%2Fap22350850581649.jpg"

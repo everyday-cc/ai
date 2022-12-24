@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/startup-claims-to-accurately-
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/startup-claims-to-accurately-identify-ai-generated-content/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,61 +24,6 @@ images:
     width: 1500
     height: 844
     isCached: true
-
-related:
-  - title: "How to spot AI-generated text"
-    excerpt: "The internet is increasingly awash with text written by AI software. We need new tools to detect it. This sentence was written by an AI—or was it? OpenAI’s new chatbot, ChatGPT, presents us with a problem: How will we know whether what we read online ..."
-    publishedDateTime: 2022-12-19T10:32:00Z
-    webUrl: "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/"
-    ampWebUrl: "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/12/pencils2a_1.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Channel 4’s Christmas message to be AI-generated and delivered by a robot"
-    excerpt: "The broadcast, which will run after the King’s official BBC Christmas message at 3pm, will see the robot speak about the highs and lows of 2022."
-    publishedDateTime: 2022-12-22T07:01:00Z
-    webUrl: "https://www.aol.com/channel-4-christmas-message-ai-000100334.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 53
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/eSirVuPNAD7yJddv60e3Vg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/32a5a227bc57f0175e4e706493d8d379"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI image generators: everything you need to know"
-    excerpt: "AI image generators are the most radical new development we've seen in the visual arts for some time – perhaps since the advent of digital photography. The technology has advanced massively in the last year,"
-    publishedDateTime: 2022-12-21T10:15:00Z
-    webUrl: "https://www.digitalcameraworld.com/features/ai-image-generators-everything-you-need-to-know"
-    type: article
-    provider:
-      name: digitalcameraworld
-      domain: digitalcameraworld.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/MkLLsUGUEnNwvRRFaygwu3-1200-80.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "AI-generated book receives criticism on the internet"
-    excerpt: "Tthe story of a little girl named Alice and a robot named Sparkle who explore the frontiers of science and technology together."
-    publishedDateTime: 2022-12-19T12:04:00Z
-    webUrl: "https://www.thedailystar.net/daily-star-books/news/ai-generated-book-receives-criticism-the-internet-3200061"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 19
 
 secured: "95N1UtqeDGVLr1fEt7xkDlyqm2h5hnBbCZkBljlo2nUf67pVXKzYVwb87GFtzJB36iN6lB4gR8KotwpdTxHYJzY/XJMupeFvn3cT6VohdBKYhUGVNo1qpj8g6tba+Y60MAxPTwLZf6vghixt4e4pQBlkea0UL4LXZhX+6DaVIZYX0m+rpDgh7bwHTHqjnTAg3OtKP4UPnKQWWZWTiThtl8s8xMRIwVezyEoejOqsO4wPGw/n3NJJRJJ0iKYwbluJeSgN6Z5tfV0L2yEmONtAST5NtIMCkehelTKeMlHF27cpyuX0tcYszT7lbDIU9JOXrwBRN8sA1b12cl6QevI0M4Ja5rtqPZBw+xWd+0tE3wbGe6aOpX3WUmLOtPAarYPP2fh/9/RndU+e2FvvhSQXSqy5P7+MA7TXzSt3cDrSYVaBCrF82kpUnQo+/7g+2KV1cpfjpMzilGbBDqnn05AmXahvtTssAKS1zk8WaruHZYqB4BhQ1D3+dbTurdtxKbzKAbDZpF/18lo02k6gFrgxAw==;IGyFArwHlwxidJB15yi2Uw=="
 ---

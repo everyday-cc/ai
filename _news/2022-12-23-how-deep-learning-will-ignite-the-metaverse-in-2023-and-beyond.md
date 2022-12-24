@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/virtual/how-deep-learning-will-ignite-the-me
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/virtual/how-deep-learning-will-ignite-the-metaverse-in-2023-and-beyond/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The complexity of the data ethics dilemma in the metaverse"
+    excerpt: "Don't side-step complex, important conversations around data and how you intend to contribute to an ethically sound metaverse."
+    publishedDateTime: 2022-12-24T01:07:00Z
+    webUrl: "https://venturebeat.com/virtual/the-complexity-of-the-data-ethics-dilemma-in-the-metaverse/"
+    ampWebUrl: "https://venturebeat.com/virtual/the-complexity-of-the-data-ethics-dilemma-in-the-metaverse/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/virtual/the-complexity-of-the-data-ethics-dilemma-in-the-metaverse/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Download: metaverse ethics, and spotting AI text"
     excerpt: "I just watched Biggie Smalls perform ‘live’ in the metaverse For a moment on Friday, Biggie Smalls was the only man on stage. A spotlight shone on him in his red velvet suit, and amid pre-recorded cheers,"
     publishedDateTime: 2022-12-19T13:09:00Z

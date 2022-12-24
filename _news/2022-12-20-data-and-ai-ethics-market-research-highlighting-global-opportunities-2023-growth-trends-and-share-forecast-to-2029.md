@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-marke
 webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029-2022-12-20"
 type: article
 quality: 63
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -71,22 +71,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Insights on the Service Robotics Global Market to 2027: Featuring iRobot, Intuitive Surgical, Panasonic and Fanuc Among Others"
-    excerpt: "The \"Global Service Robotics Market, Size, Forecast 2022-2027, Industry Trends, Growth, Impact of COVID-19, Opportunity Company Analysis\" report has been added to"
-    publishedDateTime: 2022-12-19T09:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/g30124326/insights-on-the-service-robotics-global-market-to-2027-featuring-irobot-intuitive-surgical-panason"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30124326"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30124326"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 46
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-        width: 800
-        height: 313
         isCached: true
   - title: "Artificial Intelligence in Precision Medicine Market 2023 Recent Developments, Ongoing Trend & Regional Forecast to 2028"
     excerpt: "Dec (The Expresswire) -- \"\"Artificial Intelligence in Precision Medicine Market\"\" Insights 2023 | New Updated Report [ No of Pages 80 ] The"

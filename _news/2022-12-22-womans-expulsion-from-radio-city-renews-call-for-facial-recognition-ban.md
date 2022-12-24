@@ -27,14 +27,14 @@ images:
 related:
   - title: "TSA's facial recognition technology raises security, privacy concerns"
     excerpt: "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country."
-    publishedDateTime: 2022-12-23T17:57:00Z
-    webUrl: "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
-    ampWebUrl: "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
-    cdnAmpWebUrl: "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+    publishedDateTime: 2022-12-23T23:26:00Z
+    webUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
+    ampWebUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
     type: article
     provider:
-      name: kjrh.com
-      domain: kjrh.com
+      name: ABC15 Arizona
+      domain: abc15.com
     quality: 91
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/14ef04f/2147483647/strip/true/crop/8640x4860+0+450/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F74%2F29%2Fc213131e41038c94fc27d4a87df4%2Fap22350850581649.jpg"
@@ -174,6 +174,6 @@ related:
         height: 720
         isCached: true
 
-secured: "5qflO/iq4AjqmdWdItdEXsPOz4UVA9UroU8B5FieFBGKuuzqrIWJbWz8YwKj4PZPi//u54H+SIQGoRnXljggiDPsYKi13tsE79/qmQcRMpRvFTm/dLeqRbykfA+zGHu0HswilJGpdGC+hvVUnbAl6/ajI4eP+uqb2C2hB20Qq5qu86dtez20m/bBnegRWyMZuQs4RyhgHfgRA1tn1z9eNmtBn2wGyC5rIlDDtBFJ86GlS86Wm17cxgGRXFBSigJTdIMWCILZC/gIiie5a3ZNG0oTSc7S2ffNS1zDZ1iCjvpOHaHZY7RYexhZc6/+1sb+LuhgnOBfqVDTN4e/PAGCh9oXpJkU/FsMpBt1r0Gqcg4=;jo6wrcfyfURnQn5JgQmEyg=="
+secured: "Uai/FAW+derFLEzY7XE2Fff98ij8L4q8wG4w9Ywic/hBw29nqKAtQLG+WLc8ch7KrnOaL4sK2qvaLcYlMlRKzpA1wGN7ksOu8sLFGPJP3X1X/RLuCrAVkghlDoyMq7zlb1shVP9ZPjvj1U7rnX9oVGiGWMuIS0OL5B8Z2L5T4T+oIwFCf6oMHSac3Hz3aQmpzAar8HnvYXcD0FsZ91Bhztp2qIHBd1SWKrrKaHP5+WDpdYSsx+9b4IhMXCcSvEtvVg5+QYtTv1HmOWq7NLtiP6Kj1Cs/VF6rq6V4vhSHh2D6/pWT0m8VmLC4GpBQ+nN+67lLXBPqG4UsZox7L2z/Nv7Da5toRZvt2zxsOfkindzu1SxmOEaDx2EVLjXCW33td+JmoBIx6QOhZbkcg18MZGOAUs515PMejNuLq01ys+6jWAhQReF4o20UPBOiJkPBLGEzSo3DNipg5xvhBn3e6m00pfSMq5F114MB5j+MvroIenyENF8qKnHq0NSAOym+iV47Vr7OOPznRSrFRx6T6g==;WKF4gAyu76uqlEfd3IZTuQ=="
 ---
 

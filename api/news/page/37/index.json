@@ -2,6 +2,214 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2022-11-23-metas-latest-ai-can-play-diplomacy-better-than-most-humans.md",
+      "title": "Meta's Latest AI Can Play Diplomacy Better Than Most Humans",
+      "excerpt": "CICERO can negotiate, offer advice, share information, and make agreements with other players, but also knows when they are bluffing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/metas-latest-ai-can-play-diplomacy-better-than-most-humans",
+      "originalUrl": "https://www.pcmag.com/news/metas-latest-ai-can-play-diplomacy-better-than-most-humans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03xnvbPFTJ6SQUEglxTgRy5-1.fit_lim.size_1200x630.v1669136459.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T09:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-real-time-analysis-of-customer-sentiment-using-aws.md",
+      "title": "Real-time analysis of customer sentiment using AWS",
+      "excerpt": "Companies that sell products or services online need to constantly monitor customer reviews left on their website after purchasing a product. The company’s marketing and customer service departments analyze these reviews to understand customer sentiment. For example, marketing could use this data to",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/real-time-analysis-of-customer-sentiment-using-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/real-time-analysis-of-customer-sentiment-using-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/21/real-time-customer-sentiment.jpg",
+          "width": 1548,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T08:20:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-this-manta-ray-inspired-soft-robot-flies-through-the-water.md",
+      "title": "This manta ray-inspired soft robot flies through the water",
+      "excerpt": "with the ability to move 3.74 body lengths per second — a big increase over soft robots that struggle to move a single body length in that time. A second, designed for more control, moves around ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/22/this-manta-ray-inspired-soft-robot-flies-through-the-water/",
+      "originalUrl": "https://techcrunch.com/2022/11/22/this-manta-ray-inspired-soft-robot-flies-through-the-water/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/Jie-Yin-Butterfly-HEADER.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/22/this-manta-ray-inspired-soft-robot-flies-through-the-water/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/22/this-manta-ray-inspired-soft-robot-flies-through-the-water/amp/",
+      "publishedDateTime": "2022-11-22T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-how-artificial-intelligence-is-helping-improve-medical-processes.md",
+      "title": "How Artificial Intelligence Is Helping Improve Medical Processes",
+      "excerpt": "Every health center should consider the use of AI for the benefit of its processes so it can adapt to the modern world and its accelerated pace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637b9754ce792833b41a9f16/0x0.jpg?format=jpg&crop=5700,3207,x0,y206,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/amp/",
+      "publishedDateTime": "2022-11-22T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-robots-authorized-to-kill-in-sfpd-draft-policy.md",
       "title": "Robots authorized to kill in SFPD draft policy",
       "excerpt": "A remote-controlled police robot used to disarm bombs. Image from Shutterstock. Subscribe to our daily newsletter and have the latest stories from Mission Local delivered directly to your inbox. A policy proposal that is heading for Board of Supervisors ...",
@@ -923,188 +1131,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-sequoia-indias-surge-backs-health-tech-startup-redbrick-ai-in-46m-funding.md",
-      "title": "Sequoia India’s Surge backs health tech startup RedBrick AI in $4.6M funding",
-      "excerpt": "Health tech startup RedBrick AI has raised $4.6 million in a funding round led by Sequoia India and Southeast Asia’s Surge as it plans to expand the market for its medical imagery annotations ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/",
-      "originalUrl": "https://techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/medical-imagery-examine-pexels.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/amp/",
-      "publishedDateTime": "2022-11-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-stroke-patients-with-delirium-could-be-more-prone-to-developing-cognitive-and-psychiatric-difficulties.md",
-      "title": "Stroke patients with delirium could be more prone to developing cognitive and psychiatric difficulties",
-      "excerpt": "Stroke patients who experience delirium during a stroke could be more prone to developing cognitive and psychiatric difficulties. Every year approximately 9000 people are admitted to hospital with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221122/Stroke-patients-with-delirium-could-be-more-prone-to-developing-cognitive-and-psychiatric-difficulties.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221122/Stroke-patients-with-delirium-could-be-more-prone-to-developing-cognitive-and-psychiatric-difficulties.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Stroke-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20221122/Stroke-patients-with-delirium-could-be-more-prone-to-developing-cognitive-and-psychiatric-difficulties.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221122/Stroke-patients-with-delirium-could-be-more-prone-to-developing-cognitive-and-psychiatric-difficulties.aspx",
-      "publishedDateTime": "2022-11-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-teaching-photonic-chips-to-learn.md",
-      "title": "Teaching photonic chips to 'learn'",
-      "excerpt": "A multi-institution research team has developed an optical chip that can train machine learning hardware. Machine learning applications skyrocketed to $165B annually, according to a recent report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221122221305.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221122221305.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-how-spotify-trained-an-ai-to-transcribe-music.md",
-      "title": "How Spotify trained an AI to transcribe music",
-      "excerpt": "This tool uses a machine learning model to detect the different notes in an audio clip and turn it into a MIDI file.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/spotify-basic-pitch/",
-      "originalUrl": "https://www.popsci.com/technology/spotify-basic-pitch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2022/11/21/parsoa-khorsand-OhHPxRrhBIM-unsplash-scaled.jpg?auto=webp",
-          "width": 2560,
-          "height": 1755,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/spotify-basic-pitch/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/spotify-basic-pitch/?amp",
-      "publishedDateTime": "2022-11-21T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

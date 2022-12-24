@@ -43,21 +43,19 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Google building AI model to support over 100 Indian languages: Sundar Pichai"
-    excerpt: "Google, the world’s most popular search engine, is working on making text and voice internet search available in over 100 Indian langugages, its India-born CEO Sundar Pichai said on Monday. Mr. Pichai,"
-    publishedDateTime: 2022-12-19T09:47:00Z
-    webUrl: "https://www.thehindu.com/business/google-building-ai-model-to-support-over-100-indian-languages-sundar-pichai/article66282474.ece"
-    ampWebUrl: "https://www.thehindu.com/business/google-building-ai-model-to-support-over-100-indian-languages-sundar-pichai/article66282474.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/google-building-ai-model-to-support-over-100-indian-languages-sundar-pichai/article66282474.ece/amp/"
+  - title: "Google introduces AI-based solutions to ensure internet access for all Indians"
+    excerpt: "During the 8th Google for India event held on December 19, Google showcased a series of new features and is looking to leverage its AI capabilities to help ensure democratized and secure internet access to all Indians,"
+    publishedDateTime: 2022-12-20T03:24:00Z
+    webUrl: "https://www.digitimes.com/news/a20221220VL201/ai-google.html?chid=10"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 56
+      name: Digi Times
+      domain: digitimes.com
+    quality: 35
     images:
-      - url: "https://th-i.thgim.com/public/incoming/fqok6w/article66282504.ece/alternates/FREE_1200/India_Google_56217.jpg"
-        width: 1200
-        height: 790
+      - url: "https://img.digitimes.com/newsshow/20221220vl201_files/1_2b.jpg"
+        width: 1280
+        height: 851
         isCached: true
   - title: "ARTPARK-IISc Launches AI-Powered Project Vaani to Make Internet Language-Inclusive"
     excerpt: "Project Vaani intends to compile comprehensive datasets of transcribed text and spoken language from each district in India and amplify the Indian government’s ‘Digital India’."
