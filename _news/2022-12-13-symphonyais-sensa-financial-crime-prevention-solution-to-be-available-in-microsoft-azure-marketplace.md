@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Finance
 
 images:
   - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/12/SymphonyAI.63974c7b0c466.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"

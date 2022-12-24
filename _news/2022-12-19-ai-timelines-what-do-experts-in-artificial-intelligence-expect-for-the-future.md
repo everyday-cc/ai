@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://singularityhub.com/wp-content/uploads/2022/12/deepmind-unsplash-ai.jpeg"
