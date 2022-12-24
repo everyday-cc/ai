@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Google To Translate Doctor’s Handwritten Prescriptions Soon | Check Details Here"
-    excerpt: "The AI tool will be created in Google Lens that can decode badly written medical notes. The company showcased the feature during its 'AI for India' event."
-    publishedDateTime: 2022-12-19T16:41:00Z
-    webUrl: "https://www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/"
-    ampWebUrl: "https://www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 69
-    images:
-      - url: "https://static.india.com/wp-content/uploads/2022/12/google-search-2022-list.png"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google Teases AI Tool That Can Decipher Your Doctor's Messy Handwriting"
     excerpt: "The feature will allow people to upload or take a photo of a prescription to Google Lens, which will detect the medicines mentioned in the note."
     publishedDateTime: 2022-12-19T20:42:00Z
@@ -44,15 +28,15 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 49
-  - title: "Google coming with initiative which helps translate doctor's handwritten prescription"
-    excerpt: "Google announced an artificial intelligence (AI) and machine learning (ML) model that can identify and highlight medicines within difficult-to-read handwritten prescriptions"
-    publishedDateTime: 2022-12-20T18:40:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/google-coming-with-initiative-which-helps-translate-doctors-handwritten-prescription-774226"
+  - title: "Now, AI to decipher your doctor’s illegible scrawl"
+    excerpt: "Soon you may not have to scratch your head to decipher the terrible handwritten prescription given by your doctor. Coming to your rescue is tech-giant Google which is developing an Artificial Intelligence (AI) model that can decipher difficult-to-read handwriting,"
+    publishedDateTime: 2022-12-19T19:03:00Z
+    webUrl: "https://www.dailypioneer.com/2022/page1/now--ai-to-decipher-your--doctor---s-illegible-scrawl.html"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 12
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 21
 
 secured: "jHoths5YU7KRcTMCgPqZ5+ZpJPSrDoUn6zVxWc/W9GXI0sRyyAmLRw5sNv3AKEQFt2OzjiJt2H8XUU5UhGyUJubB69Vf6KckIpRaY2AxnMqUGJTZopJI94dy6mIfyYC9PqqcMKMuawk8wavNo1kDtir+44Vws1M7Nbrpoo1Yo/jwzcoqpNRdPJC5UKe6In3yfEUcAWVE0J6mYVSdURRWjHXEcctcD+/TJACB3AY+aQnU0RG1SHlIWRONHqeIsrx56aWQKZdhl8QYGinYgD8AXP7X/GMkdrP8j0ep1DA8/dysNd4v+mBula6HlZhzE2p/q1LRnfKTbPxoX//5O0a6/o2FHRx72+5bg6JD4PTiWG0FuOzaWAuMF3+gWsa3Vg0/e8MD3Wb7DRw8Ic7+jKGDwvtoN0viiL70TGCFrBr1OfSW49jueBC2AbPYsVqgZT5Ib4WnuMoOD54kXDA+YyRUbwJXmAjwn1YDv7Bmg3Oy27H1si4JaOQmKPoi7Mx5zflJQrD5NcHbErhXicKZYqbo7A==;5wlk4aSP+7aYD4tOiby4Jw=="
 ---

@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI-based data analytics enable business insight"
-    excerpt: "For the music industry, it creates tremendous opportunities to collect, analyze, and monetize data about our listening habits. That was the directive SK Sharma was given in 2016, when he was hired as chief analytics and AI officer by Ingrooves Music Group,"
-    publishedDateTime: 2022-12-19T16:22:00Z
-    webUrl: "https://www.technologyreview.com/2022/12/19/1064921/ai-based-data-analytics-enable-business-insight/"
-    ampWebUrl: "https://www.technologyreview.com/2022/12/19/1064921/ai-based-data-analytics-enable-business-insight/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/19/1064921/ai-based-data-analytics-enable-business-insight/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/12/MIT_Hitachi_Cover_hires.png?w=2584"
-        width: 2584
-        height: 2000
-        isCached: true
 
 secured: "CJvoVzWu4aB2AC69ouCFFNfy8SyNB2KJ+Xpe7VqU3XK98jIQgesQySw0U1jZxg+H3bGsJ5IzA3tUbBThmaxjPJ+ccTG3ilckRd0GFvghI2IUiCrcSzep4bt5DF/d2DBZVLdTlkSg4tptkQovMm/yHjpgL8YMmJVYkqObH8Wv/EYO46Pa4vFWrQwqjttTmaUu3zFM666FFOymA32yIZGldMU70HL72afNPXa9yRY+TW7PocrRWhSSt7lxSW+cFBv57Id7ewOc8zV/Oumb29P0wPUDTPmwHjLS87w8APD63t5qpCkIFR2MZoVvjeW6C/NMfwkRoopRpPjSrRZ86u8si3Z9zU/z5jmskFMO1gKczDh9cRH6Lnongs+BcJXlWYFkQ8CVIWott/gwy/yaeuML6GeUU0qJvkEYfqIK4dgL8nyOyoJJq9161SOUoKs6MEu5WyiqkEYKFhtnbun3XoOA2WmR/qlRBBOfYyx5FYwn744y8kggxrB7/N0CuU3kuR8Hlv1tNvZd5P1S1HDngyKuTw==;OAmiBYL7ELe7FsbxCoN5nA=="
 ---

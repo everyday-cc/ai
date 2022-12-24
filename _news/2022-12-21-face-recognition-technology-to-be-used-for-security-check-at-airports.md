@@ -28,47 +28,19 @@ images:
 related:
   - title: "TSA's facial recognition technology raises security, privacy concerns"
     excerpt: "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country."
-    publishedDateTime: 2022-12-23T23:26:00Z
-    webUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
-    ampWebUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
-    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+    publishedDateTime: 2022-12-23T17:57:00Z
+    webUrl: "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
+    ampWebUrl: "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
     type: article
     provider:
-      name: ABC15 Arizona
-      domain: abc15.com
+      name: TMJ4
+      domain: tmj4.com
     quality: 91
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/14ef04f/2147483647/strip/true/crop/8640x4860+0+450/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F74%2F29%2Fc213131e41038c94fc27d4a87df4%2Fap22350850581649.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "TSA trying out facial recognition system at several new airports"
-    excerpt: "It is the new technology facing travelers as they fly for the holidays. RELATED: How does facial recognition technology work? The Transportation Security Administration is now scanning your face at select airport checkpoints as part of a growing test with passengers as the subjects."
-    publishedDateTime: 2022-12-19T15:34:00Z
-    webUrl: "https://abc13.com/airport-facial-recognition-tsa-technology-search/12588271/"
-    type: article
-    provider:
-      name: abc13
-      domain: abc13.com
-    quality: 54
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12588274_121822-wls-face-recognition-img.jpg?w=1600"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "US Airports to use facial recognition technology"
-    excerpt: "There’s a good chance that many people traveling for the holidays through some of the nation’s busiest airports will have their faces scanned."
-    publishedDateTime: 2022-12-19T15:42:00Z
-    webUrl: "https://kyma.com/news/national-world/2022/12/19/us-airports-to-use-facial-recognition-technology/"
-    type: article
-    provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 54
-    images:
-      - url: "https://kyma.b-cdn.net/2022/12/MGN_1280x960_00614B00-AHZFO.jpg"
-        width: 1280
-        height: 960
         isCached: true
   - title: "TSA expands use of facial recognition airport pilot program"
     excerpt: "The Transportation Security Administration is now scanning your face at select airport checkpoints, part of a growing test with passengers as the subjects. Pete Muntean reports."

@@ -2,19 +2,19 @@
 category: news
 title: "TSA's facial recognition technology raises security, privacy concerns"
 excerpt: "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country."
-publishedDateTime: 2022-12-23T23:26:00Z
-originalUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
-webUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
-ampWebUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
-cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+publishedDateTime: 2022-12-23T17:57:00Z
+originalUrl: "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
+webUrl: "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
+ampWebUrl: "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
 type: article
 quality: 91
-heat: 182
+heat: 161
 published: true
 
 provider:
-  name: ABC15 Arizona
-  domain: abc15.com
+  name: TMJ4
+  domain: tmj4.com
 
 topics:
   - Computer Vision
@@ -41,34 +41,6 @@ related:
       - url: "https://static-images.vnncdn.net/files/publish/2022/12/21/face-recognition-technology-to-be-used-for-security-check-at-airports-e64411183bc1457dba5508e8aee7a37f.jpg"
         width: 560
         height: 380
-        isCached: true
-  - title: "TSA trying out facial recognition system at several new airports"
-    excerpt: "It is the new technology facing travelers as they fly for the holidays. RELATED: How does facial recognition technology work? The Transportation Security Administration is now scanning your face at select airport checkpoints as part of a growing test with passengers as the subjects."
-    publishedDateTime: 2022-12-19T15:34:00Z
-    webUrl: "https://abc13.com/airport-facial-recognition-tsa-technology-search/12588271/"
-    type: article
-    provider:
-      name: abc13
-      domain: abc13.com
-    quality: 54
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12588274_121822-wls-face-recognition-img.jpg?w=1600"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "US Airports to use facial recognition technology"
-    excerpt: "There’s a good chance that many people traveling for the holidays through some of the nation’s busiest airports will have their faces scanned."
-    publishedDateTime: 2022-12-19T15:42:00Z
-    webUrl: "https://kyma.com/news/national-world/2022/12/19/us-airports-to-use-facial-recognition-technology/"
-    type: article
-    provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 54
-    images:
-      - url: "https://kyma.b-cdn.net/2022/12/MGN_1280x960_00614B00-AHZFO.jpg"
-        width: 1280
-        height: 960
         isCached: true
   - title: "TSA expands use of facial recognition airport pilot program"
     excerpt: "The Transportation Security Administration is now scanning your face at select airport checkpoints, part of a growing test with passengers as the subjects. Pete Muntean reports."
@@ -159,6 +131,6 @@ related:
         height: 720
         isCached: true
 
-secured: "CY/eFWP4y0IXajU/Kf3McHRpDY8RtKXksslnJ/pjXfwgCl+V6QF0nkrkqIZpMemiuW7KKWeufdkB41ccPgTSNIX/J6DMC1EBY6+Zd0KzhP5d4QZG4fXv32Fe/v8j/tk3wnmoLt0RpXoa4p9AAO5EjdmNBa+LsSSv+5hmM1aEUv1eKKrbmp0XXBl7g+LomGCPtx3ggl3aWdWvbCzRLLjLXx8Ku66/ENP4lYOKnInOKGpm1SYowCoB1TXZTxR5r7ANMi8hW88jAy3IXmSDMLDCn5tbVO5D+SlDuRMg/5HmQEll/0qMKQuGVXzgdt3y8DH7O3pgKNoyiptzO5YueyvJ7/uUgYqTYRDC+ra9L2jyburG7AwNXJl3nNXUg/Pbq0qQHBJxN89c38Et3cjEWhIr7qXGLTPbqiZWk4bUDD8eE0oZDnVgRjNXHVdk9ehGTiT8DWnmrZ8M2iGz6REOThtXig7TDquqZHq8gCxj//diJz7Ys8t8sovORN1mGpCsoZmWaJtdWr4ONLMzXUETTuUvBA==;Kmq2bPkI4LYPyHaxJPqwIQ=="
+secured: "5B6qtYta7rGOnlWX1km/6ZLwpOn9ctj2Lo3+i3j/4QWRyJe69SKSug1n7cY0PdEgy3CZ8Vi6Csu4n/sRFjK4VUjZHGOgmHccDEJZnHdfTfOemFR8p0N1ZhXmhn4B0t2IGs8nSP4C1mfgmSsY8bQujdGwwwuJqKLMqk/q9DnbT3wnZZm54iNQTStQqDDhqNngcDcFND2e5WswnYHVI+tZOWCHHsnZL4jSutYfIP/4ka/TEWEeTthhG/RbKaVhJoehPjl+4U/3smWY7hwibih101s23pXTKkuaDSBHha8FB7abmXTNFhhr1i1MavC/gWgoNOd4D99vqJycdu3qOl5rRsOB/Ku6m5nkmWgaFiG3Y78=;tWtsHaETLS94XRoCwj6lIw=="
 ---
 

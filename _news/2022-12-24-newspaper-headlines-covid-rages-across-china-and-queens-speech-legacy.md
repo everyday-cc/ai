@@ -3,8 +3,8 @@ category: news
 title: "Newspaper headlines: Covid rages across China and Queen's speech legacy"
 excerpt: "It also trails King Charles III's speech - his first since becoming monarch in September. The Financial Times leads with Covid cases in China being much higher than what is being reported officially by Beijing."
 publishedDateTime: 2022-12-24T04:13:00Z
-originalUrl: "https://www.bbc.co.uk/news/blogs-the-papers-64083405?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/blogs-the-papers-64083405?at_medium=RSS&at_campaign=KARANGA"
+originalUrl: "https://www.bbc.co.uk/news/blogs-the-papers-64083405"
+webUrl: "https://www.bbc.co.uk/news/blogs-the-papers-64083405"
 ampWebUrl: "https://www.bbc.co.uk/news/blogs-the-papers-64083405.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/blogs-the-papers-64083405.amp"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 576
     isCached: true
 
-secured: "AyTEQ17YC2Qfl7vU1ujWW5lAEXqNXkEfJDkcU/HK56t1JhndW4StfBj047WF4uzYKtR/ql6bHneAo0joxoQvvo/3uVnE0bc4qVM4JKSs1MeVRt987I+HewYJQa3g2UOi5it0bCyhVNnrFNwEz4wvJvPCP9rgw6+qt0HOa/FcW/XOF8403hVZIg07vwXs9Qq3wetpCPscyHQmP8RQO5fhUUGTCHGXN/d/TNY5k/jHJMPTvsSm3V3hIDHNICcZiwLTf4/KqHXmpPFdrTe21f1nNhFj5VJQSEE143U44GtXGS3wKBUK4kqitaLwFItwMqIfHO65jW27THM0V3wPZ2mtJw3BB8gxK5cmfDTMFH59z3g=;aX9XVldiQq0JiYH7k2yBEg=="
+secured: "jopXkMMeITPeAiDpNvENSrc7gVinL+dGRktAUmJhpQuxpohzIaJMuRpYK+nNZxSQ2Q1S6p+c4k7lPA1MOX5mgHyns1P1H/2vcf2t711DcENj9aAaiFFcxU/DSx9w5Lx/xFVbhIpQs7KwQHP1ZuTUuiTWzDJeRjHsCZ7e0upsRQbQ135vT0PGzxXuD7xMPae3PVn/Mdh/Q3upULIbIKX1MNGDdT5Mm3+Vi9nLswu+b9S3wwsRju/d4j6+XGMW7L+w2HHXorLZF8px4FhdNTE+vh0TZQkhArgiamYiqWDcWwhO2wKzBloRBa/nUu9rPBL7gdsbQzRq663ufKQLQj4h37u0IcrDZjWDhGou4l9I2Dw=;lXgDDRrlpcxQZckufTxTTA=="
 ---
 

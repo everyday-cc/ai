@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/sc/how-analytics-and-ai-can-help-y
 webUrl: "https://www.businessinsider.com/sc/how-analytics-and-ai-can-help-you-build-a-better-customer-experience"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based data analytics enable business insight"
-    excerpt: "For the music industry, it creates tremendous opportunities to collect, analyze, and monetize data about our listening habits. That was the directive SK Sharma was given in 2016, when he was hired as chief analytics and AI officer by Ingrooves Music Group,"
-    publishedDateTime: 2022-12-19T16:22:00Z
-    webUrl: "https://www.technologyreview.com/2022/12/19/1064921/ai-based-data-analytics-enable-business-insight/"
-    ampWebUrl: "https://www.technologyreview.com/2022/12/19/1064921/ai-based-data-analytics-enable-business-insight/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/19/1064921/ai-based-data-analytics-enable-business-insight/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/12/MIT_Hitachi_Cover_hires.png?w=2584"
-        width: 2584
-        height: 2000
-        isCached: true
   - title: "Data science and analytics startup Tredence raises $175M to solve AI’s last-mile problem"
     excerpt: "Data science and artificial intelligence solutions startup Tredence Inc. said late today that it has closed on a bumper $175 million funding round led by Advent International. The company said it will use the funds from today’s Series B round to accelerate data-fueled growth and AI value realization for multiple industries."
     publishedDateTime: 2022-12-23T01:07:00Z
