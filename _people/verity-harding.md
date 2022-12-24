@@ -10,7 +10,7 @@ website: https://t.co/7skid8sUXc
 twitter:
   username: verityharding
   url: https://twitter.com/verityharding
-  followers: 2559
+  followers: 2560
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Verity_Harding
@@ -25,6 +25,6 @@ images:
     isCached: true
     title: "Verity Harding"
 
-secured: "scuafSPxbJWLPi5fNstccmyn22km7MOO+6W7YAlz4dDP2cKsBEr0lTCNiHjX5DwqQfHXxi2AGt64q/G7WMbJbjGkDuCxKRUf+5cUpZ0bF/R9pAESLROUMpcHX19/A/A3qXekioqZQtPitfrUJ0hF8FyXoZei7Vx6slBDiuNqgLWyIOZEXyydZhA/lNeo4t5+I8EuD+NBQT3iCNFJeWyuToBmsh5GCz9XQmoEUTz1IA/OAnXbpnZ9Ql2AwqnFDpOm1Ny8tt5ZMMuCJ2PdUdQhGHpzSlv8I67Uur6o0EOOZ5uI/SPHK6hJI1JD305RMYDk7UEr8JNvChDz5EbYDE9lKOENfylem9O4OJY/sSLGP1/dZXu3fboZD1UJLEwWSEv/gjxj+2uMsF5S68t17rqDTAzYfC5mVqpLRToNR/P6VQI=;R6zVLObKpz82iaDQt1gCaw=="
+secured: "cXSNYTDggZGXYccgX+U+DtIUKM7Pt4oPnloi/hm1jJdz3SE96jbp61j8XP13txnle28lRVGspTWPJk0X8Kj0tjTCNY64WVnp4G3Q72JpdVsYUEVRPMIRzXkfGI3wDZqSTe2yuFvSWGVL52mJtCsW78x7brUo94rU3QnDRiMDwAHNf2vczUhypvPOfE0lqki535okTS02jLjAQ/Ys2e1BUeOZHcUEcDDgrB4oKuBKtUSynWMTDitgfr5VxOXxcrUlQ0IXbg9EqrjQ1XDDcGuSGyUvlIPueckCcWHfcru6EX/J5t8yv1nlZrj6eog8ikI85rSTIKFwJvAiPo6kTcjNGp4Y/poyAT5/LSEnDF0anfhMX/D9K92M6MJ30JY7ihFtSHGy1UDCzKBkqgg5S3j65cYJJBwLAZozYVOnGJx80xQ=;r82h6Qp0kGXox7VGO89GEA=="
 ---
 
