@@ -7,7 +7,7 @@ originalUrl: "https://www.marinelog.com/technology/sea-machines-and-uscg-partner
 webUrl: "https://www.marinelog.com/technology/sea-machines-and-uscg-partner-on-computer-vision-domain-awareness/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 262
         height: 400
         isCached: true
-  - title: "Sea Machines Installs AI-ris Computer Vision Product on a USCG Cutter"
-    excerpt: "Boston-based maritime autonomy and perception systems company Sea Machines Robotics, Inc, announced it has installed its new"
-    publishedDateTime: 2022-12-19T20:46:00Z
-    webUrl: "https://www.marinelink.com/news/sea-machines-installs-airis-computer-501693"
-    type: article
-    provider:
-      name: Marine Link
-      domain: marinelink.com
-    quality: 34
 
 secured: "eLopiy71eE7TRdpTvUvrwJtSZPs/uSiQAyGpecYpP4qqT/uO5RO34z+MlQmk8y+C6Z822kwzm/pCc7JP/VTXvhc1FH7/NhT70FqdeNOdXGBEZft5wL6gOMg61VoVGzJrE6JYBGVthqZBwO8/8JD4L06t398AY8smQxiTRtO8ziNkMdqJtsGhwx173c6kIM0dGVaNQN7Lu05cwy9PbiqRfalJVlf9pmrF6KaNm+eNXOtXs9FWqov8Jjs0L/HuWGUrE4A02MPgh095/oRWOMBkIovf2/EPUEXU2swtaoSPhWXG3QhVBK8Wri1XJAK/ewPof96nforCtdQhfgR/XQQUx11YMLnUb+RgzNRwsp7PIBy+eifitcsrbAv+a8Bo7OXj9oPhlb6nP+3ufUNOi0lU1P8sPPwM3xi6JaJmS/UomojrBiQR6QytRwe5EeSl7FlthuHip5LM1K8SOrZSaTFyQnP2i4joFLQ6fUZFxAfwJ46+7hKto+5AggmSl5+i8th/aU8s4K9ABXWxz8EfvP7ZOg==;Zh/ufZ42xEcEWG9MSwXysw=="
 ---

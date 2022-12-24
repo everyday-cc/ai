@@ -3,11 +3,13 @@ category: news
 title: "Human Bytes signs an agreement for computer vision with Kepler Vision"
 excerpt: "Human Bytes have signed a strategic partnership with Netherlands-based Kepler Vision, who offers one of the most widely used computer vision technologies for fall detection across Europe.One of"
 publishedDateTime: 2022-12-22T10:28:00Z
-originalUrl: "https://www.sourcesecurity.com/news/human-bytes-signs-agreement-computer-vision-co-1642600554-ga-co-1671692518-ga.1671696494.html"
-webUrl: "https://www.sourcesecurity.com/news/human-bytes-signs-agreement-computer-vision-co-1642600554-ga-co-1671692518-ga.1671696494.html"
+originalUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/human-bytes-signs-agreement-computer-vision-co-1642600554-ga-co-1671692518-ga.1671696494.html"
+webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/human-bytes-signs-agreement-computer-vision-co-1642600554-ga-co-1671692518-ga.1671696494.html"
+ampWebUrl: "https://www.sourcesecurity.com/amp/news/human-bytes-signs-agreement-computer-vision-co-1642600554-ga-co-1671692518-ga.1671696494.html"
+cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/human-bytes-signs-agreement-computer-vision-co-1642600554-ga-co-1671692518-ga.1671696494.html"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +20,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "shNoAzAxDAxuDP+NY363Hz8Dh8eUKaph7TNzCbfyMG4z4q6PUlXKC9FO5KY808FkCyJUxp5AIC7d4UPoChadmXwH9XkYoKYBtsNoq5eW3hmHrARAmopi4ExBfY0jz83Mpm56Nka8Tty/UjRR0yR0eFD/FJFYeqgZJMIr4KROCAnGCeBl48BRheedIDzUBRBY5uxxoWVuZBpY850MJMDZ4J0Z0/oCbJff8lcgr+PVpBNU9IuSb09R4Sd9MXq7EFRghec7onVQni+0QdIqU6/UjXr1sfQmFID3/1BuPMgvHeSOE4nJz+jT0szMD1vZ0x0fLUYaPm0lH7US5jZUHgNNgjGcZ/yeB+fUE64H1WqPhlZHdRyEYeCCZ8pZ6/8R3FrX2GgTjiIWEqD/nvyhvcB/ItITWMyxY+cVxkGTJOcxlNF9Ag1cifcPwjaKak8s0AV55Dd/Ey9BdwTkHeWVIOnB7XvfSlWIncn/lbB+mzInhMofV5OPU7rFe2kNdliFnjSNV6HDoarH7ulpFkDVXLAZnQ==;oSKmt0dpy10afUwUdedPjw=="
+secured: "JwHckAua+5GizUjQKUmJmhW0Wl0PT1pgbp0v3JKw0/HPQb/2s/BjdBeXBra9f5HbTDkbi0IHMJ0xguH3eRSRxSgSghbpCe4toYI6Vb+rSS3Z+HmkDpbLjOTFL73FWqhWRKAeCyRjjRXueiIAJpRe8/MP8WKJs3pIsf8uvjSZmJRlBB7lAsGVyvWN47j5QZNS5bFwFuK34kVzxJY+88eFRhprv8Pb6WnzzPYix0ik4oR6mT1iXGegmSyjqt7QPZlhNewgXcKlWJkCinBOZ4sWKkyHXQLRbFy7bZ/woeWiKs+NhNVlmOyKYgTEpwxWQnFWgXbLjIDdERQ3z1HHRM25fgwqa3a+Ge8SltH7wvXP7PM3An9B9huyPb+JpJK6IUC18hUXrTwsWIiKru+W/jKIn0hjueu9eULuKs0pIuUbWlIRfMLREbQBIbdH9IPfaFHw7Zs1Te/GMqVtNGhpVw7xVHNdHK1C7gG64hzXu1rnAoF+E1D5VzvXHEWNKXtovL0Fv9A9ZNjkM1gbQt7OI14yVg==;TCZ0WRKKiiby4k/NynWSdQ=="
 ---
 

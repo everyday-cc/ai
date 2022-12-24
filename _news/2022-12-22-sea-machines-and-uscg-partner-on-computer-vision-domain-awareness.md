@@ -53,15 +53,6 @@ related:
         width: 262
         height: 400
         isCached: true
-  - title: "Sea Machines Installs AI-ris Computer Vision Product on a USCG Cutter"
-    excerpt: "Boston-based maritime autonomy and perception systems company Sea Machines Robotics, Inc, announced it has installed its new"
-    publishedDateTime: 2022-12-19T20:46:00Z
-    webUrl: "https://www.marinelink.com/news/sea-machines-installs-airis-computer-501693"
-    type: article
-    provider:
-      name: Marine Link
-      domain: marinelink.com
-    quality: 34
 
 secured: "YmTwUaq9vosHo/YOTLWXvMYimXDBCM2/ncY92DE9Isz8xy19ygdb2V4QQvosUk3mDrFZ45tat3QB0Ap7TbhHeBFvLiM/2bjGyu/6l9c9fOYqan26lgr3kqHfFe1tBEjVRmS08iqi68vkTSqvSIxacYbvHDIWXj5p3WqQEYZrNLk2Swa9ZB9I9tYl9pCW0SYJhcJis1NwBtGBasil392g7bngURFngmdXvAaZD1aHwFl+0qDtxFMeLHcZx6p8pCafzPXd2LL1yVP932HAhcA0PbKgpFJA0+a6RVD+dJqeUFGFlkxP8TGoQf4pgK1JAlNXu0REsxxWjAHoQ8vT4IVNU3RloWQGegP3eIQ88MBWbPD7SWKmD5O2Wg7immS77t1qJoZ896T9VabBTMDTQbMSfqLXcQqOOe5tc2WlVOpFoBbyNZgr+MOJHOcDIuJloe24Cjbe586//jppoEhcfvq/sEJFLZKyJKn6lGb9ubApuEsW9ugCyydO7duXdsezrz/2kxR5I9F4baX1NWgg9ZdP2A==;Ho0x6qRWXoPxjb30MJ50jQ=="
 ---

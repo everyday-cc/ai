@@ -7,7 +7,7 @@ originalUrl: "https://www.extremetech.com/electronics/341674-google-is-developin
 webUrl: "https://www.extremetech.com/electronics/341674-google-is-developing-an-ai-that-can-transcribe-doctors-chicken-scratch"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -19,24 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Google Teases AI Tool That Can Decipher Your Doctor's Messy Handwriting"
-    excerpt: "The feature will allow people to upload or take a photo of a prescription to Google Lens, which will detect the medicines mentioned in the note."
-    publishedDateTime: 2022-12-19T20:42:00Z
-    webUrl: "https://www.pcmag.com/news/google-teases-ai-tool-that-can-decipher-your-doctors-messy-handwriting"
+  - title: "Google coming with initiative which helps translate doctor's handwritten prescription"
+    excerpt: "Google announced an artificial intelligence (AI) and machine learning (ML) model that can identify and highlight medicines within difficult-to-read handwritten prescriptions"
+    publishedDateTime: 2022-12-20T18:40:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/google-coming-with-initiative-which-helps-translate-doctors-handwritten-prescription-774226"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 49
-  - title: "Now, AI to decipher your doctor’s illegible scrawl"
-    excerpt: "Soon you may not have to scratch your head to decipher the terrible handwritten prescription given by your doctor. Coming to your rescue is tech-giant Google which is developing an Artificial Intelligence (AI) model that can decipher difficult-to-read handwriting,"
-    publishedDateTime: 2022-12-19T19:03:00Z
-    webUrl: "https://www.dailypioneer.com/2022/page1/now--ai-to-decipher-your--doctor---s-illegible-scrawl.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 21
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 12
 
 secured: "jHoths5YU7KRcTMCgPqZ5+ZpJPSrDoUn6zVxWc/W9GXI0sRyyAmLRw5sNv3AKEQFt2OzjiJt2H8XUU5UhGyUJubB69Vf6KckIpRaY2AxnMqUGJTZopJI94dy6mIfyYC9PqqcMKMuawk8wavNo1kDtir+44Vws1M7Nbrpoo1Yo/jwzcoqpNRdPJC5UKe6In3yfEUcAWVE0J6mYVSdURRWjHXEcctcD+/TJACB3AY+aQnU0RG1SHlIWRONHqeIsrx56aWQKZdhl8QYGinYgD8AXP7X/GMkdrP8j0ep1DA8/dysNd4v+mBula6HlZhzE2p/q1LRnfKTbPxoX//5O0a6/o2FHRx72+5bg6JD4PTiWG0FuOzaWAuMF3+gWsa3Vg0/e8MD3Wb7DRw8Ic7+jKGDwvtoN0viiL70TGCFrBr1OfSW49jueBC2AbPYsVqgZT5Ib4WnuMoOD54kXDA+YyRUbwJXmAjwn1YDv7Bmg3Oy27H1si4JaOQmKPoi7Mx5zflJQrD5NcHbErhXicKZYqbo7A==;5wlk4aSP+7aYD4tOiby4Jw=="
 ---

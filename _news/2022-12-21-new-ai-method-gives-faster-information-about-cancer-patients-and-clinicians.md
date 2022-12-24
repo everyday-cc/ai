@@ -73,15 +73,6 @@ related:
         width: 629
         height: 820
         isCached: true
-  - title: "AI better than human eye at predicting brain metastasis outcomes"
-    excerpt: "A recent study suggests an innovative artificial intelligence (AI) technique they developed is considerably more effective than the human eye when it comes to predicting therapy outcomes in patients with brain metastases."
-    publishedDateTime: 2022-12-19T20:16:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/12/221219124004.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "yXB82WOtkNj6szYwP7hHIVhGOEKMFFzD8juQpHotoWSvpze6EofVKw8HW7rURNm9asV9CmhsgKOiLxwXccgfTaHafWu5ixlMV2ARnPGM2jFaYfC2ig2+4kjyyh2+naMk53y3HaJWkNfOIYhZU857NIlWhK2FI7kNL1EAhpjhNNKY7A6fiH+FTYRKrZoZXHMIo/HFJ7I0v6Q3o6Vc52tXgbYxblBBvNslUir7K2WHe60GuCjjMu/sLfpUAGbWu24lDIrh2o1nOMR6fhC5M66mn2zZFI6Q9fcwJxuY0umQafBmA8QS1jDkqTYFm+UzsMP9v5FOu72yUzql8QcfnJru06bF/L677+Yj7dbp8yKW8gL+0IH6F2QKODxPJ8PQTdtm5SrKZfyn6SBy5PPJo4zuidusDC+vIUdVtRRKvnHrlNlwm3ZTLiCrnd+l3iN4rk0BTmcSSMkZCafRlvDPruUppXLvlAP8zJP2WU0Hmq13YtInXzDuC60X203OHiquk76QUqkzNRfTas7wBVkHbJRdeQ==;DHTuPuwFUEQYx3fBK8zF4w=="
 ---

@@ -91,15 +91,6 @@ related:
         width: 1063
         height: 609
         isCached: true
-  - title: "From DALL-E 2 to ChatGPT, covering AI’s wild year | The AI Beat"
-    excerpt: "From DALL-E 2 to ChatGPT, the AI beat was challenging and overwhelming in 2022. It's been humbling. And awesome."
-    publishedDateTime: 2022-12-19T19:58:00Z
-    webUrl: "https://venturebeat.com/ai/from-dall-e-2-to-chatgpt-covering-ais-wild-year-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Quora launches Poe, a way to talk to AI chatbots like ChatGPT"
     excerpt: "At launch, Poe provides access to several text-generating AI models, including ChatGPT. (OpenAI doesn’t presently offer a public API for ChatGPT; the Quora spokesperson refused"
     publishedDateTime: 2022-12-21T19:43:00Z
@@ -146,15 +137,6 @@ related:
         width: 770
         height: 496
         isCached: true
-  - title: "AI Platforms like ChatGPT Are Easy to Use but Also Potentially Dangerous"
-    excerpt: "Systems like ChatGPT are enormously entertaining and even mind-bogglingly human-sounding, but they are also unreliable and could create an avalanche of misinformation"
-    publishedDateTime: 2022-12-19T20:41:00Z
-    webUrl: "https://www.scientificamerican.com/article/ai-platforms-like-chatgpt-are-easy-to-use-but-also-potentially-dangerous/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 16
   - title: "The Architecture Trends of 2023 According to ChatGPT, an AI-trained Model Bot"
     excerpt: "As a symbol of what AI could achieve in the short term for architecture and humankind, we have 'talked' with OpenGPT about the architecture trends of 2023."
     publishedDateTime: 2022-12-21T13:01:00Z
