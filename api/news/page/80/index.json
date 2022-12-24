@@ -2,101 +2,6 @@
   "page": 80,
   "value": [
     {
-      "path": "_news/2022-10-17-local-racer-involved-in-crash-at-findlay-stadium-stateline-speedway-died-on-sunday.md",
-      "title": "Local racer involved in crash at Findlay Stadium Stateline Speedway died on Sunday",
-      "excerpt": "POST FALLS, ID. — A local racer was involved in an crash during a race at Findlay Stadium Stateline Speedway died on Sunday. Scott Eldredge got in the crash Saturday night. Findlay Stadium ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxly.com/local-racer-dies-from-crash-at-findlay-stadium-stateline-speedway/",
-      "originalUrl": "https://www.kxly.com/local-racer-dies-from-crash-at-findlay-stadium-stateline-speedway/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kxly.com/content/uploads/2022/10/l/m/scott-eldredge.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-16T17:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXLY 4 News",
-        "domain": "kxly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-artists-say-ai-image-generators-are-copying-their-style-to-make-thousands-of-new-images-and-its-completely-out-of-their-control.md",
-      "title": "Artists say AI image generators are copying their style to make thousands of new images — and it's completely out of their control",
-      "excerpt": "Rutkowski has become one of the most popular names in AI art, despite never having used the technology himself. People are creating thousands of artworks that look like his using programs called ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-image-generators-artists-copying-style-thousands-images-2022-10",
-      "originalUrl": "https://www.businessinsider.com/ai-image-generators-artists-copying-style-thousands-images-2022-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/634aab0d410f430018147182?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-image-generators-artists-copying-style-thousands-images-2022-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-image-generators-artists-copying-style-thousands-images-2022-10?amp",
-      "publishedDateTime": "2022-10-16T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-17-aws-to-launch-an-infrastructure-region-in-thailand.md",
       "title": "AWS to Launch an Infrastructure Region in Thailand",
       "excerpt": "(NASDAQ:AMZN), today announced plans to open an infrastructure Region in Thailand. The new AWS Asia Pacific (Bangkok) Region will consist of three Availability Zones, adding to the existing 87 Availability Zones across 27 geographic regions.",
@@ -1171,6 +1076,110 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-encode-multi-lingual-text-properties-in-amazon-neptune-to-train-predictive-models.md",
+      "title": "Encode multi-lingual text properties in Amazon Neptune to train predictive models",
+      "excerpt": "Amazon Neptune ML is a machine learning (ML) capability of Amazon Neptune that helps you make accurate and fast predictions on your graph data. Under the hood, Neptune ML uses Graph Neural Networks (GNNs) to simultaneously take advantage of graph structure and node/edge properties to solve the task at",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/encode-multi-lingual-text-properties-in-amazon-neptune-to-train-predictive-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/encode-multi-lingual-text-properties-in-amazon-neptune-to-train-predictive-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/encode-multi-lingual-neptune-to-train-models.jpg",
+          "width": 1551,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-14T10:47:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-herschel-walker-raphael-warnock-face-off-in-a-only-debate-with-senate-control-on-the-line.md",
+      "title": "Herschel Walker, Raphael Warnock face off in a only debate with Senate control on the line",
+      "excerpt": "First-term Democratic Sen. Raphael Warnock of Georgia and Republican challenger Herschel Walker face off Friday night in Savannah in their first and only debate",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/herschel-walker-raphael-warnock-face-off-crucial-debate-senate-control-line",
+      "originalUrl": "https://www.foxnews.com/politics/herschel-walker-raphael-warnock-face-off-crucial-debate-senate-control-line",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23c19001-6ddd-4dbd-8c19-98d654bf9134/1959816a-6bf8-4889-a388-19c8eb918806/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/herschel-walker-raphael-warnock-face-off-crucial-debate-senate-control-line.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-raphael-warnock-face-off-crucial-debate-senate-control-line.amp",
+      "publishedDateTime": "2022-10-14T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

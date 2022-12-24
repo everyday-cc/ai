@@ -93,6 +93,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Software Market Research Highlighting Global Opportunities 2023 | Growth Trends and Share Forecast to 2029"
+    excerpt: "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Artificial Intelligence"
+    publishedDateTime: 2022-12-23T05:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029-2022-12-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Autonomous Vehicles Market Growth and Global Share 2023 | Developing Regions, Emerging Trends and Industry Size Forecast to 2029"
     excerpt: "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Autonomous Vehicles Market”"
     publishedDateTime: 2022-12-22T08:30:00Z

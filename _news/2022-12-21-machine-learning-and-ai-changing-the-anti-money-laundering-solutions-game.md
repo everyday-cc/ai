@@ -20,21 +20,19 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Pointedly Asking Generative AI ChatGPT About Whether Santa Claus Is Real Proves To Be Eye-Opening, Including For AI Ethics And AI Law"
-    excerpt: "I went ahead and asked the popular generative AI app ChatGPT about whether Santa Claus is real or not. Doing so provides a bonanza of AI Ethics and AI Law considerations. Enjoy this during especially during the upcoming holidays!"
-    publishedDateTime: 2022-12-21T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/21/pointedly-asking-generative-ai-chatgpt-about-whether-santa-claus-is-real-proves-to-be-eye-opening-for-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/21/pointedly-asking-generative-ai-chatgpt-about-whether-santa-claus-is-real-proves-to-be-eye-opening-for-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/12/21/pointedly-asking-generative-ai-chatgpt-about-whether-santa-claus-is-real-proves-to-be-eye-opening-for-ai-ethics-and-ai-law/amp/"
+  - title: "People are using this AI robot to write Hinge responses and the messages are shockingly good"
+    excerpt: "So, in a desperate attempt to keep conversation interesting, everyone on TikTok lately has been using the AI chat bot ChatGPT to flirt with their matches on Hinge and Bumble and, surprisingly, the messages robots have been churning out are actually pretty good."
+    publishedDateTime: 2022-12-19T16:46:00Z
+    webUrl: "https://thetab.com/uk/2022/12/19/chat-gpt-chat-bot-286778"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
+      name: The Tab
+      domain: thetab.com
+    quality: 43
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63a2d825fcaa8fcaba0c44d7/0x0.jpg?format=jpg&crop=1063,609,x94,y73,safe&width=1200"
-        width: 1063
-        height: 609
+      - url: "https://media.thetab.com/blogs.dir/90/files/2022/12/chatgpt.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "qPbi3pfUTi854zspWF2rmCbMGvepaWumyunUnPozaPVXUG8FVRS426/RxkSQZn4DTx7gAUKwHqOBttB5PUQluaS5jULqEklO9J5//B7Y2JCDeXnnGipR2zhCyDSoVAtxKPZFm8huJIGfnb3jVqWNeTwFFhe+E94WoQ0yQ/ISQ9ZEJfA80oSvqDl+/LEiVN3QF6d6VFNkHZKudT7PWUwjK3LIG2SDSh9sAojibrMB9ZQeKxibl0l44OkbCTXiQU8ySScgphPlXPNdfRkMFFX/UyQnDjjfQVHPFDzkTe50EpoinKRzbmLTPCGhneja1ZJ2ep4j5HxpQcXz7bUtHheOyH22naL2JQmmRrqxkU7ZVBg=;brR6J7jzmvliz5m8FpD8Jw=="

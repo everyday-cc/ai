@@ -7,7 +7,7 @@ originalUrl: "https://www.chron.com/news/article/Facial-recognition-wielded-in-I
 webUrl: "https://www.chron.com/news/article/Facial-recognition-wielded-in-India-to-enforce-17665778.php"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition wielded in India to enforce COVID policy"
-    excerpt: "After a pair of Islamist bombings rocked the south-central Indian city of Hyderabad in 2013, officials rushed to install 5,000"
-    publishedDateTime: 2022-12-19T14:52:00Z
-    webUrl: "https://mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/"
-    ampWebUrl: "https://mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/amp/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 61
-    images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2022/12/ap_8df9a889fe874ba4a466839c97ed3cdd.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Stalking-horse report on facial recognition in Indian airports draws arrows"
     excerpt: "The 74-page report about responsible AI has been quickly criticized by the Software Freedom Law Center and IFF for being incomplete."
     publishedDateTime: 2022-12-20T19:54:00Z

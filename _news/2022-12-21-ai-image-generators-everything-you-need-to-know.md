@@ -35,15 +35,6 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 47
-  - title: "What Companies Need to Know Before Investing in AI"
-    excerpt: "Different forms of AI can improve performance through prediction; automation of routines; and identification of images, keywords, and patterns in voice and text. However, organizations often struggle with knowing where investments in AI will really pay off."
-    publishedDateTime: 2022-12-19T13:25:00Z
-    webUrl: "https://hbr.org/2022/12/what-companies-need-to-know-before-investing-in-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
 
 secured: "9XpGZunwkbbSXrgJOMUW9H1EaHa3yE6jnD9wdOy7WiQy8mJhCnZRO/MsNlNn81HIfGQa6mTm7YUKwjJ4RBUWDKQVQ/SqtsKIezfwh/F0a5wJ6wAd3fGLSAwiC7QwATdt4FZWzcActf5lQxGbxrGeYAvDObQ41G711mCXgVnkBSAKDEEs6nPDLj3B3eCWGwXd2+eht+3j5dPmjgVgbCjVSCRy0VzIUA2jj48ai8BP8UTdqppYF3J4ViqJs1nQmn9AqJ13i7swW21VO0pySgFEZYvVPqKBcPOxouX8bGm94YcImRhRSNwH8qnkGPt61HfX8S9IMCPNMQMYaegpDlXdgGDjaNR2lfd9aufioqEEOmOFOjvsm0vw9kolix8aW2pPxvvrQnt1hRGmzol97m/8cb5lka62YcDUGJ51QCr7+2pNIOVnbmWNF6v05NPvzcgMF16fWulo3Kyo00JDv6D/myizGxx4sF9CTYuVZVklfxLLvSvJGnE9MdyEnyKBrEMDq8T8HxQoP8x3WjZoEQYiOg==;YP0XzgKmrWm7nWpRPPkXgg=="
 ---

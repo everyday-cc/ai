@@ -9,7 +9,7 @@ ampWebUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technolo
 cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
 type: article
 quality: 91
-heat: 191
+heat: 182
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "TSA tests facial recognition technology at more airports"
-    excerpt: "There’s a good chance that many people traveling for the holidays through some of the nation’s busiest airports will have their faces scanned. That’s because the Transportation Security Administration is expanding its facial recognition pilot program."
-    publishedDateTime: 2022-12-19T13:08:00Z
-    webUrl: "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/"
-    ampWebUrl: "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ktre-com.cdn.ampproject.org/c/s/www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
-    type: article
-    provider:
-      name: KTRE
-      domain: ktre.com
-    quality: 74
-    images:
-      - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/rJtC5wJXGKCN8WlDF2uXxgTJqTc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/FO6PWOKSHVCMJF5Q6UGNWYBJBU.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Face recognition technology to be used for security check at airports"
     excerpt: "Smart check in’ is provided by ETC for pre-boarding security check at airports. It uses the advanced face recognition technology with high accuracy in authenticating information. This important service was introduced in the 78 th national conference of the police force on December 19-20,"
     publishedDateTime: 2022-12-21T02:42:00Z

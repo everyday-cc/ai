@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/face-recognition-technol
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-expected-to-reach-significant-rate-by-2029-2022-12-23"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Software Market 2023 : Share and Outlook of Regulatory Scenario by 2029 with Top Countries Data"
-    excerpt: "A latest extensive market study titled Global “Voice Recognition Software Market\" Outlook from 2023 to 2029 enfolds"
-    publishedDateTime: 2022-12-19T13:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-2023-share-and-outlook-of-regulatory-scenario-by-2029-with-top-countries-data-2022-12-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

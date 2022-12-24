@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/virtual/how-deep-learning-will-ignite-the-me
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/virtual/how-deep-learning-will-ignite-the-metaverse-in-2023-and-beyond/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The Download: metaverse ethics, and spotting AI text"
-    excerpt: "I just watched Biggie Smalls perform ‘live’ in the metaverse For a moment on Friday, Biggie Smalls was the only man on stage. A spotlight shone on him in his red velvet suit, and amid pre-recorded cheers,"
-    publishedDateTime: 2022-12-19T13:09:00Z
-    webUrl: "https://www.technologyreview.com/2022/12/19/1065609/download-metaverse-ethics-spotting-ai-text/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 34
 
 secured: "OJG7xjymCLvNDzIdFYNd2dF/0qkh92RvOGT16q+Pm9qE58wepa5jFsbdj9CkRHiZdfIqiTtqRrCnGq0Jt7yPrtjMSIKep08XZVg+c+O4X2ZO6gbZhZzBTwHuAuT2FWFfGaxP6iyqiKb9sVGUQilYYaymup9CHi2OAfsz2SoqnHp9dTehfY6YKbnwWvzZfUFbMHU55t7HII1jyi3PpjRwUdVyB+gcyCRT0+JfBsM/SfCuYb5fnTL28jC+LIBho1deIdwM6TfF7iLVOZgkYJ1uXt864NjHLldk/3IkIC8gtbVKlE5iz2wqT5w7+pgmMtVCSXNPgnhS3NsS9YcEnI7kxj1Ze5XH2STQsa70wVdxM9p6hxi/QXzlMbVFhwhALCrIqZn7X2+21kCxNzsms6W4wQtVHydngLNBimU5L1gQGNnGULJ0r9y+cBC6bYR8OtcnUrfZ7yvYDYDEJ0CzSZ/yHjokR9X3DQKIUrHBtIdEgwJOvUrvBrX+ewy+3lIVonijZF/6UW1gVL5Zfy8kwe7GOA==;bXdGcKzCSXnXJFBnOTxoGw=="
 ---

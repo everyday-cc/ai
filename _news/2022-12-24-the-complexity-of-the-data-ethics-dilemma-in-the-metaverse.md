@@ -47,15 +47,6 @@ related:
         width: 927
         height: 628
         isCached: true
-  - title: "The Download: metaverse ethics, and spotting AI text"
-    excerpt: "I just watched Biggie Smalls perform ‘live’ in the metaverse For a moment on Friday, Biggie Smalls was the only man on stage. A spotlight shone on him in his red velvet suit, and amid pre-recorded cheers,"
-    publishedDateTime: 2022-12-19T13:09:00Z
-    webUrl: "https://www.technologyreview.com/2022/12/19/1065609/download-metaverse-ethics-spotting-ai-text/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 34
 
 secured: "PiqFR7newzwXbqwHOBe/kCS/fl8NwQioSV6T/j+H0yB8soh8Q3wPCYllJMzZ0NRi+ML1Y6ab1rBLpqWnvch3U6UvyL40C7uIaxTvMZTdaBzYDNkfL631SGbIPvbN9AEonuXt9bSz+Vf6SlMqEzTfTAedV7o3isNqGyyRwMeHFI68tfBwvjO3O5ZrY/OwRacUWXeIcd9JEhTc+W3nY+PjD1tRvVnwcDd0LE8UbsRxa3DdF9E/oDoUh2hRKHgfXFMOgpa8saOi9EFts9PbSBVExKeK41ediPl4qKmcq4YS9w/GR4YLNXdVU1gKSbQa2T0qJ68JDone+I5nz5rRQLHMVZ846h/mWlLUNd8myu7H2oZaYr6/1SVtDkpfkmcOaKeAO+EUwvzBCDls5jKwfIZPCWvmFZp//TVZV82t3JtfBVruEObE3upDW2dwbXtFzMUklsS8Jsdh0LdPhwfXD71SZ2iacC+y9X0IJmqQQQwVD5sn0L8lFSJSqwskAznQdg+trlP74aR5SV7/Fm+NpD3Z0w==;GRWbaFkWa8TRrafqh/iVMQ=="
 ---

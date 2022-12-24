@@ -112,7 +112,7 @@
       "originalUrl": "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -156,7 +156,7 @@
       "originalUrl": "https://www.ibtimes.com/sundeep-yerapotina-personal-finance-fintech-more-3650716",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -651,7 +651,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-expected-to-reach-significant-rate-by-2029-2022-12-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -734,6 +734,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-23-new-ai-technology-chatgpt-raising-questions-about-human-creativity.md",
+      "title": "New AI technology ChatGPT raising questions about human creativity",
+      "excerpt": "ChatGPT is a new artificial intelligence technology that can write term papers, software and legal documents all in a matter of seconds, but it’s raising alarms about the value of human creativity. NBC News’ Jacob Ward explains why some are predicting the program could wipe out whole industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/new-ai-technology-chatgpt-raising-questions-about-human-creativity-158542405830",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/new-ai-technology-chatgpt-raising-questions-about-human-creativity-158542405830",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2022_12/1671755043198_nn_jwa_new_ai_software_replacing_creative_thought_221222_1920x1080-ocg9vf.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo158542405830",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo158542405830",
+      "publishedDateTime": "2022-12-22T16:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1151,7 +1193,7 @@
       "originalUrl": "https://venturebeat.com/virtual/how-deep-learning-will-ignite-the-metaverse-in-2023-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1192,63 +1234,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-want-to-invest-in-artificial-intelligence-here-are-6-front-runners-in-machine-learning.md",
-      "title": "Want To Invest In Artificial Intelligence? Here Are 6 Front Runners In Machine Learning",
-      "excerpt": "Artificial intelligence is the next great technological advancement that will change the way we do many things. Here are the companies leading the way from technological standpoint and an investor perspective.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/12/22/want-to-invest-in-artificial-intelligence-here-are-6-front-runners-in-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/12/22/want-to-invest-in-artificial-intelligence-here-are-6-front-runners-in-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63a479ab4db81071989a89e7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/12/22/want-to-invest-in-artificial-intelligence-here-are-6-front-runners-in-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/22/want-to-invest-in-artificial-intelligence-here-are-6-front-runners-in-machine-learning/amp/",
-      "publishedDateTime": "2022-12-22T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "AI in Autos",
-        "AI in Finance",
-        "IBM AI"
       ]
     }
   ],

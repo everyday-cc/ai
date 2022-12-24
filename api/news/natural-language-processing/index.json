@@ -62,7 +62,7 @@
       "originalUrl": "https://www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -283,19 +283,19 @@
     {
       "path": "_news/2022-12-16-opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care.md",
       "title": "OPN Healthcare Partners with KAID Health to Leverage Natural Language Processing Technology for Value-Based Oncology Care",
-      "excerpt": "Deployment of Real-World Natural Language Processing marks first use case for oncology prior authorization. KAID Health, an AI-powered health care data analysis and provider engagement platform ...",
+      "excerpt": "NLITE addresses key technological issues that to-date have hindered the widespread adoption of natural language processing (NLP) for prior authorization. NLITE aggregates similar clinical concepts ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/b30097555/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-va",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/b30097555/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-va",
+      "webUrl": "https://insurancenewsnet.com/oarticle/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
+          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -303,13 +303,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30097555",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30097555",
-      "publishedDateTime": "2022-12-15T10:07:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T10:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -26,17 +26,6 @@ images:
     height: 682
     isCached: true
 
-related:
-  - title: "Final goodbye: Recalling influential people who died in 2022"
-    excerpt: "She likely met more people than anyone in history, and her image — on stamps, coins and bank notes — was among the most reproduced in the world. Other world leaders who died in 2022 include former Soviet leader Mikhail Gorbachev,"
-    publishedDateTime: 2022-12-19T14:14:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/final-goodbye-recalling-influential-people-died-2022-95539239"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 4
-
 secured: "ZTdkhZwYnqADh8LpJLEP+JW1zmc2ld72XqMU86NZ8+8YUpvahomksk/gU3tu1oea1hnM3dzmcc/vUxII/jvduJOApU7ZrQPylNlnJHUx/y/qFbk9IR9nkgCQRuLHqSM0KunCpkaWpQK9lKMSmhvldWhEWNYcBPZ7PV/drsyUw/aGDVQvIQwmY0AHdBpl2fjtg5ujIWe9Yfr3mDho19LeKAZVzGjFWkV6CW4e0hnFqfSNaRAGbg73Ng4mBX8laOGYg7MssW+17UomkNWCBn7+PaVX2nhLv6SF8tWvhIR4a890JRpUTRYoZejeOdo288FDAvMDMZTEEDt/cFfyS/l3Cs07OjU4X71b1r05INk1/t4=;m2e8Y3It7j78DvGU8vy4HA=="
 ---
 

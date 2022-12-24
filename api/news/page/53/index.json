@@ -2,100 +2,6 @@
   "page": 53,
   "value": [
     {
-      "path": "_news/2022-11-09-with-ai-you-need-to-see-the-bigger-hardware-and-software-picture.md",
-      "title": "With AI, you need to see the bigger hardware and software picture",
-      "excerpt": "IDC has reported that when it comes to infrastructure, GPU accelerated compute and HPC like scale-up are amongst the top considerations for tech leaders and architects looking to build out their AI infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/11/09/with_ai_you_need_to/",
-      "originalUrl": "https://www.theregister.com/2022/11/09/with_ai_you_need_to/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/03/10/gpu_shutter.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/11/09/with_ai_you_need_to/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/11/09/with_ai_you_need_to/",
-      "publishedDateTime": "2022-11-09T04:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-anything-world-raises-75m-to-assist-content-creators-using-ai-based-animation.md",
-      "title": "Anything World raises $7.5M to assist content creators using AI-based animation",
-      "excerpt": "Anything World has raised $7.5 million in funding to create an AI-based animation system that creators can use to be more expressive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/anything-world-raises-7-5m-to-assist-content-creators-with-ai/",
-      "originalUrl": "https://venturebeat.com/games/anything-world-raises-7-5m-to-assist-content-creators-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/anything-Environments_Forest_3_colour_full.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/anything-world-raises-7-5m-to-assist-content-creators-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/anything-world-raises-7-5m-to-assist-content-creators-with-ai/amp/",
-      "publishedDateTime": "2022-11-09T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-09-how-machine-learning-powered-campaigns-are-propelling-business-strategies.md",
       "title": "How machine learning powered campaigns are propelling business strategies?",
       "excerpt": "In the modern era, driven by technology, the adoption of machine learning is proliferating among businesses. While it enables firms to solve complex problems on the back of meaningful information derived from the careful",
@@ -1149,6 +1055,110 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-in-the-age-of-artificial-intelligence-human-skills-are-needed-more-than-ever.md",
+      "title": "In the age of artificial intelligence, human skills are needed more than ever",
+      "excerpt": "Alan Turing, widely considered to be the father of theoretical computer science and artificial intelligence, reportedly said that “once the machine thinking method had started, it would not take ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/comment/opinion/article/3198719/age-artificial-intelligence-human-skills-are-needed-more-ever",
+      "originalUrl": "https://www.scmp.com/comment/opinion/article/3198719/age-artificial-intelligence-human-skills-are-needed-more-ever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2022/11/08/bc563069-25d9-4e6d-bab5-e1f1aa801ff8_edbd8e94.jpg?itok=Ya-ASJIt&v=1667899505",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3198719/age-artificial-intelligence-human-skills-are-needed-more-ever",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3198719/age-artificial-intelligence-human-skills-are-needed-more-ever",
+      "publishedDateTime": "2022-11-08T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-id-selfie-improving-digital-identity-verification-using-aws.md",
+      "title": "“ID + Selfie” – Improving digital identity verification using AWS",
+      "excerpt": "The COVID-19 global pandemic has accelerated the need to verify and onboard users online across several industries, such as financial services, insurance, and healthcare. When it comes to user experience it is crucial to provide a frictionless transaction while maintaining a high standard for identity",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/id-selfie-improving-digital-identity-verification-using-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/id-selfie-improving-digital-identity-verification-using-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/08/id-selfie-rekognition.jpg",
+          "width": 1547,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T10:55:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

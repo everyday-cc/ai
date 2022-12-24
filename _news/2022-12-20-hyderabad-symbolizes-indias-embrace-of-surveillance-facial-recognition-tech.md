@@ -20,22 +20,6 @@ topics:
 
 related:
   - title: "Facial recognition wielded in India to enforce COVID policy"
-    excerpt: "After a pair of Islamist bombings rocked the south-central Indian city of Hyderabad in 2013, officials rushed to install 5,000"
-    publishedDateTime: 2022-12-19T14:52:00Z
-    webUrl: "https://mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/"
-    ampWebUrl: "https://mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/amp/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 61
-    images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2022/12/ap_8df9a889fe874ba4a466839c97ed3cdd.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Facial recognition wielded in India to enforce COVID policy"
     excerpt: "The technology triggers any available camera in the area, pops up a mugshot database of criminals and can pair images with facial recognition software to scan CCTV footage for known criminals in the vicinity."
     publishedDateTime: 2022-12-20T03:53:00Z
     webUrl: "https://www.chron.com/news/article/Facial-recognition-wielded-in-India-to-enforce-17665778.php"

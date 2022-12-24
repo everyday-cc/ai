@@ -1,17 +1,15 @@
 ---
 category: news
 title: "OPN Healthcare Partners with KAID Health to Leverage Natural Language Processing Technology for Value-Based Oncology Care"
-excerpt: "Deployment of Real-World Natural Language Processing marks first use case for oncology prior authorization. KAID Health, an AI-powered health care data analysis and provider engagement platform ..."
-publishedDateTime: 2022-12-15T18:07:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/12/b30097555/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-va"
-webUrl: "https://www.benzinga.com/pressreleases/22/12/b30097555/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-va"
-ampWebUrl: "https://www.benzinga.com/amp/content/30097555"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30097555"
+excerpt: "NLITE addresses key technological issues that to-date have hindered the widespread adoption of natural language processing (NLP) for prior authorization. NLITE aggregates similar clinical concepts ..."
+publishedDateTime: 2022-12-15T18:10:00Z
+originalUrl: "https://insurancenewsnet.com/oarticle/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care"
+webUrl: "https://insurancenewsnet.com/oarticle/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Insurancenewsnet.com
+  domain: insurancenewsnet.com
 
 topics:
   - Natural Language Processing
@@ -19,11 +17,11 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-    width: 800
-    height: 313
+  - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "h/1jTq11hh21OjH8EFVUxKgKiBECJosel0UbPolXgJWRYJ8gx43i/5j+0ydiQKUM8eWoTzEwPc/Ljd10fVxx/fpek3u6UdOoM7sFSQOSZx3m0mtcLoysWvJGW+v2zEB36kcHU1qY2t7kJ7I6A5s8WESJ85thvIVq0YzypwF2MXDVpBwDgWJezAFvAMhUxqV/4D1LxCr45AZXtHe/apZ1JZAczJgHLdpZZ5XZUsLap5C4bDONkAmDW9D/XXMXkQCTbHwtlManGijQrweTmWpSnPrPnZGQzP5JFY/ib6CGdJzQka3CGVpz4yoCnAxU5WuAauDT3CwXYOmzgmshbetgE52vRtAoto9xpsFH2Xje4vQ=;VNu4JijQsLkzwv8kg+6n7w=="
+secured: "WiTin+iwgVsSAjevxcEkuMPYqAZcOU8h9ROgrQFtnvWM8JsQfHHUGWI2a+eV6iGRUPOle4z2g6S6QxGDmIuOn21eC9LlFMrzAmqISCJddYyHcny7QwfR1wJRcs8YCUUVF4qTlzOQ6u4z/SK5jDeCija4NXLp1SFpwLRnWIRUmx7veDu8eWSs0rNgsd7bkCOXZIniB5aZtpzF+HPIokGEKOY7sctPYjsXwhb85xg85jCNINbuvJ3lxmnmU/pY6oFjEVdsvMlu5NfuitzEVvXdw61+shJCSk63iOO2H7k8zeV/9MRnOVcyAVQrq9lG7//mD9762rj2vjqI27RrxrFJYRHif1wZ3Iy3KOQKVn1gRCQ=;zjf8l+r1JDyppZHbStXjvg=="
 ---
 

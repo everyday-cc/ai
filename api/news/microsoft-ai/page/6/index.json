@@ -2,58 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-11-09-microsoft-faces-fresh-antitrust-complaint-in-europe.md",
-      "title": "Microsoft Faces Fresh Antitrust Complaint in Europe",
-      "excerpt": "BRUSSELS—Microsoft Corp. faces an antitrust complaint from a European industry group over its cloud services, adding to recent allegations of anticompetitive behavior against the U.S. tech company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/microsoft-faces-fresh-antitrust-complaint-in-europe-11667947828",
-      "originalUrl": "https://www.wsj.com/articles/microsoft-faces-fresh-antitrust-complaint-in-europe-11667947828",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-661686/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T22:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-09-windows-11-caught-upselling-other-microsoft-services-again.md",
       "title": "Windows 11 caught upselling other Microsoft services — again",
       "excerpt": "as eagle-eyed Windows Insiders have noticed ads for Microsoft services cropping up in the Start menu on some pre-release builds. These promos appear to be trying to upsell Windows 11 users on ...",
@@ -1321,6 +1269,41 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-29-father-of-azure-cognitive-services-joins-ai-startup-vaital.md",
+      "title": "Father of Azure Cognitive Services joins AI startup Vaital",
+      "excerpt": "Founder of Microsoft Azure Cognitive Services, Yu-Ting Kuo, joins board of directors of Vaital, a Bellevue-based AI and software startup. Kou founded and led Microsoft's Computer Vision Group, establi",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29468999/father-of-azure-cognitive-services-joins-ai-startup-vaital",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29468999/father-of-azure-cognitive-services-joins-ai-startup-vaital",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29468999",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29468999",
+      "publishedDateTime": "2022-10-28T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI",
         "Microsoft AI"
       ]

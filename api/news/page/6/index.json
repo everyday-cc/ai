@@ -2,100 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-12-16-ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations.md",
-      "title": "AI-generated fake faces have become a hallmark of online influence operations",
-      "excerpt": "As artificial intelligence becomes more widely available, bad actors are turning to computer-generated faces in their attempts to manipulate social media networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iowapublicradio.org/news-from-npr/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations",
-      "originalUrl": "https://www.iowapublicradio.org/news-from-npr/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/1e1259e/2147483647/strip/true/crop/3000x1688+0+156/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F12%2F14%2F20221206-_dsc0676-edit_slide-011681f1256177f8bdb78cf455d05204f9f45d5b.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iowapublicradio.org/news-from-npr/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations?_amp=true",
-      "cdnAmpWebUrl": "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations?_amp=true",
-      "publishedDateTime": "2022-12-15T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Iowa Public Radio",
-        "domain": "iowapublicradio.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-stability-ai-plans-to-let-artists-opt-out-of-stable-diffusion-3-image-training.md",
-      "title": "Stability AI plans to let artists opt out of Stable Diffusion 3 image training",
-      "excerpt": "Stability AI announced it would allow artists to remove their work from the training dataset for an upcoming Stable Diffusion 3.0 release. The move comes as an artist advocacy group called Spawning tweeted that Stability AI would honor opt-out requests collected on its The details of how the plan will be implemented remain incomplete and unclear,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/12/stability-ai-plans-to-let-artists-opt-out-of-stable-diffusion-3-image-training/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/12/stability-ai-plans-to-let-artists-opt-out-of-stable-diffusion-3-image-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/optout_hero_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/12/stability-ai-plans-to-let-artists-opt-out-of-stable-diffusion-3-image-training/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/stability-ai-plans-to-let-artists-opt-out-of-stable-diffusion-3-image-training/amp/",
-      "publishedDateTime": "2022-12-15T14:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-16-eys3d-microelectronics-eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics.md",
       "title": "eYs3D Microelectronics: eYs3D Hits CES with Computer Vision and AI for Medical, AIoT, Industrial and Retail Robotics",
       "excerpt": "TAIPEI, TAIWAN / ACCESSWIRE / December 15, 2022 / eYs3D, a silicon-plus-AI computer vision solutions company, will showcase a powerful new vision platform for robotics at the upcoming CES 2023 ...",
@@ -357,6 +263,50 @@
       ]
     },
     {
+      "path": "_news/2022-12-16-opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care.md",
+      "title": "OPN Healthcare Partners with KAID Health to Leverage Natural Language Processing Technology for Value-Based Oncology Care",
+      "excerpt": "NLITE addresses key technological issues that to-date have hindered the widespread adoption of natural language processing (NLP) for prior authorization. NLITE aggregates similar clinical concepts ...",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-12-16-artists-stage-mass-protest-against-ai-generated-artwork-on-artstation.md",
       "title": "Artists stage mass protest against AI-generated artwork on ArtStation",
       "excerpt": "On Tuesday, members of the online community ArtStation began widely protesting AI-generated artwork by placing \"No AI Art\" images in their portfolios. By Wednesday, the protest images dominated ArtStation's trending page.",
@@ -406,50 +356,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care.md",
-      "title": "OPN Healthcare Partners with KAID Health to Leverage Natural Language Processing Technology for Value-Based Oncology Care",
-      "excerpt": "Deployment of Real-World Natural Language Processing marks first use case for oncology prior authorization. KAID Health, an AI-powered health care data analysis and provider engagement platform ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/b30097555/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-va",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/b30097555/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-va",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30097555",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30097555",
-      "publishedDateTime": "2022-12-15T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -1160,6 +1066,102 @@
         "AI in Autos",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-12-15-artificial-intelligence-in-veterinary-medicine-raises-ethical-challenges.md",
+      "title": "Artificial intelligence in veterinary medicine raises ethical challenges",
+      "excerpt": "Use of artificial intelligence (AI) is increasing in the field of veterinary medicine, but veterinary experts caution that the rush to embrace the technology raises some ethical considerations.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-12-artificial-intelligence-veterinary-medicine-ethical.html",
+      "originalUrl": "https://phys.org/news/2022-12-artificial-intelligence-veterinary-medicine-ethical.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/veterinarian.jpg",
+          "width": 1920,
+          "height": 1371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-12-artificial-intelligence-veterinary-medicine-ethical.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-12-artificial-intelligence-veterinary-medicine-ethical.amp",
+      "publishedDateTime": "2022-12-14T14:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-12-15-meet-ghostwriter-a-haunted-ai-powered-typewriter-that-talks-to-you.md",
+      "title": "Meet Ghostwriter, a haunted AI-powered typewriter that talks to you",
+      "excerpt": "To create Ghostwriter, Sanjeev took apart an electric Brother AX-325 typewriter from the 1990s and reverse-engineered its keyboard signals, then fed them through an Arduino, a low-cost microcontroller that is popular with hobbyists.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/12/meet-ghostwriter-a-haunted-ai-powered-typewriter-that-talks-to-you/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/12/meet-ghostwriter-a-haunted-ai-powered-typewriter-that-talks-to-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ghostwriter_hero_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/12/meet-ghostwriter-a-haunted-ai-powered-typewriter-that-talks-to-you/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/meet-ghostwriter-a-haunted-ai-powered-typewriter-that-talks-to-you/amp/",
+      "publishedDateTime": "2022-12-14T13:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

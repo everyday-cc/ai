@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Software Market 2023 : Share and Outlook of Regulatory Scenario by 2029 with Top Countries Data"
-    excerpt: "A latest extensive market study titled Global “Voice Recognition Software Market\" Outlook from 2023 to 2029 enfolds"
-    publishedDateTime: 2022-12-19T13:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-2023-share-and-outlook-of-regulatory-scenario-by-2029-with-top-countries-data-2022-12-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "o85nkwljUjEVJmb6dqyZ2fqMyTKvvaKBK73RY3Ul4XPM/2KPPI904B7EsqM9o9lWCFG96hyHUyOb0YYOt8YA0IHy0++u797lt7TUs2/pUUYsIAUrGFU2nai+zH9rPAhk+qYb+FmVlM+C4Mc/RK0PsDQlfmvwaUPUlcENOCX9UD7PT7I720AELxHIwoSq65giJ8yGWmmem/lyix9PsmfR5F9y0vYbPcxTbopoEK9jZgl4OK/0ISugLG3/Qbv6r0VYYQmXtkr031AmyeHBskxfV9phMO4vJmc25FtdOQXV/pl6ImFRIj3olR4UNTKcwzxWeqizqlPK0UpSEZirxDA1kY10zfHwVC9+fGx0/b7vWBw=;R3Xd32tp1s9ZsA+mgHuXWA=="
 ---

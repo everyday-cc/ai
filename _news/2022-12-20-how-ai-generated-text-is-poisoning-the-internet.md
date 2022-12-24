@@ -68,6 +68,22 @@ related:
         width: 859
         height: 478
         isCached: true
+  - title: "Qeleo Technologies Announces Experimental Integration of OpenAI's Leading ChatGPT into Its Existing Enterprise AI Suite"
+    excerpt: "Predictive Technologies LLC, doing business as Qeleo (\"Qeleo\", \"Qeleo Technologies\" or the \"Company\") ( a leading provider of enterprise AI"
+    publishedDateTime: 2022-12-23T17:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/30189518/qeleo-technologies-announces-experimental-integration-of-openais-leading-chatgpt-into-its-existing-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30189518"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30189518"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+    images:
+      - url: "https://images.newsfilecorp.com/files/9302/149409_c9aa3b8b647f18b3_001.jpg"
+        width: 550
+        height: 430
+        isCached: true
 
 secured: "PF5hnsPEgbWFXED6bbjOhNb5rRCnlcZYxtmFtu07Tzxcqe+d6WrOBau3zv4u5gFfc0KqJ6XDukKwz1k/A6OX1rnveIwQYZ07j3OzkLmX8Jy2DPn2kWUGa6ABEE/gDLZUPxYMhPyooS1U8mKve9+7z6pWwuHkZGtZipRE1Ss5DKou5uGyw9MmVOq3PamfpkAYnc3ILUThQGyASQ9ZsHnUkyiY5OcaMnbQ/ftGCCRQRXAQsDbZjnT5xLEEGSTzzLcDR+AwfmN3wPphCLYp96LENgqgAb5fR2TVafMR7Dg8z7/TtwdNc0QdAxN0TDEfttoE0u9JOHalwSWTFVjmzuEUpQFgC2zmSIoJynH02nwdU8tS5Ch7MxSdyuclQ/lM44KIrh6DhYH1ut/X3TP18D8PydDEBtK1myxzIy43rZ77Ndj7+4BRn/tQ5B8GYW1E943UIudx+cdYJJiU505WnUJSTlevkjEB3M/QCsT2h5g2SzyfZYizv6jWBZY9JLG34v0f58OVA+DgGsk6vp9PEdpbEg==;3nlYfbmfTFLCqBFKxc2Eng=="
 ---
