@@ -18,7 +18,7 @@ twitter:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=lm2nBYkAAAAJ
-  citations: 11059
+  citations: 11066
 
 weibo:
   url: https://www.weibo.com/kaifulee
