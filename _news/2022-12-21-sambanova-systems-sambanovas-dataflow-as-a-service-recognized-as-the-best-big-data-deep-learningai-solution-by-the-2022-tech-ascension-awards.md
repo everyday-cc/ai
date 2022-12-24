@@ -21,8 +21,8 @@ topics:
 related:
   - title: "SambaNova's Dataflow-as-a-Service™ Recognized as the Best Big Data Deep Learning/AI Solution by the 2022 Tech Ascension Awards"
     excerpt: "SambaNova Systems, the company delivering the industry's only comprehensive software, hardware, and solutions platform to run Artificial Intelligence (AI), deep learning, and foundation models, today announced its Dataflow-as-a-Service™ product has been recognized as the \"Best Big Data Deep Learning/AI Solution\" by the 2022 Tech Ascension Awards ."
-    publishedDateTime: 2022-12-20T20:13:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/12/20/9733719.htm"
+    publishedDateTime: 2022-12-20T19:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sambanovas-dataflow-as-a-servicetrade-recognized-as-best-/2022/12/20/9733719.htm"
     type: article
     provider:
       name: TMCnet

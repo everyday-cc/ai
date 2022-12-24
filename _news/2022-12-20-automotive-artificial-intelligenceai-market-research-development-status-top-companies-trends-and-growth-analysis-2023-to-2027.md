@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Outlook 2023 and Forecast to 2029 with Top Countries Data"
-    excerpt: "Artificial Intelligence Market\" is sectioned top to bottom in this review. Worldwide and geological are two key"
-    publishedDateTime: 2022-12-19T18:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-outlook-2023-and-forecast-to-2029-with-top-countries-data-2022-12-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Computer Vision System Market Size and Market Scenario 2022 by Sales, Revenue, Countries, Development Potential and Forecast to 2028"
     excerpt: "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global “Computer Vision System"
     publishedDateTime: 2022-12-21T05:13:00Z

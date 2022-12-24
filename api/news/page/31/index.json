@@ -2,6 +2,92 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2022-11-29-how-immune-cells-prevent-cognitive-decline.md",
+      "title": "How immune cells prevent cognitive decline",
+      "excerpt": "Could the underproduction of poorly understood immune cells contribute to Alzheimer's disease and other forms of cognitive decline? A Rutgers study in Nature Immunology suggests it may -- and that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221129134422.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221129134422.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-microsoft-announces-quarterly-dividend.md",
+      "title": "Microsoft announces quarterly dividend",
+      "excerpt": "REDMOND, Wash. — Nov. 29, 2022 — Microsoft Corp. on Tuesday announced that its board of directors declared a quarterly dividend of $0.68 per share. The dividend is payable March 9, 2023, to shareholders of record on Feb. 16, 2023. The ex-dividend date ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/2022/11/29/microsoft-announces-quarterly-dividend-19/",
+      "originalUrl": "https://news.microsoft.com/2022/11/29/microsoft-announces-quarterly-dividend-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-new-artificial-intelligence-could-help-humans-actually-talk-to-animals.md",
       "title": "New Artificial Intelligence Could Help Humans Actually Talk To Animals",
       "excerpt": "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science ...",
@@ -1039,74 +1125,6 @@
       "provider": {
         "name": "player.one",
         "domain": "player.one",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-informatica-unveils-new-innovations-in-cloud-data-management-services-on-aws-at-aws-reinvent-2022.md",
-      "title": "Informatica Unveils New Innovations in Cloud Data Management Services on AWS at AWS re:Invent 2022",
-      "excerpt": "Informatica INFACore supports Amazon SageMaker Studio to simplify development and management of complex data pipelines for building and deploying ML models: Informatica's new development and data science framework (INFACore) powered by the Intelligent Data ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2022/11/28/informatica-unveils-new-innovations-in-cloud-data-management-services-on-aws-at",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2022/11/28/informatica-unveils-new-innovations-in-cloud-data-management-services-on-aws-at",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T05:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-bulgari-conquers-artificial-intelligence.md",
-      "title": "Bulgari conquers artificial intelligence",
-      "excerpt": "Next year Bulgari will celebrate the 75th anniversary of its iconic Serpenti bracelets, which have been tangled around the wrists of the rich and famous since Elizabeth Taylor wore them on the set of Cleopatra in 1962.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mffashion.com/news/english/bulgari-conquers-artificial-intelligence-202211281050274501",
-      "originalUrl": "https://www.mffashion.com/news/english/bulgari-conquers-artificial-intelligence-202211281050274501",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MF Fashion",
-        "domain": "mffashion.com",
         "images": null,
         "publishers": null,
         "authors": null
