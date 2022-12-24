@@ -2,6 +2,59 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-09-30-celebrate-over-20-years-of-aiml-at-innovation-day.md",
+      "title": "Celebrate over 20 years of AI/ML at Innovation Day",
+      "excerpt": "Be our guest as we celebrate 20 years of AI/ML innovation on October 25, 2022, 9:00 AM – 10:30 AM PT. &nbsp;The first 1,500 people to register will receive $50 of AWS credits. Register here. Over the past 20 years, Amazon has delivered many world firsts for artificial intelligence (AI) and machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/celebrate-over-20-years-of-ai-ml-at-innovation-day/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/celebrate-over-20-years-of-ai-ml-at-innovation-day/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/30/celebrate-ai-ml-innovation.jpg",
+          "width": 1533,
+          "height": 764,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T16:23:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-10-01-bruce-willis-has-no-deal-with-company-that-created-his-digital-twin-rep.md",
       "title": "Bruce Willis has no deal with company that created his 'digital twin': rep",
       "excerpt": "Bruce Willis has retired from making movies since his aphasia diagnosis, but he may continue to be an action star. How? Well, technology.",
@@ -1371,61 +1424,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-top-natural-language-processing-companies-2022.md",
-      "title": "Top Natural Language Processing Companies 2022",
-      "excerpt": "These leading Natural Language Processing vendors can help AI deployments \"learn\" how to listen and interact with humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-companies/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-DSOM-Image02-800x800-1.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "IBM AI"
       ]
     }
   ],

@@ -2,6 +2,83 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-12-13-kami-vision-announces-more-than-800-growth-since-2018-marked-by-global-expansion-executive-hires-and-technology-innovation.md",
+      "title": "Kami Vision Announces More Than 800% Growth Since 2018 Marked by Global Expansion, Executive Hires, and Technology Innovation",
+      "excerpt": "Kami Vision, the computer vision company that provides AI solutions to enterprise, SMB and consumers, today announced record 817% growth between 2018 and 2021, fueled by strong product demand, strategic leadership appointments and global expansion.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/12/13/9728988.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/12/13/9728988.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T02:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-how-ai-can-be-used-ethically-to-monitor-worker-productivity.md",
+      "title": "How AI Can Be Used Ethically to Monitor Worker Productivity",
+      "excerpt": "Morgan Lewis’s Amy Schuh offers guidance for companies looking to employ AI to monitor their workforce. She shares important questions to ask beyond AI’s intended uses, and potential unintended consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://news.bloomberglaw.com/business-and-practice/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
+      "originalUrl": "https://news.bloomberglaw.com/business-and-practice/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/e99279d/2147483647/crop/8140x3134%2B41%2B324/resize/957x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fc8%2Ff4%2Fcaf4259d40df8f2a0e40e370f321%2Fgettyimages-883730222.jpg",
+          "width": 957,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.bloomberglaw",
+        "domain": "bloomberglaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-tesla-our-failure-to-make-actual-self-driving-cars-is-not-fraud.md",
       "title": "Tesla: Our ‘failure’ to make actual self-driving cars ‘is not fraud’",
       "excerpt": "Tesla CEO Elon Musk has said numerous times since 2015 that Tesla cars would be entirely self-driving in two years, or less. But years after his self-imposed deadlines have blown by, it still hasn ...",
@@ -1061,91 +1138,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers.md",
-      "title": "Scott Belsky: Adobe VP Talks AI, Creativity And Superpowers",
-      "excerpt": "Creativity is at the heart of the products that Adobe makes, from Photoshop to Lightroom, Fresco to Illustrator. Scott Belsky is the company’s Chief Product Officer and Executive Vice President for Creative Cloud and I talked to him and Gavin Miller,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidphelan/2022/12/12/scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers/",
-      "originalUrl": "https://www.forbes.com/sites/davidphelan/2022/12/12/scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639759ff390c0523343405cb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidphelan/2022/12/12/scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidphelan/2022/12/12/scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers/amp/",
-      "publishedDateTime": "2022-12-12T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-raven-advances-cutting-edge-precision-and-autonomous-ag-tech-with-two-raven-autonomytm-product-debuts.md",
-      "title": "Raven Advances Cutting-Edge Precision and Autonomous Ag Tech with Two Raven Autonomy(TM) Product Debuts",
-      "excerpt": "“The Driverless Tillage Solution and Driver Assist Harvest Solution developments are proof that we are expanding these autonomous capabilities into all areas of the cash crop cycle, helping farmers capitalize on additional efficiencies and cost savings ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2022/12/12/raven-advances-cutting-edge-precision-and-autonomous-ag-tech-with-two-raven",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2022/12/12/raven-advances-cutting-edge-precision-and-autonomous-ag-tech-with-two-raven",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T06:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

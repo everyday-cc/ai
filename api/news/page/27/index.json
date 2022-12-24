@@ -2,6 +2,160 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2022-12-01-alzheimers-drug-trial-shown-to-slow-cognitive-decline-in-long-fight-against-dementia.md",
+      "title": "Alzheimer's drug trial shown to slow cognitive decline in long fight against dementia",
+      "excerpt": "Alzheimer's Research UK described the outcome as a \"major step forward\" in reducing cognitive decline among patients. \"These exciting findings represent a major step forward for dementia research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html",
+      "originalUrl": "https://www.cnbc.com/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107158864-1669806496855-gettyimages-484332326-bb_fea-brainscan_108.jpeg?v=1669807708",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html",
+      "publishedDateTime": "2022-11-30T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-how-the-private-sector-can-help-close-the-public-sector-ai-knowledge-gap.md",
+      "title": "How the Private Sector Can Help Close The Public Sector AI Knowledge Gap",
+      "excerpt": "This blog focuses on how the private sector can help close the public sector knowledge gap in sustainable AI practices. 5 Strategies are positioned for consideration, underlying the security threats we face of not modernizing our government institutions more rapidly with sustaining AI capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6387cc1b52738817bac8a8c0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/amp/",
+      "publishedDateTime": "2022-11-30T12:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-state-of-ai-december-2022.md",
+      "title": "State Of AI, December 2022",
+      "excerpt": "Sentient or not, MineDojo got Nvidia’s researchers the NeurIPS 2022 Outstanding Datasets and Benchmarks Paper Award, demonstrating their belief that large language models in the future will be “embodied agents that proactively take actions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2022/11/30/state-of-ai-december-2022/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/11/30/state-of-ai-december-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6387c6194c3ae06b95db977a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/11/30/state-of-ai-december-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/11/30/state-of-ai-december-2022/amp/",
+      "publishedDateTime": "2022-11-30T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-san-francisco-approves-killer-police-robots-time-to-arm-your-toasters-folks.md",
       "title": "San Francisco approves killer police robots! Time to arm your toasters, folks.",
       "excerpt": "San Francisco officials have decided to allow police to use robots that carry explosive charges. I'm sure that will work out just fine.",
@@ -1003,145 +1157,6 @@
         "AI in Healthcare",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-artificial-intelligence-and-natural-language-processing-for-chronic-diseases-prediction.md",
-      "title": "Artificial intelligence and natural language processing for chronic diseases prediction",
-      "excerpt": "Recently, with the advancement in artificial intelligence (AI), AI based natural language processing (NLP) methods have been widely used in advancing EHR-based clinical research (Juhn and Liu, 2020; Kaswan et al., 2021). AI driven methods combining natural ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ulster.ac.uk/doctoralcollege/find-a-phd/1455980",
-      "originalUrl": "https://www.ulster.ac.uk/doctoralcollege/find-a-phd/1455980",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ulster University",
-        "domain": "ulster.ac.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-aws-adds-ai-features-to-textract-transcribe-and-kendra.md",
-      "title": "AWS adds AI features to Textract, Transcribe and Kendra",
-      "excerpt": "Amazon Web Services (AWS) on Tuesday added new artificial intelligence (AI) features to some of its services including Textract, Transcribe, Kendra, CodeWhisperer, and HealthLake. The new updates, according to the company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3681662/aws-adds-ai-features-to-textract-transcribe-and-kendra.html",
-      "originalUrl": "https://www.infoworld.com/article/3681662/aws-adds-ai-features-to-textract-transcribe-and-kendra.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/idgnsImport/2015/08/id-2958856-reinvent_2015_03_keynote_1-100601984-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3681662/aws-adds-ai-features-to-textract-transcribe-and-kendra.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3681662/aws-adds-ai-features-to-textract-transcribe-and-kendra.amp.html",
-      "publishedDateTime": "2022-11-30T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-how-fintech-impacts-financial-inclusivity.md",
-      "title": "How Fintech Impacts Financial Inclusivity",
-      "excerpt": "What role does fintech play in financial inclusion? Southeast Asia has very high levels of smartphone penetration. In Indonesia, for example, 179 million people have smartphones,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/how-fintech-impacts-financial-inclusivity/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/how-fintech-impacts-financial-inclusivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60eda0efdccb85252c59d7a9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 660,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/how-fintech-impacts-financial-inclusivity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/how-fintech-impacts-financial-inclusivity/amp/",
-      "publishedDateTime": "2022-11-30T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

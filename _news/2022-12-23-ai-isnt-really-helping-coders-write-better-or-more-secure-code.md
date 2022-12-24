@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/ai-isnt-really-helping-coders-write
 webUrl: "https://www.techradar.com/news/ai-isnt-really-helping-coders-write-better-or-more-secure-code"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:

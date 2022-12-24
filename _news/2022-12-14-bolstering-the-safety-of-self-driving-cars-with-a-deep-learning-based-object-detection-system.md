@@ -22,6 +22,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Autos
+  - Computer Vision
 
 related:
   - title: "G.M. Unit’s Self-Driving Taxis Are Subject of U.S. Safety Investigation"

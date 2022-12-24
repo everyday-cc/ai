@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-24-sundeep-yerapotina-on-personal-finance-fintech-and-more.md",
+      "title": "Sundeep Yerapotina on Personal Finance, Fintech, and More",
+      "excerpt": "I had the opportunity to interview Mr. Sundeep Yerapotina, the Chief Risk Officer for Rewards Credit Cards at Citibank. He is a subject matter expert in the field of personal finance and credit risk management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/sundeep-yerapotina-personal-finance-fintech-more-3650716",
+      "originalUrl": "https://www.ibtimes.com/sundeep-yerapotina-personal-finance-fintech-more-3650716",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/4398108/credit-s-yerapotina.png",
+          "width": 1521,
+          "height": 1614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/sundeep-yerapotina-personal-finance-fintech-more-3650716?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/sundeep-yerapotina-personal-finance-fintech-more-3650716?amp=1",
+      "publishedDateTime": "2022-12-23T13:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-24-how-analytics-and-ai-can-help-you-build-a-better-customer-experience.md",
       "title": "How analytics and AI can help you build a better customer experience",
       "excerpt": "With the help of advanced technology, you can improve customer engagement and retention.",
@@ -359,7 +402,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/23/generative-ai-cloaked-in-mystery-and-debate/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -661,7 +704,7 @@
       "originalUrl": "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -911,7 +954,7 @@
       "originalUrl": "https://www.networkworld.com/article/3684112/intel-splits-gpu-group-into-two-separate-units.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -954,7 +997,7 @@
       "originalUrl": "https://arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 278,
+      "heat": 277,
       "tags": null,
       "images": [
         {
@@ -1006,7 +1049,7 @@
       "originalUrl": "https://www.techradar.com/news/ai-isnt-really-helping-coders-write-better-or-more-secure-code",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1208,49 +1251,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-riserobotics-granted-us-patent-for-key-technology-high-reduction-belt-driven-linear-actuator.md",
-      "title": "RISE™Robotics Granted US Patent for Key Technology - High Reduction Belt-Driven Linear Actuator",
-      "excerpt": "RISE™Robotics, the Zero Emission Motion Control Company, announced today that it has been granted a key U.S. Patent for their technology, the High Reduction Belt-Driven Linear Actuator U.S. Patent",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/b30174912/rise-robotics-granted-us-patent-for-key-technology-high-reduction-belt-driven-linear-actuator",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/b30174912/rise-robotics-granted-us-patent-for-key-technology-high-reduction-belt-driven-linear-actuator",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30174912",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30174912",
-      "publishedDateTime": "2022-12-22T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

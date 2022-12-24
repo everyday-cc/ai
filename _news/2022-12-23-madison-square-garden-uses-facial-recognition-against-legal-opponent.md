@@ -119,6 +119,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Facial Recognition Got a Lawyer Banned. Now She’s Suing Madison Square Garden Entertainment"
+    excerpt: "A spokesperson with the New York State Liquor Authority confirmed that the SLA issued a Letter of Advice to MSGE on November 29, informing the organization that, if the facts laid out in Davis’ complaint are found to be accurate,"
+    publishedDateTime: 2022-12-22T23:13:00Z
+    webUrl: "https://www.law.com/legaltechnews/2022/12/21/madison-square-garden-entertainments-policy-barring-plaintiffs-lawyers-from-venues-is-unlawful-attorney-says-397-65956/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 44
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2022/12/Davis-Conlon-767x633-1.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Facial recognition software leads to mom being kicked out of Radio City Music Hall over her employer"
     excerpt: "A mom chaperoning Girl Scouts to see a Christmas event at Radio Music Hall last month was kicked out after facial recognition software identified her as an employee of a New Jersey law firm battling the venue’s owner."
     publishedDateTime: 2022-12-22T23:38:00Z

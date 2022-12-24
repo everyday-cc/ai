@@ -131,6 +131,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Woman's Expulsion From Radio City Renews Call For Facial Recognition Ban"
+    excerpt: "Madison Square Garden Entertainment's use of facial-recognition technology is spurring new controversy this week, in the wake of news that Radio City Music Hall denied admittance to a lawyer who was attempting to take her daughter to a Rockettes performance."
+    publishedDateTime: 2022-12-21T19:46:00Z
+    webUrl: "https://www.mediapost.com/publications/article/380902/radio-city-uses-facial-recognition-to-block-lawyer.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 38
+    images:
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2022/12/21/shutterstock_612316997_hKqcKZx.jpg"
+        width: 600
+        height: 375
+        isCached: true
   - title: "Madison Square Garden Using Facial Recognition Technology To Kick Out Legal Adversaries"
     excerpt: "In recent months, Madison Square Garden and its affiliated venues have used facial recognition technology to remove multiple lawyers from the premises because they’re employed by firms in active litigation against MSG."
     publishedDateTime: 2022-12-21T21:03:00Z
@@ -159,15 +173,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Woman's Expulsion From Radio City Renews Call For Facial Recognition Ban"
-    excerpt: "Madison Square Garden Entertainment's use of facial-recognition technology is spurring new controversy this week, in the wake of news that Radio City Music Hall denied admittance to a lawyer who was attempting to take her daughter to a Rockettes performance."
-    publishedDateTime: 2022-12-21T21:16:00Z
-    webUrl: "https://www.mediapost.com/publications/article/380902/womans-expulsion-from-radio-city-renews-call-for.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 18
 
 secured: "03OFyALQ45uIrvWypUYg6A+F988K2PSAGwpjZKcoP6pruWEFW7/FyhYQnjLG5rQmdWjkiMJN4UrifVxA32NM5XqxcQhfG/at6x/sorQYrKJZHygquL0D07CHCGtzs4sJ6n5M0lHKb5acYT0kqzSO8OEFsi4s9H04adxhAezr9MU6qkBtfaAQUV8JNMBLlHaR3pLhN3eG9CTGVf66Zo7pteAryRXg26e1fyXSH1gSe3775gbQV+Fd7uLeK3qXluHY5q64dBA5RjMy39PaGKLATRZ+U/ADYFe2j43e6ae0T2FwbMUYLwPQKC/+1Hauve3HXWFIqGsqVAwLlVBPqQuUBa3qwpI1pgxV1Z4dFt5P0nE=;zqvlg5zgLkWPUM62WKtRZA=="
 ---

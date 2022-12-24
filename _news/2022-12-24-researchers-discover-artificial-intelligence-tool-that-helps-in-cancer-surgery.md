@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-23T22:33:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/273258377/researchers-discover-artificial-intelligence-tool-that-helps-in-cancer-surgery"
 webUrl: "https://www.bignewsnetwork.com/news/273258377/researchers-discover-artificial-intelligence-tool-that-helps-in-cancer-surgery"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.bignewsnetwork.com/ani1671834457.jpg"

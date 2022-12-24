@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ukraine-has-become-worlds-testing-grou
 webUrl: "https://thenextweb.com/news/ukraine-has-become-worlds-testing-ground-for-military-robots"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

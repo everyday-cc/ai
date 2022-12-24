@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-15-whats-holding-fintech-back-overcoming-legacy-barriers-to-accelerate-innovation.md",
+      "title": "What’s Holding Fintech Back: Overcoming Legacy Barriers To Accelerate Innovation",
+      "excerpt": "It’s no surprise that over half of financial experts report that the limitations of legacy systems are holding back banking data processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/11/15/whats-holding-fintech-back-overcoming-legacy-barriers-to-accelerate-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/11/15/whats-holding-fintech-back-overcoming-legacy-barriers-to-accelerate-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637242d187cba7e77561196d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/11/15/whats-holding-fintech-back-overcoming-legacy-barriers-to-accelerate-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/11/15/whats-holding-fintech-back-overcoming-legacy-barriers-to-accelerate-innovation/amp/",
+      "publishedDateTime": "2022-11-15T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-best-practices-for-bolstering-machine-learning-security.md",
       "title": "Best practices for bolstering machine learning security",
       "excerpt": "New considerations are necessary as more businesses adopt machine learning at scale. In association withCapital One Nearly 75% of the world’s largest companies have already integrated AI and machine learning (ML) into their business strategies.",
@@ -1310,58 +1362,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-kubiya-gives-developers-a-hand-with-conversational-ai-platform.md",
-      "title": "Kubiya gives developers a hand with conversational AI platform",
-      "excerpt": "Kubiya, a self-serve platform that uses conversational AI to execute devops, launched out of stealth today with $6 million in seed funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/",
-      "originalUrl": "https://venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1367728606-e1645809619993.jpg?fit=800%2C547&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/amp/",
-      "publishedDateTime": "2022-10-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

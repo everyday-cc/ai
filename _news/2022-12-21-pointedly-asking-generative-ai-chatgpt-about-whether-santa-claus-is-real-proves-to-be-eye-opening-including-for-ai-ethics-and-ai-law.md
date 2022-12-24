@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/21/pointedly-asking-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/12/21/pointedly-asking-generative-ai-chatgpt-about-whether-santa-claus-is-real-proves-to-be-eye-opening-for-ai-ethics-and-ai-law/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Generative AI Platform Empowers Marketing Teams to Generate Premium Videos"
-    excerpt: "Marketing teams know a thing or two about multitasking. From brand optimization, and content generation, to implementing strategies and tactics, their cross-functional roles are integral to the growth and success of every organization."
-    publishedDateTime: 2022-12-19T09:00:00Z
-    webUrl: "https://techbullion.com/this-generative-ai-platform-empowers-marketing-teams-to-generate-premium-videos/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 50
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/12/This-Generative-AI-Platform-Empowers-Marketing-Teams-to-Generate-Premium-Videos.jpg"
-        width: 700
-        height: 466
-        isCached: true
   - title: "Machine Learning and AI - Changing the Anti-Money Laundering Solutions Game"
     excerpt: "Money laundering is a crime that generates many costs, from financial losses through to human lives. In an effort to stem the tide of financial crime, financial institutions worldwide are now increasingly investing in AML Solutions."
     publishedDateTime: 2022-12-21T14:46:00Z

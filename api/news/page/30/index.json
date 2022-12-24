@@ -2,6 +2,146 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-11-29-finance-provider-sets-up-fund-aimed-at-ai-machine-learning-and-data-science.md",
+      "title": "Finance provider sets up fund aimed at AI, machine learning and data science",
+      "excerpt": "AI will focus specifically on early stage, high growth artificial intelligence (AI), machine learning and data science investment opportunities in the North of the UK. River Capital says Northern data science SMEs are underserved by venture capital,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thebusinessdesk.com/northwest/news/2106804-finance-provider-sets-up-fund-aimed-at-ai-machine-learning-and-data-science",
+      "originalUrl": "https://www.thebusinessdesk.com/northwest/news/2106804-finance-provider-sets-up-fund-aimed-at-ai-machine-learning-and-data-science",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thebusinessdesk.com/_files/images/nov_22/Dr-Marc-dAbbadie-river-capital-e1669722818427.png",
+          "width": 322,
+          "height": 216,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T03:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The UK",
+        "domain": "thebusinessdesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-artificial-intelligence-ai-in-drug-discovery-market-recent-trends-and-growth-2022-2028-ibm-microsoft.md",
+      "title": "Artificial Intelligence (AI) in Drug Discovery Market Recent Trends and Growth 2022-2028 | IBM, Microsoft",
+      "excerpt": "In the field of drug discovery, AI can be used to analyze large amounts of data from various sources such as laboratory experiments, clinical trials, and research papers to identify potential new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-drug-discovery-market-recent-trends-and-growth-2022-2028-ibm-microsoft",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-drug-discovery-market-recent-trends-and-growth-2022-2028-ibm-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://xherald.com/wp-content/uploads/2022/11/Artificial-Intelligence-AI-in-Drug-Discovery-IMAGE-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T03:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-six-ai-trends-poised-to-reshape-the-business-landscape.md",
+      "title": "Six AI Trends Poised To Reshape The Business Landscape",
+      "excerpt": "Successfully leveraging even one of these trends can help your organization optimize its competitive advantage while also elevating its growth trajectory.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-trends-poised-to-reshape-the-business-landscape/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-trends-poised-to-reshape-the-business-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&crop=5700,3206,x0,y294,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-trends-poised-to-reshape-the-business-landscape/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-trends-poised-to-reshape-the-business-landscape/amp/",
+      "publishedDateTime": "2022-11-29T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-nvidia-rolls-out-ai-platform-across-nhs-hospitals.md",
       "title": "Nvidia rolls out AI platform across NHS hospitals",
       "excerpt": "The platform ensures that patient data never leaves the hospital trust when an AI algorithm analyses medical records",
@@ -969,152 +1109,6 @@
         "AI in Healthcare",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-nvidia-ai-plays-minecraft-wins-machine-learning-conference-award.md",
-      "title": "Nvidia AI plays Minecraft, wins machine learning conference award",
-      "excerpt": "A paper describing MineDojo, Nvidia's generalist AI agent that can perform actions from written prompts in Minecraft, won an Outstanding Datasets and Benchmarks Paper Award at the 2022 NeurIPS (Neural Information Processing Systems) conference,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/mine_dojo_hero_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/amp/",
-      "publishedDateTime": "2022-11-28T14:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-chinese-artist-ai-weiwei-says-covid-protests-will-not-shake-government.md",
-      "title": "Chinese artist Ai Weiwei says COVID protests will not shake government",
-      "excerpt": "From his Portuguese home, Ai Weiwei, the high-profile Chinese dissident whose art has often criticized Beijing's policies, said the recent wave of protests would not shake Xi Jinping's government because the police would simply crush them into silence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/health-coronavirus-china-ai-weiwei/chinese-artist-ai-weiwei-says-covid-protests-will-not-shake-government-idUSKBN2SI1SQ",
-      "originalUrl": "https://www.reuters.com/article/health-coronavirus-china-ai-weiwei/chinese-artist-ai-weiwei-says-covid-protests-will-not-shake-government-idUSKBN2SI1SQ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/4JzXQiiYgBFZoJU8ke76ndbpXlw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VWB3QZJOYNJW5LHEASOY2U5PVE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T11:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-enzyme-drives-cognitive-decline-in-mice-provides-new-target-for-alzheimers.md",
-      "title": "Enzyme drives cognitive decline in mice, provides new target for Alzheimer's",
-      "excerpt": "In a new study, researchers at University of California San Diego School of Medicine found that the subtle increase in PKCα was sufficient to produce biochemical, cellular and cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-11-enzyme-cognitive-decline-mice-alzheimer.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-11-enzyme-cognitive-decline-mice-alzheimer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/enzyme-drives-cognitiv-1.jpg",
-          "width": 650,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-11-enzyme-cognitive-decline-mice-alzheimer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-enzyme-cognitive-decline-mice-alzheimer.amp",
-      "publishedDateTime": "2022-11-28T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

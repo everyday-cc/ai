@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-22-riserobotics-granted-us-patent-for-key-technology-high-reduction-belt-driven-linear-actuator.md",
+      "title": "RISE™Robotics Granted US Patent for Key Technology - High Reduction Belt-Driven Linear Actuator",
+      "excerpt": "RISE™Robotics, the Zero Emission Motion Control Company, announced today that it has been granted a key U.S. Patent for their technology, the High Reduction Belt-Driven Linear Actuator U.S. Patent",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/b30174912/rise-robotics-granted-us-patent-for-key-technology-high-reduction-belt-driven-linear-actuator",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/b30174912/rise-robotics-granted-us-patent-for-key-technology-high-reduction-belt-driven-linear-actuator",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30174912",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30174912",
+      "publishedDateTime": "2022-12-22T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-22-keep-autonomous-killing-machines-off-our-streets-opinion.md",
       "title": "Keep Autonomous Killing Machines Off Our Streets | Opinion",
       "excerpt": "Robots are not, yet, autonomous killing machines. Even the rule briefly considered in San Francisco, would have kept a human operator in the decision loop.",
@@ -451,7 +494,7 @@
       "originalUrl": "https://thenextweb.com/news/ukraine-has-become-worlds-testing-ground-for-military-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -918,7 +961,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/12/21/pointedly-asking-generative-ai-chatgpt-about-whether-santa-claus-is-real-proves-to-be-eye-opening-for-ai-ethics-and-ai-law/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1074,7 +1117,7 @@
       "originalUrl": "https://www.scmagazine.com/perspective/emerging-technology/three-best-practices-for-ml-ai-security",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -1201,49 +1244,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-sea-machines-and-uscg-partner-on-computer-vision-domain-awareness.md",
-      "title": "Sea Machines and USCG partner on computer vision domain awareness",
-      "excerpt": "Installation on the cutter was made possible under an ongoing Cooperative Research and Development Agreement (CRADA) between Sea Machines Robotics and the USCG Research and Development Center in an effort to evaluate how computer vision systems can be utilized for autonomous navigation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinelog.com/technology/sea-machines-and-uscg-partner-on-computer-vision-domain-awareness/",
-      "originalUrl": "https://www.marinelog.com/technology/sea-machines-and-uscg-partner-on-computer-vision-domain-awareness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marinelog.com/wp-content/uploads/2022/12/USCG_Famous_Class_Cutter.jpg",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-20T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marine Log",
-        "domain": "marinelog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

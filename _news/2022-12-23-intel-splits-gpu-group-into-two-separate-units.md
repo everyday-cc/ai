@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3684112/intel-splits-gpu-group-
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3684112/intel-splits-gpu-group-into-two-separate-units.amp.html"
 type: article
 quality: 59
-heat: 90
+heat: 89
 published: true
 
 provider:

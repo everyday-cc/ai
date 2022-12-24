@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-06-medical-studies-get-tech-edge-with-ai-machine-learning-remote-care.md",
+      "title": "Medical studies get tech edge with AI, machine learning, remote care",
+      "excerpt": "New-age technologies like Artificial Intelligence (AI) and Machine Learning (ML) have taken diagnosis, treatment, post-operative care, remote patient care and palliative care to a whole new level.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/articleshow/96010436.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/articleshow/96010436.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-96010436,imgsize-60926,width-800/96010436.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/amp_articleshow/96010436.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/amp_articleshow/96010436.cms",
+      "publishedDateTime": "2022-12-05T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools.md",
       "title": "14 Innovative Ways Agencies Are Leveraging Machine Learning Ad Tools",
       "excerpt": "Here, members of Forbes Agency Council share impactful ways agencies are leveraging ML advertising tools. Read on to learn about a variety of innovative ways agency pros are using ML to better reach consumers and attract more targeted audiences.",
@@ -1377,50 +1420,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-finance-provider-sets-up-fund-aimed-at-ai-machine-learning-and-data-science.md",
-      "title": "Finance provider sets up fund aimed at AI, machine learning and data science",
-      "excerpt": "AI will focus specifically on early stage, high growth artificial intelligence (AI), machine learning and data science investment opportunities in the North of the UK. River Capital says Northern data science SMEs are underserved by venture capital,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thebusinessdesk.com/northwest/news/2106804-finance-provider-sets-up-fund-aimed-at-ai-machine-learning-and-data-science",
-      "originalUrl": "https://www.thebusinessdesk.com/northwest/news/2106804-finance-provider-sets-up-fund-aimed-at-ai-machine-learning-and-data-science",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thebusinessdesk.com/_files/images/nov_22/Dr-Marc-dAbbadie-river-capital-e1669722818427.png",
-          "width": 322,
-          "height": 216,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T03:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The UK",
-        "domain": "thebusinessdesk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

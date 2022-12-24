@@ -2,11 +2,11 @@
 category: news
 title: "Woman's Expulsion From Radio City Renews Call For Facial Recognition Ban"
 excerpt: "Madison Square Garden Entertainment's use of facial-recognition technology is spurring new controversy this week, in the wake of news that Radio City Music Hall denied admittance to a lawyer who was attempting to take her daughter to a Rockettes performance."
-publishedDateTime: 2022-12-21T21:16:00Z
-originalUrl: "https://www.mediapost.com/publications/article/380902/womans-expulsion-from-radio-city-renews-call-for.html"
-webUrl: "https://www.mediapost.com/publications/article/380902/womans-expulsion-from-radio-city-renews-call-for.html"
+publishedDateTime: 2022-12-21T19:46:00Z
+originalUrl: "https://www.mediapost.com/publications/article/380902/radio-city-uses-facial-recognition-to-block-lawyer.html"
+webUrl: "https://www.mediapost.com/publications/article/380902/radio-city-uses-facial-recognition-to-block-lawyer.html"
 type: article
-quality: 18
+quality: 38
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2022/12/21/shutterstock_612316997_hKqcKZx.jpg"
+    width: 600
+    height: 375
+    isCached: true
 
 related:
   - title: "TSA's facial recognition technology raises security, privacy concerns"
@@ -168,6 +174,6 @@ related:
         height: 720
         isCached: true
 
-secured: "Quv5XxcrJbYbLrzMDMsUzdAzZUcXNMZywX6QchRUPQvJJCAxtiUMwSN3Ty9fTIhLlRoh6V0NhgcK/CwpqVLlyVKKDxbqFsB6U3zmIL6vjqXEicT4RmLPxwNcRQdwj3HulveVHcrnohZRlXX1cbKU7umRAgm2uAvJmPkxBSAjIz3kMKMYowT3S/PeOzO6fmFCuJzQ9fSdU6nt/mzFbVowBlf4ugmgYyPgDesZeGuVt7Hw6tAmiGPpVd1yGbqwciWbbbSTrULdy0RycvxceuoSBfLVwvc4AzyKMTvqlkngMobgHg8BI+i9nswv/73N5hLxuAjwM2XUmJHQJv/jmYqW5lmXMM66kpM/uq9cTxv9h3p+WjCytlumWtYc0bEZ4eo8JvoKc2FynxixdIPY7MQXWZIEQPo2jMGS7pNRYPjAIK867BbhhpNbteUAm+iN7zN0r6p9utFZi8pnixhdduqOOW9J7JkaEh1X95z8BzICNUrnaJyaPHj4sBylNRRrLerPLDho5qFJZPq5GUKEx4ywfw==;AS4SxoxPJ+3BoERlZGPkjA=="
+secured: "5qflO/iq4AjqmdWdItdEXsPOz4UVA9UroU8B5FieFBGKuuzqrIWJbWz8YwKj4PZPi//u54H+SIQGoRnXljggiDPsYKi13tsE79/qmQcRMpRvFTm/dLeqRbykfA+zGHu0HswilJGpdGC+hvVUnbAl6/ajI4eP+uqb2C2hB20Qq5qu86dtez20m/bBnegRWyMZuQs4RyhgHfgRA1tn1z9eNmtBn2wGyC5rIlDDtBFJ86GlS86Wm17cxgGRXFBSigJTdIMWCILZC/gIiie5a3ZNG0oTSc7S2ffNS1zDZ1iCjvpOHaHZY7RYexhZc6/+1sb+LuhgnOBfqVDTN4e/PAGCh9oXpJkU/FsMpBt1r0Gqcg4=;jo6wrcfyfURnQn5JgQmEyg=="
 ---
 

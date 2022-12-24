@@ -36,20 +36,6 @@ related:
         width: 1063
         height: 609
         isCached: true
-  - title: "This Generative AI Platform Empowers Marketing Teams to Generate Premium Videos"
-    excerpt: "Marketing teams know a thing or two about multitasking. From brand optimization, and content generation, to implementing strategies and tactics, their cross-functional roles are integral to the growth and success of every organization."
-    publishedDateTime: 2022-12-19T09:00:00Z
-    webUrl: "https://techbullion.com/this-generative-ai-platform-empowers-marketing-teams-to-generate-premium-videos/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 50
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/12/This-Generative-AI-Platform-Empowers-Marketing-Teams-to-Generate-Premium-Videos.jpg"
-        width: 700
-        height: 466
-        isCached: true
 
 secured: "qPbi3pfUTi854zspWF2rmCbMGvepaWumyunUnPozaPVXUG8FVRS426/RxkSQZn4DTx7gAUKwHqOBttB5PUQluaS5jULqEklO9J5//B7Y2JCDeXnnGipR2zhCyDSoVAtxKPZFm8huJIGfnb3jVqWNeTwFFhe+E94WoQ0yQ/ISQ9ZEJfA80oSvqDl+/LEiVN3QF6d6VFNkHZKudT7PWUwjK3LIG2SDSh9sAojibrMB9ZQeKxibl0l44OkbCTXiQU8ySScgphPlXPNdfRkMFFX/UyQnDjjfQVHPFDzkTe50EpoinKRzbmLTPCGhneja1ZJ2ep4j5HxpQcXz7bUtHheOyH22naL2JQmmRrqxkU7ZVBg=;brR6J7jzmvliz5m8FpD8Jw=="
 ---

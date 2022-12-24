@@ -2,6 +2,144 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2022-09-28-atscale-announces-data-science-and-enterprise-ai-capabilities-within-semantic-layer-platform.md",
+      "title": "AtScale Announces Data Science and Enterprise AI Capabilities Within Semantic Layer Platform",
+      "excerpt": "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/atscale-announces-data-science-and-enterprise-ai-capabilities-within-semantic-layer-platform-2022-09-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/atscale-announces-data-science-and-enterprise-ai-capabilities-within-semantic-layer-platform-2022-09-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-qai-wins-investmenttech-and-personal-finance-tech-of-the-year-at-2022-us-fintech-awards.md",
+      "title": "Q.ai Wins \"InvestmentTech\" and \"Personal Finance Tech of the Year\" at 2022 US FinTech Awards",
+      "excerpt": "Q.ai Wins \"InvestmentTech\" and \"Personal Finance Tech of the Year\" at 2022 US FinTech Awards Sep 28, 2022 (PRNewswire via COMTEX) -- PR Newswire NEW",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/qai-wins-investmenttech-and-personal-finance-tech-of-the-year-at-2022-us-fintech-awards-2022-09-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/qai-wins-investmenttech-and-personal-finance-tech-of-the-year-at-2022-us-fintech-awards-2022-09-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-aiadvertising-signs-multi-million-dollar-agreement-with-fintech-unicorn-to-empower-its-upcoming-launch.md",
+      "title": "AiAdvertising Signs Multi-Million Dollar Agreement with Fintech Unicorn to Empower its Upcoming Launch",
+      "excerpt": "(OTC: AIAD), a next-generation AdTech company focused on harnessing the power of artificial intelligence (AI) and machine learning (ML) to build software for today’s marketing leaders, today announced it has signed a multi-million dollar agreement with a fintech unicorn.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-28-aiadvertising-signs-multi-million-dollar-agreement-with-fintech-unicorn-to-empower-its-upcoming-launch",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-28-aiadvertising-signs-multi-million-dollar-agreement-with-fintech-unicorn-to-empower-its-upcoming-launch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-28-cloud-api-market-is-anticipated-grow-usd-371-billion-at-a-cagr-of-232-by-2030-report-by-market-research-future-mrfr.md",
       "title": "Cloud API Market Is Anticipated Grow USD 3.71 Billion At A CAGR Of 23.2% By 2030 - Report By Market Research Future (MRFR)",
       "excerpt": "According to a comprehensive research report by Market Research Future (MRFR),“ by End-Users and Vertical - Forecast to 2030”, the market is anticipated to acquire a valuation of approximately USD 3.71 Billion by the end of 2030.",
@@ -1010,145 +1148,6 @@
         "AI",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-intel-ceo-on-high-gpu-prices-you-should-be-frustrated.md",
-      "title": "Intel CEO on high GPU prices: ‘You should be frustrated’",
-      "excerpt": "Intel revealed the pricing and release date for its upcoming Arc Alchemist GPUs, along with a sobering message on high GPU prices: \"ou should be frustrated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/",
-      "originalUrl": "https://www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/intel-arc-alchemist-launch.jpg?p=1",
-          "width": 1723,
-          "height": 967,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/?amp",
-      "publishedDateTime": "2022-09-27T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-speech-recognition-market-size-to-hit-usd-488-billion-at-a-2130-cagr-by-2030-report-by-market-research-future-mrfr.md",
-      "title": "Speech Recognition Market Size To Hit USD 48.8 Billion at a 21.30% CAGR by 2030 - Report by Market Research Future (MRFR)",
-      "excerpt": "The speech recognition market witness's rapid revenue growth due to the increasing use in the education sectors globally. Besides, the rising demand for accurate and easy-to-use speech recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g29036418/speech-recognition-market-size-to-hit-usd-48-8-billion-at-a-21-30-cagr-by-2030-report-by-market-re",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g29036418/speech-recognition-market-size-to-hit-usd-48-8-billion-at-a-21-30-cagr-by-2030-report-by-market-re",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29036418",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29036418",
-      "publishedDateTime": "2022-09-27T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-intel-geti-and-openvino-efforts-advance-ai-and-computer-vision.md",
-      "title": "Intel Geti and OpenVINO efforts advance AI and computer vision",
-      "excerpt": "Intel launches new platform with Geti to help make it easier for users to build computer vision models that can be deployed using OpenVINO.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-ai-and-computer-vision/",
-      "originalUrl": "https://venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-ai-and-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1351781263-e1664230107251.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-ai-and-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-ai-and-computer-vision/amp/",
-      "publishedDateTime": "2022-09-27T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

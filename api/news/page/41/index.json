@@ -2,6 +2,164 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2022-11-18-5-jobs-that-could-be-taken-by-artificial-intelligence-in-the-next-10-years.md",
+      "title": "5 Jobs That Could Be Taken By Artificial Intelligence In The Next 10 Years",
+      "excerpt": "The thing is though, the uses of AI go much, much further than making pretty pictures. We’re seeing the use of artificial intelligence grow all the time, across all different sectors of the economy. This is likely to end up with many jobs as we know them ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637652b1faac083553360160/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/amp/",
+      "publishedDateTime": "2022-11-18T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-five-ways-android-13-has-supercharged-my-galaxy-s22-experience.md",
+      "title": "Five ways Android 13 has supercharged my Galaxy S22 experience",
+      "excerpt": "All you need to do is long press in the text area of an image, and the Optical Character Recognition (OCR ... When you draw a shape in an image — say, for highlighting a certain object by drawing around it — and hold on to the outline, it will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/11/gesture-floating-window.jpg?p=1",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/?amp",
+      "publishedDateTime": "2022-11-18T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-diverse-teams-are-needed-to-save-the-planet.md",
+      "title": "Diverse Teams Are Needed to Save the Planet",
+      "excerpt": "For Lila Ibrahim, chief operating officer at DeepMind, and Hayaatun Sillem, CEO of the Royal Academy of Engineering, being both female and people of color meant the odds were stacked against them in their industry. But for Sillem, who is the first woman ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/wired-impact-diversity-inclusion/",
+      "originalUrl": "https://www.wired.com/story/wired-impact-diversity-inclusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6376afe5aed231a201071873/master/pass/0393_WIREDImpact.JPG",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/wired-impact-diversity-inclusion/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/wired-impact-diversity-inclusion/amp",
+      "publishedDateTime": "2022-11-18T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-the-birth-of-ai-powered-fastsaas.md",
       "title": "The Birth of AI-powered FastSaaS",
       "excerpt": "Led by investment from OpenAI Startup Fund, Mem was the first to introduce an AI-powered workspace organisation tool, with its product, Mem X. Notion’s reinvention of its platform may have been a direct effect of the shift in tide towards many of the AI application tools.",
@@ -992,154 +1150,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-3-key-ways-artificial-intelligence-helps-organizations-drive-dei.md",
-      "title": "3 Key Ways Artificial Intelligence Helps Organizations Drive DE&I",
-      "excerpt": "Debates about the efficacy and ethics of using artificial intelligence (AI) —or not using it—when making decisions about hiring, promotions, and diversity, equity and inclusion (DE&I) have been going on for years. And while the AI Bill of Rights has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-intelligence-helps-organizations-drive-dei/",
-      "originalUrl": "https://www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-intelligence-helps-organizations-drive-dei/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/600af5868c1bda438d3a4b6a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-intelligence-helps-organizations-drive-dei/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/magnit/2022/11/17/3-key-ways-artificial-intelligence-helps-organizations-drive-dei/amp/",
-      "publishedDateTime": "2022-11-17T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-korean-firm-uses-ai-system-to-produce-anthology-of-poems.md",
-      "title": "Korean firm uses AI system to produce anthology of poems",
-      "excerpt": "RELATED Facebook parent Meta unveils AI video generator Make-a-Video \"We will see more paintings, novels and poems produced by AI or AI-based tools down the road,\" he said. U.S. accuses Iran ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/World-News/2022/11/17/AI-artificial-intelligence-poetry-CJ-OliveNetworks/5911668705156/",
-      "originalUrl": "https://www.upi.com/Top_News/World-News/2022/11/17/AI-artificial-intelligence-poetry-CJ-OliveNetworks/5911668705156/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/5911668705156/2022/1/16687055077726/v1.5/Korean-firm-uses-AI-system-to-produce-anthology-of-poems.jpg",
-          "width": 798,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2022/11/17/AI-artificial-intelligence-poetry-CJ-OliveNetworks/5911668705156/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2022/11/17/AI-artificial-intelligence-poetry-CJ-OliveNetworks/5911668705156/",
-      "publishedDateTime": "2022-11-17T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-unbabel-provides-real-time-ai-driven-multilingual-support-for-live-customer-service-agents.md",
-      "title": "Unbabel provides real-time, AI-driven multilingual support for live customer service agents",
-      "excerpt": "Unbabel has partnered with Ada to provide multilingual assistance to live customer service agents and language capabilities to Ada chatbots.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/unbabel-provides-real-time-ai-driven-multilingual-support-for-live-customer-service-agents/",
-      "originalUrl": "https://venturebeat.com/ai/unbabel-provides-real-time-ai-driven-multilingual-support-for-live-customer-service-agents/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/04/chatbot-customer-service-shutterstock_664204579.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/unbabel-provides-real-time-ai-driven-multilingual-support-for-live-customer-service-agents/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/unbabel-provides-real-time-ai-driven-multilingual-support-for-live-customer-service-agents/amp/",
-      "publishedDateTime": "2022-11-17T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

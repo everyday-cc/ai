@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UNO Digital Bank partners with fintech Trusting Social"
-    excerpt: "UNO DIGITAL BANK has partnered with technology firm Trusting Social to offer more Filipino consumers greater access to loans with the help of data science tools. “Our partnership with Trusting Social will allow us to offer our services to unbanked Filipinos who otherwise won’t have access to formal lending services,"
-    publishedDateTime: 2022-12-19T15:01:00Z
-    webUrl: "https://www.bworldonline.com/banking-finance/2022/12/20/494019/uno-digital-bank-partners-with-fintech-trusting-social/"
-    ampWebUrl: "https://www.bworldonline.com/banking-finance/2022/12/20/494019/uno-digital-bank-partners-with-fintech-trusting-social/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/banking-finance/2022/12/20/494019/uno-digital-bank-partners-with-fintech-trusting-social/?amp"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 39
   - title: "World Fintech Show features dynamic collaborations set to influence the direction of fintech in Saudi Arabia."
     excerpt: "After two thrillingly eventful days, World Fintech Show, Powered by Revival Lab, Fintactics, and Arbah Capitalconcludes"
     publishedDateTime: 2022-12-22T15:18:00Z
@@ -67,34 +56,6 @@ related:
       - url: "https://www.finextra.com/finextra-images/visible_pictures/741715aa-3c6c-47b7-8c75-a21f366cb9b5.jpg"
         width: 500
         height: 333
-        isCached: true
-  - title: "What’s in store for FinTech in 2023?"
-    excerpt: "FStech has reached out to thought leaders in the space to get their thoughts and opinions on what to expect in 2023"
-    publishedDateTime: 2022-12-22T10:58:00Z
-    webUrl: "https://www.fstech.co.uk/fst/Whats_In_Store_For_FinTech_2023.php"
-    type: article
-    provider:
-      name: fstech
-      domain: fstech.co.uk
-    quality: 24
-    images:
-      - url: "https://www.fstech.co.uk/fst/images/businessman-buttons-virtual-fintech-m.jpg"
-        width: 5580
-        height: 3138
-        isCached: true
-  - title: "CPS Announces New FinTech-Driven Automotive Financing Platform Enhancements"
-    excerpt: "CPS expects Informed.IQ’s AI tools to significantly reduce the funding time. For decades, CPS has focused on bringing improved intelligence to auto lending, becoming a leader in FinTech initiatives that enhance the front-end review and financial decision-making process."
-    publishedDateTime: 2022-12-19T13:31:00Z
-    webUrl: "https://apnews.com/article/artificial-intelligence-b8faff8f405895bbf48750ed5667f360"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "AI In Fintech Market is likely to surge at a 16.5% CAGR from 2022 to 2032"
     excerpt: "According to an ESOMAR-certified Future Market Insights report, the global artificial intelligence in fintech market is expected to be worth US$ 10.1 billion in 2021 and US$ 11.76 billion by 2022. The market is expected to be worth US$ 54 billion by 2032,"
@@ -133,15 +94,6 @@ related:
         width: 604
         height: 430
         isCached: true
-  - title: "Top Fintech Trends in 2023"
-    excerpt: "With rapidly growing demand for financial services, banks are in constant competition with fintech companies, but open banking gives them the opportunity to fight this pressure by partnering with them instead."
-    publishedDateTime: 2022-12-21T13:38:00Z
-    webUrl: "https://www.finextra.com/blogposting/23446/top-fintech-trends-in-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "jWXNlY/39S2FYg04RCei4ihpSmTy6UMQX+E+45+Mf5FzUHtkw0hq6RNH/7OXo7T+BGNvEvofVhv/p7U82vMwTlWE9PTEWUMgDaYh9dOVy7wc2H+aZ2XJie2Cj/gyidjsf1hQCVOyX/5LaVrq7CaPqfQiKRuUv0gFIFy+qmm/9X10yXN52qvQ3SN3lH7d8XHDvbOcLy8nMpHRXUR1gAaRTRJGs5q03/hPxsme6q9YjL6vFLNKfsCfK63vT73e/68ETflcum/gVM2Ms80PbfpIzz0pRAOwF1bOLWGr/v2O6VSP2mOf8wDe1bvJGIn7wrBjy+ZzMjcHp9NzkZMjTvDcCfmSy6OvPNgBSQyX8SXp2D3Rk7OvNVSYb6TjQcaAhrSwleNRpyFY/p4bE35a38JiunnlkWgSOp0nHzDowg/TOFO+Z3DqOQbrCWJUThKTC6p/Dm10ihVyHLv4dUnT1pETHk1YTpBSrLxp9Tayb9AtBiGxxdJ/yWo/Os/MbFyVV1/LU9kwLgCr1cenC0fQw+lfWw==;ep53pgPJFnC9OGRk37gacA=="
 ---

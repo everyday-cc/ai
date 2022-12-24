@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-24-sundeep-yerapotina-on-personal-finance-fintech-and-more.md",
+      "title": "Sundeep Yerapotina on Personal Finance, Fintech, and More",
+      "excerpt": "I had the opportunity to interview Mr. Sundeep Yerapotina, the Chief Risk Officer for Rewards Credit Cards at Citibank. He is a subject matter expert in the field of personal finance and credit risk management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/sundeep-yerapotina-personal-finance-fintech-more-3650716",
+      "originalUrl": "https://www.ibtimes.com/sundeep-yerapotina-personal-finance-fintech-more-3650716",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/4398108/credit-s-yerapotina.png",
+          "width": 1521,
+          "height": 1614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/sundeep-yerapotina-personal-finance-fintech-more-3650716?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/sundeep-yerapotina-personal-finance-fintech-more-3650716?amp=1",
+      "publishedDateTime": "2022-12-23T13:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-23-automated-machine-learning-automl-market-analysis-report-2023-along-with-statistics-figures-forecasts-till-2029.md",
       "title": "Automated Machine Learning (AutoML) Market Analysis Report 2023 Along with Statistics Figures, Forecasts till 2029",
       "excerpt": "Market Report offers an Complete view about the cutthroat scene of the Automated Machine Learning (AutoML) market and incorporates a profound picture of execution by a portion of the key global players finishing on the lookout.",
@@ -1359,49 +1402,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-role-of-ai-in-fintech.md",
-      "title": "Role of AI in fintech",
-      "excerpt": "AI has come a long way since then! Innovation has always been a strong pillar of the fintech ecosystem. It is not surprising that in recent years, they have relied heavily on AI and ML to make ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/role-of-ai-in-fintech/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/role-of-ai-in-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/role-of-ai-in-fintech/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/role-of-ai-in-fintech/",
-      "publishedDateTime": "2022-11-30T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

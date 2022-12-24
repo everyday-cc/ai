@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-01-role-of-ai-in-fintech.md",
+      "title": "Role of AI in fintech",
+      "excerpt": "AI has come a long way since then! Innovation has always been a strong pillar of the fintech ecosystem. It is not surprising that in recent years, they have relied heavily on AI and ML to make ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/role-of-ai-in-fintech/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/role-of-ai-in-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/role-of-ai-in-fintech/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/role-of-ai-in-fintech/",
+      "publishedDateTime": "2022-11-30T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-how-fintech-impacts-financial-inclusivity.md",
       "title": "How Fintech Impacts Financial Inclusivity",
       "excerpt": "What role does fintech play in financial inclusion? Southeast Asia has very high levels of smartphone penetration. In Indonesia, for example, 179 million people have smartphones,",
@@ -1245,58 +1288,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-enhancement-factors-for-secure-fintech-apps/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/15/five-key-enhancement-factors-for-secure-fintech-apps/amp/",
       "publishedDateTime": "2022-11-15T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-whats-holding-fintech-back-overcoming-legacy-barriers-to-accelerate-innovation.md",
-      "title": "What’s Holding Fintech Back: Overcoming Legacy Barriers To Accelerate Innovation",
-      "excerpt": "It’s no surprise that over half of financial experts report that the limitations of legacy systems are holding back banking data processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/11/15/whats-holding-fintech-back-overcoming-legacy-barriers-to-accelerate-innovation/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/11/15/whats-holding-fintech-back-overcoming-legacy-barriers-to-accelerate-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637242d187cba7e77561196d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/11/15/whats-holding-fintech-back-overcoming-legacy-barriers-to-accelerate-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/11/15/whats-holding-fintech-back-overcoming-legacy-barriers-to-accelerate-innovation/amp/",
-      "publishedDateTime": "2022-11-15T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

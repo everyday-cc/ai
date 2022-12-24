@@ -60,20 +60,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
-  - title: "Self-driving truck startup TuSimple to cut half of workforce: report"
-    excerpt: "TuSimple is planning a major headcount reduction which could affect 50% of its staff as the self-driving truck startup looks to cut costs"
-    publishedDateTime: 2022-12-19T08:54:00Z
-    webUrl: "https://technode.com/2022/12/19/self-driving-truck-startup-tusimple-to-cut-half-of-workforce-report/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
   - title: "Self-driving truck company TuSimple lays off 25% of staff days before Christmas"
     excerpt: "It’s not a Merry Christmas for many employees of self-driving truck company TuSimple Holdings Inc. this year, with the company announcing that it is laying off 25% of its staff as part of a restructuring plan."
     publishedDateTime: 2022-12-23T01:23:00Z

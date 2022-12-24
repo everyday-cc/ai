@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Three trends that will define India’s fintech sector in 2023"
-    excerpt: "Neobank partnerships driving hyper-personalised financial products, AI-driven efficiency in digital lending services and wealth tech for everyone. These three trends will enable fintech innovation in India and retain its position as the global fintech leader in 2023."
-    publishedDateTime: 2022-12-21T11:20:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/three-trends-that-will-define-indias-fintech-sector-in-2023/articleshow/96398341.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/three-trends-that-will-define-indias-fintech-sector-in-2023/amp_articleshow/96398341.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/three-trends-that-will-define-indias-fintech-sector-in-2023/amp_articleshow/96398341.cms"
+  - title: "Sundeep Yerapotina on Personal Finance, Fintech, and More"
+    excerpt: "I had the opportunity to interview Mr. Sundeep Yerapotina, the Chief Risk Officer for Rewards Credit Cards at Citibank. He is a subject matter expert in the field of personal finance and credit risk management."
+    publishedDateTime: 2022-12-23T21:49:00Z
+    webUrl: "https://www.ibtimes.com/sundeep-yerapotina-personal-finance-fintech-more-3650716"
+    ampWebUrl: "https://www.ibtimes.com/sundeep-yerapotina-personal-finance-fintech-more-3650716?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/sundeep-yerapotina-personal-finance-fintech-more-3650716?amp=1"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-6876,msid-96398756/1649259868823.jpg"
-        width: 600
-        height: 450
+      - url: "https://d.ibtimes.com/en/full/4398108/credit-s-yerapotina.png"
+        width: 1521
+        height: 1614
         isCached: true
   - title: "UNO Digital Bank partners with fintech Trusting Social"
     excerpt: "UNO DIGITAL BANK has partnered with technology firm Trusting Social to offer more Filipino consumers greater access to loans with the help of data science tools. “Our partnership with Trusting Social will allow us to offer our services to unbanked Filipinos who otherwise won’t have access to formal lending services,"
@@ -46,36 +46,6 @@ related:
       name: BusinessWorld
       domain: bworldonline.com
     quality: 39
-  - title: "World Fintech Show features dynamic collaborations set to influence the direction of fintech in Saudi Arabia."
-    excerpt: "After two thrillingly eventful days, World Fintech Show, Powered by Revival Lab, Fintactics, and Arbah Capitalconcludes"
-    publishedDateTime: 2022-12-22T15:18:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/a30176367/world-fintech-show-features-dynamic-collaborations-set-to-influence-the-direction-of-fintech-in-sa"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30176367"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30176367"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-        width: 800
-        height: 313
-        isCached: true
-  - title: "The case for optimism: encouraging fintech trends in 2023"
-    excerpt: "Fintech vendors leveraging data and cloud automation rapidly become the new security standard-bearers in various verticals. There is a fundamental and radical improvement in the tools available to assess risk and fraud."
-    publishedDateTime: 2022-12-19T10:08:00Z
-    webUrl: "https://www.finextra.com/blogposting/23430/the-case-for-optimism-encouraging-fintech-trends-in-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/741715aa-3c6c-47b7-8c75-a21f366cb9b5.jpg"
-        width: 500
-        height: 333
-        isCached: true
   - title: "What’s in store for FinTech in 2023?"
     excerpt: "FStech has reached out to thought leaders in the space to get their thoughts and opinions on what to expect in 2023"
     publishedDateTime: 2022-12-22T10:58:00Z
@@ -104,43 +74,15 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AI In Fintech Market is likely to surge at a 16.5% CAGR from 2022 to 2032"
-    excerpt: "According to an ESOMAR-certified Future Market Insights report, the global artificial intelligence in fintech market is expected to be worth US$ 10.1 billion in 2021 and US$ 11.76 billion by 2022. The market is expected to be worth US$ 54 billion by 2032,"
-    publishedDateTime: 2022-12-20T11:26:00Z
-    webUrl: "https://www.fmiblog.com/2022/12/20/ai-in-fintech-market-is-likely-to-surge-at-a-16-5-cagr-from-2022-to-2032/"
+  - title: "Sundeep Yerapotina on Personal Finance, Fintech, and More"
+    excerpt: "I had the opportunity to interview Mr. Sundeep Yerapotina, the Chief Risk Officer for Rewards Credit Cards at Citibank. He is a subject matter expert in the field of personal finance and credit risk management."
+    publishedDateTime: 2022-12-21T18:39:00Z
+    webUrl: "https://www.ibtimes.com/sundeep-yerapotina-personal-finance-fintech-more-3649874"
     type: article
     provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 18
-  - title: "World Fintech Show features dynamic collaborations set to influence the direction of FinTech in Saudi Arabia"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2022-12-20T06:15:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/world-fintech-show-features-dynamic-collaborations-set-to-influence-the-direction-of-fintech-in-saudi-arabia/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 5
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/12/Event-123.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "World Fintech Show Features Dynamic Collaborations Set To Influence The Direction Of Fintech In Saudi Arabia."
-    excerpt: "World Fintech Show features dynamic collaborations set to influence the direction of fintech in Saudi Arabia. <br /> After two thrillingly eventfu"
-    publishedDateTime: 2022-12-22T21:08:00Z
-    webUrl: "https://menafn.com/1105344144/World-Fintech-Show-Features-Dynamic-Collaborations-Set-To-Influence-The-Direction-Of-Fintech-In-Saudi-Arabia"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 5
-    images:
-      - url: "https://menafn.com/updates/pr/2022-12/22/AN_d1241dbd-b_Image_In_Body.jpg"
-        width: 604
-        height: 430
-        isCached: true
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 19
 
 secured: "hg3EnLMFQK8OirqmDlxNGF75mjDbyPM5E45mSnL9xCxH4Z9JmI3mcT240yaQX7xZVtvUUyxS1U3ulcj5AWHb6q0XAjTXV2NswN/qM9rfGCCCycvD/JxWGwUZeZPZlNvPCF9sFq1qfN6P4K6KRN0fUl0HT7axObfoo7wAqqxtXnQZH//uBnSzOQXWW8vafLFNsKe9Q41jlloOFVPfXBq0gE3iRGe7EKNhbwyLV5J0wZj/dxMU0o0T6j+K85YsLdagNqK1+p8wYj7No0hJsVFMhtbU1lx8Hc95htSuugEDlM9OqDz6OdrtH4d+7kc2KvB0IwbgiwhLbYwXCRa3smzEafOHjGAQFmS0ADMs9juHA5k=;TGgVYGj23uz6pPu9ocrsmQ=="
 ---

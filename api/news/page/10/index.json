@@ -2,6 +2,91 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-12-13-scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers.md",
+      "title": "Scott Belsky: Adobe VP Talks AI, Creativity And Superpowers",
+      "excerpt": "Creativity is at the heart of the products that Adobe makes, from Photoshop to Lightroom, Fresco to Illustrator. Scott Belsky is the company’s Chief Product Officer and Executive Vice President for Creative Cloud and I talked to him and Gavin Miller,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidphelan/2022/12/12/scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers/",
+      "originalUrl": "https://www.forbes.com/sites/davidphelan/2022/12/12/scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/639759ff390c0523343405cb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidphelan/2022/12/12/scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidphelan/2022/12/12/scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers/amp/",
+      "publishedDateTime": "2022-12-12T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-raven-advances-cutting-edge-precision-and-autonomous-ag-tech-with-two-raven-autonomytm-product-debuts.md",
+      "title": "Raven Advances Cutting-Edge Precision and Autonomous Ag Tech with Two Raven Autonomy(TM) Product Debuts",
+      "excerpt": "“The Driverless Tillage Solution and Driver Assist Harvest Solution developments are proof that we are expanding these autonomous capabilities into all areas of the cash crop cycle, helping farmers capitalize on additional efficiencies and cost savings ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/12/12/raven-advances-cutting-edge-precision-and-autonomous-ag-tech-with-two-raven",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/12/12/raven-advances-cutting-edge-precision-and-autonomous-ag-tech-with-two-raven",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-its-not-just-fun-lensa-ai-portrait-app-raises-ethical-privacy-concerns.md",
       "title": "'It's not just fun': Lensa AI portrait app raises ethical, privacy concerns",
       "excerpt": "Magic avatars' are the latest internet craze, but one expert says individuals uploading photos of themselves onto the Lensa AI portrait app may not be aware of the ethical and privacy concerns involved.",
@@ -329,6 +414,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-12-symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace.md",
+      "title": "SymphonyAI expands Microsoft collaboration, makes Sensa financial crime prevention solution available in Microsoft Azure Marketplace",
+      "excerpt": "EnterpriseAI leader accelerating innovation to combat financial crime with transformative, next-generation AI-based solution PALO ALTO, Calif., Dec. 12, 2022 /PRNewswire/ -- SymphonyAI, a leader ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964947",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964947",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-artificial-intelligence-and-machine-learning-market-size-by-types-by-application-and-forecast-from-2022-2028.md",
       "title": "Artificial Intelligence and Machine Learning Market Size: By Types, By Application and forecast from 2022 - 2028.",
       "excerpt": "The “ Artificial Intelligence and Machine Learning Market ” report provides a detailed overview of diversified objectives which includes analytical components, product creation, and staying on track with the competitive field.",
@@ -615,49 +743,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace.md",
-      "title": "SymphonyAI expands Microsoft collaboration, makes Sensa financial crime prevention solution available in Microsoft Azure Marketplace",
-      "excerpt": "EnterpriseAI leader accelerating innovation to combat financial crime with transformative, next-generation AI-based solution PALO ALTO, Calif., /PRNewswire/ -- SymphonyAI, a leader in high-value enter",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/n30037746/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-availab",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/n30037746/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-availab",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30037746",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30037746",
-      "publishedDateTime": "2022-12-12T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -1047,83 +1132,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-pilot-study-finds-computer-vision-technology-effective-at-determining-proper-mask-wearing-in-a-hospital-setting.md",
-      "title": "Pilot study finds computer vision technology effective at determining proper mask wearing in a hospital setting",
-      "excerpt": "In a survey and study of hospital employee volunteers, researchers found that a low-cost computer vision system was feasible and well received",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/974196",
-      "originalUrl": "https://www.eurekalert.org/news-releases/974196",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge.md",
-      "title": "BrainChip Joins Intel Foundry Services to Advance Neuromorphic AI at the Edge",
-      "excerpt": "BrainChip's Akida TM, enables low-latency and ultra-low power AI inference and on-chip learning. \"We are proud to partner with Intel as part of its IFS Accelerator - IP Alliance,\" said Anil Mankar ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/ac30033830/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/ac30033830/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30033830",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30033830",
-      "publishedDateTime": "2022-12-11T14:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],
