@@ -5,8 +5,6 @@ excerpt: "As research shows, it is related to a number of cognitive biases. For 
 publishedDateTime: 2022-12-13T00:00:00Z
 originalUrl: "https://medicalxpress.com/news/2022-12-procrastination-cognitive-biases-enable.html"
 webUrl: "https://medicalxpress.com/news/2022-12-procrastination-cognitive-biases-enable.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-12-procrastination-cognitive-biases-enable.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-procrastination-cognitive-biases-enable.amp"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/procrastination-the-co.jpg"
-    width: 1356
-    height: 668
-    isCached: true
-
-secured: "9CzAbvGVX9pCQ/D9wSmsoZVHAwB9kclPyqI/LQ5LRrSnzQKyi1MDRo2x7xD1KJE2blAP8Evgpdp9GeP7dwyD4oG/Ye7VW8l3mO8FEtzkaJEmXDraEPaAcli0pRQDn/GGbJ+5oAJIptoJz1kWEDQQ1+2T0DN65A5noCZJBcJVumZ6BnXBo4ThDq6WAymysCqA0C7ljFUGIyLpMKKUCuXo9dbcgjJYS0l9QTxoO+hvSPFLzdzuA/gELLSAOQqA5dOkKU3DpmUKg8T5Sfz7H79KCjmvHwga2L7WNDkUqyNe03n12j01UfREV6WqunWxi49KFcF3GJwF+RwD10katFNpf51/GMp+/i7ZBcnTHj5wFHY=;XoshtdAYTT6umAkl+NUj3g=="
+secured: "IxjzfywKDGK/u/nKF6iUIjZ3oz8fB3odwzHRFvllsJ5rhLDhsUIe6ILsiSQPKtROSaXW4VVgzaKRjeh818amNm74Fjm0pLOU9Rt46V3ieomkKNsoeHeLpVSpaYnGksR+j/zTVnA57Z0tieq/WTz2XTUCS22hle7I6Pq3nre4q4xAurOv8A+U7w95sm5QnBVHYul8qyRFYmW5ibdaUftOrL0EzY+G8CyJ7NmpUj5J4Abt96ZpS6I8bi5r1d25p5gLdvAnl7HSDu9318BTXRv7l/YsCQn3ywfzYFe7NpDuqIUW7drZz1OxY1ipuuq1pvt2Lb8746fcwVeA+3ru7wF5af9h4WPPbaOOauc4xaBwlPc=;NfYT2bBBKPvc8fqVgIjRDQ=="
 ---
 

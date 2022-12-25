@@ -5,8 +5,6 @@ excerpt: "The Biden administration announced on Thursday Chinese memory chip nam
 publishedDateTime: 2022-12-16T01:25:00Z
 originalUrl: "https://www.wtkr.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry"
 webUrl: "https://www.wtkr.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry"
-ampWebUrl: "https://www.wtkr.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry?_amp=true"
-cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry?_amp=true"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/c1e58b5/2147483647/strip/true/crop/1000x563+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F89%2Fe0%2F630feb764f5d9ebd982116324d09%2Fap21021747656668.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "MltrubodL9gYqNCF9gNTEHVacMuilILDzL4BUGOFUDTqLnGhbsjhbPquBRcm0iYAOZObqOB6ZR/yqs2KIXIydN5rY3pclpRFP9b6Qf/NdGdpXxNtIevaHfw8xtDr597ZD9smgegWlKIZJ6L82rm808Cz/gCalLJ1bNSOFcHBHUosngNEF5OI04+vgLH+6emrv3Pgue8yP3eYcishy3hR72FLjglMmvsc5uzNGzUz/EyA0AvFN+Hp5N1EntOUzGHTmLVi2jcDMTo2rQ90kqLQ25jnMUbpiT1HWT27kfRrGuaj09lzGuSy5J9ct3ZLyRBIj2wiRREHD4EqswAIlenvU9fxbbMQXeAZdGtzRVlTVSw=;IPqFN4A/9pvnw3olk2WT1w=="
+secured: "W6hY5GbYxriQxUJtkVWL1sg+cj9v90GqoMu+/LTK4TwwFKHoRmKIhhatEk6pV/5NVHRrSaw8jYW1iqH2topXPyUnZWmWCBT3unQZLRDyC2tSjUjLagwuIpzaXCwj6M4Jp4DXZi4kJ6PheIhgss+9MnVAuo3Th8jrDdsBtrrrteL0IWtQR7dplYeo5w8yH7jheg2vAs5OGAiZIWFt1PsmJ1RWrxZNp14bb1n7i9jRut/UK6A4m6RdbxhnBL2d1hDA6kWqanBlFgSBjrbQskBri4DKWZexOXvtdZqTCGnWXi6Uw/C1+nEuf8hblNrE6mSl9sQTyrHKP2x1eZ8QBGdZLKUiqUXwMNMb1ADiUvD+nzA=;GfuVKd5pDZGf9wrKamhttQ=="
 ---
 

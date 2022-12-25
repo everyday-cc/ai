@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
+  - AI Ethics
 
 images:
   - url: "https://www.sciencealert.com/images/2022/12/IllustrationOfHumanHeadInProfileMadeOfFiberOpticWires.jpg"
@@ -59,6 +61,6 @@ related:
         height: 668
         isCached: true
 
-secured: "KISqeNDu6vchJYgEAm/nKiKthwhAoBtEIlgPf+Te8oZRuzKdnpjWPBJspmz5RLQrzWlxpMlnvre3Gd8GCLo9aKqt7SXPkbdlaQmu8fVX24Eks/Op/whYTbExDL6D/urwpYKAF7ztqIv6HgJtiTU56SkP9FUD5Xu8l2SJo+HSmXSRrMzBoUBYX409nJiQWwH/G4izuTF64OrGZrKgu2DBddi39lrj1YGDbTyaPcACf7L+mzThBF1chSp/SKPqaK/OcaUBZA3lVud5eEauhaT0gM5oY5Zxnmo4/QL+ei9gQahojYFxL6zxIbW/xTCPV+GHaoYVg55o3t9+Tta74Mhwgli60rVvgG750+R8fTQerJU=;0m91AK6ExNUfS6rxizXGaQ=="
+secured: "9rxTqj19m/YeJNx4VRLGQHQWlaoHXwosdbXDFL4enw+1/YVXOZsYF3r61CRbVaDFhXZ00EMQNgLQULfH+2ECntNLgxXmxThrbCBmt7goGnbH+Rsj5Tkh1bOKCkRrgVNORZgZmAFIqd8gtLpwTBiO4MRL9pGcJSlCgyvCW08kR1Dn0MInPjmUt7sBfESiUDmmi+IZ5kT+gn9J+8BFrakg7E0u1+5UtT1M1eRx3DtlQ1tiA3c62oZkA6of1hZ86hagP2CFuopFG90JYs+s8Gnl8KAhkoinq46cnDSpRMnfBSKMiuBNzDpSAHCwAfWz2PpirxedtDrG74dRWkMGXOILJfxvzMoxVg30Qbr7igiPvnSQ8KxKpRXOWx2r5uBmjjJsgov9LDI+VXOmB9wBjAcbGNRqpC5VvnEp2POy8T1ihYoKgJuwsy8cA8wbE3Jg7B7sCCxKABy/qrcQttkgXSE7Z3cCd2d6Tv3JRKxCSdk8qhdy4JWJNvA37uRYcdbdeaW08I3prGZ0M+q3zaMXDDoO3Q==;bHsRJejfD1bGA/FsCDhhIg=="
 ---
 
