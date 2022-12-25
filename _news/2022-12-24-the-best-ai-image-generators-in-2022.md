@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "The latest AI butler bot can cross intersections and use elevators"
-    excerpt: "The future of personal robot butlers is brighter with new AI capabilities."
-    publishedDateTime: 2022-12-20T18:33:00Z
-    webUrl: "https://mashable.com/video/cubot-one-delivery-robot"
+  - title: "The human cost of artificial intelligence in photography"
+    excerpt: "AI is being increasingly used in photography. Is the industry at the mercy of the rise of the machines? Peter Dench finds out more."
+    publishedDateTime: 2022-12-23T11:30:00Z
+    webUrl: "https://www.amateurphotographer.co.uk/latest/photo-news/the-human-cost-of-ai-in-photography-180009"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 47
+      name: amateur photographer
+      domain: amateurphotographer.co.uk
+    quality: 39
+    images:
+      - url: "https://www.amateurphotographer.co.uk/wp-content/uploads/2022/12/820px-Jack_Latham_LAtent_Bloom_Love3.jpg"
+        width: 820
+        height: 546
+        isCached: true
 
 secured: "D77Jdi7eGcN+MULq4wBeWOnYESHK93s8KcrQvn2i4AWMt091yI/oEZOfPNY6jo0P407dNdWKmZd5eyVpQeeoCFLAyXvm3uH/SYO5ogOcup4JT2I3gtPjRVfKvvGEuC6qOAJHRVepnPFQ5wFBXSYcparlN6UtjnEa1f0fxik8DX2kYdb4UmKufeKTKRQUs9uV2nElDtOOAUTdThg+wJfF2oIdLwWJoEJy024o+e8VuGroASSAB8ISgMi3xOX0EJnGqT337UeziNC7Di7Nv9g3/wojpkPF95vuv3Lf3YMIP39HUEud1c0ki64rA45CqutYVYky/5ZypIwjtqplCGqZJ5ukK7QXqsiVmIYHHyc6ZMM3WSj7UjBu4H06aS5clzSACqYNfJHKbNoglFx+csd3zit+3cmWtZ0034ST40W1BlvZZKt2P3fC0IbPt6tL2dz9Bg7ZQyZ5PWPQnjzULfOEmN8D/9jPY/jLPIUcHl9z9xCBJHA3ozHrxxkTLsg9quVda4A9Ohmamy001CW1SzqDaw==;TARSFMEqWut0Y7dWZHQFRw=="
 ---

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI releases Point-E, an AI that generates 3D models"
-    excerpt: "The next breakthrough to take the AI world by storm might be 3D model generators. This week, OpenAI open sourced Point-E, a machine learning system that creates a 3D object given a text prompt. According to a paper published alongside the code base,"
-    publishedDateTime: 2022-12-20T18:05:00Z
-    webUrl: "https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/"
-    ampWebUrl: "https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/amp/"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/12/point-e-openai-e1671557202971.png?resize=1200,729"
-        width: 1200
-        height: 729
-        isCached: true
   - title: "OpenAI announces Point-E, a machine learning system that quickly creates 3D images from a text prompt"
     excerpt: "A team of researchers at San Francisco-based OpenAI, has announced the development of a machine-learning system that can create 3D images from text much more quickly than other systems. The group has published a paper describing their new system,"
     publishedDateTime: 2022-12-21T15:32:00Z
@@ -52,22 +36,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 39
-  - title: "Qeleo Technologies Announces Experimental Integration of OpenAI's Leading ChatGPT into Its Existing Enterprise AI Suite"
-    excerpt: "Predictive Technologies LLC, doing business as Qeleo (\"Qeleo\", \"Qeleo Technologies\" or the \"Company\") ( a leading provider of enterprise AI"
-    publishedDateTime: 2022-12-23T17:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/30189518/qeleo-technologies-announces-experimental-integration-of-openais-leading-chatgpt-into-its-existing-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30189518"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30189518"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
-    images:
-      - url: "https://images.newsfilecorp.com/files/9302/149409_c9aa3b8b647f18b3_001.jpg"
-        width: 550
-        height: 430
-        isCached: true
 
 secured: "ferTc6HdojxblelMID0Spsnj0Lqx/9D1zLZxzsWJt+MerbBnN22OVOLR6v9WT98RP++cDpi2KrUP9A/QQXjrLx11DX7Ks1NtpUaHcpfada+4c9kU449rNANVxlToY3z8EE4UjEdQ/DNHE3UG0csjdzwrtyCe0gNpzz1G2BeL+ttSlLH+HduvlyND2pEX3xC7yZ/bEne+CVTRmxuENNkbVlyxwqhQ9SLo4PFmQyWa7xahi+xtAtp9/NXT4sGrjG90XhjzNRn7s0tckOCNiSWjjuHOlyoN75G+1COq5wDTKfKkESzGOkoickbgdkJDKHN7weJbGN8TYvIzLODJb2Xwd4kz3NL6nzu+rNaNGOuPzVZWpIkrvQqvICBifO6DvsQ1an5t4AiKEgLh/KKZZq51Mm9fLRaJYGZPVXQpYqW9ckjqw8KEHxjszmEt452R62ock7Zzalclxljct48HvLIodS95MBonXUiErPkDEXM9K43JXFLV17SXRMNFnMKex6hGcDaeT0Juf2DFEPo5dIZTbQ==;TelN9Ofs60V3CcLBkXzBTQ=="
 ---

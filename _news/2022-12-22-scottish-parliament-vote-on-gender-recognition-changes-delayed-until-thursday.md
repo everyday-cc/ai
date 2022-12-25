@@ -30,22 +30,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "MSPS to vote on Gender Recognition Reform (Scotland) Bill following marathon amendment debate"
-    excerpt: "The Bill would make it easier for trans people to obtain a gender recognition certificate (GRC) by removing the requirement for a diagnosis of gender dysphoria. It would also lower the minimum age for applicants from 18 to 16 and reduce the time required for an applicant to live in their acquired gender from two years to three months — six for those aged 16 and 17 — though with a subsequent three-month reflection period."
-    publishedDateTime: 2022-12-20T18:09:00Z
-    webUrl: "https://morningstaronline.co.uk/article/h-lead-msps-vote-gender-recognition-reform-bill-following-marathon-amendment-debate"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 13
-    images:
-      - url: "https://morningstaronline.co.uk/sites/default/files/PA-70337481_0.jpg"
-        width: 3613
-        height: 2403
-        isCached: true
-
 secured: "AQjeUzZ3/g4TSz+rYZqfvrVJVqyqXRkXmXhN0HYBR638TYY1KW71/R2ee7mf107l4PmMzUPg/5YuSYRpgdg28kjCBd+Xl+wCSwY1KCGQDvk4sgc3f1sVcGQ2CAX3WmtNJLQmiPeGFQAsxVawxLNJrGY4MncYIh/M3lAV0uHEt+y64Q0QxomgHNpsszI3BssVsRA4CL6bDDdKzgjd5tfJoHmMyhvwfDEQGvFR636wegs29DL6S7YrRqqFgwkEXZpX0sCE90jYIiZdEOr6mxd+wxoz4QersiGatlG3Hxj6OVcZS9ghN1dCVEdt1Mf9y0zbWWbMtSpopg91YybDTBWRyrfDOqIa5SwMSBzPpS3LqLAezhJumf0b27ZAr/iFdlbd92LI+d/BRCxJ6lZ7+n5Ezfh5oRhHjxeFdBu8H/HmZkRSFnzNl2F9LrFyIqZJBbvD/08j/vKbee1Jxr1CPdB5mSqR/olACT0A2iWlSZ4aXsfb/E0yhJxZ0OOf6qnhRICt36nzlw/f3TflD4L6s6n9jw==;uM+fknz5rRl+T1Yn8bIsMA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo158542405830"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo158542405830"
 type: article
 quality: 87
-heat: 198
+heat: 208
 published: true
 
 provider:
@@ -135,6 +135,22 @@ related:
       - url: "https://neurosciencenews.com/files/2022/12/chartgpt-alzheimers-neurosucence-public.jpg"
         width: 770
         height: 496
+        isCached: true
+  - title: "Qeleo Technologies Announces Experimental Integration of OpenAI's Leading ChatGPT into Its Existing Enterprise AI Suite"
+    excerpt: "Predictive Technologies LLC, doing business as Qeleo (\"Qeleo\", \"Qeleo Technologies\" or the \"Company\") ( a leading provider of enterprise AI"
+    publishedDateTime: 2022-12-23T17:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/30189518/qeleo-technologies-announces-experimental-integration-of-openais-leading-chatgpt-into-its-existing-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30189518"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30189518"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+    images:
+      - url: "https://images.newsfilecorp.com/files/9302/149409_c9aa3b8b647f18b3_001.jpg"
+        width: 550
+        height: 430
         isCached: true
   - title: "The Architecture Trends of 2023 According to ChatGPT, an AI-trained Model Bot"
     excerpt: "As a symbol of what AI could achieve in the short term for architecture and humankind, we have 'talked' with OpenGPT about the architecture trends of 2023."

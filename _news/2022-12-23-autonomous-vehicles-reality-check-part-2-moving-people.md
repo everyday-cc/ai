@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/richardbishop1/2022/12/22/autonomous-ve
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2022/12/22/autonomous-vehicles-reality-check-part-2-moving-people/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Autonomous Vehicles Reality Check Part 1: The Argo.ai Headline That Got Buried"
-    excerpt: "The term “trough of disillusionment” is being thrown around willy-nilly in the AV space. The trigger? Argo.ai’s shutdown. The same journalists who piled on the positive hype about automated driving years ago are now piling on to its demise."
-    publishedDateTime: 2022-12-20T18:38:00Z
-    webUrl: "https://www.forbes.com/sites/richardbishop1/2022/12/20/autonomous-vehicles-reality-check-part-1-the-argoai-headline-that-got-buried/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 43
 
 secured: "sllvd3dCZy5Ad/9bfUon7Xa5QiJZhZD69k9lbVTXrjNY8uzPNdJgmthIshU5eZjsr6Dn4qkOENidU2iPFit157C9oE/WeJlHolQ25jl2qiPRWd92tIObxluupBq//PHWRiyQXJlgdmnDVvXbDlyVHJqY+BHFPlOdRjYNoXYleho/b5XP4eBY1sR4dVcKnVvn/nDWTdhF0Es2CimJYj1vUKXjnQ0wwgmzY+dW8sedXjuGuLFfye8ae2GVpB2lmFP1MQxWld7s6w/A9bZkkqylFtOqc4HZUZBF854wVOKiPBIfPbpWNSAlMNMmmw7jp6obrowt7vbmkJxuetPT/ZYXJWV6DB4gWTwgDVB8AsbsnkJWoGYSRax4caIAQq33wP2r0VP8qD7WvAx0qV6V+2ADwP3iAsl8QXplV+UWirMC/fwUaWInKluUsUx9GzK8IiNxGrtjNOJG6na+CsWW+n8ZKQPg9L8PaoyePP0rbPxwor/Zf2stQMLZwJvO7eiWsW4F78fcUbvGvQZy0TEI3zunuw==;Fk8Mji/QdZFRwM9FfRBe4A=="
 ---
