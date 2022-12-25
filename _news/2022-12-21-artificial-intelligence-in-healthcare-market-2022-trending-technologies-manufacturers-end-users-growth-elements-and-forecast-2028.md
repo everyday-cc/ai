@@ -37,15 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GPU for Deep Learning Market New Innovations and Future Expansion 2022-2028"
-    excerpt: "MarketsandResearch.biz has introduced a new Global GPU for Deep Learning Market Research Report 2022-2028 survey report containing data and statistics about market structure and size. The market segments are analyzed on the segmentation and local stage to help determine the high areas."
-    publishedDateTime: 2022-12-20T15:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-new-innovations-and-future-expansion-2022-2028-2022-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
   - title: "Artificial Intelligence (AI) Market 2023 Research Report Analysis by TOP Competitors, Demand and Size Share Estimation by 2028, Market Divergence"
     excerpt: "In terms of Revenue in Million} Get a Sample Copy of the Artificial Intelligence (AI) Market Report 2022:  Brief description about Artificial Intelligence (AI) Market Growth 2029: Artificial Intelligence (AI) Marketsize,"
     publishedDateTime: 2022-12-23T06:42:00Z
@@ -55,20 +46,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-Driving Truck Technology Market 2022: Share and Outlook of Regulatory Scenario by 2028"
-    excerpt: "Further, the SWOT analysis & other techniques are utilized to investigate this data & provide an informed perspective on the state of the business to assist design the best growth strategy for any vendors or to current penetration into the present & and likely direction of the global Self-Driving Truck Technology market."
-    publishedDateTime: 2022-12-20T15:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-2022-share-and-outlook-of-regulatory-scenario-by-2028-2022-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Procrastination: the cognitive biases that enable it – and why it’s sometimes useful"
-excerpt: "As research shows, it is related to a number of cognitive biases. Researchers have defined procrastination as the “present bias in preferences, on account of which agents delay doing unpleasant ..."
-publishedDateTime: 2022-12-12T16:24:00Z
-originalUrl: "https://theconversation.com/procrastination-the-cognitive-biases-that-enable-it-and-why-its-sometimes-useful-195845"
-webUrl: "https://theconversation.com/procrastination-the-cognitive-biases-that-enable-it-and-why-its-sometimes-useful-195845"
-ampWebUrl: "https://theconversation.com/amp/procrastination-the-cognitive-biases-that-enable-it-and-why-its-sometimes-useful-195845"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/procrastination-the-cognitive-biases-that-enable-it-and-why-its-sometimes-useful-195845"
+title: "Procrastination: The cognitive biases that enable it, and why it's sometimes useful"
+excerpt: "As research shows, it is related to a number of cognitive biases. For example, we may disregard the future consequences of an action. This comes into play when I give in to temptation and eat yet ..."
+publishedDateTime: 2022-12-13T00:00:00Z
+originalUrl: "https://medicalxpress.com/news/2022-12-procrastination-cognitive-biases-enable.html"
+webUrl: "https://medicalxpress.com/news/2022-12-procrastination-cognitive-biases-enable.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-12-procrastination-cognitive-biases-enable.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-procrastination-cognitive-biases-enable.amp"
 type: article
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/499784/original/file-20221208-6013-2h6e9w.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=209&fit=crop"
-    width: 320
-    height: 209
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/procrastination-the-co.jpg"
+    width: 1356
+    height: 668
     isCached: true
 
-secured: "gkctTxZZS/dAC8sIp2haYl2C69yNxfS86bv1ksunIcYAFyfoYIbE9bKhvb8G3fJwYLrkSnomI1mWO9kjqUte5XtYpS//8DeNC/zoMtqkrxGymZ2DbjISAP4VWQJnpLp3Qrnr3hAO+NMcL9rruGQf4h6HJ+MDYn1+DfN8wFSbrprtMz0V0iwIj+2VmoJISqklqia4MA8eJjVngauAwS1a6PbS7ypDq3vfpbf1+0BxGBrWocsM9K+RLZUtJKaIEuPVBuBKilnCgo9TnNb6MY+1T2IWXAC8hHRFLzKe/jWD33YaNt4YWnQZmoDnNFUS6Wp5NcmthrF/ywxy4kN2KwKNo0Bcr8yR6CC2I7lNUQKz8kM=;a6+kfIlwaJLVjAToDT6lbw=="
+secured: "+EcSRuL8ucth5mj2aW6fuOQrRdpcSsvRycMgvTR/42LptbMMfa/WpeqcNLgKB/Nxed4cwc8JNVKa0keTqenv88EDRckhgcd5kOlPqe38wmHspUtFC3PWw9ARm8lmN/T21mmESBX7CJrpJezmJHh+4WHODTVXy9gcYguU5J0Jf2vUonJXN4GpCzXZ5q7t+LZB4SjskxdpxzX3hxQWHEFU/jXWpefpUqps0z/S3P2rJE32koYCWHQbb/ZtdDShmoIOfQngTslvYuL7cHFkWYr/pEMNPHfnT0EwdiVEv23hk75xEyXU4tPsYDK5RUShoV4gVjioiMjUqAMHri261ieEz+kj66KeliVYoTBsUHv0t/E=;GofPhqrJPcQtq80Bo//69Q=="
 ---
 

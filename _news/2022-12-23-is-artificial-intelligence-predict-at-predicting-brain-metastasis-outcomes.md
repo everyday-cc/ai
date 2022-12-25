@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "New AI Method Gives Faster Information About Cancer Patients and Clinicians"
-    excerpt: "A recent study performed by scientists at York University has recommended that a new artificial intelligence (AI) method is significantly more effective compared to the human eye in anticipating therapy outcomes in patients with brain metastases."
-    publishedDateTime: 2022-12-20T16:00:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13476"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 37
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13476_16715324380073081.png"
-        width: 300
-        height: 260
-        isCached: true
 
 secured: "uceCzctFbHnVOw7Fl/8F+EygtIrSiNlHMBDYmmUBwwosw/ytlnDszb6/bfdblyExuNxnMwJkj7V+/cezE0cFwntNMwg6O/sk6GH9IT3GtGy/jSfK3Rg7Ef8Nddrus2aBnewpV5533XgrhU9lBuoCR2z8JYHxxPesIfGJCOMTFG3EJso7hGQzvJZLsAXJ6oKdIer4hutRSVUvFSyc/DL0GYTwuwMz+dFD+AaR+3SJa7+xS6O+hI5WUsuLq584S17XzdnNFkyljqdFGpoxDRMUmbds97Skn9rLZ3F6CLao2GPP7eCRBBfhhcCrMwAtd5S2fuDCVWOoEPqBXRBaypgnEGBPowqVWVyY2vVW/mHPEgM=;qZafuz0o2fMq5UAWYoiuvA=="
 ---

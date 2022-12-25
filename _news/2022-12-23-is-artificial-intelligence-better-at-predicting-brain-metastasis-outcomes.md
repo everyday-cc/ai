@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/is-artificial-intelligence-predict
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/is-artificial-intelligence-predict-at-predicting-brain-metastasis-outcomes-209781-1.htm"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.medindia.net/amp-images/health-images/astrocytomas-brain-tumors.jpg"
         width: 1200
         height: 1000
-        isCached: true
-  - title: "New AI Method Gives Faster Information About Cancer Patients and Clinicians"
-    excerpt: "A recent study performed by scientists at York University has recommended that a new artificial intelligence (AI) method is significantly more effective compared to the human eye in anticipating therapy outcomes in patients with brain metastases."
-    publishedDateTime: 2022-12-20T16:00:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13476"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 37
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13476_16715324380073081.png"
-        width: 300
-        height: 260
         isCached: true
 
 secured: "i4QnJQYGp4zOArirD46Y6fqtxhNifpFCKMuKLDJf3iDYXOtp2a6q5Cio+r/Jw5OsbSV3ZnzShk0QAH1CgqqVpnt6Rb3PTMskea8d5wPVQjfTOYBwpKe9NAV3268kvy2eWZBfWdsMJ3D+nFckpOfvpbNWBDCJYGvYY1z4WPEPfeoxYijXLMCELqhPMWpXaQ8HNOFvYggqYaSziJ4OROYlxunbKsU9m7tylKtaaAjPBfDa0VC42IA0+ku1rM8OhALHFPdjR+jjsCdTySGcG+UwEOk+GT2Ez+vr7Q9R/hTMyx3lTuE94bjYEUeTRFmJrrePRPd+4Qsob21nFgAFG50uALw3h4g84TubCk2CE9/W28A=;o0X2JhOwY8Q5VX23kMc15A=="

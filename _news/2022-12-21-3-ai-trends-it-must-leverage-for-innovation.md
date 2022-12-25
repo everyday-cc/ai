@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2022/12/21/3-ai-trends
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2022/12/21/3-ai-trends-it-must-leverage-for-innovation/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AWS Star Innovative Solutions Bets On Red Hat OpenShift, AI And Cloud Migration In 2023"
-    excerpt: "AWS partner Innovative Solutions is investing in cloud migration, AI, Red Hat OpenShift, DevOps and IT modernization to drive customer sales in 2023."
-    publishedDateTime: 2022-12-20T15:30:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-star-innovative-solutions-bets-on-red-hat-openshift-ai-and-cloud-migration-in-2023"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 46
-    images:
-      - url: "https://www.crn.com/resources/027c-16df3220380b-0e12e02d1a6d-1000/justin-copie-innovative-solutions.jpeg"
-        width: 611
-        height: 459
         isCached: true
   - title: "High-frequency trading through artificial intelligence for financial innovation"
     excerpt: "Professor Chien-Feng Huang, at the National University of Kaohsiung in Taiwan delves into high-frequency trading across Artificial Intelligence"

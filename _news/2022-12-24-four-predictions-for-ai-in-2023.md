@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "10 AI Predictions For 2023"
-    excerpt: "We predict that GPT-4 will be trained on a dataset at least an order of magnitude larger than this—perhaps as large as 10 trillion tokens. Meanwhile, it will be smaller (i.e., fewer parameters) than Megatron-Turing."
-    publishedDateTime: 2022-12-20T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2022/12/20/10-ai-predictions-for-2023/"
-    ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/12/20/10-ai-predictions-for-2023/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/12/20/10-ai-predictions-for-2023/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63a14945d0e96ccdb4b9f51f/0x0.jpg?format=jpg&crop=1744,981,x0,y53,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Artificial intelligence predictions 2023"
     excerpt: "What are the predictions for artificial intelligence in 2023? We speak to 5 experts about how AI is going to be adopted over the coming year"
     publishedDateTime: 2022-12-23T10:03:00Z
