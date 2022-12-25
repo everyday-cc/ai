@@ -15,12 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f7761ab9-a56f-4931-9012-bf8c23eeed56/Rendition/low-res/Content/Public"
-    width: 700
-    height: 467
-    isCached: true
-
-secured: "6U8BgR6jBcUsTH4HdMQqA3ye9CFTUKrTXREtUycitoetvsBjkOqY/R0GBa7c2Ai1QD4PRxAFrmuGzJGSxoGBwRVNyqnrpfMO1XoVDiWErhW5kKgl7ckbqsTG8ciHlPvjFcwiWbE6bfkYUs+yN8nKo2WG7xP8eOK7QwOccZs76ozQN2B923+bnJYAXsH7WwvkHW4WVPiIsSHSHMjawGUBIwF2j4U6t9pgMM8u8QHxC967f1t9I6K9OYa+cQbGPMtNofwx+CncICZHXUZ7aRY1Y3rOOfz+9NikYWK3wRmhFZsfb1dI3if4G/5se2tvYVg37jwLY5lH6Nh/aD5Vf51wpvtCner0puqwstR5d0Bkb/Y=;bEydQhCf4Vc+QzWw6uXolw=="
+secured: "WqnVb2lXNYii7rSaoIXJuXKiUItGidFmM+djGnhgXVnkelwp0wU63E4FNP+nFm92fcFOpf+cyWXJL36YCFkbn/AQ3pKkM/tKVbPFnE/FdoX0nUSjxTfyxPyqiRFYGIizIx25HMGCOyFAhUc8JBKji7Esq8CnZMu5YSX26CHqoOQv94285EfjZkshFWSl3in0F2HiQs2Ef8iC7nEL5ZlOCZl2566IR2TkiF9otxhaOl2EKLNVUkuLOGgcFH7AVaJFfWNNE5pj3oltfKWXS3JdkWDlkjWV4MerWYQbTqYZ6hWSNAS+VKFFERlZnxt6QQBP3+fPBt5U6SN/RIPvqkRLPJYjUw+mC40gpDFljrXoANk=;YheqNHVGnyMq3wbWEea/AA=="
 ---
 

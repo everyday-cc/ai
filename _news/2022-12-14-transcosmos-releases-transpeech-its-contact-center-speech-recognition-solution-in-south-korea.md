@@ -5,8 +5,6 @@ excerpt: "With one-stop services from deploying essential environment for speech
 publishedDateTime: 2022-12-14T08:11:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/12/p30071320/transcosmos-releases-transpeech-its-contact-center-speech-recognition-solution-in-south-korea"
 webUrl: "https://www.benzinga.com/pressreleases/22/12/p30071320/transcosmos-releases-transpeech-its-contact-center-speech-recognition-solution-in-south-korea"
-ampWebUrl: "https://www.benzinga.com/amp/content/30071320"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30071320"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-    width: 800
-    height: 313
-    isCached: true
-
-secured: "TLgv3090VhwUAFqv2nu8NILnJd61uAao9PlVb5vt56iPkZAWndYv+IwYuWuz6i2apkdwsH7Q3zu6eJpuICOaxW+IfFYPSb4bVXoR9t3EP6cedZ3qvKCXVPoe45cFDLGZ+DVfhdVHk4iVnpCLE5gxPObyx46+R+eOcljK1jHc4LLo/a3aqKg7zme0wkm1GP0ovzr7NLPVzf16BW6LNc4O26y4qiqg8+vCqSf2n5Lh+9o+7jdPiacCmOVL7Ari8/DfXKni/F7veS4/h8Hz3tMSk7SoKEqBVx7NbGMle7bZieh6uq3C/gd2dg0H6w2Q0bj2eHBWk/L5opLaDnBXj4s9Bxjn3UbkcP+DFYu6UUkmtng=;aJmJKTz+2qzijK7VK6W/Aw=="
+secured: "wr1Gijc4qHCZ59DJ27PRlYeL/ob/SEq4NLZF05xtiVUHMgJIwvs2pJd+6KUmnKvREAylcPnA/uPNXvuAFbId3s9gOfgdqjRB2gn5/Xf7gR7ZBwq9DveSG47zZnwT5uOpZoXieKDWWUw8DOaeN9BoJ94kU5NO3FnzFTHrqFW492RmrcCbog47o/l9kAFKVAgp9jbJajXxmyIWhbAF5El6i59mBTS/1DpIfuRJkoHQWSPpFdHHpS/Gwkn94SX/kugbC7H9B6x2ptMABPv0OzQ1+E2433KtKvn3dSIPeNa9hAA+eLOnzMS6chwnBWLYNg6c2dQDqz3U3jn8J4Ijbye1x5JZSsQ8stmkpyrIEwMz9gg=;N67V3LzQTUW0qsG0EvNS4A=="
 ---
 
