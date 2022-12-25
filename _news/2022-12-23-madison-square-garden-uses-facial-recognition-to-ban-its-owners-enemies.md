@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-fa
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.amp.html"
 type: article
 quality: 88
-heat: 209
+heat: 208
 published: true
 
 provider:

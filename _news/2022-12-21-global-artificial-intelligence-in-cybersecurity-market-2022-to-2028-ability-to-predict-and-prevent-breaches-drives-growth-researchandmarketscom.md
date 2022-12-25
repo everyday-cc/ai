@@ -19,117 +19,61 @@ topics:
   - AI
 
 related:
-  - title: "Cloud Machine Learning Market 2022 - SWOT Analysis, Business Standards, Value Chain and Sales Channels Analysis 2028"
-    excerpt: "MarketsandResearch.biz has introduced a new report entitled Global Cloud Machine Learning Market Research Report 2022-2028, which encompasses the regional & global industry facts forecasted to acquire profit-making appraisal across the projection period from 2022 to 2028."
-    publishedDateTime: 2022-12-20T08:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-machine-learning-market-2022---swot-analysis-business-standards-value-chain-and-sales-channels-analysis-2028-2022-12-20"
+  - title: "Female Founder Of Cybersecurity Startup Builds Better Response To Threats"
+    excerpt: "Finding a security intrusion is only half the problem. The other half is remediating the problem. A startup, founded by a woman, has the solution to both. And funders are interested."
+    publishedDateTime: 2022-12-21T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/geristengel/2022/12/21/female-founder-of-cybersecurity-startup-builds-better-response-to-threats/"
+    ampWebUrl: "https://www.forbes.com/sites/geristengel/2022/12/21/female-founder-of-cybersecurity-startup-builds-better-response-to-threats/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/12/21/female-founder-of-cybersecurity-startup-builds-better-response-to-threats/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
+      name: Forbes
+      domain: forbes.com
+    quality: 71
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63a099cd19ae5f47238ceaa0/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 960
         isCached: true
-  - title: "Artificial Intelligence(AI) in Healthcare Market 2022: Advance Technology and Highlighted Key Development by 2028"
-    excerpt: "According to the MarketsandResearch.biz report Global Artificial Intelligence(AI) in Healthcare Market is anticipated to experience rapid growth between 2022 and 2028. This study covers the key market parameters and growth possibilities."
-    publishedDateTime: 2022-12-20T22:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-healthcare-market-2022-advance-technology-and-highlighted-key-development-by-2028-2022-12-20"
+  - title: "New Version of HITRUST CSF Helps Healthcare Tackle Emerging Cybersecurity Threats"
+    excerpt: "HITRUST will release CSF version 11 in January 2023, promising improved mitigations against emerging cybersecurity threats and an AI-based standards development toolkit."
+    publishedDateTime: 2022-12-22T13:30:00Z
+    webUrl: "https://healthitsecurity.com/news/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats"
+    ampWebUrl: "https://healthitsecurity.com/news/amp/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats"
+    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
+      name: IT Security
+      domain: healthitsecurity.com
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://healthitsecurity.com/images/sized/GettyImages-1276687348_2-39a26234983c4eca9381530cb872a66d.jpg"
+        width: 480
+        height: 280
         isCached: true
-  - title: "GPU for Deep Learning Market New Innovations and Future Expansion 2022-2028"
-    excerpt: "MarketsandResearch.biz has introduced a new Global GPU for Deep Learning Market Research Report 2022-2028 survey report containing data and statistics about market structure and size. The market segments are analyzed on the segmentation and local stage to help determine the high areas."
-    publishedDateTime: 2022-12-20T15:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-new-innovations-and-future-expansion-2022-2028-2022-12-20"
+  - title: "Tiffany Ricks creates AI cybersecurity platform that combats phishing attacks"
+    excerpt: "Tiffany Ricks is the founder and chief executive officer at HacWare, Inc. HacWare is an award-winning startup that provides AI-powered advanced cybersecurity education to teach security teams to combat phishing attacks."
+    publishedDateTime: 2022-12-24T18:08:00Z
+    webUrl: "https://rollingout.com/2022/12/24/tiffany-ricks-creates-ai-cybersecurity-platform-that-combats-phishing-attacks/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-  - title: "Computer Vision Market : Competitive Strategy Analysis and Forecast Values 2022-2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Computer"
-    publishedDateTime: 2022-12-22T04:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-competitive-strategy-analysis-and-forecast-values-2022-2028-2022-12-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 34
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://rollingout.com/wp-content/uploads/2022/12/Tiffany_Ricks_Headshot-1-960x960.jpg"
+        width: 960
+        height: 960
         isCached: true
-  - title: "Self-contained Breathing Apparatus (SCBA) Market 2022 Driving Factor Analysis with Trend and Forecast to 2028"
-    excerpt: "The analysis begins by scrutinizing the Self-contained Breathing Apparatus (SCBA) market, including descriptions, categories, and a market summary. The report thoroughly examines market dynamics, share and revenue forecasts,"
-    publishedDateTime: 2022-12-20T14:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-contained-breathing-apparatus-scba-market-2022-driving-factor-analysis-with-trend-and-forecast-to-2028-2022-12-20"
+  - title: "The artificial intelligence in cybersecurity market size is"
+    excerpt: "The artificial intelligence in cybersecurity market size is valued at USD 22.4 Billion in 2023 and is anticipated to be USD 60.6 Billion by 2028; growing at a CAGR of 21.9% from 2023 to 2028. The Driving Factors can be attributed to increasing instances of cyber threat,"
+    publishedDateTime: 2022-12-22T15:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-cybersecurity-market-size-valued-usd-224-/2022/12/22/9734686.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Market 2023 Research Report Analysis by TOP Competitors, Demand and Size Share Estimation by 2028, Market Divergence"
-    excerpt: "In terms of Revenue in Million} Get a Sample Copy of the Artificial Intelligence (AI) Market Report 2022:  Brief description about Artificial Intelligence (AI) Market Growth 2029: Artificial Intelligence (AI) Marketsize,"
-    publishedDateTime: 2022-12-23T06:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2023-research-report-analysis-by-top-competitors-demand-and-size-share-estimation-by-2028-market-divergence-2022-12-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning as a Service Market 2022 Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
-    excerpt: "The Global Machine Learning as a Service Market Research Report 2022-2028 study report offered by the MarketsandResearch.biz facilitates the end-users to select favorable business-related activities that will guarantee the organization's long-term survival."
-    publishedDateTime: 2022-12-20T08:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2028-2022-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech Recognition Market 2022 Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
-    excerpt: "The report is a comprehensive guide to comprehending the structure of the global Speech Recognition industry and the future trends that the industry is the potential to experience and thus would help plan an optimal approach to succeed in this Speech Recognition market."
-    publishedDateTime: 2022-12-20T14:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-2022-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028-2022-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-  - title: "Artificial Intelligence Products Market 2022 Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
-    excerpt: "The study report provides aid to investors in gaining a better analysis of the Artificial Intelligence Products market along with the driving factors, restraints, opportunities, and challenges. The research report provides information on the definition and segmentation and explains the market's scope along with information on applications and end-users."
-    publishedDateTime: 2022-12-20T22:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2028-2022-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "XecPKSkfryTHJvf9IQm5KFgAC1L7IL4i7sY10tl1GXswmEvffN0USoV+IHPJ93VZwUmgS6Gld/XXrwHqXeEULSbhsXCMYH5JTNolhWz0E+5zX08ITDxgriflsqFkKxaYgUX7l0lgDiJoezyb1XC3i6hWQMrV9avL4QgfCiGxMTLM5zMb/vh5ckrcaU1FiMcRghEDVtOMaH1OL69cIyZXlIfwXckf5Nnp2P6lsAhy0/VKAzn7lyVzT0UzhNxfJg5bOcv8TFCtDdSuKdBO2vVDRoDSKLlfmEzKRmoYuSnUYhJgDcK9ZiJyGAvX/CGaIyczTOjiX6X1cHp48iUwitwzYbLmETs1LkESO4MLjK2J4/U=;NAFZVQJ/3CHOAZ6S9rvO7w=="
 ---

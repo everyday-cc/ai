@@ -24,20 +24,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Cloud Machine Learning Market 2022 - SWOT Analysis, Business Standards, Value Chain and Sales Channels Analysis 2028"
-    excerpt: "MarketsandResearch.biz has introduced a new report entitled Global Cloud Machine Learning Market Research Report 2022-2028, which encompasses the regional & global industry facts forecasted to acquire profit-making appraisal across the projection period from 2022 to 2028."
-    publishedDateTime: 2022-12-20T08:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-machine-learning-market-2022---swot-analysis-business-standards-value-chain-and-sales-channels-analysis-2028-2022-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence(AI) in Healthcare Market 2022: Advance Technology and Highlighted Key Development by 2028"
     excerpt: "According to the MarketsandResearch.biz report Global Artificial Intelligence(AI) in Healthcare Market is anticipated to experience rapid growth between 2022 and 2028. This study covers the key market parameters and growth possibilities."
     publishedDateTime: 2022-12-20T22:49:00Z
@@ -52,29 +38,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market : Competitive Strategy Analysis and Forecast Values 2022-2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Computer"
-    publishedDateTime: 2022-12-22T04:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-competitive-strategy-analysis-and-forecast-values-2022-2028-2022-12-22"
+  - title: "Automatic Speech Recognition Market 2022: Share and Outlook of Regulatory Scenario by 2028"
+    excerpt: "The research presents regional understandings of the Automatic Speech Recognition market, additionally bifurcated at the country level to give organizations a complete picture. DOWNLOAD FREE SAMPLE REPORT:  The worldwide Automatic Speech Recognition market is split into a type that includes Telisma S."
+    publishedDateTime: 2022-12-20T10:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-2022-share-and-outlook-of-regulatory-scenario-by-2028-2022-12-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-contained Breathing Apparatus (SCBA) Market 2022 Driving Factor Analysis with Trend and Forecast to 2028"
-    excerpt: "The analysis begins by scrutinizing the Self-contained Breathing Apparatus (SCBA) market, including descriptions, categories, and a market summary. The report thoroughly examines market dynamics, share and revenue forecasts,"
-    publishedDateTime: 2022-12-20T14:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-contained-breathing-apparatus-scba-market-2022-driving-factor-analysis-with-trend-and-forecast-to-2028-2022-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -94,47 +66,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning as a Service Market 2022 Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
-    excerpt: "The Global Machine Learning as a Service Market Research Report 2022-2028 study report offered by the MarketsandResearch.biz facilitates the end-users to select favorable business-related activities that will guarantee the organization's long-term survival."
-    publishedDateTime: 2022-12-20T08:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2028-2022-12-20"
+  - title: "Self-Driving Truck Technology Market 2022: Share and Outlook of Regulatory Scenario by 2028"
+    excerpt: "Further, the SWOT analysis & other techniques are utilized to investigate this data & provide an informed perspective on the state of the business to assist design the best growth strategy for any vendors or to current penetration into the present & and likely direction of the global Self-Driving Truck Technology market."
+    publishedDateTime: 2022-12-20T15:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-2022-share-and-outlook-of-regulatory-scenario-by-2028-2022-12-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Recognition Market 2022 Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
-    excerpt: "The report is a comprehensive guide to comprehending the structure of the global Speech Recognition industry and the future trends that the industry is the potential to experience and thus would help plan an optimal approach to succeed in this Speech Recognition market."
-    publishedDateTime: 2022-12-20T14:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-2022-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028-2022-12-20"
+  - title: "Artificial Intelligence in Healthcare Market 2022 Trending Technologies, Manufacturers, End-Users, Growth Elements and Forecast 2028"
+    excerpt: "The report on the Artificial Intelligence in Healthcare market is strategically prepared to provide the growth trends, drivers, opportunities, challenges, and restraints along with the latest technological developments in the market and innovation."
+    publishedDateTime: 2022-12-20T21:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2022-trending-technologies-manufacturers-end-users-growth-elements-and-forecast-2028-2022-12-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 30
-  - title: "Artificial Intelligence Products Market 2022 Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
-    excerpt: "The study report provides aid to investors in gaining a better analysis of the Artificial Intelligence Products market along with the driving factors, restraints, opportunities, and challenges. The research report provides information on the definition and segmentation and explains the market's scope along with information on applications and end-users."
-    publishedDateTime: 2022-12-20T22:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2028-2022-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
-  - title: "Global Artificial Intelligence In Cybersecurity Market 2022 to 2028: Ability to Predict and Prevent Breaches Drives Growth - ResearchAndMarkets.com"
-    excerpt: "The Global Artificial Intelligence In Cybersecurity Market size is expected to reach $57.1 billion by 2028, rising at a market growth of 24.5% CAGR during the forecast period. AI-powered systems can be set up to automatically respond to dangers and combat online threats more quickly."
-    publishedDateTime: 2022-12-21T12:59:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-12-21-global-artificial-intelligence-in-cybersecurity-market-2022-to-2028-ability-to-predict-and-prevent-breaches-drives-growth-researchandmarketscom"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 0
+    quality: 33
 
 secured: "Hx7Fmo4uIp/SZJgk5CdZalFiBomOyYU0LdIMLyC+n4wXwGA5XctDYrtmiV4MLCSEq+nURo7pGrKqb4/PdcZ5VI2SLeSHwQlI7QYVqR3r+CnLh7NAdGlz/GyrtToLCjRrAkflhZRzv54t0kQCfOogrDJZi8dvohzo8Kp+Iq4Jj4gCkmYR9MMb14m5XnOLzB0iC1EWMpJYMc6m5ydlGKwmWADOrJBdkYs6OV/uWxl4U7FiAcS+j+PrOIiwEkEuoU7MuEqTtnRVjkw0+l6GUdPSyCuKrhS2AIfWKeKVYcJlJJ/IqN+WMrht4QSDLZ5gPpTP2JnQEHIzpkiohAc3AGh/oAXhzSRZnGsz5O0jEVc0eVk=;aObxnVz7JT57GaAIOskv3w=="
 ---

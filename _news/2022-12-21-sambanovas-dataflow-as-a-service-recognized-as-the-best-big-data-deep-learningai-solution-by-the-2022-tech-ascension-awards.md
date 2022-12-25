@@ -2,9 +2,9 @@
 category: news
 title: "SambaNova's Dataflow-as-a-Service™ Recognized as the Best Big Data Deep Learning/AI Solution by the 2022 Tech Ascension Awards"
 excerpt: "SambaNova Systems, the company delivering the industry's only comprehensive software, hardware, and solutions platform to run Artificial Intelligence (AI), deep learning, and foundation models, today announced its Dataflow-as-a-Service™ product has been recognized as the \"Best Big Data Deep Learning/AI Solution\" by the 2022 Tech Ascension Awards ."
-publishedDateTime: 2022-12-20T19:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-sambanovas-dataflow-as-a-servicetrade-recognized-as-best-/2022/12/20/9733719.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-sambanovas-dataflow-as-a-servicetrade-recognized-as-best-/2022/12/20/9733719.htm"
+publishedDateTime: 2022-12-20T20:13:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/12/20/9733719.htm"
+webUrl: "https://it.tmcnet.com/news/2022/12/20/9733719.htm"
 type: article
 quality: 6
 heat: 6
@@ -29,6 +29,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "SQtCB+ymxVachThir6yob9atTBmUw69jbgEjRuagvPOX1t1lUMXqWoJ5hja4rWU0jpvHlPesA0TITg6Dc31cGgPnV8LqaSYW+7B6X/Lj/xH5sbzTFv4b/vtRcw/JrXXB8VuvHS5xualFM+mkqFcQFZ48GdcgfkuzxilNC6Z6MRGbxRDDRWbFrRj6piGcZuQSnmvBG7367d7wZ9UCykt9zzjVZuMAk7+Mnu5GEMeTnvl201S54ykISE6cRxQosn67UIk6U4VDgaEoWfi8baJ+WCP//T6fetix4Kl9aRX6gWd/Ywd+TN0cR4YJvwEORSbHOoYR2rdXbf7iU4rgIWGb+2vMdUSXhipE+YgWIfhweAuveIi15xNSeArm8SEMkPd1TUt64YLiKKANRauqXQEvVWiYimqEpVVGimSRGrC1fRVBzCt8a+N0amM4RPRdQ1xpWgFKCY/QAXUAVZVEAKQ7hrvEFnOmLgIYE2GccP+G9jCjS2FhvLr1e+Q1itVefAUqi5/ccg+N+UcV36Ukiqedhg==;1S+PvpHUsbQamAzQH6UKWw=="
+secured: "Ytu7mxMOE2J1WW+Zhq3ROLjNN89Tctn82v8O3I57iH9GcBMZRhkeCPSKBt1TyHvMSFY9Ghj+E/tjRv2EDcnuGDioKgFUIRb0LHd5jJAI7NoVJnuZD/g8ITCwcc9VYW+1sh7l9acP+fEwBecvdXp9kZv0aMl2o0q4U7D3zNTne20zW4WaFKjUEmnxeni41nkqUw1P9gC99kteMySc5FuXlolSv2f4Vo8nNt7vc54z6SeTIrK/1839JAnVk7lSyxUBZTN6WY2s7m0ynBRx2g9i2J7fZYnwraKiAMqXO41Gui2UjnDD2L5EV1kliAI6Lrk0/wfAQK+wkGIuXcXGm7LKflpIEIdpVtcvmbyTtgDq6U3T6QiEXSCbAUfdWOsHx7ocQQM2/7tcXOYdJlEfYTX87Jj1teQgSnJyKPpYt6On+2QmqAjcsh9uuZ7DkMbbTgaORBOFDQaCM4BMyFgukO9Yx4ZFPRSZagXZnD+t8FReYHQ75z9++PLabEfbciktjTieUmYXBCAR9cYBzDo02iVkXA==;2z9KV7xph/28p9lTVBL0Ag=="
 ---
 

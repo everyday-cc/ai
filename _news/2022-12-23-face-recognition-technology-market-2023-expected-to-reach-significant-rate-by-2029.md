@@ -43,20 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automatic Speech Recognition Market 2022: Share and Outlook of Regulatory Scenario by 2028"
-    excerpt: "The research presents regional understandings of the Automatic Speech Recognition market, additionally bifurcated at the country level to give organizations a complete picture. DOWNLOAD FREE SAMPLE REPORT:  The worldwide Automatic Speech Recognition market is split into a type that includes Telisma S."
-    publishedDateTime: 2022-12-20T10:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-2022-share-and-outlook-of-regulatory-scenario-by-2028-2022-12-20"
+  - title: "Speech Recognition Market 2022 Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
+    excerpt: "The report is a comprehensive guide to comprehending the structure of the global Speech Recognition industry and the future trends that the industry is the potential to experience and thus would help plan an optimal approach to succeed in this Speech Recognition market."
+    publishedDateTime: 2022-12-20T14:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-2022-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028-2022-12-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 30
 
 secured: "Pbgvx41ba8Cs7uBur6tWnhUTMAqX4tLhjznKlAGdwcd0+PKfU4pgypBz9WYBi0cVyrat1yxxFblKn+ECscuFR9cRZ52o9wjMTbzNUt8shYidsGphMpksEMk/+g2SGKA5l8QwrtRn4OjlGIj/nFFhoJkx5fjFGwccH9VPEb/ACM551bZ9Nk8d/XYEkeh1RpM+JYaapyNYfNTaHes8nsc28k0aC7+oaGK96+1BzwdjPyYgqhLNB8tRVI7LXIyrrSU29d4dVhmWCSo+m3f+fKNoZWWZb7hJ8B1xHNQSouxfE3j4kWvfKEoyWfC84Vj/1jwF9+jqNeS6GHmo2m1tjb9gFdVr4ELCIao2NUs/6O6QvHM=;gUk77cPiqJ9sWHAWRHupbQ=="
 ---

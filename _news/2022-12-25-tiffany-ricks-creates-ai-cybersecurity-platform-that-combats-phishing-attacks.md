@@ -65,6 +65,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Global Artificial Intelligence In Cybersecurity Market 2022 to 2028: Ability to Predict and Prevent Breaches Drives Growth - ResearchAndMarkets.com"
+    excerpt: "The Global Artificial Intelligence In Cybersecurity Market size is expected to reach $57.1 billion by 2028, rising at a market growth of 24.5% CAGR during the forecast period. AI-powered systems can be set up to automatically respond to dangers and combat online threats more quickly."
+    publishedDateTime: 2022-12-21T12:59:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-12-21-global-artificial-intelligence-in-cybersecurity-market-2022-to-2028-ability-to-predict-and-prevent-breaches-drives-growth-researchandmarketscom"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 0
 
 secured: "ikaYR5bbYTLPwDIU7lwNgznKI5Qx9VIW36UCcSvd5Zt8SYDOXFMSF3CFSpiEeu4qMtGl4v4Rx60ICfoVRd+Kc2MP8NsFn5fNoiMQSrYr+bGHlUlI66UpKMWN8yiTneQXAXNpXBXdGcfUVgMRugcv/U+va+RUCcjnAc15E+Qg2mXPHlk+r1HjRlTf7qAJ9exaQkfxDhILeiXmxcVMO/5q1cSyyRv+VKn5OFOtCNdhN0x0MzSoi6pqsruFACdRhD0W6Es4qoBwfVqmuEC/Kj2cBtQYuFgdrDNaDXQ8INyExuFG8FWBj2AXSS6OsbSwW2IfZwFfb6VvArhhyMaUV/w6+JeU5KyaitpxArylR80mB/wftdCR/g0yPGLsDu44XpzkGK7d0uPGwbyHi6PsW72DhLSOAw39sbuFt3ecmX/dpaw+LrYvJdmWczW5xFIpFn8rMLeYwXxyCWBuTvGFbuRTHNVRSZc7sC1PNtdyagBSkASTzqDjSKkQQwdNBJOZqSpYfTB62MYMJBoTYdEM4aUBgw==;FR72QuD6iNwJpMVfr2SExQ=="
 ---

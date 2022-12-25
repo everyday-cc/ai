@@ -35,15 +35,6 @@ related:
         width: 2880
         height: 1920
         isCached: true
-  - title: "Presentation tool Tome launches AI to help make storytelling simpler"
-    excerpt: "Since its March beta launch, Tome has prided itself on letting users quickly build presentations and tell online stories with just a few clicks or taps. As of today, the app will make it even easier for users to get started thanks to new AI tools that can help create presentations."
-    publishedDateTime: 2022-12-20T09:00:00Z
-    webUrl: "https://www.fastcompany.com/90827339/presentation-tool-tome-launches-ai-to-help-make-storytelling-simpler"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "JPllKxf3d/2gRzXoMgkYDHlQSxqVuDWQN8qWmPeJyU5VZmVdo3R/hEnxUi5Gt/P0jKGn2qdB2QdZVsyModMRVHfBhgvwnpWM7bjiOR7oZQ2JG+Cl2QRIkmJV8f47hPga7gBEipLQrVaAI048O5SNgEIzSGJ6fGUziO5JNTBoOK0fb1W8msA+uZu7+mHNnHIxxnK+HWwe7pX1tIT5hpg5KDplFB6OjWNImbdcTuAteiOxZmG6pyvcFVauJL8vbIrOuW9s5z2ZUHdJ3An2R5TpyIxRMl9Pmldz7VDQEvILKcTTuXz7uSJGFiAQL+ECHgovpWHShMZYR0+k6TzwDxCmAm4GIlnZP2dSXZ1mmaLMXNg=;wLjwrbkZT86rWF7SLZmcJQ=="
 ---
