@@ -442,49 +442,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-21-sea-machines-and-uscg-partner-on-computer-vision-domain-awareness.md",
-      "title": "Sea Machines and USCG partner on computer vision domain awareness",
-      "excerpt": "Installation on the cutter was made possible under an ongoing Cooperative Research and Development Agreement (CRADA) between Sea Machines Robotics and the USCG Research and Development Center in an effort to evaluate how computer vision systems can be utilized for autonomous navigation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinelog.com/technology/sea-machines-and-uscg-partner-on-computer-vision-domain-awareness/",
-      "originalUrl": "https://www.marinelog.com/technology/sea-machines-and-uscg-partner-on-computer-vision-domain-awareness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marinelog.com/wp-content/uploads/2022/12/USCG_Famous_Class_Cutter.jpg",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-20T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marine Log",
-        "domain": "marinelog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-21-openai-releases-point-e-an-ai-that-generates-3d-models.md",
       "title": "OpenAI releases Point-E, an AI that generates 3D models",
       "excerpt": "The next breakthrough to take the AI world by storm might be 3D model generators. This week, OpenAI open sourced Point-E, a machine learning system that creates a 3D object given a text prompt. According to a paper published alongside the code base,",
@@ -1219,6 +1176,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-20-30-robotics-startups-to-watch.md",
+      "title": "30 Robotics Startups to Watch",
+      "excerpt": "The leading robotics devices use machine learning and artificial intelligence along with advanced mechanics, better navigations skills, and improved sensors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/enterprise-apps/robotics-startups/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/robotics-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/11/joshua-sortino-LqKhnDzSF-8-unsplash-scaled.jpg",
+          "width": 1920,
+          "height": 1283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-19T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

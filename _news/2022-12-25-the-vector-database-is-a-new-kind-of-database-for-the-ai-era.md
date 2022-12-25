@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/data-infrastructure/the-vector-database-is-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/the-vector-database-is-a-new-kind-of-database-for-the-ai-era/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

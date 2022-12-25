@@ -9,7 +9,7 @@ ampWebUrl: "https://www.inquirer.com/opinion/commentary/septa-zero-eyes-ai-surve
 cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/opinion/commentary/septa-zero-eyes-ai-surveillance-20221225.html?outputType=amp"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 507
     isCached: true
 
-secured: "anYn51hMyhKjOMTrn+UcjE70KETJTh7RzR1Dpi13LpCn4+9ZJQwA+OtrHwHbRAfNKVqE8uiEazJXAAwTzahdIo5hg6ZEWJFOb4QQxVQ0TLDw8PckfFPHyu+YJLLHuAWgn/fTVdXCEdrYsa4K4BsCqU+UHp0tVAkB3pU8v0cxlPQloNVT5FGLrU5PsnZPZLWSD9UhzOq+/RxwxuO6P+EY0dPxWMHBaEZ9m+gluoD/aB+9j9pprXObAIQeg/kywCKxyjxnFdm6z01JiKjRtqysL2U4XQS0XViZqlfb/+yymFLa53VYSTBxPFgr2zJdImtqSKfHJv+BwGOCvAQEBkzHJgz3ZPPFadLEZsSZ2qSH6ag=;x381xxvrZiCoq8lhKtiTJg=="
+secured: "kWfy9z1zypJTWa0+sHX34MN1M6gcmFM/OCbK4ejLl3T2F6fcyMxmJ0X34GKjHViJS76R5XEZokVFaU4Oo/O5xc8HkwUKsllM9fSZ6QPYRtPtOz9o0qs0MmFcLokX+TnFf8P7s8T8HGH/IHEu95V0qmvmHDcSYul/L/SvCqTPEmpKy5u4nw6sl2tdyBpA0SXJ+ndoQibi44xqAjzem9H9RkqJv4aDlE9UQsDP6hJoFPASTDnCHNj7VNah0lar8ljLWzZodYA6HDDYHAUAl7tv//5R7O6SH1QDaYa9wzuICWCfivxYUEb5XlbEtzIwvpy7gm2Kor+NpMD7ju9XcJkNS2d8XJ68Add93SiYLA0Z2HwN3BodJGMLJE0vFkoCOjYYVwK7htVycDwOC1jfM9+1T5LPJwWGAFbtr+BrvkrSQWQQcpeqneb3bzZg9b4T0I1dAJG06pJiDAhzkn74XEJ+9PK05qwZohdZL6k3DBs9pdYz3DLB3vttU3cu1liysRAxMgu15BvdAJ47Hxxe18OmAQ==;/wn1mnGAxV2JFu0YwnTOoA=="
 ---
 
