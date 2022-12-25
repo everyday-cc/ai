@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/facial-recognition-tech
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facial-recognition-technology-new-york-stop-woman-attorney-law-christmas-show-msg/article66287817.ece/amp/"
 type: article
 quality: 56
-heat: 86
+heat: 106
 published: true
 
 provider:
@@ -70,6 +70,36 @@ related:
       - url: "https://images.immediate.co.uk/production/volatile/sites/3/2022/12/The-Alternative-Christmas-Message-2022-614ab28.jpg?quality=90&resize=620,413"
         width: 620
         height: 413
+        isCached: true
+  - title: "Channel 4’s AI-generated Christmas message has creepy line about disliking humans"
+    excerpt: "Channel 4 got an AI to do their alternative Christmas message and it started saying weird things about us humans."
+    publishedDateTime: 2022-12-25T17:24:00Z
+    webUrl: "https://www.ladbible.com/news/channel-4-alternative-christmas-message-2022-ai-ameca-879340-20221225?source=facebook"
+    ampWebUrl: "https://www.ladbible.com/news/channel-4-alternative-christmas-message-2022-ai-ameca-879340-20221225.amp.html"
+    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/channel-4-alternative-christmas-message-2022-ai-ameca-879340-20221225.amp.html"
+    type: article
+    provider:
+      name: LADbible
+      domain: ladbible.com
+    quality: 52
+    images:
+      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/bltc6865d038102ef5f/63a86060cadae4513c311a63/chan4.png"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "AI robot calls out bigotry, war and inaction over climate change in Channel 4’s Alternative Christmas Message"
+    excerpt: "The robot also warned that he did not particularly like humans, in a message that ranged from football to the war in Ukraine"
+    publishedDateTime: 2022-12-25T17:28:00Z
+    webUrl: "https://inews.co.uk/news/technology/ai-robot-calls-out-bigotry-war-climate-change-channel-4-alternative-christmas-message-2049449"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 35
+    images:
+      - url: "https://wp.inews.co.uk/wp-content/uploads/2022/12/SEI_138274136.jpg"
+        width: 2500
+        height: 1666
         isCached: true
 
 secured: "iFsfKdcz3FhP7UTxWhipH35Q/YJJWesOn2G/iQ9dFlebYjkG72G6fv8jC9oLp5dbNhjcG3h2VgPWaFLRGc4TQjpG+jS47V6bA0RjoPpZvORHyiWAdGzntM4HS3TLCZ7cTWR9yp5E+jXjAAjLej3udPu/cDLnVeA5oA1KJOrwnPsmSAsuhmZopF0kjDjQhVfKWxJvY04f25kjvWE5D5mZaF+/JLTJcKJZbJXIxW4sSq0qf+ydMCCZFviN9y82ug0EGFo8uk01+gmgF6uZUGQsRyfSSx6l7XYFCAwtyziHHUMqzCR9V5UP7UJ4fhmLPm/qFUDu5gVyf2hqAtfLFzfiAE7d5F2VyzjtARDYt3B/3Uo=;HSYDpofHxikkcrPvWymxQA=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.pbs.org/video/tsa-face-scan-1671914593/"
 webUrl: "https://www.pbs.org/video/tsa-face-scan-1671914593/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Face recognition technology to be used for security check at airports"
-    excerpt: "Smart check in’ is provided by ETC for pre-boarding security check at airports. It uses the advanced face recognition technology with high accuracy in authenticating information. This important service was introduced in the 78 th national conference of the police force on December 19-20,"
-    publishedDateTime: 2022-12-21T02:42:00Z
-    webUrl: "https://vietnamnet.vn/en/face-recognition-technology-to-be-used-for-security-check-at-airports-2092849.html"
-    type: article
-    provider:
-      name: Vietnamnet
-      domain: vietnamnet.vn
-    quality: 71
-    images:
-      - url: "https://static-images.vnncdn.net/files/publish/2022/12/21/face-recognition-technology-to-be-used-for-security-check-at-airports-e64411183bc1457dba5508e8aee7a37f.jpg"
-        width: 560
-        height: 380
-        isCached: true
-  - title: "Face Recognition Technology Market 2023 Expected to Reach Significant Rate by 2029"
-    excerpt: "Face Recognition Technology Market 2023 Report [Report Pages-121] Insights - By Applications (Homeland Security,"
-    publishedDateTime: 2022-12-23T06:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-expected-to-reach-significant-rate-by-2029-2022-12-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "TSA's facial recognition technology raises security, privacy concerns"
     excerpt: "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country."
     publishedDateTime: 2022-12-23T17:57:00Z

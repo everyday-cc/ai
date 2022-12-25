@@ -5,10 +5,12 @@ excerpt: "Innovative artificial intelligence (AI) platform called DystoniaBoTXNe
 publishedDateTime: 2022-12-23T20:21:00Z
 originalUrl: "https://www.medindia.net/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm"
 webUrl: "https://www.medindia.net/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm"
+ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm"
+cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm"
 type: article
-quality: 13
-heat: -1
-published: false
+quality: 53
+heat: 83
+published: true
 
 provider:
   name: Medindia
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://images.medindia.net/amp-images/health-images/botulinum-toxin-could-produce-remote-effects.jpg"
+    width: 1200
+    height: 1000
+    isCached: true
 
 related:
   - title: "AI tool predicts which patients with dystonia respond to Botox treatment with 96% accuracy"
@@ -54,6 +62,6 @@ related:
       domain: medicaldialogues.in
     quality: 5
 
-secured: "6hMPCnV111+Ae/UljEU1Tx9CBJSLlXks3WAgt5Cq9sUe0udFQDVya5s7kI8xbiJTIxNeHTONt6gbGsooujeDfwEM1cG+9tKe4G58H/EhCMnS1/Cd6Ywc8GqjdHPQql4XpyHlAf/wF3oO4G3tblxNAXCwIRmmq3yTlcd8GYI3aT2wg9Y89K5dm8QYcLgiu2jQcvFm+Lgwq5jWPn4xqrCbNwVZpJsXMGF4YUYGfg1zaP6cWzOmrXe6RR3rrp/f3wKOdMkXChUHzs5n4ZA8eWXrf8QSHdW699QfxJyyHV6ndoFCY6QcifMpvqw8uNvp9PKyib8jqx83qAE0L+0ta7YmgerGI/N+NaRzq0gI3DOYCao=;ULhwAXVFFouj8fUJ8tuSKw=="
+secured: "G8/oUZ+G4JsDdicKowBTu1GtllcBBpD3h/y+JPkN+QLApHFyHvAF3OOCo+qJsTaFSqweimmnMlIo6PBBXcAjHymkUeK113NJ8j8EVeBMoJh3l0GX40C+8bJYYQnUNUa9LB3i1Vuy0/wkmRXbsbTKjIoGelx2oIJV8zcPbGEJqjn+EXll5IBDIsPv8Q2zYb44aD3MfAaAtbutSSg/PFZ+aARNGyyK70bFYddoaA6BwJEqzqKZLW8+il5l9PsxjALxap9x7x+XOFN5y1j8s5nFgPu8D2I7VAImIUsHH4/9a7rR9Wj0FzOAcwIf1GKUqCeJ6//NNTx4KQPrmaew/8+2lHt58J2mZp42XhQ9iJs/bV0=;n/O20gt21jHFfA00hXDuEw=="
 ---
 

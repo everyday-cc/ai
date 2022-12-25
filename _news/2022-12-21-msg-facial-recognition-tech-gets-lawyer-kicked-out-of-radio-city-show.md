@@ -113,6 +113,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Madison Square Garden uses facial recognition tech to scan for legal adversaries"
+    excerpt: "A lawyer at a firm currently in litigation with MSG’s parent company was removed from an October concert after the facial recognition system identified her in the crowd."
+    publishedDateTime: 2022-12-22T20:57:00Z
+    webUrl: "https://www.thefader.com/2022/12/22/madison-square-garden-uses-facial-recognition-tech-to-scan-for-legal-adversaries"
+    ampWebUrl: "https://www.thefader.com/2022/12/22/madison-square-garden-uses-facial-recognition-tech-to-scan-for-legal-adversaries/amp"
+    cdnAmpWebUrl: "https://www-thefader-com.cdn.ampproject.org/c/s/www.thefader.com/2022/12/22/madison-square-garden-uses-facial-recognition-tech-to-scan-for-legal-adversaries/amp"
+    type: article
+    provider:
+      name: The Fader
+      domain: thefader.com
+    quality: 54
+    images:
+      - url: "https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_533,w_1024,x_0,y_17,f_auto,q_auto:eco/1600px-Madison_Square_Garden__MSG__-_Full__48124330357__dhwckv/1600px-Madison_Square_Garden__MSG__-_Full__48124330357__dhwckv.jpg"
+        width: 1024
+        height: 533
+        isCached: true
   - title: "Portman introduces two bills on facial recognition, AI in government"
     excerpt: "The fate of the bills in a lame duck session of Congress is uncertain, but a Portman aide says the outgoing senator wants to be active on the subjects even after retiring."
     publishedDateTime: 2022-12-22T20:09:00Z

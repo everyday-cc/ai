@@ -71,6 +71,36 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Channel 4’s AI-generated Christmas message has creepy line about disliking humans"
+    excerpt: "Channel 4 got an AI to do their alternative Christmas message and it started saying weird things about us humans."
+    publishedDateTime: 2022-12-25T17:24:00Z
+    webUrl: "https://www.ladbible.com/news/channel-4-alternative-christmas-message-2022-ai-ameca-879340-20221225?source=facebook"
+    ampWebUrl: "https://www.ladbible.com/news/channel-4-alternative-christmas-message-2022-ai-ameca-879340-20221225.amp.html"
+    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/channel-4-alternative-christmas-message-2022-ai-ameca-879340-20221225.amp.html"
+    type: article
+    provider:
+      name: LADbible
+      domain: ladbible.com
+    quality: 52
+    images:
+      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/bltc6865d038102ef5f/63a86060cadae4513c311a63/chan4.png"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "AI robot calls out bigotry, war and inaction over climate change in Channel 4’s Alternative Christmas Message"
+    excerpt: "The robot also warned that he did not particularly like humans, in a message that ranged from football to the war in Ukraine"
+    publishedDateTime: 2022-12-25T17:28:00Z
+    webUrl: "https://inews.co.uk/news/technology/ai-robot-calls-out-bigotry-war-climate-change-channel-4-alternative-christmas-message-2049449"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 35
+    images:
+      - url: "https://wp.inews.co.uk/wp-content/uploads/2022/12/SEI_138274136.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
 
 secured: "zDO6+1vGeyP+cwRe2Nboy43XQWnpJsrfAGd5hTMfwHlltrABkj7ocyvEjLEy6dKA1hUrKnQevu8Ss1zb1wAE5uG3oW4GDkgpKH1errmtMsGmyTjB8Yuq2daI6XUSdPPaF3T6SCC+h29MGH8q0TUTRwKKHQCFTNTQ8X4ijahDvI08MvllGECCqA7coUbn7NrmyscmImIrt/e+L+fUfgZ2w6BddIrjM9NA/LgSDzNnl8z1EAVUTUWBvjnP2xumXlm3Gu/2n1H0Xw+iFp8C7ySLRnzOLJtH9aWv6OsKlj4RCGxxDcxRwKWFQkIn9X0rFC8bev8SefFKY2vOo2CISpeL7weUsV+FMjuNSpzPlJdFuevXNpu3Swcv3AbzVKM2MNLNO0/ugMBBSo7jR/cVxsWRXR8KwZZVz7E/JACZIwE/B0P2R2MIgUWBB9S/kKdJLaJ71ZIqULFXux3qKqNwRA5ii5vY7GEoe3E17zqpN00OQKcGCSJ7vlGV/Wa3CsPUHsVsCLfl4lpxyFRPcMl7c+/C8A==;eGkXAg64rqIeQ2xxUfUaOw=="
 ---
