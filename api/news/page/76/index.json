@@ -2,6 +2,178 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2022-10-20-france-slaps-fine-on-face-recognition-firm-clearview-ai.md",
+      "title": "France Slaps Fine On Face Recognition Firm Clearview AI",
+      "excerpt": "France on Thursday slapped a 20-million-euro fine on US firm Clearview AI for breaching privacy laws, as pressure mounts on the controversial facial-recognition platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/france-slaps-fine-on-face-recognition-firm-clearview-ai-01666267807",
+      "originalUrl": "https://www.barrons.com/news/france-slaps-fine-on-face-recognition-firm-clearview-ai-01666267807",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/france-slaps-fine-on-face-recognition-firm-clearview-ai-01666267807",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/france-slaps-fine-on-face-recognition-firm-clearview-ai-01666267807",
+      "publishedDateTime": "2022-10-20T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-mechanical-neural-network-could-enable-smart-aircraft-wings-that-morph.md",
+      "title": "Mechanical neural network could enable smart aircraft wings that morph",
+      "excerpt": "The basis of modern AI research is the artificial neural network (ANN), which mimics the structure of the human brain by creating large grids of artificial neurons connected by synapses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2342654-mechanical-neural-network-could-enable-smart-aircraft-wings-that-morph/",
+      "originalUrl": "https://www.newscientist.com/article/2342654-mechanical-neural-network-could-enable-smart-aircraft-wings-that-morph/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2022/10/19141859/SEI_130165361.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-metas-ai-translator-can-translate-unwritten-languages.md",
+      "title": "Meta's AI translator can translate unwritten languages",
+      "excerpt": "Meta has announced an AI -powered speech-to-speech translation system for unwritten languages. As part of Meta's Universal Speech Translator (UST) project, the company has built a translation system for Hokkien,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/metas-ai-translator-can-translate-unwritten-languages-766157",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/metas-ai-translator-can-translate-unwritten-languages-766157",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2022/10/20/1317169-meta.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-texas-sues-google-for-collecting-biometric-data-without-consent.md",
+      "title": "Texas Sues Google for Collecting Biometric Data Without Consent",
+      "excerpt": "By Kashmir Hill and David McCabe The Texas attorney general filed a privacy lawsuit against Google on Thursday, accusing the internet company of collecting Texans’ facial and voice recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/10/20/technology/texas-google-privacy-lawsuit.html",
+      "originalUrl": "https://www.nytimes.com/2022/10/20/technology/texas-google-privacy-lawsuit.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/20/business/20google-texas-1/merlin_214779276_828ad650-e825-45b8-83f1-225e4f17a5f0-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/10/20/technology/texas-google-privacy-lawsuit.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/20/technology/texas-google-privacy-lawsuit.amp.html",
+      "publishedDateTime": "2022-10-20T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-metas-new-ai-powered-translator-can-interpret-a-spoken-only-language-in-real-time.md",
       "title": "Meta's New AI-Powered Translator Can Interpret A Spoken-Only Language In Real Time",
       "excerpt": "Meta Platforms Inc. META has built the first AI speech-to-speech translation system, focusing on unwritten languages. What Happened: On Wednesday, Meta announced the first AI-powered speech-to ...",
@@ -982,205 +1154,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-metas-ai-translator-can-interpret-unwritten-languages.md",
-      "title": "Meta's AI translator can interpret unwritten languages",
-      "excerpt": "but one that Meta has reportedly addressed with its latest open-source language AI advancement. As part of Meta’s Universal Speech Translator (UST) program which is working to develop real-time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/metas-ai-translator-can-interpret-unwritten-languages-150001511.html",
-      "originalUrl": "https://www.aol.com/news/metas-ai-translator-can-interpret-unwritten-languages-150001511.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/.NCBpPmk4OgpgCNqtbHWlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/e182b1b0-4efb-11ed-bff7-30a6eacb6c7e",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-digital-transformation-with-google-cloud.md",
-      "title": "Digital transformation with Google Cloud",
-      "excerpt": "We’ve partnered with Google Cloud over the last few years to apply our AI research for making a positive impact on core solutions used by their customers. Here, we introduce a few of these projects, including optimising document understanding, enhancing the value of wind energy, and offering easier use",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/digital-transformation-with-google-cloud",
-      "originalUrl": "https://www.deepmind.com/blog/digital-transformation-with-google-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/634fe232f87e0b7020f1c153_DM_GC_Hero.jpg",
-          "width": 3578,
-          "height": 1980,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-meta-ai-translator-can-figure-out-unwritten-languages.md",
-      "title": "Meta AI Translator Can Figure Out Unwritten Languages",
-      "excerpt": "Meta announced what it's calling the \"first AI-powered speech translation system for an unwritten language\" Wednesday, according to a blog post from the tech company. The system successfully translated the Taiwanese language Hokkien,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/meta-ai-translator-can-figure-out-unwritten-languages/",
-      "originalUrl": "https://www.cnet.com/tech/meta-ai-translator-can-figure-out-unwritten-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 299,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/7382493dce2d59cbbaf93757c5d4fda70ff56773/hub/2022/05/18/cb1d6bd0-d2ba-4f1b-a36a-d3a50a5ffeff/meta-logo-europe-2022-002.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/meta-ai-translator-can-figure-out-unwritten-languages/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-ai-translator-can-figure-out-unwritten-languages/",
-      "publishedDateTime": "2022-10-19T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-aftermath-islands-metaverse-replaces-usernames-and-passwords-with-blockchain-based-face-recognition.md",
-      "title": "Aftermath Islands Metaverse replaces usernames and passwords with blockchain-based face recognition",
-      "excerpt": "Aftermath Islands Metaverse launched its Liquid Avatar app to replace usernames and passwords with proof of humanity. That means that you will be able to sign into its metaverse apps by using verified face recognition on your smartphone instead of using a normal login.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/aftermath-islands-metaverse-replaces-usernames-and-passwords-with-blockchain-based-face-recognition/",
-      "originalUrl": "https://venturebeat.com/games/aftermath-islands-metaverse-replaces-usernames-and-passwords-with-blockchain-based-face-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Aftermath-Islands-Image-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

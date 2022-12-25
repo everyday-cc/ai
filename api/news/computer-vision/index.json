@@ -2,56 +2,12 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-12-24-tsas-facial-recognition-technology-raises-security-privacy-concerns.md",
-      "title": "TSA's facial recognition technology raises security, privacy concerns",
-      "excerpt": "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country.",
+      "path": "_news/2022-12-23-image-recognition-in-retail-market-2023-expected-to-reach-significant-rate-by-2029.md",
+      "title": "Image Recognition in Retail Market 2023 Expected to Reach Significant Rate by 2029",
+      "excerpt": "The Global Image Recognition in Retail market Report provides Detailed analysis on the market position of the Image Recognition in Retail Top players with stastical data, SWOT analysis, PESTAL analysis,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
-      "originalUrl": "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/14ef04f/2147483647/strip/true/crop/8640x4860+0+450/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F74%2F29%2Fc213131e41038c94fc27d4a87df4%2Fap22350850581649.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true",
-      "cdnAmpWebUrl": "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true",
-      "publishedDateTime": "2022-12-23T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMJ4",
-        "domain": "tmj4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-face-recognition-technology-market-2023-expected-to-reach-significant-rate-by-2029.md",
-      "title": "Face Recognition Technology Market 2023 Expected to Reach Significant Rate by 2029",
-      "excerpt": "Face Recognition Technology Market 2023 Report [Report Pages-121] Insights - By Applications (Homeland Security,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-expected-to-reach-significant-rate-by-2029-2022-12-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-expected-to-reach-significant-rate-by-2029-2022-12-23",
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-2023-expected-to-reach-significant-rate-by-2029-2022-12-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-2023-expected-to-reach-significant-rate-by-2029-2022-12-23",
       "featuredContent": null,
       "highlight": null,
       "heat": 73,
@@ -70,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-22T22:45:00-08:00",
+      "publishedDateTime": "2022-12-22T22:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -106,7 +62,7 @@
       "originalUrl": "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 208,
+      "heat": 228,
       "tags": null,
       "images": [
         {
@@ -346,6 +302,50 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-21-face-recognition-technology-to-be-used-for-security-check-at-airports.md",
+      "title": "Face recognition technology to be used for security check at airports",
+      "excerpt": "Smart check in’ is provided by ETC for pre-boarding security check at airports. It uses the advanced face recognition technology with high accuracy in authenticating information. This important service was introduced in the 78 th national conference of the police force on December 19-20,",
+      "sourceUrl": null,
+      "webUrl": "https://vietnamnet.vn/en/face-recognition-technology-to-be-used-for-security-check-at-airports-2092849.html",
+      "originalUrl": "https://vietnamnet.vn/en/face-recognition-technology-to-be-used-for-security-check-at-airports-2092849.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static-images.vnncdn.net/files/publish/2022/12/21/face-recognition-technology-to-be-used-for-security-check-at-airports-e64411183bc1457dba5508e8aee7a37f.jpg",
+          "width": 560,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-20T18:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vietnamnet",
+        "domain": "vietnamnet.vn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
       ]
     },
     {

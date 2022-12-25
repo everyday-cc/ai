@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "The global Facial Recognition Phone market is segmented based on the end-use industry, type of product, and region."
-    excerpt: "The \" Facial Recognition Phone market size \" and forecast are offered, along with trends, growth drivers, opportunities, and challenges. The Facial Recognition Phone market analysis also thoroughly examines the effect of COVID-19 on the market."
-    publishedDateTime: 2022-12-24T07:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-global-facial-recognition-phone-market-is-segmented-based-on-the-end-use-industry-type-of-product-and-region-2022-12-24"
+  - title: "Image Recognition in Retail Market 2023 Expected to Reach Significant Rate by 2029"
+    excerpt: "The Global Image Recognition in Retail market Report provides Detailed analysis on the market position of the Image Recognition in Retail Top players with stastical data, SWOT analysis, PESTAL analysis,"
+    publishedDateTime: 2022-12-23T06:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-2023-expected-to-reach-significant-rate-by-2029-2022-12-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-23T17:57:00Z
 originalUrl: "https://www.fox17online.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
 webUrl: "https://www.fox17online.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
 type: article
+quality: 51
+heat: -1
+published: false
 
 provider:
   name: fox17online
@@ -15,6 +18,50 @@ topics:
   - Computer Vision
   - AI
   - AI in Security
+
+related:
+  - title: "Face recognition technology to be used for security check at airports"
+    excerpt: "Smart check in’ is provided by ETC for pre-boarding security check at airports. It uses the advanced face recognition technology with high accuracy in authenticating information. This important service was introduced in the 78 th national conference of the police force on December 19-20,"
+    publishedDateTime: 2022-12-21T02:42:00Z
+    webUrl: "https://vietnamnet.vn/en/face-recognition-technology-to-be-used-for-security-check-at-airports-2092849.html"
+    type: article
+    provider:
+      name: Vietnamnet
+      domain: vietnamnet.vn
+    quality: 71
+    images:
+      - url: "https://static-images.vnncdn.net/files/publish/2022/12/21/face-recognition-technology-to-be-used-for-security-check-at-airports-e64411183bc1457dba5508e8aee7a37f.jpg"
+        width: 560
+        height: 380
+        isCached: true
+  - title: "Face Recognition Technology Market 2023 Expected to Reach Significant Rate by 2029"
+    excerpt: "Face Recognition Technology Market 2023 Report [Report Pages-121] Insights - By Applications (Homeland Security,"
+    publishedDateTime: 2022-12-23T06:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-expected-to-reach-significant-rate-by-2029-2022-12-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "TSA tests controversial facial recognition tech at airports"
+    excerpt: "The Transportation Security Administration is now testing facial identification scanners at 16 major airports. Washington Post columnist Geoffrey Fowler joins William Brangham to discuss the complexities and controversies around this new technology."
+    publishedDateTime: 2022-12-24T20:43:00Z
+    webUrl: "https://www.pbs.org/video/tsa-face-scan-1671914593/"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 54
+    images:
+      - url: "https://image.pbs.org/video-assets/DQ6OdTj-asset-mezzanine-16x9-pwm5DCq.jpg?focalcrop=1200x630x50x10&format=auto"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "NXcy8nVd3UKTceEgIa5aMYbDz/v8JJdVlpdO7Zyh4VXXXwyVp+MOi+LVe81DGc/75x3/cEZQm3na5PmcCSacNIKoov0yX2Fh1Dz+NoewApcHPjyQXR1w2C6wNezWILjUzrKZxk0q5o5MArUsoD/wmPdEBTSEQXtLhqkz8J0jzsUNd940LF7f8MRtmEVFn3Ed4yIXJIxTL0ZWn/6oL3DDjr2ZhpLSz1wQSlFARgR8oll/oG4g6ZSGE7KUtxhWswhdGamZLfccDL7ECPI6X/EtPRadEFoTKv/RwrudOPps3QBofmIB/qE7ECrHauepCxACYjpEHD0LYL/1nNn/inr2o/fCHY6WiY98mmPv8jEMdbdATOacirvEwViArYIvKx9WRhpVi2NF36maWZPPl5mxNNF/2QdIqD0c/Ls2iZVaQRtNB7/B2+1MdsoDZJxsR0s55tMRGp9mCsgdsxkrdgQoGWS0z3/IjN5sUsjkuphXJ5Eas8AAsZyWTzmujwtq/oRFaZiQUgS/D47Gs1/+7hcQFg==;NWubq2PXP8bLmEjk+uFLLw=="
 ---

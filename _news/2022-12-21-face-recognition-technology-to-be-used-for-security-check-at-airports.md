@@ -7,8 +7,8 @@ originalUrl: "https://vietnamnet.vn/en/face-recognition-technology-to-be-used-fo
 webUrl: "https://vietnamnet.vn/en/face-recognition-technology-to-be-used-for-security-check-at-airports-2092849.html"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 101
+published: true
 
 provider:
   name: Vietnamnet
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "TSA's facial recognition technology raises security, privacy concerns"
-    excerpt: "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country."
-    publishedDateTime: 2022-12-23T17:57:00Z
-    webUrl: "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
-    ampWebUrl: "https://www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
-    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+  - title: "Face Recognition Technology Market 2023 Expected to Reach Significant Rate by 2029"
+    excerpt: "Face Recognition Technology Market 2023 Report [Report Pages-121] Insights - By Applications (Homeland Security,"
+    publishedDateTime: 2022-12-23T06:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-expected-to-reach-significant-rate-by-2029-2022-12-23"
     type: article
     provider:
-      name: TMJ4
-      domain: tmj4.com
-    quality: 91
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/14ef04f/2147483647/strip/true/crop/8640x4860+0+450/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F74%2F29%2Fc213131e41038c94fc27d4a87df4%2Fap22350850581649.jpg"
-        width: 1280
-        height: 720
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "TSA tests controversial facial recognition tech at airports"
     excerpt: "The Transportation Security Administration is now testing facial identification scanners at 16 major airports. Washington Post columnist Geoffrey Fowler joins William Brangham to discuss the complexities and controversies around this new technology."
@@ -56,80 +54,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Baltimore councilman seeks to regulate facial recognition technology after ban expires"
-    excerpt: "Opponents of facial recognition technology cite potentially dangerous invasion of privacy There's a push to regulate facial recognition technology in Baltimore after a ban on it expires next week. Many people use it every day to unlock their phones."
-    publishedDateTime: 2022-12-23T22:19:00Z
-    webUrl: "https://www.wbaltv.com/article/baltimore-councilman-seeks-to-regulate-facial-recognition-technology-after-ban-expires/42329343"
-    ampWebUrl: "https://www.wbaltv.com/amp/article/baltimore-councilman-seeks-to-regulate-facial-recognition-technology-after-ban-expires/42329343"
-    cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/baltimore-councilman-seeks-to-regulate-facial-recognition-technology-after-ban-expires/42329343"
+  - title: "TSA's facial recognition technology raises security, privacy concerns"
+    excerpt: "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country."
+    publishedDateTime: 2022-12-23T17:57:00Z
+    webUrl: "https://www.fox17online.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
     type: article
     provider:
-      name: WBAL-TV
-      domain: wbaltv.com
+      name: fox17online
+      domain: fox17online.com
     quality: 51
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/facial-recognition-technology-jpg-1671811901.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Facial recognition technology may soon come to LI schools. Will it keep students safe or invade their privacy?"
-    excerpt: "Two state agencies are looking into the use of the surveillance system that opponents say invades privacy and proponents say helps to keep students safe."
-    publishedDateTime: 2022-12-22T12:56:00Z
-    webUrl: "https://www.newsday.com/long-island/education/facial-recognition-technology-schools-p70v0mx1"
-    ampWebUrl: "https://www.newsday.com/amp/long-island/education/facial-recognition-technology-schools-p70v0mx1"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/long-island/education/facial-recognition-technology-schools-p70v0mx1"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 39
-    images:
-      - url: "https://cdn.newsday.com/ace/c:NmFhYmM4OWUtZjFiOC00:ODAxNmQ4/landscape/1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Woman's Expulsion From Radio City Renews Call For Facial Recognition Ban"
-    excerpt: "Madison Square Garden Entertainment's use of facial-recognition technology is spurring new controversy this week, in the wake of news that Radio City Music Hall denied admittance to a lawyer who was attempting to take her daughter to a Rockettes performance."
-    publishedDateTime: 2022-12-21T21:16:00Z
-    webUrl: "https://www.mediapost.com/publications/article/380902/womans-expulsion-from-radio-city-renews-call-for.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 38
-    images:
-      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2022/12/21/shutterstock_612316997_hKqcKZx.jpg"
-        width: 600
-        height: 375
-        isCached: true
-  - title: "Madison Square Garden Using Facial Recognition Technology To Kick Out Legal Adversaries"
-    excerpt: "In recent months, Madison Square Garden and its affiliated venues have used facial recognition technology to remove multiple lawyers from the premises because they’re employed by firms in active litigation against MSG."
-    publishedDateTime: 2022-12-21T21:03:00Z
-    webUrl: "https://www.stereogum.com/2209007/madison-square-garden-using-facial-recognition-technology-to-kick-out-legal-adversaries/news/"
-    type: article
-    provider:
-      name: Stereogum
-      domain: stereogum.com
-    quality: 31
-    images:
-      - url: "https://static.stereogum.com/uploads/2022/12/GettyImages-1447005870-1671656449-scaled.jpg"
-        width: 2560
-        height: 1790
-        isCached: true
-  - title: "Facial recognition technology may soon come to LI schools. Will it keep students safe or invade their privacy?"
-    excerpt: "Two state agencies are looking into the use of the surveillance system that opponents say invades privacy and proponents say helps to keep students safe."
-    publishedDateTime: 2022-12-22T19:41:00Z
-    webUrl: "https://www.newsday.com/long-island/facial-recognition-technology-schools-p70v0mx1"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 19
-    images:
-      - url: "https://cdn.newsday.com/ace/c:NmFhYmM4OWUtZjFiOC00:ODAxNmQ4/landscape/1280"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "EE5O62k917w9TJHdrqUMNkQu9pVujasgjOHIMeiOm/gdtVaXOqnqdKMop/yVHOAEFlY4ANyF6BSnH7ZRyJAcqIIsg1cfgPN4QL6uUEMlJEYiJg32plVkFUk+cEC/ALksLAvpEZP0qZoD3ZfFhcTntq0c3jGsyg1P7o/G2JM0qQFn2kEzvSPoM6IbI1hqu22gskYrKg3PH+GKqXb9NbIpjKlmEaXaoHYdCYSkw1AVIUkyyGTiTRkDpGhwS0dUcx0Hk6Apx7vKPJd1roFArbf3KAprrb38RPudjl3Q+FVWMbWObDk/nn+Rigv25oJs2LBI+VnkCiW9lCU42Fb9UOMBlQR1kj4DkVB5pgtGgaVp4d8=;paz0v6ntSGj3sV/QHPLZNw=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/image-recognition-in-ret
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-2023-expected-to-reach-significant-rate-by-2029-2022-12-23"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: MarketWatch
@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Technology Market 2023 Expected to Reach Significant Rate by 2029"
-    excerpt: "Face Recognition Technology Market 2023 Report [Report Pages-121] Insights - By Applications (Homeland Security,"
-    publishedDateTime: 2022-12-23T06:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-expected-to-reach-significant-rate-by-2029-2022-12-23"
+  - title: "This Jevtana Research report provides detailed segmentation of this market based on material, application, end use, and region."
+    excerpt: "Jevtana is a novel open-source machine learning platform that provides developers with a unified approach to deep learning. Jevtana is designed to be fast, scalable, and easy to use, making it the perfect tool for building deep learning models."
+    publishedDateTime: 2022-12-22T22:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/this-jevtana-research-report-provides-detailed-segmentation-of-this-market-based-on-material-application-end-use-and-region-2022-12-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

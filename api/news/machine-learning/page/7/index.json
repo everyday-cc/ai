@@ -2,6 +2,138 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-03-machine-learning-market-analytical-overview-and-size-value-and-volume-by-2030.md",
+      "title": "Machine learning Market Analytical Overview and Size (Value and Volume) by 2030",
+      "excerpt": "financial services and insurance (BFSI), automotive, healthcare, government and others. The trend of using machine learning techniques in the healthcare sector, financial sector and retail sector ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/machine-learning-market-analytical-overview-and-size-value-and-volume-by-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/machine-learning-market-analytical-overview-and-size-value-and-volume-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/11/caeb17642ba63e541976d733a2d5bd53ec7092bd-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-in-the-latest-human-vs-machine-match-artificial-intelligence-wins-by-a-hair.md",
+      "title": "In the latest human vs. machine match, artificial intelligence wins by a hair",
+      "excerpt": "Scientists are deeply interested in protein self-assembly because they believe understanding it better could help them design a host of revolutionary products for medical and industrial uses, such as artificial human tissue for wounds and catalysts for new ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.html",
+      "originalUrl": "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/in-the-latest-human-vs.jpg",
+          "width": 685,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp",
+      "publishedDateTime": "2022-11-02T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-researchers-show-how-network-pruning-can-skew-deep-learning-models.md",
+      "title": "Researchers show how network pruning can skew deep learning models",
+      "excerpt": "Computer science researchers have demonstrated that a widely used technique called neural network pruning can adversely affect the performance of deep learning models, detailed what causes these performance problems,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.html",
+      "originalUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/computer-code-3.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-network-pruning-skew-deep.amp",
+      "publishedDateTime": "2022-11-02T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-study-urges-caution-when-comparing-neural-networks-to-the-brain.md",
       "title": "Study urges caution when comparing neural networks to the brain",
       "excerpt": "Neural networks, a type of computing system loosely modeled on the organization of the human brain, form the basis of many artificial intelligence systems for applications such as speech recognition, computer vision, and medical image analysis. In the ...",
@@ -1284,126 +1416,6 @@
       "provider": {
         "name": "techxplore",
         "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-mechanical-neural-network-could-enable-smart-aircraft-wings-that-morph.md",
-      "title": "Mechanical neural network could enable smart aircraft wings that morph",
-      "excerpt": "The basis of modern AI research is the artificial neural network (ANN), which mimics the structure of the human brain by creating large grids of artificial neurons connected by synapses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2342654-mechanical-neural-network-could-enable-smart-aircraft-wings-that-morph/",
-      "originalUrl": "https://www.newscientist.com/article/2342654-mechanical-neural-network-could-enable-smart-aircraft-wings-that-morph/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/10/19141859/SEI_130165361.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-a-new-type-of-material-called-a-mechanical-neural-network-can-learn-and-change-its-physical-properties-to-create-adaptable-strong-structures.md",
-      "title": "A New Type Of Material Called A Mechanical Neural Network Can Learn And Change Its Physical Properties To Create Adaptable, Strong Structures",
-      "excerpt": "The is a short take about interesting academic work. The big idea A new type of material can learn and improve its ability to deal with u",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105049442/A-New-Type-Of-Material-Called-A-Mechanical-Neural-Network-Can-Learn-And-Change-Its-Physical-Properties-To-Create-Adaptable-Strong-Structures",
-      "originalUrl": "https://menafn.com/1105049442/A-New-Type-Of-Material-Called-A-Mechanical-Neural-Network-Can-Learn-And-Change-Its-Physical-Properties-To-Create-Adaptable-Strong-Structures",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-a-deep-artificial-neural-network-powered-by-enzymes.md",
-      "title": "A deep artificial neural network powered by enzymes",
-      "excerpt": "To do this, artificial ‘neurons’ powered by enzymes are wired together to form an architecture that mimics the structure of a neural network. The world is facing a shortage of memory capacity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-022-03150-4",
-      "originalUrl": "https://www.nature.com/articles/d41586-022-03150-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-03150-4/d41586-022-03150-4_23610918.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
         "images": null,
         "publishers": null,
         "authors": null

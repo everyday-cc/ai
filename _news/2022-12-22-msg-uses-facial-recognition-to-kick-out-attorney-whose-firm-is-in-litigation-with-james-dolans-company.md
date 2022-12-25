@@ -159,6 +159,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Woman's Expulsion From Radio City Renews Call For Facial Recognition Ban"
+    excerpt: "Madison Square Garden Entertainment's use of facial-recognition technology is spurring new controversy this week, in the wake of news that Radio City Music Hall denied admittance to a lawyer who was attempting to take her daughter to a Rockettes performance."
+    publishedDateTime: 2022-12-21T21:16:00Z
+    webUrl: "https://www.mediapost.com/publications/article/380902/womans-expulsion-from-radio-city-renews-call-for.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 38
+    images:
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2022/12/21/shutterstock_612316997_hKqcKZx.jpg"
+        width: 600
+        height: 375
+        isCached: true
   - title: "MSG Facial-Recognition Tech Gets Lawyer Kicked Out of Radio City Show"
     excerpt: "The woman was reportedly separated from her daughter and escorted out of the venue because the tech identified her as working for a law firm in litigation with MSG Entertainment."
     publishedDateTime: 2022-12-21T13:04:00Z
@@ -168,6 +182,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 34
+  - title: "Madison Square Garden Using Facial Recognition Technology To Kick Out Legal Adversaries"
+    excerpt: "In recent months, Madison Square Garden and its affiliated venues have used facial recognition technology to remove multiple lawyers from the premises because they’re employed by firms in active litigation against MSG."
+    publishedDateTime: 2022-12-21T21:03:00Z
+    webUrl: "https://www.stereogum.com/2209007/madison-square-garden-using-facial-recognition-technology-to-kick-out-legal-adversaries/news/"
+    type: article
+    provider:
+      name: Stereogum
+      domain: stereogum.com
+    quality: 31
+    images:
+      - url: "https://static.stereogum.com/uploads/2022/12/GettyImages-1447005870-1671656449-scaled.jpg"
+        width: 2560
+        height: 1790
+        isCached: true
   - title: "Facial-Recognition Tech Gets Lawyer Booted From Radio City Music Hall"
     excerpt: "Kelly Conlon says she purchased tickets for her and her daughter to see the Radio City Music Hall Christmas show as part of a Girl Scout outing. Upon entering, Conlon says she heard an announcement over the PA system describing her physical appearance."
     publishedDateTime: 2022-12-21T20:36:00Z

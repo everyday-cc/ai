@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-11-24-can-ai-help-ease-traffic-congestion-researchers-say-yes.md",
+      "title": "Can AI help ease traffic congestion? Researchers say yes",
+      "excerpt": "Do you ever wonder why traffic comes to a standstill for no apparent reason? Researchers say the problem is you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee",
+      "originalUrl": "https://www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2022/11/932/470/GettyImages-1244994996.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee.amp",
+      "cdnAmpWebUrl": "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee.amp",
+      "publishedDateTime": "2022-11-23T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WJBK",
+        "domain": "fox2detroit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-the-state-of-artificial-intelligence-at-the-manufacturing-edge.md",
       "title": "The State of Artificial Intelligence at the Manufacturing Edge",
       "excerpt": "The WZL is focused on a holistic approach to production engineering, covering the specifics of manufacturing technologies, machine tools, production metrology and production management, helping manufacturers test and refine advanced technology solutions before putting them into production at the manufacturing edge.",
@@ -1337,49 +1381,6 @@
         "AI in Robotics",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-leading-defence-companies-in-the-artificial-intelligence-theme.md",
-      "title": "Leading defence companies in the artificial intelligence theme",
-      "excerpt": "The future of the defence industry will be shaped by a range of disruptive themes, with artificial intelligence (AI) being one of the themes that will have a significant impact on defence companies. AI technologies are rapidly evolving. The US and China ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.army-technology.com/data-insights/leading-defence-companies-in-the-artificial-intelligence-theme/",
-      "originalUrl": "https://www.army-technology.com/data-insights/leading-defence-companies-in-the-artificial-intelligence-theme/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.army-technology.com/wp-content/uploads/sites/3/2022/11/Aritificial-Intelligence-in-Defence-2.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "army-technology.com",
-        "domain": "army-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

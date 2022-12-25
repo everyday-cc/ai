@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-24T06:02:00Z
 originalUrl: "https://indiaeducationdiary.in/priority-2030-program-names-itmo-the-best/"
 webUrl: "https://indiaeducationdiary.in/priority-2030-program-names-itmo-the-best/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: India Education Diary

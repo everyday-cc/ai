@@ -2,6 +2,136 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-09-17-economists-view-of-artificial-intelligence-beyond-cheaper-prediction-power.md",
+      "title": "Economist’s View Of Artificial Intelligence: Beyond Cheaper Prediction Power",
+      "excerpt": "We’re starting to outsource a large share of human decision-making to machines, which may have unforeseen implications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/17/economists-view-of-artificial-intelligence-beyond-cheaper-prediction-power/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/17/economists-view-of-artificial-intelligence-beyond-cheaper-prediction-power/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63254ca3e6ea262af77a03a7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/17/economists-view-of-artificial-intelligence-beyond-cheaper-prediction-power/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/09/17/economists-view-of-artificial-intelligence-beyond-cheaper-prediction-power/amp/",
+      "publishedDateTime": "2022-09-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-17-structural-reforms-and-economic-growth-a-machine-learning-approach.md",
+      "title": "Structural Reforms and Economic Growth: A Machine Learning Approach",
+      "excerpt": "We overcome these issues by using a machine learning approach (the partial least squares method ... Our findings suggest that structural reforms in the area of product, labor and financial markets as well as the legal system have a significant impact ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.imf.org/en/Publications/WP/Issues/2022/09/15/Structural-Reforms-and-Economic-Growth-A-Machine-Learning-Approach-523396",
+      "originalUrl": "https://www.imf.org/en/Publications/WP/Issues/2022/09/15/Structural-Reforms-and-Economic-Growth-A-Machine-Learning-Approach-523396",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Monetary Fund",
+        "domain": "imf.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-17-a-new-holographic-microscope-allows-scientists-to-see-through-the-skull-and-image-the-brain.md",
+      "title": "A new holographic microscope allows scientists to see through the skull and image the brain",
+      "excerpt": "The new label-free deep-tissue imaging with the wave correction algorithm retrieves the fine neural network of the mouse brain with the intact skull by focusing the light and filtering out ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220916112500.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220916112500.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-17-decoding-canine-cognition-machine-learning-gives-glimpse-of-how-a-dogs-brain-represents-what-it-sees.md",
       "title": "Decoding canine cognition: Machine learning gives glimpse of how a dog's brain represents what it sees",
       "excerpt": "Scientists have decoded visual images from a dog's brain, offering a first look at how the canine mind reconstructs what it sees. The Journal of Visualized Experiments published the research done at Emory University.",
@@ -1206,138 +1336,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-meta-transitions-pytorch-to-the-linux-foundation-further-accelerating-aiml-open-source-collaboration.md",
-      "title": "Meta Transitions PyTorch to the Linux Foundation, Further Accelerating AI/ML Open Source Collaboration",
-      "excerpt": "The Linux Foundation, a global nonprofit organization enabling innovation through open source, today announced PyTorch is moving to the Linux Foundation from Meta where it will live under the newly-formed PyTorch Foundation.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-philanthropy-bfe43353bdc4e67ca0619d66400a2691",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-philanthropy-bfe43353bdc4e67ca0619d66400a2691",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-opswat-launches-neuralyzer-a-new-ai-powered-product-for-industrial-asset-and-ot-network-visibility-to-enhance-critical-infrastructure-protection.md",
-      "title": "OPSWAT Launches Neuralyzer, A New AI-Powered Product for Industrial Asset and OT Network Visibility to Enhance Critical Infrastructure Protection",
-      "excerpt": "OPSWAT, a leading provider of critical infrastructure protection (CIP) cybersecurity solutions, announced today the launch of OPSWAT Neuralyzer, a new neural network cybersecurity product that enables OT personnel to protect their critical environments and supply chain through asset discovery,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-49c1eddd64489bfcd39d02333dba0bca",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-49c1eddd64489bfcd39d02333dba0bca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-insights-into-gpu-for-deep-learnings-growth-through-2028.md",
-      "title": "Insights into GPU for Deep Learning’s growth through 2028",
-      "excerpt": "GPU for Deep Learning Market From 2022 to 2028 According to the GPU for Deep Learning Market research report, the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/insights-into-gpu-for-deep-learnings-growth-through-2028-2022-09-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/insights-into-gpu-for-deep-learnings-growth-through-2028-2022-09-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -7,8 +7,8 @@ originalUrl: "https://timesofindia.indiatimes.com/readersblog/digitalmarketingin
 webUrl: "https://timesofindia.indiatimes.com/readersblog/digitalmarketinginsights/how-deep-learning-is-revolutionizing-the-world-of-ai-48392/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Indiatimes
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tech mantras revolutionising healthcare from patients’ homes to the operating rooms"
+    excerpt: "Digital influence and technological intervention are breaking barriers in the Indian healthcare industry, especially in post-pandemic times, leading to a dynamic transformation. While the telemedicine sector has witnessed a 30% spike in patients in"
+    publishedDateTime: 2022-12-25T15:34:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/tech-mantras-revolutionising-healthcare-from-patients-homes-to-the-operating-rooms/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/tech-mantras-revolutionising-healthcare-from-patients-homes-to-the-operating-rooms/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/tech-mantras-revolutionising-healthcare-from-patients-homes-to-the-operating-rooms/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 53
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
   - title: "Machine Learning and AI - Changing the Anti-Money Laundering Solutions Game"
     excerpt: "Money laundering is a crime that generates many costs, from financial losses through to human lives. In an effort to stem the tide of financial crime, financial institutions worldwide are now increasingly investing in AML Solutions."
     publishedDateTime: 2022-12-21T14:46:00Z

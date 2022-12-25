@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-18-the-birth-of-ai-powered-fastsaas.md",
+      "title": "The Birth of AI-powered FastSaaS",
+      "excerpt": "Led by investment from OpenAI Startup Fund, Mem was the first to introduce an AI-powered workspace organisation tool, with its product, Mem X. Notion’s reinvention of its platform may have been a direct effect of the shift in tide towards many of the AI application tools.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/the-birth-of-ai-powered-fastsaas/",
+      "originalUrl": "https://analyticsindiamag.com/the-birth-of-ai-powered-fastsaas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/fast-saas.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T03:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-ai-cant-cut-it-correcting-language-learners-writing-still-has-to-be-done-by-hand.md",
       "title": "AI Can’t Cut It: Correcting Language Learners’ Writing Still Has to Be Done by Hand",
       "excerpt": "Besides well-known applications that translate texts into many different languages ... is a trained philosopher and physicist. He works as an AI consultant at the Goethe-Institut’s Language Lab, a unit tasked with developing the institute’s online ...",
@@ -1327,59 +1370,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-google-makes-massive-commitment-to-support-more-languages-using-ai.md",
-      "title": "Google makes massive commitment to support more languages using AI",
-      "excerpt": "To bring information to more people across the globe, Google will build an AI model that can support 1,000 languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
-      "originalUrl": "https://www.zdnet.com/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4a455c6a8f467bb23be26a348c2bf65ecae56fa1/2022/11/02/644c9403-d9c9-4d11-b568-81a85cb4d13a/0cb8df75-408d-4c3d-ab7e-3aa1d968636d-1-201-a.jpg?auto=webp&width=768",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
-      "publishedDateTime": "2022-11-02T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

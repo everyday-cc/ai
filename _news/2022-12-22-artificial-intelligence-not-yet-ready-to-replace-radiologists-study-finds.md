@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20221222/Artificial-intelligen
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221222/Artificial-intelligence-not-yet-ready-to-replace-radiologists-study-finds.aspx"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 620
     height: 480
     isCached: true
+
+related:
+  - title: "AI tool to help make real-time diagnoses during surgery, finds study"
+    excerpt: "An artificial intelligence tool has been developed to help make real-time diagnoses during surgery, improving the quality of images to increase the accuracy of rapid diagnostics, a new study has shown"
+    publishedDateTime: 2022-12-25T14:34:00Z
+    webUrl: "https://www.business-standard.com/article/technology/ai-tool-to-help-make-real-time-diagnoses-during-surgery-finds-study-122122500616_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 17
 
 secured: "Mp0DEjMlpbBPWS5lDGA5aQ1tAFdewd0/67nH2bkEtREvZA0MGoibFiIQmkQZlCNteLdExfujUqrKiAu7wlIePaOYTQXvawKkYMeuOjLOsw7UpNrsG1zB0q0Tem6bo2XQjndPfv5e4obN4CDNk2IMygiIZ3GdeGEwJ/5ibh5xrsYAuyBtt7u1iUxn9iEvGL2AnSdx9RsX6LVFQiyW9mAcxI/TtSYGh57qF6vrB4yaFtoKNd/uzePzXahw7I+eV7xuO05Fp05Ww6jC8JBkonwWTyhkGc6m0JZS9kwV6x7zqIOTeZSwuoFHyses6g8OgZhdf8sLS+uoOnEL3CPBD69hbssUvGFk/TUqUNdkAHeGM9fiy7O4C1xMTG3i4VMfh1zikTgx/PHvw/wRmEfSI+HeRSZxSlB0FEmncj6SFNmnGALGm0NczFJnUxDves2B0ZOo4UVvzM3+YNVqJJp9eQLiZjiNG4ReTSAyKJQrKrVzdlLTbYYa5BFtH/nLz+RoW1Nn1KsIlRE4PlTpjkalE3WMqA==;tqWfg60ywv32oP2O+tvI8g=="
 ---

@@ -2,6 +2,207 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-12-02-nvidia-rtx-6000-gpu-price-leak-confirms-your-worst-fears.md",
+      "title": "Nvidia RTX 6000 GPU price leak confirms your worst fears",
+      "excerpt": "confirms the GPU memory runs 48GB GDDR6 ECC RAM on a 384-bit bus, and boasts fourth-generation Tensor Cores that, says Nvidia, “provide faster AI compute performance, delivering more than 2X the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/nvidia-rtx-6000-gpu-price-leak-confirms-your-worst-fears",
+      "originalUrl": "https://www.techradar.com/news/nvidia-rtx-6000-gpu-price-leak-confirms-your-worst-fears",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/u5cQfLYSiowmqKvnqYQM3H-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T01:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-artificial-intelligence-in-security-market-research-reports-industry-size-growth-opportunity-regional-analysis-2022-2031.md",
+      "title": "Artificial Intelligence in Security Market Research Reports, Industry Size, Growth Opportunity, Regional Analysis 2022-2031",
+      "excerpt": "The global Artificial Intelligence in Security market is segregated on the basis of Security as Network Security, and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-reports-industry-size-growth-opportunity-regional-analysis-2022-2031-2022-12-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-reports-industry-size-growth-opportunity-regional-analysis-2022-2031-2022-12-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T01:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-artificial-intelligence-chipset-market-2022-industry-size-shares-segment-forecast-up-to-2028.md",
+      "title": "Artificial Intelligence Chipset Market 2022 Industry Size, Shares, Segment & Forecast up to 2028",
+      "excerpt": "The global Artificial Intelligence Chipset market report provides geographic analysis covering regions, such as",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2022-industry-size-shares-segment-forecast-up-to-2028-2022-12-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2022-industry-size-shares-segment-forecast-up-to-2028-2022-12-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-and-dystopian.md",
+      "title": "Government Introduces ‘DigiYatra’ Facial Recognition For Entry Into Airports; Netizens Call It Scary And Dystopian",
+      "excerpt": "The Ministry of Civil Aviation of the Government of India, has now introduced ‘DigiYatra’, an initiative to make your travel swift and seamless. Flyers will only need to check in with facial recognition that will allow quick airport entry and pre-security check.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an",
+      "originalUrl": "https://in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/cvc_gmmq.620.png",
+          "width": 619,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an?amp=1",
+      "publishedDateTime": "2022-12-01T23:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-electric-robot-tractors-powered-by-nvidia-ai-chips-are-here.md",
       "title": "Electric robot tractors powered by Nvidia AI chips are here",
       "excerpt": "It’s the Livermore, California-based startup ... its Jetson Xavier AI computer and the Isaac developer platform that helps companies develop and train autonomous robots. Many tractors out ...",
@@ -1024,191 +1225,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-facial-strain-sensor-could-give-a-voice-to-the-voiceless.md",
-      "title": "Facial strain sensor could give a voice to the voiceless",
-      "excerpt": "While some assistance is available to individuals who lack the power of speech, verbally communicating with other people can still be challenging. A new face-worn strain sensor could help, as it's able to \"read\" the wearer's silently mouthed words.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/wearables/strain-sensors-face-voice/",
-      "originalUrl": "https://newatlas.com/wearables/strain-sensors-face-voice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/441f07b/2147483647/strip/true/crop/851x447+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1f%2F52%2Fa87333324a11820a5474a2eef5b3%2Fscreen-shot-2022-12-01-at-9.32.31%20AM.jpeg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T10:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-ai-could-have-20-chance-of-sentience-in-10-years-says-philosopher-david-chalmers.md",
-      "title": "AI could have 20% chance of sentience in 10 years, says philosopher David Chalmers",
-      "excerpt": "AI programs that combine sensing and action and world models might achieve fish-level intelligence, says the NeurIPS 2022 keynote speaker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
-      "originalUrl": "https://www.zdnet.com/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4540138c5a94e1211ab4775544b48650380c3b89/2022/12/01/9bb85d12-1a32-4015-8f8a-d1f852c5e3cc/david-chalmers-2022-5.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
-      "publishedDateTime": "2022-12-01T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-artificial-intelligence-and-robotics-to-help-early-detect-urinary-tract-infections.md",
-      "title": "Artificial intelligence and robotics to help early detect urinary tract infections",
-      "excerpt": "A team of researchers at the University of Edinburgh and Heriot-Watt University are developing AI and robots to detect urinary tract infections (UTIs) earlier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hw.ac.uk/news/articles/2022/artificial-intelligence-and-robotics-to-help.htm",
-      "originalUrl": "https://www.hw.ac.uk/news/articles/2022/artificial-intelligence-and-robotics-to-help.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hw.ac.uk/img/Pepper.png",
-          "width": 705,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Heriot-Watt University",
-        "domain": "hw.ac.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-yahoo-selects-aws-as-its-preferred-public-cloud-provider-for-its-ad-tech-business.md",
-      "title": "Yahoo Selects AWS as Its Preferred Public Cloud Provider for Its Ad Tech Business",
-      "excerpt": "Invent, Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Yahoo has selected AWS as its preferred public cloud provider for its advertising technology business Yahoo Ad Tech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/12/01/9723025.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/12/01/9723025.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T08:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

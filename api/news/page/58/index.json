@@ -2,6 +2,179 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-11-05-ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.md",
+      "title": "IBM bolsters BI offerings with Business Analytics Enterprise suite",
+      "excerpt": "IBM’s Cognos Analytics with Watson, which is an AI-based self-service program for creating dashboards and reports, has been updated with the ability to consider seasons and other, multiple ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3679049/ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.html",
+      "originalUrl": "https://www.infoworld.com/article/3679049/ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/20/13/ibm-sign-100925012-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3679049/ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3679049/ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.amp.html",
+      "publishedDateTime": "2022-11-05T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-05-google-wants-ai-in-one-thousand-languages.md",
+      "title": "Google wants AI in one thousand languages",
+      "excerpt": "Data is crucial to advances in AI, and Google and its big ... this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world ...",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/google-wants-ai-in-one-thousand-languages/95276087",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/google-wants-ai-in-one-thousand-languages/95276087",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-05T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-05-indonesian-police-use-face-recognition-for-g20-summit-security.md",
+      "title": "Indonesian Police Use Face Recognition for G20 Summit Security",
+      "excerpt": "Wakapolri said that through the command center, Indonesian police can find out the situation of members and facilities G20 Summit. They also provide the face recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.viva.co.id/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
+      "originalUrl": "https://www.viva.co.id/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumb.viva.co.id/media/frontend/thumbs3/2022/11/04/63651ae978d50-wakapolri-komjen-pol-gatot-eddy-pramono_665_374.jpg",
+          "width": 665,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.viva.co.id/amp/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
+      "cdnAmpWebUrl": "https://www-viva-co-id.cdn.ampproject.org/c/s/www.viva.co.id/amp/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
+      "publishedDateTime": "2022-11-04T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "viva",
+        "domain": "viva.co.id",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-11-05-local-measure-gains-aws-retail-competency-status.md",
+      "title": "Local Measure gains AWS Retail Competency status",
+      "excerpt": "Australian customer experience software company Local Measure has achieved Amazon Web Services (AWS) Retail Competency status. The competency recognises AWS Partners that provide innovative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/702555/local-measure-gains-aws-retail-competency-status/",
+      "originalUrl": "https://www.arnnet.com.au/article/702555/local-measure-gains-aws-retail-competency-status/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/jonathan_barouch.jpg",
+          "width": 504,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-05-content-curation-ai-ethics-other-teams-fired-by-twitter-under-new-owner-elon-musk.md",
       "title": "Content curation, AI ethics, other teams fired by Twitter under new owner Elon Musk",
       "excerpt": "Elon Musk has axed entire departments at Twitter in his exercise to deeply trim its workforce by half and human rights, accessibility, AI ethics and curation and communications teams were hit the hardest.",
@@ -980,187 +1153,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company.md",
-      "title": "Samba TV Acquires An Artificial Intelligence And Machine Learning Company",
-      "excerpt": "announced the acquisition of Disruptel, an artificial intelligence (AI) and machine learning (ML) company. No financial terms of the acquisition were disclosed. In an increasingly competitive ad tech environment, the acquisition will further advance Samba ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradadgate/2022/11/04/samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company/",
-      "originalUrl": "https://www.forbes.com/sites/bradadgate/2022/11/04/samba-tv-acquires-an-artificial-intelligence-and-machine-learning-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-04T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects.md",
-      "title": "Dataloop Automates Data Management and Annotation to Accelerate AI Projects",
-      "excerpt": "Dataloop, an Israeli startup, has made the announcement that it will offer businesses a complete platform covering every stage",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/11/Dataloop-Automates-Data-Management-and-Annotation-to-Accelerate-AI-Projects.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/amp/",
-      "publishedDateTime": "2022-11-04T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-harmful-ai-rules-now-brought-to-you-by-europe-co-inc.md",
-      "title": "Harmful AI rules: Now brought to you by Europe & Co., Inc.",
-      "excerpt": "The EU’s new law on artificial intelligence aims to protect people from harmful AI by cracking down against discriminatory, opaque and uncontrolled algorithms that are increasingly being used to make life-changing judgments on immigration,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/harmful-ai-rules-european-union-corporate-influence/",
-      "originalUrl": "https://www.politico.eu/article/harmful-ai-rules-european-union-corporate-influence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2022/10/27/iStock-1312850689.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/harmful-ai-rules-european-union-corporate-influence/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/harmful-ai-rules-european-union-corporate-influence/amp/",
-      "publishedDateTime": "2022-11-04T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life.md",
-      "title": "Former iPhone Leader Joins Arm to Bring More Chips Into Your Life",
-      "excerpt": "Arm licenses chip designs to companies like Qualcomm and technology to others like Apple who design their own processors. Graphics and AI chip giant Nvidia tried to acquire Arm for $40 billion ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/aafecc487b5fb4d281afcfab3be1714fad9f5b3f/hub/2022/11/02/8858bad7-8337-4e4b-aa39-ae46f7a17449/20141105-tony-fadell-01.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life/",
-      "publishedDateTime": "2022-11-04T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

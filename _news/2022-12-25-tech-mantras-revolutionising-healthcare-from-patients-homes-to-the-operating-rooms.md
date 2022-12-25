@@ -1,0 +1,56 @@
+---
+category: news
+title: "Tech mantras revolutionising healthcare from patients’ homes to the operating rooms"
+excerpt: "Digital influence and technological intervention are breaking barriers in the Indian healthcare industry, especially in post-pandemic times, leading to a dynamic transformation. While the telemedicine sector has witnessed a 30% spike in patients in"
+publishedDateTime: 2022-12-25T15:34:00Z
+originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/tech-mantras-revolutionising-healthcare-from-patients-homes-to-the-operating-rooms/"
+webUrl: "https://timesofindia.indiatimes.com/blogs/voices/tech-mantras-revolutionising-healthcare-from-patients-homes-to-the-operating-rooms/"
+ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/tech-mantras-revolutionising-healthcare-from-patients-homes-to-the-operating-rooms/"
+cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/tech-mantras-revolutionising-healthcare-from-patients-homes-to-the-operating-rooms/"
+type: article
+quality: 53
+heat: -1
+published: false
+
+provider:
+  name: Indiatimes
+  domain: indiatimes.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://static.toiimg.com/photo/75433510.cms"
+    width: 330
+    height: 300
+    isCached: true
+
+related:
+  - title: "How Deep Learning is Revolutionizing the World of AI"
+    excerpt: "Deep learning is a subfield of machine learning that uses neural networks to recognize patterns and make decisions based on data inputs."
+    publishedDateTime: 2022-12-24T16:03:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/digitalmarketinginsights/how-deep-learning-is-revolutionizing-the-world-of-ai-48392/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Machine Learning and AI - Changing the Anti-Money Laundering Solutions Game"
+    excerpt: "Money laundering is a crime that generates many costs, from financial losses through to human lives. In an effort to stem the tide of financial crime, financial institutions worldwide are now increasingly investing in AML Solutions."
+    publishedDateTime: 2022-12-21T14:46:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/sbwire-2022-12-21-machine-learning-and-ai-changing-the-anti-money-laundering-solutions-game"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 34
+
+secured: "jTg40VUYJqUfgiCDcHvvpVm0z9olCIojKoMtUMkcWYxJ61V7uXxCC+tbO7hR5P0cXFaodg7TkBkrW5LCpd/L6c8fP7AEm6WAW9oEVaYlwrD5wGYJC/H3FgCv8p+VKNEKKvDU4F6xjw7AeuPKmiHAddVrPZExSNHd2ImVfY7I0PG0GWAoR9TxwFHorxBQLlPj6qC8ktFq6ykTqUwkhL0KsSZbZvHwCz65dpg9ujiChsFqX/3hLchuVUhlcPseToAsZg0nnp1UDK8YQr8FV03el2sDH39L5HuBG3cYJ7fIqlkPXmv3RArjAshsdz/UX920V+40gBosysTS3PtjbjpJbIgQpasz1yTeHim1P7eoH7s=;Xcj7tNTpZPIDcJWikNGBgA=="
+---
+

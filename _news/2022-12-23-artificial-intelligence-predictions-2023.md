@@ -50,20 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Big Things Ahead for AI in 2023: Predictions"
-    excerpt: "The AI train has been gaining steam for several years now, and nothing appears ready to stop it (except for bad data, that is). With momentum building,"
-    publishedDateTime: 2022-12-20T22:51:00Z
-    webUrl: "https://www.datanami.com/2022/12/20/big-things-ahead-for-ai-in-2023-predictions/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2022/12/2023_start_shutterstock_Fit-Ztudio.jpg"
-        width: 664
-        height: 356
-        isCached: true
 
 secured: "TD7w8tjEw1KPDBmStfLgukWQM8F/IR2pwfHFPHA+V8+DJuVmRsVX7jIs3KbZIp/VRxlgF5GXne1Ov+/MZbGAQdg3RYqqDmam7mJkihjlqo1SSP77AlxRWlrFbSBNsYIjd4fH8ar2sYSx6kYwrV9tbIfUPL5d7AsnEtOls5Jm33QNmzMWNcMeCmUp1synSWVAgXk1UCmrOax99Btd6JPLbSbvN3FOWSKI+E+PSaR+NeBJdi1SSIaGPoC2DuTvv65BIyhSfK03AVD/YMBwEe2F3yXZpon35awgzw0+oNq5igxeRFmjvmqesskmm3HDNeFAUBsl5XxdGvE0vv3+SicIW7baN+dIv8ZIb8a0ROHeC1jeJ+HuIMTosfNxycA02EdxMyktsZdoMy0bcbtWFVtMCaWl7XDMBnx7T9coo8xP7CMZRW5uGPzQlKWfEV74lgIM8Gx4YxkSvmz5s8Bf1C7XLQP/a4qumbKFaeSMCW770LdW7wLWROOVtEe3/QT9IR7ZlKszdAlUb3sJKKUx97nUXQ==;efJUc+DRIyWq447i/ok8Xw=="
 ---

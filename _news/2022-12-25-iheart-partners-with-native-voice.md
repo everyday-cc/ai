@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-25T13:00:00Z
 originalUrl: "https://www.radioworld.com/news-and-business/business-and-law/iheart-partners-with-native-voice"
 webUrl: "https://www.radioworld.com/news-and-business/business-and-law/iheart-partners-with-native-voice"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Radio World

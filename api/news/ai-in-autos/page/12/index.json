@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-10-13-what-happened-to-teslas-stock-price-since-the-last-ai-day.md",
+      "title": "What Happened To Tesla’s Stock Price Since The Last AI Day?",
+      "excerpt": "What happened with Tesla’s stock price after AI Day? We look at the recent Tesla news that has come out in the 12 days since the event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/10/12/what-happened-to-teslas-stock-price-since-the-last-ai-day/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/12/what-happened-to-teslas-stock-price-since-the-last-ai-day/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634732031f70464cae6ce3c3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 825,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/12/what-happened-to-teslas-stock-price-since-the-last-ai-day/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/12/what-happened-to-teslas-stock-price-since-the-last-ai-day/amp/",
+      "publishedDateTime": "2022-10-12T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-10-12-everyone-wants-responsible-artificial-intelligence-few-have-it-yet.md",
       "title": "Everyone Wants Responsible Artificial Intelligence, Few Have It Yet",
       "excerpt": "Responsible AI should be more than a 'check-the-box exercise,' but rather part of the organization’s top management agenda",
@@ -1300,59 +1352,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-the-white-house-unveils-a-bill-of-rights-for-artificial-intelligence.md",
-      "title": "The White House unveils a \"Bill of Rights\" for artificial intelligence",
-      "excerpt": "It would be a massive understatement to say artificial intelligence has affected our lives. Whether that's a positive or negative is entirely up to you. Virtual",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html",
-      "originalUrl": "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-06-image-19.jpg",
-          "width": 1880,
-          "height": 1258,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     }
   ],

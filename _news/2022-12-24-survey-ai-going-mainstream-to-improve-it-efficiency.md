@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-23T17:04:00Z
 originalUrl: "https://www.bizjournals.com/albuquerque/news/2022/12/23/ai-going-mainstream-to-improve-it-efficiency.html"
 webUrl: "https://www.bizjournals.com/albuquerque/news/2022/12/23/ai-going-mainstream-to-improve-it-efficiency.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Business Journals

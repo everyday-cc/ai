@@ -8,7 +8,7 @@ webUrl: "https://www.sciencealert.com/not-everything-we-call-an-ai-is-actually-a
 ampWebUrl: "https://www.sciencealert.com/not-everything-we-call-an-ai-is-actually-artificial-intelligence-heres-what-to-know/amp"
 cdnAmpWebUrl: "https://www-sciencealert-com.cdn.ampproject.org/c/s/www.sciencealert.com/not-everything-we-call-an-ai-is-actually-artificial-intelligence-heres-what-to-know/amp"
 type: article
-quality: 65
+quality: 69
 heat: -1
 published: false
 

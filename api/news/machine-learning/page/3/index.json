@@ -2,6 +2,145 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-07-amyloid-plaques-recast-as-cause-of-neural-network-dysfunction.md",
+      "title": "Amyloid plaques recast as cause of neural network dysfunction",
+      "excerpt": "Researchers have identified a link between amyloid plaques and dysfunctional neuronal conduction in animal models of Alzheimer’s disease (AD). Their study, which was published in the Dec. 1, 2022, issue of Nature, suggests new ways to think about AD, as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bioworld.com/articles/692249-amyloid-plaques-recast-as-cause-of-neural-network-dysfunction",
+      "originalUrl": "https://www.bioworld.com/articles/692249-amyloid-plaques-recast-as-cause-of-neural-network-dysfunction",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bioworld.com/ext/resources/Stock-images/Therapeutic-topics/Neurology/Neurons-and-amyloid-plaques.png?height=635&t=1669849458&width=1200",
+          "width": 847,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T13:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BioWorld",
+        "domain": "bioworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-locomotion-modeling-evolves-with-brain-inspired-neural-networks.md",
+      "title": "Locomotion modeling evolves with brain-inspired neural networks",
+      "excerpt": "A team of scientists at EPFL have built a new neural network system that can help understand how animals adapt their movement to changes in their own body and to create more powerful artificial intelligence systems.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.html",
+      "originalUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/locomotion-modeling-ev.jpg",
+          "width": 621,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.amp",
+      "publishedDateTime": "2022-12-06T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-artificial-intelligence-machine-learning-and-the-future-of-entertainment.md",
+      "title": "Artificial Intelligence, Machine Learning, And The Future Of Entertainment",
+      "excerpt": "By 2030, the AI in media and entertainment industry is set to be worth a staggering $99.3 billion with the current compound annual growth rate being 26%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/",
+      "originalUrl": "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638f08b7ec3141a8f50d997c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/amp/",
+      "publishedDateTime": "2022-12-06T01:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-the-newest-nfl-star-could-be-a-data-scientist-using-ml-and-ai-to-keep-players-safe.md",
       "title": "The newest NFL star could be a data scientist: Using ML and AI to keep players safe",
       "excerpt": "In an innovative partnership between the NFL and AWS, data scientists on Kaggle are being commissioned to identify player contact, incentivized by a $50,000 prize.",
@@ -1280,145 +1419,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-brain-mri-data-machine-learning-models-might-help-in-diagnosing-adhd.md",
-      "title": "Brain MRI Data & Machine Learning Models Might Help In Diagnosing ADHD",
-      "excerpt": "In a new study, researchers made a breakthrough by potentially finding a far more robust mechanism through which ADHD diagnosis via brain MRI scans might become a reality in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anuradhavaranasi/2022/11/29/brain-mri-data--machine-learning-models-might-help-in-diagnosing-adhd/",
-      "originalUrl": "https://www.forbes.com/sites/anuradhavaranasi/2022/11/29/brain-mri-data--machine-learning-models-might-help-in-diagnosing-adhd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6384bb904b07cd85744597a0/0x0.jpg?format=jpg&width=1200",
-          "width": 1114,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anuradhavaranasi/2022/11/29/brain-mri-data--machine-learning-models-might-help-in-diagnosing-adhd/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anuradhavaranasi/2022/11/29/brain-mri-data--machine-learning-models-might-help-in-diagnosing-adhd/amp/",
-      "publishedDateTime": "2022-11-29T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-research-assistant-or-research-associate-in-computer-vision-and-machine-learning.md",
-      "title": "Research Assistant or Research Associate in Computer Vision and Machine Learning",
-      "excerpt": "Apply(This will open in a new window from which you will be automatically redirected to an external site after 5 seconds)",
-      "sourceUrl": null,
-      "webUrl": "https://www.timeshighereducation.com/unijobs/listing/318923/research-assistant-or-research-associate-in-computer-vision-and-machine-learning/",
-      "originalUrl": "https://www.timeshighereducation.com/unijobs/listing/318923/research-assistant-or-research-associate-in-computer-vision-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.timeshighereducation.com/unijobs/getasset/2fbdfe3e-048e-46ee-b378-abefdc41d627/;w=600;h=315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T08:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Higher Education",
-        "domain": "timeshighereducation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development.md",
-      "title": "Anyscale unveils new tool for building and scaling AI and ML development",
-      "excerpt": "Anyscale Workspaces, available today in early preview, provides users with a cloud-managed developer environment for building and scaling AI in a repeatable approach.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development/",
-      "originalUrl": "https://venturebeat.com/ai/anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development/amp/",
-      "publishedDateTime": "2022-11-29T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

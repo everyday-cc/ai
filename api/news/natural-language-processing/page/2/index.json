@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-06-the-top-5-healthcare-trends-in-2023.md",
+      "title": "The Top 5 Healthcare Trends In 2023",
+      "excerpt": "Healthcare never stands still, and new innovations, as well as external factors, are driving continuous change. Here we look at the five biggest healthcare trends in 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/12/06/the-top-5-healthcare-trends-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/12/06/the-top-5-healthcare-trends-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638ee3f77ab30981d50d997c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/12/06/the-top-5-healthcare-trends-in-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/12/06/the-top-5-healthcare-trends-in-2023/amp/",
+      "publishedDateTime": "2022-12-05T21:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-12-03-at-neurips-2022-generative-ai-and-llms-are-hot-topics.md",
       "title": "At NeurIPS 2022, generative AI and LLMs are hot topics",
       "excerpt": "At the first week of NeurIPS 2022, generative AI and LLMs were hot topics — along with a Geoffrey Hinton keynote in honor of ImageNet.",
@@ -1369,49 +1422,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-the-birth-of-ai-powered-fastsaas.md",
-      "title": "The Birth of AI-powered FastSaaS",
-      "excerpt": "Led by investment from OpenAI Startup Fund, Mem was the first to introduce an AI-powered workspace organisation tool, with its product, Mem X. Notion’s reinvention of its platform may have been a direct effect of the shift in tide towards many of the AI application tools.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/the-birth-of-ai-powered-fastsaas/",
-      "originalUrl": "https://analyticsindiamag.com/the-birth-of-ai-powered-fastsaas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/fast-saas.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-18T03:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

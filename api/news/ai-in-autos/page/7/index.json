@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-18-leading-defence-companies-in-the-artificial-intelligence-theme.md",
+      "title": "Leading defence companies in the artificial intelligence theme",
+      "excerpt": "The future of the defence industry will be shaped by a range of disruptive themes, with artificial intelligence (AI) being one of the themes that will have a significant impact on defence companies. AI technologies are rapidly evolving. The US and China ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.army-technology.com/data-insights/leading-defence-companies-in-the-artificial-intelligence-theme/",
+      "originalUrl": "https://www.army-technology.com/data-insights/leading-defence-companies-in-the-artificial-intelligence-theme/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.army-technology.com/wp-content/uploads/sites/3/2022/11/Aritificial-Intelligence-in-Defence-2.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "army-technology.com",
+        "domain": "army-technology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection.md",
       "title": "Artificial intelligence-aided colonoscopy does not increase cancer detection",
       "excerpt": "More information: Idan Levy et al, Artificial Intelligence-Aided Colonoscopy Does Not Increase Adenoma Detection Rate in Routine Clinical Practice, American Journal of Gastroenterology (2022). DOI ...",
@@ -1300,58 +1343,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-waymo-is-one-step-closer-to-charging-for-self-driving-taxis-in-california.md",
-      "title": "Waymo is one step closer to charging for self-driving taxis in California",
-      "excerpt": "The firm already had permission to charge for self-driving taxi rides with a safety ... modest compared to what's available in China. Baidu's robotaxi service is available to the public in larger ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/waymo-driverless-taxi-permit-california-dmv-150046627.html",
-      "originalUrl": "https://www.engadget.com/waymo-driverless-taxi-permit-california-dmv-150046627.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/25f6b130-60fd-11ed-ade3-926f5c8d40ba",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/waymo-driverless-taxi-permit-california-dmv-150046627.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-driverless-taxi-permit-california-dmv-150046627.html",
-      "publishedDateTime": "2022-11-10T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

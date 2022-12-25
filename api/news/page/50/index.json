@@ -2,6 +2,187 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-11-14-giraffe-ai-labs-participated-in-singapore-fintech-festival-in-nov-2022.md",
+      "title": "Giraffe AI Labs participated in Singapore Fintech Festival in Nov 2022",
+      "excerpt": "Giraffe AI Labs announced on 7 November 2022 that it participated in the Singapore Fintech Festival (SFF) 2022",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/giraffe-ai-labs-participated-in-singapore-fintech-festival-in-nov-2022-2022-11-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/giraffe-ai-labs-participated-in-singapore-fintech-festival-in-nov-2022-2022-11-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-14-silicon-valley-chip-startup-cerebras-unveils-ai-supercomputer.md",
+      "title": "Silicon Valley chip startup Cerebras unveils AI supercomputer",
+      "excerpt": "Nov 14(Reuters) - Silicon Valley startup Cerebras Systems, known in the industry for its dinner plate-sized chip made for artificial intelligence work, on Monday unveiled its AI supercomputer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/silicon-valley-chip-startup-cerebras-unveils-ai-supercomputer-2022-11-14/",
+      "originalUrl": "https://www.reuters.com/technology/silicon-valley-chip-startup-cerebras-unveils-ai-supercomputer-2022-11-14/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/X6BvTKg1qgtNP1KK2SsEO00zaJM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WYSQLIVVLRILDAPGVO3O6B37DI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-14-cerebras-unveils-andromeda-a-135-million-core-ai-supercomputer-that-delivers-near-perfect-linear-scaling-for-large-language-models.md",
+      "title": "Cerebras Unveils Andromeda, a 13.5 Million Core AI Supercomputer that Delivers Near-Perfect Linear Scaling for Large Language Models",
+      "excerpt": "Cerebras Systems, the pioneer in accelerating artificial intelligence (AI) compute, today unveiled Andromeda, a 13.5 million core AI supercomputer, now available and being used for commercial and academic work.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/11/14/9712263.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/11/14/9712263.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-14-onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-near-term-value-driver-onei.md",
+      "title": "OneMeta AI's Verbum Is More Than A Best-In-Class Translation App, It's Expected To Be An Enormous Near-Term Value Driver ($ONEI)",
+      "excerpt": "It facilitated efficient, effective, real-time translation in multiple languages to about 400 people ... That includes OneMeta AI's WebSafety app allowing parents to monitor questionable and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/ab29695590/onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-ne",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/ab29695590/onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-ne",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1668104872.png",
+          "width": 1222,
+          "height": 1091,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29695590",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29695590",
+      "publishedDateTime": "2022-11-14T03:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-getting-real-about-ai-in-finance-can-ai-improve-speed-and-closing-accuracy.md",
       "title": "Getting real about AI in finance - can AI improve speed and closing accuracy?",
       "excerpt": "Artificial intelligence (AI) continues to emerge as a compelling solution for finance teams that need to close the books faster and more efficiently. AI can not only check large volumes of data for accuracy, it also can learn from data and identify ...",
@@ -971,191 +1152,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-amazons-latest-robot-picker-for-warehouses-uses-ai-to-identify-objects.md",
-      "title": "Amazon's latest robot picker for warehouses uses AI to identify objects",
-      "excerpt": "The robotic arm uses AI and computer vision to recognize and handle millions of items, according to Amazon. The company says that, by employing robots in its warehouses, it can conduct operations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html",
-      "originalUrl": "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/2A1QEohtCINWhWL0J5q2Bw--~B/Zmk9ZmlsbDtoPTQ5Mzt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-11/27eaa530-61fe-11ed-9fcf-a5aa5ef7a4cd.cf.jpg",
-          "width": 875,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-11T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-prevalence-of-computer-vision-syndrome-among-school-age-children-during-the-covid-19-pandemic-saudi-arabia-a-cross-sectional-survey.md",
-      "title": "Prevalence of Computer Vision Syndrome among School-Age Children during the COVID-19 Pandemic, Saudi Arabia: A Cross-Sectional Survey.",
-      "excerpt": "Computer vision syndrome (CVS) can be described as ocular-related symptoms that result from prolonged exposure and use of computers, smartphones, tablets, and other devices with digital displays. The main objective of this study was to investigate the prevalence of CVS among school-age children,",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/MED/36360446",
-      "originalUrl": "https://europepmc.org/article/MED/36360446",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-11T21:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-artificial-intelligence-goes-vegan.md",
-      "title": "Artificial intelligence goes vegan",
-      "excerpt": "A New Zealand startup has developed the very first AI tool capable of automatically generating content in support of veganism",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1",
-      "originalUrl": "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbesindia.com/media/images/2022/Nov/img_197549_vegan.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1",
-      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1",
-      "publishedDateTime": "2022-11-11T20:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AWS AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-waymos-driverless-taxis-keep-making-incremental-progress-while-others-flounder.md",
-      "title": "Waymo’s driverless taxis keep making incremental progress, while others flounder",
-      "excerpt": "Waymo keeps (driverless) trucking along. The Alphabet division made a couple of announcements this week meant to highlight the progress — albeit incremental — of its robotaxis. The first was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/11/11/23453262/waymo-av-driverless-taxi-phoenix-california-dmv-progress",
-      "originalUrl": "https://www.theverge.com/2022/11/11/23453262/waymo-av-driverless-taxi-phoenix-california-dmv-progress",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/rkzNuvHybGrsaHtJSpV2V2AmT84=/0x0:3620x2343/1200x628/filters:focal(1810x1172:1811x1173)/cdn.vox-cdn.com/uploads/chorus_asset/file/24187968/1142125645.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-11T18:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

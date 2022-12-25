@@ -34,6 +34,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Tech mantras revolutionising healthcare from patients’ homes to the operating rooms"
+    excerpt: "Digital influence and technological intervention are breaking barriers in the Indian healthcare industry, especially in post-pandemic times, leading to a dynamic transformation. While the telemedicine sector has witnessed a 30% spike in patients in"
+    publishedDateTime: 2022-12-25T15:34:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/tech-mantras-revolutionising-healthcare-from-patients-homes-to-the-operating-rooms/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/tech-mantras-revolutionising-healthcare-from-patients-homes-to-the-operating-rooms/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/tech-mantras-revolutionising-healthcare-from-patients-homes-to-the-operating-rooms/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 53
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
 
 secured: "qPbi3pfUTi854zspWF2rmCbMGvepaWumyunUnPozaPVXUG8FVRS426/RxkSQZn4DTx7gAUKwHqOBttB5PUQluaS5jULqEklO9J5//B7Y2JCDeXnnGipR2zhCyDSoVAtxKPZFm8huJIGfnb3jVqWNeTwFFhe+E94WoQ0yQ/ISQ9ZEJfA80oSvqDl+/LEiVN3QF6d6VFNkHZKudT7PWUwjK3LIG2SDSh9sAojibrMB9ZQeKxibl0l44OkbCTXiQU8ySScgphPlXPNdfRkMFFX/UyQnDjjfQVHPFDzkTe50EpoinKRzbmLTPCGhneja1ZJ2ep4j5HxpQcXz7bUtHheOyH22naL2JQmmRrqxkU7ZVBg=;brR6J7jzmvliz5m8FpD8Jw=="
 ---

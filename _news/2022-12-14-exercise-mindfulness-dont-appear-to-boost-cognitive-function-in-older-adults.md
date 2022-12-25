@@ -15,6 +15,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "Tjh/fRgDpVxrlXF1nEW+QK1hD6dejKkYeCHrgHuA7Ha5AEWnZi9bcCCRFH1FOt6Ywcl9hP9HguvieJW/gsNRbZHPLYdcKH3SfjNc+KeKt1D1PpWSTi2ZGwFov14iRWM7odiMaq2YQ7w2MxsGAzx2Bh3Ta/lc3bAWK9lzOo4eFJoTCuaT/4lJt31FSYAlxi7J1xWHQ4gvCm0NRAVErhcTpFcAruG+BVi7DSHtlf/u66mLX8PY8OfzZ25hQZH0i5kLpiFST7mQaj4HWbHzlWtk7XPFtj7zmhT5z1zy7+G6a4kTHTQieUGTBjY8zsOrDmg0fKrgEnU1QDM7qNv7DxtuCl6L+tZrV8FEE+9IP65q6XY=;CaCtsWhyNDWsorLn74++BQ=="
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f7761ab9-a56f-4931-9012-bf8c23eeed56/Rendition/low-res/Content/Public"
+    width: 700
+    height: 467
+    isCached: true
+
+secured: "Ha4wwEeYnXxeDzAOhcvBSwrvxeqOsz+l9GWbJM65sK7qaimOTzhAY+09Zgx+LVZ08ovIVWUBVicGmAv7vTFlBxK+CRNIYZBARjL8CuAOcRzXtI04hDdaV7hhiaWJ8Ntgn1/rkOWnD62ojG+9/jCs+bDP//8nG6o1nXGNX/iubWEvxDUTMSJf0/u2gJc0hO51Mkv7XKRhP24Q0s1Z34IyvIXMSC6NQE1IynRelD5ZiOFIIl8Merj2ASPPmm0RB113f20niJ3sWmU2Mn8pYKcIiR4fEe0CeMRgjoKs1F80YWac8wiGcjMZuvZo+gp1irZdRjH5uhWtlEaNqjJIAbqL4ZxCxFzivgtIhNmto+A2H58=;wJ1N3QuiszQKrjcxdsHXHQ=="
 ---
 

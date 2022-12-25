@@ -2,6 +2,196 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2022-09-26-james-earl-jones-signed-darth-vader-voice-rights-to-disney-for-ai-use.md",
+      "title": "James Earl Jones signed Darth Vader voice rights to Disney for AI use",
+      "excerpt": "During the creation of the Obi-Wan Kenobi TV series, James Earl Jones signed off on allowing Disney to replicate his vocal performance as Darth Vader in future projects using an AI voice modeling tool called Respeecher,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/09/james-earl-jones-signed-darth-vader-voice-rights-to-disney-for-ai-use/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/09/james-earl-jones-signed-darth-vader-voice-rights-to-disney-for-ai-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/darth_vader_pixels_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-radical-research-advance-to-boost-biotech-industrys-health.md",
+      "title": "Radical Research Advance To Boost Biotech Industry’s Health",
+      "excerpt": "The London, U.K.-based firm used AI algorithms to successfully predict the three-dimensional shapes proteins would take as they folded organically. It was a monumental advance in the field of biotechnology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonmarkman/2022/09/26/radical-research-advance-to-boost-biotech-industrys-health/",
+      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2022/09/26/radical-research-advance-to-boost-biotech-industrys-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6331bceeaefe48e8587d2c2f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1203,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2022/09/26/radical-research-advance-to-boost-biotech-industrys-health/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2022/09/26/radical-research-advance-to-boost-biotech-industrys-health/amp/",
+      "publishedDateTime": "2022-09-26T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-augnito-records-rapid-growth-in-uk-clinical-speech-recognition-deployments-in-first-year-of-sales.md",
+      "title": "Augnito records rapid growth in UK clinical speech recognition deployments (in first year of sales)",
+      "excerpt": "Radiology departments have been the early adopters and pioneers of speech recognition technology to accommodate the ever-increasing levels of a wide variety of diagnostic reporting and the ever ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbc4i.com/business/press-releases/ein-presswire/592436200/augnito-records-rapid-growth-in-uk-clinical-speech-recognition-deployments-in-first-year-of-sales/",
+      "originalUrl": "https://www.nbc4i.com/business/press-releases/ein-presswire/592436200/augnito-records-rapid-growth-in-uk-clinical-speech-recognition-deployments-in-first-year-of-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.nbc4i.com/wp-content/uploads/sites/18/2022/10/Fall-Snow.jpg?w=2000&#038;ssl=1",
+          "width": 1280,
+          "height": 1008,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC4 Columbus",
+        "domain": "nbc4i.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-compared-to-hex-coin-and-vechain-feed3-provides-artificial-intelligence.md",
+      "title": "Compared to Hex Coin and VeChain, Feed3 Provides Artificial Intelligence",
+      "excerpt": "The next big innovation, Feed (FD3) will remake the web and digital world well. This will happen by permitting users to possess and maintain their data while working in a domain that is decentralized,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/brand-stories/compared-to-hex-coin-and-vechain-feed3-provides-artificial-intelligence-11664200182119.html",
+      "originalUrl": "https://www.livemint.com/brand-stories/compared-to-hex-coin-and-vechain-feed3-provides-artificial-intelligence-11664200182119.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/09/26/600x338/08_1664200579673_1664200579839_1664200579839.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/brand-stories/compared-to-hex-coin-and-vechain-feed3-provides-artificial-intelligence/amp-11664200182119.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/compared-to-hex-coin-and-vechain-feed3-provides-artificial-intelligence/amp-11664200182119.html",
+      "publishedDateTime": "2022-09-26T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-machine-learning-infrastructure-as-a-service-market-size-share-and-forecast-till-2031.md",
       "title": "Machine Learning Infrastructure As A Service Market Size, Share and Forecast till 2031",
       "excerpt": "The Machine Learning Infrastructure as a Service Market has encountered significant development over the recent years",
@@ -970,169 +1160,6 @@
         "AI in Autos",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-review-whisker-litter-robot-4.md",
-      "title": "Review: Whisker Litter-Robot 4",
-      "excerpt": "Stellar odor control ... my mind mostly at ease. When it does start a cleaning cycle, it is nearly silent. Most of the time, I don’t even notice it until my phone pings. The Litter-Robot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/review/whisker-litter-robot-4/",
-      "originalUrl": "https://www.wired.com/review/whisker-litter-robot-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/632e0497f1e5c40d2b1bc74f/master/pass/Whisker-Litter-Robot-4-Featured-Gear.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/review/whisker-litter-robot-4/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/review/whisker-litter-robot-4/amp",
-      "publishedDateTime": "2022-09-24T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-important-for-brain-health-blueberries-may-reverse-cognitive-decline-study.md",
-      "title": "'Important for brain health’: Blueberries may reverse cognitive decline - study",
-      "excerpt": "You can unsubscribe at any time. More info Cognitive decline mainly occurs in older people, as the brain ages some of its functions begin to deteriorate, often at different rates in different people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/life-style/health/1673072/cognitive-decline-eating-wild-blueberries",
-      "originalUrl": "https://www.express.co.uk/life-style/health/1673072/cognitive-decline-eating-wild-blueberries",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-24T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-what-it-means-for-responsible-ai-and-why-deepmind-isnt-deploying-its-new-ai-chatbot.md",
-      "title": "What it means for responsible AI and why DeepMind isn’t deploying its new AI chatbot",
-      "excerpt": "Irving argued that the complexity of conversational AI stems from the need to account for a great deal of contextual nuance in every interaction. A system like DeepMind’s AlphaFold, he explained, is “embedded in a clear scientific task” in which “you have data like what the folded protein looks like” and “a rigorous notion of what the answer is” (such as,",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/what-it-means-for-responsible-ai-and-why-deepmind-isnt-deploying-its-new-ai-chatbot/",
-      "originalUrl": "https://bestgamingpro.com/what-it-means-for-responsible-ai-and-why-deepmind-isnt-deploying-its-new-ai-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2022/09/Why-DeepMind-isnt-deploying-its-new-AI-chatbot-—-and-what-it-means-for-responsible-AI.png",
-          "width": 600,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-24T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-vw-group-gentravel-concept-predicts-a-true-level-5-full-self-driving-car.md",
-      "title": "VW Group Gen.Travel concept predicts a true Level 5, full self-driving car",
-      "excerpt": "What might private vehicle ownership look like in a world where driving is no longer necessary ... Voice activation and artificial intelligence can be used to control various functions.",
-      "sourceUrl": null,
-      "webUrl": "https://fox4kc.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
-      "originalUrl": "https://fox4kc.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WDAF-TV",
-        "domain": "fox4kc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

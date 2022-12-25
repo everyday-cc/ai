@@ -2,6 +2,203 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-12-08-heres-how-to-use-lensa-the-chart-topping-app-that-uses-ai-to-transform-your-selfies-into-digital-avatars.md",
+      "title": "Here's how to use Lensa, the chart-topping app that uses AI to transform your selfies into digital avatars",
+      "excerpt": "Lensa is the top free app on Apple's App Store. For a small fee, it turns your selfies into AI-generated digital art. Here's how it works.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/12/07/lensa-app-turns-selfies-into-avatars-with-artificial-intelligence.html",
+      "originalUrl": "https://www.cnbc.com/2022/12/07/lensa-app-turns-selfies-into-avatars-with-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107162559-1670422900074-IMG_1461.jpg?v=1670438746",
+          "width": 4096,
+          "height": 4096,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/12/07/lensa-app-turns-selfies-into-avatars-with-artificial-intelligence.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/12/07/lensa-app-turns-selfies-into-avatars-with-artificial-intelligence.html",
+      "publishedDateTime": "2022-12-07T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-new-advances-in-neural-interfaces-research-at-johns-hopkins.md",
+      "title": "New Advances in Neural Interfaces Research at Johns Hopkins",
+      "excerpt": "Johns Hopkins APL and the Johns Hopkins School of Medicine have reported research progress on multiple neural interface technologies for functional restoration, rehabilitation and augmentation for people affected by spinal cord injury,",
+      "sourceUrl": null,
+      "webUrl": "https://www.jhuapl.edu/NewsStory/221207-apl-advances-neural-interfaces-research",
+      "originalUrl": "https://www.jhuapl.edu/NewsStory/221207-apl-advances-neural-interfaces-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.jhuapl.edu/Content/images/newsstory/20221207_image1_med.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jhuapl",
+        "domain": "jhuapl.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-this-robotics-technology-market-research-report-factors-limiting-the-market-growth.md",
+      "title": "THIS Robotics Technology MARKET RESEARCH REPORT: Factors limiting the market growth.",
+      "excerpt": "Robotics technology is a branch of engineering that deals with the design, construction, operation, and control",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/this-robotics-technology-market-research-report-factors-limiting-the-market-growth-2022-12-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/this-robotics-technology-market-research-report-factors-limiting-the-market-growth-2022-12-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-howie-mandel-gets-a-digital-twin-from-deepbrain-ai.md",
+      "title": "Howie Mandel gets a digital twin from DeepBrain AI",
+      "excerpt": "Howie Mandel is stepping into the metaverse. DeepBrain AI has created a pretty realistic AI version of comedian and actor Mandel.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/",
+      "originalUrl": "https://venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/howie-AI-Studios-with-AI-Howie.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/amp/",
+      "publishedDateTime": "2022-12-07T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-cyens-centre-of-excellence-a-new-collaboration-to-explore-augmented-reality-computer-vision-in-assisting-crew-in-the-safe-handling-of-provisions.md",
       "title": "CYENS Centre of Excellence: A new collaboration to explore augmented reality & computer vision in assisting crew in the safe handling of provisions",
       "excerpt": "to explore augmented reality and computer vision in assisting crew in the safe handling and storage of vessel provisions. Kyriakos Hadjikyriakou, Managing Director at Oceanic, commented ...",
@@ -940,196 +1137,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-ai-chip-for-data-centers-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029.md",
-      "title": "AI Chip for Data Centers Market: A Detailed Analysis of Latest Market Trend with Growth Projections Through 2029",
-      "excerpt": "Dec 07, 2022 (The Expresswire) -- \"Final Report will add the analysis of the COVID-19 and Russia Ukraine war impact on this industry.\" The \"AI Chip for",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029-2022-12-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029-2022-12-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-canva-opens-up-access-to-docs-in-beta-adds-magic-write-generative-ai-copywriting-tools.md",
-      "title": "Canva Opens Up Access To Docs In Beta, Adds “Magic Write” Generative AI Copywriting Tools",
-      "excerpt": "Canva launched Canva Docs in an open beta today, a cloud-based hybrid of a word processor and publishing tool. In addition, Canva Docs will be adding \"Magic Write,\" a generative AI copywriting tool.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2022/12/07/canva-opens-up-access-to-docs-in-beta-adds-magic-write-generative-ai-copywriting-tools/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2022/12/07/canva-opens-up-access-to-docs-in-beta-adds-magic-write-generative-ai-copywriting-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639036d8a23e263ade8a133c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2022/12/07/canva-opens-up-access-to-docs-in-beta-adds-magic-write-generative-ai-copywriting-tools/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/12/07/canva-opens-up-access-to-docs-in-beta-adds-magic-write-generative-ai-copywriting-tools/amp/",
-      "publishedDateTime": "2022-12-07T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-tata-tele-business-services-to-offer-microsoft-azure-to-smbs.md",
-      "title": "Tata Tele Business Services to offer Microsoft Azure to SMBs",
-      "excerpt": "Microsoft Azure offers essential compute, storage and networking resources on demand, on a pay-as-you-go-basis including services like On-Prem to Azure Migration, Microsoft Azure Managed Services, Public Cloud to Azure Migration,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs/articleshow/96054290.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs/articleshow/96054290.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-17964,msid-96054347/tata-tele-business-services.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/industry/telecom/telecom-news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs/amp_articleshow/96054290.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/telecom/telecom-news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs/amp_articleshow/96054290.cms",
-      "publishedDateTime": "2022-12-07T01:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-its-official-adobe-stock-sells-images-generated-by-artificial-intelligence.md",
-      "title": "It's Official! Adobe Stock Sells Images Generated By Artificial Intelligence",
-      "excerpt": "SEE ALSO: Sony Is Technologically Ready To Make Humanoid Robots Once The Usage Becomes Clear According to reports, producers of fine art have been cautioned by the policy not to abuse artificial intelligence and flood the galleries with comparable images.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/43199/its-official-adobe-stock-sells-images-generated-by-artificial-intelligence",
-      "originalUrl": "https://in.mashable.com/tech/43199/its-official-adobe-stock-sells-images-generated-by-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/92272ed9-4bde-496d-a708-be418ff442c3_scv9.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/43199/its-official-adobe-stock-sells-images-generated-by-artificial-intelligence?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/43199/its-official-adobe-stock-sells-images-generated-by-artificial-intelligence?amp=1",
-      "publishedDateTime": "2022-12-07T01:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -55,7 +55,7 @@ related:
     provider:
       name: ScienceAlert
       domain: sciencealert.com
-    quality: 65
+    quality: 69
     images:
       - url: "https://www.sciencealert.com/images/2022/12/IllustrationOfHumanHeadInProfileMadeOfFiberOpticWires.jpg"
         width: 1024

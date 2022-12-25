@@ -2,6 +2,196 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2022-10-08-ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022.md",
+      "title": "AI, Virtual Reality And Real Estate: Big Ideas Coming Out Of IOi Summit 2022",
+      "excerpt": "Organized by the National Association of Realtors (NAR), the annual conference welcomed professionals from all over the country to explore the latest groundbreaking ideas in the world of PropTech. Topics ranged widely from non-fungible tokens (NFTs) to affordable housing to insurance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6340edc837c11a447fde06ad/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/amp/",
+      "publishedDateTime": "2022-10-08T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-08-what-makes-a-champagne-vintage-great-ask-a-deep-learning-model.md",
+      "title": "What Makes a Champagne Vintage Great? Ask a Deep Learning Model",
+      "excerpt": "Bollinger is data mining its meticulous records to predict vintage years and weather the challenges of climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/",
+      "originalUrl": "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6340b2bf6f81dc98cfa7cfa4/master/pass/Bollinger-Champagne-Featured-Gear.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/amp",
+      "publishedDateTime": "2022-10-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-08-explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games.md",
+      "title": "Explained: How Artificial Intelligence can be used to cheat in chess games",
+      "excerpt": "The issue cheating in chess has resurfaced after World Champion Magnus Carlsen refused to play against Hans Niemann, apparently alleging cheating.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/technology/explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games-101665217813692.html",
+      "originalUrl": "https://www.hindustantimes.com/technology/explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games-101665217813692.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/10/08/1600x900/chess_1665218963112_1665218963387_1665218963387.jpeg",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/technology/explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games-101665217813692-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games-101665217813692-amp.html",
+      "publishedDateTime": "2022-10-08T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-08-new-alzheimers-drug-that-slows-cognitive-decline-could-be-available-next-year.md",
+      "title": "New Alzheimer's drug that slows cognitive decline could be available next year",
+      "excerpt": "So is the benefit worth the risk and cost? Lecanemab slowed the rate of cognitive decline in people with mild cognitive impairment and early-stage Alzheimer’s disease by 27% over 18 months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.plymouthherald.co.uk/news/uk-world-news/new-alzheimers-drug-slows-cognitive-7680021",
+      "originalUrl": "https://www.plymouthherald.co.uk/news/uk-world-news/new-alzheimers-drug-slows-cognitive-7680021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.stokesentinel.co.uk/incoming/article6760879.ece/ALTERNATES/s1200/1_GettyImages-951637976.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-07T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Plymouth Herald",
+        "domain": "plymouthherald.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-08-gpu-for-deep-learning-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028.md",
       "title": "GPU for Deep Learning Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028",
       "excerpt": "The \" GPU for Deep Learning Market \" study helps to Interact with valuable trends, gain insight into consumer behavior, and use visualizations to perform effective competitor analysis. Rather than adding streams of shaky data to a static spreadsheet,",
@@ -989,188 +1179,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-pixel-7-facial-recognition-is-finally-available-but-there-is-a-catch.md",
-      "title": "Pixel 7: facial recognition is finally available but there is a catch",
-      "excerpt": "Pixel 7: facial recognition is finally available but there is a catch. You can finally use Face Unlock using the front-facing camera.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2022/10/07/pixel-7-facial-recognition-is-finally-available-but-there-is-a-catch/",
-      "originalUrl": "https://www.gizchina.com/2022/10/07/pixel-7-facial-recognition-is-finally-available-but-there-is-a-catch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/10/Google-makes-Face-Unlock-official-for-Pixel-7-series-new-fingerprint-sensor-is-included-too.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2022/10/07/pixel-7-facial-recognition-is-finally-available-but-there-is-a-catch/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/10/07/pixel-7-facial-recognition-is-finally-available-but-there-is-a-catch/amp/",
-      "publishedDateTime": "2022-10-07T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-google-announces-tensor-g2-chip-at-pixel-7-event.md",
-      "title": "Google announces Tensor G2 chip at Pixel 7 event",
-      "excerpt": "This made a number of the Pixel 6's flagship new features possible due to the phone's machine learning and AI features enabled by the powerful Tensor chip. Magic Eraser is a perfect example of one ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/google-event-tensor-2-chip-ai-announcement",
-      "originalUrl": "https://mashable.com/article/google-event-tensor-2-chip-ai-announcement",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/027l7uxerp61532fIjB7nUH/hero-image.fill.size_1200x675.v1665065449.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-07T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-how-ai-and-machine-learning-are-changing-the-phishing-game.md",
-      "title": "How AI and machine learning are changing the phishing game",
-      "excerpt": "Bad actors are using AI and machine learning to up their phishing game, and we must address this now, or the game will exceed our reach.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-machine-learning-changing-phishing-game/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-machine-learning-changing-phishing-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T20:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multicloud-preview.md",
-      "title": "Domino’s MLops release focuses on GPUs and deep learning, offers multicloud preview",
-      "excerpt": "[Also read: Domino Data Lab announces latest MLops platform to satisfy both data science and IT] GPUs can make lots of ML and deep learning operations go faster because they parallelize massive ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/",
-      "originalUrl": "https://venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/fpga-ai-production.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/amp/",
-      "publishedDateTime": "2022-10-06T18:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

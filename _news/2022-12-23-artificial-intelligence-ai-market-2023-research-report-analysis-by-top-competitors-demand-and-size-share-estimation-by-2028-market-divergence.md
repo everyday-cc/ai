@@ -29,29 +29,57 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence(AI) in Healthcare Market 2022: Advance Technology and Highlighted Key Development by 2028"
-    excerpt: "According to the MarketsandResearch.biz report Global Artificial Intelligence(AI) in Healthcare Market is anticipated to experience rapid growth between 2022 and 2028. This study covers the key market parameters and growth possibilities."
-    publishedDateTime: 2022-12-20T22:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-healthcare-market-2022-advance-technology-and-highlighted-key-development-by-2028-2022-12-20"
+  - title: "Computer Vision Market : Competitive Strategy Analysis and Forecast Values 2022-2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Computer"
+    publishedDateTime: 2022-12-22T04:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-competitive-strategy-analysis-and-forecast-values-2022-2028-2022-12-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 78
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market 2022 Trending Technologies, Manufacturers, End-Users, Growth Elements and Forecast 2028"
-    excerpt: "The report on the Artificial Intelligence in Healthcare market is strategically prepared to provide the growth trends, drivers, opportunities, challenges, and restraints along with the latest technological developments in the market and innovation."
-    publishedDateTime: 2022-12-20T21:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2022-trending-technologies-manufacturers-end-users-growth-elements-and-forecast-2028-2022-12-20"
+  - title: "Global Computer Vision System Market Size and Market Scenario 2022 by Sales, Revenue, Countries, Development Potential and Forecast to 2028"
+    excerpt: "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global “Computer Vision System"
+    publishedDateTime: 2022-12-21T05:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-system-market-size-and-market-scenario-2022-by-sales-revenue-countries-development-potential-and-forecast-to-2028-2022-12-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 33
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Software Market Research Highlighting Global Opportunities 2023 | Growth Trends and Share Forecast to 2029"
+    excerpt: "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Artificial Intelligence"
+    publishedDateTime: 2022-12-23T05:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029-2022-12-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Autonomous Vehicles Market Growth and Global Share 2023 | Developing Regions, Emerging Trends and Industry Size Forecast to 2029"
+    excerpt: "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Autonomous Vehicles Market”"
+    publishedDateTime: 2022-12-22T08:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicles-market-growth-and-global-share-2023-developing-regions-emerging-trends-and-industry-size-forecast-to-2029-2022-12-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 5
 
 secured: "BLe3o44wZ+mh5nc/V/S+kfzFfD8sJ71DZlXQWI0D/pkPE5SOP5++TcEP+77FU2bXRdXxn2fIlsFgQC4vxvPWOnsK+0sh70bF5ONNqa1ZqsW2QoSbuB3uUhFZ+buB74JLFGMSfkRFHl1BG9DIhE0fItMCmdxJrt7Ytfzjelxj9/oV7nGMtLpXvu18VGD5xpm/wDj9FD6Xnd2wd6y9W7obSJGyxnis5we53URjLXDkNq4++BVZeVFr2j4Scymk30rCke3Ygxc06cf2anhO4+TgX9b2YUr4YGsIdAdCOXCyy5sK5GD6GztJAlIXuS+CPkNIe0hf4LKDwDmWsI0ME3+XaC3fcZM8HPD75UJy7KKYrW8=;FQfp7vCCye/kwDRY5BTKIQ=="
 ---

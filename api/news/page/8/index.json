@@ -2,6 +2,144 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-12-14-avra-medical-robotics-inc-otc-avmr-provides-update-on-merger.md",
+      "title": "AVRA Medical Robotics, Inc. (OTC: AVMR) PROVIDES UPDATE ON MERGER",
+      "excerpt": "AVRA Medical Robotics, Inc. (\"AVRA\" or \"the Company\") (OTC:AVMR), a medical robotics software and artificial intelligence company announced that it is continuing to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/g30076650/avra-medical-robotics-inc-otc-avmr-provides-update-on-merger",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/g30076650/avra-medical-robotics-inc-otc-avmr-provides-update-on-merger",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30076650",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30076650",
+      "publishedDateTime": "2022-12-14T05:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-deepmind-launches-dramatron-script-writing-software.md",
+      "title": "DeepMind Launches Dramatron Script Writing Software",
+      "excerpt": "Alphabet’s DeepMind has developed a new AI tool that could have a big impact on the creative fields. Dramatron relies on existing, pre-trained large language models to generate long and coherent text that could help co-write theater scripts and screenplays.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/deepminds-new-dramatron-tool-helps-write-scripts-and-screenplays/",
+      "originalUrl": "https://www.unite.ai/deepminds-new-dramatron-tool-helps-write-scripts-and-screenplays/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unite.ai/wp-content/uploads/2022/12/dramatron-animation-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-14T05:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-encharge-ai-a-chip-startup-born-in-princeton-lab-raises-217-mln.md",
+      "title": "EnCharge AI, a chip startup born in Princeton lab, raises $21.7 mln",
+      "excerpt": "EnCharge AI, a chip startup born at a Princeton University lab, on Wednesday said it raised $21.7 million as it looks to commercialize its computing technology that is designed to run artificial intelligence applications more efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/encharge-ai-chip-startup-born-princeton-lab-raises-217-mln-2022-12-14/",
+      "originalUrl": "https://www.reuters.com/technology/encharge-ai-chip-startup-born-princeton-lab-raises-217-mln-2022-12-14/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/9KmWDRJZNcepKm3ZrMb9-KLV0G8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X42T4SWYPZMTXKKXJ36W5F2OGY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-14T05:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-aupe-says-alberta-throne-speech-overlooks-education-senior-care.md",
       "title": "AUPE says Alberta Throne Speech overlooks education, senior care",
       "excerpt": "“It was a speech that lacked more than what it actually contained ... Consequently, these workers are stretched beyond their limits with little recognition. “What all our members would like to see is wages that not only reflect the hard economic ...",
@@ -655,6 +793,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-14-amazons-alexa-adds-text-to-speech-gestures-and-captioning-features.md",
+      "title": "Amazon's Alexa Adds Text-to-Speech, Gestures and Captioning Features",
+      "excerpt": "Amazon on Tuesday added three new Alexa features to its Echo Show smart display that are geared toward improving accessibility. The first, called Gestures, lets users dismiss timers by just ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/home/smart-home/amazons-alexa-adds-text-to-speech-gestures-and-captioning-features/",
+      "originalUrl": "https://www.cnet.com/home/smart-home/amazons-alexa-adds-text-to-speech-gestures-and-captioning-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T16:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-minerva-university-ai-research-lab-turns-concepts-into-startups.md",
       "title": "Minerva University AI Research Lab Turns Concepts into Startups",
       "excerpt": "The Minerva University AI Research Lab has brought together groups of students to create and pitch their own AI tools, with an emphasis on addressing the ethical and technical concerns about the technology.",
@@ -966,203 +1147,6 @@
         "Computer Vision",
         "Natural Language Processing",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation.md",
-      "title": "AI and analytics platform Dataiku raises $200M at a reduced valuation",
-      "excerpt": "AI and analytics startup Dataiku has raised $200 million at a reduced valuation, bringing its total raised to around $600 million.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation/",
-      "originalUrl": "https://techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421635359.jpg?resize=1200,720",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation/amp/",
-      "publishedDateTime": "2022-12-13T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction.md",
-      "title": "How AI-driven sentiment analysis can enhance employee satisfaction",
-      "excerpt": "Employees, these days, want to know that a company will look after them. One of the ways this shows up sharply is in the training and upskilling programs available.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/09/retention.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction/amp/",
-      "publishedDateTime": "2022-12-13T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-7-ways-a-recession-could-impact-ai-and-ml-in-2023.md",
-      "title": "7 ways a recession could impact AI and ML in 2023",
-      "excerpt": "Experts are predicting a possible recession in 2023. What would that mean for AI users and the vendors that supply AI tools and expertise?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/",
-      "originalUrl": "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-google-execs-warn-companys-reputation-could-suffer-if-it-moves-too-fast-on-ai-chat-technology.md",
-      "title": "Google execs warn company's reputation could suffer if it moves too fast on AI-chat technology",
-      "excerpt": "Google employees ask at a recent all-hands meeting if the popularity of AI chatbots represents a \"missed opportunity\" for the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/12/13/google-execs-warn-of-reputational-risk-with-chatgbt-like-tool.html",
-      "originalUrl": "https://www.cnbc.com/2022/12/13/google-execs-warn-of-reputational-risk-with-chatgbt-like-tool.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1670970512",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/12/13/google-execs-warn-of-reputational-risk-with-chatgbt-like-tool.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/12/13/google-execs-warn-of-reputational-risk-with-chatgbt-like-tool.html",
-      "publishedDateTime": "2022-12-13T12:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
