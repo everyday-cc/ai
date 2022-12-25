@@ -7,7 +7,7 @@ originalUrl: "https://yourstory.com/ys-gulf/jameel-clinic-uae-artificial-intelli
 webUrl: "https://yourstory.com/ys-gulf/jameel-clinic-uae-artificial-intelligence-office-hosts-conference-healthcare"
 type: article
 quality: 61
-heat: 71
+heat: 72
 published: true
 
 provider:

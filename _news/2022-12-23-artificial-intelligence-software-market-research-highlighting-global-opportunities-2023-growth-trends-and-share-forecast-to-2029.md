@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-contained Breathing Apparatus (SCBA) Market 2022 Driving Factor Analysis with Trend and Forecast to 2028"
-    excerpt: "The analysis begins by scrutinizing the Self-contained Breathing Apparatus (SCBA) market, including descriptions, categories, and a market summary. The report thoroughly examines market dynamics, share and revenue forecasts,"
-    publishedDateTime: 2022-12-20T14:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-contained-breathing-apparatus-scba-market-2022-driving-factor-analysis-with-trend-and-forecast-to-2028-2022-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Products Market 2022 Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
     excerpt: "The study report provides aid to investors in gaining a better analysis of the Artificial Intelligence Products market along with the driving factors, restraints, opportunities, and challenges. The research report provides information on the definition and segmentation and explains the market's scope along with information on applications and end-users."
     publishedDateTime: 2022-12-20T22:11:00Z
