@@ -43,15 +43,6 @@ related:
         width: 800
         height: 313
         isCached: true
-  - title: "AI In Fintech Market is likely to surge at a 16.5% CAGR from 2022 to 2032"
-    excerpt: "According to an ESOMAR-certified Future Market Insights report, the global artificial intelligence in fintech market is expected to be worth US$ 10.1 billion in 2021 and US$ 11.76 billion by 2022. The market is expected to be worth US$ 54 billion by 2032,"
-    publishedDateTime: 2022-12-20T11:26:00Z
-    webUrl: "https://www.fmiblog.com/2022/12/20/ai-in-fintech-market-is-likely-to-surge-at-a-16-5-cagr-from-2022-to-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 18
   - title: "World Fintech Show Features Dynamic Collaborations Set To Influence The Direction Of Fintech In Saudi Arabia."
     excerpt: "World Fintech Show features dynamic collaborations set to influence the direction of fintech in Saudi Arabia. <br /> After two thrillingly eventfu"
     publishedDateTime: 2022-12-22T21:08:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Woman's Expulsion From Radio City Renews Call For Facial Recognition Ban"
 excerpt: "Madison Square Garden Entertainment's use of facial-recognition technology is spurring new controversy this week, in the wake of news that Radio City Music Hall denied admittance to a lawyer who was attempting to take her daughter to a Rockettes performance."
-publishedDateTime: 2022-12-21T19:46:00Z
-originalUrl: "https://www.mediapost.com/publications/article/380902/radio-city-uses-facial-recognition-to-block-lawyer.html"
-webUrl: "https://www.mediapost.com/publications/article/380902/radio-city-uses-facial-recognition-to-block-lawyer.html"
+publishedDateTime: 2022-12-21T21:16:00Z
+originalUrl: "https://www.mediapost.com/publications/article/380902/womans-expulsion-from-radio-city-renews-call-for.html"
+webUrl: "https://www.mediapost.com/publications/article/380902/womans-expulsion-from-radio-city-renews-call-for.html"
 type: article
 quality: 38
 heat: -1
@@ -130,6 +130,6 @@ related:
         height: 720
         isCached: true
 
-secured: "vKq/Okms5DOay2buMoZDyVVrtJbJPMeQHaJ/s3yN1GOEiU5L++RAFqxuLJf9fZhp/OBApQAysOMqxik0TNUiNpXzKP36bq3gx0hLKr67VNKC0cS8WG8XNFFAGY4Wx4/4oIprdoTofJi0Nekb/6u8lGfzqdZ1wdfxlN/fmfSHXSD+DmKeXuDrQKArb/0SJxgT7zZZyN5yhNLlsoOO27MyP+qTF39UsQP6IvCZzYNryHteA3Mzwx1XgZ/Wef8rvNUKc6qnWB5OviGxAR0Mm/KMAMDxW0laJ8pAhyN+7DTeGveMRXBmA5QLsrDY/XQDvBSqfcmKbExUpZHBXl3N5+aDdlaM1MKbx0ufa+eJaEDQL5yyLIhgmCSHQ/IZN03zwr2nkYgBcFZhgmcuZweZfinR5Yqd0Knor5UewN5FlRnb5A5l4ekJUeKZ+0QcIbCydYe5cA7Prl97u+s932t8bpOJqwMVkqgecLgG+lwLnYvulW28TuAKn1U4Q0NiIsk3FvjakBaBrPQBXtrT9jeDi5uZfQ==;oGj8R3SqJERYyWtdELc+4Q=="
+secured: "kN+u+2NKbKoCG6Jlim5vN85z3iPkmjOblvW/w5JY+qjHxzbVhCJcwza8A6q7d/zakpeOi9QBxSQFI+uDhybwSsO+OBD9PbKtplKukkzj51pPCaauvHqg6Klr2kHgUIgUlYobMLNx6kPXqCMNtT2F7rZHrdcU7rG5emcmnujmORY3d6ms783nFVD5S4/GFaY0aLMm4lG5I3ib0rrw1NwvGMGOFIeift/S/UxwXggmXG8OzSKBn9CjOOyqAEE7l/TJpjF+nD6fsb2BoqKLVSEOH4LyYyhIBlcsGXnfpuKfbWt4Qw3OnpyaopqAWeSX6inxykbynGrEi6ly+7WIT86rm4AXpxUqeRj6Uc15LzxOq9M=;tnwzzJWIRLsxeAXIx8mpwg=="
 ---
 

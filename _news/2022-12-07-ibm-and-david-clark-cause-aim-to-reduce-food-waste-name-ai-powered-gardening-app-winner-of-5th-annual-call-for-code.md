@@ -1,15 +1,15 @@
 ---
 category: news
 title: "IBM and David Clark Cause Aim to Reduce Food Waste; Name AI-Powered Gardening App Winner of 5th Annual Call for Code"
-excerpt: "Today, Call for Code founding partner IBM (NYSE: IBM), creator, David Clark Cause, charitable partner United Nations Human Rights, and program affiliate, the Linux Foundation announced the winner of the fifth annual Call for Code Global Challenge,"
-publishedDateTime: 2022-12-07T02:54:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/12/08/9727471.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/12/08/9727471.htm"
+excerpt: "The top prize this year went to GardenMate for creating an app that uses IBM Watson® to connect gardeners ... technologies such as Hybrid Cloud and AI.\" Winning 2022 Call for Code Global ..."
+publishedDateTime: 2022-12-07T02:20:00Z
+originalUrl: "https://www.abc27.com/business/press-releases/cision/20221206NY57463/ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app-winner-of-5th-annual-call-for-code/"
+webUrl: "https://www.abc27.com/business/press-releases/cision/20221206NY57463/ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app-winner-of-5th-annual-call-for-code/"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: abc27
+  domain: abc27.com
 
 topics:
   - IBM AI
@@ -21,6 +21,6 @@ images:
     height: 300
     isCached: true
 
-secured: "GPPb5iio/ZWDxSljKfQm25QOo+YyHdnhSqIZUJdoTOKakOHQuTvTi7Jtta/9hdLwzfiI/lfLn0Nban+jTnul3F/8lll/687u7SotJoaSdxjz3Px0Z6IEnux3BXqgOxJBrHFEWH6G6lmim3y8UOg/CGS1C95Dtz3I8CcUyILCiOUgQUYbfqK++nhv0fH540YgMwlgMqdxYGBqLGXrt4B4mxR4nOSPig/wpshRg3r6q53hH+SOBhuXVK3uWUWNdHrHcfIW0pxLaZGdCsYKC5n1u6AOW9eN5lJzzJLcWMBMY/OZGCZGo88aI0hYaAWpnmLr3p3vXx0OEQc/6BOlG6WUdGrhKte1uKpUDTbDgtPy246rC6jf2e+I/3GMBIXjqyIgIYL9zNZ8+bdzr51VHA4dG8iZKreWO3C94U4pT5icb6cK7Sr0jxNDWJbH1Y2OkYqHbPWMm3jNS/pW0RkGwo8gvCpuqtIhcQBgjNK+bAHV7pcHgxmxTSL8v4sDVG95KsM9HhngyNYDcSPn64TgEcCUZA==;fq5gMVwhGLdRZCvE4uM2Rw=="
+secured: "7mOJKtzXBMliP+ixsNHLifiXxucWqrceOYWmf9iXMFehw0gik0YRh6dFJqJjn+IJdG6tBQI8Ek/jvX8yLrmlvSi2LseaFYRve6FGnHpfwjEABDCLMol0ffXOh0u/9cmJUxUKl+9a0EyDoN40D9D/gkyL7ajQGki7vA6TaRFoe0FqFX81bm+h0BNT9YYZBjm4Nom8/Hqbf/PGowWNRoOd+IOByOxNKEo7ZuS2rZUc8AAoxiabAA4Vg3Bowwdk1awS0BV7y2Me6uDYPtvOZ15bVfqPO3U18tVSJ4lKxNBnbrXkTk/i+6B+Ybou9ImCZgT84Ar+DXghPwUkxQuvZdnCszGZbU8/VBVEi7KWhbwY7y4=;XLhN6LuJgCP5gu3newVDfA=="
 ---
 

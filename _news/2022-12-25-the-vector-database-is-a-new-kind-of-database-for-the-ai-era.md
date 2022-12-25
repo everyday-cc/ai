@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/data-infrastructure/the-vector-database-is-a-ne
 ampWebUrl: "https://venturebeat.com/data-infrastructure/the-vector-database-is-a-new-kind-of-database-for-the-ai-era/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/the-vector-database-is-a-new-kind-of-database-for-the-ai-era/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/07/blockchain_database-e1573158651295.jpg?w=1200&strip=all"
@@ -40,6 +41,6 @@ related:
       domain: business-reporter.co.uk
     quality: 34
 
-secured: "7CrocmZWbXyLzOxLbzkzKgbRs6vBZCk/z0w6IAqpihOA78/CP19myvoHeOZmhiuHrrGMr5pe8fiK/+xywzPP0+aQhhg+yOC/EgVi0TaGPa0OwBJDRcy3fCfZArFAWF8C40Qgo9W+QoJBJJuEM92vvNCuuRQoLvsCz7DKZoyrntBcK6xzJ0U+LtbPOv9iPUvjm3a74umffcSpaglql4YNufbTQ3/CCkp6gVpj2GLJGsuB3Feqp1k/ecjLrnzfYq29vpHDX+FxHuoEJLx4hMAIrRRjcLWwCdq1KDdHuYvmIgh/43JNiscIzdWMZlBPiH9X2G/G8udDFqISfkgAv/tXSaDEZs+VFt9bZd75PDCafMo=;OlYRF/CRLm8ckQZlysuc5g=="
+secured: "huxvNJ9RfrZ9+gZ5Z7jlJTyOCgZ+5H6BQjZWPt7dKi269uFV8TQX28SbU9tMJBEk6i0DLyfCI6KvVaKbCwOhg6Roxn6XWe+r8Wx99PgLvRuoAfztB5gWZlSKMORLL/W4/ct57DExXDepn76d9Eraroh5sAIQnY9wK7LyL3Cs5BZ9N2TEJSdMErOS/31w4y8y9SvtcljfNlC02iBGoubzfJKFBRDbOiF51oFOoOBUAhbpUOb8l8Tf48P4xet3BkB3cI4lbR/9oDAyUyl8DAmdgUR/4fxAbwskJWoW8yB3zQk6raqd4g25rwW4mpTyR1m13iiM+cGpKXeAT0jZwvn7j/5nk9GolJhOcXc9UBbRp5f7+XBN6JEQuQqJmcjPAzSvERvrEesJpRzoHgexG/VcDiidw7oHayxnimHTUGXAo3MlKmekkROyh381K+/D1wW1LZaks9nTNS25mD3dqnAnG2M029uOIeoB3teBJg+pQfGmTqGSgnVpVmkBBhcm6gfbUafP5koAyoPxmOmVISAWOA==;RWqnYXs+6R2xDipHr9k8WA=="
 ---
 

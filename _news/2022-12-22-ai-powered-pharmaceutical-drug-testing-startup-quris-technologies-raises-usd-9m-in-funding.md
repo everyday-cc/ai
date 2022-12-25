@@ -26,17 +26,6 @@ images:
     height: 844
     isCached: true
 
-related:
-  - title: "AI-powered pharmaceutical drug testing startup Quris Technologies raises $9M in funding"
-    excerpt: "Quris is a promising startup that has developed AI-powered “patient-on-a-chip” system that provides an alternative to human clinical trials and animal testing in drug development. According to the company,"
-    publishedDateTime: 2022-12-20T12:00:00Z
-    webUrl: "https://siliconangle.com/2022/12/20/ai-powered-pharmaceutical-drug-testing-startup-quris-technologies-raises-9m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 11
-
 secured: "8+oSYqPJFftMsJhyhfLxtT71BP+nHDvhx3mMEe4RvD3zwcOBNVpDOYjIkjAmTyrX/ru7mIsY3yFfQ+UVOdmlBue+N2ABMrhOhW9rpgGWCRfuLxTOMDOnwEtptesp9teDBLrWdEGap9Dy+/rD1J0w6pAIHAYQEovBTFsPAdRi6mcAy4owM/XRCEDET/wHOc04LGuQfkBCxzpUDloIyREkBTjTIMjwKVkuG7zAqP6sMPNwN0cp5oq6Dp7SEWD7LGFWxmSwHsB1guv1ySLQymU79Zmv2RAojyVx92p8RdBJrrc+azBn3H52GQ4Dapea0MesslR7tX4NS1qp/gdTzCo4hGZJyDp/9DwcWB37ebdTtol44sCpR2CQCFVTRew8Q+N/4rU0mHa5sy2R9dGk/JMHF+N21Ld9V8/f1ijM+kSuhcMlqFlRMJo/uN6YUAnuM1OBDQTzyXddLtq9QBagcfZTDUHOSte479fYkDR/NPAwEbqoowst+EINJJMBPEDv3JJC3dRTUCedW3Owi3SgnS5ICQ==;4mhVGWNnerlNc3n4Jg8VxA=="
 ---
 
