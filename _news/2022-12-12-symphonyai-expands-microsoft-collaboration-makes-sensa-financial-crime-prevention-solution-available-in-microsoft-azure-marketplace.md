@@ -1,28 +1,24 @@
 ---
 category: news
 title: "SymphonyAI expands Microsoft collaboration, makes Sensa financial crime prevention solution available in Microsoft Azure Marketplace"
-excerpt: "EnterpriseAI leader accelerating innovation to combat financial crime with transformative, next-generation AI-based solution PALO ALTO, Calif., /PRNewswire/ -- SymphonyAI, a leader in high-value enter"
-publishedDateTime: 2022-12-12T10:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/12/n30037746/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-availab"
-webUrl: "https://www.benzinga.com/pressreleases/22/12/n30037746/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-availab"
-ampWebUrl: "https://www.benzinga.com/amp/content/30037746"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30037746"
+excerpt: "EnterpriseAI leader accelerating innovation to combat financial crime with transformative, next-generation AI-based solution PALO ALTO, Calif., Dec. 12, 2022 /PRNewswire/ -- SymphonyAI, a leader ..."
+publishedDateTime: 2022-12-12T12:07:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964946"
+webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964946"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-    width: 800
-    height: 313
-    isCached: true
-
-secured: "X2gZvo5FAhp3fcPuKS3J95kbw1kXQBPzq2ZiSquAHkTPZKw08jeBB6ye64ccLpH0ii7LGVsJBT1C1pafnjCR+G3NLjRtU4EQNQKBM/fXwrmiS+qCVlklo9wa1yRL682lpD2PtuuyU5tOjYMK7YkX1n6TaXkwczDLH095PfJIHUp04ipsjxJRCRcVwIA6TXR5Bz2Xtt7upO5Alzs5A13qHGtl8fX78BilqjvrE05iG2A1vAq4jZLsOuretTCe6+WwP4sKGFiULyUz1H9HL1oNcNdHo2qrKivY6Sq6/D47H3bgrGRfCxpXzGxuL6narq327FONOaf0qNcB032KIeS+60QNe0zkpnSudnIFsBBxTYY=;zfEL0DOqufA78q1cqv5OqQ=="
+secured: "aXs6nrKKHrhMtPscDSa29dEL89ZuJRjW0SL8irHTERfyK0+ey7U2kaKhhH3pNeLuAnHTz4L2mCUh/sNKSm5dkVg+POcS3XzqdzrSccRNOHWEuPSZxxTIpbV97k1biI3vwvJZo3qvlY9RgUegyx8KHKp21hoOIHfh0sIHNqibkKdjci2h9cRX+OTmgG2TROZrK5W/EHvNqtv4ijwKzSyttMHjwnUo6muJoS2CUyymskdu2zwvVYLKfziv9uFmcXJvmIx70gJSpH/xOPm4Cz5QbpLFRGQCC4r+WewXGGUccjzJnBqupPBuwz7k+3q2NSwvUL+5Duw9ZZpJmJOvFnFPtZ2si5DoVmpUL4qlnMfeeOM=;HtiaP4XzxltiKYMGWOAHcw=="
 ---
 

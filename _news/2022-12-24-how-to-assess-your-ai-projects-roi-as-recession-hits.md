@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/how-to-assess-your-ai-projects-roi-as-recess
 ampWebUrl: "https://venturebeat.com/ai/how-to-assess-your-ai-projects-roi-as-recession-hits/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-assess-your-ai-projects-roi-as-recession-hits/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2016/12/investing-2.jpg?w=1200&strip=all"

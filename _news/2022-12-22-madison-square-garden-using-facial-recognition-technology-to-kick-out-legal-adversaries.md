@@ -55,6 +55,20 @@ related:
         width: 560
         height: 380
         isCached: true
+  - title: "TSA tests controversial facial recognition tech at airports"
+    excerpt: "The Transportation Security Administration is now testing facial identification scanners at 16 major airports. Washington Post columnist Geoffrey Fowler joins William Brangham to discuss the complexities and controversies around this new technology."
+    publishedDateTime: 2022-12-24T20:43:00Z
+    webUrl: "https://www.pbs.org/video/tsa-face-scan-1671914593/"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 54
+    images:
+      - url: "https://image.pbs.org/video-assets/DQ6OdTj-asset-mezzanine-16x9-pwm5DCq.jpg?focalcrop=1200x630x50x10&format=auto"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Baltimore councilman seeks to regulate facial recognition technology after ban expires"
     excerpt: "Opponents of facial recognition technology cite potentially dangerous invasion of privacy There's a push to regulate facial recognition technology in Baltimore after a ban on it expires next week. Many people use it every day to unlock their phones."
     publishedDateTime: 2022-12-23T22:19:00Z

@@ -47,6 +47,20 @@ related:
         width: 927
         height: 628
         isCached: true
+  - title: "How Will Artificial Intelligence Impact Investing in 2023 and Beyond"
+    excerpt: "In this contributed article, IT and digital marketing specialist Natasha Lane points out that artificial intelligence has already permeated our everyday lives. We see it everywhere, even when we’re not aware of it."
+    publishedDateTime: 2022-12-24T14:00:00Z
+    webUrl: "https://insidebigdata.com/2022/12/24/how-will-artificial-intelligence-impact-investing-in-2023-and-beyond/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 37
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2019/05/Artificial_intelligence_SHUTTERSTOCK.jpg"
+        width: 300
+        height: 203
+        isCached: true
 
 secured: "PiqFR7newzwXbqwHOBe/kCS/fl8NwQioSV6T/j+H0yB8soh8Q3wPCYllJMzZ0NRi+ML1Y6ab1rBLpqWnvch3U6UvyL40C7uIaxTvMZTdaBzYDNkfL631SGbIPvbN9AEonuXt9bSz+Vf6SlMqEzTfTAedV7o3isNqGyyRwMeHFI68tfBwvjO3O5ZrY/OwRacUWXeIcd9JEhTc+W3nY+PjD1tRvVnwcDd0LE8UbsRxa3DdF9E/oDoUh2hRKHgfXFMOgpa8saOi9EFts9PbSBVExKeK41ediPl4qKmcq4YS9w/GR4YLNXdVU1gKSbQa2T0qJ68JDone+I5nz5rRQLHMVZ846h/mWlLUNd8myu7H2oZaYr6/1SVtDkpfkmcOaKeAO+EUwvzBCDls5jKwfIZPCWvmFZp//TVZV82t3JtfBVruEObE3upDW2dwbXtFzMUklsS8Jsdh0LdPhwfXD71SZ2iacC+y9X0IJmqQQQwVD5sn0L8lFSJSqwskAznQdg+trlP74aR5SV7/Fm+NpD3Z0w==;GRWbaFkWa8TRrafqh/iVMQ=="
 ---

@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
-  - title: "Automatic Speech Recognition Market 2022: Share and Outlook of Regulatory Scenario by 2028"
-    excerpt: "The research presents regional understandings of the Automatic Speech Recognition market, additionally bifurcated at the country level to give organizations a complete picture. DOWNLOAD FREE SAMPLE REPORT:  The worldwide Automatic Speech Recognition market is split into a type that includes Telisma S."
-    publishedDateTime: 2022-12-20T10:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-2022-share-and-outlook-of-regulatory-scenario-by-2028-2022-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Market 2023 Research Report Analysis by TOP Competitors, Demand and Size Share Estimation by 2028, Market Divergence"
     excerpt: "In terms of Revenue in Million} Get a Sample Copy of the Artificial Intelligence (AI) Market Report 2022:  Brief description about Artificial Intelligence (AI) Market Growth 2029: Artificial Intelligence (AI) Marketsize,"
     publishedDateTime: 2022-12-23T06:42:00Z

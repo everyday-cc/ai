@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Researchers discover Artificial intelligence tool that helps in cancer surgery"
-excerpt: "The surgical procedure is frequently not predetermined when a patient has surgery to remove a tumour or treat an illness. The margins of a tumour, its stage, and whether a lesion is malignant or benign must all be known to the surgeon in order to determine how much tissue needs to be removed."
-publishedDateTime: 2022-12-24T10:32:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Science/20221224/4018477.html"
-webUrl: "https://news.webindia123.com/news/Articles/Science/20221224/4018477.html"
+excerpt: "The surgical procedure is frequently not predetermined when a patient has surgery to remove a tumour or treat an illness The margins of a tumour its stage an"
+publishedDateTime: 2022-12-23T22:33:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/273258377/researchers-discover-artificial-intelligence-tool-that-helps-in-cancer-surgery"
+webUrl: "https://www.bignewsnetwork.com/news/273258377/researchers-discover-artificial-intelligence-tool-that-helps-in-cancer-surgery"
 type: article
-quality: 15
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://cdn.bignewsnetwork.com/ani1671834457.jpg"
+    width: 630
+    height: 420
+    isCached: true
 
 related:
   - title: "Artificial intelligence tool developed to help make real-time diagnoses during surgery"
@@ -36,6 +42,6 @@ related:
         height: 1920
         isCached: true
 
-secured: "JPllKxf3d/2gRzXoMgkYDHlQSxqVuDWQN8qWmPeJyU5VZmVdo3R/hEnxUi5Gt/P0jKGn2qdB2QdZVsyModMRVHfBhgvwnpWM7bjiOR7oZQ2JG+Cl2QRIkmJV8f47hPga7gBEipLQrVaAI048O5SNgEIzSGJ6fGUziO5JNTBoOK0fb1W8msA+uZu7+mHNnHIxxnK+HWwe7pX1tIT5hpg5KDplFB6OjWNImbdcTuAteiOxZmG6pyvcFVauJL8vbIrOuW9s5z2ZUHdJ3An2R5TpyIxRMl9Pmldz7VDQEvILKcTTuXz7uSJGFiAQL+ECHgovpWHShMZYR0+k6TzwDxCmAm4GIlnZP2dSXZ1mmaLMXNg=;wLjwrbkZT86rWF7SLZmcJQ=="
+secured: "3kZWWy3Lz7sq+xMaulAqCHvfutq0dGR4zaKZqMYU5veRXjdkv75ifeHiDvuITaUId0MS0QE+qZDhZPv1qYzjOSg5LzjwePO+cDqV8Wv5HZfYNVGFOKpzZS8DZ/KTZckMccZU0Aw52nmrdb+pvE5koIhzql9M3nL8BlZnWzhGTrAxz/b7I4K4g4mLYMH/dzB4lpH1i3UQBSNwaCeUygohd2/RO/cqYsCaSjL1r8/mEI25u/A4QUQ/EFTjLOk5h3LlPCrL5nZ51kiEE93ji//yMLBxYGU3VzMaq/QpHXjiQl9xmAGkcLq5i6ydfATUO3ZJANNdbqW/IsqGcDnWCmvfVPcBXNEXuOukBseifHMrPfs=;Re0iwG/EVW9UeXlpz7IN2w=="
 ---
 

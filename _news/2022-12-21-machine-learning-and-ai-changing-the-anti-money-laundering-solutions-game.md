@@ -34,6 +34,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Artificial intelligence and the rise of optical computing"
+    excerpt: "An optical computer could likewise do lots of calculations at the same time. Using photons reduces power consumption, too. Electrical resistance generates heat, which wastes energy. The passage of photons through transparent media is resistance-free."
+    publishedDateTime: 2022-12-20T16:00:00Z
+    webUrl: "https://www.economist.com/science-and-technology/2022/12/20/artificial-intelligence-and-the-rise-of-optical-computing"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 43
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221224_STD001.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "qPbi3pfUTi854zspWF2rmCbMGvepaWumyunUnPozaPVXUG8FVRS426/RxkSQZn4DTx7gAUKwHqOBttB5PUQluaS5jULqEklO9J5//B7Y2JCDeXnnGipR2zhCyDSoVAtxKPZFm8huJIGfnb3jVqWNeTwFFhe+E94WoQ0yQ/ISQ9ZEJfA80oSvqDl+/LEiVN3QF6d6VFNkHZKudT7PWUwjK3LIG2SDSh9sAojibrMB9ZQeKxibl0l44OkbCTXiQU8ySScgphPlXPNdfRkMFFX/UyQnDjjfQVHPFDzkTe50EpoinKRzbmLTPCGhneja1ZJ2ep4j5HxpQcXz7bUtHheOyH22naL2JQmmRrqxkU7ZVBg=;brR6J7jzmvliz5m8FpD8Jw=="
 ---

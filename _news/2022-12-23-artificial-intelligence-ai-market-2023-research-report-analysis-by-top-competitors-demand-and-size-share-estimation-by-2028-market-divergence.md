@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
-  - title: "Automatic Speech Recognition Market 2022: Share and Outlook of Regulatory Scenario by 2028"
-    excerpt: "The research presents regional understandings of the Automatic Speech Recognition market, additionally bifurcated at the country level to give organizations a complete picture. DOWNLOAD FREE SAMPLE REPORT:  The worldwide Automatic Speech Recognition market is split into a type that includes Telisma S."
-    publishedDateTime: 2022-12-20T10:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-2022-share-and-outlook-of-regulatory-scenario-by-2028-2022-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-Driving Truck Technology Market 2022: Share and Outlook of Regulatory Scenario by 2028"
     excerpt: "Further, the SWOT analysis & other techniques are utilized to investigate this data & provide an informed perspective on the state of the business to assist design the best growth strategy for any vendors or to current penetration into the present & and likely direction of the global Self-Driving Truck Technology market."
     publishedDateTime: 2022-12-20T15:51:00Z

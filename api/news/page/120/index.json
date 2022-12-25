@@ -2,6 +2,215 @@
   "page": 120,
   "value": [
     {
+      "path": "_news/2022-09-13-lease-to-own-fintech-startup-kafene-raises-18m-to-battle-bnpl.md",
+      "title": "Lease-to-own fintech startup Kafene raises $18M to battle BNPL",
+      "excerpt": "Kafene plans to use its new capital to increase its headcount so that it can continue to expand its offering to more merchants and thus, consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/13/lease-to-own-fintech-startup-kafene-raises-18m-to-battle-bnpl/",
+      "originalUrl": "https://techcrunch.com/2022/09/13/lease-to-own-fintech-startup-kafene-raises-18m-to-battle-bnpl/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1193134750-e1663083426614.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/13/lease-to-own-fintech-startup-kafene-raises-18m-to-battle-bnpl/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/13/lease-to-own-fintech-startup-kafene-raises-18m-to-battle-bnpl/amp/",
+      "publishedDateTime": "2022-09-13T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-get-better-insight-from-reviews-using-amazon-comprehend.md",
+      "title": "Get better insight from reviews using Amazon Comprehend",
+      "excerpt": "“85% of buyers trust online reviews as much as a personal recommendation” – Gartner Consumers are increasingly engaging with businesses through digital surfaces and multiple touchpoints. Statistics show that the majority of shoppers use reviews to determine what products to buy and which services to",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/get-better-insight-from-reviews-using-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/get-better-insight-from-reviews-using-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/29/Picture4-4.png",
+          "width": 977,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T09:19:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-prepare-data-at-scale-in-amazon-sagemaker-studio-using-serverless-aws-glue-interactive-sessions.md",
+      "title": "Prepare data at scale in Amazon SageMaker Studio using serverless AWS Glue interactive sessions",
+      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). It provides a single, web-based visual interface where you can perform all ML development steps, including preparing data and building, training, and deploying models. AWS Glue is a serverless",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-at-scale-in-amazon-sagemaker-studio-using-serverless-aws-glue-interactive-sessions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-at-scale-in-amazon-sagemaker-studio-using-serverless-aws-glue-interactive-sessions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/13/aws-glue-interactive-sessions.jpg",
+          "width": 1534,
+          "height": 767,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T09:01:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-gms-driverless-cruise-cars-head-to-arizona-texas.md",
+      "title": "GM's Driverless Cruise Cars Head to Arizona, Texas",
+      "excerpt": "Cruise is bringing driverless rides to Austin and Phoenix later this year. The GM-owned company plans to expand its robotaxi service, which launched recently in California, into new markets in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/gms-driverless-cruise-cars-head-to-arizona-texas",
+      "originalUrl": "https://www.pcmag.com/news/gms-driverless-cruise-cars-head-to-arizona-texas",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/027RLUDPGGW518DL7JdLptl-1.fit_lim.size_1200x630.v1663062078.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-artificial-neural-network-market-up-to-date-analysis-by-2028-by-ibm-corporation-microsoft-corporation-alyuda-research.md",
       "title": "Artificial Neural Network Market : Up-To-Date Analysis by 2028 | by IBM Corporation, Microsoft Corporation, Alyuda Research",
       "excerpt": "New Jersey, United States – Analysis of Artificial Neural Network Market 2022 to 2028, Size, Share, and Trends by Type, Component, Application, Opportunities, Growth Rate, and Regional Forecast ...",
@@ -906,178 +1115,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-bot-services-market-trends-and-challenges-2022-supporting-growth-top-players-strategy-size-share-estimation-and-forecast-report-till-2028.md",
-      "title": "Bot Services Market Trends and Challenges 2022 Supporting Growth, Top Players Strategy, Size, Share Estimation and Forecast Report till 2028",
-      "excerpt": "Global Bot Services Market is valued at approximately USD $million in 2021 and is anticipated to grow with a healthy growth rate of more than % over the forecast period 2022-2028. A bot is a software application that performs automated tasks such as messaging,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/bot-services-market-trends-and-challenges-2022-supporting-growth-top-players-strategy-size-share-estimation-and-forecast-report-till-2028-2022-09-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/bot-services-market-trends-and-challenges-2022-supporting-growth-top-players-strategy-size-share-estimation-and-forecast-report-till-2028-2022-09-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-china-says-automakers-must-have-licences-for-mapping-data-in-smart-cars.md",
-      "title": "China says automakers must have licences for mapping data in smart cars",
-      "excerpt": "SHANGHAI/BEIJING: China has said that automakers must apply for licences to collect geographic data using sensors on their intelligent vehicles, highlighting Beijing's security concerns about the growing sophistication of smart cars' mapping capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carsifu.my/news/china-says-automakers-must-have-licences-for-mapping-data-in-smart-cars",
-      "originalUrl": "https://www.carsifu.my/news/china-says-automakers-must-have-licences-for-mapping-data-in-smart-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/09/pexels-pixabay-373543.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T00:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CarSifu",
-        "domain": "carsifu.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-artificial-intelligence-ai-in-alzheimers-applications-market-drivers-impact-covid-19-and-key-players-strategies-analyzed-2022-to-2030.md",
-      "title": "Artificial Intelligence (AI) in Alzheimer’s Applications Market Drivers, [IMPACT COVID-19] and Key Players Strategies Analyzed 2022 to 2030",
-      "excerpt": "Artificial Intelligence (AI) in Alzheimer’s Applications market and global economic environment, we forecast that the global market size of Artificial Intelligence (AI) in Alzheimer’s Applications will reach (2030Market size $$) million $ in2030with a CAGR of % from 2022-2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-alzheimers-applications-market-drivers-impact-covid-19-and-key-players-strategies-analyzed-2022-to-2030-2022-09-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-alzheimers-applications-market-drivers-impact-covid-19-and-key-players-strategies-analyzed-2022-to-2030-2022-09-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T00:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-baron-funds-sees-significant-upside-for-baidu-bidu.md",
-      "title": "Baron Funds Sees Significant Upside for Baidu (BIDU)",
-      "excerpt": "Baron Funds discussed stocks like Baidu, Inc. (NASDAQ:BIDU) in the second quarter investor letter. Headquartered in Beijing, China, Baidu, Inc. (NASDAQ:BIDU) is an internet search service provider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/baron-funds-sees-significant-upside-for-baidu-bidu-1064643/",
-      "originalUrl": "https://www.insidermonkey.com/blog/baron-funds-sees-significant-upside-for-baidu-bidu-1064643/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T22:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

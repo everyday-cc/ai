@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Facial recognition technology may soon come to LI schools. Will it keep students safe or invade their privacy?"
-excerpt: "Two state agencies are looking into the use of the surveillance system that opponents say invades privacy and proponents say helps to keep students safe."
-publishedDateTime: 2022-12-22T19:41:00Z
-originalUrl: "https://www.newsday.com/long-island/facial-recognition-technology-schools-p70v0mx1"
-webUrl: "https://www.newsday.com/long-island/facial-recognition-technology-schools-p70v0mx1"
+title: "TSA tests controversial facial recognition tech at airports"
+excerpt: "The Transportation Security Administration is now testing facial identification scanners at 16 major airports. Washington Post columnist Geoffrey Fowler joins William Brangham to discuss the complexities and controversies around this new technology."
+publishedDateTime: 2022-12-24T20:43:00Z
+originalUrl: "https://www.pbs.org/video/tsa-face-scan-1671914593/"
+webUrl: "https://www.pbs.org/video/tsa-face-scan-1671914593/"
 type: article
-quality: 19
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Newsday
-  domain: newsday.com
+  name: PBS
+  domain: pbs.org
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn.newsday.com/ace/c:NmFhYmM4OWUtZjFiOC00:ODAxNmQ4/landscape/1280"
-    width: 1280
-    height: 720
+  - url: "https://image.pbs.org/video-assets/DQ6OdTj-asset-mezzanine-16x9-pwm5DCq.jpg?focalcrop=1200x630x50x10&format=auto"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -54,20 +54,6 @@ related:
       - url: "https://static-images.vnncdn.net/files/publish/2022/12/21/face-recognition-technology-to-be-used-for-security-check-at-airports-e64411183bc1457dba5508e8aee7a37f.jpg"
         width: 560
         height: 380
-        isCached: true
-  - title: "TSA tests controversial facial recognition tech at airports"
-    excerpt: "The Transportation Security Administration is now testing facial identification scanners at 16 major airports. Washington Post columnist Geoffrey Fowler joins William Brangham to discuss the complexities and controversies around this new technology."
-    publishedDateTime: 2022-12-24T20:43:00Z
-    webUrl: "https://www.pbs.org/video/tsa-face-scan-1671914593/"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 54
-    images:
-      - url: "https://image.pbs.org/video-assets/DQ6OdTj-asset-mezzanine-16x9-pwm5DCq.jpg?focalcrop=1200x630x50x10&format=auto"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Baltimore councilman seeks to regulate facial recognition technology after ban expires"
     excerpt: "Opponents of facial recognition technology cite potentially dangerous invasion of privacy There's a push to regulate facial recognition technology in Baltimore after a ban on it expires next week. Many people use it every day to unlock their phones."
@@ -129,7 +115,21 @@ related:
         width: 2560
         height: 1790
         isCached: true
+  - title: "Facial recognition technology may soon come to LI schools. Will it keep students safe or invade their privacy?"
+    excerpt: "Two state agencies are looking into the use of the surveillance system that opponents say invades privacy and proponents say helps to keep students safe."
+    publishedDateTime: 2022-12-22T19:41:00Z
+    webUrl: "https://www.newsday.com/long-island/facial-recognition-technology-schools-p70v0mx1"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 19
+    images:
+      - url: "https://cdn.newsday.com/ace/c:NmFhYmM4OWUtZjFiOC00:ODAxNmQ4/landscape/1280"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "xEaXt6G80rKM4Ep5gVjcB2ruecNjhU3R790uAXsU0Y7+8qVgsd9jI5e9O1KqU1BQA0FpHEGF9KdAs/jBQ+73q/hGWCYi2RzQ3EQp0dux8mWON48hCTCQJrtcvlJLiFToTh6JI4bO4uF56Y2XcnH+axrxsHgGgURIdwhoD1/b9LMsRo7tqwP9VWmTja38UuOsKlYkIlxYqcDj7bUe+tqli+svuNHtoHpF2p/aCQzhfv8WmfAkbVgpzjDy/h8WxwthjSNY186RSdgtcxMB1/9vkxGADRDDYmKuMHcry49Ui1j7P67bh8eaj2auSAo/bu361Tl++Wp2U76H4Dt7FX7Sjp2ebhPfe7ICpN3dRBEUrkCZeQwHatQMFmOb6EX+70i6SnVBlK6SmmyX+iNQ65fxbQ9jMeyBzo4QTwN3yNYFeOwLl6EAAaaeY6pcumWSuqEhEb6Aa4A0Znsiv06MC3PClRI33Prn95bJnE5FHeSJ5RCzMcZpYUERKbHV9rBMbS9j7323DLaGfVqWa4Lq8N9dUw==;2C8NmVxkW4opVJ6+tRT8zQ=="
+secured: "fqdeqX9C8yQsL8P5xgC+GD4IuZrIQpUzc71axG10rEBnn64eE5inXXgg4ABPCTr1lNyfiyMQgWznhHnvBoK28D+XeucC1Bm0BWipQvgFwKBGjBiBXntA/41HPn/LC1SxtwMf6GMmS/6ihWjkr+6VPlhrezNXcOrMyjhg01Ou0qQcZwBn5ynH2fEoSwX4EUYAF40CWnTIrDJJveoYcnGfD4KRuw4Z+3x7hZC3MCBnAlDQNHSnd2CN8XKKMVwAKGFSwUuKC0MUV+RZoZ9o2mod+ebsP/dNBk2IqzqQyhJtv8nDBzLQaoF2WpxbBnbW3ItAYMvGW3t/GMeRVKqchs7sFwo5jYy0W2CnZpzPZjrBGUM=;rvHAK18HEinDnZuza+m/gQ=="
 ---
 

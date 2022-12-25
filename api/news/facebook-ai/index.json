@@ -56,6 +56,58 @@
       ]
     },
     {
+      "path": "_news/2022-12-23-how-ai-and-other-emerging-technologies-can-support-evidence-based-medicine.md",
+      "title": "How AI and other emerging technologies can support evidence-based medicine",
+      "excerpt": "King Faisal Specialist Hospital and Research Centre uses the latest technology to offer patients cutting-edge medical solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/sc/king-faisal-research-centre-uses-ai-and-other-technologies-to-help-patients",
+      "originalUrl": "https://www.businessinsider.com/sc/king-faisal-research-centre-uses-ai-and-other-technologies-to-help-patients",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63a320bd58babf00188d4a27?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-23T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-23-ai-isnt-really-helping-coders-write-better-or-more-secure-code.md",
       "title": "AI isn't really helping coders write better or more secure code",
       "excerpt": "A paper (opens in new tab) by researchers at Stanford University has found that coders who employed AI assistants such as GitHub Copilot and Facebook InCoder actually ended up writing less secure code.",
@@ -1433,49 +1485,6 @@
         "AI",
         "Facebook AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-we-built-an-algorithm-that-predicts-the-length-of-court-sentences-could-ai-play-a-role-in-the-justice-system.md",
-      "title": "We built an algorithm that predicts the length of court sentences – could AI play a role in the justice system?",
-      "excerpt": "Artificial intelligence could help create transparency and consistency in the legal system – our model shows how.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/we-built-an-algorithm-that-predicts-the-length-of-court-sentences-could-ai-play-a-role-in-the-justice-system-193300",
-      "originalUrl": "https://theconversation.com/we-built-an-algorithm-that-predicts-the-length-of-court-sentences-could-ai-play-a-role-in-the-justice-system-193300",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/497742/original/file-20221128-533-noq54a.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=214&fit=crop",
-          "width": 320,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/we-built-an-algorithm-that-predicts-the-length-of-court-sentences-could-ai-play-a-role-in-the-justice-system-193300",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-built-an-algorithm-that-predicts-the-length-of-court-sentences-could-ai-play-a-role-in-the-justice-system-193300",
-      "publishedDateTime": "2022-11-29T10:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],
