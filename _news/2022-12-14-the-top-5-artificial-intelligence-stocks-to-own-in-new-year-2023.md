@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/1.jpg"

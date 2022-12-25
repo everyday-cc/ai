@@ -204,58 +204,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-23-ai-isnt-really-helping-coders-write-better-or-more-secure-code.md",
-      "title": "AI isn't really helping coders write better or more secure code",
-      "excerpt": "A paper (opens in new tab) by researchers at Stanford University has found that coders who employed AI assistants such as GitHub Copilot and Facebook InCoder actually ended up writing less secure code.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/ai-isnt-really-helping-coders-write-better-or-more-secure-code",
-      "originalUrl": "https://www.techradar.com/news/ai-isnt-really-helping-coders-write-better-or-more-secure-code",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/VyYgfUHgbvAsTDDYewj2Am-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-22T08:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-21-three-best-practices-for-mlai-security.md",
       "title": "Three best practices for ML/AI security",
       "excerpt": "Two-in-five organizations will have experienced an AI security or privacy breach, with one in four of those being adversarial attacks. Security industry watchdogs have been ringing alarm bells for years.",
@@ -750,6 +698,40 @@
         "Machine Learning",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-lensa-ai-avatar-portraits-are-popping-up-all-over-social-media-but-is-it-a-step-back-for-body-positivity.md",
+      "title": "Lensa AI avatar portraits are popping up all over social media, but is it a step back for body positivity?",
+      "excerpt": "She later adds: “I'm thankful to this silly AI-yourself trend as it gave me tools to try to work on that horrid inner voice.” The Lensa app asks for 10 to 20 selfies in order to generate its ‘magical avatars’, and can also be used to ‘perfect ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.glamourmagazine.co.uk/article/ai-avatars-body-positivity",
+      "originalUrl": "https://www.glamourmagazine.co.uk/article/ai-avatars-body-positivity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GLAMOUR UK",
+        "domain": "glamourmagazine.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     },
     {

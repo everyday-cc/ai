@@ -1,24 +1,26 @@
 ---
 category: news
-title: "Biden Blacklists China's YMTC, Crackdowns on AI Chip Sector"
-excerpt: "The 21 Chinese AI chip entities being added to the trade blacklist, which include Cambricon Technologies Corp and CETC, face an even tougher penalty, with the U.S. government effectively blocking ..."
-publishedDateTime: 2022-12-15T13:59:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2022-12-15/biden-to-blacklist-chinas-ymtc-crackdown-on-ai-chip-sector"
-webUrl: "https://money.usnews.com/investing/news/articles/2022-12-15/biden-to-blacklist-chinas-ymtc-crackdown-on-ai-chip-sector"
+title: "Biden blacklists China's YMTC, crackdowns on AI chip sector"
+excerpt: "WASHINGTON (Reuters) -The Biden administration on Thursday added Chinese memory chipmaker YMTC and 21 \"major\" Chinese players in the artificial intelligence chip sector to a trade blacklist ..."
+publishedDateTime: 2022-12-15T14:34:00Z
+originalUrl: "https://gazette.com/news/us-world/biden-blacklists-chinas-ymtc-crackdowns-on-ai-chip-sector/article_185a7193-0885-5637-b578-67f1f8527c7e.html"
+webUrl: "https://gazette.com/news/us-world/biden-blacklists-chinas-ymtc-crackdowns-on-ai-chip-sector/article_185a7193-0885-5637-b578-67f1f8527c7e.html"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Gazette
+  domain: gazette.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "aU6mtz8usH6JutUYUG8EJLEpr2SNEm1Han8LGuID18NRC56kZlaWHRmyzz3ptoT/os1ShybasCmT0iJG/3V3Mwv8jRdWCpdFwtTHOJZuf0G3FfnwscPaiC3Fueans2cbtsedZXkDfuTiN4NUohgyw26+3kptregv4Mp8xWp/guiD7dy8ZjScCJONMCtlGhMDMq2fo6B5TfhTckhRMnV2FSk2g9Mvwg6OAvYr8g/khB2J+KIUsGQYOs+EzPsm+tJqFW0shhS57sQ4BRk/iQynDnkDhF8tr29Yq9771f80KvBu19yzurId4F7QEWjuCSyfM0EvY5ARRC2fSlCgVMVbnErnkitM4gvyp9qMOQLzKOM=;1xo6LGfTY/QOeyIuzydFXA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/c/3f/c3fcc744-3d74-5ee5-840b-824b4f55c439/639b2dc0ce988.image.jpg?crop=800%2C420%2C0%2C48&resize=800%2C420&order=crop%2Cresize"
+    width: 800
+    height: 420
+    isCached: true
+
+secured: "nqC8JROPXZPDJlC0yjXvk0n1hJ0N8XiW44aS6jtlapp/FmtvZMDwN7YZ6DlY83s44r0+9LPAewSDmwMxC675/lGVMWr0h+0A2YwVzbvdBxwt0bqJxDcsXhCiH2r+nIivXrpTvawShcH04F0ITR1vohBnsEMMHzW4DtiA6brAFjosB+2QEJkFzKRdyaDInSbLfk4NUEa/V53KcP3TBur0hmWMKLZmjIV7bJAv6aV90v6fnQk7z6p2tbkY88bmUVYTrlMF++mJBYGGx/88NMek9UCiwzZGDSc2P/ewkjfKlaLfcAKmn8I1Dw6Dq2TPF7pHsjKsy/ET9Wxd6Lft4g3og/vnOq0JJtXpsU3bQQmwBP0=;+aWsaTgIVB7nocD5y8uDqQ=="
 ---
 

@@ -260,6 +260,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Tesla driver blames eight-car pileup on Full Self-Driving"
+    excerpt: "According to a California Highway Patrol accident report obtained by CNN Business, Tesla’s Full Self-Driving software caused an eight-car pileup in the San Francisco Bay Area in November. The driver of the vehicle responsible for the accident told authorities that the car braked unexpectedly,"
+    publishedDateTime: 2022-12-22T19:46:00Z
+    webUrl: "https://bgr.com/lifestyle/tesla-driver-blames-eight-car-pileup-on-full-self-driving/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 19
   - title: "Tesla behind eight-vehicle crash was in ‘full self-driving’ mode, says driver"
     excerpt: "San Francisco crash is the latest in a series of accidents blamed on Tesla technology, which is facing regulatory scrutiny"
     publishedDateTime: 2022-12-22T13:22:00Z

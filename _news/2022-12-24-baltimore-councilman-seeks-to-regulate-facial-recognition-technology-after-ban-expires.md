@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wbaltv.com/amp/article/baltimore-councilman-seeks-to-reg
 cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/baltimore-councilman-seeks-to-regulate-facial-recognition-technology-after-ban-expires/42329343"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,96 @@ images:
     width: 960
     height: 540
     isCached: true
+
+related:
+  - title: "TSA's facial recognition technology raises security, privacy concerns"
+    excerpt: "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country."
+    publishedDateTime: 2022-12-23T23:26:00Z
+    webUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
+    ampWebUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+    type: article
+    provider:
+      name: ABC15 Arizona
+      domain: abc15.com
+    quality: 91
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/14ef04f/2147483647/strip/true/crop/8640x4860+0+450/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F74%2F29%2Fc213131e41038c94fc27d4a87df4%2Fap22350850581649.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "TSA tests controversial facial recognition tech at airports"
+    excerpt: "The Transportation Security Administration is now testing facial identification scanners at 16 major airports. Washington Post columnist Geoffrey Fowler joins William Brangham to discuss the complexities and controversies around this new technology."
+    publishedDateTime: 2022-12-24T20:43:00Z
+    webUrl: "https://www.pbs.org/video/tsa-face-scan-1671914593/"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 54
+    images:
+      - url: "https://image.pbs.org/video-assets/DQ6OdTj-asset-mezzanine-16x9-pwm5DCq.jpg?focalcrop=1200x630x50x10&format=auto"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial recognition technology may soon come to LI schools. Will it keep students safe or invade their privacy?"
+    excerpt: "Two state agencies are looking into the use of the surveillance system that opponents say invades privacy and proponents say helps to keep students safe."
+    publishedDateTime: 2022-12-22T12:56:00Z
+    webUrl: "https://www.newsday.com/long-island/education/facial-recognition-technology-schools-p70v0mx1"
+    ampWebUrl: "https://www.newsday.com/amp/long-island/education/facial-recognition-technology-schools-p70v0mx1"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/long-island/education/facial-recognition-technology-schools-p70v0mx1"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 39
+    images:
+      - url: "https://cdn.newsday.com/ace/c:NmFhYmM4OWUtZjFiOC00:ODAxNmQ4/landscape/1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Woman's Expulsion From Radio City Renews Call For Facial Recognition Ban"
+    excerpt: "Madison Square Garden Entertainment's use of facial-recognition technology is spurring new controversy this week, in the wake of news that Radio City Music Hall denied admittance to a lawyer who was attempting to take her daughter to a Rockettes performance."
+    publishedDateTime: 2022-12-21T21:16:00Z
+    webUrl: "https://www.mediapost.com/publications/article/380902/womans-expulsion-from-radio-city-renews-call-for.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 38
+    images:
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2022/12/21/shutterstock_612316997_hKqcKZx.jpg"
+        width: 600
+        height: 375
+        isCached: true
+  - title: "Madison Square Garden Using Facial Recognition Technology To Kick Out Legal Adversaries"
+    excerpt: "In recent months, Madison Square Garden and its affiliated venues have used facial recognition technology to remove multiple lawyers from the premises because they’re employed by firms in active litigation against MSG."
+    publishedDateTime: 2022-12-21T21:03:00Z
+    webUrl: "https://www.stereogum.com/2209007/madison-square-garden-using-facial-recognition-technology-to-kick-out-legal-adversaries/news/"
+    type: article
+    provider:
+      name: Stereogum
+      domain: stereogum.com
+    quality: 31
+    images:
+      - url: "https://static.stereogum.com/uploads/2022/12/GettyImages-1447005870-1671656449-scaled.jpg"
+        width: 2560
+        height: 1790
+        isCached: true
+  - title: "Facial recognition technology may soon come to LI schools. Will it keep students safe or invade their privacy?"
+    excerpt: "Two state agencies are looking into the use of the surveillance system that opponents say invades privacy and proponents say helps to keep students safe."
+    publishedDateTime: 2022-12-22T19:41:00Z
+    webUrl: "https://www.newsday.com/long-island/facial-recognition-technology-schools-p70v0mx1"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 19
+    images:
+      - url: "https://cdn.newsday.com/ace/c:NmFhYmM4OWUtZjFiOC00:ODAxNmQ4/landscape/1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "N/XRpHs4D8jj2fN6psXGvrUczt3SXghVuwMCDo0o9N4kHfcwZoQtOGE5+OPKdQ2QquaL12c5dUa3cHrSJNeQ8707XD4Pm2LJtJACUKHV7DlYPEMcdOAo4sXvcvUNAgD3nGyeO8geTIoRvJuy3vpAQxozGVsXPVStZ3/qhVwCsDI36H0Et3T6RybRqVN7FcCDlHQ50QJkeAQv6DYdIIqLWZgG7g//nE0lDTtS/lRSzKGMLrxU/Ptcm4kBDA0HA5NMFjo1/C3cdtn/S4DSpv89g99acpyVGGpQoqath6dEY0WsO88hJQ10DnQUobcPx26MVl30I+92UTJ+YAOPGazzwMc8WZRzMZtBa4NvHPcFE2A=;v1wMSo0a5znzy+qWL37DHw=="
 ---

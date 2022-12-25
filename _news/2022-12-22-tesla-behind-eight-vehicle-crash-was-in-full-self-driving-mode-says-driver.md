@@ -269,6 +269,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 31
+  - title: "Tesla driver blames eight-car pileup on Full Self-Driving"
+    excerpt: "According to a California Highway Patrol accident report obtained by CNN Business, Tesla’s Full Self-Driving software caused an eight-car pileup in the San Francisco Bay Area in November. The driver of the vehicle responsible for the accident told authorities that the car braked unexpectedly,"
+    publishedDateTime: 2022-12-22T19:46:00Z
+    webUrl: "https://bgr.com/lifestyle/tesla-driver-blames-eight-car-pileup-on-full-self-driving/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 19
   - title: "Tesla Driver Who Caused Eight-Car Pileup Blames Full Self-Driving Mode Malfunction"
     excerpt: "The Tesla performed a dangerous maneuvre on the highway causing an accident at the San Fransisco Bay bridge on Thanksgiving"
     publishedDateTime: 2022-12-22T21:00:00Z

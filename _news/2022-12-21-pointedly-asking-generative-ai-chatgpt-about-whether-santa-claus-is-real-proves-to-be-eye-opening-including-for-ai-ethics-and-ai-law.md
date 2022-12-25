@@ -157,6 +157,15 @@ related:
         width: 550
         height: 430
         isCached: true
+  - title: "Merlin AI, the Evolution of ChatGPT is Now a Freestanding Mobile App"
+    excerpt: "Dogtown Media has released Merlin AI on the iTunes and GooglePlay App Stores. Merlin AI is an advanced chatbot powered by ChatGTP. Utilizing Natural language processing, knowledge graphs, conversational AI,"
+    publishedDateTime: 2022-12-23T12:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/p30185640/merlin-ai-the-evolution-of-chatgpt-is-now-a-freestanding-mobile-app"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
   - title: "The Architecture Trends of 2023 According to ChatGPT, an AI-trained Model Bot"
     excerpt: "As a symbol of what AI could achieve in the short term for architecture and humankind, we have 'talked' with OpenGPT about the architecture trends of 2023."
     publishedDateTime: 2022-12-21T13:01:00Z
