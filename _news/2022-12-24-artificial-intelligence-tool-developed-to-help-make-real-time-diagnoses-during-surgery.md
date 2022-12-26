@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-12-artificial-intelligence-tool-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.amp"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Medical Xpress
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Tool To Help Make Real Time Diagnosis During Surgery, Says Study"
+    excerpt: "The researchers then created a deep-learning model that can translate between frozen sections and more commonly used FFPE tissue."
+    publishedDateTime: 2022-12-26T09:27:00Z
+    webUrl: "https://www.ndtv.com/feature/artificial-intelligence-tool-to-help-make-real-time-diagnosis-during-surgery-says-study-3639048"
+    ampWebUrl: "https://www.ndtv.com/feature/artificial-intelligence-tool-to-help-make-real-time-diagnosis-during-surgery-says-study-3639048/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/artificial-intelligence-tool-to-help-make-real-time-diagnosis-during-surgery-says-study-3639048/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 50
+    images:
+      - url: "https://c.ndtvimg.com/2022-12/0eclt3g8_ai-tool-to-help-make-real-time-diagnosis-during-surgery-says-study_625x300_26_December_22.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Researchers discover Artificial intelligence tool that helps in cancer surgery"
     excerpt: "The surgical procedure is frequently not predetermined when a patient has surgery to remove a tumour or treat an illness The margins of a tumour its stage an"
     publishedDateTime: 2022-12-23T22:33:00Z

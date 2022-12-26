@@ -41,6 +41,22 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "Artificial Intelligence Tool To Help Make Real Time Diagnosis During Surgery, Says Study"
+    excerpt: "The researchers then created a deep-learning model that can translate between frozen sections and more commonly used FFPE tissue."
+    publishedDateTime: 2022-12-26T09:27:00Z
+    webUrl: "https://www.ndtv.com/feature/artificial-intelligence-tool-to-help-make-real-time-diagnosis-during-surgery-says-study-3639048"
+    ampWebUrl: "https://www.ndtv.com/feature/artificial-intelligence-tool-to-help-make-real-time-diagnosis-during-surgery-says-study-3639048/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/artificial-intelligence-tool-to-help-make-real-time-diagnosis-during-surgery-says-study-3639048/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 50
+    images:
+      - url: "https://c.ndtvimg.com/2022-12/0eclt3g8_ai-tool-to-help-make-real-time-diagnosis-during-surgery-says-study_625x300_26_December_22.jpg"
+        width: 650
+        height: 400
+        isCached: true
 
 secured: "K3Nm1TrWfWGN+MuXeER2CEIuMStVswrnUMZSHSblzzn1rLsdPuXEe8yNR6sGAKP3ANyslb5nNetWWorErzVYEHarrtN/tIkm801ZvDlC651q3s3GncKu0WdOlpfjKRcMT3dCf7cEfvzqD2LX5v5SUPdnT82UJw/Rtq2GKJaSL4fVBOUx9jMgrc735whHYkaqq7iUD09soUNOgN879kOjotgDMIaxJ7HcuAcZ3hjrVE4HPfvX5ovn3F+9KdGInOj+OVBwb2IcJ0/11nLpXUt7eW1DGyOh0+w9uQeGGRhX533hRfwv+gp0H5LSik3q4DbLFL8y9Xx/t1p2BCAMaClwMy4rAN65chyIfMYMFEpoyd/H8K5gpRuEbQ5eRQ6QHxK/UP5qom1LDBlsYBzAv4IuKj/QBIVoFPTq7xjJhDJE/M98gLXIHGr1OzPFzSX/tmwfeXIqq0clgYfKhMNJfyKcFvbVQw1Yl0+paOnRMfVImprdRMV6nvFIYFeda4xrnPTpbXsqtfjBfSQGfQupaV0LGw==;nYXU5g9cLHfJXy4f9vGvmA=="
 ---

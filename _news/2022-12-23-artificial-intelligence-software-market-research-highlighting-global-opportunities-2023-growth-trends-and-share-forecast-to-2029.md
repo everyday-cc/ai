@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision Market : Competitive Strategy Analysis and Forecast Values 2022-2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Computer"
-    publishedDateTime: 2022-12-22T04:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-competitive-strategy-analysis-and-forecast-values-2022-2028-2022-12-22"
+  - title: "Forecast 2028 for the Machine Learning in Finance Market in terms of size, returns, gross margin, and market share"
+    excerpt: "The major players covered in the Machine Learning in Finance market report are: Get a sample copy of the Machine Learning in Finance Market report 2023 The value of machine learning in finance is becoming more apparent by the day."
+    publishedDateTime: 2022-12-26T04:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-machine-learning-in-finance-market-in-terms-of-size-returns-gross-margin-and-market-share-2022-12-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
