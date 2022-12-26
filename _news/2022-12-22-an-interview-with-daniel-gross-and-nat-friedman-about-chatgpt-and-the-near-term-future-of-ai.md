@@ -83,22 +83,6 @@ related:
         width: 1063
         height: 609
         isCached: true
-  - title: "OpenAI’s ChatGPT to LaMDA as ‘sentient’: How AI captured the tech conversation in 2022"
-    excerpt: "AI Chatbots like ChatGPT took the world by surprise with their ability to generate extremely human-like responses to queries, while image generative models like DALL-E showed that AI will soon generate art."
-    publishedDateTime: 2022-12-21T10:40:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/yearender-ai-2022-openai-dalle-chatgpt-lamda-sentient-deepmind-8330036/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/yearender-ai-2022-openai-dalle-chatgpt-lamda-sentient-deepmind-8330036/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/yearender-ai-2022-openai-dalle-chatgpt-lamda-sentient-deepmind-8330036/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 51
-    images:
-      - url: "https://images.indianexpress.com/2022/12/ai-2022-yearender.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Quora launches Poe, a way to talk to AI chatbots like ChatGPT"
     excerpt: "At launch, Poe provides access to several text-generating AI models, including ChatGPT. (OpenAI doesn’t presently offer a public API for ChatGPT; the Quora spokesperson refused"
     publishedDateTime: 2022-12-21T19:43:00Z

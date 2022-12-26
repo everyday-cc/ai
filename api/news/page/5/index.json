@@ -2,6 +2,60 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-12-18-artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028.md",
+      "title": "Artificial Intelligence In Healthcare Service Market 2023 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2028",
+      "excerpt": "\" Artificial Intelligence In Healthcare Service Market \" Insights 2022 - By Applications (Patient Data and Risk Analysis, Lifestyle Management and Monitoring, Precision Medicine, In-Patient Care and Hospital Management,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-17T18:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-18-ai-art-death-of-creative-industry-or-its-savior.md",
       "title": "AI art: Death of creative industry, or its savior?",
       "excerpt": "The next stage of evolution for AI art will leverage the entirety of inspiration on tap — rather than just creative auto filling.",
@@ -189,6 +243,49 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-17-boston-startups-search-engine-uses-ai-to-make-dense-research-more-accessible.md",
+      "title": "Boston startup’s search engine uses AI to make dense research more accessible",
+      "excerpt": "Seattle’s Allen Institute for AI has operated Semantic Scholar, a website that summarizes the contents of academic research papers. And in mid-November, tech titan Meta, the parent of Facebook ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2022/12/11/business/boston-startups-search-engine-uses-ai-make-dense-research-more-accessible/",
+      "originalUrl": "https://www.bostonglobe.com/2022/12/11/business/boston-startups-search-engine-uses-ai-make-dense-research-more-accessible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/iN4c1Z23Z14GbbfM9Ponw6YDAQw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/PEYHDJJQLZSQ6GCIZKNW5B4EQA.jpg",
+          "width": 506,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-17T00:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     },
     {
@@ -1077,100 +1174,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-zoho-desk-redefining-the-customer-experience-with-ai.md",
-      "title": "Zoho Desk – Redefining The Customer Experience With AI",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as he covers new capabilities announced by Zoho, including a new feature called Blended Conversations, which seamlessly combines the capabilities of bot-powered self-service and human-driven conversational service capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/12/16/zoho-desk--redefining-the-customer-experience-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/12/16/zoho-desk--redefining-the-customer-experience-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639c8275d2a4ad563b8cea7f/0x0.jpg?format=jpg&crop=1080,607,x0,y32,safe&width=1200",
-          "width": 1080,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/12/16/zoho-desk--redefining-the-customer-experience-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/12/16/zoho-desk--redefining-the-customer-experience-with-ai/amp/",
-      "publishedDateTime": "2022-12-16T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud.md",
-      "title": "Tesla reportedly claims its failure to deliver self-driving cars isn’t fraud",
-      "excerpt": "Tesla has come under fire once again for its controversially named Full Self-Driving driver-assist feature. Despite what the name alludes to, FSD doesn’t enable a car to drive on its own.",
-      "sourceUrl": null,
-      "webUrl": "https://fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/",
-      "originalUrl": "https://fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox8.com/wp-content/uploads/sites/12/2022/12/2022-tesla-model-3_100827310_m.jpg?w=1280",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/amp/",
-      "cdnAmpWebUrl": "https://fox8-com.cdn.ampproject.org/c/s/fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/amp/",
-      "publishedDateTime": "2022-12-16T05:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX8 Cleveland",
-        "domain": "fox8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

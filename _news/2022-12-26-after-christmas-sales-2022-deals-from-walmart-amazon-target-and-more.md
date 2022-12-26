@@ -1,44 +1,35 @@
 ---
 category: news
-title: "AI robot tackles tough topics in Channel 4’s Alternative Christmas Message"
-excerpt: "One of the world’s most advanced robots has tackled subjects such as the war in Ukraine, the death of the Queen and climate change in Channel 4’s Alternative Christmas Message. The broadcast, which ran after the King’s annual Christmas speech at 3pm,"
-publishedDateTime: 2022-12-25T20:35:00Z
-originalUrl: "https://www.aol.com/ai-robot-tackles-tough-topics-213531848.html"
-webUrl: "https://www.aol.com/ai-robot-tackles-tough-topics-213531848.html"
+title: "After-Christmas sales 2022: deals from Walmart, Amazon, Target and more"
+excerpt: "It's almost December 26, which means after-Christmas sales are live with fantastic deals from retailers like Amazon, Best Buy, and Walmart on everything from tech, kitchen appliances, fitness equipment,"
+publishedDateTime: 2022-12-26T01:55:00Z
+originalUrl: "https://www.techradar.com/news/best-christmas-sales-after-christmas-sales"
+webUrl: "https://www.techradar.com/news/best-christmas-sales-after-christmas-sales"
 type: article
-quality: 52
-heat: -1
-published: false
+quality: 71
+heat: 111
+published: true
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
+  - AI in Sales
 
 images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/yqKrwrIq3DuryytZNr4N4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/633790446e36ab52b948842946bb8b89"
+  - url: "https://cdn.mos.cms.futurecdn.net/xfn57PvxFDe2EEnJcAobTC-1200-80.jpg"
     width: 1200
     height: 675
     isCached: true
 
 related:
-  - title: "After-Christmas sales 2022: deals from Walmart, Amazon, Target and more"
-    excerpt: "It's almost December 26, which means after-Christmas sales are live with fantastic deals from retailers like Amazon, Best Buy, and Walmart on everything from tech, kitchen appliances, fitness equipment,"
-    publishedDateTime: 2022-12-26T01:55:00Z
-    webUrl: "https://www.techradar.com/news/best-christmas-sales-after-christmas-sales"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 71
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xfn57PvxFDe2EEnJcAobTC-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Channel 4 alternative Christmas message by AI robot from Cornwall"
     excerpt: "Channel 4’s alternative Christmas message will this year be generated entirely by artificial intelligence, thanks to a Cornish company. The message will be delivered by Ameca, one of the world’s most advanced robots,"
     publishedDateTime: 2022-12-25T05:00:00Z
@@ -69,6 +60,20 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "AI robot tackles tough topics in Channel 4’s Alternative Christmas Message"
+    excerpt: "One of the world’s most advanced robots has tackled subjects such as the war in Ukraine, the death of the Queen and climate change in Channel 4’s Alternative Christmas Message. The broadcast, which ran after the King’s annual Christmas speech at 3pm,"
+    publishedDateTime: 2022-12-25T20:35:00Z
+    webUrl: "https://www.aol.com/ai-robot-tackles-tough-topics-213531848.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 52
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/yqKrwrIq3DuryytZNr4N4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/633790446e36ab52b948842946bb8b89"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mom Booted From Christmas Show Due To Facial Recognition"
     excerpt: "Digital rights advocates on Tuesday called for a ban on private use of biometric surveillance technology after a mom taking her daughter to see a Christmas show in New York City was kicked out of the theater after its facial recognition system identified her as an employee of a law firm involved in legal proceedings against the venue's operator."
     publishedDateTime: 2022-12-21T15:48:00Z
@@ -84,6 +89,6 @@ related:
         height: 318
         isCached: true
 
-secured: "UOSL3Ozm7/AFCvPG1FXomtIJY41WeKuIbZIESTXiwhrUM67wvJNmQmPAj8kF6OycPyy80rnQWzeTEUqCfGZ2wNAfg1tllfKt0EuAB1+t0ANDMOXZePYls2ILvWVbODKfqrsfc/y7UZuL1rVdchytlGMe43VdEyzeb/hbswwr5GeZJZ8EhOblvEJkzRTF6MnU/tcM83kGET9CPzTKQbqUM3ExhoMw01I533v0alfjrBxtiz0YkP/JU5UDkuUdrcVh2lYZjV+aRv76YYwqzMbBlmVSmwhjB5XQg1H629PTcvUlt3L3fdY3KCHiK195jqW6oCYz3l69klD2epEL9ONdBKYmpnj2ETKFuzLUE7cmcHWyuXWsx12h7VA3xN93Z3T4XhDT5g+d5sfgCyKV64BakpS7dVIxOT/0dISuCwXFDxu4DFRNtINU0KLDmQ3sp7ZDiSrveod/GM9i8Xc3cPHC5XQAg//Vp0xHaT9XAT4EadkdQGoJa1cve4A0obMWK0i8tE/LCjXhckz9PxAxxXqqOQ==;+rm36mqdgJvAJ3wNlN8kGw=="
+secured: "JvhJJoZuqahHOs5dWLyGrXszA8gAyJMtUAhd8t5WpEGUVrEVP7HtPMfdlOdQOwXH3xXka/FhKbjeQsr9LYiAEh9SzKeDW6sB5rShuREyvF2XUTmwFd+rSYLJMdQ3NmSoK4eAEHcWt4/opcRrEwpZ8/JgmnuQKv4cf5qVyRSCz4V072bUBysg2xEDJEV6bWhsIX/I79dDlufQOtcH9Y3zcxHz5NXFWJ0te380RBq+qGRF4WL1SOthZFkbYIQmc1wRLGRico/JkgDaSc2jw/Td1UPngsE2hmD3Ow+bFFy9Ltqi6mOWo7R0cjQIE2W2xnoD8ieHeJiTjSiXtcpmJpGIDVCWZPynTOA8ZkqUMU9tTOQ=;bcz9ewp08MX+/D6LLWpztQ=="
 ---
 

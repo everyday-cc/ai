@@ -2,6 +2,144 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2022-11-21-is-ai-art-really-art-this-california-gallery-says-yes.md",
+      "title": "Is AI art really art? This California gallery says yes",
+      "excerpt": "As artificial intelligence becomes increasingly popular for generating images, a question has roiled the art world: Can AI create art? At bitforms gallery in San Francisco, the answer is yes.",
+      "sourceUrl": null,
+      "webUrl": "https://localnews8.com/entertainment/2022/11/20/is-ai-art-really-art-this-california-gallery-says-yes/",
+      "originalUrl": "https://localnews8.com/entertainment/2022/11/20/is-ai-art-really-art-this-california-gallery-says-yes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://localnews8.b-cdn.net/2022/11/hypatia-h_eddeec5a39f505f7c29f640c14b1998d-h_5443a445c179c9945d1e14bca24f1eb0-300.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-21T02:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local News 8",
+        "domain": "localnews8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-21-meta-to-replace-facebook-news-tabs-human-editors-with-ai.md",
+      "title": "Meta to replace Facebook News tab’s human editors with AI",
+      "excerpt": "Meta plans to end human curation of the UK Facebook News tab ... is already curated by artificial intelligence. From early 2023, the entire tab will be AI-generated. Meta informed publishers ...",
+      "sourceUrl": null,
+      "webUrl": "https://pressgazette.co.uk/news/facebook-news-tab-uk-automated/",
+      "originalUrl": "https://pressgazette.co.uk/news/facebook-news-tab-uk-automated/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/10/GettyImages-1201476988-scaled-e1666003822588.jpg",
+          "width": 2124,
+          "height": 1592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-21T02:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Press Gazette",
+        "domain": "pressgazette.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-21-ambient-computing-is-at-the-heart-of-the-frictionless-economy.md",
+      "title": "Ambient Computing Is At The Heart Of The Frictionless Economy",
+      "excerpt": "The aim is to remove the friction in using technology and, in particular, to help users move away from screens and scanning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632dbbaa69b953ca837d2c1f/0x0.jpg?format=jpg&crop=5700,3206,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/amp/",
+      "publishedDateTime": "2022-11-21T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-21-speech-and-voice-recognition-technology-market-global-industry-analysis-size-share-growth-trends-and-forecast-2022-2028.md",
       "title": "Speech and Voice Recognition Technology Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028",
       "excerpt": "The market research report revolves around the increased awareness of environmental safety because of which the \" Speech and Voice Recognition Technology market \" is growing. The positive attitude of society towards environmental safety is generating the need for the existence of the Speech and Voice Recognition Technology market.",
@@ -1008,145 +1146,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-20-nvidia-microsoft-to-create-artificial-intelligence-supercomputer.md",
-      "title": "Nvidia, Microsoft to create artificial intelligence supercomputer",
-      "excerpt": "A \"multi-year collaboration\" between Nvidia and Microsoft is underway to create \"one of the most powerful AI supercomputers in the world,\" which will be",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211",
-      "originalUrl": "https://www.albawaba.com/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2022-11/shutterstock_1819606709.jpg?itok=ER5-7BLd",
-          "width": 5120,
-          "height": 2880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211",
-      "publishedDateTime": "2022-11-19T21:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-20-robustel-5g-iot-edge-computing-gateway-certified-by-microsoft-azure-and-amazon-web-services-aws.md",
-      "title": "Robustel 5G IoT EDGE Computing Gateway certified by Microsoft Azure and Amazon Web Services (AWS)",
-      "excerpt": "Robustel's latest IoT device the EG5120 5G Edge Computing Gateway is now listed in the Microsoft Azure certified device catalogue and also Amazon Web Services (AWS) IoT Greengrass. The EG5120 helps to seamlessly extend Azure & AWS based IoT cloud services and intelligence to the network edge,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-robustel-5g-iot-edge-computing-gateway-certified-microsoft-/2022/11/20/9717214.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-robustel-5g-iot-edge-computing-gateway-certified-microsoft-/2022/11/20/9717214.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1951114/EG5120_5G_Edge_Computing_Gateway.jpg",
-          "width": 400,
-          "height": 222,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-19T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-20-why-employee-recognition-is-more-crucial-than-ever.md",
-      "title": "Why Employee Recognition Is More Crucial Than Ever",
-      "excerpt": "Employee recognition has never mattered more than in today’s workplace. That’s because employees want to feel valued—especially in the context of remote working. And when they don’t ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carolinecastrillon/2022/11/20/why-employee-recognition-is-more-crucial-than-ever/",
-      "originalUrl": "https://www.forbes.com/sites/carolinecastrillon/2022/11/20/why-employee-recognition-is-more-crucial-than-ever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62602bba96f40df576fc46ac/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carolinecastrillon/2022/11/20/why-employee-recognition-is-more-crucial-than-ever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecastrillon/2022/11/20/why-employee-recognition-is-more-crucial-than-ever/amp/",
-      "publishedDateTime": "2022-11-19T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,156 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-11-05-the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most.md",
+      "title": "The people building artificial intelligence are the ones who need AI the most",
+      "excerpt": "There are many interesting use cases for artificial intelligence, from drug discovery to autonomous transportation. But the people seeing the most benefits from AI technologies to date are technologists themselves -- automating their operations and quality assurance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
+      "originalUrl": "https://www.zdnet.com/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/f2eb08abcc537ab2c2cd05be0d550ff349979f8d/2022/06/13/3b1b1376-bf08-4644-9d9f-ce95d7763287/4-ways-to-start-using-artificial-intelligence-ai-in-your-business.jpg?auto=webp&width=768",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
+      "publishedDateTime": "2022-11-04T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI Hardware",
+        "IBM AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-robotics-engineering-week-to-address-critical-development-issues.md",
+      "title": "Robotics Engineering Week to address critical development issues",
+      "excerpt": "Robotics Engineering Week's sessions are focused on critical topics for robotics and automation professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/robotics-engineering-week-to-address-critical-development-issues/",
+      "originalUrl": "https://www.therobotreport.com/robotics-engineering-week-to-address-critical-development-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/11/featured-web-robotics-engineering-week.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures.md",
+      "title": "How code-generating AI (code LLMs) is creating new challenges as it matures",
+      "excerpt": "As code LLMs mature, we’re beginning to discover the challenges they must overcome, including licensing, transparency, security and control.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures/",
+      "originalUrl": "https://venturebeat.com/ai/how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1147087236-e1667580334849.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures/amp/",
+      "publishedDateTime": "2022-11-04T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-robot-with-brain-near-cheltenham-sorting-plastic-waste.md",
       "title": "Robot with 'brain' near Cheltenham sorting plastic waste",
       "excerpt": "\"But where we can really see robotic sorters making a difference is in environments which are less well suited for humans, such as the sorting of contaminated waste or working in",
@@ -993,126 +1143,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-more-than-300-industry-leaders-and-researchers-will-speak-this-month-at-weavesphere-canadas-preeminent-technology-innovation-conference.md",
-      "title": "More than 300 industry leaders and researchers will speak this month at WeaveSphere, Canada’s preeminent technology innovation conference",
-      "excerpt": "Keynote speakers include Dr. William Barry, an artificial intelligence (AI ... Marcel Mitran, IBM Fellow, IBM Master Inventor and the CTO for Cloud Platform for zSystems and LinuxONE, will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswire.ca/news-releases/ibm-canada-announces-robots-ai-avatars-and-more-than-300-industry-leaders-and-researchers-will-speak-this-month-at-weavesphere-canada-s-preeminent-technology-innovation-conference-888336195.html",
-      "originalUrl": "https://www.newswire.ca/news-releases/ibm-canada-announces-robots-ai-avatars-and-more-than-300-industry-leaders-and-researchers-will-speak-this-month-at-weavesphere-canada-s-preeminent-technology-innovation-conference-888336195.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T17:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire",
-        "domain": "newswire.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-abarth-uses-facial-recognition-tech-to-analyze-emotions-of-drivers-and-passengers.md",
-      "title": "Abarth Uses Facial Recognition Tech To Analyze Emotions Of Drivers And Passengers",
-      "excerpt": "Abarth has started trialing facial recognition technology to better understand the emotions that drivers and passengers experience in its cars. The car manufacturer partnered with Loughborough University for the project, sending participants out in an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/",
-      "originalUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2022/11/Abarth-Study-3.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/amp/",
-      "publishedDateTime": "2022-11-03T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-amd-unveils-new-radeon-rx-7900-xtx-gpu-with-rdna-3-to-take-on-nvidia-rtx-4000.md",
-      "title": "AMD unveils new Radeon RX 7900 XTX GPU with RDNA 3 to take on Nvidia RTX 4000",
-      "excerpt": "In addition to powering AMD's PC graphics cards, the company's GPU cores are also found on consoles ... that shares resources between rendering AI and ray tracing to make most effective use ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/hardware/computers-desktops/amd-unveils-new-radeon-rx-7000-gpu-with-rdna-3-to-take-on-nvidia-rtx-4000",
-      "originalUrl": "https://www.windowscentral.com/hardware/computers-desktops/amd-unveils-new-radeon-rx-7000-gpu-with-rdna-3-to-take-on-nvidia-rtx-4000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/eeVCzAfsfXxWK6Gxzp9JHo-1200-80.jpg",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T15:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

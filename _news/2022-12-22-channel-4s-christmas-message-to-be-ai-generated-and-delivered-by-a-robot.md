@@ -39,50 +39,6 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "Channel 4 alternative Christmas message by AI robot from Cornwall"
-    excerpt: "Channel 4’s alternative Christmas message will this year be generated entirely by artificial intelligence, thanks to a Cornish company. The message will be delivered by Ameca, one of the world’s most advanced robots,"
-    publishedDateTime: 2022-12-25T05:00:00Z
-    webUrl: "https://www.falmouthpacket.co.uk/news/23211842.channel-4-alternative-christmas-message-ai-robot-cornwall/"
-    type: article
-    provider:
-      name: Packet Newspapers
-      domain: falmouthpacket.co.uk
-    quality: 54
-    images:
-      - url: "https://www.falmouthpacket.co.uk/resources/images/16298615/?type=og-image"
-        width: 945
-        height: 630
-        isCached: true
-  - title: "How to watch Channel 4’s Alternative Christmas Message from artificial intelligence"
-    excerpt: "This year's Channel 4 Alternative Christmas Message will be generated entirely by artificial intelligence. The broadcast, which will air at the same time as the traditional King's Speech on the BBC and ITV,"
-    publishedDateTime: 2022-12-22T00:02:00Z
-    webUrl: "https://www.radiotimes.com/tv/alternative-christmas-message-channel-4-watch/"
-    ampWebUrl: "https://www.radiotimes.com/tv/alternative-christmas-message-channel-4-watch/amp/"
-    cdnAmpWebUrl: "https://www-radiotimes-com.cdn.ampproject.org/c/s/www.radiotimes.com/tv/alternative-christmas-message-channel-4-watch/amp/"
-    type: article
-    provider:
-      name: Radio Times
-      domain: radiotimes.com
-    quality: 53
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/3/2022/12/The-Alternative-Christmas-Message-2022-614ab28.jpg?quality=90&resize=620,413"
-        width: 620
-        height: 413
-        isCached: true
-  - title: "AI robot tackles tough topics in Channel 4’s Alternative Christmas Message"
-    excerpt: "One of the world’s most advanced robots has tackled subjects such as the war in Ukraine, the death of the Queen and climate change in Channel 4’s Alternative Christmas Message. The broadcast, which ran after the King’s annual Christmas speech at 3pm,"
-    publishedDateTime: 2022-12-25T20:35:00Z
-    webUrl: "https://www.aol.com/ai-robot-tackles-tough-topics-213531848.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 52
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/yqKrwrIq3DuryytZNr4N4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/633790446e36ab52b948842946bb8b89"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI robot calls out bigotry, war and inaction over climate change in Channel 4’s Alternative Christmas Message"
     excerpt: "The robot also warned that he did not particularly like humans, in a message that ranged from football to the war in Ukraine"
     publishedDateTime: 2022-12-25T17:28:00Z

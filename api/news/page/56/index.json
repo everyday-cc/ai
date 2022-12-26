@@ -2,6 +2,155 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-11-09-artificial-intelligence-ai-takes-a-role-in-uspto-patent-searches.md",
+      "title": "Artificial Intelligence (AI) Takes a Role in USPTO Patent Searches",
+      "excerpt": "In 2021 the U.S. Patent and Trademark Office (USPTO) developed an Artificial Intelligence (AI) based prototype search system for use by examiners during examination of patent applications. A",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches",
+      "originalUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches?amp",
+      "publishedDateTime": "2022-11-08T15:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-introduction-to-machine-learning-for-marketing.md",
+      "title": "Introduction To Machine Learning For Marketing",
+      "excerpt": "Machine learning has been inducted into various domains for automation and insights. It has helped businesses grow by aiding decision-making based on data. Organizations create and deploy machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2022/11/08/introduction-to-machine-learning-for-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2022/11/08/introduction-to-machine-learning-for-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63690fe14a7cd7210342ae53/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2022/11/08/introduction-to-machine-learning-for-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/11/08/introduction-to-machine-learning-for-marketing/amp/",
+      "publishedDateTime": "2022-11-08T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-google-and-renault-are-creating-a-software-defined-vehicle.md",
+      "title": "Google and Renault are creating a 'software defined vehicle'",
+      "excerpt": "Google partnered with Renault Group to bring Android-powered infotainment systems to cars. The two companies are now building on this partnership to design and deliver the digital architecture for a more complex concept,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-and-renault-are-creating-a-software-defined-vehicle/",
+      "originalUrl": "https://www.zdnet.com/article/google-and-renault-are-creating-a-software-defined-vehicle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a1ed710e73713aed5efb0ac9d693389b2af75905/2022/11/08/dcf2798d-ce78-4063-b61c-edac98daf4e2/cars-in-traffic-with-tech.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-and-renault-are-creating-a-software-defined-vehicle/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-and-renault-are-creating-a-software-defined-vehicle/",
+      "publishedDateTime": "2022-11-08T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-in-the-age-of-artificial-intelligence-human-skills-are-needed-more-than-ever.md",
       "title": "In the age of artificial intelligence, human skills are needed more than ever",
       "excerpt": "Alan Turing, widely considered to be the father of theoretical computer science and artificial intelligence, reportedly said that “once the machine thinking method had started, it would not take ...",
@@ -1010,126 +1159,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-impak-ratings-buys-exerica.md",
-      "title": "impak Ratings Buys Exerica",
-      "excerpt": "UK-based fintech AI company. The amount of the deal was undisclosed. With the acquisition, impak Ratings will expand its AI capabilities, and its market positioning in Europe. Led by CEO Maxim ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2022/11/impak-ratings-buys-exerica.html",
-      "originalUrl": "https://www.finsmes.com/2022/11/impak-ratings-buys-exerica.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T13:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-kami-vision-unveils-worlds-first-fall-detection-assistance-system-with-ai-to-help-54-million-us-seniors-age-in-place.md",
-      "title": "Kami Vision Unveils World's First Fall Detection & Assistance System with AI to Help 54 Million U.S. Seniors Age-In-Place",
-      "excerpt": "On the heels of its successful General Availability launch of KamiCare, an artificial intelligence (AI) fall management solution for senior living communities, Kami Vision has announced Fall Detect by KamiCare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-unveils-worlds-first-fall-detection-assistance-system-with-ai-to-help-54-million/article_cb0f61f9-31c1-50e2-9e52-aeb32d292357.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-unveils-worlds-first-fall-detection-assistance-system-with-ai-to-help-54-million/article_cb0f61f9-31c1-50e2-9e52-aeb32d292357.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/f/cc/fccec21e-85c9-57d3-87f1-a92213eda6ca/636976b40edaf.image.jpg?resize=271%2C500",
-          "width": 271,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-lantern-pharma-reports-third-quarter-2022-financial-results-and-operational-highlights.md",
-      "title": "Lantern Pharma Reports Third Quarter 2022 Financial Results and Operational Highlights",
-      "excerpt": "Lantern Pharma Inc. (NASDAQ: LTRN), a clinical stage biopharmaceutical company using its proprietary RADR ® artificial intelligence (“A.I.”) and machine learning (“M.L.”) platform to transform the cost,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/nhl-technology-health-sports-artificial-intelligence-058172d209f545d0b650a0690d880a89",
-      "originalUrl": "https://apnews.com/article/nhl-technology-health-sports-artificial-intelligence-058172d209f545d0b650a0690d880a89",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T13:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

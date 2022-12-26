@@ -25,59 +25,64 @@ images:
     isCached: true
 
 related:
-  - title: "MSG Allegedly Used Facial Recognition to Remove Rival Attorney From Rockettes Show"
-    excerpt: "A privacy expert told Gizmodo this was one of the first instances of a private firm using facial recognition to retaliate against an opposing lawyer."
-    publishedDateTime: 2022-12-21T18:16:00Z
-    webUrl: "https://gizmodo.com/mgs-facial-recognition-msg-rockettes-show-1849919528"
+  - title: "After-Christmas sales 2022: deals from Walmart, Amazon, Target and more"
+    excerpt: "It's almost December 26, which means after-Christmas sales are live with fantastic deals from retailers like Amazon, Best Buy, and Walmart on everything from tech, kitchen appliances, fitness equipment,"
+    publishedDateTime: 2022-12-26T01:55:00Z
+    webUrl: "https://www.techradar.com/news/best-christmas-sales-after-christmas-sales"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 63
+      name: TechRadar
+      domain: techradar.com
+    quality: 71
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ed4e62703fb59872a94cd9d96d70476a.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/xfn57PvxFDe2EEnJcAobTC-1200-80.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Facial recognition bars lawyer from Girl Scout trip to Rockettes Christmas show"
-    excerpt: "Kelly Conlon was blocked because her New York firm is involved in a personal injury claim against operator of Radio City Music Hall"
-    publishedDateTime: 2022-12-21T14:14:00Z
-    webUrl: "https://www.theguardian.com/us-news/2022/dec/21/facial-recognition-bars-lawyer-rockettes-show"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2022/dec/21/facial-recognition-bars-lawyer-rockettes-show"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2022/dec/21/facial-recognition-bars-lawyer-rockettes-show"
+  - title: "Channel 4 alternative Christmas message by AI robot from Cornwall"
+    excerpt: "Channel 4’s alternative Christmas message will this year be generated entirely by artificial intelligence, thanks to a Cornish company. The message will be delivered by Ameca, one of the world’s most advanced robots,"
+    publishedDateTime: 2022-12-25T05:00:00Z
+    webUrl: "https://www.falmouthpacket.co.uk/news/23211842.channel-4-alternative-christmas-message-ai-robot-cornwall/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
+      name: Packet Newspapers
+      domain: falmouthpacket.co.uk
+    quality: 54
     images:
-      - url: "https://i.guim.co.uk/img/media/f13351e3b34cd07127cb1d600515f3099ef1dcce/0_224_5561_3337/master/5561.jpg?width=620&quality=85&auto=format&fit=max&s=eb364069bcbcad2f4df2fcec6c3a065c"
+      - url: "https://www.falmouthpacket.co.uk/resources/images/16298615/?type=og-image"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "How to watch Channel 4’s Alternative Christmas Message from artificial intelligence"
+    excerpt: "This year's Channel 4 Alternative Christmas Message will be generated entirely by artificial intelligence. The broadcast, which will air at the same time as the traditional King's Speech on the BBC and ITV,"
+    publishedDateTime: 2022-12-22T00:02:00Z
+    webUrl: "https://www.radiotimes.com/tv/alternative-christmas-message-channel-4-watch/"
+    ampWebUrl: "https://www.radiotimes.com/tv/alternative-christmas-message-channel-4-watch/amp/"
+    cdnAmpWebUrl: "https://www-radiotimes-com.cdn.ampproject.org/c/s/www.radiotimes.com/tv/alternative-christmas-message-channel-4-watch/amp/"
+    type: article
+    provider:
+      name: Radio Times
+      domain: radiotimes.com
+    quality: 53
+    images:
+      - url: "https://images.immediate.co.uk/production/volatile/sites/3/2022/12/The-Alternative-Christmas-Message-2022-614ab28.jpg?quality=90&resize=620,413"
         width: 620
-        height: 372
+        height: 413
         isCached: true
-  - title: "Why a Facial Recognition Device Barred This Woman From a Rockettes Show"
-    excerpt: "Kelly Conlon's bizarre experience gives a glimpse into a future with omnipresent facial recognition systems. Last month, Kelly Conlon arrived with her daughter's Girl Scout troop to watch a Rockettes performance at Radio City Music Hall,"
-    publishedDateTime: 2022-12-21T17:46:00Z
-    webUrl: "https://reason.com/2022/12/21/why-a-facial-recognition-device-barred-this-woman-from-a-rockettes-show/"
+  - title: "AI robot tackles tough topics in Channel 4’s Alternative Christmas Message"
+    excerpt: "One of the world’s most advanced robots has tackled subjects such as the war in Ukraine, the death of the Queen and climate change in Channel 4’s Alternative Christmas Message. The broadcast, which ran after the King’s annual Christmas speech at 3pm,"
+    publishedDateTime: 2022-12-25T20:35:00Z
+    webUrl: "https://www.aol.com/ai-robot-tackles-tough-topics-213531848.html"
     type: article
     provider:
-      name: Reason
-      domain: reason.com
-    quality: 39
+      name: AOL
+      domain: aol.com
+    quality: 52
     images:
-      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2022/12/zumaglobaleleven995570-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://s.yimg.com/ny/api/res/1.2/yqKrwrIq3DuryytZNr4N4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/633790446e36ab52b948842946bb8b89"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Girl Scout mom gets kicked out of Rockettes show due to facial recognition technology"
-    excerpt: "One mom was kicked out of a Rockettes performance after facial recognition technology recognized her at Radio City Music Hall. Category : Viral & Trending"
-    publishedDateTime: 2022-12-21T19:50:00Z
-    webUrl: "https://www.mother.ly/news/viral-trending/facial-recognition-technology-rockettes-show/"
-    type: article
-    provider:
-      name: Mother
-      domain: mother.ly
-    quality: 12
 
 secured: "NESE6O3dKtM21WuW2Acg6XsxB0o+D1xiZpbXjaV4oTGSIdGKgJUyUPHerzm7Ow+KA8cKQN/hj6EJ1mKN19fo3XPWoHqMTV15w8fKByptkVtOwTrDIZ6ETgqr3DL5IRCt8U2AyVZ/HPTnJUvgz5+GzuzWsL4S5iBXl/l5xbWFFj1d604U4uxWwZvzCqad88ijlat2Ek5gPMWTDb5jv+wy7s6FkZ4PYTEoIs8Se9p3hPrCiuKtTc0ULeqdnf+MjMp5xRXQmkBpxWLbhVajehZtxovGUrImrLQOo1neAHqgacnjyHVWq/Xeb1rpQ+6VlsXwe0TMRpIWH+zCWBN1cZvBDbzPWVUe9Hd6mmoaaR+M5WPXxxyYBixLFZC+YYEAKSgMesvYb7OmXgp25xvGrYaHCtS/JmdUF/FexbHh/KXsTJNjdhfnD3ga4CGkyAxEMi/zDaME9aKBbjPwx8d/SEn1NoDbxseytOm3v/t0S1/3mp0/Aq0kiBRJ7Zm8NwUKbhUzhUYbDvOOMw+0gb26RL+zKw==;jpqjJOufCIjCpWGBaDqNOg=="
 ---

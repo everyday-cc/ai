@@ -1199,19 +1199,19 @@
     {
       "path": "_news/2022-12-15-the-self-driving-era-is-here-the-question-is-what-comes-next.md",
       "title": "The self-driving era is here, the question is what comes next",
-      "excerpt": "TORONTO - The self-driving era is here, just not the one that was promised. Instead of sleek pods without steering wheels ready to chauffeur buyers off the lot, there are mostly driverless Chevy compacts,",
+      "excerpt": "The self-driving era is here, just not the one that was promised. Instead of sleek pods without steering wheels ready to chauffeur buyers off the lot, there are mostly driverless Chevy compacts, Chrysler minivans,",
       "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html",
-      "originalUrl": "https://www.thestar.com/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html",
+      "webUrl": "https://www.vancouverisawesome.com/national-business/the-self-driving-era-is-here-the-question-is-what-comes-next-6251889",
+      "originalUrl": "https://www.vancouverisawesome.com/national-business/the-self-driving-era-is-here-the-question-is-what-comes-next-6251889",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thestar.com/content/dam/thestar/business/2022/12/21/musk-says-cost-cutting-averted-3-billion-twitter-shortfall/elon_musk.jpg.size.custom.crop.640x360.jpg",
-          "width": 640,
-          "height": 360,
+          "url": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2022/12/2022121317120-3be76c0a0b4890bc2f5acae6192f3e8eda1a918d7c73c85aed489cfeba027b95.jpg;w=650;h=467;mode=crop",
+          "width": 650,
+          "height": 467,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1219,13 +1219,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thestar.com/amp/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-12-15T01:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Toronto Star",
-        "domain": "thestar.com",
+        "name": "Vancouver Is Awesome",
+        "domain": "vancouverisawesome.com",
         "images": null,
         "publishers": null,
         "authors": null

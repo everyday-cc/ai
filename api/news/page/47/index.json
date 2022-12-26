@@ -2,6 +2,152 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2022-11-17-riot-games-and-ubisoft-team-up-on-machine-learning-to-detect-harmful-game-chat.md",
+      "title": "Riot Games and Ubisoft team up on machine learning to detect harmful game chat",
+      "excerpt": "Ubisoft and Riot Games have teamed up to share machine learning data so they can more easily detect harmful chat in multiplayer games.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/riot-games-and-ubisoft-team-up-on-machine-learning-to-detect-harmful-game-chat/",
+      "originalUrl": "https://venturebeat.com/games/riot-games-and-ubisoft-team-up-on-machine-learning-to-detect-harmful-game-chat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/r6s-13.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/riot-games-and-ubisoft-team-up-on-machine-learning-to-detect-harmful-game-chat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/riot-games-and-ubisoft-team-up-on-machine-learning-to-detect-harmful-game-chat/amp/",
+      "publishedDateTime": "2022-11-16T08:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-nauticus-robotics-inc-kitt-q3-2022-earnings-call-transcript.md",
+      "title": "Nauticus Robotics, Inc. (KITT) Q3 2022 Earnings Call Transcript",
+      "excerpt": "Q3 2022 Earnings Conference Call November 14, 2022, 12:00 PM ET Company Participants Jeff Grampp - IR, Gateway Group Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4558475-nauticus-robotics-inc-kitt-q3-2022-earnings-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4558475-nauticus-robotics-inc-kitt-q3-2022-earnings-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-fractal-unveils-interconnected-ai-platform-to-automate-decision-making-for-cpg-manufacturing-and-retail.md",
+      "title": "Fractal unveils interconnected AI platform to automate decision-making for CPG, manufacturing and retail",
+      "excerpt": "Fractal AI has developed an end-to-end AI autonomic decision-making platform, Asper AI, for CPG, manufacturing and retail businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/fractal-unveils-interconnected-ai-platform-to-automate-decision-making-for-cpg-manufacturing-and-retail/",
+      "originalUrl": "https://venturebeat.com/ai/fractal-unveils-interconnected-ai-platform-to-automate-decision-making-for-cpg-manufacturing-and-retail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1341282481-e1668554800160.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/fractal-unveils-interconnected-ai-platform-to-automate-decision-making-for-cpg-manufacturing-and-retail/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/fractal-unveils-interconnected-ai-platform-to-automate-decision-making-for-cpg-manufacturing-and-retail/amp/",
+      "publishedDateTime": "2022-11-16T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-rackspace-technology-celebrates-11-years-of-aws-reinvent-as-an-aws-premier-consulting-partner-and-platinum-sponsor.md",
       "title": "Rackspace Technology Celebrates 11 Years of AWS re:Invent as an AWS Premier Consulting Partner and Platinum Sponsor",
       "excerpt": "Rackspace Technology® (NASDAQ:RXT)— a leading end-to-end, multicloud technology solutions company, today announced it is celebrating 11 years of sponsoring re:Invent",
@@ -961,134 +1107,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-comparing-neural-networks-provides-a-look-into-the-black-box-of-artificial-intelligence.md",
-      "title": "Comparing Neural Networks Provides a Look Into the 'Black Box' of Artificial Intelligence",
-      "excerpt": "Artificial intelligence is everywhere. Once the domain of science fiction, it’s used in everything from virtual assistants, to facial recognition systems, to self-driving cars. But how, exactly, does it work? The answer has actually not been well ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html#!",
-      "originalUrl": "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html#!",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T18:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearScience",
-        "domain": "realclearscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-art-project-translates-music-from-teenage-engineerings-op-z-synth-into-ai-generated-imagery.md",
-      "title": "Art project translates music from Teenage Engineering's OP-Z synth into AI-generated imagery",
-      "excerpt": "AI-generated art is a new frontier rife with potential. But for every thorny question about copyright and the potential for widespread manipulation, generated art can also inspire wonder and awe. For example,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
-      "originalUrl": "https://www.engadget.com/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/870fb8e0-6535-11ed-957e-bd695d44829f",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
-      "publishedDateTime": "2022-11-15T16:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-can-a-multicultural-healthy-diet-reduce-cognitive-decline-and-alzheimers-disease-risk.md",
-      "title": "Can a multicultural healthy diet reduce cognitive decline and Alzheimer's disease risk?",
-      "excerpt": "Study: Multicultural healthy diet to reduce cognitive decline & Alzheimer's disease risk: Study protocol for a pilot randomized controlled trial. Image Credit: Olga Klochanko/Shutterstock They ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221116/Can-a-multicultural-healthy-diet-reduce-cognitive-decline-and-Alzheimers-disease-risk.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221116/Can-a-multicultural-healthy-diet-reduce-cognitive-decline-and-Alzheimers-disease-risk.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_731251_16686023275581223.jpg",
-          "width": 2000,
-          "height": 904,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

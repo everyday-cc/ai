@@ -2,6 +2,162 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2022-10-05-whatever-happened-to-those-self-service-passport-kiosks-at-airports.md",
+      "title": "Whatever Happened to Those Self-Service Passport Kiosks at Airports?",
+      "excerpt": "How often is the new facial recognition system used and how does it work? Around 85 percent of the 221,000 daily visitors arriving from abroad are now verified by face, according to C.B.P. officials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/10/05/travel/customs-kiosks-facial-recognition.html",
+      "originalUrl": "https://www.nytimes.com/2022/10/05/travel/customs-kiosks-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/04/travel/oakImage-1664909585424/oakImage-1664909585424-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/10/05/travel/customs-kiosks-facial-recognition.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/05/travel/customs-kiosks-facial-recognition.amp.html",
+      "publishedDateTime": "2022-10-05T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise.md",
+      "title": "Preparing For Artificial Intelligence-Enabled IT Services: Machine-Induced Noise",
+      "excerpt": "and how to deploy artificial intelligence (AI) and machine learning (ML) techniques to identify and remove the noise. This article covers machine-induced noise. Before we get into that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621f96c5064da803e2d507d9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/05/preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise/amp/",
+      "publishedDateTime": "2022-10-05T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-gatik-goes-driverless-in-canada-for-grocery-giant-loblaws.md",
+      "title": "Gatik Goes Driverless In Canada For Grocery Giant Loblaws",
+      "excerpt": "based company's driverless delivery operations. Gautam Narang, CEO and co-founder, Gatik “As of today Gatik is the first and only autonomous trucking company operating in a commercial capacity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/",
+      "originalUrl": "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633c3e6abc7da697deb3ab3f/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/amp/",
+      "publishedDateTime": "2022-10-05T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-activeinsightstm-voice-of-customer-solution-from-wavicle-data-solutions-available-in-aws-marketplace.md",
       "title": "ActiveInsights(TM) Voice of Customer Solution from Wavicle Data Solutions Available in AWS Marketplace",
       "excerpt": "Voice of Customer Solution from Wavicle Data Solutions Available in AWS Marketplace Oct 05, 2022 (PRNewswire via COMTEX) -- PR",
@@ -982,143 +1138,6 @@
         "AI Ethics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-meta-made-dall-e-for-video-and-theres-no-way-this-ends-well.md",
-      "title": "Meta Made DALL-E for Video and There’s No Way This Ends Well",
-      "excerpt": "Now Meta (Facebook’s parent company ... a Superhero outfit with red cape flying through the sky. “Generative AI research is pushing creative expression forward by giving people tools to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailybeast.com/facebooks-parent-company-meta-unveils-make-a-video-an-ai-content-creator-like-dall-e-with-the-same-flaws",
-      "originalUrl": "https://www.thedailybeast.com/facebooks-parent-company-meta-unveils-make-a-video-an-ai-content-creator-like-dall-e-with-the-same-flaws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1664918545/100522-tran-meta-hero_ikuxsq",
-          "width": 1480,
-          "height": 832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Beast",
-        "domain": "thedailybeast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-white-house-unveils-artificial-intelligence-bill-of-rights.md",
-      "title": "White House unveils artificial intelligence ‘Bill of Rights’",
-      "excerpt": "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/technology-business-artificial-intelligence-7a39848340d210592aeea2478225f489",
-      "originalUrl": "https://apnews.com/article/technology-business-artificial-intelligence-7a39848340d210592aeea2478225f489",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/e3eccfa44df44341aa00bc70404178c4/3000.jpeg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-protestor-suffering-from-vision-loss-awarded-1m-in-lawsuit-against-or-police.md",
-      "title": "Protestor suffering from vision loss awarded $1M in lawsuit against OR police",
-      "excerpt": "A racial justice demonstrator will be awarded $1 million in a lawsuit against Salem, Oregon. The protestor suffered from permanent vision loss and chest injury by the city police.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police",
-      "originalUrl": "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/818f86fb-741c-403f-82c8-4531bb4369de/2bd411d9-3125-48af-9f7f-1b2a6929879f/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police.amp",
-      "publishedDateTime": "2022-10-04T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

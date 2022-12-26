@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-17-the-robots-are-coming-to-address-the-labor-shortage.md",
+      "title": "The Robots Are Coming (To Address The Labor Shortage)",
+      "excerpt": "Robots can convert dangerous ... From generative design to construction optioneering, the use of artificial intelligence (AI) can help transform your project planning, workflow and efficiency—before you ever break ground. Today’s AI-driven tools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/the-robots-are-coming-to-address-the-labor-shortage/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/the-robots-are-coming-to-address-the-labor-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6374e138b1ae5c9506f59b91/0x0.jpg?format=jpg&crop=1910,1074,x107,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/the-robots-are-coming-to-address-the-labor-shortage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/17/the-robots-are-coming-to-address-the-labor-shortage/amp/",
+      "publishedDateTime": "2022-11-17T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-computer-says-no-a-robot-may-decide-who-gets-next-bank-bailout.md",
       "title": "Computer Says No? A Robot May Decide Who Gets Next Bank Bailout",
       "excerpt": "Governments could soon predict whether a bank bailout will ultimately save taxpayer money using an artificial intelligence tool developed at two London universities. Researchers at UCL and Queen Mary University of London have built an algorithm that ...",
@@ -1340,58 +1392,6 @@
         "name": "IGN",
         "domain": "ign.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-artificial-intelligence-ai-robots-market-outlook-2022-and-forecast-to-2030-by-abb-alphabet-amazon.md",
-      "title": "Artificial Intelligence (AI) Robots Market Outlook 2022 and Forecast to 2030 | By -ABB, Alphabet, Amazon",
-      "excerpt": "Robots Market Research Report (2022 -2030) here: The study report offers a comprehensive analysis of the global Artificial Intelligence (AI) Robots Market size across the globe as regional and country-level market size analysis,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-outlook-2022-and-forecast-to-2030-by--abb-alphabet-amazon-2022-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-outlook-2022-and-forecast-to-2030-by--abb-alphabet-amazon-2022-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T20:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -55,20 +55,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Mom Booted From Christmas Show Due To Facial Recognition"
-    excerpt: "Digital rights advocates on Tuesday called for a ban on private use of biometric surveillance technology after a mom taking her daughter to see a Christmas show in New York City was kicked out of the theater after its facial recognition system identified her as an employee of a law firm involved in legal proceedings against the venue's operator."
-    publishedDateTime: 2022-12-21T15:48:00Z
-    webUrl: "https://crooksandliars.com/2022/12/mom-booted-christmas-show-due-facial"
-    type: article
-    provider:
-      name: Crooks and Liars
-      domain: crooksandliars.com
-    quality: 39
-    images:
-      - url: "https://crooksandliars.com/files/embeds/2022/12/53434.jpg"
-        width: 425
-        height: 318
-        isCached: true
   - title: "Girl Scout mom gets kicked out of Rockettes show due to facial recognition technology"
     excerpt: "One mom was kicked out of a Rockettes performance after facial recognition technology recognized her at Radio City Music Hall. Category : Viral & Trending"
     publishedDateTime: 2022-12-21T19:50:00Z

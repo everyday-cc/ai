@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Mom Booted From Christmas Show Due To Facial Recognition"
-    excerpt: "Digital rights advocates on Tuesday called for a ban on private use of biometric surveillance technology after a mom taking her daughter to see a Christmas show in New York City was kicked out of the theater after its facial recognition system identified her as an employee of a law firm involved in legal proceedings against the venue's operator."
-    publishedDateTime: 2022-12-21T15:48:00Z
-    webUrl: "https://crooksandliars.com/2022/12/mom-booted-christmas-show-due-facial"
-    type: article
-    provider:
-      name: Crooks and Liars
-      domain: crooksandliars.com
-    quality: 39
-    images:
-      - url: "https://crooksandliars.com/files/embeds/2022/12/53434.jpg"
-        width: 425
-        height: 318
-        isCached: true
   - title: "Why a Facial Recognition Device Barred This Woman From a Rockettes Show"
     excerpt: "Kelly Conlon's bizarre experience gives a glimpse into a future with omnipresent facial recognition systems. Last month, Kelly Conlon arrived with her daughter's Girl Scout troop to watch a Rockettes performance at Radio City Music Hall,"
     publishedDateTime: 2022-12-21T17:46:00Z

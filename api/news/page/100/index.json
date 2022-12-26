@@ -2,6 +2,143 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2022-09-30-ai-tech-startup-spokesperson.md",
+      "title": "AI Tech Startup Spokesperson",
+      "excerpt": "Casting a spokesperson for an AI tech startup, producing a short 5 minute sales video/explainer video for the launch of their new product. Looking to contract a male between 25-35 who can record ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.backstage.com/casting/ai-tech-startup-spokesperson-2514399/",
+      "originalUrl": "https://www.backstage.com/casting/ai-tech-startup-spokesperson-2514399/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Backstage",
+        "domain": "backstage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-why-ai-is-the-next-step-in-digitization-of-the-finance-sector.md",
+      "title": "Why AI Is the Next Step In Digitization Of the Finance Sector",
+      "excerpt": "And this is merely the start. As we move to the next frontier of technological discovery, and research and development, let us delve into the role of AI in disrupting the financial sector ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/technology/why-ai-is-the-next-step-in-digitization-of-the-finance/436277",
+      "originalUrl": "https://www.entrepreneur.com/en-in/technology/why-ai-is-the-next-step-in-digitization-of-the-finance/436277",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1664428624-Myproject-196.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath.md",
+      "title": "How AI predicts hurricanes and answers calls for help in their aftermath",
+      "excerpt": "AI helps keep the lines of communication open during a disaster and also better predict the intensity of hurricanes in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/",
+      "originalUrl": "https://venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/01/hurricane-shutterstock_712360393.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/amp/",
+      "publishedDateTime": "2022-09-29T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-house-democrats-debut-new-bill-to-limit-us-police-use-of-facial-recognition.md",
       "title": "House Democrats debut new bill to limit US police use of facial recognition",
       "excerpt": "The bill, if passed, would require police across the United States to first obtain a warrant before using facial recognition technologies.",
@@ -1036,135 +1173,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-radware-expands-relationship-with-fortune-500-financial-services-provider-in-a-multimillion-dollar-deal.md",
-      "title": "Radware Expands Relationship with Fortune 500 Financial Services Provider in a Multimillion-Dollar Deal",
-      "excerpt": "Radware ® (NASDAQ: RDWR), a leading provider of cyber security and application delivery solutions, announced it expanded its relationship with a Fortune 500 financial services provider in a multimillion-dollar deal.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/09/29/9682948.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/09/29/9682948.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
-          "width": 476,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-how-artificial-intelligence-is-helping-toronto-hospitals-predict-patient-outcomes-and-save-lives.md",
-      "title": "How artificial intelligence is helping Toronto hospitals predict patient outcomes and save lives",
-      "excerpt": "“It is perfectly clear in my mind that by harnessing data and using advanced analytics and artificial intelligence, we’re going to be able to transform health care globally,” says Rutledge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/news/gta/2022/09/26/is-artificial-intelligence-the-pill-that-health-care-needs.html",
-      "originalUrl": "https://www.thestar.com/news/gta/2022/09/26/is-artificial-intelligence-the-pill-that-health-care-needs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success.md",
-      "title": "Want To Get Your Team To Adopt AI? Follow These 8 Critical Steps For Success",
-      "excerpt": "Despite millions of dollars invested in AI, most industry projects never get adopted. Here are the four stages and eight steps to dramatically improve the adoption of your data science solution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ganeskesari/2022/09/29/want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success/",
-      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/09/29/want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fdfc345111d68467d2218f5/0x0.jpg?format=jpg&crop=5994,3997,x0,y85,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2022/09/29/want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/09/29/want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success/amp/",
-      "publishedDateTime": "2022-09-29T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

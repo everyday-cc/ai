@@ -2,6 +2,135 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2022-10-13-artificial-intelligence-shows-how-kim-kardashian-and-sisters-look-with-no-cosmetic-work.md",
+      "title": "Artificial Intelligence shows how Kim Kardashian and sisters look with no cosmetic work",
+      "excerpt": "A digitally altered TikTok video has predicted what the Kardashian sisters would look like without their cosmetic enhancements – showing side by side comparisons of the family with and without surgery",
+      "sourceUrl": null,
+      "webUrl": "https://www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387",
+      "originalUrl": "https://www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/incoming/article27997829.ece/ALTERNATES/s1200/3_Khloe-Kardashian.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387.amp",
+      "publishedDateTime": "2022-10-13T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-democrats-worry-over-bidens-cognitive-decline-as-joe-nudges-world-into-nuclear-war.md",
+      "title": "Democrats worry over Biden’s cognitive decline as Joe ‘nudges world into nuclear war’",
+      "excerpt": "“To repeat – a majority of Democrats now also think Biden possibly has mental health issues and could be suffering form cognitive decline.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailytelegraph.com.au/news/world/democrats-worry-over-bidens-cognitive-decline-as-joe-nudges-world-into-nuclear-war/video/0656320fe12f03d2a5b3478889dc82db",
+      "originalUrl": "https://www.dailytelegraph.com.au/news/world/democrats-worry-over-bidens-cognitive-decline-as-joe-nudges-world-into-nuclear-war/video/0656320fe12f03d2a5b3478889dc82db",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T22:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "dailytelegraph.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-artificial-intelligence-ai-in-computer-vision-market-size-expected-to-grow-at-a-cagr-of-262-by-2028.md",
+      "title": "Artificial Intelligence (Ai) In Computer Vision Market Size Expected to Grow at a CAGR of 26.2% by 2028",
+      "excerpt": "According to the research report published by Polaris Market Research, the Global Artificial Intelligence (Ai) In Computer Vision Market Size Is Expected To Reach USD 80.10 Billion By 2028., at a CAGR of 26.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-computer-vision-market-size-expected-to-grow-at-a-cagr-of-262-by-2028-2022-10-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-computer-vision-market-size-expected-to-grow-at-a-cagr-of-262-by-2028-2022-10-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-china-chip-industry-group-troubled-by-us-export-curbs.md",
       "title": "China chip industry group 'troubled' by U.S. export curbs",
       "excerpt": "China's top trade group for the chip sector said on Thursday it was \"disappointed\" by recent U.S. export controls and warned they could put more stress on global supply chains.",
@@ -1055,162 +1184,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-57m.md",
-      "title": "Continue AI aims to add ESG intelligence to sustainability, lands $5.7M",
-      "excerpt": "Continue AI today announced $5.7 million in seed funding to provide ESG intelligence for companies to create meaningful change.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/",
-      "originalUrl": "https://venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1354356302-Fritz-Jorgensen-e1665583446575.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/amp/",
-      "publishedDateTime": "2022-10-12T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-fighting-climate-change-with-ai.md",
-      "title": "Fighting Climate Change with AI",
-      "excerpt": "Climate change's global impact is worsening with each passing day, and society is struggling to keep pace. Is artificial intelligence the key to preparing for—and fighting against—our world's greatest threat?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/sponsored/story/fighting-climate-change-with-ai/",
-      "originalUrl": "https://www.wired.com/sponsored/story/fighting-climate-change-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/633b3b9843f9a94be890d208/master/pass/GettyImages-1347310502.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/sponsored/story/fighting-climate-change-with-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/fighting-climate-change-with-ai/amp",
-      "publishedDateTime": "2022-10-12T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-microsofts-yusuf-mehdi-if-customers-want-a-particular-chip-we-will-support-them.md",
-      "title": "Microsoft's Yusuf Mehdi: If customers want a particular chip, we will support them",
-      "excerpt": "Microsoft CVP Yusuf Mehdi joins 'TechCheck' to discuss Microsoft's collaboration with Intel, the use of cloud and advanced AI, and the offering of chip choices for customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2022/10/12/microsofts-yusuf-mehdi-if-customers-want-a-particular-chip-we-will-support-them.html",
-      "originalUrl": "https://www.cnbc.com/video/2022/10/12/microsofts-yusuf-mehdi-if-customers-want-a-particular-chip-we-will-support-them.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107133320-16655890161665589013-25962498727-1080pnbcnews.jpg?v=1665589847&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

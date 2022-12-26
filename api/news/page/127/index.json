@@ -2,6 +2,135 @@
   "page": 127,
   "value": [
     {
+      "path": "_news/2022-09-08-be-at-the-forefront-of-the-fintech-revolution-with-spjimrs-fintech-and-blockchain-programme.md",
+      "title": "Be at the forefront of the fintech revolution with SPJIMR’s Fintech and Blockchain programme",
+      "excerpt": "“[I] was able to get some great insights on applications of blockchain, cryptocurrency, AI, fintech products through engaging case studies, class discussion and applications in Python ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/spotlight/be-at-the-forefront-of-the-fintech-revolution-with-spjimrs-fintech-and-blockchain-programme/articleshow/94024712.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/spotlight/be-at-the-forefront-of-the-fintech-revolution-with-spjimrs-fintech-and-blockchain-programme/articleshow/94024712.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-94070643,width-1070,height-580,imgsize-184826,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1070,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/spotlight/be-at-the-forefront-of-the-fintech-revolution-with-spjimrs-fintech-and-blockchain-programme/amp_articleshow/94024712.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/spotlight/be-at-the-forefront-of-the-fintech-revolution-with-spjimrs-fintech-and-blockchain-programme/amp_articleshow/94024712.cms",
+      "publishedDateTime": "2022-09-08T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-baidu-announces-superconducting-quantum-computer-and-integration-solution.md",
+      "title": "Baidu Announces Superconducting Quantum Computer and Integration Solution",
+      "excerpt": "Subscribe for free. Baidu, the company behind the homonymous search engine, has announced its first quantum computing processor, named Qian Shi, along with an \"all-platform\" integration solution ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/09/Baidu-quantum-computing-platform/",
+      "originalUrl": "https://www.infoq.com/news/2022/09/Baidu-quantum-computing-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-7-ai-startups-that-stood-out-in-ycs-summer-22-batch.md",
+      "title": "7 AI startups that stood out in YC’s Summer ’22 batch",
+      "excerpt": "A number of startups in Y Combinator's 2022 Summer Batch leverage AI in innovative ways. Here's a few that caught our eye.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/08/7-ai-startups-that-stood-out-in-ycs-summer-22-batch/",
+      "originalUrl": "https://techcrunch.com/2022/09/08/7-ai-startups-that-stood-out-in-ycs-summer-22-batch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1394730671.jpg?w=1200",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/08/7-ai-startups-that-stood-out-in-ycs-summer-22-batch/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/08/7-ai-startups-that-stood-out-in-ycs-summer-22-batch/amp/",
+      "publishedDateTime": "2022-09-08T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing.md",
       "title": "Qualcomm Is Still The Most Efficient AI Accelerator For Image Processing",
       "excerpt": "Company’s recent design wins with leading server vendors indicates strong customer demand, especially in edge image processing.",
@@ -1017,145 +1146,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-cognitive-dissonance-what-to-know.md",
-      "title": "Cognitive dissonance: What to know",
-      "excerpt": "Cognitive dissonance is the discomfort a person feels when their behavior does not align with their values or beliefs. It can also occur when a person holds two contradictory beliefs at the same ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/326738",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/326738",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical News Today",
-        "domain": "medicalnewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-facebook-ibm-microsoft-lead-advances-in-ai.md",
-      "title": "Facebook, IBM, Microsoft lead advances in AI",
-      "excerpt": "IBM will make a 10-year, $240 million commitment to the MIT-IBM Watson AI Lab, which will be located in Cambridge, Mass., where IBM has a research lab and where MIT’s campus is located.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/facebook-ibm-microsoft-lead-advances-ai/",
-      "originalUrl": "https://sdtimes.com/ai/facebook-ibm-microsoft-lead-advances-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2017/09/ai-lab-brain.png",
-          "width": 583,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-my-journey-from-deepmind-intern-to-mentor.md",
-      "title": "My journey from DeepMind intern to mentor",
-      "excerpt": "Former intern turned intern manager, Richard Everett, describes his journey to DeepMind, sharing tips and advice for aspiring DeepMinders. The 2023 internship applications will open on the 16th September, please visit https://dpmd.ai/internshipsatdeepmind for more information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/my-journey-from-deepmind-intern-to-mentor",
-      "originalUrl": "https://www.deepmind.com/blog/my-journey-from-deepmind-intern-to-mentor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/631a065d45644fd6ab93de07_Richard_Everett__Blog__16x9.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

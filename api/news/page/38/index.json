@@ -2,6 +2,135 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2022-11-23-when-and-how-to-introduce-ai-into-your-contact-center.md",
+      "title": "When (And How) To Introduce AI Into Your Contact Center",
+      "excerpt": "Chatbots have a way of turning on the company by alienating customers—unless you do it right. Remember these simple rules.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/23/when-and-how-to-introduce-ai-into-your-contact-center/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/23/when-and-how-to-introduce-ai-into-your-contact-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637cbf6da46c3a084c1e21d8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 734,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/23/when-and-how-to-introduce-ai-into-your-contact-center/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/23/when-and-how-to-introduce-ai-into-your-contact-center/amp/",
+      "publishedDateTime": "2022-11-23T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-nih-funded-study-uses-ai-to-improve-language-for-children-with-cochlear-implants.md",
+      "title": "NIH-funded study uses AI to improve language for children with cochlear implants",
+      "excerpt": "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news",
+      "sourceUrl": null,
+      "webUrl": "https://sciencex.com/wire-news/430637008/nih-funded-study-uses-ai-to-improve-language-for-children-with-c.html",
+      "originalUrl": "https://sciencex.com/wire-news/430637008/nih-funded-study-uses-ai-to-improve-language-for-children-with-c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sciencex.com/wire-news/430637008/nih-funded-study-uses-ai-to-improve-language-for-children-with-c.amp",
+      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/430637008/nih-funded-study-uses-ai-to-improve-language-for-children-with-c.amp",
+      "publishedDateTime": "2022-11-23T01:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sciencex",
+        "domain": "sciencex.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-experts-from-across-the-disciplines-come-together-at-new-center-to-push-the-boundaries-of-smart-robotics-and-ai.md",
+      "title": "Experts from across the disciplines come together at new center to push the boundaries of smart robotics and AI",
+      "excerpt": "How humans and super smart robots will live and work together in the future will be among the key issues being scrutinised by experts at a new centre of excellence for AI and autonomous machines based at The University of Manchester. The Manchester Centre ...",
+      "sourceUrl": null,
+      "webUrl": "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.html",
+      "originalUrl": "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx1.b-cdn.net/csz/news/800/2022/experts-from-across-th.jpg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.amp",
+      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.amp",
+      "publishedDateTime": "2022-11-23T01:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sciencex",
+        "domain": "sciencex.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-an-optical-chip-that-can-train-machine-learning-hardware.md",
       "title": "An optical chip that can train machine learning hardware",
       "excerpt": "A multi-institution research team has developed an optical chip that can train machine learning hardware. Their research is published today in Optica.",
@@ -994,154 +1123,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-aws-to-invest-44-bn-in-hyderabad-data-centre.md",
-      "title": "AWS to invest $4.4 bn in Hyderabad data centre",
-      "excerpt": "Amazon Web Service (AWS) on Tuesday announced an investment of USD 4.4 billion (about Rs 36,300 crore) by 2030 in building in Hyderabad its second data center cluster in India.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
-      "originalUrl": "https://www.thehansindia.com/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2022/11/22/1321759-aws.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
-      "publishedDateTime": "2022-11-22T10:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production.md",
-      "title": "Implementing Amazon Forecast in the retail industry: A journey from POC to production",
-      "excerpt": "Amazon Forecast is a fully managed service that uses statistical and machine learning (ML) algorithms to deliver highly accurate time-series forecasts. Recently, based on Amazon Forecast, we helped one of our retail customers achieve accurate demand forecasting, within 8 weeks. The solution improved",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/22/implementingamazon-forecast-retail-industry.jpg",
-          "width": 1564,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T10:35:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-accelerate-multilingual-workflows-with-a-customizable-translation-solution-built-with-amazon-translate.md",
-      "title": "Accelerate multilingual workflows with a customizable translation solution built with Amazon Translate",
-      "excerpt": "Enterprises often need to communicate effectively to a large base of customers, partners, and stakeholders across several different languages. They need to translate and localize content such as marketing materials, product content assets, operational manuals, and legal documents. Each business unit",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-multilingual-workflows-with-a-customizable-translation-solution-built-with-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-multilingual-workflows-with-a-customizable-translation-solution-built-with-amazon-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/22/accelerate-multilingual-workflows-translate.jpg",
-          "width": 1560,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T10:28:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],
