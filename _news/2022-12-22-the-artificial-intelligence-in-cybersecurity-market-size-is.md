@@ -19,22 +19,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Female Founder Of Cybersecurity Startup Builds Better Response To Threats"
-    excerpt: "Finding a security intrusion is only half the problem. The other half is remediating the problem. A startup, founded by a woman, has the solution to both. And funders are interested."
-    publishedDateTime: 2022-12-21T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/geristengel/2022/12/21/female-founder-of-cybersecurity-startup-builds-better-response-to-threats/"
-    ampWebUrl: "https://www.forbes.com/sites/geristengel/2022/12/21/female-founder-of-cybersecurity-startup-builds-better-response-to-threats/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/12/21/female-founder-of-cybersecurity-startup-builds-better-response-to-threats/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63a099cd19ae5f47238ceaa0/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 960
-        isCached: true
   - title: "New Version of HITRUST CSF Helps Healthcare Tackle Emerging Cybersecurity Threats"
     excerpt: "HITRUST will release CSF version 11 in January 2023, promising improved mitigations against emerging cybersecurity threats and an AI-based standards development toolkit."
     publishedDateTime: 2022-12-22T13:30:00Z
@@ -65,15 +49,6 @@ related:
         width: 960
         height: 960
         isCached: true
-  - title: "Global Artificial Intelligence In Cybersecurity Market 2022 to 2028: Ability to Predict and Prevent Breaches Drives Growth - ResearchAndMarkets.com"
-    excerpt: "The Global Artificial Intelligence In Cybersecurity Market size is expected to reach $57.1 billion by 2028, rising at a market growth of 24.5% CAGR during the forecast period. AI-powered systems can be set up to automatically respond to dangers and combat online threats more quickly."
-    publishedDateTime: 2022-12-21T12:59:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-12-21-global-artificial-intelligence-in-cybersecurity-market-2022-to-2028-ability-to-predict-and-prevent-breaches-drives-growth-researchandmarketscom"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 0
 
 secured: "ke7z4MJaiXci+jyExVHLzmPbb1gqZLHEtgT1wZPq1jDwcmWwApi5RanAXT9cOpsXA9uJIgvm6AHYaGJjFJ9J7fXyymPCmj0HLSC6caN6mluwhEkJqWKFV65rPLIMqUiPqwKY2FIrERGA5Ef/rKfmFNEOv1P+UCi1X/2bx0UW5+H67WSotC4uIcQsnw7xKEL5i6NQdQq1mxEuwxLOPSE+ouojclxzhCNEKDdiqO1059dISCcO5Q1RyHRM/KE1/+cHwTMaHaXULZVklB9oDWDcrglh9PLxsaR3Oxl83Xw4A1Sdq2rM+xwDfxoVA3+42nMhruEoyi/bH0DTHXk4HG2n7WegM9Vi9Jh7sAdCws/oNTU=;n/kWtWZggEncg9Xip7+22w=="
 ---

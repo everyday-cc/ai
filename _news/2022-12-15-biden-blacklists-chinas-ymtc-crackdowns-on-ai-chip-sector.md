@@ -1,26 +1,24 @@
 ---
 category: news
-title: "Biden blacklists China's YMTC, crackdowns on AI chip sector"
-excerpt: "WASHINGTON (Reuters) -The Biden administration on Thursday added Chinese memory chipmaker YMTC and 21 \"major\" Chinese players in the artificial intelligence chip sector to a trade blacklist ..."
-publishedDateTime: 2022-12-15T14:34:00Z
-originalUrl: "https://gazette.com/news/us-world/biden-blacklists-chinas-ymtc-crackdowns-on-ai-chip-sector/article_185a7193-0885-5637-b578-67f1f8527c7e.html"
-webUrl: "https://gazette.com/news/us-world/biden-blacklists-chinas-ymtc-crackdowns-on-ai-chip-sector/article_185a7193-0885-5637-b578-67f1f8527c7e.html"
+title: "Biden Blacklists China's YMTC, Crackdowns on AI Chip Sector"
+excerpt: "The 21 Chinese AI chip entities being added to the trade blacklist, which include Cambricon Technologies Corp and CETC, face an even tougher penalty, with the U.S. government effectively blocking ..."
+publishedDateTime: 2022-12-15T13:59:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2022-12-15/biden-to-blacklist-chinas-ymtc-crackdown-on-ai-chip-sector"
+webUrl: "https://money.usnews.com/investing/news/articles/2022-12-15/biden-to-blacklist-chinas-ymtc-crackdown-on-ai-chip-sector"
 type: article
 
 provider:
-  name: The Gazette
-  domain: gazette.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/c/3f/c3fcc744-3d74-5ee5-840b-824b4f55c439/639b2dc0ce988.image.jpg?crop=800%2C420%2C0%2C48&resize=800%2C420&order=crop%2Cresize"
-    width: 800
-    height: 420
-    isCached: true
-
-secured: "WHssEjcT7PuTfbvZysfqkVOjYgDNRgq50PDRBTf2nMv3f6e0/nLYSZmn2yYqsStNJ5ELL4b53Zu37rejnG7lBjKcJGdxRz/dFaoaNQxON4QvGB6ERfOvzyj8JNEFSitRIrxFgWwUGEDdaqXWS1hGa2lAXKBOSd5R18H/AJ6iCLSf12zoiFNtfRCzYxWFzYegM5JQwF5CLrcXNzJAI2tTim6jcfiB3DoEzd0YPfTn+CQzl2V3wc6qSuM4pYju3JX1Uomyg6vUnsqWICLSdPtkN1oT4KNIpjDECW7JeFo0cL1S51p0KxYO+UKgChyiK1YAxsP2kVZivul8ttqLOvn36f4wzTM+ODbTJfibSFPpk/M=;NNmqcDmrY40xvtIWT65yFQ=="
+secured: "PdqLRntMh3YgBZnqi+Fa6LwUk6sBOBZtIhTDxXFG35hvmEgnxb9QDy9XCo8fA05SKbCDhjXlZeQ54Y++23xf447qLvpNA0045Q9/rah9WF1rjyJsvOXnJUZ8V6coYMhIvaICcW1CO2ntrTOGiqgO4Y8mOiFnn0asixiKWQ21WW4ItM8Pf/+MCbDPxOSx5ltA3XQL/S9d6I1zekyTkzL4lkr3B8s768+JzPBSxSNcgPICvLqBmQ+diDBkFZeDguTWtPp3D2dMalQzpmbh3Nc9fbzSTRMv9nwWu+/an1O8eCizKynhs0hJmpoNsXlWPXrBCoReuep5ldfUsDX9mA/Mrue9bZVYv97o31QqRs6fs+E=;gjUaBUGMDbNVx+beohUmfA=="
 ---
 

@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "High-frequency trading through artificial intelligence for financial innovation"
-    excerpt: "Professor Chien-Feng Huang, at the National University of Kaohsiung in Taiwan delves into high-frequency trading across Artificial Intelligence"
-    publishedDateTime: 2022-12-21T12:32:00Z
-    webUrl: "https://www.openaccessgovernment.org/article/high-frequency-trading-artificial-intelligence-financial-innovation/149943/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 33
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/12/dreamstime_xxl_137795293-scaled.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "nsYCyD32blYB8ftJ+YUeiH7FW70zuL9ZiM7xZz9XXBY/CbH9TM+TVCORTvFcIjHMTgdSupKPXYFr8UfOLf5uKBk0zyxaMSQN+F7qQDeSU6uL1tDVMThiYHsbn3CZ3jWfMRzTr7tIRAZGqXcOs5DZxJ79Iz8NyfomDcwsrJUgVOWKpP9nXUs5Uh3AVUYmDKosd4FCU6ePnYge3XcQIXk/hf7Ee1dSMrVGVyBSFHWs+OAXms7zTvyqVWxdEuEbhtu48yM9xwe3TTDFbii+oUsv36uvjgZbWBY7fm9d/hlOefK4xlXyph/8m0C4rqlugZN17fAhqkrXa/yceWSqY07yz00rLMub2FJ/sM7zhIkwXdk/RSo3IzgKzZ5viXdSdrfY1xsrJ+F2wFiyz/irjM+hAPd7L0VfOgjZ+eMX/lRwOP6TtCIW5iAVXKIfo4vvThEzZrldkoItLsvGwp8VPuX6VX6OmZaPhgLDbqDg3+vRAYQmskYe4E9QKjzQPCEg8Bua7/Z3hBZasIbjaY9FwEDzdg==;kbkT8BQYEpiWJXWOotazuA=="
 ---

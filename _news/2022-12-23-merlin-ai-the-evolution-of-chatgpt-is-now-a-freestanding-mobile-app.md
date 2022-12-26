@@ -66,21 +66,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Pointedly Asking Generative AI ChatGPT About Whether Santa Claus Is Real Proves To Be Eye-Opening, Including For AI Ethics And AI Law"
-    excerpt: "I went ahead and asked the popular generative AI app ChatGPT about whether Santa Claus is real or not. Doing so provides a bonanza of AI Ethics and AI Law considerations. Enjoy this during especially during the upcoming holidays!"
-    publishedDateTime: 2022-12-21T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/21/pointedly-asking-generative-ai-chatgpt-about-whether-santa-claus-is-real-proves-to-be-eye-opening-for-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/21/pointedly-asking-generative-ai-chatgpt-about-whether-santa-claus-is-real-proves-to-be-eye-opening-for-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/12/21/pointedly-asking-generative-ai-chatgpt-about-whether-santa-claus-is-real-proves-to-be-eye-opening-for-ai-ethics-and-ai-law/amp/"
+  - title: "Open AI’s GPT 4 could support up to 1 trillion parameters, will be bigger than ChatGPT 3"
+    excerpt: "ChatGPT 4 is expected release somewhere in the next few months, which is not just better than the current ChatGPT 3 but also does a lot more. While there is no official confirmation on either the launch or beta testing of ChatGPT 4,"
+    publishedDateTime: 2022-12-26T04:41:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/chatgpt-4-release-features-specifications-parameters-8344149/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/chatgpt-4-release-features-specifications-parameters-8344149/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/chatgpt-4-release-features-specifications-parameters-8344149/lite/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 50
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63a2d825fcaa8fcaba0c44d7/0x0.jpg?format=jpg&crop=1063,609,x94,y73,safe&width=1200"
-        width: 1063
-        height: 609
+      - url: "https://images.indianexpress.com/2022/12/chat-gpt4.jpg"
+        width: 1200
+        height: 667
         isCached: true
   - title: "Quora launches Poe, a way to talk to AI chatbots like ChatGPT"
     excerpt: "At launch, Poe provides access to several text-generating AI models, including ChatGPT. (OpenAI doesn’t presently offer a public API for ChatGPT; the Quora spokesperson refused"
@@ -144,15 +144,6 @@ related:
         width: 550
         height: 430
         isCached: true
-  - title: "The Architecture Trends of 2023 According to ChatGPT, an AI-trained Model Bot"
-    excerpt: "As a symbol of what AI could achieve in the short term for architecture and humankind, we have 'talked' with OpenGPT about the architecture trends of 2023."
-    publishedDateTime: 2022-12-21T13:01:00Z
-    webUrl: "https://www.archdaily.com/994020/the-architecture-trends-of-2023-according-to-chatgpt-an-ai-trained-model-bot"
-    type: article
-    provider:
-      name: ArchDaily
-      domain: archdaily.com
-    quality: 16
   - title: "What Do ChatGPT and AI-based Automatic Program Generation Mean for the Future of Software"
     excerpt: "Since the release of the ChatGPT interactive AI assistant it has been surprising to see some of the snide, passive-aggressive reactions from some (not all) members of the software engineering community,"
     publishedDateTime: 2022-12-23T20:36:00Z

@@ -1,26 +1,28 @@
 ---
 category: news
 title: "The self-driving era is here, the question is what comes next"
-excerpt: "The self-driving era is here, just not the one that was promised. Instead of sleek pods without steering wheels ready to chauffeur buyers off the lot, there are mostly driverless Chevy compacts, Chrysler minivans,"
-publishedDateTime: 2022-12-15T09:05:00Z
-originalUrl: "https://www.vancouverisawesome.com/national-business/the-self-driving-era-is-here-the-question-is-what-comes-next-6251889"
-webUrl: "https://www.vancouverisawesome.com/national-business/the-self-driving-era-is-here-the-question-is-what-comes-next-6251889"
+excerpt: "TORONTO - The self-driving era is here ... s not how this is going to work,” said Raquel Urtasun, a leading artificial intelligence researcher and chief executive of Toronto-based autonomous ..."
+publishedDateTime: 2022-12-15T09:50:00Z
+originalUrl: "https://www.thestar.com/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html"
+webUrl: "https://www.thestar.com/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html"
+ampWebUrl: "https://www.thestar.com/amp/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html"
+cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html"
 type: article
 
 provider:
-  name: Vancouver Is Awesome
-  domain: vancouverisawesome.com
+  name: Toronto Star
+  domain: thestar.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.vmcdn.ca/f/files/shared/feeds/cp/2022/12/2022121317120-3be76c0a0b4890bc2f5acae6192f3e8eda1a918d7c73c85aed489cfeba027b95.jpg;w=650;h=467;mode=crop"
-    width: 650
-    height: 467
+  - url: "https://www.thestar.com/content/dam/thestar/business/2022/12/24/take-the-stars-annual-quiz-how-much-do-you-remember-about-the-year-in-business/_1_main.jpg.size.custom.crop.640x360.jpg"
+    width: 640
+    height: 360
     isCached: true
 
-secured: "AJ9Z8bT4z7Ku9T91l+vbo3uKLcZU/UAkokx8W3s3ucLrZSWlO9nOCJ75B5NTRKqJ/Z6NX6eTkIQml4oKj5H+ZHrvwhmEYRM7P77nrjrTJ6Fg/PULl+GYRG34Y9/Au/nT09bq0t2BgYV4ZA3NMW9B9uvNyEuOnW2wXNTVaLqpnjyAjQSZjgMjRSlX2y2fNu3DhrCqBpcPbSYaflii76wZXaKqrv395/2rogOWTDKiCEQdpD5bbBOEqbhGXSzhqdJi9iBgn04bdwSki6pcF8HFR4B/mksmXx4YVCnuuuTu8LDAXqWtLccMfn07FpvGaneJTa9EfebxvW349wcW/goQWWh14QOaJ2kZAypFrObWY+M=;W1bcUejwrYnbfkc2DSqvLw=="
+secured: "UyCufFNC0oTgPPc7ipF5a6F5m+wiEyrzTfpXgRIazHWKN/PbJuopJgw4XA7/h6nJcZiR7p3dL5JaFwZjouaI9tRpWjE1q7zD9QN/U1mn6ce+3dZiloFni4mN7d60FPEKZxs8x+8OGWcFDD0TDg9ZWdXrwCjm378iZLniDZjQOY3zdvHhrqgZfGFbC2JdBoQyy7l7XhoFobZZZVfEls37yjd4ylbouKbrWw+h1Z7qeqDnyoOfdXPLUwcVIiWQ3w/K2Lr0UKxvACoop5TULSD88Q1hYrHX4KTYzXh8PNdmgE2BESHTEQd/Z2oQI5hnjOg4iMqZb4wEAG+lVcDeea4AhWUVygddQrhvpuKOxO92yhs=;R+mibDx1al3Hc39yXesjEA=="
 ---
 

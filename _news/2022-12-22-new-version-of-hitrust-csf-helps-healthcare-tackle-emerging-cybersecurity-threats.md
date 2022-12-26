@@ -9,8 +9,8 @@ ampWebUrl: "https://healthitsecurity.com/news/amp/new-version-of-hitrust-csf-hel
 cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: IT Security
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Female Founder Of Cybersecurity Startup Builds Better Response To Threats"
-    excerpt: "Finding a security intrusion is only half the problem. The other half is remediating the problem. A startup, founded by a woman, has the solution to both. And funders are interested."
-    publishedDateTime: 2022-12-21T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/geristengel/2022/12/21/female-founder-of-cybersecurity-startup-builds-better-response-to-threats/"
-    ampWebUrl: "https://www.forbes.com/sites/geristengel/2022/12/21/female-founder-of-cybersecurity-startup-builds-better-response-to-threats/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/12/21/female-founder-of-cybersecurity-startup-builds-better-response-to-threats/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63a099cd19ae5f47238ceaa0/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 960
-        isCached: true
   - title: "Tiffany Ricks creates AI cybersecurity platform that combats phishing attacks"
     excerpt: "Tiffany Ricks is the founder and chief executive officer at HacWare, Inc. HacWare is an award-winning startup that provides AI-powered advanced cybersecurity education to teach security teams to combat phishing attacks."
     publishedDateTime: 2022-12-24T18:08:00Z
@@ -66,15 +50,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Global Artificial Intelligence In Cybersecurity Market 2022 to 2028: Ability to Predict and Prevent Breaches Drives Growth - ResearchAndMarkets.com"
-    excerpt: "The Global Artificial Intelligence In Cybersecurity Market size is expected to reach $57.1 billion by 2028, rising at a market growth of 24.5% CAGR during the forecast period. AI-powered systems can be set up to automatically respond to dangers and combat online threats more quickly."
-    publishedDateTime: 2022-12-21T12:59:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-12-21-global-artificial-intelligence-in-cybersecurity-market-2022-to-2028-ability-to-predict-and-prevent-breaches-drives-growth-researchandmarketscom"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 0
 
 secured: "Fu7DX8twYfsE/X6Q7N8s3P5Iw+5UH2USmq5r03E6vEhrXxfW1JtmVl0KwnEnkAG1xFrj0MsdOkx9tAq7JmXgYQWZb2QsHlrFIRjq5cHEyE0W1tvovhj0TzaLqZlY7In0ZrU3iOTBRXw/eZg0/8AMog/pMrksnnAlK198w1BeDqjjdcBfJFNP8D4cG0w11OzNKNckkXOHlKD+jDnPqnvGvK29cDGZLu7ofSO+8Ipw1uNMx3cnZ4LwZqIK4CyXc9VdC4xVcJCBtkHshZZ2kgIMafINCvdurWKo8q8SF28RICmVkve/rdSw2KWGFsh8Cohu5Ju4H0ZOEyH4w0Flt1r2p7nsCaIK6bKdDEIuVr4YUrA=;qrU8j7VnTGP1A5bvfZfPww=="
 ---

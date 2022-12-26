@@ -1,8 +1,8 @@
 ---
 category: news
 title: "SymphonyAI expands Microsoft collaboration, makes Sensa financial crime prevention solution available in Microsoft Azure Marketplace"
-excerpt: "EnterpriseAI leader accelerating innovation to combat financial crime with transformative, next-generation AI-based solution PALO ALTO, Calif., Dec. 12, 2022 /PRNewswire/ -- SymphonyAI, a leader ..."
-publishedDateTime: 2022-12-12T12:07:00Z
+excerpt: "EnterpriseAI leader accelerating innovation to combat financial crime with transformative, next-generation AI-based solutionPALO ALTO, Calif.,"
+publishedDateTime: 2022-12-12T12:30:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964946"
 webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964946"
 type: article
@@ -16,9 +16,10 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
+  - AI in Finance
   - AI
+  - Microsoft AI
 
-secured: "Egn7zFQeKrymJH1wnr0ySmqlxVdmuGr3Tbka5VoIaV2/Ng3PglNDC1E0wjsTZYoFb2KZer0pZxwrZCMLIeMPXAk381MzvRZZBVnYt2UOs9k4k91mEraoJNYcPM7WM2yN64eZ254+Zfd+2RejgL4TPt7CeCaSHUdZJ0B/paanoB4wlw+DzdX7ZP9oDonUxYZanAD4l/5Xn6UMPqCtZiADJQUI5WGL2mZpZ31Eg3VcOh9n0/NWuEOaGg7JCiVIJmBrnJ96/Zbc3kSzC4mwinCgd3P9DHlM2/2rGSMwawprcy/JwMtRbAMyiN11thDMvzoNkbUdddmrQuFjlta3i5gjMDJgpLmQByViWB8yVPISgq4=;bMPIyIjjR7xxOS6ITZ2SvQ=="
+secured: "I+TuyR/zARWg3LB4R5Jc565M1DrdEx3b4ifaMl7fZZ6j7cX3zXJpATpAaVJCHrKuQQBch5gbTcj4Ie6gvDPKrToUnHzWwrFL34mvNbzlzokGAmR0v/Hk0YTFZkxxurTPEvvKCSGYKQESFgIkPY7uDAucs0vWywrRC140ef7akid2M5pbpM9tBdDjPraMN6LLVJyf3UyoGilEnCFZc7A4QvSW1tUiB4YJURpsBxgyxMlaWU2fK9rwBqOfBrZSBoV8nJ+MmvNOFTUXkeUhcy0d72iPa8ERsZI8lxzAdqWoiEWEe/hkCvTmOwUHYo4+pQjiehSe9epT4w/6LaNVBy1XJ9E5e0EEtbTZy5T1JaaBt8U=;KAKY4w9scX0rG2nRbc3Kwg=="
 ---
 

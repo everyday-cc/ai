@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/30176367"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30176367"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Three trends that will define India’s fintech sector in 2023"
-    excerpt: "Neobank partnerships driving hyper-personalised financial products, AI-driven efficiency in digital lending services and wealth tech for everyone. These three trends will enable fintech innovation in India and retain its position as the global fintech leader in 2023."
-    publishedDateTime: 2022-12-21T11:20:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/three-trends-that-will-define-indias-fintech-sector-in-2023/articleshow/96398341.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/three-trends-that-will-define-indias-fintech-sector-in-2023/amp_articleshow/96398341.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/three-trends-that-will-define-indias-fintech-sector-in-2023/amp_articleshow/96398341.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-6876,msid-96398756/1649259868823.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "World Fintech Show Features Dynamic Collaborations Set To Influence The Direction Of Fintech In Saudi Arabia."
     excerpt: "World Fintech Show features dynamic collaborations set to influence the direction of fintech in Saudi Arabia. <br /> After two thrillingly eventfu"
     publishedDateTime: 2022-12-22T21:08:00Z

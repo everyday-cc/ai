@@ -22,6 +22,7 @@ topics:
   - AI in Healthcare
   - AI
   - Machine Learning
+  - AI in Autos
 
 related:
   - title: "Artificial Intelligence searches for early sign of osteoarthritis: Research"

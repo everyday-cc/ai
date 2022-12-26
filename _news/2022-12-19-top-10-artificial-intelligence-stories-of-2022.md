@@ -20,6 +20,7 @@ topics:
   - AI
   - AI Ethics
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.computerweekly.com/rms/onlineimages/ai_a264431831.jpg"
