@@ -33,7 +33,7 @@ related:
     provider:
       name: NDTV
       domain: ndtv.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://c.ndtvimg.com/2021-12/g3gv78ps_artificial-intelligence-generic-pixabay_625x300_11_December_21.jpg"
         width: 650

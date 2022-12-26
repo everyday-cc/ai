@@ -24,17 +24,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Kickstarter shut down the campaign for AI porn group Unstable Diffusion amid changing guidelines"
-    excerpt: "After backlash from artists whose work has been unknowingly used to train AI models, Kickstarter updated its policies."
-    publishedDateTime: 2022-12-21T20:32:00Z
-    webUrl: "https://techcrunch.com/2022/12/21/kickstarter-shut-down-the-campaign-for-ai-porn-group-unstable-diffusion-amid-changing-guidelines/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 34
-
 secured: "euAiYbu48bYKqlQnq7tRv2B5lOzlh2/TBG7GXCDdDVzAuYUUoo723KyNukuQxkET/lY0WJ5pXOl4jtXK1JccojEq3vAN0DStmgz4fkcrMZZBNHQ875W/xAamljU8IDDCPfeUoKggw67gzECLFkfY0Cry2AGOHfGlggFrqBxK4I3yEMeQnaSK6xc+y2jN01g5hVauTw/wFGB9w+kODJNobxWfWrj9PinyXkPgq00KGkjcO2ro3j/3XxPjrjgIHaHaM27EHCWCff69bIIjXdQVO7I8VoJJH6RsyuEznlkQF5hP6SNofCWUN9OUQPSbINXWfdnpPWpcVjYMIZrXYAS/lce+tv07bz2c9rvVcVlHe9Qw4eTOupLHzBZ1rcCjKCoeELI57PE4Lkwikp/26crJiUvlLhtQfLWlHZnKSRBJmR26kr9WFU8JAeQEDYoZbwZVzTam8NXE0x2rIUqH7GhAk2kvRmTPXOH2ZSgPKL7Z38Cma2a3bW60okuuI8WMwjL9SgXjsd4zaikLqrO0yoHrMg==;UfLlyAn38HZwKIMsMW8zQg=="
 ---
 

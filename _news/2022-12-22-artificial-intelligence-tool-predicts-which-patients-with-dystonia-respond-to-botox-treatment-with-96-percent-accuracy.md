@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "AI tool predicts which patients with dystonia respond to Botox treatment with 96% accuracy"
-    excerpt: "Dystonias are potentially disabling neurological conditions that can greatly affect quality of life. Effective treatments are sparse, with botulinum toxin (Botox) injections into the affected muscles considered the first-line therapy."
-    publishedDateTime: 2022-12-21T20:55:00Z
-    webUrl: "https://medicalxpress.com/news/2022-12-ai-tool-patients-dystonia-botox.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-12-ai-tool-patients-dystonia-botox.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-ai-tool-patients-dystonia-botox.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 51
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-91.jpg"
-        width: 2128
-        height: 1295
-        isCached: true
   - title: "Artificial intelligence tool may help predict success of Botox treatment in patients with dystonia"
     excerpt: "An artificial intelligence platform, DystoniaBoTXNet, used brain MRIs to automatically identify which dystonia patient would respond to botulinum toxin treatment with an accuracy"
     publishedDateTime: 2022-12-22T14:30:00Z

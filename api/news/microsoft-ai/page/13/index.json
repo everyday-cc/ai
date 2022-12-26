@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-09-16-recovering-from-cognitive-issues-caused-by-long-covid.md",
+      "title": "Recovering from Cognitive Issues caused by Long-Covid",
+      "excerpt": "Some patients experience neuro-cognitive problems. Dana Hodges, a speech-language pathologist, says she has seen short-term memory affected. “I am seeing the inability for them to be able to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wspa.com/news/ask-the-expert/recovering-from-cognitive-issues-caused-by-long-covid/",
+      "originalUrl": "https://www.wspa.com/news/ask-the-expert/recovering-from-cognitive-issues-caused-by-long-covid/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wspa.com/wp-content/uploads/sites/53/2022/07/GettyImages-1215276619-1.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wspa.com/news/ask-the-expert/recovering-from-cognitive-issues-caused-by-long-covid/amp/",
+      "cdnAmpWebUrl": "https://www-wspa-com.cdn.ampproject.org/c/s/www.wspa.com/news/ask-the-expert/recovering-from-cognitive-issues-caused-by-long-covid/amp/",
+      "publishedDateTime": "2022-09-15T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSPA",
+        "domain": "wspa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-cognitive-systems-a-quick-study-in-dedication-and-self-belief.md",
       "title": "Cognitive Systems – A quick study in dedication and self-belief",
       "excerpt": "How would you prove you were right? Apparently, if you were the founders of Cognitive Systems Corp., you’d do whatever it took — up to and including building and manufacturing your own device ...",
@@ -1212,60 +1255,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-deep-dive-how-ai-content-generators-work.md",
-      "title": "Deep Dive: How AI content generators work",
-      "excerpt": "AI content generators cannot be subjective, no matter how great the ML training using structured data is, but their uses can be additive to marketing teams.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/",
-      "originalUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/ai-marketing-shutterstock_741922060.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deep-dive-how-ai-content-generators-work/amp/",
-      "publishedDateTime": "2022-09-09T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
       ]
     }
   ],

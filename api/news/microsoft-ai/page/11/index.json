@@ -2,6 +2,50 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-10-03-future-of-ai-in-fintech-market-a-comprehensive-study-by-key-players-microsoft-ibm-intel.md",
+      "title": "Future of AI in Fintech Market – A comprehensive study by Key Players: Microsoft, IBM, Intel",
+      "excerpt": "The latest study released on the Global AI in Fintech Market by AMA Research evaluates market size, trend, and forecast to 2027. The AI in Fintech market study covers significant research data and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/future-of-ai-in-fintech-market-a-comprehensive-study-by-key-players-microsoft-ibm-intel",
+      "originalUrl": "https://www.digitaljournal.com/pr/future-of-ai-in-fintech-market-a-comprehensive-study-by-key-players-microsoft-ibm-intel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/Online-privacy-Meta-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-03-cognitive-media-solutions-market-size-to-grow-by-usd-449-bn-digital-transformation-in-industries-to-drive-growth-technavio.md",
       "title": "Cognitive Media Solutions Market Size to Grow by USD 4.49 Bn, Digital Transformation in Industries to Drive Growth - Technavio",
       "excerpt": "The Cognitive Media Solutions Market size is anticipated to grow by USD 4.49 billion. However, the growth momentum is expected to decelerate at a CAGR of 27.14% during the forecast",
@@ -1315,49 +1359,6 @@
         "Microsoft AI",
         "Machine Learning",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-edge-to-azure-digital-twins.md",
-      "title": "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins",
-      "excerpt": "The industrial software company has expanded cloud connectivity and improved enterprise IT management with HighByte Intelligence Hub version 2.5.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure",
-      "originalUrl": "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/aa63c977-cdce-4db8-9dff-034bafe0dadc/Highbyte-prod-Sept-22-2022-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

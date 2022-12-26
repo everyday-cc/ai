@@ -147,20 +147,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Facial-Recognition Tech Gets Lawyer Booted From Radio City Music Hall"
-    excerpt: "Kelly Conlon says she purchased tickets for her and her daughter to see the Radio City Music Hall Christmas show as part of a Girl Scout outing. Upon entering, Conlon says she heard an announcement over the PA system describing her physical appearance."
-    publishedDateTime: 2022-12-21T20:36:00Z
-    webUrl: "https://www.extremetech.com/extreme/341741-facial-recognition-tech-gets-lawyer-booted-from-radio-city-music-hall"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 24
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2018/10/598521-facial-recognition-640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Madison Square Garden's Parent Company Used Facial Recognition Tech To Eject Lawyers Suing Them From Shows"
     excerpt: "Madison Square Garden Entertainment Corp. (MSG Entertainment) is using facial recognition technology to eject lawyers suing them from shows. According to a report by Rolling Stone, MSG Entertainment,"
     publishedDateTime: 2022-12-23T16:00:00Z

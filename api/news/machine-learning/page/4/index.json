@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-30-data-center-accelerator-global-market-report-2022-growing-use-of-deep-learning-technology-in-big-data-analytics-boosts-sector.md",
+      "title": "Data Center Accelerator Global Market Report 2022: Growing Use of Deep Learning Technology in Big Data Analytics Boosts Sector",
+      "excerpt": "The Data Center Accelerator market size is estimated to be USD 21.2 billion in 2022 and is projected to reach USD 64.0 billion by 2027, at a CAGR of 24.7% during the forecast period. The boom in the data center accelerator market is mostly due to the increasing number of companies offering machine learning as a service and increasing demand for FPGA-based accelerators.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/11/30/9721625.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/11/30/9721625.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T04:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-samsung-to-hire-over-1000-engineers-for-ai-machine-learning-space.md",
       "title": "Samsung To Hire Over 1,000 Engineers For AI, Machine Learning Space",
       "excerpt": "The young engineers will join the company in 2023, and will work on new-age technologies at its R&D institutes in Bengaluru, Noida, Delhi and at Samsung Semiconductor India Research in Bengaluru.",
@@ -1314,58 +1348,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-mlnet-20-enhances-text-classification.md",
-      "title": "ML.NET 2.0 enhances text classification",
-      "excerpt": "Upgrade to Microsoft’s machine learning framework for .NET improves model building for text classification, introduces a sentence similarity API, and adds more AutoML capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3681088/mlnet-20-enhances-text-classification.html",
-      "originalUrl": "https://www.infoworld.com/article/3681088/mlnet-20-enhances-text-classification.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/28/10/shutterstock_561931702-100932824-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 741,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3681088/mlnet-20-enhances-text-classification.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3681088/mlnet-20-enhances-text-classification.amp.html",
-      "publishedDateTime": "2022-11-23T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

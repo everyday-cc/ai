@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-26-not-everything-we-call-ai-is-artificial-intelligence-all-you-need-to-know.md",
+      "title": "Not Everything We Call AI Is Artificial Intelligence. All You Need To Know",
+      "excerpt": "In August 1955, a group of scientists made a funding request for US$13,500 to host a summer workshop at Dartmouth College, New Hampshire. The field they proposed to explore was artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/not-everything-we-call-ai-is-artificial-intelligence-all-you-need-to-know-3638372",
+      "originalUrl": "https://www.ndtv.com/world-news/not-everything-we-call-ai-is-artificial-intelligence-all-you-need-to-know-3638372",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2021-12/g3gv78ps_artificial-intelligence-generic-pixabay_625x300_11_December_21.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/not-everything-we-call-ai-is-artificial-intelligence-all-you-need-to-know-3638372/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/not-everything-we-call-ai-is-artificial-intelligence-all-you-need-to-know-3638372/amp/1",
+      "publishedDateTime": "2022-12-26T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-12-24-how-analytics-and-ai-can-help-you-build-a-better-customer-experience.md",
       "title": "How analytics and AI can help you build a better customer experience",
       "excerpt": "With the help of advanced technology, you can improve customer engagement and retention.",
@@ -530,8 +575,8 @@
       "title": "How AI Can Be Used Ethically to Monitor Worker Productivity",
       "excerpt": "Morgan Lewis’s Amy Schuh offers guidance for companies looking to employ AI to monitor their workforce. She shares important questions to ask beyond AI’s intended uses, and potential unintended consequences.",
       "sourceUrl": null,
-      "webUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
-      "originalUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
+      "webUrl": "https://news.bloomberglaw.com/business-and-practice/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
+      "originalUrl": "https://news.bloomberglaw.com/business-and-practice/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1353,58 +1398,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-can-the-ai-bill-of-rights-shape-global-ai-regulation.md",
-      "title": "Can the AI Bill of Rights shape global AI regulation?",
-      "excerpt": "Experts clash over whether the policy proposal is fit for purpose, with some suggesting it does more harm than good",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business/policy-legislation/369570/can-the-ai-bill-of-rights-shape-global-ai-regulation",
-      "originalUrl": "https://www.itpro.co.uk/business/policy-legislation/369570/can-the-ai-bill-of-rights-shape-global-ai-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1669130979/itpro/2022/November/GettyImages-US%20flag%20digital.jpg",
-          "width": 375,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

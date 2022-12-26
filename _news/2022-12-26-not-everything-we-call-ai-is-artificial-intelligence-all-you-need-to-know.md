@@ -8,8 +8,8 @@ webUrl: "https://www.ndtv.com/world-news/not-everything-we-call-ai-is-artificial
 ampWebUrl: "https://www.ndtv.com/world-news/not-everything-we-call-ai-is-artificial-intelligence-all-you-need-to-know-3638372/amp/1"
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/not-everything-we-call-ai-is-artificial-intelligence-all-you-need-to-know-3638372/amp/1"
 type: article
-quality: 74
-heat: 104
+quality: 76
+heat: 106
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Machine Learning
   - AI
   - Facebook AI
+  - AI Ethics
 
 images:
   - url: "https://c.ndtvimg.com/2021-12/g3gv78ps_artificial-intelligence-generic-pixabay_625x300_11_December_21.jpg"
@@ -68,6 +69,6 @@ related:
         height: 350
         isCached: true
 
-secured: "TKrce/xzoZRfPoM7jUyF4zo7ARWnul+59P4rn83Inj+P4/l4ZMmjCl23PiPHlWSTecjc/6EzmHhEcmDVE31C4u5sMGjtooAjq1ehIWvp08Tr+a3hPHiE7axTz7CPM4Brw+bxlxg52BmAQfOLp7ZBgZwSJIOtBhHD3MaCKpZgfjUSoelx6pqDBmzIkESNt3ApwqQqRdlkz4YUC8TKO3GdU4ErdmAj/UFS4nIiUewLtCquXYAJVZygsWPM/6/UfYxPhrOUT1Wvn+qkwVxJvzLty4uMHSQwsR40dp+jGhrk7R8kDZ5E7Bk9aYaO4/0aN7QfeJTEuz/T9kDrDmfpupiuV0evOpHDUElR6E+d8T134cs=;6yA4KFVwCEV/h01NCdJ1DQ=="
+secured: "5q3ihj9PmZCqMfHRgM7gwWEyaetLSEL2jV25pNgEoRuZNTVKyXHjT/B+mwKCiuQYUNaybDwzpOf2SDMrRG388/P57ddhFg/o3ZqYkc6EX1rrfldizS9A6co4ziT4vj9xeid+IO4apKsEOq9Sqwu/sn9CWdAA63YpgCdZrbMAgioA1EZA4w3NK8alOZz93TH5qovplTWpLrBzVoCxdzzb69fexIXwCicy4pXeM8HHfFx6QuVLYgln8VBIbMqrkUHZY2RUUov57N+AsxZ6Mrd0bQyEHLJp/3H++ke5MuSDCi8MaEPbV/QFieasNOnvlJQpYJEvgl6a5ELObfCQA4M6vzBgec21TyRC6t5I6o07BUFwQq7fWzq+g+32tfeItlVmrV71Q+FzPkZRPs26vMK2+fT9WvyJ92CjXcmhksrckdMRnmQbOhf19BZgmjXuUgT2rvKUghoHDX/KFFQEbUqNl1fwNHcn6EfRQ/8vQJ6Wqt7QAL8C03UieSlEXAU7dbHYcUF3ar+ZLXUIJDL3swl4tQ==;gaWZDdg7RFgwqhAf9PJ8Yw=="
 ---
 

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.ndtv.com/world-news/not-everything-we-call-ai-is-artificial-intelligence-all-you-need-to-know-3638372",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -42,7 +42,8 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "Facebook AI"
+        "Facebook AI",
+        "AI Ethics"
       ]
     },
     {
@@ -138,6 +139,59 @@
       ],
       "topics": [
         "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-24-as-big-tech-suffers-startups-can-grow-with-ai.md",
+      "title": "As Big Tech suffers, startups can grow with AI",
+      "excerpt": "Startups and large enterprise alike only benefit when they leverage AI to automate and scale operations and services.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/as-big-tech-suffers-startups-can-grow-with-ai/",
+      "originalUrl": "https://venturebeat.com/ai/as-big-tech-suffers-startups-can-grow-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1206796363-e1654038927332.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/as-big-tech-suffers-startups-can-grow-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/as-big-tech-suffers-startups-can-grow-with-ai/amp/",
+      "publishedDateTime": "2022-12-23T18:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
         "Facebook AI"
       ]
     },
@@ -1395,59 +1449,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-artificial-intelligence-in-security-market-research-reports-industry-size-growth-opportunity-regional-analysis-2022-2031.md",
-      "title": "Artificial Intelligence in Security Market Research Reports, Industry Size, Growth Opportunity, Regional Analysis 2022-2031",
-      "excerpt": "The global Artificial Intelligence in Security market is segregated on the basis of Security as Network Security, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-reports-industry-size-growth-opportunity-regional-analysis-2022-2031-2022-12-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-reports-industry-size-growth-opportunity-regional-analysis-2022-2031-2022-12-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-02T01:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/ai-artificial-intellige
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ai-artificial-intelligence-future-of-work-affect-jobs-workforce/article66287714.ece/amp/"
 type: article
 quality: 71
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hindu
@@ -25,6 +25,38 @@ images:
     width: 1200
     height: 825
     isCached: true
+
+related:
+  - title: "AI And Machine Learning In The Workplace: Preparing For 2023"
+    excerpt: "The Equal Employment Opportunity Commission (EEOC) has been particularly active through its EEOC initiative on AI and algorithmic fairness and its joint HIRE initiative with the U"
+    publishedDateTime: 2022-12-26T10:59:00Z
+    webUrl: "https://www.forbes.com/sites/forbesnonprofitcouncil/2022/12/26/ai-and-machine-learning-in-the-workplace-preparing-for-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesnonprofitcouncil/2022/12/26/ai-and-machine-learning-in-the-workplace-preparing-for-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2022/12/26/ai-and-machine-learning-in-the-workplace-preparing-for-2023/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63a5cb98fd043c3b6bcc732b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 638
+        isCached: true
+  - title: "How Deep Learning is Revolutionizing the World of AI"
+    excerpt: "Deep learning is a subfield of machine learning that uses neural networks to recognize patterns and make decisions based on data inputs."
+    publishedDateTime: 2022-12-24T16:03:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/digitalmarketinginsights/how-deep-learning-is-revolutionizing-the-world-of-ai-48392/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "HxItU+qCug9xGm7b8bVSo/GL8UJSLRfEYDuZb+8cp1HiASgSQtvaCu+KYmXlf6Iz+ghjbAFihvm3Cv5KHzn0lk3snRTXHKiRuWNyZRaTbC39d8DreV8uAIYm5oFr2rwa6ZLpZrB456hATfpSQdtlA7QKlO+REBCQJWbSMgJRtkQME+vz4RH9WV0nLoyUWUqKdWjlkU8qGoufxIAw0iK3xSgQdsYg3Y9XBucTenYP3u9iuGMADi/9nJeJcAddADpphyOtyA4gyBcs8qNHcFZwvJsrzHgS8fh8TM2PzPBM6wgVgjzftiofmX+y35qcyxtFy5DFL+qoB9gOSy14hWQPBZXJlkDPef1GYAn2XodGT7Eph8eRg3k3Fnu9OYSwAfFQAeic8KgQqBgeagT4U/jaYFEuhLl6UkweOO3X7pNwIpVUx4704ZdMdhXht8lxtX/ITpr/yTuIjhFPrlCFb4PBVICIoKG5yUlIf513nPTSkte9vFuJd87BDbBW4pz2gt3lFsuEWDek+YCVznOqzZkIJQ==;0jwYThUDlPspN4a9raGBXg=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/as-big-tech-suffers-startups-can-grow-with-a
 ampWebUrl: "https://venturebeat.com/ai/as-big-tech-suffers-startups-can-grow-with-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/as-big-tech-suffers-startups-can-grow-with-ai/amp/"
 type: article
-quality: 89
-heat: 90
+quality: 91
+heat: 92
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1206796363-e1654038927332.jpg?w=1200&strip=all"

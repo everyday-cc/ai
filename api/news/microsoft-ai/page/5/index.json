@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-19-microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud.md",
+      "title": "Microsoft and Nvidia extend partnership to build AI supercomputer in the cloud",
+      "excerpt": "Nidhi Chappell, partner/GM, specialized compute at Microsoft, explained to VentureBeat that Azure AI-optimized virtual machine (VM) offerings, like the current generation of the NDm A100 v4 VM series, start with a single virtual machine (VM) and eight ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/",
+      "originalUrl": "https://venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1154983903-e1652785911789.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/amp/",
+      "publishedDateTime": "2022-11-18T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-19-nvidia-and-microsoft-announce-plans-to-build-a-massive-ai-supercomputer.md",
       "title": "Nvidia and Microsoft announce plans to build a ‘massive’ AI supercomputer",
       "excerpt": "The future of artificial intelligence requires more powerful hardware to realize its potential. Nvidia and Microsoft will meet that need by building an “AI supercomputer.” Contrary to",
@@ -1297,49 +1349,6 @@
       "provider": {
         "name": "PharmiWeb",
         "domain": "pharmiweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-young-onset-dementia-how-to-beat-cognitive-decline.md",
-      "title": "Young-onset dementia: how to beat cognitive decline",
-      "excerpt": "Dementia is a disease most often associated with growing old, the consequence of progressive decline in cognitive ability that gradually causes problems with memory, thinking and problem-solving.",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishexaminer.com/lifestyle/healthandwellbeing/arid-41003897.html",
-      "originalUrl": "https://www.irishexaminer.com/lifestyle/healthandwellbeing/arid-41003897.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.irishexaminer.com/cms_media/module_img/6571/3285659_5_seoimageog_GettyImages-1309122635_1_.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T18:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Irish Examiner",
-        "domain": "irishexaminer.com",
         "images": null,
         "publishers": null,
         "authors": null

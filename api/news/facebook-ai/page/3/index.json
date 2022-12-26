@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-27-ais-new-creative-streak-sparks-a-silicon-valley-gold-rush.md",
+      "title": "AI's New Creative Streak Sparks a Silicon Valley Gold Rush",
+      "excerpt": "Investors have got the hots for \"generative AI\" that can make text and images. But so far, the hype runs ahead of the business results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/",
+      "originalUrl": "https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/635a221f93ea9ed771dc5180/master/pass/Business-AI-Generators-Stephanie-Guo-1177538357.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/amp",
+      "publishedDateTime": "2022-10-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-ford-disbands-argo-ai-autonomous-vehicle-unit-posts-loss.md",
       "title": "Ford disbands Argo AI autonomous vehicle unit, posts loss",
       "excerpt": "Ford is pulling out of its investment in Argo AI, an autonomous vehicle company ... said Guidehouse Research mobility analyst Sam Abuelsamid. The business, he said, has required big investments ...",
@@ -1366,40 +1419,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-hootsuite-provides-ai-features-for-shopify-merchants-on-instagram-facebook-messenger.md",
-      "title": "Hootsuite Provides AI Features For Shopify Merchants On Instagram, Facebook Messenger",
-      "excerpt": "the conversational AI (artificial intelligence) platform it purchased for $48 million in 2021, has integrated Instagram direct messages and Facebook Messenger within its ecommerce Shopify chatbot app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/378347/hootsuite-provides-ai-features-for-shopify-merchan.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/378347/hootsuite-provides-ai-features-for-shopify-merchan.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

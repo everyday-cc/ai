@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-23-experts-remain-sceptical-of-ethics-as-unesco-emphasises-implementation-of-ai-in-education-in-india.md",
+      "title": "Experts remain sceptical of ethics, as UNESCO emphasises implementation of AI in education in India",
+      "excerpt": "Interestingly, experts has opined that AI based tools can be a source of bias for teacher and create discrimination amongst students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/education-2/unesco-ai-education-report-state-of-the-education-report-for-india-artificial-intelligence-edtech/2684220/",
+      "originalUrl": "https://www.financialexpress.com/education-2/unesco-ai-education-report-state-of-the-education-report-for-india-artificial-intelligence-edtech/2684220/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/09/AI-Unesco.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/education-2/unesco-ai-education-report-state-of-the-education-report-for-india-artificial-intelligence-edtech/2684220/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/unesco-ai-education-report-state-of-the-education-report-for-india-artificial-intelligence-edtech/2684220/lite/",
+      "publishedDateTime": "2022-09-22T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-09-23-artist-receives-first-known-us-copyright-registration-for-generative-ai-art.md",
       "title": "Artist receives first known US copyright registration for generative AI art",
       "excerpt": "In what might be a first, a New York-based artist named Kris Kashtanova has received US copyright registration on their graphic novel that features AI-generated artwork, according to their Instagram feed and confirmed through a public records search by Ars Technica.",

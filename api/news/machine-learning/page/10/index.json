@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-10-05-rbi-plans-to-extensively-use-ai-machine-learning-to-improve-regulatory-supervision.md",
+      "title": "RBI plans to extensively use AI, machine learning to improve regulatory supervision",
+      "excerpt": "The Reserve Bank is planning to extensively use advanced analytics, artificial intelligence and machine learning to analyse its huge database and improve regulatory supervision on banks and NBFCs. For this purpose,",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307",
+      "originalUrl": "https://www.telegraphindia.com/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2022/Apr/1649873219_rbi.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307",
+      "publishedDateTime": "2022-10-05T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-scientists-use-machine-learning-to-accelerate-materials-discovery.md",
       "title": "Scientists use machine learning to accelerate materials discovery",
       "excerpt": "Scientists at Argonne National Laboratory have recently demonstrated an automated process for identifying and exploring promising new materials by combining machine learning (ML) and high performance computing.",
@@ -1379,59 +1422,6 @@
         "AI",
         "Natural Language Processing",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-inventecs-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs.md",
-      "title": "Inventec's Rhyperior Is the Powerhouse GPU Accelerator System Every Business in the AI And ML World Needs",
-      "excerpt": "Rhyperior is the ideal and effective system to enhance performance dramatically for the modern workload.TAIPEI, Sept. 26, 2022 /PRNewswire/",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/inventec-s-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs-1031765200",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/inventec-s-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs-1031765200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1906206/InventecRhyperior_0919.jpg",
-          "width": 400,
-          "height": 205,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

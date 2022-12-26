@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/tech-mantras-revolu
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/tech-mantras-revolutionising-healthcare-from-patients-homes-to-the-operating-rooms/"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -27,33 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Deep Learning is Revolutionizing the World of AI"
-    excerpt: "Deep learning is a subfield of machine learning that uses neural networks to recognize patterns and make decisions based on data inputs."
-    publishedDateTime: 2022-12-24T16:03:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/digitalmarketinginsights/how-deep-learning-is-revolutionizing-the-world-of-ai-48392/"
+  - title: "Top tech trends transforming the healthcare industry"
+    excerpt: "Technology continues to revolutionise the healthcare industry and impacts almost every part of the medical field – from helping make new discoveries in medicine and treatments, to data collection, disease research,"
+    publishedDateTime: 2022-12-26T07:29:00Z
+    webUrl: "https://gulfbusiness.com/here-are-the-top-tech-trends-that-healthcare-industry-is-relying-on/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "How artificial intelligence is helping us explore the solar system"
-    excerpt: "Let's be honest — it's much easier for robots to explore space than us humans. Robots don't need fresh air and water, or to lug around a bunch of food to keep themselves alive. They do, however, require humans to steer them and make decisions."
-    publishedDateTime: 2022-12-23T16:00:00Z
-    webUrl: "https://www.space.com/solar-system-planetary-science-machine-learning"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
+      name: Gulf Business
+      domain: gulfbusiness.com
     quality: 39
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/rWC9oMBWsoNp3UZ2yEez9a-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://gulfbusiness.com/wp-content/uploads/2022/12/Edited-Photos_60.jpg"
+        width: 930
+        height: 620
         isCached: true
 
 secured: "jTg40VUYJqUfgiCDcHvvpVm0z9olCIojKoMtUMkcWYxJ61V7uXxCC+tbO7hR5P0cXFaodg7TkBkrW5LCpd/L6c8fP7AEm6WAW9oEVaYlwrD5wGYJC/H3FgCv8p+VKNEKKvDU4F6xjw7AeuPKmiHAddVrPZExSNHd2ImVfY7I0PG0GWAoR9TxwFHorxBQLlPj6qC8ktFq6ykTqUwkhL0KsSZbZvHwCz65dpg9ujiChsFqX/3hLchuVUhlcPseToAsZg0nnp1UDK8YQr8FV03el2sDH39L5HuBG3cYJ7fIqlkPXmv3RArjAshsdz/UX920V+40gBosysTS3PtjbjpJbIgQpasz1yTeHim1P7eoH7s=;Xcj7tNTpZPIDcJWikNGBgA=="

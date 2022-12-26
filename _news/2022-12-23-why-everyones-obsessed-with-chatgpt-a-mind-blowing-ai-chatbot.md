@@ -70,15 +70,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Quora launches Poe, a way to talk to AI chatbots like ChatGPT"
-    excerpt: "At launch, Poe provides access to several text-generating AI models, including ChatGPT. (OpenAI doesn’t presently offer a public API for ChatGPT; the Quora spokesperson refused"
-    publishedDateTime: 2022-12-21T19:43:00Z
-    webUrl: "https://techcrunch.com/2022/12/21/quora-launches-poe-a-way-to-talk-to-ai-chatbots-like-chatgpt/"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: techcrunch.com
-    quality: 47
   - title: "Google is reportedly scrambling to match viral AI ChatGPT"
     excerpt: "ChatGPT is a “code red” event for Google, as the Search giant is struggling to showcase competing products by I/O 2023."
     publishedDateTime: 2022-12-22T16:33:00Z

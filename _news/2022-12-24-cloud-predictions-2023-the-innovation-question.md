@@ -7,8 +7,8 @@ originalUrl: "https://www.eweek.com/cloud/cloud-predictions-2023/"
 webUrl: "https://www.eweek.com/cloud/cloud-predictions-2023/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: eWeek
@@ -43,15 +43,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Rose Parade 2023: Self-built float tradition is alive and well"
-    excerpt: "When floats first became motorized, the creations were small by current standards. Some floats were built on the chassis of Model-T Fords, Andersen said, and were about 8 to 10 feet long and 4 to"
-    publishedDateTime: 2022-12-21T20:19:00Z
-    webUrl: "https://www.ocregister.com/2022/12/21/rose-parade-2023-self-built-float-tradition-is-alive-and-well/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 4
 
 secured: "Al4X4w4xGB7qxrWMMEfC8uqYRo0tg7ffS5qgtIcFnRxjkHyglDewva5W87N+OJMo/zJR2qynZIsLOOEH2zZd9ix2GbVCnNabELPTO1v4+FPkzBtMMbBc/W+mT/9XdGEiVUm7JVlt737m2guEGKh3nFqIJz3+qssugb/Q6AdrK+g+unVMM8i2B8nfxU6QaNIp+3pkD9NTDuQneuziH74lzwaKxYx9dPGSLWR3nPhfMGatVfWSPgeKXwRM4v/A6ZFDy/4uPX+2GO/P5Cb2f3IedexkxEPcqaK+Oze+DYxHLQOuab4Ch2y5q9/p+hFxrikOchv/7q4aJMb9OsZaQuqPfxBjvea/VXkTg69an7CJYek7HqN7IfhLtKH/UyTrDAyHF7uCO3I2/NKbvJeA0Iyis/ShNqvRMvaOwkJfuTSO9/IP8KoGjAncMImWiKXFTQ/+MEiEG64ny+m1s46KkNwOYSR/dNxH3qITUU7n4xnu7WIl41PKA2i0pR5dkB1cTZoA3k87iN04zwKQgyMY5myQ6g==;qZ5FG2jjTy8IxxrGblq1rg=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://timesofindia.indiatimes.com/readersblog/digitalmarketingin
 webUrl: "https://timesofindia.indiatimes.com/readersblog/digitalmarketinginsights/how-deep-learning-is-revolutionizing-the-world-of-ai-48392/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Indiatimes
@@ -25,35 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Tech mantras revolutionising healthcare from patients’ homes to the operating rooms"
-    excerpt: "Digital influence and technological intervention are breaking barriers in the Indian healthcare industry, especially in post-pandemic times, leading to a dynamic transformation. While the telemedicine sector has witnessed a 30% spike in patients in"
-    publishedDateTime: 2022-12-25T15:34:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/tech-mantras-revolutionising-healthcare-from-patients-homes-to-the-operating-rooms/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/tech-mantras-revolutionising-healthcare-from-patients-homes-to-the-operating-rooms/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/tech-mantras-revolutionising-healthcare-from-patients-homes-to-the-operating-rooms/"
+  - title: "AI And Machine Learning In The Workplace: Preparing For 2023"
+    excerpt: "The Equal Employment Opportunity Commission (EEOC) has been particularly active through its EEOC initiative on AI and algorithmic fairness and its joint HIRE initiative with the U"
+    publishedDateTime: 2022-12-26T10:59:00Z
+    webUrl: "https://www.forbes.com/sites/forbesnonprofitcouncil/2022/12/26/ai-and-machine-learning-in-the-workplace-preparing-for-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesnonprofitcouncil/2022/12/26/ai-and-machine-learning-in-the-workplace-preparing-for-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2022/12/26/ai-and-machine-learning-in-the-workplace-preparing-for-2023/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 53
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
-  - title: "How artificial intelligence is helping us explore the solar system"
-    excerpt: "Let's be honest — it's much easier for robots to explore space than us humans. Robots don't need fresh air and water, or to lug around a bunch of food to keep themselves alive. They do, however, require humans to steer them and make decisions."
-    publishedDateTime: 2022-12-23T16:00:00Z
-    webUrl: "https://www.space.com/solar-system-planetary-science-machine-learning"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/rWC9oMBWsoNp3UZ2yEez9a-1200-80.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63a5cb98fd043c3b6bcc732b/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 638
+        isCached: true
+  - title: "AI and the future of work: will Artificial Intelligence affect the workforce?"
+    excerpt: "One of the biggest questions this year: how long will we have our jobs? Here’s looking at how generative AI will transform knowledge work in the next decade"
+    publishedDateTime: 2022-12-23T08:23:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/ai-artificial-intelligence-future-of-work-affect-jobs-workforce/article66287714.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/ai-artificial-intelligence-future-of-work-affect-jobs-workforce/article66287714.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ai-artificial-intelligence-future-of-work-affect-jobs-workforce/article66287714.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 71
+    images:
+      - url: "https://th-i.thgim.com/public/life-and-style/gjmen1/article66287716.ece/alternates/FREE_1200/AI%20artificial%20intelligence%20and%20jobs%20on%20Stable%20Diffusion%20v1.5.jpeg"
+        width: 1200
+        height: 825
         isCached: true
 
 secured: "woAfdxACeiIPGqYWMiEQdr1ntEPg5zcJuoqJ+L/5zWxgOHTYIUHCzNebXRoK87BuTSuYTJPxqkwNOi8LrnSYCwF/ejbG2FQHRVdXMXBP5Xqyhm5738Yv/tx+ySNuqBMbfrCq4U0VVzJxTWqlI+Ee5pwUoDoOJHBbm3oGXbZ9xlmEfeLM/1aujZoUXsBVRBxDrnGaFzVLNG9tAgTlJxAY7aV16b2pJ0RhmLi9z0bJMmAG+BzPn8Fz+IhyqP2NDJVvmezN7Vi063hMNe32KoqoYwXoBpvVmr0jMMd7MwuTf8GXaHjj5cOIgPynlZ5N7RPkpNad3k9k3mwTaUGscMZ1yATTobFu9vMNbqGx1YewSbg=;YcCBN3ibHQSyrDBlMvXEXA=="

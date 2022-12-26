@@ -2,58 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2022-10-04-behind-the-story-navigating-san-francisco-in-a-driverless-car.md",
-      "title": "Behind the Story: Navigating San Francisco in a Driverless Car",
-      "excerpt": "A Times technology reporter in San Francisco, Cade recently wrote about his first ride in a truly driverless car, an experience “by turns spooky, impressive, perplexing and a little stressful.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.html",
-      "originalUrl": "https://www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/10/02/business/04californiatoday-car/04californiatoday-car-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.amp.html",
-      "publishedDateTime": "2022-10-04T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-04-tesla-ai-day-robots-and-full-self-driving-equals-more-upside.md",
       "title": "Tesla: AI Day, Robots And Full Self-Driving Equals More Upside",
       "excerpt": "Tesla recently announced AI Day with robots and supercomputers. See how TSLA stock's announcements have only heightened the upside potential for the future.",
@@ -1422,6 +1370,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-chinas-ponyai-saic-ai-lab-to-advance-marvel-r-robotaxi-partnership.md",
+      "title": "China's Pony.ai, SAIC AI Lab to Advance Marvel-R Robotaxi Partnership",
+      "excerpt": "Pony.ai, a Chinese autonomous driving startup, and an artificial intelligence lab of SAIC Motor Group are deepening joint product development after revealing their driverless concept car Marvel-R. SAIC AI Lab and Pony.",
+      "sourceUrl": null,
+      "webUrl": "https://www.yicaiglobal.com/news/china-ponyai-saic-ai-lab-to-advance-marvel-r-robotaxi-partnership",
+      "originalUrl": "https://www.yicaiglobal.com/news/china-ponyai-saic-ai-lab-to-advance-marvel-r-robotaxi-partnership",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img.yicaiglobal.com/cdn/news/china-ponyai-saic-ai-lab-to-advance-marvel-r-robotaxi-partnership/23913886101189.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yicai Global",
+        "domain": "yicaiglobal.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

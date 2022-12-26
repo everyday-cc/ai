@@ -77,22 +77,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Driver claims Tesla self-driving software triggered Thanksgiving Bay Bridge crash"
-    excerpt: "A driver told authorities that their Tesla's \"full-self-driving\" software braked unexpectedly on Thanksgiving, triggering an eight-car injury accident on the Bay Bridge​."
-    publishedDateTime: 2022-12-21T20:11:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/driver-claims-tesla-self-driving-software-triggered-thanksgiving-bay-bridge-crash/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/driver-claims-tesla-self-driving-software-triggered-thanksgiving-bay-bridge-crash/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/driver-claims-tesla-self-driving-software-triggered-thanksgiving-bay-bridge-crash/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 69
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/24/1e71443c-fa06-413a-a433-1e9b8dc4af98/thumbnail/1200x630/d5dd0144e44c07dab95f73f972d0e49b/bay-bridge-crash-2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla Driver Says Full Self-Driving Mode Caused 8-Car Crash"
     excerpt: "Tesla CEO Elon Musk tweeted that \"full self-driving software\" (FSD) packages were available to all Tesla owners. Shortly afterward, on Thanksgiving Day, one of the company's EVs allegedly triggered a pileup just outside San Francisco."
     publishedDateTime: 2022-12-22T03:07:00Z
@@ -106,22 +90,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1671678206-GettyImages-85622497-tesla-model-s.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Driver claims Tesla's self-driving software triggered Thanksgiving Bay Bridge crash"
-    excerpt: "A driver told authorities that their Tesla's \"full-self-driving\" software braked unexpectedly on Thanksgiving, triggering an eight-car injury accident on the Bay Bridge​."
-    publishedDateTime: 2022-12-21T20:11:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/driver-claims-tesla-self-driving-software-triggered-thanksgiving-bay-bridge-crash/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/driver-claims-tesla-self-driving-software-triggered-thanksgiving-bay-bridge-crash/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/driver-claims-tesla-self-driving-software-triggered-thanksgiving-bay-bridge-crash/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 68
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/24/1e71443c-fa06-413a-a433-1e9b8dc4af98/thumbnail/1200x630/d5dd0144e44c07dab95f73f972d0e49b/bay-bridge-crash-2.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Tesla driver blames self-driving mode for eight-car pileup"
     excerpt: "A driver says an eight-car pileup on Thanksgiving Day was the result of his Tesla's Full Self-Driving mode malfunctioning."

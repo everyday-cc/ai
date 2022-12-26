@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-28-can-the-ai-bill-of-rights-shape-global-ai-regulation.md",
+      "title": "Can the AI Bill of Rights shape global AI regulation?",
+      "excerpt": "Experts clash over whether the policy proposal is fit for purpose, with some suggesting it does more harm than good",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/business/policy-legislation/369570/can-the-ai-bill-of-rights-shape-global-ai-regulation",
+      "originalUrl": "https://www.itpro.co.uk/business/policy-legislation/369570/can-the-ai-bill-of-rights-shape-global-ai-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1669130979/itpro/2022/November/GettyImages-US%20flag%20digital.jpg",
+          "width": 375,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-tsa-faces-ethical-limits-on-ai-but-advancement-work-must-persist.md",
       "title": "TSA faces ethical limits on AI, but advancement work must persist",
       "excerpt": "The potential competitive advantage offered by AI is enormous. Yet transitions from the research lab to practice will remain choppy and uncertain, which will help ensure that progress is measured, methodical and slow.",
@@ -1389,41 +1441,6 @@
         "AI",
         "AI Ethics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-29-father-of-azure-cognitive-services-joins-ai-startup-vaital.md",
-      "title": "Father of Azure Cognitive Services joins AI startup Vaital",
-      "excerpt": "Founder of Microsoft Azure Cognitive Services, Yu-Ting Kuo, joins board of directors of Vaital, a Bellevue-based AI and software startup. Kou founded and led Microsoft's Computer Vision Group, establi",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29468999/father-of-azure-cognitive-services-joins-ai-startup-vaital",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29468999/father-of-azure-cognitive-services-joins-ai-startup-vaital",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29468999",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29468999",
-      "publishedDateTime": "2022-10-28T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

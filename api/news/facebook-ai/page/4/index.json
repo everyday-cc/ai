@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-04-hootsuite-provides-ai-features-for-shopify-merchants-on-instagram-facebook-messenger.md",
+      "title": "Hootsuite Provides AI Features For Shopify Merchants On Instagram, Facebook Messenger",
+      "excerpt": "the conversational AI (artificial intelligence) platform it purchased for $48 million in 2021, has integrated Instagram direct messages and Facebook Messenger within its ecommerce Shopify chatbot app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/378347/hootsuite-provides-ai-features-for-shopify-merchan.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/378347/hootsuite-provides-ai-features-for-shopify-merchan.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-03-achieve-four-times-higher-ml-inference-throughput-at-three-times-lower-cost-per-inference-with-amazon-ec2-g5-instances-for-nlp-and-cv-pytorch.md",
       "title": "Achieve four times higher ML inference throughput at three times lower cost per inference with Amazon EC2 G5 instances for NLP and CV PyTorch models",
       "excerpt": "Amazon Elastic Compute Cloud (Amazon EC2) G5 instances are the first and only instances in the cloud to feature NVIDIA A10G Tensor Core GPUs, which you can use for a wide range of graphics-intensive and machine learning (ML) use cases. With G5 instances, ML customers get high performance and a cost-efficient",
@@ -1457,49 +1491,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-ai-eye-podcast-722-stocks-discussed-nyse-ai-nasdaqgs-goog-otc-mrnj.md",
-      "title": "AI Eye Podcast 722: Stocks discussed: (NYSE: $AI) (NasdaqGS: $GOOG) (OTC: $MRNJ)",
-      "excerpt": "Investorideas.com, a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news, deal tracker and advancements in artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.investorideas.com/news/2022/artificial-intelligence/09131AI-GOOG-MRNJ.asp",
-      "originalUrl": "https://www.investorideas.com/news/2022/artificial-intelligence/09131AI-GOOG-MRNJ.asp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.investorideas.com/images/AI-Eye.jpg",
-          "width": 1280,
-          "height": 1206,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investor ideas",
-        "domain": "investorideas.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

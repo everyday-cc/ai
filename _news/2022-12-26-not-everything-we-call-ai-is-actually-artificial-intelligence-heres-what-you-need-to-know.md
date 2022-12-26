@@ -35,7 +35,7 @@ related:
     provider:
       name: NDTV
       domain: ndtv.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://c.ndtvimg.com/2021-12/g3gv78ps_artificial-intelligence-generic-pixabay_625x300_11_December_21.jpg"
         width: 650
@@ -67,6 +67,6 @@ related:
       domain: theconversation.com
     quality: 47
 
-secured: "l60Rb0c73wrctU2jWlOFcvP50WitpPBo19vISDvJmI5OMs6riN9B+iUkFoBaAmbAvOHWTgGlgKDzwD0Ucyr582WN8tfRR91p4uPuIFCj8hm605YJR0D7eB7hQ6BAFUi7oseO3qSFHbXnWqkRenrRWMfRf9cpIalbWqZ/MeMf90/dUlbbNI502gYBsv3bkajKoqJaKVFaa+CDeTZ+YcktmkOLm2MMB0Mb6ZF6wCqIR5oJIMh/RjRG2wqpIvcS9PSCJu/h3c4+oNysChzFHDVOg/ew6RfYHjyG1jFYmHoom1I3oHKZvxhK+pLJ71Vj2pdBOhi/7Y203Axi/Gm7PPX8U/9b/swpw8CM0qv0JaolAh8=;bRTqMR5LhUM0DyV+eRjjgw=="
+secured: "HAkanwoL/Fx/mG7a6hwS+0Nh7Yy+P/TgkA4KO6OcIpGfFybPBCg7sQJSQMvB0SvJkdIgfsdR8Rp5rmP5ls11aBnccA4vwIBocyl/dLIfbWqfMQUu07lVE8ugbVF5HUdPJlElV3ghNcaa8mSTxmY+URcDknbQnOjtHm/MiwZWG6vrttJ0IMrXC7dGGh/9ADAmP8tyi1kHIvwvofrE8pdmq0CIlBQviPTUmix8zc4dbZtAXv6IGwQ6po/u2wcqKpd7ZNmKbiFVLv/MV3XGKFFu1BEZJ5837XvBTt4I+B/9H1Rxtp91TAuAByVBw1TEX0N01oCv8brJ5+6YTYvW6aQlwp2ZZ0yDWDxBZqTfYOWrecQ=;itJWpcLeKSZoT8+oLj6pwQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://gulfbusiness.com/here-are-the-top-tech-trends-that-healthc
 webUrl: "https://gulfbusiness.com/here-are-the-top-tech-trends-that-healthcare-industry-is-relying-on/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 930
     height: 620
     isCached: true
+
+related:
+  - title: "Tech mantras revolutionising healthcare from patients’ homes to the operating rooms"
+    excerpt: "Digital influence and technological intervention are breaking barriers in the Indian healthcare industry, especially in post-pandemic times, leading to a dynamic transformation. While the telemedicine sector has witnessed a 30% spike in patients in"
+    publishedDateTime: 2022-12-25T15:34:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/tech-mantras-revolutionising-healthcare-from-patients-homes-to-the-operating-rooms/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/tech-mantras-revolutionising-healthcare-from-patients-homes-to-the-operating-rooms/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/tech-mantras-revolutionising-healthcare-from-patients-homes-to-the-operating-rooms/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 53
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
 
 secured: "mT/PKYOBnUBq/WVKF6/nuTONS1ifzwIYOLe3xCfFbezZidF4cvXuEMLxE8jrsH4nFsYNW4ayh2HJ28BN/HSWvTmnnVm/BRsCGhWUKBscQTVSOPLqo0qSMip6WrmppAAI9UxLy2RTJJVEeskt0wfv4ZjABfQc2iE1gLm3wtm1kJn/U8ovw3NRyUXCIgdYjfEhm2/NNzeVi5v/NTrZd0JxY4GsffAxaMgidxriXpkrhMNid7/nOA0MmitnlcFv79c3bwHvjRWJhX72gnRIhOx6U4rwaXeXJtwl8jwhp8zfSqeO4UtCAGmTObog1C99vXOc1Xz8kKLpBtdmbtwHOVeZaK5Ms7P+CtoYHnymClHzUwU=;jG8ph/5PmEOL+bW6HXlW+w=="
 ---

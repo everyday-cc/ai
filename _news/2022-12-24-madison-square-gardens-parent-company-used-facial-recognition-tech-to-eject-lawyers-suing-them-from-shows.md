@@ -161,20 +161,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Facial-Recognition Tech Gets Lawyer Booted From Radio City Music Hall"
-    excerpt: "Kelly Conlon says she purchased tickets for her and her daughter to see the Radio City Music Hall Christmas show as part of a Girl Scout outing. Upon entering, Conlon says she heard an announcement over the PA system describing her physical appearance."
-    publishedDateTime: 2022-12-21T20:36:00Z
-    webUrl: "https://www.extremetech.com/extreme/341741-facial-recognition-tech-gets-lawyer-booted-from-radio-city-music-hall"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 24
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2018/10/598521-facial-recognition-640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "X/47N2c05SpyJWfsU3fFGGup0BiJ8Cu2otEUzOtNq/KX8D0wRSmgM7/r3kuPi/zGc3VR8j8JaoMsqMhbN7i7OfBVF2GLxrF2XlHVpbEEFgigtAOp+Qpqkp9SclrXrV34CqhwI3XW5P6sHFjCY7qrMSkW5dCAaOvUMTrGTOStyloK3a+jE8OGlXq2qoIa1ArHGt6bsDhMS9DHOFMYeAyGHUGJ0oRMNDgtgT+HD1tMLXdcQMBwDfIRJulSLG+rNNPX/jpHxXc777fyJwRgextTwAfWYFZ0e0K3CkfLngW5Grais633+Rm5R0uGhlCUfjOkqoZylc/uvExWWdKzQfHtjwvv2yiQQYAAbBv2qM14zDU=;frW+neUXPhG/Xo21I7CCrA=="
 ---

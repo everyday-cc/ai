@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-may-predic
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm"
 type: article
 quality: 53
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI tool predicts which patients with dystonia respond to Botox treatment with 96% accuracy"
-    excerpt: "Dystonias are potentially disabling neurological conditions that can greatly affect quality of life. Effective treatments are sparse, with botulinum toxin (Botox) injections into the affected muscles considered the first-line therapy."
-    publishedDateTime: 2022-12-21T20:55:00Z
-    webUrl: "https://medicalxpress.com/news/2022-12-ai-tool-patients-dystonia-botox.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-12-ai-tool-patients-dystonia-botox.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-ai-tool-patients-dystonia-botox.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 51
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-91.jpg"
-        width: 2128
-        height: 1295
-        isCached: true
   - title: "Artificial intelligence tool predicts which patients with dystonia respond to Botox treatment with 96 percent accuracy"
     excerpt: "An artificial intelligence tool called DystoniaBoTXNet predicted which patients with dystonia would benefit from botulinum toxin injections with 96.3% accuracy. DystoniaBoTXNet could be a tool to aid clinical decision-making and address some of the issues patients with dystonia face with overtreatment and undertreatment with this first-line therapy."
     publishedDateTime: 2022-12-21T21:17:00Z
