@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/virtual/how-deep-learning-will-ignite-the-me
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/virtual/how-deep-learning-will-ignite-the-metaverse-in-2023-and-beyond/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

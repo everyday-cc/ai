@@ -9,7 +9,7 @@ ampWebUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technolo
 cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
 type: article
 quality: 91
-heat: 152
+heat: 151
 published: true
 
 provider:
@@ -117,6 +117,6 @@ related:
         height: 720
         isCached: true
 
-secured: "a0SD3Bv+iBHQ71B1MSEYFfMQ/xtBfRY7SkvFsEwwWHJB9ht91uWYBYI6jlI0+g4iSaQK2Qh0tl9xhEGYns5C20G+h0PODEZ2xwfhrCd7kCCVMoegFWMnTGEXHuOijYBMopNUdtHI/6BBAhSAq8tVLiG9f4NyHAL9ku/BDwfvH6ONzq49iqyEp4vugMhOmzqJGWQsxwKvnLa10S0HpEUoUYPTKwxFAijMt+Dhsa/q1xGHUFXUKMpFLGLaiW0Nza4ADEUh+u7Aa8dujOV8zRrsLerHuHOdUnw0+0oYfbBf9EvIBZEUd2R+fDPGjeGLIuKsT1r8HVkL1xNlacEMh2QFCOHwAs1/D6/K0kHp72Qad5s=;3NpWDYFTb5jWdHwGZuf7AA=="
+secured: "JsStXxhNNxYGZc5ESk1EZR0qv/7UMPuaCTCxgKKYN+ekW5R0j9BeSorOVdr9e47LuCpFw37L28ch9q8Pxbe4ozUzmG9U7F2vvVGcZrJ4npSVRAn2UoP6ouNCpJqRk1B3sw+YmH3xtQYsOeB30ArHyejtOiQneUUyo3Oq7rw1jX1oIsfbN0FMilePfodnKs1JOELPXS6JkSUjn86XZSD6dipGmjMXG0W7lEXDwZpP2XVoFF4zGpognV6dxBR+uGf2RnSz1GZPXzxdJ1LdxpJ+lN2r16rY7Cp1L7r5g/GWg+kDMtmVeRAj2rMQUaBU0dSGxnES6OisLuimM6l8vSCauks4LpSQH3P92YHqaBWQ3pln352ZeMnwnhjSiFdN3MAvuaDjvYhymEp8urv3NkjsjKgRJ6fcU3ZQoXfeFyYLuFe1ruVuwOT4R3DzoR4VmKh2A5xcQ3S4INaysQUW3+3nYmC0oLCF3w8YqoCoklVT/ssSXkf2W/LfXnrfNpOuVxPjZ5aIDD0SNVph3YYeplm+cA==;HM2QGRsINLG0KikJWIsCJA=="
 ---
 

@@ -2,6 +2,93 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2022-11-01-self-driving-ships-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share.md",
+      "title": "Self-driving Ships Market Industry Analysis 2022 To 2028 based on Sales, Revenue, Size, and Share.",
+      "excerpt": "Pre and Post Covid is covered and Report Customization is available. The global Self-driving Ships market size is projected to reach multi million by 2028, in comparision to 2021, at unexpected CAGR during 2022-2028 (Ask for Sample Report).",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-ships-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-11-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-ships-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-11-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-31T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-the-national-beat-driverless-car-startup-shuts-down-tiger-woods-new-venture-and-more.md",
+      "title": "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more",
+      "excerpt": "It's a blow to the promise of driverless vehicles, which has been touted as one of the next impactful advances in technology but has failed to materialize in the way some enthusiasts have hoped.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/baltimore/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html",
+      "originalUrl": "https://www.bizjournals.com/baltimore/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-31T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-01-farm-robotics-technology-company-buys-big-santa-clara-office-building.md",
       "title": "Farm robotics technology company buys big Santa Clara office building",
       "excerpt": "A farm robotics company whose technologies could revolutionize farming and food production has bought a big Santa Clara office building that it had previously subleased.",
@@ -1070,101 +1157,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-a-system-that-allows-users-to-communicate-with-others-remotely-while-embodying-a-humanoid-robot.md",
-      "title": "A system that allows users to communicate with others remotely while embodying a humanoid robot",
-      "excerpt": "Recent technological advancements are opening new and exciting opportunities for communicating with others and visiting places remotely. These advancements include telepresence robots, moving robotic systems that allow users to virtually navigate remote environments and interact with people in these environments.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-10-users-remotely-embodying-humanoid-robot.html",
-      "originalUrl": "https://techxplore.com/news/2022-10-users-remotely-embodying-humanoid-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/a-system-that-allows-u.jpg",
-          "width": 1012,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-10-users-remotely-embodying-humanoid-robot.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-users-remotely-embodying-humanoid-robot.amp",
-      "publishedDateTime": "2022-10-31T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-self-driving-truck-startup-tusimple-fires-its-ceo-over-improper-ties-to-a-chinese-firm.md",
-      "title": "Self-driving truck startup TuSimple fires its CEO over improper ties to a Chinese firm",
-      "excerpt": "Self-driving truck startup TuSimple has fired its CEO, Xiaodi Hou, after an internal investigation found improper dealings and possible tech transfer to a Chinese firm led by TuSimple’s now-departed co-founder,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html",
-      "originalUrl": "https://www.cnbc.com/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105735152-1550011600980dy1_nvtvyaawmqd.jpg?v=1667224750",
-          "width": 1737,
-          "height": 1159,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html",
-      "publishedDateTime": "2022-10-31T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

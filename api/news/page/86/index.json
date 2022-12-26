@@ -2,6 +2,92 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2022-10-12-vectara-a-new-leader-in-applied-large-language-models-launches-its-first-neural-search-as-a-service-offering-to-transform-content-discovery.md",
+      "title": "Vectara, a New Leader in Applied Large Language Models, Launches its First Neural Search as a Service Offering to Transform Content Discovery",
+      "excerpt": "Vectara, the operating platform for neural network technology, today launched its first product, neural search as a service, that leverages large language models to understand the intent behind user queries and bring meaning to search.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/10/12/9690729.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/10/12/9690729.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "NEW YORK, (BUSINESS WIRE) -- inQuba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace-2022-10-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace-2022-10-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-12-the-signal-for-help-i-created-went-viral-now-it-could-be-misused.md",
       "title": "The Signal for Help I Created Went Viral. Now It Could Be Misused",
       "excerpt": "A company with AI camera tools reached out to ask about ... And when they express it, they desire a specific kind of intervention. But research shows that our assumption that human facial ...",
@@ -1015,101 +1101,6 @@
         "name": "The Robot Report",
         "domain": "therobotreport.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much.md",
-      "title": "Survey: 40-50% Of Us Trust Our ‘Self-Driving’ Vehicles From Tesla And Cadillac Far Too Much",
-      "excerpt": "When Tesla sells a Full Self Driving package for $15,000 US, people seem to trust the name and use it pretty much as such, according to a new survey, even if they only have the less capable Autopilot system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6345e7d45bd4910ac4b5c039/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/amp/",
-      "publishedDateTime": "2022-10-11T15:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-although-not-alive-i-can-still-create-art-robot-ai-da-tells-uk-lawmakers.md",
-      "title": "'Although not alive, I can still create art,' robot Ai-Da tells UK lawmakers",
-      "excerpt": "LONDON, Oct 11 (Reuters) - A \"robot artist\" called Ai-Da told British lawmakers on ... Disrupted Flying car by California startup Alef attracts early Tesla investor, article with image October ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/although-not-alive-i-can-still-create-art-robot-ai-da-tells-uk-lawmakers-2022-10-11/",
-      "originalUrl": "https://www.reuters.com/technology/although-not-alive-i-can-still-create-art-robot-ai-da-tells-uk-lawmakers-2022-10-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

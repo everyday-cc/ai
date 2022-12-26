@@ -399,6 +399,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-21-uae-israel-cooperating-to-develop-arabic-language-applications-for-artificial-intelligence-ai.md",
+      "title": "UAE-Israel Cooperating to Develop Arabic Language Applications for Artificial Intelligence (AI)",
+      "excerpt": "Potential Israel-UAE cooperation in developing an advanced application of artificial intelligence (AI) and machine learning to understand the Arabic language and its dialects will benefit the entire Middle East region,",
+      "sourceUrl": null,
+      "webUrl": "https://www.jewishpress.com/news/science-and-tech/ai/uae-israel-cooperating-to-develop-arabic-language-applications-for-artificial-intelligence-ai/2022/12/21/",
+      "originalUrl": "https://www.jewishpress.com/news/science-and-tech/ai/uae-israel-cooperating-to-develop-arabic-language-applications-for-artificial-intelligence-ai/2022/12/21/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.jewishpress.com/wp-content/uploads/2022/12/AI-UAE-Israel-2.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-21T00:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jewish Press",
+        "domain": "jewishpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-21-facial-recognition-used-in-new-york-to-stop-woman-from-seeing-christmas-show.md",
       "title": "Facial recognition used in New York to stop woman from seeing Christmas show",
       "excerpt": "The attorney and mother said the security staff knew her name, her place of work, and said their facial recognition had flagged her, before telling her that she wasn’t allowed to be there",
@@ -1160,59 +1203,6 @@
         "AI",
         "Machine Learning",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-12-20-data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029.md",
-      "title": "Data and AI Ethics Market Research Highlighting Global Opportunities 2023 | Growth Trends and Share Forecast to 2029",
-      "excerpt": "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Data and AI Ethics Market”",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029-2022-12-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029-2022-12-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-19T21:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

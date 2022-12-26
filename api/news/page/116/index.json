@@ -2,6 +2,94 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2022-09-16-the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method.md",
+      "title": "The Mysterious Mathematics of AI Could be Decoded Using the Neural Network Method",
+      "excerpt": "Artificial Intelligence relies on Neural Networks making it think or process information like a human. There is both input and output but it mostly remains unknown what transpires in the processing unit of the Neural Networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techthirsty.com/the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method/",
+      "originalUrl": "https://www.techthirsty.com/the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techthirsty.com/wp-content/uploads/2022/09/Mysterious-Mathematics-of-AI-2.jpg",
+          "width": 1300,
+          "height": 859,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech Thirsty",
+        "domain": "techthirsty.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-automatic-facial-recognition-the-debate-in-2022.md",
+      "title": "Automatic Facial Recognition – The debate in 2022",
+      "excerpt": "In particular, public and private sectors are exploring the use of solutions utilising Automated Facial Recognition (AFR) to prevent crime and improve the safety of their facilities – but where are we now in the AFR debate? In IFSEC Global’s Video ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ifsecglobal.com/surveillance/automatic-facial-recognition-the-debate-in-2022/",
+      "originalUrl": "https://www.ifsecglobal.com/surveillance/automatic-facial-recognition-the-debate-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s33644.pcdn.co/wp-content/uploads/2019/10/fr.gif",
+          "width": 1000,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ifsecglobal.com/surveillance/automatic-facial-recognition-the-debate-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/surveillance/automatic-facial-recognition-the-debate-in-2022/amp/",
+      "publishedDateTime": "2022-09-16T01:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ifsecglobal.com",
+        "domain": "ifsecglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-rephraseai-raises-106-million-in-series-a-funding.md",
       "title": "Rephrase.ai Raises $10.6 Million In Series A Funding",
       "excerpt": "This fund raised will allow the company to enhance its capabilities by integrating product experiences, scaling hiring across the business, including within the engineering, AI, product, sales, and marketing teams,",
@@ -1016,110 +1104,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals.md",
-      "title": "Our commitment on using AI to accelerate progress on global development goals",
-      "excerpt": "I joined Google earlier this year to lead a new function: Technology &amp; Society. Our aim is to help connect research, people and ideas across Google to shape the future of our technology innovations and their impact on society for the better. A key area of focus is AI, a field I have studied and immersed",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/",
-      "originalUrl": "https://blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog.Google_image2096_x_1182_01.max-1300x1300.png",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/amp/",
-      "publishedDateTime": "2022-09-15T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-rephraseai-lands-fresh-investment-to-grow-its-synthetic-media-platform.md",
-      "title": "Rephrase.ai lands fresh investment to grow its synthetic media platform",
-      "excerpt": "Rephrase.ai, a company developing a platform to create synthetic media, including personalized video ads, has raised over $10 million in a Series A venture round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/",
-      "originalUrl": "https://techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Nice-A1-Key-Alt-4.jpeg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/amp/",
-      "publishedDateTime": "2022-09-15T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

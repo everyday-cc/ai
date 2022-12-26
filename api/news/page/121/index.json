@@ -2,6 +2,74 @@
   "page": 121,
   "value": [
     {
+      "path": "_news/2022-09-14-kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022.md",
+      "title": "Kyndi's Natural Language Search Solution Recognized as a KMWorld Top Trend-Setting Product of 2022",
+      "excerpt": "SAN MATEO, Calif., Sept. 13, 2022 /PRNewswire/ -- Kyndi, the leading natural language processing (NLP) company, today announced that KMWorld, the premier knowledge management publication ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022/article_66ee37e0-85af-5e00-9895-cf1abad99a4b.html",
+      "originalUrl": "https://www.news-journal.com/kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022/article_66ee37e0-85af-5e00-9895-cf1abad99a4b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-poor-oral-health-may-raise-cognitive-decline-dementia-risk.md",
+      "title": "Poor Oral Health May Raise Cognitive Decline, Dementia Risk",
+      "excerpt": "Poor periodontal health and tooth loss may increase the risk for cognitive decline and dementia ... and regular use of basic oral health services, which may lower dementia risk to some extent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/980703",
+      "originalUrl": "https://www.medscape.com/viewarticle/980703",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-lease-to-own-fintech-startup-kafene-raises-18m-to-battle-bnpl.md",
       "title": "Lease-to-own fintech startup Kafene raises $18M to battle BNPL",
       "excerpt": "Kafene plans to use its new capital to increase its headcount so that it can continue to expand its offering to more merchants and thus, consumers.",
@@ -1029,101 +1097,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
-      "title": "Truly autonomous cars may be impossible without helpful human touch",
-      "excerpt": "Making robot cars that can drive more safely than people is immensely tough because self-driving software systems simply lack humans' ability to predict and assess risk quickly, especially when encountering unexpected incidents.",
-      "sourceUrl": null,
-      "webUrl": "https://europe.autonews.com/automakers/truly-autonomous-cars-may-be-impossible-without-human-touch",
-      "originalUrl": "https://europe.autonews.com/automakers/truly-autonomous-cars-may-be-impossible-without-human-touch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Vay%20driver%20web.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes.md",
-      "title": "The New Artificial Intelligence Of Car Audio Might Improve More Than Just Tunes",
-      "excerpt": "Hollywood has perennially portrayed Artificial Intelligence (AI) as the operating layer of dystopian robots who replace unsuspecting humans and create the escalating, central conflict. Yet, AI is now enhancing entertainment and,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/",
-      "originalUrl": "https://www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f137c370d99665add408c4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/amp/",
-      "publishedDateTime": "2022-09-13T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

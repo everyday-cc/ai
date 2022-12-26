@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-16-artists-stage-mass-protest-against-ai-generated-artwork-on-artstation.md",
+      "title": "Artists stage mass protest against AI-generated artwork on ArtStation",
+      "excerpt": "On Tuesday, members of the online community ArtStation began widely protesting AI-generated artwork by placing \"No AI Art\" images in their portfolios. By Wednesday, the protest images dominated ArtStation's trending page.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/artstation_protest_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/amp/",
+      "publishedDateTime": "2022-12-15T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-16-seattle-cybersecurity-startup-that-aims-to-protect-machine-learning-based-code-lands-135m.md",
+      "title": "Seattle cybersecurity startup that aims to protect machine learning-based code lands $13.5M",
+      "excerpt": "Protect AI CEO and co-founder Ian Swanson. (Protect AI Photo) Protect AI, a Seattle startup that sells cybersecurity tech tailored to code that powers artificial intelligence and machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/seattle-cybersecurity-startup-that-aims-to-protect-machine-learning-based-code-lands-13-5m/",
+      "originalUrl": "https://www.geekwire.com/2022/seattle-cybersecurity-startup-that-aims-to-protect-machine-learning-based-code-lands-13-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/12/Swanson-Ian_2022-BW-500x550-1.jpg",
+          "width": 1772,
+          "height": 1949,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-16-artificial-intelligence-will-help-social-media-radically-evolve-in-2023.md",
       "title": "Artificial Intelligence Will Help Social Media Radically Evolve In 2023",
       "excerpt": "Artificial intelligence might become much more viable in 2023, even if recent history has not been that positive. Sure, Twitter became a hot topic in 2022 for all of the wrong reasons. Some have argued that social media is dead or dying.",
@@ -1072,92 +1176,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-bright-pattern-named-hot-vendor-by-aragon-research.md",
-      "title": "Bright Pattern Named \"Hot Vendor\" by Aragon Research",
-      "excerpt": "Vendors selected for the 'Hot Vendor' report are noteworthy, visionary, and innovative. SOUTH SAN FRANCISCO, Calif., Dec. 14, 2022 /PRNewswire/",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/bright-pattern-named-hot-vendor-by-aragon-research-1031972312",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/bright-pattern-named-hot-vendor-by-aragon-research-1031972312",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1968583/Bright_Pattern.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-14T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-stellar-cyber-integrates-with-deep-instincts-deep-learning-technology-for-unrivaled-cyber-attack-prevention.md",
-      "title": "Stellar Cyber Integrates with Deep Instinct's Deep Learning Technology for Unrivaled Cyber Attack Prevention",
-      "excerpt": "Under this latest integration, Deep Instinct's revolutionary approach to leverage deep learning is able to continuously analyze endpoints, servers, and other network assets to detect and prevent more than 99% of potential attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-stellar-cyber-integrates-with-deep-instincts-deep-learning-/2022/12/14/9730268.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-stellar-cyber-integrates-with-deep-instincts-deep-learning-/2022/12/14/9730268.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-14T06:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

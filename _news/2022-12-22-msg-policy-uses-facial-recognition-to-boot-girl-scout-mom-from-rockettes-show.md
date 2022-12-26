@@ -73,20 +73,6 @@ related:
         width: 2500
         height: 1499
         isCached: true
-  - title: "Girl Scout Mom Denied Entry to Radio City Music Hall Due to Facial Recognition Tech"
-    excerpt: "Controversy grows as Radio City Music Hall incident involving a Girl Scout's mother sparks criticism that facial recognition tech is being used to target innocent people."
-    publishedDateTime: 2022-12-21T07:48:00Z
-    webUrl: "https://www.entrepreneur.com/business-news/girl-scout-mom-denied-entry-to-rockettes-show-due-to-face/441539"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 63
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1671605619-GettyImages-1184155312-big-brother.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Mike Davis compares Madison Square Garden's facial recognition to Chinese Communist social credit"
     excerpt: "Article III Project President Mike Davis decries Madison Square Garden for using facial recognition technology to restrict certain patrons on 'The Ingraham Angle.'"
     publishedDateTime: 2022-12-23T04:21:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/sc/how-ai-is-helping-to-reduce-lan
 webUrl: "https://www.businessinsider.com/sc/how-ai-is-helping-to-reduce-landfill-waste"
 type: article
 quality: 67
-heat: 78
+heat: 77
 published: true
 
 provider:

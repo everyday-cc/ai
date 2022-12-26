@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-10-intel-launches-powerful-max-series-cpus-and-gpus-for-high-performance-computing-and-ai.md",
+      "title": "Intel Launches powerful Max Series CPUs and GPUs for high-performance computing and AI",
+      "excerpt": "With the introduction of its newest product family, the Intel Max, Intel Corp. hopes to compete against rivals Advanced Micro Devices Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/intel-launches-powerful-max-series-cpus-and-gpus-for-high-performance-computing-and-ai/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/intel-launches-powerful-max-series-cpus-and-gpus-for-high-performance-computing-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/11/Intel-Launches-powerful-Max-Series-CPUs-and-GPUs-for-high-performance-computing-and-AI.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/intel-launches-powerful-max-series-cpus-and-gpus-for-high-performance-computing-and-ai/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/intel-launches-powerful-max-series-cpus-and-gpus-for-high-performance-computing-and-ai/amp/",
+      "publishedDateTime": "2022-11-10T06:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-vivo-unveils-v2-chip-to-use-it-with-dimensity-9200-for-ai-enhancements.md",
       "title": "vivo unveils V2 chip, to use it with Dimensity 9200 for AI enhancements",
       "excerpt": "The V2 chip, which was made by the company itself, is more compatible and has more features. It also has more on-chip memory, AI computing, and image processing. The last two generations of vivo’s self-developed imaging chips are V1 and V1+.",
@@ -1365,59 +1408,6 @@
       "topics": [
         "AI",
         "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-hardware.md",
-      "title": "AI chip startup Axelera lands $27M in capital to commercialize its hardware",
-      "excerpt": "Axelera, a startup developing an AI chip for accelerated processing, has landed $27 million in fresh venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/",
-      "originalUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1060938604-1.jpg?resize=1200,742",
-          "width": 1200,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/",
-      "publishedDateTime": "2022-10-25T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
         "AI in Robotics"
       ]
     }

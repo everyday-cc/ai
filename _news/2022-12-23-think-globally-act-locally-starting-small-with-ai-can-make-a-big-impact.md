@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/think-globally-act-locally-starting-small
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/think-globally-act-locally-starting-small-with-ai-can-make-a-big-impact/amp/"
 type: article
 quality: 86
-heat: 108
+heat: 106
 published: true
 
 provider:

@@ -2,6 +2,101 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2022-10-31-a-system-that-allows-users-to-communicate-with-others-remotely-while-embodying-a-humanoid-robot.md",
+      "title": "A system that allows users to communicate with others remotely while embodying a humanoid robot",
+      "excerpt": "Recent technological advancements are opening new and exciting opportunities for communicating with others and visiting places remotely. These advancements include telepresence robots, moving robotic systems that allow users to virtually navigate remote environments and interact with people in these environments.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-10-users-remotely-embodying-humanoid-robot.html",
+      "originalUrl": "https://techxplore.com/news/2022-10-users-remotely-embodying-humanoid-robot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/a-system-that-allows-u.jpg",
+          "width": 1012,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-10-users-remotely-embodying-humanoid-robot.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-users-remotely-embodying-humanoid-robot.amp",
+      "publishedDateTime": "2022-10-31T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-31-self-driving-truck-startup-tusimple-fires-its-ceo-over-improper-ties-to-a-chinese-firm.md",
+      "title": "Self-driving truck startup TuSimple fires its CEO over improper ties to a Chinese firm",
+      "excerpt": "Self-driving truck startup TuSimple has fired its CEO, Xiaodi Hou, after an internal investigation found improper dealings and possible tech transfer to a Chinese firm led by TuSimple’s now-departed co-founder,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html",
+      "originalUrl": "https://www.cnbc.com/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105735152-1550011600980dy1_nvtvyaawmqd.jpg?v=1667224750",
+          "width": 1737,
+          "height": 1159,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html",
+      "publishedDateTime": "2022-10-31T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-31-crossword-puzzles-beat-computer-video-games-in-slowing-memory-loss.md",
       "title": "Crossword puzzles beat computer video games in slowing memory loss",
       "excerpt": "Crossword puzzles were superior to cognitive games on the primary cognitive outcome measure, ADAS-Cog, at both 12 weeks and 78 weeks. Crossword puzzles were superior on FAQ, a measure of daily ...",
@@ -1056,101 +1151,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-29-texas-attorney-general-sues-google-again-this-time-over-facial-recognition-in-photos.md",
-      "title": "Texas Attorney General Sues Google Again, This Time Over Facial Recognition in Photos",
-      "excerpt": "which uses facial recognition to sort together photos of the same people. Even if you gave Google permission to collect your own facial recognition data, the people you’ve taken pictures of ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912",
-      "originalUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912/amp",
-      "publishedDateTime": "2022-10-28T19:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-29-lego-is-moving-on-from-its-mindstorms-educational-robots.md",
-      "title": "Lego is moving on from its Mindstorms educational robots",
-      "excerpt": "If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. While the company isn’t completely done with the idea of educational robotics kits, it will stop selling its Mindstorms Robot Inventor kit by the end of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/10/28/23428766/lego-discontinue-mindstorm-educational-robots",
-      "originalUrl": "https://www.theverge.com/2022/10/28/23428766/lego-discontinue-mindstorm-educational-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/pZ1iHore7VmYy-ZqixUcIay3Gf8=/165x160:1683x1166/1200x628/filters:focal(960x640:961x641)/cdn.vox-cdn.com/uploads/chorus_asset/file/24150262/51515_Lifestyle_06.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T18:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
