@@ -33,6 +33,20 @@ related:
         width: 1088
         height: 725
         isCached: true
+  - title: "Artificial intelligence predictions 2023"
+    excerpt: "What are the predictions for artificial intelligence in 2023? We speak to 5 experts about how AI is going to be adopted over the coming year"
+    publishedDateTime: 2022-12-23T10:03:00Z
+    webUrl: "https://www.information-age.com/artificial-intelligence-predictions-2023-123500975/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: "https://s42137.pcdn.co/wp-content/uploads/2022/12/artificial-intelligence-2023-scaled.jpg.optimal.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "OEgHU8k6VVYua6EisSPwRxokjyC7oak0gdK0A4D74XOsRgmraod8RTd6eQuCsDgI8ohCvL/3xibTdrvz/rotAVqAZN4eN9I5XlEIZJDROcDJ41mNcvacH3LsG3fzbAeWud6pazpw2FHsxr6Bm19NtQBFDjjs+yI0O8GmrYHpAyQdutdn3h5RiI/cbkHQ2eLlHQ5+tYjDyfG/ung4NK65rJ7Gmlm4jYgsGOskvfqOMvOYIdF4cOyYm1RsXvnpqxXcwh40cCA1F/9dvo+POWyKoBtOP1gzzBnZbtFSQkmYBWjFAKu95JYRE3gguXM0tezgJL3shHLQYzpGj9KCUNlJugBGlmNQsnjQ+D2P7zscLlWTmUjO7HnwrjDe8lCusxGtZuMRve+lUhIuq/BfpT/J2x8EIPogtrk16Bz5PuyfRIJsrREg/6n7AagcRUVcxpuaYiaBFFXu1gscmUlHAUpVkhziKaBwhSAWfj78WGB7bj+PEAYEIsWeAjvqbNFYc6cliRus4k3xjL3NoHbpZx+fgw==;wYaPtaAEyZ4GcFB/qdV76g=="
 ---

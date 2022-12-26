@@ -2,50 +2,6 @@
   "page": 122,
   "value": [
     {
-      "path": "_news/2022-09-13-ai-dynamics-and-pettigrew-medical-announce-joint-venture-that-applies-advanced-machine-learning-to-accelerate-automation-of-medical-record-coding.md",
-      "title": "AI Dynamics and PETTIGREW Medical Announce Joint Venture that Applies Advanced Machine Learning to Accelerate Automation of Medical Record Coding",
-      "excerpt": "AI Dynamics and PETTIGREW Medical announced today the formation of a joint venture, with the working name mAIcode, designed to accelerate the automation of medical record coding by applying advanced machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/09/13/9672387.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/09/13/9672387.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
-          "width": 476,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-09-13-visionaryai-launches-video-denoiser-for-improved-night-vision.md",
       "title": "Visionary.ai Launches Video Denoiser for Improved Night Vision",
       "excerpt": "Visionary.ai Launches Video Denoiser for Improved Night Vision Sep 13, 2022 (PRNewswire via COMTEX) -- PR Newswire JERUSALEM,",
@@ -1144,6 +1100,49 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-older-adults-with-regular-activity-routines-are-happier-and-do-better-on-cognitive-tests-study-finds.md",
+      "title": "Older adults with regular activity routines are happier and do better on cognitive tests, study finds",
+      "excerpt": "PITTSBURGH, Sept. 13, 2022 — Older adults who consistently get up early and remain active throughout the day are happier and perform better on cognitive tests than those with irregular activity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/964464",
+      "originalUrl": "https://www.eurekalert.org/news-releases/964464",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/03e36f07-bf84-44c4-8f4f-b1e6bcba7f6d/Rendition/low-res/Content/Public",
+          "width": 558,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

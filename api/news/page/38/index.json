@@ -2,58 +2,6 @@
   "page": 38,
   "value": [
     {
-      "path": "_news/2022-11-23-how-ai-iteration-can-uplevel-the-customer-experience.md",
-      "title": "How AI iteration can uplevel the customer experience",
-      "excerpt": "We’re no longer facing an immature bot landscape, with the likes of only Google DialogFlow, IBM Watson and Amazon Lex — good NLP bots, but very tricky for non-developers to use. It’s ease of use that will get AI and ML into an adoptable and impactful ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-iteration-can-uplevel-the-customer-experience/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-iteration-can-uplevel-the-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1283776173.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-ai-iteration-can-uplevel-the-customer-experience/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-iteration-can-uplevel-the-customer-experience/amp/",
-      "publishedDateTime": "2022-11-23T03:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-23-ai-and-the-future-of-government-work.md",
       "title": "AI And The Future Of Government Work",
       "excerpt": "AI in the workplace has been met with strong opposition as well as support; either way, automation and AI technologies are here to stay.",
@@ -1139,6 +1087,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-a-ceos-plan-to-monetize-health-data-rescued-from-ibm-watsons-wreckage.md",
+      "title": "A CEO’s plan to monetize health data rescued from IBM Watson’s wreckage",
+      "excerpt": "A company being built from the ashes of IBM’s Watson Health division is launching new lines of business with a much different message: The real value is in the health data, not the fancy AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthleadersmedia.com/technology/ceo’s-plan-monetize-health-data-rescued-ibm-watson’s-wreckage",
+      "originalUrl": "https://www.healthleadersmedia.com/technology/ceo’s-plan-monetize-health-data-rescued-ibm-watson’s-wreckage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg",
+          "width": 820,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthLeaders Media",
+        "domain": "healthleadersmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     }

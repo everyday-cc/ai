@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facial recognition bars lawyer from Girl Scout trip to Rockettes Christmas show"
-    excerpt: "Kelly Conlon was blocked because her New York firm is involved in a personal injury claim against operator of Radio City Music Hall"
-    publishedDateTime: 2022-12-21T14:14:00Z
-    webUrl: "https://www.theguardian.com/us-news/2022/dec/21/facial-recognition-bars-lawyer-rockettes-show"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2022/dec/21/facial-recognition-bars-lawyer-rockettes-show"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2022/dec/21/facial-recognition-bars-lawyer-rockettes-show"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/f13351e3b34cd07127cb1d600515f3099ef1dcce/0_224_5561_3337/master/5561.jpg?width=620&quality=85&auto=format&fit=max&s=eb364069bcbcad2f4df2fcec6c3a065c"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Why a Facial Recognition Device Barred This Woman From a Rockettes Show"
     excerpt: "Kelly Conlon's bizarre experience gives a glimpse into a future with omnipresent facial recognition systems. Last month, Kelly Conlon arrived with her daughter's Girl Scout troop to watch a Rockettes performance at Radio City Music Hall,"
     publishedDateTime: 2022-12-21T17:46:00Z

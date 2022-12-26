@@ -7,8 +7,8 @@ originalUrl: "https://www.eweek.com/cloud/cloud-predictions-2023/"
 webUrl: "https://www.eweek.com/cloud/cloud-predictions-2023/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: eWeek
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence predictions 2023"
+    excerpt: "What are the predictions for artificial intelligence in 2023? We speak to 5 experts about how AI is going to be adopted over the coming year"
+    publishedDateTime: 2022-12-23T10:03:00Z
+    webUrl: "https://www.information-age.com/artificial-intelligence-predictions-2023-123500975/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: "https://s42137.pcdn.co/wp-content/uploads/2022/12/artificial-intelligence-2023-scaled.jpg.optimal.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Rose Parade 2023: Self-built float tradition is alive and well"
     excerpt: "When floats first became motorized, the creations were small by current standards. Some floats were built on the chassis of Model-T Fords, Andersen said, and were about 8 to 10 feet long and 4 to"
     publishedDateTime: 2022-12-21T20:19:00Z

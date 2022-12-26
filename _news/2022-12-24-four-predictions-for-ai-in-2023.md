@@ -22,35 +22,37 @@ topics:
   - AI
 
 related:
-  - title: "8 MLops predictions for enterprise machine learning in 2023"
-    excerpt: "So what trends will emerge in the MLops landscape in 2023? A variety of AI and ML experts shared their predictions with VentureBeat."
-    publishedDateTime: 2022-12-21T15:00:00Z
-    webUrl: "https://venturebeat.com/ai/8-mlops-predictions-for-enterprise-machine-learning-in-2023/"
-    ampWebUrl: "https://venturebeat.com/ai/8-mlops-predictions-for-enterprise-machine-learning-in-2023/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/8-mlops-predictions-for-enterprise-machine-learning-in-2023/amp/"
+  - title: "3 AI Trends IT Must Leverage For Innovation"
+    excerpt: "IT leaders keen on improving operational efficiency—and innovation—should familiarize themselves with AIOps, generative AI and TuringBots in 2023."
+    publishedDateTime: 2022-12-21T15:22:00Z
+    webUrl: "https://www.forbes.com/sites/delltechnologies/2022/12/21/3-ai-trends-it-must-leverage-for-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2022/12/21/3-ai-trends-it-must-leverage-for-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2022/12/21/3-ai-trends-it-must-leverage-for-innovation/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_514013068-e1623787978313.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63a32fb59c83afbc840c44cf/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
-  - title: "Artificial intelligence predictions 2023"
-    excerpt: "What are the predictions for artificial intelligence in 2023? We speak to 5 experts about how AI is going to be adopted over the coming year"
-    publishedDateTime: 2022-12-23T10:03:00Z
-    webUrl: "https://www.information-age.com/artificial-intelligence-predictions-2023-123500975/"
+  - title: "Leveraging AI In Agency Work"
+    excerpt: "Artificial intelligence has reshaped many aspects of our business, personal and social worlds—you probably interact with AI daily and may not even realize it. As AI tools and solutions become less sci-fi and more business as usual,"
+    publishedDateTime: 2022-12-22T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/12/22/leveraging-ai-in-agency-work/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/12/22/leveraging-ai-in-agency-work/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/12/22/leveraging-ai-in-agency-work/amp/"
     type: article
     provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://s42137.pcdn.co/wp-content/uploads/2022/12/artificial-intelligence-2023-scaled.jpg.optimal.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "baHZj1OkqawZdUA3FWdxLk4VxMSKrmPtgWr1TUUFBVPuQ9ChdLtN8VvVc+QPBLIoSOGqknJ7LQmnNqSRfGP5uP/je4OAo4S6p6TbfukXKuMce2QShDOz+HTFeWNgiH2HJJtfKd5DLbdZ/DBzgLYSrXfxkVARcQcVgele40gVw+mMeB7NIhbzDqrLUEOrtFdDxQgkJbHRJF8tbW5JoWxY3vMWCONSAAzD8AojQnpkLMf13wdvqcROD5G5FTFtiSLl+nlhuh3EG6VxcfCa89UgfFosqoG/zaBwFAl23y29vbDZoVhcV7xS89X6UMJoCQqhtIZ+r3WPrFRhbBtrlYcKWOPK3EGknBKvBUq7GgLXxQTzhyI6b3dRxKdReWFn0wNSbc9Z0soxorcHo4NQiYphIMp7E/9T6sqbB++aLudgkD14nAhL/SVm3GKcEzZnAYG9A7M2XLkj7GY8THuLHCSTVWnAqxkFCYH8QF5x5d4E5h1atoeCOR6PKuzazT1PHLpHOIha0/h6S8FdPyRxaNdQig==;dZduRg7v3lmw7cMBVZietA=="

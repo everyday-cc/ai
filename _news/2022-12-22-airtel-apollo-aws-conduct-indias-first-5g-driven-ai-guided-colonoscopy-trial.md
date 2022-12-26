@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Airtel and Apollo Hospitals conduct India’s first 5G-driven, AI-guided colonoscopy trial"
+    excerpt: "Bharti Airtel and Apollo Hospitals have conducted India's first 5G-driven, Artificial Intelligence (AI) guided Colonoscopy trial. HealthNet Global, Amazon Web Services (AWS) and Avesha also collaborated in this trial."
+    publishedDateTime: 2022-12-22T13:41:00Z
+    webUrl: "https://www.devdiscourse.com/article/health/2295913-airtel-and-apollo-hospitals-conduct-indias-first-5g-driven-ai-guided-colonoscopy-trial"
+    ampWebUrl: "https://www.devdiscourse.com/article/health/2295913-airtel-and-apollo-hospitals-conduct-indias-first-5g-driven-ai-guided-colonoscopy-trial?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2295913-airtel-and-apollo-hospitals-conduct-indias-first-5g-driven-ai-guided-colonoscopy-trial?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 50
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/12_02_2019_19_53_53_1969979.jpg?width=1280"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "1bTwSjlOVvc+IRnVPNU1xt7uhhC/8U8qAgLYCzvd6a7rjvpLHg5d+M3wmOxZXxA9XxvGbjDt1eaS6pxsvk43nILXxDWaKZ8mDbeatQhWdjQzaJuQWg55V/SODRMSI0lLVKvCPpcn2vdPWzgXbddfzypna1+BoLE/gsmPH0nuTco+zVlw4SqFqTgBZ8cbpPjSSZfAhzK3B87fv+HQsE2eL4eWe+H2azNecCO0JgH/x+OebHjrbRyl26kgH0Yi0WoSIW7pYL7tqquwNiaZkRHG6Ra1p/ltWvGOixSV/kdpT1z8/9zsirZq0xInU6UN9l3eg7YFCE3tf9q3Ftk9qzzRsfj6e0VDNxDULX96ORqz7m3GRbKe0ln9+xF2QopDsYK8lOtMFvhX09pMgiTVIyBMWzxOtZUqNb1p6uoTgW02lE5AbGktGwjmxuQxLNp6j2tt18rvekrWUazYj1pDZdZX51yP7hwGqj20dz/bKdolulVOvFP3tGpouWUfGF+Z8tapJ/AkNIh2KC7RLooG4xm2FQ==;BFCkwwchcr5c3fbNjagapg=="
 ---

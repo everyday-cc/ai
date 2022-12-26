@@ -152,58 +152,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-23-how-ai-and-other-emerging-technologies-can-support-evidence-based-medicine.md",
-      "title": "How AI and other emerging technologies can support evidence-based medicine",
-      "excerpt": "King Faisal Specialist Hospital and Research Centre uses the latest technology to offer patients cutting-edge medical solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sc/king-faisal-research-centre-uses-ai-and-other-technologies-to-help-patients",
-      "originalUrl": "https://www.businessinsider.com/sc/king-faisal-research-centre-uses-ai-and-other-technologies-to-help-patients",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63a320bd58babf00188d4a27?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-23T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-21-three-best-practices-for-mlai-security.md",
       "title": "Three best practices for ML/AI security",
       "excerpt": "Two-in-five organizations will have experienced an AI security or privacy breach, with one in four of those being adversarial attacks. Security industry watchdogs have been ringing alarm bells for years.",
@@ -491,17 +439,17 @@
       "title": "AI-generated fake faces have become a hallmark of online influence operations",
       "excerpt": "As artificial intelligence becomes more widely available, bad actors are turning to computer-generated faces in their attempts to manipulate social media networks.",
       "sourceUrl": null,
-      "webUrl": "https://www.iowapublicradio.org/news-from-npr/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations",
-      "originalUrl": "https://www.iowapublicradio.org/news-from-npr/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations",
+      "webUrl": "https://www.opb.org/article/2022/12/15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations/",
+      "originalUrl": "https://www.opb.org/article/2022/12/15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://npr.brightspotcdn.com/dims4/default/1e1259e/2147483647/strip/true/crop/3000x1688+0+156/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F12%2F14%2F20221206-_dsc0676-edit_slide-011681f1256177f8bdb78cf455d05204f9f45d5b.jpg",
-          "width": 480,
-          "height": 270,
+          "url": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/zeuzaSlhaY0dRwiTm6d_yx3h_5E=/767x0/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/XZVFRL5J53UA5KURFVETQ23ZLM.jpg",
+          "width": 767,
+          "height": 511,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -509,13 +457,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.iowapublicradio.org/news-from-npr/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations?_amp=true",
-      "cdnAmpWebUrl": "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations?_amp=true",
-      "publishedDateTime": "2022-12-15T15:00:00-08:00",
+      "ampWebUrl": "https://www.opb.org/article/2022/12/15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2022/12/15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations/?outputType=amp",
+      "publishedDateTime": "2022-12-15T11:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Iowa Public Radio",
-        "domain": "iowapublicradio.org",
+        "name": "OPB",
+        "domain": "opb.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1456,6 +1404,58 @@
         "Facebook AI",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-research-suggests-ai-could-predict-heart-attack-or-stroke-with-one-x-ray.md",
+      "title": "Research Suggests AI Could Predict Heart Attack or Stroke with One X-Ray",
+      "excerpt": "At the annual meeting of the Radiological Society of North America, researchers shared preliminary findings on the use of artificial intelligence in predicting ... trained radiologists as of now.\" The research is still in its early stages and has yet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/business-news/ai-could-predict-your-risk-of-heart-attack-with-one-x-ray/440148",
+      "originalUrl": "https://www.entrepreneur.com/business-news/ai-could-predict-your-risk-of-heart-attack-with-one-x-ray/440148",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1669823575-GettyImages-1251551874.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

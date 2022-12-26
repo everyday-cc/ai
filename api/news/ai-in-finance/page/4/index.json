@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-10-19-11-best-machine-learning-stocks-to-buy.md",
-      "title": "11 Best Machine Learning Stocks to Buy",
-      "excerpt": "has one of the strongest machine learning platforms in the world, with its Watson division offering companies a many solutions such as risk compliance, advertising, customer service, financial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/11-best-machine-learning-stocks-to-buy-1077146/",
-      "originalUrl": "https://www.insidermonkey.com/blog/11-best-machine-learning-stocks-to-buy-1077146/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2020/12/14105630/hacking-coding-programming-unsplash.png",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-10-18-cujo-ai-launches-explorer-first-ai-powered-device-intelligence-as-a-service.md",
       "title": "CUJO AI Launches Explorer, First AI-powered Device Intelligence as a Service",
       "excerpt": "CUJO AI, a global leader in cybersecurity and network intelligence solutions for network service providers (NSPs), today announced that Explorer, the AI-powered network intelligence solution, is available as a stand-alone Device Intelligence as a Service,",
@@ -1351,6 +1307,49 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-lgim-joins-fintech-saphyre-endeavors-ai-driven-platform.md",
+      "title": "LGIM joins fintech Saphyre Endeavor’s AI driven platform",
+      "excerpt": "Legal and General Investment Management (LGIM) has partnered with US fintech Saphyre’s AI-driven Endeavor platform",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/financial-services-finserv/lgim-joins-fintech-saphyre-endeavors-ai-driven-platform",
+      "originalUrl": "https://fintechmagazine.com/financial-services-finserv/lgim-joins-fintech-saphyre-endeavors-ai-driven-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bizclikmedia.net/1800/462fd749381b7baaa02029ec3fecf221:17395499ae8d4f40419d1f0eed162fe1/2000-1.jpeg.jpg",
+          "width": 1800,
+          "height": 1010,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T01:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
         "images": null,
         "publishers": null,
         "authors": null

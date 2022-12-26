@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2022/12/21/3-ai-trends
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2022/12/21/3-ai-trends-it-must-leverage-for-innovation/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Four Predictions For AI In 2023"
+    excerpt: "Four predictions for the future of AI and MLOps in 2023 and a look back at an incredible year for technical breakthroughs in machine learning."
+    publishedDateTime: 2022-12-23T18:01:00Z
+    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/12/23/four-predictions-for-ai-in-2023/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "bC4IIPTkDO9W+OLhqel2uAMP5sjZsqkeLMY4ADovx4YDiXmVlCuNKJ8YxO7GGPr34zQKZMyX/8XYFycFe/1JTKscFX9Um6n05uJ/ht7Yj7uBsVHJsCmwsiduT9ki5HJpLVYh30ZA4TpNnCaVj6F/Eh5jh80WRryJWwt/VJXS0g5IouG/eFLSP8ouk5+XQ8fbpe6ctFHRRRnOxjN3NN+xZ51ioknhiOzO/O39PP9lN7ZR21PsFe38JALQZVmHihMHRzjxPleo2O/kHLIa8zitQl9y+yDjFtmhX7VcTIy5w3+Ew8xk3yr1g3ToQ8bvE57z2gYv1uuAEa5DdzDNjj4GYFIEHAA7XIQxTIZDT3onaYrWkX8yW3HUouCom9X0lQp2EsOzU+t5JNV3qiIbikv7jkT0tqcNXUq11H55DKhWKdHYT00PEeyhmydFikot4IVRtl8EYlTPGymdMdhKmf2MRox1mwpvH9ox9BnakoqNV9JYqueYTIyB7WYnK6WXvTU6rQEpZrYimtjNqfiLWthhsg==;RLSsvYq/AHYaUGGp5V6sKg=="
 ---

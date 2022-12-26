@@ -256,15 +256,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Unedited footage of a Tesla Full Self-Driving beta test shows just how stressful the software can be to use"
-    excerpt: "YouTuber Marques Brownlee tested Tesla's Full Self-Driving (FSD) capability. Video shows the software made his 23-minute commute stressful."
-    publishedDateTime: 2022-12-21T14:27:00Z
-    webUrl: "https://www.businessinsider.com/tesla-full-self-driving-fsd-beta-test-drive-video-stressful-2022-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
   - title: "Tesla behind eight-vehicle crash was in ‘full self-driving’ mode, says driver"
     excerpt: "San Francisco crash is the latest in a series of accidents blamed on Tesla technology, which is facing regulatory scrutiny"
     publishedDateTime: 2022-12-22T13:22:00Z

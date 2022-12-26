@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Four Predictions For AI In 2023"
+    excerpt: "Four predictions for the future of AI and MLOps in 2023 and a look back at an incredible year for technical breakthroughs in machine learning."
+    publishedDateTime: 2022-12-23T18:01:00Z
+    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/12/23/four-predictions-for-ai-in-2023/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "nsYCyD32blYB8ftJ+YUeiH7FW70zuL9ZiM7xZz9XXBY/CbH9TM+TVCORTvFcIjHMTgdSupKPXYFr8UfOLf5uKBk0zyxaMSQN+F7qQDeSU6uL1tDVMThiYHsbn3CZ3jWfMRzTr7tIRAZGqXcOs5DZxJ79Iz8NyfomDcwsrJUgVOWKpP9nXUs5Uh3AVUYmDKosd4FCU6ePnYge3XcQIXk/hf7Ee1dSMrVGVyBSFHWs+OAXms7zTvyqVWxdEuEbhtu48yM9xwe3TTDFbii+oUsv36uvjgZbWBY7fm9d/hlOefK4xlXyph/8m0C4rqlugZN17fAhqkrXa/yceWSqY07yz00rLMub2FJ/sM7zhIkwXdk/RSo3IzgKzZ5viXdSdrfY1xsrJ+F2wFiyz/irjM+hAPd7L0VfOgjZ+eMX/lRwOP6TtCIW5iAVXKIfo4vvThEzZrldkoItLsvGwp8VPuX6VX6OmZaPhgLDbqDg3+vRAYQmskYe4E9QKjzQPCEg8Bua7/Z3hBZasIbjaY9FwEDzdg==;kbkT8BQYEpiWJXWOotazuA=="
 ---

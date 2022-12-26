@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-b
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/amp/"
 type: article
 quality: 87
-heat: 297
+heat: 287
 published: true
 
 provider:
@@ -252,15 +252,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Unedited footage of a Tesla Full Self-Driving beta test shows just how stressful the software can be to use"
-    excerpt: "YouTuber Marques Brownlee tested Tesla's Full Self-Driving (FSD) capability. Video shows the software made his 23-minute commute stressful."
-    publishedDateTime: 2022-12-21T14:27:00Z
-    webUrl: "https://www.businessinsider.com/tesla-full-self-driving-fsd-beta-test-drive-video-stressful-2022-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
   - title: "Tesla driver blames eight-car pileup on Full Self-Driving"
     excerpt: "According to a California Highway Patrol accident report obtained by CNN Business, Tesla’s Full Self-Driving software caused an eight-car pileup in the San Francisco Bay Area in November. The driver of the vehicle responsible for the accident told authorities that the car braked unexpectedly,"
     publishedDateTime: 2022-12-22T19:46:00Z

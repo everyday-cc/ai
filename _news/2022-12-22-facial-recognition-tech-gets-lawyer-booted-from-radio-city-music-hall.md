@@ -161,15 +161,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "MSG Facial-Recognition Tech Gets Lawyer Kicked Out of Radio City Show"
-    excerpt: "The woman was reportedly separated from her daughter and escorted out of the venue because the tech identified her as working for a law firm in litigation with MSG Entertainment."
-    publishedDateTime: 2022-12-21T13:04:00Z
-    webUrl: "https://www.pcmag.com/news/msg-facial-recognition-tech-gets-lawyer-kicked-out-of-radio-city-show"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 34
   - title: "MSG uses facial recognition to kick out attorney whose firm is in litigation with James Dolan's company"
     excerpt: "Multiple attorneys who work for law firms in active litigation against Madison Square Garden Entertainment have been barred from entering events owned by Dolan and MSG Entertainment. One of the most recent examples of this is Kelly Conlon,"
     publishedDateTime: 2022-12-21T16:31:00Z

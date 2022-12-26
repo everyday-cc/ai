@@ -2,40 +2,6 @@
   "page": 118,
   "value": [
     {
-      "path": "_news/2022-09-15-ibm-announced-as-cop-27-technology-partner.md",
-      "title": "IBM Announced as COP 27 Technology Partner",
-      "excerpt": "IBM – a leading hybrid cloud, AI, and business services provider – has been named technology partner of the 2022 United Nations Climate Change Conference, or COP27 IBM – a leading hybrid ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/ibm-announced-cop-27-technology-partner-1491285",
-      "originalUrl": "https://www.albawaba.com/business/pr/ibm-announced-cop-27-technology-partner-1491285",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-15-existential-catastrophe-caused-by-ai-is-likely-unavoidable-deepmind-researcher-warns.md",
       "title": "‘Existential catastrophe’ caused by AI is likely unavoidable, DeepMind researcher warns",
       "excerpt": "Researchers from the University of Oxford and Google’s artificial intelligence division DeepMind have claimed that there is a high probability of advanced forms of AI becoming “existentially dangerous to life on Earth”.",
@@ -1093,6 +1059,49 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-using-a-daily-multivitamin-can-improve-a-persons-cognitive-and-prevent-mental-decline-study-finds.md",
+      "title": "Using a daily multivitamin CAN improve a person's cognitive and prevent mental decline, study finds",
+      "excerpt": "Taking a multivitamin every day can slow an elderly person's cognitive decline by about 60 percent, a study has suggested. Researchers at Wake Forest University in Winston-Salem, North Carolina ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/health/article-11211835/Using-daily-multivitamin-improve-persons-cognitive-prevent-mental-decline-study-finds.html",
+      "originalUrl": "https://www.dailymail.co.uk/health/article-11211835/Using-daily-multivitamin-improve-persons-cognitive-prevent-mental-decline-study-finds.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/09/14/18/62407111-0-image-a-15_1663175779563.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/health/article-11211835/amp/Using-daily-multivitamin-improve-persons-cognitive-prevent-mental-decline-study-finds.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/health/article-11211835/amp/Using-daily-multivitamin-improve-persons-cognitive-prevent-mental-decline-study-finds.html",
+      "publishedDateTime": "2022-09-14T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

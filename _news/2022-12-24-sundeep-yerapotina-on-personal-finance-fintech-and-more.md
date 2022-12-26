@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/sundeep-yerapotina-personal-finance-fintech-
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/sundeep-yerapotina-personal-finance-fintech-more-3650716?amp=1"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: International Business Times
       domain: ibtimes.com
     quality: 19
-  - title: "Top Fintech Trends in 2023"
-    excerpt: "With rapidly growing demand for financial services, banks are in constant competition with fintech companies, but open banking gives them the opportunity to fight this pressure by partnering with them instead."
-    publishedDateTime: 2022-12-21T13:38:00Z
-    webUrl: "https://www.finextra.com/blogposting/23446/top-fintech-trends-in-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "z3sQ1tz910YyWXOOHDHIt6+JVgwXRoYFhusqMxYjcApZDskO0yb2/BBnpcL2B1rfci3v2l4S9f+bu8jcJDewl4x1LFQeIBOI+WgkU5RlFD93Qihxb9OXF8V603sj/a6KK7h4CDRyDoZ4SKaD+/lphcwbQhrwZXR2933A4v7k89cWSi7KdggYXfiis802xhyUb6L6xvyozAomZr+Di8J9N2wrGpV1FhLbtnsI/bNk4ta+bzRTPUerrsZ6fWRLC0V/enR5a6Ztutf7fQ5TT1Hx9kiEt2BoybwspzJ1e8JqPfdHF6loT79KGhScDhLZyqBtZhv4vyfju77jL3ts1kAYHI2wkXrLQczwbIOtc2MPv8iRYpdwKqxY7FfmV2pIM5t8EMc8xaOMVI5kQOkZGGTNNz2g8XhAEZdYWRLHYU14VJicBObPa+zEkCVCycfqMRqvGH1gqJsvHR/+kpdwT0upCYNjuyLV2GlnpXrEnxDlNAjCzD10vEs2czRDMxrGl2Dv4Owc58hyXa6MtQHPtSAkig==;oLw+TS5XMwpRO6MtWfjEVw=="
 ---

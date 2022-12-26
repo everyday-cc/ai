@@ -2,19 +2,19 @@
 category: news
 title: "TSA's facial recognition technology raises security, privacy concerns"
 excerpt: "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country."
-publishedDateTime: 2022-12-23T23:26:00Z
-originalUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
-webUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
-ampWebUrl: "https://www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
-cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+publishedDateTime: 2022-12-23T17:57:00Z
+originalUrl: "https://www.fox17online.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
+webUrl: "https://www.fox17online.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns"
+ampWebUrl: "https://www.fox17online.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
+cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns?_amp=true"
 type: article
 quality: 91
 heat: 151
 published: true
 
 provider:
-  name: ABC15 Arizona
-  domain: abc15.com
+  name: fox17online
+  domain: fox17online.com
 
 topics:
   - Computer Vision
@@ -117,6 +117,6 @@ related:
         height: 720
         isCached: true
 
-secured: "JsStXxhNNxYGZc5ESk1EZR0qv/7UMPuaCTCxgKKYN+ekW5R0j9BeSorOVdr9e47LuCpFw37L28ch9q8Pxbe4ozUzmG9U7F2vvVGcZrJ4npSVRAn2UoP6ouNCpJqRk1B3sw+YmH3xtQYsOeB30ArHyejtOiQneUUyo3Oq7rw1jX1oIsfbN0FMilePfodnKs1JOELPXS6JkSUjn86XZSD6dipGmjMXG0W7lEXDwZpP2XVoFF4zGpognV6dxBR+uGf2RnSz1GZPXzxdJ1LdxpJ+lN2r16rY7Cp1L7r5g/GWg+kDMtmVeRAj2rMQUaBU0dSGxnES6OisLuimM6l8vSCauks4LpSQH3P92YHqaBWQ3pln352ZeMnwnhjSiFdN3MAvuaDjvYhymEp8urv3NkjsjKgRJ6fcU3ZQoXfeFyYLuFe1ruVuwOT4R3DzoR4VmKh2A5xcQ3S4INaysQUW3+3nYmC0oLCF3w8YqoCoklVT/ssSXkf2W/LfXnrfNpOuVxPjZ5aIDD0SNVph3YYeplm+cA==;HM2QGRsINLG0KikJWIsCJA=="
+secured: "MnESxwiVMDW2krhRTaWs1moM7DsUeiZqGu4w2zzOkDxOvBwDVo9Rwb7WAkF+4qT8zqqr5lYummjfXs43tqow36EOOqaOEKC+z9t8njebW1PObf2PDjK6hEHQsZA8P76EitY5gQuqwfQzCRtZr5Wp8Y2ZYXdVplZIP6oJnnr/lnCwtfaRgPHkoMAchwcHE2NGV85/9T95HFxTh7givdTE4bmU1G4Nk5DWbAHAp+kyZQseODDzMy2V3bdVI+3O7uWrgPKIJfehodQQz9Mj/O5z7sNa84KfoNEq/W+dVQF52W3LXJS90NSIfHBtfn1o6HoeFbHWiONwQMFpjhA8XpV16mVx9SMn4Q3WrafNd5EWg4I=;7zLVypbWiWBEWNCyLICaJg=="
 ---
 

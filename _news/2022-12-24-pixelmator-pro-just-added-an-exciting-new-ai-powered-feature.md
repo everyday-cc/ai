@@ -23,17 +23,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Pixelmator Pro adds new Machine Learning deband feature"
-    excerpt: "Mac image editing app Pixelmator Pro has been updated to include one-click removal of color banding, or posterization, via AI-powered Machine Learning."
-    publishedDateTime: 2022-12-21T14:02:00Z
-    webUrl: "https://appleinsider.com/articles/22/12/21/pixelmator-pro-adds-new-machine-learning-deband-feature"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 19
-
 secured: "yIQEh4+JGtYwQ6IIIlcs69tDBI8BNhDBXIcvPLwDinXGaMHIf9DCNC/KVprIMI/yJPiDL5RMsQrMT4LoDV4YJs8Eb1Exp3nDGxMUSOFEuI1v3h+dS04pySa3MR9tThd0mI1BBw8rSRKoWLAZPedaeACzCAPV0I3yPYYR852Pl5qi/xCn00i2a/bvVNNlPi3jz0Sdi+Y/G1YempNMju44ELW7ONyByiCw/OIzqsxsYrJZHJp/MdkSUS6rfyQKntgXTcMYgKNx/J9IgkSQxCDAxfwutmPCvke/ArLa2PmrIhgeKEDoKgvKkqEWXbcY0X3uX91b9CFqiqZ/N6oa1ONLo6egCtYu5jD5DnCShpR675DiQYHw4O/0Ak/f6Cb7/Xd27lzZj4c2mwjMtUnzp2owSG0SSnD155/i2GiCYRBxhTsDlQBI8SnOtOMyL3VkHVO/jUlrzcb49JvXew5x995pEs0tFOHkDa13vOpkZBpxoxjdbCj0beOpAJ8+5+NsUXM1a24/rVtWKXlN79bVP5Eb2w==;wm7kiAGzO504VAFuUh0urw=="
 ---
 

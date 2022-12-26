@@ -2,40 +2,6 @@
   "page": 57,
   "value": [
     {
-      "path": "_news/2022-11-08-early-weight-loss-tied-to-faster-cognitive-decline-in-parkinsons-disease.md",
-      "title": "Early Weight Loss Tied to Faster Cognitive Decline in Parkinson's Disease",
-      "excerpt": "Early weight loss after a diagnosis of Parkinson's disease (PD) may be a harbinger of more rapid deterioration in cognitive function, new research suggests. Results showed that in the first year ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/983735",
-      "originalUrl": "https://www.medscape.com/viewarticle/983735",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-08-the-pursuit-of-ai-education-past-present-and-future.md",
       "title": "The pursuit of AI education - past, present, and future",
       "excerpt": "Meet Sylvia Christie, our education partnerships manager who’s played a leading role in expanding our scholarship programme, which is marking its five-year anniversary.",
@@ -1138,6 +1104,49 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-07-kiyaai-reaches-out-to-latin-american-banks.md",
+      "title": "Kiya.ai reaches out to Latin American banks",
+      "excerpt": "Kiya.ai managing director Rajesh Mirjankar said on the sidelines of Singapore Fintech Festival held Nov 2-4, 2022. Last year, it handled 14 billion transactions, he added. “We are working in 57 countries, covering all geographies, and we are starting in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/blockchain/kiya-ai-reaches-out-to-latin-american-banks/2781969/",
+      "originalUrl": "https://www.financialexpress.com/blockchain/kiya-ai-reaches-out-to-latin-american-banks/2781969/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/11/Metaverse-2.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/blockchain/kiya-ai-reaches-out-to-latin-american-banks/2781969/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/blockchain/kiya-ai-reaches-out-to-latin-american-banks/2781969/lite/",
+      "publishedDateTime": "2022-11-07T02:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

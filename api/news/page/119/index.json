@@ -2,49 +2,6 @@
   "page": 119,
   "value": [
     {
-      "path": "_news/2022-09-15-using-a-daily-multivitamin-can-improve-a-persons-cognitive-and-prevent-mental-decline-study-finds.md",
-      "title": "Using a daily multivitamin CAN improve a person's cognitive and prevent mental decline, study finds",
-      "excerpt": "Taking a multivitamin every day can slow an elderly person's cognitive decline by about 60 percent, a study has suggested. Researchers at Wake Forest University in Winston-Salem, North Carolina ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/health/article-11211835/Using-daily-multivitamin-improve-persons-cognitive-prevent-mental-decline-study-finds.html",
-      "originalUrl": "https://www.dailymail.co.uk/health/article-11211835/Using-daily-multivitamin-improve-persons-cognitive-prevent-mental-decline-study-finds.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/09/14/18/62407111-0-image-a-15_1663175779563.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/health/article-11211835/amp/Using-daily-multivitamin-improve-persons-cognitive-prevent-mental-decline-study-finds.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/health/article-11211835/amp/Using-daily-multivitamin-improve-persons-cognitive-prevent-mental-decline-study-finds.html",
-      "publishedDateTime": "2022-09-14T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-15-nike-sneaker-cleaning-robot-looks-like-a-car-wash-for-shoes.md",
       "title": "Nike Sneaker-Cleaning Robot Looks Like a Car Wash for Shoes",
       "excerpt": "At first glance, Big BILL looks like the ultimate Rube Goldberg machine (a contraption intentionally designed to complicate a simple task). Nike, however, insists BILL not only cleans shoes, but deep cleans and fixes them,",
@@ -1025,6 +982,49 @@
       "provider": {
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-taking-multivitamins-may-protect-against-cognitive-decline-in-over-65s-study.md",
+      "title": "Taking multivitamins may protect against cognitive decline in over-65s – study",
+      "excerpt": "Taking multivitamin supplements on a daily basis may help protect against cognitive decline in older adults, early research suggests. Scientists in the US found that consuming these vitamins for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.belfasttelegraph.co.uk/news/uk/taking-multivitamins-may-protect-against-cognitive-decline-in-over-65s-study-41988515.html",
+      "originalUrl": "https://www.belfasttelegraph.co.uk/news/uk/taking-multivitamins-may-protect-against-cognitive-decline-in-over-65s-study-41988515.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.belfasttelegraph.co.uk/news/uk/c2bd2/41988514.ece/AUTOCROP/w1240h700/bpanews_28884a0e-0e3e-484a-bdf8-4a97bb9f6e4f_1",
+          "width": 1240,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.belfasttelegraph.co.uk/news/uk/taking-multivitamins-may-protect-against-cognitive-decline-in-over-65s-study-41988515.html",
+      "cdnAmpWebUrl": "https://www-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/www.belfasttelegraph.co.uk/news/uk/taking-multivitamins-may-protect-against-cognitive-decline-in-over-65s-study-41988515.html",
+      "publishedDateTime": "2022-09-14T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Belfast Telegraph",
+        "domain": "belfasttelegraph.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

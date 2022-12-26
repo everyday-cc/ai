@@ -161,15 +161,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "MSG Facial-Recognition Tech Gets Lawyer Kicked Out of Radio City Show"
-    excerpt: "The woman was reportedly separated from her daughter and escorted out of the venue because the tech identified her as working for a law firm in litigation with MSG Entertainment."
-    publishedDateTime: 2022-12-21T13:04:00Z
-    webUrl: "https://www.pcmag.com/news/msg-facial-recognition-tech-gets-lawyer-kicked-out-of-radio-city-show"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 34
   - title: "Facial-Recognition Tech Gets Lawyer Booted From Radio City Music Hall"
     excerpt: "Kelly Conlon says she purchased tickets for her and her daughter to see the Radio City Music Hall Christmas show as part of a Girl Scout outing. Upon entering, Conlon says she heard an announcement over the PA system describing her physical appearance."
     publishedDateTime: 2022-12-21T20:36:00Z
