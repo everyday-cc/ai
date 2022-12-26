@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "Vishal Sikka"
 
-secured: "6MmjFU4iuHw8l701KczDaY9jkBeSdhUQnXamyPLDIoXbwQXNrZoakjSz++gNAWCoha1JUGaAWam90LoU+9F+kd63/iOBE1whTJYtkVC4IlB3xXmJPexmzZtQgfI1/fpD2smyjJPT1OdTNPW5z/jwCmb1WMtbtvqs+bdPGHNaqp3kLoxZgQJcWtC5tt8RlgtaxQVbv0CnKW7Jxb38nuq5yMj5NXm3e+whfYhQE17MGzuKVQ6eW7/Fu8TgfNwX7hTz1/U1d5PW97C3V470YPi2CUhLW0VgnS4rqNINw/Uyhyu/UhpV68J0T2TwQ0DxE8OMUq1VfY0U1UWOKN7l5IiwXLwJNIuo+SCpPVmghNGbLFHCSuwcR/4eZnuS/hqBWJ/0Acuh8TNFveWFl5WgBBBb+YV/vJ26fUlqYj+1DUMhmRw=;xvgu6ultyBc+9af7aM/3iQ=="
+secured: "FJyqnPFmGmapeJ/LbJMJhRnlNUDy+bP9+Q/yVMr7Q26cdH+xyCRDmxbg9PqHSKRtx6XwoPGucfVRLRHmw5N08Kehb0q4/bUc6ktN1KjDSkqCHqkrveYp1gc6BfrT7Fu2ZW0dDRhJgh7Ue0hGywyLG/B5ubeQRthfS8hG9XKRyNxbY3BrOtq9pnSF8l38F1WZZDZWD2iiV+o+o5oIgUaEkOzDF2X1rRO5V0aNcaF6WiditZsI5m4DW3U3N6icE41smd0PhdyYW/3B+pB1KgOlZLeQVoUJI0GC+m/sC7YHjGUdttK7U8Mnw0+o0tpo08TXCTSs7vFlkq4XMcyBpPf04nAtxfDZ5f+PYmNyoyHi+KrUrRqO6NliBgkB5tLNAtL7XY0bVzbovBQciTMXpXiuhxUxRiX4n19FLSxa/BfawWs=;cIc9magRVq8ZFe5cllnm+A=="
 ---
 

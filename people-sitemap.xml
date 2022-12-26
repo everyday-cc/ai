@@ -13,13 +13,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/ilya-sutskever/</loc>
+    <loc>https://everyday.cc/ai/people/andrej-karpathy/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/andrej-karpathy/</loc>
+    <loc>https://everyday.cc/ai/people/andrew-ng/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -31,7 +31,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/andrew-ng/</loc>
+    <loc>https://everyday.cc/ai/people/alexandr-wang/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -49,13 +49,25 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/alexandr-wang/</loc>
+    <loc>https://everyday.cc/ai/people/ilya-sutskever/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://everyday.cc/ai/people/soumith-chintala/</loc>
+    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/people/christopher-d-manning/</loc>
+    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/people/demis-hassabis/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -79,31 +91,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/demis-hassabis/</loc>
-    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/people/christopher-d-manning/</loc>
-    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://everyday.cc/ai/people/joy-buolamwini/</loc>
-    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/people/nando-de-freitas/</loc>
-    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/people/geoffrey-hinton/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -115,25 +103,25 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/carol-e-reiley/</loc>
+    <loc>https://everyday.cc/ai/people/geoffrey-hinton/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/oren-etzioni/</loc>
+    <loc>https://everyday.cc/ai/people/kai-fu-lee/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/bernhard-scholkopf/</loc>
+    <loc>https://everyday.cc/ai/people/rodney-brooks/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/harry-shum/</loc>
+    <loc>https://everyday.cc/ai/people/laurence-moroney/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -145,19 +133,31 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/andrew-moore/</loc>
+    <loc>https://everyday.cc/ai/people/bernhard-scholkopf/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/huahai-yang/</loc>
+    <loc>https://everyday.cc/ai/people/javier-m-duarte/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/john-krafcik/</loc>
+    <loc>https://everyday.cc/ai/people/christopher-m-bishop/</loc>
+    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/people/daniele-bonacorsi/</loc>
+    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/people/jean-liu/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -181,31 +181,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/christopher-m-bishop/</loc>
-    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://everyday.cc/ai/people/chuen-tsai-sun/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/clement-farabet/</loc>
-    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://everyday.cc/ai/people/daniela-l-rus/</loc>
-    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/people/daniele-bonacorsi/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -229,6 +211,18 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://everyday.cc/ai/people/francisco-matorras/</loc>
+    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/people/harry-shum/</loc>
+    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://everyday.cc/ai/people/jacob-searcy/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -236,12 +230,6 @@
   </url>
   <url>
     <loc>https://everyday.cc/ai/people/james-peng/</loc>
-    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/people/javier-m-duarte/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -343,13 +331,37 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://everyday.cc/ai/people/nando-de-freitas/</loc>
+    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://everyday.cc/ai/people/nick-bostrom/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://everyday.cc/ai/people/noramay-cadena/</loc>
+    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/people/oren-etzioni/</loc>
+    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://everyday.cc/ai/people/ray-kurzweil/</loc>
+    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/people/rosalind-picard/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -385,25 +397,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/francisco-matorras/</loc>
+    <loc>https://everyday.cc/ai/people/andrew-moore/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/jean-liu/</loc>
-    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/people/mariya-yao/</loc>
-    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/people/laurence-moroney/</loc>
+    <loc>https://everyday.cc/ai/people/huahai-yang/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -415,55 +415,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/sebastian-thrun/</loc>
-    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/people/sougwen-chung/</loc>
-    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/people/martin-ford/</loc>
-    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://everyday.cc/ai/people/rajat-monga/</loc>
-    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/people/rosalind-picard/</loc>
-    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/people/taryn-southern/</loc>
-    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/people/noramay-cadena/</loc>
-    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/people/kai-fu-lee/</loc>
-    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/people/kate-crawford/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -475,7 +427,55 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/rodney-brooks/</loc>
+    <loc>https://everyday.cc/ai/people/sougwen-chung/</loc>
+    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/people/sebastian-thrun/</loc>
+    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/people/carol-e-reiley/</loc>
+    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/people/clement-farabet/</loc>
+    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/people/john-krafcik/</loc>
+    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/people/kate-crawford/</loc>
+    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/people/mariya-yao/</loc>
+    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/people/martin-ford/</loc>
+    <lastmod>2022-12-19T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/people/taryn-southern/</loc>
     <lastmod>2022-12-19T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
