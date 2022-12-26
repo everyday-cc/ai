@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-opportunities-ai-is-unlocking-for-hea
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-opportunities-ai-is-unlocking-for-healthcare-operations/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -45,17 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Foundation Models Could Help Advance AI in Healthcare"
-    excerpt: "Experts argue that a new class of models may lead to more adaptable, affordable healthcare artificial intelligence tools."
-    publishedDateTime: 2022-12-21T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/foundation-models-could-help-advance-ai-in-healthcare"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/foundation-models-could-help-advance-ai-in-healthcare"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/foundation-models-could-help-advance-ai-in-healthcare"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
   - title: "Biased Artificial Intelligence Is Costing People Job Opportunities, And Much More"
     excerpt: "By Damien Philippon, Founder, Zelros Getting a job is already hard enough. And for the 1 in 4 Americans who suffer from a disability, securing one can be even harder. This shouldn’t be the case"
     publishedDateTime: 2022-12-22T12:02:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2022/12/21/chatpgpt-shows-off-artificial-inte
 webUrl: "https://www.cnbc.com/2022/12/21/chatpgpt-shows-off-artificial-intelligence-microsoft-nvidia-roles.html"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Is There A ChatGPT Stock? Can You Invest In ChatGPT And Other Types Of Artificial Intelligence?"
-    excerpt: "Can you invest in ChatGPT? We look at this new, revolutionary product that OpenAI released and other readily available AI investment strategies."
-    publishedDateTime: 2022-12-21T15:55:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63a32f86ff6366182c36e6f0/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 728
-        isCached: true
 
 secured: "v3voSNPNAq8UjdbFLc1EAkTylIZW9899s9k2XgDUPLh3ze5UEdTibjZyRp42srLkGdJteucFByJ1auK70cHj98IxU91X9CE3uf+fIHTmqWjwkFtEhXS5fhx1w6lZ6RJHTb+3fsRxeVMvzkcfFJATmzHV8WUOgVkdmLKeN3krtXI+YOSDSabHL/7bgQMGxwKbinFRKEXn/k6oMM7soEJzpQ6fFU9M20cYYArP7mBSG1yQH9hcSc+QAxNwCQrilTjdjG2DmypIe+L91O4RYnYlMht5pzIP5yVJv45HEyqR4lGdoC0znoBOq5cEH7+DUDV7ltYqZtWfwdQQJYg/sA9nRKsfkR4dgZrt2x31uq/jM14s0LojWVo2+4oN2ERUfONObldoH6HLTR02UI5N9MgEjmpGQD5WK41+cDJVWDgyCpiHLIfq8mPVgL3IS4oNX4+CulHvmRu8ieWPGalu9dADvtlyi32WETdD5Ta6wzAFbryXjN0YzbXRPeY2mw+QKduL+mjF7XEojPE5Rm9Vcv9UQA==;3q635HuxUWOzPmVIYBOefg=="
 ---

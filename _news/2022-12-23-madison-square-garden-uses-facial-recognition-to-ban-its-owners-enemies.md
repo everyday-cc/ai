@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-fa
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.amp.html"
 type: article
 quality: 88
-heat: 198
+heat: 188
 published: true
 
 provider:
@@ -164,20 +164,6 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2018/10/598521-facial-recognition-640x360.jpg"
         width: 640
         height: 360
-        isCached: true
-  - title: "MSG uses facial recognition to kick out attorney whose firm is in litigation with James Dolan's company"
-    excerpt: "Multiple attorneys who work for law firms in active litigation against Madison Square Garden Entertainment have been barred from entering events owned by Dolan and MSG Entertainment. One of the most recent examples of this is Kelly Conlon,"
-    publishedDateTime: 2022-12-21T16:31:00Z
-    webUrl: "https://www.aol.com/sports/msg-uses-facial-recognition-kick-173048471.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 23
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/J768M3povq_ZN6FCLEKDdA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_sports_800/e594c260fbfe854ba278c336630ec9cc"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Madison Square Garden's Parent Company Used Facial Recognition Tech To Eject Lawyers Suing Them From Shows"
     excerpt: "Madison Square Garden Entertainment Corp. (MSG Entertainment) is using facial recognition technology to eject lawyers suing them from shows. According to a report by Rolling Stone, MSG Entertainment,"

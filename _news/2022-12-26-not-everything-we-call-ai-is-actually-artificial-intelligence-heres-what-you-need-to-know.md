@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Not everything we call AI is actually ‘artificial intelligence’. Here’s what you need to know"
-excerpt: "In August 1955, a group of scientists made a funding request for USD 13,500 to host a summer workshop at Dartmouth College, New Hampshire. The field they proposed to explore was artificial intelligence (AI)."
-publishedDateTime: 2022-12-26T05:25:00Z
-originalUrl: "https://www.tribuneindia.com/news/science-technology/not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know-464687"
-webUrl: "https://www.tribuneindia.com/news/science-technology/not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know-464687"
+excerpt: "Read more about Not everything we call AI is actually ‘artificial intelligence’. Here’s what you need to know on Devdiscourse"
+publishedDateTime: 2022-12-26T04:53:00Z
+originalUrl: "https://www.devdiscourse.com/article/technology/2298987-not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know"
+webUrl: "https://www.devdiscourse.com/article/technology/2298987-not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know"
+ampWebUrl: "https://www.devdiscourse.com/article/technology/2298987-not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know?amp"
+cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2298987-not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know?amp"
 type: article
-quality: 43
-heat: -1
-published: false
+quality: 63
+heat: 73
+published: true
 
 provider:
-  name: The Tribune
-  domain: tribuneindia.com
+  name: devdiscourse
+  domain: devdiscourse.com
 
 topics:
-  - AI Ethics
   - AI
+  - AI in Autos
 
 images:
-  - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/12/2022_12$largeimg_1146264440.jpg"
-    width: 748
-    height: 350
+  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_03_2019_03_00_16_6879831.jpg?width=1280"
+    width: 1280
+    height: 690
     isCached: true
 
 related:
@@ -37,6 +39,6 @@ related:
       domain: theconversation.com
     quality: 47
 
-secured: "h5kIBX2W+bbk+6K+QJCD2r9mv3O+QgOgDpRYU+3mm+jIKkyKYzkhPoe8gbtEQA2OdB080SbQKgRQOTai5eR81aVA/8bFNqZDLQK0/RkLQFDnLWDHxD4UOnmwAeQkRFtI28TtE4daeJwsBah3ZAtwbfBARxoa2Yu4H7MzwCvydse41qqwwT4+4hPSYviN1JOET/Jr1MO4Xm+Jw8DgPkK9ckl/smzHWu5dqG/Odt56DwNXJWh09SK4WPSRD3VTg6NfQz403VCmqNUVDfPV4+qTKFcqez/dlqA2fOXZOBPcdB220Ae/mDEBiY3QXBYSAapUrP7Z0ip9FPQXbXiv9c+qfykhx7ItvF09i09B79+TTTk=;Q91tPbGSjqO6JiBoPuMZVw=="
+secured: "wt/7s4jP2s20OC5IfR0k262f/UMvyFm1xrv4GV/JhUJ1nLNU4RrTdVz6nHBjZFv7eUSmRmu/xXNgtedZivlftTUQm2O9Juv7U+QzsIYhGDCyzGK95KAiTDESKU5pFEqUWRKwr1hxResTHDQBgH/t5UIxSRlIGMn4lO+xUBVTKPZt+W4JBexS9B46BTRi4i1kJicl4hlup0dh+LI8pIkdDBaZMambPMqesERA+YYHUD4LSB8231ciymSdJp7rT3Ei+FcLaMKLUUPrZ+0xLR+tTkruB11pmKV8g9iVB96Fgj7U8wNdhEyW2UEc/PQ8HiQCxZkKuSHUC2fx7Fz64aXSOevlu9cv7lqghjVmsw0XYmc=;9ucSRs1hq+Tlliw22PBgPg=="
 ---
 

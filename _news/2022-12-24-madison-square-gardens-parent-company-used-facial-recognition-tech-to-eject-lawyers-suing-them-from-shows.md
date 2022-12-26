@@ -175,20 +175,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "MSG uses facial recognition to kick out attorney whose firm is in litigation with James Dolan's company"
-    excerpt: "Multiple attorneys who work for law firms in active litigation against Madison Square Garden Entertainment have been barred from entering events owned by Dolan and MSG Entertainment. One of the most recent examples of this is Kelly Conlon,"
-    publishedDateTime: 2022-12-21T16:31:00Z
-    webUrl: "https://www.aol.com/sports/msg-uses-facial-recognition-kick-173048471.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 23
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/J768M3povq_ZN6FCLEKDdA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_sports_800/e594c260fbfe854ba278c336630ec9cc"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "X/47N2c05SpyJWfsU3fFGGup0BiJ8Cu2otEUzOtNq/KX8D0wRSmgM7/r3kuPi/zGc3VR8j8JaoMsqMhbN7i7OfBVF2GLxrF2XlHVpbEEFgigtAOp+Qpqkp9SclrXrV34CqhwI3XW5P6sHFjCY7qrMSkW5dCAaOvUMTrGTOStyloK3a+jE8OGlXq2qoIa1ArHGt6bsDhMS9DHOFMYeAyGHUGJ0oRMNDgtgT+HD1tMLXdcQMBwDfIRJulSLG+rNNPX/jpHxXc777fyJwRgextTwAfWYFZ0e0K3CkfLngW5Grais633+Rm5R0uGhlCUfjOkqoZylc/uvExWWdKzQfHtjwvv2yiQQYAAbBv2qM14zDU=;frW+neUXPhG/Xo21I7CCrA=="
 ---

@@ -69,20 +69,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Mom Booted From Christmas Show Due To Facial Recognition"
-    excerpt: "Digital rights advocates on Tuesday called for a ban on private use of biometric surveillance technology after a mom taking her daughter to see a Christmas show in New York City was kicked out of the theater after its facial recognition system identified her as an employee of a law firm involved in legal proceedings against the venue's operator."
-    publishedDateTime: 2022-12-21T15:48:00Z
-    webUrl: "https://crooksandliars.com/2022/12/mom-booted-christmas-show-due-facial"
-    type: article
-    provider:
-      name: Crooks and Liars
-      domain: crooksandliars.com
-    quality: 39
-    images:
-      - url: "https://crooksandliars.com/files/embeds/2022/12/53434.jpg"
-        width: 425
-        height: 318
-        isCached: true
 
 secured: "UOSL3Ozm7/AFCvPG1FXomtIJY41WeKuIbZIESTXiwhrUM67wvJNmQmPAj8kF6OycPyy80rnQWzeTEUqCfGZ2wNAfg1tllfKt0EuAB1+t0ANDMOXZePYls2ILvWVbODKfqrsfc/y7UZuL1rVdchytlGMe43VdEyzeb/hbswwr5GeZJZ8EhOblvEJkzRTF6MnU/tcM83kGET9CPzTKQbqUM3ExhoMw01I533v0alfjrBxtiz0YkP/JU5UDkuUdrcVh2lYZjV+aRv76YYwqzMbBlmVSmwhjB5XQg1H629PTcvUlt3L3fdY3KCHiK195jqW6oCYz3l69klD2epEL9ONdBKYmpnj2ETKFuzLUE7cmcHWyuXWsx12h7VA3xN93Z3T4XhDT5g+d5sfgCyKV64BakpS7dVIxOT/0dISuCwXFDxu4DFRNtINU0KLDmQ3sp7ZDiSrveod/GM9i8Xc3cPHC5XQAg//Vp0xHaT9XAT4EadkdQGoJa1cve4A0obMWK0i8tE/LCjXhckz9PxAxxXqqOQ==;+rm36mqdgJvAJ3wNlN8kGw=="
 ---
