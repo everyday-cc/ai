@@ -2,7 +2,7 @@
 name: "Arterys"
 overview: "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc."
 type: "profile"
-heat: 32
+heat: 50
 
 website: https://arterys.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=R_GU1ne-oW0"
 
-secured: "coTDA4/pX+XVzFMoI2NxgYSwDKnmwMFaTjsE+tHjFztqKwzF2UbN2U5LvCbdfcXD462RD1yudQ7SLOs3zlF3V5DPyklB5U7upXlILPUneiJHn0X7LkQsXE2c9Jto4msI0r2Sig3jl51Ihu7oK2s27oIOBznBHbSL7ky5XTNP/ezvs5rZOFj7sEmU1azRL91J8axm+nfYR/YI0Sx9cIgBjet3gycxOcZXR6eVBs5QLI9of8JhmMpfvVKSX2KgAqHxDnGy/HB0gYdFTV+BmUdNM2qxRP1iES1NiiZ4tfTtj/+3VThyCPrhP6+rrhPMGSaVNXus3599n4rLFBuKcPLUMwiR4dTqF/VbiVZZZF1o4Py2okaXVKtEy5bIfCQoVaj15p4imAEthnbbZ9HVdcExn0pP3/7ZIgUJ78qmlY21X3U=;IAXfDlJYByW4ajjtXbwf3A=="
+secured: "LTRAdjnfbY2jVHKo0rTkkRaoiIvX3r6kSDb83lk77zAhYj2Ao6B1qoeZYVdPULqRuzks2fe0CShYFmFBGMstVbfNfvz1O56un1EoW6wRMu9DOFyWDMVpOqcuVLrEA4hwGZQ8YHWvEPyd8qQpnVFPZ6tddaRc7jI41rTx/JWkyYoSByIf7dTdgt6P+DwYoIgm7/8s0OrhozCNnPgMxK60+hrakpNuI++AR4AuFPCF5rRDZFeKII1Yc38fBTxrRL4LjAoEGLxnGPOGkWYDg0QyQ4SFkKRo60AGZKz1l6TLeWT51kfdRBVc+mj4+zKQbcmjpJ9EYHmKPZb+B5mfeF0QEt11iCltFJ3oUZdpsfEBdCDtXGKsb3cNOqIwWmzLfhR8g7iQqGeuQ5NjEqsrlhPf2Zahz7IV8pKpr3bIrg3cdFE=;HvnzcI1OMZgYlQZHX05now=="
 ---
 
