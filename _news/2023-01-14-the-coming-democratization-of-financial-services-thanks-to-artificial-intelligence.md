@@ -61,6 +61,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Alfonso Cahero Announced The Implementation Of Artificial Intelligence For Cahero Family Office"
+    excerpt: "MIAMI, FLORIDA, UNITED STATES, January 15, 2023 /einpresswire.com / -- alfonso cahero , with his family office, contributes to the success"
+    publishedDateTime: 2023-01-15T20:52:00Z
+    webUrl: "https://menafn.com/1105430536/Alfonso-Cahero-Announced-The-Implementation-Of-Artificial-Intelligence-For-Cahero-Family-Office"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 5
 
 secured: "9hVSiXa2qek+tto3nT0qXEz88n0lUj5A/m7jEj6ImKY/263u2RvmhguTMCt4WJcCMrt+thxr7F1vQea06m646QTG9dXui1vkkP/DHPKghfONvgxNRWoGW58cYvYiWZEIrJQRsWboAitF/1AusCAZAQJqEhKIQqdCawbPdTgQG3FjSvJgYHWNCuLSyJ9ybu992Hp5uxNwms/HV/UWB18hYYa4w1aKFnX7zLyViiaZihIVIxwDErR1hTTgqM7DaGIR8G5x9kAZI3OI5FGoO4p6jEGKeoTPWqed/dCs9GHVSC0VgoFQuTG66BwAMxP6ImQk9eP3MYH80f+GjIY3PXp1c4uommLHHFB2WfUHQ1fyhZNolWWYY9VajofpJcpCR7JtP74lRXBvDhTddigbEEhbylAusentRJptCT3Pvf93j0Lc8FHayit4/iN7+nczTcMXfFBIkXXJs63jazAvxkLz5xw96/woG2nH99+6wkh1oWozvKo6FoHvoKZNSSFJzFMwtDl707WE7l96PqHnXnqm1g==;ctLtj8iLl2xehB4eI5+SCQ=="
 ---

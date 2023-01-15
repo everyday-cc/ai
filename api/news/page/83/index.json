@@ -2,6 +2,893 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2022-10-26-microsofts-end-to-end-arm-development-environment-is-here-at-last.md",
+      "title": "Microsoft’s end-to-end Arm development environment is here at last",
+      "excerpt": "It’s just in time, too, as the latest generation of Surface devices puts Microsoft’s Qualcomm-based SQ3 processor in the same hardware as Intel’s i7. What’s perhaps most interesting about Microsoft’s Arm focus is its link to building machine learning–driven applications into Windows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.html",
+      "originalUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/08/25/16/istock-1368001929-100931622-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.amp.html",
+      "publishedDateTime": "2022-10-26T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-the-best-travel-agent-is-an-ai-algorithm.md",
+      "title": "The best travel agent is an AI algorithm",
+      "excerpt": "By tapping into petabytes of data, Expedia's AI and ML models know more about your travel preferences than any human ever could.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-best-travel-agent-is-an-ai-algorithm/",
+      "originalUrl": "https://www.zdnet.com/article/the-best-travel-agent-is-an-ai-algorithm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/c5e34ad19d5fe93e13b48192470c5760a552f80f/2021/09/13/cb8e3919-d9cc-43c3-a95a-219d546bdd98/greece-laptop.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-best-travel-agent-is-an-ai-algorithm/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-best-travel-agent-is-an-ai-algorithm/",
+      "publishedDateTime": "2022-10-26T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-a-top-aws-exec-shares-advice-on-what-you-should-do-when-the-company-you-want-to-work-for-is-in-a-hiring-freeze.md",
+      "title": "A top AWS exec shares advice on what you should do when the company you want to work for is in a hiring freeze",
+      "excerpt": "The director of product and engineering at AWS says job seekers should \"boost their own marketability\" while waiting for recruiting to thaw.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/aws-nancy-wang-advice-for-job-seekers-in-hiring-freeze-2022-10",
+      "originalUrl": "https://www.businessinsider.com/aws-nancy-wang-advice-for-job-seekers-in-hiring-freeze-2022-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/634f12056bd52700191534c6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-introducing-vision-studio-a-ui-based-demo-interface-for-computer-vision.md",
+      "title": "Introducing Vision Studio, a UI-based demo interface for Computer Vision",
+      "excerpt": "Are you looking to improve the analysis and management of images and videos? The Computer Vision API provides access to advanced algorithms for processing media and returning information.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/introducing-vision-studio-a-uibased-demo-interface-for-computer-vision/",
+      "originalUrl": "https://azure.microsoft.com/blog/introducing-vision-studio-a-uibased-demo-interface-for-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/97d85a19-b0dc-47b0-8532-dc8f7b366e05.png",
+          "width": 1024,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T01:00:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai.md",
+      "title": "Hebrew U to open joint PhD program, research partnership with Meta AI",
+      "excerpt": "Doctoral program to provide students with mentors from the Facebook parent company, access to facilities and computational infrastructure",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/",
+      "originalUrl": "https://www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2022/08/AP22239576829786-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/amp/",
+      "publishedDateTime": "2022-10-26T00:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots.md",
+      "title": "LatticeFlow raises $12M to eliminate computer vision blind spots",
+      "excerpt": "LatticeFlow, a startup that was spun out of Zurich’s ETH in 2020, helps machine learning teams improve their AI vision models by automatically diagnosing issues and improving both the data and ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/26/latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots/",
+      "originalUrl": "https://techcrunch.com/2022/10/26/latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1382834268.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/26/latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/26/latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots/amp/",
+      "publishedDateTime": "2022-10-26T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-shutterstock-will-soon-offer-licensed-dall-e-2-images-showing-what-the-future-of-generative-ai-might-look-like.md",
+      "title": "Shutterstock Will Soon Offer Licensed DALL-E 2 Images, Showing What The Future Of Generative AI Might Look Like",
+      "excerpt": "Shutterstock announced it unveiled its action plan to launch its AI-generated content capabilities in a manner that is responsible and transparent for its customers and contributors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2022/10/26/shutterstock-will-soon-offer-ai-generated-images-showing-what-the-future-of-dall-e-might-look-like/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2022/10/26/shutterstock-will-soon-offer-ai-generated-images-showing-what-the-future-of-dall-e-might-look-like/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6358cacc53a52234563671f1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2022/10/26/shutterstock-will-soon-offer-ai-generated-images-showing-what-the-future-of-dall-e-might-look-like/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/10/26/shutterstock-will-soon-offer-ai-generated-images-showing-what-the-future-of-dall-e-might-look-like/amp/",
+      "publishedDateTime": "2022-10-25T22:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-machine-learning-as-a-service-mlaas-market-identify-the-growth-statistics-revenue-challenges-and-forecast-to-2029-newst-104-pages-report.md",
+      "title": "Machine Learning as a Service (MLaaS) Market Identify the Growth, Statistics, Revenue, challenges, and Forecast to 2029 | Newst 104 Pages Report",
+      "excerpt": "Market - Covid-19 Impact and Recovery Analysis: We have been tracking the direct impact of COVID-19 on this market, as well as the indirect impact from other industries. This report analyzes the impact of the pandemic on the Machine Learning as a Service (MLaaS) market from a Global and Regional perspective.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-identify-the-growth-statistics-revenue-challenges-and-forecast-to-2029-newst-104-pages-report-2022-10-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-identify-the-growth-statistics-revenue-challenges-and-forecast-to-2029-newst-104-pages-report-2022-10-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-speech-recognition-for-consumer-electronics-market-strategic-imperatives-for-growth-analysis-and-success-rate-by-2026-newst-99-pages-report.md",
+      "title": "Speech Recognition for Consumer Electronics Market – Strategic Imperatives for Growth Analysis and Success Rate By 2026 | Newst 99 Pages Report",
+      "excerpt": "In 2022, Current Speech Recognition for Consumer Electronics Market Size with Newest [99] Pages Report The latest",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-for-consumer-electronics-market-strategic-imperatives-for-growth-analysis-and-success-rate-by-2026-newst-99-pages-report-2022-10-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-for-consumer-electronics-market-strategic-imperatives-for-growth-analysis-and-success-rate-by-2026-newst-99-pages-report-2022-10-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-speech-recognition-market-report-entails-a-detailed-qualitative-and-quantitative-analysis-by-2030-141-report-pages.md",
+      "title": "Speech Recognition Market Report Entails a Detailed Qualitative and Quantitative Analysis By 2030 | 141 Report Pages",
+      "excerpt": "Pages No.] Speech Recognition Market report are massive business with critical facilities designed to efficiently support robust opportunities, scalable applications and are often associated with big data-producing companies such as ,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-market-report-entails-a-detailed-qualitative-and-quantitative-analysis-by-2030-141-report-pages-2022-10-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-market-report-entails-a-detailed-qualitative-and-quantitative-analysis-by-2030-141-report-pages-2022-10-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-ai-art-raises-questions-about-copyright.md",
+      "title": "AI art raises questions about copyright",
+      "excerpt": "Let artificial intelligence (AI) do the work for you. Then you change your mind and want to have the painting in a surrealistic style. A piece of cake. Type what you want in the message field of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bangkokpost.com/opinion/opinion/2422648/ai-art-raises-questions-about-copyright",
+      "originalUrl": "https://www.bangkokpost.com/opinion/opinion/2422648/ai-art-raises-questions-about-copyright",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.bangkokpost.com/media/content/20221026/c1_2422648_221026063358_700.jpg",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bangkok Post",
+        "domain": "bangkokpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-words-face-recognition-supported-by-1-brain-hemisphere-study.md",
+      "title": "Words, face recognition supported by 1 brain hemisphere: study",
+      "excerpt": "Research shows how words, face recognition can be supported with a single brain hemisphere Research findings, published by University of Pittsburgh researchers in the Proceedings of the National ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289",
+      "originalUrl": "https://gulfnews.com/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2019/12/02/191202-brain-networks_16ec6b5e666_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289",
+      "publishedDateTime": "2022-10-25T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-cloud-ai-in-fintech-market-competitive-strategy-analysis-and-forecast-values-2022-2029.md",
+      "title": "Cloud AI in Fintech Market : Competitive Strategy Analysis and Forecast Values 2022-2029",
+      "excerpt": "Cloud AI in Fintech Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021, at unexpected",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-competitive-strategy-analysis-and-forecast-values-2022-2029-2022-10-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-competitive-strategy-analysis-and-forecast-values-2022-2029-2022-10-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T20:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-aizen-global-to-introduce-ai-banking-service-at-singapore-fintech-festival.md",
+      "title": "AIZEN Global to introduce AI banking service at Singapore Fintech Festival",
+      "excerpt": "The company is also planning to demonstrate its AI service-type banking and share examples of banking service applications in various industries at this fintech event, which is the largest in Asia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/aizen-global-introduce-ai-banking-service-singapore-fintech-festival",
+      "originalUrl": "https://www.asiaone.com/business/aizen-global-introduce-ai-banking-service-singapore-fintech-festival",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/image_1049.jpg?h=04d92ac6&itok=93pX9W6n",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T20:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-how-to-be-a-super-ager-and-improve-your-memory-and-cognitive-function-as-you-age.md",
+      "title": "How to be a 'super-ager' and improve your memory and cognitive function as you age",
+      "excerpt": "but I was so alarmed by my forgetfulness I Googled to see if there was any way to improve my memory and cognitive function. Like what you see? Sign up to our bodyandsoul.com.au newsletter for more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bodyandsoul.com.au/health/how-to-be-a-superager-and-improve-your-memory-and-cognitive-function-as-you-age/news-story/27b3ea8304b4c610c9b61f66defc1392",
+      "originalUrl": "https://www.bodyandsoul.com.au/health/how-to-be-a-superager-and-improve-your-memory-and-cognitive-function-as-you-age/news-story/27b3ea8304b4c610c9b61f66defc1392",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bodyandsoul.com.au/health/how-to-be-a-superager-and-improve-your-memory-and-cognitive-function-as-you-age/news-story/27b3ea8304b4c610c9b61f66defc1392?amp",
+      "cdnAmpWebUrl": "https://www-bodyandsoul-com-au.cdn.ampproject.org/c/s/www.bodyandsoul.com.au/health/how-to-be-a-superager-and-improve-your-memory-and-cognitive-function-as-you-age/news-story/27b3ea8304b4c610c9b61f66defc1392?amp",
+      "publishedDateTime": "2022-10-25T19:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bodyandsoul.com.au",
+        "domain": "bodyandsoul.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-intels-mobileye-self-driving-car-unit-prices-ipo-above-range.md",
+      "title": "Intel's Mobileye Self-Driving Car Unit Prices IPO Above Range",
+      "excerpt": "The chip giant's subsidiary prices IPO at $21 a share, a dollar above the $18 to $20 range previously expected.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/91d7fade41a5e3df6b3a03426955b3734741bf64/hub/2022/04/26/f6588c04-14b7-45da-be30-72310a85b709/intel-mobileye-autonomous-test-vehicles.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/",
+      "publishedDateTime": "2022-10-25T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-novel-approach-to-tms-may-slow-cognitive-decline-in-alzheimers.md",
+      "title": "Novel Approach to TMS May Slow Cognitive Decline in Alzheimer's",
+      "excerpt": "A novel approach to repetitive transcranial magnetic stimulation (rTMS) that targets the precuneus appears to slow the progression of cognitive and functional decline in patients with Alzheimer's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/983068",
+      "originalUrl": "https://www.medscape.com/viewarticle/983068",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-generative-ai-startups-attract-business-customers-investor-funding.md",
+      "title": "Generative AI Startups Attract Business Customers, Investor Funding",
+      "excerpt": "Austin-based Jasper, whose AI platform generates marketing materials, last week announced a $125 million Series A fundraising round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176?tpl=vc",
+      "originalUrl": "https://www.wsj.com/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176?tpl=vc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-651809/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-microsoft-gaming-revenue-grew-slightly-yoy-xbox-hardware-up-13-content-services-down-3.md",
+      "title": "Microsoft Gaming Revenue Grew Slightly YoY: Xbox Hardware Up 13%, Content & Services Down 3%",
+      "excerpt": "Today, Microsoft announced its financial results for the first quarter of the fiscal year 2023, related to the period between July 1, 2022, and September 30, 2022. The press release shared today ...",
+      "sourceUrl": null,
+      "webUrl": "https://twinfinite.net/2022/10/xbox-microsoft-finacials-q1-2023/",
+      "originalUrl": "https://twinfinite.net/2022/10/xbox-microsoft-finacials-q1-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Twinfinite",
+        "domain": "twinfinite.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-mlsec-could-be-the-answer-to-adversarial-ai-and-machine-learning-attacks.md",
       "title": "MLsec could be the answer to adversarial AI and machine learning attacks",
       "excerpt": "With research showing that private investment in artificial intelligence (AI) reached roughly $93.5 billion in 2021, it’s no secret that many organizations are implementing AI and machine learning",
@@ -276,851 +1163,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-video-games-linked-to-heightened-cognitive-abilities-in-children-study.md",
-      "title": "Video games linked to heightened cognitive abilities in children: Study",
-      "excerpt": "The study analyzed data from the adolescent brain cognitive development study that is tracking roughly 12,000 children coming of age. Researchers assessed a subset of 2,000 who entered the study ...",
-      "sourceUrl": null,
-      "webUrl": "https://gazette.com/news/us-world/video-games-linked-to-heightened-cognitive-abilities-in-children-study/article_d8b5efef-132f-5df1-93e8-b49744f85059.html",
-      "originalUrl": "https://gazette.com/news/us-world/video-games-linked-to-heightened-cognitive-abilities-in-children-study/article_d8b5efef-132f-5df1-93e8-b49744f85059.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.prcdn.co/img?cid=9YMC&page=1&width=300",
-          "width": 293,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Gazette",
-        "domain": "gazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-hardware.md",
-      "title": "AI chip startup Axelera lands $27M in capital to commercialize its hardware",
-      "excerpt": "Axelera, a startup developing an AI chip for accelerated processing, has landed $27 million in fresh venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/",
-      "originalUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1060938604-1.jpg?resize=1200,742",
-          "width": 1200,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/",
-      "publishedDateTime": "2022-10-25T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-artificial-intelligence-ai-in-clinical-trials-market-worth-48-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
-      "title": "Artificial Intelligence (AI) in Clinical Trials Market worth $4.8 billion by 2027 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "Artificial Intelligence (AI) in Clinical Trials Marketis projected to reach USD 4.8 billion by 2027 from USD 1.5 billion in 2022, at a CAGR",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/10/25/9699370.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/10/25/9699370.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-perceptron-ai-halts-traffic-stabilises-gaits-and-saves-whales.md",
-      "title": "Perceptron: AI halts traffic, stabilises gaits, and saves whales",
-      "excerpt": "An AI system listens for the calls of certain species and reports back to a researcher, who can then determine where the animal or animals are by correlating the data with factors like water temperature and weather as well as historical records of whale sightings in the area.",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/perceptron-ai-halts-traffic-stabilises-gaits-and-saves-whales/",
-      "originalUrl": "https://bestgamingpro.com/perceptron-ai-halts-traffic-stabilises-gaits-and-saves-whales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2022/10/Perceptron-AI-saving-whales-steadying-gaits-and-banishing-traffic.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-perceptron-ai-saving-whales-steadying-gaits-and-banishing-traffic.md",
-      "title": "Perceptron: AI saving whales, steadying gaits and banishing traffic",
-      "excerpt": "In this edition of TechCrunch's Perceptron column, we look at efforts to track Parkinson's progression, stop whale-boat collisions, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/25/perceptron-ai-saving-whales-steadying-gaits-and-banishing-traffic/",
-      "originalUrl": "https://techcrunch.com/2022/10/25/perceptron-ai-saving-whales-steadying-gaits-and-banishing-traffic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/MIT-Monitoring-Parkinsons-01-PRESS.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/25/perceptron-ai-saving-whales-steadying-gaits-and-banishing-traffic/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/25/perceptron-ai-saving-whales-steadying-gaits-and-banishing-traffic/amp/",
-      "publishedDateTime": "2022-10-25T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-run-multiple-deep-learning-models-on-gpu-with-amazon-sagemaker-multi-model-endpoints.md",
-      "title": "Run multiple deep learning models on GPU with Amazon SageMaker multi-model endpoints",
-      "excerpt": "As AI adoption is accelerating across the industry, customers are building sophisticated models that take advantage of new scientific breakthroughs in deep learning. These next-generation models allow you to achieve state-of-the-art, human-like performance in the fields of natural language processing",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-multiple-deep-learning-models-on-gpu-with-amazon-sagemaker-multi-model-endpoints/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-multiple-deep-learning-models-on-gpu-with-amazon-sagemaker-multi-model-endpoints/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/25/ML-9791-image001.jpg",
-          "width": 1540,
-          "height": 724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T08:45:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers.md",
-      "title": "Korean Company Upstage Launches Leading OCR Pack Enterprise AI Platform Powered by Inspur GPU Servers",
-      "excerpt": "Inspur Information, a leading IT infrastructure solutions provider, announced its Korean subsidiary built an advanced AI server architecture platform for Upstage, a leading AI company based in Korea.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/10/25/9699240.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/10/25/9699240.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-image-analysis-40-with-new-api-endpoint-and-ocr-model-in-preview.md",
-      "title": "Image Analysis 4.0 with new API endpoint and OCR model in preview",
-      "excerpt": "We are thrilled to announce the preview release of Computer Vision Image Analysis 4.0 which combines existing and new visual features such as read optical character recognition (OCR), captioning, image classification and tagging, object detection, people detection, and smart cropping into one API.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/image-analysis-40-with-new-api-endpoint-and-ocr-model-in-preview/",
-      "originalUrl": "https://azure.microsoft.com/blog/image-analysis-40-with-new-api-endpoint-and-ocr-model-in-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/40891cd5-f29f-4347-b667-e888bdd67b0e.png",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T08:10:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials.md",
-      "title": "Vitamin-powered batteries: how ‘self-driving’ labs are using AI to develop remarkable new materials",
-      "excerpt": "It can take many years for a new substance to get from a successful lab experiment to a solution ready to roll out across the world. But AI can be used to sidestep this bottleneck",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials",
-      "originalUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/26b842453095a3ed54f895bad5493df2a6fec192/0_240_3600_2160/master/3600.jpg?width=620&quality=85&auto=format&fit=max&s=aac2bdbdbf137bae219f1e48acf93394",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials",
-      "publishedDateTime": "2022-10-25T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022.md",
-      "title": "Microsoft Focuses On Productivity And Workflows With AI Automation And Collaborative Tools At Ignite 2022",
-      "excerpt": "Microsoft held its annual developer event, Microsoft Ignite, where it announced many new features, services, and tools for its ecosystem of developers and IT professionals. Today, Patrick wants to cover the announcements that stuck out to me the most.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6357f7cc516bd094593671f1/0x0.jpg?format=jpg&width=1200",
-          "width": 892,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/amp/",
-      "publishedDateTime": "2022-10-25T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-video-games-may-bring-cognitive-benefits-to-kids-study.md",
-      "title": "Video games may bring cognitive benefits to kids: study",
-      "excerpt": "School-age kids who spend hours a day playing video games may outperform their peers on certain tests of mental agility, a new study suggests. Researchers found that compared with children who ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.html",
-      "originalUrl": "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/video-games-may-bring.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-video-games-cognitive-benefits-kids.amp",
-      "publishedDateTime": "2022-10-25T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-generative-ai-will-impact-every-tool-out-there-says-jasper-ceo.md",
-      "title": "Generative AI will ‘impact every tool out there,’ says Jasper CEO",
-      "excerpt": "Dave Rogenmoser, CEO of Jasper AI, says that generative AI is no flash in the pan — and enterprise companies should consider their strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/",
-      "originalUrl": "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Jasper.ai-Free-Trial-3.png?w=1200&strip=all",
-          "width": 654,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/amp/",
-      "publishedDateTime": "2022-10-25T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-european-ai-startup-axelera-ai-closes-27-million-series-a.md",
-      "title": "European AI Startup Axelera AI Closes $27 Million Series A",
-      "excerpt": "EINDHOVEN, Netherlands--(BUSINESS WIRE)--European AI startup Axelera AI announced today the close of its $27 million Series A investment round. The funding will support Axelera AI’s launch and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20221017005510/en/European-AI-Startup-Axelera-AI-Closes-27-Million-Series-A/?feedref=JjAwJuNHiystnCoBq_hl-fqXyBvmekC3Xq1G1wQ7hjMFbZM1ntlKeK-8bUzJqFSVSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HlyE0C4hZhHVlTvKnn0d0vQ==",
-      "originalUrl": "https://www.businesswire.com/news/home/20221017005510/en/European-AI-Startup-Axelera-AI-Closes-27-Million-Series-A/?feedref=JjAwJuNHiystnCoBq_hl-fqXyBvmekC3Xq1G1wQ7hjMFbZM1ntlKeK-8bUzJqFSVSfe41V1BKA-b6v2ZVrSSNs-dUYKiDvY7XniNSqv88QcY1Ge_vf9QIMZ4alzIf_0HlyE0C4hZhHVlTvKnn0d0vQ==",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsroom.businesswire.com",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-mlsec-could-be-the-answer-to-adversarial-ai-and-machine-learning-attacks.md",
-      "title": "MLSec could be the answer to adversarial AI and machine learning attacks",
-      "excerpt": "Hidden Layer announces the launch of a new MLSec platform designed to detect and respond to adversarial AI and machine learning attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/mlsec-ai-machine-learning/",
-      "originalUrl": "https://venturebeat.com/security/mlsec-ai-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-three-hours-of-video-games-a-day-may-actually-help-a-childs-cognitive-skills-study-finds.md",
-      "title": "Three hours of video games a day may actually help a child’s cognitive skills, study finds",
-      "excerpt": "Playing computer games isn’t an activity usually associated with an increase in mental faculties and many parents want to keep their kids away from staring at screens for hours on end.",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2022/10/25/three-hours-of-video-games-a-day-may-actually-help-a-childs-cognitive-skills-study-finds",
-      "originalUrl": "https://www.euronews.com/next/2022/10/25/three-hours-of-video-games-a-day-may-actually-help-a-childs-cognitive-skills-study-finds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/07/15/49/82/1000x563_cmsv2_a1e1a153-70cb-5476-a498-af3c8bb01336-7154982.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.euronews.com/next/amp/2022/10/25/three-hours-of-video-games-a-day-may-actually-help-a-childs-cognitive-skills-study-finds",
-      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/10/25/three-hours-of-video-games-a-day-may-actually-help-a-childs-cognitive-skills-study-finds",
-      "publishedDateTime": "2022-10-25T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-organizations-rapidly-adopting-qlik-automl-to-bring-the-power-of-machine-learning-to-analytics-teams.md",
-      "title": "Organizations Rapidly Adopting Qlik AutoML to Bring the Power of Machine Learning to Analytics Teams",
-      "excerpt": "Machine learning is used across every industry, but its wider adoption and value have been limited by the gap in data scientist bandwidth and resources. Qlik AutoML is filling that gap by bringing a simple,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/organizations-rapidly-adopting-qlik-automl-to-bring-the-power-of-machine-learning-to-analytics-teams-2022-10-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/organizations-rapidly-adopting-qlik-automl-to-bring-the-power-of-machine-learning-to-analytics-teams-2022-10-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-voice-recognition-has-hidden-dangers-says-swiss-report.md",
-      "title": "Voice recognition has hidden dangers, says Swiss report",
-      "excerpt": "Online speech and face recognition digital systems, such as Alexa, should be better regulated to protect consumers, a Swiss technology think tank advocates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.swissinfo.ch/eng/voice-recognition-has-hidden-dangers--says-swiss-report/48005780",
-      "originalUrl": "https://www.swissinfo.ch/eng/voice-recognition-has-hidden-dangers--says-swiss-report/48005780",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.swissinfo.ch/resource/image/48005788/landscape_ratio16x9/1920/1080/f57d36d0a50b2259cc434f67a939138b/9F4D27AA999894CD4C58141C5A16BEE5/voice.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Swissinfo",
-        "domain": "swissinfo.ch",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-ibm-helps-ecosystem-partners-accelerate-ai-adoption-by-making-it-easier-to-embed-and-scale-ai-across-their-business.md",
-      "title": "IBM Helps Ecosystem Partners Accelerate AI Adoption by Making it Easier to Embed and Scale AI Across Their Business",
-      "excerpt": "\"By bringing to market the same portfolio of embeddable AI technology that powers our industry-leading IBM Watson products, we are helping Ecosystem partners more efficiently deliver AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29394114/ibm-helps-ecosystem-partners-accelerate-ai-adoption-by-making-it-easier-to-embed-and-scale-ai-acro",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29394114/ibm-helps-ecosystem-partners-accelerate-ai-adoption-by-making-it-easier-to-embed-and-scale-ai-acro",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-google-cloud-in-2022-whats-in-it-for-the-enterprise.md",
-      "title": "Google Cloud in 2022: What’s in it for the enterprise?",
-      "excerpt": "Google Cloud has seen its market share and revenue soar in recent quarters as enterprises flock to its platform, but profitability continues to elude the firm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252526440/Google-Cloud-in-2022-Whats-in-it-for-the-enterprise",
-      "originalUrl": "https://www.computerweekly.com/news/252526440/Google-Cloud-in-2022-Whats-in-it-for-the-enterprise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

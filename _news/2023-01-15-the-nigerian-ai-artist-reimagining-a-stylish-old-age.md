@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-15T00:47:00Z
 originalUrl: "https://www.bbc.com/news/world-africa-64260739.amp"
 webUrl: "https://www.bbc.com/news/world-africa-64260739.amp"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: BBC

@@ -2,6 +2,909 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2022-10-19-ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament.md",
+      "title": "AI Law And AI Ethics Deeply Disturbed By That Recent “History-Making Moment” Of An AI Robot Testifying To The UK Parliament",
+      "excerpt": "An AI robot spoke to the UK Parliament in a committee hearing, which has been heralded as historic and meanwhile scoffed at as being nothing more than a cheap stunt. We take a close look at what occurred and examine the true limits of AI and robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634dd406801f9839f3ad84c7/0x0.jpg?format=jpg&crop=3835,2159,x0,y240,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/amp/",
+      "publishedDateTime": "2022-10-19T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-asc-solution-for-compliance-recording-is-first-to-be-listed-in-the-microsoft-cloud-for-financial-services.md",
+      "title": "ASC Solution for Compliance Recording is first to be listed in the Microsoft Cloud for Financial Services",
+      "excerpt": "As Teams becomes increasingly important as a platform for financial services ASC and Microsoft have been working together to make regulatory compliance as easy as possible via a Teams–based ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/asc-solution-for-compliance-recording-is-first-to-be-listed-in-the-microsoft-cloud-for-financial-services-1031816791",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/asc-solution-for-compliance-recording-is-first-to-be-listed-in-the-microsoft-cloud-for-financial-services-1031816791",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-general-robotics-launches-naval-rcws.md",
+      "title": "General Robotics launches naval RCWS",
+      "excerpt": "Israel-based General Robotics has launched a naval version of its Remote Controlled Weapon Station (RCWS). Known as Shark, the RCWS is designed for small manned and unmanned naval vessels ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.janes.com/defence-news/news-detail/general-robotics-launches-naval-rcws",
+      "originalUrl": "https://www.janes.com/defence-news/news-detail/general-robotics-launches-naval-rcws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.janes.com/images/default-source/news-images/bsp_44013-idr-19424.jpg?sfvrsn=c6cabfbd_2",
+          "width": 600,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.janes.com/amp/general-robotics-launches-naval-rcws/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
+      "cdnAmpWebUrl": "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/general-robotics-launches-naval-rcws/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
+      "publishedDateTime": "2022-10-19T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jane's Information Group",
+        "domain": "janes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-7-ways-to-better-sell-artificial-intelligence-to-the-business.md",
+      "title": "7 Ways To Better Sell Artificial Intelligence To The Business",
+      "excerpt": "AI transforms the systems and processes that have defined the way business is done. Selling AI as a new way requires some degree of finesse and business sense.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634f37c78835ec41abc9a291/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/amp/",
+      "publishedDateTime": "2022-10-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-artificial-intelligence-in-defense-market-size-worth-1315bn-globally-by-2028-at-108-cagr.md",
+      "title": "Artificial Intelligence in Defense Market Size Worth $13.15Bn, Globally, by 2028 at 10.8% CAGR",
+      "excerpt": "The latest research study on \"Artificial Intelligence in Defense Market Forecast to 2028 – COVID-19 Impact and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-defense-market-size-worth-1315bn-globally-by-2028-at-108-cagr-2022-10-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-defense-market-size-worth-1315bn-globally-by-2028-at-108-cagr-2022-10-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-language-processing-market-strategies-future-plans-competitive-landscape-emerging-trends-growth-opportunities-by-latest-research-report.md",
+      "title": "Language Processing Market Strategies, Future Plans, Competitive Landscape, Emerging Trends & Growth Opportunities by Latest Research Report 2022-2028",
+      "excerpt": "Natural language processing is a subfield of computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human languages ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/language-processing-market-strategies-future-plans-competitive-landscape-emerging-trends-growth-opportunities-by-latest-research-report-2022-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/language-processing-market-strategies-future-plans-competitive-landscape-emerging-trends-growth-opportunities-by-latest-research-report-2022-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/cyberattacks-hackers-russia-AFP-1K-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-the-disruptive-economic-impact-of-artificial-intelligence.md",
+      "title": "The Disruptive Economic Impact Of Artificial Intelligence",
+      "excerpt": "Artificial Intelligence is promising to disrupt many businesses and industries. While there is huge potential, we are currently in the \"between times,\" just before the true disruption is going to occur.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634fa904bbec04b6b78e9c74/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-10-19T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast.md",
+      "title": "Latin America Artificial Intelligence Market 2022-27: Trends, Share, Size, Growth and Forecast",
+      "excerpt": "According to the latest report by IMARC Group, titled \"Latin America Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,\" the latin america artificial intelligence market is expected to continue its moderate growth during the forecast period (2022-2027).",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast-2022-10-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast-2022-10-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T22:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-tensorflow-decision-forests-and-tensorflow-serving.md",
+      "title": "TensorFlow Decision Forests and TensorFlow Serving",
+      "excerpt": "TensorFlow Serving (TF Serving) is a tool to run TensorFlow models online in large production settings using a RPC or REST API. TensorFlow Decision Forests (TF-DF) is supported natively by TF Serving >=2.11. TF-DF models are directly compatible with TF ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/decision_forests/tensorflow_serving",
+      "originalUrl": "https://www.tensorflow.org/decision_forests/tensorflow_serving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T22:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-ikea-is-trialing-driverless-truck-deliveries-in-texas.md",
+      "title": "Ikea is trialing driverless truck deliveries in Texas",
+      "excerpt": "Ikea has teamed up with Kodiak Robotics, a company that's working on self-driving technology for long-haul trucking, to test driverless deliveries from its warehouses. Since August this year ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ikea-trialing-driverless-truck-deliveries-texas-050317228.html",
+      "originalUrl": "https://www.engadget.com/ikea-trialing-driverless-truck-deliveries-texas-050317228.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/ac2727f0-4f62-11ed-adf9-501fe2d8ec7f",
+          "width": 1600,
+          "height": 1062,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ikea-trialing-driverless-truck-deliveries-texas-050317228.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ikea-trialing-driverless-truck-deliveries-texas-050317228.html",
+      "publishedDateTime": "2022-10-18T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-jfk-airport-offers-eyewitness-news-exclusive-ride-aboard-new-driverless-shuttle.md",
+      "title": "JFK Airport offers Eyewitness News exclusive ride aboard new driverless shuttle",
+      "excerpt": "QUEENS, New York (WABC) -- The future is taking off at John F. Kennedy Airport, where a driverless shuttle is being tested out that would take passengers to and from the long-term parking lot.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7ny.com/jfk-airport-new-shuttle-driverless-vehicle-port-authority/12343611/",
+      "originalUrl": "https://abc7ny.com/jfk-airport-new-shuttle-driverless-vehicle-port-authority/12343611/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/12344004_shuttle.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7ny.com/amp/jfk-airport-new-shuttle-driverless-vehicle-port-authority/12343611/",
+      "cdnAmpWebUrl": "https://abc7ny-com.cdn.ampproject.org/c/s/abc7ny.com/amp/jfk-airport-new-shuttle-driverless-vehicle-port-authority/12343611/",
+      "publishedDateTime": "2022-10-18T20:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "abc7NY",
+        "domain": "abc7ny.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-google-adds-a-no-code-computer-vision-platform-to-vertex-ai.md",
+      "title": "Google Adds A No-Code Computer Vision Platform To Vertex AI",
+      "excerpt": "Currently, in preview, Vertex AI Vision is an extension of AutoML Vision that can train models to perform image classification and object detection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634f50b726f1d49169c9a291/0x0.jpg?format=jpg&width=1200",
+          "width": 1067,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/amp/",
+      "publishedDateTime": "2022-10-18T18:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Microsoft AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-post-covid-cognitive-impairments-exhibited-by-participants-of-western-led-study.md",
+      "title": "Post-COVID cognitive impairments exhibited by participants of Western-led study",
+      "excerpt": "A new study led by Western University neuroscientists is shedding more light on COVID-19’s impacts on post-infection cognitive function. The study, published Tuesday in the journal Cell Reports ...",
+      "sourceUrl": null,
+      "webUrl": "https://globalnews.ca/news/9207933/post-covid-cognitive-impairments-western-study/",
+      "originalUrl": "https://globalnews.ca/news/9207933/post-covid-cognitive-impairments-western-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T18:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global News",
+        "domain": "globalnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-bill-allowing-driverless-vehicles-in-pennsylvania-advances-in-senate-bringing-its-adoption-closer.md",
+      "title": "Bill allowing driverless vehicles in Pennsylvania advances in Senate, bringing its adoption closer",
+      "excerpt": "State legislators in Harrisburg have further advanced a bill that would permit autonomous vehicle companies operating in Pennsylvania the ability to conduct testing of their self-driving machines ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/news/2022/10/18/bill-driverless-vehicles-advances-senate-vote.html",
+      "originalUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/news/2022/10/18/bill-driverless-vehicles-advances-senate-vote.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-exercise-strengthens-cognitive-function-in-stroke-patients.md",
+      "title": "Exercise Strengthens Cognitive Function in Stroke Patients",
+      "excerpt": "Exercise appears to significantly improve cognitive function following a stroke, bringing patients with mild to moderate cognitive impairment back to near normal cognition. Results of a new proof ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/982715",
+      "originalUrl": "https://www.medscape.com/viewarticle/982715",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.medscape.com/thumbnail_library/gty_221019_nurse_helping_senior_lift_weights_800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-new-research-paves-way-for-innovative-theory-of-cognitive-processing.md",
+      "title": "New research paves way for innovative theory of cognitive processing",
+      "excerpt": "\"We currently do not understand how neurons and glia work together, or how glial dysfunction contributes to cognitive deficits.\" Glial cells are abundant throughout the brain and play several ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/10/221019111400.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/10/221019111400.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-rivian-hires-former-waymo-exec-for-new-autonomy-ai-role.md",
+      "title": "Rivian hires former Waymo exec for new autonomy, AI role",
+      "excerpt": "Rivian has hired former Waymo executive James Philbin to lead autonomy and AI at the automaker, a new role that signals the company’s interest in automated driving technology. Philbin was ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/",
+      "originalUrl": "https://techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/IMG_2291.jpeg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/amp/",
+      "publishedDateTime": "2022-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-swap-robotics-is-paving-the-way-for-electric-solar-vegetation-cuts-and-sidewalk-snow-plowing.md",
+      "title": "Swap Robotics is paving the way for electric solar vegetation cuts and sidewalk snow plowing",
+      "excerpt": "Swap Robotics, a company that manufactures electric grass-cutting and snow removal robots, presented today at TechCrunch Disrupt Startup Battlefield to detail how it’s making sustainable outdoor ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/",
+      "originalUrl": "https://techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/swap-robotics.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/amp/",
+      "publishedDateTime": "2022-10-18T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-105m.md",
+      "title": "Keebo AI optimizes data warehouses with automated ‘learning’ platform, raises $10.5M",
+      "excerpt": "Keebo AI, which helps enterprises optimize their data warehouses, today announced it has raised $10.5 million in series A funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1176050900-e1666115841626.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/amp/",
+      "publishedDateTime": "2022-10-18T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-gpu-database-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2022-2028.md",
       "title": "GPU Database Market : An Exclusive Study On Upcoming Trends And Growth Opportunities from 2022-2028",
       "excerpt": "H2o.Ai, Fastdata.Io, Fuzzy Logix, Graphistry, Anac At last, all parts of the GPU Database Market are quantitatively also subjectively valued to think about the Global just as regional market equally.",
@@ -274,914 +1177,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-deep-learning-in-healthcare-market-is-dazzling-worldwide-micron-technology-aws-mythic.md",
-      "title": "Deep Learning in Healthcare Market Is Dazzling Worldwide | Micron Technology, AWS, Mythic",
-      "excerpt": "The Deep Learning in Healthcare – Market Development Outlook Study has been added to HTF MI repository. The study",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-healthcare-market-is-dazzling-worldwide-micron-technology-aws-mythic-2022-10-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-healthcare-market-is-dazzling-worldwide-micron-technology-aws-mythic-2022-10-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-ceremorphic-tapes-out-ai-supercomputing-chip-on-tsmc-5nm-node.md",
-      "title": "Ceremorphic tapes out AI supercomputing chip on TSMC 5nm node",
-      "excerpt": "HYDERABAD: Ceramorphic Inc announced here on Tuesday, that it has successfully taped out its first 5nm chip with its partner TSMC. As the only AI supercomputing chip to solve the high-performance computing needs in reliability,",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanchronicle.com/business/companies/181022/ceremorphic-tapes-out-ai-supercomputing-chip-on-tsmc-5nm-node.html",
-      "originalUrl": "https://www.deccanchronicle.com/business/companies/181022/ceremorphic-tapes-out-ai-supercomputing-chip-on-tsmc-5nm-node.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-ldihcdctlqe67bp5pk7198tm63-20221018221343.Medi.jpeg",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.deccanchronicle.com/amp/business/companies/181022/ceremorphic-tapes-out-ai-supercomputing-chip-on-tsmc-5nm-node.html",
-      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/business/companies/181022/ceremorphic-tapes-out-ai-supercomputing-chip-on-tsmc-5nm-node.html",
-      "publishedDateTime": "2022-10-18T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Chronicle",
-        "domain": "deccanchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-dog-like-robots-will-make-deliveries-on-a-texas-campus-to-see-how-people-robots-interact.md",
-      "title": "Dog-like robots will make deliveries on a Texas campus to see how people, robots interact",
-      "excerpt": "Four-legged autonomous delivery robots will be coming to the University of Texas as part of a study on interactions between people and robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/education/2022/10/18/university-texas-dog-robots-deliver/10532562002/",
-      "originalUrl": "https://www.freep.com/story/news/education/2022/10/18/university-texas-dog-robots-deliver/10532562002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/10/17/NAAS/a71f36f1-4c32-4b62-a708-193923484ef2-Robot.png?auto=webp&crop=875,493,x0,y49&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-nvidia-and-oracle-announce-expanded-cloud-ai-partnership.md",
-      "title": "Nvidia and Oracle announce expanded cloud AI partnership",
-      "excerpt": "Nvidia and Oracle announced an expanded, multiyear partnership today at Oracle CloudWorld to help customers speed AI adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/NVIDA-H100-SXM-image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/amp/",
-      "publishedDateTime": "2022-10-18T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-speak-up-how-to-use-speech-recognition-and-dictate-text-in-windows.md",
-      "title": "Speak Up: How to Use Speech Recognition and Dictate Text in Windows",
-      "excerpt": "This can be done through Cortana, or you can use the speech recognition built directly into Windows 10 and 11 in order to speak to any supported version of Windows. Once you teach the operating ...",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/migrated-3765-windows-10/143275/speak-up-how-to-use-speech-recognition-and-dictate-text-in-windows",
-      "originalUrl": "https://uk.pcmag.com/migrated-3765-windows-10/143275/speak-up-how-to-use-speech-recognition-and-dictate-text-in-windows",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-ai-content-platform-jasper-raises-125m-at-a-15b-valuation.md",
-      "title": "AI content platform Jasper raises $125M at a $1.5B valuation",
-      "excerpt": "Jasper, a platform leveraging AI to generate marketing art and copy, has raised $125 million at a $1.5 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/",
-      "originalUrl": "https://techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-675469672.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/amp/",
-      "publishedDateTime": "2022-10-18T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-ai-driven-automation-and-human-driven-management-of-the-business-of-data.md",
-      "title": "AI-Driven Automation And Human-Driven Management Of The Business Of Data",
-      "excerpt": "In an interview with Authority Magazine, Seek AI co-founder and CEO Sarah Nagy highlighted the challenge of managing the tradeoff between data accuracy and accessibility: “On one hand, accessibility allows less technical folks to start interacting with the knowledge wellspring that is a company’s data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2022/10/18/ai-driven-automation-and-human-driven-management-of-the-business-of-data/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/10/18/ai-driven-automation-and-human-driven-management-of-the-business-of-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634ec5fcfe1d2ae7738e9c70/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/10/18/ai-driven-automation-and-human-driven-management-of-the-business-of-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/10/18/ai-driven-automation-and-human-driven-management-of-the-business-of-data/amp/",
-      "publishedDateTime": "2022-10-18T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-stable-diffusion-creator-stability-ai-raises-101m-funding-to-accelerate-open-source-ai.md",
-      "title": "Stable Diffusion creator Stability AI raises $101M funding to accelerate open-source AI",
-      "excerpt": "Stability AI has raised $101M for its open-source Stable Diffusion model, an AI art generator that enables people to instantly create art.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/stable-diffusion-creator-stability-ai-raises-101m-funding-to-accelerate-open-source-ai/",
-      "originalUrl": "https://venturebeat.com/ai/stable-diffusion-creator-stability-ai-raises-101m-funding-to-accelerate-open-source-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/AI-e1666107023652.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/stable-diffusion-creator-stability-ai-raises-101m-funding-to-accelerate-open-source-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stable-diffusion-creator-stability-ai-raises-101m-funding-to-accelerate-open-source-ai/amp/",
-      "publishedDateTime": "2022-10-18T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-run-ensemble-ml-models-on-amazon-sagemaker.md",
-      "title": "Run ensemble ML models on Amazon SageMaker",
-      "excerpt": "Model deployment in machine learning (ML) is becoming increasingly complex. You want to deploy not just one ML model but large groups of ML models represented as ensemble workflows. These workflows are comprised of multiple ML models. Productionizing these ML models is challenging because you need to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-models-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-models-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/18/run-ensemble-models-sagemaker.jpg",
-          "width": 1547,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T08:50:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-oracle-cloud-adding-tens-of-thousands-of-nvidia-chips-for-ai.md",
-      "title": "Oracle Cloud adding tens of thousands of Nvidia chips for AI",
-      "excerpt": "Chips that help accelerate computing speed include GPUs and are heavily used in AI work where Nvidia has the lion's share. While there are many AI chip startups challenging Nvidia, Clay Magouyrk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/oracle-cloud-adding-tens-thousands-nvidia-chips-ai-2022-10-18/",
-      "originalUrl": "https://www.reuters.com/technology/oracle-cloud-adding-tens-thousands-nvidia-chips-ai-2022-10-18/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/auU-eGYlMXaI82GhWXiVQXOg6iA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3KTSLO2ZRNVLMJPKCCNHB4N44.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-medical-robotic-systems-market-2022-industry-scenario-strategies-growth-factors-and-forecast-to-2028-118-pages-report.md",
-      "title": "Medical Robotic Systems Market 2022 : Industry Scenario, Strategies, Growth Factors and Forecast to 2028 | 118 Pages Report",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Oct 18, 2022 (The Expresswire) -- \"Medical Robotic Systems Market\" Insights 2022 By Types, Applications, Regions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/medical-robotic-systems-market-2022-industry-scenario-strategies-growth-factors-and-forecast-to-2028-118-pages-report-2022-10-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/medical-robotic-systems-market-2022-industry-scenario-strategies-growth-factors-and-forecast-to-2028-118-pages-report-2022-10-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-restraining-nvidia-for-china-chips-is-good-for-amazon.md",
-      "title": "Restraining Nvidia For China Chips Is Good For Amazon",
-      "excerpt": "Restrictions on NVIDIA for exporting its latest AI chips to Chinese big tech Alibaba could be a boon to hyperscaler Amazon with its AWS cloud and eCommerce platforms. The Chinese tech giant ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4547189-restraining-nvidia-for-china-chips-is-good-for-amazon",
-      "originalUrl": "https://seekingalpha.com/article/4547189-restraining-nvidia-for-china-chips-is-good-for-amazon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-which-ai-creates-the-best-and-most-terrifying-art.md",
-      "title": "Which AI Creates the Best (and Most Terrifying) Art?",
-      "excerpt": "The internet is awash in artificial intelligence software like Dall-E and Midjourney that generate professional-looking imagery based on text prompts. We provided some twisted requests to 5 of them to see which one is the best artist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/which-ai-creates-the-best-art",
-      "originalUrl": "https://www.pcmag.com/news/which-ai-creates-the-best-art",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03a3gbCKfH8dDJnjhHLuHDf-1.fit_lim.size_1200x630.v1665523315.png",
-          "width": 1021,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-oracle-debuts-mysql-heatwave-lakehouse-to-take-on-rivals.md",
-      "title": "Oracle debuts MySQL HeatWave Lakehouse to take on rivals",
-      "excerpt": "The new lakehouse service, designed to quickly load and query up to 400TB of data, will compete with offerings from Oracle rivals that have also jumped on the lakehouse concept, including Snowflake, Google,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3676833/oracle-debuts-mysql-heatwave-lakehouse-to-take-on-rivals.html",
-      "originalUrl": "https://www.infoworld.com/article/3676833/oracle-debuts-mysql-heatwave-lakehouse-to-take-on-rivals.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/07/21/data-lakehouse-100921188-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3676833/oracle-debuts-mysql-heatwave-lakehouse-to-take-on-rivals.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3676833/oracle-debuts-mysql-heatwave-lakehouse-to-take-on-rivals.amp.html",
-      "publishedDateTime": "2022-10-18T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-three-ways-ai-transforms-security.md",
-      "title": "Three Ways AI Transforms Security",
-      "excerpt": "To understand why AI has become so vital to security, consider its use case in regard to application programming interfaces (APIs). APIs support",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6284f3a56da5d40b8634fcbe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/amp/",
-      "publishedDateTime": "2022-10-18T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-cujo-ai-launches-explorer-first-ai-powered-device-intelligence-as-a-service.md",
-      "title": "CUJO AI Launches Explorer, First AI-powered Device Intelligence as a Service",
-      "excerpt": "CUJO AI, a global leader in cybersecurity and network intelligence solutions for network service providers (NSPs), today announced that Explorer, the AI-powered network intelligence solution, is available as a stand-alone Device Intelligence as a Service,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/10/18/9694211.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/10/18/9694211.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand.md",
-      "title": "Amazon to invest $5 bn to boost cloud infrastructure in Thailand",
-      "excerpt": "AWS’ cloud platform offers more than 200 services, including storage, robotics and artificial intelligence. AWS last month opened its first cloud data center in UAE and announced plans to setup ...",
-      "sourceUrl": null,
-      "webUrl": "https://infotechlead.com/cloud/amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand-75068",
-      "originalUrl": "https://infotechlead.com/cloud/amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand-75068",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://infotechlead.com/wp-content/uploads/2017/09/AWS-event-for-CIOs.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "infotechlead",
-        "domain": "infotechlead.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-2bcloud-expands-us-operations.md",
-      "title": "2bcloud Expands U.S. Operations",
-      "excerpt": "NEW YORK, (BUSINESS WIRE) -- 2bcloud, a leading multi-cloud cost optimization managed service provider for cloud natives from early stage to unicorns,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2bcloud-expands-us-operations-2022-10-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/2bcloud-expands-us-operations-2022-10-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-machine-learning-101-how-merchants-use-machines-to-fight-fraud.md",
-      "title": "Machine Learning 101: How Merchants Use Machines To Fight Fraud",
-      "excerpt": "As fraudsters and fraud mitigation strategies evolve, so too does a business leader's relationship with machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634d8fec5aed33b6bbc9a291/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/amp/",
-      "publishedDateTime": "2022-10-18T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

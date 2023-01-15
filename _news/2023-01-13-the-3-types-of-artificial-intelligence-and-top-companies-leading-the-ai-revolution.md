@@ -8,7 +8,7 @@ webUrl: "https://www.nasdaq.com/articles/the-3-types-of-artificial-intelligence-
 ampWebUrl: "https://www.nasdaq.com/articles/the-3-types-of-artificial-intelligence-and-top-companies-leading-the-ai-revolution?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-3-types-of-artificial-intelligence-and-top-companies-leading-the-ai-revolution?amp"
 type: article
-quality: 78
+quality: 80
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 related:
   - title: "6 Types Of AI And What They Can Do For Your Business"
@@ -53,6 +54,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Meet Tori, AI for your fast food order"
+    excerpt: "Tori — an artificial intelligence launched by OpenCity — is described as the restaurant industry’s first conversational voice in the drive thru."
+    publishedDateTime: 2023-01-15T15:57:00Z
+    webUrl: "https://www.koin.com/news/meet-tori-ai-for-your-fast-food-order/"
+    type: article
+    provider:
+      name: KOIN 6
+      domain: koin.com
+    quality: 19
 
 secured: "oe8K/c3o+mE4WZ35mydF/m1vP3uT/s/Ljs0Rhc71UDI9uT0vbAjfaogKGoCrxMsKAdX3ht5sGEibyqnUyEQER1/6yXnRKi6O1ebQAzcx5TUgWg3YCW1gqQJHaCDPwC0kFSYXz2lAwNExeIRkAA8XktJWhzCHDh4wWzLC2QS7e+onmCD5moOlowRfJ4ZdKnS830Q1qL315sYSpfpceLNR0r5wPTvBEmrQmbzH7IhR4AibuKUXTN9ZcppUe+g2gvsq7L90GHaPvvFRr1gMehJnahUM3wjZx43gdgbnmsTYmDeJ5tIukAX+ClE9wNJwM/YcndnRSyWf00z+0QDILoplWbfOapKFCcnjZKwQ8WoBHac=;67UZDdi0Lrkkrq2+i+lZUA=="
 ---

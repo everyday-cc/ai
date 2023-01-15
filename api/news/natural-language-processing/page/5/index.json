@@ -2,6 +2,93 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-31-onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies.md",
+      "title": "Onemeta AI Current Real Time Translation Products Surpass Planned Future Products of Other Companies",
+      "excerpt": "OneMeta AI announced that notwithstanding what ... translation products already perform simultaneous translation in 85 different languages. Rowland Day, President, stated “Last week another ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies",
+      "originalUrl": "https://www.digitaljournal.com/pr/onemeta-ai-current-real-time-translation-products-surpass-planned-future-products-of-other-companies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-31T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-31-ai-will-impact-the-labor-market-but-workers-should-embrace-the-technology-not-fear-it.md",
+      "title": "AI Will Impact The Labor Market, But Workers Should Embrace The Technology, Not Fear It",
+      "excerpt": "Alexander Konovalov is the founder and CEO at vidby, a Swiss startup offering AI-powered video translation and dubbing across 70 languages. The debate about whether artificial intelligence (AI) might displace human workers in the future has been going on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/31/ai-will-impact-the-labor-market-but-workers-should-embrace-the-technology-not-fear-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/31/ai-will-impact-the-labor-market-but-workers-should-embrace-the-technology-not-fear-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60f57eee4bedb44f6caa1ed1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/31/ai-will-impact-the-labor-market-but-workers-should-embrace-the-technology-not-fear-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/31/ai-will-impact-the-labor-market-but-workers-should-embrace-the-technology-not-fear-it/amp/",
+      "publishedDateTime": "2022-10-31T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-31-onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conference-onei.md",
       "title": "OneMeta AI Stock Soars After Its Verbum Translation App Shows Dominant Performance At IACSDG Conference ($ONEI)",
       "excerpt": "OneMeta AI ONEI stock soared by over 120% last week to $1.30 after new attention was brought to its AI-empowered Verbum language translation app. And with only about 2.35 million shares ...",
@@ -1345,92 +1432,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-natural-language-processing-market-size-2022-by-deployment-application-end-user-future-trends-price-key-players-outlook-and-forecast-till.md",
-      "title": "Natural Language Processing Market Size 2022 By Deployment, Application, End-user, Future Trends, Price, Key Players, Outlook and Forecast till 2027",
-      "excerpt": "“Natural Language Processing Market” provides in-depth information about the markets future and existing situation. The research provides a thorough analysis of the major limiting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-market-size-2022-by-deployment-application-end-user-future-trends-price-key-players-outlook-and-forecast-till-2027",
-      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-market-size-2022-by-deployment-application-end-user-future-trends-price-key-players-outlook-and-forecast-till-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/11/3ae01aff36d10baf78cb6b3013107f64dff5d69c-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T03:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-metas-ai-translator-can-interpret-unwritten-languages.md",
-      "title": "Meta's AI translator can interpret unwritten languages",
-      "excerpt": "but one that Meta has reportedly addressed with its latest open-source language AI advancement. As part of Meta’s Universal Speech Translator (UST) program which is working to develop real-time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/metas-ai-translator-can-interpret-unwritten-languages-150001511.html",
-      "originalUrl": "https://www.aol.com/news/metas-ai-translator-can-interpret-unwritten-languages-150001511.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/.NCBpPmk4OgpgCNqtbHWlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/e182b1b0-4efb-11ed-bff7-30a6eacb6c7e",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

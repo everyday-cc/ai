@@ -53,7 +53,16 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 78
+    quality: 80
+  - title: "Meet Tori, AI for your fast food order"
+    excerpt: "Tori — an artificial intelligence launched by OpenCity — is described as the restaurant industry’s first conversational voice in the drive thru."
+    publishedDateTime: 2023-01-15T15:57:00Z
+    webUrl: "https://www.koin.com/news/meet-tori-ai-for-your-fast-food-order/"
+    type: article
+    provider:
+      name: KOIN 6
+      domain: koin.com
+    quality: 19
 
 secured: "9C1C/03PKOfXJ8HBhpfzAYK2Tt0rkvxHU/8RXcWQomPYfRObzzNZFJIjBgeiZVCM+7HpShn+g24mmQjKbxrdAhi2iMHob/8bnERI3WUikfVOUazcO3ceYjrBSImmL1ahHvT74enenEuIrc8KwCuIWFKgf8oVSxeBsUkQ5wkMKd2M549EwlOvOvsuPJv1RN5xKlDCptVK8xpcmqQBBrmg1DG+UqtWZWzoHRz2FOYIj3NKeIEmDv2msaC4Qmj48Ob9Ur6KAKnU8kQNKKZMO2Gu1PKWcFB0i9pO1hwJas1ptl4lyXFV3t6V0QGV2gC4iSN/CqDDei6sISEE8S/MrLXUlTqXTdZ6Ic8YYJFLrr4wR20=;2jcXVbUGJnwkCqx5H3FAUg=="
 ---

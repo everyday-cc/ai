@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-12-lensa-ai-avatar-portraits-are-popping-up-all-over-social-media-but-is-it-a-step-back-for-body-positivity.md",
+      "title": "Lensa AI avatar portraits are popping up all over social media, but is it a step back for body positivity?",
+      "excerpt": "She later adds: “I'm thankful to this silly AI-yourself trend as it gave me tools to try to work on that horrid inner voice.” The Lensa app asks for 10 to 20 selfies in order to generate its ‘magical avatars’, and can also be used to ‘perfect ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.glamourmagazine.co.uk/article/ai-avatars-body-positivity",
+      "originalUrl": "https://www.glamourmagazine.co.uk/article/ai-avatars-body-positivity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GLAMOUR UK",
+        "domain": "glamourmagazine.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-10-i-used-lensa-the-chart-topping-app-to-make-myself-a-masterpiece-digital-work-of-art-heres-how-it-works.md",
       "title": "I used Lensa, the chart-topping app, to make myself a masterpiece digital work of art — here's how it works",
       "excerpt": "So I downloaded Lensa, the wildly popular app behind the digital self-portraits, made with AI technology that renders selfies into artwork. Lensa first launched in 2018 as a photo editing tool ...",
@@ -1357,59 +1391,6 @@
         "AI",
         "Facebook AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-19-meta-takes-new-ai-system-offline-because-twitter-users-are-mean.md",
-      "title": "Meta takes new AI system offline because Twitter users are mean",
-      "excerpt": "Meta's Chief of AI wasn't shy about engaging on Twitter after outrage from users caused the company to pull its brand new \"Galactical\" AI.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/meta-takes-new-ai-system-offline-because-twitter-users-mean",
-      "originalUrl": "https://thenextweb.com/news/meta-takes-new-ai-system-offline-because-twitter-users-mean",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F11%2Fyanlcharmf.jpg&signature=af8e03842656b82fe31d9be4b4e30af2",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-18T17:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

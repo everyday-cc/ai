@@ -2,6 +2,192 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-14-feinberg-superager-program-examines-exceptional-cognitive-aging.md",
+      "title": "Feinberg SuperAger program examines exceptional cognitive aging",
+      "excerpt": "But an initiative from the Mesulam Center for Cognitive Neurology and Alzheimer’s Disease at the Feinberg School of Medicine is taking the opposite approach. The program studies “SuperAgers ...",
+      "sourceUrl": null,
+      "webUrl": "https://dailynorthwestern.com/2022/11/14/campus/feinberg-superager-program-examines-exceptional-cognitive-aging/",
+      "originalUrl": "https://dailynorthwestern.com/2022/11/14/campus/feinberg-superager-program-examines-exceptional-cognitive-aging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailynorthwestern.com/wp-content/uploads/2022/11/Feinberg-pic.jpg",
+          "width": 900,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-13T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Northwestern",
+        "domain": "dailynorthwestern.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-13-artificial-intelligence-stocks-the-top-9-ai-investment-opportunities.md",
+      "title": "Artificial Intelligence Stocks: The Top 9 AI Investment Opportunities",
+      "excerpt": "How can you invest in artificial intelligence? How can investors use AI to become a better investor? We look at the best AI stocks on the market right now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63707c7f5fc25388eaa8fb80/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/amp/",
+      "publishedDateTime": "2022-11-13T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare",
+        "IBM AI",
+        "Microsoft AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-10-predictions-and-a-wishlist-from-aws-reinvent-2022.md",
+      "title": "10 Predictions And A Wishlist From AWS Re:Invent 2022",
+      "excerpt": "With the help of the OSS community and the partner ecosystem, Amazon may extend EKS-A to run on other public cloud environments such as Azure and Google Cloud ... databases, machine learning, and analytics to Kubernetes to enable customers to run the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2022/11/12/10-predictions-and-a-wishlist-from-aws-reinvent-2022/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/11/12/10-predictions-and-a-wishlist-from-aws-reinvent-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-12T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-childhood-lead-exposure-tied-to-worse-cognitive-function-in-late-life.md",
+      "title": "Childhood lead exposure tied to worse cognitive function in late life",
+      "excerpt": "Exposure to lead in childhood is associated with worse cognitive functioning in late life, according to a study published in the Nov. 11 issue of Science Advances. Haena Lee, Ph.D., from ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-childhood-exposure-worse-cognitive-function.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-childhood-exposure-worse-cognitive-function.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/childhood-lead-exposur.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-childhood-exposure-worse-cognitive-function.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-childhood-exposure-worse-cognitive-function.amp",
+      "publishedDateTime": "2022-11-11T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-12-how-2022-became-the-year-of-generative-ai.md",
       "title": "How 2022 became the year of generative AI",
       "excerpt": "In 2022, generative AI saw better algorithms and larger models and datasets, which created better images and higher-quality software code.",
@@ -1156,188 +1342,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-github-microsoft-and-openai-sued-over-ai-tools-unprecedented-scale-of-software-piracy.md",
-      "title": "GitHub, Microsoft, and OpenAI Sued Over AI Tool’s ‘Unprecedented Scale’ of Software Piracy",
-      "excerpt": "A civil suit filed in the Northern District of California by two anonymous software developers on behalf of a class claims that GitHub, Microsoft, and",
-      "sourceUrl": null,
-      "webUrl": "https://lawstreetmedia.com/news/tech/github-microsoft-and-openai-sued-over-ai-tools-unprecedented-scale-of-software-piracy/",
-      "originalUrl": "https://lawstreetmedia.com/news/tech/github-microsoft-and-openai-sued-over-ai-tools-unprecedented-scale-of-software-piracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lawstreetmedia.com/wp-content/uploads/2019/11/microsoft-1024x711.jpg",
-          "width": 1024,
-          "height": 711,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://lawstreetmedia.com/news/tech/github-microsoft-and-openai-sued-over-ai-tools-unprecedented-scale-of-software-piracy/amp/",
-      "cdnAmpWebUrl": "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/news/tech/github-microsoft-and-openai-sued-over-ai-tools-unprecedented-scale-of-software-piracy/amp/",
-      "publishedDateTime": "2022-11-04T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law Street Media",
-        "domain": "lawstreetmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-novel-deep-learning-method-may-help-predict-cognitive-function.md",
-      "title": "Novel deep learning method may help predict cognitive function",
-      "excerpt": "Northwestern investigators have developed a deep learning-based method that can predict cognitive function capacity based on brain shape and structure, detailed in a study published in Scientific Reports. The method, which uses graph convolutional neural ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-11-deep-method-cognitive-function.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-11-deep-method-cognitive-function.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/novel-deep-learning-me.jpg",
-          "width": 1497,
-          "height": 1410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-11-deep-method-cognitive-function.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-deep-method-cognitive-function.amp",
-      "publishedDateTime": "2022-11-04T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-early-deprivation-may-be-more-closely-linked-with-cognitive-and-emotional-functioning-in-adolescence.md",
-      "title": "Early deprivation may be more closely linked with cognitive and emotional functioning in adolescence",
-      "excerpt": "Experiences of early adversity due to poverty, abuse, and neglect are known to interfere with children's cognitive and emotional development. Recent research in Psychological Science expands on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221103/Early-deprivation-may-be-more-closely-linked-with-cognitive-and-emotional-functioning-in-adolescence.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221103/Early-deprivation-may-be-more-closely-linked-with-cognitive-and-emotional-functioning-in-adolescence.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Children_playing_sunset_-_Zurijeta_8c5bdac77e44431bb1bfec67b9c87208-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20221103/Early-deprivation-may-be-more-closely-linked-with-cognitive-and-emotional-functioning-in-adolescence.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221103/Early-deprivation-may-be-more-closely-linked-with-cognitive-and-emotional-functioning-in-adolescence.aspx",
-      "publishedDateTime": "2022-11-03T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-openai-will-give-roughly-10-ai-startups-1m-each-and-early-access-to-its-systems.md",
-      "title": "OpenAI will give roughly 10 AI startups $1M each and early access to its systems",
-      "excerpt": "OpenAI's new Converge program will grant roughly ten AI startups $1 million in funding and access to Open AI resources, including AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/02/openai-will-give-roughly-ten-ai-startups-1m-each-and-early-access-to-its-systems/",
-      "originalUrl": "https://techcrunch.com/2022/11/02/openai-will-give-roughly-ten-ai-startups-1m-each-and-early-access-to-its-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?resize=1200,812",
-          "width": 1200,
-          "height": 812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/02/openai-will-give-roughly-ten-ai-startups-1m-each-and-early-access-to-its-systems/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/02/openai-will-give-roughly-ten-ai-startups-1m-each-and-early-access-to-its-systems/amp/",
-      "publishedDateTime": "2022-11-03T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

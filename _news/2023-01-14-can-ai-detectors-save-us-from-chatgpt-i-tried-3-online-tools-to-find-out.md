@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/can-ai-detectors-save-us-fr
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT: And the rise of artificial intelligence"
-    excerpt: "Welcome. We are now in 2023. Last year in 2022, in a recent television interview after the Nepali general election results, the Maoist leader Pushpa Kamal Dahal said he was surprised by the election results and the leading cause."
-    publishedDateTime: 2023-01-12T08:05:00Z
-    webUrl: "https://thehimalayantimes.com/opinion/chatgpt-and-the-rise-of-artificial-intelligence"
-    ampWebUrl: "https://thehimalayantimes.com/ampArticle/1017615"
-    cdnAmpWebUrl: "https://thehimalayantimes-com.cdn.ampproject.org/c/s/thehimalayantimes.com/ampArticle/1017615"
-    type: article
-    provider:
-      name: The Himalayan Times
-      domain: thehimalayantimes.com
-    quality: 59
-    images:
-      - url: "https://thehimalayantimes.com/thehimalayantimes/uploads/images/2023/01/12/20756.jpg"
-        width: 800
-        height: 417
-        isCached: true
   - title: "ChatGPT: what can the extraordinary artificial intelligence chatbot do?"
     excerpt: "Ask the AI program a question, as millions have in recent weeks, and it will do its best to respond"
     publishedDateTime: 2023-01-13T17:49:00Z

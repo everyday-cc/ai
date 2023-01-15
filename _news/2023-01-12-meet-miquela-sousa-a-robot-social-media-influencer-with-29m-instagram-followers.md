@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-12T12:36:00Z
 originalUrl: "https://www.benzinga.com/news/23/01/30388732/meet-miquela-sousa-a-robot-social-media-influencer-with-2-9m-instagram-followers"
 webUrl: "https://www.benzinga.com/news/23/01/30388732/meet-miquela-sousa-a-robot-social-media-influencer-with-2-9m-instagram-followers"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Benzinga.com

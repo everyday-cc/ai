@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-02-facial-strain-sensor-could-give-a-voice-to-the-voiceless.md",
+      "title": "Facial strain sensor could give a voice to the voiceless",
+      "excerpt": "While some assistance is available to individuals who lack the power of speech, verbally communicating with other people can still be challenging. A new face-worn strain sensor could help, as it's able to \"read\" the wearer's silently mouthed words.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/wearables/strain-sensors-face-voice/",
+      "originalUrl": "https://newatlas.com/wearables/strain-sensors-face-voice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/441f07b/2147483647/strip/true/crop/851x447+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1f%2F52%2Fa87333324a11820a5474a2eef5b3%2Fscreen-shot-2022-12-01-at-9.32.31%20AM.jpeg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T10:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-first-minister-speech-disrupted-by-gender-recognition-protester.md",
+      "title": "First Minister speech disrupted by gender recognition protester",
+      "excerpt": "The woman who interrupted the First Minister's speech said the change in law would ... that the request not to discuss the Gender Recognition Reform Bill was made by the First Minister or officials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=twtrec",
+      "originalUrl": "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=twtrec",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.heraldscotland.com/resources/images/16138459/?type=og-image",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T04:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "heraldscotland",
+        "domain": "heraldscotland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-natural-language-processing-market-to-witness-a-pronounce-growth-during-2023-2027.md",
       "title": "Natural Language Processing Market to Witness A Pronounce Growth During 2023-2027",
       "excerpt": "“Natural Language Processing market size was valued at USD 10873.69 million in 2021 and is expected to expand at a CAGR of 18.29% during the forecast period, reaching USD 29786.67 million by 2027.",
@@ -1325,101 +1421,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-unbabel-provides-real-time-ai-driven-multilingual-support-for-live-customer-service-agents.md",
-      "title": "Unbabel provides real-time, AI-driven multilingual support for live customer service agents",
-      "excerpt": "Unbabel has partnered with Ada to provide multilingual assistance to live customer service agents and language capabilities to Ada chatbots.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/unbabel-provides-real-time-ai-driven-multilingual-support-for-live-customer-service-agents/",
-      "originalUrl": "https://venturebeat.com/ai/unbabel-provides-real-time-ai-driven-multilingual-support-for-live-customer-service-agents/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/04/chatbot-customer-service-shutterstock_664204579.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/unbabel-provides-real-time-ai-driven-multilingual-support-for-live-customer-service-agents/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/unbabel-provides-real-time-ai-driven-multilingual-support-for-live-customer-service-agents/amp/",
-      "publishedDateTime": "2022-11-17T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-bloomberg-media-uses-london-based-ai-firm-to-translate-news-videos-into-spanish.md",
-      "title": "Bloomberg Media uses London-based AI firm to translate news videos into Spanish",
-      "excerpt": "Under a new partnership, Bloomberg Media will use the technology of Papercup for translation of its news coverage into the Spanish language.",
-      "sourceUrl": null,
-      "webUrl": "https://pressgazette.co.uk/publishers/digital-journalism/bloomberg-media-papercup-translation-spanish-2/",
-      "originalUrl": "https://pressgazette.co.uk/publishers/digital-journalism/bloomberg-media-papercup-translation-spanish-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/08/Screenshot-2022-08-22-at-10.07.53-e1661155738756-464x348.jpg",
-          "width": 464,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Press Gazette",
-        "domain": "pressgazette.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

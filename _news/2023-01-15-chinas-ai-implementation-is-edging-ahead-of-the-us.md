@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-impleme
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-implementation-is-edging-ahead-of-the-us/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Alfonso Cahero Announced The Implementation Of Artificial Intelligence For Cahero Family Office"
+    excerpt: "MIAMI, FLORIDA, UNITED STATES, January 15, 2023 /einpresswire.com / -- alfonso cahero , with his family office, contributes to the success"
+    publishedDateTime: 2023-01-15T20:52:00Z
+    webUrl: "https://menafn.com/1105430536/Alfonso-Cahero-Announced-The-Implementation-Of-Artificial-Intelligence-For-Cahero-Family-Office"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 5
 
 secured: "JhCMGOFeMhr/W3tPJMZU1bsc5cFecAG+DSxhUkWnKlT0Ts8M7qofnWJPZFUQeCoi4f72RG3HPDrFzw8k7gfCxMkqynF7FhHwriovtV2HPyRSFwN4Y481VYouL1TizRdGdDAz6ueyV+Z25dQj+2jZ2s4GSd1BFHCefvMJLvBn1RzPzRB1YgRYSfd0oiXnby2IAewy8NfjwHaDk0UwX8dMn61pP4TbxfB6k+uWWH0qJtGVyXOLUEqP0tlmm/hyL5qIXGneqkSfCdvImW8AjbWGuuAsTSsknUr0jjvlnw9zc8Ysq5xliyz9MGcycWNEyfG6h4r3FyHQu+UPACNCjtLHUuFl+7gvKsQp/dOGQtbo6X52A9+5DHU+7HyMQham/bKJvQLvoPZt3LSk/LRl4bD4K2jI8IZjW6FWEYACvlZde6RWZ6dXeKiXsR53bxupvZwMrbwqqfN07Em+60nUJksFu42wmHM/XDQ/fM9t78IdB7O8hn7uR5DCq5T8h4TjyR9cNuhQQdpm99KQq3Kwo1vZ+A==;sw2vOpuWU41j3ZW9U6hReA=="
 ---

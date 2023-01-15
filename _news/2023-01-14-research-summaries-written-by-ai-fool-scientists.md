@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-13T19:55:00Z
 originalUrl: "https://www.scientificamerican.com/article/research-summaries-written-by-ai-fool-scientists/?ref=upstract.com"
 webUrl: "https://www.scientificamerican.com/article/research-summaries-written-by-ai-fool-scientists/?ref=upstract.com"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:

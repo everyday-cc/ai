@@ -2,6 +2,102 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-07-the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon.md",
+      "title": "The AI-Powered Intelligent Edge Is Flourishing And It’s Powered By Snapdragon",
+      "excerpt": "Qualcomm AI engines and silicon solutions are powering more and more devices out on the connected, intelligent edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633f386b1d939b4e05d66336/0x0.jpg?format=jpg&width=1200",
+          "width": 1170,
+          "height": 656,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/amp/",
+      "publishedDateTime": "2022-10-06T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-10-07-gender-recognition-reforms-backed-by-holyrood-committee.md",
+      "title": "Gender recognition reforms backed by Holyrood committee",
+      "excerpt": "The changes could result in the number of people applying for a gender recognition certificate (GRC ... The Morning Star is unique, as a lone socialist voice in a sea of corporate media. We offer a platform for those who would otherwise never be listened ...",
+      "sourceUrl": null,
+      "webUrl": "https://morningstaronline.co.uk/article/b/gender-recognition-reforms-backed-holyrood-committee",
+      "originalUrl": "https://morningstaronline.co.uk/article/b/gender-recognition-reforms-backed-holyrood-committee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://morningstaronline.co.uk/sites/default/files/PA-32446384_0.jpg",
+          "width": 1500,
+          "height": 999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morning Star",
+        "domain": "morningstaronline.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-polly-the-ai-robot-gets-busy-replacing-bumblebees.md",
       "title": "Polly The AI Robot Gets Busy Replacing Bumblebees",
       "excerpt": "Arugga, a company based in Kfar Monash, central Israel, has developed an autonomous robot that will pollinate crops instead of bumblebees.",
@@ -1372,111 +1468,6 @@
         "AI",
         "Natural Language Processing",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-amazon-comprehend-targeted-sentiment-adds-synchronous-support.md",
-      "title": "Amazon Comprehend Targeted Sentiment adds synchronous support",
-      "excerpt": "Earlier this year, Amazon Comprehend, a natural language processing (NLP) service that uses machine learning (ML) to discover insights from text, launched the Targeted Sentiment feature. With Targeted Sentiment, you can identify groups of mentions (co-reference groups) corresponding to a single real-world",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-targeted-sentiment-adds-synchronous-support/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-targeted-sentiment-adds-synchronous-support/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/21/comprehend-targeted-sentiment-synchronous.jpg",
-          "width": 1533,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T14:27:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-macron-no-international-recognition-for-russia-organised-ukraine-referendums.md",
-      "title": "Macron: No international recognition for Russia-organised Ukraine referendums",
-      "excerpt": "French President Emmanuel Macron said on Tuesday that referendums planned in Russian-occupied Ukrainian regions on joining Russia will not be recognised by the international community.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/europe/macron-no-international-recognition-russia-organised-ukraine-referendums-2022-09-20/",
-      "originalUrl": "https://www.reuters.com/world/europe/macron-no-international-recognition-russia-organised-ukraine-referendums-2022-09-20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/8AQzzDAbY7surcAs5sXqf5H_ltY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4BG2GIZQMNJKPC5J5HGGQJP7CI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

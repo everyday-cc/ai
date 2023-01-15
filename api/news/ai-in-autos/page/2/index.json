@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-04-self-driving-trucks-poised-to-overhaul-long-haul-logistics.md",
+      "title": "Self-driving trucks poised to overhaul long-haul logistics",
+      "excerpt": "Chinese autonomous driving startup Pony.ai has been making forays into the self-driving truck segment. The company announced in November it had formed a strategic alliance with two partners — Chinese logistics company Sinotrans Ltd and machinery manufacturer Sany Group — to work on promoting smart logistics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202301/04/WS63b4d91ca31057c47eba7957.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202301/04/WS63b4d91ca31057c47eba7957.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202301/04/63b4d91ca31057c4b4b2ab9d.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T17:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-04-baidu-granted-with-the-first-license-to-test-out-driverless-taxis-in-beijing.md",
       "title": "Baidu granted with the first license to test out driverless taxis in Beijing",
       "excerpt": "Following its success in Wuhan and Chongqing, Baidu received the first license to test driverless taxis in Beijing.",
@@ -400,6 +443,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-01-top-10-ai-articles-from-2022-to-pump-up-your-ai-leadership-skills-in-2023.md",
+      "title": "Top 10 AI Articles From 2022 To Pump Up Your AI Leadership Skills In 2023",
+      "excerpt": "This article is a series of Dr. Cindy Gordon's top ten articles written on AI designed to advance AI knowledge for board directors, C-level executives - always with an ethical AI foundation for advancing #ResponsibleAI and #TrustedAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/12/31/top-10-ai-articles-from-2022-to-pump-up-your-ai-leadership-skills-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/12/31/top-10-ai-articles-from-2022-to-pump-up-your-ai-leadership-skills-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-31T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-31-baidu-ponyai-start-driverless-robotaxi-tests-in-beijing.md",
       "title": "Baidu, Pony.ai start driverless robotaxi tests in Beijing",
       "excerpt": "Baidu Inc and Toyota Motor Corp-backed startup Pony. ai said on Friday (Dec 30) they been granted the first licences to test fully autonomous vehicles without safety operators as a backup in Beijing.Baidu and Pony.",
@@ -525,6 +611,108 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-29-as-artificial-intelligence-rises-lawmakers-strive-to-catch-up.md",
+      "title": "As Artificial Intelligence rises, lawmakers strive to catch up",
+      "excerpt": "Paris. From “intelligent” vacuum cleaners and driverless cars to advanced techniques for diagnosing diseases, artificial intelligence has burrowed its way into every arena of modern life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thecitizen.co.tz/tanzania/news/business/as-artificial-intelligence-rises-lawmakers-strive-to-catch-up-4069650",
+      "originalUrl": "https://www.thecitizen.co.tz/tanzania/news/business/as-artificial-intelligence-rises-lawmakers-strive-to-catch-up-4069650",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-29T02:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Citizen",
+        "domain": "thecitizen.co.tz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-29-on-the-road-in-san-francisco-riding-in-a-driverless-taxi.md",
+      "title": "On the road in San Francisco, riding in a driverless taxi",
+      "excerpt": "On December 16, Waymo expanded its driverless San Francisco service ... to stress-test the AI [artificial intelligence] algorithms — to discover where are the limits of perception,” Behl ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aljazeera.com/news/2022/12/27/on-the-road-in-san-francisco-riding-in-a-driverless-taxi",
+      "originalUrl": "https://www.aljazeera.com/news/2022/12/27/on-the-road-in-san-francisco-riding-in-a-driverless-taxi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-28T11:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-28-cabs-minus-a-chatty-or-any-driver-proliferate-across-china.md",
+      "title": "Cabs minus a chatty — or any — driver proliferate across China",
+      "excerpt": "Using Baidu’s white-and-green app to book a ride on a recent afternoon had a driverless cab arrive ... such as supercomputers and artificial intelligence. That could impact the autonomous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/china/driverless-cars",
+      "originalUrl": "https://www.autonews.com/china/driverless-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-28T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1193,213 +1381,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-19-ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future.md",
-      "title": "AI Timelines: What Do Experts in Artificial Intelligence Expect for the Future?",
-      "excerpt": "Many AI experts believe there is a chance human-level artificial intelligence will arrive within the next decades—some believe it will exist much sooner.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/",
-      "originalUrl": "https://singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/12/deepmind-unsplash-ai.jpeg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/?amp=1",
-      "publishedDateTime": "2022-12-18T13:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-18-how-generative-ai-will-change-all-knowledge-work.md",
-      "title": "How Generative AI Will Change All Knowledge Work",
-      "excerpt": "The acceleration of applications around generative AI is showing us how quickly and broadly our work will change.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/charter/6242075/how-generative-ai-will-change-all-knowledge-work/",
-      "originalUrl": "https://time.com/charter/6242075/how-generative-ai-will-change-all-knowledge-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2022/12/image-7.png?w&#x3D;1600",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-18T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-need-a-ride-to-or-from-sky-harbor-waymo-driverless-cars-now-open-to-everyone-for-trip.md",
-      "title": "Need a ride to or from Sky Harbor? Waymo driverless cars now open to everyone for trip",
-      "excerpt": "Friday's announcement not only opens that service to anyone who wants a driverless car ride but also includes nearly doubling the size of the Phoenix service territory. All service to the airport ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/money/business/tech/2022/12/16/waymo-offers-driverless-rides-to-phoenix-sky-harbor-airport-for-all/69730936007/",
-      "originalUrl": "https://www.azcentral.com/story/money/business/tech/2022/12/16/waymo-offers-driverless-rides-to-phoenix-sky-harbor-airport-for-all/69730936007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/12/15/PPHX/349f0cbd-58b4-4a61-9d9a-0a03d52f8a7d-Waymo_airport.jpg?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-16T16:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZ Central",
-        "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-phoenix-airport-1st-to-offer-self-driving-ride-service-waymo.md",
-      "title": "Phoenix airport 1st to offer self-driving ride service Waymo",
-      "excerpt": "Phoenix Mayor Kate Gallego arrives in a self-driving vehicle, Friday, Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Mayor Gallego a",
-      "sourceUrl": null,
-      "webUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php?src=sthplifestyle",
-      "originalUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php?src=sthplifestyle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-16T15:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StamfordAdvocate",
-        "domain": "stamfordadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-how-artificial-intelligence-could-be-used-to-fight-wildfires.md",
-      "title": "How artificial intelligence could be used to fight wildfires",
-      "excerpt": "A tech company is developing a new type of artificial intelligence to fight wildfires by using predictive analysis before the fires even start and AI logistics to help contain them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
-      "originalUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
-      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
-      "publishedDateTime": "2022-12-16T12:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "q13fox",
-        "domain": "q13fox.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,207 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-10-13-microsofts-teams-premium-service-uses-ai-to-recap-your-meetings.md",
+      "title": "Microsoft's Teams Premium service uses AI to recap your meetings",
+      "excerpt": "Premium also uses AI to translate captions in real time for 40 spoken languages, so you won't always need to wait for after-the-fact translations to understand what happened. Meeting guides automatically set up the \"right\" options for a discussion,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/microsoft-teams-premium-365-160053805.html",
+      "originalUrl": "https://www.engadget.com/microsoft-teams-premium-365-160053805.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/ee3124b0-499b-11ed-b9dd-b770a62b524f",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-nvidia-not-cutting-it-google-and-amazons-latest-ai-chips-have-arrived.md",
+      "title": "Nvidia not cutting it? Google and Amazon’s latest AI chips have arrived",
+      "excerpt": "Kicking things off with Amazon, the cloud provider's Trainium chips are now generally available on AWS. First previewed at AWS re:Invent last year, Amazon's Trainium-powered Trn1n instances are designed to train large machine-learning models,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/10/11/google_amazon_ai_chips_nvidia/?td=rt-9cp",
+      "originalUrl": "https://www.theregister.com/2022/10/11/google_amazon_ai_chips_nvidia/?td=rt-9cp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/01/12/shutterstock_ai_chip.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/10/11/google_amazon_ai_chips_nvidia/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/10/11/google_amazon_ai_chips_nvidia/",
+      "publishedDateTime": "2022-10-12T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-microsoft-ignite-22-focuses-on-employee-engagement-developer-innovation-among-others.md",
+      "title": "Microsoft Ignite ‘22 focuses on employee engagement, developer innovation, among others",
+      "excerpt": "Satya Nadella laid out the five core imperatives that Microsoft is focused on, and then provided updates for each of them.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/microsoft/microsoft-ignite-22-microsoft-focuses-on-employee-engagement-developer-innovation-among-others/",
+      "originalUrl": "https://sdtimes.com/microsoft/microsoft-ignite-22-microsoft-focuses-on-employee-engagement-developer-innovation-among-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-12-at-2.03.39-PM.jpg",
+          "width": 969,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-microsoft-expands-azure-openai-service-with-dall-e-2-in-preview.md",
+      "title": "Microsoft expands Azure OpenAI Service with DALL-E 2 in preview",
+      "excerpt": "When Azure OpenAI Service launched in 2021, the service — a part of Azure Cognitive Services — provided ... in May with fine-tuning features, Microsoft is today introducing invite-only access ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/12/microsoft-expands-azure-openai-service-with-dall-e-2-in-preview/",
+      "originalUrl": "https://techcrunch.com/2022/10/12/microsoft-expands-azure-openai-service-with-dall-e-2-in-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1207074418.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/12/microsoft-expands-azure-openai-service-with-dall-e-2-in-preview/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/12/microsoft-expands-azure-openai-service-with-dall-e-2-in-preview/amp/",
+      "publishedDateTime": "2022-10-12T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-12-dall-e-2-coming-to-microsofts-azure-ai-by-invitation.md",
       "title": "DALL-E 2 coming to Microsoft’s Azure AI, by invitation",
       "excerpt": "DALL-E 2 is coming to Microsoft’s Azure OpenAI Service by invitation, allowing select Azure AI customers to generate custom images using text or images.",
@@ -1190,173 +1391,6 @@
       "provider": {
         "name": "The Conversation",
         "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-why-bringing-sas-viya-onto-microsoft-azure-marketplace-is-a-big-deal.md",
-      "title": "Why bringing SAS Viya onto Microsoft Azure Marketplace is a big deal",
-      "excerpt": "With files from Lynn Greiner. On Sept. 27, SAS officially brought its Viya analytics platform to the Microsoft Azure Marketplace. The service enables Azure customers to use the solution on a pay-as-you-go basis with the click of a button.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524",
-      "originalUrl": "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itworldcanada.com/wp-content/uploads/2021/01/GettyImages-1173288726.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524?amp=1",
-      "publishedDateTime": "2022-10-04T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-machine-learning-as-a-service-market-projected-to-discern-stable-expansion-during-2022-2028-amazon-web-services-bigml-inc-microsoft-corporation.md",
-      "title": "Machine Learning as a Service Market projected to discern stable expansion during 2022-2028 | Amazon Web Services, BigML Inc., Microsoft Corporation",
-      "excerpt": "Machine Learning as a Service Market - Global Outlook and Forecast 2022-2028 is latest research study released by",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-projected-to-discern-stable-expansion-during-2022-2028-amazon-web-services-bigml-inc-microsoft-corporation-2022-10-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-projected-to-discern-stable-expansion-during-2022-2028-amazon-web-services-bigml-inc-microsoft-corporation-2022-10-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-children-with-food-allergy-related-anxiety-can-benefit-from-cognitive-behavioral-therapy.md",
-      "title": "Children with food allergy-related anxiety can benefit from cognitive behavioral therapy",
-      "excerpt": "A new study in Annals of Allergy, Asthma and Immunology, the scientific journal of the American College of Allergy, Asthma and Immunology (ACAAI), shows that targeted cognitive behavioral therapy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/966745",
-      "originalUrl": "https://www.eurekalert.org/news-releases/966745",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and-digital-twins.md",
-      "title": "Accenture Collaborates with Mars to Develop “Factory of the Future” Using AI, Cloud, Edge and Digital Twins",
-      "excerpt": "Accenture (NYSE: ACN) is working with Mars, the global leader in confectionary, food, and pet care products and services, to transform and modernize its global manufacturing operations with artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and/article_61eb2f91-a077-5255-b34c-08d55f0e3200.html",
-      "originalUrl": "https://www.eagletribune.com/region/accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and/article_61eb2f91-a077-5255-b34c-08d55f0e3200.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
         "images": null,
         "publishers": null,
         "authors": null

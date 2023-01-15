@@ -160,7 +160,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-types-of-ai-and-what-they-can-do-for-your-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -509,6 +509,49 @@
       "provider": {
         "name": "Hackaday",
         "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-08-controversy-illuminates-rise-of-facial-recognition-in-private-sector.md",
+      "title": "Controversy illuminates rise of facial recognition in private sector",
+      "excerpt": "That controversy is over technology -- specifically, facial recognition software. When Kelly Conlon, a lawyer, tried to join her daughter's Girl Scout troop at a Rockettes performance the weekend ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/controversy-illuminates-rise-facial-recognition-private-sector/story?id=96116545",
+      "originalUrl": "https://abcnews.go.com/Business/controversy-illuminates-rise-facial-recognition-private-sector/story?id=96116545",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Business/radio-gty-er-230105_1672951120625_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/controversy-illuminates-rise-facial-recognition-private-sector/story?id=96116545",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/controversy-illuminates-rise-facial-recognition-private-sector/story?id=96116545",
+      "publishedDateTime": "2023-01-07T17:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1251,58 +1294,6 @@
       "ampWebUrl": "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.amp.html",
       "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.amp.html",
       "publishedDateTime": "2022-12-22T15:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-guaido-the-face-of-opposition-in-venezuela-may-be-on-his-way-out.md",
-      "title": "Guaidó, the Face of Opposition in Venezuela, May Be on His Way Out",
-      "excerpt": "The lawmaker may soon be voted out of power by the opposition, which no longer sees his interim government as a path to “real political change” against the country’s authoritarian regime.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/12/22/world/americas/venezuela-juan-guaido-removal.html",
-      "originalUrl": "https://www.nytimes.com/2022/12/22/world/americas/venezuela-juan-guaido-removal.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/12/22/multimedia/22venezuela-opposition1-1-2be4/22venezuela-opposition1-1-2be4-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/12/22/world/americas/venezuela-juan-guaido-removal.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/22/world/americas/venezuela-juan-guaido-removal.amp.html",
-      "publishedDateTime": "2022-12-22T14:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The New York Times",

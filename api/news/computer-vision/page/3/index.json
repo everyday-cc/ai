@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-09-mysterious-object-found-on-florida-beach-is-likely-a-shipwreck-from-the-1800s-archeologists-say.md",
+      "title": "Mysterious Object Found on Florida Beach Is Likely a Shipwreck from the 1800s, Archeologists Say",
+      "excerpt": "Beachgoers came across the enormous object — which is believed to be 80 and 100 feet in length — on Daytona Beach Shores over Thanksgiving weekend, according to the Associated Press.",
+      "sourceUrl": null,
+      "webUrl": "https://people.com/human-interest/mysterious-object-found-florida-beach-likely-shipwreck-1800s-archeologists-say/",
+      "originalUrl": "https://people.com/human-interest/mysterious-object-found-florida-beach-likely-shipwreck-1800s-archeologists-say/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://people.com/thmb/PTqIWapyxuDtYFAMV_mOGFWr4gw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(689x224:691x226)/daytona-beach-shipwrech-120722-ce7b98a215af46bcbcb1b1b88f800320.jpg",
+          "width": 1500,
+          "height": 979,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T14:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "People",
+        "domain": "people.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-the-tsa-plans-to-take-facial-recognition-technology-nationwide.md",
       "title": "The TSA plans to take facial recognition technology nationwide",
       "excerpt": "The Transportation Security Administration has been testing facial recognition technology as an option for travelers at select U.S. airports for years, touting it as a way to speed up identity ...",
@@ -1296,40 +1339,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-27-facial-recognition-can-help-conserve-seals-scientists-say.md",
-      "title": "Facial recognition can help conserve seals, scientists say",
-      "excerpt": "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ...",
-      "sourceUrl": null,
-      "webUrl": "https://buffalonews.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_a322b893-3a01-5a0e-8412-78110503a218.html",
-      "originalUrl": "https://buffalonews.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_a322b893-3a01-5a0e-8412-78110503a218.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-27T06:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

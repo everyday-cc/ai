@@ -2,6 +2,101 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-10-24-snap-way-to-design-ads-ranking-service-using-deep-learning.md",
+      "title": "Snap Way to Design Ads Ranking Service Using Deep Learning",
+      "excerpt": "Subscribe for free. Snap engineering has recently published a blog post on how they designed their Ads ranking and targeting service using deep learning. Showing ads to the users is the mainstream ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/10/snap-ad-ranking/",
+      "originalUrl": "https://www.infoq.com/news/2022/10/snap-ad-ranking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/10/snap-ad-ranking/en/headerimage/generatedHeaderImage-1666456310522.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-23T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-media-alert-brainchip-exhibits-its-essential-ai-capabilities-at-the-linley-fall-processor-conference-2022.md",
+      "title": "Media Alert: BrainChip Exhibits its Essential AI Capabilities at the Linley Fall Processor Conference 2022",
+      "excerpt": "As part of the presentation, Mankar will demonstrate how BrainChip uses hardware/software co-design, AutoML and the results of discussions with many AI application customers to achieve advances in system-level hardware performance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/media-alert-brainchip-exhibits-its-essential-ai-capabilities-at-the-linley-fall-processor-conference-2022-2022-10-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/media-alert-brainchip-exhibits-its-essential-ai-capabilities-at-the-linley-fall-processor-conference-2022-2022-10-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-23T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-22-top-5-stories-of-the-week-deloitte-meta-nvidia-and-oracle-news-highlights-current-state-of-ai-deep-learning.md",
       "title": "Top 5 stories of the week: Deloitte, Meta, Nvidia and Oracle news highlights current state of AI, deep learning",
       "excerpt": "The state of AI in 2022 continues to evolve and new trends are emerging with it. This week, news on AI from Nvidia and Oracle, Meta, and Deloitte topped our coverage.",
@@ -1360,111 +1455,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-heres-why-machine-learning-benefits-biz-developers.md",
-      "title": "Here's Why Machine Learning Benefits Biz Developers",
-      "excerpt": "In a day and age where content creation is a way to drive inbound traffic and help nurture the customer journey, leveraging machine learning helps automate this process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63481c09f7e15d5caade06a9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/amp/",
-      "publishedDateTime": "2022-10-13T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-machine-learning-operations-mlops-market-2022-prophesied-to-grow-at-a-faster-pace-by-2028.md",
-      "title": "Machine Learning Operations (MLOps) Market 2022 Prophesied To Grow At A Faster Pace By 2028",
-      "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Machine Learning Operations (MLOps) Market\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-2022-prophesied-to-grow-at-a-faster-pace-by-2028-2022-10-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-2022-prophesied-to-grow-at-a-faster-pace-by-2028-2022-10-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T01:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,248 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-11-02-tesla-gives-demo-to-agency-probing-self-driving-claims.md",
+      "title": "Tesla Gives Demo to Agency Probing Self-Driving Claims",
+      "excerpt": "Tesla Inc. demonstrated a beta version of its driver-assistance system for California transportation officials.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/tesla-gives-demo-to-agency-probing-self-driving-claims-71667386200858.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/tesla-gives-demo-to-agency-probing-self-driving-claims-71667386200858.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2022/11/02/1600x900/JAPAN-TESLA-8_1667400602103_1667400602103_1667400629981_1667400629981.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/tesla-gives-demo-to-agency-probing-self-driving-claims-71667386200858.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/tesla-gives-demo-to-agency-probing-self-driving-claims-71667386200858.html",
+      "publishedDateTime": "2022-11-02T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-tesla-reluctantly-gave-full-self-driving-beta-demo-to-dmv-and-critics.md",
+      "title": "Tesla reluctantly gave Full Self-Driving Beta demo to DMV and critics",
+      "excerpt": "Tesla reluctantly gave a Full Self-Driving Beta demonstration to the California DMV and some critics that the automaker didn't want present.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/",
+      "originalUrl": "https://electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/02/fsd-pole.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/amp/",
+      "publishedDateTime": "2022-11-02T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-waymos-self-driving-cars-are-now-taking-riders-to-the-phoenix-airport.md",
+      "title": "Waymo's Self-Driving Cars Are Now Taking Riders To The Phoenix Airport",
+      "excerpt": "Waymo, the company that specializes in self-driving car tech and that first existed as an ambitious Google project, has announced yet another major milestone in the world of autonomous driving: paid airport trips. As of November 1, 2022, some people have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1081772/waymos-self-driving-cars-are-now-taking-riders-to-the-phoenix-airport/",
+      "originalUrl": "https://www.slashgear.com/1081772/waymos-self-driving-cars-are-now-taking-riders-to-the-phoenix-airport/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/waymos-self-driving-cars-are-now-taking-riders-to-the-phoenix-airport/l-intro-1667350825.jpg",
+          "width": 1600,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T18:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-argo-ai-a-self-driving-tech-company-with-offices-in-austin-is-shutting-down-operations.md",
+      "title": "Argo AI, a self-driving tech company with offices in Austin, is shutting down operations",
+      "excerpt": "Argo AI, a company that had been testing autonomous vehicles in Austin, is shutting down. According to a report by KVUE's news partners at the Austin American-Stateman, the company is being absorbed by two of its biggest supporters,",
+      "sourceUrl": null,
+      "webUrl": "https://www.kvue.com/article/news/local/argo-ai-self-driving-austin-shut-down/269-b2655e2f-c1b1-4472-943b-448760c9338d",
+      "originalUrl": "https://www.kvue.com/article/news/local/argo-ai-self-driving-austin-shut-down/269-b2655e2f-c1b1-4472-943b-448760c9338d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.kvue.com/assets/KVUE/images/b0f511de-1e3e-488c-8d76-b76f56eecd46/b0f511de-1e3e-488c-8d76-b76f56eecd46_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kvue.com/amp/article/news/local/argo-ai-self-driving-austin-shut-down/269-b2655e2f-c1b1-4472-943b-448760c9338d",
+      "cdnAmpWebUrl": "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/local/argo-ai-self-driving-austin-shut-down/269-b2655e2f-c1b1-4472-943b-448760c9338d",
+      "publishedDateTime": "2022-11-01T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVUE",
+        "domain": "kvue.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-self-driving-truck-firm-tusimple-face-probes-over-china-ties.md",
+      "title": "Self-Driving Truck Firm TuSimple Face Probes Over China Ties",
+      "excerpt": "U.S. government regulators are investigating whether self-driving trucking company, TuSimple, defrauded investors by sharing its technology with a Chinese startup, according to people familiar with the matter. The company has fired its CEO as part of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/series/tech-news-briefing/self-driving-truck-firm-tusimple-face-probes-over-china-ties/526B2B6E-7E36-4E62-9DBB-A0671A3B5C1C",
+      "originalUrl": "https://www.wsj.com/video/series/tech-news-briefing/self-driving-truck-firm-tusimple-face-probes-over-china-ties/526B2B6E-7E36-4E62-9DBB-A0671A3B5C1C",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://images.wsj.net/im-656515?width=1280&height=720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-ai-is-running-out-of-computing-power-ibm-says-the-answer-is-this-new-chip.md",
       "title": "AI is running out of computing power. IBM says the answer is this new chip",
       "excerpt": "The hype suggests that artificial intelligence (AI) is already everywhere, but in reality the technology that drives it is still developing. Many AI applications are powered with chips that weren't designed for AI – instead, they rely on general-purpose ...",
@@ -1159,257 +1401,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype.md",
-      "title": "Tesla, Ford and VW Sound the Death Knell for Driverless Car Hype",
-      "excerpt": "Stay on top of the auto industry’s transformation by signing up for Bloomberg’s Hyperdrive newsletter here. The autonomous-driving sector just endured a day that tech and automotive giants ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2022-10-27/tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2022-10-27/tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH4.lzNqrV6s/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-doj-reportedly-investigating-teslas-autopilot-self-driving-claims-after-crashes.md",
-      "title": "DOJ reportedly investigating Tesla’s Autopilot self-driving claims after crashes",
-      "excerpt": "The Justice Department launched a probe last year to look into whether Tesla had made unsupported full self-driving claims, according to Reuters..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/doj-investigating-tesla-autopilot-self-driving-claims-113038198.html?src=rss&ref=upstract.com",
-      "originalUrl": "https://www.engadget.com/doj-investigating-tesla-autopilot-self-driving-claims-113038198.html?src=rss&ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/63779510-55e0-11ed-bfe1-18d97e45c86d",
-          "width": 1600,
-          "height": 1056,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-sentinelone-intels-mobileye-ipo-exxon-mobil-and-oracle.md",
-      "title": "SentinelOne, Intel's Mobileye IPO, Exxon Mobil And Oracle",
-      "excerpt": "In this episode, we're diving into SentielOne. Plus, Vladimir Dimitrov joins us to break down the Intel Mobileye IPO and discuss Exxon Mobil and Oracle.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4549733-sentinelone-intel-mobileye-ipo-exxon-mobil-guest-vladimir-dimitrov",
-      "originalUrl": "https://seekingalpha.com/article/4549733-sentinelone-intel-mobileye-ipo-exxon-mobil-guest-vladimir-dimitrov",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-ford-cant-afford-other-bets-like-driverless-cars.md",
-      "title": "Ford Can’t Afford Other Bets Like Driverless Cars",
-      "excerpt": "Ford’s decision to reverse out of the driverless-taxi business shows a laudable focus on delivering tangible products—but also the company’s financial weakness relative to crosstown rival ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ford-cant-afford-other-bets-like-driverless-cars-11666861656",
-      "originalUrl": "https://www.wsj.com/articles/ford-cant-afford-other-bets-like-driverless-cars-11666861656",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-652054/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims.md",
-      "title": "Exclusive: Tesla faces U.S. criminal probe over self-driving claims",
-      "excerpt": "The U.S. Department of Justice launched the probe last year following more than a dozen crashes, some fatal, involving Tesla’s driver assistance system Autopilot, people familiar with the matter say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/?ref=upstract.com",
-      "originalUrl": "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/Pc83Ei_m8ULxEdqo8XyYwlSi_f0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/S72XIA724ZL7BKAKEXM3RWBDYM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T21:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

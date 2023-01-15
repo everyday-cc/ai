@@ -29,8 +29,8 @@ images:
 related:
   - title: "tZERO Announces Appointment of New Chief Technology Officer"
     excerpt: "ZERO is pleased to announce the appointment of William Andreozzi as the new Chief Technology Officer. William brings a wealth of experience and knowledge in the field of digital asset trading and blockchain technology to the company."
-    publishedDateTime: 2023-01-12T12:44:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/12/9742270.htm"
+    publishedDateTime: 2023-01-12T14:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-tzero-announces-appointment-new-chief-technology-officer-/2023/01/12/9742270.htm"
     type: article
     provider:
       name: TMCnet

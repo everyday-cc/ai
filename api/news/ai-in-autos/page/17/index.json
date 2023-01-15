@@ -2,6 +2,212 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-09-23-the-future-is-now-driverless-road-freight-and-highly-automated-driving-had.md",
+      "title": "The future is now: driverless road freight and Highly Automated Driving (HAD)",
+      "excerpt": "Tim Wouda and Sjoerd Spaargaren, specialists in Automated Driving at HERE Technologies discuss the rise of autonomous trucking and the need for location intelligence like high-definition maps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/sponsored/the-future-is-now-driverless-road-freight-and-highly-automated-driving-had/",
+      "originalUrl": "https://www.just-auto.com/sponsored/the-future-is-now-driverless-road-freight-and-highly-automated-driving-had/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2022/09/HAD-article-hero-visual-1038x487.png",
+          "width": 1038,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-23T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-vw-group-gentravel-concept-predicts-a-true-level-5-full-self-driving-car.md",
+      "title": "VW Group Gen.Travel concept predicts a true Level 5, full self-driving car",
+      "excerpt": "What might private vehicle ownership look like in a world where driving is no longer necessary ... Voice activation and artificial intelligence can be used to control various functions.",
+      "sourceUrl": null,
+      "webUrl": "https://wgntv.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
+      "originalUrl": "https://wgntv.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-23T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGN-TV",
+        "domain": "wgntv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-volkswagen-concept-previews-tomorrows-driverless-rental-pods.md",
+      "title": "Volkswagen concept previews tomorrow's driverless rental pods",
+      "excerpt": "Artificial intelligence and platooning – fully autonomous driving in convoys – have been factored in to further increase the range for long-distance journeys, Volkswagen adds. Head of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334177",
+      "originalUrl": "https://www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334177",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.perthnow.com.au/publication/C-8334177/099020eebdcba6ebf61b69402bf2175d183a40b6-16x9-x0y173w3805h2140.png?imwidth=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-23T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Perth Now",
+        "domain": "perthnow.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-why-driverless-cars-are-taking-hyper-realistic-virtual-driving-lessons.md",
+      "title": "Why Driverless Cars Are Taking ‘Hyper-Realistic’ Virtual Driving Lessons",
+      "excerpt": "No matter how many real-world miles driverless cars experience, it’s unlikely they’ll come up against all of the rare and dangerous incidents they could encounter. So now, driverless car ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/series/george-downs/why-driverless-cars-are-taking-hyper-realistic-virtual-driving-lessons",
+      "originalUrl": "https://www.wsj.com/video/series/george-downs/why-driverless-cars-are-taking-hyper-realistic-virtual-driving-lessons",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://images.wsj.net/im-635191?width=1280&height=720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-automotive-artificial-intelligence-ai-market-size-to-hit-usd-191-bn-by-2030.md",
+      "title": "Automotive Artificial Intelligence (AI) Market Size to Hit USD 19.1 Bn by 2030",
+      "excerpt": "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-23-will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars.md",
       "title": "Will AI inspire a new M&M? How artificial intelligence is reshaping Mars",
       "excerpt": "Mars Inc. is in the midst of a massive AI-powered overhaul, driving digital transformation across the over 100-year-old company.",
@@ -1225,249 +1431,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-18-global-artificial-intelligence-market-to-reach-450-bn-in-2022.md",
-      "title": "Global artificial intelligence market to reach $450 bn in 2022",
-      "excerpt": "The Artificial Intelligence (AI) market value is expected to reach nearly $450 billion this year and maintain a year-over-year growth rate in the next 5 years, a new report has forecast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/tech/news/global-artificial-intelligence-market-to-reach-450-bn-in-2022/articleshow/94269565.cms",
-      "originalUrl": "https://www.businessinsider.in/tech/news/global-artificial-intelligence-market-to-reach-450-bn-in-2022/articleshow/94269565.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/94269574.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/global-artificial-intelligence-market-to-reach-450-bn-in-2022/amp_articleshow/94269565.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/global-artificial-intelligence-market-to-reach-450-bn-in-2022/amp_articleshow/94269565.cms",
-      "publishedDateTime": "2022-09-17T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-would-you-be-okay-getting-a-doctor-less-surgery.md",
-      "title": "Would You Be Okay Getting a Doctor-less Surgery?",
-      "excerpt": "Robots could someday be fully autonomous in operating rooms. Their biggest challenge might have nothing to do with the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/technology/archive/2022/09/autonomous-robot-surgery-operations-medicine/671449/?amp;amp;amp;amp",
-      "originalUrl": "https://www.theatlantic.com/technology/archive/2022/09/autonomous-robot-surgery-operations-medicine/671449/?amp;amp;amp;amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/v9szENxl4Ozc3JpxnMJuY7ExRyc=/0x64:2995x1624/1200x625/media/img/mt/2022/09/GettyImages_636182204/original.jpg",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-2026.md",
-      "title": "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026",
-      "excerpt": "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/09/16/9675469.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/09/16/9675469.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
-          "width": 476,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-2-artificial-intelligence-growth-stocks-shaping-the-future-of-technology.md",
-      "title": "2 Artificial-Intelligence Growth Stocks Shaping the Future of Technology",
-      "excerpt": "And artificial intelligence (AI ... speech recognition, robotics, and self-driving cars. The company stumbled in its most recent quarter. Revenue rose just 3% to $6.7 billion, and non-GAAP ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/09/16/2-growth-stocks-shaping-the-future-of-technology/",
-      "originalUrl": "https://www.fool.com/investing/2022/09/16/2-growth-stocks-shaping-the-future-of-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/700387/artificial-intelligence-1.jpg",
-          "width": 2070,
-          "height": 1449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day.md",
-      "title": "Top 5 Tech Trends We Should All Know Ahead Of Tesla AI Day",
-      "excerpt": "Tesla’s AI Day is on the horizon. Here are some of the top trends emerging in the field of artificial intelligence that you should know about before the big event later this month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/09/16/top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/16/top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6324946af1e93a0874b00cbb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 890,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/16/top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/16/top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day/amp/",
-      "publishedDateTime": "2022-09-16T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

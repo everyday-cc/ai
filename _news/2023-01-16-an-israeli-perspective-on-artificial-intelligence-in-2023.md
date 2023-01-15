@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-15T19:38:00Z
 originalUrl: "https://www.jpost.com/jerusalem-report/article-728313"
 webUrl: "https://www.jpost.com/jerusalem-report/article-728313"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Jerusalem Post Blogs

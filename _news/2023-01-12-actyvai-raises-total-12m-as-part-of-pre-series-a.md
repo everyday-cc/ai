@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-12T09:29:00Z
 originalUrl: "https://financialit.net/news/fundraising-news/actyvair-raises-total-12m-part-pre-series"
 webUrl: "https://financialit.net/news/fundraising-news/actyvair-raises-total-12m-part-pre-series"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Financial IT

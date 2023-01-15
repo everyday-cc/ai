@@ -2,6 +2,871 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2022-10-12-deep-learning-unit-market-share-size-financial-summaries-analysis-from-2022-2028-fujitsu-nvidia-intel.md",
+      "title": "Deep Learning Unit Market Share, Size, Financial Summaries Analysis from 2022-2028 | Fujitsu, NVIDIA, Intel",
+      "excerpt": "The Market report identifies various key manufacturers of the Deep Learning Unit Market. It helps to reader understand",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-unit-market-share-size-financial-summaries-analysis-from-2022-2028-fujitsu-nvidia-intel-2022-10-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-unit-market-share-size-financial-summaries-analysis-from-2022-2028-fujitsu-nvidia-intel-2022-10-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-victor-davis-hanson-an-epidemic-of-cognitive-impairment.md",
+      "title": "VICTOR DAVIS HANSON: An epidemic of cognitive impairment?",
+      "excerpt": "Partisan charges grew so intense that Trump voluntarily took — and aced — the Montreal Cognitive Assessment. Strangely, the same left arm-chair psychiatrists offer no such worries about Biden ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reviewjournal.com/opinion/opinion-columns/victor-davis-hanson/victor-davis-hanson-an-epidemic-of-cognitive-impairment-2655998/",
+      "originalUrl": "https://www.reviewjournal.com/opinion/opinion-columns/victor-davis-hanson/victor-davis-hanson-an-epidemic-of-cognitive-impairment-2655998/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reviewjournal.com/wp-content/uploads/2022/10/16986245_web1_web_biden26a.jpg?w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.reviewjournal.com/opinion/opinion-columns/victor-davis-hanson/victor-davis-hanson-an-epidemic-of-cognitive-impairment-2655998/amp/",
+      "cdnAmpWebUrl": "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/opinion/opinion-columns/victor-davis-hanson/victor-davis-hanson-an-epidemic-of-cognitive-impairment-2655998/amp/",
+      "publishedDateTime": "2022-10-11T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Las Vegas Review-Journal",
+        "domain": "reviewjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-join-a-viewing-party.md",
+      "title": "Join a Viewing Party",
+      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/dev-summit/viewing-parties/",
+      "originalUrl": "https://www.tensorflow.org/dev-summit/viewing-parties/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tensorflow.org/dev-summit/images/meta.png",
+          "width": 1080,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-bionic-pancreas-improves-type-1-diabetes-management-in-kids-and-adults.md",
+      "title": "Bionic pancreas improves type 1 diabetes management in kids and adults",
+      "excerpt": "\"This novel insulin delivery system likely decreases both the emotional and cognitive burden of diabetes management for both youth and parents living with type 1 diabetes.\" The 13-week trial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/10/221012163511.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/10/221012163511.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-many-drivers-treat-their-partially-automated-cars-as-fully-self-driving-study-finds.md",
+      "title": "Many drivers treat their partially automated cars as fully self-driving, study finds",
+      "excerpt": "Drivers of partly automated vehicles often treat them as fully self-driving, according to a new study. The study, conducted by the Insurance Institute for Highway Safety (IIHS), found that 53% of Cadillac Super Cruise users,",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/news/nation-world/national/article267180096.html",
+      "originalUrl": "https://www.miamiherald.com/news/nation-world/national/article267180096.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/news/nation-world/national/article267180096.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article267180096.html",
+      "publishedDateTime": "2022-10-11T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-sophos-cto-joe-levy-on-ai-in-cybersecurity.md",
+      "title": "Sophos CTO Joe Levy on AI in Cybersecurity",
+      "excerpt": "The AI component of cybersecurity is changing fast – and customers often find it confusing. But clearly AI is a needed tool to block cybercriminals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/security/sophos-ai-in-cybersecurity/",
+      "originalUrl": "https://www.eweek.com/security/sophos-ai-in-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/10/eSPEAKS-thumbnail-2.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-softbank-robotics-partners-with-gausium-to-deploy-2-robotic-solutions.md",
+      "title": "SoftBank Robotics partners with Gausium to deploy 2 robotic solutions",
+      "excerpt": "SoftBank Robotics America and Gausium announced a new partnership to deploy indoor automated robots in the US.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/softbank-robotics-partners-with-gausium-to-deploy-2-robotic-solutions/",
+      "originalUrl": "https://www.therobotreport.com/softbank-robotics-partners-with-gausium-to-deploy-2-robotic-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/10/featured-web-SBRA-.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much.md",
+      "title": "Survey: 40-50% Of Us Trust Our ‘Self-Driving’ Vehicles From Tesla And Cadillac Far Too Much",
+      "excerpt": "When Tesla sells a Full Self Driving package for $15,000 US, people seem to trust the name and use it pretty much as such, according to a new survey, even if they only have the less capable Autopilot system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6345e7d45bd4910ac4b5c039/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/amp/",
+      "publishedDateTime": "2022-10-11T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-although-not-alive-i-can-still-create-art-robot-ai-da-tells-uk-lawmakers.md",
+      "title": "'Although not alive, I can still create art,' robot Ai-Da tells UK lawmakers",
+      "excerpt": "LONDON, Oct 11 (Reuters) - A \"robot artist\" called Ai-Da told British lawmakers on ... Disrupted Flying car by California startup Alef attracts early Tesla investor, article with image October ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/although-not-alive-i-can-still-create-art-robot-ai-da-tells-uk-lawmakers-2022-10-11/",
+      "originalUrl": "https://www.reuters.com/technology/although-not-alive-i-can-still-create-art-robot-ai-da-tells-uk-lawmakers-2022-10-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-ai-equal-to-humans-in-text-message-mental-health-trial.md",
+      "title": "AI equal to humans in text-message mental health trial",
+      "excerpt": "UW Medicine researchers have found that algorithms are as good as trained human evaluators at identifying red-flag language in text messages from people with serious mental illness. This opens a promising area of study that could help with psychiatry training and scarcity of care.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/text-message.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.amp",
+      "publishedDateTime": "2022-10-11T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-bigbearai-names-amanda-long-as-ceo.md",
+      "title": "BigBear.ai Names Amanda Long as CEO",
+      "excerpt": "By Stephen Nakrosis BigBear.ai Inc. on Tuesday said Amanda Long has been named chief executive, effective Oct. 12. She succeeds Dr. Reggie Brothers, who",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/bigbear-ai-names-amanda-long-as-ceo-271665521110",
+      "originalUrl": "https://www.marketwatch.com/story/bigbear-ai-names-amanda-long-as-ceo-271665521110",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/bigbear-ai-names-amanda-long-as-ceo-271665521110",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/bigbear-ai-names-amanda-long-as-ceo-271665521110",
+      "publishedDateTime": "2022-10-11T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-bigbearai-names-former-ibm-executive-mandy-long-as-chief-executive-officer.md",
+      "title": "BigBear.ai Names Former IBM Executive Mandy Long as Chief Executive Officer",
+      "excerpt": "Get 7 Days Free Sign In Sign In Topics",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20221011006085/bigbearai-names-former-ibm-executive-mandy-long-as-chief-executive-officer",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20221011006085/bigbearai-names-former-ibm-executive-mandy-long-as-chief-executive-officer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-robotics-companies-dont-want-robots-weaponized-will-anyone-listen.md",
+      "title": "Robotics companies don’t want robots weaponized — will anyone listen?",
+      "excerpt": "(Airman 1st Class Shannon Moorehead/Air Force) A robotics manufacturer that continues to expand its arsenal of artificial intelligence attempted to ease public concerns over weaponized robots in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.airforcetimes.com/off-duty/military-culture/2022/10/11/robotics-companies-dont-want-robots-weaponized-will-anyone-listen/",
+      "originalUrl": "https://www.airforcetimes.com/off-duty/military-culture/2022/10/11/robotics-companies-dont-want-robots-weaponized-will-anyone-listen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.airforcetimes.com/resizer/zuFhqx_9etMBEfb0kGpPEGe-8vQ=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/CN66RWUN2FAAJDKALLUJMXZRDU.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Air Force Times",
+        "domain": "airforcetimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-is-artificial-intelligence-inching-closer-to-sentience.md",
+      "title": "Is artificial intelligence inching closer to sentience?",
+      "excerpt": "Chatbots are starting to muse about life, death and religion. But could these silicon philosophers one day gain consciousness? Or are they just getting good at mimicking it?",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/business/mars/2022/10/11/is-ai-inching-closer-to-sentience.html",
+      "originalUrl": "https://www.thestar.com/business/mars/2022/10/11/is-ai-inching-closer-to-sentience.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestar.com/content/dam/thestar/business/mars/2022/10/06/tech-update-torontos-fintech-ecosystem-on-the-rise-canadian-jet-fuel-is-going-green/_2_mars_discovery_district.jpg.size.custom.crop.640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestar.com/amp/business/mars/2022/10/11/is-ai-inching-closer-to-sentience.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/mars/2022/10/11/is-ai-inching-closer-to-sentience.html",
+      "publishedDateTime": "2022-10-11T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Toronto Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-automate-classification-of-it-service-requests-with-an-amazon-comprehend-custom-classifier.md",
+      "title": "Automate classification of IT service requests with an Amazon Comprehend custom classifier",
+      "excerpt": "Enterprises often deal with large volumes of IT service requests. Traditionally, the burden is put on the requester to choose the correct category for every issue. A manual error or misclassification of a ticket usually means a delay in resolving the IT service request. This can result in reduced productivity,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-classification-of-it-service-requests-with-an-amazon-comprehend-custom-classifier/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-classification-of-it-service-requests-with-an-amazon-comprehend-custom-classifier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T12:08:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-how-were-using-machine-learning-to-understand-proteins.md",
+      "title": "How we’re using machine learning to understand proteins",
+      "excerpt": "When most people think of proteins, their mind typically goes to protein-rich foods such as steak or tofu. But proteins are so much more. They’re essential to how living things operate and thrive, and studying them can help improve lives. For example, insulin treatments are life-changing for people with",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/health/machine-learning-to-understand-proteins/",
+      "originalUrl": "https://blog.google/technology/health/machine-learning-to-understand-proteins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-lyft-exec-was-wrong-about-driverless-vehicles-but-he-still-believes-in-their-potential.md",
+      "title": "Lyft exec was wrong about driverless vehicles — but he still believes in their potential",
+      "excerpt": "\"I really think in the next two to three years that kind of actual no driver, driverless vehicle will be something you can order pretty easily on the Lyft platform,\" he told CNBC last week in Detroit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html",
+      "originalUrl": "https://www.cnbc.com/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106305984-1576793205346gettyimages-1133498390.jpeg?v=1665486001",
+          "width": 5255,
+          "height": 3402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html",
+      "publishedDateTime": "2022-10-11T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-medical-speech-recognition-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028.md",
+      "title": "Medical Speech Recognition Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028",
+      "excerpt": "This \"Medical Speech Recognition market\" study analysis the top company in the global market and splits the Medical Speech Recognition market by product type and Application/end industries. Global \"Medical Speech Recognition Market\" Industry Report 2022 to 2028 examine the Medical Speech Recognition Market's growth potential and threats in terms of business tactics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/medical-speech-recognition-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/medical-speech-recognition-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 241,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit.md",
+      "title": "XACT Robotics® Receives FDA Clearance for its ACE Xtend™ Remote Control Unit",
+      "excerpt": "XACT Robotics ®, developer of the world’s first and only comprehensive robotic system for interventional procedures, announced today that its ACE Xtend™ Remote Control Unit received U.S. Food ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit/article_0c232374-2bbf-5a80-a421-62fd12eb7329.html",
+      "originalUrl": "https://www.eagletribune.com/region/xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit/article_0c232374-2bbf-5a80-a421-62fd12eb7329.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/3/8a/38a71a80-e7fe-52db-9cea-b4c69212cb07/6345a26dbcbb3.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-12-techcrunch-roundup-growth-hacking-real-talk-rpa-market-slowdown-ai-and-ip.md",
       "title": "TechCrunch+ roundup: Growth hacking real talk, RPA market slowdown, AI and IP",
       "excerpt": "IMO, “growth hacking\" is a sloppy way to describe the iterative work required to fine-tune marketing campaigns and systems.",
@@ -291,878 +1156,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-polyn-introduces-voice-processing-tiny-ai-chip-delivering-industry-first-voice-extraction.md",
-      "title": "POLYN Introduces Voice Processing Tiny AI Chip Delivering Industry-First Voice Extraction",
-      "excerpt": "POLYN is the first to implement the combination of voice detection (VD), and voice extraction (VE) within the ultra-low-power analog neuromorphic silicon. Integrating NeuroVoice allows customers to create miniature products that improve their end users' hearing experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-polyn-introduces-voice-processing-tiny-ai-chip-delivering-/2022/10/11/9690059.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-polyn-introduces-voice-processing-tiny-ai-chip-delivering-/2022/10/11/9690059.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-google-reveals-whats-next-for-cloud-ai.md",
-      "title": "Google reveals what’s next for Cloud AI",
-      "excerpt": "At Google Cloud Next 2022, new AI services emerge to help enterprises build and deploy applications for common use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/",
-      "originalUrl": "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/Google-Cloud-Next-e1634148277238.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/amp/",
-      "publishedDateTime": "2022-10-11T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-artificial-intelligence-is-dangerous-for-disabled-people-at-work-4-takeaways-for-developers-and-buyers.md",
-      "title": "Artificial Intelligence Is Dangerous For Disabled People At Work: 4 Takeaways For Developers And Buyers",
-      "excerpt": "Eight of the 10 largest private U.S. employers use AI to track the productivity metrics of individual workers, many in real time, according to The New York Times.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/drnancydoyle/2022/10/11/artificial-intelligence-is-dangerous-for-disabled-people-at-work-4-takeaways-for-developers-and-buyers/",
-      "originalUrl": "https://www.forbes.com/sites/drnancydoyle/2022/10/11/artificial-intelligence-is-dangerous-for-disabled-people-at-work-4-takeaways-for-developers-and-buyers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63457c2e30f94eb36c4befae/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/drnancydoyle/2022/10/11/artificial-intelligence-is-dangerous-for-disabled-people-at-work-4-takeaways-for-developers-and-buyers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/drnancydoyle/2022/10/11/artificial-intelligence-is-dangerous-for-disabled-people-at-work-4-takeaways-for-developers-and-buyers/amp/",
-      "publishedDateTime": "2022-10-11T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-stephen-a-smith-went-on-sean-hannitys-show-talked-about-joe-bidens-cognitive-state.md",
-      "title": "Stephen A. Smith Went on Sean Hannity's Show, Talked About Joe Biden's Cognitive State",
-      "excerpt": "\"I don't like what I see at times, Sean, but I'm not a doctor,\" Smith said. \"I'm not going to go that far disrespectful to the President of the United States but I respect the fact that other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thebiglead.com/posts/stephen-a-smith-sean-hannity-show-joe-biden-cognitive-state-01gf3gksg2gp",
-      "originalUrl": "https://www.thebiglead.com/posts/stephen-a-smith-sean-hannity-show-joe-biden-cognitive-state-01gf3gksg2gp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1204,h_677,x_0,y_46/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/thebiglead_en_international_web/01gf3hqwa0p8cma4mgts.png",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thebiglead.com/posts/stephen-a-smith-went-on-sean-hannity-s-show-talked-about-joe-biden-s-cognitive-state-01gf3gksg2gp/amp",
-      "cdnAmpWebUrl": "https://www-thebiglead-com.cdn.ampproject.org/c/s/www.thebiglead.com/posts/stephen-a-smith-went-on-sean-hannity-s-show-talked-about-joe-biden-s-cognitive-state-01gf3gksg2gp/amp",
-      "publishedDateTime": "2022-10-11T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Big Lead",
-        "domain": "thebiglead.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-orange-county-vision-center-announces-grand-opening-of-new-location.md",
-      "title": "Orange County Vision Center Announces Grand Opening of New Location",
-      "excerpt": "Orange County Vision Center is excited to announce the grand opening of a new location in Garden Grove, CA! The new office is spacious and is equipped with the latest technology. On October 15th, patients can stop by for a tour of the new clinic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/orange-county-vision-center-announces-grand-opening-of-new-location/article_d355ffd6-fe6c-54b3-a451-55e6c8e8bc38.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/orange-county-vision-center-announces-grand-opening-of-new-location/article_d355ffd6-fe6c-54b3-a451-55e6c8e8bc38.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-sight-machine-blueprint-enables-automated-data-labeling-and-comprehensive-analysis-of-all-manufacturing-data.md",
-      "title": "Sight Machine Blueprint Enables Automated Data Labeling and Comprehensive Analysis of All Manufacturing Data",
-      "excerpt": "Developed in collaboration with NVIDIA and Microsoft, Sight Machine Blueprint empowers manufacturers to prepare and leverage 100x more data for actionable analytics insights. SAN",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/10/11/9689965.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/10/11/9689965.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
-          "width": 476,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit.md",
-      "title": "XACT Robotics® Receives FDA Clearance for its ACE Xtend™ Remote Control Unit",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. HINGHAM, Mass., (BUSINESS WIRE) -- XACT Robotics®, developer of the world’s first and only comprehensive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/xact-robotics-receives-fda-clearance-for-its-ace-xtendtm-remote-control-unit-2022-10-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/xact-robotics-receives-fda-clearance-for-its-ace-xtendtm-remote-control-unit-2022-10-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-top-nine-ethical-issues-in-artificial-intelligence.md",
-      "title": "Top Nine Ethical Issues In Artificial Intelligence",
-      "excerpt": "Some of today’s tech giants believe that artificial intelligence (AI) should be more widely utilized. However, there are many ethical and risk assessment issues to be considered before this can become reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/11/top-nine-ethical-issues-in-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/11/top-nine-ethical-issues-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-toyota-and-google-cloud-partner-to-bring-ai-powered-speech-services-to-toyota-and-lexus-vehicles.md",
-      "title": "Toyota and Google Cloud Partner to Bring AI-Powered Speech Services to Toyota and Lexus Vehicles",
-      "excerpt": "Toyota and Google Cloud today announced an expanded partnership that brings together Toyota and Lexus next-generation audio multimedia systems and Google Cloud's AI-based speech services. Customers can now experience the first results of the partnership in the latest generation Toyota Audio Multimedia and Lexus Interface infotainment systems,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/10/11/9689565.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/10/11/9689565.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
-          "width": 476,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-google-says-its-cracked-the-code-to-business-intelligence.md",
-      "title": "Google says it's 'cracked the code' to business intelligence",
-      "excerpt": "At the Google Cloud Next conference, the tech giant is emphasizing its expertise in AI, business intelligence, and supporting an open data ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-says-its-cracked-the-code-to-business-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/google-says-its-cracked-the-code-to-business-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2c15d46c470c4537fefd3a1fdc3e4e449e658cfd/2020/01/23/be6d0341-424e-424a-95d8-da906528f235/datacenterpeopleistock-802301504.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-says-its-cracked-the-code-to-business-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-says-its-cracked-the-code-to-business-intelligence/",
-      "publishedDateTime": "2022-10-11T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems.md",
-      "title": "How Advanced Databases Can Enable Deep Learning To Address Some Of The World's Great Problems",
-      "excerpt": "In order to reach their fullest potential, databases must evolve to meet the needs of more advanced AI algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/11/how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/11/how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634425ffb33ba97e97de06b1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/11/how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/11/how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems/amp/",
-      "publishedDateTime": "2022-10-11T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-global-cognitive-computing-market-size-to-grow-usd-2454-billion-by-2030-cagr-of-31.md",
-      "title": "Global Cognitive Computing Market Size To Grow USD 245.4 Billion By 2030 | CAGR Of 31%",
-      "excerpt": "Owing to cloud-based services, there is a growth in the demand for cognitive systems in large ... HP Development Company, L.P., IBM, Microsoft Corporation, Nuance Communications Inc., Saffron ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105000645/Global-Cognitive-Computing-Market-Size-To-Grow-USD-2454-Billion-By-2030-CAGR-Of-31",
-      "originalUrl": "https://menafn.com/1105000645/Global-Cognitive-Computing-Market-Size-To-Grow-USD-2454-Billion-By-2030-CAGR-Of-31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?256299",
-          "width": 355,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre.md",
-      "title": "Don't be afraid of Artificial Intelligence, says head of UK's new robotics centre",
-      "excerpt": "The head of the UK's largest and most advanced robotics centre has said that society needs to prepare for the increased integration of robots but shouldn't fear the rise of artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413?es_id=28c07ac56a",
-      "originalUrl": "https://news.sky.com/story/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413?es_id=28c07ac56a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e3.365dm.com/22/09/1600x900/skynews-robot-parkinsons_5912547.jpg?20220927154814",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.sky.com/story/amp/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413",
-      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413",
-      "publishedDateTime": "2022-10-11T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-ironvest-bets-on-biometric-ai-to-stop-identity-theft.md",
-      "title": "IronVest bets on biometric AI to stop identity theft",
-      "excerpt": "IronVest releases a biometric AI solution designed to prevent identity theft with $23 million in seed funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/ironvest-biometric-ai/",
-      "originalUrl": "https://venturebeat.com/security/ironvest-biometric-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/identity_theft-shutterstock_174324230.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/ironvest-biometric-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/ironvest-biometric-ai/amp/",
-      "publishedDateTime": "2022-10-11T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-autonomous-self-driving-cars-market-future-of-automobile-industry-to-forecast-2029.md",
-      "title": "Autonomous / Self-Driving Cars Market: Future of Automobile Industry To Forecast 2029",
-      "excerpt": "Self-driving cars use a combination of sensors, cameras, radar, and artificial intelligence (AI) to navigate between destinations without a human driver (also known as an autonomous car or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/autonomous-self-driving-cars-market-future-of-automobile-industry-to-forecast-2029",
-      "originalUrl": "https://www.digitaljournal.com/pr/autonomous-self-driving-cars-market-future-of-automobile-industry-to-forecast-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/10/Glassy_carbon_and_a_1cm3_graphite_cube_HP68-79-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T02:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-hsbc-and-silent-eight-expand-machine-learning-partnership.md",
-      "title": "HSBC and Silent Eight Expand Machine Learning Partnership",
-      "excerpt": "Silent Eight announced an extension to its existing partnership with HSBC to tackle financial crime. The new service will cover the deployment of Negative News Screening that leverages machine learning to identify individuals who pose a greater risk for money laundering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.malaysiasun.com/news/272901056/hsbc-and-silent-eight-expand-machine-learning-partnership",
-      "originalUrl": "https://www.malaysiasun.com/news/272901056/hsbc-and-silent-eight-expand-machine-learning-partnership",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1915578/Silent_Eight___Black_for_Screen_Logo.jpg",
-          "width": 400,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Malaysia Sun",
-        "domain": "malaysiasun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals.md",
-      "title": "Kami Vision Rolls Out ‘Kami Home Smart Detect’ to Distinguish Between Humans, Vehicles and Animals",
-      "excerpt": "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions and cameras to enterprises, SMBs and consumers, announces the release of Smart Detect now available on nearly all Kami Home security products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals/article_275ad992-ebb3-5bb8-a67e-66783a0ee6c9.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals/article_275ad992-ebb3-5bb8-a67e-66783a0ee6c9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/f3/bf3095ee-8942-58d3-b392-9f22be46304b/6345316f26746.image.jpg?crop=605%2C318%2C0%2C497&resize=605%2C318&order=crop%2Cresize",
-          "width": 605,
-          "height": 318,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-get-up-to-44-off-roborock-robot-vacuums-mops-until-october-15.md",
-      "title": "Get up to 44% off Roborock robot vacuums & mops until October 15",
-      "excerpt": "Get great deals on Roborock's lineup of robot vacuum cleaners and mops during the Amazon Prime Early Access Sale, starting from October 11.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/22/10/11/get-up-to-44-off-roborock-robot-vacuums-mops-until-october-15",
-      "originalUrl": "https://appleinsider.com/articles/22/10/11/get-up-to-44-off-roborock-robot-vacuums-mops-until-october-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/50636-99726-roborock-header-xl.jpg",
-          "width": 1312,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/22/10/11/get-up-to-44-off-roborock-robot-vacuums-mops-until-october-15/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/10/11/get-up-to-44-off-roborock-robot-vacuums-mops-until-october-15/amp/",
-      "publishedDateTime": "2022-10-11T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-the-growing-influence-of-robots-on-the-auto-industry.md",
-      "title": "The Growing Influence Of Robots On The Auto Industry",
-      "excerpt": "Despite the century-old notion of robots working within the auto industry, society continues to think of robots as limited, human substitutes. But that will likely change in the coming years as they become increasingly capable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevetengler/2022/10/11/the-growing-influence-of-robots-on-the-auto-industry/",
-      "originalUrl": "https://www.forbes.com/sites/stevetengler/2022/10/11/the-growing-influence-of-robots-on-the-auto-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/632cdbcca57003a0d144b11e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2022/10/11/the-growing-influence-of-robots-on-the-auto-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2022/10/11/the-growing-influence-of-robots-on-the-auto-industry/amp/",
-      "publishedDateTime": "2022-10-11T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

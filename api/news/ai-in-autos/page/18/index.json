@@ -2,6 +2,249 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-09-18-global-artificial-intelligence-market-to-reach-450-bn-in-2022.md",
+      "title": "Global artificial intelligence market to reach $450 bn in 2022",
+      "excerpt": "The Artificial Intelligence (AI) market value is expected to reach nearly $450 billion this year and maintain a year-over-year growth rate in the next 5 years, a new report has forecast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/tech/news/global-artificial-intelligence-market-to-reach-450-bn-in-2022/articleshow/94269565.cms",
+      "originalUrl": "https://www.businessinsider.in/tech/news/global-artificial-intelligence-market-to-reach-450-bn-in-2022/articleshow/94269565.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/94269574.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/global-artificial-intelligence-market-to-reach-450-bn-in-2022/amp_articleshow/94269565.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/global-artificial-intelligence-market-to-reach-450-bn-in-2022/amp_articleshow/94269565.cms",
+      "publishedDateTime": "2022-09-17T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-17-would-you-be-okay-getting-a-doctor-less-surgery.md",
+      "title": "Would You Be Okay Getting a Doctor-less Surgery?",
+      "excerpt": "Robots could someday be fully autonomous in operating rooms. Their biggest challenge might have nothing to do with the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/technology/archive/2022/09/autonomous-robot-surgery-operations-medicine/671449/?amp;amp;amp;amp",
+      "originalUrl": "https://www.theatlantic.com/technology/archive/2022/09/autonomous-robot-surgery-operations-medicine/671449/?amp;amp;amp;amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/v9szENxl4Ozc3JpxnMJuY7ExRyc=/0x64:2995x1624/1200x625/media/img/mt/2022/09/GettyImages_636182204/original.jpg",
+          "width": 1200,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-17T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-17-global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-2026.md",
+      "title": "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026",
+      "excerpt": "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/09/16/9675469.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/09/16/9675469.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
+          "width": 476,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-17-2-artificial-intelligence-growth-stocks-shaping-the-future-of-technology.md",
+      "title": "2 Artificial-Intelligence Growth Stocks Shaping the Future of Technology",
+      "excerpt": "And artificial intelligence (AI ... speech recognition, robotics, and self-driving cars. The company stumbled in its most recent quarter. Revenue rose just 3% to $6.7 billion, and non-GAAP ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/09/16/2-growth-stocks-shaping-the-future-of-technology/",
+      "originalUrl": "https://www.fool.com/investing/2022/09/16/2-growth-stocks-shaping-the-future-of-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/700387/artificial-intelligence-1.jpg",
+          "width": 2070,
+          "height": 1449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day.md",
+      "title": "Top 5 Tech Trends We Should All Know Ahead Of Tesla AI Day",
+      "excerpt": "Tesla’s AI Day is on the horizon. Here are some of the top trends emerging in the field of artificial intelligence that you should know about before the big event later this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/09/16/top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/16/top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6324946af1e93a0874b00cbb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 890,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/16/top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/16/top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day/amp/",
+      "publishedDateTime": "2022-09-16T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-my-tesla-full-self-driving-beta-1069-first-drive-was-a-fail.md",
       "title": "My Tesla Full Self-Driving Beta 10.69 first drive was a fail",
       "excerpt": "I went on my first test drive of Tesla Full Self-Driving Beta 10.69.2, the latest big FSD software update, and unfortunately, it was a fail.",
@@ -1126,215 +1369,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-baron-funds-sees-significant-upside-for-baidu-bidu.md",
-      "title": "Baron Funds Sees Significant Upside for Baidu (BIDU)",
-      "excerpt": "Baron Funds discussed stocks like Baidu, Inc. (NASDAQ:BIDU) in the second quarter investor letter. Headquartered in Beijing, China, Baidu, Inc. (NASDAQ:BIDU) is an internet search service provider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/baron-funds-sees-significant-upside-for-baidu-bidu-1064643/",
-      "originalUrl": "https://www.insidermonkey.com/blog/baron-funds-sees-significant-upside-for-baidu-bidu-1064643/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T22:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
-      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
-      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 09/13/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-54",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-54",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-new-method-for-comparing-neural-networks-exposes-how-artificial-intelligence-works.md",
-      "title": "New method for comparing neural networks exposes how artificial intelligence works",
-      "excerpt": "Neural networks are high performance, but fragile. For example, self-driving cars use neural networks to detect signs. When conditions are ideal, they do this quite well. However, the smallest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/964598",
-      "originalUrl": "https://www.eurekalert.org/news-releases/964598",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/87aac4f7-8dbc-46a2-a15c-f5e5bf4d2be7/Rendition/thumbnail/Content/Public",
-          "width": 263,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-unlocking-human-like-perception-in-self-driving-vehicles.md",
-      "title": "Unlocking human-like perception in self-driving vehicles",
-      "excerpt": "Researchers at the University of Freiburg have introduced the amodal panoptic segmentation task whose solution may soon enable more human-like environment perception for self-driving vehicles through AI algorithms • Unveiled at the AutoSens conference in the Autoworld Museum in Brussels • “We are confident that novel AI algorithms for this task will enable robots to emulate the visual experience that humans have by perceiving complete physical structures of objects,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/964648",
-      "originalUrl": "https://www.eurekalert.org/news-releases/964648",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-gms-cruise-robotaxi-unit-to-offer-driverless-rides-in-phoenix-austin-this-year.md",
-      "title": "GM's Cruise robotaxi unit to offer driverless rides in Phoenix, Austin this year",
-      "excerpt": "SAN FRANCISCO, Sept 12 (Reuters) - General Motors' (GM.N) self-driving technology unit Cruise plans to expand its driverless ride service to include Phoenix, Arizona, and Austin, Texas ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/gms-self-driving-car-unit-cruise-offer-driverless-rides-phoenix-austin-this-year-2022-09-12/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/gms-self-driving-car-unit-cruise-offer-driverless-rides-phoenix-austin-this-year-2022-09-12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/3saX3QBHoGIenMphqPYPFbhgZLQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V5CSTKDQWJOHDLDSBODB4WRHBU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

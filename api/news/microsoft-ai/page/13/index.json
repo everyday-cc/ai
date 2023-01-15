@@ -2,6 +2,178 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-09-27-alzheimers-treatment-slowed-cognitive-decline-in-closely-watched-clinical-trial.md",
+      "title": "Alzheimer’s treatment slowed cognitive decline in closely watched clinical trial",
+      "excerpt": "A n investigational Alzheimer’s disease treatment from Biogen and Eisai slowed the rate of cognitive decline by 27% in a clinical trial, the companies said Tuesday, meeting the goals of a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statnews.com/2022/09/27/alzheimers-treatment-slowed-cognitive-decline-in-closely-watched-clinical-trial/",
+      "originalUrl": "https://www.statnews.com/2022/09/27/alzheimers-treatment-slowed-cognitive-decline-in-closely-watched-clinical-trial/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statnews.com/wp-content/uploads/2022/06/AdobeStock_205319783-1024x576.jpeg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-new-alzheimers-drug-slows-cognitive-decline-clinical-trial-finds.md",
+      "title": "New Alzheimer's drug slows cognitive decline, clinical trial finds",
+      "excerpt": "The companies announced the trial's success in a press release Tuesday, saying that cognitive decline slowed 27% in patients using their drug — called lecanemab — over 18 months compared with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/clinical-trial-finds-new-alzheimers-drug-slows-cognitive-decline-2022-9",
+      "originalUrl": "https://www.businessinsider.com/clinical-trial-finds-new-alzheimers-drug-slows-cognitive-decline-2022-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6333afdd9ac0610018e7fc4e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/clinical-trial-finds-new-alzheimers-drug-slows-cognitive-decline-2022-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clinical-trial-finds-new-alzheimers-drug-slows-cognitive-decline-2022-9?amp",
+      "publishedDateTime": "2022-09-26T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto.md",
+      "title": "It is time to shun C, C++ languages for new projects: Microsoft Azure CTO",
+      "excerpt": "\"Rust\" is now being used within the Android Open Source Project (AOSP) at Meta, at Amazon Web Services (AWS) and Microsoft, reports ZDNet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html",
+      "originalUrl": "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestatesman.com/wp-content/uploads/2022/09/0da9bd4f8fc06cb457a2a9b3d6a6f0cc.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html/amp",
+      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html/amp",
+      "publishedDateTime": "2022-09-25T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Statesman",
+        "domain": "thestatesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-24-important-for-brain-health-blueberries-may-reverse-cognitive-decline-study.md",
+      "title": "'Important for brain health’: Blueberries may reverse cognitive decline - study",
+      "excerpt": "You can unsubscribe at any time. More info Cognitive decline mainly occurs in older people, as the brain ages some of its functions begin to deteriorate, often at different rates in different people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/health/1673072/cognitive-decline-eating-wild-blueberries",
+      "originalUrl": "https://www.express.co.uk/life-style/health/1673072/cognitive-decline-eating-wild-blueberries",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-24T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-23-microsofts-new-security-chief-looks-to-ai-to-fight-hackers-qa.md",
       "title": "Microsoft’s New Security Chief Looks to AI to Fight Hackers: Q&A",
       "excerpt": "His mission was to  chart a future course for the security business, which now generates more than $15 billion annually. Bell reorganized, combining groups scattered across businesses like Azure cloud,",
@@ -1174,180 +1346,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-diet-could-play-a-role-in-cognitive-function-across-diverse-races-and-ethnicities.md",
-      "title": "Diet could play a role in cognitive function across diverse races and ethnicities",
-      "excerpt": "Dietary choices and their consequences may certainly influence cognitive function ... Metabolon offers biochemical profiling services and is developing molecular diagnostic assays detecting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/964717",
-      "originalUrl": "https://www.eurekalert.org/news-releases/964717",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-legendary-cognitive-scientist-daniel-osherson-scientist-of-rare-talent-and-excellent-and-caring-mentor-dies-at-73.md",
-      "title": "'Legendary' cognitive scientist Daniel Osherson, 'scientist of rare talent' and 'excellent and caring mentor,' dies at 73",
-      "excerpt": "4 from complications due to Parkinson’s. He was 73 years old. One of the world’s leading experts on cognitive science, Osherson did foundational work on reasoning, epistemology, inductive logic, probabilistic thinking, concepts and categories.",
-      "sourceUrl": null,
-      "webUrl": "https://www.princeton.edu/news/2022/09/16/legendary-cognitive-scientist-daniel-osherson-scientist-rare-talent-and-excellent",
-      "originalUrl": "https://www.princeton.edu/news/2022/09/16/legendary-cognitive-scientist-daniel-osherson-scientist-rare-talent-and-excellent",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2022/09/20170607_OshersonD_DJA_005.jpg?itok=XjQ5gfxV",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Princeton University",
-        "domain": "princeton.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-oracle-announces-mysql-heatwave-on-aws.md",
-      "title": "Oracle announces MySQL HeatWave on AWS",
-      "excerpt": "Oracle recently announced that MySQL HeatWave is available on Amazon Web Services (AWS). MySQL HeatWave is the only service that combines OLTP,",
-      "sourceUrl": null,
-      "webUrl": "https://manilastandard.net/tech/314260496/oracle-announces-mysql-heatwave-on-aws.html",
-      "originalUrl": "https://manilastandard.net/tech/314260496/oracle-announces-mysql-heatwave-on-aws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manilastandard.net/wp-content/uploads/2022/09/Mina-Lim-Managing-Director-Oracle-Philippines.jpg",
-          "width": 603,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manilastandard",
-        "domain": "manilastandard.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-oracle-brings-heatwave-to-aws.md",
-      "title": "Oracle Brings HeatWave To AWS",
-      "excerpt": "Senior Analyst, Servers, Matt Kimball, dives as MySQL HeatWave is a cloud database service that has enabled Oracle to create differentiation in the open-source MySQL market. MySQL HeatWave is available natively on AWS,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6323c5bfd0627c92277a03a5/0x0.png?format=png&width=1200",
-          "width": 936,
-          "height": 444,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/amp/",
-      "publishedDateTime": "2022-09-15T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

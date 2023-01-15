@@ -2,6 +2,517 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-01-06-google-and-deepmind-share-work-on-medical-chatbot-med-palm.md",
+      "title": "Google and DeepMind share work on medical chatbot Med-PaLM",
+      "excerpt": "Google and DeepMind have developed an artificial intelligence-powered chatbot tool called Med-PaLM designed to generate “safe and helpful",
+      "sourceUrl": null,
+      "webUrl": "https://pharmaphorum.com/news/google-and-deepmind-share-work-on-medical-chatbot-med-palm/",
+      "originalUrl": "https://pharmaphorum.com/news/google-and-deepmind-share-work-on-medical-chatbot-med-palm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pharmaphorum.com/wp-content/uploads/2021/12/iStock-1265879509.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-06T03:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pharmaphorum",
+        "domain": "pharmaphorum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-amd-unveils-monster-instinct-mi300-hybrid-cpu-gpu-ai-accelerator-and-skynet-smiles.md",
+      "title": "AMD Unveils Monster Instinct MI300 Hybrid CPU-GPU AI Accelerator And Skynet Smiles",
+      "excerpt": "AMD's RDNA 3 GPU architecture found in the Radeon RX 7900 ... CEO Dr. Lisa Su announced the Instinct MI300, the latest in AMD's AI and other compute accelerators with a big focus on sustainability ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/amd-announces-instinct-mi300-accelerator-ai",
+      "originalUrl": "https://hothardware.com/news/amd-announces-instinct-mi300-accelerator-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/60568/content/small_amd-lisa-su-with-mi300.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/amd-announces-instinct-mi300-accelerator-ai",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-announces-instinct-mi300-accelerator-ai",
+      "publishedDateTime": "2023-01-05T22:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-amazon-alexa-to-allow-voice-initiated-electric-vehicle-charging.md",
+      "title": "Amazon Alexa To Allow Voice-initiated Electric Vehicle Charging",
+      "excerpt": "Now, automakers are quickly bringing this convenience to the cabins of vehicles. Voice recognition has been around for a few decades now and while it still isn't 100 percent proficient ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/amazon-alexa-allow-voice-initiated-electric-vehicle-charging-1770504",
+      "originalUrl": "https://www.newsweek.com/amazon-alexa-allow-voice-initiated-electric-vehicle-charging-1770504",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T21:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-artificial-intelligence-is-just-getting-started.md",
+      "title": "Artificial intelligence is just getting started",
+      "excerpt": "I am writing in response to Douglas Rooks’ op-ed piece about the limits of computers and artificial intelligence (“A prescription for the new year,” Dec. 29). While I agree with Rooks more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.centralmaine.com/2023/01/04/artificial-intelligence-is-just-getting-started/",
+      "originalUrl": "https://www.centralmaine.com/2023/01/04/artificial-intelligence-is-just-getting-started/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kennebec Journal",
+        "domain": "centralmaine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-lenovo-introduces-the-worlds-first-dedicated-ai-chip-on-a-gaming-laptop.md",
+      "title": "Lenovo Introduces The ‘World’s First’ Dedicated AI Chip On A Gaming Laptop",
+      "excerpt": "Lenovo spent a lot of time at CES 2023 promoting its new LA AI chip, which it said is the world’s first dedicated AI chip on a gaming laptop. The new chip will come installed on the new Lenovo ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kotaku.com.au/2023/01/lenovo-ces-2023/",
+      "originalUrl": "https://www.kotaku.com.au/2023/01/lenovo-ces-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/12/23/gizmodo-8.png?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kotaku.com.au/2023/01/lenovo-ces-2023/amp/",
+      "cdnAmpWebUrl": "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2023/01/lenovo-ces-2023/amp/",
+      "publishedDateTime": "2023-01-05T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kotaku Australia",
+        "domain": "kotaku.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-ceva-lg-to-bring-intelligent-vision-processing-to-smart-home-appliances.md",
+      "title": "CEVA, LG to Bring Intelligent Vision Processing to Smart Home Appliances",
+      "excerpt": "CEVA, the leading licensor of wireless connectivity and smart sensing technologies and co-creation solutions, announced that LG Electronics (LG) has licensed and deployed the CEVA-XM4 intelligent vision DSP in its Edge AI system-on-chip (SoC) 'LG8111' to advance the user experience of a new generation of smart home appliances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/technology-solutions/29708-ceva-lg-to-bring-intelligent-vision-processing-to-smart-home-appliances",
+      "originalUrl": "https://www.thefastmode.com/technology-solutions/29708-ceva-lg-to-bring-intelligent-vision-processing-to-smart-home-appliances",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/27716503839b65af140e38aa28d5c6df.jpg?t=20230106_011855",
+          "width": 752,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T17:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-ibms-watson-crashes-the-cloud-ai-party.md",
+      "title": "IBM's Watson Crashes the Cloud AI Party",
+      "excerpt": "After wowing the world way back in 2011 by defeating humans at the TV game show \"Jeopardy!\" with early-stage AI tech, IBM's Watson is making a bit of a comeback. Cloud platform rankings typically start with the \"Big 3\" of AWS, Azure and Google Cloud and ...",
+      "sourceUrl": null,
+      "webUrl": "https://virtualizationreview.com/articles/2023/01/05/cloud-ai.aspx",
+      "originalUrl": "https://virtualizationreview.com/articles/2023/01/05/cloud-ai.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteWaveSmall.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T16:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Virtualization Review",
+        "domain": "virtualizationreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-applications-of-artificial-intelligence-across-various-industries.md",
+      "title": "Applications of Artificial Intelligence Across Various Industries",
+      "excerpt": "Potential applications of artificial intelligence continue to expand as more people adopt the technology AI usage is particularly prominent in finance, digital spaces (like social media ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/01/06/applications-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/01/06/applications-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63b8687bf803029a04f26064/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/01/06/applications-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/06/applications-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-deep-learning-algorithm-can-hear-alcohol-in-voice.md",
+      "title": "Deep learning algorithm can hear alcohol in voice",
+      "excerpt": "More information: Abraham Albert Bonela et al, Audio-based Deep Learning Algorithm to Identify Alcohol Inebriation (ADLAIA), Alcohol (2022). DOI: 10.1016/j.alcohol.2022.12.002",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-01-deep-algorithm-alcohol-voice.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-01-deep-algorithm-alcohol-voice.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-driverless-car-market-research-report-analysis-by-competitors-revenue-sales-and-market-size-2023-to-2028.md",
+      "title": "Driverless Car Market Research Report Analysis by Competitors, Revenue, Sales and Market Size 2023 To 2028",
+      "excerpt": "Jan 06, 2023 (The Expresswire) -- \"Driverless Car Market\" Size, Share and Trends Analysis Report - By Applications (Commerical, Individual), By Types (Semi-Autonomous, Fully Autonomous), By ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/driverless-car-market-research-report-analysis-by-competitors-revenue-sales-and-market-size-2023-to-2028-2023-01-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/driverless-car-market-research-report-analysis-by-competitors-revenue-sales-and-market-size-2023-to-2028-2023-01-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-jerome-pesenti-entrepreneur-and-former-head-of-ai-at-meta-joins-owkins-board-of-directors.md",
+      "title": "Jerome Pesenti, entrepreneur and former head of AI at Meta, joins Owkin’s board of directors",
+      "excerpt": "To turbocharge its mission to become the world’s leading AI biotech company, Owkin has appointed leading entrepreneur and AI innovator Jerome Pesenti to its board of directors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/975883",
+      "originalUrl": "https://www.eurekalert.org/news-releases/975883",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/08456ef0-1b9f-4f52-9722-9e53a41fbd59/Rendition/thumbnail/Content/Public",
+          "width": 1440,
+          "height": 973,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-speech-analysis-can-help-measure-diagnosis-severity-and-onset-of-mental-illness.md",
+      "title": "Speech analysis can help measure diagnosis, severity, and onset of mental illness",
+      "excerpt": "Objective measurement of psychiatric disorders has long proved challenging. Yet, there is ample evidence that analysis of speech patterns can accurately diagnose depression and psychosis, measure their severity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/975876",
+      "originalUrl": "https://www.eurekalert.org/news-releases/975876",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-06-were-stuck-in-the-ai-ethics-fishbowl-so-how-do-we-get-out.md",
       "title": "We're stuck in the AI ethics fishbowl - so how do we get out?",
       "excerpt": "It’s time to take a critical look at AI Ethics. What do we hope to accomplish? Law enforcement, marketers, hospitals and other bodies apply artificial intelligence (AI) to decide on matters such as: who is profiled as a criminal, who is likely to buy ...",
@@ -580,509 +1091,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-using-artificial-intelligence-to-gain-insights-into-personality.md",
-      "title": "Using artificial intelligence to gain insights into personality",
-      "excerpt": "While those questions are typically devised by subject matter experts, Hernandez has suggested an alternative source—artificial intelligence. Working with research consultant Weiwen Nie of Hogan ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-artificial-intelligence-gain-insights-personality.html",
-      "originalUrl": "https://phys.org/news/2023-01-artificial-intelligence-gain-insights-personality.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/using-artificial-intel.jpg",
-          "width": 800,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-artificial-intelligence-gain-insights-personality.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-artificial-intelligence-gain-insights-personality.amp",
-      "publishedDateTime": "2023-01-05T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-continental-partners-with-ai-chip-firm-ambarella-on-autonomous-driving.md",
-      "title": "Continental partners with AI chip firm Ambarella on autonomous driving",
-      "excerpt": "BERLIN, Jan 5 (Reuters) - Germany's Continental (CONG.DE) and California-based artificial intelligence chip firm Ambarella (AMBA.O) announced a partnership on Thursday to make software and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/continental-partners-with-ai-chip-firm-ambarella-autonomous-driving-2023-01-04/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/continental-partners-with-ai-chip-firm-ambarella-autonomous-driving-2023-01-04/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/7XVrCeBw_HDdtI3sVdtwJQYYNIM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BUICUSJGKBLOTAXLFROW7SVOHE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T03:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-artificial-intelligence-and-machine-learning-in-2023.md",
-      "title": "Artificial Intelligence and Machine Learning in 2023",
-      "excerpt": "As 2022 drew to a close, once again the overblown hype surrounding fully automated driverless trucking ... significant—new kid on the artificial intelligence (AI) block is the family of natural ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aei.org/technology-and-innovation/artificial-intelligence-and-machine-learning-in-2023/",
-      "originalUrl": "https://www.aei.org/technology-and-innovation/artificial-intelligence-and-machine-learning-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Enterprise Institute",
-        "domain": "aei.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-syntiant-unveils-ndp115-neural-decision-processor-at-ces-2023.md",
-      "title": "Syntiant Unveils NDP115 Neural Decision Processor at CES 2023",
-      "excerpt": "Able to run speech inferences at 280 microwatts, the NDP115 is designed to natively run multiple deep neural networks on a variety of architectures, such as CNNs, RNNs and fully connected networks. Ideal for close-talk, far-field, keyword speech and audio ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/news/53266/syntiant-neural-decision-processor.html",
-      "originalUrl": "https://www.design-reuse.com/news/53266/syntiant-neural-decision-processor.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T01:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-algorithm-produces-one-of-the-best-solutions-to-molecules-schrodinger-equations-yet.md",
-      "title": "Algorithm produces one of the best solutions to molecules’ Schrödinger equations yet",
-      "excerpt": "A new deep-learning algorithm from researchers in Austria has produced more accurate numerical solutions to the Schrödinger equation than ever before for a number of different molecules at relatively modest computational cost – although the work itself may subsequently have been surpassed by research from Google’s DeepMind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chemistryworld.com/news/algorithm-produces-one-of-the-best-solutions-to-molecules-schrödinger-equations-yet/4016745.article",
-      "originalUrl": "https://www.chemistryworld.com/news/algorithm-produces-one-of-the-best-solutions-to-molecules-schrödinger-equations-yet/4016745.article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/5/7/9/523579_shutterstock_145937125401_553243.jpg",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chemistry World",
-        "domain": "chemistryworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-deep-learning-lets-algorithm-produce-best-solutions-to-molecules-schrodinger-equations-yet.md",
-      "title": "Deep learning lets algorithm produce best solutions to molecules’ Schrödinger equations yet",
-      "excerpt": "A new deep-learning algorithm from researchers in Austria produces more accurate numerical solutions to the Schrödinger equation than ever before for a number of different molecules at relatively modest computational cost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chemistryworld.com/news/deep-learning-lets-algorithm-produce-best-solutions-to-molecules-schrödinger-equations-yet/4016745.article",
-      "originalUrl": "https://www.chemistryworld.com/news/deep-learning-lets-algorithm-produce-best-solutions-to-molecules-schrödinger-equations-yet/4016745.article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chemistry World",
-        "domain": "chemistryworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-double-clicking-on-cloud-propelling-apacs-space-industry-with-awss-clint-crosier.md",
-      "title": "Double-clicking on cloud propelling Apac’s space industry with AWS’s Clint Crosier",
-      "excerpt": "Interestingly, today’s space industry is exploring the use of business technologies — especially cloud infrastructure and cloud-based solutions — to reduce the cost of gathering data and accelerate time to insights,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theedgesingapore.com/digitaledge/cxos/double-clicking-cloud-propelling-apacs-space-industry-awss-clint-crosier",
-      "originalUrl": "https://www.theedgesingapore.com/digitaledge/cxos/double-clicking-cloud-propelling-apacs-space-industry-awss-clint-crosier",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Edge Singapore",
-        "domain": "theedgesingapore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-fintech-industry-must-transform-to-help-underserved-communities.md",
-      "title": "Fintech Industry Must Transform to Help Underserved Communities",
-      "excerpt": "Rapid growth of non-bank financial services requires careful regulation to balance competition with access, transparency, and privacy protection. Morgan Lewis’s Robin Nunn considers alternative credit options that can mean the difference between financial well-being and hardship.",
-      "sourceUrl": null,
-      "webUrl": "https://news.bloomberglaw.com/us-law-week/fintech-industry-must-transform-to-help-underserved-communities",
-      "originalUrl": "https://news.bloomberglaw.com/us-law-week/fintech-industry-must-transform-to-help-underserved-communities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/3fe7ac7/2147483647/legacy_thumbnail/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F4d%2F35%2F7ff188e042e9a60d7f304cd7c604%2Flaw-insights-outlook-v1.png",
-          "width": 960,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.bloomberglaw",
-        "domain": "bloomberglaw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-chinas-baidu-operates-driverless-taxi-night-service-in-wuhan.md",
-      "title": "China's Baidu operates driverless taxi night service in Wuhan",
-      "excerpt": "Chinese tech giant Baidu announced that it has expanded the commercial operation area and times of its driverless taxi service in central China's Wuhan. This",
-      "sourceUrl": null,
-      "webUrl": "https://ukranews.com/en/news/904800-china-s-baidu-operates-driverless-taxi-night-service-in-wuhan",
-      "originalUrl": "https://ukranews.com/en/news/904800-china-s-baidu-operates-driverless-taxi-night-service-in-wuhan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T00:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Новости Украины",
-        "domain": "ukranews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-healthcare-ai-market-2023-swot-analysis-by-players-continues-explosive-growth-by-2028.md",
-      "title": "Healthcare AI Market 2023 : SWOT Analysis by Players Continues Explosive Growth by 2028",
-      "excerpt": "Pages Report] Rising demand for Medical Devices & Consumables Industry will drive the Healthcare AI segment growth over the next five years. Global Market Analysis for Health",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-swot-analysis-by-players-continues-explosive-growth-by-2028-2023-01-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-swot-analysis-by-players-continues-explosive-growth-by-2028-2023-01-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T23:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-machine-learning-framework-market-2023-global-trends-size-segments-forces-analysis-revenue-challenges-and-growth-forecast-to-2028.md",
-      "title": "Machine Learning Framework Market 2023: Global Trends, Size, Segments, Forces Analysis, Revenue, Challenges and Growth Forecast to 2028",
-      "excerpt": "Global Machine Learning Framework Market report gives comprehensive insights into market size, share, growth trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-framework-market-2023-global-trends-size-segments-forces-analysis-revenue-challenges-and-growth-forecast-to-2028-2023-01-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-framework-market-2023-global-trends-size-segments-forces-analysis-revenue-challenges-and-growth-forecast-to-2028-2023-01-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T23:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-tencent-cloud-named-as-major-player-in-idc-marketscape-worldwide-general-purpose-computer-vision-ai-software-platforms-2022-vendor-assessment.md",
-      "title": "Tencent Cloud Named as Major Player in IDC MarketScape: Worldwide General-Purpose Computer Vision AI Software Platforms 2022 Vendor Assessment",
-      "excerpt": "Tencent Cloud – the cloud business of global technology company Tencent, today announced that it has been named a Major Player in the IDC MarketScape:",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/tencent-cloud-named-major-player-idc-marketscape-worldwide-general-purpose-computer-vision",
-      "originalUrl": "https://www.asiaone.com/business/tencent-cloud-named-major-player-idc-marketscape-worldwide-general-purpose-computer-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jan2023/pr-newswire_500_4_199.jpg?h=7de12b8a&itok=70c_cR8I",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T23:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -2,6 +2,162 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-11-how-to-get-started-with-natural-language-question-answering-technology.md",
+      "title": "How To Get Started With Natural Language Question Answering Technology",
+      "excerpt": "While natural language processing (NLP) and natural language understanding (NLU) can process the meaning and understand the sentiment of the human language, natural language question answering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/11/how-to-get-started-with-natural-language-question-answering-technology/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/11/how-to-get-started-with-natural-language-question-answering-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632dbbaa69b953ca837d2c1f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/11/how-to-get-started-with-natural-language-question-answering-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/11/how-to-get-started-with-natural-language-question-answering-technology/amp/",
+      "publishedDateTime": "2023-01-11T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing.md",
+      "title": "Imagination unveils IMG DXT GPU for mobile games with ray tracing",
+      "excerpt": "Imagination Technologies has unveiled its new IMG DXT graphics processing unit (GPU) for mobile games with ray-tracing features.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing/",
+      "originalUrl": "https://venturebeat.com/games/imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/imag.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing/amp/",
+      "publishedDateTime": "2023-01-11T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-large-language-models-will-define-artificial-intelligence.md",
+      "title": "Large Language Models Will Define Artificial Intelligence",
+      "excerpt": "In recent months, the Internet has been set ablaze with the introduction for the public beta of ChatGPT. People across the world shared their thoughts on such an incredible development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/01/11/large-language-models-will-define-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/01/11/large-language-models-will-define-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63bdffc05989c30c33964a41/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/01/11/large-language-models-will-define-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/01/11/large-language-models-will-define-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-01-11T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-11-machine-learning-as-a-service-mlaas-market-massive-growth-strikes-due-to-technological-innovation-during-2023-2029.md",
       "title": "Machine Learning as a Service (MLaaS) Market Massive Growth Strikes Due To Technological Innovation During 2023-2029",
       "excerpt": "Market Research Report is spread across 122 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. Machine Learning as a Service (MLaaS) Market Size is projected to Reach Multimillion USD by 2029,",
@@ -193,49 +349,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-artificial-intelligence-deep-learning-model-for-mapping-wetlands-yields-94-accuracy.md",
-      "title": "Artificial intelligence deep learning model for mapping wetlands yields 94% accuracy",
-      "excerpt": "Chesapeake Conservancy's data science team developed an artificial intelligence deep learning model for mapping wetlands, which resulted in 94% accuracy. Supported by EPRI, an independent ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.html",
-      "originalUrl": "https://phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc.jpg",
-          "width": 1384,
-          "height": 886,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.amp",
-      "publishedDateTime": "2023-01-10T14:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -939,6 +1052,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-11-artificial-intelligence-deep-learning-model-for-mapping-wetlands-yields-94-accuracy.md",
+      "title": "Artificial Intelligence Deep Learning Model for Mapping Wetlands Yields 94% Accuracy",
+      "excerpt": "Chesapeake Conservancy’s Data Science Team Publishes Article in “Science of the Total Environment” Annapolis, MD – Chesapeake Conservancy’s data science team developed an artificial intelligence deep learning model for mapping wetlands ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.directionsmag.com/pressrelease/12026",
+      "originalUrl": "https://www.directionsmag.com/pressrelease/12026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dmpublisher.s3.us-west-2.amazonaws.com/2023/January/10/7/ccd1cc1a-ce14-4801-8238-379214b79d70-sized",
+          "width": 800,
+          "height": 1065,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Directions Magazine",
+        "domain": "directionsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-11-jobs-in-artificial-intelligence-how-to-make-a-career-in-ai.md",
       "title": "Jobs In Artificial Intelligence - How To Make A Career In AI",
       "excerpt": "E, Tesla’s Fully Self Driving mode and *ahem* Q.ai, has shown us anything, it’s that artificial intelligence is here to stay.",
@@ -1031,135 +1187,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-research-shows-that-early-retirement-can-accelerate-cognitive-decline.md",
-      "title": "Research shows that early retirement can accelerate cognitive decline",
-      "excerpt": "BINGHAMTON, N.Y. – Early retirement can accelerate cognitive decline among the elderly, according to research conducted by faculty at Binghamton University, State University of New York.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/976070",
-      "originalUrl": "https://www.eurekalert.org/news-releases/976070",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "Artificial intelligence (AI) is already a leading technology ... The company's Amazon Web Services (AWS) holds the largest cloud market share with 34% right now. AWS offers a myriad of AI-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/01/10/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "originalUrl": "https://www.fool.com/investing/2023/01/10/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/715551/young-woman-speaking-into-smartphone-voice-assistant-siri-artificial-intelligence-ai.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T05:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-examples-of-natural-language-processing.md",
-      "title": "Examples of Natural Language Processing",
-      "excerpt": "Natural Language Processing will also improve with artificial intelligence and augmented analytics (NLP) development. While Artificial Intelligence (AI) and natural language processing (NLP) may conjure thoughts of robots of the future, NLP is already at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.themanufacturer.com/press-releases/examples-of-natural-language-processing/",
-      "originalUrl": "https://www.themanufacturer.com/press-releases/examples-of-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/01/04225930/AdobeStock_520920052.-NLP.jpg",
-          "width": 1100,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T05:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "themanufacturer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-19-genrobotics-expands-rd-facility-to-technocity-for-healthcare-robotics.md",
+      "title": "Genrobotics expands R&D facility to Technocity for healthcare robotics",
+      "excerpt": "The company said the centre opened at Technocity, Thiruvananthapuram, will strengthen its R&D for healthcare products with special focus on developing healthcare robots. State Health Minister ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/genrobotics-expands-rd-facility-to-technocity-for-healthcare-robotics-9731851.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/genrobotics-expands-rd-facility-to-technocity-for-healthcare-robotics-9731851.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/12/Technocity.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/genrobotics-expands-rd-facility-to-technocity-for-healthcare-robotics-9731851.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/genrobotics-expands-rd-facility-to-technocity-for-healthcare-robotics-9731851.html/amp",
+      "publishedDateTime": "2022-12-19T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-12-19-how-is-artificial-intelligence-shaping-the-audits-of-financial-statements.md",
       "title": "How Is Artificial Intelligence Shaping The Audits Of Financial Statements?",
       "excerpt": "A recent study demonstrates that the use of artificial intelligence is significantly improving the quality and efficiency of financial statement audits, as well as displacing audit professionals.",
@@ -1282,49 +1326,6 @@
       "provider": {
         "name": "Mena FN",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-04-artificial-intelligence-in-diagnostics-market-2022-comprehensive-study-by-top-key-players-aidoc-medical-alivecor-ge-healthcare.md",
-      "title": "Artificial Intelligence in Diagnostics Market 2022: Comprehensive Study by Top Key Players Aidoc Medical, AliveCor, GE Healthcare",
-      "excerpt": "Artificial intelligence can support providers in a variety of patient care and smart healthcare systems. Artificial intelligence techniques ranging from machine learning to deep learning are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-diagnostics-market-2022-comprehensive-study-by-top-key-players-aidoc-medical-alivecor-ge-healthcare",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-diagnostics-market-2022-comprehensive-study-by-top-key-players-aidoc-medical-alivecor-ge-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Artificial-Intelligence-in-Diagnostics.jpg",
-          "width": 500,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-04T06:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

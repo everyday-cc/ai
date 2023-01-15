@@ -2,6 +2,241 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-23-baidu-benefits-from-online-advertising-recovery.md",
+      "title": "Baidu Benefits From Online Advertising Recovery",
+      "excerpt": "On Tuesday, the company also announced that Baidu was granted permission to conduct autonomous driving road test with an empty front row in Beijing. Apollo Go, Baidu's autonomous driving ride ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/380035/baidu-benefits-from-online-advertising-recovery.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/380035/baidu-benefits-from-online-advertising-recovery.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2022/11/22/baiduhq_G7YnEj7.jpg",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-how-artificial-intelligence-is-helping-improve-medical-processes.md",
+      "title": "How Artificial Intelligence Is Helping Improve Medical Processes",
+      "excerpt": "Every health center should consider the use of AI for the benefit of its processes so it can adapt to the modern world and its accelerated pace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637b9754ce792833b41a9f16/0x0.jpg?format=jpg&crop=5700,3207,x0,y206,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/amp/",
+      "publishedDateTime": "2022-11-22T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-baidu-beats-revenue-expectations-despite-continued-covid-worries.md",
+      "title": "Baidu Beats Revenue Expectations Despite Continued Covid Worries",
+      "excerpt": "Baidu on Tuesday became the latest Chinese technology company to report a return to annual growth, as it beat expectations for its third-quarter revenue. Baidu (ticker: BIDU)—often referred to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/baidu-beats-revenue-covid-china-51669111455",
+      "originalUrl": "https://www.barrons.com/articles/baidu-beats-revenue-covid-china-51669111455",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-317647/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/baidu-beats-revenue-covid-china-51669111455",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-beats-revenue-covid-china-51669111455",
+      "publishedDateTime": "2022-11-22T02:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-chinas-baidu-beats-q3-revenue-estimates-as-ad-sales-recover.md",
+      "title": "China's Baidu beats Q3 revenue estimates as ad sales recover",
+      "excerpt": "Baidu Core's non-online marketing revenue, an area including cloud and other AI businesses, grew by 25 per cent year on year to 6.5 billion yuan. The company has been focusing on self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/chinas-baidu-beats-q3-revenue-estimates-ad-sales-recover-3092551",
+      "originalUrl": "https://www.channelnewsasia.com/business/chinas-baidu-beats-q3-revenue-estimates-ad-sales-recover-3092551",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--lD1uZzJ0--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-22t090727z_1_lynxmpeial09f_rtroptp_3_china-tech.jpg?itok=VYk1kTUw",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T01:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-innovation-showdown-crypto-and-meta-vs-industry-40.md",
+      "title": "Innovation Showdown: Crypto And Meta Vs. Industry 4.0",
+      "excerpt": "Digital-industrial applications did not completely escape the hype, of course, and have triggered their share of disappointments. The reality of self-driving cars, for example, lags far behind the promise of a fully driver-less future — a future that ten years ago might have sounded almost within reach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/",
+      "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637bebf143f2b4ffba1a9f12/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/amp/",
+      "publishedDateTime": "2022-11-21T23:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-can-an-artificial-intelligence-be-considered-an-artist.md",
       "title": "Can an artificial intelligence be considered an artist?",
       "excerpt": "In the majority of fiction that concerns artificial intelligence (AI), it replaces us in almost every industry. Often, only the artistic fields are left untouched. Usually, a robot or AI showing capabilities to create a work is seen as a completion ...",
@@ -1117,242 +1352,6 @@
         "name": "AOL",
         "domain": "aol.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-try-out-ai-at-mohais-artificial-intelligence-exhibit.md",
-      "title": "Try out AI at MOHAI’s ‘Artificial Intelligence’ exhibit",
-      "excerpt": "“Artificial Intelligence ... You can watch what a self-driving car “sees,” or how a robotic animal programmed with AI figures out how to deal with obstacles. As with most of MOHAI, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/",
-      "originalUrl": "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/?amp=1",
-      "publishedDateTime": "2022-11-17T07:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-picture-limitless-creativity-at-your-fingertips.md",
-      "title": "Picture Limitless Creativity at Your Fingertips",
-      "excerpt": "Now picture Lee 43 years later, stumbling onto DALL-E, an artificial intelligence that generates original works ... “A huge portion of the entire usage is basically art therapy,” Holz, the Midjourney creator, tells me. “The images are not really ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/",
-      "originalUrl": "https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/637549891fb094c5b94def5a/master/pass/Engines-of-WOW_AI-Art.jpg",
-          "width": 4875,
-          "height": 3331,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/picture-limitless-creativity-ai-image-generators/amp",
-      "publishedDateTime": "2022-11-17T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-artificial-intelligence-ai-in-construction-market-overview-2022-to-2030-future-trends-and-forecast-by-autodesk-ibm-microsoft.md",
-      "title": "Artificial Intelligence (AI) in Construction Market Overview 2022 to 2030, Future Trends and Forecast | By -Autodesk, IBM, Microsoft",
-      "excerpt": "The assessment offers a thorough assessment of the Artificial Intelligence (AI) in Construction Market and helps market players to procure a footing in the business. It highlights fundamental market components like drivers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-overview-2022-to-2030-future-trends-and-forecast-by--autodesk-ibm-microsoft-2022-11-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-overview-2022-to-2030-future-trends-and-forecast-by--autodesk-ibm-microsoft-2022-11-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company.md",
-      "title": "Co-founder takes control of TuSimple amid federal probe into self-driving trucking company",
-      "excerpt": "TuSimple Holdings Inc. co-founder Mo Chen has taken control of the self-driving trucking company as federal authorities continue to investigate",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=hp_minor_pos26",
-      "originalUrl": "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=hp_minor_pos26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-315600/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T16:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data.md",
-      "title": "Parallel Domain says autonomous driving won’t scale without synthetic data",
-      "excerpt": "Parallel Domain raised $30 million to advance its synthetic data platform beyond autonomous driving and into drones & mobile computer vision.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/",
-      "originalUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/PD-Team.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/amp/",
-      "publishedDateTime": "2022-11-16T12:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

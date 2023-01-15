@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-15T18:31:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/01/r30424195/autofarm-auto-is-securing-5m-investment-to-research-develop-artificial-intelligence-on-defi-ai-fi"
 webUrl: "https://www.benzinga.com/pressreleases/23/01/r30424195/autofarm-auto-is-securing-5m-investment-to-research-develop-artificial-intelligence-on-defi-ai-fi"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Benzinga.com

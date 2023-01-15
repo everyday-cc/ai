@@ -2,6 +2,872 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-11-17-artificial-intelligence-products-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029.md",
+      "title": "Artificial Intelligence Products Market: A Detailed Analysis of Latest Market Trend with Growth Projections Through 2029",
+      "excerpt": "The prime objective of this Global \"Artificial Intelligence Products Market\" (2022) is to provide the insights on the post COVID-19 impact, and top to bottom analysis on the present state focuses on the major players and restraints for the key players.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029-2022-11-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029-2022-11-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T00:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-aiq-to-work-with-aws-to-accelerate-digital-transformation-in-energy-sector.md",
+      "title": "AIQ to work with AWS to accelerate digital transformation in energy sector",
+      "excerpt": "The companies will develop an Innovation Factory team who will work to develop new solutions that boost operational efficiency across the energy sector’s value chain",
+      "sourceUrl": null,
+      "webUrl": "https://meconstructionnews.com/55428/aiq-to-work-with-aws-to-accelerate-digital-transformation-in-energy-sector",
+      "originalUrl": "https://meconstructionnews.com/55428/aiq-to-work-with-aws-to-accelerate-digital-transformation-in-energy-sector",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://meconstructionnews.com/wp-content/uploads/2022/11/AIQ-and-AWS-Partnership_1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://meconstructionnews.com/55428/aiq-to-work-with-aws-to-accelerate-digital-transformation-in-energy-sector/amp",
+      "cdnAmpWebUrl": "https://meconstructionnews-com.cdn.ampproject.org/c/s/meconstructionnews.com/55428/aiq-to-work-with-aws-to-accelerate-digital-transformation-in-energy-sector/amp",
+      "publishedDateTime": "2022-11-16T22:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "meconstructionnews.com",
+        "domain": "meconstructionnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-lumiq-wins-aws-specialty-partner-of-the-year-2022-for-data-analytics-machine-learning-second-year-in-a-row.md",
+      "title": "LUMIQ wins AWS Specialty Partner of the Year 2022 - for Data, Analytics, & Machine Learning - second year in a row",
+      "excerpt": "India's leading Data & Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data, Analytics, and Machine Learning at the recent AWS Partner Summit in Bengaluru. The event saw Anil Kumble talking about his entrepreneurial journey and the evolution of the Indian tech landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1290553&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1290553&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1949765/LUMIQ_AWS_Partner_Summit_Award_2022.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T22:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-any-developer-can-be-a-space-developer-with-the-new-azure-orbital-space-sdk.md",
+      "title": "Any developer can be a space developer with the new Azure Orbital Space SDK",
+      "excerpt": "Today, we are announcing a crucial step towards democratizing access to space development, with the private preview release of Azure Orbital Space Software Development Kit(SDK)—a secure hosting platform and application kit designed to enable developers to create in the cloud and deploy and operate applications",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/any-developer-can-be-a-space-developer-with-the-new-azure-orbital-space-sdk/",
+      "originalUrl": "https://azure.microsoft.com/blog/any-developer-can-be-a-space-developer-with-the-new-azure-orbital-space-sdk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T22:00:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-machine-learning-as-a-service-mlaas-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028.md",
+      "title": "Machine Learning-as-a-Service (MLaaS) Industry 2022 Market Growth, Size, Share, Demand, Trends and Forecasts to 2028",
+      "excerpt": "Global Machine Learning-as-a-Service (MLaaS) Market (2022-2028) Research report offers in-depth analysis on market",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028-2022-11-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028-2022-11-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T21:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-what-technologies-have-the-potential-to-transform-computer-vision-by-the-end-of-2022.md",
+      "title": "What technologies have the Potential to Transform Computer Vision by the end of 2022?",
+      "excerpt": "Everyone and everything evolves. However, this change is sometimes positive, while it might be hostile with each passing day. The same is valid for technology, but the change is positive. The rate of technological change is so rapid that it can astound and even confide the people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tech-critter.com/what-technologies-have-the-potential-to-transform-computer-vision-by-the-end-of-2022/",
+      "originalUrl": "https://www.tech-critter.com/what-technologies-have-the-potential-to-transform-computer-vision-by-the-end-of-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2022/11/ion-fet-QRawWgV6gmo-unsplash.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tech-critter.com/amp/what-technologies-have-the-potential-to-transform-computer-vision-by-the-end-of-2022/",
+      "cdnAmpWebUrl": "https://www-tech--critter-com.cdn.ampproject.org/c/s/www.tech-critter.com/amp/what-technologies-have-the-potential-to-transform-computer-vision-by-the-end-of-2022/",
+      "publishedDateTime": "2022-11-16T21:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech-critter.com",
+        "domain": "tech-critter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-notion-ai-wants-to-be-your-new-writing-assistant.md",
+      "title": "Notion AI Wants To Be Your New Writing Assistant",
+      "excerpt": "Aside from that, Notion AI can speed up the research, understanding, and editing process for writers. The AI can, for example, analyze and summarize articles, pulling out critical",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6375be983ee8c63117f59b8f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/amp/",
+      "publishedDateTime": "2022-11-16T21:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-machine-learning-as-a-service-mlaas-market-size-enables-you-to-anticipate-market-changes-to-remain-ahead-of-your-competitors.md",
+      "title": "Machine Learning-as-a-Service (MLaaS) Market size Enables You to Anticipate Market Changes to Remain Ahead of Your Competitors",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Nov 17, 2022 (The Expresswire) -- Machine Learning-as-a-Service (MLaaS) Market [Spreadsheet of 96 Pages] explore investment in Market. It classify how companies deploying ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-enables-you-to-anticipate-market-changes-to-remain-ahead-of-your-competitors-2022-11-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-enables-you-to-anticipate-market-changes-to-remain-ahead-of-your-competitors-2022-11-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T21:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-deep-learning-unit-market-2023-future-growth-segments-latest-opportunities-industry-revenue-size-share-and-leading-players-forecast-to.md",
+      "title": "Deep Learning Unit Market 2023 | Future Growth Segments, Latest Opportunities, Industry Revenue, Size, Share and Leading Players Forecast to 2028",
+      "excerpt": "Nov 16, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Deep Learning Unit Market”",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-unit-market-2023-future-growth-segments-latest-opportunities-industry-revenue-size-share-and-leading-players-forecast-to-2028-2022-11-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-unit-market-2023-future-growth-segments-latest-opportunities-industry-revenue-size-share-and-leading-players-forecast-to-2028-2022-11-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T19:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-senior-suffering-cognitive-decline-surrenders-72-dogs-in-cabazon.md",
+      "title": "Senior Suffering Cognitive Decline Surrenders 72 Dogs in Cabazon",
+      "excerpt": "A Cabazon senior suffering cognitive decline surrendered more than 70 canines to the Riverside County Department of Animal Services Wednesday. A Cabazon senior suffering cognitive decline ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbclosangeles.com/news/local/senior-suffering-cognitive-decline-surrenders-72-canines-in-cabazon/3035872/",
+      "originalUrl": "https://www.nbclosangeles.com/news/local/senior-suffering-cognitive-decline-surrenders-72-canines-in-cabazon/3035872/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T19:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Los Angeles",
+        "domain": "nbclosangeles.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-toyota-bz-suv-concept-is-a-muscular-ev-powered-by-ai-assistant.md",
+      "title": "Toyota bZ SUV Concept Is a Muscular EV Powered by AI Assistant",
+      "excerpt": "This aggressive \"Beyond Zero\" EV showcases Toyota's sustainable design and brings the brand's conceptual AI assistant, Yui, along for the ride.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/toyota-bz-compact-suv-concept-debut/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/toyota-bz-compact-suv-concept-debut/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/109a15a636c7538e4e0a9a83b137bd86be2909e7/hub/2022/11/16/9aba124d-3c1f-423d-87e7-6b6d130b87fc/ogi-toyota-bz-compact-suv-concept-laas-2022-730053.jpg?auto=webp",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/toyota-bz-compact-suv-concept-debut/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/toyota-bz-compact-suv-concept-debut/",
+      "publishedDateTime": "2022-11-16T18:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-israel-deploys-remote-controlled-robotic-guns-in-west-bank.md",
+      "title": "Israel deploys remote-controlled robotic guns in West Bank",
+      "excerpt": "Robotic weapons are increasingly in operation around the world, with militaries expanding their use of drones to carry out lethal strikes from Ukraine to Ethiopia. Remote-controlled guns like the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2022-11-16/israel-deploys-remote-controlled-robotic-guns-in-west-bank",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2022-11-16/israel-deploys-remote-controlled-robotic-guns-in-west-bank",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/b3bbc03/2147483647/strip/true/crop/5455x3648+9+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6c%2F62%2Ffff55e966143d9ee01ff02211184%2F0d99c1e0017d40e4bd07a61b15c66b8c",
+          "width": 320,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2022-11-16/israel-deploys-remote-controlled-robotic-guns-in-west-bank?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2022-11-16/israel-deploys-remote-controlled-robotic-guns-in-west-bank?_amp=true",
+      "publishedDateTime": "2022-11-16T17:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-machine-learning-based-digital-marketing-tools-to-streamline-ops.md",
+      "title": "Machine Learning-based digital marketing tools to streamline ops",
+      "excerpt": "As the online market is flooded with competitors and user engagement requiring real-time content, fast computing in digital marketing has become crucial. Here is a list of Machine Learning and Artificial Intelligence-backed tools that help automate time-consuming manual tasks of marketing.",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/11/machine-learning-based-digital-marketing-tools",
+      "originalUrl": "https://yourstory.com/2022/11/machine-learning-based-digital-marketing-tools",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/digitalmarketing-1606898886644.png?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T17:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-two-israeli-companies-join-545m-innovation-program-in-abu-dhabi.md",
+      "title": "Two Israeli companies join $545m innovation program in Abu Dhabi",
+      "excerpt": "office in Abu Dhabi and an artificial intelligence (AI) tech hub as part of a new agreement. On Tuesday, Israeli fintech company Liquidity Group said it signed a deal to open an R&D center in the UAE.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/two-israeli-companies-join-545m-innovation-program-in-abu-dhabi/",
+      "originalUrl": "https://www.timesofisrael.com/two-israeli-companies-join-545m-innovation-program-in-abu-dhabi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2022/11/WhatsApp-Image-2022-11-16-at-02.27.28-640x400.jpeg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/two-israeli-companies-join-545m-innovation-program-in-abu-dhabi/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/two-israeli-companies-join-545m-innovation-program-in-abu-dhabi/amp/",
+      "publishedDateTime": "2022-11-16T16:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company.md",
+      "title": "Co-founder takes control of TuSimple amid federal probe into self-driving trucking company",
+      "excerpt": "TuSimple Holdings Inc. co-founder Mo Chen has taken control of the self-driving trucking company as federal authorities continue to investigate",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=hp_minor_pos26",
+      "originalUrl": "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=hp_minor_pos26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-315600/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T16:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-handing-off-control-while-keeping-the-human-engaged-is-a-constant-challenge-with-surgical-robotics-says-industry-expert.md",
+      "title": "Handing Off Control While Keeping the Human Engaged Is a Constant Challenge with Surgical Robotics, Says Industry Expert",
+      "excerpt": "As surgical robotics get smaller, more flexible, and more mechanically complex, new challenges arise, such as whether we should rely on the doctor to sort out the control of the devices, or if control should be offloaded to a semi or fully autonomous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/robotics/handing-control-while-keeping-human-engaged-constant-challenge-surgical-robotics-says",
+      "originalUrl": "https://www.mddionline.com/robotics/handing-control-while-keeping-human-engaged-constant-challenge-surgical-robotics-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/hand-3685829_640_web.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-how-ai-is-being-used-in-our-daily-lives.md",
+      "title": "How AI is being used in our daily lives",
+      "excerpt": "This article aims to explain some of the ways in which AI is being used in our daily lives. Social media platforms such as Twitter, Instagram, and Facebook all use AI behind the scenes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2022/11/how-ai-is-being-used-in-our-daily-lives.html",
+      "originalUrl": "https://www.androidheadlines.com/2022/11/how-ai-is-being-used-in-our-daily-lives.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-kkr-backs-aussie-robotics-company-in-blockbuster-108m-raise.md",
+      "title": "KKR backs Aussie robotics company in blockbuster $108m raise",
+      "excerpt": "Renowned US private equity fund KKR has made its first growth technology investment in Australia, backing Advanced Navigation after an introduction from Malcolm Turnbull.",
+      "sourceUrl": null,
+      "webUrl": "https://www.afr.com/technology/kkr-backs-aussie-robotics-company-in-blockbuster-108m-raise-20221115-p5byf4",
+      "originalUrl": "https://www.afr.com/technology/kkr-backs-aussie-robotics-company-in-blockbuster-108m-raise-20221115-p5byf4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.ffx.io/images/$zoom_0.1393%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_exclusive_no_age_social_wm/da2baa5c74f26b79165bf3fd016b34f6a0977fc7",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T14:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian Financial Review",
+        "domain": "afr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer.md",
+      "title": "Nvidia and Microsoft team up to build massive AI cloud computer",
+      "excerpt": "Nvidia announced a collaboration with Microsoft to build a \"massive\" cloud computer focused on AI. It will reportedly use tens of thousands of high-end Nvidia GPUs for applications like deep learning and large language models.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 356,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/nvidia_logo_hero_1-800x448.jpg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/amp/",
+      "publishedDateTime": "2022-11-16T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-new-study-discovers-pre-treatment-cognitive-impairment-in-younger-cancer-patients.md",
       "title": "New study discovers pre-treatment cognitive impairment in younger cancer patients",
       "excerpt": "Cancer in those aged 15 to 39 is rare. Only about 70,000 cases are diagnosed annually in the U.S., so there is little information about cognitive toxicity in this population. However, as cure ...",
@@ -291,844 +1157,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-global-machine-learning-market-to-reach-16405-billion-by-2028-with-a-392-cagr.md",
-      "title": "Global Machine Learning Market to Reach $164.05 Billion by 2028 with a 39.2% CAGR",
-      "excerpt": "Global machine learning market was valued at USD 16.2 billion in 2021, and it is expected to reach a value of USD 164.05 billion by 2028, at a CAGR of more than 39.2% over the forecast period (2022-2028).",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/16/9715226.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/16/9715226.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T11:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-malware-detection-and-classification-with-amazon-rekognition.md",
-      "title": "Malware detection and classification with Amazon Rekognition",
-      "excerpt": "According to an article by Cybersecurity Ventures, the damage caused by Ransomware (a type of malware that can block users from accessing their data unless they pay a ransom) increased by 57 times in 2021 as compared to 2015. Furthermore, it’s predicted to cost its victims $265 billion (USD) annually",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/malware-detection-and-classification-with-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/malware-detection-and-classification-with-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T11:10:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-how-natural-language-processing-helps-promote-inclusivity-in-online-communities.md",
-      "title": "How natural language processing helps promote inclusivity in online communities",
-      "excerpt": "To create safe online communities, companies need better ways to weed out harmful posts. Find out how AI/ML is improving content moderation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-natural-language-processing-helps-promote-inclusivity-in-online-communities/",
-      "originalUrl": "https://venturebeat.com/ai/how-natural-language-processing-helps-promote-inclusivity-in-online-communities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1312425667.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-natural-language-processing-helps-promote-inclusivity-in-online-communities/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-natural-language-processing-helps-promote-inclusivity-in-online-communities/amp/",
-      "publishedDateTime": "2022-11-16T10:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer.md",
-      "title": "Microsoft and Nvidia team up to build new Azure-hosted AI supercomputer",
-      "excerpt": "Microsoft and Nvidia have announced a multi-year partnership to build a new AI supercomputer in the Azure cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/",
-      "originalUrl": "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 431,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-655242462.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/amp/",
-      "publishedDateTime": "2022-11-16T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-riot-games-and-ubisoft-team-up-on-machine-learning-to-detect-harmful-game-chat.md",
-      "title": "Riot Games and Ubisoft team up on machine learning to detect harmful game chat",
-      "excerpt": "Ubisoft and Riot Games have teamed up to share machine learning data so they can more easily detect harmful chat in multiplayer games.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/riot-games-and-ubisoft-team-up-on-machine-learning-to-detect-harmful-game-chat/",
-      "originalUrl": "https://venturebeat.com/games/riot-games-and-ubisoft-team-up-on-machine-learning-to-detect-harmful-game-chat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/r6s-13.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/riot-games-and-ubisoft-team-up-on-machine-learning-to-detect-harmful-game-chat/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/riot-games-and-ubisoft-team-up-on-machine-learning-to-detect-harmful-game-chat/amp/",
-      "publishedDateTime": "2022-11-16T08:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-nauticus-robotics-inc-kitt-q3-2022-earnings-call-transcript.md",
-      "title": "Nauticus Robotics, Inc. (KITT) Q3 2022 Earnings Call Transcript",
-      "excerpt": "Q3 2022 Earnings Conference Call November 14, 2022, 12:00 PM ET Company Participants Jeff Grampp - IR, Gateway Group Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4558475-nauticus-robotics-inc-kitt-q3-2022-earnings-call-transcript",
-      "originalUrl": "https://seekingalpha.com/article/4558475-nauticus-robotics-inc-kitt-q3-2022-earnings-call-transcript",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-fractal-unveils-interconnected-ai-platform-to-automate-decision-making-for-cpg-manufacturing-and-retail.md",
-      "title": "Fractal unveils interconnected AI platform to automate decision-making for CPG, manufacturing and retail",
-      "excerpt": "Fractal AI has developed an end-to-end AI autonomic decision-making platform, Asper AI, for CPG, manufacturing and retail businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/fractal-unveils-interconnected-ai-platform-to-automate-decision-making-for-cpg-manufacturing-and-retail/",
-      "originalUrl": "https://venturebeat.com/ai/fractal-unveils-interconnected-ai-platform-to-automate-decision-making-for-cpg-manufacturing-and-retail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1341282481-e1668554800160.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/fractal-unveils-interconnected-ai-platform-to-automate-decision-making-for-cpg-manufacturing-and-retail/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/fractal-unveils-interconnected-ai-platform-to-automate-decision-making-for-cpg-manufacturing-and-retail/amp/",
-      "publishedDateTime": "2022-11-16T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-rackspace-technology-celebrates-11-years-of-aws-reinvent-as-an-aws-premier-consulting-partner-and-platinum-sponsor.md",
-      "title": "Rackspace Technology Celebrates 11 Years of AWS re:Invent as an AWS Premier Consulting Partner and Platinum Sponsor",
-      "excerpt": "Rackspace Technology® (NASDAQ:RXT)— a leading end-to-end, multicloud technology solutions company, today announced it is celebrating 11 years of sponsoring re:Invent",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/g29751475/rackspace-technology-celebrates-11-years-of-aws-re-invent-as-an-aws-premier-consulting-partner-and",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/g29751475/rackspace-technology-celebrates-11-years-of-aws-re-invent-as-an-aws-premier-consulting-partner-and",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29751475",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29751475",
-      "publishedDateTime": "2022-11-16T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-why-shelf-vision-matters-and-why-retail-businesses-health-starts-at-the-shelf.md",
-      "title": "Why shelf vision matters – and why retail businesses’ health starts at the shelf",
-      "excerpt": "The humble store shelf has moved from being a convenient place to range goods to a critical indicator of the performance of the whole retail business, and cameras can now monitor the status of the business at all times,",
-      "sourceUrl": null,
-      "webUrl": "https://internationalsupermarketnews.com/why-shelf-vision-matters-and-why-retail-businesses-health-starts-at-the-shelf/",
-      "originalUrl": "https://internationalsupermarketnews.com/why-shelf-vision-matters-and-why-retail-businesses-health-starts-at-the-shelf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://internationalsupermarketnews.com/wp-content/uploads/Magnus-Larsson-acting-CEO-Pricer.jpg",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Supermarket News",
-        "domain": "internationalsupermarketnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-worrying-loophole-in-italys-facial-recognition-ban-points-to-the-eus-future.md",
-      "title": "Worrying loophole in Italy’s facial recognition ban points to the EU’s future",
-      "excerpt": "Italy has introduced a new facial recognition ban, but it features a glaring exemption that is set to echo across the EU. “The moratorium stems from the need to regulate eligibility requirements, conditions, and guarantees relating to facial recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/italy-facial-recognition-ban-loophole-police-reflects-eu-plans",
-      "originalUrl": "https://thenextweb.com/news/italy-facial-recognition-ban-loophole-police-reflects-eu-plans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F11%2FUntitled-design-1-1.jpg&signature=cf49e9e1a46730c9aa7ab700afd7781f",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T07:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-feeding-the-world-by-ai-machine-learning-and-the-cloud.md",
-      "title": "Feeding the world by AI, machine learning and the cloud",
-      "excerpt": "Although farmers have invaluable knowledge of their own crops and fields, says Jung, AI and machine learning tools can be instrumental in cataloging greater detail, refining algorithms, and creating recommendations for solutions. As more data is collected ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/11/16/1063268/feeding-the-world-by-ai-machine-learning-and-the-cloud/",
-      "originalUrl": "https://www.technologyreview.com/2022/11/16/1063268/feeding-the-world-by-ai-machine-learning-and-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/11/Thomas-Jungrev.png?w=1200",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/11/16/1063268/feeding-the-world-by-ai-machine-learning-and-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/16/1063268/feeding-the-world-by-ai-machine-learning-and-the-cloud/amp/",
-      "publishedDateTime": "2022-11-16T07:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-machine-learning-can-help-predict-patient-response-to-cancer-immunotherapy.md",
-      "title": "Machine learning can help predict patient response to cancer immunotherapy",
-      "excerpt": "In a small study, they successfully trained a machine learning algorithm to predict, in hindsight, which patients with melanoma would respond to treatment and which would not respond. The open-source program, DeepTCR, proved valuable as a predictive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/971463",
-      "originalUrl": "https://www.eurekalert.org/news-releases/971463",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T07:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-woman-revealing-why-she-shows-only-half-her-face-on-work-calls-melts-hearts.md",
-      "title": "Woman Revealing Why She Shows Only Half Her Face on Work Calls Melts Hearts",
-      "excerpt": "A woman melted hearts online after revealing the reason she shows only half her face on work calls ... This kind of non-detailed phonetic recognition is also the way babies process speech up to the age of about 14 months and goes some way toward explaining ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/woman-tiktok-only-shows-half-face-work-calls-melts-hearts-dog-1760080",
-      "originalUrl": "https://www.newsweek.com/woman-tiktok-only-shows-half-face-work-calls-melts-hearts-dog-1760080",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2150294/dog-attending-work-meeting-melts-hearts.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/woman-tiktok-only-shows-half-face-work-calls-melts-hearts-dog-1760080?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/woman-tiktok-only-shows-half-face-work-calls-melts-hearts-dog-1760080?amp=1",
-      "publishedDateTime": "2022-11-16T07:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-amp-robotics-establishes-new-headquarters-in-louisville.md",
-      "title": "AMP Robotics establishes new headquarters in Louisville",
-      "excerpt": "DENVER--(BUSINESS WIRE)--AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has opened its new corporate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20221116005337/en/AMP-Robotics-establishes-new-headquarters-in-Louisville",
-      "originalUrl": "https://www.businesswire.com/news/home/20221116005337/en/AMP-Robotics-establishes-new-headquarters-in-Louisville",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsroom.businesswire.com",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-report-michigan-must-boost-investments-grow-workforce-to-lead-in-mobility.md",
-      "title": "Report: Michigan must boost investments, grow workforce to lead in mobility",
-      "excerpt": "The state's Council on Future Mobility and Electrification recommends growing the mobility workforce, implementing state-level consumer EV incentive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/business/autos/2022/11/16/council-recommends-steps-for-michigan-to-bolster-mobility-leadership/69652023007/",
-      "originalUrl": "https://www.detroitnews.com/story/business/autos/2022/11/16/council-recommends-steps-for-michigan-to-bolster-mobility-leadership/69652023007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/08/24/PDTN/21f0962a-4f67-41f5-b104-f4e26448dba6-082422-tm-Toyota_NA-151.jpg?auto=webp&crop=5393,3034,x623,y13&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-toronto-startup-waabi-starts-testing-its-driverless-trucks-on-the-road-with-humans-on-board.md",
-      "title": "Toronto startup Waabi starts testing its driverless trucks on the road, with humans on board",
-      "excerpt": "Ms. Urtasun’s Waabi Innovation Inc. is officially rolling out its artificial intelligence-powered self ... guards and even to make left terms. Driverless vehicles have caused accidents resulting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/business/article-waabi-driverless-trucks-north-america/",
-      "originalUrl": "https://www.theglobeandmail.com/business/article-waabi-driverless-trucks-north-america/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theglobeandmail.com/resizer/DaZsdVX0TEYEecEy34slzNbqSBU=/1200x694/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/KXNXBRKJKREWVAMLTXQLYCUSPU.jpg",
-          "width": 1200,
-          "height": 694,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T06:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-fractal-announces-launch-of-asperai.md",
-      "title": "Fractal Announces Launch of Asper.ai",
-      "excerpt": "Fractal launches Asper.ai - a purpose-built interconnected AI product for consumer goods, manufacturing, and retail NEW YORK, Nov. 16, 2022 /PRNewswire/ -- Fractal (www.fractal.ai), a global ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/fractal-announces-launch-of-asper-ai-1031917691",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/fractal-announces-launch-of-asper-ai-1031917691",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-as-doubts-grow-over-self-driving-vehicles-this-ambitious-upstart-rolls-out-its-first-robot-trucks.md",
-      "title": "As Doubts Grow Over Self-Driving Vehicles, This Ambitious Upstart Rolls Out Its First Robot Trucks",
-      "excerpt": "Self-driving tech startup Waabi has deployed its first robot trucks and intends ... testing with the “Waabi World” simulator CEO Urtasun developed that allows the AI-enabled system to experience nearly limitless types of road conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2022/11/16/as-doubts-grow-over-self-driving-vehicles-this-ambitious-upstart-rolls-out-its-first-robot-trucks/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2022/11/16/as-doubts-grow-over-self-driving-vehicles-this-ambitious-upstart-rolls-out-its-first-robot-trucks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63743b5c8a22f01209f59b8f/0x0.jpg?format=jpg&crop=3532,1885,x156,y113,safe&width=1200",
-          "width": 1200,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-artificial-intelligence-technology-solutions-aitx-ceo-testifies-at-criminal-hearing.md",
-      "title": "Artificial Intelligence Technology Solutions (AITX) CEO Testifies at Criminal Hearing",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (the Company) (OTCPK:AITX), has announced that on November 15, 2022 its CEO, Steve Reinharz provided testimony at a criminal assault hearing. The hearing was regarding an attack on a Trinity Railway Express (TRE) conductor at a Ft.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/16/9714708.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/16/9714708.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T05:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

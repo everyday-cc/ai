@@ -8,8 +8,8 @@ webUrl: "https://www.buzzfeednews.com/article/katienotopoulos/cnet-articles-writ
 ampWebUrl: "https://www.buzzfeednews.com/amphtml/katienotopoulos/cnet-articles-written-by-ai-chatgpt-article"
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/katienotopoulos/cnet-articles-written-by-ai-chatgpt-article"
 type: article
-quality: 83
-heat: 83
+quality: 85
+heat: 85
 published: true
 
 provider:

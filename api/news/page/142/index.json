@@ -2,55 +2,21 @@
   "page": 142,
   "value": [
     {
-      "path": "_news/2022-06-15-yaskawa-launches-new-automation-platform.md",
-      "title": "Yaskawa Launches New Automation Platform",
-      "excerpt": "Yaskawa has announced a completely new automation platform. It is to be called \"i³ Control\" and will form a technically coordinated overall solution for industrial controllers - including the engineering software, the controller hardware, and the ...",
+      "path": "_news/2022-09-07-nektarai-exits-stealth-mode-to-plug-crm-data-leakages.md",
+      "title": "Nektar.ai exits stealth mode to plug CRM data leakages",
+      "excerpt": "A lot of important data gets lost along the sales pipeline because sales teams use multiple tools, including email, Zoom and WhatsApp, to talk with buyers. Nektar.ai wants to solve the problem of data leakage with its sales productivity platform,",
       "sourceUrl": null,
-      "webUrl": "https://www.elektroniknet.de/international/yaskawa-launches-new-automation-platform.196853.html",
-      "originalUrl": "https://www.elektroniknet.de/international/yaskawa-launches-new-automation-platform.196853.html",
+      "webUrl": "https://techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/",
+      "originalUrl": "https://techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Elektronik Net",
-        "domain": "elektroniknet.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-natural-language-processing-market-12726-billion-usd-industry-by-2028.md",
-      "title": "Natural Language Processing Market | 127.26 Billion USD Industry by 2028",
-      "excerpt": "Natural Language Processing (NLP) Market Size, Share & COVID-19 Impact Analysis, By Deployment (On-Premises, Cloud, Hybrid), By Enterprise Size (SMEs, and Large Enterprises), By Technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-market-127-26-billion-usd-industry-by-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-market-127-26-billion-usd-industry-by-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Juneteenth-CC-BY-2.0-Wiki-600x337.jpeg",
-          "width": 600,
-          "height": 337,
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1059088668.jpg",
+          "width": 2119,
+          "height": 1414,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -58,95 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-ai-pioneers-honored-with-spains-princess-of-asturias-award.md",
-      "title": "AI Pioneers Honored With Spain’s Princess of Asturias Award",
-      "excerpt": "Demis Hassabis, CEO and cofounder of DeepMind, a leading artificial intelligence company, was the fourth award recipient. DeepMind is owned by Google. DeepMind's AphaFold protein database ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award",
-      "originalUrl": "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-tabnine-raises-155m-for-ai-that-autocompletes-code.md",
-      "title": "Tabnine raises $15.5M for AI that autocompletes code",
-      "excerpt": "Tabnine, a startup creating an “AI-powered assistant” for software developers, today closed a $15.5 million funding round co-led by Qualcomm Ventures, OurCrowd, and Samsung NEXT Ventures with ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/15/tabnine-raises-15-5m-for-ai-that-autocompletes-code/",
-      "originalUrl": "https://techcrunch.com/2022/06/15/tabnine-raises-15-5m-for-ai-that-autocompletes-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/sublime_python.jpg?w=680",
-          "width": 680,
-          "height": 454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/15/tabnine-raises-15-5m-for-ai-that-autocompletes-code/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/15/tabnine-raises-15-5m-for-ai-that-autocompletes-code/amp/",
-      "publishedDateTime": "2022-06-15T04:30:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/amp/",
+      "publishedDateTime": "2022-09-06T17:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -169,25 +49,26 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Sales"
       ]
     },
     {
-      "path": "_news/2022-06-15-kmart-bunnings-and-the-good-guys-have-been-using-facial-recognition-in-stores-all-along-if-you-read-the-fine-print.md",
-      "title": "Kmart, Bunnings and the Good Guys Have Been Using Facial Recognition in Stores All Along (If You Read the Fine Print)",
-      "excerpt": "A report from consumer advocacy group Choice has revealed that Kmart, Bunnings Warehouse and The Good Guys are using facial recognition technology in-store. Facial recognition has been a ...",
+      "path": "_news/2022-09-07-mcdonalds-breakfasts-driverless-buses-among-innovations-launched-in-newcastle.md",
+      "title": "McDonald's breakfasts, driverless buses among innovations launched in Newcastle",
+      "excerpt": "The polymer bank note? Newcastle tested and passed. The driverless bus? Trialled in Newy. Sydney's infamous lockout laws? Taken up after a \"successful\" installation in Newcastle. The Hunter has ...",
       "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2022/06/facial-recognition-bunnings-kmart-goodguys-choice/",
-      "originalUrl": "https://www.gizmodo.com.au/2022/06/facial-recognition-bunnings-kmart-goodguys-choice/",
+      "webUrl": "https://www.abc.net.au/news/2022-09-07/mcdonalds-breakfasts-driverless-buses-newcastle-innovations/101399644",
+      "originalUrl": "https://www.abc.net.au/news/2022-09-07/mcdonalds-breakfasts-driverless-buses-newcastle-innovations/101399644",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/06/15/choice-bunnings-good-guys-kmart.jpg?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
+          "url": "https://live-production.wcms.abc-cdn.net.au/ed3cda7a3cd6263f40028637d2c3cb93?impolicy=wcms_crop_resize&cropH=467&cropW=700&xPos=0&yPos=230&width=862&height=575",
+          "width": 700,
+          "height": 467,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -195,13 +76,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2022/06/facial-recognition-bunnings-kmart-goodguys-choice/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/06/facial-recognition-bunnings-kmart-goodguys-choice/amp/",
-      "publishedDateTime": "2022-06-15T04:09:00-07:00",
+      "ampWebUrl": "https://amp.abc.net.au/article/101399644",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101399644",
+      "publishedDateTime": "2022-09-06T16:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gizmodo Australia",
-        "domain": "gizmodo.com.au",
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -211,43 +92,34 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-15-microsoft-silent-patches-called-a-grossly-irresponsible-policy.md",
-      "title": "Microsoft silent patches called “a grossly irresponsible policy”",
-      "excerpt": "Cyber security company Tenable Security said it found two bugs in Microsoft Azure analytics software and complained the tech giant didn’t follow industry standards in declaring the patch to ...",
+      "path": "_news/2022-09-07-video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026.md",
+      "title": "Video Content Management System Market Analysis, Size, Share, Facts and Figures, Services and Forecast 2026",
+      "excerpt": "The global Video Content Management System Market size expected to grow at a Compound Annual Growth Rate (CAGR) of 14.0% during the forecast period, to reach USD 6.8 billion by 2026 from USD 3.5 billion in 2021.",
       "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/security/cyber-security/368292/microsoft-silent-patches-called-a-grossly-irresponsible-policy",
-      "originalUrl": "https://www.itpro.co.uk/security/cyber-security/368292/microsoft-silent-patches-called-a-grossly-irresponsible-policy",
+      "webUrl": "https://www.marketwatch.com/press-release/video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026-2022-09-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026-2022-09-06",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1624441528/itpro/MicrosoftOfficeSign_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T03:35:00-07:00",
+      "publishedDateTime": "2022-09-06T15:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -268,38 +140,29 @@
       ]
     },
     {
-      "path": "_news/2022-06-15-exclusive-baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources.md",
-      "title": "EXCLUSIVE Baidu in talks to sell majority stake in iQIYI, China's answer to Netflix -sources",
-      "excerpt": "Baidu, whose businesses range from internet search to electric vehicles, with expansion into cloud services, robotaxis and autonomous driving in recent years, has tapped Bank of America (BAC.N ...",
+      "path": "_news/2022-09-07-it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft.md",
+      "title": "IT services provider Long View is recognized as an industry leader in sustainability by Cisco and Microsoft",
+      "excerpt": "A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\".",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/exclusive-chinas-baidu-talks-sell-majority-stake-video-streaming-firm-iqiyi-2022-06-15/",
-      "originalUrl": "https://www.reuters.com/technology/exclusive-chinas-baidu-talks-sell-majority-stake-video-streaming-firm-iqiyi-2022-06-15/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft-1031727161",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft-1031727161",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/guPLU9seqwgSD6LVw04iCxt0V6g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4EGMJWOEKZL7RHK4KSSRBGTUQA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T03:19:00-07:00",
+      "publishedDateTime": "2022-09-06T11:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -315,92 +178,84 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-15-is-ai-the-future-of-audit-or-all-hype.md",
-      "title": "Is AI The Future Of Audit Or All Hype?",
-      "excerpt": "Artificial intelligence is billed as the future of everything—a magical panacea to all of the world’s challenges, heralding a utopian future where algorithms will know exactly what’s required and when.",
+      "path": "_news/2022-09-07-taiwanese-president-cites-threat-of-chinese-cognitive-warfare.md",
+      "title": "Taiwanese President cites threat of Chinese ‘cognitive warfare’",
+      "excerpt": "Taiwanese President Tsai Ing-wen said on September 6 that China is conducting “cognitive warfare” by spreading misinformation in addition to its regular incursions into nearby waters and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/15/is-ai-the-future-of-audit-or-all-hype/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/15/is-ai-the-future-of-audit-or-all-hype/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a884dd069425f7520e32b5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/15/is-ai-the-future-of-audit-or-all-hype/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/15/is-ai-the-future-of-audit-or-all-hype/amp/",
-      "publishedDateTime": "2022-06-15T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-new-deep-learning-tools-can-help-us-win-the-cyber-war.md",
-      "title": "New deep learning tools can help us win the cyber war",
-      "excerpt": "For example, deep learning (DL) has helped make cybersecurity strategies more proactive and less reactive. DL is the most advanced subset of AI that currently exists and it’s a huge step forward ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmagazine.com/editorial/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC",
-      "originalUrl": "https://www.scmagazine.com/editorial/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC",
+      "webUrl": "https://www.thehindu.com/news/international/taiwanese-president-cites-threat-of-chinese-cognitive-warfare/article65857145.ece",
+      "originalUrl": "https://www.thehindu.com/news/international/taiwanese-president-cites-threat-of-chinese-cognitive-warfare/article65857145.ece",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://files.scmagazine.com/wp-content/uploads/2021/12/GreatwoodColDEC-e1638991220438.jpg",
-          "width": 1241,
-          "height": 745,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T03:14:00-07:00",
+      "publishedDateTime": "2022-09-06T10:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SC Media",
-        "domain": "scmagazine.com",
+        "name": "The Hindu",
+        "domain": "thehindu.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program.md",
+      "title": "SpringML Renews its Machine Learning Specialization in the Google Cloud Partner Advantage Program",
+      "excerpt": "Partners achieving this specialization have demonstrated success with data exploration, preprocessing, model training, model evaluation, model deployment, online prediction, and Google pretrained Machine Learning APIs.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program-1031727055",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program-1031727055",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1892506/SpringML_Renews_Machine_Learning_Specialization.jpg",
+          "width": 400,
+          "height": 227,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -412,661 +267,7 @@
         "Machine Learning",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2022-06-15-spider-or-crab-the-worlds-tiniest-remote-controlled-robot-is-here-see-pics.md",
-      "title": "Spider or crab? The world's tiniest remote-controlled robot is here. See pics",
-      "excerpt": "Although at a first glance it could be misconstrued as a spider or a tiny crab, what engineers at US's Northwestern University built was a half millimeter-wide remote-controlled robot. The tiny ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/trends/spider-or-crab-the-worlds-tiniest-remote-controlled-robot-is-here-8689791.html",
-      "originalUrl": "https://www.moneycontrol.com/news/trends/spider-or-crab-the-worlds-tiniest-remote-controlled-robot-is-here-8689791.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/06/My-project-42.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/trends/spider-or-crab-the-worlds-tiniest-remote-controlled-robot-is-here-8689791.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/spider-or-crab-the-worlds-tiniest-remote-controlled-robot-is-here-8689791.html/amp",
-      "publishedDateTime": "2022-06-15T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-unleash-natural-language-processing-for-survey-comments.md",
-      "title": "Unleash Natural Language Processing for Survey Comments",
-      "excerpt": "The difficulties of that process is why you can benefit from natural language processing (NLP) tools. Defensible and reproducible coding of text is hard to do well because the coder may be biased ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/legaltechnews/2022/06/13/unleash-natural-language-processing-for-survey-comments/",
-      "originalUrl": "https://www.law.com/legaltechnews/2022/06/13/unleash-natural-language-processing-for-survey-comments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/397/2022/06/Artificial-Intelligence-10-767x633.jpg",
-          "width": 767,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-chinas-baidu-in-talks-to-sell-majority-stake-in-video-streaming-firm-iqiyi-sources.md",
-      "title": "China's Baidu in talks to sell majority stake in video streaming firm iQIYI -sources",
-      "excerpt": "The divestment plan, not previously disclosed by Baidu, comes after the firm deemed iQIYI to be a non-core asset, and as it seeks to sharpen its focus on developing its capital-intensive artificial intelligence and autonomous driving units, said the first ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-pmn/chinas-baidu-in-talks-to-sell-majority-stake-in-video-streaming-firm-iqiyi-sources",
-      "originalUrl": "https://financialpost.com/pmn/business-pmn/chinas-baidu-in-talks-to-sell-majority-stake-in-video-streaming-firm-iqiyi-sources",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/chinas-baidu-in-talks-to-sell-majority-stake-in-video-streaming-firm-iqiyi-sources/wcm/95b7f128-1ed6-4cfd-b2e6-801c719f84e6/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/chinas-baidu-in-talks-to-sell-majority-stake-in-video-streaming-firm-iqiyi-sources/wcm/95b7f128-1ed6-4cfd-b2e6-801c719f84e6/amp/",
-      "publishedDateTime": "2022-06-15T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-artificial-intelligence-in-healthcare-market-research-predicted-to-show-substantial-growth-in-future-by-2030.md",
-      "title": "Artificial Intelligence in Healthcare Market Research Predicted to Show Substantial Growth in Future by 2030",
-      "excerpt": "The global artificial intelligence in healthcare market is expected to reach a market size of USD 215.53 Billion by 2030 and register a substantially high CAGR over the forecast period ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-research-predicted-to-show-substantial-growth-in-future-by-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-research-predicted-to-show-substantial-growth-in-future-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Juneteenth-CC-BY-2.0-Wiki-600x337.jpeg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T00:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury.md",
-      "title": "KAIST develops robot skin that can sense tactility and recover from injury",
-      "excerpt": "The Korea Advanced Institute of Science and Technology (KAIST) said its research team has developed a robot skin that can sense various external tactile stimuli and recover from injury when it is cut or damaged.",
-      "sourceUrl": null,
-      "webUrl": "https://www.poandpo.com/in-the-meantime/kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury/",
-      "originalUrl": "https://www.poandpo.com/in-the-meantime/kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0622/kaist.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.poandpo.com/in-the-meantime/kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury.amp",
-      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/in-the-meantime/kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury.amp",
-      "publishedDateTime": "2022-06-15T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "poandpo.com",
-        "domain": "poandpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-research-claims-military-cannot-rely-on-artificial-intelligence-for-strategy-or-judgment.md",
-      "title": "Research claims military cannot rely on Artificial Intelligence for strategy or judgment",
-      "excerpt": "The use of artificial intelligence (AI ... and Goldfarb highlight is the Rio Tinto mining company, which uses self-driving trucks to transport materials, reducing costs and risks to human drivers.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/Articles/Science/20220615/3952115.html",
-      "originalUrl": "https://news.webindia123.com/news/Articles/Science/20220615/3952115.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T00:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-think-silicon-to-unveil-industrys-first-risc-v-3d-gpu-at-embedded-world-2022.md",
-      "title": "Think Silicon to Unveil Industry’s First RISC-V 3D GPU at Embedded World 2022",
-      "excerpt": "Think Silicon®, a leader in ultra-low power graphics IP, will showcase the industry’s first RISC-V-based GPU – the NEOX™ G-Series & A-Series – at Embedded World 2022. The company will also introduce the NEMA®|pico-VG,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-greece-athens-fda81fdd2c7f9daa492ec82dc36455e5",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-greece-athens-fda81fdd2c7f9daa492ec82dc36455e5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-australian-retailers-deploy-facial-recognition-as-privacy-laws-stall.md",
-      "title": "Australian retailers deploy facial recognition as privacy laws stall",
-      "excerpt": "Australia’s privacy watchdog will consider investigating Bunnings, Kmart and The Good Guys after a consumer group uncovered the retailers’ use of facial recognition technology on customers and said it will make a formal complaint.",
-      "sourceUrl": null,
-      "webUrl": "https://www.innovationaus.com/australian-retailers-deploy-facial-recognition-as-privacy-laws-stall/",
-      "originalUrl": "https://www.innovationaus.com/australian-retailers-deploy-facial-recognition-as-privacy-laws-stall/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.innovationaus.com/wp-content/uploads/2022/06/CCTV_Camera_800x600.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T23:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Innovation",
-        "domain": "innovationaus.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-your-subconscious-is-the-ultimate-artificial-intelligence.md",
-      "title": "Your subconscious is the ultimate ‘artificial intelligence’",
-      "excerpt": "I’ve been thinking a lot about Artificial Intelligence (AI), not about its potentials like all the articles are writing about, but about how it works, how",
-      "sourceUrl": null,
-      "webUrl": "https://businessday.ng/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
-      "originalUrl": "https://businessday.ng/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/01/Untitled-design-2021-01-13T165155.785.png?resize=450%2C300&ssl=1",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://businessday.ng/amp/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
-      "publishedDateTime": "2022-06-14T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessday",
-        "domain": "businessday.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-mit-has-made-a-lego-like-ai-chip-that-stacks-to-upgrade-your-device.md",
-      "title": "MIT Has Made A Lego-Like AI Chip That Stacks To Upgrade Your Device",
-      "excerpt": "MIT engineers have now developed an AI chip resembling LEGO as they intend to create modular and sustainable electronics.",
-      "sourceUrl": null,
-      "webUrl": "https://fossbytes.com/mit-stackable-ai-chip/",
-      "originalUrl": "https://fossbytes.com/mit-stackable-ai-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fossbytes.com/wp-content/uploads/2022/06/MIT.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fossbytes.com/mit-stackable-ai-chip/",
-      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/mit-stackable-ai-chip/",
-      "publishedDateTime": "2022-06-14T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Foss Bytes",
-        "domain": "fossbytes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest.md",
-      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Sees Significant Drop in Short Interest",
-      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating BOTZ opened at $20.90 on Wednesday. The company has a 50 day moving average of $23.96 and a 200 day moving average of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/",
-      "originalUrl": "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/amp/",
-      "publishedDateTime": "2022-06-14T22:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore.md",
-      "title": "For Tesla, Facebook and others, AI’s flaws are getting harder to ignore",
-      "excerpt": "What do Facebook Inc. co-founder Mark Zuckerberg ... from putting faith in artificial intelligence systems that have underdelivered. This could be due to a conflict with your ad-blocking or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.japantimes.co.jp/opinion/2022/06/13/commentary/world-commentary/ai-flaws/",
-      "originalUrl": "https://www.japantimes.co.jp/opinion/2022/06/13/commentary/world-commentary/ai-flaws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Japan Times",
-        "domain": "japantimes.co.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-these-popular-retailers-are-being-investigated-over-unethical-use-of-facial-recognition-tech.md",
-      "title": "These Popular Retailers Are Being Investigated Over ‘Unethical’ Use Of Facial Recognition Tech",
-      "excerpt": "CHOICE has launched an investigation into Kmart, Bunnings and The Good Guys after it learned they appear to be using (and storing!) facial recognition data of customers in their stores. In case you needed another reason to wear a mask.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/",
-      "originalUrl": "https://www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pedestrian.tv/wp-content/uploads/2022/06/15/Kmart-bunnings.jpg?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/amp/",
-      "cdnAmpWebUrl": "https://www-pedestrian-tv.cdn.ampproject.org/c/s/www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/amp/",
-      "publishedDateTime": "2022-06-14T18:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PEDESTRIAN.TV",
-        "domain": "pedestrian.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-microsoft-patched-azure-bugs-without-notifying-users-tenable-claims.md",
-      "title": "Microsoft patched Azure bugs without notifying users, Tenable claims",
-      "excerpt": "Tenable Security has disclosed two bugs in analytics software Microsoft provides Azure users, and has complained that cloud providers don’t follow industry-standard security disclosure practices. In its Tenable TechBlog,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnews.com.au/news/microsoft-patched-azure-bugs-without-notifying-users-tenable-claims-581351",
-      "originalUrl": "https://www.itnews.com.au/news/microsoft-patched-azure-bugs-without-notifying-users-tenable-claims-581351",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/microsoft-azure-sign-2.jpg",
-          "width": 499,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T17:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News For Australia Business",
-        "domain": "itnews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-aws-turns-up-mainframe-migration-service.md",
-      "title": "AWS turns-up mainframe-migration service",
-      "excerpt": "AWS Mainframe Modernization, which since last November had been in preview, is available now and offers the tools, infrastructure, and software to manage migration of mainframe applications to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3663728/aws-turns-up-mainframe-migration-service.html",
-      "originalUrl": "https://www.networkworld.com/article/3663728/aws-turns-up-mainframe-migration-service.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/08/clous-blue7-3000x3000p-100899404-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3663728/aws-turns-up-mainframe-migration-service.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3663728/aws-turns-up-mainframe-migration-service.amp.html",
-      "publishedDateTime": "2022-06-14T17:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-bridging-deepmind-research-with-alphabet-products.md",
-      "title": "Bridging DeepMind research with Alphabet products",
-      "excerpt": "Today we caught up with Gemma Jennings, a product manager on the Applied team, who led a session on vision language models at the AI Summit, one of the world’s largest AI events for business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/bridging-deepmind-research-with-alphabet-products",
-      "originalUrl": "https://www.deepmind.com/blog/bridging-deepmind-research-with-alphabet-products",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62a9f619d9122bdc3231b4ed_Gemma_Jennings__Blog__16x9.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
     }
   ],
-  "nextPage": 143
+  "nextPage": null
 }

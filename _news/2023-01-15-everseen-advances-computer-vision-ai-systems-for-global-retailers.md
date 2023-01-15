@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-15T13:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30423676/everseen-advances-computer-vision-ai-systems-for-global-retailers"
 webUrl: "https://www.benzinga.com/pressreleases/23/01/n30423676/everseen-advances-computer-vision-ai-systems-for-global-retailers"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Benzinga.com

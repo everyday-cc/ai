@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-15T19:14:00Z
 originalUrl: "https://venturebeat.com/ai/how-ai-can-mitigate-supply-chain-issues/"
 webUrl: "https://venturebeat.com/ai/how-ai-can-mitigate-supply-chain-issues/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-operati
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-research-report-provides-an-in-depth-insight-of-trends-2023-to-2028-2023-01-12"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 93
+published: true
 
 provider:
   name: MarketWatch
@@ -29,15 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning as a Service (MLaaS) Market Massive Growth Strikes Due To Technological Innovation During 2023-2029"
-    excerpt: "Market Research Report is spread across 122 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. Machine Learning as a Service (MLaaS) Market Size is projected to Reach Multimillion USD by 2029,"
-    publishedDateTime: 2023-01-11T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-massive-growth-strikes-due-to-technological-innovation-during-2023-2029-2023-01-11"
+  - title: "3D Facial Recognition Systems Market | Key factors responsible for rapid growth in the coming years 2028"
+    excerpt: "The Global 3D Facial Recognition Systems market 2023 to 2028 Report add an In-depth analysis on the market status of the"
+    publishedDateTime: 2023-01-13T04:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-key-factors-responsible-for-rapid-growth-in-the-coming-years-2028-2023-01-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice And Speech Recognition Software Market 2023 High Technology, Latest Trends and Future Spreads by 2028"
+    excerpt: "The Global Voice And Speech Recognition Software market 2023 to 2028 Report add an In-depth analysis on the market"
+    publishedDateTime: 2023-01-13T04:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-2023-high-technology-latest-trends-and-future-spreads-by-2028-2023-01-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -45,8 +59,8 @@ related:
         isCached: true
   - title: "Global Iris Recognition Market Report 2022 to 2028: Adoption of Biometric Technologies in the Defence and Automobile Industries Drives Growth"
     excerpt: "The Global Iris Recognition Market size is expected to reach $8.9 billion by 2028, rising at a market growth of 15.6% CAGR during the forecast period. Iris recognition is a precise and effective technology for protecting information,"
-    publishedDateTime: 2023-01-13T21:47:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-iris-recognition-market-report-2022-2028-adoption-/2023/01/13/9743228.htm"
+    publishedDateTime: 2023-01-13T22:28:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/01/13/9743228.htm"
     type: article
     provider:
       name: TMCnet

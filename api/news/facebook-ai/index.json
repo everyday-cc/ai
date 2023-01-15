@@ -62,7 +62,7 @@
       "originalUrl": "https://www.buzzfeednews.com/article/katienotopoulos/cnet-articles-written-by-ai-chatgpt-article",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -102,7 +102,8 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -423,6 +424,40 @@
       "provider": {
         "name": "WGBH",
         "domain": "wgbh.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-why-artificial-intelligence-needs-to-be-on-your-mind-in-2023.md",
+      "title": "Why artificial intelligence needs to be on your mind in 2023",
+      "excerpt": "Twitter and Facebook feeds, powered by artificial intelligence ... and one for Gebru’s Distributed AI Research Institute.) ReidOut Blog readers may recognize Gebru, who was ousted from Google ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/the-reidout/reidout-blog/artificial-intelligence-bias-society-rcna63353",
+      "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/artificial-intelligence-bias-society-rcna63353",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1379,40 +1414,6 @@
         "Machine Learning",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-lensa-ai-avatar-portraits-are-popping-up-all-over-social-media-but-is-it-a-step-back-for-body-positivity.md",
-      "title": "Lensa AI avatar portraits are popping up all over social media, but is it a step back for body positivity?",
-      "excerpt": "She later adds: “I'm thankful to this silly AI-yourself trend as it gave me tools to try to work on that horrid inner voice.” The Lensa app asks for 10 to 20 selfies in order to generate its ‘magical avatars’, and can also be used to ‘perfect ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.glamourmagazine.co.uk/article/ai-avatars-body-positivity",
-      "originalUrl": "https://www.glamourmagazine.co.uk/article/ai-avatars-body-positivity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GLAMOUR UK",
-        "domain": "glamourmagazine.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

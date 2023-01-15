@@ -2,6 +2,83 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-10-11-polyn-introduces-voice-processing-tiny-ai-chip-delivering-industry-first-voice-extraction.md",
+      "title": "POLYN Introduces Voice Processing Tiny AI Chip Delivering Industry-First Voice Extraction",
+      "excerpt": "POLYN is the first to implement the combination of voice detection (VD), and voice extraction (VE) within the ultra-low-power analog neuromorphic silicon. Integrating NeuroVoice allows customers to create miniature products that improve their end users' hearing experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-polyn-introduces-voice-processing-tiny-ai-chip-delivering-/2022/10/11/9690059.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-polyn-introduces-voice-processing-tiny-ai-chip-delivering-/2022/10/11/9690059.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-research.md",
+      "title": "NEC selects Supermicro GPU Systems for one of Japan's largest supercomputers for advanced AI research",
+      "excerpt": "San Jose California [US] October 11 ANIPRNewswire Supermicro NASDAQ SMCI a Total IT Solution Provider for Cloud AIML Storage and 5GEdge is announcing that NEC Corporation has selected over 116 Supermi",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/272900228/nec-selects-supermicro-gpu-systems-for-one-of-japan-largest-supercomputers-for-advanced-ai-research",
+      "originalUrl": "https://www.bignewsnetwork.com/news/272900228/nec-selects-supermicro-gpu-systems-for-one-of-japan-largest-supercomputers-for-advanced-ai-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/MDc0ZWU2YWEtYTV.jpg",
+          "width": 630,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T23:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-10-nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-research.md",
       "title": "NEC Selects Supermicro GPU Systems for One of Japan's Largest Supercomputers for Advanced AI Research",
       "excerpt": "\"Supermicro GPU servers have been installed at NEC Corporation and are used to conduct state-of-the-art AI research. Our servers are designed for the most demanding AI workloads using the highest ...",
@@ -1382,92 +1459,6 @@
         "Google AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-nvidias-new-ai-model-quickly-generates-objects-and-characters-for-virtual-worlds.md",
-      "title": "NVIDIA's new AI model quickly generates objects and characters for virtual worlds",
-      "excerpt": "NVIDIA is looking to take the sting out of creating virtual 3D worlds with a new artificial intelligence model. GET3D can generate characters, buildings, vehicles and other types of 3D objects, NVIDIA says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html",
-      "originalUrl": "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-09/429930e0-3a94-11ed-afeb-8a9da43fae5d",
-          "width": 1280,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-falkonry-unveils-gpu-based-high-speed-time-series-anomaly-detection-application.md",
-      "title": "Falkonry Unveils GPU-Based, High-Speed Time Series Anomaly Detection Application",
-      "excerpt": "Falkonry today announced an automated anomaly detection application called Falkonry Insight which operates on high-speed sensor time series data. Insight is the newest addition to Falkonry's Time Series AI Suite to drive higher operational reliability and yield,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/09/22/9679188.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/09/22/9679188.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

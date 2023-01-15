@@ -2,6 +2,242 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-10-01-how-colleges-are-using-artificial-intelligence-to-improve-enrollment-and-retention.md",
+      "title": "How Colleges Are Using Artificial Intelligence To Improve Enrollment And Retention",
+      "excerpt": "Higher education is advancing from its initial use of AI to automate routine tasks, digitize workflows, develop complex datasets, and create dashboards for analytics. Now, colleges are doing more than using technology to do the same things better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/",
+      "originalUrl": "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6102d1d3cc6d3da87fbd41c4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/amp/",
+      "publishedDateTime": "2022-10-01T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders.md",
+      "title": "Tesla Robot Shows Some Skills, But Falls Flat With Some Robotics Insiders",
+      "excerpt": "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence event ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcdfw.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3086381/",
+      "originalUrl": "https://www.nbcdfw.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3086381/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcdfw.com/2022/09/AP22269595150521.jpg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcdfw.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3086381/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3086381/?amp=1",
+      "publishedDateTime": "2022-10-01T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC DFW",
+        "domain": "nbcdfw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-geelys-latest-buy-a-stake-in-aston-martin.md",
+      "title": "Geely's latest buy: A stake in Aston Martin",
+      "excerpt": "LONDON: Chinese automaker Zhejiang Geely Holding Group Co. has acquired a stake in British luxury carmaker Aston Martin Lagonda Global Holdings Plc, expanding tycoon Li Shufu’s reach into European brands.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carsifu.my/news/geelys-latest-buy-a-stake-in-aston-martin",
+      "originalUrl": "https://www.carsifu.my/news/geelys-latest-buy-a-stake-in-aston-martin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/10/am2.jpg",
+          "width": 800,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CarSifu",
+        "domain": "carsifu.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-tesla-unveils-humanoid-optimus-robot-at-ai-event.md",
+      "title": "Tesla unveils humanoid 'Optimus' robot at AI event",
+      "excerpt": "Musk presented the robot during his display at Tesla's AI Day on Friday. The bot runs on the company's artificial intelligence software, which is used in Tesla vehicles for full self-driving and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/news/tesla-unveils-humanoid-optimus-robot-ai-event",
+      "originalUrl": "https://www.washingtonexaminer.com/news/tesla-unveils-humanoid-optimus-robot-ai-event",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/9447613/2147483647/strip/true/crop/2390x1255+0+56/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fa3%2F9d%2F4575bea54fcbbf8d55137e0fa42d%2Ftesla.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T19:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-intels-self-driving-car-division-mobileye-files-for-ipo.md",
+      "title": "Intel's self-driving car division Mobileye files for IPO",
+      "excerpt": "Mobileye, an Intel-owned company that makes key processors for self-driving cars, has filed for an IPO, according to an SEC filing on Friday. The move to list Mobileye on the Nasdaq is part of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
+      "originalUrl": "https://www.cnbc.com/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106913978-16268192682021-07-20t192606z_1895303704_rc2ioo9l1187_rtrmadp_0_mobileye-autonomous.jpeg?v=1664573981",
+          "width": 3500,
+          "height": 2334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
+      "publishedDateTime": "2022-09-30T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-01-this-is-what-whales-are-betting-on-baidu.md",
       "title": "This Is What Whales Are Betting On Baidu",
       "excerpt": "Someone with a lot of money to spend has taken a bearish stance on Baidu BIDU. And retail traders should know. We noticed this today when the big position showed up on publicly available options ...",
@@ -1162,212 +1398,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-the-future-is-now-driverless-road-freight-and-highly-automated-driving-had.md",
-      "title": "The future is now: driverless road freight and Highly Automated Driving (HAD)",
-      "excerpt": "Tim Wouda and Sjoerd Spaargaren, specialists in Automated Driving at HERE Technologies discuss the rise of autonomous trucking and the need for location intelligence like high-definition maps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/sponsored/the-future-is-now-driverless-road-freight-and-highly-automated-driving-had/",
-      "originalUrl": "https://www.just-auto.com/sponsored/the-future-is-now-driverless-road-freight-and-highly-automated-driving-had/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2022/09/HAD-article-hero-visual-1038x487.png",
-          "width": 1038,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-vw-group-gentravel-concept-predicts-a-true-level-5-full-self-driving-car.md",
-      "title": "VW Group Gen.Travel concept predicts a true Level 5, full self-driving car",
-      "excerpt": "What might private vehicle ownership look like in a world where driving is no longer necessary ... Voice activation and artificial intelligence can be used to control various functions.",
-      "sourceUrl": null,
-      "webUrl": "https://wgntv.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
-      "originalUrl": "https://wgntv.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGN-TV",
-        "domain": "wgntv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-volkswagen-concept-previews-tomorrows-driverless-rental-pods.md",
-      "title": "Volkswagen concept previews tomorrow's driverless rental pods",
-      "excerpt": "Artificial intelligence and platooning – fully autonomous driving in convoys – have been factored in to further increase the range for long-distance journeys, Volkswagen adds. Head of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334177",
-      "originalUrl": "https://www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334177",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.perthnow.com.au/publication/C-8334177/099020eebdcba6ebf61b69402bf2175d183a40b6-16x9-x0y173w3805h2140.png?imwidth=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Perth Now",
-        "domain": "perthnow.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-why-driverless-cars-are-taking-hyper-realistic-virtual-driving-lessons.md",
-      "title": "Why Driverless Cars Are Taking ‘Hyper-Realistic’ Virtual Driving Lessons",
-      "excerpt": "No matter how many real-world miles driverless cars experience, it’s unlikely they’ll come up against all of the rare and dangerous incidents they could encounter. So now, driverless car ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/series/george-downs/why-driverless-cars-are-taking-hyper-realistic-virtual-driving-lessons",
-      "originalUrl": "https://www.wsj.com/video/series/george-downs/why-driverless-cars-are-taking-hyper-realistic-virtual-driving-lessons",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://images.wsj.net/im-635191?width=1280&height=720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-automotive-artificial-intelligence-ai-market-size-to-hit-usd-191-bn-by-2030.md",
-      "title": "Automotive Artificial Intelligence (AI) Market Size to Hit USD 19.1 Bn by 2030",
-      "excerpt": "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

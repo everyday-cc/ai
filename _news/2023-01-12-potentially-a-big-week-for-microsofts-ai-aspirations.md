@@ -25,22 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Launches Imagine Cup Junior 2023 Empowering Top Innovations"
-    excerpt: "Imagine Cup Junior (ICJ) 2023 is open for registration creating outstanding paths for students to learn about technology solving world’s biggest challenges."
-    publishedDateTime: 2023-01-11T23:35:00Z
-    webUrl: "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/"
-    ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/amp/"
+  - title: "Microsoft's Panos Panay teases next gen AI-powered Windows 11 & Windows 120 0"
+    excerpt: "Next-gen Windows 11 and Windows 12 OSs could be drastically different from what we have now. Senior executive of Microsoft, Panos Panay recently shared some very early details regarding this."
+    publishedDateTime: 2023-01-15T22:49:00Z
+    webUrl: "https://www.neowin.net/news/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/"
+    ampWebUrl: "https://www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Neowin
+      domain: neowin.net
+    quality: 103
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63bf4eb77e8e55f57de4e9c0/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 1309
+      - url: "https://cdn.neowin.com/news/images/uploaded/2023/01/1673818486_win_11_wallpaper_story.jpg"
+        width: 760
+        height: 428
         isCached: true
+  - title: "Microsoft quietly revealed a new type of AI (it may quietly petrify you)"
+    excerpt: "You always thought this might be possible, but when a famous company says it's done it, it adds a little more scariness."
+    publishedDateTime: 2023-01-15T13:26:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-quietly-revealed-a-new-type-of-ai-it-may-quietly-petrify-you/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 65
   - title: "Windows 11’s new experiment forces Microsoft Edge rounded corners everywhere"
     excerpt: "Microsoft Edge’s latest version comes with an exciting but weird change that lets you experience Windows 11’s rounded corners feature in its full glory. Microsoft has published a new version of Edge Canary with an experimental feature that brings rounded corners to all websites,"
     publishedDateTime: 2023-01-15T12:03:00Z
@@ -57,31 +66,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Supernal to Utilize Microsoft Azure for eVTOL Development"
-    excerpt: "Hyundai’s Supernal recently announced that it is collaborating with Microsoft in development of its electric vertical take-off and landing (eVTOL) aircraft for advanced air mobility. The collaboration aims to advance autonomy,"
-    publishedDateTime: 2023-01-12T20:50:00Z
-    webUrl: "https://www.aviationtoday.com/2023/01/12/supernal-utilize-microsoft-azure-evtol-development/"
+  - title: "Microsoft Strikes Partnership with Paige To Advance Cancer Diagnostics and Treatment"
+    excerpt: "Microsoft is making a strategic investment in Paige, which is leveraging AI for cancer diagnostics and treatment. Paige will also use Microsoft Azure as its cloud provider for the Paige Platform."
+    publishedDateTime: 2023-01-13T00:03:00Z
+    webUrl: "https://medcitynews.com/2023/01/microsoft-strikes-partnership-with-paige-to-advance-cancer-diagnostics-and-treatment/"
     type: article
     provider:
-      name: Aviation Today
-      domain: aviationtoday.com
-    quality: 54
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 47
     images:
-      - url: "https://www.aviationtoday.com/wp-content/uploads/2023/01/courtesy-of-microsoft-project-airsim-for-supernal.jpeg"
-        width: 1280
-        height: 720
+      - url: "https://medcitynews.com/uploads/2021/09/GettyImages-925101084.jpg"
+        width: 732
+        height: 478
         isCached: true
-  - title: "Microsoft bets big on the creator of ChatGPT in race to dominate AI"
-    excerpt: "As a new chatbot wows the world, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI."
-    publishedDateTime: 2023-01-13T19:01:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
   - title: "Microsoft's Future Growth Prospects"
     excerpt: "Investments in Artificial Intelligence over the past decade are now starting to pay off. Share prices have decreased considerably from recent highs."
     publishedDateTime: 2023-01-14T14:11:00Z

@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-07-ai-shake-up-as-prominent-ai-guru-proposes-mind-bending-mortal-computers-which-also-gets-ai-ethics-and-ai-law-dug-in.md",
+      "title": "AI Shake-Up As Prominent AI Guru Proposes Mind-Bending “Mortal Computers” Which Also Gets AI Ethics And AI Law Dug In",
+      "excerpt": "A major AI conference raised eyebrows when a top AI guru proposed that we need mortal computers in addition to immortal computers. What is this all about? What are the AI ramifications? Are there AI Ethics and AI Law concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/12/07/ai-shake-up-as-prominent-ai-guru-proposes-mind-bending-mortal-computers-which-also-gets-ai-ethics-and-ai-law-dug-in/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/12/07/ai-shake-up-as-prominent-ai-guru-proposes-mind-bending-mortal-computers-which-also-gets-ai-ethics-and-ai-law-dug-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62427f3c055f1d39bb6f0b2a/0x0.jpg?format=jpg&crop=3992,2661,x540,y0,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/12/07/ai-shake-up-as-prominent-ai-guru-proposes-mind-bending-mortal-computers-which-also-gets-ai-ethics-and-ai-law-dug-in/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/12/07/ai-shake-up-as-prominent-ai-guru-proposes-mind-bending-mortal-computers-which-also-gets-ai-ethics-and-ai-law-dug-in/amp/",
+      "publishedDateTime": "2022-12-07T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-05-ncsoft-leads-ai-powered-ethical-management.md",
       "title": "NCSoft leads AI-powered ethical management",
       "excerpt": "NCSoft, a local video game developer, is accelerating efforts to establish ethical management of artificial intelligence (AI) data, a principle defined by privacy, unbiasedness and transparency, the firm said Wednesday.",
@@ -1433,49 +1487,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-ai-ethics-four-essentials-cios-must-know.md",
-      "title": "AI Ethics: Four Essentials CIOs Must Know",
-      "excerpt": "All CIOs are under immense pressure to adopt AI-based technologies, and this demand will definitely continue to grow",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/featured/ai-ethics-four-essentials-cios-must-know/",
-      "originalUrl": "https://enterprisetalk.com/featured/ai-ethics-four-essentials-cios-must-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/11/AI-Ethics-Four-Essentials-CIOs-Must-Know.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/featured/ai-ethics-four-essentials-cios-must-know/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/ai-ethics-four-essentials-cios-must-know/amp/",
-      "publishedDateTime": "2022-11-03T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],
