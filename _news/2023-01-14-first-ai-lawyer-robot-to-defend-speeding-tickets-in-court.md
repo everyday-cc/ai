@@ -7,7 +7,7 @@ originalUrl: "https://tribune.com.pk/story/2395862/first-ai-lawyer-robot-to-defe
 webUrl: "https://tribune.com.pk/story/2395862/first-ai-lawyer-robot-to-defend-speeding-tickets-in-court"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DoNotPay's 'first robot lawyer' to take on speeding tickets in court via AI. How it works."
-    excerpt: "Startup DoNotPay, which bills itself as \"the world's first robot lawyer,\" plans to take on two speeding ticket cases in court next month, with its AI instructing the defendants how to respond ..."
-    publishedDateTime: 2023-01-10T19:31:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2023/01/09/first-ai-robot-lawyer-donotpay/11018060002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/12/USAT/2b89f748-56df-4f66-b468-53bebaaae9c6-GettyImages-104821184.jpg?auto=webp&crop=4840,2723,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "'Robot' Lawyer Will Use Artificial Intelligence to Represent Defendants in Court for First Time"
     excerpt: "Next month, a \"robot\" lawyer ... This marks the first time AI will be used in court, Joshua Browder, CEO of DoNotPay, the startup behind the project, told the outlet. Although the company isn ..."
     publishedDateTime: 2023-01-12T13:41:00Z

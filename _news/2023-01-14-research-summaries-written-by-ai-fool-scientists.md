@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-13T19:55:00Z
 originalUrl: "https://www.scientificamerican.com/article/research-summaries-written-by-ai-fool-scientists/?ref=upstract.com"
 webUrl: "https://www.scientificamerican.com/article/research-summaries-written-by-ai-fool-scientists/?ref=upstract.com"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://static.scientificamerican.com/sciam/cache/file/FECA0ED6-15DF-4CFF-8D8C6881CAFE713E.jpg"
@@ -23,6 +24,6 @@ images:
     height: 496
     isCached: true
 
-secured: "vVqe+UxkTypCi/HGsMI6zGGcgIli5UcRtZvZv/vfbxcXb3on0c/dtzmMC3MN+PLwpzAi1CHGqgY4eE94w2Bv3nW9VkojOIndAEobJ1zAGRLPzHX+GoKxv6KFcy9BEhyyutSeZB6An+3QewFx2UHr1JSBI+jtPDEiwy57lxKqPbR63V8aGw+dHTzWNd60tn8kTISHTHHpzhkA9QXs7K8cqXKyK1HCHt3K3U6d3mDomBWVXcp7l30YRc7kFILNK+lb+6R6UmXt3rw0Qs4z6UYWYSnNB9HOIgzAYDDoFAeFOGqTcFqGQc/7WKLsQENSMPyXB8wB9EcZ2k8wjVztdmM9bXQKI0ldXx2EO2E4cudJs5E=;Fj2sjSXFu92TQ0IRObE/zQ=="
+secured: "xj6loZ9P+2JQu1filfNn/bEjshzBmtChQ4XevLs8HieTaVcw9EGOaDd7YQGx5NQ4YAoBRi17qeiG9lu09xPKVgr82gqB5Dh9MIhOABdNTKxgPRmXJo8D1SrtSQWXEC05Cz44o1opcD6fH2gtqNvKuQu+MEViqaA3zkLFl7Ppa3ztVVtipcfLojr4/hyw0Y0ZmATyPIsQeD0f2Cwy3OAYvU2Q3ddfU1ZoJvH8CEdqb1auf7yUvHg1VHSGE+04cQOvNbjTubymp1UeEUmWEZ0c0GiDf0XVYyYTsXH7APLt5jvPg2FdL1E4zdfetj4J3Zn9ljTKgdT6CN2EPF7oluk93z8X4a2s1W5r1TnBCXs4687Sa55VOlKmun9vNamGLdilbtStN6N2E1azqZ2LgqF/UcE5AyT6BgD9rc+yiIVzvBBDZ3+zXuYkd0cBTsJAuk6Gm4hW6N5DYVMK8ULTtq4xZGo/bNpI06NsV0NJRnAFd927CVhbP8YZCo2v/duyML/suyhza+W7GkZ32WNoV/iEug==;nzPcaYuAgAa2PvenStJgSQ=="
 ---
 

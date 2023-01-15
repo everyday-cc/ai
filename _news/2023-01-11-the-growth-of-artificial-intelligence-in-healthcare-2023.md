@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "5 healthcare AI updates"
+    excerpt: "Artificial intelligence has the potential to transform healthcare delivery, and hospitals across the country are making serious investments in AI. Five AI in healthcare updates Becker's has covered since Dec."
+    publishedDateTime: 2023-01-13T00:17:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/5-healthcare-ai-updates.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
   - title: "Forecast 2028 for the Speech Recognition Software Market in terms of size, returns, gross margin, and market share"
     excerpt: "Short Summery About Speech Recognition Software Market: Speech Recognition Software is software that uses electronic technology to recognize speech from people. The Speech Recognition Software ..."
     publishedDateTime: 2023-01-11T17:45:00Z
@@ -68,6 +77,6 @@ related:
         height: 337
         isCached: true
 
-secured: "nZwGROq2r02QrvTdlaZZoIvEpJ8/DZQQZAAPhNCC3WMXb/AI64T6jJS/V/ozp6ppSxi7Gs0drEFiIgEUJhfF3jEyt7LZtQWvlXGJRtNFGEYtMiDPoEVLncJucTDtTBRq/mH8Tonpw3VzvjRbCA12wACw9+aFsmSIUXvL1/ZZLuC9Qafu9IIZBDAk3HNnG48JwUDsDkTwVERsMnC7+klKScQXj2ufyjhQAvLcrfB03uaknRPf4v7LrlTGrXuFEVWFJb3lSlt/QyMIx1qMRPrk4rG3a8vnOXQW1ZpARDcWBsXA34abqnjDQ+gHc9PhrMXzBg+xuSttCtJi1fp7y2olZxoVJSClJ9gUhitJ3t9no0c=;A5ulz9FA5v/IK3Pz5xGhyw=="
+secured: "uRnVnrmOglMiSac4Kz+6YUZfvEbnAlUlf8ox5txFpPREHDZA+n5NJGDuIcnextBSTFBTwsVrryBXAG35diVxgHBFYXXegPB+e7rNepcPaArRJpyaPTcBWEZVP7WHNxwguS3OK57ktEYOvlZlnUKfH2dnkygdrjeFbDP7+L68KhCPC7V9LeLPD+V0+eVPeY8Jh/nZWtIO57tpLzhPdULkc2rv9sKi/PltNGf+6QLHEw5igGEvMz9YpqBVmntB5REs8xCmCbpfZAaRzlKizr7+rUQ781qK41VLPwtPUmp27Vxluu+0dlzl4XzFIjLSFw5Gs7/zVITfa81bbuQ+ZxQsQH99THEtSvBGUZSMfGKtiNP40GH6MNjOaqENrWd0DMJ2bmwFSmCmYuQvyHwfVG6CrO5nLoyzIuoYSLp9nm92/5WkGhzkUR0vwAX5uHpAFXGvicFasFePR8ynKfjrS0wfw1RLLJZkl2nEFr4o14ZVXTm52EPMj6UfBnNsxhPLhj77rj8dtUqTC0I9Bw8Wd1UxSg==;r4E22EumNFmRarkynZLSNA=="
 ---
 

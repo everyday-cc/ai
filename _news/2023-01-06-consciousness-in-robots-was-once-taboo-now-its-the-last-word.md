@@ -1,10 +1,10 @@
 ---
 category: news
 title: "‘Consciousness’ in Robots Was Once Taboo. Now It’s the Last Word."
-excerpt: "Robots were being used for surgical procedures ... The invocation of human features goes back to the dawn of artificial intelligence research in 1955, when a group of scientists at Dartmouth ..."
-publishedDateTime: 2023-01-06T15:05:00Z
-originalUrl: "https://www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.amp.html"
-webUrl: "https://www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.amp.html"
+excerpt: "A robot prototype being developed by Yuhang ... The invocation of human features goes back to the dawn of artificial intelligence research in 1955, when a group of scientists at Dartmouth asked ..."
+publishedDateTime: 2023-01-06T14:30:00Z
+originalUrl: "https://www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.html"
+webUrl: "https://www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.html"
 ampWebUrl: "https://www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.amp.html"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 549
     isCached: true
 
-secured: "FWiL71k0QBumKT9EQml/9QPK7KIQSJu9ln0xKIZtzzOY+qKSf/2hR8R5R8zhvQPjbS/TiCRugrooNoXvDeNfuP8M6mmJ2fYx6jYPTKBLsvjIyZR4eHoEReFf5TVl7bBqtcyOd65NO87KxCsEHCgZhxREgW5RE04k83O3wrrGFwTuLpzcrp/EUyPLSJ4RKBHXWBgLnF36bY8YPK5GIIpr5FPYIVYtI2T62mXQzDkuiBMK1BYx24ZKamW+Sit+J1J3m18Og2YpizybQLX1JtrHQFEcC1/h99yAe3yJzaET6x1skcwvhsl8bpemuXBlTPBktIFfv8EXT8nVmw4xcMkSt5WGQfx+1ED1wKt262XP4no=;D8WDbMpJCUD4pg/rHPiwOw=="
+secured: "RW0FFTtyOW2OZu19I0HXovgmhiguFkq1im78cQ+r0UsybR90LYe5Ey1I5Y/RZ1kI3Aecn1YQ7Xa28cHxcyQ8TYO56KW5UbsxTKYrXSNC7wx3zJhU2e5TrEHpOzeO9dNZOIOiyy7nU/I75NJO2CSyk0/gjdDluElTECqHthWLF2P042HYYr+6ZOqf285K3fNck2apPV5f+xK4mhSrk1oDUDrngbhN86DFvWtdQGJYo5DMCWE64gJ6Ra1JeEHGI2KybWtG7fRorSfCfemVENcJrAMkJ0+KReCHudn85jA7vIF5GFwZ3clycLL9nf6WnKF1L1WPit9n6CKn1dsQG7sFByz8qWOZRZLquYVWot/Gn8Y=;NbEqkU0C1N6h0v7DyjVvrQ=="
 ---
 

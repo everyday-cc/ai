@@ -2,9 +2,9 @@
 category: news
 title: "Global Iris Recognition Market Report 2022 to 2028: Adoption of Biometric Technologies in the Defence and Automobile Industries Drives Growth"
 excerpt: "The Global Iris Recognition Market size is expected to reach $8.9 billion by 2028, rising at a market growth of 15.6% CAGR during the forecast period. Iris recognition is a precise and effective technology for protecting information,"
-publishedDateTime: 2023-01-13T22:28:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/01/13/9743228.htm"
-webUrl: "https://it.tmcnet.com/news/2023/01/13/9743228.htm"
+publishedDateTime: 2023-01-13T21:47:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-global-iris-recognition-market-report-2022-2028-adoption-/2023/01/13/9743228.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-global-iris-recognition-market-report-2022-2028-adoption-/2023/01/13/9743228.htm"
 type: article
 quality: 0
 heat: -1
@@ -48,6 +48,6 @@ related:
         height: 630
         isCached: true
 
-secured: "KSJDnCbfZ0biFpJFXAotARsYsMF98+VdOQnMsDx8IKB8LFMS66z1xkGPxS/tHO4/4Q5Pgl4kvATZHR1glDgVWhWa6THBsZv6rBX03E6P2TiA0AfFjVS12i4XqLmOhI/lf+f+nyR1gtTlly24CT0BzUPh74UNvNF/1NojDKFDYrSbMsNDBrlD5jN5h5KYsW96/AGY752+pwzzfAd87T0l2Vv+yAHeVPGN52nXbMF8n3TlSy3yfGJimrkPgGCCnAayDDENBTyBTUiDknrMLMoyF1h6EN6E8tUkqEk5r6wybJIbJMncEfIft1HXB4/vUkTiQQmskBQhiFISo2dSXLDqtqTh2lpzrFUjDgNBPTFPVzo=;BQvOFjRs4cQCwi2mITHhiA=="
+secured: "RamVbCfeoQqlWk+bgfOM1GHDgWWp+zp2hGKroImRLKb+ynTAWezz03uYHMJwYxy0tOJN7V2Z+FVdW1zgj/xOrDiCecTs6uTw2SWmPU5kRZoXaS58P1rQN+dsVdv6jFMBpeQvFiCDuysEgpV509dSp0QGRHaFLHAkBvdhlxSWoF49kUXWXg52fZIc/T89xtjifTkrnAnISj35YW5oBufjJVKe42Q6cNCarkP1SV3K0GDDzc91cZ5JjI7D9nEW3igzMBVt96i9pAk5NK0B4g+i4WH4s09oGTeEd0tNXBgyxCurKhxktYnBRfu669yJXbh0pP/9wB/lC8QO6WpIw4yMon8B1wNPntmKvp1biOArFZk=;VXFvX07TDsB7+UnXUSHUBQ=="
 ---
 

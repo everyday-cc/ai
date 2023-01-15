@@ -57,6 +57,15 @@ related:
         width: 4468
         height: 3216
         isCached: true
+  - title: "5 healthcare AI updates"
+    excerpt: "Artificial intelligence has the potential to transform healthcare delivery, and hospitals across the country are making serious investments in AI. Five AI in healthcare updates Becker's has covered since Dec."
+    publishedDateTime: 2023-01-13T00:17:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/5-healthcare-ai-updates.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
   - title: "Forecast 2028 for the Speech Recognition Software Market in terms of size, returns, gross margin, and market share"
     excerpt: "Short Summery About Speech Recognition Software Market: Speech Recognition Software is software that uses electronic technology to recognize speech from people. The Speech Recognition Software ..."
     publishedDateTime: 2023-01-11T17:45:00Z

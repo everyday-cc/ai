@@ -38,20 +38,6 @@ related:
         width: 640
         height: 437
         isCached: true
-  - title: "DoNotPay's 'first robot lawyer' to take on speeding tickets in court via AI. How it works."
-    excerpt: "Startup DoNotPay, which bills itself as \"the world's first robot lawyer,\" plans to take on two speeding ticket cases in court next month, with its AI instructing the defendants how to respond ..."
-    publishedDateTime: 2023-01-10T19:31:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2023/01/09/first-ai-robot-lawyer-donotpay/11018060002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/12/USAT/2b89f748-56df-4f66-b468-53bebaaae9c6-GettyImages-104821184.jpg?auto=webp&crop=4840,2723,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "'Robot' Lawyer Will Use Artificial Intelligence to Represent Defendants in Court for First Time"
     excerpt: "Next month, a \"robot\" lawyer ... This marks the first time AI will be used in court, Joshua Browder, CEO of DoNotPay, the startup behind the project, told the outlet. Although the company isn ..."
     publishedDateTime: 2023-01-12T13:41:00Z
@@ -81,6 +67,6 @@ related:
         height: 348
         isCached: true
 
-secured: "SkzAIcEReRH4DfM0JnniYphdkWpJmL6LAC1StmYkZ22G5Cwf0LQ7wYKR2wQAiJ1bO6hGAMfmG98N+XDbask50M2lhNPlcGS5CEfmuNrT12wrorlIonnZ2Tjblnx9H0AgJUfMjIgHHqedf8A6a2zIj2dPf3TYzcgLzNaW/AZbO2yKrAbDFVJp1t59zw5NMOnWw+atZKtK4/6neJVr0obbMXUCK0bpKjGZW3yz01FrNsBCDjc+NulDwMqXHCj5z4BGlSySAqWiAtH7xtHa5NL6TiggPFHrc30/Zm+PgzFdEOVXKsxBZZE1fgbWJ8Os72uo99RtR7W/DuN29ZZYsSL6cTgJX2fUe1IVtM2Po0QgbpA=;1R/MzbQ354V5rBWLWNQIyQ=="
+secured: "tXyuOu8lwknTWJEsNHaeTE/QUgI8d7Dh3t2MCkfcQ9Eph3fLArHFEUgb0s1wgOe7DCUwdE4RlqEDZqZMkgG/J7yumUktGbOSICNctRM0R0u7V4TZzHFCzPwt7m1YvGvTsqyvrmvzccZcDgjefkUlzCDHwvNNt9OzuXYpmwtskR9srgr8cgbyb3xTaZ0pJhDCRFWAHoersDGzW+UNPmUOk5AvzAxYO3DeOSak48LQmRdxw2D6XJLGIa1hff8rD/dD84BYg6/wOySC1l67P1MAYcFXuO94Qcm7iXpAmH9+jhNIh90QQgVvmD6KWTPeg5It+VCP9f3+kG/qNBZCkv66gpClIk+i77zkPK5UXH1x1hIBITlg3GvGo3NdsiWc3NrRK5mKRAyOV3CE/H8HqOomPAcU5D3rPyS2bEj32iF6XmvipFRe6FmMAOzvqs8HSk+06nvIuypM5zn7D5PcYOf30Gn7duk82YdOr9mgDUvMDI7GlNVCP8oHcFiaqdLLSRzCnwGtis92hvKA6XJwymg9pQ==;ys6a79iWtr/m2enKbSneAg=="
 ---
 

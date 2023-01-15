@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3685412/datastax-acquires-machine-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,7 +45,21 @@ related:
         width: 300
         height: 390
         isCached: true
+  - title: "DataStax Bolsters Real-Time Machine Learning with Kaskada Buy"
+    excerpt: "DataStax, which arguably is best known as the commercial entity behind the scalable NoSQL database Apache Cassandra, turned some heads in 2021 with the"
+    publishedDateTime: 2023-01-12T21:31:00Z
+    webUrl: "https://www.datanami.com/2023/01/12/datastax-bolsters-real-time-machine-learning-with-kaskada-buy/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2021/08/shutterstock_cassandra.jpg"
+        width: 1000
+        height: 531
+        isCached: true
 
-secured: "oTRTjXNeITK3JNdF9rgHMO4txHHPLA8Xc/U8GxiiMAqhQGFS0ItFY64Tl8Khf2HdpZyK/p7UjJj5O5YPgXN3PFIdhfZarIHkEp/0PMlr57j1koLrda3LToyEqB3AcBnjnszzpmlpE4bLYe+DRG2Qtk1aQ5YCzhwGQ0HxxrQzH5YK+l9wtgIBKFoBAbknPL8xuAcaPkXfX+iSjVpWeOBDxXq6heS3k8ySZ479o25K5rDFuR6bAooDTL6gYbeylU7E6fBKcr+3rvTt1l9OqBiUsL89I5vqUyJ/LnfbQRfC+JbF/k5kY2BtXQMzd8xzFN5l4CsBwp4cIW9xDFejZTiH7qTGKWfLVa/HYEId8hca8zI=;rrr04nMw54AiSJd4CAR4Jw=="
+secured: "DA6zO3+u/fUBOQsIhXr7YHYexevdOHuvnkOQZS3bEytKXR3dtpHtLAeIv7rcrxT3AKSIkW0dXiWpHNfqKEOj5gQnXziM8sTH31fGloiJ2lUHd2GPF9oYXCyVUAXqzCX+6OCxSAsokMURy+ONLcN7cZHdwZe2ykVN2H4+VXjtABULWR/R5gWXhGftfZXXk9GwJK9c+gmNadfmWWf9SxMeMOlv9FTWGNK7qe7YvF3RfGa+Ak/3YDsGq2QASMkqoACFJesP0dqEIm7faJkJhUzr04tsBC5Mckyxkw6D/y+HwNloq61zpdPEbGA7iF7sPFVkgCd0Lqk2k+RIIFp+6rowb/ElAZd+dvFK0r8HMkqt9cRSZsJyGwpalmLWHAThTORZMJ1B2GhJdpVU6wBlL8I/8lJshJCMHwJ4zeuGjSq/y/KSjoouUjGJf2Mu2l4uEvAFLE2ur69WP7gWjbrlf0c536HjQN1pyzJoTo8Zx2J18PoRCsuMjZozK3frPqNkkpiIxQUL5BiontlBNDvOnBqg3Q==;3xgfVvlllwRydkqcwtGlFQ=="
 ---
 

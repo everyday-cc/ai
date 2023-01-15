@@ -67,6 +67,15 @@ related:
         width: 4468
         height: 3216
         isCached: true
+  - title: "5 healthcare AI updates"
+    excerpt: "Artificial intelligence has the potential to transform healthcare delivery, and hospitals across the country are making serious investments in AI. Five AI in healthcare updates Becker's has covered since Dec."
+    publishedDateTime: 2023-01-13T00:17:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/5-healthcare-ai-updates.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
 secured: "+39elOPCi39BZesnJeEaRhsIFtssY4+7oP8gjHFj030VCJ9DHpvI9ngQFVDlWx5SJVIqtbn+a7+Sx7c+RZxxduahQt0RUKMu+Oh37vahO8SZoF9hndBe2JLST1xgMRPpxOUyTddAGPRfxO58tdbRzA6AF/wHvuhWEpbU43kilC+qTW1BoGgxdcrdq+Mq+K+ksAs4SaBs91RuLHlfo6ukWXHQW5go8+rr6zA4U9v08w/uy+TEsG2PiQ9roti+uohcCVZd2ybAWhdm4ksO9VqgshwNmd6bU/T/IfVLum8FqVQW9tBMLcZK1aTmdmHfwm5sc9Ee3f0mduH0NLSgMmH/CF/0C077xuDtCNYNeRj2WP8=;Mls8CZUzjmZFcKQVj/HnQg=="
 ---

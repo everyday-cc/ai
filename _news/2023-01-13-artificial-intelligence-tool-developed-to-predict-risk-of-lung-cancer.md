@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2023-01-artificial-intelligence-tool-lun
 ampWebUrl: "https://medicalxpress.com/news/2023-01-artificial-intelligence-tool-lung-cancer.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-artificial-intelligence-tool-lung-cancer.amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/lung.jpg"

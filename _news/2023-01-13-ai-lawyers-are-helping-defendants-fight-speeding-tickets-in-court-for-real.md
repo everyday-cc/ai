@@ -39,20 +39,6 @@ related:
         width: 640
         height: 437
         isCached: true
-  - title: "DoNotPay's 'first robot lawyer' to take on speeding tickets in court via AI. How it works."
-    excerpt: "Startup DoNotPay, which bills itself as \"the world's first robot lawyer,\" plans to take on two speeding ticket cases in court next month, with its AI instructing the defendants how to respond ..."
-    publishedDateTime: 2023-01-10T19:31:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2023/01/09/first-ai-robot-lawyer-donotpay/11018060002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/12/USAT/2b89f748-56df-4f66-b468-53bebaaae9c6-GettyImages-104821184.jpg?auto=webp&crop=4840,2723,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "'Robot' Lawyer Will Use Artificial Intelligence to Represent Defendants in Court for First Time"
     excerpt: "Next month, a \"robot\" lawyer ... This marks the first time AI will be used in court, Joshua Browder, CEO of DoNotPay, the startup behind the project, told the outlet. Although the company isn ..."
     publishedDateTime: 2023-01-12T13:41:00Z
@@ -82,6 +68,6 @@ related:
         height: 833
         isCached: true
 
-secured: "KneDEsSizsfxEVavA2YDuUffCIQ+An2TTnLFMapGIC/WregPZFMxG3fk3CDXsdCiodxwsNJTVJszWv6lSyuwl/EWiAgB74+EosoGNZMqEeIvYSrS5mTS3yKsoarNjx3KVne64eAw4bEOKVry5mJmr38zyjtTyj07Xv4zjzdhT4/EHnbG1iH8tX6KmiFO+DySpXgRdBIrdJG4ZyKHnWk8Lsj/bko8oxNeP811VmlQzbiHuIFiMthk8vW/bjBuRBnd2Za6u7sAe0ATNrWC1UXX4Z0pByTSD8+YBBTmNYlN1QGeVpf4ilVfGu6qRNp92V0YCPAKaWP0lHUbnJtSNzXBDdRl7Qti+D5oLcm9bTmwv38=;w0keBWKPn8PmZ3PU3fXGhQ=="
+secured: "2WIxWKdXmZlqt9h3Oon9EooJOzSJ0rHLDMzDtQW9pLOwslz+F/AamD52cGczOLQYOpHy6IFU5sm6GhwzD0ColRo4FP/poF0JsDnUYOOvXjQnPpEstsd0zn1UiSc4iJGFXq60tVnilwvg8OfFJIYSxR/sZyrY1DNxpyOxE/RxeuOmALnpvSVgcw+X7c85ZippTUbq/N+GLJsPkxuCfVXCJ3tPss1fHgDAVBZm3B8UXr4Xqh/EQlaOx93Hup/vsLwOv/17g/zKU9+a1LYcOLxlb0Ogy1jkxo0y7m7RckgrQnqkKTu97roFYnkCviyhSxIncHJSm68VhVINarhxuFIQdwnSDtWGElNIFKKiOx6Sgvg/oRLXvW/6CNE+7kEKFcnxFMXYKTUIiXeTnIr9XDPaudqVfUyK4S+knz+7mfj6//N3K8Nm6QyIUCGWoX9sMiIeiDXu1TKeRR81t5dkZecdwR64d5iwbexY3RXxtHyPErYvcD4E8OHbXnflztp4JuwoTD/nzLltcu5tRP7kozzosA==;fLCuz2nUIWFLYCfEMWpHFw=="
 ---
 

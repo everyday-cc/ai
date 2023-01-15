@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-13T04:02:00Z
 originalUrl: "https://www.genengnews.com/artificial-intelligence/growth-of-artificial-intelligence-in-pharma-manufacturing/"
 webUrl: "https://www.genengnews.com/artificial-intelligence/growth-of-artificial-intelligence-in-pharma-manufacturing/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.genengnews.com/wp-content/uploads/2023/01/AITrends_Lonza_VispSwitzerlandLab-scaled.jpg"

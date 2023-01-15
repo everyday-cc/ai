@@ -61,18 +61,13 @@ related:
         isCached: true
   - title: "Denodo Achieves AWS Data and Analytics ISV Competency Status"
     excerpt: "Denodo, a leader in data management, today announced that it has achieved the Amazon Web Services (AWS) Data and Analytics ISV Competency status. Attaining this status differentiates Denodo as an AWS Partner that has successfully demonstrated deep expertise in data integration,"
-    publishedDateTime: 2023-01-11T06:00:00Z
-    webUrl: "https://www.businesswireindia.com/denodo-achieves-aws-data-and-analytics-isv-competency-status-82492.html"
+    publishedDateTime: 2023-01-11T08:26:00Z
+    webUrl: "https://www.afp.com/en/news/1314/denodo-achieves-aws-data-and-analytics-isv-competency-status-202301100054891"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 39
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Companylog_82492.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: AFP
+      domain: afp.com
+    quality: 19
 
 secured: "OCOdNhYK9AZjyl3xqFxNZzmLaptGN8bAkJaBIwHWjnnNdJ66vbkk2labp7MQJyKITp7GIvYVqI9POsowe39OWa5Ep4rxNEjDg0RoyNBsTnKusftE3hZaK5MAmj/z7kqdlyKqTGxeH8Q7CGc6uSdx5BTGoJ96Agcu1uX6DvNPD3mw2/hEQWxWXIDjowDeTdqp6Rmj+idTMn6Dn248wT9Vl37ZUetl0W6JTg9/9A/LHAHREl43LRcUsDAkrNI8Qh0iXhgJuiF5u/XEt+vNucWGRUqQaUonv2C2m631M6dNVbTz8T7h45uQD/G/hySfxQ4HPslkrggjU9t0QxCcy+tEld2qDfy6iRlqQb7h02EeRMs=;0+A+Z1SigSclX2i0+PhMeg=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/quantum-machine-learning-qml-poised-to-make-
 ampWebUrl: "https://venturebeat.com/ai/quantum-machine-learning-qml-poised-to-make-a-leap-in-2023/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/quantum-machine-learning-qml-poised-to-make-a-leap-in-2023/amp/"
 type: article
-quality: 106
-heat: 106
+quality: 108
+heat: 108
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Machine Learning
   - AI
   - Natural Language Processing
+  - AI in Finance
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-605383559-e1646346568847.jpg?w=1200&strip=all"
@@ -31,6 +32,6 @@ images:
     height: 675
     isCached: true
 
-secured: "Jrb2rgzgRcisKlTxBw8pXzKfFdxzooB/+cpeNnAv9DTswmyaU5u+IiZTdhXJ5xwihY0ntsXWKQHKUYxtQlLF0m4dl0E6iduSY0NtzZqJIeMhRqpysUh/S2ET+BBzJa7pLxgXRKZ2mgemqTpRsITnHxRZ+G0KqKu1e3YuH//T5Ww+csldbPjkftrGv3kHrjDio3ITzI1+Bgg+X+hMv4VQpyLns9x2fgUrKlXcvNo6Y5d/q3zoA0B2Cd5nCj3hIOCQcDIOHu5ZKLcE1TLlvCrelrGyunSo39EiRaE4EKIDC8tk4RdaBU4RaKLhNP+nKjlxegsZRCdroLCEYi9Wn+6zdyAX7F5mBpkMYwbIJvOKr6Q=;V3AVZPE0KgY23mq7c3nwvg=="
+secured: "KLlYhN8OzA1XyhmjLeQ5Q4istxx554LgJs7IpT+nD77O8wcow9vXmSUpCPyUdy0/rwReYj0WMv3pEtR6RgLf0M0yhn+YWlMPCmgJFVRsDLoahunTMgw6Dlsmesraqpc5n6PFFBEMi156tOq/7gB6M85YeIOzKrUbBo079IXiwtOqvX4bKMt9+YVxT6vk1lAdA+p3Am4Z5Vx4bLknzBSAQ9Sd0XmzFJOABbwM5L6LHEBKqJseS54J9nwojEy6lEyRu8w3mb1G8vz5XvWZeM5k6JEbFCXqh+aiunDwgLJBPllsuza3F/tRLG/NOlmPFY+ocyx/+sIFqsj+wKqkxee4jxhxvUdPYyQfzhBid1gYgOxrlbrTVb6kKHlHNbogdK24o/df9vvFJ/A2oMWHbXC8rF0UBmAHAE7GvX02gJYxo6kBCeRofkltBrR61SoTq4sLXwOFSdwGsJQ6L6AnpPuTqhqIA/fXCKB220yGqNsI4q6eCntc9UeUlIhg3nf0ogTz7XpMK6utIaKNv3t9OURUzQ==;Z8meIqkJwuZ93F5rZzf/cA=="
 ---
 

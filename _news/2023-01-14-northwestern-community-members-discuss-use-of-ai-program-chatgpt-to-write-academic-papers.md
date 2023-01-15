@@ -41,7 +41,39 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT: And the rise of artificial intelligence"
+    excerpt: "Welcome. We are now in 2023. Last year in 2022, in a recent television interview after the Nepali general election results, the Maoist leader Pushpa Kamal Dahal said he was surprised by the election results and the leading cause."
+    publishedDateTime: 2023-01-12T08:05:00Z
+    webUrl: "https://thehimalayantimes.com/opinion/chatgpt-and-the-rise-of-artificial-intelligence"
+    ampWebUrl: "https://thehimalayantimes.com/ampArticle/1017615"
+    cdnAmpWebUrl: "https://thehimalayantimes-com.cdn.ampproject.org/c/s/thehimalayantimes.com/ampArticle/1017615"
+    type: article
+    provider:
+      name: The Himalayan Times
+      domain: thehimalayantimes.com
+    quality: 59
+    images:
+      - url: "https://thehimalayantimes.com/thehimalayantimes/uploads/images/2023/01/12/20756.jpg"
+        width: 800
+        height: 417
+        isCached: true
+  - title: "ChatGPT: what can the extraordinary artificial intelligence chatbot do?"
+    excerpt: "Ask the AI program a question, as millions have in recent weeks, and it will do its best to respond"
+    publishedDateTime: 2023-01-13T17:49:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jan/13/chatgpt-explainer-what-can-artificial-intelligence-chatbot-do-ai"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jan/13/chatgpt-explainer-what-can-artificial-intelligence-chatbot-do-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jan/13/chatgpt-explainer-what-can-artificial-intelligence-chatbot-do-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/8fe841cd767bea2719c60a084174d64724d47c1f/0_263_5764_3457/master/5764.jpg?width=620&quality=85&auto=format&fit=max&s=218abc935ca512ae3c43fba89d78f3ed"
+        width: 620
+        height: 372
+        isCached: true
 
-secured: "GiNwBmIWWoF5m/ZtFIQzUeOcF/oJ8br5LA34xBXhq9K65k2VYkM7cyxXkXBjNe0BQhDiVkct08taDUC/fQ2HF8ol7IpSY3MzscRgFC98dZqkoikhWWNFgS2P3gFALMC8IGkJOJcDgyMJPoWtDCdeY43GseyT3UkfgKpv84KlMOMFpRO6yqpMp9BxYlPIIFHNVVD8EhBB4CKhGMNf4qWwnUoZa+ACbhq9a6nBkd1il1xvqxBg58aNZThUTeiNxPtjDPHfUZoMvEOp+hMq8WRSEHegN7gMily0JDelKiTSK/otj4SlMtEKLNVYqUT8ABEdDrTx4llrpsZJsLs/V1m9VG+rrhYZjxRm/MhXgMWI+g8=;Nx3r8RvpwJENchNHBvVypw=="
+secured: "gJifisD4Zs6i4E9q74oPzgjkQEaaxJvuC6/5nANJLR8nOzbv1jNUuim1DZL3wsIQ56ls2CQgU5Ua1H0oj20Ui+dBDLTon7eTLUvfFlKvc2tjJPjEd5LRW/XMg+8kdKMuLymKU//qv+i/6j2zZB45Zbv0uPmpdMDup27rOnzE9tHdy/OaogG9UicdNqSmI+MLD3xQ7bous+sdn7STmtGbAMYYETb2+bvcqOZFITxfyVJkz1EsGf82nuVKViBBOAJpD0P0pQ1SCpzgkAgm8bu7p07W9Bub85pErMfr9O/ItiPZJyioi2qE6jenhP7nnaRdPbTBgN3U5jq8TozhFDiv5u4dUTjD0JuWjrrV1v0JWhjPA0WHRy+PEyObY7+y+VJaH7zPkWsDBGIonczUXeyf1vZq91o1SbnDZMQm+8LqqynGMabV4Uadpcc81hkn4zL8hsv3FPsW9CaVMnx8tmH91gj4qVcF5UPHDcXAwVA3gNJJeyRVynQT9rLD3NyofwLdmGB/NtDwMh6g8p4tFy8qaA==;ebaFSl6cShQQTJ12y7MeKg=="
 ---
 

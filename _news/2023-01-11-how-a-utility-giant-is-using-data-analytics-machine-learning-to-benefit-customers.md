@@ -62,19 +62,14 @@ related:
         isCached: true
   - title: "Denodo Achieves AWS Data and Analytics ISV Competency Status"
     excerpt: "Denodo, a leader in data management, today announced that it has achieved the Amazon Web Services (AWS) Data and Analytics ISV Competency status. Attaining this status differentiates Denodo as an AWS Partner that has successfully demonstrated deep expertise in data integration,"
-    publishedDateTime: 2023-01-11T06:00:00Z
-    webUrl: "https://www.businesswireindia.com/denodo-achieves-aws-data-and-analytics-isv-competency-status-82492.html"
+    publishedDateTime: 2023-01-11T08:26:00Z
+    webUrl: "https://www.afp.com/en/news/1314/denodo-achieves-aws-data-and-analytics-isv-competency-status-202301100054891"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 39
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Companylog_82492.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: AFP
+      domain: afp.com
+    quality: 19
 
-secured: "ILpMqTIuozCJY1q581vasBlt5ZqBTRKZahegBC7C9Cj68ycryyD9mbO998gaOEiwtL1G0n+A5E9YgZA8qLGVzRZjc1xG/jEV/xLHVShl7GvI0+fP7G7M0TQ/kUrRW82I+jwSQLcM7DKbwePJjU+ZyfzXQ6JWjXyqVmoW90zV15LBJRSYVkI7+hsg9uPPRFM50yVPQQas0k/YSgYi8VoDDiEPNWTu/4636f0ayXj6C2vDyByrqm3zW7ECcDbrMi0MDWlDh/CRHHzoeTWscTI721Uqr7LvIaFMwZGjAz9iIwOho4KlpK52NgCHPS/VjEhSP6/SzoqqhC6YxfpK3meScd/i76R+mIkWXSEuyMcnO9c=;wzUu6OTx2EjfYA/FHtbBMg=="
+secured: "q0A0IVwpaqg25yjheDfFJbxe6Qcy0gUqPxEVWRKMHYGPXvo0fl2kPOeLb5ierEhmIqZLyc2MH4VASJdJdnjhrpmWoDPC34h/c5g9kAhD8kFynpwOVfuH5q39DwFAT7XBJjNz6dGJ7+idpr5jY6sta6jUx/c7NjGRNNhPvEejk3kL01SllX/06U1pcsP/Pold7GyXuLH3dieDL8ip8pYQ8TZwxmSdw3jTFfr5jDS7ddbnnowbKMVdb9Y9pOBk0euHUr64gGBETvmien79hWf6d1vfTHZEQPCAg0JxrP/A116DWFnJlew7YQR2BprS1/TnH/IBkjRkyo0qgRAfGFcOFLiDEfaZxsflcId9ulTCE3jBJUkxootT37kEDo8XdycSKQmqUcl6d1nOaPa4Fb0ku5+Bm4yOX3VEQnwrRv4cgAT9EaQIwAbaf3KIBUJ63m2GwUczrhM0Ckf7duDVEmLdBaYQSHBCTc81eW2hImW1ObawvWG1iRh+DTH8jaz8jmClnxBq1/QZXqGFqEBcWWOPVQ==;MJqPjNj4JMNI4xctD7ZcYQ=="
 ---
 

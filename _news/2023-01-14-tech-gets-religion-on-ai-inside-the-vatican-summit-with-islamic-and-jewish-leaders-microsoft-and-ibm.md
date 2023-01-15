@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2023/tech-gets-religion-on-ai-inside-the-
 webUrl: "https://www.geekwire.com/2023/tech-gets-religion-on-ai-inside-the-vatican-summit-with-islamic-and-jewish-leaders-microsoft-and-ibm/"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     height: 1280
     isCached: true
 
-related:
-  - title: "Microsoft's Future Growth Prospects"
-    excerpt: "Investments in Artificial Intelligence over the past decade are now starting to pay off. Share prices have decreased considerably from recent highs."
-    publishedDateTime: 2023-01-14T14:11:00Z
-    webUrl: "https://seekingalpha.com/article/4569974-microsoft-future-growth-prospects"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 41
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1408775753/image_1408775753.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
-
-secured: "9JgMbUpxVaeESm9prwjoM07zrIPDg/VH6I8X5KTPJXflsW8gXqvZe8IauaF1V9QvLGXePx/mWzMAO8yUPMKUwQr1biFPZputoh+aSXdhElsaQ5NaKd433L2SoBt5HfBRzkvRPEUc1XSGOGWJuO7Lr3vrAXsYcYXlzrbzugI+CYC2i+oYiVmPLmVZxKI2UTdmFOJTSxqI9Eo5MtTM0xGgJGDKQZyTYRnwD7L66fd1s7v0CVAaURB1P6yXOHcbnZ6dGhy2tvY5nGO9XIoLcZXbcOmVx7qbfdLdG0uIBXvZzPgdiLPhipHQp/arwbbdhBuUBOPv/obnGZhf8194MkuHECruYJ38HyXLAxcSFidB/U8=;zID4ErseOksj3ycxHyUiow=="
+secured: "wN7z8GuXzZ+jUMG3h97jJ+0SfjIT/ldgm63iLjoI9CXzZuDphjuIFXY3nmSsB9CFOgJePeqEl5UAKEPYawK7sBWhlnBEVUfpXqjjQiGWk6DnlY+c6CvFDEx/I8N4uMjFoLluVKewEh66u+8gyVsQPwa7RV/Y4ahBQMh6bJwIwm60T72V5uOvLzpE3WbzjI9Ve99SYw2WJIi82E0Z9xDXonpxJx1hjCaVytskKg2Jm4poMK0qosvGNgDC/lA7Diui4OpawTq4va4lwbyHTtdLuW23vKwQ2dQhbWwCRD0JAluzNmHmzB232J3eQUQf1fYLM6L38NLpSFzYAsahmEbFyhqnkuzE7nuGx8Bwow+Y9kVBqKFYRISzthVatoJPncWostldBYNwsgHVsM4RbNyARdzxYfr3Kz3HF2em6iWdtnKJkLCg4CxLQBfyqb0Wal5UEgD0ccXhIn59m2QviMdm9HYxmvHDCwrSOa4lo0SSrxqw6EEE7BN+OqZFVKTDcWXDccviUF8jJkyiw8aXDJzTOw==;DWBffZdibUVA/LG0yoIMNw=="
 ---
 

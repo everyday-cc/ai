@@ -1,20 +1,20 @@
 ---
 category: news
 title: "ACRELEC and XXII Team Up to Provide Restaurants with Advanced Computer Vision Analytics for Drive-Thru"
-excerpt: "Restaurant operators will now have access to a platform that combines AI computer vision with timer technology to track the customer journey and alleviate roadblocks in the drive-thru Drive-thru ..."
-publishedDateTime: 2023-01-06T13:56:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30309832/acrelec-and-xxii-team-up-to-provide-restaurants-with-advanced-computer-vision-analytics-for-drive-"
-webUrl: "https://www.benzinga.com/pressreleases/23/01/n30309832/acrelec-and-xxii-team-up-to-provide-restaurants-with-advanced-computer-vision-analytics-for-drive-"
+excerpt: "Restaurant operators will now have access to a platform that combines AI computer vision with timer technology to track the customer journey and alleviate roadblocks in the drive-thru CHICAGO, Jan. 6,"
+publishedDateTime: 2023-01-06T15:51:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/01/06/9739153.htm"
+webUrl: "https://it.tmcnet.com/news/2023/01/06/9739153.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "yHrPtJ9ZDprty2COglRh0DIw7YZdsi068bTKgutXhDyeGy+a1pFOvMrHN8RDmf7F/dBBuHu0HqQK9ZmamVXXNRBEWfCEuGEQMdjRuHN7Rhs5rnJoxoq9ipC6C9pLezCxP19xWITj7ll4iwq72si1iTxr9usF7xjO6sGwetwsX2OsbTGbr9qiBisqaQ9x4Rlga0oPeCwoSnrgwdW1pDmQjKWLYJnctqPj40w0jx/7pTX7qkov23Ne9imiVjlO8/jIUbKaYy0qvOcp3Ob9hjiXLy4wJ0w1aCkehIQooJiezgNBZnQVRwBygnfOSgOtHajN7m6PaP11XUsK2GhRLtr5p5RWiHPbDXaRTcn9xecyNm0=;SXXe/NeZHgz9i47+g4/rug=="
+secured: "kQhLjdC2d7QfwZRAPNh/7UAyJR/6rbz4XJUTX02MC3qINY+IbFk+d+UoFXmq71+uKHPWAjax3Qf5KyjRUyuM4maOdtV26Amc9PsT0QtRss53a4Vo64RiyoPWxFuFANb7QPXjYYIG5Hj3X6TZ/f/APg/i4HA0mO9QQ02CfDtbJUOG2n28vs9G1iWMUfju9p0/7TiZmfl6ZN7MfaFUhGUAJ5KMntX6H+aTXqbUscYoyZULrdk5a1mU5zL5lyHrphG0UPufqHF+Me9QNSSFhS2dJ2QlnGJuPECUf4B0dQLJPl1DqQ22QwWaTKzq6A/Y11Naq6CFil62miasSU8FUZY1dfx/yyaFi9wVDWg02cJo768=;buOrQuZo/vemz31IwiqIsA=="
 ---
 

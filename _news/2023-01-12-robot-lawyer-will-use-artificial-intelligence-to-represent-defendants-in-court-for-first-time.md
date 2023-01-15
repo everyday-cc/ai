@@ -39,20 +39,6 @@ related:
         width: 640
         height: 437
         isCached: true
-  - title: "DoNotPay's 'first robot lawyer' to take on speeding tickets in court via AI. How it works."
-    excerpt: "Startup DoNotPay, which bills itself as \"the world's first robot lawyer,\" plans to take on two speeding ticket cases in court next month, with its AI instructing the defendants how to respond ..."
-    publishedDateTime: 2023-01-10T19:31:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2023/01/09/first-ai-robot-lawyer-donotpay/11018060002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/08/12/USAT/2b89f748-56df-4f66-b468-53bebaaae9c6-GettyImages-104821184.jpg?auto=webp&crop=4840,2723,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI lawyers are helping defendants fight speeding tickets in court, for real"
     excerpt: "Entering a courtroom with a robot lawyer could be a real thing as defendants plan to use an AI legal assistant to help them in upcoming cases."
     publishedDateTime: 2023-01-13T02:58:00Z

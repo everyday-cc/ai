@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Baidu Create 2022 Outlines New Strategy for AI Development Based on Feedback-Driven Innovation"
-excerpt: "Major technology innovations powered by deep learning algorithms such as autonomous driving and intelligent ... further enrich Baidu AI Base, China's first full-stack self-researched AI ..."
-publishedDateTime: 2023-01-10T13:23:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-create-2022-outlines-new-strategy-for-ai-development-based-on-feedback-driven-innovation-1032009402"
-webUrl: "https://markets.businessinsider.com/news/stocks/baidu-create-2022-outlines-new-strategy-for-ai-development-based-on-feedback-driven-innovation-1032009402"
+excerpt: "(NASDAQ: BIDU and HKEX: 9888), a leading AI company with strong internet foundation, today hosted its annual flagship developer conference Baidu Create 2022. The event was held virtually in XiRang, Baidu's metaverse app,"
+publishedDateTime: 2023-01-10T13:24:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/01/10/9740536.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/01/10/9740536.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Autos
+  - AI Hardware
   - AI
 
 images:
@@ -25,6 +21,6 @@ images:
     height: 267
     isCached: true
 
-secured: "q8yc9slxDXHJeT/SkMjlNVm/qSmk4vIKKxrJSkpZGmNdxAIuaVS7GFoIt3bROj6LO0p4dZ4ZRlsyYU1ZozZnqQd3vGOw0ZYE0gMeHVDxUXMWetyXh0AWfIqKXYD5QVpWrKaVvylrLPfyppxxgloUlXDeP4EJsG11J5oG/69KPnE8plFnltoyYLW2WtAHZQL+UXjIEdhLw8PecjgBnxhJwIwVvDm2+AsxR/axwvNxjBCFR3mcUe1G1gxk1WH7ZChX4jyWS8h2/fI9xmOfgbTGmh5oJaQq2fev7ZU3NZETpTguJk7l46ganAnHXHeqkDdO9/z/JnIMHVSoA/sELrNvTDiyOhFVIOHL8ECNb2aYhIo=;Y//x++Vo9x2+yNppLN9+/Q=="
+secured: "jkV3CkGC81gHus591PAhR/NQMTS4d1PkewtZuVDLCCvcKQa4WdMsnumFhBhf6wO7j4DsRKPx6KwlqoOMOcwBALZtGo7n4YBWAU2Rrd2vxaJO8UoGAh6Xmpr9fDJnRmQXM9+e4s2z8Mf84OqrYXrF9/EcF2vkFwJq5wb2HcrVhfjj0djTj0+By3p2kkNRJK6c62/MSgw+uPu6vwGBBv0LwlyOdjkcfqI9lf3JvA9Y6w4UI8yTe7HQT7c6pGlNeuk9qR+5kUdY1UghuVxwCNwUz2OghJnxgTvhlifW7cDR8OSHb4bS4zpx6eB58QRcjwk/hLEvI0f6Wz70FgC4GvdSUOBfPWWhao+qbbht/v5/3cA=;fu5yMhK+zx7VE2VqCcc9LA=="
 ---
 

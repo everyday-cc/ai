@@ -41,7 +41,21 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "DataStax Bolsters Real-Time Machine Learning with Kaskada Buy"
+    excerpt: "DataStax, which arguably is best known as the commercial entity behind the scalable NoSQL database Apache Cassandra, turned some heads in 2021 with the"
+    publishedDateTime: 2023-01-12T21:31:00Z
+    webUrl: "https://www.datanami.com/2023/01/12/datastax-bolsters-real-time-machine-learning-with-kaskada-buy/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2021/08/shutterstock_cassandra.jpg"
+        width: 1000
+        height: 531
+        isCached: true
 
-secured: "7z9yJAYTfFhTsqjob0ueM2uQvcObxJBvjR3wc2NgDHVBe82Zf1emCJZmF1GA66Ruxblj19VpniwT7xSsxQG5g/+oSxB3WZxpX4RdgPZ5bU2Wmf6QLypqkeResZV8naUwQp5Vho9Nf72DyZqlZLXOoVGVgDq2d8jQkdjq4SCcokkThBKPEdYvMdakegBlnhO8kHzOEhZEnsAJgFy9gu+j+ClieO9ndSARbIliuWmLBGYSMxAa3/9EHZnTDyWf0up5qa4P4vYFk6nGYtK7nbvrjYoo3223i5PyJ4vhb9fLmZiIVO083Ld04OQiLRJn5oVEBUALY3wlion6Mhn1tLGaYF85de68NgkvPkJpPcxXieM=;X88D14BN+v7Jk9OcOAkchA=="
+secured: "oow6SATqIiYGGziPylCz1EIN3+4TGjcpbqFoghOMvzvomzsHSObSqdfKy+97ifvgWfhRcPCeJ7HnvVBXutpR4mp2Cjs4r2bGCcdJbNuLFRPPAqYRMLhNcd7pKU9WeCL20ZiHljI+wWp+rwuerXlD7FHDKMggqvzlMiqZqoXvjNo58CSN1IL6TGB+FsHBf5DrqW6MC4TVSzpnXXBcUH6CRwzz8whnHtMkx29GsxM//ouGDRJwQj4EJ8kwxEfn9tA8CKvKmAGGRhrizC+JZvb6KDB7TiQI2HJhE2OEdEuxdC5RDaswdhJrg8QHs9ZqmofaS/U16stcnZuDBk8IES4Yj3mul7/rPFM43zftkpajh+FRVbqu9RSd3PbAgfTlXserXYHN5AjWC00nrEwoqP6kCH2sIFB/jroF4AdSc8XCaPhRzfFiF5UP0MUVNnXEUTbE8u1WCE7iZV/b6TwYUJtr/4EMKpcyl+YcfcqSsRvXrbIcE/o35vNfCLnX5N3iEQltcVctZAXIgaAerwU0UDyJWA==;24HK2RqGbX9sfNETVLGo5A=="
 ---
 

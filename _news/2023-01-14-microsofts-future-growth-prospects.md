@@ -26,21 +26,87 @@ images:
     isCached: true
 
 related:
-  - title: "Tech gets religion on AI: Inside the Vatican summit with Islamic and Jewish leaders, Microsoft and IBM"
-    excerpt: "It’s unusual for tech executives and religious leaders to get together to discuss their shared interests and goals for the future of humanity and the planet. It’s even more extraordinary… Read More"
-    publishedDateTime: 2023-01-13T18:13:00Z
-    webUrl: "https://www.geekwire.com/2023/tech-gets-religion-on-ai-inside-the-vatican-summit-with-islamic-and-jewish-leaders-microsoft-and-ibm/"
+  - title: "Microsoft Launches Imagine Cup Junior 2023 Empowering Top Innovations"
+    excerpt: "Imagine Cup Junior (ICJ) 2023 is open for registration creating outstanding paths for students to learn about technology solving world’s biggest challenges."
+    publishedDateTime: 2023-01-11T23:35:00Z
+    webUrl: "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/"
+    ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/amp/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 70
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/01/microsoft-pope.jpg"
-        width: 1828
-        height: 1280
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63bf4eb77e8e55f57de4e9c0/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 1309
         isCached: true
+  - title: "Windows 11’s new experiment forces Microsoft Edge rounded corners everywhere"
+    excerpt: "Microsoft Edge’s latest version comes with an exciting but weird change that lets you experience Windows 11’s rounded corners feature in its full glory. Microsoft has published a new version of Edge Canary with an experimental feature that brings rounded corners to all websites,"
+    publishedDateTime: 2023-01-15T12:03:00Z
+    webUrl: "https://www.windowslatest.com/2023/01/15/windows-11s-new-experiment-forces-microsoft-edge-rounded-corners-everywhere/"
+    ampWebUrl: "https://www.windowslatest.com/2023/01/15/windows-11s-new-experiment-forces-microsoft-edge-rounded-corners-everywhere/amp/"
+    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/01/15/windows-11s-new-experiment-forces-microsoft-edge-rounded-corners-everywhere/amp/"
+    type: article
+    provider:
+      name: Windows Latest
+      domain: windowslatest.com
+    quality: 58
+    images:
+      - url: "https://www.windowslatest.com/wp-content/uploads/2023/01/Windows-11-Microsoft-Edge-rounded-corners.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Potentially a big week for Microsoft’s AI aspirations"
+    excerpt: "Microsoft has wowed some in the community with its updated text-to-speech model and would also like to invest $10 billion in OpenAI."
+    publishedDateTime: 2023-01-11T22:12:00Z
+    webUrl: "https://www.biometricupdate.com/202301/potentially-a-big-week-for-microsofts-ai-aspirations"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/17145359/AnyVision-audited-for-violations-of-Microsoft-AI-facial-recognition-principles.jpg"
+        width: 2000
+        height: 1001
+        isCached: true
+  - title: "Supernal to Utilize Microsoft Azure for eVTOL Development"
+    excerpt: "Hyundai’s Supernal recently announced that it is collaborating with Microsoft in development of its electric vertical take-off and landing (eVTOL) aircraft for advanced air mobility. The collaboration aims to advance autonomy,"
+    publishedDateTime: 2023-01-12T20:50:00Z
+    webUrl: "https://www.aviationtoday.com/2023/01/12/supernal-utilize-microsoft-azure-evtol-development/"
+    type: article
+    provider:
+      name: Aviation Today
+      domain: aviationtoday.com
+    quality: 54
+    images:
+      - url: "https://www.aviationtoday.com/wp-content/uploads/2023/01/courtesy-of-microsoft-project-airsim-for-supernal.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Microsoft bets big on the creator of ChatGPT in race to dominate AI"
+    excerpt: "As a new chatbot wows the world, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI."
+    publishedDateTime: 2023-01-13T19:01:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
+  - title: "Microsoft, Paige to apply AI to digital pathology images"
+    excerpt: "Microsoft has partnered with Paige to apply artificial intelligence to digital pathology images to develop and deliver new clinical applications and computational biomarkers with the aim of transforming cancer diagnosis and patient care."
+    publishedDateTime: 2023-01-12T19:06:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/microsoft-paige-to-apply-ai-to-digital-pathology-images.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
-secured: "MAFcpLXBab0ZuVdRjawZUclQGtTO4+i3dSgINkpXYAroGWM23uTpLnx6QqjDbfqOwJhkvlTYIO7WnyI5RdSwzI4mE6xrlpusQEUOFh0ALzIfmcaok+0q7NxTeiJaDpyZhhiSd4gKsNKC2FLEo27FBEB+mhx59VXkhztFsMngL1eA6C9Y/ilGx4WylPESmKT9gvLXFuJQBwkutYyBoyxKPyx+zhu+wdMUO3UEV0B1+rd5tSRX5Pg1gGhy7REGEKRjKit3cCvqUguNyiMMcRfGy8dhSJXCQuKbwkDAWYwJCsO6bM1GbjXyG00ol/TauWW5qelNYsxK0MIzFYnVZu4esPwPf5Bmp4B/DmTnWy4S3Y0=;a0iAoBl+Ra4DUlrimLMiew=="
+secured: "ZKAH1g+m2ulD+O3zZhB/WLe8VVPLF7T/w/ZrJn9RM8Ng/2UPxYv236IhypolgehW2DtDlrrJyxrb497zO9aRn1merJVR+5juGXlzS/gxKodT2h3fNfJkbNIeRdht6QGFFAx144Pu24vmMHopELUR1MoSciOj9tl4E2+psWkXuxkQo4KcRr5cmQ2iVSxB4Up6f//brs6crp3f/F834UIPseyxE7luGpSAsProKtrfz0bgBTmt9JCXcEMTn1miObAMRZdBvxM/XGw81s7P0g+kIRq8JccH2i/EA77buXWgIuQ87cVl5dqUAfMv+dsxDHjb1N4/dSRmTWxvcMWNHtNAwPOL/TodAQOzI0BYsexh1OXt36z1op/YQIHtoDNgSYlZ6/PVweTV6an0rlJQxxn5lgWSV8dH2BMDnV25N1nPoDVPYx3egBvXXemNjfGcQhka+gaR0QpP3ihsU+8S46pinqBlrjKN+gbfU2Fi9YVRumUbpItk9RxPgF9MeqT9oE7cpRVtYMID4PYdBCL3BvSjvA==;Tq3WoJa7yOfQ5y+pqff/kA=="
 ---
 

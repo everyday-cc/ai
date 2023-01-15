@@ -25,53 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "The ChatGPT revolution? Microsoft seems to have very big plans for this AI chatbot"
-    excerpt: "Microsoft could be ready to spend billions on ChatGPT and extend use of the chatbot through its products according to reports."
-    publishedDateTime: 2023-01-10T20:51:00Z
-    webUrl: "https://www.zdnet.com/article/chatgpt-revolution-microsoft-seems-to-have-very-big-plans-for-this-ai-chatbot/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-revolution-microsoft-seems-to-have-very-big-plans-for-this-ai-chatbot/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-revolution-microsoft-seems-to-have-very-big-plans-for-this-ai-chatbot/"
+  - title: "Microsoft Launches Imagine Cup Junior 2023 Empowering Top Innovations"
+    excerpt: "Imagine Cup Junior (ICJ) 2023 is open for registration creating outstanding paths for students to learn about technology solving world’s biggest challenges."
+    publishedDateTime: 2023-01-11T23:35:00Z
+    webUrl: "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/"
+    ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 98
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.zdnet.com/a/img/resize/8b07af62c2f5d55bfbf11acd970989eb2dafbda2/2023/01/09/6c3b972b-a36f-4f06-9911-5b5a967144e7/gettyimages-1245391800.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63bf4eb77e8e55f57de4e9c0/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 1309
         isCached: true
-  - title: "ChatGPT: And the rise of artificial intelligence"
-    excerpt: "Welcome. We are now in 2023. Last year in 2022, in a recent television interview after the Nepali general election results, the Maoist leader Pushpa Kamal Dahal said he was surprised by the election results and the leading cause."
-    publishedDateTime: 2023-01-12T08:05:00Z
-    webUrl: "https://thehimalayantimes.com/opinion/chatgpt-and-the-rise-of-artificial-intelligence"
-    ampWebUrl: "https://thehimalayantimes.com/ampArticle/1017615"
-    cdnAmpWebUrl: "https://thehimalayantimes-com.cdn.ampproject.org/c/s/thehimalayantimes.com/ampArticle/1017615"
+  - title: "Windows 11’s new experiment forces Microsoft Edge rounded corners everywhere"
+    excerpt: "Microsoft Edge’s latest version comes with an exciting but weird change that lets you experience Windows 11’s rounded corners feature in its full glory. Microsoft has published a new version of Edge Canary with an experimental feature that brings rounded corners to all websites,"
+    publishedDateTime: 2023-01-15T12:03:00Z
+    webUrl: "https://www.windowslatest.com/2023/01/15/windows-11s-new-experiment-forces-microsoft-edge-rounded-corners-everywhere/"
+    ampWebUrl: "https://www.windowslatest.com/2023/01/15/windows-11s-new-experiment-forces-microsoft-edge-rounded-corners-everywhere/amp/"
+    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/01/15/windows-11s-new-experiment-forces-microsoft-edge-rounded-corners-everywhere/amp/"
     type: article
     provider:
-      name: The Himalayan Times
-      domain: thehimalayantimes.com
-    quality: 59
+      name: Windows Latest
+      domain: windowslatest.com
+    quality: 58
     images:
-      - url: "https://thehimalayantimes.com/thehimalayantimes/uploads/images/2023/01/12/20756.jpg"
-        width: 800
-        height: 417
+      - url: "https://www.windowslatest.com/wp-content/uploads/2023/01/Windows-11-Microsoft-Edge-rounded-corners.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "ChatGPT: what can the extraordinary artificial intelligence chatbot do?"
-    excerpt: "Ask the AI program a question, as millions have in recent weeks, and it will do its best to respond"
-    publishedDateTime: 2023-01-13T17:49:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jan/13/chatgpt-explainer-what-can-artificial-intelligence-chatbot-do-ai"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jan/13/chatgpt-explainer-what-can-artificial-intelligence-chatbot-do-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jan/13/chatgpt-explainer-what-can-artificial-intelligence-chatbot-do-ai"
+  - title: "Supernal to Utilize Microsoft Azure for eVTOL Development"
+    excerpt: "Hyundai’s Supernal recently announced that it is collaborating with Microsoft in development of its electric vertical take-off and landing (eVTOL) aircraft for advanced air mobility. The collaboration aims to advance autonomy,"
+    publishedDateTime: 2023-01-12T20:50:00Z
+    webUrl: "https://www.aviationtoday.com/2023/01/12/supernal-utilize-microsoft-azure-evtol-development/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: Aviation Today
+      domain: aviationtoday.com
+    quality: 54
     images:
-      - url: "https://i.guim.co.uk/img/media/8fe841cd767bea2719c60a084174d64724d47c1f/0_263_5764_3457/master/5764.jpg?width=620&quality=85&auto=format&fit=max&s=218abc935ca512ae3c43fba89d78f3ed"
-        width: 620
-        height: 372
+      - url: "https://www.aviationtoday.com/wp-content/uploads/2023/01/courtesy-of-microsoft-project-airsim-for-supernal.jpeg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft bets big on the creator of ChatGPT in race to dominate AI"
     excerpt: "As a new chatbot wows the world, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI."
@@ -84,7 +82,30 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "Microsoft's Future Growth Prospects"
+    excerpt: "Investments in Artificial Intelligence over the past decade are now starting to pay off. Share prices have decreased considerably from recent highs."
+    publishedDateTime: 2023-01-14T14:11:00Z
+    webUrl: "https://seekingalpha.com/article/4569974-microsoft-future-growth-prospects"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 41
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1408775753/image_1408775753.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Microsoft, Paige to apply AI to digital pathology images"
+    excerpt: "Microsoft has partnered with Paige to apply artificial intelligence to digital pathology images to develop and deliver new clinical applications and computational biomarkers with the aim of transforming cancer diagnosis and patient care."
+    publishedDateTime: 2023-01-12T19:06:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/microsoft-paige-to-apply-ai-to-digital-pathology-images.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
-secured: "4BKqE1CfzVA7auYW6GXpPYEQnMiS3XYAmnXt5cmdDiQ5rWo3ro14NrE/tyuu3cAz9oGI47HiAHF7LzVHEgGGu8DLTue48dJpn00cRSu9KZ4YiYyhtkVNmIedjOiV0CvUrqldD03Q1WDU9AYX9Tqn44/zAEfrOaJaSlXvXAM+0nqiU42sxGBGEi2+Jld/kJk0YYsZQLgrk9cufP69l0xXT5+UZ/k8/tn2w1dKBXMLO29EfABjrtqhG9IMoeDeMIvDwxeYTvvTl1LYvQBQeS4RzMHq9bzDtObrjSPxpAKfDys2ALJG0uMLLqo0QhoTO9TJRMb4wVXodbocdbsUgBOe/4vmW476ILJ77NSOaugjk+o=;54ed5eD7g2IfFloadCq7EQ=="
+secured: "kzBhzje9SeFpVrfkPF2YG8gFm10jyG8jx4Zlp1XYf+0pVFZjt0jDjWfQ2pW6TXvJh6AIxfVZR2RuyPdJUJ1dfVMOcpQgsd8KTnf9zxenb2MrmVIbEGEsGxgmMZ2sLBHsU4VzhJytKsGydN5R3eSzmAi5uXWivWL0FYTGsaoHWojAvlLUZhBBqMSiMQRWD9OI1XDl0GtNJM2jlSo8q0e9DlFwVbxIwbTn/65ubqMYnfnuAuPaAxXgz0eGvx4eEqmMhO7SABmG1K8EwXi1LEW0vAwbAFgKW9MHKXkStpxDGirJaJIvIhBp+ynJ4tiywZIQBuqLbJdRZcwGZk29+Z0dliSODcIO65K1RGTzQocbj3tjxbp1Ll/F/MBn/Yqva6puJMgfwOGHYrzUkWDFDsMgBf9yOK4QGpAhnhT7fqpn9WYRblsSb/cSt2pwLIE/d2K0NRG5lDyHFpFwZfPI6hNrYdYVmTdiNZ8irsFcHKFRpKmUW0LpYsSsReVplJpwevr0kBaEIlLVTseIIn4QW6vgRA==;2SbV/AkAAt/Z6dVbmNy5qw=="
 ---
 

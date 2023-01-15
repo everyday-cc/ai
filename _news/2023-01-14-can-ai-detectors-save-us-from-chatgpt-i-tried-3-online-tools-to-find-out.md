@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/can-ai-detectors-save-us-fr
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/"
 type: article
 quality: 86
-heat: 96
+heat: 116
 published: true
 
 provider:
@@ -30,6 +30,38 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT: And the rise of artificial intelligence"
+    excerpt: "Welcome. We are now in 2023. Last year in 2022, in a recent television interview after the Nepali general election results, the Maoist leader Pushpa Kamal Dahal said he was surprised by the election results and the leading cause."
+    publishedDateTime: 2023-01-12T08:05:00Z
+    webUrl: "https://thehimalayantimes.com/opinion/chatgpt-and-the-rise-of-artificial-intelligence"
+    ampWebUrl: "https://thehimalayantimes.com/ampArticle/1017615"
+    cdnAmpWebUrl: "https://thehimalayantimes-com.cdn.ampproject.org/c/s/thehimalayantimes.com/ampArticle/1017615"
+    type: article
+    provider:
+      name: The Himalayan Times
+      domain: thehimalayantimes.com
+    quality: 59
+    images:
+      - url: "https://thehimalayantimes.com/thehimalayantimes/uploads/images/2023/01/12/20756.jpg"
+        width: 800
+        height: 417
+        isCached: true
+  - title: "ChatGPT: what can the extraordinary artificial intelligence chatbot do?"
+    excerpt: "Ask the AI program a question, as millions have in recent weeks, and it will do its best to respond"
+    publishedDateTime: 2023-01-13T17:49:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jan/13/chatgpt-explainer-what-can-artificial-intelligence-chatbot-do-ai"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jan/13/chatgpt-explainer-what-can-artificial-intelligence-chatbot-do-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jan/13/chatgpt-explainer-what-can-artificial-intelligence-chatbot-do-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/8fe841cd767bea2719c60a084174d64724d47c1f/0_263_5764_3457/master/5764.jpg?width=620&quality=85&auto=format&fit=max&s=218abc935ca512ae3c43fba89d78f3ed"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Northwestern community members discuss use of AI program ChatGPT to write academic papers"
     excerpt: "Essay bots may be the next industry to be automated away, thanks to AI program ChatGPT. Artificial intelligence can be used to perform a variety of human-like tasks, including turning information from the internet into detailed written responses,"
     publishedDateTime: 2023-01-13T18:47:00Z
@@ -45,6 +77,6 @@ related:
         height: 901
         isCached: true
 
-secured: "EdZ86t4Lz77Tvl0CnAbR38MqupTP9J4FcgaVN1HG1ZjMRB957X4/hrvJxRQELq3EaJGSXws23CvCToKvjq4InBLjCDAs+xlEsf2K+S5MPRsnaD8enTaJxJiuinoM27e/NoLkqxVoIFqt72LqugL9fyri+Qdlzcm5ANDJkJPEmaVrt68z8+0DLRozyy0+aEVWxKTjhp3F5frPun7QTuvSsIbtVg89M9fV3W9bMMcjT3J1Z48FlDbZkltd0zaQFMxWIb2cWxagMwu6BHMr+3nsyyhbn7ySFvUvx/hglMEFMvhna2yHUdwSqLLGj6nqoxb+4ltDxAWO1uXyfU1R0kvpUPelbA/d8U1XHmF0AbiKYB8=;r6frj2vL9hK8FJr2g5bj+w=="
+secured: "mfRGsEkRKHt9YjkKQPRvhyX4cdFFC8+FPCXHSWunN7xSnlK8Vvb5tytLniZDRNtTY3MXnPnQJ/PkwS1Sy4BgoXWkqpe/W5MTvF1pKUcNm/QjQ6+nsPRB/DIeuwPKXU2Yt9nrAssU1hvENks1CJyENS/jAyxpiRz7A8sU1UK7MCOonkhbhHteVoOlWaFWhRguhp7kisy6ouzTPj3xwwxF6Xj8LjrMA337dedjX+DPVjUCx26xj2D+BedEIzvuWi26u+KGqzNdGzPYqm73cv70ekcn+BzOHP1wPdDuutst6xAgZSzrPvTVkACcrh7tksaLhVReANoiesWkaa3P4YIgnejkZFSqzhTA7I7ySz+gKaLYRsliNiCdrwXmQVa+JTDaTb7dS4XboScrywcBSin8kAAODvD7gBNvMQth3ScphYSY14CocKGoC3pkrUgaBEQBjpm0ycWUO6YT3BRpKRVXd9yH1YyJWiqLK/GF6ClK39gmkQmrc9AmNfhLAUmqSCAgg4jE8ywBTvmZgLMuVhiNLA==;dc/uYQYY9bqRzg793uYknw=="
 ---
 

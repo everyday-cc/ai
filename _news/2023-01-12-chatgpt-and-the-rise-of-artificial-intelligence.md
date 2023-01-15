@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "The ChatGPT revolution? Microsoft seems to have very big plans for this AI chatbot"
-    excerpt: "Microsoft could be ready to spend billions on ChatGPT and extend use of the chatbot through its products according to reports."
-    publishedDateTime: 2023-01-10T20:51:00Z
-    webUrl: "https://www.zdnet.com/article/chatgpt-revolution-microsoft-seems-to-have-very-big-plans-for-this-ai-chatbot/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-revolution-microsoft-seems-to-have-very-big-plans-for-this-ai-chatbot/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-revolution-microsoft-seems-to-have-very-big-plans-for-this-ai-chatbot/"
+  - title: "Can AI detectors save us from ChatGPT? I tried 3 online tools to find out"
+    excerpt: "With the sudden arrival of ChatGPT, educators and editors are facing a worrying surge of automated content submissions. We look at the problem and what might be done."
+    publishedDateTime: 2023-01-14T01:55:00Z
+    webUrl: "https://www.zdnet.com/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 98
+    quality: 86
     images:
-      - url: "https://www.zdnet.com/a/img/resize/8b07af62c2f5d55bfbf11acd970989eb2dafbda2/2023/01/09/6c3b972b-a36f-4f06-9911-5b5a967144e7/gettyimages-1245391800.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/69f53b17fd222baf337bde0508984dc0abbc56a2/2023/01/13/1b3cc46b-7c9b-445f-a88d-dc026d97e8e3/gettyimages-1418475387-1.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -59,32 +59,21 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Potentially a big week for Microsoft’s AI aspirations"
-    excerpt: "Microsoft has wowed some in the community with its updated text-to-speech model and would also like to invest $10 billion in OpenAI."
-    publishedDateTime: 2023-01-11T22:12:00Z
-    webUrl: "https://www.biometricupdate.com/202301/potentially-a-big-week-for-microsofts-ai-aspirations"
+  - title: "Northwestern community members discuss use of AI program ChatGPT to write academic papers"
+    excerpt: "Essay bots may be the next industry to be automated away, thanks to AI program ChatGPT. Artificial intelligence can be used to perform a variety of human-like tasks, including turning information from the internet into detailed written responses,"
+    publishedDateTime: 2023-01-13T18:47:00Z
+    webUrl: "https://dailynorthwestern.com/2023/01/13/campus/northwestern-community-members-discuss-use-of-ai-program-chatgpt-to-write-academic-papers/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
+      name: The Daily Northwestern
+      domain: dailynorthwestern.com
+    quality: 30
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/17145359/AnyVision-audited-for-violations-of-Microsoft-AI-facial-recognition-principles.jpg"
-        width: 2000
-        height: 1001
+      - url: "https://dailynorthwestern.com/wp-content/uploads/2023/01/FRAUDPAPER-ILIANA-GARNER.jpg"
+        width: 1501
+        height: 901
         isCached: true
-  - title: "Microsoft bets big on the creator of ChatGPT in race to dominate AI"
-    excerpt: "As a new chatbot wows the world, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI."
-    publishedDateTime: 2023-01-13T19:01:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
 
-secured: "k1uMBTdfoYrIiNU5KYegKweWHADmYbdlhJGyJmwgdxAMNRvQGrs+ez/z/h0+69I/CzkUi1wNpr8O/i8C/RlzPIdd7BD87158WplQG1ka97IDWHENLcPBnAD9Wg4M/7gAkzPlkri29Go2ee8DA63MXVDapCaGBS9BptTj/jpqRrKXeh262aPNzUp61Ao80UPcp0M1r8QAdA+Govlr5tbhWJKj0GkTGM7m2HOT1vlqLoORVXnjY4dPcF26cOuDF9Wq9RMKXqjwx7hDD6Bh58JnPvmIv+ADHeGDV8gBsug9SmqFpvK8bRCSsyZCRLbh8s0cIbZKr9tVn2ChMumFD9V85Mix4xHdXLapZmrWzq+L4ys=;dpwF9WzcjpbOtGSWE80uig=="
+secured: "7TafbfBNOc4hn2hFyXaJcI3zZcspjJLd4RAeYeChTcYq6UQpAfDR3d4A4sagR1/LNDiXQfwDc/bs1sYNAvaQ4qZVpIgphKVqa5ZSUhQTqnqhdELSoS1CcTipurWU8LsOFE89R2bcy+Dv/CnM1ZtkYs0hTtqDM8ZR/ysbOUEcL7yvGnEdqTQ4uvu7AQ23HdfDWzyW76O3JotkWQvkPnBdkZDgUIgLU47QAVDaJV9DbO597GYh/rpmFOH0qgTEWG5QTrb+wGbY0i4/0dmqjgQRdg9CIwuXqDcafbYr7KP68Bd7GJ0fBlMwlB0AVPhK4TOzXN8kUPufHWmhxaTM3xqYWXnfk04OybgwPtLZltDriyNfYRxqGhhYIlorJEab6LDlL5z6pGkEiFP82K4IfRh6g5MdoOEZTZt0V89QqxoGPLKf+AuN0R1DZm5J30ec7Nhj5SfPcGtv5xnMoXx50NCaE0iVC/aLVHyriCuMrL+a5AIP18RV9/+1y3d+WU8bbABRRgRtTTPk1qjeNLbkjOYojQ==;UnD9kcNjzFZH4Ym2W8C6vQ=="
 ---
 

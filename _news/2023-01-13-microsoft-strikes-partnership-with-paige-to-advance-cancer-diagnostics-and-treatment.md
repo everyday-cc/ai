@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2023/01/microsoft-strikes-partnership-with
 webUrl: "https://medcitynews.com/2023/01/microsoft-strikes-partnership-with-paige-to-advance-cancer-diagnostics-and-treatment/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -24,31 +24,6 @@ images:
     height: 478
     isCached: true
 
-related:
-  - title: "Supernal to Utilize Microsoft Azure for eVTOL Development"
-    excerpt: "Hyundai’s Supernal recently announced that it is collaborating with Microsoft in development of its electric vertical take-off and landing (eVTOL) aircraft for advanced air mobility. The collaboration aims to advance autonomy,"
-    publishedDateTime: 2023-01-12T20:50:00Z
-    webUrl: "https://www.aviationtoday.com/2023/01/12/supernal-utilize-microsoft-azure-evtol-development/"
-    type: article
-    provider:
-      name: Aviation Today
-      domain: aviationtoday.com
-    quality: 54
-    images:
-      - url: "https://www.aviationtoday.com/wp-content/uploads/2023/01/courtesy-of-microsoft-project-airsim-for-supernal.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft, Paige to apply AI to digital pathology images"
-    excerpt: "Microsoft has partnered with Paige to apply artificial intelligence to digital pathology images to develop and deliver new clinical applications and computational biomarkers with the aim of transforming cancer diagnosis and patient care."
-    publishedDateTime: 2023-01-12T19:06:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/microsoft-paige-to-apply-ai-to-digital-pathology-images.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
-
-secured: "x8aH9LEOLxtq7NTBZn1N2J5j44Byf+FSH+Tj32tm9vB09kMR+exFPWBoII1gBZ+MXJcezfZL3lk3aQq3mFtUbJeq44/8NPnqjVAcZpMEcq49wrxCpwNyeN8DPnIQbfShKTTFXdFwaEtOQ6BmDfPGT7Ufg3WSGX+i9Plf8tNf3x8siCLjTQS8aMxYQS/VDYIe+thSdGD0ahKA7ckBHEbSNVPd5YztXNlsHr5+HM3SJ/mxVrvEscp6yFNbEJSKKrRAIQgjvxnGCxnCAbtJ+JVZBK+afJwLhL/5TMPaUPOG3SyW6NNfM2kzHsjwlvNx+Cr3/F5Te3QaQHGfsybpegX478DgXZLXjiO2QV/5NmTAvv4=;kfbuuwish1E41VjaIqO/dA=="
+secured: "I9xAm6l0T1gOFWKs63+L41v1vKCh1AsCIPNHlLFQVGwyRD7Q3d9rHdLuwdHiOtgwPpmLKfwunNobYRRvUGuop1KLuKTNU7CcpemVEXmohy43Pk9o3cNi2f6kVDJa5l3yXL5H/h2GoIlAZNQ1qk0Q0P5HzJY39DA6n5PKdLmCS7fRO//eRNc6CIwPgkCVL09Ag5WTg5V8/k6kZwgUmiBKfjqMq3t81ex8YWnZpIOGHoC+8ztzVvTSEJaanYUzFP8KW55xo+OWfLjyllhpEEwP15/EU4697Z8c3iB4OCsCh1KReU4ViSzOvoOukgKL2EuQiMeN4mDccp2kbqFZyDj8TzZYIikjXyS+0dkfefwZq86FKdJXFSd4yNbbZ/uWHHGUUhI19wyJZb4ryb1P8qpwKpUfFakFpdYzKY4RtfPTR07AhCGNdPeRbjVS9A4hW3d47RoSRta98NlYEcICWnI0vaIfbPmCCJzcfzF7wb5ft0qWsedNhfM/dJXXLGGqzoMGsJSUO/UV6+5lyEwQiN4Vyw==;+2dc1J0NOJkRN0WI9jh9HA=="
 ---
 

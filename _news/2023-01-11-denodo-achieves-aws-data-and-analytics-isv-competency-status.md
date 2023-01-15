@@ -2,27 +2,21 @@
 category: news
 title: "Denodo Achieves AWS Data and Analytics ISV Competency Status"
 excerpt: "Denodo, a leader in data management, today announced that it has achieved the Amazon Web Services (AWS) Data and Analytics ISV Competency status. Attaining this status differentiates Denodo as an AWS Partner that has successfully demonstrated deep expertise in data integration,"
-publishedDateTime: 2023-01-11T06:00:00Z
-originalUrl: "https://www.businesswireindia.com/denodo-achieves-aws-data-and-analytics-isv-competency-status-82492.html"
-webUrl: "https://www.businesswireindia.com/denodo-achieves-aws-data-and-analytics-isv-competency-status-82492.html"
+publishedDateTime: 2023-01-11T08:26:00Z
+originalUrl: "https://www.afp.com/en/news/1314/denodo-achieves-aws-data-and-analytics-isv-competency-status-202301100054891"
+webUrl: "https://www.afp.com/en/news/1314/denodo-achieves-aws-data-and-analytics-isv-competency-status-202301100054891"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: AFP
+  domain: afp.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Companylog_82492.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "How a utility giant is using data analytics, machine learning to benefit customers"
@@ -70,6 +64,6 @@ related:
         height: 780
         isCached: true
 
-secured: "JBgZ0XTGUJSxbYBGb8gDCSA/Y/rVaIyetunl39haKoD8oIm1aSflpMGGrkCQlooAvRCIZ7AftPxjwiYiB3LOglD618OZ5EWDU71ZvkhTeXKc+FrXJMVvGhmGjUQ1DGtJxn9JBJJqsPAHaPz1vNRWG7ShJOdi5d94km8zld4HXex4wype953YVDVAQmvJHpCQCCgQL53atIzElPipi3HF1xwKqneUSPr9HhKZa0LAASuJC9r7o56FbNjXoPU3Aml5sl+3qp2jfp7Wa+LEWC+5XLcereN+B4LI473KFz4G+UYdY/4W7/epZkEx877cDhQ5hAu7xggNPKHrt6WwE7wi1vsOBxpRTk4ow30qba21+94=;KQmXiQvAQj8gL43v6FIvOg=="
+secured: "qPRzilXmqcEUadjO1TIHB6D8J5zeplrkNw78qmuezSGkRMHuvy3Dp8dWrxgWl3kz8DdwTb++BBPkZS4IrZUNxv5xv8mo5h4FWRuZrBJ5I+r/TT+qxXMTQvic5udNXBbx7YyqOd+dU9lAOpyzSIvMdWDP3+b/ul0WN33PtJ/PXvnbaaqjgbqQwR/FUYuU0442jrSO4cqyRx2d2IIpigbcaFLs920Je6EyHz1Eq55FDuBhEqSpmY7dMEizGGIOvtyn4MDYZ2GN2lOhs41XMmurfaH5yTW5gJLobRT6ZRjkeDKGFFa+6KuY3akh4LliQ9gz0cUG0uHUx2d882jf7B6H9ZusP2HeFO1FqUlPiwYlCJY=;rQ7xkhGLJ40cf8sqUGoANg=="
 ---
 

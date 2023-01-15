@@ -7,8 +7,8 @@ originalUrl: "https://www.aviationtoday.com/2023/01/12/supernal-utilize-microsof
 webUrl: "https://www.aviationtoday.com/2023/01/12/supernal-utilize-microsoft-azure-evtol-development/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Aviation Today
@@ -25,19 +25,76 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Strikes Partnership with Paige To Advance Cancer Diagnostics and Treatment"
-    excerpt: "Microsoft is making a strategic investment in Paige, which is leveraging AI for cancer diagnostics and treatment. Paige will also use Microsoft Azure as its cloud provider for the Paige Platform."
-    publishedDateTime: 2023-01-13T00:03:00Z
-    webUrl: "https://medcitynews.com/2023/01/microsoft-strikes-partnership-with-paige-to-advance-cancer-diagnostics-and-treatment/"
+  - title: "Microsoft Launches Imagine Cup Junior 2023 Empowering Top Innovations"
+    excerpt: "Imagine Cup Junior (ICJ) 2023 is open for registration creating outstanding paths for students to learn about technology solving world’s biggest challenges."
+    publishedDateTime: 2023-01-11T23:35:00Z
+    webUrl: "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/"
+    ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/amp/"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 47
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://medcitynews.com/uploads/2021/09/GettyImages-925101084.jpg"
-        width: 732
-        height: 478
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63bf4eb77e8e55f57de4e9c0/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 1309
+        isCached: true
+  - title: "Windows 11’s new experiment forces Microsoft Edge rounded corners everywhere"
+    excerpt: "Microsoft Edge’s latest version comes with an exciting but weird change that lets you experience Windows 11’s rounded corners feature in its full glory. Microsoft has published a new version of Edge Canary with an experimental feature that brings rounded corners to all websites,"
+    publishedDateTime: 2023-01-15T12:03:00Z
+    webUrl: "https://www.windowslatest.com/2023/01/15/windows-11s-new-experiment-forces-microsoft-edge-rounded-corners-everywhere/"
+    ampWebUrl: "https://www.windowslatest.com/2023/01/15/windows-11s-new-experiment-forces-microsoft-edge-rounded-corners-everywhere/amp/"
+    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/01/15/windows-11s-new-experiment-forces-microsoft-edge-rounded-corners-everywhere/amp/"
+    type: article
+    provider:
+      name: Windows Latest
+      domain: windowslatest.com
+    quality: 58
+    images:
+      - url: "https://www.windowslatest.com/wp-content/uploads/2023/01/Windows-11-Microsoft-Edge-rounded-corners.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Potentially a big week for Microsoft’s AI aspirations"
+    excerpt: "Microsoft has wowed some in the community with its updated text-to-speech model and would also like to invest $10 billion in OpenAI."
+    publishedDateTime: 2023-01-11T22:12:00Z
+    webUrl: "https://www.biometricupdate.com/202301/potentially-a-big-week-for-microsofts-ai-aspirations"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/17145359/AnyVision-audited-for-violations-of-Microsoft-AI-facial-recognition-principles.jpg"
+        width: 2000
+        height: 1001
+        isCached: true
+  - title: "Microsoft bets big on the creator of ChatGPT in race to dominate AI"
+    excerpt: "As a new chatbot wows the world, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI."
+    publishedDateTime: 2023-01-13T19:01:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
+  - title: "Microsoft's Future Growth Prospects"
+    excerpt: "Investments in Artificial Intelligence over the past decade are now starting to pay off. Share prices have decreased considerably from recent highs."
+    publishedDateTime: 2023-01-14T14:11:00Z
+    webUrl: "https://seekingalpha.com/article/4569974-microsoft-future-growth-prospects"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 41
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1408775753/image_1408775753.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
         isCached: true
   - title: "Microsoft, Paige to apply AI to digital pathology images"
     excerpt: "Microsoft has partnered with Paige to apply artificial intelligence to digital pathology images to develop and deliver new clinical applications and computational biomarkers with the aim of transforming cancer diagnosis and patient care."
