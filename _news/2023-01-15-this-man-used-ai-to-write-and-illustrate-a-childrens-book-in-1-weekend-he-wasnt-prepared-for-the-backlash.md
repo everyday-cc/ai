@@ -3,15 +3,17 @@ category: news
 title: "This man used AI to write and illustrate a children's book in 1 weekend. He wasn't prepared for the backlash."
 excerpt: "ChatGPT and Midjourney helped Ammaar Reshi make what he thought was a fun gift for his friends' children. He was shocked by the response."
 publishedDateTime: 2023-01-15T09:00:00Z
-originalUrl: "https://businessinsider.com/chatgpt-midjourney-ai-write-illustrate-childrens-book-one-weekend-alice-2023-1"
-webUrl: "https://businessinsider.com/chatgpt-midjourney-ai-write-illustrate-childrens-book-one-weekend-alice-2023-1"
+originalUrl: "https://www.businessinsider.com/chatgpt-midjourney-ai-write-illustrate-childrens-book-one-weekend-alice-2023-1"
+webUrl: "https://www.businessinsider.com/chatgpt-midjourney-ai-write-illustrate-childrens-book-one-weekend-alice-2023-1"
+ampWebUrl: "https://www.businessinsider.com/chatgpt-midjourney-ai-write-illustrate-childrens-book-one-weekend-alice-2023-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-midjourney-ai-write-illustrate-childrens-book-one-weekend-alice-2023-1?amp"
 type: article
-quality: 28
-heat: -1
-published: false
+quality: 68
+heat: 78
+published: true
 
 provider:
-  name: Business Insider
+  name: YAHOO!News
   domain: businessinsider.com
   images:
     - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
@@ -20,6 +22,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://i.insider.com/63c19fd901aaab001848b238?width=1200&format=jpeg"
+    width: 565
+    height: 282
+    isCached: true
 
 related:
   - title: "This man used AI to write and illustrate a children's book in one weekend. He wasn't prepared for the backlash."
@@ -37,6 +45,6 @@ related:
         height: 282
         isCached: true
 
-secured: "MtBEdoxpuBU1CR3cUYbbAlEGuETgCBL3NP+NkrvRcM4EuKqz0mFK/9oVnqvFKwfJUovGPPh5san3aevc7N1neggK++oe5iFzgKKLFnfnXqrktJOfENYdEviR2h1GGpvKk2Ex8xQZS40Y/qpjXmBQFXH8bHPLe7XmD+E+sKsVEh3V1VU8+xNcUhwj9QdsTDHoqa2mPJ4YkgUIlwm0q5YnuFFXrvf1Q8FOA31XabhIVP5Drh1ND9NAJtbH1wJAM/Y0RydYDp7qY+ny1KvdZ3hkVNwCVsN7zg6K8aZ/Fkj+p7t++swP+ErbhJxA0nELvazwkA0ParRpzH2v7u9bV6V5uQs7hABwd6K856d2ej0CMSYLn5moUxUPca+Hh7SmnbTldOzJbgleg8A8EzzfI/fnsn9Rihtbzb9CPDimHKBXxcN0gUyGXn2r6FeiazHagvATdCoTFVNNPoDp/qZN/2FlSCNeNSJGpk2GY0ue5p7cl9aLZSVAdzN9ANbTfOSf3pVbB86dcEgtiJEk3qJijTYqQA==;oJWEOAODLyWyCkFRO1hVVA=="
+secured: "iKM8f5HCxQnxUpFBzluUwB+3GvwO9hzZoqXN24UAv6kdtQQJGgM7SONAnm2GIAoc3fB8PxFLqWspelWbbBMPc2MUmachSuKSbF7D2osXLw2K33/Kp6PK382gk3ThUsUm6ZZr5Qj2MLKMyiBD8hHx5YTbmouGeyAlSV+D9ASCKmdTsXYmXCZaLVRqG5ySFS8EzKe/DAHK9pRNrpK4+QsuBfNS/1Wu+HVMBcfcdcH5seN7mDw+mEqQbgHtXbZrLfM8g/UvYyeFVtr1uZfVF2xk5gzuQ9i5YZYZluE+l7wpsnqyJB/XLf+D/fW3mbFqCukyLFIv08KjaIxa0+VLo9vz7HFVq+rcXLDQOczxh/JYIpM=;2EvcQ3HA81g+Vpn076E+gg=="
 ---
 

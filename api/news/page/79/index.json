@@ -2,6 +2,303 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2022-10-28-ishares-trust-ishares-robotics-and-artificial-intelligence-multisector-etf-nysemkt-irbo.md",
+      "title": "iShares Trust - iShares Robotics and Artificial Intelligence Multisector ETF (NYSEMKT: IRBO)",
+      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 10/31/2022. Discounted offers are only available to new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/quote/nysemkt/irbo/",
+      "originalUrl": "https://www.fool.com/quote/nysemkt/irbo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
+          "width": 843,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-heres-how-this-company-uses-ai-to-grow-shrimp-sustainably.md",
+      "title": "Here’s How This Company Uses AI To Grow Shrimp Sustainably",
+      "excerpt": "This company's shrimp farming technology is an AI-powered automated system that remotely monitors water quality, regulating temperature and oxygenation, and feeding the shrimp.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2022/10/28/heres-how-this-company-uses-ai-to-grow-shrimp-sustainably/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/10/28/heres-how-this-company-uses-ai-to-grow-shrimp-sustainably/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/635b145e4f0146de48876e01/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2022/10/28/heres-how-this-company-uses-ai-to-grow-shrimp-sustainably/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/10/28/heres-how-this-company-uses-ai-to-grow-shrimp-sustainably/amp/",
+      "publishedDateTime": "2022-10-28T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-using-artificial-intelligence-in-cancer-genome-research.md",
+      "title": "Using Artificial Intelligence In Cancer Genome Research",
+      "excerpt": "Artificial intelligence plays a role in cancer genome research by reducing the time to develop ... [+] genetic mutation treatment plans by more than 50%. Researchers from the Institute of Medical Science at the University of Tokyo (IMSUT) and Fujitsu ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2022/10/28/using-artificial-intelligence-in-cancer-genome-research/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/10/28/using-artificial-intelligence-in-cancer-genome-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/635b27dab6cac768db876e01/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2022/10/28/using-artificial-intelligence-in-cancer-genome-research/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/10/28/using-artificial-intelligence-in-cancer-genome-research/amp/",
+      "publishedDateTime": "2022-10-28T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-cloud-ai-in-fintech-market-trends-2022-growth-and-huge-business-opportunity-till-2030.md",
+      "title": "Cloud AI in Fintech Market Trends 2022 | Growth and Huge Business Opportunity Till 2030",
+      "excerpt": "Important data on the current and anticipated revenues of key international industry participants, as well as the goods they provide as part of the Cloud AI in FintechMarket landscape, will also ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-trends-2022-growth-and-huge-business-opportunity-till-2030-2022-10-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-trends-2022-growth-and-huge-business-opportunity-till-2030-2022-10-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-ais-true-goal-may-no-longer-be-intelligence.md",
+      "title": "AI's true goal may no longer be intelligence",
+      "excerpt": "Some scholars of AI warn that the present technologies may never add up to \"true\" intelligence or \"human\" intelligence. But much of the world may not care about that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d8452d84a72bddf317ccce52ec12fa799a3860aa/2022/10/27/a22915c0-394e-41e6-92d4-125c5b82fe4b/hi-im-ai-crop-for-twitter.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-true-goal-may-no-longer-be-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-true-goal-may-no-longer-be-intelligence/",
+      "publishedDateTime": "2022-10-28T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "Google AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision.md",
+      "title": "LatticeFlow Secures $12 Million to Eliminate AI Data and Model Blind Spots in Computer Vision",
+      "excerpt": "The funding will accelerate development of the first scalable AI platform to automatically diagnose and fix data and model issues in computer vision, vital for enabling real-world model adoption ZURICH–(BUSINESS WIRE)–#DeepTech—LatticeFlow ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/",
+      "originalUrl": "https://www.01net.it/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-28-lego-is-discontinuing-its-mindstorms-buildable-robot-kits.md",
       "title": "Lego Is Discontinuing Its Mindstorms Buildable Robot Kits",
       "excerpt": "where the robots can be controlled and programmed, for another two years after that. Lego Mindstorms first debuted back in September of 1998, over 24 years ago, leveraging the company’s more ...",
@@ -856,292 +1153,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-meta-is-betting-billions-that-ai-will-fix-its-advertising-business.md",
-      "title": "Meta Is Betting Billions That AI Will Fix Its Advertising Business",
-      "excerpt": "Meta expects operating expenses tied to Reality Labs to surge further in 2023. This outlook is a big reason why shares of Meta had tanked more than 20% by Thursday afternoon. The company's aggressive plans to invest in its data centers got a bit less attention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/meta-is-betting-billions-that-ai-will-fix-its-advertising-business",
-      "originalUrl": "https://www.nasdaq.com/articles/meta-is-betting-billions-that-ai-will-fix-its-advertising-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/meta-is-betting-billions-that-ai-will-fix-its-advertising-business?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/meta-is-betting-billions-that-ai-will-fix-its-advertising-business?amp",
-      "publishedDateTime": "2022-10-27T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-ibm-salaries-revealed-engineers-can-earn-nearly-200k-see-how-much-analysts-managers-and-others-at-the-tech-giant-make.md",
-      "title": "IBM salaries revealed: Engineers can earn nearly $200K. See how much analysts, managers, and others at the tech giant make.",
-      "excerpt": "and artificial intelligence through its IBM Watson product suite. The company sells prolifically to the private sector, with specialized products for banking and finance, the oil and gas industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/see-how-much-ibm-pays-engineers-analysts-and-others-2022-10",
-      "originalUrl": "https://www.businessinsider.com/see-how-much-ibm-pays-engineers-analysts-and-others-2022-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/635ac354ea35650019e07f42?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T11:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers.md",
-      "title": "Logistics Operators Find Robots Are Helping Recruit Tech-Savvy Workers",
-      "excerpt": "Some companies say that investing in automation is helping them bring in a new generation of tech-savvy workers interested in working on the latest developments in artificial intelligence, robotics and other technologies aimed at driving efficiency in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
-      "originalUrl": "https://www.wsj.com/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-653155/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
-      "publishedDateTime": "2022-10-27T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-its-time-to-admit-self-driving-cars-arent-going-to-happen.md",
-      "title": "It’s time to admit self-driving cars aren’t going to happen",
-      "excerpt": "With the shutdown of Argo AI, Ford walking away from full autonomy and Tesla under criminal investigation, full self-driving looks impossible.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/",
-      "originalUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/self-driving-stop.jpg?resize=1200,864",
-          "width": 1200,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/",
-      "publishedDateTime": "2022-10-27T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence.md",
-      "title": "English-learning startup ELSA launches Speech Analyzer to help people gain conversational confidence",
-      "excerpt": "ELSA is based on mid-Western American English as the standard most often used in business, education and everyday settings. Speech Analyzer is free.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/",
-      "originalUrl": "https://techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/3-1.png?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/amp/",
-      "publishedDateTime": "2022-10-27T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-microsoft-previews-vision-studio-for-working-with-azure-computer-vision-api.md",
-      "title": "Microsoft Previews 'Vision Studio' for Working with Azure Computer Vision API",
-      "excerpt": "As if things weren't complicated enough with oft-confused Visual Studio and Visual Studio Code offerings, Microsoft has now announced a preview of Vision Studio, for working with the Computer Vision API in the Azure cloud computing platform.",
-      "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/articles/2022/10/27/vision-studio.aspx",
-      "originalUrl": "https://visualstudiomagazine.com/articles/2022/10/27/vision-studio.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2017/0417red_F2Hello.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Visual Studio Magazine",
-        "domain": "visualstudiomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

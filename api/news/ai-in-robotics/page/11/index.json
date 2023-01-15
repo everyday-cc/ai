@@ -2,6 +2,50 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-10-09-tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks.md",
+      "title": "Tesla robot walks, waves, but doesn’t show off complex tasks",
+      "excerpt": "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned and waved to a cheering crowd at the company’s artificial intelligence event",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
+      "originalUrl": "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/10/TDP-Z-NPWZX6YZ-01.jpg?w=1024&h=605",
+          "width": 1024,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/",
+      "publishedDateTime": "2022-10-08T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-10-08-explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games.md",
       "title": "Explained: How Artificial Intelligence can be used to cheat in chess games",
       "excerpt": "The issue cheating in chess has resurfaced after World Champion Magnus Carlsen refused to play against Hans Niemann, apparently alleging cheating.",
@@ -1341,50 +1385,6 @@
       "provider": {
         "name": "Global News",
         "domain": "globalnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-tesla-robot-walks-and-waves-but-doesnt-show-off-complex-tasks.md",
-      "title": "Tesla robot walks and waves, but doesn't show off complex tasks",
-      "excerpt": "DETROIT — An early prototype of Tesla's proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2022/10/01/tesla-robot-optimus-ai/",
-      "originalUrl": "https://www.autoblog.com/2022/10/01/tesla-robot-optimus-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2022/10/01074706/Screen-Shot-2022-10-01-at-7.46.35-AM.png",
-          "width": 1062,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2022/10/01/tesla-robot-optimus-ai/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/01/tesla-robot-optimus-ai/",
-      "publishedDateTime": "2022-10-01T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
         "images": null,
         "publishers": null,
         "authors": null

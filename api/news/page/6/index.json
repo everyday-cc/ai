@@ -2,6 +2,135 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-01-09-guliguli-showed-off-smart-pet-companion-robot-at-ces-2023-helping-pets-live-their-best-life.md",
+      "title": "GULIGULI Showed off Smart Pet Companion Robot at CES 2023, Helping Pets Live Their Best Life",
+      "excerpt": "GULIGULI unveils at CES a robot that lets you see, talk to, play with, and even provide treats to your cat or dog when you’re not home. GULIGULI, maker of innovative pet supplies, is putting an end to pet and pet owner loneliness with its new app-controlled pet companion robot.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.buffalonews.com/buffnews/article/getnews-2023-1-9-guliguli-showed-off-smart-pet-companion-robot-at-ces-2023-helping-pets-live-their-best-life",
+      "originalUrl": "https://markets.buffalonews.com/buffnews/article/getnews-2023-1-9-guliguli-showed-off-smart-pet-companion-robot-at-ces-2023-helping-pets-live-their-best-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-indie-semiconductor-developing-more-advanced-vision-processors-for-vehicles.md",
+      "title": "indie Semiconductor Developing More-advanced Vision Processors for Vehicles",
+      "excerpt": "California-based indie Semiconductor, which has an office in Auburn Hills, has announced a strategic partnership with Seeing Machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dbusiness.com/tech-mobility-news/indie-semiconductor-developing-more-advanced-vision-processors-for-vehicles/",
+      "originalUrl": "https://www.dbusiness.com/tech-mobility-news/indie-semiconductor-developing-more-advanced-vision-processors-for-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2023/01/TMN-SeeingMachine400.jpg",
+          "width": 400,
+          "height": 263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DBusiness Magazine",
+        "domain": "dbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-australian-gov-renews-ibm-contract-for-quantum-computing-ai.md",
+      "title": "Australian gov renews IBM contract for quantum computing, AI",
+      "excerpt": "This includes IBM’s suite of technology capabilities like IBM Watson, which uses AI to automate processes, and the IBM Cloud, to store government data. The new agreement follows the first of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/business-strategy/public-sector/369819/australian-gov-renews-ibm-contract-for-quantum-computing-ai",
+      "originalUrl": "https://www.itpro.co.uk/business-strategy/public-sector/369819/australian-gov-renews-ibm-contract-for-quantum-computing-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1673259843/itpro/2023/January/IBM_DTA_Australia_press.png",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T03:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-09-nvidia-is-allegedly-working-on-ai-optimized-gpu-drivers-to-deliver-a-massive-performance-boost.md",
       "title": "NVIDIA Is Allegedly Working On AI-Optimized GPU Drivers To Deliver A Massive Performance Boost",
       "excerpt": "Sound advice for rumors and leaks in general, but point taken. According to CapFrameX, NVIDIA's AI-optimized GPU drivers would deliver up to 30 percent better performance, with gamers being able ...",
@@ -684,6 +813,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-08-ai-powered-robot-lawyer-to-defend-a-human-in-court-for-the-first-time-ever.md",
+      "title": "AI-powered ‘robot lawyer’ to defend a human in court for the first time ever",
+      "excerpt": "Invest in high-rated bonds from as low as Rs. 10,000 Find & Invest in bonds issued by top corporates, PSU Banks, NBFCs, and much more. Invest as low as 10,000 and earn better returns than FD",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/trends/ai-powered-robot-lawyer-to-defend-a-human-in-court-for-the-first-time-ever-9825741.html",
+      "originalUrl": "https://www.moneycontrol.com/news/trends/ai-powered-robot-lawyer-to-defend-a-human-in-court-for-the-first-time-ever-9825741.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/01/Collage-Maker-07-Jan-2023-02.59-PM-770x435.jpg",
+          "width": 770,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/trends/ai-powered-robot-lawyer-to-defend-a-human-in-court-for-the-first-time-ever-9825741.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/ai-powered-robot-lawyer-to-defend-a-human-in-court-for-the-first-time-ever-9825741.html/amp",
+      "publishedDateTime": "2023-01-07T13:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-08-chatgpt3-let-the-generative-ai-revolution-begin.md",
       "title": "ChatGPT3 — Let The Generative AI Revolution Begin",
       "excerpt": "Beyond the prowess of ChatGPT3, the underlying impact of the technology - generative AI - on business is only just coming into focus.",
@@ -958,160 +1130,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-more-businesses-are-expected-to-integrate-artificial-intelligence-technology-into-their-operations-and-decision-making-processes-in-2023.md",
-      "title": "More businesses are expected to integrate artificial intelligence technology into their operations and decision-making processes in 2023.",
-      "excerpt": "More businesses are expected to integrate artificial intelligence technology into their operations and decision-making processes in 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.inc.com/ben-sherry/we-asked-chatgpt-and-sophia-the-robot-to-predict-the-impact-of-ai-on-the-business-world-heres-what-they-said.html",
-      "originalUrl": "https://www.inc.com/ben-sherry/we-asked-chatgpt-and-sophia-the-robot-to-predict-the-impact-of-ai-on-the-business-world-heres-what-they-said.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T13:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inc",
-        "domain": "inc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-the-drawbacks-of-chatgpt-for-production-conversational-ai-systems.md",
-      "title": "The Drawbacks of ChatGPT for Production Conversational AI Systems",
-      "excerpt": "With its detailed and human-like written responses, ChatGPT has caught the world’s attention and spawned a meaningful discussion about how people should",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2023/01/06/the-drawbacks-of-chatgpt-for-production-conversational-ai-systems/",
-      "originalUrl": "https://www.datanami.com/2023/01/06/the-drawbacks-of-chatgpt-for-production-conversational-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2023/01/chat_gpt_shutterstock_Ebru-Omer.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T12:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-robot-lawyer-powered-by-ai-will-help-fight-speeding-ticket-as-it-takes-first-case-in-court.md",
-      "title": "‘Robot lawyer’ powered by AI will help fight speeding ticket as it takes first case in court",
-      "excerpt": "The AI, billed as “the world’s first robot lawyer” by the startup that created it, DoNotPay, will run on a smartphone and listen to court arguments in real-time before telling the defendant ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/01/05/robot-lawyer-powered-by-ai-will-help-fight-speeding-ticket-as-it-takes-first-case-in-court/",
-      "originalUrl": "https://nypost.com/2023/01/05/robot-lawyer-powered-by-ai-will-help-fight-speeding-ticket-as-it-takes-first-case-in-court/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/01/comp2.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/01/05/robot-lawyer-powered-by-ai-will-help-fight-speeding-ticket-as-it-takes-first-case-in-court/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/01/05/robot-lawyer-powered-by-ai-will-help-fight-speeding-ticket-as-it-takes-first-case-in-court/amp/",
-      "publishedDateTime": "2023-01-06T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-skynet-smiles-amd-unveils-monster-instinct-mi300-hybrid-ai-accelerator.md",
-      "title": "Skynet Smiles: AMD Unveils Monster Instinct MI300 Hybrid AI Accelerator",
-      "excerpt": "The MI300 sports 24 Zen 4 cores along with its CDNA 3 GPU architecture and 128GB of high-bandwidth memory (HBM3). AMD didn’t mention how many CUs were being used on the GPU side. The CPU and GPU chiplets are 3D-stacked on top of a base die that connects them to the eight stacks of HBM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/extreme/342078-skynet-smiles-amd-unveils-monster-instinct-mi300-hybrid-ai-accelerator",
-      "originalUrl": "https://www.extremetech.com/extreme/342078-skynet-smiles-amd-unveils-monster-instinct-mi300-hybrid-ai-accelerator",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T11:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

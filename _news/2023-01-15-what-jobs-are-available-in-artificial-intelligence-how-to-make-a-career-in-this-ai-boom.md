@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/01/15/what-jobs-are-available-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/15/what-jobs-are-available-in-artificial-intelligence-how-to-make-a-career-in-this-ai-boom/amp/"
 type: article
 quality: 95
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "The AI revolution is upon us. These are the jobs at risk and in demand"
+    excerpt: "Artificial intelligence is no longer the stuff of science fiction, and its impact on the workforce will be profound. Here's what you need to know."
+    publishedDateTime: 2023-01-15T18:49:00Z
+    webUrl: "https://www.sbs.com.au/news/article/the-ai-revolution-is-upon-us-these-are-the-jobs-at-risk-and-in-demand/izjijemns"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 37
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/25d178f/2147483647/strip/true/crop/6720x3780+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F1b%2Faf%2Fa15213444e4493034eaf66b85282%2Fgettyimages-1314579933.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "5 healthcare AI updates"
     excerpt: "Artificial intelligence has the potential to transform healthcare delivery, and hospitals across the country are making serious investments in AI. Five AI in healthcare updates Becker's has covered since Dec."
     publishedDateTime: 2023-01-13T00:17:00Z
@@ -41,6 +55,6 @@ related:
       domain: beckershospitalreview.com
     quality: 34
 
-secured: "p36vFOS2UC/q3h7VdemSqsaasP3UWqYeHeA201xc+Reyl1Z0ofR2v5wasoMNFGJaDyZCz+yzebyc8rG8Ex6VabyFueJgfLBBCwcI0LzbNST3uILLAlsMfPusGEZS9BYZDlVNC4gVvgqEzEpOw4V4lHyHjLGz/Vg4o7unM7mw6v+IPOBNtK7czAMcswtCjrcEToCC74+vejs4ahbJ7d/OMsKvD1W25znTwkb2R7IiN5sJM2Sww5tB9ZwHNs1qSeyJANMUXagOY6asV/cFJxz+zrXmDbib0r77b/Eild1AO7dQLbrv+XhTTnukX9iw79uFIDOT2q6DPlSBFeF1ZBXLn0g7iPbJaj8bSX96I8DeK50=;BjJuCQA1arEx5f6mgUY8pA=="
+secured: "2Fg1c+aYl1x0C2WkbDmS5pqGvW3RoL+CtcSKhdNTRuVl8oaXX2SrkQVyiqeV+v4tJAZtVMnFsAg7wEDbXvW/iP2PIxJZuBgHr9yKmCf0g9Ed1S+wzBVaiMN+e4bBlf0lsbXOv3vbA0eEo49T4iRc4DHBKxVl5WslvoYcqjjfZCozcntzGJeH5cIBM7FT2rd7ndF710O+onWdIxvtPhNC3Fl7dz0XImzVtPRYGaNFWlkhXZ4NckpyflC+PP/moEnYDzSLm6gnBhmIjSett4Bp7D414S11ekkZ1alrUIuW2QLm5kF9cuNhjqiow6itB6pXFsrZPXDWdGh7tihWB0L9NOr6XKMaRY+JEiuyliPWkJjn5V+108wqmPM88Tf5HdnTpKXN14BWhnRqIpec6yfn7S+t1vtyRmO6yOatT/z2QtYtTFFugXs82UjvxDnGjqFdlw9VWfKTMuS+Jszkq7PC+bkO2QBsUmYdnP6Ob3lz4ou+j1k19CKThydpRHFdON4XcaPM0S48ml685e9oSHjZCA==;dEXjua0qQaY9r88QrW/Cpg=="
 ---
 

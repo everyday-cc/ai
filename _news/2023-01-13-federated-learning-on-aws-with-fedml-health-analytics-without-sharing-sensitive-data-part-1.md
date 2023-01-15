@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/part-1-federated-lea
 webUrl: "https://aws.amazon.com/blogs/machine-learning/part-1-federated-learning-on-aws-with-fedml-health-analytics-without-sharing-sensitive-data/"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: AWS
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How a utility giant is using data analytics, machine learning to benefit customers"
-    excerpt: "By moving away from legacy systems and towards the cloud, utility firm EDF UK is delivering an array of innovative machine learning products."
-    publishedDateTime: 2023-01-11T02:07:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/how-a-utility-giant-is-using-data-analytics-machine-learning-to-benefit-its-customers/"
-    ampWebUrl: "https://venturebeat.com/enterprise-analytics/how-a-utility-giant-is-using-data-analytics-machine-learning-to-benefit-its-customers/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/how-a-utility-giant-is-using-data-analytics-machine-learning-to-benefit-its-customers/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-505464673-e1646666749497.png?w=1200&strip=all"
-        width: 1199
-        height: 599
-        isCached: true
   - title: "Federated Learning on AWS with FedML: Health analytics without sharing sensitive data – Part 2"
     excerpt: "This blog post is co-written with Chaoyang He and Salman Avestimehr from FedML. Analyzing real-world healthcare and life sciences (HCLS) data poses several practical challenges, such as distributed data silos, lack of sufficient data at a single site for rare events, regulatory guidelines that prohibit"
     publishedDateTime: 2023-01-13T17:23:05Z

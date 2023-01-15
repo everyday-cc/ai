@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-13-6-types-of-ai-and-what-they-can-do-for-your-business.md",
+      "title": "6 Types Of AI And What They Can Do For Your Business",
+      "excerpt": "Tyler Weitzman, cofounder, President and Head of AI at Speechify. AI is slowly taking over the world. Drones are delivering food, vacuums are cleaning homes on auto-pilot, virtual assistants are initiating calls and art is being assembled by bots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-types-of-ai-and-what-they-can-do-for-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-types-of-ai-and-what-they-can-do-for-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c00726196515fc48c92cf4/0x0.jpg?format=jpg&width=1200",
+          "width": 1105,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-types-of-ai-and-what-they-can-do-for-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-types-of-ai-and-what-they-can-do-for-your-business/amp/",
+      "publishedDateTime": "2023-01-13T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-video-surfaces-of-self-driving-tesla-abruptly-braking-causing-8-car-pileup.md",
+      "title": "Video Surfaces of Self-Driving Tesla Abruptly Braking, Causing 8-Car Pileup",
+      "excerpt": "Footage from a Thanksgiving Day crash involving a Tesla Model S has been obtained(Opens in a new window) by The Intercept, and it shows the vehicle crossing into the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/video-surfaces-of-self-driving-tesla-abruptly-braking-causing-8-car-pileup",
+      "originalUrl": "https://www.pcmag.com/news/video-surfaces-of-self-driving-tesla-abruptly-braking-causing-8-car-pileup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/056VrwEw2Zcuw05FwNbaIIS-5.fit_lim.size_1200x630.v1673465374.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-13T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-global-chipmakers-to-invest-over-300m-in-ai-designed-chips-this-year.md",
       "title": "Global chipmakers to invest over $300m in AI-designed chips this year",
       "excerpt": "The world’s leading semiconductor companies will likely spend more than $300 million in the development of artificial intelligence (AI) to help design semiconductors faster this year as a global chip shortage continues to put a strain on demand,",
@@ -198,6 +302,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-a-tech-news-site-has-been-using-ai-to-write-articles-so-we-did-the-same-thing-here.md",
+      "title": "A Tech News Site Has Been Using AI To Write Articles, So We Did The Same Thing Here",
+      "excerpt": "Technology news outlet CNET has been found to be using Artificial Intelligence (AI) to write articles about personal finance without any prior announcement or explanation. The articles, which numbered at 73,",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/katienotopoulos/cnet-articles-written-by-ai-chatgpt-article",
+      "originalUrl": "https://www.buzzfeednews.com/article/katienotopoulos/cnet-articles-written-by-ai-chatgpt-article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2021-08/27/18/campaign_images/94e109154f62/the-co-founder-of-snopes-wrote-dozens-of-plagiari-2-529-1630089961-23_dblbig.jpg",
+          "width": 625,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/katienotopoulos/cnet-articles-written-by-ai-chatgpt-article",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/katienotopoulos/cnet-articles-written-by-ai-chatgpt-article",
+      "publishedDateTime": "2023-01-12T18:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -1114,155 +1270,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-machine-learning-as-a-service-mlaas-market-massive-growth-strikes-due-to-technological-innovation-during-2023-2029.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Massive Growth Strikes Due To Technological Innovation During 2023-2029",
-      "excerpt": "Market Research Report is spread across 122 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. Machine Learning as a Service (MLaaS) Market Size is projected to Reach Multimillion USD by 2029,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-massive-growth-strikes-due-to-technological-innovation-during-2023-2029-2023-01-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-massive-growth-strikes-due-to-technological-innovation-during-2023-2029-2023-01-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T23:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-how-a-utility-giant-is-using-data-analytics-machine-learning-to-benefit-customers.md",
-      "title": "How a utility giant is using data analytics, machine learning to benefit customers",
-      "excerpt": "By moving away from legacy systems and towards the cloud, utility firm EDF UK is delivering an array of innovative machine learning products.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/enterprise-analytics/how-a-utility-giant-is-using-data-analytics-machine-learning-to-benefit-its-customers/",
-      "originalUrl": "https://venturebeat.com/enterprise-analytics/how-a-utility-giant-is-using-data-analytics-machine-learning-to-benefit-its-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-505464673-e1646666749497.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/enterprise-analytics/how-a-utility-giant-is-using-data-analytics-machine-learning-to-benefit-its-customers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/how-a-utility-giant-is-using-data-analytics-machine-learning-to-benefit-its-customers/amp/",
-      "publishedDateTime": "2023-01-10T18:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-self-driving-tesla-causes-eight-vehicle-crash-injures-child.md",
-      "title": "Self-Driving Tesla Causes Eight-Vehicle Crash, Injures Child",
-      "excerpt": "New footage just dropped of a Tesla self-driving accident that caused a pileup on the San Francisco Bay Bridge and resulted in a toddler being injured.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/the-byte/self-driving-tesla-crash-footage",
-      "originalUrl": "https://futurism.com/the-byte/self-driving-tesla-crash-footage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2023/01/self-driving-tesla-crash-footage.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T16:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/news/ai-art-created-by-artificial-intelligence/
 ampWebUrl: "https://www.cbsnews.com/amp/news/ai-art-created-by-artificial-intelligence/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-art-created-by-artificial-intelligence/"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/15/0a777ac7-b5cc-4c17-8cff-4579239482ad/thumbnail/1200x630/939181e15e7a8d4e07fa2fbbc67842ef/ai-stability-diffusion-cityscape.jpg"
@@ -26,6 +27,6 @@ images:
     height: 630
     isCached: true
 
-secured: "e0Daih4WSBsFoHR1+8GQ8u5sSh7H+43OCCvjw0gzSsF9Ni/CxNoIObBog8YMitbI7ZJmmxSkiPq10KseXHX6ruXcLGm2DOgscooZ80zY3J35LCjyDcQ+bZCYceIM10vm089E993+bGsfpwJyAQ6/zmC6kcXBYbYWfwe5vmCHT8a1AJc/GAEs8wqseKwfxkkUl9EhAhJhg6sWNvqhxVT4kClWk3coXEy26RMkSZPS44Xbd7HHGW768HCUSK7E16OEBhDTqupcDiRVyLHdgdAG07x8nVcuLwJVJO21yP0xD9dTSOTvITSUzV+L37ABaG7mHiWrn1csdvr79WP860iR+O+Hedt3Q2oMPMGq7uM1I0U=;t0Cq42VzPLwWFyfvjeIkUw=="
+secured: "zPr9TD2mrIUlTRDii1rxp6N0q7qUPnEk7ix+96kg+60kAUyCidS0c9ygqUhRwD7Hh+hReeOqxCNFHSMcUzC1yweQT+/muxnjgHlM+fJirYiI7rHXp82YuZkesBoOYrp5HGvuXu9hq+oBTOfW8CXrH2RM7W/0fgCjB1YeLOtgmaNKZoPJqJS9fG1mL9JwRTOw9MWyc4eIa1hE5MHaq1iOZYbjYd7vZ6M1Y1qhozNtSKV0ZUBqn8prvevUig10egwppTTf5UBv0kITBpw/gB9zDM4M0676B2rxxb7hXPaHOyzWBPWWg3atPepitg9Fvo7BcN4RCr5fGNWhSlihSjrs+3V173IC9qJgen4NapuvSWLZm73+cCx33VM7LrqvwoxSL6YnphidGl3TXiZYdD4/5AkM0XOokB9xOhguo4fqYpaJPE0VVoSArMqARmFosQFqM8wFawOHuL1GKvm+j5hj2oXHJE7wxsBNrDuj5LjpZxCk67R8RBJSMVFEKessZbF7AqgFMcit/UVLzWc8tBU+Ag==;z/BMTlvPArUd9lywBfE5XQ=="
 ---
 

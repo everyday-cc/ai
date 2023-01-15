@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-09-14-dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique.md",
+      "title": "Dynatrace CEO, Rick McConnell, On Why Observability Matters And How Its Unique",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into a recent conversation with Rick McConnell, Dynatrace CEO. Now, Rick has software that purports to avert the doomsday scenario. In this article, Patrick discusses why observability has become so important.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/13/dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/13/dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632105023c3f68c5761b8dcc/0x0.jpg?format=jpg&width=1200",
+          "width": 824,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/13/dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/09/13/dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique/amp/",
+      "publishedDateTime": "2022-09-13T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-online-proctor-sumadi-joins-aws-partner-network.md",
       "title": "Online Proctor Sumadi Joins AWS Partner Network",
       "excerpt": "Online Proctor Sumadi Joins AWS Partner Network Sep 13, 2022 (PRNewswire via COMTEX) -- PR Newswire MIAMI, MIAMI,",

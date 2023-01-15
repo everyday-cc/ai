@@ -2,6 +2,153 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-10-latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas.md",
+      "title": "Latest Breakthroughs In Artificial Intelligence On Display At CES Trade Show In Las Vegas",
+      "excerpt": "The rate of advancement in artificial intelligence (AI ... We look at fatigue-battling watches, self-driving strollers, and other unique products announced in Las Vegas at the world’s biggest ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/01/10/latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/01/10/latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63bd8eaea9945e64f3964a43/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/01/10/latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/10/latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas/amp/",
+      "publishedDateTime": "2023-01-09T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-natural-language-processing-guiding-the-way-for-retail-cx.md",
+      "title": "Natural Language Processing: Guiding the Way for Retail CX",
+      "excerpt": "Leaps and bounds ahead of its predecessors, AI equipped with natural language processing (NLP) is capable of understanding language (hundreds of them) in a way that’s almost human — except it’s not learning language like you or I.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mytotalretail.com/article/natural-language-processing-guiding-the-way-for-retail-cx/",
+      "originalUrl": "https://www.mytotalretail.com/article/natural-language-processing-guiding-the-way-for-retail-cx/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mytotalretail.com/thumb/?src=/wp-content/uploads/sites/14/2021/01/GettyImages-1200738163.jpg&w=750&h=340",
+          "width": 750,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Total Retail",
+        "domain": "mytotalretail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-unique-real-world-data-shows-early-retirement-hastens-cognitive-decline.md",
+      "title": "Unique real-world data shows early retirement hastens cognitive decline",
+      "excerpt": "New research from economists at Binghamton University shows early retirement can be linked to an acceleration of age-related cognitive decline. Looking at data from a unique pension program in ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/health-wellbeing/early-retirement-accelerates-cognitive-decline-china-pension-study/",
+      "originalUrl": "https://newatlas.com/health-wellbeing/early-retirement-accelerates-cognitive-decline-china-pension-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/f3f1f57/2147483647/strip/true/crop/3825x2008+0+381/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd9%2F5c%2Fbae30bda4f58bb78d6978d47e2e0%2Fdepositphotos-25100239-xl.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-why-artificial-intelligence-is-set-to-be-a-game-changer-for-businesses-in-2023-according-to-7-founders.md",
       "title": "Why artificial intelligence is set to be a game changer for businesses in 2023, according to 7 founders",
       "excerpt": "If you've seen artificial-intelligence-generated selfies ... They mentioned innovations in healthcare, wellness, and supply chains, but the most common trend was AI. Many said they expected ...",
@@ -745,49 +892,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-10-ai-powered-robot-lawyer-will-be-first-of-its-kind-to-represent-defendant-in-court.md",
-      "title": "AI-powered \"robot\" lawyer will be first of its kind to represent defendant in court",
-      "excerpt": "Spotlight on artificial intelligence's ChatGPT at CES 2023 tech show 07:26 A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/sacramento/news/ai-powered-robot-lawyer-takes-its-first-court-case/?intcid=CNM-00-10abd1h",
-      "originalUrl": "https://www.cbsnews.com/sacramento/news/ai-powered-robot-lawyer-takes-its-first-court-case/?intcid=CNM-00-10abd1h",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/09/4d7e5ab8-9ca0-4aa9-8961-8fd582dadcf4/thumbnail/1200x630/ec2ecdf82deb69149d4bac7ec82f389a/screen-shot-2023-01-09-at-4-00-19-pm.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/sacramento/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
-      "publishedDateTime": "2023-01-09T10:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-10-ai-and-spam-how-artificial-intelligence-protects-your-inbox.md",
       "title": "AI and Spam: How Artificial Intelligence Protects Your Inbox",
       "excerpt": "Conversations around AI often include its role in cybersecurity prevention. AI is a powerful, indispensable tool in fighting cyber threats, but it can also comb through email inboxes to eliminate spam.",
@@ -827,6 +931,49 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-ai-powered-robot-lawyer-will-be-first-of-its-kind-to-represent-defendant-in-court.md",
+      "title": "AI-powered \"robot\" lawyer will be first of its kind to represent defendant in court",
+      "excerpt": "A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month. Joshua Browder, CEO of DoNotPay, said the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
+      "originalUrl": "https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/09/4d7e5ab8-9ca0-4aa9-8961-8fd582dadcf4/thumbnail/1200x630/ec2ecdf82deb69149d4bac7ec82f389a/screen-shot-2023-01-09-at-4-00-19-pm.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
+      "publishedDateTime": "2023-01-09T09:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1001,135 +1148,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-guliguli-showed-off-smart-pet-companion-robot-at-ces-2023-helping-pets-live-their-best-life.md",
-      "title": "GULIGULI Showed off Smart Pet Companion Robot at CES 2023, Helping Pets Live Their Best Life",
-      "excerpt": "GULIGULI unveils at CES a robot that lets you see, talk to, play with, and even provide treats to your cat or dog when you’re not home. GULIGULI, maker of innovative pet supplies, is putting an end to pet and pet owner loneliness with its new app-controlled pet companion robot.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.buffalonews.com/buffnews/article/getnews-2023-1-9-guliguli-showed-off-smart-pet-companion-robot-at-ces-2023-helping-pets-live-their-best-life",
-      "originalUrl": "https://markets.buffalonews.com/buffnews/article/getnews-2023-1-9-guliguli-showed-off-smart-pet-companion-robot-at-ces-2023-helping-pets-live-their-best-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-indie-semiconductor-developing-more-advanced-vision-processors-for-vehicles.md",
-      "title": "indie Semiconductor Developing More-advanced Vision Processors for Vehicles",
-      "excerpt": "California-based indie Semiconductor, which has an office in Auburn Hills, has announced a strategic partnership with Seeing Machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbusiness.com/tech-mobility-news/indie-semiconductor-developing-more-advanced-vision-processors-for-vehicles/",
-      "originalUrl": "https://www.dbusiness.com/tech-mobility-news/indie-semiconductor-developing-more-advanced-vision-processors-for-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2023/01/TMN-SeeingMachine400.jpg",
-          "width": 400,
-          "height": 263,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DBusiness Magazine",
-        "domain": "dbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-australian-gov-renews-ibm-contract-for-quantum-computing-ai.md",
-      "title": "Australian gov renews IBM contract for quantum computing, AI",
-      "excerpt": "This includes IBM’s suite of technology capabilities like IBM Watson, which uses AI to automate processes, and the IBM Cloud, to store government data. The new agreement follows the first of its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/public-sector/369819/australian-gov-renews-ibm-contract-for-quantum-computing-ai",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/public-sector/369819/australian-gov-renews-ibm-contract-for-quantum-computing-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1673259843/itpro/2023/January/IBM_DTA_Australia_press.png",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T03:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -2,6 +2,188 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-01-06-were-stuck-in-the-ai-ethics-fishbowl-so-how-do-we-get-out.md",
+      "title": "We're stuck in the AI ethics fishbowl - so how do we get out?",
+      "excerpt": "It’s time to take a critical look at AI Ethics. What do we hope to accomplish? Law enforcement, marketers, hospitals and other bodies apply artificial intelligence (AI) to decide on matters such as: who is profiled as a criminal, who is likely to buy ...",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/were-stuck-ai-ethics-fishbowl-so-how-do-we-get-out",
+      "originalUrl": "https://diginomica.com/were-stuck-ai-ethics-fishbowl-so-how-do-we-get-out",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-05/shutterstock_178281617.png",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/were-stuck-ai-ethics-fishbowl-so-how-do-we-get-out?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/were-stuck-ai-ethics-fishbowl-so-how-do-we-get-out?amp",
+      "publishedDateTime": "2023-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform.md",
+      "title": "Yoomi and Rutgers Partner to Improve Physical Therapy Adherence Through Digital Health Platform",
+      "excerpt": "Yoomi partners with Rutgers Robert Wood Johnson Medical School to explore how technology can mobilize patients in physical therapy programs.",
+      "sourceUrl": null,
+      "webUrl": "https://ptproductsonline.com/exercise-rehab/yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform/",
+      "originalUrl": "https://ptproductsonline.com/exercise-rehab/yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ptproductsonline.com/wp-content/uploads/2022/03/DigitalHealth1.jpg",
+          "width": 800,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T15:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Physical Therapy Products",
+        "domain": "ptproductsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-public-sectors-innovative-use-cases-in-analytics-ai-and-ml.md",
+      "title": "Public sector’s innovative use cases in analytics, AI and ML",
+      "excerpt": "Leaders from AWS and Deloitte discuss recent use cases of artificial intelligence and machine learning capabilities in the public sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/video/public-sectors-innovative-use-cases-in-analytics-ai-and-ml/",
+      "originalUrl": "https://www.fedscoop.com/video/public-sectors-innovative-use-cases-in-analytics-ai-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fedscoop.com/wp-content/uploads/sites/5/2023/01/Monica-McEwen_Deloitte_Raj-Kadiyala-AWS.png?w=614&h=340&crop=1",
+          "width": 614,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-the-future-of-mobility-is-now-five-themes-to-watch-at-ces-2023.md",
+      "title": "The future of mobility is now: Five themes to watch at CES 2023",
+      "excerpt": "It’s hard to believe a mere 200 years ago, the horse and carriage were the predominant mode of transportation — and had been for hundreds of years. And then, with the invention of the internal combustion engine,",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/blog/2023/01/04/the-future-of-mobility-is-now-five-themes-to-watch-at-ces-2023/",
+      "originalUrl": "https://blogs.microsoft.com/blog/2023/01/04/the-future-of-mobility-is-now-five-themes-to-watch-at-ces-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/prod/2023/01/iStock-1190108780-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-06-worx-introduces-new-landroid-vision-robotic-lawn-mower-industrys-first-robotic-mower-with-neural-network-technology.md",
       "title": "WORX Introduces New LANDROID Vision Robotic Lawn Mower, Industry's First Robotic Mower with Neural Network Technology",
       "excerpt": "equipped with the top-level neural network – artificial intelligence that is trained to distinguish between grass and non-grass. Through its on-board HDR camera and VISION AI, Worx's new ...",
@@ -444,6 +626,58 @@
       ]
     },
     {
+      "path": "_news/2023-01-05-continental-partners-with-ai-chip-firm-ambarella-on-autonomous-driving.md",
+      "title": "Continental partners with AI chip firm Ambarella on autonomous driving",
+      "excerpt": "BERLIN, Jan 5 (Reuters) - Germany's Continental (CONG.DE) and California-based artificial intelligence chip firm Ambarella (AMBA.O) announced a partnership on Thursday to make software and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/continental-partners-with-ai-chip-firm-ambarella-autonomous-driving-2023-01-04/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/continental-partners-with-ai-chip-firm-ambarella-autonomous-driving-2023-01-04/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/7XVrCeBw_HDdtI3sVdtwJQYYNIM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BUICUSJGKBLOTAXLFROW7SVOHE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T03:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-artificial-intelligence-and-machine-learning-in-2023.md",
       "title": "Artificial Intelligence and Machine Learning in 2023",
       "excerpt": "As 2022 drew to a close, once again the overblown hype surrounding fully automated driverless trucking ... significant—new kid on the artificial intelligence (AI) block is the family of natural ...",
@@ -476,6 +710,40 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-syntiant-unveils-ndp115-neural-decision-processor-at-ces-2023.md",
+      "title": "Syntiant Unveils NDP115 Neural Decision Processor at CES 2023",
+      "excerpt": "Able to run speech inferences at 280 microwatts, the NDP115 is designed to natively run multiple deep neural networks on a variety of architectures, such as CNNs, RNNs and fully connected networks. Ideal for close-talk, far-field, keyword speech and audio ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/news/53266/syntiant-neural-decision-processor.html",
+      "originalUrl": "https://www.design-reuse.com/news/53266/syntiant-neural-decision-processor.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T01:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -815,309 +1083,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-profet-ai-closes-us56m-series-a-round-to-fuel-regional-expansion-and-product-development.md",
-      "title": "PROFET AI CLOSES US$5.6M SERIES A ROUND TO FUEL REGIONAL EXPANSION AND PRODUCT DEVELOPMENT",
-      "excerpt": "Profet AI will use this funding to accelerate its overseas expansion into Japan, Southeast Asia and China, further develop its AutoML Virtual Data Scientist Platform and Ready To Go Applications ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/profet-ai-closes-us-5-6m-series-a-round-to-fuel-regional-expansion-and-product-development-1032001263",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/profet-ai-closes-us-5-6m-series-a-round-to-fuel-regional-expansion-and-product-development-1032001263",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T22:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-amds-newest-mobile-processors-have-an-ai-engine.md",
-      "title": "AMD's Newest Mobile Processors Have an AI Engine",
-      "excerpt": "On Wednesday night, AMD fired back during its CES keynote with competing products in both categories: new mobile gpus, new mobile Ryzen 7040 series chips with a built in AI engine, and new 3D V ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/amd-ryzen-ai-mobile-processor-x86-fpga-engine-block-xdn-1849951478",
-      "originalUrl": "https://gizmodo.com/amd-ryzen-ai-mobile-processor-x86-fpga-engine-block-xdn-1849951478",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bf92f220b490c9783cc135ef688984c2.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T21:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding.md",
-      "title": "AI startup looks to transform data into AI models and applications, closes series A funding",
-      "excerpt": "Taiwanese firm Profet AI has raised $5.6 million to expand into new markets with AI/ML solutions purpose-built for the manufacturing sector.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding/",
-      "originalUrl": "https://venturebeat.com/ai/ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/aluminum-manufacturing_recycle-aluminum_05102018.jpg?w=1200&strip=all",
-          "width": 1142,
-          "height": 940,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding/amp/",
-      "publishedDateTime": "2023-01-04T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-ces-2023-live-blog-talking-cars-lg-displays-robots-dogs-and-a-smartwatch-that-cares.md",
-      "title": "CES 2023 Live Blog: Talking Cars, LG Displays, Robots Dogs and a Smartwatch That Cares",
-      "excerpt": "CES is known as the world's biggest consumer electronics show. In 2023 it's well and truly lived up to that moniker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news-live/ces-2023-live-blog-talking-cars-lg-displays-robots-dogs-and-a-smartwatch-that-cares/",
-      "originalUrl": "https://www.cnet.com/news-live/ces-2023-live-blog-talking-cars-lg-displays-robots-dogs-and-a-smartwatch-that-cares/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/a39163608c5114d42ea75d0a0043b2d4fd9181ed/hub/2023/01/05/212e154d-b025-49a7-8ab0-b8ec7f58e349/ces-2023-3286.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-6-best-books-on-artificial-intelligence-how-to-educate-yourself-in-the-hottest-new-tech-sector.md",
-      "title": "6 Best Books On Artificial Intelligence - How To Educate Yourself In The Hottest New Tech Sector",
-      "excerpt": "Artificial intelligence (AI) is quickly growing, and widely accepted as one of the hottest new fields of technology. AI-powered tools are poised to transform more and more sectors of our economy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/01/04/6-best-books-on-artificial-intelligencehow-to-educate-yourself-in-the-hottest-new-tech-sector/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/01/04/6-best-books-on-artificial-intelligencehow-to-educate-yourself-in-the-hottest-new-tech-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63b5dfc14d256ff62e4029ef/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/01/04/6-best-books-on-artificial-intelligencehow-to-educate-yourself-in-the-hottest-new-tech-sector/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/04/6-best-books-on-artificial-intelligencehow-to-educate-yourself-in-the-hottest-new-tech-sector/amp/",
-      "publishedDateTime": "2023-01-04T12:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-citizen-debuts-cz-smart-watch-dedicated-to-wellness.md",
-      "title": "Citizen debuts CZ Smart Watch dedicated to wellness",
-      "excerpt": "Citizen has debuted its CZ Smart Watch with its proprietary wellness software that anticipates, learns, and gets smarter with the wearer.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/citizen-debuts-cz-smart-watch-dedicated-to-wellness/",
-      "originalUrl": "https://venturebeat.com/games/citizen-debuts-cz-smart-watch-dedicated-to-wellness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/citizen-CZ-Smart-YouQ-Intro-Shot_NewDials.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/citizen-debuts-cz-smart-watch-dedicated-to-wellness/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/citizen-debuts-cz-smart-watch-dedicated-to-wellness/amp/",
-      "publishedDateTime": "2023-01-04T12:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

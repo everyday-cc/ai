@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-10-artificial-intelligence-ai-robots-market-outlook-2022-and-forecast-to-2030-by-abb-alphabet-amazon.md",
+      "title": "Artificial Intelligence (AI) Robots Market Outlook 2022 and Forecast to 2030 | By -ABB, Alphabet, Amazon",
+      "excerpt": "Robots Market Research Report (2022 -2030) here: The study report offers a comprehensive analysis of the global Artificial Intelligence (AI) Robots Market size across the globe as regional and country-level market size analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-outlook-2022-and-forecast-to-2030-by--abb-alphabet-amazon-2022-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-outlook-2022-and-forecast-to-2030-by--abb-alphabet-amazon-2022-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T20:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-amazons-new-robot-should-strike-fear-into-its-hundreds-of-thousands-of-warehouse-workers.md",
       "title": "Amazon's new robot should strike fear into its hundreds of thousands of warehouse workers",
       "excerpt": "What do you call a robotic arm that relies on computer vision, artificial intelligence, and suction cups to pick up items? In Amazon's world, it's called a \"Sparrow.\" The tech giant unveiled a robot on Thursday that's capable of identifying individual ...",
@@ -1278,58 +1330,6 @@
         "name": "Daily Camera",
         "domain": "dailycamera.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-artificial-intelligence-ai-robots-market-size-with-top-countries-data-analysis-by-leading-key-players-in-machinery-equipment-sector.md",
-      "title": "Artificial Intelligence (AI) Robots Market Size with Top Countries Data, Analysis by Leading Key Players in Machinery & Equipment Sector",
-      "excerpt": "The Global Artificial Intelligence (AI ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Market Growth Reports is the credible source ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-with-top-countries-data-analysis-by-leading-key-players-in-machinery-equipment-sector-2022-11-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-with-top-countries-data-analysis-by-leading-key-players-in-machinery-equipment-sector-2022-11-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

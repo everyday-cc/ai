@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-17-deep-learning-unit-market-2023-future-growth-segments-latest-opportunities-industry-revenue-size-share-and-leading-players-forecast-to.md",
+      "title": "Deep Learning Unit Market 2023 | Future Growth Segments, Latest Opportunities, Industry Revenue, Size, Share and Leading Players Forecast to 2028",
+      "excerpt": "Nov 16, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Deep Learning Unit Market”",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-unit-market-2023-future-growth-segments-latest-opportunities-industry-revenue-size-share-and-leading-players-forecast-to-2028-2022-11-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-unit-market-2023-future-growth-segments-latest-opportunities-industry-revenue-size-share-and-leading-players-forecast-to-2028-2022-11-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T19:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-machine-learning-based-digital-marketing-tools-to-streamline-ops.md",
       "title": "Machine Learning-based digital marketing tools to streamline ops",
       "excerpt": "As the online market is flooded with competitors and user engagement requiring real-time content, fast computing in digital marketing has become crucial. Here is a list of Machine Learning and Artificial Intelligence-backed tools that help automate time-consuming manual tasks of marketing.",
@@ -1359,50 +1411,6 @@
         "Machine Learning",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-novel-deep-learning-method-may-help-predict-cognitive-function.md",
-      "title": "Novel deep learning method may help predict cognitive function",
-      "excerpt": "Northwestern investigators have developed a deep learning-based method that can predict cognitive function capacity based on brain shape and structure, detailed in a study published in Scientific Reports. The method, which uses graph convolutional neural ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-11-deep-method-cognitive-function.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-11-deep-method-cognitive-function.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/novel-deep-learning-me.jpg",
-          "width": 1497,
-          "height": 1410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-11-deep-method-cognitive-function.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-deep-method-cognitive-function.amp",
-      "publishedDateTime": "2022-11-04T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

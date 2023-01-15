@@ -2,6 +2,284 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2022-10-26-mlsec-could-be-the-answer-to-adversarial-ai-and-machine-learning-attacks.md",
+      "title": "MLsec could be the answer to adversarial AI and machine learning attacks",
+      "excerpt": "With research showing that private investment in artificial intelligence (AI) reached roughly $93.5 billion in 2021, it’s no secret that many organizations are implementing AI and machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/mlsec-ai-machine-learning/",
+      "originalUrl": "https://venturebeat.com/business/mlsec-ai-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-run-inference-at-scale-for-openfold-a-pytorch-based-protein-folding-ml-model-using-amazon-eks.md",
+      "title": "Run inference at scale for OpenFold, a PyTorch-based protein folding ML model, using Amazon EKS",
+      "excerpt": "This post was co-written with Sachin Kadyan, a leading developer of OpenFold. In drug discovery, understanding the 3D structure of proteins is key to assessing the ability of a drug to bind to it, directly impacting its efficacy. Predicting the 3D protein form, however, is very complex, challenging,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-inference-at-scale-for-openfold-a-pytorch-based-protein-folding-ml-model-using-amazon-eks/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-inference-at-scale-for-openfold-a-pytorch-based-protein-folding-ml-model-using-amazon-eks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T12:50:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-ibm-announces-three-new-ai-libraries-for-natural-language-processing.md",
+      "title": "IBM announces three new AI libraries for natural language processing",
+      "excerpt": "IBM unveiled three new embeddable AI libraries to reduce the barriers for AI adoption and to address the AI skills shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/ibm-announces-three-new-ai-libraries-for-natural-language-processing/",
+      "originalUrl": "https://sdtimes.com/ai/ibm-announces-three-new-ai-libraries-for-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-25-at-1.12.13-PM.png",
+          "width": 1202,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-microsoft-celebrates-10-years-of-surface-at-its-2022-surface-event.md",
+      "title": "Microsoft Celebrates 10 Years Of Surface At Its 2022 Surface Event",
+      "excerpt": "I believe Microsoft has made some incredible innovations for its hardware and software over the past 10 years and with its Surface Brand. That path is marked by the Surface teams",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-celebrates-10-years-of-surface-at-its-2022-surface-event/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-celebrates-10-years-of-surface-at-its-2022-surface-event/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-ibm-expands-embeddable-ai-portfolio-with-plug-and-play-watson-libraries.md",
+      "title": "IBM expands embeddable AI portfolio with plug-and-play Watson libraries",
+      "excerpt": "The new offerings announced today provide customers with access to the same AI libraries that IBM uses to power its own IBM Watson products. In other words, they enable developers to build extremely sophisticated AI capabilities directly into their ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/10/25/ibm-expands-embeddable-ai-portfolio-plug-play-watson-libraries/",
+      "originalUrl": "https://siliconangle.com/2022/10/25/ibm-expands-embeddable-ai-portfolio-plug-play-watson-libraries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/watson.jpg",
+          "width": 830,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-shutterstock-to-offer-ai-generated-art-while-compensating-human-artists.md",
+      "title": "Shutterstock to Offer AI-Generated Art While Compensating Human Artists",
+      "excerpt": "The stock image provider is embracing OpenAI's DAll-E 2 program, but will also launch a fund to pay artists for contributing to the AI art generation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/shutterstock-to-offer-ai-generated-art-while-compensating-human-artists",
+      "originalUrl": "https://www.pcmag.com/news/shutterstock-to-offer-ai-generated-art-while-compensating-human-artists",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05aAKSsxub8UucKDaCAuuDN-1.fit_lim.size_1200x630.v1666708832.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-video-games-linked-to-heightened-cognitive-abilities-in-children-study.md",
       "title": "Video games linked to heightened cognitive abilities in children: Study",
       "excerpt": "The study analyzed data from the adolescent brain cognitive development study that is tracking roughly 12,000 children coming of age. Researchers assessed a subset of 2,000 who entered the study ...",
@@ -844,284 +1122,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-deep-learning-computing-stick-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028.md",
-      "title": "Deep Learning Computing Stick Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028",
-      "excerpt": "An in-depth analysis of market segmentation based on product types, applications, growth factors, trends, research, innovations, and new product launches is given in this \" Deep Learning Computing Stick Market .",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-computing-stick-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-computing-stick-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-i-tried-ai-therapy-could-it-replace-the-real-thing.md",
-      "title": "I tried AI therapy — could it replace the real thing?",
-      "excerpt": "I’m sprawled across my bed in pyjamas, conversing with an artificial intelligence via my phone ... text or voice call with a voice bot trained in cognitive behavioural therapy (CBT). Still",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/i-tried-ai-therapy-could-it-replace-the-real-thing-b5bsknnwg",
-      "originalUrl": "https://www.thetimes.co.uk/article/i-tried-ai-therapy-could-it-replace-the-real-thing-b5bsknnwg",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F86a2be20-53bf-11ed-bac9-be98e2faf9fd.jpg?crop=3306%2C1859%2C337%2C346&resize=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women.md",
-      "title": "Vara Raises $4.4 Million In Funding To Bring Its Groundbreaking AI Breast Cancer Screening Platform To Millions More Women",
-      "excerpt": "There are more lost disability-adjusted life years (DALYs) by women to breast cancer globally than any other type of cancer. Vara, a startup building an intelligent platform that infuses state-of-the-art AI into routine breast screenings,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women/",
-      "originalUrl": "https://www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6357aa205c30294b7fa133ef/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women/amp/",
-      "publishedDateTime": "2022-10-25T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-your-health-brain-like-ai-no-internet-needed.md",
-      "title": "YOUR HEALTH: Brain-like AI, no internet needed",
-      "excerpt": "The scientists say with no need for internet connection, the AI would also work in space, where no AI technology has gone before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/",
-      "originalUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wafb-prod.cdn.arcpublishing.com/resizer/mJT1ZA4do6crwyKcA266GlU_m7g=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/56TBXSJTO5AKLMJVGDMLBKZETU.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wafb-com.cdn.ampproject.org/c/s/www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/?outputType=amp",
-      "publishedDateTime": "2022-10-25T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAFB",
-        "domain": "wafb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.md",
-      "title": "SAS Data Ethics Director Reggie Townsend on Building Ethical AI and Why It Matters",
-      "excerpt": "What is ethical artificial intelligence (AI), why is it vital to the future of technology, and how can CIO’s and business leaders help foster it? We spoke to Reggie Townsend, Data Ethics Practice Director at analytics software company SAS,",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.html",
-      "originalUrl": "https://www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2022/10/reggie-townsend-100933805-medium.jpg?auto=webp&quality=85,70",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.amp.html",
-      "publishedDateTime": "2022-10-24T23:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-why-writers-need-to-make-use-of-ai-content-generator.md",
-      "title": "Why writers need to make use of AI content generator",
-      "excerpt": "The need to make the writer’s content more interesting and attractive with available multimedia content has made technology the right tool for content to stay fresh and relevant. There is a huge responsibility for content writers that their content should be unique,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/",
-      "originalUrl": "https://techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/10/pexels-startup-stock-photos-7112.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/amp/",
-      "publishedDateTime": "2022-10-24T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

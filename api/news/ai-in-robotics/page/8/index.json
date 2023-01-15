@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-03-artificial-intelligence-ai-robots-market-size-with-top-countries-data-analysis-by-leading-key-players-in-machinery-equipment-sector.md",
+      "title": "Artificial Intelligence (AI) Robots Market Size with Top Countries Data, Analysis by Leading Key Players in Machinery & Equipment Sector",
+      "excerpt": "The Global Artificial Intelligence (AI ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Market Growth Reports is the credible source ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-with-top-countries-data-analysis-by-leading-key-players-in-machinery-equipment-sector-2022-11-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-with-top-countries-data-analysis-by-leading-key-players-in-machinery-equipment-sector-2022-11-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-02T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-ai-company-secures-91m-for-fleet-of-automated-recycling-robots.md",
       "title": "AI company secures $91M for fleet of automated recycling robots",
       "excerpt": "AMP Robotics said a recent flood of funding will support the technology needed to do better with the recycling of plastics.",
@@ -1316,50 +1368,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-holiday-2022-robot-vacuum-buying-guide-the-best-robot-vacuums-to-gift-this-year-according-to-reviewers.md",
-      "title": "Holiday 2022 robot vacuum buying guide: The best robot vacuums to gift this year, according to reviewers",
-      "excerpt": "Not sure where to begin when buying a robot vacuum? Find the best robot vacuums for the 2022 holiday season with this gift guide. Samsung Jet Bot+ robot vacuum with clean station, $732 (reduced from $800) iRobot Roomba j7+ self-emptying robot vacuum with Braava Jet M6 robot mop,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
-      "originalUrl": "https://www.cbsnews.com/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/29/d0146d7a-e3ca-4549-a180-82b71f490e80/thumbnail/1200x630/17e034c21993177d93992b72a8924677/roomba-holiday-header.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
-      "publishedDateTime": "2022-10-24T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

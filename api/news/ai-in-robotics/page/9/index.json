@@ -2,6 +2,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-10-24-holiday-2022-robot-vacuum-buying-guide-the-best-robot-vacuums-to-gift-this-year-according-to-reviewers.md",
+      "title": "Holiday 2022 robot vacuum buying guide: The best robot vacuums to gift this year, according to reviewers",
+      "excerpt": "Not sure where to begin when buying a robot vacuum? Find the best robot vacuums for the 2022 holiday season with this gift guide. Samsung Jet Bot+ robot vacuum with clean station, $732 (reduced from $800) iRobot Roomba j7+ self-emptying robot vacuum with Braava Jet M6 robot mop,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
+      "originalUrl": "https://www.cbsnews.com/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/29/d0146d7a-e3ca-4549-a180-82b71f490e80/thumbnail/1200x630/17e034c21993177d93992b72a8924677/roomba-holiday-header.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
+      "publishedDateTime": "2022-10-24T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-24-top-10-robots-in-gaming-ranked.md",
       "title": "Top 10 Robots in Gaming, Ranked",
       "excerpt": "Our shiny metal buddies have wormed their way into all forms of media, and games are no exception, but who among them is the best? Robots always end up being such interesting characters.",
@@ -1382,58 +1426,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-16-crop-robotics-2022-beyond-the-valley-of-death.md",
-      "title": "CROP ROBOTICS 2022, BEYOND THE VALLEY OF DEATH",
-      "excerpt": "Western Growers Association produced an excellent report that outlined the need for robotics in agriculture. Ongoing labor challenges are, of course, a major driver, but so are rising costs, future demand,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/",
-      "originalUrl": "https://www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634a29a9e54228319eb5c039/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/amp/",
-      "publishedDateTime": "2022-10-15T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

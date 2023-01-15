@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-09-08-robot-software-market-research-insights-with-upcoming-trends-opportunities-competitive-analysis-forecast-to-2022-2031.md",
+      "title": "Robot Software Market Research Insights with Upcoming Trends, Opportunities, Competitive Analysis, Forecast to 2022-2031",
+      "excerpt": "Increasing adoption of Internet of Things (IoT) and Artificial Intelligence (AI) is the key driver for the growth of the robot software market The robot software market size is expected to grow from USD 1,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/robot-software-market-research-insights-with-upcoming-trends-opportunities-competitive-analysis-forecast-to-2022-2031-2022-09-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/robot-software-market-research-insights-with-upcoming-trends-opportunities-competitive-analysis-forecast-to-2022-2031-2022-09-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T03:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-overview-of-the-classic-and-advanced-technologies-of-continuum-robots.md",
       "title": "Overview of the classic and advanced technologies of continuum robots",
       "excerpt": "A review paper by scientists at the Zhejiang University summarized the development of continuum robots from the aspects of design, actuation, modeling and control field. The new review paper ...",

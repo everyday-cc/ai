@@ -2,6 +2,292 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2022-09-27-kami-visions-fall-management-solution-kamicare-expands-national-access-through-general-availability.md",
+      "title": "Kami Vision's Fall Management Solution, KamiCare, Expands National Access Through General Availability",
+      "excerpt": "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions and cameras to enterprise, SMBs and consumers, announces the general availability of KamiCare, its vision AI fall management solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/09/27/9681407.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/09/27/9681407.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
+          "width": 476,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-physical-training-is-the-next-hurdle-for-artificial-intelligence-researcher-says.md",
+      "title": "Physical training is the next hurdle for artificial intelligence, researcher says",
+      "excerpt": "Let a million monkeys clack on a million typewriters for a million years and, the adage goes, they'll reproduce the works of Shakespeare. Give infinite monkeys infinite time, and they still will not appreciate the bard's poetic turn-of-phrase,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-2.jpg",
+          "width": 1920,
+          "height": 1633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.amp",
+      "publishedDateTime": "2022-09-27T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-how-ai-is-changing-the-game-in-insurance.md",
+      "title": "How AI Is Changing The Game In Insurance",
+      "excerpt": "The insurance industry is one of the largest in the world and has been around for hundreds of years, making it ripe for transformation by newcomers in the space. Technology has pushed the frontier of what’s possible,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632e1d204d78bb340e7d2c21/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/amp/",
+      "publishedDateTime": "2022-09-27T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-the-five-pitfalls-of-adopting-ai-in-financial-services-and-how-to-avoid-them.md",
+      "title": "The Five Pitfalls Of Adopting AI In Financial Services And How To Avoid Them",
+      "excerpt": "It’s great to see AI adoption at this scale, but this also makes it crucial for FSI leaders to watch for and avoid some of the following leading pitfalls in AI initiatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/the-five-pitfalls-of-adopting-ai-in-financial-services-and-how-to-avoid-them/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/the-five-pitfalls-of-adopting-ai-in-financial-services-and-how-to-avoid-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6331b16c245509f3477d2c27/0x0.jpg?format=jpg&crop=1379,776,x0,y84,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/the-five-pitfalls-of-adopting-ai-in-financial-services-and-how-to-avoid-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/27/the-five-pitfalls-of-adopting-ai-in-financial-services-and-how-to-avoid-them/amp/",
+      "publishedDateTime": "2022-09-27T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-colossal-biosciences-spins-off-form-bio-software-for-computational-life-sciences-breakthroughs.md",
+      "title": "Colossal Biosciences spins off Form Bio software for computational life sciences breakthroughs",
+      "excerpt": "Form Bio gives life scientists a software platform for managing large datasets and computational analysis of machine learning and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/colossal-biosciences-spins-off-form-bio-software-for-computational-life-sciences-breakthroughs/",
+      "originalUrl": "https://venturebeat.com/ai/colossal-biosciences-spins-off-form-bio-software-for-computational-life-sciences-breakthroughs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/GettyImages-1193139738-e1662682217838.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/colossal-biosciences-spins-off-form-bio-software-for-computational-life-sciences-breakthroughs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/colossal-biosciences-spins-off-form-bio-software-for-computational-life-sciences-breakthroughs/amp/",
+      "publishedDateTime": "2022-09-27T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-autonomousdriverless-cars-market-demand-business-strategies-future-analysis-current-trends-in-2022-and-forecast-till-2028.md",
+      "title": "Autonomous/Driverless Cars Market Demand, Business Strategies, Future Analysis, Current Trends in 2022 And Forecast till 2028",
+      "excerpt": "The autonomous (driverless) car market was valued at ... Recent technical breakthroughs in artificial intelligence, machine learning, and other sensors such as RADAR, LIDAR, GPS, and computer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/autonomous-driverless-cars-market-demand-business-strategies-future-analysis-current-trends-in-2022-and-forecast-till-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/autonomous-driverless-cars-market-demand-business-strategies-future-analysis-current-trends-in-2022-and-forecast-till-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.product.which.co.uk/prod/images/original/gm-8b9e8b5f-4213-4b1a-8946-0278e33ad281-driverless-car.jpg",
+          "width": 615,
+          "height": 280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-ai-wont-replace-human-intuition.md",
       "title": "AI Won’t Replace Human Intuition",
       "excerpt": "As artificial intelligence (AI) capabilities and applications have expanded, the AI field is fueling fodder for some interesting science-fiction scenarios. Elon Musk, CEO of Tesla—which relies on AI for self-driving and other key functions—has warned the world about “scary outcomes” harnessed by the power of AI-fueled robots akin to those in “Terminator” film series.",
@@ -888,291 +1174,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-nvidia-gtc-highlights-memory-and-storage-importance-for-the-future.md",
-      "title": "NVIDIA GTC Highlights Memory And Storage Importance For The Future",
-      "excerpt": "The NVIDIA GTC brought out new GPU and other hardware that will accelerate data processing in gaming, enterprise computing, cloud computing, automotive and media creation and require large amounts of memory and storage to support the creation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633266af606c3425ffdd5382/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/amp/",
-      "publishedDateTime": "2022-09-26T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-image-recognition-in-retail-market-to-show-impressive-growth-of-1843-cagr-during-the-period-2022-2027-98-report-pages.md",
-      "title": "Image Recognition in Retail Market to show impressive growth of 18.43% CAGR during the period 2022-2027 | 98 Report Pages",
-      "excerpt": "Sep 27, 2022 (The Expresswire) -- [98 Report Pages] Image Recognition in Retail market size was valued at USD 1456.96 million in 2021 and is expected to expand at a CAGR of 18.43% during the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-to-show-impressive-growth-of-1843-cagr-during-the-period-2022-2027-98-report-pages-2022-09-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-to-show-impressive-growth-of-1843-cagr-during-the-period-2022-2027-98-report-pages-2022-09-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-new-standards-set-for-artificial-intelligence-in-marketing-market-grow-at-1904-cagr-101-report-pages.md",
-      "title": "New standards set for Artificial Intelligence in Marketing Market grow at 19.04% CAGR| 101 Report Pages",
-      "excerpt": "Sep 27, 2022 (The Expresswire) -- The global Artificial Intelligence in Marketing market size is expected to expand at a CAGR of 19.04% during the forecast period, reaching USD 103560.95 million ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/new-standards-set-for-artificial-intelligence-in-marketing-market-grow-at-1904-cagr-101-report-pages-2022-09-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/new-standards-set-for-artificial-intelligence-in-marketing-market-grow-at-1904-cagr-101-report-pages-2022-09-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-james-earl-jones-steps-back-from-voicing-darth-vader-signs-off-on-using-archived-recordings-to-recreate-voice-with-ai.md",
-      "title": "James Earl Jones steps back from voicing Darth Vader, signs off on using archived recordings to recreate voice with AI",
-      "excerpt": "James Earl Jones, who has voiced Darth Vader for nearly 50 years of “Star Wars” films, seems to be stepping away from the role. According to Vanity Fair, the 91-year-old actor has signed off on archival voice recordings being used by young filmmakers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/nbcblk/james-earl-jones-steps-back-voicing-darth-vader-signs-using-archived-r-rcna49393",
-      "originalUrl": "https://www.nbcnews.com/news/nbcblk/james-earl-jones-steps-back-voicing-darth-vader-signs-using-archived-r-rcna49393",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-09/220926-james-earl-jones-darth-vader-jm-0922-1a147b.jpg",
-          "width": 2100,
-          "height": 1400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna49393",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna49393",
-      "publishedDateTime": "2022-09-26T17:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-alzheimers-treatment-slowed-cognitive-decline-in-closely-watched-clinical-trial.md",
-      "title": "Alzheimer’s treatment slowed cognitive decline in closely watched clinical trial",
-      "excerpt": "A n investigational Alzheimer’s disease treatment from Biogen and Eisai slowed the rate of cognitive decline by 27% in a clinical trial, the companies said Tuesday, meeting the goals of a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2022/09/27/alzheimers-treatment-slowed-cognitive-decline-in-closely-watched-clinical-trial/",
-      "originalUrl": "https://www.statnews.com/2022/09/27/alzheimers-treatment-slowed-cognitive-decline-in-closely-watched-clinical-trial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statnews.com/wp-content/uploads/2022/06/AdobeStock_205319783-1024x576.jpeg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-new-alzheimers-drug-slows-cognitive-decline-clinical-trial-finds.md",
-      "title": "New Alzheimer's drug slows cognitive decline, clinical trial finds",
-      "excerpt": "The companies announced the trial's success in a press release Tuesday, saying that cognitive decline slowed 27% in patients using their drug — called lecanemab — over 18 months compared with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/clinical-trial-finds-new-alzheimers-drug-slows-cognitive-decline-2022-9",
-      "originalUrl": "https://www.businessinsider.com/clinical-trial-finds-new-alzheimers-drug-slows-cognitive-decline-2022-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6333afdd9ac0610018e7fc4e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/clinical-trial-finds-new-alzheimers-drug-slows-cognitive-decline-2022-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clinical-trial-finds-new-alzheimers-drug-slows-cognitive-decline-2022-9?amp",
-      "publishedDateTime": "2022-09-26T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
