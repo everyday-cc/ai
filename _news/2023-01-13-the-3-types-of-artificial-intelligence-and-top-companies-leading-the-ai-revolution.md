@@ -1,0 +1,43 @@
+---
+category: news
+title: "The 3 Types of Artificial Intelligence and Top Companies Leading the AI Revolution"
+excerpt: "In this week’s World Reimagined, we will look at the rapidly evolving world of Artificial Intelligence (AI), some of its players, and what companies are poised to gain from a pivotal year where AI hits center stage."
+publishedDateTime: 2023-01-13T14:16:00Z
+originalUrl: "https://www.nasdaq.com/articles/the-3-types-of-artificial-intelligence-and-top-companies-leading-the-ai-revolution"
+webUrl: "https://www.nasdaq.com/articles/the-3-types-of-artificial-intelligence-and-top-companies-leading-the-ai-revolution"
+ampWebUrl: "https://www.nasdaq.com/articles/the-3-types-of-artificial-intelligence-and-top-companies-leading-the-ai-revolution?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-3-types-of-artificial-intelligence-and-top-companies-leading-the-ai-revolution?amp"
+type: article
+quality: 78
+heat: -1
+published: false
+
+provider:
+  name: Nasdaq
+  domain: nasdaq.com
+
+topics:
+  - AI in Autos
+  - AI
+
+related:
+  - title: "6 Types Of AI And What They Can Do For Your Business"
+    excerpt: "Tyler Weitzman, cofounder, President and Head of AI at Speechify. AI is slowly taking over the world. Drones are delivering food, vacuums are cleaning homes on auto-pilot, virtual assistants are initiating calls and art is being assembled by bots."
+    publishedDateTime: 2023-01-13T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-types-of-ai-and-what-they-can-do-for-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-types-of-ai-and-what-they-can-do-for-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-types-of-ai-and-what-they-can-do-for-your-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63c00726196515fc48c92cf4/0x0.jpg?format=jpg&width=1200"
+        width: 1105
+        height: 737
+        isCached: true
+
+secured: "oe8K/c3o+mE4WZ35mydF/m1vP3uT/s/Ljs0Rhc71UDI9uT0vbAjfaogKGoCrxMsKAdX3ht5sGEibyqnUyEQER1/6yXnRKi6O1ebQAzcx5TUgWg3YCW1gqQJHaCDPwC0kFSYXz2lAwNExeIRkAA8XktJWhzCHDh4wWzLC2QS7e+onmCD5moOlowRfJ4ZdKnS830Q1qL315sYSpfpceLNR0r5wPTvBEmrQmbzH7IhR4AibuKUXTN9ZcppUe+g2gvsq7L90GHaPvvFRr1gMehJnahUM3wjZx43gdgbnmsTYmDeJ5tIukAX+ClE9wNJwM/YcndnRSyWf00z+0QDILoplWbfOapKFCcnjZKwQ8WoBHac=;67UZDdi0Lrkkrq2+i+lZUA=="
+---
+
