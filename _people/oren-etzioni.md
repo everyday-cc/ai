@@ -18,7 +18,7 @@ twitter:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=-hmxit8AAAAJ
-  citations: 43333
+  citations: 43443
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Oren_Etzioni
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Oren Etzioni"
 
-secured: "mb6bFfbhzQWDnBF5HcoLNuhUBozECRW80U2SgySzj14IWxmRqtpbLX6BIPwhTl/Ai7UMUmE/CfCGk5RA28WtzmCiTRZVYxobjqjd3FNXxIV9ghE3HdTXXst0lHpLmK6IW44dfSkn4NdefP8Pr9F9Whjyu+/l0/ofUy8W7dSc7rQpgGy8OVe2xlMBJ9okWedt5nX37egqhrcWS6xokwgMvqAgkv4kElZA9fa6eTj5y8SdZTznl7KR9F5jofUMDuhxL7VxF4+dd5tsKbtA1lE3UeXgY6aw8hClqxxcZKcxZJBsT5j+j0jVN5qX6FXBudHOXB2zc2Yj7sofvHTanYLJ7AtSIM0Xkj8tipzcqYY5O8ssrUKmThHxDFjRF2kAdcSEyHV8z2Z9xtgjl3tvUMc82zcZbOJN0cZJHKjLZnl07Xk=;lBR5GuqlznMHbQriRfP9Ig=="
+secured: "TOtS1gVgKEgUt75+oD3VNCYp2NI9HYh8D4iV0X9Vx+En6fC72z3tTmgRuBS+RmufJtnR5FzJRy9pcznsfgtcG/N/CuZqfeRVgUXTnPNKsmKDqEpL9ah43lREoruwDJaIglpl3Kt0XtKg+q7S7GFtp28XR2SY+iYRtzow8FDzbhPHP8652eBz14Mw8AebbG+WDXOdvcPQEevxLhbQ5N3Qax/MIfD0mzTi4qCQoyTll5zJEmq5kvqJYCCL5A5be+GcQg+prAJpQWSt8NShx4mUSlvD+I0JX0xQQTREMMjjyrN374gvl1rHn2cDUlPNV8uZKNl11l4Ye3sIupKPkI2Ho4YHlaPzvFTS/OP0xArAPN05qN68WTX5vHBgtao4z1E7qCtS5dt8SEiizqQpfyJ8sdyaNXcfKOHKSBogjrQFiiU=;e3+hyU6FjSd9OBHNGl3NiQ=="
 ---
 

@@ -3,7 +3,7 @@ name: "Huahai Yang"
 bio: "A technologist and an entrepreneur. Used to be a professor and a research scientist."
 location: San Jose, CA
 type: "profile"
-heat: 41
+heat: 50
 published: false
 
 affiliation:
@@ -15,14 +15,14 @@ website: https://t.co/s5ydlRJnm8
 twitter:
   username: huahaiy
   url: https://twitter.com/huahaiy
-  followers: 946
+  followers: 945
 
 linkedin:
   url: https://www.linkedin.com/in/huahaiyang/
 
 googleScholar:
   url: https://scholar.google.com/citations?user=KvPSD8EAAAAJ
-  citations: 18638
+  citations: 18827
 
 topics:
   - AI
@@ -35,6 +35,6 @@ images:
     isCached: true
     title: "Huahai Yang"
 
-secured: "oejkPsye2sv9xJwPgoBXapfHDfaXHyQL+tCOPPGhkVpaNOZfLW1l5W+1YordLcEUBeW8jUG08l/xBUH8qwWg+gd3E8ioQ5aV+ahNepir06n1C4H0FSYF7Q6PdY++Ww1IQWV5wE2Sz5j8lYPQ0I52lE9ByknWhk8Bxt0vn3k0qLOdyuT8iLB2MNzSXDlcYVj0Oa9IxdgomdyvJLsIuTrshzYKRWpW3c2uDDxvFJPDdUqwF4v72b6rzlA1Cd/tZ7Nj7vZD5L5f9ie8I0kcEPGyV8or98BbJOzNIxyP3g6k2BsWUfNr8w4jAPSAJHdQqPUqZpXl78ygoBuPeqod0+Pj1bkoeLuKuWhdSV75MUM2Mw7PqoFiF1q/GW2IVPqww780KVAB71D5StmweJoH4VgcflhtZzyT44Jx9+FVIyC1htQ=;qQIowiQz9QsV0HaakmVhvA=="
+secured: "zzR5oipzVo0VqkecAPg7KaBkd8jY0Bz1+8rOdgYq+QUed5YlKzyLGQJXqY3g3WwMUf/eKcJfqYA8zy8XGRPBdSEZY0QfVr0hP+CgBnVcjTEmm899Ia6CBp3uqphBlf6UcpElcEo1fsSmBPu5CafSJv/c5+3qCW7o9kiCxtEFx7jj6t82CutQyXOUmNO0VwrJ/SV7dfttaCPpZi5jhFJt0yCI8mmYGnfFR/R/jW6mRGBSVvTO4JEyXuBWySURSZQXUZi8rKeZHZqhvUTQr9rMgg1rP3/fHRtIagahYtm0dAecMQkAVnCS843Dq4Ld4ySJLsYwcSqvacXpse3HhJ/OmCBdsHnXC0Ae1zX0/xS05Zk5DX2r6Uxn6fwRXq+4Gch/VadwuOepnoPKlnSapsvrROg/To1cUvN6ZCNVQSp2mkg=;oyS1o6nVhonacHjVgfE7ow=="
 ---
 

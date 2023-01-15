@@ -17,11 +17,11 @@
       "twitter": {
         "username": "KyleCranmer",
         "url": "https://twitter.com/KyleCranmer",
-        "followers": 14175
+        "followers": 14229
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
-        "citations": 216358
+        "citations": 217637
       },
       "affiliation": {
         "path": "",
@@ -33,7 +33,7 @@
         "Math for AI",
         "Machine Learning"
       ],
-      "heat": 72,
+      "heat": 81,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1570833173897953280/vPMcsGeY_400x400.jpg",
@@ -57,11 +57,11 @@
       "twitter": {
         "username": "bschoelkopf",
         "url": "https://twitter.com/bschoelkopf",
-        "followers": 10416
+        "followers": 10440
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
-        "citations": 195734
+        "citations": 196525
       },
       "affiliation": {
         "path": "",
@@ -73,7 +73,7 @@
         "Math for AI",
         "Machine Learning"
       ],
-      "heat": 65,
+      "heat": 64,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
@@ -96,7 +96,7 @@
       "bio": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=mXSv_1UAAAAJ",
-        "citations": 221867
+        "citations": 222297
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Leo_Breiman"
@@ -134,7 +134,7 @@
       "bio": "Professor of EECS and Professor of Statistics, University of California, Berkeley",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=yxUduqMAAAAJ",
-        "citations": 248571
+        "citations": 249801
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Michael_I._Jordan"

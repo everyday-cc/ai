@@ -20,7 +20,7 @@ linkedin:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=910z20QAAAAJ
-  citations: 60930
+  citations: 61377
 
 wikipedia:
   url: http://en.wikipedia.org/wiki/Daniela_L._Rus
