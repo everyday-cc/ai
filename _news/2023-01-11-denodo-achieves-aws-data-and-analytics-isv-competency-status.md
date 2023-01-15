@@ -2,68 +2,19 @@
 category: news
 title: "Denodo Achieves AWS Data and Analytics ISV Competency Status"
 excerpt: "Denodo, a leader in data management, today announced that it has achieved the Amazon Web Services (AWS) Data and Analytics ISV Competency status. Attaining this status differentiates Denodo as an AWS Partner that has successfully demonstrated deep expertise in data integration,"
-publishedDateTime: 2023-01-11T08:26:00Z
-originalUrl: "https://www.afp.com/en/news/1314/denodo-achieves-aws-data-and-analytics-isv-competency-status-202301100054891"
-webUrl: "https://www.afp.com/en/news/1314/denodo-achieves-aws-data-and-analytics-isv-competency-status-202301100054891"
+publishedDateTime: 2023-01-11T06:00:00Z
+originalUrl: "https://www.businesswireindia.com/denodo-achieves-aws-data-and-analytics-isv-competency-status-82492.html"
+webUrl: "https://www.businesswireindia.com/denodo-achieves-aws-data-and-analytics-isv-competency-status-82492.html"
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
-  name: AFP
-  domain: afp.com
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - AWS AI
   - AI
 
-related:
-  - title: "How a utility giant is using data analytics, machine learning to benefit customers"
-    excerpt: "By moving away from legacy systems and towards the cloud, utility firm EDF UK is delivering an array of innovative machine learning products."
-    publishedDateTime: 2023-01-11T02:07:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/how-a-utility-giant-is-using-data-analytics-machine-learning-to-benefit-its-customers/"
-    ampWebUrl: "https://venturebeat.com/enterprise-analytics/how-a-utility-giant-is-using-data-analytics-machine-learning-to-benefit-its-customers/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/how-a-utility-giant-is-using-data-analytics-machine-learning-to-benefit-its-customers/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-505464673-e1646666749497.png?w=1200&strip=all"
-        width: 1199
-        height: 599
-        isCached: true
-  - title: "Federated Learning on AWS with FedML: Health analytics without sharing sensitive data – Part 1"
-    excerpt: "This blog post is co-written with Chaoyang He and Salman Avestimehr from FedML. Analyzing real-world healthcare and life sciences (HCLS) data poses several practical challenges, such as distributed data silos, lack of sufficient data at any single site for rare events, regulatory guidelines that prohibit"
-    publishedDateTime: 2023-01-13T17:22:44Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/part-1-federated-learning-on-aws-with-fedml-health-analytics-without-sharing-sensitive-data/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 77
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/13/fedml-on-aws-part-1.jpg"
-        width: 1564
-        height: 780
-        isCached: true
-  - title: "Federated Learning on AWS with FedML: Health analytics without sharing sensitive data – Part 2"
-    excerpt: "This blog post is co-written with Chaoyang He and Salman Avestimehr from FedML. Analyzing real-world healthcare and life sciences (HCLS) data poses several practical challenges, such as distributed data silos, lack of sufficient data at a single site for rare events, regulatory guidelines that prohibit"
-    publishedDateTime: 2023-01-13T17:23:05Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/part-2-federated-learning-on-aws-with-fedml-health-analytics-without-sharing-sensitive-data/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 77
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/13/fedml-on-aws-part-2.jpg"
-        width: 1566
-        height: 780
-        isCached: true
-
-secured: "qPRzilXmqcEUadjO1TIHB6D8J5zeplrkNw78qmuezSGkRMHuvy3Dp8dWrxgWl3kz8DdwTb++BBPkZS4IrZUNxv5xv8mo5h4FWRuZrBJ5I+r/TT+qxXMTQvic5udNXBbx7YyqOd+dU9lAOpyzSIvMdWDP3+b/ul0WN33PtJ/PXvnbaaqjgbqQwR/FUYuU0442jrSO4cqyRx2d2IIpigbcaFLs920Je6EyHz1Eq55FDuBhEqSpmY7dMEizGGIOvtyn4MDYZ2GN2lOhs41XMmurfaH5yTW5gJLobRT6ZRjkeDKGFFa+6KuY3akh4LliQ9gz0cUG0uHUx2d882jf7B6H9ZusP2HeFO1FqUlPiwYlCJY=;rQ7xkhGLJ40cf8sqUGoANg=="
+secured: "WoUVbHHqTE2aZWR4irO0thsKQYbHRnj8WhwAZaeRCRP8ymUbPIlwybwBEGxOB7k6giwRlJoZ/zpquBuODJFHQZ7nkzbH3HJFRdfM6irSwUCfrTVq/q9P92eY58xxCKscWp/qQYkS9O0uIaPsLo+LVhjwco4dDb0VzATa8zcXyWdE0V1kkU9gcQ3mq1iYYv3zxqytdMJDQcXgoyufqh6lz3PkT6Mn3Fd8wyyVRdwcaLv/Wl1krLOudWeIJQAPmaFdZdTiQodZXT1/o6IaZui4dnVzMxaOv4pXhlH8rTblLZeHUxfFA8PtEIKCo5vDksUXgCrISGnl9MS3cIh1042/dBGFK8ZOgKs/H62qEe6OzGM=;Nav+66R/clpWKweDLxmrUw=="
 ---
 

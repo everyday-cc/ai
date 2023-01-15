@@ -5,12 +5,7 @@ excerpt: "Chesapeake Conservancy's data science team developed an artificial int
 publishedDateTime: 2023-01-10T22:18:00Z
 originalUrl: "https://phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.html"
 webUrl: "https://phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.html"
-ampWebUrl: "https://phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.amp"
 type: article
-quality: 67
-heat: 67
-published: false
 
 provider:
   name: Phys.org
@@ -20,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc.jpg"
-    width: 1384
-    height: 886
-    isCached: true
-
-secured: "NvrBxHS3S+oWiL+5nE3qO/dhr7En2iySJGOsgqj37VBmfMektXxX0p23VCj10jaloIUwnvhzlX6PE6CXlvstEgIoOR37bqsU4ZqfR551D2jPWBNqwE7rIhIEX9LD5gyv5eUxTp5xfl2rPLs3yBb6BGYaPW7eZM8OcVVrnkpR/7oye69CuQU+vYRfP1P8fBboiZbbSaeKIiQMOrTtUhgplG6jxlrIzWXtbaNZwnsKtlmLWbSDb0mTcLt40wNuoFUl/vEwuwCTanIH/3YpZpbyC7/pjJH+rvVjUuX5YdOOxEb8h6ZaopynMNEbSUUIZ7AkhOR8jQ0dJHE1ubLUDI3Zgsrtlx9XzYZScscROMo1YRU=;3+scif0l/rn3zASulIwyaA=="
+secured: "i6Ep0x+ghwSQOKNs7ImwYkn2EDuV+B+DmBESear31/aEiWZray+jLmhgdYm+bcxLvPWGU8rbQXBSzbkcoSXDRkp793ERFO59MUps2CuCivexIDuEP84E2td0HtkrBkvvgInQkagc/6BlisGWdCan10gEoff4Te4DO/aEpCZ/O1nELFbbH1sa79obX8+nT5kaKLp5jPfBE4ZA8wJUOMv+yas7Ol9PkNSnXIMrtrlbfeZvSVQ4rHL8YhfdsgC9GStZ0dBJp4SlrJX/kr9M4dpBpImH4tiTyvSlN2LRPrX/yass1Yc3Hl3AROu4zjFVQSYY9WL1MCLwmJnn94tq4lbjLjm0dC7TSJq5ZWhyRROvJgE=;V9fE0ogof4RTlLuq6YyoCg=="
 ---
 

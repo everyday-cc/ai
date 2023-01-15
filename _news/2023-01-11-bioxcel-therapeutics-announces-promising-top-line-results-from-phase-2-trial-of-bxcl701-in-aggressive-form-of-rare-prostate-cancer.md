@@ -2,13 +2,10 @@
 category: news
 title: "BioXcel Therapeutics Announces Promising Top-Line Results from Phase 2 Trial of BXCL701 in Aggressive Form of Rare Prostate Cancer"
 excerpt: "BioXcel Therapeutics, Inc. (Nasdaq: BTAI), a biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology, today announced promising top-line data from its Phase 2 trial of BXCL701,"
-publishedDateTime: 2023-01-11T12:15:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/01/11/9741357.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/01/11/9741357.htm"
+publishedDateTime: 2023-01-11T13:43:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-announces-promising-top-line-results-from-/2023/01/11/9741357.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-announces-promising-top-line-results-from-/2023/01/11/9741357.htm"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
   name: TMCnet
@@ -18,6 +15,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "4cFc6xF/9PhGOPWiN//gxObUfE2A20GJIrjr6ihVE/83E4rfZu322jEvOzr6Rb+5Cus9IDAPqkxc9lElK7d+7uTt2AwUaPZkWX+rKhHsAVmmO4wv4TM38KHy+o8Es+B7wIsaCSe6uig9l7RxK9lIM7xs/PKc483Ptmrz1lnt5VbYSzDJvOh36Ja2bN8X17kxb+z+37IuKIV0NuKRKfcucDGxFWsazsES5HomO+lOZbnit451/Dp70U1ARBnPWQNe6LK1WARX5qaCu8Q9ywoGvwpyaec9THqlr5IRcGyq4oNwJT7bHQXNTU+7f3+Z9sYuYasw+Ikb/4cHWHImN66cWgnR4KJ3TX1wpXQmOgomIS4=;jfK8cDbNjnDygkrySCOpPQ=="
+secured: "S5IrItwk0eVjvZ43v1CS2nXpPNQbjfEY9C2/gG5K08GtsyHG/oy8Hth7JwR94fGGb+XAFjB53IeLJUvJs+8ESrjVl2khQXkjizea4cDVeIEJwWOVzFcAN38KckFY/K8fjeEpasp51von9WfFr1T2D3D89txMx+d/BcX0HG5cQHWPoLukpEn5ahKGR8vlgBUfebwt2fQ8+Han0zIEUK1kAE3YieAv84aRkkXQZZaXIED980acqYPuyS4PtmB5AMUQRp4TjKbF5ero8eY9OSfzpvSiCH8ODwo88uUKg1oSXqnry+V/TuBzOsAjvQ1/BmoMjatvyg1BTTqD/YT17RQRL64Ah5QJNlWMhvOGSZKsdhY=;rJT8LwPUhledITT9YncTfw=="
 ---
 
