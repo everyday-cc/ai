@@ -2,11 +2,9 @@
 category: news
 title: "Early Learning Slows Later Cognitive Decline"
 excerpt: "Eventually, though, the brain ages, and cognitive ability declines—even for people who are not experiencing dementia. Researchers have been interested in predicting what factors predict the ..."
-publishedDateTime: 2023-01-02T23:55:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline"
-webUrl: "https://www.psychologytoday.com/us/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline?amp"
+publishedDateTime: 2023-01-03T00:11:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline"
+webUrl: "https://www.psychologytoday.com/intl/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/Classroom%20Test.jpg?itok=TRJL_XYM"
-    width: 1528
-    height: 800
-    isCached: true
-
-secured: "TZ+4kflGc25NQ7NQOyHeUcbAGsu4qsNr9jHbpVH3OPNARq+1io2Buh0Zpt2+mSh8KH8/lI3PjXa75L52oVk4MtsUfGlQYcmoXql4IZSN+OFVub7n6Ab6K0q+w0afmXUYckUCVTrovTytSxwrXbElgsxKudbI7T77PhQrvVSViXldymjKJ5L94RbfHxTpoVXU4GFouXrAt7sNnLGhEeAPK4w7k4eTWHASquYnpR9c97RHvzanfEUiQJnqJN434JuRU0tMxVZu8BAKcfF4Nm0hyKf6R/lcyQFwhyTCl7N8BcN7rHDoBQ58L8f6nXzIKPS4Qv92f4KHhrGF/Wg8MceFIDyWcW6F+MDw2ZCq4aMsWhE=;pPdsZ/n7iTj0jCUqxGT6EQ=="
+secured: "6cX7DsBPewwCqetDIRkMrQqdwn0Z9DKxgdpZeKD4mut5UUqSvAe1JDepYDXxGOEvsjMjFAKfwI+XnzefJp40kYiIcuLk3KPdoOcQ2rMu0fLoAXDxxxEvpazGfWyR7soCKh5ITzQ63xv9HNoWZcgAPAYpDbkQTFUAiQsJbMqaH5AQK7DvTu2YVk77srPPv2+gbsBmgUH/jIMmsXH7bWj/pRE6t7SBJ09UrzUs/i2xpkideBaCw28aD0bCxQezgiqdT9q6qvmRf1/HJG/O9twCJ/7FXSbj4wu6e6WUfrYdLB9NG8k9R1++F3pP+TUODVPKgMRdBjcSZzkXE68XAt+fnx7md7H9RnuC3nNUHBbWdcg=;86MU/msQRi7jaRnlyAuGlQ=="
 ---
 

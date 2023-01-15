@@ -23,6 +23,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://img.buzzfeed.com/buzzfeed-static/static/2021-08/27/18/campaign_images/94e109154f62/the-co-founder-of-snopes-wrote-dozens-of-plagiari-2-529-1630089961-23_dblbig.jpg"
@@ -30,6 +31,6 @@ images:
     height: 415
     isCached: true
 
-secured: "4qExtcNzUDFeIkOycHNKlvOvuxE2tUuNXVg2XRFqvSuKu6RziynfsjBQMyH4Zh3fzmbcwJhLx3di19bFfT8rW449TYYWTFJZZwWEBVj+k/JmJ4zxGjhaQN5BzaWaBsmOv+r9eJCfgrV49pNk3wUs5gq1J05cfRapeXD8bJDCo5yGOdUG/kigbi00ZtFWlANiZPmVQcDT5wgUaUwPpiS0CoY75/TA2AWpHp3cbphy0GS1H74P2VKfb2Bkq3ZrvKcs78MqfMBnYI+5XX+y7rH7zoQgL25pI5qnWzFxbigAIFZZBeKdcBj7drj2JjorCW8bJhkiJ8OarmAQ1dtebK4nOSJcwJZdUwAdINVlryqAd90=;uEER3MEJcAGmsMpVtJXHrA=="
+secured: "e22pADIKzY0TY/iwk8uV3zPEZYOiEazPTVnQuK3jaqvglEV4Nqi+wsAxD17u6AJVrX2zEariPqfKVDkdfBYeLxooLbgomHVaIu23VQLc4b31OfRfLStHNMoZ2ZqR9FmZdCQhS57kG/kzZM8FzEn/WpIjJ+oobyijCI+B+yv58Hn7XXZR2GwYfBUjxBV+3fgMUIM4zwiTNH+H/Q8zsKoSSsdaaz3gI8nhwzEdCfxiOfwWWzgytfmVGNyeNkczwxMC3zocDVBQAbRU6MBimAyoZyBSms0N3J9Epk1hKkrDwfgBdACAEBDCJ0GI49JQiNB1zRyILZx569Tnl0Q1xA6mKgBW17tESqrqW4c09LfGcpFMiSD2XINqCNRoyKBlzAsTrJG2Wh+bEPX5aUHD8LLPBLjcRlbwzU4YgMoPzTAAXlnGef2qJlIj2txbU1dpeS2dLVWQU3UOugrVdETwBa1QtuvYFD+F/HcD4zZHdAwKV9t6s9IgOZvX3goPQY4wB0m/Pebfrqgg3QJTAj8/ECLqcg==;MmIVvyjVhsqvYc16eIw3sg=="
 ---
 

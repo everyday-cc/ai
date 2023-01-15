@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://static.scientificamerican.com/sciam/cache/file/FECA0ED6-15DF-4CFF-8D8C6881CAFE713E.jpg"
@@ -23,6 +24,6 @@ images:
     height: 496
     isCached: true
 
-secured: "pBDJmWjiPopXblkzxtIOwk3AQ5x0Ht1QcxfxR25YWxaJMkBlcy3RYk8UjbXHszXUhKpg28OFDzNbZletkjydTIvyvU5aiHfOWFDuPrxejR6YfPe7MLHJDipSkqsrgVzaMbSIv/2JnEP8Ug6X0cbPbdR1XVvrsNATjhzj5z4sAJLKUi5pa9Q0iPvEpPeBAkLoZxm+NNuPRzLsatN/GReSUa211HFj6b/Lqc4lXAlE7zLEcifFW9sK4JN36lSsKq3lMwbTEYZedAIamNzZ1RUNW+b1/2QFDEmsjZKGir7zfPfxJs4BfCSRrWQ3TcDv1bGhaagCmW9DOscs/hzxVCuSzEt7qNs6FFaZOG4TLMwmH4s=;042M4LBj5A9fO+k4bnt6xg=="
+secured: "dSVLx9+7mtRHmnw/J0iFXzYSFWAiNWQuA+6XjgkKe5m3ZzO79wtsoU6L5uHYbzdy/dyPEBO2+T+AZXQ04YpJ5cu/c+oNVwdS+FhTB4M79T+utxzbuLyxeAe4dk6H9vM1PX7vmztuXBYdMXs7LiLYcuPlvwL76CeC/H+3RQTUrqGXP+xFOCyQ6AClNCHh4916jfX25o+gFfg6NOMuTV2l2b+ecrO3A56GFLx9wibb1BUucJGF993UZOk/J7aPH/9MYvT1zgQ7ZZ2KAnVr7yA2GViHDF5OoRs50WLSrGEVY4mzDW3TvaPauMwfNeTIeGDwRanWXHewW9eUPJVl7Qt8pADfcXPAwOyH4WG4OlypSItAiZz0rbRRvbPG9IEKb4fX3ivh4p51Ag0jL7YciIX4pmsNyUNC75DUdmVtakPZg4FoCBO65yNACtoqSHhK9GuabofdPt68eS32OLz/GSjh0P1NldWol5s+RHCk0iDrMmLHcATVgfzYx70xFZ+nCWCAkDVBNvyDZcgQsA9oSHU2aQ==;1KGSNsI56FJMbroG1SGpuw=="
 ---
 
