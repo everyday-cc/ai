@@ -2,7 +2,7 @@
 name: "Foodvisor"
 overview: "Your personal nutrition and wellbeing guide. \nGet your custom program created by nutritionists on the app and start your journey to a healthier, happier you ✌"
 type: "profile"
-heat: 50
+heat: 45
 
 website: http://www.foodvisor.io/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "foodvisor_app"
   url: "https://twitter.com/foodvisor_app"
-  followers: 1179
+  followers: 1172
 
 size: 11-50 employees
 yearFounded: 2015
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=H77GQBirQkM"
 
-secured: "7E+YHHfPdEf+jDOPLiVnNKt3x5keDcqTchWIbLLapBUainduopGhh/mX1M3+MeWefnubmcfWJHs8LfbXIUCL9z07+AMHade2kVti8g8CCfpIXBC3m4URA5BD3HvbhsdZq9jdpS4pHZ7HRs02h/wRYSWLH7PjnMUOHvzKVShFGsWxCUS97jXItNgNZdPnhLdFTzv8TD9GdnDT3W0lmWr6pcvxQ2nBZcrHe9Tg4Zb73kEEMHvJI1el+nWVrbMNEFmmisJna9Ate7rU8SEmwv3fPGwcojbUdtk6lPDx+tryRlDao5IbsAunuA3eTnOxlr92e1UUySaP5HaZkxuwVtLrVq922C3NlXHxRotBfBWBNasg6g5o8YXGHrrzfhXcOptqPPWYKKnQUy2xA0iHKo2gZC1cyX1plH1xmiPYSfnzapg=;z5AGM47C2z5v9R/hIWHsng=="
+secured: "tlNkn9URFZCOdoO1nTLr4+WuzF2tbw6IcyJOw6fB9kOBzl8PHxIQGujkqQsjf9DIzGa5m7Jn9Tq3POLrX4IZqwIitAL+u8iEh9s2tpSZSpobcnnsBgV44dD5ReFlQtMBU57JPRZSYefiFztdb3Jti/v92JLOcSlaToJhbAcCfU2ZDNEF93ne1oQbxMi4whgvtEM/+O6QvdDx5ZgDjJxWosh/FQ4Hmvks680342TbaeuPma5bERRbepDUBcd1WGS1JFKOtc6XTUq75tNw/OXHFT8IQQ8FgCeqw1XmtdCH6kq6po0Up0JPYxykSCP/gUF/iios5tRElcA0fSNkov6KHedaUb0u+KmeGlFpwskz9y08Ow7DGL0icn4zPzW/GNI7kJu0Cs8IDNpyRoCEnRouJOWuv60iGY0zVnLlWt8Ewds=;5R9u+eJC3xF2UFFE+qXXhQ=="
 ---
 

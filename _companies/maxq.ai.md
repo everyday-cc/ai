@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "maximumqai"
   url: "https://twitter.com/maximumqai"
-  followers: 457
+  followers: 456
 
 size: 11-50 employees
 yearFounded: 2013
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=KlK9C4s1lvo"
 
-secured: "aBtYgCW29HFA8iydbvCwncFO+KCrtVf1JziB/VeL5nGCvRwXINri8eSpleGKhXxtDmlkrYOZH/tJHZV7XW+cXiTb3zKx14E9TkjqnnnLKC6cSHaEMK3ltUIU48PPP0PBX2IpdoZ3RQdFnp1g80N8HeBM9QxuDXx6Rq8cAUO32R6tVfY3TmJLUbXRs67UEy4KcT5hvxnBaW6zq24K6XCCwvE8+Fnyzy1pbX69/mN7q7M/cG6SC7Y9ojWe81CnrGvK7LTa8ednK43Bob0ZXf3Ab1ZmYdEtTNwTQogTQc9Bxnw4p5UbHEYt9O+ZH/Y32s+RjUm9mI5M4EQ464ijscwEM3G2GahN1fWgZ3tUTTbfPVgqGQF/1H6e2m5ftG4/VwUNcnEtbtErmxI5Q9IRP+6i2A==;G15kkpJIun3Zehgig8+LVA=="
+secured: "pX1G0hR1r8l52dOoYPT6ozFtzEUaREYUKPp/vJ/lptwMZfJ7TFr75gpIotEpSMCW9jCSZmcdDZwLFVs8yQjYAy+qzfXfF6jibe41HCPfEMeXYNqNnqSObRBkbtwm3aV89yRox85rlMmTVCPnoaPfMt2rwAbSjEoL2c5NYtigYUTkKVLTJJaoWaqHFNr5kSnx60WLrrFalQWhX8t79kfJHrRAcwSkF3yq/XKvHJUVtCXwDIAcMCKMb89N4uBSODgmdDkUoOb0j4yXZZWpyK4qZfb+B0GH5t7zKFvFvr/BqrwfvCN3CMOaUiHhFMbQv053NwKKqC3NU/jWbdJeWoywmCcIy18/2sBTxSqKnaK4itrmzvg4g3AEjdIxoDJ3sW7nCyr3KEJj7trjWasFqkx6zQ==;QmYiDMaPlHQK53iZAel6RQ=="
 ---
 

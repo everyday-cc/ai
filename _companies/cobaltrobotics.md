@@ -4,7 +4,7 @@ otherNames:
   - "Cobalt"
 overview: "At Cobalt Robotics, we build service robots that are maximally helpful for the better of everyone and creates safer, more secure and productive work environments starting with physical security and facilities management. Our unique Robots-as-a-Service (RaaS) model and human-in-the-loop approach create more effective operations at a fraction of the cost of traditional solutions. Organizations in every industry can benefit from Cobalt’s end-to-end service, which manages everything from hardware and software to people and onboarding."
 type: "profile"
-heat: 41
+heat: 51
 
 website: https://www.cobaltrobotics.com/
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "CobaltRobotics"
   url: "https://twitter.com/CobaltRobotics"
-  followers: 1323
+  followers: 1325
 
 size: 51-200 employees
 yearFounded: 2016
@@ -47,6 +47,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=68rBm8bm9AA"
 
-secured: "2dZHhMS8fwnVzGxvNVyHp+wLUcJqPGr07M0WlECJFkPiVT/ww9Xxo8kt8p2DPU+prJl7ZssW4BpfLunSTcxd5IlqG4bITM6UFltR/GhGDeVDgBFtGxk5LjtcU0sLn8NK5+ea+wMEasqFFp9SyXAgG1POH6NctY2ybGdrXukIegTw8X0+bR26wSmaUc/zYAbzbLZYkTS4aMsNdYhkLNqAfkSahpw8/U3jvhddK43127Z97F35CuLBDnbO1EV/OQOJgeSrvILn7lfhPdnOLQTEuNCtjoyd+n3MPz+eiI/8oCSmp5WXxbXlrA+gWCFAAwfYE3HF8V2QlGvAJPWbmh1OZ7s4SwpEPKE7Kw9e5jZZ94q4LUDwNWKPNZcCScZWey96zooM5ntDokEAgnvrubZBU/PssbamSV83ZEplonSEaoE=;m20s/021th93irQiuaPRJA=="
+secured: "VhTDjKyPhI/hcOqcjVTofT71qV7MPFeQNV9Jzo+M1MUlohYOY2ZdJRybTL8QodIMPursSep05FHeyBf3F1AoYvZnhY5C40SW9cxvn5QtvxmCwxizQBC4WmNpofBRchUWs1EoTK+P+orYDOuh74DX7Ajh/65CcgIUBplqQtpstTXgpH0A6jdJ+8yEKr6g614dUjHgROnqgN8hAd8+iTYqw0sHpfJuueaX8MYsQe3XE/LNu2jSaEDRKr9XXXJbgVvI9qlsx27xK1DQGhc7vNj7w3mYi8YMyvpSVD7TNPT50tbnVBzyRVcQk0iTnwGAWJV/3ZhKa9SHtlTHl6aQ3I4CP5ZKglinf5kGp6nrT4nV9IvgxZl1cQLxn8QapQ9OoTkIVJIs8QCziBHA2mEoaT1q0YPxT5nb2Bw3aaYH5eN/0II=;zfBwErnjOlNI6sh5CK0lOg=="
 ---
 

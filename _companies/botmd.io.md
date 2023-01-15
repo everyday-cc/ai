@@ -20,7 +20,7 @@ crunchbase:
 twitter:
   username: "botmdio"
   url: "https://twitter.com/botmdio"
-  followers: 78
+  followers: 77
 
 size: 2-10 employees
 yearFounded: 2018
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=zQLP9b9WHjU"
 
-secured: "tbMc5qZkjRZ4HEXreER0tAikuR6ovPOk0RnYnfI2a+f7b8xQftnBk1c500jWYIMSMS6XHR5op/wP3MQTLbO5LDeCGd0AYX4tN8n7jN6CPksTKKLTx4AVQrn0z0cQkxJSp7v6x2eCewZfvEcJvqRVY2TyjbgqDcp/idnMObtELGpfAOUk0BFXTqEI074NW0315NO/aYWbuQA7ZOAW4ph+FNrSpBbBKoersowrU/2jckk6TFq4Uo0wcmSCrX+4bNQVe1/JiAbYK45pgGzb3yT7TK54lZPNMX27GVqs20GjVvT1bU7jt6ROj/eJE86FQCfdbOmkNLG7saKyLOb16tSAS///UWvPG+kFcsIOmvWOhHjW00zBFhwNjin9f4Eg9nlaaJRrVJa1wGP4D+y4LNYT0Q==;c9UUI+uyKLzfaSE40mNPBg=="
+secured: "3USNiw0uHeWrTjlKvkvCr+6QSZWoyKDMgT/nN1hHJw0MW9sb0TANq01d5GfHjAHmAVTB0RXGeUr/2S0USLwpNSqBapuKeM8BIBnyne9GaMopzDCDX+TYZCmH9qSl4XFb6MRVQ1k44LwxfIiqFredJZdZ6s+0Geon0XfVACMf9iZc2hMTerZaKF4iCrqm58CNu71jNSVo1AVasBQGjIdGszj/dI/T5k0lBSeYXTfhNklJ/SMNu897F/U/nr6aUDlNP4BfNIkFpUz2mryZ6NnU+0cAsE9r9Evp81iDaMg08kObYKBW09wywdatN8y/155TUymBAPV7RuLncFG6Z702Al9RJFqBIFXTAY4Tjx51OuRJqsWpVmuaZz82Qp3DESfsQzvmlKjjFVDYYHOdyDoQ/w==;Zki9/6W36ODVB7G6/bpnjQ=="
 ---
 

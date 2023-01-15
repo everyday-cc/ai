@@ -2,7 +2,7 @@
 name: "Kabbage"
 overview: "Kabbage Inc., headquartered in Atlanta, has pioneered the first financial services data and technology platform to provide fully automated funding to small businesses in minutes. Kabbage leverages data generated through business activity such as accounting data, online sales, shipping and dozens of other sources to understand performance and deliver fast, flexible funding in real time. In just a few years, Kabbage has become the number one online provider of working capital to small businesses in the United States and UK."
 type: "profile"
-heat: 31
+heat: 30
 
 website: https://www.kabbage.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "KabbageInc"
   url: "https://twitter.com/KabbageInc"
-  followers: 26132
+  followers: 26108
 
 size: 501-1,000 employees
 yearFounded: 2009
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=VnqoE8kOHkI"
 
-secured: "9nX6cjbILI1pMKRk7X9d6HOwfuxbnuWGNvPS1jQ619vlMJoFUNtEIf6YuJhAMybREWm/24c6h9PW2hA+dWpWcVwmVNOZymRjBDWbENxxB3OjJrJAhII918Hw1ejPEF1cYqwf3A2blOBVSePJTsLGqXs3nf4izQryzS6/83CpJmJQIscE3Q8613kI5ak8KZPr+bteYocfg0rxM1ClBD+dHLD8z+8Dh9l4ljHZm9TsZfahmg34JLNVuC9bhjHwowDhECb10NpzaHQALFRxmbX7JvTJBdOGbMRCHxglrO16Nra2yia/9ghxslerYc0UOUGOvoCCi4GrQHaYa7xVfeSAyOl5x8lQCLCbt0qoFgkpZW+cDouQqCmj5cQgYGHc8B54EBCOIcTLFVvMzvGthaO7gzOrozVsIqKL8jr5aRm9/uc=;QgWKQ2uF3eg09txpXOhghQ=="
+secured: "MACkpsP5Sp6rFhUQ5WWDmlfRdyGqC3hmq6irimkeDBjBNyXG0MIZdYxbKaqw/8WNVWTEYi+PeZB+mj5Y8Yvo4C75Kiy5zJMQqU5vNftKUUQEtIdVuGM8YLEvTbCSOn3dFWUW9RO6EyjHOk7tIexSgBLxfQa6ZLZWrCxyogCOxogRdsEmyLKIQm6esFv0q0mO3k39n/6YytgpZ7in7Q2Q5FxEpQX+OlsijGe6IT25fvtpwUYTmuu6aozJmt3oI/MHi+a/fmJGw6DOxsj2VWISBlNJQyjfycJrpYCDBJAiGZzJ8prMVZ/+T8CQY1k6xlzN8kdREGvFLfIiY3r+JfjKuug6cmd96ZQCulvphOJeLiW4rTS5OCCVh0Ra1ye0/TtNNj2If46rY/aCEqvdEWLEspE93hUlUJMN+jhodWhV0sk=;ZSxdHPqsjqVOOs9EDG6hMg=="
 ---
 

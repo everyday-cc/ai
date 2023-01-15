@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "kindredai"
   url: "https://twitter.com/kindredai"
-  followers: 1327
+  followers: 1326
 
 size: 51-200 employees
 yearFounded: 2014
@@ -47,6 +47,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=kjKPL53Tgw8"
 
-secured: "XG+aOtLi6lgMP0/biBkWFC/l25iTYMd9VImk+3b0ZxFgM7js9mTB2PqmhVxKefiQQ8SPxnPQH9J0V0so04xX+uOlUeY8QlRMisBRwFy4Pw2IkYrfOHslVIpsTHrF7bKC/2Abknck+l+uv/PNACikSxYPMlK3itF71dLHNoV56Zou9O8HjQQZgrzYh1WM5sU7AceZe4ImaIWdyTvPq//pvnCAmCZtnEveU3sIzr1KT2XJPhfN9tXMEpXl1Jv5iCScSOIwQnh0K7woLr6MIr//JqxNcY1oAmdk73GN4CsP1B/ywQ7lgzt4IgZsg6JhlxQ1lgt1n9/CFGeuPdiy5AJGeYWGwJr8FNVvIlkP1UNFOK4RYMPzJ694ZeaCH+BoxgLgJLOEzvuhmwGdwm+HI+Xku7iV6cjMXTjYAfqF6IaTftU=;ztXzsFqIevSCPs/Q1ztxbQ=="
+secured: "N1/7uyMRhhzzpJ19HkIt9FZ6I8joab1wVY6bB3g5izr+VChqJISEa0u5ZqJKYj/gLIv/GiRlNMHhbZKcCC0U9FBolJMfDzXFSO3dmFdG6xMS2eOzBvXxSmEzSdBe201gqEGcyGE2nz2EP254g5yCNZmBVVpOblp41LDnCYnTUac+G3Z2d8xiTY+MEHbGK/xt7WzHogaXYkNN4kekMYO5lec7aR9AiMoENKBd523UGr/xs5cGkjUpelRbZgB0/aMfvvQHKCY1NAkYg/m62QARhxSWTRSKJJgB5zRzVVRX1tZzEGT+gieJGPwpO7KTHAub2dpstYiQZygSf5egPhQnHm0nhgOrGiE/wFc+4SkiPTiQDjRLQ/SYFJNpLmCIYF2FNtwWgO3K86QYBNbqjWljbfcxEJZPbpvgryD5MAOhD7o=;yJe80e1mhiUlf6ypXbD44Q=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Just AI"
 overview: "Just AI develops conversational Artificial Intelligence (AI) technologies empowering a dialogue between a human and a machine."
 type: "profile"
-heat: 41
+heat: 46
 
 website: http://just-ai.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "JustAIglobal"
   url: "https://twitter.com/JustAIglobal"
-  followers: 1041
+  followers: 1035
 
 size: 51-200 employees
 yearFounded: 2016
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=u9qpsrqV5wo"
 
-secured: "3atXGOLoydQV7GT+qvo3QdH9TtOGDD0xQq63QcHxXaVaqIQSWrMcfyepI8D4WrrcgpJyLEAVx1DHGUdYSP/Pq1PbFhN7VcungWf2vZ5O4PgxpvSP2zUVdFvysPBKRmxRx4srG+435b8wfPkSaUhdLVszVFi7RkwVUaV7EjO6tB07bR043llUpkKI+7iAfyMysyqHOp6kOH805ox0/+eA6CqRRYjCRjCqmRHZNSkuuQhhWzzse36w8newFaRWGtQPQXAKNJh4/XUeN2xOi4QeLNzJb6l4A1N4VPb4oigfDXlt7xjeYNfqE+Yfl3xpgXTrvZqQYdhYcTRFz/0sF0Gv9D49JB3dRv4xG+3kZS6ao+fUXIHZe7nfTv5UGAI2mXjxr/yWu5yC58pDugK+UcCBhmxi4xJ1AAjoWwL7q2T+ZXs=;jCELcLXO6ecSgCtEtrqlXQ=="
+secured: "S9+HlWi5Or10ZT4RFX9VTMnm4i7KGIEAdP4W4gfpz/9ha1+rR5T62bjUtrmdXMrE8uJfmWtCP5qlKbIIc3w1/VL1rBZrbJHbfafe5FglaManHP6xSgtJqiSRcWfjZoaDUTIx/M8M6Rh1tmpLl1fTXlA9FXrWNDsTYxIbuSf/dWwPI0fQD8pMSGr+6U6XzrUaklTz5yMZYAsyHdv8o5W9xbmS1gWaGL2T19o96ZCDDJ4IzoHAW9GY3zMwJampJXBc/+iiLIi7eFGqgL8MIjKG5MySuWNPOXcZZdam1kATFARZ/lF3HSL8yyswSFuuKkmZBBenGRAAHPqV2f5ieFT+yh1t5qb2j7JFDpfGigdUA92loEQ6zWCvBijaP1eNYfmpclDTbbRQWjV8lc+vFfQlmuFMz5pdU01IfJFrjltkmb8=;JpYqd7doR1uyx+hIImqByQ=="
 ---
 

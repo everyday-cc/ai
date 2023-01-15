@@ -2,7 +2,7 @@
 name: "Alitheon"
 overview: "Alitheon, a leader in advanced machine vision, has created FeaturePrint – a system that that securely links the physical and digital worlds. The patented FeaturePrint technology uses artificial intelligence and off the shelf cameras to register and subsequently identify even visually indistinguishable objects with statistical certainty.  This novel capability delivers supply chain intelligence and ensures product authenticity, for producers of industrial parts, pharmaceuticals, semiconductors, additive manufactured parts, precious metals, documents, and luxury goods and other high value assets."
 type: "profile"
-heat: 50
+heat: 56
 
 website: https://www.alitheon.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "alitheon"
   url: "https://twitter.com/alitheon"
-  followers: 89
+  followers: 98
 
 size: 11-50 employees
 yearFounded: 2015
@@ -40,6 +40,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "O96yoq+6ALBqVdjbCfHuBpC1cfNQx0wFokEF2U/nAqPD0tRcjJ6zKlOyHmftCWzh4GjVkJ71mWAo0jsxM3iT3rQqq3y1Rzpn4E+31FcdLbkIa1ICk0yZsCTcY2xgUA8/SjQsf7gNzbGoO5VPnFUipERL0pHfQRpq6ozr+uuEkwk2ofCONVKahpzLY/Du+R4SPlKOcZk2PZMHqdaN4OJ/vWknI5YK0lrD5j4E76sWu0L6EeJv9z3Vc1bvQsVP1IEKwgK8V6Nm6RWg4MD2bEdQ+7CxucwNET/E2OzRL3L/3XkOLv7yKI9xblB3gHIr57Se0qaAiOgDS/rZnO7dj0T6g3t32stlcDGhiNqNOKgEXp5zEQwzLUCYA3GouhKLv1gaRUBV0tWjh8gjB/rRFzhGwQ==;cR+Qxr/lvelzH9umnx/6Ig=="
+secured: "bc0CrYZj5RHexqsK7X4i79EEQdizWc6hZMjN9ea4ldkclS7jmd4szvBKfS7p17pTvlG6psMCaF0oU5ImjcEFed91yo3izfNvoGSegCoNEks0CsjjgXvXBq1QD5fY/5gcnZggbrm16A5y6WgzENIWXbz4/5ujoqIigrdiSiCmIVivd15AwU1SvAxApFMisCWDY8cWvOm9eindmhr73JPCClrhtzr57j7BB/Gv2UW0NNvc+z5WtRUbsL551vJVUBlCUVRTYNAx2Yx3gZfy4nnw7pfRyNv5TTGkra5f0vuHKPIAwEp/qX81xQI1oJNe3lb7qD0oiQEEowwDbHXgUCfixvbyFQJo6LgKBeQq3pVO8GeZiHzNYquOiJKPm6hh2N8M1xU5ZM9QubL1+YqYoUXm+w==;DPMViMHBoi3dL7OZvWu/Lg=="
 ---
 

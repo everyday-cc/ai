@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "deeplens_ai"
   url: "https://twitter.com/deeplens_ai"
-  followers: 547
+  followers: 546
 
 size: 11-50 employees
 yearFounded: 2017
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "cr4QXuOAODAPx+zfXjBe17HYTue7kfa9XMAW9OK+O4TJBNy/yI3zalnga9xlLeaHtCPv8u8EAInv+H0zJeqdaE2C9V6krp2jrJ7FkP0y5RTtJQywrYbHXV1Xf0Ibl/yZsMImt5F2ZilRRisL+PN0UeiS8r28o8QaqRSJSgVgduOgZFtRF51KRF75/lguK1ji8XzI4O4fTOa36ak+FKLwl/+r4YQxEdUkwBTRBygurpnAajMuXv78i0Gq9QeJTSMuVCodkYCEZG6xiOrQmR8jdu/QV3SZ3HyuVnToa3K4M8zucnCzK6tLyF6KPzNmjppC3CsolWaQCJyp0zO1t7gXpIyFmlw38DX4uy/Gr4x2y6djytf/hgQb+jopKJVIRVWjSebsW8pIOICZsgrqQ76+kQ==;90GE1xuSWidCeFCxIqGjbw=="
+secured: "4nhIAW5cNeAaiEbzJyuYDt3Cl9tBXWf1HRDVRkZ78vcK8DBvFDQyRByXg5jq/ngsmpWSrHUL4Qf7WGuKPy7DSrRt0btOSJsJOG0syTX0MwHl8GgNwPJbe/CxZtxdzWB7JKXaMKNDKgh9I9IBoOZ9aor/wU4svHghmF4qFy+IbtNBZ3sjCodjme5Rs+ChQRsKDWyVpamOYmO33Of588zi3i6HxwB2V82xqZkx3grMEzmGbtG8ZlL2iaaSHZxSDBq2/XbJJUnIlZAnNz1Zx5PTi+JK6AkRYDQGScAUaaILWzdpy9ypTeaNCeatR2o6oyyMYp/piIpCFSPTLKgN5wARt1fIvhwwNZvH3RCsWgZZeJELlfX5eG1jq1uIZXQMTbdgVRl2KIxr0Y+zLTCTLxxXHw==;euT9P8rKBe3FYkavqEltFA=="
 ---
 

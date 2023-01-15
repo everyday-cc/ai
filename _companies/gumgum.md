@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "GumGum"
   url: "https://twitter.com/GumGum"
-  followers: 3578
+  followers: 3577
 
 size: 201-500 employees
 yearFounded: 2007
@@ -53,6 +53,6 @@ videos:
       height: 360
       title: "GumGum"
 
-secured: "1I0zmeAboKI+p7GzoBvgrDvlDOfIG94vbSUfE8lGZra6SDgLx5FuVL1sBwMCWeop6Z95R1N2OzN0syIAiNfLSmgboKxt1C8fykHCaBdp8P0jrFDyPvb0OIFc1iMlV3t4r5rrCIBnZjsK6Yt1s5sDR89CsNOwBZnG9LNnwhY6mY/vDBVUOPLSGeDZOm69fOS7RdvRA1Z0VEncLVVXQrv+aymwqR6GGfykmUKHnT8YPinVKVFDbD5uABXl8Ouy0H1CdbjSsfPtShaWcL3GKj9PZ295PPFlb7fyD1XvnhcrR922D+f7RBo5clE5jGP4LNcbgpLuA/PUuBjs56C4Arl6gky9ZZkl5GGRO8To3JauxtLA+BQyyh0JPWdLyIkkggHAgXoqoH2rfYcxcUaJqjLZ9XTzhAAAKvLl51bd71RjUEk=;VedoyeSenncHLqObP+8JRw=="
+secured: "0weBXaOZu52YdCNWZ4v46nJLVIyXlyZlQPSiwQQRYI+HVij+faj1fQBewqM0ux8dcibdYNdBuueSKfi+JXuKPd4oNN86783VDl6vpn1okKVUZ8YhzVfO86Iq3sXRID4QE2CcSGK5fb5hgh0vOsjN9fEWA2Hp13q6+2GsF1kAgFfFiCdfZY1/f7Wa8SVV5XWI3+qxMhSdtU2Mbfuzq6areJc1Y3c+Gg9QWbrd8vMIcSEAwFGefM0viKbpca4CNlyFqOKw+IYcEvqGsEySene2XBGLEAa3B0zDy+0yZ2TvsTQtNIZzVJNg34stZKRVf85GcSIquPcmNJV/1tTrm+J2/Nn6z3K0jWxph1VSLT2DZX7WBCeu4cUCqON2bgCuPQauxvFtIOwtyzRfRH4qa4pJUy2Httu21gD/wp6s3dQzZ6Y=;IYWJ7RHiZeijbl+vPXakeA=="
 ---
 

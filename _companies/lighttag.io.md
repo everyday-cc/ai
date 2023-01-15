@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "LabeledData"
   url: "https://twitter.com/LabeledData"
-  followers: 175
+  followers: 176
 
 locations:
   - San Francisco, CA
@@ -31,6 +31,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=dA2uo9sGIj8"
 
-secured: "Q/QudKoukrqebN8rdBdQXWECrLL7SzDZkdRf7mdiDWFKAhmsAUgdZXFkS8c4T2gow2hOnJofF1Mu3jE20jk8zYwJiXUn5frXoOuty1oCeJDarr62tO+DgW6M20qpeptrP9HvuODjuQbwdMT2pyX78e6YSeJYsUo9MXgFztA19uBLOVvOvFp78W0GBR1FXXoOWIQ2qSWqCqDf4UVgYWnE9Js7KCpC5UWqAkNkduS3Gs77Lt/1yA5I/NFrKKc3rcWG9SRoox++uhtpRhkRtBIrEXZ0ySTT6YLSt2SNW5dyi6/+Usp7r42EZIp/FioQiGm6kYlMV6fj44WlPDXwFId0Z6TTMVKr1NUWOxay9wmuaSFOrdgH4rQgrfoiuls8DaIcvC2IFEE0RgBdpB2HfO0L8w==;iZ7AiWgtH73hi/ODUYIBsw=="
+secured: "5ZH9YBRNfUY7BEo7lvnP6xNBc+BTjZikELk0CxsRRICPnljcMGjt9oDo4NZ3KHyxmgtlr8DeRjpa4EQKUWLFvQDk8nWCtMydao3GcCwU1z0qN07qoUL33nU+MUPJGyGyFCwvX0xgFIUfz0lg04iNY3bww7gcDVXb6MSHyOZtE3tux+fS8+WGvEwsCsUPqy72HPebm0sV8ehbmweekyQyoMMusSV1RC5kOrzffWLzBAV7LzJxX/cdIf9ddnrU2rz/9OWIu1W27t6Z6bUqBFNe2xmzIZfhpW6B8iuAA/MQqawJ1/8BMc10K32+zA9dp/Ed89DMKVWA86opItCn06ABhjBvKqG8+BYgr0thgRXAcwtrkcAAiay8aieFGN021Od03WuLXL3TRv6eUoWZaEKAsQ==;6FrpRAzY8iDzeDdJtvyVDA=="
 ---
 

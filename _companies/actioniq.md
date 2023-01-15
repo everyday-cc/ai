@@ -22,12 +22,12 @@ topics:
   - AI in Marketing
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1569673903471038474/4hE2ifHE_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1613926482966970369/cCg_ddb7_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "ActionIQ"
 
-secured: "DHYJwXxI3HQ1CPYgoRCQpOVGOta9NDXRUO+vYjjFoMzFBJ6O6HsWPHjIaJwX3U9FEKJ+ObPZ8Kix9Yv9yyYsZ7qVHun72qKdVQfpgh+uFTtRp61qqQDnaHhETgtcJkTUfvVSsQB9eueXko9cF+WNvSwjk5JeYSpyHxQnVptPJGWoEt4We4CRow7z2e/dX8xExVzrvx13xvWYjRI+93VRbOXs3j//wFPiij95tsnHZFubn0/E02JDc8oA9Ty5JV9rYzyzladvZCQjG3DZDRG39LSky8O5P+9TSAMHsUdKw6/UZiq04GrvsCWkCECd5/eP8NASJfWCh+C+UcEoup2ZZYaodukchHaIIReGtPbtC0NgW/vd9sd0hMGnoBiVvQJ4W8kTVPGVXzKhBWYeRdamPeNRlZeJ9pubUUih1fkPB0U=;4FKTwwJwYIVAYT/4HisxIg=="
+secured: "wt/76QGG+40OnRv05fNwGp0gNOFlqPWq0rClig97Ei2JtTdGqfcCU6iyrZI1WKkdTdk7I+DeSTieX1FYDFfZx3EnI8fqeiaObMM0E6ft/AUHNBf6RVzGJHp1nFHl+1Fc1NmETm+h//Pw9C+/gTDEyi3m/dcmH1iEzHGoJ2NetzsylUFa7xLsZhxmvJQv01iYuG7NEEZQ/53HF/RWwbxIs/AdXfjyE4CUf34y4iVhBuWd/g4S6vzi/sPCtTGUBOPWUTARp2az+fOXz707n2fkusjGRUnigE2MgAKbmHWM9xuk46j08YpGz42T5DVgjHeLsotp8sNFSsbLj71Y9M2Pv/ac5o/ChKsP/DaThEnIxApjYqkCyQFZFcE7MKadlM6471J4KQYyzsHayDj8u+BRhMTnUHDaEnDXIn1HN1e+/k4=;yV9gI3mkuWq9ZoEoj7aFqg=="
 ---
 

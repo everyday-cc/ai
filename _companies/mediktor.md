@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Mediktor"
   url: "https://twitter.com/Mediktor"
-  followers: 2671
+  followers: 2670
 
 size: 11-50 employees
 yearFounded: 2011
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=VrnosHhMfgA"
 
-secured: "j8gupfupOyBnIWwr9Wy2ueKA68lMyBLKj12rRJk1gm5ecsNRzwP72p5tGDq8cwJ0hKDOQIoFTk/6z6qZavvfrz6z0abr2SQO/lmSwkyGQB0x3QE0oblbc8Z+bR+l+gmVmtM1TvvJZop3FfJvPXFa3PwtCyhHA6gKii/OMTU+bUqpIL3fxG0BlaCmaKPgBVUnAW6NqY00+6o29247QqXSv1LLZDu5BcRcLR9j6SQZXVcxyj3CCHpQMC6hbs6T8Sl4h8uGysW8yGFHNFPZJQ4TpYStw74u9Q/otBEZrsRcHtNqIibFz8RclKi+P6XO2sKlguCdvsd1yd3cZcbx4mNhXnVtF7Pnint+Bj03NyO2Pg4KH2IAVEsUdFGA9EUi8Vc/pA8mZlHMoW/iwPBr7MDV8GkxfzSkIgamlv5X1KNJY50=;HmEIj9GALQR2RrL58JoRNA=="
+secured: "OoGCOYpD71cl7x3x6KlMPMqH/xheiUlpwqpl0emSVLhPxEauCo4Rq/UU7U0vynu2CZfJ6oFy04qmB/QATfGmCswUhA09gUJqgvB0+BgAUFAQrF+uTirMOwgPENpr6VVIboo9BTGsPKTbAi5LRxiuS9um96sCguT+T9c+BNevUCDAL1JW29iHPIFAoMrvGKPgFKemRcBPQmgCj8KTNmOO2/A92CpZ2xz85XY4E1Dn5v1usgxtDnufTm78EF7OgiA7buanSeUNvRdWeR3qMsrvHeOCKIyXx95UPoe+D53/YxEHlnFVE33zVkjPHjvQhL50Vi2kRvhdsK5ZwYyqkLGEJr/TxYfpr4tODWxfcC5x0Xl2XKCuGnhUmXJ7nU5uUyJGFhlbHmkcR2SkfuL9708PvRqgVmJoHlUnRRuQoQOnirU=;5Bu4txOiTSEzG2lHLgVGBw=="
 ---
 

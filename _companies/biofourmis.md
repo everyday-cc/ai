@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 41
+heat: 58
 
 website: http://www.biofourmis.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "biofourmis"
   url: "https://twitter.com/biofourmis"
-  followers: 1152
+  followers: 1165
 
 size: 51-200 employees
 yearFounded: 2015
@@ -33,7 +33,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1262823251643977730/41pmXE41_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1611482545937436679/zTsv_txs_400x400.jpg"
     width: 400
     height: 400
     isCached: true
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "sui99utxfgF7AuHOOU7BsEthpc8sElCafZzJ7ZdVznfc1dWS7LsA1FeNPZzOVceAwS6G+ywVRUQjCyENGzHycfYkCGcRkfBM10KXLyk8LTS+ynsDnYOt6rAGVNsa2PAle5QhIwhrj7CYNEKyseJ3cvyqUjH6lmGc2ka9Qt7lcAumjuRGwaEjJ515OnNWbTA2A8y8f/YL7WLQtejNkOUPnn1961k7L32YVGPFisjQIOQxLQq8saJN/pgTJ7MENe+eTJe6IhrHvkuNPoAIBqDi+0jkP1ZfevVkEHA21DES8nX99C2w1VUo2TGIisSVocHvHHhlWdUKZeSsGmzA1F7tNDq11RxXcTJRKpxV6Cbme3CbF2U1V7NNbPbzctkMzXutWQRU2brU/ondx6yzCDBwjNYEgw6yOkNZ+ZFt7S5r4Ko=;ndRYGZ1767hIrK0ixZGKzw=="
+secured: "TcSiuWinwY+KMlvqK6k50i0y1evfnueQ5HFpYgDyyeEPXR/iPWmvvwDl37gWS35PP5OC6GDLrDhT8rkSagX8V1yIgivQVrQFik9ds44uR368HtZKMnLtZzKjKLTlfun0ogSSTAlmYua33Q224po0laFCyA8OQ/BM86ET4ZTwzlfEekyfG2zDizDpmxiYQ6Em0WLzpEQ+/NKm0cJwQ/SA2eRjXA3crwFN4PGiK1J+y1itIK0LykgDHsE7+ngCVxQfwqabdgUb4ngMYaOIYO8k+Y+i6KQHx4+PuVAFv8zERUJZ6mhE4kg2uW63La9hNfoack/SpU6rMar+mxoB9yTciWslnRVViYUUeXNrOSbD0fzPhBxuPJMvd5hdynBtxWdgusM8eiFq1d+h/FnVCZz9k7QZqt/5WMAeXiDIp6nzpy8=;3yIjJOj8TzlrXnxur/T3yw=="
 ---
 
