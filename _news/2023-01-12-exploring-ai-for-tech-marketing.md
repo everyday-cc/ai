@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.mn/news/exploring-ai-for-tech-marketing?hs_amp=true"
 cdnAmpWebUrl: "https://tech-mn.cdn.ampproject.org/c/s/tech.mn/news/exploring-ai-for-tech-marketing?hs_amp=true"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/220113-AI-Mental-Healthcare-jg-b3b521.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "Has Nvidia won the AI training market?"
+    excerpt: "AI chips serve two functions. AI builders first take a large (or truly massive) set of data and run complex software to look for patterns in"
+    publishedDateTime: 2023-01-15T16:10:00Z
+    webUrl: "https://www.techspot.com/news/97272-has-nvidia-won-ai-training-market.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-15-image.jpg"
+        width: 1963
+        height: 1104
         isCached: true
   - title: "AI Emerges as a Bright Spot in a Sluggish Tech Market"
     excerpt: "Besides, the AI and cloud infrastructure is also considered to show the greatest jump in investment priorities in 2022. All of this, while the global tech world was going through a recession, with companies like Meta,"

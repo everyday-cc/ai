@@ -24,37 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT and generative AI look like tech's next boom. They could be the next bubble."
-    excerpt: "Startups implementing generative AI are already attracting big, early-stage rounds at hefty valuations — with little evidence they can become profitable."
-    publishedDateTime: 2023-01-12T12:50:00Z
-    webUrl: "https://www.businessinsider.com/chatgtp-and-generative-ai-could-form-techs-next-big-bubble-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/chatgtp-and-generative-ai-could-form-techs-next-big-bubble-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgtp-and-generative-ai-could-form-techs-next-big-bubble-2023-1?amp"
+  - title: "ChatGPT could be a 'game changer' for Microsoft that turns it into a core AI stock as it mulls a $10 billion investment into OpenAI, Wedbush says"
+    excerpt: "Microsoft could integrate the ChatGPT technology into its Bing search engine, Microsoft Office products, and Azure cloud platform, Wedbush said."
+    publishedDateTime: 2023-01-11T15:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-microsoft-stock-game-changer-ai-openai-10-billion-investment-2023-1"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-microsoft-stock-game-changer-ai-openai-10-billion-investment-2023-1?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/chatgpt-microsoft-stock-game-changer-ai-openai-10-billion-investment-2023-1?amp"
     type: article
     provider:
-      name: YAHOO!Finance
+      name: YAHOO!News
       domain: businessinsider.com
-    quality: 82
+    quality: 67
     images:
-      - url: "https://i.insider.com/635836b8fc29ff001a5f6330?width=1200&format=jpeg"
+      - url: "https://i.insider.com/62d08b9206bc8f00188ed8b3?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Debunking Claims About Special-Purpose AI That Spot Generative AI ChatGPT Produced Essays, Plus Caustic Call-Outs By AI Ethics And AI Law"
-    excerpt: "A rising claim is that special-purpose AI apps can be devised to figure out whether a set of text is produced by human hand versus generative AI such as ChatGPT. These are misleading and a false hope."
-    publishedDateTime: 2023-01-12T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/12/debunking-those-bonehead-claims-about-being-able-to-use-special-purpose-ai-to-readily-spot-generative-ai-chatgpt-produced-essays-plus-caustic-call-outs-by-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/12/debunking-those-bonehead-claims-about-being-able-to-use-special-purpose-ai-to-readily-spot-generative-ai-chatgpt-produced-essays-plus-caustic-call-outs-by-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/12/debunking-those-bonehead-claims-about-being-able-to-use-special-purpose-ai-to-readily-spot-generative-ai-chatgpt-produced-essays-plus-caustic-call-outs-by-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6253775a681e4c1d1414a314/0x0.jpg?format=jpg&crop=1976,1317,x235,y0,safe&width=1200"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "jYHBD9lsUSASWxgGKosNkH9sXtXkraQCwEOluDJnRqS1JIa1lGv78mos2zLFIDMcNR8EhsAgg+oPpPo4X7CctVILM2AMcyc6ZeLmzCCphXas//eCSd/nMJ16Zo+oNaL4v2s99i9tCRC1kIs6CUcwEAPrTNoIjlXEJNVjpimongCS8Gzu+bnogsORjVBxl+PfiWCWQvAgWxGbOc/fF/vNVcSGz3pjD+4/6krFxUjiA0noxgkPUTIOm9J9nGr/IiuZgtwbJ+rB95n2zbb/qUMIvtxH0jBDlcdrTcc5Z7pMJYu9ChU0NLwOymLcmsHrwJkieve+TLf/G8Lqy8ht+fC2bz2mTxwLbMqIaVslbXMlM+s=;c77UP7eVCvgtXr1r0t9zQA=="

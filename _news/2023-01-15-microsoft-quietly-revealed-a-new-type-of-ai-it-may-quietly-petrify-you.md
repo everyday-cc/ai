@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-15T13:26:00Z
 originalUrl: "https://www.zdnet.com/article/microsoft-quietly-revealed-a-new-type-of-ai-it-may-quietly-petrify-you/"
 webUrl: "https://www.zdnet.com/article/microsoft-quietly-revealed-a-new-type-of-ai-it-may-quietly-petrify-you/"
 type: article
+quality: 65
+heat: 65
+published: false
 
 provider:
   name: ZDNet

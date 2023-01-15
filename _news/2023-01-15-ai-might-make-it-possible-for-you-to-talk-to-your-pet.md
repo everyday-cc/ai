@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-15T13:16:00Z
 originalUrl: "https://www.thenews.com.pk/latest/1030954-ai-might-make-it-possible-for-you-to-talk-to-your-pet"
 webUrl: "https://www.thenews.com.pk/latest/1030954-ai-might-make-it-possible-for-you-to-talk-to-your-pet"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The News International

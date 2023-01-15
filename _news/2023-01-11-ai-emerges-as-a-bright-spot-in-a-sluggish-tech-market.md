@@ -71,6 +71,20 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Has Nvidia won the AI training market?"
+    excerpt: "AI chips serve two functions. AI builders first take a large (or truly massive) set of data and run complex software to look for patterns in"
+    publishedDateTime: 2023-01-15T16:10:00Z
+    webUrl: "https://www.techspot.com/news/97272-has-nvidia-won-ai-training-market.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-15-image.jpg"
+        width: 1963
+        height: 1104
+        isCached: true
 
 secured: "4blVCE1UEsrSfvpkQahyPcQamQZi5AT9tqalZR/uu+vt8a2hjN7FVKHjUdimpjDGYBH32uqvL2bpl5rG9wMrhfyPoVizDTSROna5vc6esVbStOqkiVOXzF89ATEGVi6rC/M6IUJJqdirvIiuxRbq/FNgm5tO+3evk58gNyJdsmqf/r9AIixQ7251jJg7poCyMYUMHPkbst7G25glGZA0gAFH5IWN4Cs7kDumel8m40kAz6astJEVWSldP21D8hyWVR5Zq81Ur+iIpwdl420Gt4U98Xj04So/lpAfQQKy0kNRg6ybi67Okm7e+p/d4+AWrtY48izq5F1XomRnVUF82PE1FH+nxTH44V+BqqnMFGt0MWShD6ts5CveeD3uyYbaPC5KxbJcGS+uRUJqMxCoKByNGVbreZCAKUnqFkEsrQx3VUERi+ob/PJhXWWsnTpHak1Av0dZQ1v8fAVgP4W6OYi7ZX+nYnsDyKvEpAaZQcqi5RmjSWrZcDxmUkCV+nRCD/zU1O76Mit4uynQDxvfKw==;t1kZSvqo2hXzJdoMZjtoXA=="
 ---

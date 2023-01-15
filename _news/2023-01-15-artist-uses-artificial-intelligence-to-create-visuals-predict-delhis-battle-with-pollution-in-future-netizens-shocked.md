@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-15T14:03:00Z
 originalUrl: "https://thelogicalindian.com/trending/artist-shows-delhis-battle-with-pollution-in-future-picture-generated-from-artificial-intelligence-39876"
 webUrl: "https://thelogicalindian.com/trending/artist-shows-delhis-battle-with-pollution-in-future-picture-generated-from-artificial-intelligence-39876"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Logical Indian

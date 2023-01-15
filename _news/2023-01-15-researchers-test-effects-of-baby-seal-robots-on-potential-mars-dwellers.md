@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-15T14:14:00Z
 originalUrl: "https://interestingengineering.com/science/baby-seal-robots-on-mars"
 webUrl: "https://interestingengineering.com/science/baby-seal-robots-on-mars"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Interesting Engineering

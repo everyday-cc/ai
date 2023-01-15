@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-13T19:52:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2023/01/230112113141.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/01/230112113141.htm"
 type: article
+quality: 25
+heat: -1
+published: false
 
 provider:
   name: Science Daily
@@ -18,6 +21,33 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Computers that power self-driving cars could be a huge driver of global carbon emissions"
+    excerpt: "In the future, the energy needed to run the powerful computers on board a global fleet of autonomous vehicles could generate as many greenhouse gas emissions as all the data centers in the world today."
+    publishedDateTime: 2023-01-12T17:56:00Z
+    webUrl: "https://techxplore.com/news/2023-01-power-self-driving-cars-huge-driver.html"
+    ampWebUrl: "https://techxplore.com/news/2023-01-power-self-driving-cars-huge-driver.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-power-self-driving-cars-huge-driver.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 35
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/self-driving-car.jpg"
+        width: 1920
+        height: 1344
+        isCached: true
+  - title: "Self-driving cars could see motorists stuck in traffic for longer"
+    excerpt: "Department for Transport projections said delays may rise by up to 85 from 2025 to 2060 with self-driving cars"
+    publishedDateTime: 2023-01-15T12:52:00Z
+    webUrl: "https://www.timesandstar.co.uk/news/national/uk-today/23251830.self-driving-cars-see-motorists-stuck-traffic-longer/"
+    type: article
+    provider:
+      name: Times Star
+      domain: timesandstar.co.uk
+    quality: 4
 
 secured: "B8Ikgo+MObTfhQKOKVNk4zMLGV0NYBSAQ9yL512ayGzeNlZDc1GzXR8kmXEdqx8VQtw28gzcTah9gBthtShjnCKjTpcC3vxUtk+hfg7aLZjdoaPEjdK2KW/ShyKVrx1LmzwiUkL9VKYoXgF9oATWG/l67SsV5+M7OU9yZueay+i3MgaN7HM9k25AIKHalZcM13fehuLXeWJ27qvRqTpsexrbSlzJiW04ErKNdh4zIgb4iRZsAY5EHuWAJtTZF0wuOP3GpcEVmcCuE6FTe2bKzp6H+hdtuCodXmk4C+C6vGssI9B2yLxa9Nd/2anh2XdVETDNgvJXy/mmo2n0UHwZ/G3L+Q5RdbkRKEuV7R2LEOI=;rwaUUvKtgNKk0cRdH89KsA=="
 ---

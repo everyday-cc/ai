@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-13T01:09:00Z
 originalUrl: "https://menafn.com/1105422496/Framework-Science-Revolutionizes-Hiring-Process-With-Cost-Effective-AI-Powered-Staff-Augmentation-Services-And-Fintech"
 webUrl: "https://menafn.com/1105422496/Framework-Science-Revolutionizes-Hiring-Process-With-Cost-Effective-AI-Powered-Staff-Augmentation-Services-And-Fintech"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Mena FN
@@ -15,6 +18,12 @@ topics:
   - AI in Finance
   - AI
 
-secured: "9Die1eRwEmDU4jcIsPjfHoKhujPxLLxRZjYrKTlnWtuy5Gx9wBWO7/uKjsfwSE6TCpno+OQUuTNxMptOtOx+v3FEGKfT8P9V4CPsmIR9cK4QvDSZUS1wFFOc+SYG9Z+tZdxWWjF1lHVHnWd91EDKdD1ZMPxdaRiugBA4hk4lLxlN7t3M5BN4Z3dClCiQvyt4BIQZ3QdZw2WZVxfy55wt/rj16ROzVHZajysMsCkK+rJRttMrLAXoPR0cd8qqzTezWni5WMza3x1w76qPQHGLbvR1vmKRDcWPYNIbs2YZW/xzC+L/7RJuaVKSO31rcf0jbWfL/xGjQVnUTuXOxVzebeX9aBU6VZofk5rN8Ai2JHaW8f9pk0tVyYdj4/qBhhsCv/YZCY/TUtoc8mj/UlYVopOOV+Mt6b1SwsFkV24fBaWwoRH52JvWnV5YU7x+7TsoIgkjFfkQNC9tfOC8YVzMKcinOUrhn9C8Ckz94zGFjcgt/W4UqtuszT3UxCSogpFvfum9Q86sr96gKZkq8xN9uQ==;WQIfYWySAxD3G4c4qaXuRg=="
+images:
+  - url: "https://menafn.com/updates/pr/2023-01/12/EP_32c5bimage_story.png"
+    width: 600
+    height: 314
+    isCached: true
+
+secured: "VrzF53gUcKq4SaZSIdR1aGduXUo/QOM95IiFq0J35fjePgMVqbDS9cwMbzob7AyIfzJiW+X8puETBP+Xypv/CYLP5gI3BYhk83f8eFbvPkddjEAEwJIoeLcWV1bzWqodqVRJKh4SW7q91YMfflqbiFNC2KZ7mjJNV/aTvlXx/1PZ6LmiwCNmCUsTqxUYopBoUJksteF9xLqMXA/QdE/lVo0CELHol3qDsMi61I1mV7CUUAFRDfbkTDj8o0Ob3iODT1kBl98rj+xnctAvNOm69w/cUYYdWpM8jFI317kDjfcfnTOy9DOx3LxKPuu6PzWRkrc6xCyCbkOnaB5EahbDIcP8KbvPuhU86hekRCFX3qE=;gtqJR5hJR6oLcDPy21BqiA=="
 ---
 

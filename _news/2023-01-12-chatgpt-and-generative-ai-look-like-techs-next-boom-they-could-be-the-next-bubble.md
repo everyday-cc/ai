@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/chatgtp-and-generative-ai-could-form
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgtp-and-generative-ai-could-form-techs-next-big-bubble-2023-1?amp"
 type: article
 quality: 82
-heat: 102
-published: true
+heat: -1
+published: false
 
 provider:
   name: YAHOO!Finance
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Role Playing Via Generative AI ChatGPT Conjures Up Mental Health Questions, Stirring AI Ethics And AI Law Scrutiny"
+    excerpt: "On a markedly relevant basis, these hefty matters bring forth some significant issues underlying AI Ethics and AI Law. Should AI developers be employing appropriate Ethical AI precautions when devising generative AI that can seemingly engage vividly in ..."
+    publishedDateTime: 2023-01-15T13:02:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63c37f734794d6bc1e964a47/0x0.jpg?format=jpg&crop=2325,1307,x158,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Debunking Claims About Special-Purpose AI That Spot Generative AI ChatGPT Produced Essays, Plus Caustic Call-Outs By AI Ethics And AI Law"
     excerpt: "A rising claim is that special-purpose AI apps can be devised to figure out whether a set of text is produced by human hand versus generative AI such as ChatGPT. These are misleading and a false hope."
     publishedDateTime: 2023-01-12T13:00:00Z
@@ -47,19 +63,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "OpenAI, the startup behind ChatGPT, discusses tender offer that could value it at $29B"
-    excerpt: "The startup was founded as a nonprofit back in 2015, with a mission of pursuing AI research for the benefit of humanity. In order to raise more capital to pay for the computing power needed to ..."
-    publishedDateTime: 2023-01-13T14:05:00Z
-    webUrl: "https://siliconangle.com/2023/01/05/openai-startup-behind-chatgpt-discusses-tender-offer-value-29b/"
+  - title: "Two professors who say they caught students cheating on essays with ChatGPT explain why AI plagiarism can be hard to prove"
+    excerpt: "If students don't confess to using ChatGPT to write their essays, professors say AI plagiarism can be hard to prove."
+    publishedDateTime: 2023-01-14T08:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-essays-college-cheating-professors-caught-students-ai-plagiarism-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-essays-college-cheating-professors-caught-students-ai-plagiarism-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-essays-college-cheating-professors-caught-students-ai-plagiarism-2023-1?amp"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 29
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/21470472099_8e78d53ecf_k.jpg"
-        width: 2048
-        height: 1363
+      - url: "https://i.insider.com/63bc2b2623f3620019877328?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "/vWLbSM1ytuYmNU0bQaQzY5lHccPHhkzCItTug+BdnxnUU7ukY+zDuPuRtOp3wwnwWmqA+OPV+APtwsiYla1OmeTDWe1SGYwgfYrbBeV5g5F2tnL4bS+0ZXWsOaDIjxjodE8AMrON39l9LTUqfG8QZzbcCK4mW7bh53gXQIJ2d2ys4s4bjRw33Iux3UatpHevcCVoJ2bdhPwnOWLNTGBx+gN2jlPYiJMBl0k+ZOJk4ro0EXsNx7r4oO+Qbih1Un8VCGpJmSW0iIMNHC51hJNGYAKzz4MN3umqi5J2CqezCtXYXWkn4cdjibVlKmLstYaNVONZBc0djnJ0KPuT4vCSYOS2QG53Xes3OenYyToZx6jw5dvjFgQzdqn6ic/GniwgSCq+klETpoPSoyN1BXkK2FyItRrXxXi3kaOSEH6dJWBqWnB1NEVyYuUFozsdtfG/u6BwbqZMTpKLc0UwjL+WFkpXnLGjAgKSSiQr4pR1fnxXTz0ektT+bAh2/6+jdNjiM0zrZh8pWkKMIZBRfoLvA==;N5LY+FS4eSUW4CN7NLDe/g=="
