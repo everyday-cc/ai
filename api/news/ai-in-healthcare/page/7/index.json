@@ -2,49 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2022-10-16-opinion-artificial-intelligence-and-its-impact-on-health-care.md",
-      "title": "Opinion: Artificial intelligence and its impact on health care",
-      "excerpt": "From our GPS to our smart TVs, smart locks, video doorbell surveillance systems, and the social media platforms we consistently follow and scroll through, artificial intelligence, or AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/opinion/article/Opinion-Artificial-intelligence-and-its-impact-17509563.php",
-      "originalUrl": "https://www.chron.com/opinion/article/Opinion-Artificial-intelligence-and-its-impact-17509563.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/27/72/40/23046197/3/rawImage.jpg",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-16T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-15-artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028.md",
       "title": "Artificial Intelligence AI in Cyber Security Market 2022 Future Demand, Emerging Trends and Latest Technology, Forecast Research Report 2028",
       "excerpt": "However, this scenario is expected to change owing to decreasing COVID-19 cases. The Artificial Intelligence AI in Cyber Security market is expected register a robust revenue CAGR of 26.56% during the forecast period and reach USD 75976.",
@@ -1358,6 +1315,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-inside-abu-dhabis-thriving-artificial-intelligence-scene.md",
+      "title": "Inside Abu Dhabi’s Thriving Artificial Intelligence Scene",
+      "excerpt": "Abu Dhabi is becoming a thriving hub for artificial intelligence and an increasingly attractive destination for meetings and events.",
+      "sourceUrl": null,
+      "webUrl": "https://skift.com/2022/09/28/inside-abu-dhabis-thriving-artificial-intelligence-scene/",
+      "originalUrl": "https://skift.com/2022/09/28/inside-abu-dhabis-thriving-artificial-intelligence-scene/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://skift.com/wp-content/uploads/2022/09/MBZUAI-External-shot..jpg",
+          "width": 1797,
+          "height": 1166,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://skift.com/2022/09/28/inside-abu-dhabis-thriving-artificial-intelligence-scene/amp/",
+      "cdnAmpWebUrl": "https://skift-com.cdn.ampproject.org/c/s/skift.com/2022/09/28/inside-abu-dhabis-thriving-artificial-intelligence-scene/amp/",
+      "publishedDateTime": "2022-09-28T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Skift",
+        "domain": "skift.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
       ]
     }
   ],

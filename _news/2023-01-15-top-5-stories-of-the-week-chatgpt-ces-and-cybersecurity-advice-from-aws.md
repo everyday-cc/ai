@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-chatgpt-ces-and
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-chatgpt-ces-and-cybersecurity-advice-from-aws/amp/"
 type: article
 quality: 88
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt63e4e0b5db385ac7/63b75d1d6cfe5510d96dfcee/Cover_4.jpeg"
         width: 512
         height: 512
-        isCached: true
-  - title: "Cybersecurity Predictions 2023: New industry frontiers"
-    excerpt: "However, while it is easy to get distracted by eye-catching headlines about cybersecurity lapses, capabilities are also being continuously enhanced with new and exciting technologies to help us address the ever-changing threat landscape."
-    publishedDateTime: 2023-01-11T09:37:00Z
-    webUrl: "https://vir.com.vn/cybersecurity-predictions-2023-new-industry-frontiers-99190.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 24
-    images:
-      - url: "https://vir.com.vn/stores/news_dataimages/2023/012023/11/16/in_social/cybersecurity-predictions-2023-new-industry-frontiers-20230111162854.jpg?randTime=1673780949"
-        width: 600
-        height: 385
         isCached: true
   - title: "5 Ways Cybersecurity for Cloud Workloads Will Evolve in 2023"
     excerpt: "Organizations are looking for new methods to safeguard the virtual machines, containers, and workload services they use in the cloud."

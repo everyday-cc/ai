@@ -15,6 +15,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2023/01/Discovery-2022-23_feature_ai_AI--BIGGER--cover--3000x1688px.jpg?itok=7QASTP2x"
@@ -22,6 +23,6 @@ images:
     height: 810
     isCached: true
 
-secured: "/BuKwBFJxs3oQNaakLYcP/F4wtjqjzhTCepGuxLuuoUBt8I+AqD2Dehj4wLOrKODO+jTpVwUuTa8O6De60Lud76W3g8YzwObP5K+dJUjM7rtKfe9DsZAQ7+zFG83bDzHg/fy/epCZ/crPOvu/QxS07l6n7dzvFQ2wCYFY/+MlpkGRHvMqKJ3R7BI+T/tqYff0DcBWO6OEj0fASzNUbnq92ik3TrlVNIOiwi2FHCtw1CdF0FDCegHy6/rh5RByaF3XpUXV9MAKcF1YSj7+ABNInPjNJ2mlTyTtcqfIxKkpWAczZX+48/eemH95aQYpzDCpDqaCT0n++jWr3/XjM+V50YS2Ohua10KJ4Ois5tFhpg=;Li6blBxE56X6OzcsePLkwA=="
+secured: "RdirltEVmJfU6qs4TQ0GVkmt7s9qDAWcCL/NB98iECKy372xVdKVu3zULNE1CLfV7bcJ+WYF0bPIpBd8qzwM6QjyTAoCj34bj35JESxArBEAKeCjJUThF8ztCA1GyyKyhaLrusB23Cttr+kIjdbEVKeCTCejXeVxedKClGyUw/kYCsAz53rNgq7cIT+nAvmDpr4mpm6A2aNXCGcf5aBCCoHyaWE7uPZK8J3dGW7T58PMXOW/PNQzJxU4QIBafOdCJ0rjF6GJwvbmK84a8AAgG+OLT+0aeq/JSg2+Hl4lBY/2dOWwSpGrRuTDLvCZZmNdSmkAcxg+BNgNG8LVMeN58RKz8EjgTWHIUUtmCYEDHvPJflrrqPviqSuo5MvvV7eHUXvUolXsv9QsJzrCoxhCmIP+7XWFoWXT2jRliu2BW04RM5+SEa+ktLd8GkR5aUCLoPRgQBL2jsb5znUyjXVbh28GRLge7yEypuG+rwJsuDVEJeuYdmpOoO0j6VI1t3KoRQ4bR81bgPTavaFW6uFcEg==;YZLMWn2CnIKVpGgUQR6/Ew=="
 ---
 

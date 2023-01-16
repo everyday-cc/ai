@@ -2,6 +2,92 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-09-22-burning-object-thrown-at-parked-car-in-roseville-suspect-in-custody.md",
+      "title": "Burning object thrown at parked car in Roseville; suspect in custody",
+      "excerpt": "Object that was on fire thrown at parked car in Roseville; suspect in custody 00:26 ROSEVILLE – An investigation is underway after someone was reportedly seen throwing a flaming object at a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/sacramento/news/object-that-was-on-fire-thrown-at-parked-car-in-roseville-suspect-in-custody/",
+      "originalUrl": "https://www.cbsnews.com/sacramento/news/object-that-was-on-fire-thrown-at-parked-car-in-roseville-suspect-in-custody/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/09/21/4726e131-8cd7-4866-8f0a-45c948adf886/thumbnail/1200x630/9669778f54bd4ddea9ffd89cad44183e/roseville-molotov-cocktail-incident.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/sacramento/news/object-that-was-on-fire-thrown-at-parked-car-in-roseville-suspect-in-custody/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/object-that-was-on-fire-thrown-at-parked-car-in-roseville-suspect-in-custody/",
+      "publishedDateTime": "2022-09-21T20:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-voxel51-raises-125m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data.md",
+      "title": "Voxel51 Raises $12.5M Series A to Bring Transparency and Clarity to Computer Vision Data",
+      "excerpt": "The recent explosion of computer vision data—there are an estimated 45 billion cameras in the world today—creates a tremendous opportunity for machine learning products, but only if it can be ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data-1031757242",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data-1031757242",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-improving-accuracy-of-computer-vision-models-voxel51-raises-125m.md",
       "title": "Improving accuracy of computer vision models, Voxel51 raises $12.5M",
       "excerpt": "Computer vision startup, Voxel51, helping data scientists ensure the accuracy of datasets used for computer vision, raises $12.5M series A.",
@@ -1302,112 +1388,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-mlcommons-releases-new-benchmarks-to-boost-ml-performance.md",
-      "title": "MLCommons releases new benchmarks to boost ML performance",
-      "excerpt": "MLCommons just released new benchmarks for its latest update, with new ML models and a new testing division for inference over the network.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/",
-      "originalUrl": "https://venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Abstract-AI-4-color-e1638226936634.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/amp/",
-      "publishedDateTime": "2022-09-08T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-face-recognition-systems-market-is-expected-to-grow-usd-million-business-statistics-development-data-forecast-period-2022-2029.md",
-      "title": "Face Recognition Systems Market is Expected to Grow USD Million| Business Statistics, Development Data, Forecast Period 2022-2029",
-      "excerpt": "Global Face Recognition Systems Market provides key analysis on the market status of the Face Recognition Systems with",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-is-expected-to-grow-usd-million-business-statistics-development-data-forecast-period-2022-2029-2022-09-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-is-expected-to-grow-usd-million-business-statistics-development-data-forecast-period-2022-2029-2022-09-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

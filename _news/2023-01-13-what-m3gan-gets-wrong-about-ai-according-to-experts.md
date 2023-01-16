@@ -37,7 +37,7 @@ related:
     provider:
       name: PBS
       domain: pbs.org
-    quality: 57
+    quality: 59
     images:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/ai-1-1024x666.jpg"
         width: 1024

@@ -56,6 +56,22 @@ related:
     quality: 80
   - title: "Meet Tori, AI for your fast food order"
     excerpt: "Tori — an artificial intelligence launched by OpenCity — is described as the restaurant industry’s first conversational voice in the drive thru."
+    publishedDateTime: 2023-01-15T15:56:00Z
+    webUrl: "https://www.wate.com/news/watercooler/meet-tori-ai-for-your-fast-food-order/"
+    ampWebUrl: "https://www.wate.com/news/watercooler/meet-tori-ai-for-your-fast-food-order/amp/"
+    cdnAmpWebUrl: "https://www-wate-com.cdn.ampproject.org/c/s/www.wate.com/news/watercooler/meet-tori-ai-for-your-fast-food-order/amp/"
+    type: article
+    provider:
+      name: WATE 6 On Your Side
+      domain: wate.com
+    quality: 59
+    images:
+      - url: "https://www.wate.com/wp-content/uploads/sites/42/2023/01/GettyImages-1352323887.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Meet Tori, AI for your fast food order"
+    excerpt: "Tori — an artificial intelligence launched by OpenCity — is described as the restaurant industry’s first conversational voice in the drive thru."
     publishedDateTime: 2023-01-15T16:57:00Z
     webUrl: "https://www.khon2.com/news/national/meet-tori-ai-for-your-fast-food-order/"
     ampWebUrl: "https://www.khon2.com/news/national/meet-tori-ai-for-your-fast-food-order/amp/"
@@ -70,15 +86,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Meet Tori, AI for your fast food order"
-    excerpt: "Tori — an artificial intelligence launched by OpenCity — is described as the restaurant industry’s first conversational voice in the drive thru."
-    publishedDateTime: 2023-01-15T15:57:00Z
-    webUrl: "https://www.koin.com/news/meet-tori-ai-for-your-fast-food-order/"
-    type: article
-    provider:
-      name: KOIN 6
-      domain: koin.com
-    quality: 19
 
 secured: "UPIOoJz7CC9oVGQrMKZ8R79UO695AhS9QmycvUfXr5G5FQYQuqxL4lDPES+jioQe8C4FFJroUL5Qz72zmW5P8zTceFHysKrHVFFzznhkl2MovB/xlDqhDgrWVvECYx6ryvD8UWU6kVNuTL4xu261PYsMHXPe9AKVY3kE3Yjcbrm3suW3DztSqOK9zL5VyF4S5e8COop6nl6OUt1BIKoqBSS5eILnLaEL7qftEi7rHkr1MILieR0NtQmXv02hZevN8LXW2BGq8XgMTisaz9llyVX6Cph2vYVZuNB1gGwlY9bWH81GeoSa0oQGo/d1QFc3uid32wHd3Ju+nf5otK17z+cOL5y9JhCmWN4iemlJJEA=;EH0+5CsJEvTsM9hiMuP8Rg=="
 ---

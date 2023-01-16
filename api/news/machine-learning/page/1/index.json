@@ -620,7 +620,7 @@
       "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/01/11/large-language-models-will-define-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -771,20 +771,20 @@
     },
     {
       "path": "_news/2023-01-11-artificial-intelligence-deep-learning-model-for-mapping-wetlands-yields-94-accuracy.md",
-      "title": "Artificial intelligence deep learning model for mapping wetlands yields 94% accuracy",
-      "excerpt": "Chesapeake Conservancy's data science team developed an artificial intelligence deep ... The team trained a machine learning (convolutional neural network) model for high-resolution (1m) wetland ...",
+      "title": "Artificial Intelligence Deep Learning Model for Mapping Wetlands Yields 94% Accuracy",
+      "excerpt": "Chesapeake Conservancy’s Data Science Team Publishes Article in “Science of the Total Environment” Annapolis, MD – Chesapeake Conservancy’s data science team developed an artificial intelligence deep learning model for mapping wetlands ...",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.html",
-      "originalUrl": "https://phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.html",
+      "webUrl": "https://www.directionsmag.com/pressrelease/12026",
+      "originalUrl": "https://www.directionsmag.com/pressrelease/12026",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc.jpg",
-          "width": 1384,
-          "height": 886,
+          "url": "https://dmpublisher.s3.us-west-2.amazonaws.com/2023/January/10/7/ccd1cc1a-ce14-4801-8238-379214b79d70-sized",
+          "width": 800,
+          "height": 1065,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -792,13 +792,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.amp",
-      "publishedDateTime": "2023-01-10T14:17:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T08:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
+        "name": "Directions Magazine",
+        "domain": "directionsmag.com",
         "images": null,
         "publishers": null,
         "authors": null

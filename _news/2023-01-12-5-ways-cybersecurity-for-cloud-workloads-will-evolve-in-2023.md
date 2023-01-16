@@ -69,20 +69,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Cybersecurity Predictions 2023: New industry frontiers"
-    excerpt: "However, while it is easy to get distracted by eye-catching headlines about cybersecurity lapses, capabilities are also being continuously enhanced with new and exciting technologies to help us address the ever-changing threat landscape."
-    publishedDateTime: 2023-01-11T09:37:00Z
-    webUrl: "https://vir.com.vn/cybersecurity-predictions-2023-new-industry-frontiers-99190.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 24
-    images:
-      - url: "https://vir.com.vn/stores/news_dataimages/2023/012023/11/16/in_social/cybersecurity-predictions-2023-new-industry-frontiers-20230111162854.jpg?randTime=1673780949"
-        width: 600
-        height: 385
-        isCached: true
 
 secured: "Aaicbf1OyuJlgJluYSpbYSYvBYGZ3zSC/YNLb3lLvZkPO0wPU+D9Q/WUBhhww0gG4cFY3h5kI9VutOza8Ro5OSvVmSgI0h7ITvbtKq4PyI+F5kJ8F7730DEunKQwmPx3Ua8uqML1LMyGWhdp915gjx6EiMaKj1MmfL87wdPgwnn2YASx/Rs+KPEGwfmS/ej66j+kJx/sOR26qe2WlU02ZRfg/xLrSaCJsoRqThnKwq4tNF646BQ5CZbr/8++hOrnlUV8+7lnG1zZJ85Ch80K/p0Xtc5dt1LJmqUvLYUAfLjrggujChwiampH/ubwyx6cKmGHhFF8eCL+gMf4j/f2H14m1xvHwBUhhZq928Aw4br1UiKBXD68zpePgCiAUVMLSemhSY44fyXf8MtnLtiVJoMp5Jj6ZwmadhVHCuNwxif6wIOcirO84qNQT6/AQzY59CZBCnhZzGXynW3NdAKwlmgiW1ik/O9emrkleI3pg5pDOtr/LwpMPpO1JXPYp8M6JBNDHuEotI6LB1pPeWz/tw==;X4UrapvD0qsYgWV7hsF5tQ=="
 ---

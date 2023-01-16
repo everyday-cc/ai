@@ -8,7 +8,7 @@ webUrl: "https://www.pbs.org/newshour/show/educators-worry-about-students-using-
 ampWebUrl: "https://www.pbs.org/newshour/amp/show/educators-worry-about-students-using-artificial-intelligence-to-cheat"
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/educators-worry-about-students-using-artificial-intelligence-to-cheat"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/ai-1-1024x666.jpg"

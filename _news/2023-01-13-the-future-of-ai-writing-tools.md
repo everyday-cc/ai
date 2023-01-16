@@ -75,20 +75,6 @@ related:
         width: 1963
         height: 1104
         isCached: true
-  - title: "AI Emerges as a Bright Spot in a Sluggish Tech Market"
-    excerpt: "Besides, the AI and cloud infrastructure is also considered to show the greatest jump in investment priorities in 2022. All of this, while the global tech world was going through a recession, with companies like Meta,"
-    publishedDateTime: 2023-01-11T10:22:00Z
-    webUrl: "https://analyticsindiamag.com/ai-emerges-as-a-bright-spot-in-a-sluggish-tech-market/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/AI-Emerges-as-a-Bright-Spot-in-a-Sluggish-Tech-Market-.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "XaiYM7GahIQUG+3GxcGanPMKjkus3ZxV+AtBwAygjclTfbkYHh+ikji5ixZwa2pUDGWMNu2M0Yp9EXq+TlL2XwZibC8J42LMlRkVEd3QpD3mPohtmiBbmiL0i5PHlj99vm0gSDGenv5xbSkQ9RrPkeL5afeQHF+bL1GT+JGnJiU65vRQue7A/RHLuSDkmVd+Y6cqqSj86ayb4qYsk0KaI4/fKiVCjw4mTS/3NV06OEtLO8Vuhhlu9CS4UFDN9pLMlRahUBeau8hiDo8EN5bPj/G5Z5/cykQVk+eeO03hQySPdXgpLpKQDxPZLYFFjPo3VwmmN2JWo4MpQkdmN7sZdbqw5ula3QYuxeWwgkpj3Bg=;ckkocLVLemKJDqriN1nYhQ=="
 ---

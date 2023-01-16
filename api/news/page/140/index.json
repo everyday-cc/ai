@@ -2,6 +2,157 @@
   "page": 140,
   "value": [
     {
+      "path": "_news/2022-09-09-el-paso-artist-diego-robot-martinezs-exhibition-explores-peace-love-dope-death.md",
+      "title": "El Paso artist Diego 'Robot' Martinez's exhibition explores 'Peace Love Dope Death'",
+      "excerpt": "Diego \"Robot\" Martinez's art show, “Peace Love Dope Death,” will be from 6 to 11 p.m. Friday through Sunday, with food trucks, a light show and music.",
+      "sourceUrl": null,
+      "webUrl": "https://www.elpasotimes.com/story/entertainment/things-to-do/2022/09/08/el-paso-artist-diego-robot-martinez-exhibit-explores-peace-love-dope-death/66257047007/",
+      "originalUrl": "https://www.elpasotimes.com/story/entertainment/things-to-do/2022/09/08/el-paso-artist-diego-robot-martinez-exhibit-explores-peace-love-dope-death/66257047007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2022/09/08/PTX1/ecba9216-b0f4-4f7c-8093-9caa2a5365f5-1EF2C7B2-D415-4D1E-9BDE-DFF647CED2DF.jpeg?auto=webp&crop=4031,2268,x0,y143&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "El Paso Times",
+        "domain": "elpasotimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-ai-native-tech-startups-can-weather-an-economic-nuclear-winter.md",
+      "title": "AI-native tech startups can weather an economic nuclear winter",
+      "excerpt": "By being careful and strategic, AI-Native companies will be poised to emerge strong and healthy — and even grow — from a downturn.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/",
+      "originalUrl": "https://venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281732617.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/amp/",
+      "publishedDateTime": "2022-09-08T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-mlcommons-releases-new-benchmarks-to-boost-ml-performance.md",
+      "title": "MLCommons releases new benchmarks to boost ML performance",
+      "excerpt": "MLCommons just released new benchmarks for its latest update, with new ML models and a new testing division for inference over the network.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/",
+      "originalUrl": "https://venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Abstract-AI-4-color-e1638226936634.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/amp/",
+      "publishedDateTime": "2022-09-08T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-for-triangle-startups-heres-what-ibm-is-looking-for-in-its-next-acquisition.md",
       "title": "For Triangle startups, here's what IBM is looking for in its next acquisition",
       "excerpt": "IBM is always looking for potential acquisitions, but is there any chance of another mega-deal like the one for Raleigh-based Red Hat?",
@@ -1027,153 +1178,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-robot-software-market-research-insights-with-upcoming-trends-opportunities-competitive-analysis-forecast-to-2022-2031.md",
-      "title": "Robot Software Market Research Insights with Upcoming Trends, Opportunities, Competitive Analysis, Forecast to 2022-2031",
-      "excerpt": "Increasing adoption of Internet of Things (IoT) and Artificial Intelligence (AI) is the key driver for the growth of the robot software market The robot software market size is expected to grow from USD 1,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/robot-software-market-research-insights-with-upcoming-trends-opportunities-competitive-analysis-forecast-to-2022-2031-2022-09-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/robot-software-market-research-insights-with-upcoming-trends-opportunities-competitive-analysis-forecast-to-2022-2031-2022-09-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-edge-ai-processor-market-is-expected-to-reach-55-billion-rising-at-a-growth-of-153-cagr-during-the-forecast-period.md",
-      "title": "Edge AI Processor Market is expected to reach $5.5 billion & rising at a growth of 15.3% CAGR during the forecast period",
-      "excerpt": "The Global Edge AI Processor Market size is expected to reach $5.5 billion by 2028, rising at a market growth of 15.3% CAGR during the forecast period. Global Edge AI Processor Market Size, Share & Industry Trends Analysis Report By Type (Central Processing Unit (CPU),",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-processor-market-is-expected-to-reach-55-billion-rising-at-a-growth-of-153-cagr-during-the-forecast-period-2022-09-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-processor-market-is-expected-to-reach-55-billion-rising-at-a-growth-of-153-cagr-during-the-forecast-period-2022-09-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-face-recognition-systems-market-is-expected-to-grow-usd-million-business-statistics-development-data-forecast-period-2022-2029.md",
-      "title": "Face Recognition Systems Market is Expected to Grow USD Million| Business Statistics, Development Data, Forecast Period 2022-2029",
-      "excerpt": "Global Face Recognition Systems Market provides key analysis on the market status of the Face Recognition Systems with",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-is-expected-to-grow-usd-million-business-statistics-development-data-forecast-period-2022-2029-2022-09-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-is-expected-to-grow-usd-million-business-statistics-development-data-forecast-period-2022-2029-2022-09-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

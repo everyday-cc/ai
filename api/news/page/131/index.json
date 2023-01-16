@@ -2,6 +2,134 @@
   "page": 131,
   "value": [
     {
+      "path": "_news/2022-09-15-vonage-launches-ai-studio.md",
+      "title": "Vonage Launches AI Studio",
+      "excerpt": "Founder and CEO of Aragon Research. \"Similarly, businesses need the tools that enable them to easily create these kinds of meaningful connections, augmented by AI capabilities to add efficiencies ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vonage-launches-ai-studio-1031745371",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vonage-launches-ai-studio-1031745371",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-get-global-exposure-to-japans-robotics-industry-with-this-etf.md",
+      "title": "Get Global Exposure to Japan’s Robotics Industry With This ETF",
+      "excerpt": "There's no doubt that robotics is going to experience unprecedented growth over the next decade as the world becomes more automated, but certain countries have been leading the charge towards that shift,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf",
+      "originalUrl": "https://www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf?amp",
+      "publishedDateTime": "2022-09-15T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-expanding-access-to-technology-by-democratizing-access-to-ai-powered-software.md",
+      "title": "Expanding Access To Technology By Democratizing Access To AI-Powered Software",
+      "excerpt": "AI is now transforming the software development space itself and making it easier for businesses of all sizes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/15/expanding-access-to-technology-by-democratizing-access-to-ai-powered-software/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/15/expanding-access-to-technology-by-democratizing-access-to-ai-powered-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63207effe02c83fcd4d70386/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/15/expanding-access-to-technology-by-democratizing-access-to-ai-powered-software/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/15/expanding-access-to-technology-by-democratizing-access-to-ai-powered-software/amp/",
+      "publishedDateTime": "2022-09-15T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-from-a-robotic-nurse-to-an-ai-actress-meet-the-worlds-most-realistic-humanoid-robots-that-can-mimic-human-speech-and-facial-expressions-with.md",
       "title": "From a robotic nurse to an AI actress: Meet the world's most realistic humanoid ROBOTS that can mimic human speech and facial expressions with eerie precision",
       "excerpt": "With AI at its core and a full-size humanoid ... stores across North America and the Middle East. 'A robot with a new appearance will start its activities in 2023, and a selected person's face ...",
@@ -956,136 +1084,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
-      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
-      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 09/14/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-55",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-55",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-deep-learning-from-a-dynamical-viewpoint.md",
-      "title": "Deep learning from a dynamical viewpoint",
-      "excerpt": "NUS mathematicians have developed a new theoretical framework based on dynamical systems to understand when and how a deep neural network can learn arbitrary relationships. Despite achieving ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-09-deep-dynamical-viewpoint.html",
-      "originalUrl": "https://phys.org/news/2022-09-deep-dynamical-viewpoint.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-from-a-d.jpg",
-          "width": 1155,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-09-deep-dynamical-viewpoint.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-deep-dynamical-viewpoint.amp",
-      "publishedDateTime": "2022-09-14T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-at-gsx-camio-unveils-a-way-to-run-sophisticated-vision-ai-applications-at-the-cost-of-cloud.md",
-      "title": "At GSX, Camio unveils a way to run sophisticated vision AI applications at ¼ the cost of cloud",
-      "excerpt": "Camio Flex, the new Cloud Native Kubernetes Video Management System alternative, runs AI anywhere along its video processing pipeline—from edge to cloud—to reduce hardware and automate critical storage,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-gsx-camio-unveils-a-way-to-run-sophisticated-vision-ai-applications-at-14-the-cost-of-cloud-2022-09-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-gsx-camio-unveils-a-way-to-run-sophisticated-vision-ai-applications-at-14-the-cost-of-cloud-2022-09-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

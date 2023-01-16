@@ -54,6 +54,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 80
+  - title: "Meet Tori, AI for your fast food order"
+    excerpt: "Tori — an artificial intelligence launched by OpenCity — is described as the restaurant industry’s first conversational voice in the drive thru."
+    publishedDateTime: 2023-01-15T15:56:00Z
+    webUrl: "https://www.wate.com/news/watercooler/meet-tori-ai-for-your-fast-food-order/"
+    ampWebUrl: "https://www.wate.com/news/watercooler/meet-tori-ai-for-your-fast-food-order/amp/"
+    cdnAmpWebUrl: "https://www-wate-com.cdn.ampproject.org/c/s/www.wate.com/news/watercooler/meet-tori-ai-for-your-fast-food-order/amp/"
+    type: article
+    provider:
+      name: WATE 6 On Your Side
+      domain: wate.com
+    quality: 59
+    images:
+      - url: "https://www.wate.com/wp-content/uploads/sites/42/2023/01/GettyImages-1352323887.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Artificial intelligence is getting ready for business, and not too slowly"
     excerpt: "Artificial intelligence is getting ready for business, and not too slowly AI enables machines to exhibit human-like cognition positioned to do anything from driving our cars to dominating the ..."
     publishedDateTime: 2023-01-13T07:59:00Z
@@ -70,15 +86,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Meet Tori, AI for your fast food order"
-    excerpt: "Tori — an artificial intelligence launched by OpenCity — is described as the restaurant industry’s first conversational voice in the drive thru."
-    publishedDateTime: 2023-01-15T15:57:00Z
-    webUrl: "https://www.koin.com/news/meet-tori-ai-for-your-fast-food-order/"
-    type: article
-    provider:
-      name: KOIN 6
-      domain: koin.com
-    quality: 19
 
 secured: "9C1C/03PKOfXJ8HBhpfzAYK2Tt0rkvxHU/8RXcWQomPYfRObzzNZFJIjBgeiZVCM+7HpShn+g24mmQjKbxrdAhi2iMHob/8bnERI3WUikfVOUazcO3ceYjrBSImmL1ahHvT74enenEuIrc8KwCuIWFKgf8oVSxeBsUkQ5wkMKd2M549EwlOvOvsuPJv1RN5xKlDCptVK8xpcmqQBBrmg1DG+UqtWZWzoHRz2FOYIj3NKeIEmDv2msaC4Qmj48Ob9Ur6KAKnU8kQNKKZMO2Gu1PKWcFB0i9pO1hwJas1ptl4lyXFV3t6V0QGV2gC4iSN/CqDDei6sISEE8S/MrLXUlTqXTdZ6Ic8YYJFLrr4wR20=;2jcXVbUGJnwkCqx5H3FAUg=="
 ---

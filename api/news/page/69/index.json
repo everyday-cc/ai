@@ -2,6 +2,145 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2022-11-09-natural-language-processing-nlp-in-healthcare-sales-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028.md",
+      "title": "Natural Language Processing (NLP) in Healthcare Sales Industry 2022 Market Growth, Size, Share, Demand, Trends and Forecasts to 2028",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Nov 09, 2022 (The Expresswire) -- Global Natural Language Processing (NLP) in Healthcare Sales Market (2022-2028) Research Report is a professional and in-depth study on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-sales-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028-2022-11-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-sales-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028-2022-11-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T00:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-artificial-intelligence-ai-consulting-market-recovery-and-impact-analysis-report-ibm-mckinsey-boston-consulting-group.md",
+      "title": "Artificial Intelligence (AI) Consulting Market Recovery and Impact Analysis Report | IBM, Mckinsey, Boston Consulting Group",
+      "excerpt": "Artificial intelligence (AI) consulting is the process of utilizing AI technologies and tools to solve business problems. As a new and emerging field, AI consulting is still in its early stages ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-consulting-market-recovery-and-impact-analysis-report-ibm-mckinsey-boston-consulting-group",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-consulting-market-recovery-and-impact-analysis-report-ibm-mckinsey-boston-consulting-group",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T00:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-how-insilico-medicine-uses-ai-to-accelerate-drug-development.md",
+      "title": "How Insilico Medicine Uses AI To Accelerate Drug Development",
+      "excerpt": "Insilico and other companies using AI to develop drugs have cut the time and money involved in the process by as much as 90%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2022/11/09/how-insilico-medicine-uses-ai-to-accelerate-drug-development/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2022/11/09/how-insilico-medicine-uses-ai-to-accelerate-drug-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/636b6ae0a6628a2dceaf29b9/0x0.jpg?format=jpg&width=1200",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2022/11/09/how-insilico-medicine-uses-ai-to-accelerate-drug-development/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/11/09/how-insilico-medicine-uses-ai-to-accelerate-drug-development/amp/",
+      "publishedDateTime": "2022-11-09T00:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-nissan-to-launch-driverless-travel-service-in-china.md",
       "title": "Nissan to launch driverless travel service in China",
       "excerpt": "Nissan has become one of the global car makers to set up a driverless travel service company in China. In 2021 alone, Nissan’s data reveals that the company will sell over 1.38 million vehicles ...",
@@ -1027,135 +1166,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-miso-robotics-automatic-burger-flippers-plot-european-takeover.md",
-      "title": "Miso Robotics’ automatic burger flippers plot European takeover",
-      "excerpt": "tech startup’s products have been sent to work ... Flippy 2, the modular frying robot; Sippy, the automatic beverage dispenser; and CookRight, the AI-powered sensor system which I assume is the more taciturn of the bunch. To explain how they work would ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/997572/miso-robotics-automatic-burger-flippers-plot-european-takeover-997572.html",
-      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/997572/miso-robotics-automatic-burger-flippers-plot-european-takeover-997572.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzExXC9mbGlwcHkuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T03:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactive Investors",
-        "domain": "proactiveinvestors.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei.md",
-      "title": "OneMeta AI's Verbum Is A Game-Changing App That Can Translate 82 Languages Simultaneously ($ONEI)",
-      "excerpt": "OneMeta AI ONEI created an app that is changing the language translation services landscape. And by no small measures. It's demonstrating unrivaled ability and has unequivocally separated itself ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/ab29609438/onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/ab29609438/onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1667837662.png",
-          "width": 1222,
-          "height": 1091,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29609438",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29609438",
-      "publishedDateTime": "2022-11-08T03:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-robot-with-brain-near-cheltenham-sorting-plastic-waste.md",
-      "title": "Robot with 'brain' near Cheltenham sorting plastic waste",
-      "excerpt": "The Zen Robotics machine learns to remember plastic in a similar way to which humans learn to recognise items. The company hopes the Grundon can capture. The 'Fast Picker' arm is supplied by Helsinki-based supplier of robotic waste separation technology - Zen Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/uk-england-gloucestershire-63502444.amp",
-      "originalUrl": "https://www.bbc.co.uk/news/uk-england-gloucestershire-63502444.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/15380/production/_127521968_2.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/uk-england-gloucestershire-63502444.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-gloucestershire-63502444.amp",
-      "publishedDateTime": "2022-11-08T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

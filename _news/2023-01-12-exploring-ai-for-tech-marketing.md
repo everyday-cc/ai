@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.mn/news/exploring-ai-for-tech-marketing?hs_amp=true"
 cdnAmpWebUrl: "https://tech-mn.cdn.ampproject.org/c/s/tech.mn/news/exploring-ai-for-tech-marketing?hs_amp=true"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-15-image.jpg"
         width: 1963
         height: 1104
-        isCached: true
-  - title: "AI Emerges as a Bright Spot in a Sluggish Tech Market"
-    excerpt: "Besides, the AI and cloud infrastructure is also considered to show the greatest jump in investment priorities in 2022. All of this, while the global tech world was going through a recession, with companies like Meta,"
-    publishedDateTime: 2023-01-11T10:22:00Z
-    webUrl: "https://analyticsindiamag.com/ai-emerges-as-a-bright-spot-in-a-sluggish-tech-market/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/AI-Emerges-as-a-Bright-Spot-in-a-Sluggish-Tech-Market-.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "gEncW3vJeluf3L+8v4mwM4/vOCV3/8Ypi8p1XAnpz6hBpKuhvW+zlNxMvneW/bmKI96PyEsZVy9r+ZKxX6KMgU8RH3F7N2cK4cdbkPXZTQ0a7Y6Op8A7JvngR9ISR3J44y1N0VhDTputkXkJWn78K7xn0gp6fWVlOmbi3eV3zooj9T/N0pBxKxru6Pjudq86e4JesXjBwlbg3jCrsDjFiIa+3xWM44k5Wwwtph8XAwZTJiVjhFuIfKWdWtExC1o+UpNql3MRaZNw7NI2GPYW0IA0qQ2NxswqRABi8vivrUSK9YaJecmjQg0IKc0L7fhXlpRojUtBiRbSSng67UibpDZAV+qVvzhcIILstbv4Z79ghJr+BnmiHIi22g78YZ6mEagEYJQor+EtkwI0/IJ3nw032GPnab/2mUju87/qWOTSz0Xkpl+raPotE2oV3o8VHbbnmpvnyfzpVqsf+3uX/Bwep4TsE9wHBEdVzuUkD6juXpn8aQgoEdEvS9jcTAnQlBDqPUO76Hr7e03D/nt8Yw==;PY+gcmntD16pIkeZnQPcyQ=="

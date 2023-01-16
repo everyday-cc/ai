@@ -50,20 +50,6 @@ related:
         width: 1200
         height: 730
         isCached: true
-  - title: "Harnessing the Power of Data and Artificial Intelligence in Higher Education"
-    excerpt: "In this industry fireside chat, Campus Technology Editor-in-Chief Rhea Kelly speaks with Jim Keller, AWS Channel Global Leader at Quantiphi, about key challenges that colleges and universities face across the student lifecycle and how intelligent data ..."
-    publishedDateTime: 2023-01-11T10:57:00Z
-    webUrl: "https://campustechnology.com/webcasts/2022/12/quantiphi-aws-power-of-data-webcast.aspx?trk=organization_guest_main-feed-card_feed-article-content"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 53
-    images:
-      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Sv5eSARRkYUE5IBJ7XOipgItWNxnXvjy6tUezsO9fGpnslCc2YK7+ZBl5cdJ7aJX6LOnBJht7i9C7BtzAWP3FKJi2Yi8HeC3RsLzQPSx4YLhdUvxSNAdHEPaYPjvTzoacpNWcUT1k1eOLIqusJBVAaamtP0qk+Jaro/EjNYMmozud/WKKRJbwNjn65y4cDFTG2ldvBqawYIWpxBaX7bms5rjI5gYXwtZp3yRjRFQGFS1nlUH4V5QE7VSenz0l4JxY6zqoCMjeVNqlt+WpsgYnS0//Q+TcVjirIF57C8d6jXbvCOVJGoUROtmFSqFD/t+wItPayI07ffV2dIMHRYCcPFXvjrkYEwTJy2UJ3HdCwlSAxyJsMSHGiGTT6OozfmX9jh6W6Q7yAYA/x+LnfntPQ10Bl6AcwlHI2H2Faxm6EzmQZqEU0eZhYHKLd6LLPfcIn2KBGTyCuaohWqzq4aDZjVrQeEeJA4fiALnJD8gP/jZX97/l4cRD/YzTE8kLEleaAPfoftgUJTLYkgKigFOkA==;NUU4UXugIGSFzjKysmkD8g=="
 ---
