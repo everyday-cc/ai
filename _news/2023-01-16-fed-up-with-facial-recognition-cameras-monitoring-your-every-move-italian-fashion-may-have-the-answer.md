@@ -3,14 +3,9 @@ category: news
 title: "Fed up with facial recognition cameras monitoring your every move? Italian fashion may have the answer"
 excerpt: "The red-headed man wearing what looks like the ultimate Christmas sweater walks up to the camera. A yellow quadrant surrounds him. Facial recognition software immediately identifies the man as ... a giraffe?"
 publishedDateTime: 2023-01-16T06:31:00Z
-originalUrl: "https://edition.cnn.com/2023/01/16/tech/facial-recognition-fashion"
-webUrl: "https://edition.cnn.com/2023/01/16/tech/facial-recognition-fashion"
-ampWebUrl: "https://amp.cnn.com/cnn/2023/01/16/tech/facial-recognition-fashion/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/01/16/tech/facial-recognition-fashion/index.html"
+originalUrl: "https://www.cnn.com/2023/01/16/tech/facial-recognition-fashion/index.html"
+webUrl: "https://www.cnn.com/2023/01/16/tech/facial-recognition-fashion/index.html"
 type: article
-quality: 73
-heat: 73
-published: true
 
 provider:
   name: CNN
@@ -24,12 +19,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/230112153009-02-cap-able-facial-recognition-fashion-super-tease.jpg"
-    width: 1100
-    height: 619
-    isCached: true
-
-secured: "q7Qu/JKHPTA1npJIctTXOucUX1wbOtdsFCtNUy1fXjSA5Z1ksJr+PN1hpAIz7g61nMn3wjwVxk3YLOpcPz6FKIvf2kxRBX69pTRyH67SdDYFr9UtQUOUTHblckoTg5Rg90LlUhud+6NsYuyrVHKTODfsE+hZoFY02vldD1tDdiXKCdSlcGWl3NuKsGJwBatdcA72dcd8694RTkGG1UI4pE6ObMuTWi7pqaU0e+LHaFI0M1YEyzrvd8hgQPm34SBPN3FwWYavvs8fjMTlwyw1f0Ji2iM8F76/a9EPoJLb9B/0TXZSPVNO4TD1rohFdvrrIBxjyxkw/g98MTA4zKdBAR/JK/r0Y/HtkMq/F7b2bYU=;9qRH9qZjiuRcaQd62H32gg=="
+secured: "5goilrUF3m7wOQmG00IDDrPP7YoGLyS60CbXJg61N9QTTGZHPuybniDf2VlmO7VF/YwwXulvXRAuUbY1YAeQbySsPhBHfzjt7KIuMs8rYYYu2As7KBeIBB6MqOS+6iUS1TLAuG/b4t8DgL+akMGxMzS5pLdP69KsE3n7Ki48Wnw6zXj1t+giYRwztdhYXWfkrQDLWy5Mh87vXU04PYKxdkCC3xlr9cSK9UcucFX5xr6gUZrVmYEUdyiTSZ5y4bFe2vFabtwcZ/KWpqqkaTHP0PQSfyLI8QW2YfisN+kGARlcfNJuVx1Q8K+dwKCdjewdnh6lASlQoGfySfOozCOM19xCkqK2YntmBjzZ25DEfCD5uCt/U+vRkKqXYehrGKZ44XNmwP9MqkMvshzBYzjcACgnpnbgH/AOuWQM8SEpkL9yk52fTlgYrvlfAKkuIFUyhEf1O8tbKBpngHwqBzus/2B+xyo2EqypNQXYFWJGT35AmdU6Jov0CvYuEY8bzLo84154zHdpLgObZRKxpcIPeQ==;fJuydWtRz6z9XvTafMo4xQ=="
 ---
 

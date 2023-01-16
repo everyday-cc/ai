@@ -1,47 +1,20 @@
 ---
 category: news
 title: "Emagia and Osmania University Sign Pact to Accelerate AI and Fintech Innovation"
-excerpt: "Partnership aims to accelerate digital finance and Web3 innovations as well as to create large pool of future-ready global workforce"
-publishedDateTime: 2023-01-12T12:31:00Z
-originalUrl: "https://www.hindustantimes.com/brand-stories/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation-101673518614175.html"
-webUrl: "https://www.hindustantimes.com/brand-stories/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation-101673518614175.html"
-ampWebUrl: "https://www.hindustantimes.com/brand-stories/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation-101673518614175-amp.html"
-cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation-101673518614175-amp.html"
+excerpt: "Hyderabad Telangana [India] January 12 ANIGPRC Advancing its commitment to innovations and future-ready workforce Emagia USA today announced the launch of Fintech Innovation Labs at OU in collaboratio"
+publishedDateTime: 2023-01-12T10:55:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/273355684/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation"
+webUrl: "https://www.bignewsnetwork.com/news/273355684/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation"
 type: article
-quality: 55
-heat: 65
-published: false
 
 provider:
-  name: Hindustan Times
-  domain: hindustantimes.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://images.hindustantimes.com/img/2023/01/12/1600x900/EOU1_1673518823177_1673518835156_1673518835156.png"
-    width: 1600
-    height: 898
-    isCached: true
-
-related:
-  - title: "Top 10 Fintech and innovation trends to watch in 2023"
-    excerpt: "Driving these innovations are Fintech companies which are contributing significantly to the growth of the local economy, creating new jobs, and stimulating an entrepreneurial ecosystem. Also, they are making the provision of financial services more efficient,"
-    publishedDateTime: 2023-01-16T10:07:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/features/Top-10-Fintech-and-innovation-trends-to-watch-in-2023-1695992"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 24
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/309/30940531.jpg"
-        width: 600
-        height: 546
-        isCached: true
-
-secured: "mj0IeI+4bPdFjWm6cZ+4I/TpuGqofQYtE0JeB8R+CuAl1Wa66Fwk/8xvFWZliMjhwQMdC/ARxC70gDhEc7hAT5pQ6INPGk1GCLevQVourEJSoaRfywjsljxFgm175kWd+CyCZ+QseAXz7yf717FJyOED9whjNqDUliB7jau7Zy1AV8JgSkycCH3f9FspzYNwdC1hhrVT4JguL1Ze6Fdnor9aRK/UOj4r7K3nPY2wLA62ymcQUZsgVfey3u0Md2gi5d5Adc5Vh+Rd/gguSIeeioJxWKYX2GLE76rtSLAOJ2RCXrDByIeIn2MHnLJnyjP4nAKoBEd33FFkFAXgwSGjUclmHWnLHyxY+Rjv0ruivLtUbmCgWlCOIam4RcPo6a/adHGUweZIyq+YBbkCjt8mnidjKj6oWq0bJaR8UUb4u0A0OJz0FwXzkOOeEg8sb8nWetFFdWQ5PhUarZiZFrEeyydHxqL6oIB4nMOhholfL+hV5s6LjCgL73ran6ip/5B7KEFjqUMe8KloxUvhLBtaLg==;t29iCL8baO8AVZQRXq97lQ=="
+secured: "uf/8oJY6xWf4RwVFhG2+FIekU63aMoajGkBF9jZHpi5vfLm5OiBVAQNGb7tLP5IFuJgk60pIaPjHp7cMPIziY/NS5hRgolaWAcGXV5rkD0FUIR6PhRQq4d/CAHdcrtTd1zlxoP0QaD25jd1HI5pIfuN3BMSBsEHsVYXTGT3GQf+q/Q4w1Db6VOa0XI+Xb+uUyDREyRhkBv6atNHar5fpeysRi3CVc41WloO5BsR3/LkVd0DXgl1lS4dTQafGoKAnuFNmc+zxnt/1neFP+HC90D8Hv14VUs+kpEf/ZNit5rN7sj91GRVI8c/nKKu/wcdhTBEyxaww+VG7N6bZenactL17pi2c8354QsORwisfgf4o+9OoQtuvHkekPEpBbJJ8AMMTC02K39pFkDVG1oKlFSRs2cjo2Bf6p/3LU0eqkv2QF8fTk9eROxsmn/0EpQ5fSM0hAZxRyD7smKNnJSCC4S5qZc2MMqr2OjACEIZPaYZQ9dAamvhMYcNDkCVad8GFrF890//hryvzXafuvvHGMg==;5KGR0vKlirx+sblAyhaJ1w=="
 ---
 
