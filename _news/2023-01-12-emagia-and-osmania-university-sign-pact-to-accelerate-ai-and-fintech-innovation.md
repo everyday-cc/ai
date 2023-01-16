@@ -1,23 +1,20 @@
 ---
 category: news
 title: "Emagia and Osmania University Sign Pact to Accelerate AI and Fintech Innovation"
-excerpt: "Hyderabad Telangana [India] January 12 ANIGPRC Advancing its commitment to innovations and future-ready workforce Emagia USA today announced the launch of Fintech Innovation Labs at OU in collaboratio"
-publishedDateTime: 2023-01-12T10:55:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273355684/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation"
-webUrl: "https://www.bignewsnetwork.com/news/273355684/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation"
+excerpt: "Partnership aims to accelerate digital finance and Web3 innovations as well as to create large pool of future-ready global workforce"
+publishedDateTime: 2023-01-12T12:31:00Z
+originalUrl: "https://www.hindustantimes.com/brand-stories/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation-101673518614175.html"
+webUrl: "https://www.hindustantimes.com/brand-stories/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation-101673518614175.html"
 type: article
-quality: 15
-heat: 15
-published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "uf/8oJY6xWf4RwVFhG2+FIekU63aMoajGkBF9jZHpi5vfLm5OiBVAQNGb7tLP5IFuJgk60pIaPjHp7cMPIziY/NS5hRgolaWAcGXV5rkD0FUIR6PhRQq4d/CAHdcrtTd1zlxoP0QaD25jd1HI5pIfuN3BMSBsEHsVYXTGT3GQf+q/Q4w1Db6VOa0XI+Xb+uUyDREyRhkBv6atNHar5fpeysRi3CVc41WloO5BsR3/LkVd0DXgl1lS4dTQafGoKAnuFNmc+zxnt/1neFP+HC90D8Hv14VUs+kpEf/ZNit5rN7sj91GRVI8c/nKKu/wcdhTBEyxaww+VG7N6bZenactL17pi2c8354QsORwisfgf4o+9OoQtuvHkekPEpBbJJ8AMMTC02K39pFkDVG1oKlFSRs2cjo2Bf6p/3LU0eqkv2QF8fTk9eROxsmn/0EpQ5fSM0hAZxRyD7smKNnJSCC4S5qZc2MMqr2OjACEIZPaYZQ9dAamvhMYcNDkCVad8GFrF890//hryvzXafuvvHGMg==;5KGR0vKlirx+sblAyhaJ1w=="
+secured: "RO0IYfUKXoW2Xd7nI5hUm4ovrjFLxwYW3xESzlBLO83//Av97l58hMSH85rJOBcqXyaTXS8eM9tfIFQYma4JzUS4/07a0DnE8WuQ+rcaplHSV++nJ2QkN4KQFMIOVu7Bgcnfbe4YgHX8joDJU3g+2FBSdh1IlbS5gHQK6IYjNZ2GShj8A6ZZSnRPJgRyKNbOL+Hc62XcyDaPr5BiPAUdfsgpHsVYAlIYr2MKVjm8jH6kNpn39FltgOpUxtDSDffOHdH17zbbkzsBxScoSw+xButpYN5/CAfB3RO0DwBx6W+nKmp7Yst3FcS/N8s7cxGXaVfa2dBwFNROquB4u0yPUGIH2YcqlG+/NZB+Kkfgwk4gEE6/8zt6yEHe9cvaHldQYWMScGQo1MpHuuf5tNgGvGqRPsQOAtAypiUsn6ehnKgkdqbeZis9UFIfwXLrerXsjYgWeMJIEfydAN+uJr6oDGLGn3ZhBFXAAd8nQKVXxJWcjoWsSUAQC4NhMXxA+NjYxDy/f9kEk3qzplSdF/D2YA==;pPw4mv/cUNfu+8Qxy4hb5Q=="
 ---
 

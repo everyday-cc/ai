@@ -2,26 +2,19 @@
 category: news
 title: "Ferrum Health Raises $6 Million to Bring Artificial Intelligence into Healthcare"
 excerpt: "SAN FRANCISCO, Jan. 12, 2023 /PRNewswire/ -- Ferrum Health, a healthcare artificial intelligence (AI) platform developer, announced that it has recently raised $6 million in a funding round led by ..."
-publishedDateTime: 2023-01-12T21:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ferrum-health-raises-6-million-to-bring-artificial-intelligence-into-healthcare-1032016043"
-webUrl: "https://markets.businessinsider.com/news/stocks/ferrum-health-raises-6-million-to-bring-artificial-intelligence-into-healthcare-1032016043"
+publishedDateTime: 2023-01-13T15:06:00Z
+originalUrl: "https://www.abc27.com/business/press-releases/cision/20230112SF79976/ferrum-health-raises-6-million-to-bring-artificial-intelligence-into-healthcare/"
+webUrl: "https://www.abc27.com/business/press-releases/cision/20230112SF79976/ferrum-health-raises-6-million-to-bring-artificial-intelligence-into-healthcare/"
 type: article
-quality: 74
-heat: 74
-published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: abc27
+  domain: abc27.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "XlDNY+H5y826RGdOvXHvCASxW2w748akWVVvOBLGbyMD97RYJ3z5QBJxapxPvFK7getcsq34eQWOe9ra1a8bawwGXmZxF24gnd0t5HrrCqLdW8d9Ciz4ISjLQ3ZGvTG98NaEUTk79u81YFuV+zCuHWOS9EoQoxc4YEtU5rsnuJyLRQiPBvF+6ALnYt5gwsI57iEWxE63btoibsoTu0JngTAXRN80KfnKV68USBkaReH4B3lPLJ0YuaX0DqXe9VYzPXkz2ditrxZP4wZsrrS5sXHSJbQ+9rjtWOGyE+9enzk9IOdpRss+GxVAg6GRwImK4hwLEQZOEwwhxGqLU1oij5m4rIzxdaOpGfWSyJmWMSU=;D4pCy+bME3/AtME/L81j4w=="
+secured: "sJ9L2KzDzs/syykzjxV6F12bCorCOKs1vPsQMP0Bl7qqvkZLNJ/fxxrYFcM4seWzZAFQc3Vr+ZEOcT+EnEq8SnZAAsKwJm5a/HNE2BgObGNVr8U12HthwiKFxdoziqZ3kF2pOu9sOZd4ulggYoxWv7C7maKIlLiTOVb5nVnDplRRcjCT+/Kk5y8fbPktUq17uufDKRiPumCM24HEi3TzM/jrnig6waUFxGGHHyNAk/RtOu6FQD3WsUwgmtHujk674nCS8cRhxXCyS+bK855nQrTYHp5NgQRR8ZQVX4Unrg0eV/oO+fxRNVrVyOl6WhAs4CF1CC6hK+ERFr9WKPSbAStcR6PriA2VUM0ZlHgbXwQ=;b6v9gwmtaIFk1RJlVsOO5w=="
 ---
 

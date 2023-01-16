@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+  - AI in Robotics
 
 images:
   - url: "https://i.insider.com/62e40a4f4b455800188b5eaf?width=1200&format=jpeg"

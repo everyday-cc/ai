@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://images.ctfassets.net/cnu0m8re1exe/7o423uE3Y0NvyeAl1AW1sU/fea517ea1aad053804b6a9aed823c3bd/shutterstock_2052051122.jpg"
