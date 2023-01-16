@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-16T13:41:00Z
 originalUrl: "https://www.foxbusiness.com/media/bird-buddy-smart-feeder-ai-identify-1000-feathered-friends-backyard"
 webUrl: "https://www.foxbusiness.com/media/bird-buddy-smart-feeder-ai-identify-1000-feathered-friends-backyard"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Fox Business

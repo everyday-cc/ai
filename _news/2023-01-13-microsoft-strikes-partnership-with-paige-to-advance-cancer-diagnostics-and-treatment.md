@@ -66,20 +66,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Potentially a big week for Microsoft’s AI aspirations"
-    excerpt: "Microsoft has wowed some in the community with its updated text-to-speech model and would also like to invest $10 billion in OpenAI."
-    publishedDateTime: 2023-01-11T22:12:00Z
-    webUrl: "https://www.biometricupdate.com/202301/potentially-a-big-week-for-microsofts-ai-aspirations"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/17145359/AnyVision-audited-for-violations-of-Microsoft-AI-facial-recognition-principles.jpg"
-        width: 2000
-        height: 1001
-        isCached: true
   - title: "Microsoft's Future Growth Prospects"
     excerpt: "Investments in Artificial Intelligence over the past decade are now starting to pay off. Share prices have decreased considerably from recent highs."
     publishedDateTime: 2023-01-14T14:11:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-14T04:36:00Z
 originalUrl: "https://atlantic.ctvnews.ca/doctor-controlled-robot-to-perform-orthopedic-surgeries-in-dartmouth-n-s-1.6230690"
 webUrl: "https://atlantic.ctvnews.ca/doctor-controlled-robot-to-perform-orthopedic-surgeries-in-dartmouth-n-s-1.6230690"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: CTV News

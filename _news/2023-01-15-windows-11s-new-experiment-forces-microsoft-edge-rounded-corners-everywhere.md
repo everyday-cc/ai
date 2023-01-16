@@ -53,20 +53,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 65
-  - title: "Potentially a big week for Microsoft’s AI aspirations"
-    excerpt: "Microsoft has wowed some in the community with its updated text-to-speech model and would also like to invest $10 billion in OpenAI."
-    publishedDateTime: 2023-01-11T22:12:00Z
-    webUrl: "https://www.biometricupdate.com/202301/potentially-a-big-week-for-microsofts-ai-aspirations"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/17145359/AnyVision-audited-for-violations-of-Microsoft-AI-facial-recognition-principles.jpg"
-        width: 2000
-        height: 1001
-        isCached: true
   - title: "Microsoft Strikes Partnership with Paige To Advance Cancer Diagnostics and Treatment"
     excerpt: "Microsoft is making a strategic investment in Paige, which is leveraging AI for cancer diagnostics and treatment. Paige will also use Microsoft Azure as its cloud provider for the Paige Platform."
     publishedDateTime: 2023-01-13T00:03:00Z

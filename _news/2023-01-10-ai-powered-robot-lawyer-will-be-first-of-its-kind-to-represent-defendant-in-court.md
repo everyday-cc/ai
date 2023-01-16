@@ -1,10 +1,12 @@
 ---
 category: news
 title: "AI-powered \"robot\" lawyer will be first of its kind to represent defendant in court"
-excerpt: "A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month. Joshua Browder, CEO of DoNotPay, said the company ..."
-publishedDateTime: 2023-01-09T17:39:00Z
-originalUrl: "https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case/"
-webUrl: "https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case/"
+excerpt: "Spotlight on artificial intelligence's ChatGPT at CES 2023 tech show 07:26 A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month."
+publishedDateTime: 2023-01-09T18:38:00Z
+originalUrl: "https://www.cbsnews.com/sacramento/news/ai-powered-robot-lawyer-takes-its-first-court-case/?intcid=CNM-00-10abd1h"
+webUrl: "https://www.cbsnews.com/sacramento/news/ai-powered-robot-lawyer-takes-its-first-court-case/?intcid=CNM-00-10abd1h"
+ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/ai-powered-robot-lawyer-takes-its-first-court-case/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/ai-powered-robot-lawyer-takes-its-first-court-case/"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "EpCG345L/fm7HAcXAWqO0Ze0Pp5ylkl0DBJ2Ps3lY5/uacUQ72kTvMehs6lkFruIcdp2JaANa22D1e4KA6GNmjS32naO1umK34e2V9TsTJUQqEfE6AWAgn83XnxOzARAZcAy4vFvBiDLjhUawqY7r9ndogq3ccoUBZk+eStTRl0aa50E9wT9YFYGSnT8EAZLqiNmj+j0YRRitdC5ETkTQfVfucya/CCkrNRCiEx1OizNjHSKUBCHAuoyTHl7rgpAGisfYGuPaP3J6zqBCkCP0/fOaNyeVtAT/eeUZzWvk6VgE4h2CtGLzCaQhCJelq4vEM92XjK7mazFM+EtA4QBL4A+O3QPIH38xTNfxcSQyHU=;4qG1Ag5dtQ+otTVpSfeBCw=="
+images:
+  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/09/4d7e5ab8-9ca0-4aa9-8961-8fd582dadcf4/thumbnail/1200x630/ec2ecdf82deb69149d4bac7ec82f389a/screen-shot-2023-01-09-at-4-00-19-pm.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "7LbXvUBzCWqVUkyAHncceaa/3VcKYyw9xjYNDgo1vkSzZ3XfZQ+4+2Q91mxvmp87ZHQYIgIeXTKNamjpJDwJwkyYP+in5X7JBHNKcZyRJdQCZd3srlRWrdKEnsbRuDhKt6pHqr6C7Xw57DsIwQlbgF/MqLX1SQcNjrFWyOQDqzfSlT37b1mKbe7XqWESMnfnXEyrMpqo1mxhKtxIEfEvovsuLRMIMA4uGTWHAGnKLN3O9ANqXg+wbmLK0hIsZpkeqRgnN+ZEHGJ9x3wSB+f4y0DYkFb++9KNEKqSiSUD20YWxn9Ajk6hd0oU9IFPPmNMjfmHfgedtykbi7zzwjdtDrHW279g9VjNRIUl+r9JZkE=;AZZPbZLk3Of+UgnrwjYyHQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/world/chinese-facial-recognition-technology-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/chinese-facial-recognition-technology-helping-iran-identify-women-breaking-strict-dress-code-report.amp"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://i.gadgets360cdn.com/large/indian_banks_facial_recognition_iris_scan_reuters_1673630330807.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Is Iran using facial recognition to police hijab law?"
-    excerpt: "There is growing concern Iran uses facial recognition software to identify, and prosecute, women who failed to follow the strict dress rule. Just weeks before 22-year-old Mahsa Amini died while in police custody after being arrested for failing to wear a hijab in public,"
-    publishedDateTime: 2023-01-11T21:12:00Z
-    webUrl: "https://www.deseret.com/utah/2023/1/11/23550122/iran-using-facial-recognition-techology-enforce-hijab-law"
-    ampWebUrl: "https://www.deseret.com/utah/2023/1/11/23550122/iran-using-facial-recognition-techology-enforce-hijab-law?_amp=true"
-    cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/utah/2023/1/11/23550122/iran-using-facial-recognition-techology-enforce-hijab-law?_amp=true"
-    type: article
-    provider:
-      name: deseret
-      domain: deseret.com
-    quality: 59
-    images:
-      - url: "https://deseret.brightspotcdn.com/dims4/default/39b93e4/2147483647/strip/true/crop/4000x2665+0+1/resize/740x493!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FspBNkOx2uM45aTxHdAocXHNgkaA%3D%2F0x0%3A4000x2666%2F4000x2666%2Ffilters%3Afocal%282000x1333%3A2001x1334%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24352436%2FAP22338578773208.jpg"
-        width: 740
-        height: 493
         isCached: true
   - title: "Iran Apparently Using Facial Recognition to Catch Women Breaking Hijab Law"
     excerpt: "The Iranian state is likely using facial recognition as a tool of tracking down and penalizing the women for rejecting the state's hijab law."

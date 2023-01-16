@@ -1,20 +1,30 @@
 ---
 category: news
-title: "From a ‘deranged’ provocateur to IBM’s failed AI superproject: the controversial story of how data has transformed healthcare"
-excerpt: "To understand the potential for machine learning to transform medicine, we must go back to the controversial origins of data use in healthcare"
-publishedDateTime: 2023-01-16T11:52:00Z
-originalUrl: "https://theconversation.com/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362"
-webUrl: "https://theconversation.com/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362"
+title: "From A 'Deranged' Provocateur To IBM's Failed AI Superproject: The Controversial Story Of How Data Has Transformed Healthcare"
+excerpt: "Just over a decade ago, artificial intelligence (AI) made one of its showier forays into the public's consciousness when ibm's watson"
+publishedDateTime: 2023-01-16T12:50:00Z
+originalUrl: "https://menafn.com/1105433732/From-A-Deranged-Provocateur-To-IBMs-Failed-AI-Superproject-The-Controversial-Story-Of-How-Data-Has-Transformed-Healthcare"
+webUrl: "https://menafn.com/1105433732/From-A-Deranged-Provocateur-To-IBMs-Failed-AI-Superproject-The-Controversial-Story-Of-How-Data-Has-Transformed-Healthcare"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
-  - AI in Healthcare
+  - IBM AI
   - AI
+  - AI in Healthcare
 
-secured: "pEOL/71nJcS5wNbG36JGS1vNxPvA/thW1orqEKcLqUxEsfpqaufRy02af6Eavp2/ffpmB6Enje7xDe3Qv20i+953dqquNpu9/VSZDAIk2rDO4kx3S52w+LjrrBWF2+jeFYR/1IzEt1Uiq/HNciMpjcz2FEWUyvCBLJ5rFRJfraqlctKVzT4LlQp/7miy7m/00RnfkeaWfvPaOGTMoNgcBeM6bwx8PcYB29oqqVNkCGHVsB1JGuPruwsin00WPmUpw58GpW8SwOHfggylvj8vZHCus/SzyBO72gVXi1UuYS1i0NGicm4UJTZzEdo+1eIybUCaFkK4W15tFgtq5g0xjWtlTyjRvUkUKKb4UA+XcfM=;ApgQz35XUBGO+Qy5kPWi7Q=="
+images:
+  - url: "https://menafn.com/updates/pr/2023-01/16/TC_44ff2image_story.png"
+    width: 640
+    height: 452
+    isCached: true
+
+secured: "nKPEfmr7sfvQmelYWTFKoSWghdA4RZapclhy+aQO3JfAviKRgcp3ee25Ifo/0GRGP1hlLV/NNNJtk8jgMke8v/ugqwt/ZIt8SFJdWvLiS0CSTpTCzZV1RNxjbg2g/eu1KyisZIMSme1kwIpnhgSdAAhX/971/bMELseIQGnQeeRgunH7qVcpiHNp8Nzr0fi+RjOF+XpHxQ/ukDdxdBNFxRC5QtLPLgoB4gUZfV14aFflo8UCmwurGwbhlLzSrfBRaAyHiA6Kb6ffee5My24quedfz5brwqr5TFadpPJV17DvdBUA806w0AfNrxklrJXH0m+dl099pLyRkbllbLJTednAaLfkUc23NHRuF/Iogco=;+EVUTRj6ONPzZoEwLYsWGg=="
 ---
 

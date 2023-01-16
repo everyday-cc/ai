@@ -2,10 +2,13 @@
 category: news
 title: "Gryphon Online Safety, Inc., Family First Cybersecurity Powered by Machine Learning Launches Equity Crowdfunding Campaign"
 excerpt: "Gryphon Online Safety, Inc., the leading family first cybersecurity solution that makes it easy to protect the connected home with machine learning, has launched an equity crowdfunding campaign on WeFunder."
-publishedDateTime: 2023-01-16T13:39:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/01/16/9743510.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/01/16/9743510.htm"
+publishedDateTime: 2023-01-16T15:17:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-gryphon-online-safety-inc-family-first-cybersecurity-powered-/2023/01/16/9743510.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-gryphon-online-safety-inc-family-first-cybersecurity-powered-/2023/01/16/9743510.htm"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: TMCnet
@@ -15,6 +18,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "UBuQtvhItpnFNJXYzsmkvfrF2q0hqQdNpOm+uG0YJPuva5+7kC29JWG++XshyC3g9Qxm4N1jDq2PDgyzSxxyMQd+PI1lJRgUrS9/w1XyIxRR0p+lkFdtjciNEKsvZfto+eJKrxSfPh+/giwo2eX+RynQHQ9nCl+zPfWM4L8ptlJI+6WTmShQkLWQjjxMryH+evn0IBuOxRFrj8s2GQDpwjFGYCR+rnOoqDRxoY7d32FVzrDc6Q+AukfSioztImd/IZD3KgooVFufP9n3toQxZbxccDq5wmss1kgtxkyPJj+djlYdwuaZcngJlGC3EXelPLBBJW7ZIqi4UkB2paU13NSIB6FC8220WSy/14zx9LIVXPmmcWPpiyP8TB8EdZe8r+W/10CH+TIDgA8Hxg+SrebBvNNmriDq01hehH1/TrqLBmpSY2rergk34fwUXPfJWegFH49toNAA5dXVmFCOJWXwVE4gcsFllhYNV6PAmBXZ7dCa/dl/+RaUFWys7tBi3r501UckIvb3ISPm3eOKJw==;T/PJLvPjBzPGnHLJG8BLmw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1982655/Gryphon_Network_Protection.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+secured: "XF5m10kfEEzq2CFa1jGEGobND7/OrQ8RoVZFNVOUDAGWJg/knKYOquQ2BPlM/OKR+msQK2qu1DoT60FNyXWCbKs7J0cWXxDgu9/HjP0MeuSqztqOIjsG+5EwwmuFtLjCqGkKprqQ92JRL37ti/O1WzdIPCr1yPLBIdh47gfVHmP/yeZzxx7oJ1fm0vdcE1ZfrvDfbMe5yVi3M/b98OXLA0skLToF6EuOFr6eMksD/sd5/LJkm/j3dHTgVIUHRQqQKZgqfHpteFmS9NEwSUgggOQLF5G301lhFfCJanjQEFBhwL4u/TG4eOkcf7ZGFTvd4MjHfstEm7TwYvn5lXsmFeagVk1JpHY+LgUXEwxBz+w=;fbjHFLQ0uJ4HB/33E0eSrQ=="
 ---
 

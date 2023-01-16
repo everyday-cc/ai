@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028-2023-01-16"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Edge AI Chips Market with Strong Focus on Industry Size, by business Highlights, Market Segments, Growth Rate, Revenue, and Forecast to 2028"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Edge AI Chips Market 2023 with 116 Report"
+    publishedDateTime: 2023-01-16T07:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-with-strong-focus-on-industry-size-by-business-highlights-market-segments-growth-rate-revenue-and-forecast-to-2028-2023-01-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
 
 secured: "GWxafJ7teCqb2kDpgFXN/aAY749TsTk8YDq0XgP76Q1YkRdQaazBsbvdfmiSU+p54tvFIbLGkefEQ5TouPMrrG+gIuJnP1cMg8SwMMvK4GoamLFrDtipF1B1OpRVJD1puu/M3S++inTI6TZbqftxdYRp+ReDT5TWt7vKrRVx4XYsbUb1N0cI7+5ORlq0vjj7w4H8wjgWzV7q6c/MS9kLySzF9nbhtJyZkzFEodQyJ+EqDWfr/NS4PhD/eZtJxfX+IHyMHoxnPeVDefNPbyy/l11a/o/RRlsgo9Ntu73TiP2aaTQwTdlxtrtg8/+MZN4T6XuMJTh5EpoUccHl9Vu8JkhaMmUFPJ36NXcuJXMsRXw=;/uXypWsB9YQxXZyTBmvrQw=="
 ---

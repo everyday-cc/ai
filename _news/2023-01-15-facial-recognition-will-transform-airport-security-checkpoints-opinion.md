@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition will transform airport security"
+    excerpt: "He has studied aviation security for more than 25 years, and wrote this for the Chicago Tribune. Imagine using technology that never forgets a face, while improving airport security and shortening lines."
+    publishedDateTime: 2023-01-16T12:00:00Z
+    webUrl: "https://www.bangordailynews.com/2023/01/16/opinion/opinion-contributor/facial-recognition-airport-security/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 51
 
 secured: "Ad5MNWyL0KKsQqjB4xNWs5I8HWWRAX6MNRCgOJMNoTZp3QVzaUCiX3CZoyAlI5a8YLNqYw+PxNYhV3PrcTgd9lPLSM2myek8092P0hkss8TLEtxMEjYEYMPuyc2uwP9NsT+CxHV87RArFRv/spVPdr1fN4uRzKG9gZ9Xw4pSgncTClbHQnW+FD7u9j0lUSTdt/x2hjYFfst3WpwOmvSLhWzvCqYYVszim7K4957syykHUqX2awhsBj3UfcqYOq7Jp3n4w2UTNe8JJES8goSrl16kkzicH/26GT+CS/HhQ/h/aDChhLeoC7We2dXK7ERug53jwzvxA1LSzWA00F+46jnQBMm1EVw5Ntd83bvM2tkv4j8on3QOaR6n/+49ux4cuzNzuixN++0+wEUKddTy5lqdAJNG/7sGJIuMHZGejBVHZS/8/F1lL3nqBqiPUD9Ma3X1xdLkIkbLQ772bkS7aWEHThhTEeCKP+50BP4vWL7cBwbEk7YcfhVLE09y1a8Qe0CSn9ZFuFBDb7l2LOJnpQ==;ftm3/nW+ZIOUQJNoT35lnA=="
 ---

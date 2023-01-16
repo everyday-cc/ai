@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Is Iran using facial recognition to police hijab law?"
-    excerpt: "There is growing concern Iran uses facial recognition software to identify, and prosecute, women who failed to follow the strict dress rule. Just weeks before 22-year-old Mahsa Amini died while in police custody after being arrested for failing to wear a hijab in public,"
-    publishedDateTime: 2023-01-11T21:12:00Z
-    webUrl: "https://www.deseret.com/utah/2023/1/11/23550122/iran-using-facial-recognition-techology-enforce-hijab-law"
-    ampWebUrl: "https://www.deseret.com/utah/2023/1/11/23550122/iran-using-facial-recognition-techology-enforce-hijab-law?_amp=true"
-    cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/utah/2023/1/11/23550122/iran-using-facial-recognition-techology-enforce-hijab-law?_amp=true"
-    type: article
-    provider:
-      name: deseret
-      domain: deseret.com
-    quality: 59
-    images:
-      - url: "https://deseret.brightspotcdn.com/dims4/default/39b93e4/2147483647/strip/true/crop/4000x2665+0+1/resize/740x493!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FspBNkOx2uM45aTxHdAocXHNgkaA%3D%2F0x0%3A4000x2666%2F4000x2666%2Ffilters%3Afocal%282000x1333%3A2001x1334%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24352436%2FAP22338578773208.jpg"
-        width: 740
-        height: 493
-        isCached: true
 
 secured: "n+fIqK1efKYuAYdFsJEhL3hiVKj1XjqGmo8t9SgxZvHsSkEpXpJE/ZpStNSl0kT6qJB5byePHUkRV8f+m1VNI7IZ3zI953BEcEaXMIvH3+baJxTIqfX6s7Ngl6B/YIwxTOZa08pQIfHG7in1K4XgCf5xzdbFhIW0CM+zsQiHyq0cZQDu7tPl0m+0Pw/c96Ycthfh0W+XKT9dsu2kxeU0cQS0iwdKM5UMrRmjz8XIqkWmVMzPfpUCdHoTPkxaYRv177uopC2KEy8Zi29pxw5Dz/q+uSPBY4mRUf5twGtNMplRcPZ2l9u4Fpz/90jqT5j4BHXzeCP35TUA+qOyvlWUZMQxKaueOnCINaYbG52CVYfiJjGSMU5ipCOlE6gGXNaH/jtOou84htUzh7SfWWit7EoNIF1iBDm7yri9k+nIHPVtZO/NZ09whiXTNhTabEA31P8fZDsYS2bP3M3OBJvtnoLsIMRozo0T8xrldz8bQTl+nl5geModyK495T2/O+aPuOuriIPF1FWwQOVS6XNCOw==;2yCdN3ioDS3RxsqcpENIpw=="
 ---

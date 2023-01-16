@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-16T06:31:00Z
 originalUrl: "https://www.cnn.com/2023/01/16/tech/facial-recognition-fashion/index.html"
 webUrl: "https://www.cnn.com/2023/01/16/tech/facial-recognition-fashion/index.html"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: CNN

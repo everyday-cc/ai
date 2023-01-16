@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-16T12:30:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30427881/healthcare-bioconvergence-market-size-projected-to-surpass-value-usd-249-24-billion-by-2032-cagr-o"
 webUrl: "https://www.benzinga.com/pressreleases/23/01/n30427881/healthcare-bioconvergence-market-size-projected-to-surpass-value-usd-249-24-billion-by-2032-cagr-o"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

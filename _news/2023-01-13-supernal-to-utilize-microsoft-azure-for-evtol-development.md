@@ -7,8 +7,8 @@ originalUrl: "https://www.aviationtoday.com/2023/01/12/supernal-utilize-microsof
 webUrl: "https://www.aviationtoday.com/2023/01/12/supernal-utilize-microsoft-azure-evtol-development/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Aviation Today
@@ -25,33 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Launches Imagine Cup Junior 2023 Empowering Top Innovations"
-    excerpt: "Imagine Cup Junior (ICJ) 2023 is open for registration creating outstanding paths for students to learn about technology solving world’s biggest challenges."
-    publishedDateTime: 2023-01-11T23:35:00Z
-    webUrl: "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/"
-    ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/amp/"
+  - title: "Unravel Data Appoints Microsoft VP Mansoor Zia as Board Member"
+    excerpt: "Unravel Data appointed Microsoft VP Mansoor Zia as Board Member which reflects the strong relationship between their company and Microsoft."
+    publishedDateTime: 2023-01-16T12:11:00Z
+    webUrl: "https://analyticsindiamag.com/unravel-data-appoints-microsoft-vp-mansoor-zia-as-board-member/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63bf4eb77e8e55f57de4e9c0/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 1309
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/zia-mansoor-1300x731.png"
+        width: 1300
+        height: 731
         isCached: true
-  - title: "Microsoft bets big on the creator of ChatGPT in race to dominate AI"
-    excerpt: "As a new chatbot wows the world, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI."
-    publishedDateTime: 2023-01-13T19:01:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
+  - title: "Microsoft’s $10bn bet on ChatGPT developer marks new era of AI"
+    excerpt: "The $10bn investment that Microsoft is considering in San Francisco-based research outfit OpenAI looks set to become the defining deal for a new era of artificial intelligence. If the US software giant is right about the far-reaching implications of the technology,"
+    publishedDateTime: 2023-01-16T11:00:00Z
+    webUrl: "https://www.ft.com/content/a6d71785-b994-48d8-8af2-a07d24f661c5?shareType=nongift"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
+  - title: "Microsoft Exec Zia Mansoor Joins Unravel Data Board of Directors"
+    excerpt: "Unravel Data, the first DataOps observability platform built to meet the needs of modern data teams, today announced that Zia Mansoor has joined the company’s Board of Directors. Mansoor currently serves as Microsoft’s Vice President of Data & AI,"
+    publishedDateTime: 2023-01-12T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230112005740/en/Microsoft-Exec-Zia-Mansoor-Joins-Unravel-Data-Board-of-Directors"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 19
 
 secured: "aj+DItWkN0wraCZTPZ8l/jo02qZOiMewl4sna7pw9mhkcXF1t3phvPwQEE8JQBsELAd05JAou/4X2uqGbKFKNhD2lLOrX1tl9mp9k9KHVUH4buizBSLRCAvUZAy7T0mOZC/DbIM3l7bJ7AuiVjUrh+B2DIDLz4KO1zGfgCj3qFOznZMsVvw1Q5iUcKBHpphaX+KB5PbJk6XrnBzR0DrUPfKRvWXQCGWecBAx8IFhpN5iiZ1D48mfttmRDlpFCZxgzAfF2jkQdFvycfaZ1fhz3D09gSe3IsDPgZCNYFLfjfqaotMihtJoGbTjUDFhnEL6zjNzETEUBVjOdCT5e31Gh2uMpNQ8zQ9B5JUHtcYhY7M=;q9R+InV+Xn09nuke48i8MQ=="
 ---

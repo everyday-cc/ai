@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition will transform airport security"
+    excerpt: "He has studied aviation security for more than 25 years, and wrote this for the Chicago Tribune. Imagine using technology that never forgets a face, while improving airport security and shortening lines."
+    publishedDateTime: 2023-01-16T12:00:00Z
+    webUrl: "https://www.bangordailynews.com/2023/01/16/opinion/opinion-contributor/facial-recognition-airport-security/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 51
   - title: "Facial recognition will transform airport security checkpoints | Opinion"
     excerpt: "Facial recognition technology is being tested at 16 American airports, including those in Miami and Orlando. Once implemented and perfected, it will create a pathway for an airport screening experience that will be eventually embraced as the new model for airport security,"
     publishedDateTime: 2023-01-15T13:30:00Z

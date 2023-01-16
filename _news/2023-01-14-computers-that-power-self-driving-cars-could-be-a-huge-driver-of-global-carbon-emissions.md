@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 1344
         isCached: true
+  - title: "Self-driving cars ‘could be huge driver of carbon emissions’"
+    excerpt: "The energy needed to run powerful computers onboard a large global fleet of self-driving cars could generate as many greenhouse gas emissions as all the data centres in the world today. That was the warning from researchers at the Massachusetts Institute of Technology (MIT),"
+    publishedDateTime: 2023-01-16T16:31:00Z
+    webUrl: "https://www.imeche.org/news/news-article/self-driving-cars-could-be-huge-driver-of-carbon-emissions"
+    type: article
+    provider:
+      name: Institution of Mechanical Engineers
+      domain: imeche.org
+    quality: 24
+    images:
+      - url: "https://imechewebresources.blob.core.windows.net/imeche-web-content/images/default-source/default-album/mit_autonomous-emissions-01-press_0.jpg?sfvrsn=96f26b11_0&size=705"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Self-driving cars could see motorists stuck in traffic for longer"
     excerpt: "Department for Transport projections said delays may rise by up to 85 from 2025 to 2060 with self-driving cars"
     publishedDateTime: 2023-01-15T12:52:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-12T10:55:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/273355684/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation"
 webUrl: "https://www.bignewsnetwork.com/news/273355684/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Big News Network.com

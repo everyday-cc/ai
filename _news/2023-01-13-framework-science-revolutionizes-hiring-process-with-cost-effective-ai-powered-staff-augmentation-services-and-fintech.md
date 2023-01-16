@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-12T23:44:00Z
 originalUrl: "https://www.news10.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
 webUrl: "https://www.news10.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
 type: article
+quality: 15
+heat: -1
+published: false
 
 provider:
   name: WTEN
@@ -15,6 +18,37 @@ topics:
   - AI in Finance
   - AI
 
-secured: "n+qGjN1NsV+LrlBYPfab+UkdYsAnn0Ne3MhFcZKwL61Qkay7oLmjzRCnBm1/M/Sow5xsq5qc0CZ/waJEv9uRYUPqe8q9zUo9DWL12yN1iUoEsClsStGOXT/4zZxSml5FW7/wYschuB7kmTXkBo5Q764IGdd+XukIZkuw5l8PLQJffueySuDSGS+Kq+ke5Jf07/mO0TJMhXT9DKYdGdNlev987l/0gj9EL2RChOxY6i3k5QFsA3gQJvde+27vl9Mt4EAQw5KIQIfHsSEnyt5RgwAywtSDf5Xf4vddjspE1KGR1GcjRHikahxQBk8E+1mbYK0lIkO0elm1yu1yDgLy3mivQKmbPEwHA9hiaR+baBU=;lg2SlVXiXY1cJ7I7PkeT3Q=="
+images:
+  - url: "https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/12754431-jesus-romero-co-founder-and-cf-300x300.jpeg"
+    width: 300
+    height: 300
+    isCached: true
+
+related:
+  - title: "Artificial Intelligence Making Waves In The Fintech Industry: 2023 Prophecy"
+    excerpt: "AI has also enabled fintech companies to reduce their operational costs. AI algorithms can streamline processes and automate mundane tasks, freeing up resources to focus on higher-level tasks. AI is certainly making waves in the fintech industry and will continue to do so in the years to come."
+    publishedDateTime: 2023-01-12T15:30:00Z
+    webUrl: "https://financialit.net/blog/ai/artificial-intelligence-making-waves-fintech-industry-2023-prophecy"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 39
+    images:
+      - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated_140.png"
+        width: 900
+        height: 480
+        isCached: true
+  - title: "Top 10 Fintech and innovation trends to watch in 2023"
+    excerpt: "Driving these innovations are Fintech companies which are contributing significantly to the growth of the local economy, creating new jobs, and stimulating an entrepreneurial ecosystem. Also, they are making the provision of financial services more efficient,"
+    publishedDateTime: 2023-01-16T13:56:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Top-10-Fintech-and-innovation-trends-to-watch-in-2023-1695992"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 4
+
+secured: "4SEHyRjt3mS6E/qVN/iaOaN9T0L2/HgN2jJ94y1PKxGcWUXfCrwPIOOUId2yuDTa+4I96EOgsvpnv0VHyP1FzCd0ZrF8faCbHBG2+uM24H+RzyiHVGoi5BvvWP5mTy5KpiifJDiXc+ZYdslDq0wiCJFPT57ICeswv/nl5A5jpGMWFsSQblgBFaPwBamYKazynqWYM4sfXNUSz5h+PwQgtxCtbDpeBNxqBUPN1ErqP7PGaORIXWKkB1JGQA2KTsYfY1XQ5K/QEtuDFyL2Ip7WCiW6V5myW6cETbKzu0mReHHmmbqTUB2+uH7QbKIA0MEtXQYXd6bTisUw3Rynglw+IhkYfKrTe4WvIK1DlKFt96Y=;efnV8MQLivrTipuDCUem7g=="
 ---
 

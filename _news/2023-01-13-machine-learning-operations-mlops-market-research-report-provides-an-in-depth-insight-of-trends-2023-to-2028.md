@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Edge AI Chips Market with Strong Focus on Industry Size, by business Highlights, Market Segments, Growth Rate, Revenue, and Forecast to 2028"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Edge AI Chips Market 2023 with 116 Report"
+    publishedDateTime: 2023-01-16T07:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-with-strong-focus-on-industry-size-by-business-highlights-market-segments-growth-rate-revenue-and-forecast-to-2028-2023-01-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
 
 secured: "b3bSZxjbBLbqO9v2bt4MX9g8EyE622JlgK22XnxqDP9+b5rkiopCSNh2pmAWJzE1RSASSL9WeDtH1Y+SkD9ZMsmtOnrAUYw0EBv1EFsB+OPQbLyelfy7U2I3zUTZjoduWPvHNaiBxPT3Xw6k9ulvpGWCs7d+5IOkEgt02QJKHViPbxDVXZ+sKoOv0mn5sJXsEha26lL8CFu/wC282E7G5yoTY9+aecVGy7J0yCR1ste8fwXFGgPaxsavKdqzj4EcCAdxjUenfMEC9OT+izEUfl4BjgAdl9zOA7UBj0XYxlMq1TRQtQWUZ7N4+zdnSycJlLpaD78hg7xAE4IAJGv/uz8PZBsMW19u2b+tisf3Eao=;vcuBt4fGQ0y93YCR1rMuZw=="
 ---

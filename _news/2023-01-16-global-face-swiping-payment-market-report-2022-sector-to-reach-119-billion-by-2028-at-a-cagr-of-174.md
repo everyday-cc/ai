@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-16T12:16:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30427723/global-face-swiping-payment-market-report-2022-sector-to-reach-11-9-billion-by-2028-at-a-cagr-of-1"
 webUrl: "https://www.benzinga.com/pressreleases/23/01/n30427723/global-face-swiping-payment-market-report-2022-sector-to-reach-11-9-billion-by-2028-at-a-cagr-of-1"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

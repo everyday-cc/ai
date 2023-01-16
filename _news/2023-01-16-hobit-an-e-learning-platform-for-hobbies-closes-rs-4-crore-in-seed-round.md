@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-16T14:08:00Z
 originalUrl: "https://www.devdiscourse.com/article/business/2321188-hobit-an-e-learning-platform-for-hobbies-closes-rs-4-crore-in-seed-round"
 webUrl: "https://www.devdiscourse.com/article/business/2321188-hobit-an-e-learning-platform-for-hobbies-closes-rs-4-crore-in-seed-round"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: devdiscourse

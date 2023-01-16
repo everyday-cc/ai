@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-16T13:00:00Z
 originalUrl: "https://helenair.com/news/state-and-regional/meet-michael-running-wolf-the-man-using-ai-to-reclaim-native-languages/article_98e41425-fcbd-5a10-98b6-3d4de30fe37b.html"
 webUrl: "https://helenair.com/news/state-and-regional/meet-michael-running-wolf-the-man-using-ai-to-reclaim-native-languages/article_98e41425-fcbd-5a10-98b6-3d4de30fe37b.html"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: Independent Record
@@ -14,7 +17,14 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
-secured: "YqTplD/QWq1RFvbl8mm7DDDm9ETtcI7tF30SpK6ADfKVBPVaWgqa1q0mSibeLM1uOQbNncIW2oj+L9Q8ORtIV/Fg1Uvl5q2D/aLB8w36YkiIaFUVuox+Js+MSgY1jP8yJ9dKzfY8PiktCuJbPcixGNYZQfrteQ/rzR4B9xUl0JLnzqHfy4KwpdLE8YJwkMn/IpKuILKkKJwaYIyTUV9ZTjyi+iazpkC57eUOUrMsTj+GMDzZ28VBSTHWPsMGa0pz7eGTP/GJaHIaCjjDx2z2isecBVhXj6Zp0loKC0tLbuVXgNSrLaUJ/uJPFu7Dei1b4fISppAtQit5fx6v7IS0oYK7S1KIjZeaLBzqTYw47ts5rAETdP14W8+iFee/IaTepdJ8JJH3jJGTZwtMaQ4lbfTuhU0hnNYqgi0CeyJJnhDKhq7Tsv0WULRV3JWP/I9Gh9mFiqws4kxYxCI8KY2ccjh8UW9VEbQ+cdgzGglUBIlEP31zMCrMKQTLnUT3z+GAMl5gUY7ybXXU1UT3sIL8ww==;vIxRA29A9XS0Md2sgcHDug=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/9/8e/98e41425-fcbd-5a10-98b6-3d4de30fe37b/63c1f7d19ca1a.preview.jpg?crop=1322%2C694%2C50%2C200&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "/WWBHCIStxHwXHI5FAMOkcvR1OqKU18zh32IeetkrRutmqI5Z8Of191der75sAhKGB0HiHb2BE29hZlYgCrQqzWsWALv/P/WvbW2t2GYKOZ797oPtWuHs5BDXlDQIoUA95QESKFt1uZ+Sg4KoIMbUGcCmDZWQAvbemHuCe+MyCjP6DNSqeqTISHjEwuAf4ctg18YgkQixgrow9Y8i/o+kwCxXeb4JxsOkE5YE0t16Kq1LLdxFSpp0EZOli5rMpSryooTMLqDTbdJ1qo/hvqAVwZ/UfYbfheh0YPSJkB8fawgYAWKfu+K2vFVMmudv5cwT6Ei5FzHP2aKsrWJZUVoWKAl2sy9F4xDPqDwX3QuNYo=;t4bcqztu8Y0r7064umDA+w=="
 ---
 

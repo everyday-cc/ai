@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202301/what-everyone-needs-to-know
 webUrl: "https://www.biometricupdate.com/202301/what-everyone-needs-to-know-about-facial-recognition"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "NJ targets facial recognition after Radio City uses tech to kick out mom"
-    excerpt: "Sen. Nia Gill is working on a bill to restrict facial recognition tech after NJ mom Kelly Conlon was ejected from a Rockettes show when her face was scanned."
-    publishedDateTime: 2023-01-12T21:22:00Z
-    webUrl: "https://nj1015.com/nj-targets-facial-recognition-after-radio-city-uses-tech-to-kick-out-mom/"
+  - title: "The 10 Scariest Future Tech Trends Everyone Must Know About Right Now"
+    excerpt: "Is technology in the news keeping you awake at night? Should it be? Here are some of the scariest future tech trends that should be on your radar."
+    publishedDateTime: 2023-01-16T05:46:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/01/16/the-10-scariest-future-tech-trends-everyone-must-know-about-right-now/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/01/16/the-10-scariest-future-tech-trends-everyone-must-know-about-right-now/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/16/the-10-scariest-future-tech-trends-everyone-must-know-about-right-now/amp/"
     type: article
     provider:
-      name: WKXW
-      domain: nj1015.com
-    quality: 38
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://townsquare.media/site/385/files/2023/01/attachment-nj-mom-face-scan-4.jpg?w=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63c4f26d17dacdb903c92cf2/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
 
 secured: "KGpVIo4kYyceb7/sxSPiUisy7jeJhvKikFrGpGVEAsqAgI8TqPKf2FZCaOZrJ8qP6+yu7NDNpF96ZlvmPoVF/OoY0SSsEfCpfoIu9/fOKGIoYNut/G68YG6NRGKhKPu/UPkEmkEz5wJ1cvte3Qpa+URmDGLUi0AX3ERGRK91FTSJpQUsNrQXRYP163cHnPG9ta+J4n1dAY/f1F6z02OixnDn7HBT60ywULgF9D48ltsgsB7ROP4jSiTPi4tnVMN4oVU7T8hzbkW+kTx0ylQvhAbbQq0T25/H37xb9hZDWhNGEVYty7qtRuKHvwjbvPe6zxlSkOBlzkKb02df37MDPkhPQnrQgIj+WEhkoDpXqIrRl31RR+wgeMLQqR33IriH0CIZxZdI6RCZreNipEajtCrSjz/x2dDK2U6TGsY8wvojY/ueY1W7nhRZs+Aa1XfQXX5+IhKwIKMH0zGRtIQSxIF1Mxp1S090rmR8Ia+b0qupoD90J9+l4ovMyfLPbbPM5phvFzTPdSPXOYJTNllQiw==;mcY+kgFMky1Dh6ctEnVieg=="

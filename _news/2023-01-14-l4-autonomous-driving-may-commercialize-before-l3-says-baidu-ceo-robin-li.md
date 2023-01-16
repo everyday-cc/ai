@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-13T16:10:00Z
 originalUrl: "https://www.digitimes.com/news/a20230113VL209.html"
 webUrl: "https://www.digitimes.com/news/a20230113VL209.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Digi Times

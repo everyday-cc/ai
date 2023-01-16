@@ -112,15 +112,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Object Recognition Imaging Systems Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2029 with Top Countries Data"
-    excerpt: "Object Recognition Imaging Systems Market\" areas divides into sub-regions and nations/regions, are covered in this"
-    publishedDateTime: 2023-01-11T23:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-share-industry-size-opportunities-analysis-and-forecast-to-2029-with-top-countries-data-2023-01-11"
+  - title: "Data Science and Machine-Learning Platforms Market 2023 Expected to Reach Significant Rate by 2029"
+    excerpt: "As per latest research on Data Science and Machine-Learning Platforms Market (Report spread across 122 Pages), the"
+    publishedDateTime: 2023-01-16T09:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-2023-expected-to-reach-significant-rate-by-2029-2023-01-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

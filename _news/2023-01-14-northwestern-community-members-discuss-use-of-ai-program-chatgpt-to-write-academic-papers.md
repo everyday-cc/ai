@@ -57,6 +57,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Cybercriminals using ChatGPT AI bot to develop malicious tools?"
+    excerpt: "According to a report from cyber security firm Check Point Research (CPR), the cybercriminal community has already expressed strong interest in ChatGPT develop malicious code."
+    publishedDateTime: 2023-01-16T16:08:00Z
+    webUrl: "https://www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/img/2023/01/16/1600x900/OPENAI-CHATGPT-61_1673882783604_1673882783604_1673883055328_1673883055328.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "gJifisD4Zs6i4E9q74oPzgjkQEaaxJvuC6/5nANJLR8nOzbv1jNUuim1DZL3wsIQ56ls2CQgU5Ua1H0oj20Ui+dBDLTon7eTLUvfFlKvc2tjJPjEd5LRW/XMg+8kdKMuLymKU//qv+i/6j2zZB45Zbv0uPmpdMDup27rOnzE9tHdy/OaogG9UicdNqSmI+MLD3xQ7bous+sdn7STmtGbAMYYETb2+bvcqOZFITxfyVJkz1EsGf82nuVKViBBOAJpD0P0pQ1SCpzgkAgm8bu7p07W9Bub85pErMfr9O/ItiPZJyioi2qE6jenhP7nnaRdPbTBgN3U5jq8TozhFDiv5u4dUTjD0JuWjrrV1v0JWhjPA0WHRy+PEyObY7+y+VJaH7zPkWsDBGIonczUXeyf1vZq91o1SbnDZMQm+8LqqynGMabV4Uadpcc81hkn4zL8hsv3FPsW9CaVMnx8tmH91gj4qVcF5UPHDcXAwVA3gNJJeyRVynQT9rLD3NyofwLdmGB/NtDwMh6g8p4tFy8qaA==;ebaFSl6cShQQTJ12y7MeKg=="
 ---

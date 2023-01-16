@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -21,36 +21,15 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft Launches Imagine Cup Junior 2023 Empowering Top Innovations"
-    excerpt: "Imagine Cup Junior (ICJ) 2023 is open for registration creating outstanding paths for students to learn about technology solving world’s biggest challenges."
-    publishedDateTime: 2023-01-11T23:35:00Z
-    webUrl: "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/"
-    ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/amp/"
+  - title: "Portraits to go and prose like Tim Winton: ChatGPT and the rise of AI"
+    excerpt: "AI expert Prof Toby Walsh speaks to Laura Murphy-Oates about the new wave of artificial intelligence and the fear and fascination it has created"
+    publishedDateTime: 2023-01-16T13:00:00Z
+    webUrl: "https://www.theguardian.com/australia-news/audio/2023/jan/17/portraits-to-go-and-prose-like-tim-winton-chatgpt-and-the-rise-of-ai"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63bf4eb77e8e55f57de4e9c0/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 1309
-        isCached: true
-  - title: "Supernal to Utilize Microsoft Azure for eVTOL Development"
-    excerpt: "Hyundai’s Supernal recently announced that it is collaborating with Microsoft in development of its electric vertical take-off and landing (eVTOL) aircraft for advanced air mobility. The collaboration aims to advance autonomy,"
-    publishedDateTime: 2023-01-12T20:50:00Z
-    webUrl: "https://www.aviationtoday.com/2023/01/12/supernal-utilize-microsoft-azure-evtol-development/"
-    type: article
-    provider:
-      name: Aviation Today
-      domain: aviationtoday.com
-    quality: 54
-    images:
-      - url: "https://www.aviationtoday.com/wp-content/uploads/2023/01/courtesy-of-microsoft-project-airsim-for-supernal.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "QLL+qahfMtGWKB5GpVKzeXOF2oPL6RXBiR0hFJtDudPVP60DTysn8RdwN/6Hls59P+7NB1e0iNdBVmX1Gm860C1ZPKyQIugskLV4cHqmyYTBFmLMqlDRTLVO7QD3VzqCFzVQxvAVEiafv4hZhqSMCeynZSu8ILhwPzVL+7bcEurhi7hEmrUQ0OAL6GJOX/lH4yp8SFZxbA1EkHyoF+cEhyqs3Tlc5LiVBEWVxmLZ04AtBCA5gITnLNQia1MbLYrzJa5le4jvOW3m4oHzUrrBPSsHUaJbAWEmIUviwRY+B9/SvAoOcGSxVcsIucfqNblG+12KFZ4uSEpVNwuPleX+BYE35KfSOMszRADNt9iCzW63aK/oOpp52tmrleiXM5rhw+HA69dnFWqmPbYeG6tbYxU+qUtb4BX1nuXTHmUoUgWt68VWLVMxSRYW4PFEOIDg9xtNMPDz+i45d2/xwLCfq0WgPybNzP2OSZX5LD+D0zaUn9scHDH63gegOBwWoWmCfEfwMtuo+ZASdCpdGDgrUA==;GOc9XJOuxcRmmHJ8rJkN+A=="
 ---

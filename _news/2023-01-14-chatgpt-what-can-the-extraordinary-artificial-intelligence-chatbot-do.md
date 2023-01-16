@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cybercriminals using ChatGPT AI bot to develop malicious tools?"
+    excerpt: "According to a report from cyber security firm Check Point Research (CPR), the cybercriminal community has already expressed strong interest in ChatGPT develop malicious code."
+    publishedDateTime: 2023-01-16T16:08:00Z
+    webUrl: "https://www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/img/2023/01/16/1600x900/OPENAI-CHATGPT-61_1673882783604_1673882783604_1673883055328_1673883055328.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Northwestern community members discuss use of AI program ChatGPT to write academic papers"
     excerpt: "Essay bots may be the next industry to be automated away, thanks to AI program ChatGPT. Artificial intelligence can be used to perform a variety of human-like tasks, including turning information from the internet into detailed written responses,"
     publishedDateTime: 2023-01-13T18:47:00Z

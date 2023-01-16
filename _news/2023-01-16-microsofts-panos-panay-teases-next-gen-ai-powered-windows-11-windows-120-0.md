@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/"
 type: article
 quality: 103
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.windowslatest.com/wp-content/uploads/2023/01/Windows-11-Microsoft-Edge-rounded-corners.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Potentially a big week for Microsoft’s AI aspirations"
-    excerpt: "Microsoft has wowed some in the community with its updated text-to-speech model and would also like to invest $10 billion in OpenAI."
-    publishedDateTime: 2023-01-11T22:12:00Z
-    webUrl: "https://www.biometricupdate.com/202301/potentially-a-big-week-for-microsofts-ai-aspirations"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/17145359/AnyVision-audited-for-violations-of-Microsoft-AI-facial-recognition-principles.jpg"
-        width: 2000
-        height: 1001
         isCached: true
   - title: "Microsoft Strikes Partnership with Paige To Advance Cancer Diagnostics and Treatment"
     excerpt: "Microsoft is making a strategic investment in Paige, which is leveraging AI for cancer diagnostics and treatment. Paige will also use Microsoft Azure as its cloud provider for the Paige Platform."

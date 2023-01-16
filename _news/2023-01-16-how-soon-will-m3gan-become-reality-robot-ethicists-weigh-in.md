@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-16T14:04:00Z
 originalUrl: "https://www.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life"
 webUrl: "https://www.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Guardian

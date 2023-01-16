@@ -41,6 +41,20 @@ related:
         width: 2048
         height: 1024
         isCached: true
+  - title: "Top Singapore taxi company buys into Israeli self-driving startup"
+    excerpt: "ComfortDelGro, Singapore's largest taxi operator, is investing $4 million in Israeli self-driving software startup Ottopia, tapping more outside technology in its push toward autonomous transportation."
+    publishedDateTime: 2023-01-16T15:44:00Z
+    webUrl: "https://asia.nikkei.com/Business/Automobiles/Top-Singapore-taxi-company-buys-into-Israeli-self-driving-startup"
+    type: article
+    provider:
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F3%252F9%252F9%252F43939932-1-eng-GB%252Fphoto_SXM2023011100006770.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
+        width: 1260
+        height: 630
+        isCached: true
 
 secured: "IZFfFQ1r+YiXFzirrAPeCIXV3gaIrdrl1m9k4kikXt86YBn/M4uBEkokI/TIz6wAbaFuWKm7f5/dUzgSHgxz1v3DMhnZghBNZptTYwpna7e1AAbj8gepfChVDDHioqVLcrOBFWb7MSp7DJ/2fT7/IrMcUeRIL94xNwLWYfg22k2lXr6pccKaxb0zIvVOj/8q1IH/iX9IMqQ63BW3KFA7ro7qzSHyI/E0hh79HHE6x4WP+pVaNjU8Zb/Ha7BsMe68BHKUW2LrYSrYC3/p14e7nQ3jktwFtsBVSWVMG1X3tB01vmiCGy5sVErl3sTxzPMlediVncXq2v1+kY7hPV5pcTinXlBw1qQeAY5Wv5V6P8q+efmRRjuq7suJOIn48noftWzWG7b8kSwvRVnhuo/CNstwGBGu7eLcmhXMYyflfBoVIpdBcBUeEqnLrmADw1s/V3n8k2ZEb3k/jXDTLFGQhD6WgB6cnurPDiw0b6qXUmcOGFecwtl7aMNq8k93TtKz1mSRYt2NrRfYRRHufyGWKw==;uL0+v4bE9DLi1gNI7Btt4w=="
 ---
