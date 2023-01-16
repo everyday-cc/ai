@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Tech Alert: BrainChip Showcases Compelling Benchmarks and Recommends Better Metrics for AI Devices at the Edge"
-excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / January 15, 2023 / A new white paper by BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power, fully digital,"
-publishedDateTime: 2023-01-15T22:58:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273376115/tech-alert-brainchip-showcases-compelling-benchmarks-and-recommends-better-metrics-for-ai-devices-at-the-edge"
-webUrl: "https://www.bignewsnetwork.com/news/273376115/tech-alert-brainchip-showcases-compelling-benchmarks-and-recommends-better-metrics-for-ai-devices-at-the-edge"
+excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / January 15, 2023 / A new white paper by BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital,"
+publishedDateTime: 2023-01-15T21:31:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/01/ac30424422/tech-alert-brainchip-showcases-compelling-benchmarks-and-recommends-better-metrics-for-ai-devices"
+webUrl: "https://www.benzinga.com/pressreleases/23/01/ac30424422/tech-alert-brainchip-showcases-compelling-benchmarks-and-recommends-better-metrics-for-ai-devices"
 type: article
-quality: 34
-heat: 34
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://cdn.bignewsnetwork.com/cus1673592453164.jpg"
-    width: 630
-    height: 420
-    isCached: true
 
 related:
   - title: "Brainchip Holdings Limited/ADR: Tech Alert: BrainChip Showcases Compelling Benchmarks and Recommends Better Metrics for AI Devices at the Edge"
@@ -35,6 +29,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "Cq7o2B+sJwKxgDh8JvQG1G8lPcrr1NhxySDODJ9O9ylb2KUIZJTOyU8ZrMsohMvJU0dcLKqTDpqoyTVCNyM5TUdZMYWUpCQNwC0ykCBawiP66RkLZ35+7C+76LVFCaPhhQD9AYVaPFWnmRWtFvtsBZEDI2noVeafpW3BzDIle5md4HeJd2BschVdRT9yDOpHq004U/bMM5alwDNGDqra6xxnV54dYUKOno3ASXBt/WydB0lBbr2jn7oryA/LjdjJ69gnR+xxgzEz0jYNnqobZC0aY2paseEKuazYtlNvi5+BKYIlHtfK197VQyE7768e4pKfvRAHe+xZfoLbHdBiWI3cTYnf7NVrNJURhPmSHbk=;4MhdpsOX5UuGDFBBdbPYcQ=="
+secured: "EQFY3iIRjekNa3DQyytAl4cBVQmQArlRZiJVL0bFixx8VL8s78ALVhQ+UvBkjewvmY+05OTZ1qZd5MmMEZxxtBxMo6lg0n/tZcObU1yTFG8n728xoqiyC7s25vGpBuPC+DTdR96K7Q1dNiR1Kn6OfhBu4mS1CNKUar19e2LUX27CBFW/ImqSF5cRgcZTDWaTaEbp2LmAXd7ooPMkSFhTyZIuhWZI/p8Q0stIKq8iDhLdF41PEUDq4wDlIq2W1TCR21mbiJw3IKj2uPSUXi9i1GN8QUdJnabMZsEKa17f5No5rJcgsdFj2kr8HaflBNqidwRIOIp3SqHeTamO9p8PFnAdoYKG7OIvuIeKZdllEoc=;IpUztB/ckTCEZ/Wquxz1Xg=="
 ---
 

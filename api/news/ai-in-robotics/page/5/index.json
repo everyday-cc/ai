@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-12-01-san-francisco-will-allow-police-to-deploy-robots-that-kill-in-extreme-circumstances.md",
+      "title": "San Francisco will allow police to deploy robots that kill 'in extreme circumstances'",
+      "excerpt": "SAN FRANCISCO – Supervisors in San Francisco voted Tuesday to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations – following an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2022/11/30/california-police-deploy-robots-kill/10801825002/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2022/11/30/california-police-deploy-robots-kill/10801825002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2022/11/30/USAT/919c69c3-daac-40d7-9a4c-af72bb516870-AP22333707907710.jpg?auto=webp&crop=2999,1687,x1,y184&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T12:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-san-francisco-approves-killer-police-robots-time-to-arm-your-toasters-folks.md",
       "title": "San Francisco approves killer police robots! Time to arm your toasters, folks.",
       "excerpt": "San Francisco officials have decided to allow police to use robots that carry explosive charges. I'm sure that will work out just fine.",
@@ -1346,59 +1389,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities.md",
-      "title": "‘Full-on robot writing’: the artificial intelligence challenge facing universities",
-      "excerpt": "“Waiting in front of the lecture hall for my next class to start, and beside me two students ... computer theorist Ben Goertzel proposed what he called the “robot university student test”, arguing that an AI capable of obtaining a degree in a same ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2022/nov/19/full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities",
-      "originalUrl": "https://www.theguardian.com/australia-news/2022/nov/19/full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1143a55bd5f548d54d15ed8041088b5a8bf2f82e/0_0_2500_1500/master/2500.jpg?width=620&quality=85&auto=format&fit=max&s=7707616aa038a0125e220cf9679ed8a0",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/australia-news/2022/nov/19/full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/nov/19/full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities",
-      "publishedDateTime": "2022-11-18T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

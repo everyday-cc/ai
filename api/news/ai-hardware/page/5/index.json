@@ -2,6 +2,207 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-24-using-ai-to-help-write-code-the-tech-just-isnt-there-yet-says-a-company-that-tried.md",
+      "title": "Using AI to help write code? The tech just isn't there yet, says a company that tried",
+      "excerpt": "The CEO of code completion tool Kite says state-of-the-art machine learning (ML) for code synthesis isn't there yet, and says it is stopping work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-startup-tried-to-use-ai-to-help-developers-write-code-but-it-says-the-tech-is-just-not-ready-yet/",
+      "originalUrl": "https://www.zdnet.com/article/this-startup-tried-to-use-ai-to-help-developers-write-code-but-it-says-the-tech-is-just-not-ready-yet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/8afe96ebc5cae01d0037d47efb01e067aaef824b/2022/03/30/93dfb7e9-9e6e-404e-be0e-87d0d1d88aa7/tech-workers-digital-jobs-team-programmer-developer-deisgn-hinterhaus.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-startup-tried-to-use-ai-to-help-developers-write-code-but-it-says-the-tech-is-just-not-ready-yet/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-startup-tried-to-use-ai-to-help-developers-write-code-but-it-says-the-tech-is-just-not-ready-yet/",
+      "publishedDateTime": "2022-11-24T02:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-11-24-gpu-for-deep-learning-market-2022-technology-type-analysis-size-share-growth-price-trends-and-forecast-to-2028-80-report-pages.md",
+      "title": "GPU for Deep Learning Market 2022 : Technology Type Analysis, Size, Share, Growth, Price Trends and Forecast To 2028 | 80 Report Pages",
+      "excerpt": "According to this latest study, the 2021 growth of GPU for Deep Learning will have significant change from previous",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-2022-technology-type-analysis-size-share-growth-price-trends-and-forecast-to-2028-80-report-pages-2022-11-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-2022-technology-type-analysis-size-share-growth-price-trends-and-forecast-to-2028-80-report-pages-2022-11-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-23T19:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-11-24-edge-ai-chips-market-emerging-economies-are-expected-to-offer-high-growth-opportunities-and-forecast-to-2028.md",
+      "title": "Edge AI Chips Market : Emerging economies are expected to offer high growth opportunities and Forecast to 2028",
+      "excerpt": "Nov 23, 2022 (The Expresswire) -- \"Edge AI Chips Market\" Research Report gives detailed facts with consideration to market size, cost revenue,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-emerging-economies-are-expected-to-offer-high-growth-opportunities-and-forecast-to-2028-2022-11-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-emerging-economies-are-expected-to-offer-high-growth-opportunities-and-forecast-to-2028-2022-11-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-23T09:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-an-optical-chip-that-can-train-machine-learning-hardware.md",
+      "title": "An optical chip that can train machine learning hardware",
+      "excerpt": "A multi-institution research team has developed an optical chip that can train machine learning hardware. Their research is published today in Optica.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-11-optical-chip-machine-hardware.html",
+      "originalUrl": "https://techxplore.com/news/2022-11-optical-chip-machine-hardware.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/teaching-photonic-chip.jpg",
+          "width": 1944,
+          "height": 1944,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-11-optical-chip-machine-hardware.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-optical-chip-machine-hardware.amp",
+      "publishedDateTime": "2022-11-23T01:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-chinas-baidu-says-it-expects-limited-impact-from-us-chip-curbs.md",
       "title": "China's Baidu says it expects 'limited' impact from U.S. chip curbs",
       "excerpt": "\"A large portion of our AI Cloud business and even wider AI business does not rely too much on the highly advanced chips,\" said Shen. Baidu also runs a robotaxi business, Apollo Go, which has ...",
@@ -1245,187 +1446,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-new-chip-expands-the-possibilities-for-ai.md",
-      "title": "New Chip Expands the Possibilities for AI",
-      "excerpt": "But these days, hardware improvements are no longer keeping pace with the enormous amount of memory and processing capacity required to run these massive algorithms. Soon, the size of AI algorithms may hit a wall.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearscience.com/2022/11/11/new_chip_expands_the_possibilities_for_ai_864336.html",
-      "originalUrl": "https://www.realclearscience.com/2022/11/11/new_chip_expands_the_possibilities_for_ai_864336.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T22:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearScience",
-        "domain": "realclearscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-japan-to-invest-up-to-500-mln-in-new-advanced-chip-development-company.md",
-      "title": "Japan to invest up to $500 mln in new advanced chip development company",
-      "excerpt": "that aims to re-establish Japan as a leading maker of advanced chips. \"Semiconductors are going to be a critical component for the development of new leading edge technologies such as AI, digital industries and in healthcare,\" Minister of Economy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/japan-invest-up-500-mln-new-advanced-chip-development-company-2022-11-11/",
-      "originalUrl": "https://www.reuters.com/technology/japan-invest-up-500-mln-new-advanced-chip-development-company-2022-11-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/-HGRp8TetewRZxXkozlMWTm3HlI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WPRHXI73MBPX5J54LYWMQ7XQME.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T16:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone.md",
-      "title": "Stable Diffusion in your pocket? “Draw Things” brings AI images to iPhone",
-      "excerpt": "Introduced in August, Stable Diffusion (SD) is an AI image generator model that creates novel images ... When running locally, SD requires a fairly beefy GPU to generate images quickly, but some developers optimized the model to run on older GPUs with ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/11/stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/11/stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/sd_phone_hero_4-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone/amp/",
-      "publishedDateTime": "2022-11-10T15:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-intel-launches-powerful-max-series-cpus-and-gpus-for-high-performance-computing-and-ai.md",
-      "title": "Intel Launches powerful Max Series CPUs and GPUs for high-performance computing and AI",
-      "excerpt": "With the introduction of its newest product family, the Intel Max, Intel Corp. hopes to compete against rivals Advanced Micro Devices Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/intel-launches-powerful-max-series-cpus-and-gpus-for-high-performance-computing-and-ai/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/intel-launches-powerful-max-series-cpus-and-gpus-for-high-performance-computing-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/11/Intel-Launches-powerful-Max-Series-CPUs-and-GPUs-for-high-performance-computing-and-AI.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/intel-launches-powerful-max-series-cpus-and-gpus-for-high-performance-computing-and-ai/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/intel-launches-powerful-max-series-cpus-and-gpus-for-high-performance-computing-and-ai/amp/",
-      "publishedDateTime": "2022-11-10T06:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,333 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2022-11-29-5-ways-how-artificial-intelligence-ai-will-revolutionize-the-game-development.md",
+      "title": "5 Ways How Artificial Intelligence (AI) Will Revolutionize The Game Development",
+      "excerpt": "Game developers use AI in various ways, and this trend is only expected to continue. Video games are no longer only enjoyable leisure but an integral part of everyday life. According to recent trend reports,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/5-ways-how-artificial-intelligence-ai-will-revolutionize-the-game-development/",
+      "originalUrl": "https://techbullion.com/5-ways-how-artificial-intelligence-ai-will-revolutionize-the-game-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/11/pexels-garrett-morrow-682933.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/5-ways-how-artificial-intelligence-ai-will-revolutionize-the-game-development/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-ways-how-artificial-intelligence-ai-will-revolutionize-the-game-development/amp/",
+      "publishedDateTime": "2022-11-29T02:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-baidu-to-expand-fully-driverless-ride-hailing-service-area.md",
+      "title": "Baidu To Expand Fully Driverless Ride-Hailing Service Area",
+      "excerpt": "In August, Baidu said it secured China's first-ever permits for commercial fully driverless ride-hailing services. China was the first country in the world that allowed fared fully driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidu-to-expand-fully-driverless-ride-hailing-service-area",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-to-expand-fully-driverless-ride-hailing-service-area",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T02:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-kami-vision-reveals-the-worlds-first-ai-powered-camera-alarm-system-for-the-entire-home-with-247-professional-monitoring.md",
+      "title": "Kami Vision Reveals the World’s First AI-Powered Camera Alarm System for the Entire Home with 24/7 Professional Monitoring",
+      "excerpt": "Kami Vision, the computer vision company that provides AI solutions to enterprise, SMB and consumers, today announced Kami Pro Security, a professional-grade, video alarm system for use in residences and small businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/e9654d74b4b143b98686bb8e46b7b520",
+      "originalUrl": "https://apnews.com/e9654d74b4b143b98686bb8e46b7b520",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-artificial-intelligence-to-be-used-for-security-in-maha-kumh-2025.md",
+      "title": "Artificial Intelligence to be used for security in Maha Kumh 2025",
+      "excerpt": "To ensure full security at the Maha Kumbh in 2025, the Yogi Adityanath government in Uttar Pradesh will use Artificial Intelligence (AI), apart from drones and closed-circuit television",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/news/national/artificial-intelligence-to-be-used-for-security-in-maha-kumh-2025-771168",
+      "originalUrl": "https://www.thehansindia.com/news/national/artificial-intelligence-to-be-used-for-security-in-maha-kumh-2025-771168",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2022/11/29/1322617-maha-kumbh.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/news/national/artificial-intelligence-to-be-used-for-security-in-maha-kumh-2025-771168",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/national/artificial-intelligence-to-be-used-for-security-in-maha-kumh-2025-771168",
+      "publishedDateTime": "2022-11-29T01:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-slow-cognitive-decline-with-flavonols-study-says.md",
+      "title": "Slow cognitive decline with flavonols, study says",
+      "excerpt": "The cognitive score of people in the study who ate the most flavonols declined 0.4 units per decade more slowly than those who ate the fewest flavonols. The results held even after adjusting for other factors that can affect memory, such as age ...",
+      "sourceUrl": null,
+      "webUrl": "https://egyptindependent.com/slow-cognitive-decline-with-flavonols-study-says/",
+      "originalUrl": "https://egyptindependent.com/slow-cognitive-decline-with-flavonols-study-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T01:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Egypt Independent",
+        "domain": "egyptindependent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-these-video-games-for-dogs-might-have-cognitive-benefits-for-aging-pups.md",
+      "title": "These Video Games For Dogs Might Have Cognitive Benefits For Aging Pups",
+      "excerpt": "After reading a 2017 report that touchscreen games could have cognitive benefits for dogs, he realized the project might have wider applications. The first challenge is getting and keeping the dog ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamespot.com/articles/these-video-games-for-dogs-might-have-cognitive-benefits-for-aging-pups/1100-6509524/",
+      "originalUrl": "https://www.gamespot.com/articles/these-video-games-for-dogs-might-have-cognitive-benefits-for-aging-pups/1100-6509524/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/original/1690/16904437/4068560-joipaw.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/these-video-games-for-dogs-might-have-cognitive-benefits-for-aging-pups/1100-6509524/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/these-video-games-for-dogs-might-have-cognitive-benefits-for-aging-pups/1100-6509524/",
+      "publishedDateTime": "2022-11-29T00:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-tcs-joins-hands-with-aws-to-launch-quantum-computing-lab.md",
+      "title": "TCS joins hands with AWS to launch quantum computing lab",
+      "excerpt": "“TCS Quantum Computing Lab on AWS enables customers to evaluate with agility ... filings and made a progress in technologies like advancing optimization, artificial intelligence, digital security and cryptography, company said in a press statement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/life/technology-tcs-joins-hands-with-aws-to-launch-quantum-computing-lab-2895508/",
+      "originalUrl": "https://www.financialexpress.com/life/technology-tcs-joins-hands-with-aws-to-launch-quantum-computing-lab-2895508/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/06/TCS-Tata-Consultancy-Services-01.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/life/technology-tcs-joins-hands-with-aws-to-launch-quantum-computing-lab-2895508/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-tcs-joins-hands-with-aws-to-launch-quantum-computing-lab-2895508/lite/",
+      "publishedDateTime": "2022-11-28T23:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-baidu-plans-to-expand-driverless-ride-hailing-service-area.md",
+      "title": "Baidu Plans to Expand Driverless Ride-Hailing Service Area",
+      "excerpt": "Chinese internet-services and artificial-intelligence company Baidu Inc. is planning to build what it says will be the biggest driverless car-hailing area in the world as it looks to keep growing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
+      "originalUrl": "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T23:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023.md",
       "title": "Baidu Announces Plan to Build the World's Largest Fully Driverless Ride-Hailing Service Area in 2023",
       "excerpt": "Baidu plans to establish the world's largest fully driverless ride-hailing service area in 2023Baidu continues to show growth momentum as the",
@@ -780,379 +1107,6 @@
         "IBM AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-teslas-full-self-driving-beta-is-now-open-to-everyone-who-paid-for-it.md",
-      "title": "Tesla’s Full Self-Driving Beta Is Now Open to Everyone Who Paid for It",
-      "excerpt": "Tesla CEO Elon Musk reveals that Full Self-Driving Beta is available to Tesla owners who request it, ending an earlier period of smaller scale testing on public roads. The company's so-called Full ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoweek.com/news/green-cars/a42083804/tesla-full-self-driving-beta-wide-release/",
-      "originalUrl": "https://www.autoweek.com/news/green-cars/a42083804/tesla-full-self-driving-beta-wide-release/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tesla-4-1669643127.jpg?crop=1.00xw:0.896xh;0,0.104xh&resize=1200:*",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoweek",
-        "domain": "autoweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-the-best-cyber-monday-robot-vacuum-deals.md",
-      "title": "The best Cyber Monday robot vacuum deals",
-      "excerpt": "Amazon, Walmart, Best Buy and other retailers are all holding massive Cyber Monday sales now, with deep discounts on the best robot vacuums of 2022. Some vacuum models are at the lowest price we've ever seen them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/the-best-cyber-monday-robot-vacuum-deals/",
-      "originalUrl": "https://www.cbsnews.com/essentials/the-best-cyber-monday-robot-vacuum-deals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/28/69bea5c1-d14f-4e08-8bef-0db588f6d9de/thumbnail/1200x630/7fb06b107e0207457de1f6bee0715ade/cm-robo-vac-hero.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/the-best-cyber-monday-robot-vacuum-deals/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-cyber-monday-robot-vacuum-deals/",
-      "publishedDateTime": "2022-11-28T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-how-ai-adoption-has-yet-to-reveal-its-real-potential.md",
-      "title": "How AI adoption has yet to reveal its real potential",
-      "excerpt": "New book, Power and Prediction, says the power of AI is evident now, but widespread AI adoption has yet to come.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1321461813-e1669649385546.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/amp/",
-      "publishedDateTime": "2022-11-28T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-could-amazon-be-replacing-recruiters-with-artificial-intelligence-software.md",
-      "title": "Could Amazon Be Replacing Recruiters With Artificial Intelligence Software?",
-      "excerpt": "According to a confidential internal document viewed by Recode, Amazon has been working on an Automated Applicant Evaluation system that will determine which job applicants possess the most potential for success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2022/11/28/could-amazon-be-replacing-recruiters-with-artificial-intelligence-software/",
-      "originalUrl": "https://www.forbes.com/sites/jackkelly/2022/11/28/could-amazon-be-replacing-recruiters-with-artificial-intelligence-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6384fda39f75f08c7a459796/0x0.jpg?format=jpg&crop=4594,2583,x0,y123,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2022/11/28/could-amazon-be-replacing-recruiters-with-artificial-intelligence-software/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2022/11/28/could-amazon-be-replacing-recruiters-with-artificial-intelligence-software/amp/",
-      "publishedDateTime": "2022-11-28T09:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-deploy-an-mlops-solution-that-hosts-your-model-endpoints-in-aws-lambda.md",
-      "title": "Deploy an MLOps solution that hosts your model endpoints in AWS Lambda",
-      "excerpt": "In 2019, Amazon co-founded the climate pledge. The pledge’s goal is to achieve net zero carbon by 2040. This is 10 years earlier than the Paris agreement outlines. Companies who sign up are committed to regular reporting, carbon elimination, and credible offsets. At the time of this writing, 377 companies",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-an-mlops-solution-that-hosts-your-model-endpoints-in-aws-lambda/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-an-mlops-solution-that-hosts-your-model-endpoints-in-aws-lambda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/28/deploy-an-mlops-lambda.jpg",
-          "width": 2366,
-          "height": 1181,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T09:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang.md",
-      "title": "How generative AI could create assets for the metaverse | Jensen Huang",
-      "excerpt": "Jensen Huang, CEO of AI and graphics chip maker Nvidia, believes that generative AI will be transformational and it’s just getting started. One of its biggest applications could be with the metaverse, which has huge demands for content as developers need ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/",
-      "originalUrl": "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Jensen_GTC-keynote_Omniverse.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/amp/",
-      "publishedDateTime": "2022-11-28T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-scientists-facial-recognition-may-help-save-seals.md",
-      "title": "Scientists: Facial recognition may help save seals",
-      "excerpt": "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — saving seals. A research team at Colgate University has developed SealNet,",
-      "sourceUrl": null,
-      "webUrl": "https://tulsaworld.com/eedition/page-a2/page_a04edd3f-6309-531e-98d8-f5eb25805e0c.html",
-      "originalUrl": "https://tulsaworld.com/eedition/page-a2/page_a04edd3f-6309-531e-98d8-f5eb25805e0c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/eedition/a/04/a04edd3f-6309-531e-98d8-f5eb25805e0c/638d36e374c19.fullsize-img.jpg",
-          "width": 792,
-          "height": 1638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tulsa World",
-        "domain": "tulsaworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-has-amd-replaced-nvidia-as-a-top-semiconductor-company.md",
-      "title": "Has AMD Replaced Nvidia as a Top Semiconductor Company?",
-      "excerpt": "Whether the GPUs are used for gaming, data centers, artificial intelligence, self-driving cars, or crypto mining, Nvidia's products are as good as it gets. AMD produces GPUs but also makes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/has-amd-replaced-nvidia-as-a-top-semiconductor-company",
-      "originalUrl": "https://www.nasdaq.com/articles/has-amd-replaced-nvidia-as-a-top-semiconductor-company",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T07:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

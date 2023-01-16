@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-09-08-realtime-robotics-raises-144m-for-motion-planning-software.md",
+      "title": "Realtime Robotics raises $14.4M for motion planning software",
+      "excerpt": "Realtime Robotics' RapidPlan software creates and choreographs robot movements without the need for brand-specific robot programming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/realtime-robotics-funding-motion-planning-software/",
+      "originalUrl": "https://www.therobotreport.com/realtime-robotics-funding-motion-planning-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/06/realtime-robotics-kawasaki-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-ez-robot-provides-robotics-education-to-future-proof-youth.md",
       "title": "EZ-Robot Provides Robotics Education To Future-Proof Youth",
       "excerpt": "EZ-Robot emphasizes the importance of robotics education in a technologically advanced world and demonstrates the greatest engagement in the fiel",

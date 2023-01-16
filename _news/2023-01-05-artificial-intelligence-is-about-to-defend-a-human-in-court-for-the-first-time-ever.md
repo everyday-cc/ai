@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence is about to defend a human in court ‘for the first time ever’"
-excerpt: "ARTIFICIAL Intelligence is breaking a new frontier, with a company teasing that their robot will be playing an important part in a trial in court. The AI robot will be the first to advise a ..."
-publishedDateTime: 2023-01-04T18:20:00Z
-originalUrl: "https://www.thesun.ie/tech/news-tech/9999684/artificial-intelligence-defend-a-human-in-court-first-time/"
-webUrl: "https://www.thesun.ie/tech/news-tech/9999684/artificial-intelligence-defend-a-human-in-court-first-time/"
-ampWebUrl: "https://www.thesun.ie/tech/news-tech/9999684/artificial-intelligence-defend-a-human-in-court-first-time/amp/"
-cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/news-tech/9999684/artificial-intelligence-defend-a-human-in-court-first-time/amp/"
+excerpt: "If you click on a link in this story we may earn affiliate revenue. ARTIFICIAL Intelligence is breaking a new frontier, with a company teasing that their robot will be playing an important part in ..."
+publishedDateTime: 2023-01-04T18:09:00Z
+originalUrl: "https://www.thesun.co.uk/tech/20941564/artificial-intelligence-defend-a-human-in-court-first-time/"
+webUrl: "https://www.thesun.co.uk/tech/20941564/artificial-intelligence-defend-a-human-in-court-first-time/"
+ampWebUrl: "https://www.thesun.co.uk/tech/20941564/artificial-intelligence-defend-a-human-in-court-first-time/amp/"
+cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/20941564/artificial-intelligence-defend-a-human-in-court-first-time/amp/"
 type: article
 
 provider:
-  name: Irish Sun
-  domain: thesun.ie
+  name: The Sun
+  domain: thesun.co.uk
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2023/01/MF-AI-Court-OFFPLAT.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+  - url: "https://www.thesun.co.uk/wp-content/uploads/2023/01/MF-AI-Court-OFFPLAT.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
     width: 1920
     height: 1080
     isCached: true
 
-secured: "7VLkBPhCJWVrtauCbg8qq7f2xUeQtQHaCt7gi4w14kByzxrzcAsk5QYfeJbg9xOdyEWjqbX/aVfWGkwopvsS5Fq+YXKSMjgAdO0HNq/SQePwNu8QhOVOJc4RyWZSUVSDi045kuXZxT2xRXb+dRpouL/puPSvkSJrOQ4VKvtfZFFKTeHRaBE8jRtMFtLNhF5/tZs3ETtnuwMzMduIBRnSqTg3eKqjl7K2ve+FiPJKmk3kzPWtC3viBPQv7/ieCuQ2dbvmV0kwHNvxVUsb34ToHsSU8b+A9z0LgJI/GrPksVtDCRfbLzznmIZ+5wG6BdIOV2938NyjQDSRujXXw1B+Hx5eejoNz6WzvpSXXBKtiSM=;fi24g0NIhSQ4rCmz3wKkvQ=="
+secured: "fPzyTn+sI1IGgMoPqVEkRmOZu4W4QZcuZR2snT9EDg7sLnaUSzf++O7pEZOAgwOtwq8OxZ5WTL6eQGf/Gr6ct3nb7iAEFfkobXhkFfyf3qaxP2ZjAWvedZX+ptLEONWZ1fDUwYo/VCEPz5mvgpbCWQtcw0nQu9noap34q24fOW3RpZgKFDhVRHPxqf5fzw8jWLONi7sjJoMYSpeDmA2U6b1A265zd3w7PyRfRwu/ALOs7PKk9nHeAeyrV+7CJ9vowu5cEALOkJJ/LABnX/pBHB+vWj2us5LvMul9g6+5mq9z3UFdZxqAPmYbCDMbpzvCFYGCZt2EbB/r+cp0ExOL4E5kQBcKV8UcUv+BtmGa2f0=;cxiEuQOBuEB72cUKEXbi7Q=="
 ---
 

@@ -8,7 +8,7 @@ webUrl: "https://www.theguardian.com/technology/2023/jan/13/chatgpt-explainer-wh
 ampWebUrl: "https://amp.theguardian.com/technology/2023/jan/13/chatgpt-explainer-what-can-artificial-intelligence-chatbot-do-ai"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jan/13/chatgpt-explainer-what-can-artificial-intelligence-chatbot-do-ai"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://i.guim.co.uk/img/media/8fe841cd767bea2719c60a084174d64724d47c1f/0_263_5764_3457/master/5764.jpg?width=620&quality=85&auto=format&fit=max&s=218abc935ca512ae3c43fba89d78f3ed"

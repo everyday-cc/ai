@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-11-18-lyft-and-motional-to-offer-driverless-taxi-rides-in-los-angeles.md",
+      "title": "Lyft and Motional to offer driverless taxi rides in Los Angeles",
+      "excerpt": "Lyft and Motional have announced plans to launch a driverless ride-hailing service in Los Angeles using Ioniq 5 EV Level 4 robotaxis. Los Angeles will be the second city serviced by the two ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/lyft-and-motional-are-launching-a-driverless-ride-service-in-los-angeles-130004340.html",
+      "originalUrl": "https://www.aol.com/news/lyft-and-motional-are-launching-a-driverless-ride-service-in-los-angeles-130004340.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/WqGKETyQotWJMl6624QBSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjQ-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/64534d50-666e-11ed-b7f6-cedf47c3a338",
+          "width": 1200,
+          "height": 764,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-try-out-ai-at-mohais-artificial-intelligence-exhibit.md",
       "title": "Try out AI at MOHAI’s ‘Artificial Intelligence’ exhibit",
       "excerpt": "“Artificial Intelligence ... You can watch what a self-driving car “sees,” or how a robotic animal programmed with AI figures out how to deal with obstacles. As with most of MOHAI, the ...",
@@ -1305,40 +1348,6 @@
       "provider": {
         "name": "The Buffalo News",
         "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-heres-why-the-founder-of-lidar-pioneer-velodynes-agrees-with-elon-musk-that-the-technology-is-a-bad-bet.md",
-      "title": "Here's why the founder of lidar pioneer Velodyne's agrees with Elon Musk that the technology is a bad bet",
-      "excerpt": "David Hall is the definition of a lidar expert. Here's why he thinks the company he founded and the bigger industry are doomed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sanjose/news/2022/11/09/heres-why-velodynes-founder-says-lidar-is-bad-bet.html",
-      "originalUrl": "https://www.bizjournals.com/sanjose/news/2022/11/09/heres-why-velodynes-founder-says-lidar-is-bad-bet.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T07:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
         "images": null,
         "publishers": null,
         "authors": null

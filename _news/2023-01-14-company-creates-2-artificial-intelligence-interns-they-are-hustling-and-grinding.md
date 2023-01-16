@@ -8,8 +8,8 @@ webUrl: "https://abcnews.go.com/Technology/company-creates-2-artificial-intellig
 ampWebUrl: "https://abcnews.go.com/amp/Technology/company-creates-2-artificial-intelligence-interns-hustling-grinding/story?id=96391717"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/company-creates-2-artificial-intelligence-interns-hustling-grinding/story?id=96391717"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://s.abcnews.com/images/Technology/chatgpt-artificial-intelligence-ap-mz-31-230112_1673544806362_hpMain_16x9_992.jpg"

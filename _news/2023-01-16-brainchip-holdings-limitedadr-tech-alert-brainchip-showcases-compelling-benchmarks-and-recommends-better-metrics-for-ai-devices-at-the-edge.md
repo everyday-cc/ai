@@ -20,19 +20,14 @@ topics:
 
 related:
   - title: "Tech Alert: BrainChip Showcases Compelling Benchmarks and Recommends Better Metrics for AI Devices at the Edge"
-    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / January 15, 2023 / A new white paper by BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power, fully digital,"
-    publishedDateTime: 2023-01-15T22:58:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273376115/tech-alert-brainchip-showcases-compelling-benchmarks-and-recommends-better-metrics-for-ai-devices-at-the-edge"
+    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / January 15, 2023 / A new white paper by BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital,"
+    publishedDateTime: 2023-01-15T21:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/ac30424422/tech-alert-brainchip-showcases-compelling-benchmarks-and-recommends-better-metrics-for-ai-devices"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 34
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1673592453164.jpg"
-        width: 630
-        height: 420
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 14
 
 secured: "GgEuws8h5c37xKmotpLlb16On71bELjFWOYWeYaUtPRuz/3IfbW0mMJWHE3FPeG8y1yrlzqVOrgSMkU2uJfnFaSfd2BK7x2k72fysDea3wl5AKKUc11TTq/1ECtD5tUCuofTHiwbR3lGdFfSf5byQ5fubS+3IWFVDme7A5cKvrvO81m87Xn3sxS5quJ3o9Ff7ivg4k2fCsIXJ9ulygwpNYFToLmmyA0BlP6LVqwodYXf55lOh2XS28yWk0gvaehPleRzvVM5bDD19f8GHcuhDD4vGLZ3i6sBOgl28rxR9QeFr5//30SQTM78p5LuLi6l48FKicCJhSm1rgZAXDdlJxjnF2qllY5n0kJI/IDSRPk=;/aCZ9Wcw2+cX+Tevi07NCg=="
 ---

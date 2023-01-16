@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-26-artificial-intelligence-in-diagnostics-market-report-2022-research-with-future-trends-aidoc-medical-ge-healthcare-idx-technologies-inc.md",
+      "title": "Artificial Intelligence in Diagnostics market Report 2022 – Research with Future Trends Aidoc Medical, GE Healthcare, IDx Technologies Inc",
+      "excerpt": "Artificial intelligence techniques ranging from machine learning to deep learning are prevalent in healthcare for disease diagnosis, drug discovery, and patient risk identification. Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-diagnostics-market-report-2022-research-with-future-trends-aidoc-medical-ge-healthcare-idx-technologies-inc",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-diagnostics-market-report-2022-research-with-future-trends-aidoc-medical-ge-healthcare-idx-technologies-inc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://xherald.com/wp-content/uploads/2022/11/AI-in-Diagnostics-2.jpg",
+          "width": 600,
+          "height": 359,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-26-artificial-intelligence-tailors-dna-for-drug-development.md",
       "title": "Artificial Intelligence Tailors DNA For Drug Development",
       "excerpt": "Using AI, scientists have succeeded in designing our own DNA that contains the exact instructions to control the quantity of a specific protein.",
@@ -1323,49 +1366,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-elon-musks-new-brain-interface-technology.md",
-      "title": "Elon Musk's New Brain Interface Technology",
-      "excerpt": "Elon Musk has been in the news for having purchased Twitter. However, he also owns another company. I am not referring to Tesla or SpaceX. It is potentially more revolutionary than either of these. This other company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-11/neuralink.jpg?itok=oTasHUsX",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology?amp",
-      "publishedDateTime": "2022-11-14T19:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-16-ncai-announces-artificial-intelligence-challenge-for-students.md",
+      "title": "NCAI announces artificial intelligence challenge for students",
+      "excerpt": "The technical areas for submission of concept notes included Artificial Intelligence Applications, Autonomous Systems, Assistive Robotics, Intelligent Systems, Convolution Neural Networks, Cyber Security and AI, Data Fusion, Data Mining and Information ...",
+      "sourceUrl": null,
+      "webUrl": "https://dailytimes.com.pk/1051739/ncai-announces-artificial-intelligence-challenge-for-students/",
+      "originalUrl": "https://dailytimes.com.pk/1051739/ncai-announces-artificial-intelligence-challenge-for-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dailytimes.com.pk/1051739/ncai-announces-artificial-intelligence-challenge-for-students/amp/",
+      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1051739/ncai-announces-artificial-intelligence-challenge-for-students/amp/",
+      "publishedDateTime": "2023-01-15T14:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Times",
+        "domain": "dailytimes.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-15-how-machine-learning-can-help-alleviate-the-us-labor-shortage.md",
       "title": "How machine learning can help alleviate the U.S. labor shortage",
       "excerpt": "Advances in machine learning can identify causalities and correlations to help recruiters and job seekers find successful matches.",
@@ -224,7 +269,7 @@
       "originalUrl": "https://www.crn.com/news/data-center/hpe-buys-ai-startup-pachyderm-to-build-new-ai-ml-platform",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -726,20 +771,20 @@
     },
     {
       "path": "_news/2023-01-11-artificial-intelligence-deep-learning-model-for-mapping-wetlands-yields-94-accuracy.md",
-      "title": "Artificial Intelligence Deep Learning Model for Mapping Wetlands Yields 94% Accuracy",
-      "excerpt": "Chesapeake Conservancy’s Data Science Team Publishes Article in “Science of the Total Environment” Annapolis, MD – Chesapeake Conservancy’s data science team developed an artificial intelligence deep learning model for mapping wetlands ...",
+      "title": "Artificial intelligence deep learning model for mapping wetlands yields 94% accuracy",
+      "excerpt": "Chesapeake Conservancy's data science team developed an artificial intelligence deep ... The team trained a machine learning (convolutional neural network) model for high-resolution (1m) wetland ...",
       "sourceUrl": null,
-      "webUrl": "https://www.directionsmag.com/pressrelease/12026",
-      "originalUrl": "https://www.directionsmag.com/pressrelease/12026",
+      "webUrl": "https://phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.html",
+      "originalUrl": "https://phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://dmpublisher.s3.us-west-2.amazonaws.com/2023/January/10/7/ccd1cc1a-ce14-4801-8238-379214b79d70-sized",
-          "width": 800,
-          "height": 1065,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc.jpg",
+          "width": 1384,
+          "height": 886,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -747,13 +792,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T08:57:00-08:00",
+      "ampWebUrl": "https://phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.amp",
+      "publishedDateTime": "2023-01-10T14:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Directions Magazine",
-        "domain": "directionsmag.com",
+        "name": "Phys.org",
+        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -893,6 +938,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-deep-learning-expert-says-gpt-startups-may-be-in-for-a-very-rude-awakening.md",
+      "title": "Deep Learning Expert Says GPT Startups May Be in for a Very Rude Awakening",
+      "excerpt": "\"The current climate in AI has so many parallels to 2021 web3 it's making me uncomfortable,\" François Chollet, an influential deep learning researcher at Google and the creator of the deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/deep-learning-expert-gpt-startups-rude-awakening",
+      "originalUrl": "https://futurism.com/deep-learning-expert-gpt-startups-rude-awakening",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2023/01/deep-learning-expert-gpt-startups-rude-awakening.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T23:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1352,92 +1440,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-deep-learning-computing-stick-market-reliable-business-data-analysis-and-forecast-by-2028.md",
-      "title": "Deep Learning Computing Stick Market Reliable Business Data Analysis and Forecast by 2028",
-      "excerpt": "Further, the SWOT analysis & other techniques are utilized to investigate this data & provide an informed perspective on the state of the business to assist design the best growth strategy for any vendors or to current penetration into the present & and likely direction of the global Deep Learning Computing Stick market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-computing-stick-market-reliable-business-data-analysis-and-forecast-by-2028-2023-01-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-computing-stick-market-reliable-business-data-analysis-and-forecast-by-2028-2023-01-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-08T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-deep-learning-algorithm-can-hear-alcohol-in-voice.md",
-      "title": "Deep Learning Algorithm Can Hear Alcohol in Voice",
-      "excerpt": "New AI technology can instantly determine whether a person is above the legal alcohol limit by analyzing a 12-second clip of their voice.",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/ai-alcohol-voice-22191/",
-      "originalUrl": "https://neurosciencenews.com/ai-alcohol-voice-22191/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2023/01/ai-alcohol-voice-neurosinces-public.jpg",
-          "width": 770,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T14:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

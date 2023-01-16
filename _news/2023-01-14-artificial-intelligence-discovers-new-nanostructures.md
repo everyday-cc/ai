@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2023-01-ai-nanostructures.html"
 ampWebUrl: "https://phys.org/news/2023-01-ai-nanostructures.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-ai-nanostructures.amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-discovers-new-nanos.jpg"

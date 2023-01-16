@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Artificial Intelligence Market Opportunities, Demand and Forecasts 2023-2029 with Top Countries Data"
+    excerpt: "Researh Reports published a new research report on the global “Healthcare Artificial Intelligence Market\". The"
+    publishedDateTime: 2023-01-13T03:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-opportunities-demand-and-forecasts-2023-2029-with-top-countries-data-2023-01-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Forecast 2028 for the Speech Recognition Software Market in terms of size, returns, gross margin, and market share"
     excerpt: "Short Summery About Speech Recognition Software Market: Speech Recognition Software is software that uses electronic technology to recognize speech from people. The Speech Recognition Software ..."
     publishedDateTime: 2023-01-11T17:45:00Z
