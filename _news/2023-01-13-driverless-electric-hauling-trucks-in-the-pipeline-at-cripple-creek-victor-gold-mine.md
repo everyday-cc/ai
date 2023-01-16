@@ -9,7 +9,7 @@ ampWebUrl: "https://gazette.com/business/driverless-electric-hauling-trucks-in-t
 cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/business/driverless-electric-hauling-trucks-in-the-pipeline-at-cripple-creek-victor-gold-mine/article_c50e8fb4-929d-11ed-8f52-233148ba0f1f.amp.html"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1024
     height: 682
     isCached: true
-
-related:
-  - title: "Driverless revolution isn't coming... ever (2)"
-    excerpt: "It is really no surprise that the developers of self-driving cars have at last cottoned on to the difficulties in reaching their objective of total autonomy in all circumstances. It would have ..."
-    publishedDateTime: 2023-01-11T18:37:00Z
-    webUrl: "https://www.newscientist.com/letter/mg25734211-200-driverless-revolution-isnt-coming-ever-2/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 19
 
 secured: "gX0UqBNR48su2QSLFp/tqjrH7+dJrg3W+GWH7JUvkuJdwXR6PkNuKkp4TYp3j9pB4E7hch7zJRK+7aKjJZ8PS1jl0KDtuXMtq+IRMW8JVFxk9ifh4dX52v2VdQkqAlFrFa/mamBbIva3IO3MdI4aS6ivmL1FD6Szn3x7wC3v1S9gvQb5RmHiWbn0ub8KjNJTiNKV+WqdkGVbIY9/Pk8ksw7zVx4QLrE0qljL4bA4GoQ8nvAIKWm/pHwYoxIEmOwMrHcOUC7e/1yNFspFTOGZj3AufI1yYeNSdOCs/GacMgYp07Hk94ZO6yvl25laU5QwXcYG9dIACEauivu3pf1fzvvUP9ocXfpM55ZkJ6E5MdU=;4YjGdAq0Yw9wFxca2Gz9fw=="
 ---

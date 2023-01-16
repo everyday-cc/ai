@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-chatgpt-ces-and
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-chatgpt-ces-and-cybersecurity-advice-from-aws/amp/"
 type: article
 quality: 88
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt63e4e0b5db385ac7/63b75d1d6cfe5510d96dfcee/Cover_4.jpeg"
         width: 512
         height: 512
-        isCached: true
-  - title: "5 Ways Cybersecurity for Cloud Workloads Will Evolve in 2023"
-    excerpt: "Organizations are looking for new methods to safeguard the virtual machines, containers, and workload services they use in the cloud."
-    publishedDateTime: 2023-01-11T19:00:00Z
-    webUrl: "https://www.darkreading.com/zscaler/5-ways-cybersecurity-for-cloud-workloads-will-evolve-in-2023"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 24
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9e84295043d2916a/60b7c78128d7e4612dbfea29/cloudcomputing_Tierney-AdobeStock.jpg"
-        width: 489
-        height: 332
         isCached: true
 
 secured: "T8uccrC3sguolakYThiMMWeWfHo1l028DlDheFHLMcoKDNrMnNaN+f9Tinpwk7LzBYWg6tiwHgXqLBqbi9Aw1H90PMQfjwaZJFimmsFWzp3R1mc92diu6ZqW+2P7TCgpZktw7RvO3AIf0x9PQAEKmMVI3q5JaBQvg4S6MQa5hI/ALKDwKfHCDDezGwGAons9YHlcZebgM7ZiGFwYfrDyziVcCbTGg0uM6rdqsQFvnJbWUJhiV1gspz4d9xQQ99NXaWT8ESE0dsiUQj/pNed9DcpPytEP+JC8yOMKhVf2gwPItTOTr+ndPbnN2ZKp2MSL3X5arJqS9fbHX/8a8Bkz/f3PutLDYaB8Hg6wZNQ+vNm85Ks8sZAb2vg6N+a4PCVX2xZXTwPCXEhGWJSGZN08Klft39Ae78AlYoXXCCXtTDUb3f4edU65pxHFEe+GLagTpqc41Ol0ph+pIhi0DsTxCcO7QfrUQRWTlQ8c01FxFlPh7OjI0k7VjC+x7BpHQY1iWAaTwdytzLhSzSfSgFkeOg==;a34Nxq82uhyKr8+7WkpTcg=="

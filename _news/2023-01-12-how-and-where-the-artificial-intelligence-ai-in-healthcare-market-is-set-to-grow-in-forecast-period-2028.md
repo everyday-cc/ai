@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/how-and-where-the-artifi
 webUrl: "https://www.marketwatch.com/press-release/how-and-where-the-artificial-intelligence-ai-in-healthcare-market-is-set-to-grow-in-forecast-period-2028-2023-01-12"
 type: article
 quality: 81
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Forecast 2028 for the Speech Recognition Software Market in terms of size, returns, gross margin, and market share"
-    excerpt: "Short Summery About Speech Recognition Software Market: Speech Recognition Software is software that uses electronic technology to recognize speech from people. The Speech Recognition Software ..."
-    publishedDateTime: 2023-01-11T17:45:00Z
-    webUrl: "https://www.digitaljournal.com/pr/forecast-2028-for-the-speech-recognition-software-market-in-terms-of-size-returns-gross-margin-and-market-share"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 17
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/AI-chatbot-China-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "Z2YH20eYNGuKvcYUOKXNfXoUHVeXuwqt/qnBthrZl7nDCn6MYF4UZ9d/ihOQKjvW2la8VJgboWUFX3qJS7EdLvDkctggDGPLBiGpjwMqsZYdCQ1yw+1Dkwluqr1eD28QVgWJrhSX7Zl1iLowBV/pVTNzP+aecGMKgHBJig6DTYPiia0h64TrWVQyFH+kTzp+bM3W+3LFGTtFMCxdx/vGb+Q2FWSBhZFR2ZT8SChDNjPX0kf8z8MdidyDzUqdqtUNX4OK8TnZS9dkQu8o6C9m85iyXpvHgqIq6qZ7eBPsni/oE9+NUv3nno+0cYdLOSQcYa2r3BGHivi5K13hd7hEdxtiPCCwXchFTTbFUT4Nhr0=;rbD/lh7B9oRISy7gLulpiQ=="

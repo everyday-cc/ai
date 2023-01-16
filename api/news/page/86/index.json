@@ -2,6 +2,188 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2022-10-25-your-health-brain-like-ai-no-internet-needed.md",
+      "title": "YOUR HEALTH: Brain-like AI, no internet needed",
+      "excerpt": "The scientists say with no need for internet connection, the AI would also work in space, where no AI technology has gone before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/",
+      "originalUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wafb-prod.cdn.arcpublishing.com/resizer/mJT1ZA4do6crwyKcA266GlU_m7g=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/56TBXSJTO5AKLMJVGDMLBKZETU.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wafb-com.cdn.ampproject.org/c/s/www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/?outputType=amp",
+      "publishedDateTime": "2022-10-25T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WAFB",
+        "domain": "wafb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.md",
+      "title": "SAS Data Ethics Director Reggie Townsend on Building Ethical AI and Why It Matters",
+      "excerpt": "What is ethical artificial intelligence (AI), why is it vital to the future of technology, and how can CIO’s and business leaders help foster it? We spoke to Reggie Townsend, Data Ethics Practice Director at analytics software company SAS,",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.html",
+      "originalUrl": "https://www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2022/10/reggie-townsend-100933805-medium.jpg?auto=webp&quality=85,70",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.amp.html",
+      "publishedDateTime": "2022-10-24T23:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-why-writers-need-to-make-use-of-ai-content-generator.md",
+      "title": "Why writers need to make use of AI content generator",
+      "excerpt": "The need to make the writer’s content more interesting and attractive with available multimedia content has made technology the right tool for content to stay fresh and relevant. There is a huge responsibility for content writers that their content should be unique,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/",
+      "originalUrl": "https://techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/10/pexels-startup-stock-photos-7112.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/amp/",
+      "publishedDateTime": "2022-10-24T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-the-value-of-artificial-intelligence-isnt-just-insights.md",
+      "title": "The Value Of Artificial Intelligence Isn’t Just Insights",
+      "excerpt": "The impact of AI will take time until it is felt, argue Aja Agrawal, Joshua Gans, and Avi Goldfarb, co-authors of Power and Prediction: The Disruptive Economics of Artificial Intelligence. Right now,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63575c205665bd66e7a133f3/0x0.jpg?format=jpg&width=1200",
+          "width": 933,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/amp/",
+      "publishedDateTime": "2022-10-24T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-ai-assisted-cloud-service-to-aid-medical-diagnosis-in-japan.md",
       "title": "AI-assisted cloud service to aid medical diagnosis in Japan",
       "excerpt": "TOKYO -- A Japanese consortium including Hitachi and Microsoft Japan will use artificial intelligence to help doctors make diagnoses, tapping the cloud for data-sharing to eliminate the need for ...",
@@ -931,188 +1113,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-tsmc-suspends-advanced-gpu-production-for-chinese-startup.md",
-      "title": "TSMC Suspends Advanced GPU Production for Chinese Startup",
-      "excerpt": "Advanced chip manufacturer TSMC decided to suspend production of GPUs for China's Biren Technology while it decides whether they are performant enough to fall under US sanctions. As far as Biren ...",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/components/143410/tsmc-suspends-advanced-gpu-production-for-chinese-startup",
-      "originalUrl": "https://uk.pcmag.com/components/143410/tsmc-suspends-advanced-gpu-production-for-chinese-startup",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/t/tsmc-suspe/tsmc-suspends-advanced-gpu-production-for-chinese-startup_p52g.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-edge-ai-hardware-market-worth-2716-million-units-by-2027-exclusive-report-by-marketsandmarkets.md",
-      "title": "Edge AI Hardware Market Worth $2,716 Million Units by 2027 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "Edge AI hardware market is projected to grow from 1,056 million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast period according to a new report by MarketsandMarkets™.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-edge-ai-hardware-market-worth-2716-million-units-/2022/10/24/9698227.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-edge-ai-hardware-market-worth-2716-million-units-/2022/10/24/9698227.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-video-gaming-may-be-associated-with-better-cognitive-performance-in-children.md",
-      "title": "Video gaming may be associated with better cognitive performance in children",
-      "excerpt": "A study of nearly 2,000 children found that those who reported playing video games for three hours per day or more performed better on cognitive skills tests involving impulse control and working ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/child-gaming.jpg",
-          "width": 2880,
-          "height": 1917,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-video-gaming-cognitive-children.amp",
-      "publishedDateTime": "2022-10-24T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers.md",
-      "title": "How The Availability Of AI Is Changing The Security Landscape For Both Users And Developers",
-      "excerpt": "In certain instances, analytics like movement tracking and basic object recognition helped organizations that could afford to implement them, but they were still hampered by limiting factors such as camera quality and processing power. Today, that’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6352a22b37aebac3a2e382e7/0x0.jpg?format=jpg&crop=2015,1134,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/amp/",
-      "publishedDateTime": "2022-10-24T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

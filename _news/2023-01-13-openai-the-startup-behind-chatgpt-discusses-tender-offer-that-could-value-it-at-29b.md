@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Genius Strategy That Made OpenAI The Hottest Startup in Tech"
-    excerpt: "The hottest startup in Silicon Valley right now is OpenAI, the Microsoft-backed developer of ChatGPT, a much-hyped chatbot that can write a poem, college essay, or even a line of software code."
-    publishedDateTime: 2023-01-16T04:33:00Z
-    webUrl: "https://www.sciencealert.com/the-genius-strategy-that-made-openai-the-hottest-startup-in-tech"
-    ampWebUrl: "https://www.sciencealert.com/the-genius-strategy-that-made-openai-the-hottest-startup-in-tech/amp"
-    cdnAmpWebUrl: "https://www-sciencealert-com.cdn.ampproject.org/c/s/www.sciencealert.com/the-genius-strategy-that-made-openai-the-hottest-startup-in-tech/amp"
+  - title: "I asked ChatGPT how to start a business and it gave me 8 steps that weren't that helpful"
+    excerpt: "While it's very smart, ChatGPT is only a chatbot; I knew it couldn't physically start a business for me. But I wondered if it would at least walk me through the initial steps. So I asked this AI program a series of questions about starting a business."
+    publishedDateTime: 2023-01-16T10:03:00Z
+    webUrl: "https://www.businessinsider.com/chagpt-cant-start-a-business-for-you-startup-steps-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/chagpt-cant-start-a-business-for-you-startup-steps-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chagpt-cant-start-a-business-for-you-startup-steps-2023-1?amp"
     type: article
     provider:
-      name: ScienceAlert
-      domain: sciencealert.com
-    quality: 57
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
     images:
-      - url: "https://www.sciencealert.com/images/2023/01/DogWearingBeret.jpg"
-        width: 1024
-        height: 415
+      - url: "https://i.insider.com/63c17f1502cb82001937a144?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "jYHBD9lsUSASWxgGKosNkH9sXtXkraQCwEOluDJnRqS1JIa1lGv78mos2zLFIDMcNR8EhsAgg+oPpPo4X7CctVILM2AMcyc6ZeLmzCCphXas//eCSd/nMJ16Zo+oNaL4v2s99i9tCRC1kIs6CUcwEAPrTNoIjlXEJNVjpimongCS8Gzu+bnogsORjVBxl+PfiWCWQvAgWxGbOc/fF/vNVcSGz3pjD+4/6krFxUjiA0noxgkPUTIOm9J9nGr/IiuZgtwbJ+rB95n2zbb/qUMIvtxH0jBDlcdrTcc5Z7pMJYu9ChU0NLwOymLcmsHrwJkieve+TLf/G8Lqy8ht+fC2bz2mTxwLbMqIaVslbXMlM+s=;c77UP7eVCvgtXr1r0t9zQA=="

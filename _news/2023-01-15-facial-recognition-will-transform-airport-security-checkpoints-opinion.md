@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Commentary: Facial recognition will transform airport security checkpoints"
+    excerpt: "Imagine using technology that never forgets a face, while improving airport security and shortening lines. Such technology exists and may be coming to an airport near you. Every flyer over"
+    publishedDateTime: 2023-01-16T08:00:00Z
+    webUrl: "https://www.gwinnettdailypost.com/news/world_nation/commentary-facial-recognition-will-transform-airport-security-checkpoints/article_5c1994a2-bba8-5a59-b7a8-ee6755178f9e.html"
+    type: article
+    provider:
+      name: Gwinnett Daily Post
+      domain: gwinnettdailypost.com
+    quality: 69
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/1/54/15493ca8-82c0-555f-a023-6cf4e4602616/63c520b5236c7.image.jpg?crop=1698%2C891%2C0%2C164&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Ad5MNWyL0KKsQqjB4xNWs5I8HWWRAX6MNRCgOJMNoTZp3QVzaUCiX3CZoyAlI5a8YLNqYw+PxNYhV3PrcTgd9lPLSM2myek8092P0hkss8TLEtxMEjYEYMPuyc2uwP9NsT+CxHV87RArFRv/spVPdr1fN4uRzKG9gZ9Xw4pSgncTClbHQnW+FD7u9j0lUSTdt/x2hjYFfst3WpwOmvSLhWzvCqYYVszim7K4957syykHUqX2awhsBj3UfcqYOq7Jp3n4w2UTNe8JJES8goSrl16kkzicH/26GT+CS/HhQ/h/aDChhLeoC7We2dXK7ERug53jwzvxA1LSzWA00F+46jnQBMm1EVw5Ntd83bvM2tkv4j8on3QOaR6n/+49ux4cuzNzuixN++0+wEUKddTy5lqdAJNG/7sGJIuMHZGejBVHZS/8/F1lL3nqBqiPUD9Ma3X1xdLkIkbLQ772bkS7aWEHThhTEeCKP+50BP4vWL7cBwbEk7YcfhVLE09y1a8Qe0CSn9ZFuFBDb7l2LOJnpQ==;ftm3/nW+ZIOUQJNoT35lnA=="
 ---

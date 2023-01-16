@@ -8,8 +8,8 @@ webUrl: "https://www.nextplatform.com/2023/01/13/supercharging-cassandra-nosql-f
 ampWebUrl: "https://www.nextplatform.com/2023/01/13/supercharging-cassandra-nosql-for-machine-learning/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/01/13/supercharging-cassandra-nosql-for-machine-learning/amp/"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Google AI
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "http://www.nextplatform.com/wp-content/uploads/2023/01/apache-cassandra-logo.jpg"

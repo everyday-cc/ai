@@ -2,6 +2,207 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2022-11-11-groq-reimagining-high-performance-computing.md",
+      "title": "Groq – Reimagining High Performance Computing",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead sits down with the CEO and founder of Groq, Jonathan Ross, and discusses the next generation of computational AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/11/10/groq--reimagining-high-performance-computing/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/11/10/groq--reimagining-high-performance-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/636d1f9240cdc45744555971/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/11/10/groq--reimagining-high-performance-computing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/11/10/groq--reimagining-high-performance-computing/amp/",
+      "publishedDateTime": "2022-11-10T15:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-cognitive-function-at-older-ages-linked-to-childhood-lead-exposure.md",
+      "title": "Cognitive Function at Older Ages Linked to Childhood Lead Exposure",
+      "excerpt": "Older adults who lived as children in cities with lead pipes and acidic or alkaline water that would leach it had lower cognitive functioning at age 72 than others (β -0.408, P<0.01), reported ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/neurology/dementia/101689",
+      "originalUrl": "https://www.medpagetoday.com/neurology/dementia/101689",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/101xxx/101689.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T15:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-openai-leads-235m-round-in-mem-an-ai-powered-note-taking-app.md",
+      "title": "OpenAI leads $23.5M round in Mem, an AI-powered note-taking app",
+      "excerpt": "Mem, an AI-powered note-taking app, has raised capital from OpenAI's startup fund -- one of the first companies to do so.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/",
+      "originalUrl": "https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1130532319.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/amp/",
+      "publishedDateTime": "2022-11-10T15:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-amazons-new-robot-can-handle-most-items-in-the-everything-store.md",
+      "title": "Amazon’s New Robot Can Handle Most Items in the Everything Store",
+      "excerpt": "Sparrow could shift the balance between humans and machines in the company’s warehouses, using machine learning algorithms and a custom gripper.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/",
+      "originalUrl": "https://www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/636d54218480c23aec34bdef/master/pass/Sparrow-Robot-Amazon-Business.jpg",
+          "width": 2400,
+          "height": 1698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/amp",
+      "publishedDateTime": "2022-11-10T13:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-how-prodege-saved-15-million-in-annual-human-review-costs-using-low-code-computer-vision-ai.md",
       "title": "How Prodege saved $1.5 million in annual human review costs using low-code computer vision AI",
       "excerpt": "This post was co-authored by Arun Gupta, the Director of Business Intelligence at Prodege, LLC. Prodege is a data-driven marketing and consumer insights platform comprised of consumer brands—Swagbucks, MyPoints, Tada, ySense, InboxDollars, InboxPounds, DailyRewards, PollFish, and Upromise—along with",
@@ -983,187 +1184,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says.md",
-      "title": "Use of government food benefits may slow cognitive aging in eligible seniors, study says",
-      "excerpt": "Nutrition benefits could be an effective way to slow age-related cognitive decline, according to a new study.The study, published Wednesday in the journal Neurology, found that eligible seniors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wlwt.com/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252",
-      "originalUrl": "https://www.wlwt.com/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-90d814141c79d2c1ae6043eeb2472008-h-2b8641cbdfa05e06661d58c5c0f151bd-1668041453.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wlwt.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252",
-      "cdnAmpWebUrl": "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252",
-      "publishedDateTime": "2022-11-09T23:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WLWT",
-        "domain": "wlwt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-artificial-intelligence-ai-in-healthcare-market-2022-size-share-industry-analysis-growth-and-forecast-2028.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market 2022 : Size, Share, Industry Analysis, Growth And Forecast 2028",
-      "excerpt": "Nov 10, 2022 (The Expresswire) -- \"Artificial Intelligence (AI) in Healthcare Market\" research provides significant and in-depth information on the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2022-size-share-industry-analysis-growth-and-forecast-2028-2022-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2022-size-share-industry-analysis-growth-and-forecast-2028-2022-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T23:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-column-music-powerful-tool-for-joy-improves-cognitive-processing-speed.md",
-      "title": "Column: Music powerful tool for joy, improves cognitive processing speed",
-      "excerpt": "In addition, music can help slow age-related cognitive decline by improving aging adults’ cognitive processing speed. Think about that for a moment. We are all part of the \"aging population,\" right?",
-      "sourceUrl": null,
-      "webUrl": "https://www.newarkadvocate.com/story/news/local/granville/2022/11/10/column-music-improves-cognitive-processing-speed/69626489007/",
-      "originalUrl": "https://www.newarkadvocate.com/story/news/local/granville/2022/11/10/column-music-improves-cognitive-processing-speed/69626489007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/dd81f7b80aef18fc9ff3cd911b276728a9998bb7/c=0-306-3264-2142/local/-/media/2017/04/17/Newark/B9327119808Z.1_20170417115132_000_GEEI1KT06.1-0.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T22:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NewarkAdvocate.com",
-        "domain": "newarkadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-atomic-heart-rewriting-the-soviet-history-book-for-the-robotic-revolution.md",
-      "title": "Atomic Heart: Rewriting the Soviet History Book For the Robotic Revolution",
-      "excerpt": "Thought control over machines is just years away ... he began to design a 2.0 version of the system that would link a human mind with a robot’s operating system via a Polymer implant.",
-      "sourceUrl": null,
-      "webUrl": "https://in.ign.com/atomic-heart/176354/preview/atomic-heart-rewriting-the-soviet-history-book-for-the-robotic-revolution",
-      "originalUrl": "https://in.ign.com/atomic-heart/176354/preview/atomic-heart-rewriting-the-soviet-history-book-for-the-robotic-revolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.ign.com/t/ign_in/preview/a/atomic-hea/atomic-heart-rewriting-the-soviet-history-book-for-the-robot_xbz2.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T22:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

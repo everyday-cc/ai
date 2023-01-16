@@ -99,6 +99,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Know About Artificial Intelligence of Things (AIoT) Market [Up-to-date Report] Size, Progressive Long-Term Growth Outlook 2023-2026"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-01-16T01:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/know-about-artificial-intelligence-of-things-aiot-market-up-to-date-report-size-progressive-long-term-growth-outlook-2023-2026-2023-01-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Automotive Artificial Intelligence Market Survey 2023 with the increasing need to extend Outlook 2029"
+    excerpt: "Global “Automotive Artificial Intelligence Market” report 2023 delivers a complete overview of crucial factors"
+    publishedDateTime: 2023-01-16T03:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-survey-2023-with-the-increasing-need-to-extend-outlook-2029-2023-01-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Systems Spending Market 2023 : Business Scenario, Corporate Profiles, Size and Dynamic Innovation by 2029"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence"
     publishedDateTime: 2023-01-13T03:36:00Z

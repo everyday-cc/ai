@@ -2,6 +2,196 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2022-10-20-texas-ag-sues-google-for-over-facial-and-voice-data-collection.md",
+      "title": "Texas AG sues Google for over facial and voice data collection",
+      "excerpt": "The complaint underscores the role of individual states in protecting users' information on the internet in the absence of a federal privacy law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
+      "originalUrl": "https://www.cnbc.com/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107051880-16510024222022-04-26t170649z_1339263067_rc24vt9ijs8a_rtrmadp_0_usa-court-immigration.jpeg?v=1666280902",
+          "width": 3500,
+          "height": 2334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
+      "publishedDateTime": "2022-10-20T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-waymo-one-brings-self-driving-ride-service-to-los-angeles.md",
+      "title": "Waymo One Brings Self-Driving Ride Service to Los Angeles",
+      "excerpt": "Waymo One is a commercial ride-hailing service like no other. Its driverless vehicles have been shuffling passengers around the Phoenix and San Francisco areas, and soon it'll expand to one of the largest metropolitan areas in the US.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/waymo-one-self-driving-ride-hailing-los-angeles/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/waymo-one-self-driving-ride-hailing-los-angeles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/3017a8e81aefb1d88583a0952d389f56c3f3beec/hub/2022/10/20/5dd1c780-0c5e-4b64-aa75-a7db9f282339/waymo-one-ogi.jpg?auto=webp",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-one-self-driving-ride-hailing-los-angeles/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-one-self-driving-ride-hailing-los-angeles/",
+      "publishedDateTime": "2022-10-20T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-silver-alert-issued-for-valley-man-with-cognitive-difficulties.md",
+      "title": "Silver Alert issued for Valley man with cognitive difficulties",
+      "excerpt": "PHOENIX – A Silver Alert was issued Thursday morning for a missing Valley man who has cognitive problems, authorities said. Emidio Espericueta Gurrola, 77, was last seen near 11th Street and ...",
+      "sourceUrl": null,
+      "webUrl": "https://ktar.com/story/5300333/silver-alert-issued-for-valley-man-with-cognitive-difficulties/",
+      "originalUrl": "https://ktar.com/story/5300333/silver-alert-issued-for-valley-man-with-cognitive-difficulties/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTAR News",
+        "domain": "ktar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-how-ai-can-improve-pharmaceutical-commercial-operations.md",
+      "title": "How AI Can Improve Pharmaceutical Commercial Operations",
+      "excerpt": "While AI can uncover precious insights, for companies that have not worked with AI previously, this can mean a complete reorganization of their data foundation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/20/how-ai-can-improve-pharmaceutical-commercial-operations/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/20/how-ai-can-improve-pharmaceutical-commercial-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63505c9e1699476fd8d663b0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/20/how-ai-can-improve-pharmaceutical-commercial-operations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/10/20/how-ai-can-improve-pharmaceutical-commercial-operations/amp/",
+      "publishedDateTime": "2022-10-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-waymo-says-it-plans-to-launch-its-self-driving-service-in-los-angeles.md",
       "title": "Waymo says it plans to launch its self-driving service in Los Angeles",
       "excerpt": "Waymo says it plans to launch its ride-hailing service Waymo One in Los Angeles The company would not specify a timeline for when it expects the service to become available to riders. The company ...",
@@ -1001,197 +1191,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-5g-will-advance-payments-and-mobile-commerce.md",
-      "title": "5G will advance payments and mobile commerce",
-      "excerpt": "G technology could bring about positive changes to the retail industry, as retailers seek to maintain their digital transformation efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/10-19-2022-5g-will-advance-payments-and-mobile-commerce",
-      "originalUrl": "https://www.businessinsider.com/10-19-2022-5g-will-advance-payments-and-mobile-commerce",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f45112889aff80028ab7b48?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/10-19-2022-5g-will-advance-payments-and-mobile-commerce?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-19-2022-5g-will-advance-payments-and-mobile-commerce?amp",
-      "publishedDateTime": "2022-10-19T15:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-study-finds-that-artificial-intelligence-can-determine-race-from-medical-images.md",
-      "title": "Study finds that artificial intelligence can determine race from medical images",
-      "excerpt": "Artificial intelligence (AI) is used in a wide variety of health care settings, from analyzing medical images to assisting with surgical procedures. While AI can sometimes outperform trained clinicians,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/study-finds-that-artif.jpg",
-          "width": 2880,
-          "height": 1338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp",
-      "publishedDateTime": "2022-10-19T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-nvidia-geforce-rtx-3090-vs-3080-vs-3070-vs-3060-which-gpu-should-you-buy.md",
-      "title": "Nvidia GeForce RTX 3090 vs 3080 vs 3070 vs 3060: Which GPU should you buy?",
-      "excerpt": "they all make use of Nvidia DLSS (sort of an AI upscaler for games). Nvidia FreeStyle, ShadowPlay, Highlights, G-Sync and GPU boost work on all of the 30-series cards. They’re all VR-ready ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/news/nvidia-geforce-rtx-comparison",
-      "originalUrl": "https://www.tomsguide.com/news/nvidia-geforce-rtx-comparison",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/AnqrCABaVYriMJBAtyYQrU-1200-80.jpg",
-          "width": 951,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record.md",
-      "title": "Tired of laundry folding? AI breaks the robot folding speed record",
-      "excerpt": "While it's possible that someone out there enjoys folding clothes, it's probably not a beloved pastime. Accordingly, researchers at UC Berkeley's AUTOLAB have developed a new robotic method of folding garments at record speed (for a robot) called SpeedFolding.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/10/tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/10/tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/speedfold_hero_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

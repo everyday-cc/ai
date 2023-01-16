@@ -2,6 +2,179 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-11-26-the-robots-are-here-take-care-when-using-ai-in-the-workplace.md",
+      "title": "The robots are here: take care when using AI in the workplace",
+      "excerpt": "When used effectively, artificial intelligence, or “AI,” can eliminate much bias in decision-making. However, when misused, AI may actually promote the same bias it should thwart. Generally, employers use AI in the workplace through supervised machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://neworleanscitybusiness.com/blog/2022/11/25/the-robots-are-here-take-care-when-using-ai-in-the-workplace/",
+      "originalUrl": "https://neworleanscitybusiness.com/blog/2022/11/25/the-robots-are-here-take-care-when-using-ai-in-the-workplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://neworleanscitybusiness.com/files/2020/09/logo_social5.jpg",
+          "width": 350,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-25T10:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Orleans City Business",
+        "domain": "neworleanscitybusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-26-artificial-intelligence-tailors-dna-for-drug-development.md",
+      "title": "Artificial Intelligence Tailors DNA For Drug Development",
+      "excerpt": "Using AI, scientists have succeeded in designing our own DNA that contains the exact instructions to control the quantity of a specific protein.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-tailors-dna-for-drug-development-209408-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-tailors-dna-for-drug-development-209408-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/health-images/artificial-intelligence-based-model.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-tailors-dna-for-drug-development-209408-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-tailors-dna-for-drug-development-209408-1.htm",
+      "publishedDateTime": "2022-11-25T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-26-the-best-black-friday-robot-vacuum-and-smart-home-deals.md",
+      "title": "The best Black Friday robot vacuum and smart home deals",
+      "excerpt": "Going from zero to a fully outfitted smart home is a huge undertaking — and it can get expensive fast. While we don't recommend grabbing every possible smart home device in one go, Black Friday makes smartening up areas of your home a lot easier on your wallet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html",
+      "originalUrl": "https://www.engadget.com/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/b8640800-6abd-11ed-bfee-1c74ea8ab846",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html",
+      "publishedDateTime": "2022-11-25T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-26-new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology.md",
+      "title": "New study on deep learning technology for improving MRI image quality published in European Radiology",
+      "excerpt": "A recent study published in European Radiology demonstrated that SwiftMR, an AI-powered MRI reconstruction solution from AIRS Medical, successfully denoises 3D MR images and improves its image quality by using routine clinical scans only.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-new-study-deep-learning-technology-improving-mri-image-/2022/11/25/9719669.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-new-study-deep-learning-technology-improving-mri-image-/2022/11/25/9719669.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-25T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-25-optimize-hyperparameters-with-amazon-sagemaker-automatic-model-tuning.md",
       "title": "Optimize hyperparameters with Amazon SageMaker Automatic Model Tuning",
       "excerpt": "Machine learning (ML) models are taking the world by storm. Their performance relies on using the right training data and choosing the right model and algorithm. But it doesn’t end here. Typically, algorithms defer some design decisions to the ML practitioner to adopt for their specific data and task.",
@@ -922,205 +1095,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-the-electronic-medical-records-market-sees-a-rising-adoption-of-the-natural-language-processing-techniques-by-the-business-research-company.md",
-      "title": "The Electronic Medical Records Market Sees A Rising Adoption Of The Natural Language Processing Techniques - By The Business Research Company",
-      "excerpt": "LONDON, Nov. 24, 2022 /PRNewswire/ -- The adoption of Natural Language Processing (NLP) is gaining popularity in the electronic medical records market trends. NLP creates machines that can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29852130/the-electronic-medical-records-market-sees-a-rising-adoption-of-the-natural-language-processing-te",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29852130/the-electronic-medical-records-market-sees-a-rising-adoption-of-the-natural-language-processing-te",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29852130",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29852130",
-      "publishedDateTime": "2022-11-24T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-ubers-polarizing-surge-pricing-is-coming-for-your-food-deliveries.md",
-      "title": "Uber's polarizing surge pricing is coming for your food deliveries",
-      "excerpt": "Founded in 2020, Sauce's AI-powered software can suggest different online menu ... Webb said Sauce's tech has evolved this year to be more flexible based on restaurant feedback. The startup's technology is automated, but operators can also manually control ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/dynamic-pricing-startup-sauce-raises-restaurant-delivery-prices-on-demand-2022-11",
-      "originalUrl": "https://www.businessinsider.com/dynamic-pricing-startup-sauce-raises-restaurant-delivery-prices-on-demand-2022-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/637d35e7c2058e0018535446?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/dynamic-pricing-startup-sauce-raises-restaurant-delivery-prices-on-demand-2022-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dynamic-pricing-startup-sauce-raises-restaurant-delivery-prices-on-demand-2022-11?amp",
-      "publishedDateTime": "2022-11-24T05:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-computer-vision-market-revenue-growth-rate-market-size-restraints-and-forecast-analysis-by-2028.md",
-      "title": "Computer Vision Market : Revenue, Growth Rate, Market Size, Restraints and Forecast Analysis by 2028",
-      "excerpt": "Nov 24, 2022 (The Expresswire) -- \"Computer Vision Market\" research provides significant and in-depth information on the global market. This",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-revenue-growth-rate-market-size-restraints-and-forecast-analysis-by-2028-2022-11-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-revenue-growth-rate-market-size-restraints-and-forecast-analysis-by-2028-2022-11-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-24T03:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-ai-the-next-candidate-for-a-market-boom-bubble-bust.md",
-      "title": "AI: The Next Candidate For A Market Boom, Bubble, Bust",
-      "excerpt": "The prices of Bitcoin BTC -2.3% and Ethereum ETH 0.0% have been in free fall, and the total market capitalization of all cryptocurrencies has shrunk from over $830 billion to less than $330 billion. This represents a loss of over 60% from the peak.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/investor/2022/11/24/ai-the-next-candidate-for-a-market-boom-bubble-bust/",
-      "originalUrl": "https://www.forbes.com/sites/investor/2022/11/24/ai-the-next-candidate-for-a-market-boom-bubble-bust/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637def592ce2893446588243/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/investor/2022/11/24/ai-the-next-candidate-for-a-market-boom-bubble-bust/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2022/11/24/ai-the-next-candidate-for-a-market-boom-bubble-bust/amp/",
-      "publishedDateTime": "2022-11-24T03:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "Google AI"
       ]
     }
   ],

@@ -56,20 +56,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "5 Ways Cybersecurity for Cloud Workloads Will Evolve in 2023"
-    excerpt: "Organizations are looking for new methods to safeguard the virtual machines, containers, and workload services they use in the cloud."
-    publishedDateTime: 2023-01-11T19:00:00Z
-    webUrl: "https://www.darkreading.com/zscaler/5-ways-cybersecurity-for-cloud-workloads-will-evolve-in-2023"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 24
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9e84295043d2916a/60b7c78128d7e4612dbfea29/cloudcomputing_Tierney-AdobeStock.jpg"
-        width: 489
-        height: 332
-        isCached: true
 
 secured: "Vp4e+DCrf4zW626mTL4aiI+0SouExzzQ2nz32Tbi6lKpmPKE+607r7+FhdEIrHrgMsvZWoaDyjf+MQ6lWBe6D+6c/RUZwsEJM9Z9e9Cpb5ROrfgHWJWe94ql4pdIESn0oMrIi+jaUsyuTn7ghb7z8uo/UzK1kXZK0IB9OJdERrq92wSyIuzoKPxtNspMdbYHdMJ5FbgN3tIxtCxcbYABjQ/oQYavZ71XtUJH7W9cK1rCjwMEpx1q+/x8YMiq3I8sbAAiokv6mGDZdEm63h4yo54cytBPYUIw92eAdlJHMX7emBKIKs4PlAGYQc9afwxBMIXZBfggY2sGw4cWi7mQqo9Y8vFhufA6aLPwWztSdD/+35kMNK0y4ijJLhaOFjYD+tcB59El/dNGSadBYnAFFt95nnWi4riUlcDt8FGYVDDS6Et1o6nvvjfsPwGr8gEOqqT6ocIlYiO20n+7uX8aDZJB7DBOFNj/82imKjzEU5PdEgJl9Me5tUO3XXgZbdCDKQ3m7a3/h7DuWmC1fXG7IA==;6CZ7cy1Xiwu2sQGYq1q59A=="
 ---

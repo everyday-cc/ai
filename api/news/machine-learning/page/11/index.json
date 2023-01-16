@@ -2,6 +2,113 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-10-16-deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028.md",
+      "title": "Deep Learning in Machine Vision Market Supply Chain Stratgies and Decision Making 2022-2028",
+      "excerpt": "A novel report on global Deep Learning in Machine Vision market has been recently added to Xcellent Insights' database",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028-2022-10-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028-2022-10-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-15T20:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-10-15-pace-of-artificial-intelligence-investments-slows-but-ai-is-still-hotter-than-ever.md",
+      "title": "Pace Of Artificial Intelligence Investments Slows, But AI Is Still Hotter Than Ever",
+      "excerpt": "Private companies using AI are expected to raise 36% less money in 2022 versus the previous year, but are still on track to exceed the 2020 level.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/15/pace-of-artificial-intelligence-investments-slows-but-ai-is-still-hotter-than-ever/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/15/pace-of-artificial-intelligence-investments-slows-but-ai-is-still-hotter-than-ever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634ae31d6649ea63424d8035/0x0.jpg?format=jpg&width=1200",
+          "width": 1196,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/15/pace-of-artificial-intelligence-investments-slows-but-ai-is-still-hotter-than-ever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/15/pace-of-artificial-intelligence-investments-slows-but-ai-is-still-hotter-than-ever/amp/",
+      "publishedDateTime": "2022-10-15T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-10-15-amazon-ec2-trn1-instances-for-high-performance-on-deep-learning-training-models-now-available.md",
       "title": "Amazon EC2 Trn1 Instances for High Performance on Deep Learning Training Models Now Available",
       "excerpt": "Subscribe for free. AWS Trainium is the second-generation of machine learning chips that AWS purpose built for deep learning training. Each Amazon EC2 Trn1 instance deploys up to 16 AWS Trainium ...",
@@ -1354,111 +1461,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-ai-vs-deep-learning.md",
-      "title": "AI vs. Deep Learning",
-      "excerpt": "Deep learning finally allows machines to tackle problems of similar complexity to those humans can solve, and has been responsible for impressive AI achievements in recent years. Deep learning has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/ai-vs-deep-learning/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/ai-vs-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-Servers-01-1088x725-1.jpg",
-          "width": 1088,
-          "height": 725,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-increase-ml-model-performance-and-reduce-training-time-using-amazon-sagemaker-built-in-algorithms-with-pre-trained-models.md",
-      "title": "Increase ML model performance and reduce training time using Amazon SageMaker built-in algorithms with pre-trained models",
-      "excerpt": "Model training forms the core of any machine learning (ML) project, and having a trained ML model is essential to adding intelligence to a modern application. A performant model is the output of a rigorous and diligent data science methodology. Not implementing a proper model training process can lead",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/increase-ml-model-performance-and-reduce-training-time-using-amazon-sagemaker-built-in-algorithms-with-pre-trained-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/increase-ml-model-performance-and-reduce-training-time-using-amazon-sagemaker-built-in-algorithms-with-pre-trained-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/06/increase-ml-model-performance.jpg",
-          "width": 1549,
-          "height": 769,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T09:59:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

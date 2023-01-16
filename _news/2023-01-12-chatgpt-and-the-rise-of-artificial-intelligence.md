@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 646
         isCached: true
+  - title: "How AI chatbot ChatGPT changes the phishing game"
+    excerpt: "Facebook took ten ... activities that Check Point Research believes is intended to implement and test ChatGPT into the cybercriminals day-to-day criminal operations. Several tools on the market already claim to detect AI-written content, which only ..."
+    publishedDateTime: 2023-01-16T10:03:00Z
+    webUrl: "https://www.csoonline.com/article/3685488/how-ai-chatbot-chatgpt-changes-the-phishing-game.html"
+    ampWebUrl: "https://www.csoonline.com/article/3685488/how-ai-chatbot-chatgpt-changes-the-phishing-game.amp.html"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3685488/how-ai-chatbot-chatgpt-changes-the-phishing-game.amp.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/01/shutterstock_1901618698-100936241-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 801
+        isCached: true
 
 secured: "7TafbfBNOc4hn2hFyXaJcI3zZcspjJLd4RAeYeChTcYq6UQpAfDR3d4A4sagR1/LNDiXQfwDc/bs1sYNAvaQ4qZVpIgphKVqa5ZSUhQTqnqhdELSoS1CcTipurWU8LsOFE89R2bcy+Dv/CnM1ZtkYs0hTtqDM8ZR/ysbOUEcL7yvGnEdqTQ4uvu7AQ23HdfDWzyW76O3JotkWQvkPnBdkZDgUIgLU47QAVDaJV9DbO597GYh/rpmFOH0qgTEWG5QTrb+wGbY0i4/0dmqjgQRdg9CIwuXqDcafbYr7KP68Bd7GJ0fBlMwlB0AVPhK4TOzXN8kUPufHWmhxaTM3xqYWXnfk04OybgwPtLZltDriyNfYRxqGhhYIlorJEab6LDlL5z6pGkEiFP82K4IfRh6g5MdoOEZTZt0V89QqxoGPLKf+AuN0R1DZm5J30ec7Nhj5SfPcGtv5xnMoXx50NCaE0iVC/aLVHyriCuMrL+a5AIP18RV9/+1y3d+WU8bbABRRgRtTTPk1qjeNLbkjOYojQ==;UnD9kcNjzFZH4Ym2W8C6vQ=="
 ---

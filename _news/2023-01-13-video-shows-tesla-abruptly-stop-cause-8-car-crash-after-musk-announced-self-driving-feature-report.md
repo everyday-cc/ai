@@ -85,6 +85,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tesla full self-driving system put to the test after Bay Bridge crash"
+    excerpt: "OAKLAND, Calif. - A self-driving Tesla was put to the test by KTVU Friday to try to determine how a Model S caused a Thanksgiving Day eight-car pileup on the Bay Bridge. The crash has raised ..."
+    publishedDateTime: 2023-01-14T05:50:00Z
+    webUrl: "https://www.ktvu.com/news/tesla-full-self-driving-system-put-to-the-test-after-bay-bridge-crash"
+    ampWebUrl: "https://www.ktvu.com/news/tesla-full-self-driving-system-put-to-the-test-after-bay-bridge-crash.amp"
+    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/tesla-full-self-driving-system-put-to-the-test-after-bay-bridge-crash.amp"
+    type: article
+    provider:
+      name: KTVU
+      domain: ktvu.com
+    quality: 39
 
 secured: "gEQ22opFsSJ/kzbmcz1eOCMOJLqSs79pRyp9aOC1XwqFMHJ0Jy2RnDW+7AA51X1EHPltbb/J66kn+vcsfTmNi+u6hDD50hKOhP/aQhppkw2/wrsJV/SlEwW3Z8kngRNcZN8K2bwUBt6Tp/x9K2UQHteYlTYCW7dwbpCC96BnCy9QODfyWWbICVqAtSjdMCxYqSh4HDVKipgMjO2MMmutEB5SXWZPefKN83GBrNy+l647Ay3RFCwe2kBRCsVDsKWKIY72NigcV7QevJ0HrCXxPtMEj56G8rTNirw8wY4yL+nUv8MnRsqwPMcyx9szLcfRZRL9mEZjfCccbE4cc7whsfT5/T4Q6bpEUKE9qCSsx1gfDFqBPu6HaFrrTmBgIOjCmfOxbV6/CgwcQ3ZoDUeumD10fzOdHrx8ynLDUig8SsNasmfKhMBemNjM8Fun7JZ9Z8rXOoRRhMqnbrdmZy7qd5bLyGDjSTG0XVtN6+jZlafHVLDHI39FYSSCfqM6xkYvTD8JN9qTWTqvtgdujzIGuQ==;YZT4hyZfCw1pACOnJEoAxg=="
 ---

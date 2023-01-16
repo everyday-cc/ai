@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-08-new-go-playing-trick-defeats-world-class-go-aibut-loses-to-human-amateurs.md",
+      "title": "New Go-playing trick defeats world-class Go AI—but loses to human amateurs",
+      "excerpt": "By playing unexpected moves outside of KataGo's training set, a much weaker adversarial Go-playing program (that amateur humans can defeat) can trick KataGo into losing. To wrap our minds around this achievement and its implications,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/go_board_hero_1200-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/amp/",
+      "publishedDateTime": "2022-11-07T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker.md",
       "title": "Transfer learning for TensorFlow object detection models in Amazon SageMaker",
       "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
@@ -1446,59 +1498,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-why-deepmind-isnt-deploying-its-new-ai-chatbot.md",
-      "title": "Why DeepMind isn’t deploying its new AI chatbot",
-      "excerpt": "DeepMind’s new AI chatbot, Sparrow, is being hailed as an important step towards creating safer, less-biased machine learning systems, thanks to its application of reinforcement learning based on input from human research participants for training.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/",
-      "originalUrl": "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-164848239.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/amp/",
-      "publishedDateTime": "2022-09-23T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Facebook AI"
       ]
     }
   ],

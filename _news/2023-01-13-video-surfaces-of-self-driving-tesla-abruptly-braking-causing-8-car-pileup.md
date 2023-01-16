@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/video-surfaces-of-self-driving-tesla-ab
 webUrl: "https://www.pcmag.com/news/video-surfaces-of-self-driving-tesla-abruptly-braking-causing-8-car-pileup"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -75,6 +75,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tesla full self-driving system put to the test after Bay Bridge crash"
+    excerpt: "OAKLAND, Calif. - A self-driving Tesla was put to the test by KTVU Friday to try to determine how a Model S caused a Thanksgiving Day eight-car pileup on the Bay Bridge. The crash has raised ..."
+    publishedDateTime: 2023-01-14T05:50:00Z
+    webUrl: "https://www.ktvu.com/news/tesla-full-self-driving-system-put-to-the-test-after-bay-bridge-crash"
+    ampWebUrl: "https://www.ktvu.com/news/tesla-full-self-driving-system-put-to-the-test-after-bay-bridge-crash.amp"
+    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/tesla-full-self-driving-system-put-to-the-test-after-bay-bridge-crash.amp"
+    type: article
+    provider:
+      name: KTVU
+      domain: ktvu.com
+    quality: 39
   - title: "Video shows Tesla abruptly stop, cause 8-car crash after Musk announced self-driving feature: report"
     excerpt: "Speaking to police, the driver of the vehicle stated he \"had been using Tesla's new 'Full Self-Driving' feature, the report notes, before the Tesla's 'left signal activated' and its 'brakes ..."
     publishedDateTime: 2023-01-13T14:30:00Z

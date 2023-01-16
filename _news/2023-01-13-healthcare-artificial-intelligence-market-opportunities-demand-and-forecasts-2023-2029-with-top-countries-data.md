@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Forecast 2028 for the Speech Recognition Software Market in terms of size, returns, gross margin, and market share"
-    excerpt: "Short Summery About Speech Recognition Software Market: Speech Recognition Software is software that uses electronic technology to recognize speech from people. The Speech Recognition Software ..."
-    publishedDateTime: 2023-01-11T17:45:00Z
-    webUrl: "https://www.digitaljournal.com/pr/forecast-2028-for-the-speech-recognition-software-market-in-terms-of-size-returns-gross-margin-and-market-share"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 17
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/AI-chatbot-China-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "PgydGTb8WJYutSu7MFjBlA4euIlpcj5zTxYFyfYrio5IALWD5pyXNQkCd9SAcUe/CLNtbY0vwFeFcSYVTAd+EIsnIf79gOZu/zawCBzVmsmFq4lz9lLvRzgbXOnpTRAgoAMWqINjEPgUaiyuyRJ7Xj5g7+N0uSwz+bsjI5q/yyfxvsj7Bz1rUVyA5Nq3o5fcoiFmRPa80ZzTMAw6PLGobkX88rc0kPR6wQ4NRIf9J4fyYkKDHpcGKziwln/8DBAOa079AO5uXD0AFKAJJQtGkHRqE+L7ffsY2ZNYpDp3T3aYpXsph/1stIFSK/9IqCx9Ax/rlg8AIIOwaxPCVhVxbpyQsx+SZE6edU95BcvyenM=;wUHNIBkRIoXlvu59wd9VpQ=="
 ---
