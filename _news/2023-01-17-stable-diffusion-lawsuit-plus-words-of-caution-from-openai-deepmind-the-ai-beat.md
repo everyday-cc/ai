@@ -95,6 +95,20 @@ related:
         width: 790
         height: 320
         isCached: true
+  - title: "Artists file copyright lawsuit against generative AI providers"
+    excerpt: "Three artists have filed a lawsuit that accuses generative artificial intelligence providers Stability AI Ltd., DeviantArt Inc. and Midjourney Inc. of copyright infringement.  The Verge reported the development today."
+    publishedDateTime: 2023-01-16T21:00:00Z
+    webUrl: "https://siliconangle.com/2023/01/16/artists-file-copyright-lawsuit-generative-ai-providers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/image-7.png"
+        width: 718
+        height: 404
+        isCached: true
 
 secured: "qLYagjqzY2wrkkLrj6PiG7RVDcrJ03Y1hBe3ImqDzPnlRWXRxm79Z7OFYPW/ZWovZ7p5NaBZAWaSKgH5AHRLgkCoowdkM6ggEstIs98DVCmfE65Cumjw6yBUkPihGAiXkvPXbfCnZ51Sarx09pMR3UcUU6WregNe/1FlcGnRsbn3gh/zbANtTa45W7UKNWrdUig4HUfd+HnEpYOppQsKXhPqqY+Ei0HSjAmnVCa1sSfm+Yu3Y+A3hbHnbggO2Ufj5y7xvxetFgOFB+k3p5hNuv1fewPJ6/BPq38tAsuPh9CKHGEcOOYVvElyJNqHSlaTOl+Ggep78kjT3vfhdzIgjwvu9ghhOxElL8rZlU3hseAb7TspUvYuUsfPiNcGqLtbeaSfs4BycP1KZPbXLPRdUTjwtQT67SfkmV1S+2U0T/zLNh+JJ/sPdn0dG+/nCpw7GKQ2YQmPkpxgHeLdPGqI5Cp6uSRJGA09NmyaVVQ5p0njBDJUo38odedy7Kz0jJWVeE0VvMAzWfqZrjKWaPcQIQ==;vFSYD6K3bt7XLY0Wl5IygQ=="
 ---

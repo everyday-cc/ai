@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Truck Technology Market is booming in near Future 2023-2029"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Self-Driving"
-    publishedDateTime: 2023-01-12T04:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-is-booming-in-near-future-2023-2029-2023-01-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Automotive Artificial Intelligence Market Survey 2023 with the increasing need to extend Outlook 2029"
     excerpt: "Global “Automotive Artificial Intelligence Market” report 2023 delivers a complete overview of crucial factors"
     publishedDateTime: 2023-01-16T03:36:00Z
@@ -123,6 +109,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Oil and Gas Market Size 2023 with strong supplier, Key factors, driving the market growth, Information Forecast 2029"
+    excerpt: "Global Artificial Intelligence in Oil and Gas Market| Outlook 2023-2028 | Number of Tables and Figures | No Pages 114 |"
+    publishedDateTime: 2023-01-16T07:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-size-2023-with-strong-supplier-key-factors-driving-the-market-growth-information-forecast-2029-2023-01-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

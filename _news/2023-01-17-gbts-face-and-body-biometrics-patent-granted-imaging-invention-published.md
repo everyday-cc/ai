@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-16T19:34:00Z
 originalUrl: "https://www.biometricupdate.com/202301/gbts-face-and-body-biometrics-patent-granted-imaging-invention-published"
 webUrl: "https://www.biometricupdate.com/202301/gbts-face-and-body-biometrics-patent-granted-imaging-invention-published"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Biometric Companies

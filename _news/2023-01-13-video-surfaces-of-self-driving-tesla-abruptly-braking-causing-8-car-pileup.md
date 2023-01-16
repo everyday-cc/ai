@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/video-surfaces-of-self-driving-tesla-ab
 webUrl: "https://www.pcmag.com/news/video-surfaces-of-self-driving-tesla-abruptly-braking-causing-8-car-pileup"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/01/13/0x0-sales_01.jpg?width=1200&height=800&fit=crop"
         width: 900
         height: 600
-        isCached: true
-  - title: "Tesla ‘Full-Self Driving’ Crash Injuring 9 Caught on Video the Day FSD Went Public"
-    excerpt: "Footage surfaced of a Tesla Model S driver causing an eight-car pileup in San Francisco while using the car's \"Full Self-Driving Beta\" function. Ironically, the crash occurred the same day Tesla ..."
-    publishedDateTime: 2023-01-12T03:14:00Z
-    webUrl: "https://www.thedrive.com/news/tesla-full-self-driving-crash-injuring-9-caught-on-video-the-day-fsd-went-public"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 48
-    images:
-      - url: "https://www.thedrive.com/uploads/2023/01/11/tesla-model-s-full-self-driving-crash.jpg?auto=webp"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Tesla full self-driving system put to the test after Bay Bridge crash"
     excerpt: "OAKLAND, Calif. - A self-driving Tesla was put to the test by KTVU Friday to try to determine how a Model S caused a Thanksgiving Day eight-car pileup on the Bay Bridge. The crash has raised ..."

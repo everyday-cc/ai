@@ -31,7 +31,7 @@ related:
     provider:
       name: insider
       domain: insider.com
-    quality: 38
+    quality: 42
     images:
       - url: "https://i.insider.com/62e40a4f4b455800188b5eaf?width=1200&format=jpeg"
         width: 1200

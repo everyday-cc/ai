@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/world-africa-64260739.amp"
 webUrl: "https://www.bbc.com/news/world-africa-64260739.amp"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Reimagining fintech : Banking-as-a-service, embedded finance can unlock new value chains"
+    excerpt: "At a macro level, the banking and financial services industry are in the midst of a technology-led transformation phase."
+    publishedDateTime: 2023-01-16T21:40:00Z
+    webUrl: "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/"
+    ampWebUrl: "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 80
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/01/banking1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "FJ1wLkEm4L92uxLEfSRbg2ZEBQxpNcJk+F9bl64aGIMN9i2V2pyGTiMS1qcNh4+W5GPSeCdP5ONaHb1koGmxUc2FxQyq2FbDqsKiiiaAUk77YpvTkNwmzh4iRUSlpj/spvke55Wnc++4jZ3x8jho2M4QsfjVIydaB1qNJiu/lXRW8+Ue0hLY1I2UYf/JhV1bXvsC5Fon701XUvHwJ3bAJpOiso1+VA6TETCcIl3Oe7eYeL5HZB46HWZnKQo/CgPTwHbAOhvY1j44s5T56maoqPYIV9jXDP1Wst0DN2ZyP1kjTXZemlTBz4h+PJha6+SbmPkPtgPATnLiEioKZ6p1gncRGkEb4m+2WbmZKX1T/oJ42/OnnQnDqlaD2X1zsksTFWwj/CqcNFbArAH1NLulxGokontQ0Tap4CLOISup5UWuj1BOT/vv2qTyMPqAyuVJGHQYVFZoSbjGpTNHqWPBk6pQ2DpfkuZz23XShB+ql+nDj/wVrtm8dJuCaFHN0mu6K0Q3MCDt8oqBOTERBSViuw==;zoz3umbbOmw+Ob4FCDEejw=="
 ---

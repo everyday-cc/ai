@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-12T12:31:00Z
 originalUrl: "https://www.hindustantimes.com/brand-stories/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation-101673518614175.html"
 webUrl: "https://www.hindustantimes.com/brand-stories/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation-101673518614175.html"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Hindustan Times

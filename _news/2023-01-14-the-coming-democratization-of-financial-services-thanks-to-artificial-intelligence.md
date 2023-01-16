@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 772
         isCached: true
+  - title: "Generative AI is having a moment and governments need to pay attention"
+    excerpt: "Governments need to understand and use generative AI systems to manage the changes they will bring, says Annan Boag from the Office of the Victorian Information Commissioner."
+    publishedDateTime: 2023-01-16T21:21:00Z
+    webUrl: "https://www.themandarin.com.au/209547-generative-ai-governments-need-to-pay-attention/"
+    type: article
+    provider:
+      name: The Mandarin
+      domain: themandarin.com.au
+    quality: 39
+    images:
+      - url: "https://www.themandarin.com.au/wp-content/uploads/2023/01/generative-ai.jpg"
+        width: 795
+        height: 530
+        isCached: true
   - title: "Alfonso Cahero Announced The Implementation Of Artificial Intelligence For Cahero Family Office"
     excerpt: "MIAMI, FLORIDA, UNITED STATES, January 15, 2023 /einpresswire.com / -- alfonso cahero , with his family office, contributes to the success"
     publishedDateTime: 2023-01-15T20:52:00Z

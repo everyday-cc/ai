@@ -51,20 +51,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Tesla ‘Full-Self Driving’ Crash Injuring 9 Caught on Video the Day FSD Went Public"
-    excerpt: "Footage surfaced of a Tesla Model S driver causing an eight-car pileup in San Francisco while using the car's \"Full Self-Driving Beta\" function. Ironically, the crash occurred the same day Tesla ..."
-    publishedDateTime: 2023-01-12T03:14:00Z
-    webUrl: "https://www.thedrive.com/news/tesla-full-self-driving-crash-injuring-9-caught-on-video-the-day-fsd-went-public"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 48
-    images:
-      - url: "https://www.thedrive.com/uploads/2023/01/11/tesla-model-s-full-self-driving-crash.jpg?auto=webp"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Video shows Tesla abruptly stop, cause 8-car crash after Musk announced self-driving feature: report"
     excerpt: "Speaking to police, the driver of the vehicle stated he \"had been using Tesla's new 'Full Self-Driving' feature, the report notes, before the Tesla's 'left signal activated' and its 'brakes ..."
     publishedDateTime: 2023-01-13T14:30:00Z

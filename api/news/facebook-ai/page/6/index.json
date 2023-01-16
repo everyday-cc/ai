@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-09-08-research-highlights-organisations-ai-capabilities-lag-far-behind-ambitions-leaving-money-on-the-table.md",
+      "title": "Research highlights organisations’ AI capabilities lag far behind ambitions, leaving money on the table",
+      "excerpt": "Fivetran, the global leader in modern data integration, today announced the results of a survey which shows that while 87 percent of organisations consider artificial intelligence (AI) vital to their business survival, 86 percent say they would struggle to ...",
+      "sourceUrl": null,
+      "webUrl": "https://bdaily.co.uk/articles/2022/09/07/research-highlights-organisations-ai-capabilities-lag-far-behind-ambitions-leaving-money-on-the-table",
+      "originalUrl": "https://bdaily.co.uk/articles/2022/09/07/research-highlights-organisations-ai-capabilities-lag-far-behind-ambitions-leaving-money-on-the-table",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bdaily.co.uk/images/uploads/k4FZxrIa5cHLowAMn3ayUFnZalzJchB5NKCEBf7t.jpeg?w=1200&h=627&fm=jpg&fit=crop-50-50&s=1da5d760d3b86910af944012f6538f08",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bdaily Business Network",
+        "domain": "bdaily.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-lightning-ai-brings-on-pytorch-lead-to-expand-deep-learning-leadership.md",
       "title": "Lightning AI Brings on PyTorch Lead to Expand Deep Learning Leadership",
       "excerpt": "Mike Ruberry, core PyTorch technical lead, joins Lightning AI as chief engineer of the PyTorch teamNew hire signals beginning of PyTorch team at the New Yo",

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-16T19:53:00Z
 originalUrl: "https://techxplore.com/news/2023-01-artificial-intelligence-illegal.html"
 webUrl: "https://techxplore.com/news/2023-01-artificial-intelligence-illegal.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: techxplore

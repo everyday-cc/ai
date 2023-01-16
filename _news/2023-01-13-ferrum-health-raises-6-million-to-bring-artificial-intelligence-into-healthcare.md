@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-13T15:06:00Z
 originalUrl: "https://www.abc27.com/business/press-releases/cision/20230112SF79976/ferrum-health-raises-6-million-to-bring-artificial-intelligence-into-healthcare/"
 webUrl: "https://www.abc27.com/business/press-releases/cision/20230112SF79976/ferrum-health-raises-6-million-to-bring-artificial-intelligence-into-healthcare/"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: abc27

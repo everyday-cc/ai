@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market : Projections and Regional Outlook, Set for Rapid Growth and Trend by 2023 To 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence (AI)"
+    publishedDateTime: 2023-01-16T10:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2023-to-2028-2023-01-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yHnuUq8k78lvrnIjM8IpPBZemB+/00GSccJGTioP691DMUK0FQHcFZEvtvClEXoPjq6fywixSTE0er1K4M62MON8Su/ajfd5wAkgKT10HQ51eU4v8kwKy0TnROjPCPzASAYpA/2UsdA5Lc6ZdlSsD4fz/pRyMn0IGpnrgPkZbPv63SIuu56Thz3aCDyHFpc3zcCI8z4TD3oxxoKveU2zn00AnkKroTBnwRRTBbgPuWF1ON49+o778Hx5rj8f7epZ8ne/tCDiWHljdhG+dxy6AYqkFCS8tKkTgFjE3sIhH/1EXcTkNLsZONGNM3vE7b3oCrWdKhuvBHe0NjcvXTxWFfSXKDjZsvOXuRU2ttrOF30=;fHN3pZ8w1COb5vnIHgTNbg=="
 ---

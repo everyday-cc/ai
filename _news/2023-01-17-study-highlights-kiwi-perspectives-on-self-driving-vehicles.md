@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-16T19:44:00Z
 originalUrl: "https://www.massey.ac.nz/about/news/study-highlights-kiwi-perspectives-on-self-driving-vehicles/"
 webUrl: "https://www.massey.ac.nz/about/news/study-highlights-kiwi-perspectives-on-self-driving-vehicles/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Massey University

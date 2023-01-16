@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-14T15:00:00Z
 originalUrl: "https://www.discovermagazine.com/technology/ai-and-the-human-brain-how-similar-are-they"
 webUrl: "https://www.discovermagazine.com/technology/ai-and-the-human-brain-how-similar-are-they"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:

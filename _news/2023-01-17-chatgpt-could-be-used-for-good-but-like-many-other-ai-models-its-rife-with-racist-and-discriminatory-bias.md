@@ -8,7 +8,7 @@ webUrl: "https://insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias
 ampWebUrl: "https://www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1?amp"
 cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1?amp"
 type: article
-quality: 38
+quality: 42
 heat: -1
 published: false
 

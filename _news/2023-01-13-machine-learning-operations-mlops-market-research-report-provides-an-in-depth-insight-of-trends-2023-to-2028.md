@@ -80,6 +80,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 29
+  - title: "Face Recognition Software Market Size, Share 2023 : Industry Growing Rapidly with Recent Trends, Development, Revenue by 2028"
+    excerpt: "Face Recognition Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at"
+    publishedDateTime: 2023-01-16T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-size-share-2023-industry-growing-rapidly-with-recent-trends-development-revenue-by-2028-2023-01-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
 
 secured: "b3bSZxjbBLbqO9v2bt4MX9g8EyE622JlgK22XnxqDP9+b5rkiopCSNh2pmAWJzE1RSASSL9WeDtH1Y+SkD9ZMsmtOnrAUYw0EBv1EFsB+OPQbLyelfy7U2I3zUTZjoduWPvHNaiBxPT3Xw6k9ulvpGWCs7d+5IOkEgt02QJKHViPbxDVXZ+sKoOv0mn5sJXsEha26lL8CFu/wC282E7G5yoTY9+aecVGy7J0yCR1ste8fwXFGgPaxsavKdqzj4EcCAdxjUenfMEC9OT+izEUfl4BjgAdl9zOA7UBj0XYxlMq1TRQtQWUZ7N4+zdnSycJlLpaD78hg7xAE4IAJGv/uz8PZBsMW19u2b+tisf3Eao=;vcuBt4fGQ0y93YCR1rMuZw=="
 ---

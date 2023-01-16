@@ -81,6 +81,15 @@ related:
         width: 732
         height: 478
         isCached: true
+  - title: "Microsoft’s CPO Teases Future Versions Of AI-Powered Windows"
+    excerpt: "Earlier this month at AMD’s CES 2023 keynote, Microsoft's EVP & Chief Product Officer (CEO), Panos Panay revealed that AI (artificial intelligence) is"
+    publishedDateTime: 2023-01-16T18:44:00Z
+    webUrl: "https://www.techworm.net/2023/01/microsofts-cpo-teases-future-versions-of-ai-powered-windows.html"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 36
   - title: "Microsoft, Paige to apply AI to digital pathology images"
     excerpt: "Microsoft has partnered with Paige to apply artificial intelligence to digital pathology images to develop and deliver new clinical applications and computational biomarkers with the aim of transforming cancer diagnosis and patient care."
     publishedDateTime: 2023-01-12T19:06:00Z

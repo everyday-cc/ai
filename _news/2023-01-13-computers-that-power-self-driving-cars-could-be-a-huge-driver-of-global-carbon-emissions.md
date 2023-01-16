@@ -59,6 +59,24 @@ related:
       name: Times Star
       domain: timesandstar.co.uk
     quality: 4
+  - title: "Are self-driving cars dead?"
+    excerpt: "The focus for the past couple years has been on self-driving car technology. While that’s a trillion-dollar opportunity, it’s unclear when self-driving cars will actually hit the market. I performed deep research into self-driving car tech way back in 2015."
+    publishedDateTime: 2023-01-16T19:47:00Z
+    webUrl: "https://www.mauldineconomics.com/editorial/are-self-driving-cars-dead"
+    type: article
+    provider:
+      name: MauldinEconomics.com
+      domain: mauldineconomics.com
+    quality: 4
+  - title: "Self-driving cars could nearly double road congestion, says report"
+    excerpt: "LONDON: Motorists could be stuck in congestion nearly twice as bad as current levels if self-driving cars become commonplace, a UK government report warns. The UK's Department for Transport (DfT) traffic projections for England and Wales show delays may rise by up to 85% from 2025 to 2060 in that scenario."
+    publishedDateTime: 2023-01-16T19:48:00Z
+    webUrl: "https://www.carsifu.my/news/self-driving-cars-could-nearly-double-road-congestion-says-report"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 4
 
 secured: "UndEslfCauyuEb70GUaP5wnnGGJ2Yu1RQL9rnf48IJ0kfoyfyLDMcUJDD1Cj/0zfYZ0jDS5HMyBQV7rbpNgvzRb9pHKfTeqOLQ87IAzakYr5kLBdo0vOeN2KVbkq4ExKu6tn242UuboUuqpVTyY4WfSTJ9VvJQhdozsasozvMNwvlTcOHVCGFuEGH23CVo/7u4NQOiVP7m9/3FJzUqfOQp6plBaTgAFAYH0B5am1XvG0UVUiXBC9Fku8PF18V2oyUuzPfU44bd5Qe27vlVnjAYDezQlDh0TtLIteH7kudWsefdLaagVJ247wVJ60Sy+NMDpKotRK6SMAM4K6Oar6rG4DHGz7Sc+2C7a59WO3lUuMwRJ/uiKVauIbaeTTsnncqukweN+6y6MWpMo9x1HLUroT90Lh/vuC15PyMcPNHokYLKQH5ZwQtEL+plSOJrlYunKlZ+d3qNwyQsH2UzUjJU5qxlromME/vGSfEheMVXU36pID7YWuIZPCW+fxNRsybbwEpFfWruXfYP5HR1GnmA==;hfrclVkiUbK3D6B6Z7IEqQ=="
 ---

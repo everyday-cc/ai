@@ -58,6 +58,24 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Are self-driving cars dead?"
+    excerpt: "The focus for the past couple years has been on self-driving car technology. While that’s a trillion-dollar opportunity, it’s unclear when self-driving cars will actually hit the market. I performed deep research into self-driving car tech way back in 2015."
+    publishedDateTime: 2023-01-16T19:47:00Z
+    webUrl: "https://www.mauldineconomics.com/editorial/are-self-driving-cars-dead"
+    type: article
+    provider:
+      name: MauldinEconomics.com
+      domain: mauldineconomics.com
+    quality: 4
+  - title: "Self-driving cars could nearly double road congestion, says report"
+    excerpt: "LONDON: Motorists could be stuck in congestion nearly twice as bad as current levels if self-driving cars become commonplace, a UK government report warns. The UK's Department for Transport (DfT) traffic projections for England and Wales show delays may rise by up to 85% from 2025 to 2060 in that scenario."
+    publishedDateTime: 2023-01-16T19:48:00Z
+    webUrl: "https://www.carsifu.my/news/self-driving-cars-could-nearly-double-road-congestion-says-report"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 4
 
 secured: "T5kNTknt16IJKTwdD6g81UXHoIOFxbtR1pYjuFeMafeBUuvYmOn25eJnIzT5YRP+QPBSC0UWTFQJ2+AkpcfB4PXpVjLZOOKNbjfD4p72GJ7Scq2WJ9dwcy1VktUeAIZnEj9uzK8sZp+KJgnru0xlgxlMT7k+r2ojj3AyXZKYRBhB6j+mt8uNQKxYVE0C/2imPxcjf0oDuT3fAyhEkc+KF8MbgX07YFSKwUj6A+uiZiUm1BX5Pu5dYwGAkLaXlePM885w0xh1eHGXZNHllaNefcPOb9Anay4lS2HPWpIyXdU00zvl39YhmllN+0RZjvWCfKhC6tqSzcnE1XJIONZ96BIn2NXfX31wzS20WpA6WIc=;B+ZjiMbThS8JhBm/ednUvQ=="
 ---

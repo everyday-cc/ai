@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028-2023-01-16"
 type: article
 quality: 80
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -81,6 +81,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 29
+  - title: "Face Recognition Software Market Size, Share 2023 : Industry Growing Rapidly with Recent Trends, Development, Revenue by 2028"
+    excerpt: "Face Recognition Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at"
+    publishedDateTime: 2023-01-16T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-size-share-2023-industry-growing-rapidly-with-recent-trends-development-revenue-by-2028-2023-01-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
 
 secured: "GWxafJ7teCqb2kDpgFXN/aAY749TsTk8YDq0XgP76Q1YkRdQaazBsbvdfmiSU+p54tvFIbLGkefEQ5TouPMrrG+gIuJnP1cMg8SwMMvK4GoamLFrDtipF1B1OpRVJD1puu/M3S++inTI6TZbqftxdYRp+ReDT5TWt7vKrRVx4XYsbUb1N0cI7+5ORlq0vjj7w4H8wjgWzV7q6c/MS9kLySzF9nbhtJyZkzFEodQyJ+EqDWfr/NS4PhD/eZtJxfX+IHyMHoxnPeVDefNPbyy/l11a/o/RRlsgo9Ntu73TiP2aaTQwTdlxtrtg8/+MZN4T6XuMJTh5EpoUccHl9Vu8JkhaMmUFPJ36NXcuJXMsRXw=;/uXypWsB9YQxXZyTBmvrQw=="
 ---

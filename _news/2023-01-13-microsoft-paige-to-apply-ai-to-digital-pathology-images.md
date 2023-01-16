@@ -88,6 +88,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Microsoft’s CPO Teases Future Versions Of AI-Powered Windows"
+    excerpt: "Earlier this month at AMD’s CES 2023 keynote, Microsoft's EVP & Chief Product Officer (CEO), Panos Panay revealed that AI (artificial intelligence) is"
+    publishedDateTime: 2023-01-16T18:44:00Z
+    webUrl: "https://www.techworm.net/2023/01/microsofts-cpo-teases-future-versions-of-ai-powered-windows.html"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 36
 
 secured: "ftE8zw3fePmiL3SVjcOKrRcQA/+KmTzsX+TrLpcxrZiVlEzxEs7Rys49uxGuFa0YszwHSJEakSEBSpmELl39tn7ieXwtzf29Z/P3ACJAHTYLB9+QKsupSnS96mhyT6KKDOrALvH2UHGw0y2DwWauXscMGKlZ5OB1tUdm1inkGyOUgoD5m3abl2aR9M4dfdP0mfL56KRvuH8j8YgQ/2Xu5e6/I2/FYPLI/mnO4CnLPSckcsoXZwq2uc/XSuGjxwGPRHv0aJoJpFpIwiqAcEqoOnaTdlA9wiGAI+CyieZQOw8DTkmxurS3GoeKVsVCQ3bit5aq34igCYtyFG3FJaZInGU901fjmikyLmPnd140FxA=;ZwUoyM4poWF4pxKY+rsWtA=="
 ---

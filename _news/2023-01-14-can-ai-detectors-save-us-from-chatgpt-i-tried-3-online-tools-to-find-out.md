@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/can-ai-detectors-save-us-fr
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -76,6 +76,15 @@ related:
         width: 1501
         height: 901
         isCached: true
+  - title: "AI Committee chairman downplays fears over ChatGPT misuse"
+    excerpt: "The Chairman of the Artificial Intelligence Committee at the Ministry of Communications and Information Technology (MCIT), Hassan Jassim al-Sayed, downplayed the fears over"
+    publishedDateTime: 2023-01-16T20:26:00Z
+    webUrl: "https://www.gulf-times.com/article/653452/qatar/ai-committee-chairman-downplays-fears-over-chatgpt-misuse"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 19
 
 secured: "mfRGsEkRKHt9YjkKQPRvhyX4cdFFC8+FPCXHSWunN7xSnlK8Vvb5tytLniZDRNtTY3MXnPnQJ/PkwS1Sy4BgoXWkqpe/W5MTvF1pKUcNm/QjQ6+nsPRB/DIeuwPKXU2Yt9nrAssU1hvENks1CJyENS/jAyxpiRz7A8sU1UK7MCOonkhbhHteVoOlWaFWhRguhp7kisy6ouzTPj3xwwxF6Xj8LjrMA337dedjX+DPVjUCx26xj2D+BedEIzvuWi26u+KGqzNdGzPYqm73cv70ekcn+BzOHP1wPdDuutst6xAgZSzrPvTVkACcrh7tksaLhVReANoiesWkaa3P4YIgnejkZFSqzhTA7I7ySz+gKaLYRsliNiCdrwXmQVa+JTDaTb7dS4XboScrywcBSin8kAAODvD7gBNvMQth3ScphYSY14CocKGoC3pkrUgaBEQBjpm0ycWUO6YT3BRpKRVXd9yH1YyJWiqLK/GF6ClK39gmkQmrc9AmNfhLAUmqSCAgg4jE8ywBTvmZgLMuVhiNLA==;dc/uYQYY9bqRzg793uYknw=="
 ---

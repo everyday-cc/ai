@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-16T17:31:00Z
 originalUrl: "https://atlantablackstar.com/2023/01/16/sheryl-lee-ralph-recounts-in-emotional-acceptance-speech-how-actor-sidney-poitier-believed-in-her-as-an-actress-before-hollywood-did/"
 webUrl: "https://atlantablackstar.com/2023/01/16/sheryl-lee-ralph-recounts-in-emotional-acceptance-speech-how-actor-sidney-poitier-believed-in-her-as-an-actress-before-hollywood-did/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Atlanta Blackstar

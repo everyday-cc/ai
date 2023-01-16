@@ -73,6 +73,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI Committee chairman downplays fears over ChatGPT misuse"
+    excerpt: "The Chairman of the Artificial Intelligence Committee at the Ministry of Communications and Information Technology (MCIT), Hassan Jassim al-Sayed, downplayed the fears over"
+    publishedDateTime: 2023-01-16T20:26:00Z
+    webUrl: "https://www.gulf-times.com/article/653452/qatar/ai-committee-chairman-downplays-fears-over-chatgpt-misuse"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 19
 
 secured: "gJifisD4Zs6i4E9q74oPzgjkQEaaxJvuC6/5nANJLR8nOzbv1jNUuim1DZL3wsIQ56ls2CQgU5Ua1H0oj20Ui+dBDLTon7eTLUvfFlKvc2tjJPjEd5LRW/XMg+8kdKMuLymKU//qv+i/6j2zZB45Zbv0uPmpdMDup27rOnzE9tHdy/OaogG9UicdNqSmI+MLD3xQ7bous+sdn7STmtGbAMYYETb2+bvcqOZFITxfyVJkz1EsGf82nuVKViBBOAJpD0P0pQ1SCpzgkAgm8bu7p07W9Bub85pErMfr9O/ItiPZJyioi2qE6jenhP7nnaRdPbTBgN3U5jq8TozhFDiv5u4dUTjD0JuWjrrV1v0JWhjPA0WHRy+PEyObY7+y+VJaH7zPkWsDBGIonczUXeyf1vZq91o1SbnDZMQm+8LqqynGMabV4Uadpcc81hkn4zL8hsv3FPsW9CaVMnx8tmH91gj4qVcF5UPHDcXAwVA3gNJJeyRVynQT9rLD3NyofwLdmGB/NtDwMh6g8p4tFy8qaA==;ebaFSl6cShQQTJ12y7MeKg=="
 ---

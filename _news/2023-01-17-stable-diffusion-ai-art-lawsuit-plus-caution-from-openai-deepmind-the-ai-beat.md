@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-ca
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/"
 type: article
 quality: 99
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
         width: 790
         height: 320
+        isCached: true
+  - title: "Artists file copyright lawsuit against generative AI providers"
+    excerpt: "Three artists have filed a lawsuit that accuses generative artificial intelligence providers Stability AI Ltd., DeviantArt Inc. and Midjourney Inc. of copyright infringement.  The Verge reported the development today."
+    publishedDateTime: 2023-01-16T21:00:00Z
+    webUrl: "https://siliconangle.com/2023/01/16/artists-file-copyright-lawsuit-generative-ai-providers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/image-7.png"
+        width: 718
+        height: 404
         isCached: true
 
 secured: "eT9cTVGIzhaupT0sK+dHSkwt6TiFoaKm+PYakzN/1aUsCnE4tlyycZMC09L1c74wmElGl3NFBPymT4PHHNaSxGZbZNmm9fRzmOMseO98qtOmCnOvjU+w9S9m7ZtYGt5+/ig7xU8iLvvkyw62Mpo4miX0Q9b9Pdg9aQ5PQnIXmC/kcb4HNqGfCVg2YOr/FWfO0sJZo9nwz5HXY7Z4u22aMsA5O6G3qBQiHUpY3rRWuOEBluNspqhHGwNUYzHg7rYoOZI6p1spMI8tCPkvJXaHPHePqHtWlFKeWJ/A9NkD2LNL8W2oadIMWWyuiLZ9F48Uaf6tIQ56cgPDYhWHsnioTp+rpKUHraynSIwuTZ6MqWKrKeZbaVFteYJBwhNEPwPpoehiqhb72ncVPSw11zLpvRVG+Bck6YaBLXpGV7lfz8Jr7DEl8osZBzV4PxyLslVPnHiz0hyU38hCCxjZRbkiXkyHVOsysM+YuatSjnZaPD8QgkCkPXXa+cL1Dj5iGieFdZIZpLTsxwcsyUQFLFJEuA==;krlqlwRJe69JvMga1dI8IQ=="

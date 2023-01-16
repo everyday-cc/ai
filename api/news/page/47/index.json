@@ -2,6 +2,238 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2022-11-30-we-built-an-algorithm-that-predicts-the-length-of-court-sentences-could-ai-play-a-role-in-the-justice-system.md",
+      "title": "We built an algorithm that predicts the length of court sentences – could AI play a role in the justice system?",
+      "excerpt": "Artificial intelligence could help create transparency and consistency in the legal system – our model shows how.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/we-built-an-algorithm-that-predicts-the-length-of-court-sentences-could-ai-play-a-role-in-the-justice-system-193300",
+      "originalUrl": "https://theconversation.com/we-built-an-algorithm-that-predicts-the-length-of-court-sentences-could-ai-play-a-role-in-the-justice-system-193300",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/497742/original/file-20221128-533-noq54a.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=214&fit=crop",
+          "width": 320,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/we-built-an-algorithm-that-predicts-the-length-of-court-sentences-could-ai-play-a-role-in-the-justice-system-193300",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-built-an-algorithm-that-predicts-the-length-of-court-sentences-could-ai-play-a-role-in-the-justice-system-193300",
+      "publishedDateTime": "2022-11-29T10:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-tcs-partners-with-aws-in-new-quantum-computing-initiative.md",
+      "title": "TCS partners with AWS in new quantum computing initiative",
+      "excerpt": "Tata Consultancy Services today launched the TCS Quantum Computing Lab on AWS, a new service designed to provide enterprise customers with insight into what it described as “one of the most promising technologies of the decade.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/tcs-partners-with-aws-in-new-quantum-computing-initiative/123471",
+      "originalUrl": "https://www.itbusiness.ca/news/tcs-partners-with-aws-in-new-quantum-computing-initiative/123471",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2022/11/GettyImages-13469255221.jpg",
+          "width": 788,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/tcs-partners-with-aws-in-new-quantum-computing-initiative/123471?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/tcs-partners-with-aws-in-new-quantum-computing-initiative/123471?amp=1",
+      "publishedDateTime": "2022-11-29T09:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-baidu-unveils-plans-to-expand-the-fully-driverless-ride-hailing-service-area-in-2023-to-serve-more-customers.md",
+      "title": "Baidu unveils plans to expand the fully driverless ride-hailing service area in 2023 to serve more customers",
+      "excerpt": "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. Is this happening to you frequently? Please report it on our ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3911807-baidu-unveils-plans-to-build-largest-fully-driverless-ride-hailing-service-area-in-2023",
+      "originalUrl": "https://seekingalpha.com/news/3911807-baidu-unveils-plans-to-build-largest-fully-driverless-ride-hailing-service-area-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1168331102/image_1168331102.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T09:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-amazons-new-alexa-feature-uses-ai-to-create-animated-stories-on-echo-show.md",
+      "title": "Amazon’s new Alexa feature uses AI to create animated stories on Echo Show",
+      "excerpt": "Amazon announced today the launch of “Create with Alexa,” a new AI tool for kids that generates animated stories. The company first revealed the feature in September. “Create with Alexa” launched in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/29/amazons-alexa-ai-animated-kids-stories-echo-show/",
+      "originalUrl": "https://techcrunch.com/2022/11/29/amazons-alexa-ai-animated-kids-stories-echo-show/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/assets.aboutamazon.webp",
+          "width": 1189,
+          "height": 743,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/29/amazons-alexa-ai-animated-kids-stories-echo-show/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/29/amazons-alexa-ai-animated-kids-stories-echo-show/amp/",
+      "publishedDateTime": "2022-11-29T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-brain-mri-data-machine-learning-models-might-help-in-diagnosing-adhd.md",
+      "title": "Brain MRI Data & Machine Learning Models Might Help In Diagnosing ADHD",
+      "excerpt": "In a new study, researchers made a breakthrough by potentially finding a far more robust mechanism through which ADHD diagnosis via brain MRI scans might become a reality in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anuradhavaranasi/2022/11/29/brain-mri-data--machine-learning-models-might-help-in-diagnosing-adhd/",
+      "originalUrl": "https://www.forbes.com/sites/anuradhavaranasi/2022/11/29/brain-mri-data--machine-learning-models-might-help-in-diagnosing-adhd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6384bb904b07cd85744597a0/0x0.jpg?format=jpg&width=1200",
+          "width": 1114,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anuradhavaranasi/2022/11/29/brain-mri-data--machine-learning-models-might-help-in-diagnosing-adhd/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anuradhavaranasi/2022/11/29/brain-mri-data--machine-learning-models-might-help-in-diagnosing-adhd/amp/",
+      "publishedDateTime": "2022-11-29T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-san-francisco-police-are-controversially-asking-permission-to-use-killer-robots-on-civilians.md",
       "title": "San Francisco police are controversially asking permission to use killer robots on civilians",
       "excerpt": "A new California law is forcing a discussion on whether police departments should be allowed to use robots to kill people. The Oakland Police Department recently proposed arming remote-control ...",
@@ -883,212 +1115,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-kami-vision-reveals-the-worlds-first-ai-powered-camera-alarm-system-for-the-entire-home-with-247-professional-monitoring.md",
-      "title": "Kami Vision Reveals the World’s First AI-Powered Camera Alarm System for the Entire Home with 24/7 Professional Monitoring",
-      "excerpt": "Kami Vision, the computer vision company that provides AI solutions to enterprise, SMB and consumers, today announced Kami Pro Security, a professional-grade, video alarm system for use in residences and small businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/e9654d74b4b143b98686bb8e46b7b520",
-      "originalUrl": "https://apnews.com/e9654d74b4b143b98686bb8e46b7b520",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-artificial-intelligence-to-be-used-for-security-in-maha-kumh-2025.md",
-      "title": "Artificial Intelligence to be used for security in Maha Kumh 2025",
-      "excerpt": "To ensure full security at the Maha Kumbh in 2025, the Yogi Adityanath government in Uttar Pradesh will use Artificial Intelligence (AI), apart from drones and closed-circuit television",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/news/national/artificial-intelligence-to-be-used-for-security-in-maha-kumh-2025-771168",
-      "originalUrl": "https://www.thehansindia.com/news/national/artificial-intelligence-to-be-used-for-security-in-maha-kumh-2025-771168",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2022/11/29/1322617-maha-kumbh.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/news/national/artificial-intelligence-to-be-used-for-security-in-maha-kumh-2025-771168",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/national/artificial-intelligence-to-be-used-for-security-in-maha-kumh-2025-771168",
-      "publishedDateTime": "2022-11-29T01:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-slow-cognitive-decline-with-flavonols-study-says.md",
-      "title": "Slow cognitive decline with flavonols, study says",
-      "excerpt": "The cognitive score of people in the study who ate the most flavonols declined 0.4 units per decade more slowly than those who ate the fewest flavonols. The results held even after adjusting for other factors that can affect memory, such as age ...",
-      "sourceUrl": null,
-      "webUrl": "https://egyptindependent.com/slow-cognitive-decline-with-flavonols-study-says/",
-      "originalUrl": "https://egyptindependent.com/slow-cognitive-decline-with-flavonols-study-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T01:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Egypt Independent",
-        "domain": "egyptindependent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-these-video-games-for-dogs-might-have-cognitive-benefits-for-aging-pups.md",
-      "title": "These Video Games For Dogs Might Have Cognitive Benefits For Aging Pups",
-      "excerpt": "After reading a 2017 report that touchscreen games could have cognitive benefits for dogs, he realized the project might have wider applications. The first challenge is getting and keeping the dog ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/these-video-games-for-dogs-might-have-cognitive-benefits-for-aging-pups/1100-6509524/",
-      "originalUrl": "https://www.gamespot.com/articles/these-video-games-for-dogs-might-have-cognitive-benefits-for-aging-pups/1100-6509524/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/original/1690/16904437/4068560-joipaw.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/these-video-games-for-dogs-might-have-cognitive-benefits-for-aging-pups/1100-6509524/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/these-video-games-for-dogs-might-have-cognitive-benefits-for-aging-pups/1100-6509524/",
-      "publishedDateTime": "2022-11-29T00:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-tcs-joins-hands-with-aws-to-launch-quantum-computing-lab.md",
-      "title": "TCS joins hands with AWS to launch quantum computing lab",
-      "excerpt": "“TCS Quantum Computing Lab on AWS enables customers to evaluate with agility ... filings and made a progress in technologies like advancing optimization, artificial intelligence, digital security and cryptography, company said in a press statement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/life/technology-tcs-joins-hands-with-aws-to-launch-quantum-computing-lab-2895508/",
-      "originalUrl": "https://www.financialexpress.com/life/technology-tcs-joins-hands-with-aws-to-launch-quantum-computing-lab-2895508/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/06/TCS-Tata-Consultancy-Services-01.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/life/technology-tcs-joins-hands-with-aws-to-launch-quantum-computing-lab-2895508/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-tcs-joins-hands-with-aws-to-launch-quantum-computing-lab-2895508/lite/",
-      "publishedDateTime": "2022-11-28T23:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

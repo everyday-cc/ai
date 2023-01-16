@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-16T17:31:00Z
 originalUrl: "https://economictimes.indiatimes.com/markets/stocks/news/investech-startup-octanom-tech-launches-ai-backed-trading-solutions-platform/articleshow/97037616.cms"
 webUrl: "https://economictimes.indiatimes.com/markets/stocks/news/investech-startup-octanom-tech-launches-ai-backed-trading-solutions-platform/articleshow/97037616.cms"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Indiatimes
