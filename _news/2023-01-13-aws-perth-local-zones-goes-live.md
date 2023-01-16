@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "AWS launches first Australian AWS local zones in Perth"
+    excerpt: "“We have compute-heavy artificial intelligence and machine learning workloads that would be challenging to run without the scalability of AWS,” said Nearmap CEO and MD Dr. Rob Newman. “AWS helps us provide our customers with real-time access to ..."
+    publishedDateTime: 2023-01-16T04:17:00Z
+    webUrl: "https://itwire.com/business-it-news/cloud/aws-launches-first-australian-aws-local-zones-in-perth.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/c76a4f4ad6e0c7de705925e7dcd60f21_M.jpg"
+        width: 375
+        height: 563
+        isCached: true
 
 secured: "Ww9I2J0dCx9UaEvElYMfFu6uPOjFeSiPo16YZ95e7DSUtdG11jZTco11AXITD7YIdxNZ8SizDHYAWzTv2fJ1M3PctEK1AFwbQEOc6mU7pGy7c6ZGpnHKxC48SwD0kdhMBA//bmyvKcXkZDSOQ2xAj9CYsN4jKPn7aIs1N9j+awmYqNNyB1U3ocSaoQw+RLfMgtkriXlb5f6r499zFwbWwzV1YDAXhb6A/1ZUAML7QGS6ACi4X6XEqE1gzkA7zdgMv7sbRccLozy1wZD29v7jkpuTCiWkgadd0yHfUskwymUSJ88knpwwN/rSFKvlV1Ur2EYvbmszZ0hO6dIJ+cmiY6F6CsJhe/Cu7ErakhF7G8o=;osrdpDAsKQRU6YaPP4Gh2Q=="
 ---

@@ -2,6 +2,153 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-01-05-profet-ai-closes-us56m-series-a-round-to-fuel-regional-expansion-and-product-development.md",
+      "title": "PROFET AI CLOSES US$5.6M SERIES A ROUND TO FUEL REGIONAL EXPANSION AND PRODUCT DEVELOPMENT",
+      "excerpt": "Profet AI will use this funding to accelerate its overseas expansion into Japan, Southeast Asia and China, further develop its AutoML Virtual Data Scientist Platform and Ready To Go Applications ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/profet-ai-closes-us-5-6m-series-a-round-to-fuel-regional-expansion-and-product-development-1032001263",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/profet-ai-closes-us-5-6m-series-a-round-to-fuel-regional-expansion-and-product-development-1032001263",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T22:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-6-takeaways-from-amds-ces-consumer-chip-announcements.md",
+      "title": "6 Takeaways from AMD's CES Consumer Chip Announcements",
+      "excerpt": "AMD claims that it's up to 50% more efficient than the Apple M2 neural engine. Intel uses a separate chip for AI acceleration, dubbed Movidius, which means its presence in a laptop will depend on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/6-takeaways-from-amds-ces-consumer-chip-announcements/",
+      "originalUrl": "https://www.cnet.com/tech/computing/6-takeaways-from-amds-ces-consumer-chip-announcements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/0233e86bc3716dd8599c8b0c10592c413979f92b/hub/2023/01/05/418aebe2-d618-4a88-9f70-6a5f5ec461f9/amdryzen7040ces.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/6-takeaways-from-amds-ces-consumer-chip-announcements/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/6-takeaways-from-amds-ces-consumer-chip-announcements/",
+      "publishedDateTime": "2023-01-04T21:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-amds-newest-mobile-processors-have-an-ai-engine.md",
+      "title": "AMD's Newest Mobile Processors Have an AI Engine",
+      "excerpt": "On Wednesday night, AMD fired back during its CES keynote with competing products in both categories: new mobile gpus, new mobile Ryzen 7040 series chips with a built in AI engine, and new 3D V ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/amd-ryzen-ai-mobile-processor-x86-fpga-engine-block-xdn-1849951478",
+      "originalUrl": "https://gizmodo.com/amd-ryzen-ai-mobile-processor-x86-fpga-engine-block-xdn-1849951478",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bf92f220b490c9783cc135ef688984c2.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T21:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding.md",
       "title": "AI startup looks to transform data into AI models and applications, closes series A funding",
       "excerpt": "Taiwanese firm Profet AI has raised $5.6 million to expand into new markets with AI/ML solutions purpose-built for the manufacturing sector.",
@@ -330,6 +477,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-05-artificial-intelligence-is-about-to-defend-a-human-in-court-for-the-first-time-ever.md",
+      "title": "Artificial Intelligence is about to defend a human in court ‘for the first time ever’",
+      "excerpt": "ARTIFICIAL Intelligence is breaking a new frontier, with a company teasing that their robot will be playing an important part in a trial in court. The AI robot will be the first to advise a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.ie/tech/news-tech/9999684/artificial-intelligence-defend-a-human-in-court-first-time/",
+      "originalUrl": "https://www.thesun.ie/tech/news-tech/9999684/artificial-intelligence-defend-a-human-in-court-first-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/01/MF-AI-Court-OFFPLAT.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.ie/tech/news-tech/9999684/artificial-intelligence-defend-a-human-in-court-first-time/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/news-tech/9999684/artificial-intelligence-defend-a-human-in-court-first-time/amp/",
+      "publishedDateTime": "2023-01-04T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Irish Sun",
+        "domain": "thesun.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-citizens-cz-smart-youq-watch-is-powered-by-nasa-research-and-ibm-watson-ai.md",
       "title": "Citizen’s CZ Smart YouQ watch is powered by NASA research and IBM Watson AI",
       "excerpt": "Citizen has revealed a smartwatch that’s cut through the CES 2023 noise thanks to an impressive double-whammy collaboration involving NASA and IBM’s AI-powered Watson Studio. Available in a few configurations ranging from casual and sport (costing from ...",
@@ -369,49 +559,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-artificial-intelligence-is-about-to-defend-a-human-in-court-for-the-first-time-ever.md",
-      "title": "Artificial Intelligence is about to defend a human in court ‘for the first time ever’",
-      "excerpt": "If you click on a link in this story we may earn affiliate revenue. ARTIFICIAL Intelligence is breaking a new frontier, with a company teasing that their robot will be playing an important part in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/tech/20941564/artificial-intelligence-defend-a-human-in-court-first-time/",
-      "originalUrl": "https://www.thesun.co.uk/tech/20941564/artificial-intelligence-defend-a-human-in-court-first-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2023/01/MF-AI-Court-OFFPLAT.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/20941564/artificial-intelligence-defend-a-human-in-court-first-time/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/20941564/artificial-intelligence-defend-a-human-in-court-first-time/amp/",
-      "publishedDateTime": "2023-01-04T10:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -638,6 +785,40 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-edge-ai-chip-company-syntiant-unveils-ndp115-neural-decision-processor-at-ces-2023.md",
+      "title": "Edge AI Chip Company Syntiant Unveils NDP115 Neural Decision Processor at CES 2023",
+      "excerpt": "IRVINE, Calif., Jan. 04, 2023 (GLOBE NEWSWIRE) -- Syntiant Corp., a provider of deep learning solutions for edge AI applications, today introduced the Syntiant NDP115 Neural Decision Processor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/g30276482/edge-ai-chip-company-syntiant-unveils-ndp115-neural-decision-processor-at-ces-2023",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/g30276482/edge-ai-chip-company-syntiant-unveils-ndp115-neural-decision-processor-at-ces-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T08:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -939,188 +1120,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-artificial-intelligence-ai-in-education-market-industry-updates-new-opportunities-major-strategies-and-forecast-2028.md",
-      "title": "Artificial Intelligence (AI) in Education Market Industry Updates, New Opportunities, Major Strategies, And Forecast 2028",
-      "excerpt": "\"Artificial Intelligence (AI) in Education Market\" studies the global Market Size and Forecast by 2023-2028. The report includes a comprehensive study on the definition, classification and market survey of Production Units in the market along with their product specifications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-industry-updates-new-opportunities-major-strategies-and-forecast-2028-2023-01-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-industry-updates-new-opportunities-major-strategies-and-forecast-2028-2023-01-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T19:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-autonomous-vehicles-eye-bigger-business-opportunities.md",
-      "title": "Autonomous vehicles eye bigger business opportunities",
-      "excerpt": "China has taken the lead in the research and development as well as application of autonomous driving technology around the world and it is the first country to allow fully driverless paid robotaxi operations,",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202301/04/WS63b4d882a31057c47eba794c.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202301/04/WS63b4d882a31057c47eba794c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202301/04/63b4d882a31057c4b4b2ab91.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T19:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-owl-autonomous-imaging-launches-monocular-3d-thermal-ranger-computer-vision-for-adas-and-autonomous-vehicles.md",
-      "title": "Owl Autonomous Imaging launches monocular 3D Thermal Ranger computer vision for ADAS and autonomous vehicles",
-      "excerpt": "Owl Autonomous Imaging announced the availability of an Evaluation Kit for their new Thermal Ranger ADAS & Autonomous Navigation Development Platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20230103PR202.html?chid=9",
-      "originalUrl": "https://www.digitimes.com/news/a20230103PR202.html?chid=9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20230103pr202_files/4_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-self-driving-trucks-poised-to-overhaul-long-haul-logistics.md",
-      "title": "Self-driving trucks poised to overhaul long-haul logistics",
-      "excerpt": "Chinese autonomous driving startup Pony.ai has been making forays into the self-driving truck segment. The company announced in November it had formed a strategic alliance with two partners — Chinese logistics company Sinotrans Ltd and machinery manufacturer Sany Group — to work on promoting smart logistics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202301/04/WS63b4d91ca31057c47eba7957.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202301/04/WS63b4d91ca31057c47eba7957.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202301/04/63b4d91ca31057c4b4b2ab9d.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T17:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

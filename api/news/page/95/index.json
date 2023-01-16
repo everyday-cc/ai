@@ -2,6 +2,205 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2022-10-18-netapp-ceo-the-promise-of-ai-is-much-more-real-today.md",
+      "title": "NetApp CEO: The Promise of AI is \"Much More Real Today\"",
+      "excerpt": "George Kurian says companies that hold out on AI are missing the opportunity for business success",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/NetApp-CEO-The-Promise-of-AI-is-Much-More-Real-Today/da1118b1-548e-4f1a-b481-99b2086fc502",
+      "originalUrl": "https://fortune.com/videos/watch/NetApp-CEO-The-Promise-of-AI-is-Much-More-Real-Today/da1118b1-548e-4f1a-b481-99b2086fc502",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/da1118b1-548e-4f1a-b481-99b2086fc502/Images/posterImage-ver1-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/netapp-ceo%3A-the-promise-of-ai-is-%22much-more-real-today%22/da1118b1-548e-4f1a-b481-99b2086fc502/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/netapp-ceo%3A-the-promise-of-ai-is-%22much-more-real-today%22/da1118b1-548e-4f1a-b481-99b2086fc502/amp",
+      "publishedDateTime": "2022-10-17T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-why-andhras-face-recognition-system-for-teacher-attendance-wont-reform-education.md",
+      "title": "Why Andhra’s face recognition system for teacher attendance won’t reform education",
+      "excerpt": "A teacher’s presence is, of course, necessary but it's more important for he/she to possess curiosity and pass on the spirit of inquiry to students. These issues require a humanist understanding of teachers as professionals,",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/opinion/columns/why-andhras-face-recognition-system-for-teacher-attendance-wont-reform-education-8214586/",
+      "originalUrl": "https://indianexpress.com/article/opinion/columns/why-andhras-face-recognition-system-for-teacher-attendance-wont-reform-education-8214586/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/10/Teachers.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/opinion/columns/why-andhras-face-recognition-system-for-teacher-attendance-wont-reform-education-8214586/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/why-andhras-face-recognition-system-for-teacher-attendance-wont-reform-education-8214586/lite/",
+      "publishedDateTime": "2022-10-17T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-google-cloud-next-2022-customers-benefit-from-enhanced-ai-capabilities.md",
+      "title": "Google Cloud Next 2022 – Customers Benefit From Enhanced AI Capabilities",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead covers the announcements that stuck out to him at Google Cloud Next 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/17/google-cloud-next-2022--customers-benefit-from-enhanced-ai-capabilities/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/17/google-cloud-next-2022--customers-benefit-from-enhanced-ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634dc83f37b4033ea58e9c6e/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/17/google-cloud-next-2022--customers-benefit-from-enhanced-ai-capabilities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/10/17/google-cloud-next-2022--customers-benefit-from-enhanced-ai-capabilities/amp/",
+      "publishedDateTime": "2022-10-17T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-ai-in-computer-vision-market-worth-us-950805-million-by-2027-at-a-cagr-of-469-exclusive-report-by-the-insight-partners.md",
+      "title": "AI in Computer Vision Market worth US$ 95,080.5 million by 2027 at a CAGR of 46.9% – Exclusive Report by The Insight Partners",
+      "excerpt": "According to our latest market study on \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-us-950805-million-by-2027-at-a-cagr-of-469-exclusive-report-by-the-insight-partners-2022-10-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-us-950805-million-by-2027-at-a-cagr-of-469-exclusive-report-by-the-insight-partners-2022-10-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-3-key-insights-on-competitive-landscape-in-global-machine-learning-as-a-service-mlaas-market-ken-research.md",
       "title": "3 Key Insights on Competitive Landscape in Global Machine Learning as a Service (MLaaS) Market: Ken Research",
       "excerpt": "Few Diverse Global Players Dominate the Market Holding Majority Revenue Share Despite the Presence of about ~150",
@@ -907,180 +1106,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-tech-companies-ui-researchers-partner-for-speech-accessibility-project.md",
-      "title": "Tech companies, UI researchers partner for speech accessibility project",
-      "excerpt": "According to the Beckman Institute’s website, the project aims to adapt speech recognition to a more diverse variety of speech patterns, including those with speech disabilities. The project will be funded for a minimum of 2 years and will result in an ...",
-      "sourceUrl": null,
-      "webUrl": "https://dailyillini.com/news-stories/administration/2022/10/17/speech-accessibility-research/",
-      "originalUrl": "https://dailyillini.com/news-stories/administration/2022/10/17/speech-accessibility-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-16T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Illini",
-        "domain": "dailyillini.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-this-salon-favorite-hack-will-make-your-deep-conditioner-even-more-hydratingjust-in-time-for-dry-hair-season.md",
-      "title": "This Salon-Favorite Hack Will Make Your Deep Conditioner Even More Hydrating—Just in Time for Dry Hair Season",
-      "excerpt": "With the Well+Good SHOP, our editors put their years of know-how to work in order to pick products (from skin care to self care and beyond) they’re betting you’ll love. While our editors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wellandgood.com/deep-conditioning-tools/",
-      "originalUrl": "https://www.wellandgood.com/deep-conditioning-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wellandgood.com/wp-content/uploads/2022/10/BONNINSTUDIO-1.jpg",
-          "width": 1170,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wellandgood.com/deep-conditioning-tools/amp/",
-      "cdnAmpWebUrl": "https://www-wellandgood-com.cdn.ampproject.org/c/s/www.wellandgood.com/deep-conditioning-tools/amp/",
-      "publishedDateTime": "2022-10-16T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Well+Good",
-        "domain": "wellandgood.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022.md",
-      "title": "Microsoft CEO talks AI, security, teams, Azure at Ignite 2022",
-      "excerpt": "Without naming names, Microsoft CEO Satya Nadella used his Ignite 2022 keynote address to tout the tech giant’s cloud offerings as better than competitors, with “more cost effective” data, enterprise applications and cybersecurity capabilities,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022-586522",
-      "originalUrl": "https://www.crn.com.au/news/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022-586522",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/satya-nadella_web.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-16T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-16-we-are-entering-a-new-era-for-ai-powered-robotics.md",
-      "title": "We are entering a new era for AI-powered robotics",
-      "excerpt": "Humanoid robots are yet to roam the world but with advancements like Tesla's \"Optimus,\" we are embarking on the era of AI-powered robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/",
-      "originalUrl": "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1194402627.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/amp/",
-      "publishedDateTime": "2022-10-16T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

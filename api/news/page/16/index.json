@@ -2,6 +2,215 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-12-22-ukraine-has-become-the-worlds-testing-ground-for-military-robots.md",
+      "title": "Ukraine has become the world’s testing ground for military robots",
+      "excerpt": "Artificial intelligence-powered vehicles have been used in war for decades, but the Russian War on Ukraine is the modern world's testing bed.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ukraine-has-become-worlds-testing-ground-for-military-robots",
+      "originalUrl": "https://thenextweb.com/news/ukraine-has-become-worlds-testing-ground-for-military-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F12%2Fmilremspecs.jpg&signature=e3193e6efd2ff6b5221db5b1f1ff5a31",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-21T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-21-speed-ml-development-using-sagemaker-feature-store-and-apache-iceberg-offline-store-compaction.md",
+      "title": "­­Speed ML development using SageMaker Feature Store and Apache Iceberg offline store compaction",
+      "excerpt": "Today, companies are establishing feature stores to provide a central repository to scale ML development across business units and data science teams. As feature data grows in size and complexity, data scientists need to be able to efficiently query these feature stores to extract datasets for experimentation,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/speed-ml-development-using-sagemaker-feature-store-and-apache-iceberg-offline-store-compaction/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/speed-ml-development-using-sagemaker-feature-store-and-apache-iceberg-offline-store-compaction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/21/speed-ml-development-sagemaker-feature-store-iceberg.jpg",
+          "width": 1566,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-21T08:39:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-22-inworld-ai-drives-toward-better-ai-characters-in-games-with-grants-and-santa-demo.md",
+      "title": "Inworld AI drives toward better AI characters in games with grants and Santa demo",
+      "excerpt": "Avatars have been around for a lot of video game history, but for most of that history, players would never mistake those characters for the humans they imitate. Inworld AI wants to change that by infusing AI into virtual characters to make them smarter than ever.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/inworld-ai-drives-toward-better-ai-characters-in-games-with-grants-and-santa-demo/",
+      "originalUrl": "https://venturebeat.com/games/inworld-ai-drives-toward-better-ai-characters-in-games-with-grants-and-santa-demo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/inworld-santa.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 747,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/inworld-ai-drives-toward-better-ai-characters-in-games-with-grants-and-santa-demo/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/inworld-ai-drives-toward-better-ai-characters-in-games-with-grants-and-santa-demo/amp/",
+      "publishedDateTime": "2022-12-21T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-22-ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic.md",
+      "title": "AI In Big Pharma: The First Antibody Designed Using AI In The Clinic",
+      "excerpt": "In recent years, a hand full of AI startup companies that managed to utilize AI/ML to discover novel targets and/or design therapeutics reached human clinical trials and received massive media attention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/12/21/ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic/",
+      "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/12/21/ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63a32fd78cc45940bdc9d411/0x0.jpg?format=jpg&crop=1502,1002,x0,y41,safe&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/12/21/ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2022/12/21/ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic/amp/",
+      "publishedDateTime": "2022-12-21T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-21-is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence.md",
       "title": "Is There A ChatGPT Stock? Can You Invest In ChatGPT And Other Types Of Artificial Intelligence?",
       "excerpt": "Can you invest in ChatGPT? We look at this new, revolutionary product that OpenAI released and other readily available AI investment strategies.",
@@ -1002,205 +1211,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-20-the-download-home-robot-surveillance-and-problematic-ai-text.md",
-      "title": "The Download: home robot surveillance, and problematic AI text",
-      "excerpt": "The images were not taken by a person, but by development versions of iRobot’s Roomba J7 series robot vacuum, the company which Amazon recently acquired for $1.7 billion in a pending deal. They were then sent to Scale AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/12/20/1065669/download-home-robot-surveillance-problematic-ai-text/",
-      "originalUrl": "https://www.technologyreview.com/2022/12/20/1065669/download-home-robot-surveillance-problematic-ai-text/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh5.googleusercontent.com/FWDo5Ks5z0Z3BAyZhHnVyFcVcKrzJnnayDPgPbgUMYZNjjuS4Xp6DlhY9QiZwUgS3hS53MkIY9erWLNgMZpPboC_994L9zqSFAlM2ATZrfjjVEPI41f697ktPRVatwyOSmVeIfpOMIOnuQFSYkAY-1_YjWIOIfAM0YeAp60PQPvNMSLSDbGRL-SrfE7Qsg",
-          "width": 1600,
-          "height": 896,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/12/20/1065669/download-home-robot-surveillance-problematic-ai-text/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/20/1065669/download-home-robot-surveillance-problematic-ai-text/amp/",
-      "publishedDateTime": "2022-12-20T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-20-artificial-intelligence-platforms-will-drive-the-next-phase-of-trade-finance-growth.md",
-      "title": "Artificial Intelligence Platforms Will Drive The Next Phase Of Trade Finance Growth",
-      "excerpt": "Now is the time for organizations to start considering trade finance software and vetting solutions that can help them digitalize their processes and grow alongside the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/20/artificial-intelligence-platforms-will-drive-the-next-phase-of-trade-finance-growth/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/20/artificial-intelligence-platforms-will-drive-the-next-phase-of-trade-finance-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63a077ac584d9964d48cea81/0x0.jpg?format=jpg&crop=2176,1451,x0,y53,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/20/artificial-intelligence-platforms-will-drive-the-next-phase-of-trade-finance-growth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/20/artificial-intelligence-platforms-will-drive-the-next-phase-of-trade-finance-growth/amp/",
-      "publishedDateTime": "2022-12-20T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-12-20-hnalive-launches-ai-and-3d-cloud-solution-for-manufacturers.md",
-      "title": "HNA.Live Launches AI and 3D Cloud Solution for Manufacturers",
-      "excerpt": "Fueling Industry 4.0 TransformationSAN JOSE, Calif., Dec. 20, 2022 /PRNewswire/ -- HNA Live, a data analytics company serving manufacturing and",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/hna-live-launches-ai-and-3d-cloud-solution-for-manufacturers-1031981945",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/hna-live-launches-ai-and-3d-cloud-solution-for-manufacturers-1031981945",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1970588/SECO_MIND_USA_LLC_HNA_Live_MFG.jpg",
-          "width": 400,
-          "height": 226,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-20T03:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-20-how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers.md",
-      "title": "How Artificial Intelligence Is Transforming Biopharma (And What It Means For Marketers)",
-      "excerpt": "Artificial intelligence has the potential to change the way the world currently approaches medicine. These developments will also change the way biopharma marketers need to approach their work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/12/20/how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/12/20/how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63a0aafac894b4f0c7e82127/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/12/20/how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/12/20/how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers/amp/",
-      "publishedDateTime": "2022-12-20T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

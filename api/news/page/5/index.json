@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-10-global-edge-ai-chips-market-size-2023-research-report-by-growth-rate-analysis-type-application-revenue-estimates-and-forecast-to-2028.md",
+      "title": "Global Edge AI Chips Market Size 2023 Research Report by Growth Rate Analysis, Type, Application, Revenue Estimates and Forecast to 2028",
+      "excerpt": "Jan 10, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Edge AI Chips Market”",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-size-2023-research-report-by-growth-rate-analysis-type-application-revenue-estimates-and-forecast-to-2028-2023-01-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-size-2023-research-report-by-growth-rate-analysis-type-application-revenue-estimates-and-forecast-to-2028-2023-01-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T22:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-data-science-and-machine-learning-service-market-report-2023-in-depth-market-analysis-and-future-prospects-till-2029.md",
       "title": "Data Science and Machine Learning Service Market Report 2023 In-Depth Market Analysis and Future Prospects Till 2029",
       "excerpt": "Data Science and Machine Learning Service Market (US, Europe, Asia-Pacific) 2023 research includes historical and",
@@ -312,6 +364,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-more-driverless-cars-are-hitting-the-roadways-in-austin.md",
+      "title": "More driverless cars are hitting the roadways in Austin",
+      "excerpt": "AUSTIN, Texas — Driverless cars are on the roadways of Downtown and Central Austin. The cars are part of service similar to Uber called Cruise LLC. The company is based out of San Francisco and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kvue.com/article/money/economy/boomtown-2040/driverless-cars-roadways-austin-cruise-2023/269-ff9c6f48-4e71-4b45-81bd-670ccb4324ca",
+      "originalUrl": "https://www.kvue.com/article/money/economy/boomtown-2040/driverless-cars-roadways-austin-cruise-2023/269-ff9c6f48-4e71-4b45-81bd-670ccb4324ca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.kvue.com/assets/KVUE/images/27bd3c50-bb34-423f-b4a9-ad85a9766c1c/27bd3c50-bb34-423f-b4a9-ad85a9766c1c_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kvue.com/amp/article/money/economy/boomtown-2040/driverless-cars-roadways-austin-cruise-2023/269-ff9c6f48-4e71-4b45-81bd-670ccb4324ca",
+      "cdnAmpWebUrl": "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/money/economy/boomtown-2040/driverless-cars-roadways-austin-cruise-2023/269-ff9c6f48-4e71-4b45-81bd-670ccb4324ca",
+      "publishedDateTime": "2023-01-09T16:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVUE",
+        "domain": "kvue.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1080,92 +1175,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-deep-learning-designed-diffractive-processor-computes-hundreds-of-transformations-in-parallel.md",
-      "title": "Deep learning-designed diffractive processor computes hundreds of transformations in parallel",
-      "excerpt": "For instance, a diffractive optical network is designed through the combination of optics and deep learning to optically perform complex computational tasks such as image classification and ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-deep-learning-designed-diffractive-processor-hundreds.html",
-      "originalUrl": "https://phys.org/news/2023-01-deep-learning-designed-diffractive-processor-hundreds.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-designed.jpg",
-          "width": 920,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-deep-learning-designed-diffractive-processor-hundreds.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-deep-learning-designed-diffractive-processor-hundreds.amp",
-      "publishedDateTime": "2023-01-09T13:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-nvidia-may-use-ai-to-tweak-graphics-drivers-and-squeeze-out-more-performance.md",
-      "title": "NVIDIA may use AI to tweak graphics drivers and squeeze out more performance",
-      "excerpt": "NVIDIA will reportedly use its advanced AI solutions to tweak and optimize its graphics drivers to squeeze out more incremental video card performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/89967/nvidia-may-use-ai-to-tweak-graphics-drivers-and-squeeze-out-more-performance/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/89967/nvidia-may-use-ai-to-tweak-graphics-drivers-and-squeeze-out-more-performance/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/8/9/89967_2_nvidia-will-use-ai-to-tweak-graphics-drivers-and-squeeze-out-more-performance.jpg",
-          "width": 620,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T12:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

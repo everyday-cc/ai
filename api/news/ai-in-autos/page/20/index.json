@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-09-07-teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it.md",
+      "title": "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it",
+      "excerpt": "Tesla's price for the feature it calls \"full self-driving\" has increased again. This time to $15,000, making it an unusually expensive option for a car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/09/07/business/tesla-fsd-price-increase/index.html",
+      "originalUrl": "https://www.cnn.com/2022/09/07/business/tesla-fsd-price-increase/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220906152126-02-tesla-interior-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/09/07/business/tesla-fsd-price-increase/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/07/business/tesla-fsd-price-increase/index.html",
+      "publishedDateTime": "2022-09-07T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-mcdonalds-breakfasts-driverless-buses-among-innovations-launched-in-newcastle.md",
       "title": "McDonald's breakfasts, driverless buses among innovations launched in Newcastle",
       "excerpt": "The polymer bank note? Newcastle tested and passed. The driverless bus? Trialled in Newy. Sydney's infamous lockout laws? Taken up after a \"successful\" installation in Newcastle. The Hunter has ...",

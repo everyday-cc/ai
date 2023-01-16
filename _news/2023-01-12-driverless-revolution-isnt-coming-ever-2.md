@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "New driverless rideshare Cruise caught on video driving in the wrong lane multiple times"
-    excerpt: "AUSTIN, Texas — A new driverless rideshare, Cruise LLC, was seen driving in the wrong lane multiple times over the weekend. It's a rideshare company similar to Uber, except there's no human driver."
-    publishedDateTime: 2023-01-11T11:39:00Z
-    webUrl: "https://www.khou.com/article/traffic/cruise-driverless-rideshare-austin-bike-lane/269-c8826ccb-526b-42f5-9e96-8437740ff21b"
-    ampWebUrl: "https://www.khou.com/amp/article/tech/cruise-driverless-rideshare-austin-bike-lane/269-c8826ccb-526b-42f5-9e96-8437740ff21b"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/tech/cruise-driverless-rideshare-austin-bike-lane/269-c8826ccb-526b-42f5-9e96-8437740ff21b"
+  - title: "Driverless electric hauling trucks in the pipeline at Cripple Creek & Victor Gold Mine"
+    excerpt: "This year, Blake said the Cripple Creek & Victor Gold Mine is focusing on completing a technical design review, which includes identifying areas on the property where a driverless haul truck can ..."
+    publishedDateTime: 2023-01-12T21:46:00Z
+    webUrl: "https://gazette.com/business/driverless-electric-hauling-trucks-in-the-pipeline-at-cripple-creek-victor-gold-mine/article_c50e8fb4-929d-11ed-8f52-233148ba0f1f.html"
+    ampWebUrl: "https://gazette.com/business/driverless-electric-hauling-trucks-in-the-pipeline-at-cripple-creek-victor-gold-mine/article_c50e8fb4-929d-11ed-8f52-233148ba0f1f.amp.html"
+    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/business/driverless-electric-hauling-trucks-in-the-pipeline-at-cripple-creek-victor-gold-mine/article_c50e8fb4-929d-11ed-8f52-233148ba0f1f.amp.html"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 50
+      name: The Gazette
+      domain: gazette.com
+    quality: 51
     images:
-      - url: "https://media.khou.com/assets/KVUE/images/adc61435-61cc-4e7b-bf6b-f1f20e3cc86e/adc61435-61cc-4e7b-bf6b-f1f20e3cc86e_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/d/a0/da0bcaa0-92a0-11ed-ae08-ef2b3d14163b/63c04722dd566.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "+uXgqrE3qQWr4TJ76BYtnf5UuOXxIm6qDsf26Z0am5bYQcG+GpZ8HJSIjPBE9UggLj0Jq64Bn1Ez971IWvNM9ssa7aiIbs+Gr36yWi+qMiEXOFtReVTYPxcb5HnK5MF8kHRWmxT8lJ5MEWaGU/tz0fB2x2nrf9bFDZ2TfIS5ZE7TAs/PLw9yNo8gDPbnXrj8vNhK1K38EPzLWafaUNkpVp8hprTCRVbdr5qsb4nKVCxzFUM43tlTxWFU3Yiy7y9tk8vEojX7/eTPgjf4qYvt3tDR+5Ru6ownbmYwYUCuF1PlhHR+mf9R3hnl11dRiuWyft3yKBQnDDzDBxnDYN7MOu3JsBKMgahchN2jhA28XZE=;3TN9Jg5QmEvlJr8YGd8j8w=="

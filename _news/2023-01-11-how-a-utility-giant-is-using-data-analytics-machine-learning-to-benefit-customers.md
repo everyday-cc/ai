@@ -24,6 +24,7 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-505464673-e1646666749497.png?w=1200&strip=all"

@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-10-28-its-time-to-admit-self-driving-cars-arent-going-to-happen.md",
+      "title": "It’s time to admit self-driving cars aren’t going to happen",
+      "excerpt": "With the shutdown of Argo AI, Ford walking away from full autonomy and Tesla under criminal investigation, full self-driving looks impossible.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/",
+      "originalUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/self-driving-stop.jpg?resize=1200,864",
+          "width": 1200,
+          "height": 864,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/",
+      "publishedDateTime": "2022-10-27T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-tesla-is-under-criminal-investigation-over-self-driving-car-claims.md",
       "title": "Tesla Is Under Criminal Investigation Over Self-Driving Car Claims",
       "excerpt": "An investigation recently launched examining Tesla's claims about its vehicles self driving capabilities, probing whether or not the company has misled its consumers.",
@@ -1404,50 +1456,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-study-finds-that-artificial-intelligence-can-determine-race-from-medical-images.md",
-      "title": "Study finds that artificial intelligence can determine race from medical images",
-      "excerpt": "Artificial intelligence (AI) is used in a wide variety of health care settings, from analyzing medical images to assisting with surgical procedures. While AI can sometimes outperform trained clinicians,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/study-finds-that-artif.jpg",
-          "width": 2880,
-          "height": 1338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp",
-      "publishedDateTime": "2022-10-19T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

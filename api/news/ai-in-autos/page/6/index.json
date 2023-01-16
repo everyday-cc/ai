@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-12-03-how-artificial-intelligence-swayed-the-midterm-elections-and-will-become-a-permanent-feature-of-democracy.md",
+      "title": "How Artificial Intelligence Swayed The Midterm Elections - And Will Become A Permanent Feature Of Democracy",
+      "excerpt": "Artificial Intelligence helped give Democrats a fundraising edge this election season, allowing the blue party to retain control of the Senate and blunt a Republican takeover of the House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/craigsmith/2022/12/02/how-artificial-intelligence-swayed-the-midterm-electionsand-will-become-a-permanent-feature-of-democracy/",
+      "originalUrl": "https://www.forbes.com/sites/craigsmith/2022/12/02/how-artificial-intelligence-swayed-the-midterm-electionsand-will-become-a-permanent-feature-of-democracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638a3fd6ebe47b4c2020296e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2022/12/02/how-artificial-intelligence-swayed-the-midterm-electionsand-will-become-a-permanent-feature-of-democracy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2022/12/02/how-artificial-intelligence-swayed-the-midterm-electionsand-will-become-a-permanent-feature-of-democracy/amp/",
+      "publishedDateTime": "2022-12-02T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-12-03-uber-aurora-to-expand-self-driving-truck-ops-in-texas-to-meet-holiday-rush.md",
       "title": "Uber, Aurora to expand self-driving truck ops in Texas to meet holiday rush",
       "excerpt": "Dec 2 (Reuters) - Uber Technologies Inc (UBER.N) and self-driving technology company Aurora Innovation Inc (AUR.O) will expand their driverless pilot program in Texas to meet increased delivery demand during the holidays.",
@@ -1351,40 +1404,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-baidu-to-expand-fully-driverless-ride-hailing-service-area.md",
-      "title": "Baidu To Expand Fully Driverless Ride-Hailing Service Area",
-      "excerpt": "In August, Baidu said it secured China's first-ever permits for commercial fully driverless ride-hailing services. China was the first country in the world that allowed fared fully driverless ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidu-to-expand-fully-driverless-ride-hailing-service-area",
-      "originalUrl": "https://www.nasdaq.com/articles/baidu-to-expand-fully-driverless-ride-hailing-service-area",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T02:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

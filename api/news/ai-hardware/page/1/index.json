@@ -1397,45 +1397,27 @@
       ]
     },
     {
-      "path": "_news/2023-01-04-perceive-ai-launches-2nd-edge-ai-chip-for-low-power-applications.md",
-      "title": "Perceive AI Launches 2nd Edge AI Chip For Low Power Applications",
-      "excerpt": "Company claims Ergo2 is up to four times faster than Perceive’s first-generation Ergo chip, and can handle much larger models such as NLP. Edge AI is coming into its own, with a variety of chips ...",
+      "path": "_news/2023-01-05-edge-ai-chip-company-syntiant-unveils-ndp115-neural-decision-processor-at-ces-2023.md",
+      "title": "Edge AI Chip Company Syntiant Unveils NDP115 Neural Decision Processor at CES 2023",
+      "excerpt": "IRVINE, Calif., Jan. 04, 2023 (GLOBE NEWSWIRE) -- Syntiant Corp., a provider of deep learning solutions for edge AI applications, today introduced the Syntiant NDP115 Neural Decision Processor ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/01/04/perceive-ai-launches-2nd-edge-ai-chip-for-low-power-applications/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/01/04/perceive-ai-launches-2nd-edge-ai-chip-for-low-power-applications/",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/g30276482/edge-ai-chip-company-syntiant-unveils-ndp115-neural-decision-processor-at-ces-2023",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/g30276482/edge-ai-chip-company-syntiant-unveils-ndp115-neural-decision-processor-at-ces-2023",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63b493feacba027dca69d65f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/01/04/perceive-ai-launches-2nd-edge-ai-chip-for-low-power-applications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/01/04/perceive-ai-launches-2nd-edge-ai-chip-for-low-power-applications/amp/",
-      "publishedDateTime": "2023-01-03T16:00:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T08:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -267,21 +267,21 @@
       ]
     },
     {
-      "path": "_news/2023-01-11-denodo-achieves-aws-data-and-analytics-isv-competency-status.md",
-      "title": "Denodo Achieves AWS Data and Analytics ISV Competency Status",
-      "excerpt": "Denodo, a leader in data management, today announced that it has achieved the Amazon Web Services (AWS) Data and Analytics ISV Competency status. Attaining this status differentiates Denodo as an AWS Partner that has successfully demonstrated deep expertise in data integration,",
+      "path": "_news/2023-01-13-aws-opens-first-australian-local-zone-in-perth.md",
+      "title": "AWS opens first Australian Local Zone in Perth",
+      "excerpt": "AWS’s first Local Zone in Australia will bring low-latency performance to companies such as Woodside Energy and Nearmaps.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswireindia.com/denodo-achieves-aws-data-and-analytics-isv-competency-status-82492.html",
-      "originalUrl": "https://www.businesswireindia.com/denodo-achieves-aws-data-and-analytics-isv-competency-status-82492.html",
+      "webUrl": "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth",
+      "originalUrl": "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://cms.businesswireindia.com/Uploads/OGTag/OG_Companylog_82492.jpg",
+          "url": "https://www.computerweekly.com/visuals/German/article/cloud-migration-2-adobe.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -289,13 +289,47 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T22:00:00-08:00",
+      "ampWebUrl": "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth?amp=1",
+      "publishedDateTime": "2023-01-12T15:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswireindia.com",
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-denodo-achieves-aws-data-and-analytics-isv-competency-status.md",
+      "title": "Denodo Achieves AWS Data and Analytics ISV Competency Status",
+      "excerpt": "Denodo, a leader in data management, today announced that it has achieved the Amazon Web Services (AWS) Data and Analytics ISV Competency status. Attaining this status differentiates Denodo as an AWS Partner that has successfully demonstrated deep expertise in data integration,",
+      "sourceUrl": null,
+      "webUrl": "https://www.afp.com/en/news/1314/denodo-achieves-aws-data-and-analytics-isv-competency-status-202301100054891",
+      "originalUrl": "https://www.afp.com/en/news/1314/denodo-achieves-aws-data-and-analytics-isv-competency-status-202301100054891",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-11T00:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AFP",
+        "domain": "afp.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -359,7 +393,8 @@
       "topics": [
         "AWS AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Finance"
       ]
     },
     {
@@ -1423,40 +1458,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-entrust-adds-identity-as-a-service-to-aws-marketplace.md",
-      "title": "Entrust adds Identity as a Service to AWS marketplace",
-      "excerpt": "Entrust, a pioneer in trusted payments, identities, and digital infrastructure is now offering its cloud-based Identity and Access Management (IAM) solution in AWS Marketplace, a digital catalogue with thousands of software listings from independent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/tags/artificial-intelligence-ai/news/entrust-adds-identity-service-aws-marketplace-co-11462-ga-co-1537871022-ga.1671016890.html",
-      "originalUrl": "https://www.sourcesecurity.com/tags/artificial-intelligence-ai/news/entrust-adds-identity-service-aws-marketplace-co-11462-ga-co-1537871022-ga.1671016890.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/entrust-adds-identity-service-aws-marketplace-co-11462-ga-co-1537871022-ga.1671016890.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/entrust-adds-identity-service-aws-marketplace-co-11462-ga-co-1537871022-ga.1671016890.html",
-      "publishedDateTime": "2022-12-14T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

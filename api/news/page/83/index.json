@@ -2,6 +2,206 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2022-10-27-iot-world-the-ai-summit-austin-nov-2-3.md",
+      "title": "IoT World & The AI Summit Austin, Nov. 2-3",
+      "excerpt": "IoT World & The AI Summit Austin celebrates the convergence of IoT and AI — two transformative technologies used in everyday life by everyone. Jenalea Howell, the vice president of AI &",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/studio-512/iot-world-the-ai-summit-austin-nov-2-3/",
+      "originalUrl": "https://www.kxan.com/studio-512/iot-world-the-ai-summit-austin-nov-2-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2022/10/ai.jpg?w=1280",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kxan.com/studio-512/iot-world-the-ai-summit-austin-nov-2-3/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/studio-512/iot-world-the-ai-summit-austin-nov-2-3/amp/",
+      "publishedDateTime": "2022-10-26T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-a-new-genome-sequencing-tool-powered-with-our-technology.md",
+      "title": "A new genome sequencing tool powered with our technology",
+      "excerpt": "Genome sequencing provides a more complete description of cells and organisms, allowing scientists to uncover serious genetic conditions such as the elevated risk for breast cancer or pulmonary arterial hypertension. While researching genomics has the potential to save lives and preserve people’s quality",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/health/a-new-genome-sequencing-tool-powered-with-our-technology/",
+      "originalUrl": "https://blog.google/technology/health/a-new-genome-sequencing-tool-powered-with-our-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_card.max-1300x1300.png",
+          "width": 1300,
+          "height": 728,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds.md",
+      "title": "Bumble Releases Dick-Pic-Fighting AI Into the Open-Source Wilds",
+      "excerpt": "No dating app can stop cyberflashers all by itself. So Bumble is sharing its software to help stop sexual harassment across the internet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/2213c38769a7ec9c5f6ceee918340cd920557932/hub/2022/10/25/d6c6b6d0-fd12-4047-bc3d-0e6e171be888/dall-e-2022-10-25-16-44-48-contented-female-commander-with-closed-eyes-deploys-her-army-of-robot-bees-to-attack-digital-art.png?auto=webp&fit=bounds&height=630&precrop=1024,538,x0,y0&width=1200",
+          "width": 1199,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/",
+      "publishedDateTime": "2022-10-26T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-deploy-a-machine-learning-inference-data-capture-solution-on-aws-lambda.md",
+      "title": "Deploy a machine learning inference data capture solution on AWS Lambda",
+      "excerpt": "Monitoring machine learning (ML) predictions can help improve the quality of deployed models. Capturing the data from inferences made in production can enable you to monitor your deployed models and detect deviations in model quality. Early and proactive detection of these deviations enables you to take",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-a-machine-learning-inference-data-capture-solution-on-aws-lambda/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-a-machine-learning-inference-data-capture-solution-on-aws-lambda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/26/deploy-machine-learning-inference-lambda.jpg",
+          "width": 1342,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T08:54:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-the-ai-bill-of-rights-a-technology-perspective.md",
       "title": "The AI Bill Of Rights - A Technology Perspective",
       "excerpt": "The White House recently unveiled the AI Bill of Rights. What is this, why is it needed, and what does it do? In this post, I provide some perspective - from a technology and business standpoint, about this document and what it can or should mean for businesses.",
@@ -1025,187 +1225,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-ai-art-raises-questions-about-copyright.md",
-      "title": "AI art raises questions about copyright",
-      "excerpt": "Let artificial intelligence (AI) do the work for you. Then you change your mind and want to have the painting in a surrealistic style. A piece of cake. Type what you want in the message field of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bangkokpost.com/opinion/opinion/2422648/ai-art-raises-questions-about-copyright",
-      "originalUrl": "https://www.bangkokpost.com/opinion/opinion/2422648/ai-art-raises-questions-about-copyright",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.bangkokpost.com/media/content/20221026/c1_2422648_221026063358_700.jpg",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bangkok Post",
-        "domain": "bangkokpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-words-face-recognition-supported-by-1-brain-hemisphere-study.md",
-      "title": "Words, face recognition supported by 1 brain hemisphere: study",
-      "excerpt": "Research shows how words, face recognition can be supported with a single brain hemisphere Research findings, published by University of Pittsburgh researchers in the Proceedings of the National ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289",
-      "originalUrl": "https://gulfnews.com/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2019/12/02/191202-brain-networks_16ec6b5e666_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289",
-      "publishedDateTime": "2022-10-25T20:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-cloud-ai-in-fintech-market-competitive-strategy-analysis-and-forecast-values-2022-2029.md",
-      "title": "Cloud AI in Fintech Market : Competitive Strategy Analysis and Forecast Values 2022-2029",
-      "excerpt": "Cloud AI in Fintech Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021, at unexpected",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-competitive-strategy-analysis-and-forecast-values-2022-2029-2022-10-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-competitive-strategy-analysis-and-forecast-values-2022-2029-2022-10-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T20:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-aizen-global-to-introduce-ai-banking-service-at-singapore-fintech-festival.md",
-      "title": "AIZEN Global to introduce AI banking service at Singapore Fintech Festival",
-      "excerpt": "The company is also planning to demonstrate its AI service-type banking and share examples of banking service applications in various industries at this fintech event, which is the largest in Asia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/aizen-global-introduce-ai-banking-service-singapore-fintech-festival",
-      "originalUrl": "https://www.asiaone.com/business/aizen-global-introduce-ai-banking-service-singapore-fintech-festival",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/image_1049.jpg?h=04d92ac6&itok=93pX9W6n",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T20:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

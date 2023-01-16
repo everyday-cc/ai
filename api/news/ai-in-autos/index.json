@@ -579,6 +579,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-10-more-driverless-cars-are-hitting-the-roadways-in-austin.md",
+      "title": "More driverless cars are hitting the roadways in Austin",
+      "excerpt": "AUSTIN, Texas — Driverless cars are on the roadways of Downtown and Central Austin. The cars are part of service similar to Uber called Cruise LLC. The company is based out of San Francisco and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kvue.com/article/money/economy/boomtown-2040/driverless-cars-roadways-austin-cruise-2023/269-ff9c6f48-4e71-4b45-81bd-670ccb4324ca",
+      "originalUrl": "https://www.kvue.com/article/money/economy/boomtown-2040/driverless-cars-roadways-austin-cruise-2023/269-ff9c6f48-4e71-4b45-81bd-670ccb4324ca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.kvue.com/assets/KVUE/images/27bd3c50-bb34-423f-b4a9-ad85a9766c1c/27bd3c50-bb34-423f-b4a9-ad85a9766c1c_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kvue.com/amp/article/money/economy/boomtown-2040/driverless-cars-roadways-austin-cruise-2023/269-ff9c6f48-4e71-4b45-81bd-670ccb4324ca",
+      "cdnAmpWebUrl": "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/money/economy/boomtown-2040/driverless-cars-roadways-austin-cruise-2023/269-ff9c6f48-4e71-4b45-81bd-670ccb4324ca",
+      "publishedDateTime": "2023-01-09T16:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVUE",
+        "domain": "kvue.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas.md",
       "title": "Latest Breakthroughs In Artificial Intelligence On Display At CES Trade Show In Las Vegas",
       "excerpt": "The rate of advancement in artificial intelligence (AI ... We look at fatigue-battling watches, self-driving strollers, and other unique products announced in Las Vegas at the world’s biggest ...",
@@ -1229,17 +1272,17 @@
     {
       "path": "_news/2023-01-05-artificial-intelligence-is-about-to-defend-a-human-in-court-for-the-first-time-ever.md",
       "title": "Artificial Intelligence is about to defend a human in court ‘for the first time ever’",
-      "excerpt": "If you click on a link in this story we may earn affiliate revenue. ARTIFICIAL Intelligence is breaking a new frontier, with a company teasing that their robot will be playing an important part in ...",
+      "excerpt": "ARTIFICIAL Intelligence is breaking a new frontier, with a company teasing that their robot will be playing an important part in a trial in court. The AI robot will be the first to advise a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/tech/20941564/artificial-intelligence-defend-a-human-in-court-first-time/",
-      "originalUrl": "https://www.thesun.co.uk/tech/20941564/artificial-intelligence-defend-a-human-in-court-first-time/",
+      "webUrl": "https://www.thesun.ie/tech/news-tech/9999684/artificial-intelligence-defend-a-human-in-court-first-time/",
+      "originalUrl": "https://www.thesun.ie/tech/news-tech/9999684/artificial-intelligence-defend-a-human-in-court-first-time/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2023/01/MF-AI-Court-OFFPLAT.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/01/MF-AI-Court-OFFPLAT.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
           "width": 1920,
           "height": 1080,
           "title": null,
@@ -1249,13 +1292,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/20941564/artificial-intelligence-defend-a-human-in-court-first-time/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/20941564/artificial-intelligence-defend-a-human-in-court-first-time/amp/",
-      "publishedDateTime": "2023-01-04T10:09:00-08:00",
+      "ampWebUrl": "https://www.thesun.ie/tech/news-tech/9999684/artificial-intelligence-defend-a-human-in-court-first-time/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/news-tech/9999684/artificial-intelligence-defend-a-human-in-court-first-time/amp/",
+      "publishedDateTime": "2023-01-04T10:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
+        "name": "Irish Sun",
+        "domain": "thesun.ie",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1320,49 +1363,6 @@
         "AI in Finance",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-ev-company-news-for-the-month-of-december-2022.md",
-      "title": "EV Company News For The Month Of December 2022",
-      "excerpt": "Global electric car sales Nov. 2022 were an estimated 1million+. China sales up 50% YoY to 35% share. Europe up 26% YoY to ~28% share. US ~6% share. Read more here.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4567822-ev-company-news-december-2022",
-      "originalUrl": "https://seekingalpha.com/article/4567822-ev-company-news-december-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/uploads/2023/1/3/37628986-16728043329969795.png",
-          "width": 640,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

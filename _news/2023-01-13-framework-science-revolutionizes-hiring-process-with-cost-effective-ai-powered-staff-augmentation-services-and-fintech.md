@@ -1,29 +1,45 @@
 ---
 category: news
-title: "Framework Science Revolutionizes Hiring Process With Cost-Effective, AI-Powered Staff Augmentation Services And Fintech"
-excerpt: "Our aim is to invest in our clients and our Nearshore Software Engineering Talent TeamStation is a proprietary SaaS platform used by ove"
-publishedDateTime: 2023-01-13T01:09:00Z
-originalUrl: "https://menafn.com/1105422496/Framework-Science-Revolutionizes-Hiring-Process-With-Cost-Effective-AI-Powered-Staff-Augmentation-Services-And-Fintech"
-webUrl: "https://menafn.com/1105422496/Framework-Science-Revolutionizes-Hiring-Process-With-Cost-Effective-AI-Powered-Staff-Augmentation-Services-And-Fintech"
+title: "Framework Science Revolutionizes Hiring Process with Cost-Effective, AI-Powered Staff Augmentation Services and Fintech"
+excerpt: "Using cutting-edge AI technology and a focus on fintech, Framework Science can build and manage teams faster and cost-effectively than any other company in the industry. One of the significant ..."
+publishedDateTime: 2023-01-12T20:33:00Z
+originalUrl: "https://fox59.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
+webUrl: "https://fox59.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: FOX59 News
+  domain: fox59.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-01/12/EP_32c5bimage_story.png"
-    width: 600
-    height: 314
+  - url: "https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/12754431-jesus-romero-co-founder-and-cf-300x300.jpeg"
+    width: 300
+    height: 300
     isCached: true
 
-secured: "LWpCggduCLtlwtRmvj0yzpMDVytnvFYthsFkZ/wQMDcgPiv1I1Gg1JZ1ncR46qoH5DsVtXVAQRST4yciQ1MsGvABQz8OvjvW3rkILlzAkUYp+LV72ywldTq7KfhfZ5TirVI9famHQSFaSiBo0BrZrnYRkhaApcRXis8RuHEq119MY3l538Ed9WeZJx0dz3s5PoFLNsDn6PsfDJ9FMseDZa9xsGbRiMz9OPephR9iY+3eQ+8SIfgGFarJoFVl1AaqgJWiBf4SXStM0w0EFVBkGYO3uSe2UpRadovxsDMYP+j20y7+q18xezDdLMsWkqclaekwl9pOvYEkyb6TKZ4i521OApESDUCm1WtOD+X6vr0=;uJch+JlcOFkZUSvqrplhyg=="
+related:
+  - title: "Artificial Intelligence Making Waves In The Fintech Industry: 2023 Prophecy"
+    excerpt: "AI has also enabled fintech companies to reduce their operational costs. AI algorithms can streamline processes and automate mundane tasks, freeing up resources to focus on higher-level tasks. AI is certainly making waves in the fintech industry and will continue to do so in the years to come."
+    publishedDateTime: 2023-01-12T15:30:00Z
+    webUrl: "https://financialit.net/blog/ai/artificial-intelligence-making-waves-fintech-industry-2023-prophecy"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 39
+    images:
+      - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated_140.png"
+        width: 900
+        height: 480
+        isCached: true
+
+secured: "o4X4zPTy4Y/I6VFXS9XQq67OgfzxEd3YyVS2hRib9p/QmZvr+ri1tMOx7HC17Oa74ezbEbBRK9ZVIwUUA6IBQIr9TEiFP/KUlqQRO5okMimU0IGRgoqSwZFg2zFkT7h80Hj3oiMbUmMcTVc5S0Z8scvJYlj3Pm8XxWtzcxjL+m4qq9akl7ymPegGdzct+1gTt8gsJ401UxcGhyIuFL/Q8mO9547DYiGPKjFSU6LmldqWKYRoP8i9ZSuQ+mRDcQZ+a3+Ff44j0cfgqS3G13x9dJA7QeYDroRPYx1aqM6nL4EzO0uGPgR7rjmFz8t77PXkjpA9oBlJiCNJZTOKnihZeJ6aEmHG7tIGcwebZJeezLo=;UuI5ckYhcER33WUJbEENWQ=="
 ---
 

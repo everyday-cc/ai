@@ -664,6 +664,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-13-aws-opens-first-australian-local-zone-in-perth.md",
+      "title": "AWS opens first Australian Local Zone in Perth",
+      "excerpt": "AWS’s first Local Zone in Australia will bring low-latency performance to companies such as Woodside Energy and Nearmaps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth",
+      "originalUrl": "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/article/cloud-migration-2-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth?amp=1",
+      "publishedDateTime": "2023-01-12T15:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-a-director-posted-ai-generated-stills-from-a-fake-80s-sci-fi-horror-movie-and-people-are-pissed.md",
       "title": "A Director Posted AI-Generated Stills From A Fake ’80s Sci-Fi Horror Movie And People Are Pissed",
       "excerpt": "BuzzFeed Contributor An AI-generated still from the made-up movie Galaxy of Flesh Los Angeles–based Keith Schofield is an accomplished director, having helmed music videos for the likes of Beck, Charlotte Gainsbourg,",
@@ -1219,58 +1262,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-fintech-stocks-lag-behind-the-rest-of-the-market-should-you-buy-or-sell.md",
-      "title": "Fintech Stocks Lag Behind The Rest Of The Market — Should You Buy Or Sell?",
-      "excerpt": "While financial and tech stocks had a rough time in 2022, fintech stocks continue to lag behind the rest of the market. We explore the idea of investing in the fintech space in 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/01/11/fintech-stocks-lag-behind-the-rest-of-the-market---should-you-buy-or-sell/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/01/11/fintech-stocks-lag-behind-the-rest-of-the-market---should-you-buy-or-sell/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bee7c6c67f5dbd12964a45/0x0.jpg?format=jpg&crop=2490,1400,x24,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/01/11/fintech-stocks-lag-behind-the-rest-of-the-market---should-you-buy-or-sell/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/11/fintech-stocks-lag-behind-the-rest-of-the-market---should-you-buy-or-sell/amp/",
-      "publishedDateTime": "2023-01-11T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

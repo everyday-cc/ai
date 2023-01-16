@@ -57,6 +57,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "NY lawmakers call on MSG to stop using facial recognition software"
+    excerpt: "Madison Square Garden's use of facial recognition technology has come under scrutiny after revelations that it was being used to ban attorneys who work or firms with pending lawsuits against MSG."
+    publishedDateTime: 2023-01-16T03:33:00Z
+    webUrl: "https://www.fox5ny.com/news/nyc-lawmakers-calling-on-msg-to-stop-using-facial-recognition-software"
+    ampWebUrl: "https://www.fox5ny.com/news/nyc-lawmakers-calling-on-msg-to-stop-using-facial-recognition-software.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/nyc-lawmakers-calling-on-msg-to-stop-using-facial-recognition-software.amp"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 39
 
 secured: "tV0q/T6YxUuuST1ZSUPEXvvbElCmCYe8IkctcHJ9HSmR9sIZ0HLY+57g0sPDc7yZLrK7W406OeAk/hbMkr1gB1GqBS8tz4sq/wNpe4e0RDki9OYonZxlDCO8uoz4NF8dkQ9sxK3Ue3jgfWjdx631D8VSkzyAXf5WnGDDtN9keRMQsYjEGDHTw2uurrHhhDlE9WYi2Ym5RE7+seZbMASCMZH3dnTGan46xgUzwkjkiRiVCh61E23dYrXVs9VShjup4/10/p+KEN67Pj+t6OxUW6FkxndqjRB/18SQWtNT/5zbhpmzwe0EjJUNiJ4T39RdmpfOHl4QBC7prjY0vOQ+oSg6D2eMK2W05laiGMFtJSw=;YtZlfATxmW6qkQGACj+VvA=="
 ---

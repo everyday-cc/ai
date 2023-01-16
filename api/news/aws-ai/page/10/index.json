@@ -2,6 +2,41 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-09-14-microsoft-aws-feud-over-1b-federal-geospatial-intelligence-contract.md",
+      "title": "Microsoft, AWS Feud Over $1B Federal Geospatial-Intelligence Contract",
+      "excerpt": "Microsoft is protesting a $1 billion five-year contract the National Geospatial-Intelligence Agency gave ... Seattle-based AWS and the Springfield, Va.-based NGA for comment but had not heard ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/microsoft-aws-feud-over-1b-federal-geospatial-intelligence-contract",
+      "originalUrl": "https://www.crn.com/news/cloud/microsoft-aws-feud-over-1b-federal-geospatial-intelligence-contract",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-aws-open-sources-event-ruler.md",
       "title": "AWS Open Sources Event Ruler",
       "excerpt": "AWS recently announced that Event Ruler, the component managing the routing rules of Amazon EventBridge, is now open source. The project is a new option for developers in need to match lots of ...",

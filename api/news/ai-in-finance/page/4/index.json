@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-08-lantern-pharma-reports-third-quarter-2022-financial-results-and-operational-highlights.md",
+      "title": "Lantern Pharma Reports Third Quarter 2022 Financial Results and Operational Highlights",
+      "excerpt": "Lantern Pharma Inc. (NASDAQ: LTRN), a clinical stage biopharmaceutical company using its proprietary RADR ® artificial intelligence (“A.I.”) and machine learning (“M.L.”) platform to transform the cost,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/nhl-technology-health-sports-artificial-intelligence-058172d209f545d0b650a0690d880a89",
+      "originalUrl": "https://apnews.com/article/nhl-technology-health-sports-artificial-intelligence-058172d209f545d0b650a0690d880a89",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T13:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-anchainai-2022-top-startups-for-the-enterprise.md",
       "title": "AnChain.AI: 2022 Top Startups for the Enterprise",
       "excerpt": "AnChain.AI's Web3 risk prevention and security platform aims to establish trust around blockchains and cryptocurrencies.",
@@ -1292,40 +1335,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-money-laundering.md",
-      "title": "Resistant AI and ComplyAdvantage Launch AI Transaction Monitoring Solution To Combat Fraud and Money Laundering",
-      "excerpt": "About Resistant AI Founded in 2019, Resistant AI uses AI and machine learning to provide identity forensic solutions that protect automated financial services from fraud and manipulation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/p29210259/resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-mon",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/p29210259/resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-mon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29210259",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29210259",
-      "publishedDateTime": "2022-10-11T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

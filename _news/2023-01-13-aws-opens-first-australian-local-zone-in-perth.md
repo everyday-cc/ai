@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerweekly.com/news/252529170/AWS-opens-first-Austra
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth?amp=1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Computer Weekly
@@ -40,6 +40,20 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/sarah_bassett_headshot_2.jpg"
         width: 466
         height: 315
+        isCached: true
+  - title: "AWS launches first Australian AWS local zones in Perth"
+    excerpt: "“We have compute-heavy artificial intelligence and machine learning workloads that would be challenging to run without the scalability of AWS,” said Nearmap CEO and MD Dr. Rob Newman. “AWS helps us provide our customers with real-time access to ..."
+    publishedDateTime: 2023-01-16T04:17:00Z
+    webUrl: "https://itwire.com/business-it-news/cloud/aws-launches-first-australian-aws-local-zones-in-perth.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/c76a4f4ad6e0c7de705925e7dcd60f21_M.jpg"
+        width: 375
+        height: 563
         isCached: true
 
 secured: "SMRtFE9epFN+AkkiN0FXmUdk7K6g+ST6anlJM0qxjaGB8+jnV0k0UByWRffB4gO/9ekaBVteiCYybNBQmg16ULAgiFPr3fGS/sGIlmelf8GbihKvBwycvWDNEpaLxAF+xxkJhObMyyQFxY5n1QeDXLvJIiwDR216pjJQIGvvjHT3qNOzoPiTonm1PMTu9T4xlNsCwcU6rEy0wFYgriQs1ZM31qtysLCArsC9/16Krhool1jE+5gCjCAXozxoZXvQr9Z0ikVOvZWbGM7d0pWvNHUsCYWFIDXHy6PPH9X8RnZ+9KDEKHmSNVp0JZ6lmesNfzPjnkbhlDwFfiSHtAFiyrAi9Zw5GILwrqZdrzq97YTiqQPSZlcgpYT5YIAc+FubBy5T0LAfOJuS/LyX+CjnpbX36AWwKhp6rbXE6Ku6bpaHCcr4p2nnxXF1PS7jzmyUTyJ58QUSIutDra/9gu4vQvdvLicT9c0IWS/fr/x+1Dt1Bzm6GDmijIcy648ntqzsrYlkSo2NCKh/D61PrFj0eA==;ymR4CrWOAhKpAOERK4V95g=="

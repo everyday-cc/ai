@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-09-22-sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion.md",
+      "title": "Sopra Steria and Algoan Strengthen Their Partnership to Accelerate Financial Inclusion",
+      "excerpt": "Sopra Steria, via Sopra Steria Ventures, has invested in Algoan, the leading French fintech in API-based credit scoring. Sopra Banking Software (SBS), a key technology partner to more than 1,500 financial institutions worldwide,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion/article_ca936379-bf3b-5884-a8d3-a28733d33f12.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion/article_ca936379-bf3b-5884-a8d3-a28733d33f12.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-india-is-building-a-database-for-companies-to-train-ai-models-rajeev-chandrasekhar.md",
       "title": "India is building a database for companies to train AI models: Rajeev Chandrasekhar",
       "excerpt": "Chandrasekhar said it will be ‘one of the largest datasets programs where anonymized non-personal data will be available for the entire AI ecosystem’",

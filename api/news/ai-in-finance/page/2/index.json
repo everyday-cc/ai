@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-12-toggle-ai-introduces-direct-trading-integration-in-partnership-with-interactive-brokers.md",
+      "title": "TOGGLE AI Introduces Direct Trading Integration in Partnership With Interactive Brokers",
+      "excerpt": "TOGGLE AI, the intelligent investing dashboard, introduced today its first direct trading integration in partnership with Interactive Brokers. Interactive Brokers account holders can now execute trades directly on the TOGGLE AI platform,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/technology-science-1b15107c36304fc29d4d2038868f2dac",
+      "originalUrl": "https://apnews.com/article/technology-science-1b15107c36304fc29d4d2038868f2dac",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T05:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-deploying-ai-strategies-to-mitigate-banking-and-fintech-fraud.md",
       "title": "Deploying AI Strategies to Mitigate Banking and Fintech Fraud",
       "excerpt": "Research shows that 43 per cent of financial services organizations expect the cost-of-living crisis to increase the risk of financial crime and fraud over the next 12 months, as scammers target vulne",
@@ -1279,59 +1322,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028.md",
-      "title": "Automated Machine Learning (AutoML) Market 2023 Expected to Witness the Highest Revenue Growth Over Forecast to 2028",
-      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Automated Machine Learning (AutoML)",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

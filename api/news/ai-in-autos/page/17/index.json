@@ -2,6 +2,60 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-09-24-tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch.md",
+      "title": "Tesla AI Day Brings Optimus Robot, Self-Driving Car Updates: Here's How to Watch",
+      "excerpt": "Tesla is hiring engineers to build a walking, talking robot called Optimus. Expect Elon Musk to update us on steps toward self-driving cars, too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
+      "publishedDateTime": "2022-09-23T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-24-vws-latest-concept-is-a-self-driving-travel-pod-that-can-replace-short-flights.md",
       "title": "VW's latest concept is a self-driving travel pod that can replace short flights",
       "excerpt": "Many automakers dream of self-driving cars that are effectively lounges on wheels, but VW is taking things one step further. The brand has unveiled a Gen.Travel \"design study\" EV that it hopes could replace short flights.",
@@ -1379,58 +1433,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-artificial-intelligence-ai-in-manufacturing-market-is-predicted-to-see-substantial-increase-in-growth-and-demand-2028-intel-ibm-siemens.md",
-      "title": "Artificial Intelligence (AI) in Manufacturing Market Is Predicted To See Substantial Increase In Growth And Demand 2028 | Intel, IBM, Siemens",
-      "excerpt": "Market research based on the terms Artificial Intelligence (AI) in Manufacturing provides useful information, such as the study of effects on important aspects, alternatives, and constraints. Graphical analysis of emotion detection and recognition demand forecasts for predicted periods can demonstrate the financial needs of the global emotion detection and recognition industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-is-predicted-to-see-substantial-increase-in-growth-and-demand-2028-intel-ibm-siemens-2022-09-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-is-predicted-to-see-substantial-increase-in-growth-and-demand-2028-intel-ibm-siemens-2022-09-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
