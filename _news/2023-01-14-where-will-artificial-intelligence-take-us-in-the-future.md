@@ -9,8 +9,8 @@ ampWebUrl: "https://m.jpost.com/jerusalem-report/article-728305/amp"
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jerusalem-report/article-728305/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Jerusalem Post Blogs
@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Future versions of Windows will be AI-powered"
+    excerpt: "Microsoft chief product officer Panos Panay said several types of AI systems could be baked into a new version of Windows, including large generative models for language, coding, and imagery."
+    publishedDateTime: 2023-01-16T08:18:00Z
+    webUrl: "https://mybroadband.co.za/news/software/476491-future-versions-of-windows-will-be-ai-powered.html"
+    ampWebUrl: "https://mybroadband.co.za/news/software/476491-future-versions-of-windows-will-be-ai-powered.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/476491-future-versions-of-windows-will-be-ai-powered.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
 
 secured: "YJEfiMfdXSV5c6mqQchzPZDyL5m5CCBvlWum04ydt7GLFGc86KCWp2/E5aj+7Q1d+IpoGbgh77AMIP5TYPKOpOI8Cx+AFAN0nn51DNmm8yn/SyrlMGBYzWIRDNitBWTItmf2L3i77B657AA6I6C+bvb4skK+AhwGbX3m6uSfGdtZa8VW0O5DHDwZTHTrqP2NS5GZF33cZyyNDhkl+Vxhe2eaIitqnYAUyZaiwX35KmsyV1ptKBjc1yicqmrm2Ksa34KI7gythomduWlzy9GefqrX8o3lq7ql8xFluf3xd8NIjdyKYqZALXhdIpeSrVYuvU/x2pb3PScBkWSR/1RBAz/OuCnVjERVl/ZOGfPSdw099uvhx3x9atLpgcBEhnpmtjBYdzt9zKBKHnYjgusCCa3Y8Xdc+UoVLsf9M+mVBcSkX9MOSL3Dip2TprhOGUE8KqFi8eNXC7Jtmrvw1CBJPFcIGQv7MwGiuFVNqLjVvmsMlxOA5xrQMQ0N1Aq98yh/srPW+zM1X9GMH70BUoGFwA==;cXKMLL31Tfoht7ohcLULmQ=="
 ---

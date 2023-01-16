@@ -7,7 +7,7 @@ originalUrl: "https://tribune.com.pk/story/2395862/first-ai-lawyer-robot-to-defe
 webUrl: "https://tribune.com.pk/story/2395862/first-ai-lawyer-robot-to-defend-speeding-tickets-in-court"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://people.com/thmb/rvu-1obmbE2pJEQ_N3xvSRk_vVU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/robot-lawyer-011023-1-e5fe53d7cce04dcb8deed9690a8f6815.jpg"
         width: 1500
         height: 1000
+        isCached: true
+  - title: "RobotLawyer creator says a lot of lawyers 'should be replaced' by AI"
+    excerpt: "DoNotPay, the company behind the initiative, says its program will successfully be able to defend the speeding case, which is due to be heard in a U.S. court in February 2023."
+    publishedDateTime: 2023-01-16T08:49:00Z
+    webUrl: "https://interestingengineering.com/innovation/ai-robotlawyer-replace-lawyers"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/01/16/image/jpeg/Yl49EPfNFVrKeisNnRD4r0ZCFrkJOgKFzcF9Plor.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "AI lawyers are helping defendants fight speeding tickets in court, for real"
     excerpt: "Entering a courtroom with a robot lawyer could be a real thing as defendants plan to use an AI legal assistant to help them in upcoming cases."

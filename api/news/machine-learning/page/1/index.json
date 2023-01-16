@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-16-using-machine-learning-to-predict-brain-tumor-progression.md",
+      "title": "Using machine learning to predict brain tumor progression",
+      "excerpt": "Researchers at the University of Waterloo have created a computational model to predict the growth of deadly brain tumours more accurately.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-01-machine-brain-tumor.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-01-machine-brain-tumor.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/mri-4.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-01-machine-brain-tumor.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-machine-brain-tumor.amp",
+      "publishedDateTime": "2023-01-15T23:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-16-ncai-announces-artificial-intelligence-challenge-for-students.md",
       "title": "NCAI announces artificial intelligence challenge for students",
       "excerpt": "The technical areas for submission of concept notes included Artificial Intelligence Applications, Autonomous Systems, Assistive Robotics, Intelligent Systems, Convolution Neural Networks, Cyber Security and AI, Data Fusion, Data Mining and Information ...",
@@ -10,7 +53,7 @@
       "originalUrl": "https://dailytimes.com.pk/1051739/ncai-announces-artificial-intelligence-challenge-for-students/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -312,7 +355,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-outlook-2023-and-forecast-to-2029-with-top-countries-data-2023-01-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1389,58 +1432,6 @@
         "name": "Startup Daily",
         "domain": "startupdaily.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-forecast-2028-for-the-deep-learning-in-ct-scanners-market-in-terms-of-size-returns-gross-margin-and-market-share.md",
-      "title": "Forecast 2028 for the Deep Learning in CT Scanners Market in terms of size, returns, gross margin, and market share",
-      "excerpt": "Deep Learning in CT Scanners Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/forecast-2028-for-the-deep-learning-in-ct-scanners-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/forecast-2028-for-the-deep-learning-in-ct-scanners-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-08T21:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

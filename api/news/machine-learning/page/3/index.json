@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-02-data-privacy-and-the-future-of-artificial-intelligence.md",
+      "title": "Data, Privacy, And the Future of Artificial Intelligence",
+      "excerpt": "By Michael G. McLaughlin, Associate, Baker, Donelson, Bearman, Caldwell & Berkowitz, PC Data privacy and protection have become both central and increasingly restrictive for businesses in the United States and Europe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cyberdefensemagazine.com/data-privacy/",
+      "originalUrl": "https://www.cyberdefensemagazine.com/data-privacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cyberdefensemagazine.com/wp-content/uploads/2022/12/Data-Privacy-and-the-Future-of-Artificial-Intelligence.jpg",
+          "width": 697,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-02T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cyber Defense Magazine",
+        "domain": "cyberdefensemagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-30-2023-tech-predictions-ai-and-machine-learning-will-come-into-their-own-for-security.md",
       "title": "2023 tech predictions: AI and machine learning will come into their own for security",
       "excerpt": "Just as AI and machine learning is expected to have ... particularly in high-stakes markets like financial services. However, with this comes increased risk and complexity around user identity.",
@@ -1407,62 +1451,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-artificial-intelligence-and-machine-learning-market-by-product-and-geography-forecast-and-analysis-2023-to-2028-with-top-countries-data.md",
-      "title": "Artificial Intelligence and Machine Learning Market by Product and Geography : Forecast and Analysis 2023 to 2028 with Top Countries Data",
-      "excerpt": "Artificial Intelligence and Machine Learning Market\" Research report encompasses a thorough study of the current",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-by-product-and-geography-forecast-and-analysis-2023-to-2028-with-top-countries-data-2022-12-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-by-product-and-geography-forecast-and-analysis-2023-to-2028-with-top-countries-data-2022-12-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T17:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance",
-        "Facebook AI",
-        "Google AI",
-        "AI in Healthcare"
       ]
     }
   ],

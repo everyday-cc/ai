@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-14-brain-area-thought-to-impart-consciousness-behaves-instead-like-an-internet-router.md",
+      "title": "Brain area thought to impart consciousness, behaves instead like an Internet router",
+      "excerpt": "This insight may help lead to better therapies to address cognitive dysfunction in these disorders. \"The brain is the most complex system in the known universe. It is these data-driven theoretical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221114190629.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221114190629.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-13T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-feinberg-superager-program-examines-exceptional-cognitive-aging.md",
       "title": "Feinberg SuperAger program examines exceptional cognitive aging",
       "excerpt": "But an initiative from the Mesulam Center for Cognitive Neurology and Alzheimer’s Disease at the Feinberg School of Medicine is taking the opposite approach. The program studies “SuperAgers ...",
@@ -1289,49 +1332,6 @@
         "name": "KXAN",
         "domain": "kxan.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-06-which-doctor-should-i-see-for-dementia-and-cognitive-decline.md",
-      "title": "Which Doctor Should I See for Dementia and Cognitive Decline?",
-      "excerpt": "But, especially in older adults, they could also be early signs of cognitive decline or dementia ... to ensure safety or adding caregiving services. “If you’re considering alternative ...",
-      "sourceUrl": null,
-      "webUrl": "https://health.usnews.com/health-care/patient-advice/which-doctor-should-i-see-for-dementia-and-cognitive-decline",
-      "originalUrl": "https://health.usnews.com/health-care/patient-advice/which-doctor-should-i-see-for-dementia-and-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-05T17:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

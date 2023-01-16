@@ -34,6 +34,20 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Unveiling the Mystery of the Human Brain for AI Advancements"
+    excerpt: "While machines can learn how to predict words, we have yet to understand how the human brain does it, and Dr LI Jixing’s research aims to uncover the secret"
+    publishedDateTime: 2023-01-16T08:42:00Z
+    webUrl: "https://www.scmp.com/presented/news/hong-kong/education/topics/creating-age-friendly-smart-city/article/3206106/unveiling-mystery-human-brain-ai-advancements"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 69
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2023/01/10/472A1314_client.jpg?itok=AccVnber"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "f3C82jRJc8NRXN39a91heLzFdvzXjeO2AzRMMqjp3OBqhBW/Vh8Xb3cSLp2uEHuYURNH8GyvZPStRFuhRd/mdAjiVahQReIkuGPgeCGk5e43Lhu482qVRtaOTxeWylPEqKE5CmDDpC+WO7t6bIb3H6chCsiZX6l7PpLUthmdcuRZP85eqCTNY6VH+THmiWFil7VOIfzNiVEIlJunC9FPu3gZViCuIXT7XJ3C55fKshasxYHX78i+sDB/z6BhWrLNDadPl34BD3wFNfxAjC3cq5iOb6z4/PtJrrtbyYRnugSa4GfNYOdXlKB1YH0QqyJNYh8vTZS98tTCVzcnPeSnFoqxHey7/VULyhPsrImwsoZtzqY4dD8pjtKqz/dwz2FITId/3aU1lEVjWA/8+vmLwupzsBNEmGINfycgB+0voqUqPNiUy2/7LANelZCOK9NXO0uOMRcVhZztfZuvNGWUF7v107CcZUVQUGbu3XBeHq666vzA3IDFjfHp0RdYDCyIOBT3EwJKCRDgWZsYf/kz+Q==;w5rdbCs5xRm4mwrdZ/poSg=="
 ---

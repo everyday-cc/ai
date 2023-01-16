@@ -2,6 +2,59 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-17-ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning.md",
+      "title": "IBM Research helps extend PyTorch to enable open-source cloud-native machine learning",
+      "excerpt": "IBM Research has contributed code to the open-source PyTorch machine learning project that could help to significantly accelerate training.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/",
+      "originalUrl": "https://venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1668643364867.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/amp/",
+      "publishedDateTime": "2022-11-17T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-artificial-neural-network-creates-synthetic-x-ray-images-to-overcome-regulatory-limitations.md",
       "title": "Artificial neural network creates synthetic x-ray images to overcome regulatory limitations",
       "excerpt": "Researchers at the University of Jyväskylä Digital Health Intelligence Laboratory addressed the problem and developed an artificial neural network that creates synthetic x-ray images that can fool even medical experts. A group of researchers from ...",
@@ -1342,49 +1395,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-indian-american-gets-amazon-award-to-study-machine-learning-systems.md",
-      "title": "Indian-American gets Amazon award to study machine learning systems",
-      "excerpt": "Pavithra Prabhakar, an Indian-American professor of computer science at the Kansas State University, has received an Amazon Research Award to design a tool that minimises negative user experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/news/international/indian-american-gets-amazon-award-to-study-machine-learning-systems-768380",
-      "originalUrl": "https://www.thehansindia.com/news/international/indian-american-gets-amazon-award-to-study-machine-learning-systems-768380",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2022/11/08/1319612-pavithra-prabhakar.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/news/international/indian-american-gets-amazon-award-to-study-machine-learning-systems-768380",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/international/indian-american-gets-amazon-award-to-study-machine-learning-systems-768380",
-      "publishedDateTime": "2022-11-07T21:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

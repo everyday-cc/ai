@@ -39,6 +39,20 @@ related:
         width: 640
         height: 437
         isCached: true
+  - title: "RobotLawyer creator says a lot of lawyers 'should be replaced' by AI"
+    excerpt: "DoNotPay, the company behind the initiative, says its program will successfully be able to defend the speeding case, which is due to be heard in a U.S. court in February 2023."
+    publishedDateTime: 2023-01-16T08:49:00Z
+    webUrl: "https://interestingengineering.com/innovation/ai-robotlawyer-replace-lawyers"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/01/16/image/jpeg/Yl49EPfNFVrKeisNnRD4r0ZCFrkJOgKFzcF9Plor.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI lawyers are helping defendants fight speeding tickets in court, for real"
     excerpt: "Entering a courtroom with a robot lawyer could be a real thing as defendants plan to use an AI legal assistant to help them in upcoming cases."
     publishedDateTime: 2023-01-13T02:58:00Z

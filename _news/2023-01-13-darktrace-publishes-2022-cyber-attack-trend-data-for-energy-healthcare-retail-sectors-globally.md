@@ -1,27 +1,29 @@
 ---
 category: news
 title: "DARKTRACE PUBLISHES 2022 CYBER-ATTACK TREND DATA FOR ENERGY, HEALTHCARE & RETAIL SECTORS GLOBALLY"
-excerpt: "Mining Attacks Targeting Energy ProvidersSurge in Credential Theft Affecting RetailersIncrease in Data Exfiltration"
-publishedDateTime: 2023-01-12T21:59:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/darktrace-publishes-2022-cyber-attack-trend-data-for-energy-healthcare-retail-sectors-globally-1032015978"
-webUrl: "https://markets.businessinsider.com/news/stocks/darktrace-publishes-2022-cyber-attack-trend-data-for-energy-healthcare-retail-sectors-globally-1032015978"
+excerpt: "Spike in Crypto-Mining Attacks Targeting Energy Providers; Surge in Credential Theft Affecting Retailers; Increase in Data Exfiltration Attacks on Healthcare Providers"
+publishedDateTime: 2023-01-12T21:00:00Z
+originalUrl: "https://apnews.com/article/technology-science-crime-pr-newswire-artificial-intelligence-39420713c1dfaacf58e7811c383b8312"
+webUrl: "https://apnews.com/article/technology-science-crime-pr-newswire-artificial-intelligence-39420713c1dfaacf58e7811c383b8312"
 type: article
-quality: 51
-heat: 51
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "ddbJQK9M3vQuuXL0kRGJl/Ak2QtmsDZyBRm4c3xNEjTWw9qunUz8MRFnIFFUZlFmHhUeBmrsMqNmpmxFPrig7OKBCAIXRgC+uRK6RZOgLtVci74vxhMcIR1epXJ9Ly07HQIpWfW1U7wa4picBfQA6VH8YYLZSeqBEBK7OzmAjG/9dxtIZlTa4YSOk4Xmf+0WsTBgdzYktYgsuC1LPzcWRKJujMNc3VEdlXjFqbD06/w2884Bus6RcMXfF6NKV6ogLRsrkwWsm8ldkMxNzBke1bVeC6V+CSQopdB4JRzv9EsPIqUhyo3MgBbdSW7xhFGP93cUcih0R1Szd0we2RdfFOudqWcVcWfhFJdByn7tEPQ=;3pVmzXcqOKUCpkYyylqzdg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "SQV9W+7yalNjIKjMDnxPfWyKDjZWv9HpbJaQqf8Xzsn7+Nj2Qz/dafG0t2X/y6WW0nJhEmJpvMvOKhxVZc8s8WQFm7P7XGuhKLxbuqqwYC3YVDAeTtqf9pPQakoAKku4XOu9+5ZgcYUppG6LBkGMs/vdgVEmPqudX+PuETOAplB7JbFfoj9zfk5dtwGTI8mq1K9sIpUFwd+EQ6sSUIaRtMF65FPStiDP4MBre9lWkDSUs0veYHaEscLsFhqkxwaF/pGohzh32kE59RG/ry6608OEujZ5U5ljECNo91pYRPE5nEzogEFDjN4bY9JbTz3NO1QL9u24DMwC4qZj5RHFv4WtjxdU8xf6DqmRXGBqvH4=;AlpYx0f/hNmFYoh6RK0K+g=="
 ---
 

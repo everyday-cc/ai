@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Data and AI Ethics Market Highlighting Industry Development Plans, Trends 2023 | Qualitative Research by Growth Opportunities Forecast to 2029"
-    excerpt: "The “Data and AI Ethics Market” Research 2023 provides deep insights on prosperous growth opportunities, trends"
-    publishedDateTime: 2023-01-11T16:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-highlighting-industry-development-plans-trends-2023-qualitative-research-by-growth-opportunities-forecast-to-2029-2023-01-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Object Recognition Imaging Systems Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2029 with Top Countries Data"
     excerpt: "Object Recognition Imaging Systems Market\" areas divides into sub-regions and nations/regions, are covered in this"
     publishedDateTime: 2023-01-11T23:27:00Z

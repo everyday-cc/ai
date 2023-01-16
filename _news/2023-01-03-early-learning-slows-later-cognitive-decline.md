@@ -2,11 +2,11 @@
 category: news
 title: "Early Learning Slows Later Cognitive Decline"
 excerpt: "Eventually, though, the brain ages, and cognitive ability declines—even for people who are not experiencing dementia. Researchers have been interested in predicting what factors predict the ..."
-publishedDateTime: 2023-01-03T00:11:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline"
-webUrl: "https://www.psychologytoday.com/intl/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline?amp"
+publishedDateTime: 2023-01-02T23:55:00Z
+originalUrl: "https://www.psychologytoday.com/us/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline"
+webUrl: "https://www.psychologytoday.com/us/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline?amp"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "xi0SUqiCFzxNm7hcFo8FbOvZ5Hn+K9Pr9mlVAwmU3vHRkXGY+sUbD25Kgz6qyap3kVBr0Ui73GPGhRmGYhKXK+KSw0MomQfBnrQF0ds/hqih90Glv94geykxXwgNPIXNJK7s6g4wqEM6o/SpALMHmwOcCMm4TkVqHMLuJd/mOukcdZBB9yQRj9zachBKONbY58TBxxG784q2J5kaveWZookNIdfpRhw+lC3c2hty7+lF1p0/Uh3ifTXbAg7OiYYAAHTbU27yM0OSpKkxij13B/IvR/utyuzKkXAdFigJEea+mUdR/WolyXoH514/UegFT4xBJEglEF2yrtwv+9rWcMFsYm/jMQjRjNsyzDAYukI=;34eZT4Rf8C4TP9dIypL//Q=="
+secured: "HU87Cy0umcchLzTqvjwYAqD0LPqM6teMFvvekvBtxkC4ttbvZoAqTIiFzaW7j3s9q2XFibt+gBnpFTru0o+YCd/NoU9wax6sPaiXrEwcG/HugJ4JpcyYkB3oIe2NllhfjvbphEVkYparZ0fRfaZ5tiuP3cElSu/74uoNv3GKiIowXX73R53KK4BY7ZT/NZBaMonuHh/XRb++mwcNkFlUDIMzXG9wEhzFfqsCd6a5cWmmtPVTpw+LL/EKxruFSezMT5Yzd2S3bjJGpQ8XoGf6W/NRNFoBPgpUBlu8Ox4ittmrQNc5DOwMDaQwtW2U744RMniLdEnKgpVD7t6ZDnIS343c3mo97ZrmYkLQk0ppzbk=;U30x70RLRAklbY1PdaqBHQ=="
 ---
 
