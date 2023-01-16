@@ -2,6 +2,49 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2022-10-23-clinical-natural-language-processing-market-future-growth-and-business-opportunities-2022-2029recent-research-report.md",
+      "title": "Clinical Natural Language Processing Market Future Growth and Business Opportunities 2022-2029|Recent Research Report",
+      "excerpt": "Global Clinical Natural Language Processing Market report discusses the innovative concepts of top key players, current industry status, and SWOT analysis which will help the organization to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/clinical-natural-language-processing-market-future-growth-and-business-opportunities-2022-2029recent-research-report",
+      "originalUrl": "https://www.digitaljournal.com/pr/clinical-natural-language-processing-market-future-growth-and-business-opportunities-2022-2029recent-research-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.postimg.cc/VNFBndzq/Social-Media-Graph-01-1-500.png",
+          "width": 500,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-23T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-23-aetina-launches-new-mxm-gpu-modules-for-ai-performance-boost-at-the-edge.md",
       "title": "Aetina Launches New MXM GPU Modules for AI Performance Boost at the Edge",
       "excerpt": "The model names of the new Aetina MXM GPU modules powered by NVIDIA RTX A1000, NVIDIA RTX A2000, and NVIDIA RTX A4500 are M3A1000-PP, M3A2000-VY, and M3A4500-WP, respectively. These models support CUDA Compute version 8.",
@@ -1101,58 +1144,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-how-ai-can-help-in-the-fight-against-breast-cancer.md",
-      "title": "How AI can help in the fight against breast cancer",
-      "excerpt": "In 2020, there were 2.3 million people diagnosed with breast cancer and 685,000 deaths globally. Early cancer detection is key to better health outcomes. But screenings are work intensive, and patients often find getting mammogramsand waiting for results stressful.In response to these challenges, Google",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/how-ai-can-help-in-the-fight-against-breast-cancer/",
-      "originalUrl": "https://blog.google/technology/health/how-ai-can-help-in-the-fight-against-breast-cancer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Mammo_Image_2.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

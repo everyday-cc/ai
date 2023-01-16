@@ -2,15 +2,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-01-17-stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat.md",
-      "title": "Stable Diffusion lawsuit, plus words of caution from OpenAI, DeepMind | The AI Beat",
+      "path": "_news/2023-01-17-stable-diffusion-ai-art-lawsuit-plus-caution-from-openai-deepmind-the-ai-beat.md",
+      "title": "Stable Diffusion AI art lawsuit, plus caution from OpenAI, DeepMind | The AI Beat",
       "excerpt": "Stability AI and Midjourney were hit with a copyright infringement lawsuit, while OpenAI and DeepMind are signaling generative AI caution.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/business/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/",
+      "webUrl": "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/",
-      "publishedDateTime": "2023-01-16T08:40:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/",
+      "publishedDateTime": "2023-01-16T08:54:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

@@ -247,6 +247,58 @@
       ]
     },
     {
+      "path": "_news/2023-01-13-india-lets-banks-use-face-recognition-iris-scan-for-some-transactions-sources.md",
+      "title": "India lets banks use face recognition, iris scan for some transactions - sources",
+      "excerpt": "The Indian government is allowing banks to verify individual transactions that exceed a certain annual limit using facial recognition and an iris scan in some cases, in a bid to reduce fraud and tax evasion,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/india/india-lets-banks-use-face-recognition-iris-scan-some-transactions-sources-2023-01-13/",
+      "originalUrl": "https://www.reuters.com/world/india/india-lets-banks-use-face-recognition-iris-scan-some-transactions-sources-2023-01-13/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/xe74yH18YYZPpeE2rYEZFpjhvAw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AANGOIVIV5LWLJXTEM6AGU2IMU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-13T03:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-6-types-of-ai-and-what-they-can-do-for-your-business.md",
       "title": "6 Types Of AI And What They Can Do For Your Business",
       "excerpt": "Tyler Weitzman, cofounder, President and Head of AI at Speechify. AI is slowly taking over the world. Drones are delivering food, vacuums are cleaning homes on auto-pilot, virtual assistants are initiating calls and art is being assembled by bots.",
@@ -1288,50 +1340,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-voice-and-face-recognition-are-more-closely-linked-than-previously-thought.md",
-      "title": "Voice and face recognition are more closely linked than previously thought",
-      "excerpt": "The new study, published last week in the Journal of Neurophysiology, suggests that voice and face recognition are linked even more intimately than previously thought. It offers an intriguing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230103/Voice-and-face-recognition-are-more-closely-linked-than-previously-thought.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230103/Voice-and-face-recognition-are-more-closely-linked-than-previously-thought.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Neuroscience-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20230103/Voice-and-face-recognition-are-more-closely-linked-than-previously-thought.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20230103/Voice-and-face-recognition-are-more-closely-linked-than-previously-thought.aspx",
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI",
         "Computer Vision"
       ]

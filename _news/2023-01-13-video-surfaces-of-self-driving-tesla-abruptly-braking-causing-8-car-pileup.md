@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/video-surfaces-of-self-driving-tesla-ab
 webUrl: "https://www.pcmag.com/news/video-surfaces-of-self-driving-tesla-abruptly-braking-causing-8-car-pileup"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Tesla causes pileup as questions about technology mount"
-    excerpt: "The report of the accident notes that the Tesla driver was using the car’s “Full Self-Driving” feature before the vehicle activated its turn signal, shifted left, and began to brake directly ..."
-    publishedDateTime: 2023-01-12T01:16:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/jan/11/self-driving-tesla-causes-pileup-questions-about-t/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2023/jan/11/self-driving-tesla-causes-pileup-questions-about-t/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/jan/11/self-driving-tesla-causes-pileup-questions-about-t/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 59
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2022/04/20/results_tesla_52414_c0-182-4380-2737_s1200x700.jpg?cce0016093c3ff359cef6cee472e14ef069c5e52"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Images Of Tesla's Next Gen Self-Driving Camera Hardware Leaked: Here's What They Reveal"
     excerpt: "Tesla, Inc TSLA unveiled its Hardware 3 Full Self-Driving computer. The hardware update brought more processing power to the vehicles to eventually enable the cars t"
     publishedDateTime: 2023-01-14T14:34:00Z

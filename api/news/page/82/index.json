@@ -2,6 +2,40 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-10-28-latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision.md",
+      "title": "LatticeFlow Secures $12 Million to Eliminate AI Data and Model Blind Spots in Computer Vision",
+      "excerpt": "The funding will accelerate development of the first scalable AI platform to automatically diagnose and fix data and model issues in computer vision, vital for enabling real-world model adoption ZURICH–(BUSINESS WIRE)–#DeepTech—LatticeFlow ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/",
+      "originalUrl": "https://www.01net.it/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-28-lego-is-discontinuing-its-mindstorms-buildable-robot-kits.md",
       "title": "Lego Is Discontinuing Its Mindstorms Buildable Robot Kits",
       "excerpt": "where the robots can be controlled and programmed, for another two years after that. Lego Mindstorms first debuted back in September of 1998, over 24 years ago, leveraging the company’s more ...",
@@ -1098,50 +1132,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-microsoft-previews-vision-studio-for-working-with-azure-computer-vision-api.md",
-      "title": "Microsoft Previews 'Vision Studio' for Working with Azure Computer Vision API",
-      "excerpt": "As if things weren't complicated enough with oft-confused Visual Studio and Visual Studio Code offerings, Microsoft has now announced a preview of Vision Studio, for working with the Computer Vision API in the Azure cloud computing platform.",
-      "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/articles/2022/10/27/vision-studio.aspx",
-      "originalUrl": "https://visualstudiomagazine.com/articles/2022/10/27/vision-studio.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2017/0417red_F2Hello.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Visual Studio Magazine",
-        "domain": "visualstudiomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

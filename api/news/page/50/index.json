@@ -2,6 +2,50 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-11-28-along-with-data-analytics-machine-learning-intelligent-automation-poised-to-solve-global-business-problems.md",
+      "title": "Along with Data Analytics & Machine Learning, Intelligent Automation poised to solve global business problems",
+      "excerpt": "In the last few years, along with Data Analytics, Machine Learning (ML), Artificial ... Benefits of IA in finance While the global financial services industry – be it asset managers, hedge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/along-with-data-analytics-machine-learning-intelligent-automation-poised-to-solve-global-business-problems/2893671/",
+      "originalUrl": "https://www.financialexpress.com/industry/along-with-data-analytics-machine-learning-intelligent-automation-poised-to-solve-global-business-problems/2893671/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/11/double-exposure-businessman-using-tablet-with-cityscape-financial-graph-blurred-buildi.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/along-with-data-analytics-machine-learning-intelligent-automation-poised-to-solve-global-business-problems/2893671/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/along-with-data-analytics-machine-learning-intelligent-automation-poised-to-solve-global-business-problems/2893671/lite/",
+      "publishedDateTime": "2022-11-27T14:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america.md",
       "title": "Tesla's Full Self-Driving Beta Available to Anyone That Pays in North America",
       "excerpt": "The software is available to everyone in North America, Tesla’s CEO Elon Musk announced this week. Tesla Inc’s Full Self-Driving Beta software is available to everyone in North America, Tesla’s CEO Elon Musk announced this week.",
@@ -1098,58 +1142,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-26-the-best-black-friday-robot-vacuum-and-smart-home-deals.md",
-      "title": "The best Black Friday robot vacuum and smart home deals",
-      "excerpt": "Going from zero to a fully outfitted smart home is a huge undertaking — and it can get expensive fast. While we don't recommend grabbing every possible smart home device in one go, Black Friday makes smartening up areas of your home a lot easier on your wallet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html",
-      "originalUrl": "https://www.engadget.com/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/b8640800-6abd-11ed-bfee-1c74ea8ab846",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html",
-      "publishedDateTime": "2022-11-25T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

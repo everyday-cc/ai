@@ -2,6 +2,58 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2022-11-12-softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination.md",
+      "title": "SoftBank, NEC, Sony, Toyota + more team up for Rapidus, Japan’s bid for next-gen chip domination",
+      "excerpt": "Major Japanese tech firms including SoftBank and Sony plan to launch a new chip company called Rapidus that aims to mass produce 3nm by 2027.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/",
+      "originalUrl": "https://techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1189756266.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/amp/",
+      "publishedDateTime": "2022-11-11T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-12-luxonis-puts-a-powerful-rolling-robotics-lab-in-your-pocket.md",
       "title": "Luxonis puts a powerful rolling robotics lab in your pocket",
       "excerpt": "A Colorado-based computer vision company has launched a hackable, open-source roving robot called rae that packs AI processing and machine learning ... where pledges currently start at US$399. If all goes to plan with the already funded campaign, shipping ...",
@@ -1099,58 +1151,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-openai-leads-235m-round-in-mem-an-ai-powered-note-taking-app.md",
-      "title": "OpenAI leads $23.5M round in Mem, an AI-powered note-taking app",
-      "excerpt": "Mem, an AI-powered note-taking app, has raised capital from OpenAI's startup fund -- one of the first companies to do so.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/",
-      "originalUrl": "https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1130532319.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/amp/",
-      "publishedDateTime": "2022-11-10T15:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

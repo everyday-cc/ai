@@ -9,8 +9,8 @@ ampWebUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Seattle Times
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "ChatGPT could be used for good, but like many other AI models, it's rife with racist and discriminatory bias"
+    excerpt: "ChatGPT could soon power Microsoft products, despite the potential to spew dangerous content. The AI community is torn on solutions."
+    publishedDateTime: 2023-01-16T16:08:00Z
+    webUrl: "https://insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1"
+    ampWebUrl: "https://www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1?amp"
+    cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1?amp"
+    type: article
+    provider:
+      name: insider
+      domain: insider.com
+    quality: 38
+    images:
+      - url: "https://i.insider.com/62e40a4f4b455800188b5eaf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Portraits to go and prose like Tim Winton: ChatGPT and the rise of AI"
     excerpt: "AI expert Prof Toby Walsh speaks to Laura Murphy-Oates about the new wave of artificial intelligence and the fear and fascination it has created"
     publishedDateTime: 2023-01-16T13:00:00Z

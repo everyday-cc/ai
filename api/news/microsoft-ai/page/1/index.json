@@ -55,6 +55,40 @@
       ]
     },
     {
+      "path": "_news/2023-01-14-microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai.md",
+      "title": "Microsoft bets big on the creator of ChatGPT in race to dominate AI",
+      "excerpt": "As a new chatbot wows the world, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/",
+      "originalUrl": "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1",
+      "publishedDateTime": "2023-01-13T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-14-tech-gets-religion-on-ai-inside-the-vatican-summit-with-islamic-and-jewish-leaders-microsoft-and-ibm.md",
       "title": "Tech gets religion on AI: Inside the Vatican summit with Islamic and Jewish leaders, Microsoft and IBM",
       "excerpt": "It’s unusual for tech executives and religious leaders to get together to discuss their shared interests and goals for the future of humanity and the planet. It’s even more extraordinary… Read More",
@@ -1314,49 +1348,6 @@
       "provider": {
         "name": "Computerworld",
         "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-microsoft-seals-lse-cloud-deal.md",
-      "title": "Microsoft Seals LSE Cloud Deal",
-      "excerpt": "Microsoft’s investment in LSEG comes at a time when big tech names like Google, Amazon and IBM are increasingly engaged in an arms race to deepen relationships with financial firms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gfmag.com/magazine/january-2023/microsoft-london-stock-exchange-cloud-deal",
-      "originalUrl": "https://www.gfmag.com/magazine/january-2023/microsoft-london-stock-exchange-cloud-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2tyltutevw8th.cloudfront.net/CACHE/images/media/image/lse-deal-1200-1672685650/c1daad9d37c336797e9a5736499b97b9.png",
-          "width": 500,
-          "height": 262,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Finance",
-        "domain": "gfmag.com",
         "images": null,
         "publishers": null,
         "authors": null

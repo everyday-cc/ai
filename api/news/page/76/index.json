@@ -2,6 +2,49 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2022-11-03-driverless-cars-will-they-be-on-boston-roads-any-time-soon.md",
+      "title": "Driverless cars: Will they be on Boston roads any time soon?",
+      "excerpt": "Do you ever wonder what happened to driverless cars? In this week's edition of Tech Talk, Boston Globe's Hiawatha Bray shares what some of the setbacks have been with the technology and when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbur.org/radioboston/2022/11/03/self-driving-cars-boston-tech-talk",
+      "originalUrl": "https://www.wbur.org/radioboston/2022/11/03/self-driving-cars-boston-tech-talk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wbur.org/wp/2016/06/Radio-Boston-Artwork-Tile-3000px_wbur-1.jpg",
+          "width": 3000,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBUR",
+        "domain": "wbur.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-ai-ethics-four-essentials-cios-must-know.md",
       "title": "AI Ethics: Four Essentials CIOs Must Know",
       "excerpt": "All CIOs are under immense pressure to adopt AI-based technologies, and this demand will definitely continue to grow",
@@ -1108,58 +1151,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-george-hotz-aka-geohot-is-leaving-commaai-for-a-lofty-ai-project.md",
-      "title": "George Hotz, aka ‘geohot,’ is leaving Comma.ai for a lofty AI project",
-      "excerpt": "Comma.ai founder George Hotz says he is taking \"some time away\" from the driver assistance system startup. Here's what he's working on now.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/02/george-hotz-aka-geohot-is-leaving-comma-ai-for-a-lofty-ai-project/",
-      "originalUrl": "https://techcrunch.com/2022/11/02/george-hotz-aka-geohot-is-leaving-comma-ai-for-a-lofty-ai-project/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/07/fullsizerender-2.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/02/george-hotz-aka-geohot-is-leaving-comma-ai-for-a-lofty-ai-project/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/02/george-hotz-aka-geohot-is-leaving-comma-ai-for-a-lofty-ai-project/amp/",
-      "publishedDateTime": "2022-11-02T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,40 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2022-10-21-driverless-cabs-ai-perfume-and-a-history-mystery.md",
+      "title": "Driverless cabs, AI perfume and a history mystery",
+      "excerpt": "Click takes a ride in one of the first fare paying driverless cabs in San Francisco ... visitors solve a historical mystery. And how artificial intelligence is helping the perfume industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/programmes/m001cv9d",
+      "originalUrl": "https://www.bbc.co.uk/programmes/m001cv9d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-amazon-scams-to-avoid-at-all-costs.md",
       "title": "Amazon Scams to Avoid at All Costs",
       "excerpt": "Scammers can even pose as representatives from big companies, like Amazon, in attempts to steal customers’ information. One way to keep yourself safe from these scams is to know what they are ...",
@@ -1104,40 +1138,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-silver-alert-issued-for-valley-man-with-cognitive-difficulties.md",
-      "title": "Silver Alert issued for Valley man with cognitive difficulties",
-      "excerpt": "PHOENIX – A Silver Alert was issued Thursday morning for a missing Valley man who has cognitive problems, authorities said. Emidio Espericueta Gurrola, 77, was last seen near 11th Street and ...",
-      "sourceUrl": null,
-      "webUrl": "https://ktar.com/story/5300333/silver-alert-issued-for-valley-man-with-cognitive-difficulties/",
-      "originalUrl": "https://ktar.com/story/5300333/silver-alert-issued-for-valley-man-with-cognitive-difficulties/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTAR News",
-        "domain": "ktar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

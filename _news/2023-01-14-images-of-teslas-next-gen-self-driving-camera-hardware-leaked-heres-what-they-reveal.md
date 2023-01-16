@@ -41,22 +41,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Self-driving Tesla causes pileup as questions about technology mount"
-    excerpt: "The report of the accident notes that the Tesla driver was using the car’s “Full Self-Driving” feature before the vehicle activated its turn signal, shifted left, and began to brake directly ..."
-    publishedDateTime: 2023-01-12T01:16:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/jan/11/self-driving-tesla-causes-pileup-questions-about-t/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2023/jan/11/self-driving-tesla-causes-pileup-questions-about-t/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/jan/11/self-driving-tesla-causes-pileup-questions-about-t/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 59
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2022/04/20/results_tesla_52414_c0-182-4380-2737_s1200x700.jpg?cce0016093c3ff359cef6cee472e14ef069c5e52"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Tesla ‘Full-Self Driving’ Crash Injuring 9 Caught on Video the Day FSD Went Public"
     excerpt: "Footage surfaced of a Tesla Model S driver causing an eight-car pileup in San Francisco while using the car's \"Full Self-Driving Beta\" function. Ironically, the crash occurred the same day Tesla ..."
     publishedDateTime: 2023-01-12T03:14:00Z

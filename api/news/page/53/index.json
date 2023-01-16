@@ -2,6 +2,59 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2022-11-23-meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff.md",
+      "title": "Meta AI Unveils AI-Infused Diplomatic Charmer Which Stirs AI Ethics And AI Law Into Indelicate Tiff",
+      "excerpt": "Meta AI has released a fascinating AI-infused diplomacy acting app that plays the famous board game known as Diplomacy, doing so to a level seemingly on par with human players. We take a close look and assess the AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637dd91f8792833e25c808cc/0x0.jpg?format=jpg&crop=2117,1410,x20,y37,safe&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/amp/",
+      "publishedDateTime": "2022-11-23T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-how-ai-iteration-can-uplevel-the-customer-experience.md",
       "title": "How AI iteration can uplevel the customer experience",
       "excerpt": "We’re no longer facing an immature bot landscape, with the likes of only Google DialogFlow, IBM Watson and Amazon Lex — good NLP bots, but very tricky for non-developers to use. It’s ease of use that will get AI and ML into an adoptable and impactful ...",
@@ -1097,49 +1150,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-ces-2023-robotics-innovation-award-winners-announced.md",
-      "title": "CES 2023 robotics Innovation Award winners announced",
-      "excerpt": "A quick look at the 2023 CES Innovation award winners in the robotics category covers a broad range of solutions that impact consumers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/ces-2023-robotics-innovation-award-winners-announced/",
-      "originalUrl": "https://www.therobotreport.com/ces-2023-robotics-innovation-award-winners-announced/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/11/Tonework-CES-2023-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T12:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

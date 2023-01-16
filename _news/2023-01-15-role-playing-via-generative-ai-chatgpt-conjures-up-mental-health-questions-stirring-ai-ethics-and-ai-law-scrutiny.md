@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/amp/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -79,6 +79,20 @@ related:
       - url: "https://i.insider.com/63bc2b2623f3620019877328?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Everybody Loves ChatGPT Except For Nick Cave, Who Is Unimpressed With AI-Generated Lyrics Meant To Be Like His"
+    excerpt: "Cave called the ChatGPT-generated song ’bullsh*t’ and explained why it is ’a grotesque mockery of what it is to be human.’"
+    publishedDateTime: 2023-01-16T18:54:00Z
+    webUrl: "https://uproxx.com/indie/nick-cave-hates-chatgpt-lyrics-ai/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 19
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2023/01/2-nick-1.jpg?w=710"
+        width: 710
+        height: 400
         isCached: true
 
 secured: "ocKSTbTy9e7tEt5X85U5qqKT1K+SooWXcA8kEATKcFdpGibod7a0DAveCf7RWR7XYxZ3XcCCaoOTlnEfPrJG3YV5qkNvw2OJFxa6v/2lWuT9kIKYFX9hbYoZ94DwQL8BlWtvarCsTgD3aVjcvajWqP/bdZIWV439O9b0f32Efm33OzDJrTC3uNH/2QCPDbr7RaASMpP+ZYC3sJUH3y5C3qo8HM8cEK+LOYL+NoQuhlus1jVtaHX64qgVTah+hMMeqnFEVHOnUrgfgJ2ncprKzLnGMLUI1d3aHvQCtqifPEL0TBezOmCru4zVYUvVhBBDRkY242qrOrseYTsVt1TPxQ9wS1h0XF42dyhwSwaCdSrUNXGU5tJzQ4Fvgmc9LQ/1xdA/QGfyOAZiYuzUCPg4WzZLhOX+IumbgjjBtf8SB5fDhc0hs9w//ZygDhK7OFW3EKRsmb2qSqPwkAjgIKmix43thBC8IboFKm8gwzw6v6UIUElqpisVOJn4xb5q/JXq8JlgBA7IQCP2/V9IVc/6rQ==;SWWtJpjDFTb+PJBixeBwCA=="

@@ -2,6 +2,49 @@
   "page": 130,
   "value": [
     {
+      "path": "_news/2022-09-17-arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps.md",
+      "title": "Arm Fills In Some Gaps – And Details – In Server Chip Roadmaps",
+      "excerpt": "Let’s just say it right here at the beginning. The first wave of attempts at creating Arm server chips –Calxeda, Applied Micro, AMD, Marvell, Nvidia, and",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/",
+      "originalUrl": "https://www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/09/arm-neoverse-server-logo-scaled.jpg",
+          "width": 2560,
+          "height": 1421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/amp/",
+      "publishedDateTime": "2022-09-16T19:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-17-fierce-competition-who-could-win-the-intelligent-automation-arms-race.md",
       "title": "Fierce competition: Who could win the intelligent automation arms race",
       "excerpt": "Microsoft and Automation Anywhere are emerging as the main contenders for dominance of the business process automation market.",
@@ -1128,49 +1171,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-2-outstanding-etfs-for-asx-investors-to-buy-next-week.md",
-      "title": "2 outstanding ETFs for ASX investors to buy next week",
-      "excerpt": "Betashares Nasdaq 100 ETF (ASX:NDQ) and this ETF could be outstanding options for ASX investors next week. Here's",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com.au/2022/09/17/2-outstanding-etfs-for-asx-investors-to-buy-next-week/",
-      "originalUrl": "https://www.fool.com.au/2022/09/17/2-outstanding-etfs-for-asx-investors-to-buy-next-week/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fool.com.au/wp-content/uploads/2022/02/etf-5-16.9.jpg",
-          "width": 2133,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motley Fool Australia",
-        "domain": "fool.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Technology Market 2023 Statistics, Share Price, Growth Prospects, Industry Trends till 2028"
-    excerpt: "Speech and Voice Recognition Technology Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
-    publishedDateTime: 2023-01-12T02:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-2023-statistics-share-price-growth-prospects-industry-trends-till-2028-2023-01-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ACr5vVly4JbuzfHpTBrssyUHswAEowFXTRBKAw5AgqH+7eCYyrRjl03nLch9jpntl2ehj6FulnJgTHYRZ/MXwC9tmuenXyYcTmXUJAKGRupY8xexUuxE5jwVYDJiAxPB7bYZ+BJHqhFLyjVLegu3KgRWMz9eElCSKfbh9tH6RcOD8075CsBwefmMxdgsd/BlblSegG4/YGqzHh5xc3E+XrBt6Bbz5fBkF7ghOpc01zNWzM0cQZ7EBCy+gN2LPwKbmy1vCH03PFV5AmCRXyPvr2XuNDAeMzU978cHMu0U/39mJEHbSdaiy2+qo7mqHMLCT1Hef/JNPaS8aFvYdX4f1sWZN4QmxESRb5vmadYC7sE=;Vvt/QmRJ+fV6wjnibQtQUA=="
 ---

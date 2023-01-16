@@ -2,6 +2,59 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2022-12-03-aws-ai-service-cards-signal-amazons-responsible-ai-catch-up.md",
+      "title": "AWS AI Service Cards signal Amazon’s responsible AI catch-up",
+      "excerpt": "Invent, Amazon launched AI Service Cards, which a Gartner analyst says is an effort to catch up with competitors in responsible AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/aws-ai-service-cards-signal-amazons-responsible-ai-catch-up/",
+      "originalUrl": "https://venturebeat.com/ai/aws-ai-service-cards-signal-amazons-responsible-ai-catch-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/aws-logo-new.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/aws-ai-service-cards-signal-amazons-responsible-ai-catch-up/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/aws-ai-service-cards-signal-amazons-responsible-ai-catch-up/amp/",
+      "publishedDateTime": "2022-12-02T10:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-12-03-how-artificial-intelligence-swayed-the-midterm-elections-and-will-become-a-permanent-feature-of-democracy.md",
       "title": "How Artificial Intelligence Swayed The Midterm Elections - And Will Become A Permanent Feature Of Democracy",
       "excerpt": "Artificial Intelligence helped give Democrats a fundraising edge this election season, allowing the blue party to retain control of the Senate and blunt a Republican takeover of the House.",
@@ -1137,49 +1190,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-san-francisco-police-defend-killer-robots-plan.md",
-      "title": "San Francisco police defend 'killer robots' plan",
-      "excerpt": "Police in San Francisco defended their potential use of killer robots on Thursday, insisting they would be a \"last resort\" and only for very dangerous situations. Detectives in the California city, where residents complain of a spike in crime,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602",
-      "originalUrl": "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/12/02/killer_bots.png",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp",
-      "cdnAmpWebUrl": "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp",
-      "publishedDateTime": "2022-12-01T19:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tbsnews",
-        "domain": "tbsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

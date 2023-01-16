@@ -2,6 +2,58 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2022-12-02-new-orleans-reverses-facial-recognition-ban-to-help-police-fight-crime-privacy-experts-are-wary.md",
+      "title": "New Orleans reverses facial recognition ban to help police fight crime; privacy experts are wary",
+      "excerpt": "The City of New Orleans has ended a ban on the use of facial recognition technology by police amid a surge in violent crime. Critics of the move have questions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-help-police-fight-crime-privacy-experts-are-wary",
+      "originalUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-help-police-fight-crime-privacy-experts-are-wary",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/Louis-Casiano.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-help-police-fight-crime-privacy-experts-are-wary.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-help-police-fight-crime-privacy-experts-are-wary.amp",
+      "publishedDateTime": "2022-12-01T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-aws-ceo-selipsky-we-are-making-cloud-easier-to-use.md",
       "title": "AWS CEO Selipsky: We Are Making Cloud Easier To Use",
       "excerpt": "What businesses need from cloud computing is the power to work on their data without having to transport it around between different clouds, different databases and different repositories, different integrations to third-party applications,",
@@ -1070,58 +1122,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-honda-to-develop-advanced-level-3-self-driving-technology-by-2029.md",
-      "title": "Honda to develop advanced level 3 self-driving technology by 2029",
-      "excerpt": "TOKYO, Dec 1 (Reuters) - Honda (7267.T) said it would develop technology enabling its level 3 self-driving capability to function at any speed below legal limits on highways by the second half of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/honda-develop-advanced-level-3-self-driving-technology-by-2029-2022-11-30/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/honda-develop-advanced-level-3-self-driving-technology-by-2029-2022-11-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/QrJXIFEIbZhsR71wwDc8QVbn9Wk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XQGVWFZPRBOVFNJTGYYIWL7DH4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T19:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

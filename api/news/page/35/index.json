@@ -2,6 +2,49 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2022-12-07-different-anxiety-related-behaviors-are-mediated-by-different-neural-circuits-and-molecular-mechanisms.md",
+      "title": "Different anxiety-related behaviors are mediated by different neural circuits and molecular mechanisms",
+      "excerpt": "They found that different anxiety-related behaviors are mediated by different neural circuits and molecular mechanisms. Their research findings were published in a cover article entitled \"Distinct ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-12-anxiety-related-behaviors-neural-circuits-molecular.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-12-anxiety-related-behaviors-neural-circuits-molecular.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/why-does-anxiety-lead.jpg",
+          "width": 598,
+          "height": 276,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-12-anxiety-related-behaviors-neural-circuits-molecular.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-anxiety-related-behaviors-neural-circuits-molecular.amp",
+      "publishedDateTime": "2022-12-07T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-as-ai-rises-lawmakers-try-to-catch-up.md",
       "title": "As AI rises, lawmakers try to catch up",
       "excerpt": "artificial intelligence has burrowed its way into every arena of modern life. Its promoters reckon it is revolutionising human experience, but critics stress that the technology risks putting machines in charge of life-changing decisions. Regulators in ...",
@@ -1094,49 +1137,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-study-links-ultra-processed-foods-to-dementia-and-cognitive-decline.md",
-      "title": "Study links ultra-processed foods to dementia and cognitive decline",
-      "excerpt": "Ultra-processed foods might go easy on a person's taste buds and wallet, but a new study now suggests they are linked to dementia and cognitive decline. The study, titled \"Association Between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/news/study-links-ultra-processed-foods-to-dementia-and-cognitive-decline",
-      "originalUrl": "https://www.washingtonexaminer.com/news/study-links-ultra-processed-foods-to-dementia-and-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/05f6b89/2147483647/strip/true/crop/2290x1202+0+79/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F89%2Fb3%2Fa4f148c84b9f9ea2a5f97d18530e%2Fmcdonalds-cop.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T22:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

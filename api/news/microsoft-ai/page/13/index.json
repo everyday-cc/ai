@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-09-28-tcs-named-a-leader-and-star-performer-in-microsoft-azure-services-by-everest-group.md",
+      "title": "TCS Named a Leader and Star Performer in Microsoft Azure Services by Everest Group",
+      "excerpt": "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS) has been recognized as a Leader and Star Performer in Everest Group’s PEAK Matrix® for Microsoft Azure System Integration Capabilities .TCS was",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/tcs-named-a-leader-and-star-performer-in-microsoft-azure-services-by-everest-group/",
+      "originalUrl": "https://indiaeducationdiary.in/tcs-named-a-leader-and-star-performer-in-microsoft-azure-services-by-everest-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/tcs-named-a-leader-and-star-performer-in-microsoft-azure-services-by-everest-group/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/tcs-named-a-leader-and-star-performer-in-microsoft-azure-services-by-everest-group/",
+      "publishedDateTime": "2022-09-27T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-28-sas-viya-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "SAS Viya now available in the Microsoft Azure Marketplace",
       "excerpt": "The SAS ® Viya ® analytics platform is now available in the Microsoft Azure Marketplace with the click of a button on a pay-as-you-go basis. Full-featured SAS Viya on Microsoft Azure equips customers worldwide with access to essential data exploration,",
@@ -1322,49 +1365,6 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-frontline-systems-releases-rasonr-v2023-cloud-platform-with-advanced-model-management-and-decision-intelligence.md",
-      "title": "Frontline Systems Releases RASON(R) V2023 Cloud Platform with Advanced Model Management and Decision Intelligence",
-      "excerpt": "V2023 Cloud Platform with Advanced Model Management and Decision Intelligence Sep 19, 2022 (PRNewswire via COMTEX) --",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/frontline-systems-releases-rasonr-v2023-cloud-platform-with-advanced-model-management-and-decision-intelligence-2022-09-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/frontline-systems-releases-rasonr-v2023-cloud-platform-with-advanced-model-management-and-decision-intelligence-2022-09-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

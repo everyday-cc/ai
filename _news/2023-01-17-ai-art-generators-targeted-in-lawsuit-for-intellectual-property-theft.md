@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Stable Diffusion AI art lawsuit, plus caution from OpenAI, DeepMind | The AI Beat"
+    excerpt: "Stability AI and Midjourney were hit with a copyright infringement lawsuit, while OpenAI and DeepMind are signaling generative AI caution."
+    publishedDateTime: 2023-01-16T16:54:00Z
+    webUrl: "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/"
+    ampWebUrl: "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 99
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-16-at-10.28.05-AM-e1673882948444.png?w=1200&strip=all"
+        width: 703
+        height: 436
+        isCached: true
   - title: "Stable Diffusion lawsuit, plus words of caution from OpenAI, DeepMind | The AI Beat"
     excerpt: "Stability AI and Midjourney were hit with a copyright infringement lawsuit, while OpenAI and DeepMind are signaling generative AI caution."
     publishedDateTime: 2023-01-16T16:40:00Z
@@ -41,6 +57,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-16-at-10.28.05-AM-e1673882948444.png?w=1200&strip=all"
         width: 703
         height: 436
+        isCached: true
+  - title: "AI about to hit a level that could cause damage to humanity: DeepMind CEO"
+    excerpt: "Google's DeepMind CEO Demis Hassabis has said AI is \"on the cusp\" of being able to make tools that could be damaging to humans. \"When it comes to very powerful technologies...we need to be careful,\" he said."
+    publishedDateTime: 2023-01-16T17:24:00Z
+    webUrl: "https://inshorts.com/en/news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 73
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/01_jan/16_mon/img_1673888098959_71.jpg?"
+        width: 960
+        height: 720
         isCached: true
   - title: "DeepMind Explores the Connection Between Gradient-Based Meta-Learning and Convex Optimization"
     excerpt: "Second nature for humans, meta-learning is a powerful yet challenging technique for AI systems that enables a model to meta-learn the parameters of a parameterized algorithm by self-evaluating its performance and adapting the learned parameterized algorithm to a given task."
@@ -59,6 +91,6 @@ related:
         height: 320
         isCached: true
 
-secured: "7DMYKbOkojZOJaJSWPcTAU4hOSiXN0Ff44/+2tyQsb73gjxgzlFoHyK5V9pB3qIvzl/0/d6P+dL5/n7fLQKT4CkURb0HAHBNW4J22qCDfJSkkkbEgViHdJ787FyrJUtlNOpmAmUTGLQkQatkBpnWMlQewI3ZlXiF6mfC8jNigOKZNUXQkbipyudLL4gs3Kb3jwoDfwC8NftUEoHu/2sGpx8SPkE7KNOJmiBOFOPK1Y7ID12wd1N992hPYQ8viMtP0O2BDPZhm0DMl6gBRot8LjSnRxKFZ//K2++wrqdGHwZUiGZip2sy38FzHOtQgj6wp7im7jzSnfRp2o1cWdBVG+zi8JA6/TJNhoUcmrsSNQc=;iEtci2/eyleAro8Y0KO+BA=="
+secured: "yxSB24cZ9BRa5n6j7dcS7Ozqm2rPcbpeJL/RqOmi20wV13ey6zNBTynoi3+/GORkLucnuoij2BW7Lv3N/aCJb6iuV8ZaS6qgp0L0l/OPPwcddz4jaB9/r6i8tZjdzRXeSsRVQicyamG/FCgxcoPyPLkgdrf60LPvDDIFyFVEKPv5n9N6kZ5ODMfSBotDh/XIF4O0+7+GqZsWytUeJ6iQKrqzefQ5J7Ym++M4LnDFevr3I2fmf7d3dOPolEnn4OkHah2xjCl8yUdK9YC+b4QyTX4ljw/C2NMHHLU9NR5dHnG34QQDPMAPBpTq3TsJ12wZZcuFIpiPAU6Ar9V5l+j8G9zWNkdTK8TYV1960oUKs2cuts0LSPUfLTx+pwy6NMObRNklgdd8hdnuq6gYYIBJuPHQQGgpmYTZZhg+VllSWntUl2JVvkyRwotUs9KzRZczkW0PgjcM54ZqbFmxRYM5TrlCiQIxfaqoE9uwjvzkb2jpuFTULT92g7oMgrJapQuLEDWRm4fYW0nbZSKMfQSscg==;Y1EZenhEZiMAxi4GiDQxCw=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2022-11-20-part-of-the-kill-chain-how-can-we-control-weaponised-robots.md",
+      "title": "‘Part of the kill chain’: how can we control weaponised robots?",
+      "excerpt": "From armed robot dogs to target-seeking drones, the use of artificial intelligence in warfare presents ethical dilemmas that urgently need addressing",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/41042fab075372f0412b4435f5752b40f3442018/0_413_6192_3715/master/6192.jpg?width=620&quality=85&auto=format&fit=max&s=fcd8c7aabee9c95bf41e074059108611",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/nov/20/part-of-the-kill-chain-how-can-we-control-weaponised-robots",
+      "publishedDateTime": "2022-11-20T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-20-meta-trained-an-ai-on-48m-science-papers-it-was-shut-down-after-2-days.md",
       "title": "Meta Trained an AI on 48M Science Papers. It Was Shut Down After 2 Days",
       "excerpt": "Jackson Ryan is CNET's award-winning science editor. He used to be a scientist but he realized he was not very happy sitting at a lab bench all day. Now he has the best job in the world, telling stories about space,",
@@ -1111,58 +1163,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-19-microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud.md",
-      "title": "Microsoft and Nvidia extend partnership to build AI supercomputer in the cloud",
-      "excerpt": "Nidhi Chappell, partner/GM, specialized compute at Microsoft, explained to VentureBeat that Azure AI-optimized virtual machine (VM) offerings, like the current generation of the NDm A100 v4 VM series, start with a single virtual machine (VM) and eight ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/",
-      "originalUrl": "https://venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1154983903-e1652785911789.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/amp/",
-      "publishedDateTime": "2022-11-18T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

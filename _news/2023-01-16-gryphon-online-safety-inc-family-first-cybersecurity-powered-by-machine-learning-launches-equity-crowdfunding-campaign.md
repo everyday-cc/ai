@@ -2,9 +2,9 @@
 category: news
 title: "Gryphon Online Safety, Inc., Family First Cybersecurity Powered by Machine Learning Launches Equity Crowdfunding Campaign"
 excerpt: "Gryphon Online Safety, Inc., the leading family first cybersecurity solution that makes it easy to protect the connected home with machine learning, has launched an equity crowdfunding campaign on WeFunder."
-publishedDateTime: 2023-01-16T15:17:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-gryphon-online-safety-inc-family-first-cybersecurity-powered-/2023/01/16/9743510.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-gryphon-online-safety-inc-family-first-cybersecurity-powered-/2023/01/16/9743510.htm"
+publishedDateTime: 2023-01-16T13:39:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/01/16/9743510.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/01/16/9743510.htm"
 type: article
 quality: 29
 heat: 29
@@ -24,6 +24,6 @@ images:
     height: 225
     isCached: true
 
-secured: "XF5m10kfEEzq2CFa1jGEGobND7/OrQ8RoVZFNVOUDAGWJg/knKYOquQ2BPlM/OKR+msQK2qu1DoT60FNyXWCbKs7J0cWXxDgu9/HjP0MeuSqztqOIjsG+5EwwmuFtLjCqGkKprqQ92JRL37ti/O1WzdIPCr1yPLBIdh47gfVHmP/yeZzxx7oJ1fm0vdcE1ZfrvDfbMe5yVi3M/b98OXLA0skLToF6EuOFr6eMksD/sd5/LJkm/j3dHTgVIUHRQqQKZgqfHpteFmS9NEwSUgggOQLF5G301lhFfCJanjQEFBhwL4u/TG4eOkcf7ZGFTvd4MjHfstEm7TwYvn5lXsmFeagVk1JpHY+LgUXEwxBz+w=;fbjHFLQ0uJ4HB/33E0eSrQ=="
+secured: "F+LF+XAtHaPFJNheBRaLmZc8HMMJA5QXi6f2n1s/79iU+NM9s4QICAOMaohFPJNHpH0/yzn1RGEB61PFOTAzfVOoM6gNIFcGbjgp37ukAgRh6nbGvcJMS7oOri6SxfCLOAByILeTcvORLT/mqezPhsShmg11SuffH6UTXFtyi/oYJFComPRVcgIqVEv9AVlKY3fGCAQNObvZQ1PCdBxgldiL4Ek7QoHSLOB35x4ALV5FopUaKa/HoYcbmII9ygKR2GNQsi9EwGz0KruR06LVEWr5Uhs7YKKF0Wgw4/5Dz764g3RNWMZ1AFsGW5BzbueUcdhVTFfug2uY1AxEy4/xreC6v8wGSbmDkkPzkBcnjms=;v406HRz06kj4VhIr961XzA=="
 ---
 

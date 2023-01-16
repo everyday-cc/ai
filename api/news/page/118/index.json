@@ -2,6 +2,58 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2022-09-28-alzheimers-drug-slows-cognitive-decline-in-key-study.md",
+      "title": "Alzheimer’s Drug Slows Cognitive Decline in Key Study",
+      "excerpt": "By Rebecca Robbins and Pam Belluck The pharmaceutical companies Biogen and Eisai said on Tuesday that a drug they are developing for Alzheimer’s disease had slowed the rate of cognitive decline ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/09/27/business/alzheimers-drug-biogen-lecanemab.html",
+      "originalUrl": "https://www.nytimes.com/2022/09/27/business/alzheimers-drug-biogen-lecanemab.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/27/multimedia/27alzheimer-1-3cd6/27alzheimer-1-3cd6-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/09/27/business/alzheimers-drug-biogen-lecanemab.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/09/27/business/alzheimers-drug-biogen-lecanemab.amp.html",
+      "publishedDateTime": "2022-09-27T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-28-ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange.md",
       "title": "IBM and Linux Foundation AI and Data announce Machine Learning eXchange",
       "excerpt": "IBM and Linux Foundation AI (LFAI) launched Machine Learning eXchange ... and a pipelines engine powered by Kubeflow Pipelines on Tekton, the core of Watson Studio Pipelines.",
@@ -1146,49 +1198,6 @@
         "AI in Healthcare",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-autonomousdriverless-cars-market-demand-business-strategies-future-analysis-current-trends-in-2022-and-forecast-till-2028.md",
-      "title": "Autonomous/Driverless Cars Market Demand, Business Strategies, Future Analysis, Current Trends in 2022 And Forecast till 2028",
-      "excerpt": "The autonomous (driverless) car market was valued at ... Recent technical breakthroughs in artificial intelligence, machine learning, and other sensors such as RADAR, LIDAR, GPS, and computer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/autonomous-driverless-cars-market-demand-business-strategies-future-analysis-current-trends-in-2022-and-forecast-till-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/autonomous-driverless-cars-market-demand-business-strategies-future-analysis-current-trends-in-2022-and-forecast-till-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.product.which.co.uk/prod/images/original/gm-8b9e8b5f-4213-4b1a-8946-0278e33ad281-driverless-car.jpg",
-          "width": 615,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

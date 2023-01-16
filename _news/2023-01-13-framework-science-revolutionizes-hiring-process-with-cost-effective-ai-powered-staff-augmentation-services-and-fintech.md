@@ -49,6 +49,6 @@ related:
       domain: ghanaweb.com
     quality: 4
 
-secured: "4SEHyRjt3mS6E/qVN/iaOaN9T0L2/HgN2jJ94y1PKxGcWUXfCrwPIOOUId2yuDTa+4I96EOgsvpnv0VHyP1FzCd0ZrF8faCbHBG2+uM24H+RzyiHVGoi5BvvWP5mTy5KpiifJDiXc+ZYdslDq0wiCJFPT57ICeswv/nl5A5jpGMWFsSQblgBFaPwBamYKazynqWYM4sfXNUSz5h+PwQgtxCtbDpeBNxqBUPN1ErqP7PGaORIXWKkB1JGQA2KTsYfY1XQ5K/QEtuDFyL2Ip7WCiW6V5myW6cETbKzu0mReHHmmbqTUB2+uH7QbKIA0MEtXQYXd6bTisUw3Rynglw+IhkYfKrTe4WvIK1DlKFt96Y=;efnV8MQLivrTipuDCUem7g=="
+secured: "HRH2ZU+KepkD2qMYLEAlEGciV4WTWv6vfEGxF4/OLj+nCZgH+WizsohsXOMeM/fxsL7mJTtNjM/elfjqwuUj/yFMCHGEMeAbjeQPtFuuYlc2hGznkelpoSNBwtGyUxg/w09Rtr5ye1dW0k3gU9q+aMoyWoqgDHxpJPFAwAPSeQCZLX3G/npm34lvQptJY6AkfbuIAW3MU41G5TtXsj+L/wJzdU2M8g8YesEPgp4+fwlnrW6P3RN1y4L9OiyXoUZLfltALBTOz5d2XP/pI/5DcWBFJh7Mut9vD0QA8pNnF+As1rkWzmlqmeCnIfUt7LvWcX/x7GiLnw9O43OvDU38lzvsSIvYmMAaKR5zxqgFfn8=;dswXp22NGGlmrjx07D2Pfw=="
 ---
 

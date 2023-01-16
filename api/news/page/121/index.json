@@ -2,6 +2,57 @@
   "page": 121,
   "value": [
     {
+      "path": "_news/2022-09-26-how-ai-can-help-protect-us-from-future-wildfires.md",
+      "title": "How AI Can Help Protect Us From Future Wildfires",
+      "excerpt": "Researchers at Stanford University recently developed an AI model for predicting dangerous particle pollution to help track the American West’s rapidly worsening wildfire smoke.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/",
+      "originalUrl": "https://www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6331819d020d0c1a157d2c27/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/amp/",
+      "publishedDateTime": "2022-09-26T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-is-artificial-intelligence-the-pill-that-health-care-needs.md",
       "title": "Is artificial intelligence the pill that health care needs?",
       "excerpt": "At a Toronto hospital, AI is being used to predict staffing needs in emergency departments. And it can help determine likelihood of a patient dying.",
@@ -1078,59 +1129,6 @@
       ],
       "topics": [
         "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-why-deepmind-isnt-deploying-its-new-ai-chatbot.md",
-      "title": "Why DeepMind isn’t deploying its new AI chatbot",
-      "excerpt": "DeepMind’s new AI chatbot, Sparrow, is being hailed as an important step towards creating safer, less-biased machine learning systems, thanks to its application of reinforcement learning based on input from human research participants for training.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/",
-      "originalUrl": "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-164848239.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/amp/",
-      "publishedDateTime": "2022-09-23T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
         "Facebook AI"
       ]
     }

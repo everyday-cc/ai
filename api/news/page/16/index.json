@@ -2,6 +2,57 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-12-24-this-week-in-xr-see-santa-fly-the-year-of-ai-carmacks-parting-shot.md",
+      "title": "This Week In XR: See Santa Fly, The Year Of AI, Carmack’s Parting Shot",
+      "excerpt": "Thanks to webXR pioneer 8th Wall, now part of Niantic, you can click this link See Santa Fly and hold up your smartphone. No matter how cloudy it is, you can see Santa's sleigh using 8th Wall's WebAR application.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2022/12/23/this-week-in-xr-this-week-in-xr-see-santa-fly-the-year-of-ai-carmacks-parting-shot/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2022/12/23/this-week-in-xr-this-week-in-xr-see-santa-fly-the-year-of-ai-carmacks-parting-shot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63a665efe3aa898ee79a8a09/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2022/12/23/this-week-in-xr-this-week-in-xr-see-santa-fly-the-year-of-ai-carmacks-parting-shot/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2022/12/23/this-week-in-xr-this-week-in-xr-see-santa-fly-the-year-of-ai-carmacks-parting-shot/amp/",
+      "publishedDateTime": "2022-12-23T17:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-24-artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients.md",
       "title": "Artificial Intelligence may Predict Success of Botox Treatment in Dystonia Patients",
       "excerpt": "Innovative artificial intelligence (AI) platform called DystoniaBoTXNet may help predict which patients with dystonia respond to Botox treatment with 96 percent accuracy.",
@@ -1181,49 +1232,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats.md",
-      "title": "New Version of HITRUST CSF Helps Healthcare Tackle Emerging Cybersecurity Threats",
-      "excerpt": "HITRUST will release CSF version 11 in January 2023, promising improved mitigations against emerging cybersecurity threats and an AI-based standards development toolkit.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitsecurity.com/news/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats",
-      "originalUrl": "https://healthitsecurity.com/news/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitsecurity.com/images/sized/GettyImages-1276687348_2-39a26234983c4eca9381530cb872a66d.jpg",
-          "width": 480,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitsecurity.com/news/amp/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats",
-      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats",
-      "publishedDateTime": "2022-12-22T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Security",
-        "domain": "healthitsecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-10-sao-paulo-metro-using-intelligent-security-systems-facial-recognition-tech.md",
+      "title": "São Paulo Metrô using Intelligent Security Systems facial recognition tech",
+      "excerpt": "“Object tracking, facial recognition, detection of unattended objects or children – all of these are powerful, AI-driven security tools that are available for deployment across large and small systems. ISS is committed to improving global safety and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.securitysystemsnews.com/article/s-o-paulo-metr-using-intelligent-security-systems-facial-recognition-tech",
+      "originalUrl": "https://www.securitysystemsnews.com/article/s-o-paulo-metr-using-intelligent-security-systems-facial-recognition-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.securitysystemsnews.com/images/og-default-image.png",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T13:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security Systems News",
+        "domain": "securitysystemsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-12-10-that-mysterious-object-on-a-florida-beach-its-a-shipwreck.md",
       "title": "That Mysterious Object on a Florida Beach? It’s a Shipwreck.",
       "excerpt": "Anyone can read what you share. By Christine Hauser and Jesus Jiménez After the discovery last month of a strange 80-foot-long, wood-and-metal object that had emerged from the sand at Daytona ...",
@@ -1308,50 +1352,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-the-best-cyber-monday-robot-vacuum-deals.md",
-      "title": "The best Cyber Monday robot vacuum deals",
-      "excerpt": "Amazon, Walmart, Best Buy and other retailers are all holding massive Cyber Monday sales now, with deep discounts on the best robot vacuums of 2022. Some vacuum models are at the lowest price we've ever seen them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/the-best-cyber-monday-robot-vacuum-deals/",
-      "originalUrl": "https://www.cbsnews.com/essentials/the-best-cyber-monday-robot-vacuum-deals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/28/69bea5c1-d14f-4e08-8bef-0db588f6d9de/thumbnail/1200x630/7fb06b107e0207457de1f6bee0715ade/cm-robo-vac-hero.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/the-best-cyber-monday-robot-vacuum-deals/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-cyber-monday-robot-vacuum-deals/",
-      "publishedDateTime": "2022-11-28T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

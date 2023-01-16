@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Study reveals machine learning can predict brain tumor progression"
+    excerpt: "Researchers at the University of Waterloo have developed a computational model to better accurately anticipate the emergence of lethal brain tumours."
+    publishedDateTime: 2023-01-16T17:55:00Z
+    webUrl: "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression"
+    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 74
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_01_2023_17_49_51_9560931.jpg?width=1280"
+        width: 1280
+        height: 960
+        isCached: true
 
 secured: "8X5ajcRmWd024CD/zX6b9qBVeblEwK0PVONBTlk5dIehQZs7fr9O79S0zhhS8Qh8ivviXiAAQAOQtmUZbJsieepLaTfyaG3BMRtoghuXz5cKdCJLECJdUkpg3RtVh42GgqJfkDiMhcMWoFh3OZEfmRux6IrxU5Am3rq+RJ5P1H2lTCsPDTYAhjiCtIJwvwpNaUh1jQMnkOwUMTHmAYBef6X8Twc/M224M2GDqFzVb3nKw0dRyGkX1GL1x2IWXt2KFBqW+EeBfudJEhsCIRv9JR2HvtmSknW64RaRCU/qXzA3oRiK4v6NebqQYdy3sFOlkbb3Y3zdZdkItQV0cD4mBl3AR5IryLHt7Xth6GoFddkK0IEPakmvj3AAxHmQJh8jKpLMWhpg9URvS+AyWYjghk3R9KFftO2Raq/OgmLYA12glPYqsCyo6/RNKknZwbyq/sI706LqeT6ARfGL9Zulk6qBtAd500PfL6DSr0QA8Tq36ev4OxbVHfosgsGo/qhfFsD1hN3bqFKdW2/kSStecw==;L50shhEeTm0MrQSFAFwiyA=="
 ---

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Stable Diffusion AI art lawsuit, plus caution from OpenAI, DeepMind | The AI Beat"
+    excerpt: "Stability AI and Midjourney were hit with a copyright infringement lawsuit, while OpenAI and DeepMind are signaling generative AI caution."
+    publishedDateTime: 2023-01-16T16:54:00Z
+    webUrl: "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/"
+    ampWebUrl: "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 99
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-16-at-10.28.05-AM-e1673882948444.png?w=1200&strip=all"
+        width: 703
+        height: 436
+        isCached: true
   - title: "Stable Diffusion lawsuit, plus words of caution from OpenAI, DeepMind | The AI Beat"
     excerpt: "Stability AI and Midjourney were hit with a copyright infringement lawsuit, while OpenAI and DeepMind are signaling generative AI caution."
     publishedDateTime: 2023-01-16T16:40:00Z
@@ -42,6 +58,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-16-at-10.28.05-AM-e1673882948444.png?w=1200&strip=all"
         width: 703
         height: 436
+        isCached: true
+  - title: "AI about to hit a level that could cause damage to humanity: DeepMind CEO"
+    excerpt: "Google's DeepMind CEO Demis Hassabis has said AI is \"on the cusp\" of being able to make tools that could be damaging to humans. \"When it comes to very powerful technologies...we need to be careful,\" he said."
+    publishedDateTime: 2023-01-16T17:24:00Z
+    webUrl: "https://inshorts.com/en/news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 73
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/01_jan/16_mon/img_1673888098959_71.jpg?"
+        width: 960
+        height: 720
         isCached: true
   - title: "AI art generators targeted in lawsuit for intellectual property theft"
     excerpt: "A class action lawsuit alleges that the AI art generation engine Stable Diffusion was trained on billions of copyrighted materials without credit, compensation, or consent of content owners."

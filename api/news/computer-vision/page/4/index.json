@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-29-the-best-cyber-monday-robot-vacuum-deals.md",
+      "title": "The best Cyber Monday robot vacuum deals",
+      "excerpt": "Amazon, Walmart, Best Buy and other retailers are all holding massive Cyber Monday sales now, with deep discounts on the best robot vacuums of 2022. Some vacuum models are at the lowest price we've ever seen them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/the-best-cyber-monday-robot-vacuum-deals/",
+      "originalUrl": "https://www.cbsnews.com/essentials/the-best-cyber-monday-robot-vacuum-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/28/69bea5c1-d14f-4e08-8bef-0db588f6d9de/thumbnail/1200x630/7fb06b107e0207457de1f6bee0715ade/cm-robo-vac-hero.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/the-best-cyber-monday-robot-vacuum-deals/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-cyber-monday-robot-vacuum-deals/",
+      "publishedDateTime": "2022-11-28T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-scientists-facial-recognition-may-help-save-seals.md",
       "title": "Scientists: Facial recognition may help save seals",
       "excerpt": "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — saving seals. A research team at Colgate University has developed SealNet,",
@@ -1327,49 +1371,6 @@
       "provider": {
         "name": "KnowTechie",
         "domain": "knowtechie.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-what-technologies-have-the-potential-to-transform-computer-vision-by-the-end-of-2022.md",
-      "title": "What technologies have the Potential to Transform Computer Vision by the end of 2022?",
-      "excerpt": "Everyone and everything evolves. However, this change is sometimes positive, while it might be hostile with each passing day. The same is valid for technology, but the change is positive. The rate of technological change is so rapid that it can astound and even confide the people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tech-critter.com/what-technologies-have-the-potential-to-transform-computer-vision-by-the-end-of-2022/",
-      "originalUrl": "https://www.tech-critter.com/what-technologies-have-the-potential-to-transform-computer-vision-by-the-end-of-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2022/11/ion-fet-QRawWgV6gmo-unsplash.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tech-critter.com/amp/what-technologies-have-the-potential-to-transform-computer-vision-by-the-end-of-2022/",
-      "cdnAmpWebUrl": "https://www-tech--critter-com.cdn.ampproject.org/c/s/www.tech-critter.com/amp/what-technologies-have-the-potential-to-transform-computer-vision-by-the-end-of-2022/",
-      "publishedDateTime": "2022-11-16T21:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tech-critter.com",
-        "domain": "tech-critter.com",
         "images": null,
         "publishers": null,
         "authors": null

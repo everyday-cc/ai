@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-01-03-owl-autonomous-imaging-launches-monocular-3d-thermal-ranger-computer-vision-for-adas-autonomous-vehicles.md",
+      "title": "Owl Autonomous Imaging Launches Monocular 3D Thermal Ranger Computer Vision for ADAS & Autonomous Vehicles",
+      "excerpt": "Owl Autonomous Imaging delivers monocular 3D thermal ranging computer vision solutions that dramatically enhance safety day or night and in adverse weather conditions, to automotive and industrial ...",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/business/press-releases/ein-presswire/609219507/owl-autonomous-imaging-launches-monocular-3d-thermal-ranger-computer-vision-for-adas-autonomous-vehicles/",
+      "originalUrl": "https://ktla.com/business/press-releases/ein-presswire/609219507/owl-autonomous-imaging-launches-monocular-3d-thermal-ranger-computer-vision-for-adas-autonomous-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/12573300-the-smartest-solution-for-the-r-300x246.jpeg",
+          "width": 300,
+          "height": 246,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T07:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-03-forecast-2028-for-the-cognitive-services-market-in-terms-of-size-returns-gross-margin-and-market-share.md",
       "title": "Forecast 2028 for the Cognitive Services Market in terms of size, returns, gross margin, and market share",
       "excerpt": "Jan 03, 2023 (The Expresswire) -- Cognitive Services Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 124 Pages Report The extent and overview of ...",
@@ -1018,50 +1061,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-voice-and-face-recognition-are-more-closely-linked-than-previously-thought.md",
-      "title": "Voice and face recognition are more closely linked than previously thought",
-      "excerpt": "The new study, published last week in the Journal of Neurophysiology, suggests that voice and face recognition are linked even more intimately than previously thought. It offers an intriguing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230103/Voice-and-face-recognition-are-more-closely-linked-than-previously-thought.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230103/Voice-and-face-recognition-are-more-closely-linked-than-previously-thought.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Neuroscience-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20230103/Voice-and-face-recognition-are-more-closely-linked-than-previously-thought.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20230103/Voice-and-face-recognition-are-more-closely-linked-than-previously-thought.aspx",
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

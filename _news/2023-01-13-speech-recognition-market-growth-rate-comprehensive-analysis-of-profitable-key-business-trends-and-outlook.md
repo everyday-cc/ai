@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-growth-rate-comprehensive-analysis-of-profitable-key-business-trends-and-outlook-2023-01-12"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: MarketWatch
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Technology Market 2023 Statistics, Share Price, Growth Prospects, Industry Trends till 2028"
-    excerpt: "Speech and Voice Recognition Technology Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
-    publishedDateTime: 2023-01-12T02:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-2023-statistics-share-price-growth-prospects-industry-trends-till-2028-2023-01-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

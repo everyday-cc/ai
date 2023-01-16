@@ -2,6 +2,49 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2022-12-01-san-francisco-approves-use-of-remote-controlled-robots-to-kill-suspects.md",
+      "title": "San Francisco approves use of remote-controlled robots to kill suspects",
+      "excerpt": "San Francisco’s police will be allowed to use remote-controlled robots to kill suspects. The city’s board of supervisors last night approved a controversial policy that lets police robots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/11/30/23486090/robots-deadly-force-kill-san-francisco-police-approve",
+      "originalUrl": "https://www.theverge.com/2022/11/30/23486090/robots-deadly-force-kill-san-francisco-police-approve",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-research-suggests-ai-could-predict-heart-attack-or-stroke-with-one-x-ray.md",
       "title": "Research Suggests AI Could Predict Heart Attack or Stroke with One X-Ray",
       "excerpt": "At the annual meeting of the Radiological Society of North America, researchers shared preliminary findings on the use of artificial intelligence in predicting ... trained radiologists as of now.\" The research is still in its early stages and has yet ...",
@@ -1110,49 +1153,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-self-driving-lorries-hit-the-road-in-sweden.md",
-      "title": "Self-driving Lorries Hit The Road In Sweden",
-      "excerpt": "In the pilot project, the self-driving truck is manoeuvring a stretch of some 300 kilometres (186 miles) between Sodertalje and Jonkoping in Sweden's south, delivering fast-food goods. From the outside,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/self-driving-lorries-hit-road-sweden-3641809",
-      "originalUrl": "https://www.ibtimes.com/self-driving-lorries-hit-road-sweden-3641809",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/4388782/lorry-combines-all-input-various-sensors-gps-system.jpg",
-          "width": 768,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/self-driving-lorries-hit-road-sweden-3641809?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/self-driving-lorries-hit-road-sweden-3641809?amp=1",
-      "publishedDateTime": "2022-11-29T21:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

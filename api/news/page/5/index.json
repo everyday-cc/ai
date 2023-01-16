@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-10-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Artificial intelligence (AI) is already a leading technology ... The company's Amazon Web Services (AWS) holds the largest cloud market share with 34% right now. AWS offers a myriad of AI-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/01/10/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2023/01/10/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/715551/young-woman-speaking-into-smartphone-voice-assistant-siri-artificial-intelligence-ai.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T05:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-gbts-facial-and-body-recognition-patent-application-is-granted.md",
       "title": "GBT's Facial and Body Recognition Patent Application is Granted",
       "excerpt": "(\"GBT/Tokenize\") received their facial and body recognition patent, which was granted as of December 13, 2022 (Patent No. 11,527,104) issued by the U.S. Patent and Trademark Office (“USPTO”). The patent illustrates an innovative technology for learning,",
@@ -1097,58 +1149,6 @@
         "Machine Learning",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-deep-learning-in-manufacturing-market-global-and-regional-analysis-and-forecast-2028.md",
-      "title": "Deep Learning in Manufacturing Market Global and Regional Analysis and Forecast 2028",
-      "excerpt": "Deep Learning in Manufacturing Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-global-and-regional-analysis-and-forecast-2028-2023-01-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-global-and-regional-analysis-and-forecast-2028-2023-01-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T19:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

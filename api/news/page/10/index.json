@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-01-06-yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform.md",
+      "title": "Yoomi and Rutgers Partner to Improve Physical Therapy Adherence Through Digital Health Platform",
+      "excerpt": "Yoomi partners with Rutgers Robert Wood Johnson Medical School to explore how technology can mobilize patients in physical therapy programs.",
+      "sourceUrl": null,
+      "webUrl": "https://ptproductsonline.com/exercise-rehab/yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform/",
+      "originalUrl": "https://ptproductsonline.com/exercise-rehab/yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ptproductsonline.com/wp-content/uploads/2022/03/DigitalHealth1.jpg",
+          "width": 800,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T15:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Physical Therapy Products",
+        "domain": "ptproductsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-06-public-sectors-innovative-use-cases-in-analytics-ai-and-ml.md",
       "title": "Public sector’s innovative use cases in analytics, AI and ML",
       "excerpt": "Leaders from AWS and Deloitte discuss recent use cases of artificial intelligence and machine learning capabilities in the public sector.",
@@ -1037,60 +1080,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-healthcare-ai-market-2023-swot-analysis-by-players-continues-explosive-growth-by-2028.md",
-      "title": "Healthcare AI Market 2023 : SWOT Analysis by Players Continues Explosive Growth by 2028",
-      "excerpt": "Pages Report] Rising demand for Medical Devices & Consumables Industry will drive the Healthcare AI segment growth over the next five years. Global Market Analysis for Health",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-swot-analysis-by-players-continues-explosive-growth-by-2028-2023-01-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-swot-analysis-by-players-continues-explosive-growth-by-2028-2023-01-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T23:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare",
-        "IBM AI"
       ]
     }
   ],

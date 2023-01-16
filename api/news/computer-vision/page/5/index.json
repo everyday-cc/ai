@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-17-what-technologies-have-the-potential-to-transform-computer-vision-by-the-end-of-2022.md",
+      "title": "What technologies have the Potential to Transform Computer Vision by the end of 2022?",
+      "excerpt": "Everyone and everything evolves. However, this change is sometimes positive, while it might be hostile with each passing day. The same is valid for technology, but the change is positive. The rate of technological change is so rapid that it can astound and even confide the people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tech-critter.com/what-technologies-have-the-potential-to-transform-computer-vision-by-the-end-of-2022/",
+      "originalUrl": "https://www.tech-critter.com/what-technologies-have-the-potential-to-transform-computer-vision-by-the-end-of-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2022/11/ion-fet-QRawWgV6gmo-unsplash.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tech-critter.com/amp/what-technologies-have-the-potential-to-transform-computer-vision-by-the-end-of-2022/",
+      "cdnAmpWebUrl": "https://www-tech--critter-com.cdn.ampproject.org/c/s/www.tech-critter.com/amp/what-technologies-have-the-potential-to-transform-computer-vision-by-the-end-of-2022/",
+      "publishedDateTime": "2022-11-16T21:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech-critter.com",
+        "domain": "tech-critter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-malware-detection-and-classification-with-amazon-rekognition.md",
       "title": "Malware detection and classification with Amazon Rekognition",
       "excerpt": "According to an article by Cybersecurity Ventures, the damage caused by Ransomware (a type of malware that can block users from accessing their data unless they pay a ransom) increased by 57 times in 2021 as compared to 2015. Furthermore, it’s predicted to cost its victims $265 billion (USD) annually",
@@ -1324,41 +1367,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae.md",
-      "title": "Robotic Vision Platform Luxonis Announces its First Open Source Personal Robot, rae",
-      "excerpt": "OAK Camera Line Creators Launch Kickstarter Campaign to Develop Open Source Robot for Everyone: rae LITTLETON, Colo., Nov. 9, 2022 // -- Luxonis, a Colorado-based robotic vision platform, is thrilled",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29641695/robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29641695/robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29641695",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29641695",
-      "publishedDateTime": "2022-11-09T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

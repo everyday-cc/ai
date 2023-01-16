@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Everybody Loves ChatGPT Except For Nick Cave, Who Is Unimpressed With AI-Generated Lyrics Meant To Be Like His"
+    excerpt: "Cave called the ChatGPT-generated song ’bullsh*t’ and explained why it is ’a grotesque mockery of what it is to be human.’"
+    publishedDateTime: 2023-01-16T18:54:00Z
+    webUrl: "https://uproxx.com/indie/nick-cave-hates-chatgpt-lyrics-ai/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 19
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2023/01/2-nick-1.jpg?w=710"
+        width: 710
+        height: 400
+        isCached: true
 
 secured: "l4/NGm5QFWWuxP8J/wff5V47lK2gr1Wd8hI74UxCtMCW6pdrWXEp/0RVFErF7E4p6IF8nqXaDGXXhXO1D9P92J0Sewn90uVJeKZXAqH0JLom79yvXpTeqeL99ReLXlxQ87iaMyBsnW8Qe11thPTbBHQ2pA0L7Ztz8dzetaanlSezuNkloXT5ixAX57FUPR6irbRwI2jmrjgPU0xIMmtgeeWkx2a1Ws8BttfzTiTSs1lAu5zRha3m7PVejoongXUhFbCGaHgt18m4dy2Hl0AtmlGBfme2QiDC7Cv/pA3foj2RwkML/f3KhApf+QjR7f8OKhR/oRYFqJaboKo2XHK9HG/tph54ZLZIx4lLd10tBVr1C1lfygpd+ri/4oRXVuPAp6/hmZcEKnLnGJUXk6XkLwex/klkGOLu+MgJvBOC26gZiTNOuHeas43jbLPYOtexIvRPjDmCp4nqLGG2LDcP+EgrczioKhNB2JVO/qUuxajFtGbYyU3/JI3oX/R66kTegxHDpzbD38/9tCTstN2UlQ==;7EJKzC0amD4IEIcBcyVm7w=="
 ---

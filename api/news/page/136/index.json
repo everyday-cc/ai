@@ -2,6 +2,58 @@
   "page": 136,
   "value": [
     {
+      "path": "_news/2022-09-14-online-proctor-sumadi-joins-aws-partner-network.md",
+      "title": "Online Proctor Sumadi Joins AWS Partner Network",
+      "excerpt": "Online Proctor Sumadi Joins AWS Partner Network Sep 13, 2022 (PRNewswire via COMTEX) -- PR Newswire MIAMI, MIAMI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/online-proctor-sumadi-joins-aws-partner-network-2022-09-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/online-proctor-sumadi-joins-aws-partner-network-2022-09-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-new-method-for-comparing-neural-networks-exposes-how-artificial-intelligence-works.md",
       "title": "New method for comparing neural networks exposes how artificial intelligence works",
       "excerpt": "A team at Los Alamos National Laboratory has developed a novel approach for comparing neural networks that looks within the \"black box\" of artificial intelligence to help researchers understand neural network behavior.",
@@ -1056,49 +1108,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-robot-lab-live-highlights-remote-control-burger-crafting-using-two-robot-dogs.md",
-      "title": "Robot Lab Live Highlights - Remote Control Burger Crafting Using Two Robot Dogs",
-      "excerpt": "Remotely controlling a robotic system from a distance, whether it be in a different room or country, has always been a difficult task. In this demonstration, the team from Real Robotics Lab will show how a motion capture suit - such as the ones used in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/content/videos/robot-lab-live-highlights-remote-control-burger-crafting-using-two-robot-dogs",
-      "originalUrl": "https://www.newelectronics.co.uk/content/videos/robot-lab-live-highlights-remote-control-burger-crafting-using-two-robot-dogs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/media/g21dp5mu/burgers.png?width=1200&height=630&mode=crop",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

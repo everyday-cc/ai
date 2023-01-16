@@ -2,6 +2,49 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-12-02-san-francisco-police-defend-killer-robots-plan.md",
+      "title": "San Francisco police defend 'killer robots' plan",
+      "excerpt": "Police in San Francisco defended their potential use of killer robots on Thursday, insisting they would be a \"last resort\" and only for very dangerous situations. Detectives in the California city, where residents complain of a spike in crime,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602",
+      "originalUrl": "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/12/02/killer_bots.png",
+          "width": 600,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp",
+      "cdnAmpWebUrl": "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp",
+      "publishedDateTime": "2022-12-01T19:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tbsnews",
+        "domain": "tbsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-gpu-tariff-exemption-expires-december-31-possibly-increasing-graphics-card-prices.md",
       "title": "GPU tariff exemption expires December 31, possibly increasing graphics card prices",
       "excerpt": "The decision followed the urging of manufacturers like Nvidia, Zotec, and HP, who cited the lack of non-Chinese GPU manufacturing. The effect of the GPU tariff exemption was blunted by massive ...",
@@ -1156,58 +1199,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-new-orleans-reverses-facial-recognition-ban-to-help-police-fight-crime-privacy-experts-are-wary.md",
-      "title": "New Orleans reverses facial recognition ban to help police fight crime; privacy experts are wary",
-      "excerpt": "The City of New Orleans has ended a ban on the use of facial recognition technology by police amid a surge in violent crime. Critics of the move have questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-help-police-fight-crime-privacy-experts-are-wary",
-      "originalUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-help-police-fight-crime-privacy-experts-are-wary",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/Louis-Casiano.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-help-police-fight-crime-privacy-experts-are-wary.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-help-police-fight-crime-privacy-experts-are-wary.amp",
-      "publishedDateTime": "2022-12-01T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
