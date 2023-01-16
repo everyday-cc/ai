@@ -7,8 +7,8 @@ originalUrl: "https://www.nextgov.com/emerging-tech/2023/01/scientists-weigh-eth
 webUrl: "https://www.nextgov.com/emerging-tech/2023/01/scientists-weigh-ethics-next-generation-ai/381617/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Nextgov
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "‘Generative’ text and image-making AI tools are spreading like wildfire, with ethics debates on their tail"
+    excerpt: "No creative sector appears to be safe from AI’s disruption. Music, advertising and even computer coding could see massive changes"
+    publishedDateTime: 2023-01-16T06:00:00Z
+    webUrl: "https://www.theglobeandmail.com/business/article-ai-tools-ethics/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 36
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/UYR-RCyB30RIjT7oii5ZFDJO39U=/1200x803/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/NXYLU4TESBCLTG3KJPETT5K7LY.jpg"
+        width: 1200
+        height: 803
+        isCached: true
   - title: "Booth AI Debuts Its Generative AI-based Photography Platform in the STARTUP ZONE at NRF 2023"
     excerpt: "Booth AI, a Y Combinator-backed startup seeking to revolutionize product photography, will be debuting its cutting-edge, generative AI-based platform at the National Retail Federation (NRF) Big Show 2"
     publishedDateTime: 2023-01-13T14:30:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-16T08:36:00Z
 originalUrl: "https://labusinessjournal.com/featured/artificial-intelligence-is-for-anybody/"
 webUrl: "https://labusinessjournal.com/featured/artificial-intelligence-is-for-anybody/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://images.labusinessjournal.com/wp-content/uploads/2023/01/PG01_AI_0116_chargers-store-e1673637310201.jpeg"

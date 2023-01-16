@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/01/shutterstock_1901618698-100936241-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 801
+        isCached: true
+  - title: "GPT-4 | Implications, pros and cons of the next-generation of ChatGPT"
+    excerpt: "A major implication of GPT-4 will be the improvement of natural language processing (NLP) tasks such as language translation, text summarisation, and question answering. While, we cannot ignore the potential downsides to GPT-4 as it could be used to generate fake news or propaganda,"
+    publishedDateTime: 2023-01-16T11:15:00Z
+    webUrl: "https://www.cnbctv18.com/views/gpt-4--implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm"
+    ampWebUrl: "https://www.cnbctv18.com/views/gpt-4--implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/views/gpt-4--implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 44
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/01/AP23006584552936-1019x573.jpg"
+        width: 1019
+        height: 573
         isCached: true
 
 secured: "gLxWHwy6L0FK9BJCeHMhQ4UAqWcyCxoUrpbTrX7oWLupAbVyGhiTYdKwP5nQI4uCe/UcmUx38NQ8K1LUUMorlJwpf5v7nXS8QUXtYiIHuggZ9b9PrKh6a2exlmGP3gy40nVprr6jQyt6kJ9Fij8Dw4qoOlQ5itgXP6mcJgwXe0P2V44iMC0328NzTZLeIqWOohp2eeYl29om+XnoEOJWdp8SY90w4l4GJYGAa8zyWovsVGsUb8QqGCfNB5o3UiA9H1LzEkPlpXMurUBNmfKGNSlyP+6NU3nJglxhoqgjQu3JYzbrRhVGvw+1iexeDWGHGzGmkLUttmVq4zPNHsqc2PSNRYkQ6/CmXD/SWBgsMUOz8Xye7T001pr3K5J7K9RSP9feGKw7SHzeyw2pvzlWTTJqdDArqqagdjP4hOuczZpamcjSOKV4ysXceNL/Jn2bjIeW4nhSVWWpiMvIQtobOujitNblcNXexrWDhtgfdOQxZqU0F5DdHmfU3eSbinMwgDmCNkfndYLlY9sPcUMqnA==;7o1x8MUIy8EONdhBJ2wIOQ=="

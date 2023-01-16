@@ -29,15 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chipsets Market Size 2023 with big Company segment, cost-effective solutions Analysis Information 2028"
-    excerpt: "The Artificial Intelligence Chipsets market is expected to witness significant growth due to growing device usage"
-    publishedDateTime: 2023-01-15T16:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-2023-with-big-company-segment-cost-effective-solutions-analysis-information-2028-2023-01-15"
+  - title: "3D Facial Recognition Systems Market | Key factors responsible for rapid growth in the coming years 2028"
+    excerpt: "The Global 3D Facial Recognition Systems market 2023 to 2028 Report add an In-depth analysis on the market status of the"
+    publishedDateTime: 2023-01-13T04:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-key-factors-responsible-for-rapid-growth-in-the-coming-years-2028-2023-01-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice And Speech Recognition Software Market 2023 High Technology, Latest Trends and Future Spreads by 2028"
+    excerpt: "The Global Voice And Speech Recognition Software market 2023 to 2028 Report add an In-depth analysis on the market"
+    publishedDateTime: 2023-01-13T04:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-2023-high-technology-latest-trends-and-future-spreads-by-2028-2023-01-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
