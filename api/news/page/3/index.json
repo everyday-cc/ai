@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-12-opinion-ryan-murphys-golden-globes-speech-was-more-than-words.md",
+      "title": "Opinion: Ryan Murphy’s Golden Globes speech was more than words",
+      "excerpt": "It's clear that culture is -- perhaps by necessity -- carrying the weight of progress right now for LGBTQ Americans, writes Allison Hope. Ryan Murphy's speech at the Golden Globes, for instance, was a particular bright spot in an increasingly dark political moment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/01/11/opinions/ryan-murphy-golden-globes-lgbtq-tar-sort-of-hope-ctrp/index.html",
+      "originalUrl": "https://www.cnn.com/2023/01/11/opinions/ryan-murphy-golden-globes-lgbtq-tar-sort-of-hope-ctrp/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230106142618-billy-porter-ryan-murphy-230110-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/01/11/opinions/ryan-murphy-golden-globes-lgbtq-tar-sort-of-hope-ctrp/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/01/11/opinions/ryan-murphy-golden-globes-lgbtq-tar-sort-of-hope-ctrp/index.html",
+      "publishedDateTime": "2023-01-11T12:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-11-fintech-stocks-lag-behind-the-rest-of-the-market-should-you-buy-or-sell.md",
       "title": "Fintech Stocks Lag Behind The Rest Of The Market — Should You Buy Or Sell?",
       "excerpt": "While financial and tech stocks had a rough time in 2022, fintech stocks continue to lag behind the rest of the market. We explore the idea of investing in the fintech space in 2023.",
@@ -262,6 +314,40 @@
       ]
     },
     {
+      "path": "_news/2023-01-11-bioxcel-therapeutics-announces-promising-top-line-results-from-phase-2-trial-of-bxcl701-in-aggressive-form-of-rare-prostate-cancer.md",
+      "title": "BioXcel Therapeutics Announces Promising Top-Line Results from Phase 2 Trial of BXCL701 in Aggressive Form of Rare Prostate Cancer",
+      "excerpt": "BioXcel Therapeutics, Inc. (Nasdaq: BTAI), a biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology, today announced promising top-line data from its Phase 2 trial of BXCL701,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-announces-promising-top-line-results-from-/2023/01/11/9741357.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-announces-promising-top-line-results-from-/2023/01/11/9741357.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-11T05:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-11-denodo-achieves-aws-data-and-analytics-isv-competency-status.md",
       "title": "Denodo Achieves AWS Data and Analytics ISV Competency Status",
       "excerpt": "Denodo, a leader in data management, today announced that it has achieved the Amazon Web Services (AWS) Data and Analytics ISV Competency status. Attaining this status differentiates Denodo as an AWS Partner that has successfully demonstrated deep expertise in data integration,",
@@ -346,6 +432,58 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-cloud-natural-language-processing-market-2023-size-dynamics-prominent-players-business-prospect-generate-revenue-growth-rate-by-2029.md",
+      "title": "Cloud Natural Language Processing Market 2023 Size Dynamics, Prominent Players, Business Prospect, Generate Revenue, Growth Rate By 2029",
+      "excerpt": "Pages Report] The Cloud Natural Language Processing market research report includes the total number of facts and figures with manufacturers, types, applications, and regions. The Cloud Natural Language Processing Market report provides a market overview of the report along with competitive landscape that includes business profile,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-2023-size-dynamics-prominent-players-business-prospect-generate-revenue-growth-rate-by-2029-2023-01-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-2023-size-dynamics-prominent-players-business-prospect-generate-revenue-growth-rate-by-2029-2023-01-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1048,135 +1186,6 @@
       "provider": {
         "name": "techxplore",
         "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-using-a-standardized-test-battery-to-compare-cognitive-and-behavioral-traits-in-dog-breeds-update.md",
-      "title": "Using a standardized test battery to compare cognitive and behavioral traits in dog breeds (Update)",
-      "excerpt": "The work by the team involved assessing participants in a commercial cognitive test battery (smartDOG), which had been developed by Katriina Tiira, one of the members on the research team. The ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-standardized-battery-smartest-dog.html",
-      "originalUrl": "https://phys.org/news/2023-01-standardized-battery-smartest-dog.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/using-a-standardized-t.jpg",
-          "width": 1770,
-          "height": 1060,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-standardized-battery-smartest-dog.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-standardized-battery-smartest-dog.amp",
-      "publishedDateTime": "2023-01-10T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-houston-community-college-reveals-first-two-bachelors-degree-programs.md",
-      "title": "Houston Community College reveals first two bachelor’s degree programs",
-      "excerpt": "Students can obtain a four-year degree in Applied Technology in Artificial Intelligence and Robotics and Applied Science in Healthcare Management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/",
-      "originalUrl": "https://www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.hpm.io/wp-content/uploads/2022/09/22150424/HBU_Aerial-450x294.jpg",
-          "width": 450,
-          "height": 294,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/amp/",
-      "cdnAmpWebUrl": "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/amp/",
-      "publishedDateTime": "2023-01-10T09:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Public Media",
-        "domain": "houstonpublicmedia.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-robotics-team-begins-their-season-with-annual-kickoff-event.md",
-      "title": "Robotics team begins their season with annual kickoff event",
-      "excerpt": "On Saturday, January 7 the Robotics team of just over 50 members watched an international Twitch livestream of the season kickoff, which is watched by teams internationally. An animation was shown to introduce the game for the season,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mvnews.org/robotics-team-begins-their-season-with-annual-kickoff-event/",
-      "originalUrl": "https://www.mvnews.org/robotics-team-begins-their-season-with-annual-kickoff-event/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mvnews.org/wp-content/uploads/2023/01/Screen-Shot-2023-01-10-at-8.23.25-AM-900x423.png",
-          "width": 900,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T09:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mill Valley News",
-        "domain": "mvnews.org",
         "images": null,
         "publishers": null,
         "authors": null

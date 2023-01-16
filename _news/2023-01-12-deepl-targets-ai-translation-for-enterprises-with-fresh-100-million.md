@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/deepl-targets-ai-translation-for-enterpri
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deepl-targets-ai-translation-for-enterprises-with-fresh-100-million/amp/"
 type: article
 quality: 93
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -33,22 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepL, the AI-based language translator, raises over $100M at a $1B+ valuation"
-    excerpt: "DeepL primarily provides translation as a service to businesses ... but Kutylowski said that the rising tide for AI-based language services has helped DeepL on this front."
-    publishedDateTime: 2023-01-11T13:21:00Z
-    webUrl: "https://techcrunch.com/2023/01/11/deepl-the-ai-based-language-translator-raises-over-100m-at-a-1b-valuation/"
-    ampWebUrl: "https://techcrunch.com/2023/01/11/deepl-the-ai-based-language-translator-raises-over-100m-at-a-1b-valuation/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/11/deepl-the-ai-based-language-translator-raises-over-100m-at-a-1b-valuation/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1193264709.jpg?resize=1200,816"
-        width: 1200
-        height: 816
-        isCached: true
   - title: "DeepL invests USD 100 million in AI translation for businesses"
     excerpt: "DeepL, a company based in Cologne, Germany, has announced a new funding round estimated to be in excess of USD 100 million."
     publishedDateTime: 2023-01-15T09:35:00Z

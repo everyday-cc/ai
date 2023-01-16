@@ -53,6 +53,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Machine Learning Accelerates Drug Formulation"
+    excerpt: "Researchers at the University of Toronto say they have successfully tested the use of machine learning models to guide the design of long-acting injectable drug formulations. The potential for ..."
+    publishedDateTime: 2023-01-13T01:07:00Z
+    webUrl: "https://www.genengnews.com/artificial-intelligence/machine-learning-accelerates-drug-formulation/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2023/01/GettyImages-1297827933-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "YMcXF7/66rlJVEXU11s3NM/SG7vq+19Y9bnHgJTE19M15Tl70TIusSVnRROLNfcZEHtkRFKeCK/OBlXW9OPeQep3td3GbKsB8spv9zto04EIg4VUKQLQdKQ0jrzxEMXrGUAFXd1UsF6eTIZeliU4B0nMUpqGuvFSGbhCr8xdCNKYMBHxjAmWh9Eps6QrYdSnCsRAm/KUxYyR7Qc5qR9lv98udvcuCc14oeakpU3dRdtOe0zIC+bxIGuVm6sahLXvxw2CWMf+vhHFJXikZJ8hJIm38JWLMFJod/8Dh2UmJSSHf76QARGBhmWJAYh6qxNJXf0mmrp9y4Eb9LgOB6nVNd93ZOMP/PX+ZCQjWuSZClA=;VRfWhE+Q0+qHyNqqc6Agiw=="
 ---

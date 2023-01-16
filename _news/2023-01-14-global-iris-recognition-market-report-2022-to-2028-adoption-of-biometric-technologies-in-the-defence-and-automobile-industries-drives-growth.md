@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market Significant Growth Opportunities 2023 [New Report] Business Statistics, Future Trends, and Global Share Forecast To 2029"
+    excerpt: "Pages Report] The Deep Learning market research report includes the total number of facts and figures with manufacturers, types, applications, and regions. The Deep Learning Market report provides a market overview of the report along with competitive landscape that includes business profile,"
+    publishedDateTime: 2023-01-14T04:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-significant-growth-opportunities-2023-new-report-business-statistics-future-trends-and-global-share-forecast-to-2029-2023-01-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yFgxvDLcPjAAeVrKEYsH688uLUWNXr/cy267WbMPA/WBM15+hxi/JB6MhzroSqUtlW3kxHHxvXdiZgrBFRGwbsl8re6In5dCVEjqKQVP79Y7iBLdZf/Bu87vrkBp08UEG5tR7GZ96Csc3YYFd/kEBEAtiLQ5y7JOuI2GfE4dmZCQNsfREGKQjeIaFoC09ScdupHXOnebw0LFnrVEOBmi56UeSR8BG1qxAHb4W+kMRReLE0h7YgoGeoVfJcArzqVeL9SoVwizAt0286mk//RsON7o5gQm4wHMl8/MM8rCaB9HA9EBYHGu/sB0TOpLQqwBB58yzKItpSJeR5AmDn7GKjdzuqwG/a405jEjO5kCRj0=;U5XCDCa6UlonGECPWkeNyQ=="
 ---

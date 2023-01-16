@@ -56,17 +56,17 @@ related:
     quality: 80
   - title: "Meet Tori, AI for your fast food order"
     excerpt: "Tori — an artificial intelligence launched by OpenCity — is described as the restaurant industry’s first conversational voice in the drive thru."
-    publishedDateTime: 2023-01-15T15:57:00Z
-    webUrl: "https://www.koin.com/news/meet-tori-ai-for-your-fast-food-order/"
-    ampWebUrl: "https://www.koin.com/news/meet-tori-ai-for-your-fast-food-order/amp/"
-    cdnAmpWebUrl: "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/news/meet-tori-ai-for-your-fast-food-order/amp/"
+    publishedDateTime: 2023-01-15T15:56:00Z
+    webUrl: "https://www.wate.com/news/watercooler/meet-tori-ai-for-your-fast-food-order/"
+    ampWebUrl: "https://www.wate.com/news/watercooler/meet-tori-ai-for-your-fast-food-order/amp/"
+    cdnAmpWebUrl: "https://www-wate-com.cdn.ampproject.org/c/s/www.wate.com/news/watercooler/meet-tori-ai-for-your-fast-food-order/amp/"
     type: article
     provider:
-      name: KOIN 6
-      domain: koin.com
+      name: WATE 6 On Your Side
+      domain: wate.com
     quality: 59
     images:
-      - url: "https://www.koin.com/wp-content/uploads/sites/10/2023/01/GettyImages-1352323887.jpg?w=1280"
+      - url: "https://www.wate.com/wp-content/uploads/sites/42/2023/01/GettyImages-1352323887.jpg?w=1280"
         width: 1280
         height: 853
         isCached: true

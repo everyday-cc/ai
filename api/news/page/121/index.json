@@ -2,6 +2,117 @@
   "page": 121,
   "value": [
     {
+      "path": "_news/2022-09-23-convolutional-neural-networks-trained-algorithm-may-help-diagnose-alveolar-bone-loss-in-periapical-x-rays.md",
+      "title": "Convolutional neural networks trained algorithm may help diagnose alveolar bone loss in periapical X-rays",
+      "excerpt": "A convolutional neural networks trained algorithm on radiographic images showed a diagnostic performance with moderate to good reliability to detect and quantify percentage alveolar bone loss",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/dentistry/news/convolutional-neural-networks-trained-algorithm-may-help-diagnose-alveolar-bone-loss-in-periapical-x-rays-99206",
+      "originalUrl": "https://medicaldialogues.in/dentistry/news/convolutional-neural-networks-trained-algorithm-may-help-diagnose-alveolar-bone-loss-in-periapical-x-rays-99206",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-23T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-the-future-is-now-driverless-road-freight-and-highly-automated-driving-had.md",
+      "title": "The future is now: driverless road freight and Highly Automated Driving (HAD)",
+      "excerpt": "Tim Wouda and Sjoerd Spaargaren, specialists in Automated Driving at HERE Technologies discuss the rise of autonomous trucking and the need for location intelligence like high-definition maps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/sponsored/the-future-is-now-driverless-road-freight-and-highly-automated-driving-had/",
+      "originalUrl": "https://www.just-auto.com/sponsored/the-future-is-now-driverless-road-freight-and-highly-automated-driving-had/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2022/09/HAD-article-hero-visual-1038x487.png",
+          "width": 1038,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-23T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-vw-group-gentravel-concept-predicts-a-true-level-5-full-self-driving-car.md",
+      "title": "VW Group Gen.Travel concept predicts a true Level 5, full self-driving car",
+      "excerpt": "What might private vehicle ownership look like in a world where driving is no longer necessary ... Voice activation and artificial intelligence can be used to control various functions.",
+      "sourceUrl": null,
+      "webUrl": "https://wgntv.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
+      "originalUrl": "https://wgntv.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-23T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGN-TV",
+        "domain": "wgntv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-23-microsofts-new-security-chief-looks-to-ai-to-fight-hackers-qa.md",
       "title": "Microsoft’s New Security Chief Looks to AI to Fight Hackers: Q&A",
       "excerpt": "His mission was to  chart a future course for the security business, which now generates more than $15 billion annually. Bell reorganized, combining groups scattered across businesses like Azure cloud,",
@@ -1059,126 +1170,6 @@
         "AI in Autos",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences.md",
-      "title": "AlphaFold Developers Win $3-Million Breakthrough Prize in Life Sciences",
-      "excerpt": "DeepMind’s system for predicting the 3D structure of proteins is among five recipients of science’s most lucrative awards",
-      "sourceUrl": null,
-      "webUrl": "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/?amp;text=AlphaFold",
-      "originalUrl": "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/?amp;text=AlphaFold",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.scientificamerican.com/sciam/cache/file/085A9374-BDE5-4A53-A29DFCB280352F20.png",
-          "width": 790,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scientific American",
-        "domain": "scientificamerican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-edge-to-azure-digital-twins.md",
-      "title": "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins",
-      "excerpt": "The industrial software company has expanded cloud connectivity and improved enterprise IT management with HighByte Intelligence Hub version 2.5.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure",
-      "originalUrl": "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/aa63c977-cdce-4db8-9dff-034bafe0dadc/Highbyte-prod-Sept-22-2022-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-falkonry-unveils-gpu-based-high-speed-time-series-anomaly-detection-application.md",
-      "title": "Falkonry Unveils GPU-Based, High-Speed Time Series Anomaly Detection Application",
-      "excerpt": "Falkonry today announced an automated anomaly detection application called Falkonry Insight which operates on high-speed sensor time series data. Insight is the newest addition to Falkonry's Time Series AI Suite to drive higher operational reliability and yield,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/09/22/9679188.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/09/22/9679188.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

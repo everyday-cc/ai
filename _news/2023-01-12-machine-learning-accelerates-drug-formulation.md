@@ -39,6 +39,20 @@ related:
         width: 949
         height: 534
         isCached: true
+  - title: "Machine Learning Accelerates Drug Formulation"
+    excerpt: "Researchers at the University of Toronto say they have successfully tested the use of machine learning models to guide the design of long-acting injectable drug formulations. The potential for ..."
+    publishedDateTime: 2023-01-13T01:07:00Z
+    webUrl: "https://www.genengnews.com/artificial-intelligence/machine-learning-accelerates-drug-formulation/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2023/01/GettyImages-1297827933-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Machine learning tools help unravel why human accelerated regions evolved so quickly"
     excerpt: "Humans and chimpanzees differ in only one percent of their DNA. Human accelerated regions (HARs) are parts of the genome with an unexpected amount of these differences."
     publishedDateTime: 2023-01-14T01:05:00Z

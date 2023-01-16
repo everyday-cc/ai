@@ -1,28 +1,26 @@
 ---
 category: news
 title: "AI, do my homework! How ChatGPT pitted teachers against tech"
-excerpt: "Know-it-all chatbots landed with a bang last year, convincing one engineer that machines had become sentient, spreading panic that industries could be wiped out, and creating fear of a cheating epidemic in schools and universities."
-publishedDateTime: 2023-01-15T19:36:00Z
-originalUrl: "https://techxplore.com/news/2023-01-ai-homework-chatgpt-pitted-teachers.html"
-webUrl: "https://techxplore.com/news/2023-01-ai-homework-chatgpt-pitted-teachers.html"
-ampWebUrl: "https://techxplore.com/news/2023-01-ai-homework-chatgpt-pitted-teachers.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-ai-homework-chatgpt-pitted-teachers.amp"
+excerpt: "It can write a half-decent essay and answer many common classroom questions, sparking a fierce debate about the very future of traditional education."
+publishedDateTime: 2023-01-16T06:44:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/16/ai-do-my-homework-how-chatgpt-pitted-teachers-against-tech"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/16/ai-do-my-homework-how-chatgpt-pitted-teachers-against-tech"
 type: article
-quality: 57
-heat: 67
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/ai-tools-could-change.jpg"
-    width: 1024
-    height: 681
+  - url: "https://apicms.thestar.com.my/uploads/images/2023/01/16/1903488.jpg"
+    width: 1240
+    height: 827
     isCached: true
 
 related:
@@ -41,6 +39,6 @@ related:
         height: 510
         isCached: true
 
-secured: "wjXRLUvvgmu3vrulQXcjt3vcu5f1vtzfr060VXvuaUNUVhQATlj8PCaCYY2uRJtq0VJdcCiilxB+p5sF0m9qOk5mFh/S2+m5rgeigoqfQ3sl8nK9iEC2TI3aMpuF6oafsOoRc6rKK1PYICQPiIZzKFYJck0cTy9g4CShYxRDsp7kO0dtwbsX7LahyzNUTctyEWVIclMMAYCJiARfX5fubfCs5mxUQ76q33dUdvzgBhiMoY3/xv8lhGRVPAigKJcv62k9QnO753ZFUeliH0J1WqxNQsZTTuV3FWa26uDqboNYXyxxUNAQwtnjRErpubVkM7WNYHiD8FKBLyyF5px4SB7x3oNgdMHy2uFu5DBJgho=;dtFvTGLlfpGKwHNtfwF23g=="
+secured: "iuJ/MjuTTPRh4KWvI01mRmRDG32/8ekg597YDO8JEHVkc/jj+rrr+6OifpbzqQDwrUcVzDNQOiXpl/o4KJBqRzOdwtdLuUNvagrcNtFC4f+/0l4KAI/z7MbYl0ZTgjyksPXzUsddnc4ggkO5bBvxfCCg2OeJHwzJR7grBny0pKhYhbfCArjLKJ3z3T8BFY/2Yp1145vWxSxLechhejPhyKpwHpzaAjGsajBOOOrLIUWJBxT/DsOmXBn795HDa/pm6JIwAaJSZtQUXdcYRjm8E2jKmNrmreZcFt0fxcJ16B6mp0Xb1rUZTK/47J9Y0XClGSwToruUPqIiIcc5PEfAqumgWZ6izYIj61+k2I7Pl7w=;YluMx4n43b/YazliHJeHKQ=="
 ---
 

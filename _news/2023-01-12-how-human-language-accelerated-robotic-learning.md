@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/how-human-language-accelerated-robo
 webUrl: "https://www.therobotreport.com/how-human-language-accelerated-robotic-learning/"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -30,6 +30,20 @@ related:
     excerpt: "Researchers at the University of Toronto say they have successfully tested the use of machine learning models to guide the design of long-acting injectable drug formulations."
     publishedDateTime: 2023-01-12T12:00:00Z
     webUrl: "https://www.genengnews.com/news/machine-learning-accelerates-drug-formulation/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2023/01/GettyImages-1297827933-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Machine Learning Accelerates Drug Formulation"
+    excerpt: "Researchers at the University of Toronto say they have successfully tested the use of machine learning models to guide the design of long-acting injectable drug formulations. The potential for ..."
+    publishedDateTime: 2023-01-13T01:07:00Z
+    webUrl: "https://www.genengnews.com/artificial-intelligence/machine-learning-accelerates-drug-formulation/"
     type: article
     provider:
       name: GEN

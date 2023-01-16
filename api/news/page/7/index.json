@@ -2,6 +2,144 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-01-09-ai-turns-its-artistry-to-creating-new-human-proteins.md",
+      "title": "A.I. Turns Its Artistry to Creating New Human Proteins",
+      "excerpt": "To generate images, DALL-E relies on what artificial intelligence researchers call a neural network, a mathematical system loosely modeled on the network of neurons in the brain. This is the same ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/01/09/science/artificial-intelligence-proteins.html",
+      "originalUrl": "https://www.nytimes.com/2023/01/09/science/artificial-intelligence-proteins.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/03/autossell/00SCI-PROTEINGS-vid1cover/00SCI-PROTEINGS-vid1cover-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/01/09/science/artificial-intelligence-proteins.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/09/science/artificial-intelligence-proteins.amp.html",
+      "publishedDateTime": "2023-01-09T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-heres-what-you-need-to-know-about-artificial-intelligence.md",
+      "title": "Here’s what you need to know about artificial intelligence",
+      "excerpt": "AI is broadly defined in 2 categories: artificial narrow intelligence (ANI) and artificial general intelligence (AGI). AGI does not yet exist",
+      "sourceUrl": null,
+      "webUrl": "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/heres-what-you-need-to-know-about-artificial-intelligence/",
+      "originalUrl": "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/heres-what-you-need-to-know-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T00:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Startup Daily",
+        "domain": "startupdaily.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-forecast-2028-for-the-deep-learning-in-ct-scanners-market-in-terms-of-size-returns-gross-margin-and-market-share.md",
+      "title": "Forecast 2028 for the Deep Learning in CT Scanners Market in terms of size, returns, gross margin, and market share",
+      "excerpt": "Deep Learning in CT Scanners Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/forecast-2028-for-the-deep-learning-in-ct-scanners-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/forecast-2028-for-the-deep-learning-in-ct-scanners-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-08T21:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-09-healthcare-decision-support-ibm-watson-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand.md",
       "title": "Healthcare Decision Support & IBM Watson Forecast for 2028, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand",
       "excerpt": "Healthcare Decision Support and IBM Watson Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,",
@@ -955,117 +1093,6 @@
       "provider": {
         "name": "New York Post",
         "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-skynet-smiles-amd-unveils-monster-instinct-mi300-hybrid-ai-accelerator.md",
-      "title": "Skynet Smiles: AMD Unveils Monster Instinct MI300 Hybrid AI Accelerator",
-      "excerpt": "The MI300 sports 24 Zen 4 cores along with its CDNA 3 GPU architecture and 128GB of high-bandwidth memory (HBM3). AMD didn’t mention how many CUs were being used on the GPU side. The CPU and GPU chiplets are 3D-stacked on top of a base die that connects them to the eight stacks of HBM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/extreme/342078-skynet-smiles-amd-unveils-monster-instinct-mi300-hybrid-ai-accelerator",
-      "originalUrl": "https://www.extremetech.com/extreme/342078-skynet-smiles-amd-unveils-monster-instinct-mi300-hybrid-ai-accelerator",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T11:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-this-ai-robot-arm-can-do-everything-from-making-coffee-to-3d-printing.md",
-      "title": "This AI robot arm can do everything from making coffee to 3D printing",
-      "excerpt": "HUENIT is an easy-to-use AI-based multi-functional robotic arm that combines advanced AI technologies with a modular arm to work on complex tasks with high precision.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/innovation/ai-robot-arm-can-do-everything",
-      "originalUrl": "https://interestingengineering.com/innovation/ai-robot-arm-can-do-everything",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/01/06/image/jpeg/VcIMOR3jeQZoewTddTR0Og9lAlqRgCSNmmVsgYD4.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-narr-ai-tor-apple-quietly-launches-a-selection-of-audiobooks-read-by-an-ai-robot.md",
-      "title": "Narr-AI-tor! Apple quietly launches a selection of audiobooks read by an AI ROBOT",
-      "excerpt": "This new feature is just the start of what will ... You can find the robot-voiced audiobooks, which use text-to-speech translation, by searching for 'AI narration' on Apple's Books app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11607515/Apple-quietly-launches-selection-audiobooks-read-AI-robot.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11607515/Apple-quietly-launches-selection-audiobooks-read-AI-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T10:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

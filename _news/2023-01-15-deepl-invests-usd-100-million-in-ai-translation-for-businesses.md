@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 617
         isCached: true
-  - title: "DeepL, the AI-based language translator, raises over $100M at a $1B+ valuation"
-    excerpt: "DeepL primarily provides translation as a service to businesses ... but Kutylowski said that the rising tide for AI-based language services has helped DeepL on this front."
-    publishedDateTime: 2023-01-11T13:21:00Z
-    webUrl: "https://techcrunch.com/2023/01/11/deepl-the-ai-based-language-translator-raises-over-100m-at-a-1b-valuation/"
-    ampWebUrl: "https://techcrunch.com/2023/01/11/deepl-the-ai-based-language-translator-raises-over-100m-at-a-1b-valuation/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/11/deepl-the-ai-based-language-translator-raises-over-100m-at-a-1b-valuation/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1193264709.jpg?resize=1200,816"
-        width: 1200
-        height: 816
-        isCached: true
 
 secured: "nYyyVXrEwsy5A08ibpSXAsH4m4mMjzXfY4Dr7NXLmlcb/0msQ+f90kH0SrL4F5dMBriLjU+IaKDZTgHcT4Y342nYUGxZNLkb7xmEhIDIx+XG0+vBfyOIHMLHouo3RniyyjJnEOrbgCXmK4B3UYFGMC/SPYZ0hmYKrEThuX20uaB7ok/te65+x7lgvLEL5+4KHwYbPYlaEUNXlNE4RCHCOtQV54BmoxdL5KAvWXClPUKdU0Tqh5k1X9D2K7QAhLTpd65F9DReg9I2xJ+f6devftJ/AvZANB9fB8F4AN7+ORgdkQaA9chfzMtWd1h+pD58xNesx5K4pRXAfXT0BySRVppKDl1W4scV6nip2DTUZmajPK+ayAwumkihQS2Esuxh7jey54U0nb5B5MkY3x3HOnDN8zIzYt0BP5+tAYVWFtQLcf3PQIrC6Tz9Y0S/TRxp/1e8DSz4neBu1uJdlXW7k4ifKitC1GYApFCoZU+pn4KoIeUjBPFsIxF6+cjE97ypo6YRWdWYpDK3D6UetWAlkw==;1qxaQVdjictIIoXWuxWzjA=="
 ---

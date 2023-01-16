@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market Significant Growth Opportunities 2023 [New Report] Business Statistics, Future Trends, and Global Share Forecast To 2029"
+    excerpt: "Pages Report] The Deep Learning market research report includes the total number of facts and figures with manufacturers, types, applications, and regions. The Deep Learning Market report provides a market overview of the report along with competitive landscape that includes business profile,"
+    publishedDateTime: 2023-01-14T04:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-significant-growth-opportunities-2023-new-report-business-statistics-future-trends-and-global-share-forecast-to-2029-2023-01-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Iris Recognition Market Report 2022 to 2028: Adoption of Biometric Technologies in the Defence and Automobile Industries Drives Growth"
     excerpt: "The Global Iris Recognition Market size is expected to reach $8.9 billion by 2028, rising at a market growth of 15.6% CAGR during the forecast period. Iris recognition is a precise and effective technology for protecting information,"
     publishedDateTime: 2023-01-13T22:28:00Z

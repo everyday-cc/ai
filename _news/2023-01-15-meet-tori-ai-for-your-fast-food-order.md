@@ -2,26 +2,26 @@
 category: news
 title: "Meet Tori, AI for your fast food order"
 excerpt: "Tori — an artificial intelligence launched by OpenCity — is described as the restaurant industry’s first conversational voice in the drive thru."
-publishedDateTime: 2023-01-15T15:57:00Z
-originalUrl: "https://www.koin.com/news/meet-tori-ai-for-your-fast-food-order/"
-webUrl: "https://www.koin.com/news/meet-tori-ai-for-your-fast-food-order/"
-ampWebUrl: "https://www.koin.com/news/meet-tori-ai-for-your-fast-food-order/amp/"
-cdnAmpWebUrl: "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/news/meet-tori-ai-for-your-fast-food-order/amp/"
+publishedDateTime: 2023-01-15T15:56:00Z
+originalUrl: "https://www.wate.com/news/watercooler/meet-tori-ai-for-your-fast-food-order/"
+webUrl: "https://www.wate.com/news/watercooler/meet-tori-ai-for-your-fast-food-order/"
+ampWebUrl: "https://www.wate.com/news/watercooler/meet-tori-ai-for-your-fast-food-order/amp/"
+cdnAmpWebUrl: "https://www-wate-com.cdn.ampproject.org/c/s/www.wate.com/news/watercooler/meet-tori-ai-for-your-fast-food-order/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KOIN 6
-  domain: koin.com
+  name: WATE 6 On Your Side
+  domain: wate.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.koin.com/wp-content/uploads/sites/10/2023/01/GettyImages-1352323887.jpg?w=1280"
+  - url: "https://www.wate.com/wp-content/uploads/sites/42/2023/01/GettyImages-1352323887.jpg?w=1280"
     width: 1280
     height: 853
     isCached: true
@@ -87,6 +87,6 @@ related:
         height: 765
         isCached: true
 
-secured: "M33Ne3lGUyVdXrCExRRijC9YoE4sUVbwNCBgCGsJ4PNvL4hWzYCIWkLiczQzRoHA9zqBMUJXV4Do0fR0UXYSmOol26rU8grYpmq2i8fE9NFipc359fVlYOPNvll32ynEftHxjTUR0oEgCYjEzN4++AfOsxHuLyz4Swe2hMnb+qpN39DDNNN3L3C8d8/SFxAsBZVo+EtuT/C53/KNn53xuSeTSUCYPyKj/mdQB2R8NqjC94vqHT4yb17SU9dc56uMU8XZBtf/MkOUT70FlPesmWqX3z/w8hYwE0zqcWtOkzx42bCfr8qTlRejsR3JhqXSYrcx85FtNj2eMAu88epN8212LjfKE3YOh7nVcSRjhrk=;BBr90LfotM55NF3INrQ0jw=="
+secured: "I1P47HxHjAWihoh8VCiS2lkQh6LCBByTNNvkruQ+lG7cmvGTJ9q+wHF2i43+mRu1vR0M//SkTUUzBBGSucouXv1nx+ZbV4la9KI14/2vprVkoYpz4vdl7b2LIq7CJY5O37EHe2+DQh+JE9+sL9sXc4lc8TsWZLS2PAuUQxP2fMzUn4VWN6Zkt+wJwu8FQPRX3m51DIWsg9QI1uJ0NQ55wyin9vj6YBhUuQicZ1bQaLN1UtiBpInuNX7fZfUyNLpWfG7t74otoCi3AHl6VptU93PgXmeVeD7AcKShOAxeInSw30KozA9gOgVHM/HkSF0rmZJ+pzdhlha70vf1cjy5Z7/3dE7D9j8OY3goqeT/Bxg=;drWcVeXn1xu7gL9Ia8+CGA=="
 ---
 
