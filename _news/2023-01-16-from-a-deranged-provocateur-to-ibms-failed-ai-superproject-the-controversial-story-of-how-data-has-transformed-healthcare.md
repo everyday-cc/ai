@@ -1,30 +1,20 @@
 ---
 category: news
-title: "From A 'Deranged' Provocateur To IBM's Failed AI Superproject: The Controversial Story Of How Data Has Transformed Healthcare"
-excerpt: "Just over a decade ago, artificial intelligence (AI) made one of its showier forays into the public's consciousness when ibm's watson"
-publishedDateTime: 2023-01-16T12:50:00Z
-originalUrl: "https://menafn.com/1105433732/From-A-Deranged-Provocateur-To-IBMs-Failed-AI-Superproject-The-Controversial-Story-Of-How-Data-Has-Transformed-Healthcare"
-webUrl: "https://menafn.com/1105433732/From-A-Deranged-Provocateur-To-IBMs-Failed-AI-Superproject-The-Controversial-Story-Of-How-Data-Has-Transformed-Healthcare"
+title: "From a ‘deranged’ provocateur to IBM’s failed AI superproject: the controversial story of how data has transformed healthcare"
+excerpt: "To understand the potential for machine learning to transform medicine, we must go back to the controversial origins of data use in healthcare"
+publishedDateTime: 2023-01-16T11:52:00Z
+originalUrl: "https://theconversation.com/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362"
+webUrl: "https://theconversation.com/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362"
 type: article
-quality: 29
-heat: 29
-published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
-  - IBM AI
-  - AI
   - AI in Healthcare
+  - AI
 
-images:
-  - url: "https://menafn.com/updates/pr/2023-01/16/TC_44ff2image_story.png"
-    width: 640
-    height: 452
-    isCached: true
-
-secured: "+4+1zZlI2dM8f9Bl/kF9E45pjxWemfm6noKJ9HkFKN11l51k3CwZYaxRX8mnbYYU25qb3VhzpY2iLJ/seD8kACnGEfpitimtn3IeBK7n51SkSVGRxGwZqMSGFlQETqoebZg7Q056aVws60wboAdss45GX4TzqFjnX+2vMZh2VndxV4aJ9qUqH9Zk99VsSEsFV4Y+4pDa9z5UjHLsai9WX5dLR48buTbULEIEY3MJaaMgbmp8UXzN9jHnKSJyX9f2AdkNVYAWNDKddR0w6i3ASDCWuUwf7Vn8YJKS2TWR4FPDGfdm2PId20ikPUPp9iTXsixIP378gFdSQUr89Deod4L9LZggPELJMvyGtcKAdnM=;sJ25prwf6xhWpIhRRYG40A=="
+secured: "w3M7HjHneFUoGyYo8aSsfRHsNpT44x+5HXWj17nI1VbD+8S1OLre7I2R71NbVA0vZpCzlqiSA/Pe8OWSQsfgH+Udr0FvLMZ73iuOHwxDOp3ILZH9MKxwkZVUXU4gS7NfbqS4Q4cShdanOzZhn9UWdOfzV+l75usxaEaY3rOEnk/VWe+bcp5Cw7RJ5LvaLhADtKwNTDtrDCFqkI5A34EyxmcqY+LT1d2fasJJHkS8IXdyAWET2D3Q27EsTHUznqPrV/2qUJUaXE27cP6BkJcqA6591hmqooJcuMmJa+nY8FfrqAohx9tZIDdAxYr7QSOkkrGYb46QdWkljyXsOkqcyt4b0URSijNiRAYG9m/Dxr4=;2BUFExBkAolyOn25I9pNsQ=="
 ---
 

@@ -14,6 +14,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://semiengineering.com/wp-content/uploads/Synopsys_Vision-Processing-with-Transformers-Fig2_transformer-cnn.jpeg"
