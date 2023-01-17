@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-30-germany-approves-mercedesbosch-automated-parking.md",
+      "title": "Germany approves Mercedes/Bosch automated parking",
+      "excerpt": "This makes it the world’s first automated driverless parking function (SAE Level 4) to be officially approved for commercial use. Mercedes chief technology officer Markus Schaefer said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/news/germany-approves-mercedes-bosch-automated-parking/",
+      "originalUrl": "https://www.just-auto.com/news/germany-approves-mercedes-bosch-automated-parking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2022/11/Mercedes-automated-parking-1.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-chinas-tech-giant-baidu-plans-to-rollout-the-worlds-largest-fully-autonomous-ride-hailing-service-by-next-year.md",
       "title": "China's Tech Giant Baidu Plans to Rollout the World's Largest Fully Autonomous Ride-Hailing Service by Next Year",
       "excerpt": "China's internet technology giant Baidu Inc. held its “Apollo Day” live-streamed technology event on Monday where the company shared its latest progress on autonomous driving. Among the announcements at Apollo Day were Baidu’s plans to launch the world's largest fully-autonomous ride-hailing service aptly named “Apollo Go” by next year and become the world’s biggest robotaxi operator.",
@@ -1282,49 +1325,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-teslas-full-self-driving-beta-is-now-available-to-everyone-in-north-america.md",
-      "title": "Tesla’s ‘Full Self-Driving’ Beta is now available to everyone in North America",
-      "excerpt": "Tesla’s “Full Self-Driving” Beta, which has been gradually rolling out over the past couple of years, is now available to anyone who’s paid for the feature in North America, CEO Elon Musk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/11/24/23476570/teslas-full-self-driving-beta-release-north-america-safety-score",
-      "originalUrl": "https://www.theverge.com/2022/11/24/23476570/teslas-full-self-driving-beta-release-north-america-safety-score",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T00:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

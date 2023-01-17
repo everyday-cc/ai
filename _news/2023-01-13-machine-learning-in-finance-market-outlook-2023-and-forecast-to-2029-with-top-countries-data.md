@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-fina
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-outlook-2023-and-forecast-to-2029-with-top-countries-data-2023-01-13"
 type: article
 quality: 75
-heat: 225
+heat: 235
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence (AI)"
     publishedDateTime: 2023-01-16T10:14:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2023-to-2028-2023-01-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market : Projections and Regional Outlook, Set for Rapid Growth and Trend by 2023 To 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence (AI)"
+    publishedDateTime: 2023-01-17T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2023-to-2028-2023-01-17"
     type: article
     provider:
       name: MarketWatch

@@ -24,6 +24,19 @@ images:
     height: 630
     isCached: true
 
-secured: "uhXMQSnIv7gnEXEBxNybiSm9bLHu5f4oVc9OLvBvdBX0fVAjrQaF9TLD6unDm2fVX66tmDGrv0Y7phbYa4YbEvyoKBtHhs+6qxjASY5oRplBXhORZYzGoa32Pf8xLG/65lB1ZYRsU1RA5HASu+J9Wwo+lBznaC/zhCqxhfBAStQa3LrpDd/duitZkI4fP5wEPuCwVFGfWLTppzRr065J+ckYuEgpf919U20Z9XNtHt+V0uiKRLhuX9UZ7L+X1z0L9x03TFNM1X6mfvzpdHe+wEVG+bCFIbjohxagTBNIbwHA0eLrfiS2UdeszjSKR2BvLEjj6iCoOqsVsuWtI9DMtYCnPaUkK/6T4pwTkInsmxo=;L1EzMREF5tL3b1Ad05pJJQ=="
+related:
+  - title: "Scottish secretary concedes courts will decide if gender recognition bill poses risk as UK government says – UK politics live"
+    excerpt: "He says that if Tory MPs object to the gender recognition reform bill, they should go up to Scotland and get elected, so they can vote on it in the Scottish parliament. It is a Scottish matter, he says. Nicola Sturgeon, Scotland’s first minister ..."
+    publishedDateTime: 2023-01-17T15:35:00Z
+    webUrl: "https://www.theguardian.com/politics/live/2023/jan/17/scotland-gender-recognition-bill-rishi-sunak-uk-politics-latest?amp;page=with%3Ablock-63c66eca8f083078fb8b69d2"
+    ampWebUrl: "https://amp.theguardian.com/politics/live/2023/jan/17/scotland-gender-recognition-bill-rishi-sunak-uk-politics-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/live/2023/jan/17/scotland-gender-recognition-bill-rishi-sunak-uk-politics-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 0
+
+secured: "2spnYDAwZL/EGDcUD8x67I305KbwvT5ce6fUlDAmZ/uJvvw3wQ9m9k+V8yuqhV1MkAbIMyKRK9DV1DinaGU7DtC8WYTz77FarvKXb+s3kyFEcbKyQ3y3gZLQ6uSHpraJqneGoZ03/Wlvc9/u4KXOuwQdpYXI3iu/3HE5Ki3emsaLimF5IQ03Q9KLDeMG0Q9q2Fenv5gweEjlnvw1C24xds3y+VX57psDeSJ0IEJ/APz6UYdfh38u1gqFQ8xV9eyOlby6Q1K1mQMDIu6R2Z1vEo2DLwipegWKCCmszMV0k5KddrZjVIk3rXw3e0axkYsXCqq51n6NBn1/mB45hBe31oQxUGMhB9moJHFCRwYwrXFsADDT26UkBegm+fQU4DwQ5BH22wnpK/lC8ZL4h4/+WHafA63AbxqEM6XkKaBNe/YB6gzcyGD5OH0+s6F+TeZJFNh07wOwTe4bhQvGDjmKJtatNN/CHTf04cO2GcsvLGlF6IS+nAWtb8Pc7u7X9NHNGOt28Foug+Qh09BRPIH6dg==;ActD0Zo9kB5mZFQAWPE2BQ=="
 ---
 

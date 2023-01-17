@@ -103,22 +103,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "DeepMind Explores the Connection Between Gradient-Based Meta-Learning and Convex Optimization"
-    excerpt: "Second nature for humans, meta-learning is a powerful yet challenging technique for AI systems that enables a model to meta-learn the parameters of a parameterized algorithm by self-evaluating its performance and adapting the learned parameterized algorithm to a given task."
-    publishedDateTime: 2023-01-13T01:13:00Z
-    webUrl: "https://syncedreview.com/2023/01/12/deepmind-explores-the-connection-between-gradient-based-meta-learning-and-convex-optimization/"
-    ampWebUrl: "https://syncedreview.com/2023/01/12/deepmind-explores-the-connection-between-gradient-based-meta-learning-and-convex-optimization/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/01/12/deepmind-explores-the-connection-between-gradient-based-meta-learning-and-convex-optimization/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 48
-    images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
-        width: 790
-        height: 320
-        isCached: true
 
 secured: "e4KnfZW0zSkglyu5gbmCROOlKw6D8xGFEtdt0v/GY/Dxmh8Lg1bGKJZkkLVmds57Il3QiC5nlbCjbUUL0spRdUKZF9SfcwTTqm5s13EkK4Jncj3Zn6aNEjinX39EABD1dLnaTtEz0dLLX1hrcv7y0Xr+iJVIDePA9gJ/v6olJ1MeEp34wYYdc1toIu9poJFSaY40keHfyBeJgnCXOgDCJ9z2NqD733joBRn1yUS6+UIeAEUeq1fpeVMnQmYLZQ+ibtuQED/fR9eYiq00h2Gh4QCWaJ8cmGsJreGBVCP1HUqKZXnsdWBzS3hdB21fkRjM1mKnUsOcbMxpFU+Vpx7RzhOD7FKOu7Vp6QxNhCGSXPVMDjJSVYs5WUtr+fgujbX5uduOe5O5HYB2VXcKjbf0BFSxNaXf+VOlWFcfcbV331wUQKEYSRbLxq6QutwmtRHiaSowCVPuJ6yhp53aQDMr7rcqp/FLOXru944Uyax+jj0JblhnXEyKHaqxWnDBeDOUELaz4Mp/2wiVBWK83EfROQ==;5gVgmO+F1rc084kOQG86JA=="
 ---

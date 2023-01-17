@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Operations (MLOps) Market : Research Report Provides an In-Depth Insight of Trends 2023 To 2028"
-    excerpt: "Pages Report] Rising demand for New Technology Industry will drive the Machine Learning Operations (MLOps) segment growth over the next five years. Global Market Analysis for"
-    publishedDateTime: 2023-01-13T01:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-research-report-provides-an-in-depth-insight-of-trends-2023-to-2028-2023-01-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision Market : Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2023 to 2029"
     excerpt: "Computer Vision Market\" Research Report 2023 is the professional market analysis study by 360 Research Reports"
     publishedDateTime: 2023-01-17T07:10:00Z
@@ -83,6 +69,20 @@ related:
     excerpt: "Final Report Will Add the Analysis of the Impact of the Russia-Ukraine War and COVID-19 on This Industry. Global"
     publishedDateTime: 2023-01-17T07:47:00Z
     webUrl: "https://www.marketwatch.com/press-release/machine-learning-chip-market-share-with-cagr-value-2023-global-trends-analysis-top-key-players-competitive-landscape-size-and-forecast-to-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Food & Beverages Market 2023 Size, Share, Trend, Revenue, Key Players with LATEST RESEARCH REPORT till 2029"
+    excerpt: "Jan (The Expresswire) -- \"Artificial Intelligence (AI) in Food and Beverages Market\" Research Insights Report 2023 | Latest Report Spread"
+    publishedDateTime: 2023-01-17T14:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-beverages-market-2023-size-share-trend-revenue-key-players-with-latest-research-report-till-2029-2023-01-17"
     type: article
     provider:
       name: MarketWatch

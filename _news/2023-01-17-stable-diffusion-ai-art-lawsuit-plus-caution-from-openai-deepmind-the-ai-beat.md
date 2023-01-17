@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-ca
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/"
 type: article
 quality: 99
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -92,22 +92,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/3lriwngDiXIMJuTa0zlasdWLb4A=/22x98:1519x1146/1200x628/filters:focal(775x611:776x612)/cdn.vox-cdn.com/uploads/chorus_asset/file/24365786/Screenshot_2023_01_17_at_09.55.27.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "DeepMind Explores the Connection Between Gradient-Based Meta-Learning and Convex Optimization"
-    excerpt: "Second nature for humans, meta-learning is a powerful yet challenging technique for AI systems that enables a model to meta-learn the parameters of a parameterized algorithm by self-evaluating its performance and adapting the learned parameterized algorithm to a given task."
-    publishedDateTime: 2023-01-13T01:13:00Z
-    webUrl: "https://syncedreview.com/2023/01/12/deepmind-explores-the-connection-between-gradient-based-meta-learning-and-convex-optimization/"
-    ampWebUrl: "https://syncedreview.com/2023/01/12/deepmind-explores-the-connection-between-gradient-based-meta-learning-and-convex-optimization/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/01/12/deepmind-explores-the-connection-between-gradient-based-meta-learning-and-convex-optimization/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 48
-    images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
-        width: 790
-        height: 320
         isCached: true
   - title: "Artists file copyright lawsuit against generative AI providers"
     excerpt: "Three artists have filed a lawsuit that accuses generative artificial intelligence providers Stability AI Ltd., DeviantArt Inc. and Midjourney Inc. of copyright infringement.  The Verge reported the development today."

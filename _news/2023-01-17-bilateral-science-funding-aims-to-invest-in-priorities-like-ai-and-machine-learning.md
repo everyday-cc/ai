@@ -33,7 +33,7 @@ related:
     provider:
       name: Inside Bitcoins
       domain: insidebitcoins.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://insidebitcoins.com/wp-content/uploads/2023/01/ai-crypto-coins-to-buy.png"
         width: 384

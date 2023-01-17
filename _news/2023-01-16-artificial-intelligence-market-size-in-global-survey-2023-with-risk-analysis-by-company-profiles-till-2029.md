@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Face Recognition Software Market 2023 Business analysis By Top Key Player with Revenue & Region till 2029 [ LATEST REPORT ]"
+    excerpt: "Jan 15, 2023 (The Expresswire) -- \"Face Recognition Software Market\" Research Insights Report 2023 | Latest Report Spread Across[ 103 Pages ]"
+    publishedDateTime: 2023-01-15T14:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-business-analysis-by-top-key-player-with-revenue-region-till-2029-latest-report-2023-01-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Chipsets Market Size 2023 with big Company segment, cost-effective solutions Analysis Information 2028"
     excerpt: "The Artificial Intelligence Chipsets market is expected to witness significant growth due to growing device usage"
     publishedDateTime: 2023-01-15T16:02:00Z
@@ -42,6 +56,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Market Share 2023 Comprehensive Insights, Innovations and Business Outlook till 2029"
+    excerpt: "Research Reports added a research report on the global “Artificial Intelligence in Market\". The report includes"
+    publishedDateTime: 2023-01-17T04:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-market-share-2023-comprehensive-insights-innovations-and-business-outlook-till-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
 
 secured: "tKwAqAdOrt/8H3FnXBtC6Lt/4qagv4SA++mTV9CR+j3MHEK0JFHB11QxchW00qk/gP86rWyWOUI1rqA3bGlhwJ0hhkpZrSRUBjZCGglUR28jsc/ILYz6zcn9uqc3itC/FhYMA9s+vj8Py5QQfmISkBp5WgqvZzPuWbSK8hIuK7N0Gk5Gxg/DqjKtgcxBi2CIip3mYOGVI75i8fnrfq39o45SfBhrQGwDX0WoxcZ3/MxqHNPg+iW6vPm+XXkuSWBMHW/jfVgvyrbojEknxX13pNWsxo5FOVjEdRSt9NbZDjrZ8N2eQA3xm1QkVcU/s/hg3azz1BFHuG10ttXkEZA0dHgqIq2cLNQUFI7nBrIBkSY=;BQlcCA3jJja3SHmGBFMLBw=="
 ---

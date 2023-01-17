@@ -192,6 +192,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-04-new-nvidia-ai-tech-unblurs-grainy-youtube-videos.md",
+      "title": "New Nvidia AI tech unblurs grainy YouTube videos",
+      "excerpt": "You’ll need a 30 or 40 series Nvidia GPU to make it work, however. As part of Nvidia’s CES 2023 presentation, the company unveiled RTX Video Super Resolution. This new AI tech will upscale videos to 4K in both Chrome and Edge browsers.",
+      "sourceUrl": null,
+      "webUrl": "https://knowtechie.com/nvidia-rtx-video-super-resolution-demo-ces-2023/",
+      "originalUrl": "https://knowtechie.com/nvidia-rtx-video-super-resolution-demo-ces-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://knowtechie.com/wp-content/uploads/2023/01/nvidia-upscaling-example-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KnowTechie",
+        "domain": "knowtechie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-04-nvidias-latest-ai-tech-can-upscale-old-blurry-youtube-videos.md",
       "title": "Nvidia’s latest AI tech can upscale old blurry YouTube videos",
       "excerpt": "Nvidia has turned its AI upscaling technology on a new target ... The catch is that you’ll need a relatively modern Nvidia GPU to benefit from the feature, with only its most recent 30 and ...",
@@ -1355,58 +1398,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-encharge-ai-emerges-from-stealth-with-217m-to-develop-ai-accelerator-hardware.md",
-      "title": "EnCharge AI emerges from stealth with $21.7M to develop AI accelerator hardware",
-      "excerpt": "Axelera and GigaSpaces are both developing in-memory hardware to accelerate AI workloads. NeuroBlade last October raised $83 million for its in-memory inference chip for data centers and edge devices.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/14/encharge-ai-emerges-from-stealth-with-21-7m-to-develop-ai-accelerator-hardware/",
-      "originalUrl": "https://techcrunch.com/2022/12/14/encharge-ai-emerges-from-stealth-with-21-7m-to-develop-ai-accelerator-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-85757679.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/14/encharge-ai-emerges-from-stealth-with-21-7m-to-develop-ai-accelerator-hardware/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/14/encharge-ai-emerges-from-stealth-with-21-7m-to-develop-ai-accelerator-hardware/amp/",
-      "publishedDateTime": "2022-12-14T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

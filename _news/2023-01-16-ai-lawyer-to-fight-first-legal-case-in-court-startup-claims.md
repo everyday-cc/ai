@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2023/01/16/in_brief_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/01/16/in_brief_ai/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://i.tribune.com.pk/media/images/1194402-pepper-1475732003/1194402-pepper-1475732003.jpg"
         width: 640
         height: 437
-        isCached: true
-  - title: "AI lawyers are helping defendants fight speeding tickets in court, for real"
-    excerpt: "Entering a courtroom with a robot lawyer could be a real thing as defendants plan to use an AI legal assistant to help them in upcoming cases."
-    publishedDateTime: 2023-01-13T02:58:00Z
-    webUrl: "https://www.tweaktown.com/news/90016/ai-lawyers-are-helping-defendants-fight-speeding-tickets-in-court-for-real/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 37
-    images:
-      - url: "https://static.tweaktown.com/news/9/0/90016_01_ai-lawyers-are-helping-defendants-fight-speeding-tickets-in-court-for-real.jpg"
-        width: 620
-        height: 348
         isCached: true
   - title: "An AI Lawyer Is About to Defend a Human in a U.S. Courtroom"
     excerpt: "Expensive lawyers may be replaced by cheaper chatbots whispering legal arguments into clients’ ears. But that vision of the future is fraught with risks."

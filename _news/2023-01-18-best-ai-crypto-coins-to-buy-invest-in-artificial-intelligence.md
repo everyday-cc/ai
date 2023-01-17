@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-17T16:10:00Z
 originalUrl: "https://insidebitcoins.com/buy-cryptocurrency/best-ai-crypto-coins"
 webUrl: "https://insidebitcoins.com/buy-cryptocurrency/best-ai-crypto-coins"
 type: article
-quality: 54
-heat: 64
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://insidebitcoins.com/wp-content/uploads/2023/01/ai-crypto-coins-to-buy.png"
@@ -40,6 +41,6 @@ related:
         height: 530
         isCached: true
 
-secured: "mn0dEIsk5lMXCYqZgxWKJzfqciylUcxstloUdDWH/DIEXmNBYZ+xMM+YBNbB2Pr/O+TUXujA+EpVx/uk6jjfl7dflRm+cqsiIDAbTv2zUGUdxr03uyfR2V5gQwniLL+eyhjXGblPx/Dav/m6sjMMnPyBeRrBk6zNqy0ynDBVrjEIlDOHjREzEjPexa7Qp1rCYTgfig5+iSLLAqs46xObZdiTypRwdVSQAunZweBP+oxCTiPTxqpWB2tjcmCiTw063u5/wS2DWD7Zk2+2WlWATMUJCQawIJM63bN1hprpKwcbedoZv8xaT1i/Vaeg1usNNRAKEgc9wftQE+HY2Qp/XBxEEFhA3sLc5IQovdcUDTQ=;CgWB4bWl0t1NPonFymZH6g=="
+secured: "OQIxh+4qSd4GM9iCUMdpiMCRnW/usQzUcvWAsPxlhb5qrcCscPTJQNpN5WgarxyRcfT8e9DgUKKrADAD5tDDK6gYCPlpk5JMPx4SivWJF6jMpetIMJXGVcyU+OJ3GIssyBS7u7tewkb1U/17efh/h9kuHQ75Vb2HyTHW2IHXqOqGMGc+JzaAQhFYlFM6GmLgqu+st8JJfs0EKp1EPaaq4ryCtOlcOYuwObxIfIuMrWDkJtT5d7EMOcoZN/ETvzf48y044E0vV/NRuJTrmxvcQc4UVgWhE/6HrpDZ8VcFH7evTA+2pKjuDKYfdMQf5vNGK/sA5VKkorh750NsA2OrKZc8fBxETAe9IgF+QUUg6OanhYN8cdJaHQRlUnA+UU06GDM4gIrklchjtuZG9a1Y7gzf6+KwZ191mn8sT5PaHbPmYVAjEI7Om2dz0WkhZycfI/aB2Ag3Kkv0nnwpPHTtDHT2pJ3Z9YG5BPBqSnWWgmRun7Cw69ZcxeClZ+/bG6oO3dftsGzwJXiJMy8wBkIing==;10VOStlFUEqQyL+bBgeYqg=="
 ---
 

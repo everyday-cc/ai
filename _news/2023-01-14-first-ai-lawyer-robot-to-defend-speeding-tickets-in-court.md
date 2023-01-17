@@ -41,20 +41,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "AI lawyers are helping defendants fight speeding tickets in court, for real"
-    excerpt: "Entering a courtroom with a robot lawyer could be a real thing as defendants plan to use an AI legal assistant to help them in upcoming cases."
-    publishedDateTime: 2023-01-13T02:58:00Z
-    webUrl: "https://www.tweaktown.com/news/90016/ai-lawyers-are-helping-defendants-fight-speeding-tickets-in-court-for-real/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 37
-    images:
-      - url: "https://static.tweaktown.com/news/9/0/90016_01_ai-lawyers-are-helping-defendants-fight-speeding-tickets-in-court-for-real.jpg"
-        width: 620
-        height: 348
-        isCached: true
   - title: "An AI Lawyer Is About to Defend a Human in a U.S. Courtroom"
     excerpt: "Expensive lawyers may be replaced by cheaper chatbots whispering legal arguments into clients’ ears. But that vision of the future is fraught with risks."
     publishedDateTime: 2023-01-14T05:14:00Z

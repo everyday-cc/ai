@@ -2,6 +2,40 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-09-14-major-aws-outage-in-south-africa.md",
+      "title": "Major AWS outage in South Africa",
+      "excerpt": "Amazon Web Services (AWS) appears to be having an outage causing headaches for Elastic Compute Cloud (EC2) customers in its South African region. Some report they can directly connect to existing ...",
+      "sourceUrl": null,
+      "webUrl": "https://mybroadband.co.za/news/cloud-hosting/460648-major-aws-outage-in-south-africa.html",
+      "originalUrl": "https://mybroadband.co.za/news/cloud-hosting/460648-major-aws-outage-in-south-africa.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mybroadband.co.za/news/cloud-hosting/460648-major-aws-outage-in-south-africa.html/amp",
+      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/cloud-hosting/460648-major-aws-outage-in-south-africa.html/amp",
+      "publishedDateTime": "2022-09-14T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyBroadband",
+        "domain": "mybroadband.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-microsoft-aws-feud-over-1b-federal-geospatial-intelligence-contract.md",
       "title": "Microsoft, AWS Feud Over $1B Federal Geospatial-Intelligence Contract",
       "excerpt": "Microsoft is protesting a $1 billion five-year contract the National Geospatial-Intelligence Agency gave ... Seattle-based AWS and the Springfield, Va.-based NGA for comment but had not heard ...",

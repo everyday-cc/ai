@@ -63,6 +63,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
+    excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
+    publishedDateTime: 2023-01-17T18:30:00Z
+    webUrl: "https://www.kalw.org/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever"
+    ampWebUrl: "https://www.kalw.org/npr-news/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever?_amp=true"
+    cdnAmpWebUrl: "https://www-kalw-org.cdn.ampproject.org/c/s/www.kalw.org/npr-news/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever?_amp=true"
+    type: article
+    provider:
+      name: KALW
+      domain: kalw.org
+    quality: 37
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/f15d3d1/2147483647/strip/true/crop/1941x1195+0+130/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F13%2Fscreen-shot-2023-01-13-at-10.59.24-am-653c405371f044e9a4056427c4d35153ce997b5f.jpg"
+        width: 880
+        height: 542
+        isCached: true
   - title: "Northwestern community members discuss use of AI program ChatGPT to write academic papers"
     excerpt: "Essay bots may be the next industry to be automated away, thanks to AI program ChatGPT. Artificial intelligence can be used to perform a variety of human-like tasks, including turning information from the internet into detailed written responses,"
     publishedDateTime: 2023-01-13T18:47:00Z

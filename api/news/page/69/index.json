@@ -2,6 +2,285 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2022-11-12-economists-predict-england-will-win-qatar-2022-world-cup-but-ai-backs-brazil.md",
+      "title": "Economists Predict England Will Win Qatar 2022 World Cup But AI Backs Brazil",
+      "excerpt": "Economists from Lloyd's have predicted that England will win the Qatar 2022 World Cup. Their prediction is based on the insurable value of players. But OPTA's artificial intelligence has Brazil as the favorites.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveprice/2022/11/12/economists-predict-england-will-win-qatar-2022-world-cup-but-ai-backs-brazil/",
+      "originalUrl": "https://www.forbes.com/sites/steveprice/2022/11/12/economists-predict-england-will-win-qatar-2022-world-cup-but-ai-backs-brazil/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/636f0487da07e02b86214530/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveprice/2022/11/12/economists-predict-england-will-win-qatar-2022-world-cup-but-ai-backs-brazil/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2022/11/12/economists-predict-england-will-win-qatar-2022-world-cup-but-ai-backs-brazil/amp/",
+      "publishedDateTime": "2022-11-12T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-amazons-latest-robot-picker-for-warehouses-uses-ai-to-identify-objects.md",
+      "title": "Amazon's latest robot picker for warehouses uses AI to identify objects",
+      "excerpt": "The robotic arm uses AI and computer vision to recognize and handle millions of items, according to Amazon. The company says that, by employing robots in its warehouses, it can conduct operations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html",
+      "originalUrl": "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/2A1QEohtCINWhWL0J5q2Bw--~B/Zmk9ZmlsbDtoPTQ5Mzt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-11/27eaa530-61fe-11ed-9fcf-a5aa5ef7a4cd.cf.jpg",
+          "width": 875,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-prevalence-of-computer-vision-syndrome-among-school-age-children-during-the-covid-19-pandemic-saudi-arabia-a-cross-sectional-survey.md",
+      "title": "Prevalence of Computer Vision Syndrome among School-Age Children during the COVID-19 Pandemic, Saudi Arabia: A Cross-Sectional Survey.",
+      "excerpt": "Computer vision syndrome (CVS) can be described as ocular-related symptoms that result from prolonged exposure and use of computers, smartphones, tablets, and other devices with digital displays. The main objective of this study was to investigate the prevalence of CVS among school-age children,",
+      "sourceUrl": null,
+      "webUrl": "https://europepmc.org/article/MED/36360446",
+      "originalUrl": "https://europepmc.org/article/MED/36360446",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T21:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Europe PMC",
+        "domain": "europepmc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-artificial-intelligence-goes-vegan.md",
+      "title": "Artificial intelligence goes vegan",
+      "excerpt": "A New Zealand startup has developed the very first AI tool capable of automatically generating content in support of veganism",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1",
+      "originalUrl": "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/media/images/2022/Nov/img_197549_vegan.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1",
+      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1",
+      "publishedDateTime": "2022-11-11T20:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "AWS AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-waymos-driverless-taxis-keep-making-incremental-progress-while-others-flounder.md",
+      "title": "Waymo’s driverless taxis keep making incremental progress, while others flounder",
+      "excerpt": "Waymo keeps (driverless) trucking along. The Alphabet division made a couple of announcements this week meant to highlight the progress — albeit incremental — of its robotaxis. The first was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/11/11/23453262/waymo-av-driverless-taxi-phoenix-california-dmv-progress",
+      "originalUrl": "https://www.theverge.com/2022/11/11/23453262/waymo-av-driverless-taxi-phoenix-california-dmv-progress",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/rkzNuvHybGrsaHtJSpV2V2AmT84=/0x0:3620x2343/1200x628/filters:focal(1810x1172:1811x1173)/cdn.vox-cdn.com/uploads/chorus_asset/file/24187968/1142125645.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T18:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-are-airports-the-ideal-testbed-for-the-newest-technologies.md",
+      "title": "Are Airports the Ideal Testbed for the Newest Technologies?",
+      "excerpt": "Aman Nalavade, product manager for Waymo, said this is something that Phoenix residents ... First introduced in June 2021, Iris is an artificial intelligence-powered “digital concierge” that can answer questions through voice-based technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/are-airports-the-ideal-testbed-for-the-newest-technologies",
+      "originalUrl": "https://www.govtech.com/products/are-airports-the-ideal-testbed-for-the-newest-technologies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/5031646/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fec%2F28%2F09773cf00d8d10ada26a5abfbac2%2Fshutterstock-530657836.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/are-airports-the-ideal-testbed-for-the-newest-technologies?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/are-airports-the-ideal-testbed-for-the-newest-technologies?_amp=true",
+      "publishedDateTime": "2022-11-11T15:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-12-deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup-updated.md",
       "title": "DeviantArt upsets artists with its new AI art generator, DreamUp [Updated]",
       "excerpt": "As for DreamUp itself? We experimented with the service, which feels like a vanilla Stable Diffusion model. DeviantArt members get five free prompts to try it out, and members can",
@@ -853,310 +1132,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028.md",
-      "title": "Computer Vision Development Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028",
-      "excerpt": "Nov 11, 2022 (The Expresswire) -- \"Computer Vision Development Market\" Research Report gives detailed facts with consideration to market size, cost",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-11-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-11-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T21:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-young-onset-dementia-how-to-beat-cognitive-decline.md",
-      "title": "Young-onset dementia: how to beat cognitive decline",
-      "excerpt": "Dementia is a disease most often associated with growing old, the consequence of progressive decline in cognitive ability that gradually causes problems with memory, thinking and problem-solving.",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishexaminer.com/lifestyle/healthandwellbeing/arid-41003897.html",
-      "originalUrl": "https://www.irishexaminer.com/lifestyle/healthandwellbeing/arid-41003897.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.irishexaminer.com/cms_media/module_img/6571/3285659_5_seoimageog_GettyImages-1309122635_1_.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T18:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Irish Examiner",
-        "domain": "irishexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-japan-to-invest-up-to-500-mln-in-new-advanced-chip-development-company.md",
-      "title": "Japan to invest up to $500 mln in new advanced chip development company",
-      "excerpt": "that aims to re-establish Japan as a leading maker of advanced chips. \"Semiconductors are going to be a critical component for the development of new leading edge technologies such as AI, digital industries and in healthcare,\" Minister of Economy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/japan-invest-up-500-mln-new-advanced-chip-development-company-2022-11-11/",
-      "originalUrl": "https://www.reuters.com/technology/japan-invest-up-500-mln-new-advanced-chip-development-company-2022-11-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/-HGRp8TetewRZxXkozlMWTm3HlI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WPRHXI73MBPX5J54LYWMQ7XQME.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T16:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone.md",
-      "title": "Stable Diffusion in your pocket? “Draw Things” brings AI images to iPhone",
-      "excerpt": "Introduced in August, Stable Diffusion (SD) is an AI image generator model that creates novel images ... When running locally, SD requires a fairly beefy GPU to generate images quickly, but some developers optimized the model to run on older GPUs with ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/11/stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/11/stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/sd_phone_hero_4-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone/amp/",
-      "publishedDateTime": "2022-11-10T15:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-qualys-ceo-removing-risk-in-clouds-continuous-challenge-zone.md",
-      "title": "Qualys CEO: Removing Risk In Cloud’s Continuous Challenge Zone",
-      "excerpt": "Cloud system misconfiguration is happening due to speed at which we are building and harnessing cloud itself - commercial & public organizations are grasping the flexible advantages of cloud at a speed that outpaces their approach to securing the services they themselves are adopting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/11/10/qualys-ceo-removing-risk-in-clouds-continuous-challenge-zone/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/11/10/qualys-ceo-removing-risk-in-clouds-continuous-challenge-zone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/636bd41bce450e31337fde53/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 817,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/11/10/qualys-ceo-removing-risk-in-clouds-continuous-challenge-zone/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2022/11/10/qualys-ceo-removing-risk-in-clouds-continuous-challenge-zone/amp/",
-      "publishedDateTime": "2022-11-10T15:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset.md",
-      "title": "MediaTek Upgrades Flagship 4K 120Hz TV Experiences with New Pentonic 1000 Chipset",
-      "excerpt": "New chipset packs all the latest features for Cloud gaming and 4K streaming SONOMA, Calif., Nov. 10, 2022 /PRNewswire/ -- MediaTek today launched",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset-1031900798",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset-1031900798",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1942241/MediaTek_Pentonic_1000_1022.jpg",
-          "width": 400,
-          "height": 264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

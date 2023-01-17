@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Microsoft announces general availability of Azure OpenAI Service"
-excerpt: "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation"
-publishedDateTime: 2023-01-17T11:39:00Z
-originalUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
-webUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
+title: "Microsoft Announces general availability of Azure OpenAI Service"
+excerpt: "Microsoft makes Azure OpenAI Service generally available, which makes the world's most advanced AI, including GPT-3.5, Codex, and DALL•E 2"
+publishedDateTime: 2023-01-17T15:34:00Z
+originalUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
+webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
+ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
+cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Information Age
-  domain: information-age.com
+  name: enterprisetalk
+  domain: enterprisetalk.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
-    width: 788
-    height: 443
+  - url: "https://enterprisetalk.com/wp-content/uploads/2023/01/Microsoft-Announces-general-availability-of-Azure-OpenAI-Service.jpg"
+    width: 1500
+    height: 844
     isCached: true
 
 related:
@@ -208,6 +210,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft May Add ChatGPT To Azure Cloud Services ‘Soon’: Report"
+    excerpt: "Microsoft has said it will add OpenAI’s artificial intelligence (AI) chatbot ChatGPT to its cloud-based Azure service “soon”."
+    publishedDateTime: 2023-01-17T18:43:00Z
+    webUrl: "https://news.abplive.com/technology/microsoft-chatgpt-openai-azure-cloud-services-details-1576356"
+    ampWebUrl: "https://news.abplive.com/technology/microsoft-chatgpt-openai-azure-cloud-services-details-1576356/amp"
+    cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/technology/microsoft-chatgpt-openai-azure-cloud-services-details-1576356/amp"
+    type: article
+    provider:
+      name: news.abplive
+      domain: abplive.com
+    quality: 74
+    images:
+      - url: "https://feeds.abplive.com/onecms/images/uploaded-images/2023/01/17/2fe50d465ef475dff9c77c88d4b615261673979897891295_original.png"
+        width: 720
+        height: 540
+        isCached: true
   - title: "Microsoft Announces Azure OpenAI Service for All"
     excerpt: "Microsoft today announced the general availability of its cloud-based Azure OpenAI service so that common people can use its AI tools like GPT-3.5, Codex, and DALL•E 2 to enhance their work. It also said customers could access OpenAI’s flagship AI chatbot ChatGPT through Azure."
     publishedDateTime: 2023-01-17T05:19:00Z
@@ -263,6 +281,20 @@ related:
       - url: "https://www.itp.net/cloud/2023/01/17/Microsoft_buildings_EU-1.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "Microsoft Announces GA of Azure OpenAI Service, ChatGPT on Way"
+    excerpt: "Microsoft has announced the general availability of Azure OpenAI Service, the result of a partnership with OpenAI whose ChatGPT generative AI application has created a sensation since its lat November launch that generated 1 million-plus downloads in its first week."
+    publishedDateTime: 2023-01-17T17:07:00Z
+    webUrl: "https://insidehpc.com/2023/01/microsoft-announces-ga-of-azure-openai-service-chatgpt-on-way/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 69
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/01/Eric-Boyd-Microsoft-0123.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "ChatGPT capabilities will be part of Microsoft’s Azure OpenAI Service soon"
     excerpt: "Last year, during Build 2022, Microsoft enhanced its Azure Cognitive Services with Azure OpenAI Service. The enhancement was designed to assist developers in"
@@ -368,6 +400,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "ChatGPT coming soon to Azure OpenAI service — with guardrails"
+    excerpt: "Microsoft on Monday announced the general availability of Azure OpenAI Service as part of its ongoing partnership with OpenAI. Businesses will soon have access to Chat"
+    publishedDateTime: 2023-01-17T18:49:00Z
+    webUrl: "https://www.ciodive.com/news/Microsoft-OpenAI-ChatGPT-Azure/640523/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 54
+    images:
+      - url: "https://www.ciodive.com/imgproxy/gAriKtGQYhK2XyclUlYaZMu9mPmhu5i-0UQsi3pM8aI/crop:6440:3481/g:nowe:0:811/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk2NzIxMDg1Ni5qcGc.jpg"
+        width: 770
+        height: 364
+        isCached: true
   - title: "Four New Microsoft Azure Vulnerabilities Found By Orca Security"
     excerpt: "Vulnerabilities in four Microsoft Azure services, which posed the risk of leading to the exposure of customer data, were discovered by the research team at cloud security company Orca Security, the researchers disclosed Tuesday."
     publishedDateTime: 2023-01-17T14:19:00Z
@@ -455,6 +501,6 @@ related:
       domain: gulf-times.com
     quality: 19
 
-secured: "OrS7+nl31hdBnMt2yoWMTlj47K/G9z9dOG5HForK6C5b8hwRPD5Z5Bi+bsl6yTv2uFmHDM2e/HYLoUn9jvoWenTdQKKZKzt8EiCjofc7tjZH9T0JKTKVoJBRQC4xEi2SufAxhm/QRbDZyQPTGNEwI+w8JgwjpOFGNCypm2jDCtBOmMBpsKJSoPkYqB0EURtae4leYuxOMf6xCgARYQn4BJvp/+Whw0lTrpJuAFRrIrq2+03BirxaVOGi3XM9GCaB02nojdNJH5zrL8H2CvMXeOZx9PzlSYN5NBAh/WyDhry6oYoP/WQL0k/uv5wzJk7hoDGYdWM0OaCdL3D/CjxXSD1XG++LE4toYxQWDRZfUnU=;M7L89Xkbr0P8kKnF9/CKjw=="
+secured: "H3UTRtNDyUjSJEQRn9gLnoHx/h26X1mfjJcr0ZfQzrU7X/wThjXw4xDlr4Z0fKkxdm5NoB1r5eyk9OVWT9jVM0fiINg3qoK4anSO5tHJoD5kUAnsVQTQw8G34IpRNij74e9MQJI2sE/l5iZZmL3nSBINaxdg2YjB4KMzah2pxSgjUiEpWnlbqdYSiT+5/siuYqUk6zM52a35rzsXhmdf1ifosi3BwokwUKYGwsr5sOq853hdTi/d992lAixz+VZVqV4WaW0wB/staeiWMfB8m00wfY8LlFFtyr62jWWnS2269V32Pmv+/QReXAtOaW9xgFJoXpkgPzOg0yPDAmSqUJpB+tGqxGUCQfHi07K7l5o=;BgZxpiXa5Feue/CvluA6Iw=="
 ---
 

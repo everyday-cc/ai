@@ -2,6 +2,40 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-10-21-driverless-cabs-ai-perfume-and-a-history-mystery.md",
+      "title": "Driverless cabs, AI perfume and a history mystery",
+      "excerpt": "Click takes a ride in one of the first fare paying driverless cabs in San Francisco ... visitors solve a historical mystery. And how artificial intelligence is helping the perfume industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/programmes/m001cv9d",
+      "originalUrl": "https://www.bbc.co.uk/programmes/m001cv9d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-waymo-one-brings-self-driving-ride-service-to-los-angeles.md",
       "title": "Waymo One Brings Self-Driving Ride Service to Los Angeles",
       "excerpt": "Waymo One is a commercial ride-hailing service like no other. Its driverless vehicles have been shuffling passengers around the Phoenix and San Francisco areas, and soon it'll expand to one of the largest metropolitan areas in the US.",
@@ -1335,58 +1369,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-volkswagen-to-invest-23-bln-in-china-self-driving-tech-jv.md",
-      "title": "Volkswagen to Invest $2.3 Bln in China Self-Driving Tech JV",
-      "excerpt": "By Joshua Kirby Volkswagen AG said Thursday that it will invest more than 2 billion euros ($1.94 billion) in a joint venture in China that aims to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/volkswagen-to-invest-2-3-bln-in-china-self-driving-tech-jv-271665660464",
-      "originalUrl": "https://www.marketwatch.com/story/volkswagen-to-invest-2-3-bln-in-china-self-driving-tech-jv-271665660464",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/volkswagen-to-invest-2-3-bln-in-china-self-driving-tech-jv-271665660464",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/volkswagen-to-invest-2-3-bln-in-china-self-driving-tech-jv-271665660464",
-      "publishedDateTime": "2022-10-13T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

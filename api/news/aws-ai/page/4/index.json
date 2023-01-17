@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-29-aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022.md",
+      "title": "AWS Unveils New AI Service Features and Enhancements at re:Invent 2022",
+      "excerpt": "Over the last 5 years, artificial intelligence (AI) and machine learning (ML) have evolved from a niche activity to a rapidly growing mainstream endeavor. Today, more than 100,000 customers across numerous industries rely on AWS for ML and AI initiatives that infuse AI into a broad range of business",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/AWS-Unveils-New-Features-reInvent-2022.jpg",
+          "width": 2365,
+          "height": 1178,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T18:25:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-deploy-an-mlops-solution-that-hosts-your-model-endpoints-in-aws-lambda.md",
       "title": "Deploy an MLOps solution that hosts your model endpoints in AWS Lambda",
       "excerpt": "In 2019, Amazon co-founded the climate pledge. The pledge’s goal is to achieve net zero carbon by 2040. This is 10 years earlier than the Paris agreement outlines. Companies who sign up are committed to regular reporting, carbon elimination, and credible offsets. At the time of this writing, 377 companies",
@@ -1375,42 +1427,6 @@
       ],
       "topics": [
         "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-lumiq-wins-aws-specialty-partner-of-the-year-2022-for-data-analytics-machine-learning-second-year-in-a-row.md",
-      "title": "LUMIQ wins AWS Specialty Partner of the Year 2022 - for Data, Analytics, & Machine Learning - second year in a row",
-      "excerpt": "India's leading Data & Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data, Analytics, and Machine Learning at the recent AWS Partner Summit in Bengaluru. The event saw Anil Kumble talking about his entrepreneurial journey and the evolution of the Indian tech landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/articles/Business/20221117/4004639.html",
-      "originalUrl": "https://news.webindia123.com/news/articles/Business/20221117/4004639.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
         "AWS AI"
       ]
     }

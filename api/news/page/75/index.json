@@ -2,6 +2,291 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2022-11-07-the-role-of-embedded-vision-in-powering-autonomous-robotics.md",
+      "title": "The role of embedded vision in powering autonomous robotics",
+      "excerpt": "Today’s robotics developers have made enormous strides thanks to developments in artificial intelligence (AI), edge-computing, and camera technology, creating totally autonomous mobile robots (AMRs) that can replicate human activities.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-embedded-vision-in-powering-autonomous-robotics/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-embedded-vision-in-powering-autonomous-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Maharajan-Veerabahu.jpg",
+          "width": 390,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-embedded-vision-in-powering-autonomous-robotics/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-role-of-embedded-vision-in-powering-autonomous-robotics/",
+      "publishedDateTime": "2022-11-07T07:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-07-israel-to-start-self-driving-public-bus-pilot-programme.md",
+      "title": "Israel to start self-driving public bus pilot programme",
+      "excerpt": "Israel has launched a two-year pilot programme in which four companies will operate self-driving public buses in a bid to ease road congestion, the country's Innovation Authority said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/middle-east/israel-start-self-driving-public-bus-pilot-programme-2022-11-07/",
+      "originalUrl": "https://www.reuters.com/world/middle-east/israel-start-self-driving-public-bus-pilot-programme-2022-11-07/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=119",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-07-anchainai-2022-top-startups-for-the-enterprise.md",
+      "title": "AnChain.AI: 2022 Top Startups for the Enterprise",
+      "excerpt": "AnChain.AI's Web3 risk prevention and security platform aims to establish trust around blockchains and cryptocurrencies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/11/07/anchain-ai-cnbc-top-startups-for-the-enterprise.html",
+      "originalUrl": "https://www.cnbc.com/2022/11/07/anchain-ai-cnbc-top-startups-for-the-enterprise.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107144813-1667400957502-victorfang-18-big1.jpg?v=1667836801",
+          "width": 2072,
+          "height": 2072,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/11/07/anchain-ai-cnbc-top-startups-for-the-enterprise.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/11/07/anchain-ai-cnbc-top-startups-for-the-enterprise.html",
+      "publishedDateTime": "2022-11-07T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-07-why-self-driving-vehicles-will-still-need-a-human-minder.md",
+      "title": "Why ‘Self-Driving’ Vehicles Will Still Need a Human Minder",
+      "excerpt": "Development of autonomous technologies is attracting billions of dollars, but industry executives say remote operators will likely always be needed",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922?mod=flipboard",
+      "originalUrl": "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922?mod=flipboard",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-650671/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-07-three-questions-business-leaders-should-ask-when-considering-ai.md",
+      "title": "Three Questions Business Leaders Should Ask When Considering AI",
+      "excerpt": "Dr. Steven Gustafson is Noonum's CTO and an AI scientist, passionate about solving hard problems while having fun and building great teams. With AI, it’s important for business leaders to maintain focus on core issues and not get distracted by hype and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/three-questions-business-leaders-should-ask-when-considering-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/three-questions-business-leaders-should-ask-when-considering-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5eea6576a0bb000007673ddd/0x0.jpg?format=jpg&crop=5700,3207,x0,y593,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/07/three-questions-business-leaders-should-ask-when-considering-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/07/three-questions-business-leaders-should-ask-when-considering-ai/amp/",
+      "publishedDateTime": "2022-11-07T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-07-coreweave-among-first-cloud-providers-to-offer-nvidia-hgx-h100-supercomputers-set-to-transform-ai-landscape.md",
+      "title": "CoreWeave Among First Cloud Providers to Offer NVIDIA HGX H100 Supercomputers Set to Transform AI Landscape",
+      "excerpt": "CoreWeave, a specialized cloud provider built for large-scale GPU-accelerated workloads, today announced it is among the first to offer cloud instances with NVIDIA HGX H100 supercomputing. CoreWeave,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/11/07/9707181.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/11/07/9707181.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-clearview-stole-my-face-and-the-eu-cant-do-anything-about-it.md",
       "title": "Clearview Stole My Face and the EU Can’t Do Anything About It",
       "excerpt": "By uploading a single photo, Clearview’s clients, which include law enforcement agencies, can use the company’s facial recognition technology to unearth other online photos featuring the same face. Marx wanted to know if the company had any photos of ...",
@@ -881,274 +1166,6 @@
         "Machine Learning",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-the-best-robot-vacuums-for-2022.md",
-      "title": "The best robot vacuums for 2022",
-      "excerpt": "The machine connects to WiFi, allowing you to control it via the app when ... Just keep that in mind if you ever decide to run the robot at night when others are sleeping. You may be unfamiliar ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/best-robot-vacuums-130010426.html",
-      "originalUrl": "https://www.engadget.com/best-robot-vacuums-130010426.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-03/15357b60-9ef7-11ec-99ff-3847635b5f44",
-          "width": 6307,
-          "height": 4205,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/best-robot-vacuums-130010426.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/best-robot-vacuums-130010426.html",
-      "publishedDateTime": "2022-11-05T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.md",
-      "title": "IBM bolsters BI offerings with Business Analytics Enterprise suite",
-      "excerpt": "IBM’s Cognos Analytics with Watson, which is an AI-based self-service program for creating dashboards and reports, has been updated with the ability to consider seasons and other, multiple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3679049/ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.html",
-      "originalUrl": "https://www.infoworld.com/article/3679049/ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/20/13/ibm-sign-100925012-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3679049/ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3679049/ibm-bolsters-bi-offerings-with-business-analytics-enterprise-suite.amp.html",
-      "publishedDateTime": "2022-11-05T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-google-wants-ai-in-one-thousand-languages.md",
-      "title": "Google wants AI in one thousand languages",
-      "excerpt": "Data is crucial to advances in AI, and Google and its big ... this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world ...",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/google-wants-ai-in-one-thousand-languages/95276087",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/google-wants-ai-in-one-thousand-languages/95276087",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-05T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brandequity.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-indonesian-police-use-face-recognition-for-g20-summit-security.md",
-      "title": "Indonesian Police Use Face Recognition for G20 Summit Security",
-      "excerpt": "Wakapolri said that through the command center, Indonesian police can find out the situation of members and facilities G20 Summit. They also provide the face recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.viva.co.id/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
-      "originalUrl": "https://www.viva.co.id/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumb.viva.co.id/media/frontend/thumbs3/2022/11/04/63651ae978d50-wakapolri-komjen-pol-gatot-eddy-pramono_665_374.jpg",
-          "width": 665,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.viva.co.id/amp/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
-      "cdnAmpWebUrl": "https://www-viva-co-id.cdn.ampproject.org/c/s/www.viva.co.id/amp/english/1540736-indonesian-police-use-face-recognition-for-g20-summit-security",
-      "publishedDateTime": "2022-11-04T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "viva",
-        "domain": "viva.co.id",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-local-measure-gains-aws-retail-competency-status.md",
-      "title": "Local Measure gains AWS Retail Competency status",
-      "excerpt": "Australian customer experience software company Local Measure has achieved Amazon Web Services (AWS) Retail Competency status. The competency recognises AWS Partners that provide innovative ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/702555/local-measure-gains-aws-retail-competency-status/",
-      "originalUrl": "https://www.arnnet.com.au/article/702555/local-measure-gains-aws-retail-competency-status/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/jonathan_barouch.jpg",
-          "width": 504,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-04T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-content-curation-ai-ethics-other-teams-fired-by-twitter-under-new-owner-elon-musk.md",
-      "title": "Content curation, AI ethics, other teams fired by Twitter under new owner Elon Musk",
-      "excerpt": "Elon Musk has axed entire departments at Twitter in his exercise to deeply trim its workforce by half and human rights, accessibility, AI ethics and curation and communications teams were hit the hardest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.in/content-curation-ai-ethics-other-teams-fired-by-twitter-under-new-owner-elon-musk-853806",
-      "originalUrl": "https://www.ibtimes.co.in/content-curation-ai-ethics-other-teams-fired-by-twitter-under-new-owner-elon-musk-853806",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data1.ibtimes.co.in/en/full/777770/musk-begins-laying-off-twitter-employees-shuts-offices-temporarily.jpg?w=570&h=320",
-          "width": 570,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.co.in/content-curation-ai-ethics-other-teams-fired-by-twitter-under-new-owner-elon-musk-853806",
-      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/content-curation-ai-ethics-other-teams-fired-by-twitter-under-new-owner-elon-musk-853806",
-      "publishedDateTime": "2022-11-04T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes India",
-        "domain": "ibtimes.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

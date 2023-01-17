@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/"
 type: article
 quality: 103
-heat: 163
+heat: 173
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       - url: "https://www.windowslatest.com/wp-content/uploads/2023/01/Windows-11-Microsoft-Edge-rounded-corners.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Microsoft & OpenAI Bring AI Models to Developers Worldwide"
+    excerpt: "Microsoft announces the general availability of its Azure OpenAI service, allowing developers to utilie technology like ChatGPT."
+    publishedDateTime: 2023-01-17T17:00:00Z
+    webUrl: "https://www.searchenginejournal.com/microsoft-openai-bring-ai-models-to-developers-worldwide/476633/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 54
+    images:
+      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2023/01/microsoft-azure-openai-63c6d3030e5f1-sej.png"
+        width: 1600
+        height: 840
         isCached: true
   - title: "Microsoft's Future Growth Prospects"
     excerpt: "Investments in Artificial Intelligence over the past decade are now starting to pay off. Share prices have decreased considerably from recent highs."
