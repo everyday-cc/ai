@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-09-13-why-the-explainable-ai-market-is-growing-rapidly.md",
+      "title": "Why the explainable AI market is growing rapidly",
+      "excerpt": "The explainable AI market is booming due to regulations requiring visibility into the hows and whys of AI model predictions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/",
+      "originalUrl": "https://venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1257975820-e1663004031979.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/amp/",
+      "publishedDateTime": "2022-09-12T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-london-has-raised-more-fintech-investment-than-any-other-global-hub.md",
       "title": "London Has Raised More Fintech Investment Than Any Other Global Hub",
       "excerpt": "MoneyTransfers.com reports that London has successfully attracted the most fintech investment, reaching $3.1 billion in 2022. Jonathan Merry, CEO of MoneyTransfers.com, commented on the report: \"The U.",

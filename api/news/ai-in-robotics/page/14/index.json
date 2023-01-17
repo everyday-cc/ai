@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-09-20-artificial-intelligence-ai-robots-market-top-trends-and-key-players-analysis-report.md",
+      "title": "Artificial Intelligence (AI) Robots Market | Top Trends and Key Players Analysis Report",
+      "excerpt": "AI, or artificial intelligence, in robotics is the integration of AI technology with robots, enabling them to perform repetitive tasks more efficiently without human intervention. Rapid ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-robots-market-top-trends-and-key-players-analysis-report",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-robots-market-top-trends-and-key-players-analysis-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/09/CCC-1-e1663981758586-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-editorial-even-robots-need-ethics-training.md",
       "title": "Editorial: Even robots need ethics training",
       "excerpt": "\"Bias must be eliminated from the data used in AI algorithms, beginning with a more representative group of artificial intelligence developers. Either artificial intelligence algorithms need to have corrective measures or the solutions to our growing world just got a lot more complicated.",
@@ -1313,40 +1356,6 @@
       "provider": {
         "name": "Business 2 Community",
         "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-teen-scientists-set-for-swiss-robotics-contest.md",
-      "title": "Teen scientists set for Swiss robotics contest",
-      "excerpt": "It is being controlled by java coding language keyed on a driver hub and a gaming pad that controls its different functions. Building, or rather, assembling robots is all fun and games to bring ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.the-star.co.ke/sasa/lifestyle/2022-09-09-teen-scientists-set-for-swiss-robotics-contest/",
-      "originalUrl": "https://www.the-star.co.ke/sasa/lifestyle/2022-09-09-teen-scientists-set-for-swiss-robotics-contest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T20:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "the-star.co.ke",
         "images": null,
         "publishers": null,
         "authors": null

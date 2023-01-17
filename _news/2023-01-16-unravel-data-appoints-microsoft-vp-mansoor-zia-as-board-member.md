@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/unravel-data-appoints-microsoft-vp-m
 webUrl: "https://analyticsindiamag.com/unravel-data-appoints-microsoft-vp-mansoor-zia-as-board-member/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Supernal to Utilize Microsoft Azure for eVTOL Development"
-    excerpt: "Hyundai’s Supernal recently announced that it is collaborating with Microsoft in development of its electric vertical take-off and landing (eVTOL) aircraft for advanced air mobility. The collaboration aims to advance autonomy,"
-    publishedDateTime: 2023-01-12T20:50:00Z
-    webUrl: "https://www.aviationtoday.com/2023/01/12/supernal-utilize-microsoft-azure-evtol-development/"
-    type: article
-    provider:
-      name: Aviation Today
-      domain: aviationtoday.com
-    quality: 54
-    images:
-      - url: "https://www.aviationtoday.com/wp-content/uploads/2023/01/courtesy-of-microsoft-project-airsim-for-supernal.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft Exec Zia Mansoor Joins Unravel Data Board of Directors"
     excerpt: "Unravel Data, the first DataOps observability platform built to meet the needs of modern data teams, today announced that Zia Mansoor has joined the company’s Board of Directors. Mansoor currently serves as Microsoft’s Vice President of Data & AI,"
     publishedDateTime: 2023-01-12T22:00:00Z

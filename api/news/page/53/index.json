@@ -2,6 +2,204 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2022-11-25-where-will-baidu-stock-be-in-1-year.md",
+      "title": "Where Will Baidu Stock Be in 1 Year?",
+      "excerpt": "Baidu (NASDAQ: BIDU) posted its third-quarter earnings report on Nov. 22. The Chinese tech giant's revenue rose 2% year over year to 32.54 billion yuan ($4.57 billion), beating analysts' estimates ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/where-will-baidu-stock-be-in-1-year",
+      "originalUrl": "https://www.nasdaq.com/articles/where-will-baidu-stock-be-in-1-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-25T03:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-25-facebook-parent-meta-taught-ai-to-lie-and-play-diplomacy.md",
+      "title": "Facebook parent Meta taught AI to lie and play diplomacy",
+      "excerpt": "Meta teaches AI to lie in a virtual game to win. (Photo Credits- Reuters) In a recent finding in a research article of the academic journal Science, Meta, which owns Facebook, Instagram and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/life/technology-facebook-parent-meta-taught-ai-to-lie-and-play-diplomacy-2892066/",
+      "originalUrl": "https://www.financialexpress.com/life/technology-facebook-parent-meta-taught-ai-to-lie-and-play-diplomacy-2892066/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-25T02:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-25-nvidia-geforce-rtx-4080-gpu-unlocks-16x-performance-for-creators.md",
+      "title": "NVIDIA GeForce RTX 4080 GPU unlocks 1.6x performance for creators",
+      "excerpt": "State-of-the-art AI technology — including AI image generators ... Expand creative possibilities and pick up the GeForce RTX 4080 GPU today from retailers in the region. Get Breaking News ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/business/corporate-news/nvidia-geforce-rtx-4080-gpu-unlocks-16x-performance-for-creators-1.1669372071180",
+      "originalUrl": "https://gulfnews.com/business/corporate-news/nvidia-geforce-rtx-4080-gpu-unlocks-16x-performance-for-creators-1.1669372071180",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2022/11/25/The-new-GeForce-RTX-4080-GPU---GN--1-_184ae53c852_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/business/corporate-news/nvidia-geforce-rtx-4080-gpu-unlocks-16x-performance-for-creators-1.1669372071180",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/corporate-news/nvidia-geforce-rtx-4080-gpu-unlocks-16x-performance-for-creators-1.1669372071180",
+      "publishedDateTime": "2022-11-25T02:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-25-teslas-full-self-driving-beta-is-now-available-to-everyone-in-north-america.md",
+      "title": "Tesla’s ‘Full Self-Driving’ Beta is now available to everyone in North America",
+      "excerpt": "Tesla’s “Full Self-Driving” Beta, which has been gradually rolling out over the past couple of years, is now available to anyone who’s paid for the feature in North America, CEO Elon Musk ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/11/24/23476570/teslas-full-self-driving-beta-release-north-america-safety-score",
+      "originalUrl": "https://www.theverge.com/2022/11/24/23476570/teslas-full-self-driving-beta-release-north-america-safety-score",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-25T00:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-25-how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021.md",
+      "title": "How can AI, robotics and blockchain technology transform digital education: OECD’s Digital Education Report 2021",
+      "excerpt": "Artificial intelligence(AI) and robotics and blockchain technology when used in a coordinated and combined manner, can potentially revolutionise the education system. The Organisation for Economic Cooperation and Development(OECD) report of 2021 brought to the fore the growing importance of robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/consumer-tech/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021/95754018",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/consumer-tech/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021/95754018",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-95754018,imgsize-60418,width-1200,height-628,overlay-etcio/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecd-s-digital-education-report-2021.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/consumer-tech/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021/95754018",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/consumer-tech/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021/95754018",
+      "publishedDateTime": "2022-11-24T19:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-11-25-future-proof-your-career-by-upskilling-in-robotics-and-artificial-intelligence.md",
       "title": "Future-proof your career by upskilling in robotics and artificial intelligence",
       "excerpt": "Sponsored by QUT has responded to the skills gap with a new Master of Robotics and Artificial Intelligence Today’s workforce",
@@ -959,253 +1157,6 @@
         "AI",
         "Microsoft AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-natural-language-processing-nlp-in-healthcare-market-overview-2022-to-2030-future-trends-and-forecast-by-3m-linguamatics-amazon-aws.md",
-      "title": "Natural Language Processing (NLP) in Healthcare Market Overview 2022 to 2030, Future Trends and Forecast | By -3M, Linguamatics, Amazon AWS",
-      "excerpt": "Browse detailed TOC, Tables, Figures, Charts, and Companies mentioned in the Global Natural Language Processing (NLP) in Healthcare Market research report 2022-2030 The Global Natural Language Processing (NLP) in Healthcare Market investigation report is segmented by Types ( Machine Translation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-overview-2022-to-2030-future-trends-and-forecast-by--3m-linguamatics-amazon-aws-2022-11-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-overview-2022-to-2030-future-trends-and-forecast-by--3m-linguamatics-amazon-aws-2022-11-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-23T19:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-gpu-for-deep-learning-market-2022-technology-type-analysis-size-share-growth-price-trends-and-forecast-to-2028-80-report-pages.md",
-      "title": "GPU for Deep Learning Market 2022 : Technology Type Analysis, Size, Share, Growth, Price Trends and Forecast To 2028 | 80 Report Pages",
-      "excerpt": "According to this latest study, the 2021 growth of GPU for Deep Learning will have significant change from previous",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-2022-technology-type-analysis-size-share-growth-price-trends-and-forecast-to-2028-80-report-pages-2022-11-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-2022-technology-type-analysis-size-share-growth-price-trends-and-forecast-to-2028-80-report-pages-2022-11-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-23T19:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-ai-computer-vision-market-size-recent-trends-demand-and-share-estimation-by-2028-with-fastest-growing-countries-data-107-report-pages.md",
-      "title": "AI Computer Vision Market Size, Recent Trends, Demand and Share Estimation By 2028 with Fastest Growing Countries Data | 107 Report Pages",
-      "excerpt": "According to this latest study, the 2021 growth of AI Computer Vision will have significant change from previous year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-size-recent-trends-demand-and-share-estimation-by-2028-with-fastest-growing-countries-data-107-report-pages-2022-11-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-size-recent-trends-demand-and-share-estimation-by-2028-with-fastest-growing-countries-data-107-report-pages-2022-11-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-23T18:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-its-time-to-talk-about-killer-robots.md",
-      "title": "It’s time to talk about killer robots",
-      "excerpt": "The topic has been simmering again of late due to the increasing prospect of killer robots in domestic law enforcement. One of the era’s best known robot makers, Boston Dynamics, raised some public policy red flags when it showcased footage of its Spot robot being deployed as part of Massachusetts State Police training exercises on our stage back in 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/",
-      "originalUrl": "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/04/gettyimages-167263495.jpg?resize=1200,799",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/23/lets-talk-about-killer-robots/amp/",
-      "publishedDateTime": "2022-11-23T17:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-facial-recognition-can-help-conserve-seals-scientists-say.md",
-      "title": "Facial recognition can help conserve seals, scientists say",
-      "excerpt": "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kshb.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say",
-      "originalUrl": "https://www.kshb.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/f328cbe/2147483647/strip/true/crop/983x553+3+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F26%2Fa5%2F8c8af8954a2cbda5720e88fc5e71%2Fap22321559652379.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kshb.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say?_amp=true",
-      "cdnAmpWebUrl": "https://www-kshb-com.cdn.ampproject.org/c/s/www.kshb.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say?_amp=true",
-      "publishedDateTime": "2022-11-23T16:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSHB Kansas City",
-        "domain": "kshb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

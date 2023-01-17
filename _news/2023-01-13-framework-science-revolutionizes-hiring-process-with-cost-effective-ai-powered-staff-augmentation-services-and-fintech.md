@@ -2,17 +2,14 @@
 category: news
 title: "Framework Science Revolutionizes Hiring Process with Cost-Effective, AI-Powered Staff Augmentation Services and Fintech"
 excerpt: "Using cutting-edge AI technology and a focus on fintech, Framework Science can build and manage teams faster and cost-effectively than any other company in the industry. One of the significant ..."
-publishedDateTime: 2023-01-12T23:44:00Z
-originalUrl: "https://www.news10.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
-webUrl: "https://www.news10.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
+publishedDateTime: 2023-01-12T20:33:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
+webUrl: "https://fox4kc.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
 type: article
-quality: 15
-heat: 15
-published: false
 
 provider:
-  name: WTEN
-  domain: news10.com
+  name: WDAF-TV
+  domain: fox4kc.com
 
 topics:
   - AI in Finance
@@ -24,17 +21,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "Top 10 Fintech and innovation trends to watch in 2023"
-    excerpt: "Driving these innovations are Fintech companies which are contributing significantly to the growth of the local economy, creating new jobs, and stimulating an entrepreneurial ecosystem. Also, they are making the provision of financial services more efficient,"
-    publishedDateTime: 2023-01-16T13:56:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Top-10-Fintech-and-innovation-trends-to-watch-in-2023-1695992"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 4
-
-secured: "za9pWohq/Dliui3bi6ISBZsrhFDZQ+vf/VQ1zJr69lSoIWeUvWi/7GdxWMuT1/OPSXN8daMdeghQJEGk1EvSsjs3cAsEZtpHW7ZIjlPJoU0PCcnwfYk25e2cuqiw1mwK0V47nTR2vN9tDK5gb+P1gjXzrBCpxRQquLbR3hnCbVBboMzce2erpp4HJ6olhTlI8Y+AxF3KizRyGroG4DimXPKM+IdcmKrW2oYuAlfxZwNuQcNPayY5ff4xk+8NSbZZSB4kaYL8M/gRZd1pYNDAAoy+L/utJyvJEZ5nUqA4zWf9INHfbs1ml2FcPt33Uv+fLRuswjtLYi2iI8i16YU1tfW1IJ8Qdtuqw1F6/BekBxo=;eSGsby8GqSMIU1ECrRhiDA=="
+secured: "iG1Z3Sp59qIdty6cmKUDkn4aD0VOkoqSd1hR95sAEPeU+1Ly/7Z5uOybc9LWyzXfYZKDa/ojkYAnaalN2z6eRScVXZhYlMbiRbTE+lfZTVDtM4004H7SZSPboR0LFc8YMzY6qQGwo+aWpbwuEg1kBAznaEdR4QuK6mEFK5i1auXPuSBfaRuRrdP4zd+kUXkAN/wBXdfTn1u3kzfficwONWUHWoX1chSMNfS2yeTs37gJi37kt6VThxDdpXwTbYXOXo0a9dtgkPKy8uqDtu9su4IC0r0MKtWaQf2g47wklXLRjy5vFFeCmWE67P20gYhlA/sqeYtB1a0oF2D5dK1OkShwr+15c3ofHay/Gx9qbj4=;dgtkcme4oRAughWY6umGQw=="
 ---
 

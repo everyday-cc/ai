@@ -2,6 +2,40 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-09-28-startup-with-portland-connection-raises-8m-for-robots-that-make-coffee-drinks-like-a-barista.md",
+      "title": "Startup with Portland connection raises $8M for robots that make coffee drinks like a barista",
+      "excerpt": "Artly announced the raise, which the startup is calling ... the help of advanced AI technologies such as imitation learning and vision-language generative models, our robots can now adapt to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/portland/news/2022/09/27/barista-robot-startup-artly-fundraise-starbucks-vp.html?amp;s=article_search",
+      "originalUrl": "https://www.bizjournals.com/portland/news/2022/09/27/barista-robot-startup-artly-fundraise-starbucks-vp.html?amp;s=article_search",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-ai-and-machine-learning-enter-the-kitchen-at-chipotle.md",
       "title": "AI and Machine Learning Enter the Kitchen at Chipotle",
       "excerpt": "The first, piloting in select Southern California restaurants, is a cook-to-needs kitchen management system that provides demand-based cooking and ingredient preparation forecasts to “optimize throughput and freshness while minimizing food waste,",
@@ -1352,49 +1386,6 @@
       "provider": {
         "name": "AOL",
         "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-artificial-intelligence-ai-robots-market-top-trends-and-key-players-analysis-report.md",
-      "title": "Artificial Intelligence (AI) Robots Market | Top Trends and Key Players Analysis Report",
-      "excerpt": "AI, or artificial intelligence, in robotics is the integration of AI technology with robots, enabling them to perform repetitive tasks more efficiently without human intervention. Rapid ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-robots-market-top-trends-and-key-players-analysis-report",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-robots-market-top-trends-and-key-players-analysis-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/09/CCC-1-e1663981758586-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T23:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

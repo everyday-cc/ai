@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-09-08-moving-the-goal-posts-cognitive-dissonance-and-preferences.md",
+      "title": "Moving the Goal Posts: Cognitive Dissonance and Preferences",
+      "excerpt": "Got cognitive dissonance? Simply move the goal posts of what you see as fair and reasonable. Source: Neil Daftary/Unsplash Cognitive dissonance theory posits that individuals experience mental ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/intersections/202209/moving-the-goal-posts-cognitive-dissonance-and-preferences",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/intersections/202209/moving-the-goal-posts-cognitive-dissonance-and-preferences",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/neil-daftary-4uamk7_8t5s-unsplash.jpg?itok=-VXuqVqw",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/intersections/202209/moving-the-goal-posts-cognitive-dissonance-and-preferences?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/intersections/202209/moving-the-goal-posts-cognitive-dissonance-and-preferences?amp",
+      "publishedDateTime": "2022-09-08T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-can-good-dental-health-help-protect-against-cognitive-decline-and-dementia.md",
       "title": "Can good dental health help protect against cognitive decline and dementia?",
       "excerpt": "More information: \"Periodontal Health, Cognitive Decline, and Dementia—A Systematic Review and Meta-analysis of Longitudinal Studies\", Journal of the American Geriatrics Society (2022). DOI: 10. ...",

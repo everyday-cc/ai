@@ -53,7 +53,7 @@
       "originalUrl": "https://dailytimes.com.pk/1051739/ncai-announces-artificial-intelligence-challenge-for-students/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -364,7 +364,7 @@
       "originalUrl": "https://www.crn.com/news/data-center/hpe-buys-ai-startup-pachyderm-to-build-new-ai-ml-platform",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -407,7 +407,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-outlook-2023-and-forecast-to-2029-with-top-countries-data-2023-01-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -815,20 +815,20 @@
     },
     {
       "path": "_news/2023-01-11-artificial-intelligence-deep-learning-model-for-mapping-wetlands-yields-94-accuracy.md",
-      "title": "Artificial Intelligence Deep Learning Model for Mapping Wetlands Yields 94% Accuracy",
-      "excerpt": "Chesapeake Conservancy’s Data Science Team Publishes Article in “Science of the Total Environment” Annapolis, MD – Chesapeake Conservancy’s data science team developed an artificial intelligence deep learning model for mapping wetlands ...",
+      "title": "Artificial intelligence deep learning model for mapping wetlands yields 94% accuracy",
+      "excerpt": "Chesapeake Conservancy's data science team developed an artificial intelligence deep learning model for mapping wetlands, which resulted in 94% accuracy. Supported by EPRI, an independent ...",
       "sourceUrl": null,
-      "webUrl": "https://www.directionsmag.com/pressrelease/12026",
-      "originalUrl": "https://www.directionsmag.com/pressrelease/12026",
+      "webUrl": "https://phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.html",
+      "originalUrl": "https://phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://dmpublisher.s3.us-west-2.amazonaws.com/2023/January/10/7/ccd1cc1a-ce14-4801-8238-379214b79d70-sized",
-          "width": 800,
-          "height": 1065,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc.jpg",
+          "width": 1384,
+          "height": 886,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -836,13 +836,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T08:57:00-08:00",
+      "ampWebUrl": "https://phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.amp",
+      "publishedDateTime": "2023-01-10T14:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Directions Magazine",
-        "domain": "directionsmag.com",
+        "name": "Phys.org",
+        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1241,34 +1241,34 @@
     {
       "path": "_news/2023-01-10-scientists-use-machine-learning-to-fast-track-drug-formulation-development.md",
       "title": "Scientists use machine learning to fast-track drug formulation development",
-      "excerpt": "Nov. 29, 2021 — Researchers have developed a new approach to machine learning that 'learns how to learn' and out-performs current machine learning methods for drug design, which in turn could ...",
+      "excerpt": "To investigate whether machine learning tools could accurately predict the rate of drug release, the research team trained and evaluated a series of eleven different models, including multiple ...",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230110103448.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230110103448.htm",
+      "webUrl": "https://phys.org/news/2023-01-scientists-machine-fast-track-drug.html",
+      "originalUrl": "https://phys.org/news/2023-01-scientists-machine-fast-track-drug.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/university-of-toronto.jpg",
+          "width": 2880,
+          "height": 1921,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://phys.org/news/2023-01-scientists-machine-fast-track-drug.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-scientists-machine-fast-track-drug.amp",
       "publishedDateTime": "2023-01-09T16:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },

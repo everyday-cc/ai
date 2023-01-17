@@ -53,6 +53,20 @@ related:
         width: 750
         height: 418
         isCached: true
+  - title: "HPE acquires Pachyderm to boost its AI services"
+    excerpt: "HPE plans to integrate Pachyderm's software into its own AI services to provide an 'advanced data-driven pipeline' for customers."
+    publishedDateTime: 2023-01-17T11:00:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/hpe-pachyderm-ai-data"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/01/AdobeStock_397278865_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "JPrGQKrCeRq/TbDqk5JBetSN3IN8di886zGbn6XlrvCOL8flhPfzFZ68T7wNarrQwBhTk7mGHLtlH9ZstGncnHSCWsQwHv7Eh3CMfdZoK9rp63zNoG9Q9OpH7RdHG5rOJGWS3aaKMW6rsscF5JzOu1SywYi55q4w0s86s9fikedFaQexiG3k7pPYhb2hHBqTndh+LLXpbPKpQi7B+Xyuu1IqpIjg8nEMxaM/9FZ9BC+CMQEhUFJ4VtpWPlh2c3l2PdCIFrAEurhzz0VHETBOEb1eNKMaqFQqPPxGNVhBt/JHPvOjrqinyAsbfhoCDBTzPqRyrXyjjBbCthYhorX44MCysVY/JYRLmOwWOwwGMls=;GB3hvNZ7wsQDG1xLpBY3bQ=="
 ---

@@ -42,6 +42,20 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft Is Playing the Long Game in Artificial Intelligence"
+    excerpt: "The company's cloud resources, business customers, and large amount of data resources make it a perfect partner to improve the artificial intelligence models and create a business model for it. Travis Hoium covers why Microsoft isn't doing this for ..."
+    publishedDateTime: 2023-01-17T12:48:00Z
+    webUrl: "https://www.fool.com/investing/2023/01/17/microsoft-is-playing-the-long-game-in-artificial-i/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/716716/microsoft-openai.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft is Adding ChatGPT to Its New Azure Open AI Service"
     excerpt: "Microsoft will soon expand access to ChatGPT through its new Azure OpenAI service, which is now generally available to developers."
     publishedDateTime: 2023-01-17T10:30:00Z
@@ -104,15 +118,6 @@ related:
       name: techworm.net
       domain: techworm.net
     quality: 36
-  - title: "Microsoft, Paige to apply AI to digital pathology images"
-    excerpt: "Microsoft has partnered with Paige to apply artificial intelligence to digital pathology images to develop and deliver new clinical applications and computational biomarkers with the aim of transforming cancer diagnosis and patient care."
-    publishedDateTime: 2023-01-12T19:06:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/microsoft-paige-to-apply-ai-to-digital-pathology-images.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
 
 secured: "ZKAH1g+m2ulD+O3zZhB/WLe8VVPLF7T/w/ZrJn9RM8Ng/2UPxYv236IhypolgehW2DtDlrrJyxrb497zO9aRn1merJVR+5juGXlzS/gxKodT2h3fNfJkbNIeRdht6QGFFAx144Pu24vmMHopELUR1MoSciOj9tl4E2+psWkXuxkQo4KcRr5cmQ2iVSxB4Up6f//brs6crp3f/F834UIPseyxE7luGpSAsProKtrfz0bgBTmt9JCXcEMTn1miObAMRZdBvxM/XGw81s7P0g+kIRq8JccH2i/EA77buXWgIuQ87cVl5dqUAfMv+dsxDHjb1N4/dSRmTWxvcMWNHtNAwPOL/TodAQOzI0BYsexh1OXt36z1op/YQIHtoDNgSYlZ6/PVweTV6an0rlJQxxn5lgWSV8dH2BMDnV25N1nPoDVPYx3egBvXXemNjfGcQhka+gaR0QpP3ihsU+8S46pinqBlrjKN+gbfU2Fi9YVRumUbpItk9RxPgF9MeqT9oE7cpRVtYMID4PYdBCL3BvSjvA==;Tq3WoJa7yOfQ5y+pqff/kA=="
 ---

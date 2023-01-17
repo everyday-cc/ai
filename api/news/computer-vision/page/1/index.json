@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-01-17-commentary-facial-recognition-will-transform-airport-security-checkpoints.md",
-      "title": "Commentary: Facial recognition will transform airport security checkpoints",
-      "excerpt": "The biggest criticism of facial recognition technology is the perceived invasion of privacy and the security of photos taken at checkpoints. Yet the photos being used to match your identity, like when applying for a passport or participating in the Global ...",
+      "path": "_news/2023-01-17-opinion-how-facial-recognition-will-transform-airport-security.md",
+      "title": "Opinion: How facial recognition will transform airport security",
+      "excerpt": "Imagine using technology that never forgets a face, while improving airport security and shortening lines. Such technology exists and may be coming to an airport near you. Every flyer over the past two decades knows that airport security procedures involve a lot of unpacking,",
       "sourceUrl": null,
-      "webUrl": "https://www.yakimaherald.com/opinion/commentary-facial-recognition-will-transform-airport-security-checkpoints/article_2b022e7c-952b-11ed-b00b-5bb3f6281b9d.html",
-      "originalUrl": "https://www.yakimaherald.com/opinion/commentary-facial-recognition-will-transform-airport-security-checkpoints/article_2b022e7c-952b-11ed-b00b-5bb3f6281b9d.html",
+      "webUrl": "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/",
+      "originalUrl": "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 141,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/6/b1/6b106f7e-952b-11ed-b53b-db389e490e67/63c48ac6bc23a.image.jpg?resize=1024%2C756",
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/01/OPED-TSA-FACIAL-RECOGNITION-COMMENTARY-TB.jpg?w=1024&h=736",
           "width": 1024,
-          "height": 756,
+          "height": 735,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.yakimaherald.com/opinion/commentary-facial-recognition-will-transform-airport-security-checkpoints/article_2b022e7c-952b-11ed-b00b-5bb3f6281b9d.amp.html",
-      "cdnAmpWebUrl": "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/commentary-facial-recognition-will-transform-airport-security-checkpoints/article_2b022e7c-952b-11ed-b00b-5bb3f6281b9d.amp.html",
-      "publishedDateTime": "2023-01-17T01:12:00-08:00",
+      "ampWebUrl": "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/amp/",
+      "publishedDateTime": "2023-01-17T04:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Yakima Herald-Republic",
-        "domain": "yakimaherald.com",
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -43,6 +43,58 @@
         "Computer Vision",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-defending-democracy-and-liberty-in-the-face-of-chinas-challenge.md",
+      "title": "Defending Democracy And Liberty In The Face Of China's Challenge",
+      "excerpt": "The newly established House Select Committee on Strategic Competition between the United States and the Chinese Communist Party holds crucial responsibility in addressing the challenges posed by the CCP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/divyanshkaushik/2023/01/17/defending-democracy-and-liberty-in-the-face-of-chinas-challenge/",
+      "originalUrl": "https://www.forbes.com/sites/divyanshkaushik/2023/01/17/defending-democracy-and-liberty-in-the-face-of-chinas-challenge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c215b2b85b7aac67c92cf4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 777,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/divyanshkaushik/2023/01/17/defending-democracy-and-liberty-in-the-face-of-chinas-challenge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/divyanshkaushik/2023/01/17/defending-democracy-and-liberty-in-the-face-of-chinas-challenge/amp/",
+      "publishedDateTime": "2023-01-17T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1306,50 +1358,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-syntiants-security-options-expand-via-computer-vision.md",
-      "title": "Syntiant’s Security Options Expand, Via Computer Vision",
-      "excerpt": "Irvine-based chip company Syntiant Corp. is adding to its product line. The firm, founded in 2017, has to date been best known primarily.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ocbj.com/technology/syntiants-security-options-expand-via-computer-vision/",
-      "originalUrl": "https://www.ocbj.com/technology/syntiants-security-options-expand-via-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3o53yol1vmqc8.cloudfront.net/wp-content/uploads/2023/01/CES-Syntiant.jpg",
-          "width": 1425,
-          "height": 950,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T16:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orange County Business Journal",
-        "domain": "ocbj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

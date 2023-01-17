@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Is Playing the Long Game in Artificial Intelligence"
+    excerpt: "The company's cloud resources, business customers, and large amount of data resources make it a perfect partner to improve the artificial intelligence models and create a business model for it. Travis Hoium covers why Microsoft isn't doing this for ..."
+    publishedDateTime: 2023-01-17T12:48:00Z
+    webUrl: "https://www.fool.com/investing/2023/01/17/microsoft-is-playing-the-long-game-in-artificial-i/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/716716/microsoft-openai.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft is Adding ChatGPT to Its New Azure Open AI Service"
     excerpt: "Microsoft will soon expand access to ChatGPT through its new Azure OpenAI service, which is now generally available to developers."
     publishedDateTime: 2023-01-17T10:30:00Z
@@ -108,15 +122,6 @@ related:
       name: techworm.net
       domain: techworm.net
     quality: 36
-  - title: "Microsoft, Paige to apply AI to digital pathology images"
-    excerpt: "Microsoft has partnered with Paige to apply artificial intelligence to digital pathology images to develop and deliver new clinical applications and computational biomarkers with the aim of transforming cancer diagnosis and patient care."
-    publishedDateTime: 2023-01-12T19:06:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/microsoft-paige-to-apply-ai-to-digital-pathology-images.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
 
 secured: "p39a11iSKCVVBCft7kXF6AgcOG4TWBuO2sNWHHIHlKAbunsHrDECV3OKyGDdTbZzMTKIdaUaSV53WzI2Cktw8QvMbu1Vh0FXot3UHrNzM8XP8B8mf2zuCynQBBA1VC/K155Duw2nqxnSlvoU96F0LQHxIxA+q3BwEfcdyuSJACCAsOp00HvW4nEQawmcO98o5peoWpf45R1xV2/NvZEMqHAg+vkuXyX5bGcS3doWSa386MdC64TnM5mH0C2gSOa+MvOia6haFtsRdcdMhMBW+btoAvcVuWsBEMzUkorJyTcxUw+YLOXGiVdhUyp9hTazjO7tSTh9sRuPLPwvovuRkccPC1iaIZbSvOuCySBC8qc=;+GWitdRFYMfZUlA6mYIqmA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.yakimaherald.com/opinion/commentary-facial-recognition-w
 cdnAmpWebUrl: "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/commentary-facial-recognition-will-transform-airport-security-checkpoints/article_2b022e7c-952b-11ed-b00b-5bb3f6281b9d.amp.html"
 type: article
 quality: 89
-heat: 139
-published: true
+heat: -1
+published: false
 
 provider:
   name: Yakima Herald-Republic
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Opinion: How facial recognition will transform airport security"
+    excerpt: "Imagine using technology that never forgets a face, while improving airport security and shortening lines. Such technology exists and may be coming to an airport near you. Every flyer over the past two decades knows that airport security procedures involve a lot of unpacking,"
+    publishedDateTime: 2023-01-17T12:49:00Z
+    webUrl: "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/"
+    ampWebUrl: "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 91
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/01/OPED-TSA-FACIAL-RECOGNITION-COMMENTARY-TB.jpg?w=1024&h=736"
+        width: 1024
+        height: 735
+        isCached: true
   - title: "Facial recognition will transform airport security checkpoints | Commentary"
     excerpt: "The true role of airport security is ensuring that you are the person you claim to be. Facial recognition enhances such efforts."
     publishedDateTime: 2023-01-13T15:50:00Z
@@ -74,21 +90,7 @@ related:
       name: Sun Sentinel
       domain: sun-sentinel.com
     quality: 50
-  - title: "Commentary: What killer robots mean for the future of war"
-    excerpt: "We have seen how so-called neutral AI have made sexist algorithms and inept content moderation systems. In war, these kinds of misunderstandings could kill civilians or wreck negotiations, say these writers."
-    publishedDateTime: 2023-01-15T22:07:00Z
-    webUrl: "https://www.channelnewsasia.com/commentary/war-killer-robot-ai-lethal-autonomous-weapons-3203846"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--d5QCsnQA--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/01/13/istock-1342530364.jpg?itok=6tyqwqsX"
-        width: 1200
-        height: 676
-        isCached: true
 
-secured: "9t2dIQgG00FpFq0tXI8FkJ473HPoNBviaprA5TRXYDtZo/WD231vmw1TGpGGt3UjlajJswpb0zupt3yt0FLN6QIbUhXaOy8gxThyjoFgW49/ueM6/xXbP9A/fesw8mYEifUjcIW73pcepx6fFeGaBjNQIusJpHoknjiKJV022L7c3Ic1taD+mqXqHabrsLD18WW1G8bdefjUEcamWaNMu/RChxHHJTNaAgeRSQgxRqhqOkNkSl37LzuLUBNhnAAqH01vzSJ6H4SeCXTfmk8ghGCDAnDm6r8Vp4v6iNVRD996dsiJ6Zorr2UUa/+sTc51PVCViUFljibjyAi05zi+f9Ict7XYKhlBtDJz4kKKw+k=;S4+HyrFrxTuAxvrAEpmXcg=="
+secured: "ldSSIDwujdg9IqQjBE/c2ymNg5pV1wDcwr96ZRG01Z8o03swULvMCOePC9qtc74wpQPU4U4ldEyEcmc2UFrrUzdHCqqS/2HL6Y8IFUB0ELxjOEIGlE2oob9CRO2T2UQGQpFGVmBvmUVxIYyDgmyuWPhUQpl/f5ICCWnPjVm4+DYOoPG4yA1dC/j0aKofex3Kzw2EnabFB9yfZ+V44Lm4ycVz9oJyjfGSYl/dWO0H9XXHSC6Vnw9cRrM1QB46m0+V6dIhQS30FONwCm1xolXyxT6jtohZLg6vkDqu22IfRcapo04HXZhNQu4W/OCDTCInkOlCRufKpEC+G83FUqrdTMlNQNtBiu/pXyDI2ms/Y/ROs+/9P9cal/betodkyLQcDj4pcRVKlsa6duip+ZVuqV5x6o0UcHRVWCi1gEVPJjvoY+3bE3jaL91zp03hjRIdsnUjAOUviO/ggh0FqAfp08FYxQEKrocz4mU0GQ30cEmgg6z8rD/zEPWAWyJhxzMpu4CweK8OglJP7ZIqYeflqw==;evZkz010rVWbV128NW4gdQ=="
 ---
 

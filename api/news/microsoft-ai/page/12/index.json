@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-10-10-ratio-shift-of-protein-in-brain-cells-causes-changes-underlying-early-cognitive-decline.md",
+      "title": "Ratio shift of protein in brain cells causes changes underlying early cognitive decline",
+      "excerpt": "Early cognitive decline may result from a shift in the ratio of a protein sub-type in our brain cells triggering cell-loss. This new study, published in Scientific Reports, shows how this might be ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-10-ratio-shift-protein-brain-cells.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-ratio-shift-protein-brain-cells.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ratio-shift-of-protein-1.jpg",
+          "width": 1444,
+          "height": 1124,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-10-ratio-shift-protein-brain-cells.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ratio-shift-protein-brain-cells.amp",
+      "publishedDateTime": "2022-10-10T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-08-new-alzheimers-drug-that-slows-cognitive-decline-could-be-available-next-year.md",
       "title": "New Alzheimer's drug that slows cognitive decline could be available next year",
       "excerpt": "So is the benefit worth the risk and cost? Lecanemab slowed the rate of cognitive decline in people with mild cognitive impairment and early-stage Alzheimer’s disease by 27% over 18 months.",
@@ -1280,58 +1323,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-sean-hannity-this-is-another-example-of-bidens-cognitive-decline.md",
-      "title": "SEAN HANNITY: This is another example of Biden's 'cognitive decline'",
-      "excerpt": "You can't make it up. I don't have words for this. Usually, these obvious examples of Biden's cognitive decline are totally ignored by most in the media mob. But today, multiple reporters ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/sean-hannity-president-biden-cognitive-decline",
-      "originalUrl": "https://www.foxnews.com/opinion/sean-hannity-president-biden-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/SEAN_HANNITY_058-1.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/sean-hannity-president-biden-cognitive-decline.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/sean-hannity-president-biden-cognitive-decline.amp",
-      "publishedDateTime": "2022-09-29T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

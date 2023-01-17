@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-11-28-klotho-protein-levels-protect-against-cognitive-decline-in-alzheimer-patients.md",
+      "title": "Klotho protein levels protect against cognitive decline in Alzheimer patients",
+      "excerpt": "The lack of this protein within the brains of klotho knockout mice led to cognitive deficits, premature death, and synaptic loss. Conversely, the overexpression of the Klotho protein in mice is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20221127/Klotho-protein-levels-protect-against-cognitive-decline-in-Alzheimer-patients.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20221127/Klotho-protein-levels-protect-against-cognitive-decline-in-Alzheimer-patients.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_732076_16695937424557873.jpg",
+          "width": 1000,
+          "height": 556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T17:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-enzyme-drives-cognitive-decline-in-mice-provides-new-target-for-alzheimers.md",
       "title": "Enzyme drives cognitive decline in mice, provides new target for Alzheimer's",
       "excerpt": "Enhanced activity of Alzheimer disease-associated variant of protein kinase Cα drives cognitive decline in a mouse model. Nature Communications , 2022; 13 (1) DOI: 10.1038/s41467-022-34679-7 Cite ...",
@@ -1327,49 +1370,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-any-developer-can-be-a-space-developer-with-the-new-azure-orbital-space-sdk.md",
-      "title": "Any developer can be a space developer with the new Azure Orbital Space SDK",
-      "excerpt": "Today, we are announcing a crucial step towards democratizing access to space development, with the private preview release of Azure Orbital Space Software Development Kit(SDK)—a secure hosting platform and application kit designed to enable developers to create in the cloud and deploy and operate applications",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/any-developer-can-be-a-space-developer-with-the-new-azure-orbital-space-sdk/",
-      "originalUrl": "https://azure.microsoft.com/blog/any-developer-can-be-a-space-developer-with-the-new-azure-orbital-space-sdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T22:00:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Microsoft AI"
       ]

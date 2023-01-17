@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-17-any-developer-can-be-a-space-developer-with-the-new-azure-orbital-space-sdk.md",
+      "title": "Any developer can be a space developer with the new Azure Orbital Space SDK",
+      "excerpt": "Today, we are announcing a crucial step towards democratizing access to space development, with the private preview release of Azure Orbital Space Software Development Kit(SDK)—a secure hosting platform and application kit designed to enable developers to create in the cloud and deploy and operate applications",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/any-developer-can-be-a-space-developer-with-the-new-azure-orbital-space-sdk/",
+      "originalUrl": "https://azure.microsoft.com/blog/any-developer-can-be-a-space-developer-with-the-new-azure-orbital-space-sdk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T22:00:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-senior-suffering-cognitive-decline-surrenders-72-dogs-in-cabazon.md",
       "title": "Senior Suffering Cognitive Decline Surrenders 72 Dogs in Cabazon",
       "excerpt": "A Cabazon senior suffering cognitive decline surrendered more than 70 canines to the Riverside County Department of Animal Services Wednesday. A Cabazon senior suffering cognitive decline ...",
@@ -1320,49 +1363,6 @@
       "provider": {
         "name": "NewarkAdvocate.com",
         "domain": "newarkadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-dentsu-collaborates-with-microsoft-to-build-path-to-the-metaverse-for-brands-business.md",
-      "title": "Dentsu Collaborates With Microsoft To Build Path To The Metaverse For Brands & Business",
-      "excerpt": "Dentsu International has announced it has collaborated with Microsoft to build a unique collaboration space in the metaverse, designed to excite and inspire brands to innovate and experiment with Web3 technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bandt.com.au/dentsu-collaborates-with-microsoft-to-build-path-to-the-metaverse-for-brands-business/",
-      "originalUrl": "https://www.bandt.com.au/dentsu-collaborates-with-microsoft-to-build-path-to-the-metaverse-for-brands-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bandt.com.au/information/uploads/2022/11/Screen-Shot-2022-11-10-at-11.19.26-am-e1668039229354.png",
-          "width": 1039,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T16:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "B and T",
-        "domain": "bandt.com.au",
         "images": null,
         "publishers": null,
         "authors": null

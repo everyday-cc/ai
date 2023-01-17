@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/industry/banking-finance/reimaginin
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/lite/"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
       name: BBC
       domain: bbc.com
     quality: 47
+  - title: "What the banks vs fintech debate gets wrong"
+    excerpt: "This need has led to the emergence of a completely new ecosystem, one that is more diverse and where fintechs and smaller banks take an increasing share of the real-time market. By flipping traditional infrastructure procurement on its head and standardising related operational and security capabilities,"
+    publishedDateTime: 2023-01-17T12:39:00Z
+    webUrl: "https://www.finextra.com/blogposting/23583/what-the-banks-vs-fintech-debate-gets-wrong"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "tZyBRX5FaYEAuPm13Xkfj7SeukZDpcFl/dAcasDEKB1E0WUqdNGT1uvMYrjQFhOF/xdL42T1XRRbEhJqITG0YlGMulTXZjqktGC2W9Eqs+l/tqUe8Gott36TtBBMDRkBueqmCV5UkAs76GRu0VMV96jA7RdM9enHa74kxdnCna730L749DVFir1U7kHSJsGyeXYnc8o7Wb13M6LYKq52r4sS5bwFiO4eVKpkk6/XW23dJgl+quc6AXwOis1DjIoBXYggJDo8wNHbzng4mSYRDRuP1dJKI7NETzmXEKY6w7yVGVmkieDNRiyYsNYrDDBHN+2YesuzBtCtKhJyDT2kXcwljHZ/GyZpqo7eqlAkEeESQBZGtoEVRcqQXOHTxm4zKSTKK8KqBy7gIV+6qVRAA/PLwQT5UZIo0sojXAelzK6zH95AxBcbI1+W1wxjvTAtHLHd0ISodf68XwPv6Nw0F3EzsQBtES9CATx2uJXqlfE7TIlhJHlImu6jhNHA8MlgHGbm7KtoA8OOBr/d407FEA==;OrDsl8HIOVCvXIBnPxE+xg=="
 ---

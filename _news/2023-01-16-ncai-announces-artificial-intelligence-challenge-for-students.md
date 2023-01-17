@@ -9,7 +9,7 @@ ampWebUrl: "https://dailytimes.com.pk/1051739/ncai-announces-artificial-intellig
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1051739/ncai-announces-artificial-intelligence-challenge-for-students/amp/"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Quris-AI, MBZUAI to set up Bio-AI centre in Abu-Dhabi"
+    excerpt: "The state-of-the-art facility will support the development of personalised medications, tailored specifically to the diverse populations of the MENA region"
+    publishedDateTime: 2023-01-17T11:11:00Z
+    webUrl: "https://www.zawya.com/en/business/healthcare/quris-ai-mbzuai-to-set-up-bio-ai-centre-in-abu-dhabi-yue8e1tb"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 19
 
 secured: "fWGBCEPekChFsIzeOaRyUhxiOv8EMo5HfppG7IhgYhNemaZVsATz7OcqDsJl65FRcatKZkLTjdkEcRPs34RvYRZvpYsHXdyX2TQktklWxvF+VR6VTgiltvN1kpJU1mBiQyRVBSBfpVotzP54t38edL09FfrNU+kcj22cm2OD9AANziKeM/c7dzrNEngIy314JGpgK2dGj47Y0ugOqcbgjiWyob33K8QeKlQGpd4FgNLviwuoSsRYgASS/pnh31Rq/XBALNpm19+tVPBjHh2oZvkexVJlioW63deojcQ3lkgBPQqWHDhGuwHgc0jm9Ofd8k8E5056HLutLtYNelisbeezqMo25TC85b3psqEyFmI=;gr51EzVdzq/yuYVsjIjSrw=="
 ---

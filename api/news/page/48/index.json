@@ -2,6 +2,203 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2022-11-30-thundersoft-joins-the-amazon-sagemaker-ready-program.md",
+      "title": "ThunderSoft Joins the Amazon SageMaker Ready Program",
+      "excerpt": "Joining the Amazon SageMaker Ready Program differentiates ThunderSoft as an AWS Partner Network (APN) member with a product that works with Amazon SageMaker and is generally available for and fully supports AWS customers.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/11/30/9722485.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/11/30/9722485.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-study-links-mait-cells-to-cognitive-function.md",
+      "title": "Study links MAIT cells to cognitive function",
+      "excerpt": "MAIT cells, which were discovered in the 1990s, were already known to be the most abundant innate-like T cells in humans and to be particularly numerous in the liver and skin. The Rutgers study ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20221129/Study-links-MAIT-cells-to-cognitive-function.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20221129/Study-links-MAIT-cells-to-cognitive-function.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/2/Alzheimers_amyloid_plaque_-_Juan_Gaertner_9638f1223d534b518a192c8478871d65-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20221129/Study-links-MAIT-cells-to-cognitive-function.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221129/Study-links-MAIT-cells-to-cognitive-function.aspx",
+      "publishedDateTime": "2022-11-29T15:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-rohm-develops-ultra-low-power-on-device-learning-edge-ai-chip.md",
+      "title": "ROHM Develops Ultra-Low-Power, On-Device Learning Edge AI Chip",
+      "excerpt": "Santa Clara, CA and Kyoto, Japan, Nov. 29, 2022 (GLOBE NEWSWIRE) -- ROHM Semiconductor today announced they have developed an on-device learning[1] AI chip (SoC with on-device learning AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.counton2.com/business/press-releases/globenewswire/8702146/rohm-develops-ultra-low-power-on-device-learning-edge-ai-chip/",
+      "originalUrl": "https://www.counton2.com/business/press-releases/globenewswire/8702146/rohm-develops-ultra-low-power-on-device-learning-edge-ai-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T15:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCBD",
+        "domain": "counton2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-study-cognitive-flexibility-enhances-mathematical-reasoning.md",
+      "title": "Study: Cognitive flexibility enhances mathematical reasoning",
+      "excerpt": "The study was published in the Journal of Numerical Cognition. Proportional reasoning is a cognitive process that involves ratios and proportions to solve a mathematical problem. This reasoning is ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-11-cognitive-flexibility-mathematical.html",
+      "originalUrl": "https://phys.org/news/2022-11-cognitive-flexibility-mathematical.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/cognitive-flexibility-1.jpg",
+          "width": 1264,
+          "height": 1264,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-11-cognitive-flexibility-mathematical.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-cognitive-flexibility-mathematical.amp",
+      "publishedDateTime": "2022-11-29T14:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-chinas-tech-giant-baidu-plans-to-rollout-the-worlds-largest-fully-autonomous-ride-hailing-service-by-next-year.md",
+      "title": "China's Tech Giant Baidu Plans to Rollout the World's Largest Fully Autonomous Ride-Hailing Service by Next Year",
+      "excerpt": "China's internet technology giant Baidu Inc. held its “Apollo Day” live-streamed technology event on Monday where the company shared its latest progress on autonomous driving. Among the announcements at Apollo Day were Baidu’s plans to launch the world's largest fully-autonomous ride-hailing service aptly named “Apollo Go” by next year and become the world’s biggest robotaxi operator.",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurecar.com/5617/Chinas-Tech-Giant-Baidu-Plans-to-Rollout-the-World’s-Largest-Fully-Autonomous-Ride-Hailing-Service-by-Next-Year",
+      "originalUrl": "https://www.futurecar.com/5617/Chinas-Tech-Giant-Baidu-Plans-to-Rollout-the-World’s-Largest-Fully-Autonomous-Ride-Hailing-Service-by-Next-Year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.futurecar.com/202211/29/l_638691bdaaa74.jpeg",
+          "width": 700,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "futurecar",
+        "domain": "futurecar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-how-high-school-should-change-for-an-era-of-ai-and-robots.md",
       "title": "How High School Should Change for an Era of AI and Robots",
       "excerpt": "Public high school in America was the product of the time of its invention, which was way back in 1821. But in this era of rapid technological change",
@@ -898,223 +1095,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital.md",
-      "title": "Andrew Ng’s Netail offers AI for retailers to ease change from physical to digital",
-      "excerpt": "Netail, which closed $5M in seed funding, enables retailers to identify competitors, track their inventory, and optimize prices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/",
-      "originalUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/",
-      "publishedDateTime": "2022-11-29T07:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-quantiphi-awarded-two-2022-regional-and-global-aws-partner-awards.md",
-      "title": "Quantiphi Awarded Two 2022 Regional and Global AWS Partner Awards",
-      "excerpt": "Invent 2022, the Regional and Global AWS Partner Awards recognize a wide range of AWS Partners whose business models have embraced specialization, innovation, and cooperation over the past year. Regional and Global Partner Awards recognize partners whose business models continue to evolve and thrive on AWS as they work with customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T05:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-cyber-monday-gpu-deals-2022-all-the-best-offers-still-iive-now.md",
-      "title": "Cyber Monday GPU deals 2022 - all the best offers still Iive now",
-      "excerpt": "There are price cuts, deals, and discounts up and down the GPU hierarchy, so no matter what you're after you'll find something here for you. And with the staggered release of the 40 series GPUs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamesradar.com/cyber-monday-graphics-cards-deals-gpu/",
-      "originalUrl": "https://www.gamesradar.com/cyber-monday-graphics-cards-deals-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/P57auWpH2nRytYvAZoKSM8-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T05:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+",
-        "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem.md",
-      "title": "BAE Systems adds Microsoft to modeling and simulation ecosystem",
-      "excerpt": "BAE Systems is expanding the network of companies in its modeling and simulations ecosystem to include Microsoft. With this addition,  This press release features multimedia. View the full release here:   (Credit: BAE Systems) “Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_09a8296f-2a89-5be5-8852-247c6e7dd5f6.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_09a8296f-2a89-5be5-8852-247c6e7dd5f6.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/a/da/ada8d6f0-eb7c-548b-a469-7bc080bd4580/638614d0a1fa1.image.jpg",
-          "width": 633,
-          "height": 1140,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bakersfield.com/ap/news/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_09a8296f-2a89-5be5-8852-247c6e7dd5f6.amp.html",
-      "cdnAmpWebUrl": "https://www-bakersfield-com.cdn.ampproject.org/c/s/www.bakersfield.com/ap/news/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_09a8296f-2a89-5be5-8852-247c6e7dd5f6.amp.html",
-      "publishedDateTime": "2022-11-29T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business.md",
-      "title": "Deepgram lands new cash to grow its enterprise voice-recognition business",
-      "excerpt": "Deepgram, a company developing voice-recognition tech for the enterprise, today raised $47 million in new funding led by Madrona Venture Group with participation from Citi Ventures and Alkeon.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/",
-      "originalUrl": "https://techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1024463070.jpg?resize=1200,654",
-          "width": 1200,
-          "height": 654,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/amp/",
-      "publishedDateTime": "2022-11-29T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

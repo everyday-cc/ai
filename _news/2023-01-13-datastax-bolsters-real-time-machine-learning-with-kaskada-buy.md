@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DataStax acquires machine learning services firm Kaskada"
-    excerpt: "Seattle-based Kaskada claims to be the first company to train machines using event-based data and real-time data being fed from streaming sources."
-    publishedDateTime: 2023-01-12T19:58:00Z
-    webUrl: "https://www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.html"
-    ampWebUrl: "https://www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/21/14/handshake_deal_partnership_teamwork_contract_merger_network_by_metamorworks_gettyimages-933315234_2400x1600-100788512-large-100922376-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "DataStax Acquires Machine Learning Company Kaskada to Unlock Real-Time AI"
     excerpt: "DataStax, the real-time AI company, announced it has acquired Kaskada, a machine learning (ML) company that first solved managing, storing and accessing time-based data to train behavioral ML models and deliver the instant,"
     publishedDateTime: 2023-01-13T14:01:00Z

@@ -45,6 +45,15 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Quris-AI, MBZUAI to set up Bio-AI centre in Abu-Dhabi"
+    excerpt: "The state-of-the-art facility will support the development of personalised medications, tailored specifically to the diverse populations of the MENA region"
+    publishedDateTime: 2023-01-17T11:11:00Z
+    webUrl: "https://www.zawya.com/en/business/healthcare/quris-ai-mbzuai-to-set-up-bio-ai-centre-in-abu-dhabi-yue8e1tb"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 19
 
 secured: "2ZeP4wpFhuj3JqCeZrQD802E1HHUWnxNZGLcmGnVtTILSHbagjJYgJCVwhN6ngoOjal5Xtct2rWo6Hjrmy8pRfEb3XC1ygF8jPxxpzPH8CquVG0nfseB4JpArGT/OLa8cStVnj+/5c3bxag5Yp/kMli95f3oao4qim1FapOTqQZRTux8UL5+IUh6jWr1OkB+gNJkbFpQ66+fCGAdkwqigIVrIpuYDNbD8L1i49jN6dx4yiFYAlD/UBoCzgEtQ1grkcYlIkyp5tgvAzbekI+7vfbEpL7P85l1Rve/mbu1HiOVz8tsK1doBMBjNMfosQ1cqhgLNSDWAb24SEBeuSBm2l/ML+5zk+XP/gE4stzjJ1qqjlYo72PtsdxxlY1x+yCsFaUwhXOCsRhDtCggcgfiUPlUEJP2d0gG0TlPMWPn1UYj2w2SWQnp9kxcyXBmc2ikrkPA6YZvpC1B/TdUDMK9TH14UTahYFAUzWSIldwlTTDbYdpHPx+IwM2CjALRw5bSYkbve7bL8k96QJZjtXcWsg==;hXWzdQvyH+4oLI+KwZxB2A=="
 ---

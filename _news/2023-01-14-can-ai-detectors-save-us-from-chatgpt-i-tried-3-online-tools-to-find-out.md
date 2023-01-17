@@ -76,15 +76,20 @@ related:
         width: 1501
         height: 901
         isCached: true
-  - title: "AI Committee chairman downplays fears over ChatGPT misuse"
-    excerpt: "The Chairman of the Artificial Intelligence Committee at the Ministry of Communications and Information Technology (MCIT), Hassan Jassim al-Sayed, downplayed the fears over"
-    publishedDateTime: 2023-01-16T20:26:00Z
-    webUrl: "https://www.gulf-times.com/article/653452/qatar/ai-committee-chairman-downplays-fears-over-chatgpt-misuse"
+  - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
+    excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
+    publishedDateTime: 2023-01-17T11:30:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 19
+      name: wusfnews.wusf.usf.edu
+      domain: usf.edu
+    quality: 17
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/776c42c/2147483647/strip/true/crop/1941x1019+0+218/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F13%2Fscreen-shot-2023-01-13-at-10.59.24-am-653c405371f044e9a4056427c4d35153ce997b5f.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "mfRGsEkRKHt9YjkKQPRvhyX4cdFFC8+FPCXHSWunN7xSnlK8Vvb5tytLniZDRNtTY3MXnPnQJ/PkwS1Sy4BgoXWkqpe/W5MTvF1pKUcNm/QjQ6+nsPRB/DIeuwPKXU2Yt9nrAssU1hvENks1CJyENS/jAyxpiRz7A8sU1UK7MCOonkhbhHteVoOlWaFWhRguhp7kisy6ouzTPj3xwwxF6Xj8LjrMA337dedjX+DPVjUCx26xj2D+BedEIzvuWi26u+KGqzNdGzPYqm73cv70ekcn+BzOHP1wPdDuutst6xAgZSzrPvTVkACcrh7tksaLhVReANoiesWkaa3P4YIgnejkZFSqzhTA7I7ySz+gKaLYRsliNiCdrwXmQVa+JTDaTb7dS4XboScrywcBSin8kAAODvD7gBNvMQth3ScphYSY14CocKGoC3pkrUgaBEQBjpm0ycWUO6YT3BRpKRVXd9yH1YyJWiqLK/GF6ClK39gmkQmrc9AmNfhLAUmqSCAgg4jE8ywBTvmZgLMuVhiNLA==;dc/uYQYY9bqRzg793uYknw=="
 ---

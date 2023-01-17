@@ -168,6 +168,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Accounting Market Growth, Trends and Industry Forecast 2023-2029 with Top Countries Data"
+    excerpt: "Artificial Intelligence in Accounting Market\" Research report provides significant value on the state of the industry."
+    publishedDateTime: 2023-01-17T07:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-growth-trends-and-industry-forecast-2023-2029-with-top-countries-data-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Systems Spending Market 2023 : Business Scenario, Corporate Profiles, Size and Dynamic Innovation by 2029"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence"
     publishedDateTime: 2023-01-13T03:36:00Z

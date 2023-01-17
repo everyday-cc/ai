@@ -2,6 +2,60 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-09-21-frontline-systems-releases-rasonr-v2023-platform-with-patent-pending-risk-analysis-for-machine-learning-models.md",
+      "title": "Frontline Systems Releases RASON(R) V2023 Platform with Patent-Pending Risk Analysis for Machine Learning Models",
+      "excerpt": "V2023 Platform with Patent-Pending Risk Analysis for Machine Learning Models Sep 21, 2022 (PRNewswire via COMTEX) --",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/frontline-systems-releases-rasonr-v2023-platform-with-patent-pending-risk-analysis-for-machine-learning-models-2022-09-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/frontline-systems-releases-rasonr-v2023-platform-with-patent-pending-risk-analysis-for-machine-learning-models-2022-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-microsoft-starts-rolling-out-windows-11-update-with-video-editor-and-start-menu-folders.md",
       "title": "Microsoft starts rolling out Windows 11 update with video editor and Start menu folders",
       "excerpt": "Support for Windows 10 doesn't end until 2025, but that isn't stopping Microsoft from rolling out changes to attract people to the newer version, Windows 11.",
@@ -1221,49 +1275,6 @@
       "provider": {
         "name": "Daily Mail",
         "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-anyclip-launches-teams-connector-in-microsoft-azure-marketplace.md",
-      "title": "ANYCLIP LAUNCHES 'TEAMS CONNECTOR' IN MICROSOFT AZURE MARKETPLACE",
-      "excerpt": "Available now through the Microsoft Azure Marketplace, this new app integrates with AnyClip's Genius Work™, the AI-powered internal communications product that allows companies to manage their video content—including call recordings—through the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28866506/anyclip-launches-teams-connector-in-microsoft-azure-marketplace",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28866506/anyclip-launches-teams-connector-in-microsoft-azure-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1517441/ANYCLIP.jpg",
-          "width": 400,
-          "height": 218,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28866506",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28866506",
-      "publishedDateTime": "2022-09-14T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

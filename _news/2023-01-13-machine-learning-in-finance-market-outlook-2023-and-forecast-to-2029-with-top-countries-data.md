@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-fina
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-outlook-2023-and-forecast-to-2029-with-top-countries-data-2023-01-13"
 type: article
 quality: 75
-heat: 205
+heat: 215
 published: true
 
 provider:
@@ -151,6 +151,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Accounting Market Growth, Trends and Industry Forecast 2023-2029 with Top Countries Data"
+    excerpt: "Artificial Intelligence in Accounting Market\" Research report provides significant value on the state of the industry."
+    publishedDateTime: 2023-01-17T07:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-growth-trends-and-industry-forecast-2023-2029-with-top-countries-data-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

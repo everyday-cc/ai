@@ -3,10 +3,10 @@ category: news
 title: "TCS, Wipro, IndusNet teams win Microsoft's coding hackathon"
 excerpt: "Microsoft India on Monday announced the top three winning teams of the coding hackathon, shortlisted based on their innovation and impact, were from Tata Consultancy Services (TCS), Wipro, and IndusNet."
 publishedDateTime: 2023-01-02T15:38:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/tcs-wipro-indusnet-teams-win-microsofts-coding-hackathon/articleshow/96689775.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/tcs-wipro-indusnet-teams-win-microsofts-coding-hackathon/articleshow/96689775.cms"
-ampWebUrl: "https://economictimes.indiatimes.com/tech/technology/tcs-wipro-indusnet-teams-win-microsofts-coding-hackathon/articleshow/96689775.cms"
-cdnAmpWebUrl: "https://economictimes-indiatimes-com.cdn.ampproject.org/c/s/economictimes.indiatimes.com/tech/technology/tcs-wipro-indusnet-teams-win-microsofts-coding-hackathon/articleshow/96689775.cms"
+originalUrl: "https://economictimes.indiatimes.com/tech/technology/tcs-wipro-indusnet-teams-win-microsofts-coding-hackathon/articleshow/96689775.cms?from=mdr"
+webUrl: "https://economictimes.indiatimes.com/tech/technology/tcs-wipro-indusnet-teams-win-microsofts-coding-hackathon/articleshow/96689775.cms?from=mdr"
+ampWebUrl: "https://m.economictimes.com/tech/technology/tcs-wipro-indusnet-teams-win-microsofts-coding-hackathon/amp_articleshow/96689775.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/tcs-wipro-indusnet-teams-win-microsofts-coding-hackathon/amp_articleshow/96689775.cms"
 type: article
 
 provider:
@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://img.etimg.com/thumb/msid-96689798,width-1070,height-580,imgsize-59758,overlay-ettech/photo.jpg"
-    width: 1070
-    height: 580
+  - url: "https://economictimes.indiatimes.com/photo/96125601.cms"
+    width: 800
+    height: 360
     isCached: true
 
-secured: "e7LNlFzE+ocfggQizYyhRqihL6JdMQuFRu/98n86TvnqbsTrCSygjv6PjB7QNlJ9lncOn7C/aiBtvqgIzlSxuuYumPEdZXprH7lgbCla5O8doHPENE1HvymawAvOMUDHt2Gg1ZaDnw41F4W70YIrOf4PDm9d0TYKVjXl8V+7tMGKCD7vPDWafca2RGjUZAqjUM4rDkZF3NnB/sMHw7jGffNOKo9Zsg+i7QRMiUkXNe98s+L3HfVTL9bkYwTF28bBKn+t5pDa31ysNGWJziYfWPyAuM5x23rURiX01hs4Osk64On5NmzQx4GEkzgUkm/YLsTQQoOD97gnzzZmhUf5oeA5dFRDTa37rFReylUt6tjFgkMTzP5dOxY4yYUvEmNBO6JTiFemDk1eJ3nRaH8Ep49utSHfkl8/Kxdto9tY0UYU8OX9quQCu687pwzjSeiytuVNfEuuGe8391m5V4hk50eNBXZLsW7K9Nzf564ldTkRrU4CN8xw2EBZ15xEdFpZvCbfmT6BFD46YRCw0mHtZA==;AzjEJxspwWLekAiO3z7cMg=="
+secured: "GFDpsIE8s0N+LQHkUM93pxEhRR7Jlxa4kBvN6f7W0iZ7sYoTcRByMCBUFjiFRHI9Yr3apBLARk6Y5d1N2ccDjmKxnWQ9kFh0UKEWf/4WqcdWHrw82DxgjtRSgzqtd6WfDNwsZGfMgotS7NkXLxCIlweDGZQAxn482/z9c9k0Ea5BzmOQEK1AHJzf/ci75AvnMSz4uL2C+ULCgG8chZY41SbtfjI8pTaoDvBfRbfDqLB6qTFtVlgUhlzLlD+x1XCJfwuLOCSGe/05EL1DeX6Zgze2d5XQjFkYl9tVANz4G/RFMJmmMAZ1Lo6Zrc+n8fAP2tapRFTnHv/YqNS5odG/XWMo8gs3Z5bWLP/SfS8K9DI=;qYxHkWMIQ1Ptz8pvhTahMQ=="
 ---
 

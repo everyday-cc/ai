@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/data-center/hpe-buys-ai-startup-pachyderm
 webUrl: "https://www.crn.com/news/data-center/hpe-buys-ai-startup-pachyderm-to-build-new-ai-ml-platform"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/HPE-1-750x418.jpg"
         width: 750
         height: 418
+        isCached: true
+  - title: "HPE acquires Pachyderm to boost its AI services"
+    excerpt: "HPE plans to integrate Pachyderm's software into its own AI services to provide an 'advanced data-driven pipeline' for customers."
+    publishedDateTime: 2023-01-17T11:00:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/hpe-pachyderm-ai-data"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/01/AdobeStock_397278865_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
         isCached: true
   - title: "HPE acquires data science platform Pachyderm"
     excerpt: "HPE acquired data science platform Pachyderm to expand its AI portfolio. The financial details weren't disclosed. The acquisition builds on an earlier"

@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2023/01/13/datastax-acquires-machine-lea
 webUrl: "https://insidebigdata.com/2023/01/13/datastax-acquires-machine-learning-company-kaskada-to-unlock-real-time-ai/"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DataStax acquires machine learning services firm Kaskada"
-    excerpt: "Seattle-based Kaskada claims to be the first company to train machines using event-based data and real-time data being fed from streaming sources."
-    publishedDateTime: 2023-01-12T19:58:00Z
-    webUrl: "https://www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.html"
-    ampWebUrl: "https://www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/21/14/handshake_deal_partnership_teamwork_contract_merger_network_by_metamorworks_gettyimages-933315234_2400x1600-100788512-large-100922376-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "DataStax Bolsters Real-Time Machine Learning with Kaskada Buy"
     excerpt: "DataStax, which arguably is best known as the commercial entity behind the scalable NoSQL database Apache Cassandra, turned some heads in 2021 with the"
     publishedDateTime: 2023-01-12T21:31:00Z

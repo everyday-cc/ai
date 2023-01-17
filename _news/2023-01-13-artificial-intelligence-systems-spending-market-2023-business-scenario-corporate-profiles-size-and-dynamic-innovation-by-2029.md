@@ -169,6 +169,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Accounting Market Growth, Trends and Industry Forecast 2023-2029 with Top Countries Data"
+    excerpt: "Artificial Intelligence in Accounting Market\" Research report provides significant value on the state of the industry."
+    publishedDateTime: 2023-01-17T07:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-growth-trends-and-industry-forecast-2023-2029-with-top-countries-data-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Data Science and Machine-Learning Platforms Market 2023 Expected to Reach Significant Rate by 2029"
     excerpt: "As per latest research on Data Science and Machine-Learning Platforms Market (Report spread across 122 Pages), the"
     publishedDateTime: 2023-01-16T09:52:00Z

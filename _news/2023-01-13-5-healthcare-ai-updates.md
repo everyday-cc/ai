@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 754
         isCached: true
+  - title: "Where Is The Best Place To Run AI?"
+    excerpt: "Uploading vast amounts of data to the cloud can often introduce very high latency, in many cases surpassing hundreds of milliseconds, which can seriously impair operations to the point of rendering them ineffectual at best and total wastes of time and money at worst."
+    publishedDateTime: 2023-01-17T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63c15e4efdaea7ad1989b8c5/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The AI revolution is upon us. These are the jobs at risk and in demand"
     excerpt: "Artificial intelligence is no longer the stuff of science fiction, and its impact on the workforce will be profound. Here's what you need to know."
     publishedDateTime: 2023-01-15T18:49:00Z

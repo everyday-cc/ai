@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-10-dentsu-collaborates-with-microsoft-to-build-path-to-the-metaverse-for-brands-business.md",
+      "title": "Dentsu Collaborates With Microsoft To Build Path To The Metaverse For Brands & Business",
+      "excerpt": "Dentsu International has announced it has collaborated with Microsoft to build a unique collaboration space in the metaverse, designed to excite and inspire brands to innovate and experiment with Web3 technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bandt.com.au/dentsu-collaborates-with-microsoft-to-build-path-to-the-metaverse-for-brands-business/",
+      "originalUrl": "https://www.bandt.com.au/dentsu-collaborates-with-microsoft-to-build-path-to-the-metaverse-for-brands-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bandt.com.au/information/uploads/2022/11/Screen-Shot-2022-11-10-at-11.19.26-am-e1668039229354.png",
+          "width": 1039,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T16:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "B and T",
+        "domain": "bandt.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-microsofts-msft-cloud-services-face-antitrust-complaint.md",
       "title": "Microsoft's (MSFT) Cloud Services Face Antitrust Complaint",
       "excerpt": "Along with Amazon, which is currently the leader in cloud computing services, this complaint has also been supported by French cloud provider OVHcloud and Italy-based Aruba SpA. Microsoft Faces ...",
@@ -1242,49 +1285,6 @@
       "provider": {
         "name": "Odisha Diary",
         "domain": "orissadiary.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-cognitive-remediation-for-major-depressive-disorder.md",
-      "title": "Cognitive Remediation for Major Depressive Disorder",
-      "excerpt": "Doctors call this decline in thinking skills \"cognitive impairment.\" Cognitive remediation can help you deal with this thinking problem. It has helped improve thinking skills in people with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.webmd.com/depression/cognitive-remediation-major-depression",
-      "originalUrl": "https://www.webmd.com/depression/cognitive-remediation-major-depression",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/medical_illustration_blue_brain_pain_01_other/1800x1200_medical_illustration_blue_brain_pain_01_other.jpg",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WebMD",
-        "domain": "webmd.com",
         "images": null,
         "publishers": null,
         "authors": null

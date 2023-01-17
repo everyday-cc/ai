@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What the banks vs fintech debate gets wrong"
+    excerpt: "This need has led to the emergence of a completely new ecosystem, one that is more diverse and where fintechs and smaller banks take an increasing share of the real-time market. By flipping traditional infrastructure procurement on its head and standardising related operational and security capabilities,"
+    publishedDateTime: 2023-01-17T12:39:00Z
+    webUrl: "https://www.finextra.com/blogposting/23583/what-the-banks-vs-fintech-debate-gets-wrong"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "FJ1wLkEm4L92uxLEfSRbg2ZEBQxpNcJk+F9bl64aGIMN9i2V2pyGTiMS1qcNh4+W5GPSeCdP5ONaHb1koGmxUc2FxQyq2FbDqsKiiiaAUk77YpvTkNwmzh4iRUSlpj/spvke55Wnc++4jZ3x8jho2M4QsfjVIydaB1qNJiu/lXRW8+Ue0hLY1I2UYf/JhV1bXvsC5Fon701XUvHwJ3bAJpOiso1+VA6TETCcIl3Oe7eYeL5HZB46HWZnKQo/CgPTwHbAOhvY1j44s5T56maoqPYIV9jXDP1Wst0DN2ZyP1kjTXZemlTBz4h+PJha6+SbmPkPtgPATnLiEioKZ6p1gncRGkEb4m+2WbmZKX1T/oJ42/OnnQnDqlaD2X1zsksTFWwj/CqcNFbArAH1NLulxGokontQ0Tap4CLOISup5UWuj1BOT/vv2qTyMPqAyuVJGHQYVFZoSbjGpTNHqWPBk6pQ2DpfkuZz23XShB+ql+nDj/wVrtm8dJuCaFHN0mu6K0Q3MCDt8oqBOTERBSViuw==;zoz3umbbOmw+Ob4FCDEejw=="
 ---

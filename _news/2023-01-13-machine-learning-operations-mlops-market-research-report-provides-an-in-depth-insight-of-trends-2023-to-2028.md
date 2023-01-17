@@ -71,6 +71,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Image Recognition Market Profiled Key Players to Show Impressive Revenue Growth by 2029"
+    excerpt: "\" Image Recognition Market \" Research report provides a comprehensive overview of the industry and its current and future market conditions. It contains data on market size, market share, revenue growth,"
+    publishedDateTime: 2023-01-17T06:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-profiled-key-players-to-show-impressive-revenue-growth-by-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Software Market Size, Share 2023 : Industry Growing Rapidly with Recent Trends, Development, Revenue by 2028"
+    excerpt: "Face Recognition Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at"
+    publishedDateTime: 2023-01-17T04:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-size-share-2023-industry-growing-rapidly-with-recent-trends-development-revenue-by-2028-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Edge AI Chips Market with Strong Focus on Industry Size, by business Highlights, Market Segments, Growth Rate, Revenue, and Forecast to 2028"
     excerpt: "Market Updates(360marketupdates.com) published a new research report on Edge AI Chips Market 2023 with 116 Report"
     publishedDateTime: 2023-01-16T07:10:00Z

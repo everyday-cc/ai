@@ -20,6 +20,22 @@ topics:
   - AI in Security
 
 related:
+  - title: "Opinion: How facial recognition will transform airport security"
+    excerpt: "Imagine using technology that never forgets a face, while improving airport security and shortening lines. Such technology exists and may be coming to an airport near you. Every flyer over the past two decades knows that airport security procedures involve a lot of unpacking,"
+    publishedDateTime: 2023-01-17T12:49:00Z
+    webUrl: "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/"
+    ampWebUrl: "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 91
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/01/OPED-TSA-FACIAL-RECOGNITION-COMMENTARY-TB.jpg?w=1024&h=736"
+        width: 1024
+        height: 735
+        isCached: true
   - title: "Commentary: Facial recognition will transform airport security checkpoints"
     excerpt: "The biggest criticism of facial recognition technology is the perceived invasion of privacy and the security of photos taken at checkpoints. Yet the photos being used to match your identity, like when applying for a passport or participating in the Global ..."
     publishedDateTime: 2023-01-17T09:12:00Z
@@ -73,20 +89,6 @@ related:
       name: Sun Sentinel
       domain: sun-sentinel.com
     quality: 50
-  - title: "Commentary: What killer robots mean for the future of war"
-    excerpt: "We have seen how so-called neutral AI have made sexist algorithms and inept content moderation systems. In war, these kinds of misunderstandings could kill civilians or wreck negotiations, say these writers."
-    publishedDateTime: 2023-01-15T22:07:00Z
-    webUrl: "https://www.channelnewsasia.com/commentary/war-killer-robot-ai-lethal-autonomous-weapons-3203846"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--d5QCsnQA--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/01/13/istock-1342530364.jpg?itok=6tyqwqsX"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "yBEE+I90zGE2/0NPHe5c5lBkG5b6plDqJo2ZalTFAQxwq7Y64ko0F4ayTpPxyDyrxZrOUB9Qos0cvBHKvbjxDEfMqlqwO5ZNbzfJKYMFKdq+wwfTe3eHHiSkyNgME63Rar56j6t+0/eMJHMUWlIgBXisZeBuyfoK4dbtnTcsfUo6mQ2m89fvL6Ipf0gtHy1BmWDSi0OEBGzUUZeA6bos7kUpEkss6TCQjBNek8So/0UJzOvv9DLAYW6CSP0JOQjj0gnBc18si3+VyyBqmV9MmSDceZQYWkJeicJmC6iX9AKNTqxJrp8BJD7PoGez+If0deBUMj15t0M6TQHiR3ekMPoQDS1UNA13AOg/q2vZUeCy6UhKtnecBreUpuwSLOYB9PNbdaW0JeNqkVGC/ZgtfjUpVSpAF8QfT2VKGgePFr11OqDfYxorp1FaJdMm73fe710UxNALLEwVRujdL5B1kXZzV8eInJrBwFAUI5zSmEy07GNnB7QRk6uLuNgASU/ANZcvph0FxrqY+4xCK7vqug==;HAHIZPkC9++dn4kymYPn2w=="
 ---

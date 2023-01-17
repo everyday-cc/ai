@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Supernal to Utilize Microsoft Azure for eVTOL Development"
-    excerpt: "Hyundai’s Supernal recently announced that it is collaborating with Microsoft in development of its electric vertical take-off and landing (eVTOL) aircraft for advanced air mobility. The collaboration aims to advance autonomy,"
-    publishedDateTime: 2023-01-12T20:50:00Z
-    webUrl: "https://www.aviationtoday.com/2023/01/12/supernal-utilize-microsoft-azure-evtol-development/"
-    type: article
-    provider:
-      name: Aviation Today
-      domain: aviationtoday.com
-    quality: 54
-    images:
-      - url: "https://www.aviationtoday.com/wp-content/uploads/2023/01/courtesy-of-microsoft-project-airsim-for-supernal.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Unravel Data Appoints Microsoft VP Mansoor Zia as Board Member"
     excerpt: "Unravel Data appointed Microsoft VP Mansoor Zia as Board Member which reflects the strong relationship between their company and Microsoft."
     publishedDateTime: 2023-01-16T12:11:00Z

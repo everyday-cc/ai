@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028-2023-01-16"
 type: article
 quality: 80
-heat: 130
+heat: 150
 published: true
 
 provider:
@@ -67,6 +67,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Image Recognition Market Profiled Key Players to Show Impressive Revenue Growth by 2029"
+    excerpt: "\" Image Recognition Market \" Research report provides a comprehensive overview of the industry and its current and future market conditions. It contains data on market size, market share, revenue growth,"
+    publishedDateTime: 2023-01-17T06:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-profiled-key-players-to-show-impressive-revenue-growth-by-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Software Market Size, Share 2023 : Industry Growing Rapidly with Recent Trends, Development, Revenue by 2028"
+    excerpt: "Face Recognition Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at"
+    publishedDateTime: 2023-01-17T04:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-size-share-2023-industry-growing-rapidly-with-recent-trends-development-revenue-by-2028-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
