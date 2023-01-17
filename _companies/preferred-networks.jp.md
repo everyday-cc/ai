@@ -2,7 +2,7 @@
 name: "Preferred Networks"
 overview: "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds."
 type: "profile"
-heat: 59
+heat: 64
 
 website: https://www.preferred-networks.jp/en/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "preferrednet"
   url: "https://twitter.com/preferrednet"
-  followers: 6068
+  followers: 6067
 
 size: 11-50 employees
 yearFounded: 2014
@@ -43,6 +43,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=cldaGudHP3I"
 
-secured: "S0wQhMvql/7glaWxTRUxOpDVqzkedv0FkzpgZAQDiGTmaJy8Dgcs8Xy3/9mnqThGuwn5FVZCdY7bCb59OvYqd8lUj58AsWkfB9YDWDzrXvb5+mla8mr5HzIlFOsz5+zLJTULG07XUlufQ2J5Acp99HyJsa75QIhPEHhP4T4AhcFcQ92X1cHXOJM129IAP3eGRJDeCw/N8j6v0/suR1THW/V3ReH4Mtz/yykUXmXPBsGjYh/G4G1Q/JSj1Bd13Od4E43XXFBiysjNcyZ0IwXaGfOC5s3fZlJ6edGn1UvCDr5j2n/Tc9wdS/EhVyaPdv91NkPYMSDbDZCk1luX1hV7aS5iSQmFCM7aydUPTB+36mfcMVBPZ6gfTkScePiYKRi+yOiXBRYrOM1q83/ZPuRodGJ7CcZZdGpBBqr4r6NXa6c=;nCorWgknjeTGXvTyjT8mXQ=="
+secured: "23JR/SfH+3Q+3xYDM4d8v038fsdetsHFDXpRhPTP2txyCluoT2QyuKXtxOU4YxEduSwcxwTOPzrhJAgw6FT9esvVMACrBgUkXf4JVL/7QWbpDhxp71UCP1Llvb5LqhVE0XfQuWsCpyb1bQtznzOOsUJ+OzXkVV2KH1BBhg5BdEjbq8uWwRPAt5DmeGHgpH+5ZrfwG3o46lvVnSKOH3zFbBke2noHDoPcSwG1C2Ch7wSUlCppjug3yHsEzL0JSNJmMrMr5QdoiNLeB7aV5Gi0JjwzGreA3Vq3hD1WA/OyIWNp4JFKNDi1b23lhCfAywq+65a5F96lZnmMPE6b1AA+b/IOfM2yR7FXxA/hw2Sjmtf3JvfWqrGfNzgiWSulTY4kkRKk9lRseIw5RnRMDBjdogXRLOk8EN9mX+CFXVM3LnM=;Up+fDrX66p0ZilLyUKcHeA=="
 ---
 

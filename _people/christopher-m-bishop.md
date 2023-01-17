@@ -18,7 +18,7 @@ website: https://t.co/qaAoprog1k
 twitter:
   username: chrisbishopmsft
   url: https://twitter.com/chrisbishopmsft
-  followers: 5818
+  followers: 5819
 
 googleScholar:
   url: https://scholar.google.com/citations?user=gsr-K3ADUvAC
@@ -35,6 +35,6 @@ images:
     isCached: true
     title: "Christopher M. Bishop"
 
-secured: "Wb7xME/wR+d6Pa08Jc/y77nyWQVpLbjDBnfgzITSxYTya4UAo/WGpvLlZgdS3g4t4vqWlQx/gt+B7/XwBK5OCUzGKsWwWT2UTwEEQphAHZLqA+VaeMWFCpsRijrFDspvtcEJSAZqqWX5vUOhDB9Q766pNi/4zbPgvl4x+60POpSLD0yXTk0w5rv7UpfNE5GVJLzizP88mWO/VMqgLKidktQ00ichXJuUNqUz9KWa8ihvSdYKCKnXX5lZyYgGqNi9fEn68Ss6lr2mZFx8KbE9m1BX91f9OU8X7NQJGuVz5IlRhLjbBNlK3io9DGEkeQtV+SU7Oi1S3fCpLwKiTvm0+KjbZshV1+kmpgnBzdQbtcwcUog0/PBqCNweIIl91fiLz0m7JS1/P/j3h1z+YHd1nruirQ4kc/Xf6jXpEJVJUao=;US2pCPUwwNid9bvhVWhttg=="
+secured: "6IzQuQI6Au482mklmmVGiCXduq5DaJID1TIBW+rJ2yofIDNR9OMJekm1aE9rGnPN0lz9sqNTojzPCfWtJTQuaZBoMSFlWm3N1Wv8vUpci7kNapOjxa1wt3SqAMvVcofdZZu8/lFJ6UFIjVshiesnZHeL6SjCfnUb/3d74+iPQQ1ibXE6Br5UikSmvssAbWQSY/rgTjp8nrSCg1c9OPPb5uhrN43kkPOJk3p/Jpwhu0mq8GJAZeLdPG65OphrqRXQ95rJJ0ZJl6VDaNBd87cHI2hsd4aooOEqJVeGG4+W2PZMLnf+NcxewLeTAEoV7kimVqFyTuqdhVMV2B+J1j030ftVtpERbknuFyYDTiFqqMUav388rHJf1aaB6MCHsvIlCb8PyhTHIswsFQGt+l0nHb6baOVXWn4lKV1mIGuE7DE=;RlWBHY9kISIVgIBQireGbw=="
 ---
 

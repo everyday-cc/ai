@@ -18,7 +18,7 @@ website: http://t.co/NY3kFUGs7a
 twitter:
   username: harryshum
   url: https://twitter.com/harryshum
-  followers: 17028
+  followers: 17027
 
 googleScholar:
   url: https://scholar.google.com/citations?user=9akH-n8AAAAJ
@@ -39,6 +39,6 @@ images:
     isCached: true
     title: "Harry Shum"
 
-secured: "u7FFqdx/L/+UNmsc8UptNqFv82vdIfEeCjLNZQRb/zaNFvsX2SvkHBCAOQnU7cLi0wNKV/mCg4tbY8d7mKZe9yOR12/XCcIJ24SP2ycm7N5JzRmzRthVcyo0FRb2Qj6mzBFBN+Cvwq82lyt4JO5dskNh/RLJaRk2uQZleZ9AnEAr5vV2JlZS230k5JviluPvwc9T03BbfeuYSI72nybZqZurt45RqOUdhbTo0jWoo4nW8hd52GKov5CdeXTE3JCY2HOeUYhnUsfeB0UdBPhzbUNETf3sW+fU4Tn9yE72dKn8OLw3SCMXMkWzGkf4kjx9jf07LaSzOLf0p1CxCxM7KIMFO+fdH8qnDXx1vGqEevrQI8qFMh+t5Qjs/x+kUlr8UxY3pvFdfyCgNbNwsY27EET/SrR0VTE5HJteXLWBXIY=;n6jOvy824jT/RyJkgWMlig=="
+secured: "pn/TXcn+3MI2dEG0ThvA7qTqxEAo0HJpmt9hSbdDMVulfNp8xdMNGsgtHVPNtNLB4hxIQeouq+xotbk4hR4HS0df7kKSxm4jfgjiveNyZfDF6PwUZl38ZOSwGshq5O464cJq3EexxB+AG9Z0h+iULNeDbZXntlYOo/U+vkBYo4p9nsqMgUlbnkuC6+ufVRw/CaV72TvXTO93/4Z1igaZ/FBSWOql7WyndfHMx8RCUmzNF0OU8L/ZrTTZtz3fg+oF+csi2h/ZWkWtF1cQSnCimGrCqmCFNPKsHulLifUBW8HSmqz14D+2tMktlIiJQI5QbcG9QeT0yKQ+JJAsOjrdR3pSifQh+4y7ZvddxhcYqyccktNCCO75id9D0/7iOZ3LrLhSMBZBuM6661Rbi36t4wKb3r3UCH6Wb8s0VyS1GC8=;hpwFuoZavV1TIdMKVdPNCQ=="
 ---
 

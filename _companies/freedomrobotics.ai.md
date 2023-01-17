@@ -2,7 +2,7 @@
 name: "Freedom Robotics"
 overview: "Freedom Robotics is the leading provider of software infrastructure for modern robotics companies. Based in San Francisco, CA, Freedom Robotics creates mission critical software infrastructure to enable the next generation of robotics companies to build, operate, support and scale robots and robotic fleets. Freedom Robotics is platform agnostic and works with any robot and installs in seconds with just one line of code in order to help robotics companies bring their product to market 10x faster with half the resources."
 type: "profile"
-heat: 48
+heat: 50
 
 website: https://www.freedomrobotics.ai/
 
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "LQ/1TqzJln5ijxsP+qTUN9zdxlmolKsNakExQCc2+3JXyMIHs6PwEFpnoznxzsmlv38nX4OJ2CBfytT3MEmat9GFw1kux43OIho52gT86k2byIsxbMCIYD9xEJ4eRIk3kod4Af18SUKvs7vaM2UmqcR25joq1I69kdAxY1EnrepW22D8YR1zrKDBOCeVmMsQpO81ZPMm14+EotzB/ftiyMWoJR+Q8Y5fS+t93/nfxlbO3SQUriHg0kEDnp2HUFMozpghtzKoT4c9YVuJcWaCwZfYhlAa2iG2N7BilLLgZXe265yx5Dt8UJcx97pfLhNmoyDYQNfBjTDECjAcHU+iVkOVF/OJNVaAuaT5W0VQj2ZGPiL2U5HU4BZTLCrWlfUc13AiYiyfZmX/dtzV2IOndw==;IT+sYTEhfkbbZljz2p5Tug=="
+secured: "ACDbysmX2aGF5NY9Xr5O4HKVF/GJZLt0nLAQEMEE8pdJxKAfb4xz6ZYeFqR1VCoTPHjvTbwHAB/PjBLo6OhRt9AnO3qcvfv5DH8UIIJ1jf/L8ci2ctDJ/OSE9c7NWacQjOla297gnkFhN1Q3pvKz5rOPxk0SRzEgJ7Xm/E6n2RaeLytCQ1a5T8DKgVr42ErsiqaxwkWIf+0rAAGMeIj3IsRIgq5BR1Ms6vsllB2180AZBVyxiis1Y6oWQlo1mewPhQqwHF7c7o/zssZ/OOCF3b2SxOVnYYtVBEHPhRVTf7ddc9Z75/xfrzKcfIoHGULEbE4RTxXfqiP4zFUSOuU0+UWX4/byFub/U41UO8siR3h5UrdK8cbHZEEaXR5QbjPFHO3xknqutO4DGAjqHRGzJQ==;9jCz87Nb0gg0fBXLki/oVA=="
 ---
 

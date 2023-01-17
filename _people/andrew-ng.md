@@ -21,7 +21,7 @@ website: http://andrewng.org
 twitter:
   username: AndrewYNg
   url: https://twitter.com/AndrewYNg
-  followers: 725483
+  followers: 725507
 
 linkedin:
   url: https://www.linkedin.com/in/andrewyng/
@@ -44,6 +44,6 @@ images:
     isCached: true
     title: "Andrew Ng"
 
-secured: "skWMvKQcgujwEgw/YBJ5r5q57JF0TRorU/1F8uNiNonAkXIqwvqbUz8pECgg7JNvCh4HWArbmBBVhqoJXb+xs2S3oMSG9sMinke8r8wKtGiN7pgYLVKf+wOZQwnyBeynkx70DxcLgFNgh8lnRI5kWVkzB88kuz1mkvFAtURF8r/8VbsyGDYr5tVLmzKOZmd9/m9bzz4Dd113iON3wg2vq+xXgVld8yquIqZN1b2txF/T3QMI0Hh8KcKcX+amfzWjjR75nSzqyZwi20PwnbD8v69pCZ+DcLj88wy2eoXX66J/IHRQ4LTz7GV7f2LSkOx2CcBgtaqCGQywlqxP5agR7zVWJg+1A1v6qVwGIr4LiGKotoPRps+PslOpPqDYgr4uIL6AAB0FXUvRJzDJg38i05VAuoaY/ZNAaOFSIzigh3s=;32YAoxf7DG/KPgP8shFqGw=="
+secured: "IPX0pHxxoqpTJHoFuunzIHLjnD7Y2HTQ1t3GypGJv9BMrvHYxwk+AkZneQ+v3VdOz45GM/JPFVrRjsufLmdS6b1CK6UOkwc7ipX5fKWfIKMwIbHXKIlBN+1RpxTHa3VmuDz3uM8l7so0g7+1687EXPbJ42luk5x8U8qUmcSagclcnDjgS/eZTv8ne4zEnKHqfeUuptiH8N6Cfs/y1qP36wkJLWWWnRGMclz7rhUAGm8p6HW/oDSRw3+6ZhjXAd8jxcykveMxW24fvvhY0YLNh1tVVSt5Mcs/ANdYZMdzED+zNYAZ/LHfwQyvhwD5yuFViXJle0L+5tqwcYsOHC96z6LqTe5AJM80aeJTBrmFrJjpDHUbnyduY+ENEcbneX8KLi4K1NymDPImM2r0SqvAUPhxMwRPq//90AF6TRBVZ7E=;YOUPbj/kTmWqtC3GparYmg=="
 ---
 

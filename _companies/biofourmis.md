@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 58
+heat: 57
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "TcSiuWinwY+KMlvqK6k50i0y1evfnueQ5HFpYgDyyeEPXR/iPWmvvwDl37gWS35PP5OC6GDLrDhT8rkSagX8V1yIgivQVrQFik9ds44uR368HtZKMnLtZzKjKLTlfun0ogSSTAlmYua33Q224po0laFCyA8OQ/BM86ET4ZTwzlfEekyfG2zDizDpmxiYQ6Em0WLzpEQ+/NKm0cJwQ/SA2eRjXA3crwFN4PGiK1J+y1itIK0LykgDHsE7+ngCVxQfwqabdgUb4ngMYaOIYO8k+Y+i6KQHx4+PuVAFv8zERUJZ6mhE4kg2uW63La9hNfoack/SpU6rMar+mxoB9yTciWslnRVViYUUeXNrOSbD0fzPhBxuPJMvd5hdynBtxWdgusM8eiFq1d+h/FnVCZz9k7QZqt/5WMAeXiDIp6nzpy8=;3yIjJOj8TzlrXnxur/T3yw=="
+secured: "AYB3YIC/2poNxPOUNIxRWAWr5In/aYe5q3JN3HX59V5aykm1VSK5DpKcYALrOVFXsPPd6FQRWYZ0YINiG4MP2l7DQpOknVaYkDC6o6dIqievYKYtRBLpYfU8qoDdPkLnqZeLYfjHpeJu3ZBxQ0KXKj/O4NQuXV1wQ0DpIoRB2ANUJjf3knObeGPSrjLEHglkZZq7NihqlYejkN9+IQBHGlnvk3xEkWvCJntu5/cBzUYfqA/sjhcdwd/+UVScpyICJjwPGK2p6oJE5HbHfncc8OrabYdZgSFh4BFmyffhPNFz6tauem2FzXGMykCP/tJW3v24p0o8xnAuX4TUJcL3jNgnPCRMZ92IdRh8tDosVxpLUZ1Wapm/5JrzUKb/MOtzf3kHZndA+L8wVsQuG2etPvetNHfqUu39wUYKxGLDKyg=;tdcy9QTVgwvBn+54zH283w=="
 ---
 
