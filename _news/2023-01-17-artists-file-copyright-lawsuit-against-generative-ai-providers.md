@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-16T21:00:00Z
 originalUrl: "https://siliconangle.com/2023/01/16/artists-file-copyright-lawsuit-generative-ai-providers/"
 webUrl: "https://siliconangle.com/2023/01/16/artists-file-copyright-lawsuit-generative-ai-providers/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/image-7.png"
@@ -105,6 +106,6 @@ related:
         height: 320
         isCached: true
 
-secured: "PxC8buzy+hbXg7GOAOJHhtRUK2xJYbvoAk0J5LA1mVell98S4K2YSJBKZWnY2HlSUiy9niVvsApGrvnWhyj7Sa9ghe/IDcGXaTEHB72/KRV6dBbjYdYsJBnA6pfAG/73cg/mLjaVlXCzUYbh9xq92q1g0Lapn/4n7lEaQ53T4PR4159kD8R4Cn2xqeul6VANmupPkxIqatFQhb6BA5lUu5n5sO1tG9f25FYBAsUFZTTlUNJmChKvNJh1dpojK6L9TnUq4mzAvb8CqULRpFwanofmcpjj8slboGGHe4i84ChP1Poql9WzeqWkXj5xLJNUdo+doxx/luQ80cx85Um0VCqGfGAFlAcTS+iFo5Gr9JU=;QEuEX5JvxDJNyEiGQZZQCw=="
+secured: "e4KnfZW0zSkglyu5gbmCROOlKw6D8xGFEtdt0v/GY/Dxmh8Lg1bGKJZkkLVmds57Il3QiC5nlbCjbUUL0spRdUKZF9SfcwTTqm5s13EkK4Jncj3Zn6aNEjinX39EABD1dLnaTtEz0dLLX1hrcv7y0Xr+iJVIDePA9gJ/v6olJ1MeEp34wYYdc1toIu9poJFSaY40keHfyBeJgnCXOgDCJ9z2NqD733joBRn1yUS6+UIeAEUeq1fpeVMnQmYLZQ+ibtuQED/fR9eYiq00h2Gh4QCWaJ8cmGsJreGBVCP1HUqKZXnsdWBzS3hdB21fkRjM1mKnUsOcbMxpFU+Vpx7RzhOD7FKOu7Vp6QxNhCGSXPVMDjJSVYs5WUtr+fgujbX5uduOe5O5HYB2VXcKjbf0BFSxNaXf+VOlWFcfcbV331wUQKEYSRbLxq6QutwmtRHiaSowCVPuJ6yhp53aQDMr7rcqp/FLOXru944Uyax+jj0JblhnXEyKHaqxWnDBeDOUELaz4Mp/2wiVBWK83EfROQ==;5gVgmO+F1rc084kOQG86JA=="
 ---
 

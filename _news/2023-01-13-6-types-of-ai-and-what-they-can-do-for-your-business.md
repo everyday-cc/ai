@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-type
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-types-of-ai-and-what-they-can-do-for-your-business/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -90,6 +90,17 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "What artificial intelligence can’t do — yet"
+    excerpt: "These days, we don’t have to wait long until the next breakthrough in artificial intelligence (AI) impresses everyone with capabilities that previously belonged only in science fiction."
+    publishedDateTime: 2023-01-14T17:08:00Z
+    webUrl: "https://mybroadband.co.za/news/software/476393-what-artificial-intelligence-cant-do-yet.html"
+    ampWebUrl: "https://mybroadband.co.za/news/software/476393-what-artificial-intelligence-cant-do-yet.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/476393-what-artificial-intelligence-cant-do-yet.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
 
 secured: "XlclTn4lcUZUmtnqVUCxrEM87f21/6s8hMVfmawPmdzheQL3TZb1LJKWZZXQ0Mpy9vsA9nXCH/Xl/1bakVaT9CpLQgye46jMmuKNOj/fT19JspDHs3qXds81GHNNV/Kh08clSDlmbStoaM1UOi5U8LnzhwVQNlBLibu8nQBR5ZgmVJ6gOcua3LUVYFwzxkWKdnCRNEt57a6fP3gUnAD7gylbAaCqscbly8/omyZEpqP85QjWu8JW12JgfMaCy0fJFdGA8X9+hWOCz/AyyL/RIeDCQAQMANF4XGQXijiFqeldyjX/hBi1d03HNkxLsmIzO92Zl00Rjt43XtNIjBpeULgHn7KXpTO8JNBH2kJrAzHCtzsemEwvHv6H0K44wiopR4sKS9gL0zhOCrUGoVhMZ1zrvf0ExVaO3GOwm/VU+NTlFYRhhLKy5S8Yx6GQdRs9wuui3s26PKx2CpjUhS3oInQCs1wZyWD8ip93C31LUOZXiXU1BwnMNNMIjTyknzPZvjrhAxhR9WbVTxF7RYTddg==;MugqndX6sUaEXK2XxlJ6aQ=="
 ---

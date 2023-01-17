@@ -2,17 +2,17 @@
 category: news
 title: "Framework Science Revolutionizes Hiring Process with Cost-Effective, AI-Powered Staff Augmentation Services and Fintech"
 excerpt: "Using cutting-edge AI technology and a focus on fintech, Framework Science can build and manage teams faster and cost-effectively than any other company in the industry. One of the significant ..."
-publishedDateTime: 2023-01-12T20:33:00Z
-originalUrl: "https://fox59.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
-webUrl: "https://fox59.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
+publishedDateTime: 2023-01-12T23:44:00Z
+originalUrl: "https://www.news10.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
+webUrl: "https://www.news10.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: FOX59 News
-  domain: fox59.com
+  name: WTEN
+  domain: news10.com
 
 topics:
   - AI in Finance
@@ -49,6 +49,6 @@ related:
       domain: ghanaweb.com
     quality: 4
 
-secured: "prar6pCBZw7vKAibNBWvmi9NGCfuTDGJOhLt3tbci0i6nZ+GNCZ6+7JqMShpI3aVvDGxgPBNpNZ1fEcNLoRDh5rmEm4c2y88e9ijXsa0/Z25LqRvoNSQ0hqJ5yjPYoTIHgRt/UEezfN5doNsRusrQbsZ2iHbI7zSBZ4ovTFMtyzu/aOWTT/sJqiG+7kegqVHp54myNh49MarEt0F3qa2uOR3X5KwpbHANWDsw/VOxRrGIRaqMCnJyj2/SRBwUgF+MUkCqqVquZLV9nYh560TV7JgGVnVRd/0vJ/eh+uWbVYNQcCj+rcdwko/gJ+0wyrYyx7qPrZwaGMD7bYhq13U5bBThPcEXcUbQaLXKo9uKh4=;tt4aNvem/1p4YNWkaYNsOA=="
+secured: "XwNvPW1t9bWm1eoaivX9M1VA9FiMAayJCD8c06xUwjvWE8kR4YUqBry1DXxvpmbLPWaOhlCq2DXlh4mp7kebuXcak4gduiWO7jJJxfdFXAdfx6FUF4zovZxilrX+9jLGGqFhFwi9G8FDHpk62oM4bJSUHh/KnIQThaltRzhQZmzypd0YP9vvm3QdrGAJKTfOmvx87PMmPT9k8KSXcr3S7FJ+gfLJ2vcrvRLqmx5F0/3W4hWOZ9o0//b81fp1SY5utK6YUd3BAADaCkaRPLdqU9LiokbMO8g25ruXrcYMo3lVzIJVjIlINUC+hOmKLzxa59DCiuOMkdl2Nx3kYkwiJ9QHGypaQ6rq/7CY0zLMTg8=;vmcf2Syc0D+neymeqvq1pw=="
 ---
 

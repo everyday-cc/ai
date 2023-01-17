@@ -3,8 +3,8 @@ category: news
 title: "Microsoft’s $10bn bet on ChatGPT developer marks new era of AI"
 excerpt: "The $10bn investment that Microsoft is considering in San Francisco-based research outfit OpenAI looks set to become the defining deal for a new era of artificial intelligence. If the US software giant is right about the far-reaching implications of the technology,"
 publishedDateTime: 2023-01-16T11:00:00Z
-originalUrl: "https://www.ft.com/content/a6d71785-b994-48d8-8af2-a07d24f661c5?shareType=nongift"
-webUrl: "https://www.ft.com/content/a6d71785-b994-48d8-8af2-a07d24f661c5?shareType=nongift"
+originalUrl: "https://www.ft.com/content/a6d71785-b994-48d8-8af2-a07d24f661c5"
+webUrl: "https://www.ft.com/content/a6d71785-b994-48d8-8af2-a07d24f661c5"
 type: article
 quality: 34
 heat: -1
@@ -57,6 +57,6 @@ related:
       domain: businesswire.com
     quality: 19
 
-secured: "7sqLVQZenANsNukzF9K94TkN6CRmLrnub0ylpG0s3ggmyZFeSdnnzjjHQKaaJt970noLUQvUYOrr5mFkDzFxoUyx0mnI9xazWu0MWDInZ6emj4tFecwYkHtxv+n8YDu5IySNBLhobIoiyB3nhTz6ei4MNmq/NBFy2vB8T/nSD+1wbnmyMoyKprQfYfmx4imM0G8EV6h7ap/Wygd+se+6TbreFRzIK3Cybh3mPEj1oXOiCv5EtecCI8SHwqUDE5yBTxg67TLcmWJQ1SyjHzq56nXuu/goIWqoo6ekqVqOJ1I6eiprDvLoieo3I29SD8UuutEnIZlPRmIXyERPn3PItFZFmzor63y71bRZKFWFQbVcVZxpVVyW0azYVCtcOWC3ob/fPa9hPOAyDqhmoNphZxHNGBim+cQKH6v5FP8qRfEmAmrDxvVBkDbAN52Ah5t0d/agMSTuPs673KtsglHvZjuIf+6yPgE84JlUqIGPcrmFlkSFcmlMwRqzv/dljvi2iV3+jHhK7VBFenrsVIUkdA==;o0D5jC9Ay7wGF9ytXVfKPA=="
+secured: "nljpiA7KXi6AGyJezAASS4OzzSjavvR8E/ghtWrFDhTNUr8eattR/ZzS5TZSaSJdr8qFO91HdV5RkIsVjDbRx8Va9pyLoA9br1CE1qT/zK+uYw0wdvgkgo6dwtEJwZUzS0FwXRzAxuWmTe84FIyL4Va8WioBcaHeFkNJIS/iGn2gwFFA2XRY3odbElkVQXJ3vVzx3j0pRjTSYlnhNQw3xvP78sUe//QbWh9yg+HsUqI5J/z488GWJ+GrgX9GB8sGpfbVkHsMJGBOhdWmvCyZ9fSwB36j6SUXxKMpTg9tnfiBnK/dKm/PsWJKT4KkoxxObN/RGdFH+rZ6+alOiLCXNGFAXlWoaqoLmDX5ShL3WIL75aOzoEMerkui7rjbi7qjXgjAJJN4wOC531+sbYDR8qJDE+ANP4Oe/+5ueg3k448hZHerjekz0K9T6HKmlHhXJo/zmzl/ZJHaEmUPxVfnY2RFKOefRcBtS7knkorGl2lcKvXdWEPTqDSEhvY3C8+YyE4gc+LwfCSWDz5JNOtCyg==;IvsumzCayD6eAzLA9pwDkg=="
 ---
 

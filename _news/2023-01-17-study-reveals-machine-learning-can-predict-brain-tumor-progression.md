@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Study reveals machine learning can predict brain tumor progression"
-excerpt: "Researchers at the University of Waterloo have developed a computational model to better accurately anticipate the emergence of lethal brain tumours"
-publishedDateTime: 2023-01-16T19:48:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273380477/study-reveals-machine-learning-can-predict-brain-tumor-progression"
-webUrl: "https://www.bignewsnetwork.com/news/273380477/study-reveals-machine-learning-can-predict-brain-tumor-progression"
+excerpt: "Researchers at the University of Waterloo have developed a computational model to better accurately anticipate the emergence of lethal brain tumours."
+publishedDateTime: 2023-01-16T17:55:00Z
+originalUrl: "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression"
+webUrl: "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression"
+ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression?amp"
+cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression?amp"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: devdiscourse
+  domain: devdiscourse.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_01_2023_17_49_51_9560931.jpg?width=1280"
+    width: 1280
+    height: 960
+    isCached: true
 
 related:
   - title: "Machine Learning Predicts Brain Tumor Progression"
@@ -61,6 +69,6 @@ related:
       domain: sciencedaily.com
     quality: 64
 
-secured: "uAatd6nDRtPsDRQrkdU9mbuh2oYMhGHOh3Rp4ZHeq83SzBrXSIrJPFssLkE+/lFTK+usdIpEVXtvpT2/ItOMIqlngNyXcmf1YHRG/dryKVbTKs9NG7c0zUVKoC0cjF+Sg5WFDYyS+V9Qs8E7WKW83cRsEMWvDLTcT57oW7511jCcp8mbEoZuCHpTin2l3xQNktArOnOcCc27/rFH7ICHexIRIxLnHGbgz5gPeas+gILuLXTLQNnrcuYjU1yTdTihyBiH51G2DIE24WmbfbCEKNbZrsmx+FqUzPy7l3EtPpXQ3cgQfiB1ctDqTUCJg0fi5FBk9jb52I9RiqIYRqyLOP8QSjX9xddJfqNUO+gTDoK62QSWtDIP0WwRCykh+5A/vXdhYkfZb4zan8lPlfduEriB3qn0/vnX4oPCxE9m7bJyKNrIAYoLeL4jOiFNnYtHipaLMmpOx7COzYAflgxIg+X4JyKf9ihoHDbuNePCMAK8utSmC8p5+rWX4bJ4f9uVpSFLL8ti7fFfHhwGbe7vKQ==;SuS3yswkpVHnPFH3ovdH/g=="
+secured: "ku+S6YDyK4G8/qGhXS+CQ1mZCihBwM9sZa2V+WDH6IwD1JokLaaNf/XEcMU+G+Q99dJvMJXxPgIUD6PVzzj22n2v5OIgc/0ZDoJth5VC7UhSCleMkXBVNW8eBSZ1v/Ce1RUL0p98fG4fEgWkmBNTJhBIM9Q4jsSPInibQBvP6FFIEmW3EcqUa5s8p8bQIApXYTixMX6w2o0vaD2gxTlnXNvr4vP0Jgu+vJ6PZNveuJ9hPmjF7GI617AGVJ8exlqgJqYqxzxx58UCqnbGRL2+pjV3YP7ieXblgF2waV30BMHviRUTeToXoCpXprfwRU1P5msOC4V51dNKhtVSygO8g/8btn3qFjxQzpzxdXMV5Vw=;mDaVB2ClkzwfMejXVWa3ww=="
 ---
 

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 646
         isCached: true
-  - title: "ChatGPT: And the rise of artificial intelligence"
-    excerpt: "Welcome. We are now in 2023. Last year in 2022, in a recent television interview after the Nepali general election results, the Maoist leader Pushpa Kamal Dahal said he was surprised by the election results and the leading cause."
-    publishedDateTime: 2023-01-12T08:05:00Z
-    webUrl: "https://thehimalayantimes.com/opinion/chatgpt-and-the-rise-of-artificial-intelligence"
-    ampWebUrl: "https://thehimalayantimes.com/ampArticle/1017615"
-    cdnAmpWebUrl: "https://thehimalayantimes-com.cdn.ampproject.org/c/s/thehimalayantimes.com/ampArticle/1017615"
-    type: article
-    provider:
-      name: The Himalayan Times
-      domain: thehimalayantimes.com
-    quality: 59
-    images:
-      - url: "https://thehimalayantimes.com/thehimalayantimes/uploads/images/2023/01/12/20756.jpg"
-        width: 800
-        height: 417
-        isCached: true
   - title: "GPT-4 | Implications, pros and cons of the next-generation of ChatGPT"
     excerpt: "A major implication of GPT-4 will be the improvement of natural language processing (NLP) tasks such as language translation, text summarisation, and question answering. While, we cannot ignore the potential downsides to GPT-4 as it could be used to generate fake news or propaganda,"
     publishedDateTime: 2023-01-16T11:15:00Z

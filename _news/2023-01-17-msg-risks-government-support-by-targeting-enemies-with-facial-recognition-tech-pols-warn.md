@@ -8,8 +8,8 @@ webUrl: "https://nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recogn
 ampWebUrl: "https://nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/amp/"
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/amp/"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://nypost.com/wp-content/uploads/sites/2/2023/01/msg-facial-recognition-comp-03.jpg?quality=75&strip=all&w=1024"
@@ -37,6 +38,6 @@ related:
       domain: nypost.com
     quality: 16
 
-secured: "JDBSsPXrl8FlIXZikzuXlgDhx/PbxJNP7sDmzm1tWmCBxt7dV9oBnnScLW9IDjUey/fHoM9+YN4MjjI9kjBap99Hvgd/OgotEq4cOvRij4iFDy8eZDJPOSh8fKIxaJpl2JVoMo+eSDZq/fIjZm9w0gn8FzCK5vAk5Qdrh4EJeEOWk9/6nIFo//SCdA1CWU+PFRe1a9aFoxMITXxXMEvic1pBnWWi//6hdyk3TdwbKtFfkDNR3SAtAeh6c3nt36hF9zGaRPc7oRF7aOvAFmhO5ldolROC141FYBEDHWCE0mpnvZx1h7d+rnj3GOTVsukIVRDkx5Y5nR/NKNGm4ABxk8uc13VKzchJioLY/N+7ieM=;/zzQF011yjXxRsJ1COP+jA=="
+secured: "WekOfbYdq58xaYG60k/XoKA1Ct1RVWKys8RpZBMEr2WN25dJBF073iQYiEfFDvugg3Jwi+gzjTCfzyLxeu5tnssKfdX7HOv/zqxNIIqSnoshwuSvXF1peRNIw2LyKp+mDJdgA7cc2snZvuISylpwrPo91rQY1JzbKjZN7Wi9Zf1CsdjSCrZjl7ZbwtXSfb7X1CkkHeYJFvAPh73UJhj+pIsP5h2myedq9jXYe38XbnNfgiwY7J9kcNOwoL+mb4c/WD5sK4s/OK3n4I6Uk7ZtybnPvUA+NLri/eEdImvnYef3HRLLIrJjZCKvF+s2wv1nUG2cGyjn9NV2IFdUUrmliqvfCdPDxt6z4rK+1rzbMlXGJ17Zrh+/99nGLFDOjuH9LxrM+y8T68Z98fQg80bNcoO7n2cG953x16gmr0KUQH4sFStoditNyGUS7BjTcZWrWuUYxFJa9usOdgyqHBebQz4ybA5SgwQjDH/DzB7t2Ef6WSOvW87wledEDPEqfXdF6R3qwV+7g7uEwfjtXxPONA==;TxQ6oukQ5bURT0TcJPQoIQ=="
 ---
 

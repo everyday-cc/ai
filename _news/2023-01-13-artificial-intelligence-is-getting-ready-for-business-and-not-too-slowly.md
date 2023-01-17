@@ -86,6 +86,17 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "What artificial intelligence can’t do — yet"
+    excerpt: "These days, we don’t have to wait long until the next breakthrough in artificial intelligence (AI) impresses everyone with capabilities that previously belonged only in science fiction."
+    publishedDateTime: 2023-01-14T17:08:00Z
+    webUrl: "https://mybroadband.co.za/news/software/476393-what-artificial-intelligence-cant-do-yet.html"
+    ampWebUrl: "https://mybroadband.co.za/news/software/476393-what-artificial-intelligence-cant-do-yet.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/476393-what-artificial-intelligence-cant-do-yet.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
 
 secured: "UPIOoJz7CC9oVGQrMKZ8R79UO695AhS9QmycvUfXr5G5FQYQuqxL4lDPES+jioQe8C4FFJroUL5Qz72zmW5P8zTceFHysKrHVFFzznhkl2MovB/xlDqhDgrWVvECYx6ryvD8UWU6kVNuTL4xu261PYsMHXPe9AKVY3kE3Yjcbrm3suW3DztSqOK9zL5VyF4S5e8COop6nl6OUt1BIKoqBSS5eILnLaEL7qftEi7rHkr1MILieR0NtQmXv02hZevN8LXW2BGq8XgMTisaz9llyVX6Cph2vYVZuNB1gGwlY9bWH81GeoSa0oQGo/d1QFc3uid32wHd3Ju+nf5otK17z+cOL5y9JhCmWN4iemlJJEA=;EH0+5CsJEvTsM9hiMuP8Rg=="
 ---

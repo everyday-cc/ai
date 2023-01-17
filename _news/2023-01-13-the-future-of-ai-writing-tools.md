@@ -75,6 +75,20 @@ related:
         width: 1963
         height: 1104
         isCached: true
+  - title: "Bilateral science funding aims to invest in priorities like AI and machine learning"
+    excerpt: "Australia’s Department of Industry, Science and Resources (DISR) has teamed up with India’s Department of Science and Technology, and the Department of Biotechnology to run round 15 of the grants program."
+    publishedDateTime: 2023-01-16T20:45:00Z
+    webUrl: "https://www.themandarin.com.au/209670-bilateral-science-funding-aims-to-invest-in-priorities-like-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: The Mandarin
+      domain: themandarin.com.au
+    quality: 48
+    images:
+      - url: "https://www.themandarin.com.au/wp-content/uploads/2023/01/Ed-Husic.jpg"
+        width: 795
+        height: 530
+        isCached: true
 
 secured: "XaiYM7GahIQUG+3GxcGanPMKjkus3ZxV+AtBwAygjclTfbkYHh+ikji5ixZwa2pUDGWMNu2M0Yp9EXq+TlL2XwZibC8J42LMlRkVEd3QpD3mPohtmiBbmiL0i5PHlj99vm0gSDGenv5xbSkQ9RrPkeL5afeQHF+bL1GT+JGnJiU65vRQue7A/RHLuSDkmVd+Y6cqqSj86ayb4qYsk0KaI4/fKiVCjw4mTS/3NV06OEtLO8Vuhhlu9CS4UFDN9pLMlRahUBeau8hiDo8EN5bPj/G5Z5/cykQVk+eeO03hQySPdXgpLpKQDxPZLYFFjPo3VwmmN2JWo4MpQkdmN7sZdbqw5ula3QYuxeWwgkpj3Bg=;ckkocLVLemKJDqriN1nYhQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.insider.com/megan-movie-gets-wrong-vs-real-life-ai-exper
 cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/megan-movie-gets-wrong-vs-real-life-ai-experts-2023-1?amp"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -37,12 +37,37 @@ related:
     provider:
       name: PBS
       domain: pbs.org
-    quality: 59
+    quality: 61
     images:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/ai-1-1024x666.jpg"
         width: 1024
         height: 666
         isCached: true
+  - title: "Educators concerned about students using artificial intelligence bots to cheat"
+    excerpt: "Educators across the country are addressing a growing concern that students could use artificial intelligence to cheat."
+    publishedDateTime: 2023-01-12T12:46:00Z
+    webUrl: "https://mynorthwest.com/3778287/educators-concerned-about-students-using-artificial-intelligence-bots-to-cheat/"
+    ampWebUrl: "https://mynorthwest.com/3778287/educators-concerned-about-students-using-artificial-intelligence-bots-to-cheat/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3778287/educators-concerned-about-students-using-artificial-intelligence-bots-to-cheat/amp/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 55
+    images:
+      - url: "https://mynorthwest.com/wp-content/uploads/2023/01/t_8dc660dcd9204cc7a0ffef2be8a93539_name_promo_monvo_AI_CHEATING_transfer_frame_119__1_.jpg"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "New Concerns About AI Technology That Can Write Stories, Essays"
+    excerpt: "Many educators are worried students could use the tool to essentially do their homework. New York City schools have already banned access to the technology on school networks and devices, worried that using it \"does not build critical-thinking and problem-solving skills."
+    publishedDateTime: 2023-01-16T19:19:00Z
+    webUrl: "https://www.news9.com/story/63c59fea57666001594ce22d/new-concerns-about-ai-technology-that-can-write-stories-essays"
+    type: article
+    provider:
+      name: News9
+      domain: news9.com
+    quality: 19
 
 secured: "Y8SvFB3rrDiitJTjiL5hzvx2ms6B4xAsqJWGhpznQZEausighOqPbMWIF9ZSGyp9kiguIUCGGwdzigKsCShoA/2ximvslQTdFrPzInzgomsw8LxVDD1YI50KNEVAr7fZmZyvVnR7ZGkFRdjMF0sSVWa9e2+u2TCx1LjvLJM6dj5rnnM4tEE2mvF57RhBafTU1zY/LcaqOq0FY4vv448U9eft8pZ5D4IT6ev1ya2xKIdCO6aXdDZL01gezaP4xignQT5uERd+wTGyUNAistYheFFAzdk5RHdhuZDOQTjWbuzmhUjaQ1esF1vZoNrnU9fslojnqAEYD2AMJ1+ROGN/NHUSeiSK4veGXWyuHM3dteEpYVVs/L7keTqgr5/F9Tkna1uTkD1M8DaEVqJ70zc1NpcapONbbnd66rEHtaY8aeuI/mgZzckHNsiC1V5iHED7zj0e8CHCrOi5nPnjxQSWtkTNLy4oLRjvt5MHumMmw4NL8tXZs+4agx/4+xO/rB3UxL/QOD4uvd7fOX+tXRyGdQ==;AHEq/nKB1sem41iOuolWVA=="
 ---

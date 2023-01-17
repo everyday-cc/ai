@@ -43,6 +43,22 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Study reveals machine learning can predict brain tumor progression"
+    excerpt: "Researchers at the University of Waterloo have developed a computational model to better accurately anticipate the emergence of lethal brain tumours."
+    publishedDateTime: 2023-01-16T17:55:00Z
+    webUrl: "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression"
+    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 74
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_01_2023_17_49_51_9560931.jpg?width=1280"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "Using machine learning to predict brain tumor progression"
     excerpt: "Researchers have created a computational model to predict the growth of deadly brain tumors more accurately. Researchers at the University of Waterloo have created a computational model to predict the growth of deadly brain tumours more accurately."
     publishedDateTime: 2023-01-16T20:45:00Z
@@ -52,15 +68,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "Study reveals machine learning can predict brain tumor progression"
-    excerpt: "Researchers at the University of Waterloo have developed a computational model to better accurately anticipate the emergence of lethal brain tumours"
-    publishedDateTime: 2023-01-16T19:48:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273380477/study-reveals-machine-learning-can-predict-brain-tumor-progression"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 34
 
 secured: "UKoTyFD5xAFwRrFItdEAX8dmkX+gf5e4JlsbsaaYE60CghCAga6ShTiOUQy59ZepuuL3SHujVAoHCOVyFbpCwHqDI6Jf0WGP8cVAize19iAiBZ/13+KBDlbuGEoL3XTyoYlJXOnvLBTuY2Rm67saGYBb2AMrEVJrLwd2rN6csWtPmmZ1MfBK8d36xcoDocXhjN/DB6ElhujMOjQEOPwrY10PzP6KkJj4OUMzZBQqKEaVXIfY+lv5D+hK87XkhljiZ7dT8Fqevyu1dFjJsrBKdTmMtWfMfu2EwUKbAOLKNJCDwLh2tkOzv1ScwtfsEB3hZQ/cfnSamD2CeiaYhM/cEdqKKe6sYSTeZ5siYNEY2sUrMez5dcbNPovNSKoNJ7P2n+9ofy5+CnTvu2jjwuMWW/EnDwyBCEie4S9dZZYAy+gjaiuWUKOOe3eQlPWgiwZqNtvI+cx0/hAktTLvhdd+oAjM5/gevKUj6/Gm9ewT4aM9Ws0YsMI+CcBbGxZJl1IxQKAsCnCfyeFs/RbLiAWdGA==;/Za7ACX22hSNogYB0glGTg=="
 ---

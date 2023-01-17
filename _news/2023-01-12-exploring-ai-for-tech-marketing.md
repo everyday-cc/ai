@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.mn/news/exploring-ai-for-tech-marketing?hs_amp=true"
 cdnAmpWebUrl: "https://tech-mn.cdn.ampproject.org/c/s/tech.mn/news/exploring-ai-for-tech-marketing?hs_amp=true"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-15-image.jpg"
         width: 1963
         height: 1104
+        isCached: true
+  - title: "Bilateral science funding aims to invest in priorities like AI and machine learning"
+    excerpt: "Australia’s Department of Industry, Science and Resources (DISR) has teamed up with India’s Department of Science and Technology, and the Department of Biotechnology to run round 15 of the grants program."
+    publishedDateTime: 2023-01-16T20:45:00Z
+    webUrl: "https://www.themandarin.com.au/209670-bilateral-science-funding-aims-to-invest-in-priorities-like-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: The Mandarin
+      domain: themandarin.com.au
+    quality: 48
+    images:
+      - url: "https://www.themandarin.com.au/wp-content/uploads/2023/01/Ed-Husic.jpg"
+        width: 795
+        height: 530
         isCached: true
 
 secured: "gEncW3vJeluf3L+8v4mwM4/vOCV3/8Ypi8p1XAnpz6hBpKuhvW+zlNxMvneW/bmKI96PyEsZVy9r+ZKxX6KMgU8RH3F7N2cK4cdbkPXZTQ0a7Y6Op8A7JvngR9ISR3J44y1N0VhDTputkXkJWn78K7xn0gp6fWVlOmbi3eV3zooj9T/N0pBxKxru6Pjudq86e4JesXjBwlbg3jCrsDjFiIa+3xWM44k5Wwwtph8XAwZTJiVjhFuIfKWdWtExC1o+UpNql3MRaZNw7NI2GPYW0IA0qQ2NxswqRABi8vivrUSK9YaJecmjQg0IKc0L7fhXlpRojUtBiRbSSng67UibpDZAV+qVvzhcIILstbv4Z79ghJr+BnmiHIi22g78YZ6mEagEYJQor+EtkwI0/IJ3nw032GPnab/2mUju87/qWOTSz0Xkpl+raPotE2oV3o8VHbbnmpvnyfzpVqsf+3uX/Bwep4TsE9wHBEdVzuUkD6juXpn8aQgoEdEvS9jcTAnQlBDqPUO76Hr7e03D/nt8Yw==;PY+gcmntD16pIkeZnQPcyQ=="

@@ -30,7 +30,7 @@ related:
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 49
+    quality: 51
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2023/01/msg-facial-recognition-comp-03.jpg?quality=75&strip=all&w=1024"
         width: 1024
