@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-14T20:08:00Z
 originalUrl: "https://bgr.com/science/ai-is-being-used-to-figure-out-animal-languages/"
 webUrl: "https://bgr.com/science/ai-is-being-used-to-figure-out-animal-languages/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://bgr.com/wp-content/uploads/2022/06/AdobeStock_18046306.jpeg?quality=82&strip=all"

@@ -117,6 +117,15 @@ related:
       name: techworm.net
       domain: techworm.net
     quality: 36
+  - title: "Microsoft plans to add AI capabilities into every product"
+    excerpt: "Microsoft plans to incorporate artificial intelligence products from ChatGPT and Dall-E 2 maker OpenAI in all of its"
+    publishedDateTime: 2023-01-17T20:35:00Z
+    webUrl: "https://www.gamesindustry.biz/microsoft-plans-to-add-ai-capabilities-into-every-product"
+    type: article
+    provider:
+      name: GamesIndustry
+      domain: gamesindustry.biz
+    quality: 34
 
 secured: "XBU5kthnElPJ6mgA82zhFiHCkxbcXQMcjgRusqg9dryfSUjCDFr1aT3EF+KsHXzAfaRFTGjrjf7VbKSIz1cS3TpC9spaU1jzuDjXZZXUuktAF/duJMd20QXU8V8MNRe7XK29Zeq8tEyEHRdKXuB4lVD5kJfaFxi99TZkAf6jDj/4KTlqvMe6loooQUNFBDIp/dRCPtnhoI5chrmOz5RZADIy+tFG6Gtqy7CkfmDFOegKb7BBAPx1Be3qcwj2KYEL3PAV1i6wcPMlrQoNsnphiUcmLpVXqeF37u6OB+54nRzXbJGk4HBAyOCKFXkCZkdRXMRfd1LAql+rT65js7ev3V5B8tNgRDPjkY8L3jsVCPW56GMYDfZkqmNieYZ1Q3XZD9doeXqjQw0nFa/uJ27GHfUAbWWqQVDBsMA/FpYVJIV00sGsLuNhrtu84fLC0T0Jun7x2AggRgJxgT9Y3PFWGSaF/bdSYwPecSHLmWRVMHQuwktUYh/BevT3X2bdS45jtBaI/roAQA735bGcrm8D1A==;f325vA+Bh2zquUDAn+EuzA=="
 ---

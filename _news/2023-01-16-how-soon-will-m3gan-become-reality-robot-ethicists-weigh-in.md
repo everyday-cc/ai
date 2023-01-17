@@ -5,9 +5,11 @@ excerpt: "The horror movie’s hi-tech star may be fiction, but concerns over th
 publishedDateTime: 2023-01-16T14:04:00Z
 originalUrl: "https://www.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life"
 webUrl: "https://www.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life"
+ampWebUrl: "https://amp.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life"
 type: article
-quality: 19
-heat: 19
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -21,7 +23,14 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
-secured: "1r62qpXTliMjeapT+LPDNFUhBcG3aR3s8HuiO3VYJOd1uEHyKLsViYdZGHCmtKsaRasa8lOmFcjR7Z8Cfb97t/vUBXyPoQTAT0BG5NVtQpAjFOsj6PS79Hj+VKEpSdVSH/7LmLjJEvVOCPKpht24jcZvPIdInKGO2BbZr/t2k22TnJOt+FQfpS21SiqmIqLk7+BldZrxNCrjEr4hP9YPsjqjq+XtOAyy78LwB2z+YT1eB9FoxG1mt3Gtg/blk0lCbrAZp9vDhE5h5yGaASoQQlo9K43iK7dbe8uIttVhkHoFJ9OR6xfQAFqcGD5AuMmw48JhkGB+LWlCyD3hot0audk8ozHmgKQv5kzuo86HTjk0cgNnIe4odNTT5udCuY7hdCrZyo/4meDFh1GcSi2bI51ExlKLY7PRukBp1K2LFZidlZWUVoikd04XoXqzIVOcn1u7/yRGlog8uaqI5BnDG7OHaKkIUW0TttxnvU61AHSr9aOJpU8U1ukmtQs3wgsp56LCJbv5PM0QWbTALlkRGg==;wqnABMFpx04Ff8Bg0fWySA=="
+images:
+  - url: "https://i.guim.co.uk/img/media/8cbe1d6be565c48d135529109932104bb25ba2ae/0_0_7500_4500/master/7500.jpg?width=620&quality=85&auto=format&fit=max&s=d73b13b448bb94e1599a5791447aa36b"
+    width: 620
+    height: 372
+    isCached: true
+
+secured: "KuP/RT85V0fk0SgLw1s3ieQyVoZvzr2lw+zXfbC03y1RN5S0JWs68jtF2pE5iC7SL/SDj+7yeBfOqoCChLGkIoXkTLbId3OqplJ12Keh8dn+cV8bFGCqtZvkNF9xuPXiBxBbfFPvyAJbH+ddSSi/cMZ3AxgXHFLcp6kHWQ0vwrxs5vRxpaQ9fT7DPEUXFX1iIFZPXCDuNXM7pyoGRTgiVXEtdh+arkZ9L2tIM9ZTs5L88uTzHwLKTze7MB9uI1J59VrI/gLrU7IeZ9B/2hYeVamcK+cEe/abaEH8XThA3gOfULl8P2G+K9qZhmbsc7uhmBrTIaeeTabsd764L/+FL40gvSjRo4a0AkwsIAjodos=;wgKsGppOpIvGr2TNyN0NBg=="
 ---
 

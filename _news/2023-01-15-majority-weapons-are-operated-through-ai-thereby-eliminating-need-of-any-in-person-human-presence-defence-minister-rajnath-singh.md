@@ -23,11 +23,18 @@ related:
     excerpt: "With technology acquiring centre stage in today's world, the majority of the weapons are operated through artificial intelligence, thereby eliminating the need for any in-person human presence, said Defence Minister Rajnath Singh in Bangalore."
     publishedDateTime: 2023-01-15T13:47:00Z
     webUrl: "https://www.ndtv.com/india-news/majority-weapons-operated-through-artificial-intelligence-defence-minister-3694627"
+    ampWebUrl: "https://www.ndtv.com/india-news/majority-weapons-operated-through-artificial-intelligence-defence-minister-3694627/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/majority-weapons-operated-through-artificial-intelligence-defence-minister-3694627/amp/1"
     type: article
     provider:
       name: NDTV
       domain: ndtv.com
-    quality: 15
+    quality: 57
+    images:
+      - url: "https://c.ndtvimg.com/2023-01/p1ju8qus_rajnath-singh-650_625x300_15_January_23.jpg"
+        width: 650
+        height: 400
+        isCached: true
 
 secured: "jSQe2sZlCVYWrC9duoyAo8KsqMouuiJKqRx/v54WNUC3dIdYPGyG7JOek88NMhGKWp3WrKoNab9eQ73wHKc+UpTg3h4kXKTUGbV6FERq/HFa3XuhAuEIu+fUJuNIPRMAy4ljpKsG144+Ma7ZsV8+3/h1L5w4C6fcMcZuAzAraoRuNA9b1vZlmZ3VwXJpYHrlP7To7R3YAnQ6KSt03LsCorZlghEUaVJS/6unCE10LWUoyG9GcoeQp1ZYYCS55F1KL5duwQVnfNhHtQyb3OGAJkGKVRgd1+yVmnj3+TKSMAGi/pZ7H/shSA16InrvcdEfyjXQd9UZyzX0QQfuv9Bz10MOMTZpwsqiVaMy3Hr4NbwDQdnd2PrBrPkysuoo2SvI8eCUNPUqopHHE5q+1Cfx0ciTn+HRlYOb4E1r75PgB90wkAsZrblkWAbJW3mdOG1qr8kphGAClAGr1DZqOj1/9ytXQ1Tq5EejafhdmZHUZ4NvEYFFy285SGEgSF+8SGdBw1lQFDsMl0RXmIkK2Qf3OA==;3W4iZJ+0GCnRAkH/md9Bbg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-17T19:57:00Z
 originalUrl: "https://www.nrn.com/technology/tech-tracker-forget-fry-flipping-ai-dishwasher-robots-are-here-alleviate-your-labor-pains"
 webUrl: "https://www.nrn.com/technology/tech-tracker-forget-fry-flipping-ai-dishwasher-robots-are-here-alleviate-your-labor-pains"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Nation's Restaurant News

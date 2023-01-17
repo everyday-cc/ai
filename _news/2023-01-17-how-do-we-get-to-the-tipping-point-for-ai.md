@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-17T13:45:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/how-do-we-get-to-the-tipping-point-for-ai/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/how-do-we-get-to-the-tipping-point-for-ai/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

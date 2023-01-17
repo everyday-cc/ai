@@ -59,15 +59,15 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Using machine learning to predict brain tumor progression"
-    excerpt: "Researchers have created a computational model to predict the growth of deadly brain tumors more accurately. Researchers at the University of Waterloo have created a computational model to predict the growth of deadly brain tumours more accurately."
-    publishedDateTime: 2023-01-16T20:45:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/01/230116112613.htm"
+  - title: "Using Machine Learning to Predict Brain Tumor Progression"
+    excerpt: "Combining machine learning technology with neuroimaging data, clinicians will be better able to fully analyze a patient's glioblastoma brain tumor and predict cancer progression."
+    publishedDateTime: 2023-01-16T16:47:00Z
+    webUrl: "https://neurosciencenews.com/brain-cancer-machine-learning-22266/"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 34
 
 secured: "UKoTyFD5xAFwRrFItdEAX8dmkX+gf5e4JlsbsaaYE60CghCAga6ShTiOUQy59ZepuuL3SHujVAoHCOVyFbpCwHqDI6Jf0WGP8cVAize19iAiBZ/13+KBDlbuGEoL3XTyoYlJXOnvLBTuY2Rm67saGYBb2AMrEVJrLwd2rN6csWtPmmZ1MfBK8d36xcoDocXhjN/DB6ElhujMOjQEOPwrY10PzP6KkJj4OUMzZBQqKEaVXIfY+lv5D+hK87XkhljiZ7dT8Fqevyu1dFjJsrBKdTmMtWfMfu2EwUKbAOLKNJCDwLh2tkOzv1ScwtfsEB3hZQ/cfnSamD2CeiaYhM/cEdqKKe6sYSTeZ5siYNEY2sUrMez5dcbNPovNSKoNJ7P2n+9ofy5+CnTvu2jjwuMWW/EnDwyBCEie4S9dZZYAy+gjaiuWUKOOe3eQlPWgiwZqNtvI+cx0/hAktTLvhdd+oAjM5/gevKUj6/Gm9ewT4aM9Ws0YsMI+CcBbGxZJl1IxQKAsCnCfyeFs/RbLiAWdGA==;/Za7ACX22hSNogYB0glGTg=="
 ---

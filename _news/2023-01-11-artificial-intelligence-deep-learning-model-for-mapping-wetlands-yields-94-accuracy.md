@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Artificial intelligence deep learning model for mapping wetlands yields 94% accuracy"
-excerpt: "Chesapeake Conservancy's data science team developed an artificial intelligence deep learning model for mapping wetlands, which resulted in 94% accuracy. Supported by EPRI, an independent ..."
-publishedDateTime: 2023-01-10T22:17:00Z
-originalUrl: "https://phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.html"
-webUrl: "https://phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.html"
+title: "Artificial Intelligence Deep Learning Model for Mapping Wetlands Yields 94% Accuracy"
+excerpt: "Chesapeake Conservancy’s Data Science Team Publishes Article in “Science of the Total Environment” Annapolis, MD – Chesapeake Conservancy’s data science team developed an artificial intelligence deep learning model for mapping wetlands ..."
+publishedDateTime: 2023-01-10T16:57:00Z
+originalUrl: "https://www.directionsmag.com/pressrelease/12026"
+webUrl: "https://www.directionsmag.com/pressrelease/12026"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Directions Magazine
+  domain: directionsmag.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "/Ah1Xyi0FoBAPCv4Fk20BBrh0iYq/9JV8xwPtb/O2wnOTwlSp/nNKGI00jZ5NDQVPtn3Ye6GIPpEXSHjgnQ3f8qPglTMMpk+l1EkioFxBqu0gPQZGDQOuD2HjKu6eFNdJHOExG/RAguHA5HIAzVdjLnmQgkWpav/pCvrZrj6fg2k8/EDYBdwJSCy5dM8qMu3wEv/5hXgrj+yUbhZG/edDRqiWlK6z89EFfQefLtLZHmbGeIBKn2nJXKwtSuAK7BYILlWYbA3tluov8N0zpkeHkSIfO8vBuN/SD1ejTunsa8F6oz7IeHyNy8FwELFDCt/c6wBfi/jt91nzS34aTpkvT5uH0xnU0NNiSFoMdkb2xA=;GSm3fMd04uAu+/SnC9OAcA=="
+images:
+  - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2023/January/10/7/ccd1cc1a-ce14-4801-8238-379214b79d70-sized"
+    width: 800
+    height: 1065
+    isCached: true
+
+secured: "rf1BrH/TQgwpOgkOgCWh/l4d59V5UW6nzLkG0sDTS85B6wwKxjKOl+qOalkVbJiuEWUcHCSUaLoAPwKfdM8HKB3108n/5oauYKcH36XHaqiIA20TiA6vhawsyd5tGYuU0c9i9+tZwlGuMFU67M3mhCOVCPfQSF/TTWK0MkFsK9usgDGzKYJ0Lvzvn1az/V9FEiiJU25hfukakEsRFNRerCORBxyo9po50/cQ4cdfUjIPSi+qgm/UPvKo3QEQTc7TRGGlM3sTb/F8uKZn1Q3yA4rQk//tABVelRSSzCbhHh6rmmFhERiAcJpJ4kf6W+PvZp+ORI1Hha91LOX8bubz0wUNFOgj17q0xCORp4wm3Uw=;YbclIm0bzxmM7sS4zT9ZLg=="
 ---
 

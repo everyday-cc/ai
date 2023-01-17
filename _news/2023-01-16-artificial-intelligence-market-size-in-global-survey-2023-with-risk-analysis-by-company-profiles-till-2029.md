@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Software Market 2023 Business analysis By Top Key Player with Revenue & Region till 2029 [ LATEST REPORT ]"
-    excerpt: "Jan 15, 2023 (The Expresswire) -- \"Face Recognition Software Market\" Research Insights Report 2023 | Latest Report Spread Across[ 103 Pages ]"
-    publishedDateTime: 2023-01-15T14:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-business-analysis-by-top-key-player-with-revenue-region-till-2029-latest-report-2023-01-15"
+  - title: "Global Automotive Artificial Intelligence Market Survey 2023 with the increasing need to extend Outlook 2029"
+    excerpt: "Global “Automotive Artificial Intelligence Market” report 2023 delivers a complete overview of crucial factors"
+    publishedDateTime: 2023-01-16T03:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-survey-2023-with-the-increasing-need-to-extend-outlook-2029-2023-01-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -65,6 +65,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
+  - title: "Artificial Intelligence Consulting Service Market 2023 Top Companies & Business Development Report of 123 Pages by 2023 to 2029"
+    excerpt: "Jan (The Expresswire) -- \"Artificial Intelligence Consulting Service Market\" New Research Insights Report 2023 | New Report Spread Across| 123"
+    publishedDateTime: 2023-01-17T14:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-consulting-service-market-2023-top-companies-business-development-report-of-123-pages-by-2023-to-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
 
 secured: "tKwAqAdOrt/8H3FnXBtC6Lt/4qagv4SA++mTV9CR+j3MHEK0JFHB11QxchW00qk/gP86rWyWOUI1rqA3bGlhwJ0hhkpZrSRUBjZCGglUR28jsc/ILYz6zcn9uqc3itC/FhYMA9s+vj8Py5QQfmISkBp5WgqvZzPuWbSK8hIuK7N0Gk5Gxg/DqjKtgcxBi2CIip3mYOGVI75i8fnrfq39o45SfBhrQGwDX0WoxcZ3/MxqHNPg+iW6vPm+XXkuSWBMHW/jfVgvyrbojEknxX13pNWsxo5FOVjEdRSt9NbZDjrZ8N2eQA3xm1QkVcU/s/hg3azz1BFHuG10ttXkEZA0dHgqIq2cLNQUFI7nBrIBkSY=;BQlcCA3jJja3SHmGBFMLBw=="
 ---

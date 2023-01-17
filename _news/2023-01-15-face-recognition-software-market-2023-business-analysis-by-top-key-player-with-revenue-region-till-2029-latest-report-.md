@@ -29,43 +29,71 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Size in Global Survey 2023 with RISK Analysis by Company Profiles till 2029"
-    excerpt: "Jan 16, 2023 (The Expresswire) -- \"Artificial Intelligence Market\" New Research Insights Report 2023 | New Report Spread Across| 108 Pages |"
-    publishedDateTime: 2023-01-16T14:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-in-global-survey-2023-with-risk-analysis-by-company-profiles-till-2029-2023-01-16"
+  - title: "Computer Vision Software Market Detailed Analysis of Current Industry Figures with Forecasts Regional Outlook 2028"
+    excerpt: "Computer Vision Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at"
+    publishedDateTime: 2023-01-13T09:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-detailed-analysis-of-current-industry-figures-with-forecasts-regional-outlook-2028-2023-01-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Chipsets Market Size 2023 with big Company segment, cost-effective solutions Analysis Information 2028"
-    excerpt: "The Artificial Intelligence Chipsets market is expected to witness significant growth due to growing device usage"
-    publishedDateTime: 2023-01-15T16:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-2023-with-big-company-segment-cost-effective-solutions-analysis-information-2028-2023-01-15"
+  - title: "Artificial Intelligence In Healthcare Service Market : Competitive Strategy Analysis and Forecast Values 2023-2029"
+    excerpt: "\" Artificial Intelligence In Healthcare Service Market \" areas divides into sub-regions and nations/regions, are covered in this market. This research includes data on profit prospects in addition to market share in each nation and sub region."
+    publishedDateTime: 2023-01-17T06:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-competitive-strategy-analysis-and-forecast-values-2023-2029-2023-01-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Market Share 2023 Comprehensive Insights, Innovations and Business Outlook till 2029"
-    excerpt: "Research Reports added a research report on the global “Artificial Intelligence in Market\". The report includes"
-    publishedDateTime: 2023-01-17T04:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-market-share-2023-comprehensive-insights-innovations-and-business-outlook-till-2029-2023-01-17"
+  - title: "Artificial Intelligence (AI) in Fintech Market : Projections and Regional Outlook, Set for Rapid Growth and Trend by 2023 To 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence (AI)"
+    publishedDateTime: 2023-01-16T10:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2023-to-2028-2023-01-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 27
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market : Projections and Regional Outlook, Set for Rapid Growth and Trend by 2023 To 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence (AI)"
+    publishedDateTime: 2023-01-17T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2023-to-2028-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Iris Recognition Market Report 2022 to 2028: Adoption of Biometric Technologies in the Defence and Automobile Industries Drives Growth"
+    excerpt: "The Global Iris Recognition Market size is expected to reach $8.9 billion by 2028, rising at a market growth of 15.6% CAGR during the forecast period. Iris recognition is a precise and effective technology for protecting information,"
+    publishedDateTime: 2023-01-13T22:28:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/01/13/9743228.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "ACr5vVly4JbuzfHpTBrssyUHswAEowFXTRBKAw5AgqH+7eCYyrRjl03nLch9jpntl2ehj6FulnJgTHYRZ/MXwC9tmuenXyYcTmXUJAKGRupY8xexUuxE5jwVYDJiAxPB7bYZ+BJHqhFLyjVLegu3KgRWMz9eElCSKfbh9tH6RcOD8075CsBwefmMxdgsd/BlblSegG4/YGqzHh5xc3E+XrBt6Bbz5fBkF7ghOpc01zNWzM0cQZ7EBCy+gN2LPwKbmy1vCH03PFV5AmCRXyPvr2XuNDAeMzU978cHMu0U/39mJEHbSdaiy2+qo7mqHMLCT1Hef/JNPaS8aFvYdX4f1sWZN4QmxESRb5vmadYC7sE=;Vvt/QmRJ+fV6wjnibQtQUA=="
 ---

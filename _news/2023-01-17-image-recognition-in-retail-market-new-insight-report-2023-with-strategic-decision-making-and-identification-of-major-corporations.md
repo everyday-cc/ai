@@ -29,43 +29,71 @@ images:
     isCached: true
 
 related:
-  - title: "3D Facial Recognition Systems Market | Key factors responsible for rapid growth in the coming years 2028"
-    excerpt: "The Global 3D Facial Recognition Systems market 2023 to 2028 Report add an In-depth analysis on the market status of the"
-    publishedDateTime: 2023-01-13T04:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-key-factors-responsible-for-rapid-growth-in-the-coming-years-2028-2023-01-13"
+  - title: "Facial Recognition Devices Market Geographical Segmentation By Forecast Revenue 2023-2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Facial Recognition"
+    publishedDateTime: 2023-01-14T23:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-geographical-segmentation-by-forecast-revenue-2023-2028-2023-01-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice And Speech Recognition Software Market 2023 High Technology, Latest Trends and Future Spreads by 2028"
-    excerpt: "The Global Voice And Speech Recognition Software market 2023 to 2028 Report add an In-depth analysis on the market"
-    publishedDateTime: 2023-01-13T04:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-2023-high-technology-latest-trends-and-future-spreads-by-2028-2023-01-13"
+  - title: "Artificial Intelligence Systems in Healthcare Market 2023 Expected to Witness the Highest Revenue Growth Over Forecast to 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence"
+    publishedDateTime: 2023-01-14T23:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2023-01-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Interactive Self-service Kiosk Market Size 2023 with strong supplier, Key factors, driving the market growth, Information 2028"
-    excerpt: "The Interactive Self-service Kiosk market is expected to witness significant growth due to growing device usage"
-    publishedDateTime: 2023-01-15T16:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/interactive-self-service-kiosk-market-size-2023-with-strong-supplier-key-factors-driving-the-market-growth-information-2028-2023-01-15"
+  - title: "Artificial Intelligence Voice Market by Product and Geography : Forecast and Analysis 2023 to 2029 with Top Countries Data"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence"
+    publishedDateTime: 2023-01-17T03:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-by-product-and-geography-forecast-and-analysis-2023-to-2029-with-top-countries-data-2023-01-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 26
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Data Science and Machine-Learning Platforms Market Geographical Segmentation By Forecast Revenue 2023-2029"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. This research"
+    publishedDateTime: 2023-01-16T05:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-geographical-segmentation-by-forecast-revenue-2023-2029-2023-01-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence-Emotion Recognition Market Size 2023 with Economical Benchmarking, Old Statistics and Forecasts, Company Returns Shares"
+    excerpt: "Artificial Intelligence-Emotion Recognition market has witnessed growth from USD million to USD million from 2017 to"
+    publishedDateTime: 2023-01-17T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-size-2023-with-economical-benchmarking-old-statistics-and-forecasts-company-returns-shares-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

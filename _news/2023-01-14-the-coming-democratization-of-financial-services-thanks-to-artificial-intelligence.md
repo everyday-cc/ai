@@ -61,6 +61,20 @@ related:
         width: 795
         height: 530
         isCached: true
+  - title: "The AI revolution is here"
+    excerpt: "Could ChatGPT be used to give financial advice? InvestmentNews fed the algorithm questions to see how the AI would stack up."
+    publishedDateTime: 2023-01-17T21:57:00Z
+    webUrl: "https://www.investmentnews.com/the-ai-revolution-is-here-chatgpt-232769"
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 39
+    images:
+      - url: "https://s32566.pcdn.co/wp-content/uploads/2023/01/AI-tech.jpg.optimal.jpg"
+        width: 851
+        height: 567
+        isCached: true
   - title: "Alfonso Cahero Announced The Implementation Of Artificial Intelligence For Cahero Family Office"
     excerpt: "MIAMI, FLORIDA, UNITED STATES, January 15, 2023 /einpresswire.com / -- alfonso cahero , with his family office, contributes to the success"
     publishedDateTime: 2023-01-15T20:52:00Z

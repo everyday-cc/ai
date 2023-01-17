@@ -117,6 +117,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Microsoft plans to add AI capabilities into every product"
+    excerpt: "Microsoft plans to incorporate artificial intelligence products from ChatGPT and Dall-E 2 maker OpenAI in all of its"
+    publishedDateTime: 2023-01-17T20:35:00Z
+    webUrl: "https://www.gamesindustry.biz/microsoft-plans-to-add-ai-capabilities-into-every-product"
+    type: article
+    provider:
+      name: GamesIndustry
+      domain: gamesindustry.biz
+    quality: 34
 
 secured: "8GZTZHRHDFoIE6GOsCVWhF5bxt5FakzKaRS8otKEE30H0IQHUzIXZN6mkM9g0I/VvtrujB/uq6GfiYbPEptUybq/8SM4ffsKz5IhxQlu3kseVeUmITVLZ3iOtQVV6FDSIgjxqhKzAphVCRiGbZ9JTzwHsMbYGid0FdMMwsYtVEP14DGdZnU3vhxiEJgT2KMx+qLeZBH24F2JnYcnLNG7thyiYIXEYL7E9AEkEn/0JPtci4QZh8ubedVvBnTj2qo56oO6Z4zXBB3iM0j9ogbc85yDM1sag1V3GyAIR6Zc+l6W0AG1uML3uP7ScJgGYoW/cpHaJHttl6tfhHIBuD06i1M9VjdrZPmYTl+9x/0rqbVP8lixmMlmojDESu6U8ofauw8Uby3t7INZ1LQaNU9hZ2b61Gjdkq11OuI+uCKLs/YOxCQ8ourjHCpFN3HJJSXTywJgyBYNLseKc+rmT6/MO5DGlcsEfBWBu+Gs9NrqswbX1f8tVtGwfa/8IESFdYrTc3ZHpo4qXktD7kuQ7QPMJw==;8pG9G6x1qmkhOgAFw5BCPA=="
 ---

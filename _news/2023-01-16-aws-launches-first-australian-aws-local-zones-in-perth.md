@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/business-it-news/cloud/aws-launches-first-austr
 webUrl: "https://itwire.com/business-it-news/cloud/aws-launches-first-australian-aws-local-zones-in-perth.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 375
     height: 563
     isCached: true
-
-related:
-  - title: "AWS Perth Local Zones goes live"
-    excerpt: "Read more Phil Davis switches AWS for Google Cloud Perth founded location intelligence company Nearmap conducts compute-heavy artificial intelligence and machine learning workloads. According to ..."
-    publishedDateTime: 2023-01-13T05:56:00Z
-    webUrl: "https://www.arnnet.com.au/article/704684/aws-perth-local-zones-goes-live/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/sarah_bassett_headshot_2.jpg"
-        width: 466
-        height: 315
-        isCached: true
 
 secured: "oofa+Fy75xxKMyFOEPqDpco7sFpstFONtF9YLqy1YpU9swtH1V8VZF9tJbwhMkJLQJQ1hteOx8HQU+f4ZchryRpfYqJ5cRozddVA9x5HM0c32nu62G/lzVH0vav5/F36ezIRwZMpICLxguY7BdXK1jrXsoAqoJrmbTYG7TUYnnW9eOtjqV5WVORZbPFy/2Ya6A76prQccd45X+EHW2PtG54q4jPMAZf2hb/4MfMwGpNF/Dd8+g2WV359tkEEh9MkixZ1z1GeI1lMzULKt90OU9ayuFMhJfP/zuL884MV7VF/CkK3KInusYJvA72N/8xvVRQm94JAH+hfjeUGd+DJME5hEbyPG8SU7BhmkWQWDQ3+kI1CPlUAseeVU45Q0xiNO35/kfvHjdxuzzNwvETA4XOT3XBupC+v0ei0wLzNv80wjVimpTQ04WRCBdSAHh7iZ32TmffNlnnqKCxfXcaHiT/XGQ8+eJW2jL0oXK+zPZdir+TYeUzxTgnlG1M4F7pYRHEytTiDuiAsdroiGMO6tQ==;deYypAZHl2mCLcmts1mldQ=="
 ---

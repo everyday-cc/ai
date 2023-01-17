@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-13T16:27:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-machine-learning-market-to-witness-major-growth-by-2030-google-facebook-ibm"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-machine-learning-market-to-witness-major-growth-by-2030-google-facebook-ibm"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: Digital Journal

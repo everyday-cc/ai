@@ -49,6 +49,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Sapia.ai's new research reinforces its ethical use of AI in chat-based candidate screening"
+    excerpt: "Sapia.ai, creator of the world's first AI Smart Interviewer, will be presenting four groundbreaking research reports at the Annual Conference of the Society for Industrial and Organizational Psychology (SIOP),"
+    publishedDateTime: 2023-01-17T21:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sapia-ai-s-new-research-reinforces-its-ethical-use-of-ai-in-chat-based-candidate-screening-1032023669"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
 
 secured: "U4FD5Bdn7a1RDCj3zuLOL/ZNXWx3tqxxvJh9L8nZI93H4zgQ6Ay3lU9fLTbBLM4wLClnLIl3chgZ9m/tAGHQYpYkHCCMUDzrtiRXCPxbGVRe0ptSSRr6u3a2KwbytnuNUWNRjX2DuvGPPbwN4d5D9vQtXNwxP2QBp1SDd8+LBo10v10VT3bLG6Qgb37EbcJZEaA7EaO8sk4d5/Cp6NO+tBEfzFppR1zoz8k8RoNwJSugYoa+A5cHqvM5W7bD7meqYM6UyuQBqTpx08uZLIkS/B3svYc8F2AverI6JlU9wtpLwO+csgB8lwURbPQiHFQb8GdCuKVaQPqu1W6W2AGZkpZ7gwmxdFv4UZyf6GSiIDU=;w4KVfuSOq36KRjTbZtMqdw=="
 ---

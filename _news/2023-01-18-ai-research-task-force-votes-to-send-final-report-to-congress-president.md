@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-17T19:16:00Z
 originalUrl: "https://www.nextgov.com/emerging-tech/2023/01/ai-research-task-force-votes-send-final-report-congress-president/381851/"
 webUrl: "https://www.nextgov.com/emerging-tech/2023/01/ai-research-task-force-votes-send-final-report-congress-president/381851/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Nextgov

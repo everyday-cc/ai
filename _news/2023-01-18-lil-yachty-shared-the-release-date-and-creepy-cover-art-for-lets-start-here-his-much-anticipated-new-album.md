@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-17T20:18:00Z
 originalUrl: "https://uproxx.com/music/lil-yachty-lets-start-here-new-album/"
 webUrl: "https://uproxx.com/music/lil-yachty-lets-start-here-new-album/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Uproxx

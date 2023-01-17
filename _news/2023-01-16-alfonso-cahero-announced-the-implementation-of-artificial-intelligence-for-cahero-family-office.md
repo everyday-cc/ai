@@ -64,6 +64,20 @@ related:
         width: 795
         height: 530
         isCached: true
+  - title: "The AI revolution is here"
+    excerpt: "Could ChatGPT be used to give financial advice? InvestmentNews fed the algorithm questions to see how the AI would stack up."
+    publishedDateTime: 2023-01-17T21:57:00Z
+    webUrl: "https://www.investmentnews.com/the-ai-revolution-is-here-chatgpt-232769"
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 39
+    images:
+      - url: "https://s32566.pcdn.co/wp-content/uploads/2023/01/AI-tech.jpg.optimal.jpg"
+        width: 851
+        height: 567
+        isCached: true
 
 secured: "Sv5eSARRkYUE5IBJ7XOipgItWNxnXvjy6tUezsO9fGpnslCc2YK7+ZBl5cdJ7aJX6LOnBJht7i9C7BtzAWP3FKJi2Yi8HeC3RsLzQPSx4YLhdUvxSNAdHEPaYPjvTzoacpNWcUT1k1eOLIqusJBVAaamtP0qk+Jaro/EjNYMmozud/WKKRJbwNjn65y4cDFTG2ldvBqawYIWpxBaX7bms5rjI5gYXwtZp3yRjRFQGFS1nlUH4V5QE7VSenz0l4JxY6zqoCMjeVNqlt+WpsgYnS0//Q+TcVjirIF57C8d6jXbvCOVJGoUROtmFSqFD/t+wItPayI07ffV2dIMHRYCcPFXvjrkYEwTJy2UJ3HdCwlSAxyJsMSHGiGTT6OozfmX9jh6W6Q7yAYA/x+LnfntPQ10Bl6AcwlHI2H2Faxm6EzmQZqEU0eZhYHKLd6LLPfcIn2KBGTyCuaohWqzq4aDZjVrQeEeJA4fiALnJD8gP/jZX97/l4cRD/YzTE8kLEleaAPfoftgUJTLYkgKigFOkA==;NUU4UXugIGSFzjKysmkD8g=="
 ---

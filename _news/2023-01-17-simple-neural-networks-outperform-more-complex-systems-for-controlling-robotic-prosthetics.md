@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperfor
 ampWebUrl: "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.amp"
 type: article
-quality: 49
-heat: 49
+quality: 66
+heat: 66
 published: false
 
 provider:

@@ -240,6 +240,20 @@ related:
         width: 720
         height: 540
         isCached: true
+  - title: "Microsoft makes Azure OpenAI Service generally available"
+    excerpt: "Microsoft Corp. Monday announced the general availability of its Azure OpenAI Service, which provides access to artificial intelligence models developed by OpenAI LLC. The service is one of several Microsoft offerings that incorporate OpenAI technology."
+    publishedDateTime: 2023-01-17T20:38:00Z
+    webUrl: "https://siliconangle.com/2023/01/17/microsoft-makes-azure-openai-service-generally-available/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 71
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/microsoft-1.png"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Microsoft Announces Azure OpenAI Service for All"
     excerpt: "Microsoft today announced the general availability of its cloud-based Azure OpenAI service so that common people can use its AI tools like GPT-3.5, Codex, and DALL•E 2 to enhance their work. It also said customers could access OpenAI’s flagship AI chatbot ChatGPT through Azure."
     publishedDateTime: 2023-01-17T05:19:00Z
@@ -296,6 +310,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "ChatGPT coming to Azure: New integration shows how Microsoft will leverage OpenAI partnership"
+    excerpt: "Having trouble reliably accessing OpenAI’s ChatGPT? Microsoft has a solution. The tech giant says it will soon make the generative AI chat technology available as part of its Azure OpenAI… Read More"
+    publishedDateTime: 2023-01-17T18:32:00Z
+    webUrl: "https://www.geekwire.com/2023/chatgpt-coming-to-azure-new-integration-shows-how-microsoft-will-leverage-openai-partnership/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 68
   - title: "ChatGPT capabilities will be part of Microsoft’s Azure OpenAI Service soon"
     excerpt: "Last year, during Build 2022, Microsoft enhanced its Azure Cognitive Services with Azure OpenAI Service. The enhancement was designed to assist developers in"
     publishedDateTime: 2023-01-17T14:16:00Z
@@ -441,6 +464,15 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 47
+  - title: "Nick Cave really doesn't like AI bot ChatGPT"
+    excerpt: "Cave has a famously close relationship with his fans, one of whom sent a song \"written\" by ChatGPT \"in the style of Nick Cave.\" The whole blog from Cave is worth reading, but among some wonderful and wise observations,"
+    publishedDateTime: 2023-01-17T18:01:00Z
+    webUrl: "https://mashable.com/article/nick-cave-chatgpt"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 47
   - title: "Microsoft makes Azure with OpenAI’s Chat GPT available for enterprise customers"
     excerpt: "Microsoft announced it will make Azure’s cloud service with OpenAI’s ChatGPT accessible for its enterprise customers"
     publishedDateTime: 2023-01-17T07:25:00Z
@@ -467,6 +499,24 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 34
+  - title: "Azure OpenAI Service Opens Up, ChatGPT On Tap"
+    excerpt: "The general availability of Azure OpenAI Service was announced yesterday (Jan. 16) by company CEO Satya Nadella in a tweet, followed up 16 minutes later by a companion announcement from OpenAI that said: \"We've learned a lot from the ChatGPT research preview and have been making important updates based on user feedback."
+    publishedDateTime: 2023-01-17T20:01:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/01/17/openai-ga.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 34
+  - title: "Microsoft to Add ChatGPT to Azure Cloud Services ‘Soon’"
+    excerpt: "Microsoft, in talks for further investment in OpenAI, is widely releasing Azure service based on earlier partnership"
+    publishedDateTime: 2023-01-17T20:29:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-to-add-chatgpt-to-azure-cloud-services-soon-71673942043773.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
     quality: 34
   - title: "OpenAI, the startup behind ChatGPT, discusses tender offer that could value it at $29B"
     excerpt: "The startup was founded as a nonprofit back in 2015, with a mission of pursuing AI research for the benefit of humanity. In order to raise more capital to pay for the computing power needed to ..."

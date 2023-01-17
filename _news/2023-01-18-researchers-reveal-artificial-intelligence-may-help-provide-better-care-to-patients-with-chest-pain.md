@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-17T19:34:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/273386316/researchers-reveal-artificial-intelligence-may-help-provide-better-care-to-patients-with-chest-pain"
 webUrl: "https://www.bignewsnetwork.com/news/273386316/researchers-reveal-artificial-intelligence-may-help-provide-better-care-to-patients-with-chest-pain"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Big News Network.com

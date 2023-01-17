@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/news/ai-art-created-by-artificial-intelligence/
 ampWebUrl: "https://www.cbsnews.com/amp/news/ai-art-created-by-artificial-intelligence/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-art-created-by-artificial-intelligence/"
 type: article
-quality: 51
-heat: 61
+quality: 53
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/15/0a777ac7-b5cc-4c17-8cff-4579239482ad/thumbnail/1200x630/939181e15e7a8d4e07fa2fbbc67842ef/ai-stability-diffusion-cityscape.jpg"

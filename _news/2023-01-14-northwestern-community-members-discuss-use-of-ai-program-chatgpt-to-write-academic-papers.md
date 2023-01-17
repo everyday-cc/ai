@@ -74,20 +74,20 @@ related:
         height: 900
         isCached: true
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
-    excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
-    publishedDateTime: 2023-01-17T18:30:00Z
-    webUrl: "https://www.kalw.org/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever"
-    ampWebUrl: "https://www.kalw.org/npr-news/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever?_amp=true"
-    cdnAmpWebUrl: "https://www-kalw-org.cdn.ampproject.org/c/s/www.kalw.org/npr-news/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever?_amp=true"
+    excerpt: "While many Americans were nursing hangovers on New Year’s Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
+    publishedDateTime: 2023-01-17T19:51:00Z
+    webUrl: "https://wbhm.org/npr_story_post/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever/"
+    ampWebUrl: "https://wbhm.org/npr_story_post/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever/amp/"
+    cdnAmpWebUrl: "https://wbhm-org.cdn.ampproject.org/c/s/wbhm.org/npr_story_post/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever/amp/"
     type: article
     provider:
-      name: KALW
-      domain: kalw.org
+      name: WBHM
+      domain: wbhm.org
     quality: 37
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/f15d3d1/2147483647/strip/true/crop/1941x1195+0+130/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F13%2Fscreen-shot-2023-01-13-at-10.59.24-am-653c405371f044e9a4056427c4d35153ce997b5f.jpg"
-        width: 880
-        height: 542
+      - url: "https://wbhm.org/wp-content/uploads/2023/01/screen-shot-2023-01-13-at-10.59.24-am-653c405371f044e9a4056427c4d35153ce997b5f-771x578.jpg"
+        width: 771
+        height: 578
         isCached: true
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."

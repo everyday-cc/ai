@@ -15,6 +15,12 @@ topics:
   - AI in Finance
   - AI
 
-secured: "k0H8vH5QCBDrNG3mSgE+cPWORDsvtW5lvaVAKCcxBiovziISOEmK1awSMSE1OlFYXBh73oDpwJhdsrJTzCFBLDYemrMMPmTUVedScuCUzey3A1K1t6E1tOEuLiH5NYJ6QB0kYeMZT5LIX/d+1PB6NZCEChnI4bvl1+/RBntXtGIkL8FoRfOFlqXxa6Ic4FP8Pguev1IL/JCWbdWvF2fNdMXAOHKUHGnoDf5B4IVvtFzVTuUnzuEwA2c8oYNk0UnU+8UFxpkNU+I4jstoKhZPB7Wla6GApgzxrQ/PVg8368xNGPv2s5oUw80dPp5+EaeWz/JvvibByQx3M9SILSoELk+q+xEyEChvnfzwcXHND0I=;qyJUS8awQ5hxq+wfj64TAA=="
+images:
+  - url: "https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/12754431-jesus-romero-co-founder-and-cf-300x300.jpeg"
+    width: 300
+    height: 300
+    isCached: true
+
+secured: "kZfufmL1CoLIiU/hV8g3GjWCyeqdH/UyU1W15Pk9ijsElD/ynhZrClgpGqJdFWL0AedL4trBR8zxy/Zduy20elsSqssGx7j3IhscOfHfxYgPFNlIPODi15WkR4ycRnVgJRb2jYpFoRue49eoLuHfbZT5H2cexlliJzZeSWV4HMb4DRLdnbyLjkJElfAShYBX2PIZK6exQlX7HuJnmN5f4FZy0NlbUy7dy/riYiBjd67JWodSxnBAkEbjT2YVwslxHvykZH+p7dmJN0CFdHa8eeRJvCcxgKSlECbwV8RQD02QHhDt7gK1UGQa93zjXh5MCurLpXNfc6uL0vBbuo1fNWcCiawNowgw6gfSpllrInY=;AnyMqRpaaOaVofnvJ12tAw=="
 ---
 

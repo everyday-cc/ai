@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/world/india/india-lets-banks-use-face-reco
 webUrl: "https://www.reuters.com/world/india/india-lets-banks-use-face-recognition-iris-scan-some-transactions-sources-2023-01-13/"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "India introduces face, iris biometrics system to reduce bank fraud"
-    excerpt: "Large private and public banks have been given the green light to conduct face and iris biometric checks for substantial financial transactions."
-    publishedDateTime: 2023-01-16T17:55:00Z
-    webUrl: "https://www.biometricupdate.com/202301/india-introduces-face-iris-biometrics-system-to-reduce-bank-fraud"
+  - title: "Indian Banks Said to Soon Use Face Recognition, Iris Scan for Some Transactions"
+    excerpt: "The new measures can be used to verify identities of individuals making deposits and withdrawals exceeding Rs. 2 million in a financial year."
+    publishedDateTime: 2023-01-13T17:19:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/indian-banks-facial-recognition-eye-scan-some-transactions-sources-3690867"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/indian-banks-facial-recognition-eye-scan-some-transactions-sources-3690867/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/indian-banks-facial-recognition-eye-scan-some-transactions-sources-3690867/amp"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 70
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/07140653/iris-biometric-scaled.jpg"
-        width: 2048
-        height: 1408
+      - url: "https://i.gadgets360cdn.com/large/indian_banks_facial_recognition_iris_scan_reuters_1673630330807.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "JSQ3ZwmhAgABeX5W6NAlWBX1nk4NxT+yr9ILjms3l9as6xOIJWn3YQCMS7dwIHsXmyU0KHnv1lPuDf2FuQNOy4WDN+Nwobg7iAvtMdhZny1Y1Vq0kPLkC3XT6deLer2BIWifH2AvjoRY7/iWjuPGBfSkNaGA8YOifTbW1bYoDdlDL7/ZZp4qSk/fcYQKo5d9aJBO0e2OpDEQLaihetZSfzltcGr4f+bgkRetooABBSQQdNJWX1GHlhyVcXPyxIFpIX4AB9/F1Kg4SLuNgXBkVOmhje54OmfJeQdJ9exbcOd6CC1dc3pt9R2ECEOPiCl12QFKGBP1YphsLmnmN4YNmj9sRu1pKRFZzPtIHltOZ4y2mYBQ1Q17RnwWH/LtaNJu1vpJzz/pHiDBsM5XyO15QwagpbH69e9DjmMnmtQWRj532zEIMH6iRR/OZf0yfuDV67Xc2LmsRRvwpknMruabmXR3fhQOOEyWd61kzMGxdhysruWTuAEYxAd04JWbPgGb7e3M2C5L2mT6toTq3UUIJg==;V4Tsxsd3a4FyrrHukw4QSw=="

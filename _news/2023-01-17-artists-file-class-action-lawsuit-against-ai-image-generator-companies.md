@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/01/artists-file-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/artists-file-class-action-lawsuit-against-ai-image-generator-companies/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Lawsuits accuse AI content creators of misusing copyrighted work"
+    excerpt: "A group of visual artists has sued artificial intelligence companies Stability AI Ltd, Midjourney Inc, and DeviantArt Inc for copyright infringement, adding to a fast-emerging line of intellectual property disputes over AI-generated work."
+    publishedDateTime: 2023-01-17T19:05:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/lawsuits-accuse-ai-content-creators-misusing-copyrighted-work-2023-01-17/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
   - title: "'AI Art' Companies & DeviantArt Are Being Sued By Artists"
     excerpt: "Stability AI and Midjourney—two of the biggest names in the exploding field of AI-generated imagery—and portfolio site DeviantArt have become the target of a class action lawsuit, filed in California on behalf of artists."
     publishedDateTime: 2023-01-15T22:55:00Z

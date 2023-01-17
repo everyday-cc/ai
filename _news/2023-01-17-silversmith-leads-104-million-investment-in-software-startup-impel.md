@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/silversmith-leads-104-million-investm
 webUrl: "https://www.wsj.com/articles/silversmith-leads-104-million-investment-in-software-startup-impel-11673646671?tpl=pe"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "AI-Generated Car Buying? Impel’s New $104M Funding Drives Innovation"
+    excerpt: "Impel, the New York-based digital engagement startup, announced on Tuesday it secured $104 million in growth investment."
+    publishedDateTime: 2023-01-17T21:12:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/impel-funding-car-buying/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 39
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/2021/03/e-commerce.jpg"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "s8N+nNlk0NP8DMVQIEC4OlYn+H1hyNU87YQIgitNvYcAOaZabfbrrnWr9DHWsYNzEItng2gJ5ZKv1KH6zV0le9KQi4VS22B4aTY2fIczwcE2kK3OnFb5VZIvqIpSoTFynlbShtlwR0G1NxtTt6MlqR7KhLLQQnPo1E2C9KY2vEPPywXuEiDQ1aUoyTxu788LzLsrHTdbFbLZjEYFsLqJsoetkmeLFtrX4yQCpnCav1ADiDQKrPeoD7MjHjE0aWXSaR0OKfB2k6Lt6LbuVVwI7QTV8wqEa6GytkepJ4VLbBNrKQ7V5IlCH8pE3ivHSsNjS8xhybrajELgBQxM6zJ/bcajFo4z1ivHTgTq12pyIUs=;RMuQ5PHImqg5+MZ17KcgSQ=="
 ---

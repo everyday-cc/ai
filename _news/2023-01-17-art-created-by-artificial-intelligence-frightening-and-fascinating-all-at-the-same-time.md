@@ -38,7 +38,7 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/15/0a777ac7-b5cc-4c17-8cff-4579239482ad/thumbnail/1200x630/939181e15e7a8d4e07fa2fbbc67842ef/ai-stability-diffusion-cityscape.jpg"
         width: 1200

@@ -5,9 +5,11 @@ excerpt: "With technology acquiring centre stage in today's world, the majority 
 publishedDateTime: 2023-01-15T13:47:00Z
 originalUrl: "https://www.ndtv.com/india-news/majority-weapons-operated-through-artificial-intelligence-defence-minister-3694627"
 webUrl: "https://www.ndtv.com/india-news/majority-weapons-operated-through-artificial-intelligence-defence-minister-3694627"
+ampWebUrl: "https://www.ndtv.com/india-news/majority-weapons-operated-through-artificial-intelligence-defence-minister-3694627/amp/1"
+cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/majority-weapons-operated-through-artificial-intelligence-defence-minister-3694627/amp/1"
 type: article
-quality: 15
-heat: 15
+quality: 57
+heat: 67
 published: false
 
 provider:
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://c.ndtvimg.com/2023-01/p1ju8qus_rajnath-singh-650_625x300_15_January_23.jpg"
+    width: 650
+    height: 400
+    isCached: true
 
 related:
   - title: "Majority weapons are operated through AI thereby eliminating need of any in-person human presence: Defence Minister Rajnath Singh"
@@ -28,6 +37,6 @@ related:
       domain: devdiscourse.com
     quality: 0
 
-secured: "dEY3rcILAxxw/ancPed+2ZMXreHAydQYrkpbswgH5FINs+RXPDN5xjyPWS210ilAz7hZVxKhPHWIEJIpt2EQPeyyZ1VjbfJSwLBZglJgIEWh/Cy8ksQLwFl/Y2Csr6OMT6osQR4Us/y6lme1F517pRENM3sdd1DZzgu9neg2Xe46ndk+OAmkQuUfvorq/V0XWaLhNuVpmmt5vhbVWkVsIEUdNKr21rZwOYBhDuNu+TA8IrmLH8Jyaj2NzD4DbPJVgNIDinSds68mo1Dk0yt4ukp7DUGkdtK7VkLvUytQBWkLCUAgJNQipMT8SKjcUYYKD1sGV9neh+odiphH6ZWPluwNGXzNray372wNbOIyZcN1EcOL32Qsmz8KZjbVDwh4nHFfkKgNMQs+SfIXCmJjbc773JMwOXHLCdY0BG4PkklBOh2k78JXXmuzCt5uC8KqNyv7zZjgvgD1C5JoQnUR/96XzM9K8GLRbAX/cNfYN4jEqoetjNOBwO1vrFfTnyIn7buXPI2Xh8UY1wJ9DfIEmA==;11yz9vswhk5nyYtd6mBYPA=="
+secured: "UhmINfiZ9fw4ERJ1uJ594AasRNLWTy7vNxtvuUD0alRlFZLbnwhzQlib/gSrg8Yf6kBFYXoNPBsG6/gqzW7XPyvTOLiUQSPjhBWTEe9AP3BE7GS/QkOSn6jwJxUT0hYrll3+EMqdiXUKMhSOx4JHHJDuX7VHVPCg1CrFTCmnJJ58rTtUjXLwmUB15CN1DfN1bKa3encDx3uMAxwwx3BJQYmQ14KEtBDqvPNK+R8ROpRtd1L/yMu7tOwz6wMCKBu5XJ3dJM69hmik276EFNKlRRW5GrnbySX0EiO56QaHP0n3stYxHMSudAQC/j2isZ5EW6ROtbpskn2WCYUM+Hsbt3r6nR1xgxCPb9UaqJDTAv0=;0wkURiQqhFdJj7EpgHlwQw=="
 ---
 

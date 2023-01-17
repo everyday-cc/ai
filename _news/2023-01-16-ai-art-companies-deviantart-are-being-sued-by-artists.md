@@ -40,6 +40,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Lawsuits accuse AI content creators of misusing copyrighted work"
+    excerpt: "A group of visual artists has sued artificial intelligence companies Stability AI Ltd, Midjourney Inc, and DeviantArt Inc for copyright infringement, adding to a fast-emerging line of intellectual property disputes over AI-generated work."
+    publishedDateTime: 2023-01-17T19:05:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/lawsuits-accuse-ai-content-creators-misusing-copyrighted-work-2023-01-17/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
 
 secured: "kQuzmfKXllDlrx75J+IiTsPI1bIE0JyFc0tpPk8D+iErREk5iRTks3Afs4exXKTnyYdG+zJW+Rvg5d0yNAdy4Ts/wCWNOC58Ys/+tqYTOXP+2YPXZfPHKiMMJaiAcuvl5HE72tGKODRlZVQ2Epn3yJLCgKJFcQeRRyh1YPhmZt7hzFrs3XvsGNT+tYqt6FBuuc/ThFMt93OV10f8ap2e2mu534GgAabBIshWWWWbqhn/oyL1wwmomuQcoEaFSKHVH4PrMQLTjpP14o5+u1osWxJzSCxTPvnZTRTz7SBfxIek4sGy52+aedNUmc4gkAfOaXdFS2TzLFefwrZt8F1UWElDWldGlg3LcGhLcT9ZQo0xclwP/gVewLOEJJw+zEyjZ3pYpLOIil9Gr/PjIH5xWaVHa+8DTnpQYWZ8iPjc1N9W6oNJm2Av0h+qTPw3wH6oe0u9XHgFqCmi+b4YapZFgMobqM4FlnbFYs+DU4obZnOgO8tAxSTSNyIYzmC10NyfQiTsT+ioqchpEvzYxM2MEw==;t/diW1LgqmVqWaBwvbMyAw=="
 ---

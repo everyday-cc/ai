@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Variscite Releases New System on Module for Energy-Efficient Machine Learning Edge Devices"
+    excerpt: "Variscite, a leading worldwide System on Module (SoM) designer, developer and manufacturer, today announced new, state-of-the-art SoM for energy-efficient machine learning edge devices. Variscite's VAR-SOM-MX93 is based on NXP's iMX93 processor,"
+    publishedDateTime: 2023-01-17T21:14:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/01/17/9744585.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "W7/5bmUaRjwgM8ytV4aiTgOGQG5nb4j6YRdBDhx0v++vbFKeWBUcD0DGcHDJoxYgx25QYNN6zLXTWv0AVj8gjVoZWoX6M6VDTTYRXM+nYCjvY3u7Y71I1ss6dUtqtWnnD+gDg5Q3eBkO0aaTjcSTATtbRHiUpLqfAegwvUENvr7r5was7E7CfWuZyFY9obi2ODDSzemAiaJdn+LVXMpTMV0zswrS4wuPf+v9NZ51NiE+7kBhUNV8fDuMGAqLKf7xxV3fYoCao+J+UwEvqU1XMZWvTkZriDA1f/PRsjJKfFFJ03tSNgEozWFLVIWqouE+R91rhuqP9lVb78dL82M4AF9c4ae/fvnndBjVGsGd6HQ=;A3qi6ijZnmXEYC8s/nu2jg=="
 ---

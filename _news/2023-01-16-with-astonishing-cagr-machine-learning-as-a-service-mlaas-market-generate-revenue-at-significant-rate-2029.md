@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/with-astonishing-cagr-ma
 webUrl: "https://www.marketwatch.com/press-release/with-astonishing-cagr-machine-learning-as-a-service-mlaas-market-generate-revenue-at-significant-rate-2029-2023-01-16"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Data Science and Machine-Learning Platforms Market 2023 Expected to Reach Significant Rate by 2029"
+    excerpt: "As per latest research on Data Science and Machine-Learning Platforms Market (Report spread across 122 Pages), the"
+    publishedDateTime: 2023-01-16T09:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-2023-expected-to-reach-significant-rate-by-2029-2023-01-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "VjluNgsLhuTbWq+Tzw6YP/iuWT33ETDQf/PH25q7grRigrKcQbXQ9VHKR0mWKxjH39lMcgKju4uOOiwFAG7NW7h0yRGELU0nGQLUr2EMkx2bR5WmQbAYjXtnXgk007+Q6EKMc4y3bHKxwNJABJ5Z3riI8+dQpb3UpboYaDMygzYKF61YRmnC/SyL0GbqiLp72597CCWLjk3IjYnEG4weQWHUhDapXVarkl4J6X/+HgwFzRfcYVTVvm68MyOVN7goFW5fS6Ixyryj7x0ZMQ7md2rU8/j0ZciGrziaws4lvVB2w8skF1Kw4kuLa0a5oq2ja1fca+Lqj62uBg/hwxSTP7p7tMUgutDVjh/Pa70YUZQ=;o/hAh+bvBqDQk32bdj5J+g=="
 ---

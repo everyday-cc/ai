@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-17T20:17:00Z
 originalUrl: "https://www.afr.com/world/europe/get-russia-to-the-negotiating-table-urges-kissinger-20230118-p5cdbh"
 webUrl: "https://www.afr.com/world/europe/get-russia-to-the-negotiating-table-urges-kissinger-20230118-p5cdbh"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian Financial Review

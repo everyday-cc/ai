@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/"
 type: article
 quality: 103
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -122,6 +122,15 @@ related:
       name: techworm.net
       domain: techworm.net
     quality: 36
+  - title: "Microsoft plans to add AI capabilities into every product"
+    excerpt: "Microsoft plans to incorporate artificial intelligence products from ChatGPT and Dall-E 2 maker OpenAI in all of its"
+    publishedDateTime: 2023-01-17T20:35:00Z
+    webUrl: "https://www.gamesindustry.biz/microsoft-plans-to-add-ai-capabilities-into-every-product"
+    type: article
+    provider:
+      name: GamesIndustry
+      domain: gamesindustry.biz
+    quality: 34
 
 secured: "p39a11iSKCVVBCft7kXF6AgcOG4TWBuO2sNWHHIHlKAbunsHrDECV3OKyGDdTbZzMTKIdaUaSV53WzI2Cktw8QvMbu1Vh0FXot3UHrNzM8XP8B8mf2zuCynQBBA1VC/K155Duw2nqxnSlvoU96F0LQHxIxA+q3BwEfcdyuSJACCAsOp00HvW4nEQawmcO98o5peoWpf45R1xV2/NvZEMqHAg+vkuXyX5bGcS3doWSa386MdC64TnM5mH0C2gSOa+MvOia6haFtsRdcdMhMBW+btoAvcVuWsBEMzUkorJyTcxUw+YLOXGiVdhUyp9hTazjO7tSTh9sRuPLPwvovuRkccPC1iaIZbSvOuCySBC8qc=;+GWitdRFYMfZUlA6mYIqmA=="
 ---

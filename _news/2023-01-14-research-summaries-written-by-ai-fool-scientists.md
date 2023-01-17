@@ -24,6 +24,17 @@ images:
     height: 496
     isCached: true
 
+related:
+  - title: "Student Creates App to Detect Essays Written by AI"
+    excerpt: "In response to the text-generating bot ChatGPT, the new tool measures sentence complexity and variation to predict whether an author was human"
+    publishedDateTime: 2023-01-17T20:49:00Z
+    webUrl: "https://www.smithsonianmag.com/smart-news/student-creates-app-to-detect-essays-written-by-ai-180981463/"
+    type: article
+    provider:
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 17
+
 secured: "dSVLx9+7mtRHmnw/J0iFXzYSFWAiNWQuA+6XjgkKe5m3ZzO79wtsoU6L5uHYbzdy/dyPEBO2+T+AZXQ04YpJ5cu/c+oNVwdS+FhTB4M79T+utxzbuLyxeAe4dk6H9vM1PX7vmztuXBYdMXs7LiLYcuPlvwL76CeC/H+3RQTUrqGXP+xFOCyQ6AClNCHh4916jfX25o+gFfg6NOMuTV2l2b+ecrO3A56GFLx9wibb1BUucJGF993UZOk/J7aPH/9MYvT1zgQ7ZZ2KAnVr7yA2GViHDF5OoRs50WLSrGEVY4mzDW3TvaPauMwfNeTIeGDwRanWXHewW9eUPJVl7Qt8pADfcXPAwOyH4WG4OlypSItAiZz0rbRRvbPG9IEKb4fX3ivh4p51Ag0jL7YciIX4pmsNyUNC75DUdmVtakPZg4FoCBO65yNACtoqSHhK9GuabofdPt68eS32OLz/GSjh0P1NldWol5s+RHCk0iDrMmLHcATVgfzYx70xFZ+nCWCAkDVBNvyDZcgQsA9oSHU2aQ==;1KGSNsI56FJMbroG1SGpuw=="
 ---
 

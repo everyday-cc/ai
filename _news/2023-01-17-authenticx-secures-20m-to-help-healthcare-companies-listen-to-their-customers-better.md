@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-17T13:00:00Z
 originalUrl: "https://siliconangle.com/2023/01/17/authenticx-secures-20m-help-healthcare-companies-listen-customers-better/"
 webUrl: "https://siliconangle.com/2023/01/17/authenticx-secures-20m-help-healthcare-companies-listen-customers-better/"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: SiliconANGLE

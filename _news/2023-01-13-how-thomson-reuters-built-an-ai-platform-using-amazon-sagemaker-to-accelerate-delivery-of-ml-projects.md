@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-built-an-ai-platform-using-amazon-sagemaker-to-accelerate-delivery-of-ml-projects/"
 type: article
 quality: 106
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1562
     height: 779
     isCached: true
+
+related:
+  - title: "Set up Amazon SageMaker Studio with Jupyter Lab 3 using the AWS CDK"
+    excerpt: "Amazon SageMaker Studio is a fully integrated development environment (IDE) for machine learning (ML) partly based on&nbsp;JupyterLab 3. Studio provides a web-based interface to interactively perform ML development tasks required to prepare data and build, train, and deploy ML models. In Studio, you"
+    publishedDateTime: 2023-01-17T20:36:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/set-up-amazon-sagemaker-studio-with-jupyter-lab-3-using-the-aws-cdk/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
 
 secured: "LTv7MVQj4IPq6Pi6i9dTpCi6LiAanbi5agFzjuavw3VT2cZqV2EHITZjw8YohQA75zuR1wv1CxcvZumffFQUPs3nNLthl9vxvRZ2K+lzX39iilIhPLGaPiqr2GwIxDibatlOg9NGv7YKhhwWkioYVY0qP/lAANZFMF82SRQ4HaJFwQ+AqUdN3Z/YwSR5VtycyO9h/zw34WFGBz67/pzOY6MSdqPeh7w+ikWvcxbBvsdxiAzGzm/OezSAgEaU7xETzT2zSUqUEbYa3xOBroybmUaWXcDUmmZtUKF6bhfXhc2iAearYEl8ShgwrqvoHd8hZD0JW/tMVwpA8bPL5kBOEG1jCqiTJchtEAqPR3MhmKQ=;jEtQJnkIrBGhQCqQpi7Efg=="
 ---

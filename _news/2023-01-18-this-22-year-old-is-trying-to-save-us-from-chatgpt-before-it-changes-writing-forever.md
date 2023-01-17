@@ -1,29 +1,29 @@
 ---
 category: news
 title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
-excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
-publishedDateTime: 2023-01-17T18:30:00Z
-originalUrl: "https://www.kalw.org/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever"
-webUrl: "https://www.kalw.org/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever"
-ampWebUrl: "https://www.kalw.org/npr-news/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever?_amp=true"
-cdnAmpWebUrl: "https://www-kalw-org.cdn.ampproject.org/c/s/www.kalw.org/npr-news/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever?_amp=true"
+excerpt: "While many Americans were nursing hangovers on New Year’s Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
+publishedDateTime: 2023-01-17T19:51:00Z
+originalUrl: "https://wbhm.org/npr_story_post/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever/"
+webUrl: "https://wbhm.org/npr_story_post/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever/"
+ampWebUrl: "https://wbhm.org/npr_story_post/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever/amp/"
+cdnAmpWebUrl: "https://wbhm-org.cdn.ampproject.org/c/s/wbhm.org/npr_story_post/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever/amp/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: KALW
-  domain: kalw.org
+  name: WBHM
+  domain: wbhm.org
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/f15d3d1/2147483647/strip/true/crop/1941x1195+0+130/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F13%2Fscreen-shot-2023-01-13-at-10.59.24-am-653c405371f044e9a4056427c4d35153ce997b5f.jpg"
-    width: 880
-    height: 542
+  - url: "https://wbhm.org/wp-content/uploads/2023/01/screen-shot-2023-01-13-at-10.59.24-am-653c405371f044e9a4056427c4d35153ce997b5f-771x578.jpg"
+    width: 771
+    height: 578
     isCached: true
 
 related:
@@ -104,6 +104,6 @@ related:
         height: 630
         isCached: true
 
-secured: "u7rnq0KZyM/wKPOtQvegmx7Sznb4qC9hCXN786lCk/51wcN8fdpxWcqvOdqve3QZ3RiPBtVw9CS1i58QRswcrkR6/BDayKe/ZfizdOrGpB1EI4KnZJMwZFvngg4/AuziNJaWW3siNMQlgh7gDdnxX/rO84H0WBWIoCyQ7Zfguk9x/4nr0YLwv2neEMItmTOiGamXQmNhwCNYnXUhRjTfdXAiRfa0ya+P8cQ+oCqAWcyk31+IBu8PE/HMk0wI+OZZexa6M9WEpSE7dFm8vMVNDoBS0FFSMoJlClRTmzFtiJhKSXuO1jKv6Lpqz4b7+sUVuOnMj5Xyud8xvIsxPCN42JQQxtDhGyWG8OO/b5w3TJE=;qdrLTn43vb+rQdAykoTl6Q=="
+secured: "nCtsBHBwvLCZvdiDAxM0EOeIp47gKK82MZt9mEBqrjSdlHkDX/movgfwoSHgG5z568s8i5uoqbCZ24FCD/q5a/HpT6H7EL7V31yG4mbsGm3QBDMjlhCUU3PspBDkliX2TIYmPcRac3XzNy6IgZr00gxV7kGjwR/wOU/P6S7BbrVxRRjtZc0PKb7xX7fjAtt1Tv+W7fWZjlK6yewmIlgQIB0dlHwIU7t6f74mF123d2oU5ID6h9g76kQPRwQNVQnMKxfsSEijDrJofKMx3A7bttwnc37Rh2qe70Qp/QsM0Wv8za9OiEfpqNikgUhLCYXRGYoq8DJyi1+FkESTqEWfri1GBJUP2wSU7Syn7k3Nm7E=;RmLs7vInhyCAtqzjMzgo/w=="
 ---
 

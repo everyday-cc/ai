@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla staged 2016 self-driving demo, says senior Autopilot engineer"
+    excerpt: "The car is driving itself.\" We then see a Tesla Model X leave a garage ... 3D maps were used to pre-program the route, including where to stop, and during the self-parking demo a Tesla crashed into a fence, Elluswamy said. The fatal crash occurred on ..."
+    publishedDateTime: 2023-01-17T20:35:00Z
+    webUrl: "https://arstechnica.com/cars/2023/01/tesla-staged-2016-self-driving-demo-says-senior-autopilot-engineer/"
+    ampWebUrl: "https://arstechnica.com/cars/2023/01/tesla-staged-2016-self-driving-demo-says-senior-autopilot-engineer/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/01/tesla-staged-2016-self-driving-demo-says-senior-autopilot-engineer/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 89
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/02/Screen-Shot-2020-02-17-at-2.45.34-PM-800x494.png"
+        width: 800
+        height: 494
+        isCached: true
+  - title: "Tesla engineer testifies that 2016 video promoting self-driving was faked"
+    excerpt: "The testimony was taken as evidence in a lawsuit against Tesla for a fatal 2018 crash involving former Apple engineer Walter Huang."
+    publishedDateTime: 2023-01-17T21:36:00Z
+    webUrl: "https://techcrunch.com/2023/01/17/tesla-engineer-testifies-that-2016-video-promoting-self-driving-was-faked/"
+    ampWebUrl: "https://techcrunch.com/2023/01/17/tesla-engineer-testifies-that-2016-video-promoting-self-driving-was-faked/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/17/tesla-engineer-testifies-that-2016-video-promoting-self-driving-was-faked/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 88
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2017/08/tesla-model-x-desert-front.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla video promoting self-driving was staged, engineer testifies"
     excerpt: "A 2016 video that Tesla used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior engineer."
     publishedDateTime: 2023-01-17T16:14:00Z
@@ -73,6 +105,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Staged Self-Driving Video, Engineer Reportedly Says—In Latest Blow To Autopilot Claims"
+    excerpt: "The video ends with a Tesla apparently parallel parking itself, but the car actually crashed into a fence without driver assistance, a Tesla senior engineer said in a deposition obtained by Reuters."
+    publishedDateTime: 2023-01-17T18:48:00Z
+    webUrl: "https://www.forbes.com/sites/nicholasreimann/2023/01/17/tesla-staged-self-driving-video-engineer-reportedly-says-in-latest-blow-to-autopilot-claims/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 53
   - title: "Images Of Tesla's Next Gen Self-Driving Camera Hardware Leaked: Here's What They Reveal"
     excerpt: "Tesla, Inc TSLA unveiled its Hardware 3 Full Self-Driving computer. The hardware update brought more processing power to the vehicles to eventually enable the cars t"
     publishedDateTime: 2023-01-14T14:34:00Z
@@ -100,6 +141,20 @@ related:
       name: KTVU
       domain: ktvu.com
     quality: 39
+  - title: "Tesla engineer testifies 2016 self-driving video was staged"
+    excerpt: "Ashok Elluswamy said Tesla's autopilot team made the video — a 'demonstration of the system’s capabilities' — at the behest of CEO Elon Musk."
+    publishedDateTime: 2023-01-17T21:20:00Z
+    webUrl: "https://www.nydailynews.com/news/national/ny-tesla-self-driving-video-staged-engineer-testified-20230117-45s75mdqnbd4hmakyzxj2d4g24-story.html"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 39
+    images:
+      - url: "https://www.nydailynews.com/resizer/7BE6f552D40eaOwZBam0ZraxKMA=/1200x630/filters:format(jpg):quality(70):focal(1783x818:1793x828)/cloudfront-us-east-1.images.arcpublishing.com/tronc/ATCG7YYTEVFDLPSZPQQ4IRCN2M.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla engineer testifies that 2016 self-driving footage was faked"
     excerpt: "A senior Tesla (TSLA) engineer admitted that a 2016 video promoting the automaker’s autonomous driving technology was staged."
     publishedDateTime: 2023-01-17T17:13:00Z
