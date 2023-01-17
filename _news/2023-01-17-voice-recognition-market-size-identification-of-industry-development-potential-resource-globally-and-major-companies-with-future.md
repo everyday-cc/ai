@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-recognition-market
 webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-identification-of-industry-development-potential-resource-globally-and-major-companies-with-future-2023-01-17"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial Intelligence-Emotion Recognition Market Size 2023 with Economical Benchmarking, Old Statistics and Forecasts, Company Returns Shares"
+    excerpt: "Artificial Intelligence-Emotion Recognition market has witnessed growth from USD million to USD million from 2017 to"
+    publishedDateTime: 2023-01-17T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-size-2023-with-economical-benchmarking-old-statistics-and-forecasts-company-returns-shares-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Fvv3fzymO8LFkv9aWhDr2Zrw8PeqT8QaCBd/Nto44MFWOW9snQ2t7wLPsWVswwkDSO52BQ+xC4FL9eoaRU7npCMd2ieAyr8yMPtSsfZpJEJXyesTIOvbDf5pDXoOY1Ope14nzkowQJUou9dHCv6g33qZJPx5n7KlTFtt8i7Oud407KlN4ut2+9gzneIbcXfx2ihttBdSgAfQetHoqPwS1koHj3ZCfz/WjnIzce7n4PAzamJcE05kHyRvNNQ7rxsoAy3EAQfqHuErd1Rn2ZHKXimv77gs3n0JbWQatAi0lDNPXCdGeNQRH4rwvvfBVpBdKlaZWznsfnHKfiROeVq6qZy/TXglB3z75lyOfJvMFso=;K6BsxtvmJjVmAcFQWLPa8A=="
 ---

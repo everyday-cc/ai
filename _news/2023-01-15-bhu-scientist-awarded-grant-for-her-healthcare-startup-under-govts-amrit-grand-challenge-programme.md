@@ -37,7 +37,7 @@ related:
     provider:
       name: India Today
       domain: indiatoday.in
-    quality: 51
+    quality: 53
     images:
       - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202301/bhu-sixteen_nine.jpg?VersionId=Oce7bMvBWkImuGgzkmVgqVLO_i4tcrcx"
         width: 1200

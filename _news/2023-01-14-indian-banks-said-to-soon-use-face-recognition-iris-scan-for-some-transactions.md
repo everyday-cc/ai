@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Iran Apparently Using Facial Recognition to Catch Women Breaking Hijab Law"
-    excerpt: "The Iranian state is likely using facial recognition as a tool of tracking down and penalizing the women for rejecting the state's hijab law."
-    publishedDateTime: 2023-01-12T16:29:00Z
-    webUrl: "https://futurism.com/the-byte/iran-facial-recognition-hijab-law"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 37
-    images:
-      - url: "https://wp-assets.futurism.com/2023/01/hijab.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "eBDwUFCrfUhk9W3toc8aFoCCzt9duDKjgUFfwqBNelW/WDos4xiMkZpqmo2s3OuZ5ykRJFLKo4/LIJbuYtILBCUbVvyg29exMAWQ19lXPhJ+iia4egmjCohN1KOTLGSM1JEzNdDHQo/WXShUzEokjLSnEF8iS5V4+t0OgB2py2JMmruNPwtCxJrxbXU6PdyqEax62Yfvuc8OCTQmK0PgOtCDm66bd3XsGe71MGKD6tEMkh28lbo3YfVh5yGJbZrrjYQjdIO7QhONKT9aFsF0+PtOQoIeUrHa5/ofKSnlpWC3FWeiQFskGH13U8bqu8JLfGKZLloviYq9WO9WryaVFlMwYrD4R5apUVaEEAfiesmEZyc2VayvnhiUDHf1OvF6MA1V/JMQUDVQUcgwsdRySmKbQWrbkRhTQEq987MFku+Ak7X6rvSNJOiR1EOcr/4e+kYg+aV6ZsPAqtEflxvjuRhmltvsRvWWI3hqdpOQR1iBCrfeF1UnORe95uF/YZLj/blEaIlLQksaYsDs7cu24w==;rQznITV1DFsXuW0dSVZG9A=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "TCS Evolving Tech For EVs, Self-Driving Cars"
+    excerpt: "While we have done a few thousand kilometres in India, most of the testing and data collection and analysis has been done in the US, Japan and Europe.'"
+    publishedDateTime: 2023-01-17T04:53:00Z
+    webUrl: "https://www.rediff.com/business/report/tcs-evolving-tech-for-evs-self-driving-cars/20230117.htm"
+    ampWebUrl: "https://m.rediff.com/amp/business/report/tcs-evolving-tech-for-evs-self-driving-cars/20230117.htm"
+    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/tcs-evolving-tech-for-evs-self-driving-cars/20230117.htm"
+    type: article
+    provider:
+      name: rediff.com
+      domain: rediff.com
+    quality: 44
+    images:
+      - url: "https://im.rediff.com/345-230/money/2022/sep/28tata-tiagoev7.jpg"
+        width: 345
+        height: 230
+        isCached: true
   - title: "Tesla full self-driving system put to the test after Bay Bridge crash"
     excerpt: "OAKLAND, Calif. - A self-driving Tesla was put to the test by KTVU Friday to try to determine how a Model S caused a Thanksgiving Day eight-car pileup on the Bay Bridge. The crash has raised ..."
     publishedDateTime: 2023-01-14T05:50:00Z

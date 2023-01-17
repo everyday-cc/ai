@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-10-20-waymo-says-it-plans-to-launch-its-self-driving-service-in-los-angeles.md",
+      "title": "Waymo says it plans to launch its self-driving service in Los Angeles",
+      "excerpt": "Waymo says it plans to launch its ride-hailing service Waymo One in Los Angeles The company would not specify a timeline for when it expects the service to become available to riders. The company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/10/19/waymo-says-it-plans-to-launch-a-ride-hailing-service-in-los-angeles.html",
+      "originalUrl": "https://www.cnbc.com/2022/10/19/waymo-says-it-plans-to-launch-a-ride-hailing-service-in-los-angeles.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104568503-waymolexus.jpg?v=1666211967",
+          "width": 934,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/10/19/waymo-says-it-plans-to-launch-a-ride-hailing-service-in-los-angeles.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/19/waymo-says-it-plans-to-launch-a-ride-hailing-service-in-los-angeles.html",
+      "publishedDateTime": "2022-10-20T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-waymo-plans-to-launch-driverless-taxi-service-in-los-angeles.md",
       "title": "Waymo plans to launch driverless taxi service in Los Angeles",
       "excerpt": "A Waymo autonomous vehicle is seen reflected in a mirror as it drives along California Street on April 11 in San Francisco. Waymo has been driving autonomous cars in the Phoenix area since 2017 ...",
@@ -1345,49 +1397,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-artificial-intelligence-shows-how-kim-kardashian-and-sisters-look-with-no-cosmetic-work.md",
-      "title": "Artificial Intelligence shows how Kim Kardashian and sisters look with no cosmetic work",
-      "excerpt": "A digitally altered TikTok video has predicted what the Kardashian sisters would look like without their cosmetic enhancements – showing side by side comparisons of the family with and without surgery",
-      "sourceUrl": null,
-      "webUrl": "https://www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387",
-      "originalUrl": "https://www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.mirror.co.uk/incoming/article27997829.ece/ALTERNATES/s1200/3_Khloe-Kardashian.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387.amp",
-      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387.amp",
-      "publishedDateTime": "2022-10-13T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mirror",
-        "domain": "mirror.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

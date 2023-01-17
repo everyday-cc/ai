@@ -51,6 +51,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "TCS Evolving Tech For EVs, Self-Driving Cars"
+    excerpt: "While we have done a few thousand kilometres in India, most of the testing and data collection and analysis has been done in the US, Japan and Europe.'"
+    publishedDateTime: 2023-01-17T04:53:00Z
+    webUrl: "https://www.rediff.com/business/report/tcs-evolving-tech-for-evs-self-driving-cars/20230117.htm"
+    ampWebUrl: "https://m.rediff.com/amp/business/report/tcs-evolving-tech-for-evs-self-driving-cars/20230117.htm"
+    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/tcs-evolving-tech-for-evs-self-driving-cars/20230117.htm"
+    type: article
+    provider:
+      name: rediff.com
+      domain: rediff.com
+    quality: 44
+    images:
+      - url: "https://im.rediff.com/345-230/money/2022/sep/28tata-tiagoev7.jpg"
+        width: 345
+        height: 230
+        isCached: true
   - title: "Video shows Tesla abruptly stop, cause 8-car crash after Musk announced self-driving feature: report"
     excerpt: "Speaking to police, the driver of the vehicle stated he \"had been using Tesla's new 'Full Self-Driving' feature, the report notes, before the Tesla's 'left signal activated' and its 'brakes ..."
     publishedDateTime: 2023-01-13T14:30:00Z

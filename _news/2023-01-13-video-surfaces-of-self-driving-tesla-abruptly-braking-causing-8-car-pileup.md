@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/video-surfaces-of-self-driving-tesla-ab
 webUrl: "https://www.pcmag.com/news/video-surfaces-of-self-driving-tesla-abruptly-braking-causing-8-car-pileup"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/01/13/0x0-sales_01.jpg?width=1200&height=800&fit=crop"
         width: 900
         height: 600
+        isCached: true
+  - title: "TCS Evolving Tech For EVs, Self-Driving Cars"
+    excerpt: "While we have done a few thousand kilometres in India, most of the testing and data collection and analysis has been done in the US, Japan and Europe.'"
+    publishedDateTime: 2023-01-17T04:53:00Z
+    webUrl: "https://www.rediff.com/business/report/tcs-evolving-tech-for-evs-self-driving-cars/20230117.htm"
+    ampWebUrl: "https://m.rediff.com/amp/business/report/tcs-evolving-tech-for-evs-self-driving-cars/20230117.htm"
+    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/tcs-evolving-tech-for-evs-self-driving-cars/20230117.htm"
+    type: article
+    provider:
+      name: rediff.com
+      domain: rediff.com
+    quality: 44
+    images:
+      - url: "https://im.rediff.com/345-230/money/2022/sep/28tata-tiagoev7.jpg"
+        width: 345
+        height: 230
         isCached: true
   - title: "Tesla full self-driving system put to the test after Bay Bridge crash"
     excerpt: "OAKLAND, Calif. - A self-driving Tesla was put to the test by KTVU Friday to try to determine how a Model S caused a Thanksgiving Day eight-car pileup on the Bay Bridge. The crash has raised ..."

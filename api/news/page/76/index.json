@@ -2,6 +2,249 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2022-11-04-harmful-ai-rules-now-brought-to-you-by-europe-co-inc.md",
+      "title": "Harmful AI rules: Now brought to you by Europe & Co., Inc.",
+      "excerpt": "The EU’s new law on artificial intelligence aims to protect people from harmful AI by cracking down against discriminatory, opaque and uncontrolled algorithms that are increasingly being used to make life-changing judgments on immigration,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/harmful-ai-rules-european-union-corporate-influence/",
+      "originalUrl": "https://www.politico.eu/article/harmful-ai-rules-european-union-corporate-influence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2022/10/27/iStock-1312850689.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/harmful-ai-rules-european-union-corporate-influence/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/harmful-ai-rules-european-union-corporate-influence/amp/",
+      "publishedDateTime": "2022-11-04T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico Europe",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life.md",
+      "title": "Former iPhone Leader Joins Arm to Bring More Chips Into Your Life",
+      "excerpt": "Arm licenses chip designs to companies like Qualcomm and technology to others like Apple who design their own processors. Graphics and AI chip giant Nvidia tried to acquire Arm for $40 billion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/aafecc487b5fb4d281afcfab3be1714fad9f5b3f/hub/2022/11/02/8858bad7-8337-4e4b-aa39-ae46f7a17449/20141105-tony-fadell-01.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life/",
+      "publishedDateTime": "2022-11-04T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-self-driving-submarine-market-global-market-size-share-supply-demand-segments-and-forecast-2022-2028.md",
+      "title": "Self-driving Submarine Market Global Market Size, Share, Supply, Demand, Segments and Forecast 2022-2028",
+      "excerpt": "Global Self-driving Submarine Market Report 2022 is spread across 74 pages and provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at -  The information for each competitor includes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-submarine-market-global-market-size-share-supply-demand-segments-and-forecast-2022-2028-2022-11-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-submarine-market-global-market-size-share-supply-demand-segments-and-forecast-2022-2028-2022-11-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-82018-million-by-2028.md",
+      "title": "AI Governance Market: Scenario Featuring Key Drivers and Growth of USD 820.18 Million by 2028",
+      "excerpt": "As per the report published by Fior Markets, the global AI Governance market is expected to grow from USD 52.5 Million in 2020 to USD 820.18 Million by 2028, at a CAGR of 41% during the forecast period 2021-2028.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-820-18-million-by-2028/",
+      "originalUrl": "https://techbullion.com/ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-820-18-million-by-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/11/AI-Governance-Market.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-820-18-million-by-2028/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-governance-market-scenario-featuring-key-drivers-and-growth-of-usd-820-18-million-by-2028/amp/",
+      "publishedDateTime": "2022-11-04T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-our-future-artificial-intelligence-overlords-need-a-resistance-movement.md",
+      "title": "Our Future Artificial Intelligence Overlords Need a Resistance Movement",
+      "excerpt": "Artificial intelligence has been moving so fast that even the scientists are finding it hard to keep up. In the past year, machine learning algorithms have started to generate rudimentary movies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2022-11-04/our-future-artificial-intelligence-overlords-need-a-resistance-movement",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2022-11-04/our-future-artificial-intelligence-overlords-need-a-resistance-movement",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i83al0Y60bcI/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T23:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-australia-bets-on-facial-recognition-for-problem-gamblers.md",
       "title": "Australia bets on facial recognition for problem gamblers",
       "excerpt": "As guests arrive at eastern Australia’s Warilla Hotel, a small camera equipped with facial recognition software scans their faces as part of a scheme to tackle problem gambling. The tech ...",
@@ -894,222 +1137,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-dear-artists-do-not-fear-ai-image-generators.md",
-      "title": "Dear Artists: Do Not Fear AI Image Generators",
-      "excerpt": "True, new systems devalue craft, shift power, and wreck cultures and scenes. But didn’t the piano do that to the harpsichord?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/",
-      "originalUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63486e89acf5cc5989c3517c/master/pass/WI110122_ST_Ford_01.jpg",
-          "width": 1396,
-          "height": 1524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artists-do-not-fear-ai-image-generators/amp",
-      "publishedDateTime": "2022-11-03T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-ibm-launches-new-software-to-break-down-data-silos-and-streamline-planning-and-analytics.md",
-      "title": "IBM Launches New Software to Break Down Data Silos and Streamline Planning and Analytics",
-      "excerpt": "IBM has announced new software designed to help enterprises break down data and analytics silos so they can make data-driven",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/ibm-launches-new-software-to-break-down-data-silos-and-streamline-planning-and-analytics/",
-      "originalUrl": "https://www.datanami.com/this-just-in/ibm-launches-new-software-to-break-down-data-silos-and-streamline-planning-and-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-todays-cache-are-taiwanese-chip-firms-decoupling-from-china.md",
-      "title": "Today’s Cache | Are Taiwanese chip firms decoupling from China?",
-      "excerpt": "Taiwanese chip makers have been investing in mainland China since the 1980s, and thousands of firms operate there today. Decoupling from China won’t be an easy affair, but the process seems to have st",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/taiwan-chip-semiconductor-foxconn-apple-iphone-smartphone-supply-chain-firms-decoupling-us-china/article66090549.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/taiwan-chip-semiconductor-foxconn-apple-iphone-smartphone-supply-chain-firms-decoupling-us-china/article66090549.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/h89wyb/article65983848.ece/alternates/FREE_1200/2022-10-05T043447Z_921512572_RC2XQS933LTO_RTRMADP_3_TAIWAN-ECONOMY-CHIPS.JPG",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/taiwan-chip-semiconductor-foxconn-apple-iphone-smartphone-supply-chain-firms-decoupling-us-china/article66090549.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/taiwan-chip-semiconductor-foxconn-apple-iphone-smartphone-supply-chain-firms-decoupling-us-china/article66090549.ece/amp/",
-      "publishedDateTime": "2022-11-03T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-ai-can-teach-robot-dogs-tricks-for-cheap.md",
-      "title": "AI can teach robot dogs tricks for cheap",
-      "excerpt": "According to a new report courtesy of The New Scientist, however, that cost could soon drop precipitously thanks to training regimen overseen by multiple AI “coaches.” Judging from the video clip, we might as well start rolling out the red carpet—they certainly will have no trouble walking a straight line down one,",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/robot-dog-ai-training/",
-      "originalUrl": "https://www.popsci.com/technology/robot-dog-ai-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2022/11/02/Screen-Shot-2022-11-02-at-2.53.21-PM.png?auto=webp",
-          "width": 2000,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/robot-dog-ai-training/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/robot-dog-ai-training/?amp",
-      "publishedDateTime": "2022-11-03T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-cognitive-services-market-is-booming-worldwide-ibm-microsoft-google.md",
-      "title": "Cognitive Services Market Is Booming Worldwide IBM, Microsoft, Google",
-      "excerpt": "Cognitive Services are a set of machine learning algorithms that Microsoft has developed to solve problems in Artificial Intelligence (AI). Increased market adoption and increased interest in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/cognitive-services-market-is-booming-worldwide-ibm-microsoft-google",
-      "originalUrl": "https://www.digitaljournal.com/pr/cognitive-services-market-is-booming-worldwide-ibm-microsoft-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/11/Cognitive-Services.jpg",
-          "width": 764,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

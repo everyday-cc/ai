@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Microsoft to add ChatGPT to Azure cloud services ‘soon’"
-excerpt: "Azure customers will be able to use OpenAI products like ChatGPT in their own applications running in the cloud. Read more at straitstimes.com."
-publishedDateTime: 2023-01-17T03:07:00Z
-originalUrl: "https://www.straitstimes.com/business/microsoft-to-add-chatgpt-to-azure-cloud-services-soon"
-webUrl: "https://www.straitstimes.com/business/microsoft-to-add-chatgpt-to-azure-cloud-services-soon"
+excerpt: "The two companies have expanded their partnership recently, while there are rumors that Microsoft plans to give more funding to Open AI. Microsoft has expanded access to OpenAI’s software, making it generally available on its Azure cloud service."
+publishedDateTime: 2023-01-17T08:45:00Z
+originalUrl: "https://www.siliconrepublic.com/machines/microsoft-chatgpt-openai-azure-cloud"
+webUrl: "https://www.siliconrepublic.com/machines/microsoft-chatgpt-openai-azure-cloud"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: SiliconRepublic
+  domain: siliconrepublic.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/01/17/394916695_2.jpg?VersionId=_f6FBRN_.ujMbcQzypHpnb6rVx4pcy_T"
-    width: 860
-    height: 573
+  - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/01/AdobeStock_377722570_Editorial_Use_Only.jpeg"
+    width: 800
+    height: 600
     isCached: true
 
 related:
@@ -67,6 +67,22 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-97049819,width-1070,height-580,imgsize-65374,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1070
         height: 579
+        isCached: true
+  - title: "Microsoft Azure OpenAI service now generally available, ChatGPT coming soon"
+    excerpt: "Microsoft has announced the general availability of the Azure OpenAI service, which enables enterprises to power their apps with large-scale artificial intelligence models such as GPT-3.5,"
+    publishedDateTime: 2023-01-17T07:30:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-azure-openai-service-now-generally-available-chatgpt-coming-soon-777948"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/microsoft-azure-openai-service-now-generally-available-chatgpt-coming-soon-777948"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/microsoft-azure-openai-service-now-generally-available-chatgpt-coming-soon-777948"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 87
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/01/17/1330160-ai.jpg"
+        width: 1200
+        height: 720
         isCached: true
   - title: "Microsoft will 'soon' add ChatGPT to Azure OpenAI Service: CEO Satya Nadella"
     excerpt: "The software giant also announced the ‘general availability’ of its Azure OpenAI Service that gives customers access to various AI tools for use in their own applications."
@@ -160,6 +176,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Microsoft: Viral chatbot ChatGPT ‘coming soon’ to Azure OpenAI Service"
+    excerpt: "The Azure OpenAI Service has been available to a limited number of enterprise customers when it debuted in November 2021. Microsoft: Viral chatbot ChatGPT 'coming soon' to Azure OpenAI Service. Artificial Intelligence,"
+    publishedDateTime: 2023-01-17T07:28:00Z
+    webUrl: "https://www.itp.net/emergent-tech/microsoft-viral-chatbot-chatgpt-coming-soon-to-azure-openai-service"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 69
+    images:
+      - url: "https://www.itp.net/cloud/2023/01/17/Microsoft_buildings_EU-1.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Microsoft bets big on the creator of ChatGPT in race to dominate AI"
     excerpt: "As a new chatbot wows the world, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI."
     publishedDateTime: 2023-01-13T19:01:00Z
@@ -171,6 +201,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "ChatGPT is coming soon to Azure OpenAI Service: Microsoft CEO Satya Nadella"
+    excerpt: "Microsoft has allowed its cloud-computing users to preview tech by OpenAI a startup that it is backing. The preview has been done through a program that Microsoft calls the Azure OpenAI service."
+    publishedDateTime: 2023-01-17T07:25:00Z
+    webUrl: "https://www.devdiscourse.com/article/business/2321914-chatgpt-is-coming-soon-to-azure-openai-service-microsoft-ceo-satya-nadella"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 47
   - title: "Microsoft adding ChatGPT to Azure cloud service"
     excerpt: "OpenAI is already working on a successor GPT-4 model for its natural language processing. Still, concern about its accuracy — which Altman himself has said is not good enough for the bot to be relied on — has prompted caution about its premature use ..."
     publishedDateTime: 2023-01-17T04:57:00Z
@@ -204,6 +243,6 @@ related:
         height: 1363
         isCached: true
 
-secured: "kPKV4yI72KqRC5LWuXD6P79tCX0B80JV6GjumuMSrsbYGODSYNh9z2z8Vb/Atg6s/B5OOHIYcxr7LK3mhKdt5h4wWtHD03kIBgenRs221mFO+8vKv1caY/Q6bgGn/sSKMW4JmhjH3IeiAso7B+ieIcr6gADi0k98F/hlw+PNJPTS+LzTKWhr4C3tDUObaLpJwFnQtDVtEYAAqECyQTTLKAy8sy9VCGG4FkhyR9UcxDjZpeRHUKPw4hjZ4pILn60HxFhJ8W0Zg2tj12vwn86ghO8WPSHbWHZ+7p5BZJ4iVGGCbY8+E01gCdJuEw4PTQmujTlvwqg5/OZHxs817ZPrgv4Ld006kNsMv9NLlLUR8Q25v3L2c9pRW7dXGwtUiwFoyqRIrSfI/JCkbLrwMZbKRcCjr+9xjq0wxEvr/UabxRcNKLoZsAAMq12lAps9j6Ek83jPP/qAcs4jJ65dek9bTJyguk5saAGdg5RdK0e72WXherCLlNmdrlnofj/0RvEpW3prqG5w68LImgBzZRA6UQ==;GJXX6DFVzA+KNxi1Z3VUPw=="
+secured: "tLudWyjEPNd4n/qeM4B5rxVB7o3laXprVzMRXS0Cm05GCVGV83WWn8NBC63xOCbt7nwq4aSJriaQlU8izhIUW4rOI5CUEBgXr0jYDGnz/5Luwyd8zNCBzuDnJmji/QsI2dz08OOkXb7jj4DuTNHKpJz1LpO5P+DHypBcIeu7ycLca17jtqLLYHl9Fu/Ec16JffVeZnWYM3hf5VrcT3F6Hy1pLIWpBEo51ph4V3IZkff1Uwyt0b3+BYDsbp30QGSlN4LLFHY6TFy/ChgSB1+2WfWiigr9ne95cAt7jNVsmZ1W15MthezdVa8/aRqVsgS+ukg+4KYavf7jbbHMorLYpWPijWDsj1NakfNZ/Ks6R9s=;e/9E2xl7WtwPpXo3g317uw=="
 ---
 

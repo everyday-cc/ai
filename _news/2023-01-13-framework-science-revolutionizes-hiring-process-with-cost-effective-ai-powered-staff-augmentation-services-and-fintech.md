@@ -2,17 +2,17 @@
 category: news
 title: "Framework Science Revolutionizes Hiring Process with Cost-Effective, AI-Powered Staff Augmentation Services and Fintech"
 excerpt: "Using cutting-edge AI technology and a focus on fintech, Framework Science can build and manage teams faster and cost-effectively than any other company in the industry. One of the significant ..."
-publishedDateTime: 2023-01-12T20:33:00Z
-originalUrl: "https://fox59.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
-webUrl: "https://fox59.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
+publishedDateTime: 2023-01-12T23:44:00Z
+originalUrl: "https://www.news10.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
+webUrl: "https://www.news10.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
-  name: FOX59 News
-  domain: fox59.com
+  name: WTEN
+  domain: news10.com
 
 topics:
   - AI in Finance
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Making Waves In The Fintech Industry: 2023 Prophecy"
-    excerpt: "AI has also enabled fintech companies to reduce their operational costs. AI algorithms can streamline processes and automate mundane tasks, freeing up resources to focus on higher-level tasks. AI is certainly making waves in the fintech industry and will continue to do so in the years to come."
-    publishedDateTime: 2023-01-12T15:30:00Z
-    webUrl: "https://financialit.net/blog/ai/artificial-intelligence-making-waves-fintech-industry-2023-prophecy"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 39
-    images:
-      - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated_140.png"
-        width: 900
-        height: 480
-        isCached: true
   - title: "Top 10 Fintech and innovation trends to watch in 2023"
     excerpt: "Driving these innovations are Fintech companies which are contributing significantly to the growth of the local economy, creating new jobs, and stimulating an entrepreneurial ecosystem. Also, they are making the provision of financial services more efficient,"
     publishedDateTime: 2023-01-16T13:56:00Z
@@ -49,6 +35,6 @@ related:
       domain: ghanaweb.com
     quality: 4
 
-secured: "nr/dUxqG8SKWcNEmmdIu2CfbXzViVCD0oltLaVw5RvYB4kAnpgih575FppWgq2Sn5huq+kFjQqVPg2wnJTmky6aR3OdYfeiuCtE9YuXvaBeP3KHroflXMNF8qZnCHiHLAgcAH5i8t8AtKOUbhwOwFxOgKF+5EQg0RX4E3eousPF7JJaQfPvcYqytROPT5ETKm4g4qy3pCC2c5/upozEI9NgCStOlNGxlrbC3xDtqbqmx2LGL/m1NyL8/V1XTy/8kJJhtwDxxdpI37FDWknjbUoWeZugiReTd1+hagmMnB7o0Vac3wAInglsTFKoXa7nhk6HxkV3aPEjkctXOzWQHNlI7MMh001z0J7UCRJEPzuI=;cHn6n7/AQ6W9ex8PbDQTmQ=="
+secured: "WOyYWwJr45KpTgGJmnd+Sebc1sxanb6fDo4bfX0Bt5AbZ6Qst5PgVSQ6BlvSYlM8X0hDIR0WW4lZzrjvGFLXxLm1v+mTUAB5hR10MsMeN9C4MMMg51qA282z5rgLdc1ZjuEv3M45a8rdzJGCTPzeEDejTTd6ebSZg44MM11dBM6YY6bSv5pW6YXb8+nVhYcfxmKb/9EHKs6mMC4qM0mUbJMGYWJUQMc07YpO3BqUaJ0z7GFb8PhegL07pKJjrEXhTULa3sgUY1wuBFBAgkCWgyg1Mios5JFf3fGNNBG2QlPXxsi6YoRw4+/MAac2N9Vk4WHjlJEfQy7wwNsAAyuuWLT8dH4yzNALX+iQC5NH91c=;YwuVgtUhYpyxCo1keCebCw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/world/chinese-facial-recognition-technology-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/chinese-facial-recognition-technology-helping-iran-identify-women-breaking-strict-dress-code-report.amp"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://i.gadgets360cdn.com/large/indian_banks_facial_recognition_iris_scan_reuters_1673630330807.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Iran Apparently Using Facial Recognition to Catch Women Breaking Hijab Law"
-    excerpt: "The Iranian state is likely using facial recognition as a tool of tracking down and penalizing the women for rejecting the state's hijab law."
-    publishedDateTime: 2023-01-12T16:29:00Z
-    webUrl: "https://futurism.com/the-byte/iran-facial-recognition-hijab-law"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 37
-    images:
-      - url: "https://wp-assets.futurism.com/2023/01/hijab.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "1R9WF0Q9S7Ig+1h3O94uhCSJa4NGvH79g21Ye6OwYcwAF74QFTOqPT2r3wyDAtDldrnD6fUt1I+ai4/Q58V3+0E5X5mIqhOykgFKercHXTeEZMLWxDIQph0tKdNsWWCpTvpmoKLaYAUlzDuxP/uqWs2T7vqriQVRl+sRvFbWS2j6tTXW9x2hHKlM/O0KLddhoDzzwqxAwEDkccqeUXnIBtkajzvhsqijAKlnavzHhcbkBwqcyIOLsC2Gi9Rue6dGFUKs4ndMlZssb5+CnKHlzL1kH8tFgqzcunqbdZELhl54z933vAcBhAqXbNOP09zAJAT2WNcvHEsEiHjh/KRCss4fn2RiAElCHR2rTpYEmPUPQu0vTFI2+nprfZuU0VwDdr/4xpjddNRx83uIiLnGAM0pDzmsmmBHVEuBNUN9v5yqlEPj4HccwRe2JgBO+K1pfJP+psfiQuN3mGo/lpPGlNAsS6vHSysZdt/UE0/jR+R1biIC7HllLZLrsUj1uwB16XCJFPex8CmgfWcuyr0UpQ==;tt5P9wYR4mO27TGdAn7F/w=="
