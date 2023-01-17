@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/01/15/even-nvidia-is-using-ai-
 webUrl: "https://www.fool.com/investing/2023/01/15/even-nvidia-is-using-ai-to-improve-its-products-wh/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 934
         height: 594
         isCached: true
+  - title: "Exigent AI Admitted to NVIDIA Inception Program for Startups"
+    excerpt: "Exigent AI is excited to announce that it has been selected to join NVIDIA Inception, the world's leading AI and data science startup program. NVIDIA Inception provides support to pioneering startups that leverage AI to transform different industries ..."
+    publishedDateTime: 2023-01-17T09:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/p30433686/exigent-ai-admitted-to-nvidia-inception-program-for-startups"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "IRIlleOBbd9osJfRXmWCs7BcGG19NpsY9y+jyPgTwnam4zaJTAdBvFQJIcJSx/BNo7G9YMMzeTLgoNtQDcE4jhWrWFduX4ms4PfOXOLOZAKfVslruIZk/Bd3hMTC1cQkreV3zOOLFosoGvtDYmoDqCRH+aVFP55yKr9SCBcpoGVgC1JL8wk5qVedZ7KfKFySpY3ZaByCBwiyl1/Oor3tD0oiBjkPaLtcKpZjXhy6kULNAvnpqcV2xP0poE5DFSJU40TmAFCKcPhK61YIv8xVhkt7Z52ouQRIY1CMaAJL3lHitsTTW3ydGwBypmrNjjSbktzcFDmEvH78CZAFEbJlEBHtG7W/NafPfCUvge9VAUU=;08p+Z0Cwvvw2uz+PxIbq+w=="
 ---

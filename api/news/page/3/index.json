@@ -209,7 +209,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-outlook-2023-and-forecast-to-2029-with-top-countries-data-2023-01-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 195,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -891,19 +891,19 @@
     {
       "path": "_news/2023-01-12-emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation.md",
       "title": "Emagia and Osmania University Sign Pact to Accelerate AI and Fintech Innovation",
-      "excerpt": "Hyderabad Telangana [India] January 12 ANIGPRC Advancing its commitment to innovations and future-ready workforce Emagia USA today announced the launch of Fintech Innovation Labs at OU in collaboratio",
+      "excerpt": "Partnership aims to accelerate digital finance and Web3 innovations as well as to create large pool of future-ready global workforce",
       "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/273355684/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation",
-      "originalUrl": "https://www.bignewsnetwork.com/news/273355684/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation",
+      "webUrl": "https://www.hindustantimes.com/brand-stories/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation-101673518614175.html",
+      "originalUrl": "https://www.hindustantimes.com/brand-stories/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation-101673518614175.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.bignewsnetwork.com/MmVlMjZjNmEtN2I.jpg",
-          "width": 630,
-          "height": 473,
+          "url": "https://images.hindustantimes.com/img/2023/01/12/1600x900/EOU1_1673518823177_1673518835156_1673518835156.png",
+          "width": 1600,
+          "height": 898,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -911,13 +911,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T02:55:00-08:00",
+      "ampWebUrl": "https://www.hindustantimes.com/brand-stories/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation-101673518614175-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation-101673518614175-amp.html",
+      "publishedDateTime": "2023-01-12T04:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
         "images": null,
         "publishers": null,
         "authors": null

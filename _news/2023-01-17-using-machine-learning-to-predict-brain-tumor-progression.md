@@ -56,20 +56,20 @@ related:
         height: 1280
         isCached: true
   - title: "Study reveals machine learning can predict brain tumor progression"
-    excerpt: "Researchers analysed two sets of MRIs from each of five anonymous patients suffering from GBM. The patients underwent extensive MRIs, waited several months, and then received a second set of MRIs. Because these patients,"
-    publishedDateTime: 2023-01-17T05:34:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/study-reveals-machine-learning-can-predict-brain-tumor-progression/97047394"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/study-reveals-machine-learning-can-predict-brain-tumor-progression/97047394"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/study-reveals-machine-learning-can-predict-brain-tumor-progression/97047394"
+    excerpt: "Researchers at the University of Waterloo have developed a computational model to better accurately anticipate the emergence of lethal brain tumours."
+    publishedDateTime: 2023-01-16T17:55:00Z
+    webUrl: "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression"
+    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression?amp"
     type: article
     provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
+      name: devdiscourse
+      domain: devdiscourse.com
     quality: 74
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-97047394,imgsize-81168,width-1200,height-628,overlay-ethealthworld/study-reveals-machine-learning-can-predict-brain-tumor-progression.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_01_2023_17_49_51_9560931.jpg?width=1280"
+        width: 1280
+        height: 960
         isCached: true
 
 secured: "NsJGgx+TFfb90EZnN5jgabYMZOEpXeF5kxjTd5rkYsmWraTSP8D6Tu1y2VJAQKut+6jCYLakuTE2K19k8glU80s1kpRXFCNALG9R9Z0ABkqSstAwfGr/kIEM8u6jElAtIgfBy/IcOjBdd0WL6T5YSwWaKYaXH8MuS68LYaGkiVFnaEPoDQbt5dieHH9mDJ/Lkws0+/qPe+GuIyNYwgcGM1xM1sD1W22021JqLKfXltVppxUKZIBVYSSv+rJNEsSxAS10mJ6k9xDyz0DJxwRyqYA6sJJ0WdpJ3RcVEhswVW2rtSJqvqrJZuN08dIrlax5R0tfnpC5usPycvXMOgJLqd2pQkmw2h1kxzog+rIoELU=;2JPIADcX4cf4Mhb5tCyVHw=="

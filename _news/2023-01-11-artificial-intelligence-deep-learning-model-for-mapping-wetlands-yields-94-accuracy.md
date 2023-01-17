@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Artificial intelligence deep learning model for mapping wetlands yields 94% accuracy"
-excerpt: "Chesapeake Conservancy's data science team developed an artificial intelligence deep learning model for mapping wetlands, which resulted in 94% accuracy. Supported by EPRI, an independent ..."
-publishedDateTime: 2023-01-10T22:17:00Z
-originalUrl: "https://phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.html"
-webUrl: "https://phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.html"
-ampWebUrl: "https://phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-artificial-intelligence-deep-wetlands-yields.amp"
+title: "Artificial Intelligence Deep Learning Model for Mapping Wetlands Yields 94% Accuracy"
+excerpt: "Chesapeake Conservancy’s Data Science Team Publishes Article in “Science of the Total Environment” Annapolis, MD – Chesapeake Conservancy’s data science team developed an artificial intelligence deep learning model for mapping wetlands ..."
+publishedDateTime: 2023-01-10T16:57:00Z
+originalUrl: "https://www.directionsmag.com/pressrelease/12026"
+webUrl: "https://www.directionsmag.com/pressrelease/12026"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Directions Magazine
+  domain: directionsmag.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc.jpg"
-    width: 1384
-    height: 886
+  - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2023/January/10/7/ccd1cc1a-ce14-4801-8238-379214b79d70-sized"
+    width: 800
+    height: 1065
     isCached: true
 
-secured: "JVfBHLS0uFHmZxfsoxN1LGeYL0ob4/on5RW1HDNQPRDdkELl44EQRVjs11ZxnAokWnZP/k7pJeqoE+8lq/n9gkFgETs0OiU493tEBKAypxfAf+7TrTn7z0jwxPayaGMo28gtcy1TnAzDU1/mVyiITsy8RXjt7Wdb6KRrefNa20S5OB5aO1xZbrzsMgcMxCUoQ/Iyism1cZ44KBMlqfnsM0Zcc0sudL5r7NLDpkj4rfsiQfkPXB9lewfcCGtFkKqR5AGZPx4sPlrLn275vcQhhn2FW/g1XtaPFAunHI889YHT4utyh4UurVy/RnekHtWebYzYwS4ibFn/0shJPeiA2qCtqy7uvjgcg8K0wSkznjU=;fiPoJoOSli6EUbAqHE6Ahw=="
+secured: "flPgAvyxwOF/gEHm2UhBUKi8Nutb7QCJgMv8lxK5d+wtyCPBuQNaw3XNU4cgWnBeiEUX792xNjZMkz09RtGMRfiLxyjitbzCkejCZ/k/1ZyjNcrBdFQ0YEWNIB4WAl6G5elSiAzazuDaEnKgwB/WeExX9p6SS65FbXFuZlosz/5uJPJHUtDp0sOBDDGxYeLF+nMSIaEkEb2l63BMhalS1SLZ2gE9D4xyUfKYzlhkPhH/g9KXzP9IiPUz8lhf+iO8kJ+jEjONjlxZl2h4xUHe7tHf3pS1pQQxvllBQWe6u9TZGRajyxVoa8r2L9jJ7J2xptD+VS13YFEJPnsuxgogof9KxBjxoUil5THvmHRE0js=;v6I1fZHM9BNRDgFqusCI3Q=="
 ---
 

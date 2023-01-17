@@ -1,30 +1,31 @@
 ---
 category: news
-title: "From A 'Deranged' Provocateur To IBM's Failed AI Superproject: The Controversial Story Of How Data Has Transformed Healthcare"
-excerpt: "Just over a decade ago, artificial intelligence (AI) made one of its showier forays into the public's consciousness when ibm's watson"
-publishedDateTime: 2023-01-16T12:50:00Z
-originalUrl: "https://menafn.com/1105433732/From-A-Deranged-Provocateur-To-IBMs-Failed-AI-Superproject-The-Controversial-Story-Of-How-Data-Has-Transformed-Healthcare"
-webUrl: "https://menafn.com/1105433732/From-A-Deranged-Provocateur-To-IBMs-Failed-AI-Superproject-The-Controversial-Story-Of-How-Data-Has-Transformed-Healthcare"
+title: "From a ‘deranged’ provocateur to IBM’s failed AI superproject: the controversial story of how data has transformed healthcare"
+excerpt: "To understand the potential for machine learning to transform medicine, we must go back to the controversial origins of data use in healthcare"
+publishedDateTime: 2023-01-16T11:52:00Z
+originalUrl: "https://theconversation.com/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362"
+webUrl: "https://theconversation.com/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362"
+ampWebUrl: "https://theconversation.com/amp/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362"
 type: article
-quality: 29
-heat: 29
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
-  - IBM AI
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-01/16/TC_44ff2image_story.png"
-    width: 640
-    height: 452
+  - url: "https://images.theconversation.com/files/503380/original/file-20230106-16-mc22tn.png?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=226&fit=crop"
+    width: 320
+    height: 226
     isCached: true
 
-secured: "dLlZoeSgR3zzIpU4gfl75SoYPipBLJTfIr3vzFl7I4g3kgDqeM6FAbd3uB9kum4AQDWEDzPjDtkc9dL6h5iCGwc7x1Gz/ktHP501wxxohxV3+a4pGOc2mVmRT3kKoh6MJMY6/wpk6UAJHMkPD0YwMTXitRkYcZ/lMKFNZV6XXrFlkIUePRSp1l6l5V7MGJNfa96/otbiY6x8c0otgrrhMujoNwW/w3HVdSfpZ5fZNavFpyGOeP6ZSbyT/CJ/g7eGLNMKEqdIgZqBV6Bi7nmhCPqyy5bEQWI9FotzhW9KvS2HvLxPtR20Oxz0RpAMunZOTz4z1ocLpOE9w3bxFTbMvK1t7nc1U5SdY+NZZzWdbbI=;tN13/lPvtpj34Kc4T3y8WA=="
+secured: "scGG/63E9MqxqEEoavEsj/40ND3+mb+5yDB8LhQZU+IMhs4OvbpNlZPLpfjaYvCaMDn3djQWfd3kpPMUcOFJNRTaq71Al0g1vaZIXzRJvPxsNTdQBGARxtmA+8VJ/JMimXjO2sGy0ZYv5rwBKOJv/HdQoIG2fiEfjNqyS9LK1WBIykKSff30iaBHx5Tn8voMZwE2pgwMyc9LGKqTQ5dBauBXE7wzsdsoz23O28vg2Yq8NDcBohSdFqqH+qjoODiZSNcHC7GIWKtmQVKdaL2pLq7rshhS17y17MpVulasjMeEecDY4Wsm8hQNPFL2y5HxjPQtlG71BwpTFPEcrH0uBrCv0dUHVx4jbji/iCxixyk=;T5MjlVL73kcRmyFVEpj+Rw=="
 ---
 

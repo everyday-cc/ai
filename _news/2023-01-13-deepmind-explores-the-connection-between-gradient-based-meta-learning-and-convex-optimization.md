@@ -91,6 +91,20 @@ related:
         width: 1312
         height: 738
         isCached: true
+  - title: "Getty Images is suing the creators of AI art tool Stable Diffusion for scraping its content"
+    excerpt: "Getty Images claims Stability AI ‘unlawfully’ scraped millions of images from its site. It’s a significant escalation in the developing legal battles between generative AI firms and content creators."
+    publishedDateTime: 2023-01-17T10:30:00Z
+    webUrl: "https://www.theverge.com/2023/1/17/23558516/ai-art-copyright-stable-diffusion-getty-images-lawsuit"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 57
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/3lriwngDiXIMJuTa0zlasdWLb4A=/22x98:1519x1146/1200x628/filters:focal(775x611:776x612)/cdn.vox-cdn.com/uploads/chorus_asset/file/24365786/Screenshot_2023_01_17_at_09.55.27.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Artists file copyright lawsuit against generative AI providers"
     excerpt: "Three artists have filed a lawsuit that accuses generative artificial intelligence providers Stability AI Ltd., DeviantArt Inc. and Midjourney Inc. of copyright infringement.  The Verge reported the development today."
     publishedDateTime: 2023-01-16T21:00:00Z

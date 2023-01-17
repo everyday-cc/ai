@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-17-commentary-facial-recognition-will-transform-airport-security-checkpoints.md",
+      "title": "Commentary: Facial recognition will transform airport security checkpoints",
+      "excerpt": "The biggest criticism of facial recognition technology is the perceived invasion of privacy and the security of photos taken at checkpoints. Yet the photos being used to match your identity, like when applying for a passport or participating in the Global ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.yakimaherald.com/opinion/commentary-facial-recognition-will-transform-airport-security-checkpoints/article_2b022e7c-952b-11ed-b00b-5bb3f6281b9d.html",
+      "originalUrl": "https://www.yakimaherald.com/opinion/commentary-facial-recognition-will-transform-airport-security-checkpoints/article_2b022e7c-952b-11ed-b00b-5bb3f6281b9d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/6/b1/6b106f7e-952b-11ed-b53b-db389e490e67/63c48ac6bc23a.image.jpg?resize=1024%2C756",
+          "width": 1024,
+          "height": 756,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.yakimaherald.com/opinion/commentary-facial-recognition-will-transform-airport-security-checkpoints/article_2b022e7c-952b-11ed-b00b-5bb3f6281b9d.amp.html",
+      "cdnAmpWebUrl": "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/commentary-facial-recognition-will-transform-airport-security-checkpoints/article_2b022e7c-952b-11ed-b00b-5bb3f6281b9d.amp.html",
+      "publishedDateTime": "2023-01-17T01:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yakima Herald-Republic",
+        "domain": "yakimaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-italian-startup-clothing-line-will-protect-your-identity-from-facial-recognition-software.md",
       "title": "Italian Startup Clothing Line will Protect Your Identity from Facial Recognition Software",
       "excerpt": "Big Brother is watching you...unless you wear this wacky shirt. Cap_able, an Italian clothing start-up, is trying to make fashion for the",
@@ -252,50 +296,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-facial-recognition-will-transform-airport-security-checkpoints-commentary.md",
-      "title": "Facial recognition will transform airport security checkpoints | Commentary",
-      "excerpt": "The true role of airport security is ensuring that you are the person you claim to be. Facial recognition enhances such efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.orlandosentinel.com/opinion/guest-commentary/os-op-facial-recognition-biometrics-tsa-airport-security-20230113-cckbpdteprba7kcyyvracg7iru-story.html",
-      "originalUrl": "https://www.orlandosentinel.com/opinion/guest-commentary/os-op-facial-recognition-biometrics-tsa-airport-security-20230113-cckbpdteprba7kcyyvracg7iru-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.orlandosentinel.com/resizer/csfLNVeObihARBGOaSm4ZUb0fHU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/IEBE4YD4TRDKTJCZT6PZJR6CDM.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orlando Sentinel",
-        "domain": "orlandosentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     },
     {

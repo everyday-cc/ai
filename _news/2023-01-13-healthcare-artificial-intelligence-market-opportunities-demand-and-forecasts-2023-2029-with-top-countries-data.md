@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Service Market : Competitive Strategy Analysis and Forecast Values 2023-2029"
+    excerpt: "\" Artificial Intelligence In Healthcare Service Market \" areas divides into sub-regions and nations/regions, are covered in this market. This research includes data on profit prospects in addition to market share in each nation and sub region."
+    publishedDateTime: 2023-01-17T06:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-competitive-strategy-analysis-and-forecast-values-2023-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Devices Market Geographical Segmentation By Forecast Revenue 2023-2028"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Facial Recognition"
     publishedDateTime: 2023-01-14T23:13:00Z

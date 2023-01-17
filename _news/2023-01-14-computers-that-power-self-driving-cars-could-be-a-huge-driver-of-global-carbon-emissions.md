@@ -23,45 +23,34 @@ topics:
   - AI
 
 related:
-  - title: "Computers that power self-driving cars could be a huge driver of global carbon emissions"
-    excerpt: "In the future, the energy needed to run the powerful computers on board a global fleet of autonomous vehicles could generate as many greenhouse gas emissions as all the data centers in the world today."
-    publishedDateTime: 2023-01-12T17:56:00Z
-    webUrl: "https://techxplore.com/news/2023-01-power-self-driving-cars-huge-driver.html"
-    ampWebUrl: "https://techxplore.com/news/2023-01-power-self-driving-cars-huge-driver.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-power-self-driving-cars-huge-driver.amp"
+  - title: "Self-driving cars: The technology, history and future explained"
+    excerpt: "KN explains self-driving cars, the history and technology behind autonomous vehicles and where they are on the road."
+    publishedDateTime: 2023-01-17T10:01:00Z
+    webUrl: "https://www.cbc.ca/kidsnews/post/self-driving-cars-the-technology-history-and-future-explained"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 35
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/self-driving-car.jpg"
-        width: 1920
-        height: 1344
+      - url: "https://www.cbc.ca/kidsnews/content/_card_resize/KNE_Self-DrivingCars_sitecard.png"
+        width: 860
+        height: 484
         isCached: true
-  - title: "Self-driving cars ‘could be huge driver of carbon emissions’"
-    excerpt: "The energy needed to run powerful computers onboard a large global fleet of self-driving cars could generate as many greenhouse gas emissions as all the data centres in the world today. That was the warning from researchers at the Massachusetts Institute of Technology (MIT),"
-    publishedDateTime: 2023-01-16T16:31:00Z
-    webUrl: "https://www.imeche.org/news/news-article/self-driving-cars-could-be-huge-driver-of-carbon-emissions"
+  - title: "What do you think about self-driving cars?"
+    excerpt: "CBC Kids News is real news for real kids. Your trusted daily source for the news, pop culture and sports stories that Canadian kids want to know!"
+    publishedDateTime: 2023-01-17T09:54:00Z
+    webUrl: "https://www.cbc.ca/kidsnews/post/what-do-you-think-about-self-driving-cars"
     type: article
     provider:
-      name: Institution of Mechanical Engineers
-      domain: imeche.org
+      name: CBC.ca
+      domain: www.cbc.ca
     quality: 24
     images:
-      - url: "https://imechewebresources.blob.core.windows.net/imeche-web-content/images/default-source/default-album/mit_autonomous-emissions-01-press_0.jpg?sfvrsn=96f26b11_0&size=705"
-        width: 800
-        height: 450
+      - url: "https://www.cbc.ca/kidsnews/content/_card_resize/HaveYourSay_sitecard_3_ALT.png"
+        width: 860
+        height: 484
         isCached: true
-  - title: "Self-driving cars could see motorists stuck in traffic for longer"
-    excerpt: "Department for Transport projections said delays may rise by up to 85 from 2025 to 2060 with self-driving cars"
-    publishedDateTime: 2023-01-15T12:52:00Z
-    webUrl: "https://www.timesandstar.co.uk/news/national/uk-today/23251830.self-driving-cars-see-motorists-stuck-traffic-longer/"
-    type: article
-    provider:
-      name: Times Star
-      domain: timesandstar.co.uk
-    quality: 4
   - title: "Are self-driving cars dead?"
     excerpt: "The focus for the past couple years has been on self-driving car technology. While that’s a trillion-dollar opportunity, it’s unclear when self-driving cars will actually hit the market. I performed deep research into self-driving car tech way back in 2015."
     publishedDateTime: 2023-01-16T19:47:00Z
@@ -70,15 +59,6 @@ related:
     provider:
       name: MauldinEconomics.com
       domain: mauldineconomics.com
-    quality: 4
-  - title: "Self-driving cars could nearly double road congestion, says report"
-    excerpt: "LONDON: Motorists could be stuck in congestion nearly twice as bad as current levels if self-driving cars become commonplace, a UK government report warns. The UK's Department for Transport (DfT) traffic projections for England and Wales show delays may rise by up to 85% from 2025 to 2060 in that scenario."
-    publishedDateTime: 2023-01-16T19:48:00Z
-    webUrl: "https://www.carsifu.my/news/self-driving-cars-could-nearly-double-road-congestion-says-report"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
     quality: 4
 
 secured: "B8Ikgo+MObTfhQKOKVNk4zMLGV0NYBSAQ9yL512ayGzeNlZDc1GzXR8kmXEdqx8VQtw28gzcTah9gBthtShjnCKjTpcC3vxUtk+hfg7aLZjdoaPEjdK2KW/ShyKVrx1LmzwiUkL9VKYoXgF9oATWG/l67SsV5+M7OU9yZueay+i3MgaN7HM9k25AIKHalZcM13fehuLXeWJ27qvRqTpsexrbSlzJiW04ErKNdh4zIgb4iRZsAY5EHuWAJtTZF0wuOP3GpcEVmcCuE6FTe2bKzp6H+hdtuCodXmk4C+C6vGssI9B2yLxa9Nd/2anh2XdVETDNgvJXy/mmo2n0UHwZ/G3L+Q5RdbkRKEuV7R2LEOI=;rwaUUvKtgNKk0cRdH89KsA=="

@@ -7,8 +7,8 @@ originalUrl: "https://www.orlandosentinel.com/opinion/guest-commentary/os-op-fac
 webUrl: "https://www.orlandosentinel.com/opinion/guest-commentary/os-op-facial-recognition-biometrics-tsa-airport-security-20230113-cckbpdteprba7kcyyvracg7iru-story.html"
 type: article
 quality: 69
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Orlando Sentinel
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Commentary: Facial recognition will transform airport security checkpoints"
+    excerpt: "The biggest criticism of facial recognition technology is the perceived invasion of privacy and the security of photos taken at checkpoints. Yet the photos being used to match your identity, like when applying for a passport or participating in the Global ..."
+    publishedDateTime: 2023-01-17T09:12:00Z
+    webUrl: "https://www.yakimaherald.com/opinion/commentary-facial-recognition-will-transform-airport-security-checkpoints/article_2b022e7c-952b-11ed-b00b-5bb3f6281b9d.html"
+    ampWebUrl: "https://www.yakimaherald.com/opinion/commentary-facial-recognition-will-transform-airport-security-checkpoints/article_2b022e7c-952b-11ed-b00b-5bb3f6281b9d.amp.html"
+    cdnAmpWebUrl: "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/commentary-facial-recognition-will-transform-airport-security-checkpoints/article_2b022e7c-952b-11ed-b00b-5bb3f6281b9d.amp.html"
+    type: article
+    provider:
+      name: Yakima Herald-Republic
+      domain: yakimaherald.com
+    quality: 89
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/6/b1/6b106f7e-952b-11ed-b53b-db389e490e67/63c48ac6bc23a.image.jpg?resize=1024%2C756"
+        width: 1024
+        height: 756
+        isCached: true
   - title: "Commentary: Facial recognition will transform airport security checkpoints"
     excerpt: "Imagine using technology that never forgets a face, while improving airport security and shortening lines. Such technology exists and may be coming to an airport near you. Every flyer over"
     publishedDateTime: 2023-01-16T08:00:00Z
@@ -58,6 +74,20 @@ related:
       name: Sun Sentinel
       domain: sun-sentinel.com
     quality: 50
+  - title: "Commentary: What killer robots mean for the future of war"
+    excerpt: "We have seen how so-called neutral AI have made sexist algorithms and inept content moderation systems. In war, these kinds of misunderstandings could kill civilians or wreck negotiations, say these writers."
+    publishedDateTime: 2023-01-15T22:07:00Z
+    webUrl: "https://www.channelnewsasia.com/commentary/war-killer-robot-ai-lethal-autonomous-weapons-3203846"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--d5QCsnQA--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/01/13/istock-1342530364.jpg?itok=6tyqwqsX"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "7S19dImFxeemiyOtoZyWsr8bK8jXKqEYAUXCfVmBqlfbcCYMKWJmCnS6nYECyYYOiIFLXzxNmW4uaRwdj6eVx8wfYlpWcyUC7IHxzJDSk12TNrF/XyJvzG2sEzvXDPTHrn0P2e+kGFEPUhZemlzuRkolxW4B04xSquf6hW9StP2pJi7NgcoYtyy+nj2x5jkPORFke3zvag2DERf4WkQUOZAC8y3GN6Czwdushb8I1BcqqLJ9aDaW9JtBLtU0C7jTfLG7ugiE3TNB5AO/CFZlN5zHXRadTBpeGokpj0S4KRAJZsAriWw6LtgEG1bm7+5Hmgs9S123JVlvHZPLqRvikq+kJRP6EVcAFITIZUObvLgauxF3/bvZK4374bTXGNDu9ZgTUTHA+PVVuQRiuhlawcUzsJUxrGBosriEiKUtahADBJqmMh9f6BpsUmyIQAPmQGb8NpSTXzrA4zJM/zpzSvWq5R9A1CDOCCifqv/VorL2sLfTzoLSYkhFc9WLJkT91sy/FOB44Pim4++YEK/VJg==;Uca586E3/uCUXqKOH0upPQ=="
 ---

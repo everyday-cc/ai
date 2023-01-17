@@ -100,6 +100,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "ChatGPT Is Coming Soon To Azure OpenAI Service, Says Microsoft Chief Satya Nadella"
+    excerpt: "Microsoft has allowed its cloud-computing users to preview tech by OpenAI, a startup that it is backing. The preview has been done through a program that Microsoft calls the Azure OpenAI service."
+    publishedDateTime: 2023-01-17T08:29:00Z
+    webUrl: "https://www.ndtv.com/business/chatgpt-is-coming-soon-to-azure-openai-service-says-microsoft-chief-satya-nadella-3698997"
+    ampWebUrl: "https://www.ndtv.com/business/chatgpt-is-coming-soon-to-azure-openai-service-says-microsoft-chief-satya-nadella-3698997/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/chatgpt-is-coming-soon-to-azure-openai-service-says-microsoft-chief-satya-nadella-3698997/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 83
+    images:
+      - url: "https://c.ndtvimg.com/2023-01/6uld4jdg_chatgpt-getty_625x300_17_January_23.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "OpenAI’s ChatGPT to be available as an API, coming to Microsoft’s Azure: What it means"
     excerpt: "OpenAI’s ChatGPT chatbot will soon be available via an API, thus allowing businesses to leverage it for their own use cases. Microsoft is also adding ChatGPT to its Azure OpenAI suite of services."
     publishedDateTime: 2023-01-17T03:40:00Z
@@ -146,6 +162,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft looks to ‘democratise’ AI with viral bot ChatGPT"
+    excerpt: "Software giant Microsoft has announced the general availability of Azure OpenAI Service in a move it says aims at “democratising artificial intelligence (AI)” in its ongoing partnership with start-up OpenAI, the company behind viral bot ChatGPT."
+    publishedDateTime: 2023-01-17T09:37:00Z
+    webUrl: "https://www.itweb.co.za/content/G98YdMLGdbP7X2PD"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/G98YdMLGdbP7X2PD"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98YdMLGdbP7X2PD"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 74
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/01/chatgpt-writing-2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft to offer ChatGPT-as-a-service from Azure real soon now"
     excerpt: "Microsoft has promised it will \"soon\" offer the ChatGPT AI chatbot as a service from its Azure cloud. The software giant on Monday announced its existing Azure OpenAI service has opened up to general availability (GA)."
     publishedDateTime: 2023-01-17T03:36:00Z
@@ -175,6 +207,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Microsoft-banner.jpeg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Microsoft to add ChatGPT to its Azure OpenAI service"
+    excerpt: "One company that thinks it should is Microsoft, which has announced that it will feature in its Azure Open Ai service “soon”. Along with working closer with ChatGPT’s creators, OpenAI, Microsoft is also said to be readying a sizeable investment into ..."
+    publishedDateTime: 2023-01-17T09:26:00Z
+    webUrl: "https://htxt.co.za/2023/01/17/microsoft-to-add-chatgpt-to-its-azure-openai-service/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 69
+    images:
+      - url: "https://secure.gravatar.com/avatar/e85cb8c57c0a1dc75fe35470c3cc8eb8?s=300&d=mm&r=g"
+        width: 300
+        height: 300
         isCached: true
   - title: "Microsoft bets big on the creator of ChatGPT in race to dominate AI"
     excerpt: "As a new chatbot wows the world, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI."
@@ -243,6 +289,6 @@ related:
         height: 1363
         isCached: true
 
-secured: "dO5Nu0n64yEIzYArTijon3wjTAZFQ0ifAMkaSKQTZomEq6q4lXAnZAlhfdye6SYeITS8qEr6KyIGibtFuOYwHqyzd7MHqx06Ls+KEdG/zXyzpKsPXz2hJAbePMStPmv0Td91j1jzs5MTGwsRNXrfZufpQtVXbzxcUxSh0JlGDDO6WpuUo9OGPbWXi/FhW/HANh+xiRpQF+N/DThQX97wdES+I4r5m8vJOrIgiePK+BjGiy9wHeKjhenqeR7RpdYdS71jPRigBm8MeA5m1CHd9DCfIChyeivj175aGxig0S2dTBCvfd1jcW1wm+hNJJKgUKobvyRZk/hAz5mhCz2B6v4TsUXLCK/ELn1lKSJe6Ms=;tfADTc9EyFofdqcN1j1j5Q=="
+secured: "FCkSnisv7q59kYFVdkmNzrHyhorYIGrjaU6+A6I4RtkjSpj6/PNyEto5GQq2Ka1Eq/pUESNZZUkl1cuDt40ZldFzr0HNWDrekBoRdWq09FPcbbbVXIWu30wu9ZNAjGm6XlmEYOL6FRfx2Vimn7pxxDDvGQEbUl+V4fjprHZUavlJrFBP1uTCIto9tKeGg6z/SbzRaiYlz9/FmyzcOXKKTzd7TK0s4M4HBzK7SKUAZKcoQjtuzysdo4mE+AHc52WR4CWFLsvFoQETUAQFQBUTaQvvmdHypMgSLMbWjOzsChp33Nc9h6oS3WLO3lOHPB4N6oqacUeTC3x4jXAabq131m7nWvO8bx1PuohK9eVsGuIxUfqgw0PCZtIbYx0qSciD95yzhrfqPe87utdE/h6htduHg9ui3dy/dXcrvowBfQfX6sUwPA03tyEan3KM05eJ9RA8Pax219G8A4W7wV0S27E+FDF/21Ku9MRkhCJdWcMiXPDep60znYc1m2Eu+UdFBu+cI7umaHC3VRIvbXarTQ==;kuDvjN26ylajAml/ljwZkg=="
 ---
 

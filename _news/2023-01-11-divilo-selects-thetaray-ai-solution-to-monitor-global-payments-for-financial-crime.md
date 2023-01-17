@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Divilo Selects ThetaRay AI Solution to Monitor Global Payments for Financial Crime"
-excerpt: "Through the agreement, ThetaRay will provide Divilo its SONAR solution, a SaaS-based AML transaction monitoring and sanctions list screening platform, for domestic and cross-border payments. Divilo provides 100% digital financial services to SMEs and the self-employed."
-publishedDateTime: 2023-01-11T09:23:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-divilo-selects-thetaray-ai-solution-monitor-global-payments-/2023/01/11/9741276.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-divilo-selects-thetaray-ai-solution-monitor-global-payments-/2023/01/11/9741276.htm"
+excerpt: "Through the agreement, ThetaRay will provide Divilo its SONAR solution, a SaaS-based AML transaction monitoring and sanctions list screening platform, for domestic and cross-borde"
+publishedDateTime: 2023-01-11T08:25:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/01/11/9741276.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/01/11/9741276.htm"
 type: article
-quality: 13
-heat: 13
-published: false
 
 provider:
   name: TMCnet
@@ -18,6 +15,6 @@ topics:
   - AI in Finance
   - AI
 
-secured: "E19y+D4QTnjW6OratSgou09jJTtJ4BiLEPI2pEiG1Vh5dSETAxo1EQ67MXMI7Pqk5RRU50fF6WDprSpPzQqaBOcLVHZ3Njz4fJkxghSN/cxlwY5zR+RUOZ2BwQFbEOIQUNumcP1ARWsefWX+XY4qWdNzfecKVE0sb/IPJn8SU0JjL4np0Z1TiJSXUWXvNxE2K7AnG6glFPZKlFSKXMgV4ZZIy4eX0FILhDjVmsxnKEqDJMFRS0+XsJWphGVud4KJvJ4A9gkPRd8brdorB9NsbXLUeoyfy4tBpW/Qksk/jypELtw4A0g8t5RL8ezzfPKJPLa5s9rTWKOsH/oKjY3rhnx77jFfi8PxXPu7fRdY1BFslqcZ54wPksleb1/A4Ksvd8yWk2Vf50/rPkc10fDq8dW60mPGUPuoVA1G5P4lM6ZGZbtYutpokIj7wb+bHyVitKSMCQ2VwSZh/bUdc2eckfoPWY9Bg7q9uR/pDi8Dk00SHHksg8xqQ3Yd/lmjte2N/mVdgm6yLYRmYdrliK9A0g==;y+h3kmmNXgY+HJ5cTMQhVQ=="
+secured: "tgLHbUfWydXCAp0nCduxa5fuEc+5+g7jHFHbizP5VEPJWdyOWgiP+0mcdIodMR12mlvQ0lQxHISZLQwXNh+KKwwNsB1zvl8v6nhzqkM1POmA6c7VD5SUfni72heHxa6uRVc7mGFTp0F+F6xhSrxU0DxZdARdq0T6Ct/oNIu0KnZoxJjrPusjSvkHi5rtC+xWDwJLrnVDJV+L/vPnWIdyQvKcmsdU9e7Na+CjnVAYGPJ/dSIYTywk9lI15D44HGm+QUwyvkuHS4NSE+VZanaNE84CNXxzAawUWYzvV/S98kr2I5vyCNzdCO6On8RQkhNZihQS0OLA+rFbGPvAHmlIHOfYuM+JSV/ttIG18fGos2a8PIMmVtvO7F36vDAJlXCI7ndioG2ACNeO6Mpt1Qdp8Bhl65HWw53SxoffbUskYxNghcjbOwVyzv3OKTpdW4ZX49jZ6H+/fZ6TKmglE1+CxUCQ/teWjjz87sBTowhv1LBXIZkgMPIkMFn4xcRmhMZnwCLGHOnBjmKHnzsWrWPSHg==;qY7XQksrU6jUDPaF/8pPBw=="
 ---
 

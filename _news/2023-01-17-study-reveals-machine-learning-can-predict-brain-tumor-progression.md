@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Study reveals machine learning can predict brain tumor progression"
-excerpt: "Researchers analysed two sets of MRIs from each of five anonymous patients suffering from GBM. The patients underwent extensive MRIs, waited several months, and then received a second set of MRIs. Because these patients,"
-publishedDateTime: 2023-01-17T05:34:00Z
-originalUrl: "https://health.economictimes.indiatimes.com/news/health-it/study-reveals-machine-learning-can-predict-brain-tumor-progression/97047394"
-webUrl: "https://health.economictimes.indiatimes.com/news/health-it/study-reveals-machine-learning-can-predict-brain-tumor-progression/97047394"
-ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/study-reveals-machine-learning-can-predict-brain-tumor-progression/97047394"
-cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/study-reveals-machine-learning-can-predict-brain-tumor-progression/97047394"
+excerpt: "Researchers at the University of Waterloo have developed a computational model to better accurately anticipate the emergence of lethal brain tumours."
+publishedDateTime: 2023-01-16T17:55:00Z
+originalUrl: "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression"
+webUrl: "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression"
+ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression?amp"
+cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression?amp"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: health.economictimes.indiatimes
-  domain: indiatimes.com
+  name: devdiscourse
+  domain: devdiscourse.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-97047394,imgsize-81168,width-1200,height-628,overlay-ethealthworld/study-reveals-machine-learning-can-predict-brain-tumor-progression.jpg"
-    width: 1200
-    height: 628
+  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_01_2023_17_49_51_9560931.jpg?width=1280"
+    width: 1280
+    height: 960
     isCached: true
 
 related:
@@ -69,6 +69,6 @@ related:
       domain: sciencedaily.com
     quality: 64
 
-secured: "k7Tb7KmxXQ4rl9E+iEEUfWSLpa0ezwOcvIzRxiF2NZmbfx1aOkE5GYGAcxjQQUpEMicOM5ti2DJEweD5UMLhkjzlGruqdBRoL4VqFpwMaCFJlr8b0cGHCOzJHyFLUkPezyoyBxw7Hu9BJH5fkZfZEMTnd2EqDA+aDLkMkcrAA6m+y/5jYgFg2xv80mw6R1ScT+GqjZifJqltUeiT8hIy9sXr3xsQtpN4N0hp49NnE1x7Xg48v/8k9ji4XGmw5dAJBLc6MbWD17mFz3fsyUsky2wpuEvLTYhxbOHPpwWID2Tif2qG3446TfPtTsTxJc5y3TRevASoeT2j/535B6hQk4emSIZOAJWkUrwsbsuIGSs=;3fHVLQoKihwA81De8gw5wA=="
+secured: "EfA8UmZI9H4CkHrywnKsJf7t7X3ZzhdBC5dd+a7t72XFskk1e7Y3FLtTTx6Ge8RsmRnpe58ZQtrqQvQa4voHPJ8JjZiXkrNWz01uzrMhNyzbwiEnfmzAa2wYhZxVWVXzUuCtk3Sew8POWmnmCX/yWOOPBK65vhAvM69Im/zFJAgjseEuR9OjuVLWVSJm9PygPPMkeP8Y5vSxNMCESf3kRYox0HTywmi8PrXpsE/k59KQFvHBKAzuOVrHwgypTtgEUQOJp+jb5fHiRLdCMewUTu6UWDe9P3Mlpdj++OuWj4GZjnAyweR1wjyUI90ro8gDO3zv72OgZx6cWINEHWjmF20iS45mK2Zl7FQAMGJ6Z6U=;2sb06FFtKPJc7QFmCoffjg=="
 ---
 

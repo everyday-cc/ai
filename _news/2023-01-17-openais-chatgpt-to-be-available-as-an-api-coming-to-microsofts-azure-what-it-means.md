@@ -102,6 +102,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "ChatGPT Is Coming Soon To Azure OpenAI Service, Says Microsoft Chief Satya Nadella"
+    excerpt: "Microsoft has allowed its cloud-computing users to preview tech by OpenAI, a startup that it is backing. The preview has been done through a program that Microsoft calls the Azure OpenAI service."
+    publishedDateTime: 2023-01-17T08:29:00Z
+    webUrl: "https://www.ndtv.com/business/chatgpt-is-coming-soon-to-azure-openai-service-says-microsoft-chief-satya-nadella-3698997"
+    ampWebUrl: "https://www.ndtv.com/business/chatgpt-is-coming-soon-to-azure-openai-service-says-microsoft-chief-satya-nadella-3698997/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/chatgpt-is-coming-soon-to-azure-openai-service-says-microsoft-chief-satya-nadella-3698997/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 83
+    images:
+      - url: "https://c.ndtvimg.com/2023-01/6uld4jdg_chatgpt-getty_625x300_17_January_23.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "General availability of Azure OpenAI Service expands access to large, advanced AI models with added enterprise benefits"
     excerpt: "With Azure OpenAI Service now generally available, more businesses can apply for access to the most advanced AI models in the world—including GPT-3.5, Codex, and DALL•E 2—backed by the trusted enterprise-grade capabilities and AI-optimized infrastructure of Microsoft Azure, to create cutting-edge applications."
     publishedDateTime: 2023-01-16T17:00:02Z
@@ -129,6 +145,22 @@ related:
     quality: 76
     images:
       - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202301/rtx2qkyg-sixteen_nine.jpg?VersionId=HLQuLPIaQseQSx4CWcYXSIBC.Jgi670b"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft looks to ‘democratise’ AI with viral bot ChatGPT"
+    excerpt: "Software giant Microsoft has announced the general availability of Azure OpenAI Service in a move it says aims at “democratising artificial intelligence (AI)” in its ongoing partnership with start-up OpenAI, the company behind viral bot ChatGPT."
+    publishedDateTime: 2023-01-17T09:37:00Z
+    webUrl: "https://www.itweb.co.za/content/G98YdMLGdbP7X2PD"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/G98YdMLGdbP7X2PD"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98YdMLGdbP7X2PD"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 74
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/01/chatgpt-writing-2023.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -161,6 +193,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Microsoft-banner.jpeg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Microsoft to add ChatGPT to its Azure OpenAI service"
+    excerpt: "One company that thinks it should is Microsoft, which has announced that it will feature in its Azure Open Ai service “soon”. Along with working closer with ChatGPT’s creators, OpenAI, Microsoft is also said to be readying a sizeable investment into ..."
+    publishedDateTime: 2023-01-17T09:26:00Z
+    webUrl: "https://htxt.co.za/2023/01/17/microsoft-to-add-chatgpt-to-its-azure-openai-service/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 69
+    images:
+      - url: "https://secure.gravatar.com/avatar/e85cb8c57c0a1dc75fe35470c3cc8eb8?s=300&d=mm&r=g"
+        width: 300
+        height: 300
         isCached: true
   - title: "Microsoft: Viral chatbot ChatGPT ‘coming soon’ to Azure OpenAI Service"
     excerpt: "The Azure OpenAI Service has been available to a limited number of enterprise customers when it debuted in November 2021. Microsoft: Viral chatbot ChatGPT 'coming soon' to Azure OpenAI Service. Artificial Intelligence,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/"
 type: article
 quality: 103
-heat: 163
+heat: 173
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft is Adding ChatGPT to Its New Azure Open AI Service"
+    excerpt: "Microsoft will soon expand access to ChatGPT through its new Azure OpenAI service, which is now generally available to developers."
+    publishedDateTime: 2023-01-17T10:30:00Z
+    webUrl: "https://www.thurrott.com/cloud/278435/microsoft-is-adding-chatgpt-to-its-new-azure-open-ai-service"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 69
+    images:
+      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/01/Microsoft-Azure-OpenAI.jpg"
+        width: 1066
+        height: 600
+        isCached: true
   - title: "Microsoft quietly revealed a new type of AI (it may quietly petrify you)"
     excerpt: "You always thought this might be possible, but when a famous company says it's done it, it adds a little more scariness."
     publishedDateTime: 2023-01-15T13:26:00Z

@@ -40,6 +40,20 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft is Adding ChatGPT to Its New Azure Open AI Service"
+    excerpt: "Microsoft will soon expand access to ChatGPT through its new Azure OpenAI service, which is now generally available to developers."
+    publishedDateTime: 2023-01-17T10:30:00Z
+    webUrl: "https://www.thurrott.com/cloud/278435/microsoft-is-adding-chatgpt-to-its-new-azure-open-ai-service"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 69
+    images:
+      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/01/Microsoft-Azure-OpenAI.jpg"
+        width: 1066
+        height: 600
+        isCached: true
   - title: "Windows 11’s new experiment forces Microsoft Edge rounded corners everywhere"
     excerpt: "Microsoft Edge’s latest version comes with an exciting but weird change that lets you experience Windows 11’s rounded corners feature in its full glory. Microsoft has published a new version of Edge Canary with an experimental feature that brings rounded corners to all websites,"
     publishedDateTime: 2023-01-15T12:03:00Z

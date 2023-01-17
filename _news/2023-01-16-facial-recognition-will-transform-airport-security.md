@@ -20,6 +20,22 @@ topics:
   - AI in Security
 
 related:
+  - title: "Commentary: Facial recognition will transform airport security checkpoints"
+    excerpt: "The biggest criticism of facial recognition technology is the perceived invasion of privacy and the security of photos taken at checkpoints. Yet the photos being used to match your identity, like when applying for a passport or participating in the Global ..."
+    publishedDateTime: 2023-01-17T09:12:00Z
+    webUrl: "https://www.yakimaherald.com/opinion/commentary-facial-recognition-will-transform-airport-security-checkpoints/article_2b022e7c-952b-11ed-b00b-5bb3f6281b9d.html"
+    ampWebUrl: "https://www.yakimaherald.com/opinion/commentary-facial-recognition-will-transform-airport-security-checkpoints/article_2b022e7c-952b-11ed-b00b-5bb3f6281b9d.amp.html"
+    cdnAmpWebUrl: "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/commentary-facial-recognition-will-transform-airport-security-checkpoints/article_2b022e7c-952b-11ed-b00b-5bb3f6281b9d.amp.html"
+    type: article
+    provider:
+      name: Yakima Herald-Republic
+      domain: yakimaherald.com
+    quality: 89
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/6/b1/6b106f7e-952b-11ed-b53b-db389e490e67/63c48ac6bc23a.image.jpg?resize=1024%2C756"
+        width: 1024
+        height: 756
+        isCached: true
   - title: "Facial recognition will transform airport security checkpoints | Commentary"
     excerpt: "The true role of airport security is ensuring that you are the person you claim to be. Facial recognition enhances such efforts."
     publishedDateTime: 2023-01-13T15:50:00Z
@@ -57,6 +73,20 @@ related:
       name: Sun Sentinel
       domain: sun-sentinel.com
     quality: 50
+  - title: "Commentary: What killer robots mean for the future of war"
+    excerpt: "We have seen how so-called neutral AI have made sexist algorithms and inept content moderation systems. In war, these kinds of misunderstandings could kill civilians or wreck negotiations, say these writers."
+    publishedDateTime: 2023-01-15T22:07:00Z
+    webUrl: "https://www.channelnewsasia.com/commentary/war-killer-robot-ai-lethal-autonomous-weapons-3203846"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--d5QCsnQA--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/01/13/istock-1342530364.jpg?itok=6tyqwqsX"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "yBEE+I90zGE2/0NPHe5c5lBkG5b6plDqJo2ZalTFAQxwq7Y64ko0F4ayTpPxyDyrxZrOUB9Qos0cvBHKvbjxDEfMqlqwO5ZNbzfJKYMFKdq+wwfTe3eHHiSkyNgME63Rar56j6t+0/eMJHMUWlIgBXisZeBuyfoK4dbtnTcsfUo6mQ2m89fvL6Ipf0gtHy1BmWDSi0OEBGzUUZeA6bos7kUpEkss6TCQjBNek8So/0UJzOvv9DLAYW6CSP0JOQjj0gnBc18si3+VyyBqmV9MmSDceZQYWkJeicJmC6iX9AKNTqxJrp8BJD7PoGez+If0deBUMj15t0M6TQHiR3ekMPoQDS1UNA13AOg/q2vZUeCy6UhKtnecBreUpuwSLOYB9PNbdaW0JeNqkVGC/ZgtfjUpVSpAF8QfT2VKGgePFr11OqDfYxorp1FaJdMm73fe710UxNALLEwVRujdL5B1kXZzV8eInJrBwFAUI5zSmEy07GNnB7QRk6uLuNgASU/ANZcvph0FxrqY+4xCK7vqug==;HAHIZPkC9++dn4kymYPn2w=="
 ---

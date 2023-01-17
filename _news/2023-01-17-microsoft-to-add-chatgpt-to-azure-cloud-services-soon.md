@@ -100,6 +100,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "ChatGPT Is Coming Soon To Azure OpenAI Service, Says Microsoft Chief Satya Nadella"
+    excerpt: "Microsoft has allowed its cloud-computing users to preview tech by OpenAI, a startup that it is backing. The preview has been done through a program that Microsoft calls the Azure OpenAI service."
+    publishedDateTime: 2023-01-17T08:29:00Z
+    webUrl: "https://www.ndtv.com/business/chatgpt-is-coming-soon-to-azure-openai-service-says-microsoft-chief-satya-nadella-3698997"
+    ampWebUrl: "https://www.ndtv.com/business/chatgpt-is-coming-soon-to-azure-openai-service-says-microsoft-chief-satya-nadella-3698997/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/chatgpt-is-coming-soon-to-azure-openai-service-says-microsoft-chief-satya-nadella-3698997/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 83
+    images:
+      - url: "https://c.ndtvimg.com/2023-01/6uld4jdg_chatgpt-getty_625x300_17_January_23.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "OpenAI’s ChatGPT to be available as an API, coming to Microsoft’s Azure: What it means"
     excerpt: "OpenAI’s ChatGPT chatbot will soon be available via an API, thus allowing businesses to leverage it for their own use cases. Microsoft is also adding ChatGPT to its Azure OpenAI suite of services."
     publishedDateTime: 2023-01-17T03:40:00Z
@@ -146,6 +162,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft looks to ‘democratise’ AI with viral bot ChatGPT"
+    excerpt: "Software giant Microsoft has announced the general availability of Azure OpenAI Service in a move it says aims at “democratising artificial intelligence (AI)” in its ongoing partnership with start-up OpenAI, the company behind viral bot ChatGPT."
+    publishedDateTime: 2023-01-17T09:37:00Z
+    webUrl: "https://www.itweb.co.za/content/G98YdMLGdbP7X2PD"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/G98YdMLGdbP7X2PD"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98YdMLGdbP7X2PD"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 74
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/01/chatgpt-writing-2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft to offer ChatGPT-as-a-service from Azure real soon now"
     excerpt: "Microsoft has promised it will \"soon\" offer the ChatGPT AI chatbot as a service from its Azure cloud. The software giant on Monday announced its existing Azure OpenAI service has opened up to general availability (GA)."
     publishedDateTime: 2023-01-17T03:36:00Z
@@ -175,6 +207,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Microsoft-banner.jpeg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Microsoft to add ChatGPT to its Azure OpenAI service"
+    excerpt: "One company that thinks it should is Microsoft, which has announced that it will feature in its Azure Open Ai service “soon”. Along with working closer with ChatGPT’s creators, OpenAI, Microsoft is also said to be readying a sizeable investment into ..."
+    publishedDateTime: 2023-01-17T09:26:00Z
+    webUrl: "https://htxt.co.za/2023/01/17/microsoft-to-add-chatgpt-to-its-azure-openai-service/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 69
+    images:
+      - url: "https://secure.gravatar.com/avatar/e85cb8c57c0a1dc75fe35470c3cc8eb8?s=300&d=mm&r=g"
+        width: 300
+        height: 300
         isCached: true
   - title: "Microsoft: Viral chatbot ChatGPT ‘coming soon’ to Azure OpenAI Service"
     excerpt: "The Azure OpenAI Service has been available to a limited number of enterprise customers when it debuted in November 2021. Microsoft: Viral chatbot ChatGPT 'coming soon' to Azure OpenAI Service. Artificial Intelligence,"
@@ -243,6 +289,6 @@ related:
         height: 1363
         isCached: true
 
-secured: "tLudWyjEPNd4n/qeM4B5rxVB7o3laXprVzMRXS0Cm05GCVGV83WWn8NBC63xOCbt7nwq4aSJriaQlU8izhIUW4rOI5CUEBgXr0jYDGnz/5Luwyd8zNCBzuDnJmji/QsI2dz08OOkXb7jj4DuTNHKpJz1LpO5P+DHypBcIeu7ycLca17jtqLLYHl9Fu/Ec16JffVeZnWYM3hf5VrcT3F6Hy1pLIWpBEo51ph4V3IZkff1Uwyt0b3+BYDsbp30QGSlN4LLFHY6TFy/ChgSB1+2WfWiigr9ne95cAt7jNVsmZ1W15MthezdVa8/aRqVsgS+ukg+4KYavf7jbbHMorLYpWPijWDsj1NakfNZ/Ks6R9s=;e/9E2xl7WtwPpXo3g317uw=="
+secured: "8dpcUr/SpR0ocNmv9OnjYf8WrvFv+05MNh3aulWUKnOAd5lOlpjK65XPpWmz/keTlrmWIc79QBz85g7tdwdkX5zOrdEO9sZo91Rt2c0y+Ztv+he/RUshF+1ssMlKzRgYIJGnAT4MHMVkGhmBORVB1HUsSfPGQQuVmT4hJ5NEpZM4YpueSdFib43ml0PinvWZBnGEuII/EeGx+sTmWdkHGdjLYLcpGkrJtkULs0mP1GMG9wI5/+Qw8YUbG2cp8N+MR38jl4NpomxC4L3hxqqTKt2Kgfxw593SofMw8k/a+z0NoRmqv3cucjn9rt5Pzs3cBwTvKdWWWMGFRqAcH7j6qNMn8HMJEn45ccLfKn8+xNfcPYOkkIdExS4GNV0CD8g7auY+4PMhCPtKEI02VuQGDJHpV706zvz0FHWLYW1iJxXHx61OSpztJA63sL3kGKGFQLBuuwP9sBStogbAeNmQFCa9Tdm9LOINYWYxlvssShihcRkJ1DyQYRq33hW46dikFbT906NgjgvqF3a1CfFr6w==;amaYtZWXaohcEz24k9OLOQ=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Peter Dutton’s push for draft bill before voice referendum risks confusing voters, experts warn"
 excerpt: "Labor cannot specify exactly how the body would work in future as it would be subject to the government of the day, expert group members say"
 publishedDateTime: 2023-01-17T06:27:00Z
-originalUrl: "https://www.theguardian.com/australia-news/2023/jan/17/peter-duttons-push-for-draft-bill-before-voice-referendum-risks-confusing-voters-experts-warn"
-webUrl: "https://www.theguardian.com/australia-news/2023/jan/17/peter-duttons-push-for-draft-bill-before-voice-referendum-risks-confusing-voters-experts-warn"
+originalUrl: "https://www.theguardian.com/australia-news/2023/jan/17/peter-duttons-push-for-draft-bill-before-voice-referendum-risks-confusing-voters-experts-warn?amp;amp;amp"
+webUrl: "https://www.theguardian.com/australia-news/2023/jan/17/peter-duttons-push-for-draft-bill-before-voice-referendum-risks-confusing-voters-experts-warn?amp;amp;amp"
 ampWebUrl: "https://amp.theguardian.com/australia-news/2023/jan/17/peter-duttons-push-for-draft-bill-before-voice-referendum-risks-confusing-voters-experts-warn"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/jan/17/peter-duttons-push-for-draft-bill-before-voice-referendum-risks-confusing-voters-experts-warn"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "19na9KikF/juaYVBPU11ZEQdkVglfnr63ckVIEn4UowRPoSNpSzSHomnHpaE1KRkGZT4t03SelCCid0pt4sMiZ0ilCsTF2jlg1BqjuxaNx11pwfrqCmPIj+TqJEO1g5Cge7K5265KaoGOwnr1fViYUqf3EmYKiw0/Hu+UETBOXdo4IfeVulyYQN1gpAIDNIRP6pZ/n3Q2G9pASCIiU9PQHJH9eLK4rXlBbITLMPyZyJYUtLabk/CIYjZBGGilUVgepb+is22weoQLn5mHQlToB7psxfkFGTIri9N4/+1gDF5KVOe9uTCgcZBriupQiI7Ce79UBDPpHs2M62Fez9N6QcjXOYPRoKxgEXIJnt605k=;Cs1cP5nacUOFAxw5whxRHQ=="
+secured: "2v5Ww6oClbMIWMCBUoSWyX3OtVHGpnLydWIGchQr6XaU57nLE0f3t1OejM/lFEAVJkF+N/qJb9L5Iczf+JPIG/Nbpjj5oj38q1km92gLF7u+hvHditghmpMDZZuPzx02BaM77d/LjSwu8hCT98ZQIz5FkUunejtWRuknEIsIgk8r972lv2SaJYcttVLUTfU+fTJoOBpyw5U+Ezm3PRVPrZjdnEXKSi/nGC718BqqmvhUocgPV+az7gIw+Z5cmd42dkq+QYnWwev6P2ROQ/3QMeRmoN3/1O7+04PK6qZPzNK9rXmh2bG/8w7glw0nfiYG8DnfU3B28+Dg5S18K4WuBJS9qtihNZQ6m9q/X8xOT4M=;J65uzaJs2/B/dCtbajBJVw=="
 ---
 
