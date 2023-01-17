@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028-2023-01-16"
 type: article
 quality: 80
-heat: 150
+heat: 190
 published: true
 
 provider:
@@ -58,15 +58,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI In Computer Vision Market 2023 By Trends, Latest Research, Industry Competition Analysis, Revenue and Forecast Till 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this AI In Computer Vision"
-    publishedDateTime: 2023-01-12T23:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-by-trends-latest-research-industry-competition-analysis-revenue-and-forecast-till-2028-2023-01-12"
+  - title: "Computer Vision Market : Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2023 to 2029"
+    excerpt: "Computer Vision Market\" Research Report 2023 is the professional market analysis study by 360 Research Reports"
+    publishedDateTime: 2023-01-17T07:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-global-industry-analysis-size-share-growth-trends-and-forecast-2023-to-2029-2023-01-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Chip Market Share with CAGR Value 2023 Global Trends, Analysis, Top Key Players, Competitive Landscape, Size and Forecast to 2029"
+    excerpt: "Final Report Will Add the Analysis of the Impact of the Russia-Ukraine War and COVID-19 on This Industry. Global"
+    publishedDateTime: 2023-01-17T07:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-chip-market-share-with-cagr-value-2023-global-trends-analysis-top-key-players-competitive-landscape-size-and-forecast-to-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -100,6 +114,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Medical Imaging Market 2023 Industry Size, Trends, Growth, Insights and Forecast Research Report 2027"
+    excerpt: "Global Artificial Intelligence In Medical Imaging Market New Research Report 2023|[The Global Artificial Intelligence"
+    publishedDateTime: 2023-01-17T04:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-2023-industry-size-trends-growth-insights-and-forecast-research-report-2027-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Edge AI Chips Market with Strong Focus on Industry Size, by business Highlights, Market Segments, Growth Rate, Revenue, and Forecast to 2028"
     excerpt: "Market Updates(360marketupdates.com) published a new research report on Edge AI Chips Market 2023 with 116 Report"
     publishedDateTime: 2023-01-16T07:10:00Z
@@ -118,6 +146,24 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 22
+  - title: "Self-driving Forklift Market Size 2023 with Regional Scope, Report Coverage, Historic Data, Outlook 2028"
+    excerpt: "Global Self-driving Forklift Market| Outlook 2023-2028 | Number of Tables and Figures | No Pages 91 | Key Players in"
+    publishedDateTime: 2023-01-17T01:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-forklift-market-size-2023-with-regional-scope-report-coverage-historic-data-outlook-2028-2023-01-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
+  - title: "Research and Markets: FLAP Data Center Market 2022 to 2027: Investment Analysis & Growth Opportunities - ResearchAndMarkets.com"
+    excerpt: "The \"FLAP Data Center Market Investment Analysis Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The FLAP data center market is expected to grow at a CAGR"
+    publishedDateTime: 2023-01-17T16:37:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-01/58080017-research-and-markets-flap-data-center-market-2022-to-2027-investment-analysis-growth-opportunities-researchandmarkets-com-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "GWxafJ7teCqb2kDpgFXN/aAY749TsTk8YDq0XgP76Q1YkRdQaazBsbvdfmiSU+p54tvFIbLGkefEQ5TouPMrrG+gIuJnP1cMg8SwMMvK4GoamLFrDtipF1B1OpRVJD1puu/M3S++inTI6TZbqftxdYRp+ReDT5TWt7vKrRVx4XYsbUb1N0cI7+5ORlq0vjj7w4H8wjgWzV7q6c/MS9kLySzF9nbhtJyZkzFEodQyJ+EqDWfr/NS4PhD/eZtJxfX+IHyMHoxnPeVDefNPbyy/l11a/o/RRlsgo9Ntu73TiP2aaTQwTdlxtrtg8/+MZN4T6XuMJTh5EpoUccHl9Vu8JkhaMmUFPJ36NXcuJXMsRXw=;/uXypWsB9YQxXZyTBmvrQw=="
 ---

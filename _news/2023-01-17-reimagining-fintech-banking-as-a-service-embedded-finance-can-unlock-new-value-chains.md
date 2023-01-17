@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/industry/banking-finance/reimaginin
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/lite/"
 type: article
 quality: 80
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
       name: BBC
       domain: bbc.com
     quality: 47
+  - title: "Revolut close to finalising 2021 accounts as fintech seeks U.K. licence - sources"
+    excerpt: "Fintech firm Revolut Ltd. is close to finalising its long-overdue 2021 financial accounts, a move that could pave the way for the start-up to obtain a UK banking licence, two people with knowledge of the matter told Reuters."
+    publishedDateTime: 2023-01-13T16:36:00Z
+    webUrl: "https://www.reuters.com/technology/revolut-close-finalising-2021-accounts-fintech-seeks-uk-licence-sources-2023-01-13/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 29
   - title: "What the banks vs fintech debate gets wrong"
     excerpt: "This need has led to the emergence of a completely new ecosystem, one that is more diverse and where fintechs and smaller banks take an increasing share of the real-time market. By flipping traditional infrastructure procurement on its head and standardising related operational and security capabilities,"
     publishedDateTime: 2023-01-17T12:39:00Z

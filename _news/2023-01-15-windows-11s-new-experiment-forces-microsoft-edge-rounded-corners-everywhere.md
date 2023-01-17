@@ -81,20 +81,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 65
-  - title: "Microsoft Strikes Partnership with Paige To Advance Cancer Diagnostics and Treatment"
-    excerpt: "Microsoft is making a strategic investment in Paige, which is leveraging AI for cancer diagnostics and treatment. Paige will also use Microsoft Azure as its cloud provider for the Paige Platform."
-    publishedDateTime: 2023-01-13T00:03:00Z
-    webUrl: "https://medcitynews.com/2023/01/microsoft-strikes-partnership-with-paige-to-advance-cancer-diagnostics-and-treatment/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 47
-    images:
-      - url: "https://medcitynews.com/uploads/2021/09/GettyImages-925101084.jpg"
-        width: 732
-        height: 478
-        isCached: true
   - title: "Microsoft's Future Growth Prospects"
     excerpt: "Investments in Artificial Intelligence over the past decade are now starting to pay off. Share prices have decreased considerably from recent highs."
     publishedDateTime: 2023-01-14T14:11:00Z

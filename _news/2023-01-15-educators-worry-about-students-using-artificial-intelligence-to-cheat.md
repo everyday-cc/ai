@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/show/educators-worry-about-students
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/educators-worry-about-students-using-artificial-intelligence-to-cheat"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: PBS
@@ -27,24 +27,6 @@ images:
     width: 1024
     height: 666
     isCached: true
-
-related:
-  - title: "What 'M3gan' gets wrong about AI, according to experts"
-    excerpt: "Insider spoke with AI experts to determine whether a doll like M3gan will ever exist. They believe it's highly unlikely."
-    publishedDateTime: 2023-01-12T21:20:00Z
-    webUrl: "https://www.insider.com/megan-movie-gets-wrong-vs-real-life-ai-experts-2023-1"
-    ampWebUrl: "https://www.insider.com/megan-movie-gets-wrong-vs-real-life-ai-experts-2023-1?amp"
-    cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/megan-movie-gets-wrong-vs-real-life-ai-experts-2023-1?amp"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: insider.com
-    quality: 59
-    images:
-      - url: "https://i.insider.com/63c0696b33ffb700180f8395?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 562
-        isCached: true
 
 secured: "uu6rYJFFgyzh8iiNO5HK7FJyMKYk+SNScX9EWdFK70u+DKqdH/t2/2omZBVMoX2A695JRkf6nu1HmrZp3XJLPpk4cBbqidmLfr/5eioeMv1ARugNjFg5HlYqKuk2sJkYjiUbYGBH2Tmc4ONmMqhqzHN4YPWNsf9o8J8z6kwmYt5kuumsjR0oUnAeUujA24RwZigRcKs2rk1XjwSB0zZ4L01i9X0VqM6mGGvkA8OBGdna2TVpifpGVrBQdmC4qemwU74st9nvwlaKa3JRzzO2YY5dAFtzbkcJAxBdo7Cj5zXDA7lmgbAcI7RL3jEVTYx3KCkOiFCZ7wXnd3E1GaifEQj9p7vyyO4jMZom+9El1REeZ+P0X59e180W2+xePG+qZK/pNy4SRw0LIlHuLRvSftZYFv5h5v0GmxKRJwqa90kTO8aKwH5Jen2QxP/wP+GvTXibi6/Inq73GHvt+GxCKXtYHA0XMUrHUyetXXgorTwR7UO9YY0dXuATpskjkWWlXXnZ/YR1cVnHcHzEeCNwNg==;dHSS9b7imv0POB237grLdA=="
 ---

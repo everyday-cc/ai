@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-16T13:00:00Z
 originalUrl: "https://helenair.com/news/state-and-regional/meet-michael-running-wolf-the-man-using-ai-to-reclaim-native-languages/article_98e41425-fcbd-5a10-98b6-3d4de30fe37b.html"
 webUrl: "https://helenair.com/news/state-and-regional/meet-michael-running-wolf-the-man-using-ai-to-reclaim-native-languages/article_98e41425-fcbd-5a10-98b6-3d4de30fe37b.html"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Independent Record

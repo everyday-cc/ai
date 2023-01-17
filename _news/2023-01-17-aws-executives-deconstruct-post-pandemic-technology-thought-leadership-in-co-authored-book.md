@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/01/16/aws-executives-deconstruct-pos
 webUrl: "https://siliconangle.com/2023/01/16/aws-executives-deconstruct-post-pandemic-technology-thought-leadership-in-co-authored-book-accenturereinvent/"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS, Accenture executives deconstruct post-pandemic technology in new book"
+    excerpt: "How New Technology Is Transforming Business and Shaping Our Future “ addresses how cloud and artificial intelligence have largely driven corporate innovation, especially through the harrowing pandemic."
+    publishedDateTime: 2023-01-16T21:00:00Z
+    webUrl: "https://siliconangle.com/2023/01/16/aws-accentures-executives-deconstruct-post-pandemic-technology-thought-leadership-in-co-authored-book-accenturereinvent/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/Paul-Daugherty-Jim-Wilson-AWS-Executive-Summit-2022.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AWS, Accenture executives deconstruct post-pandemic technology thought leadership in co-authored book"
     excerpt: "AWS, Accenture executives deconstruct post-pandemic technology thought leadership in co-authored book - SiliconANGLE"
     publishedDateTime: 2023-01-16T19:44:00Z

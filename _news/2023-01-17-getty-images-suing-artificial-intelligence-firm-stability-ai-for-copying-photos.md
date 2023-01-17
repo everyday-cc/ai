@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-17T13:45:00Z
 originalUrl: "https://www.newindianexpress.com/business/2023/jan/17/getty-images-suing-artificial-intelligencefirm-stability-ai-for-copying-photos-2538693.html"
 webUrl: "https://www.newindianexpress.com/business/2023/jan/17/getty-images-suing-artificial-intelligencefirm-stability-ai-for-copying-photos-2538693.html"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: The New Indian Express

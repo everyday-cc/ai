@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-17T12:29:00Z
 originalUrl: "https://slator.com/ai-agency-unbabel-buys-germanys-evs-translations/"
 webUrl: "https://slator.com/ai-agency-unbabel-buys-germanys-evs-translations/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Slator

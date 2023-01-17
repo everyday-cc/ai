@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-17T13:20:00Z
 originalUrl: "https://appleinsider.com/inside/ios-16/tips/how-to-use-ai-subject-selection-in-photos-in-ios-16-macos-ventura"
 webUrl: "https://appleinsider.com/inside/ios-16/tips/how-to-use-ai-subject-selection-in-photos-in-ios-16-macos-ventura"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: AppleInsider

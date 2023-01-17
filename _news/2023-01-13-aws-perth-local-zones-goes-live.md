@@ -7,7 +7,7 @@ originalUrl: "https://www.arnnet.com.au/article/704684/aws-perth-local-zones-goe
 webUrl: "https://www.arnnet.com.au/article/704684/aws-perth-local-zones-goes-live/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS opens first Australian Local Zone in Perth"
-    excerpt: "AWS’s first Local Zone in Australia will bring low-latency performance to companies such as Woodside Energy and Nearmaps."
-    publishedDateTime: 2023-01-12T23:52:00Z
-    webUrl: "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth"
-    ampWebUrl: "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 59
-    images:
-      - url: "https://www.computerweekly.com/visuals/German/article/cloud-migration-2-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "AWS launches first Australian AWS local zones in Perth"
     excerpt: "“We have compute-heavy artificial intelligence and machine learning workloads that would be challenging to run without the scalability of AWS,” said Nearmap CEO and MD Dr. Rob Newman. “AWS helps us provide our customers with real-time access to ..."
     publishedDateTime: 2023-01-16T04:17:00Z

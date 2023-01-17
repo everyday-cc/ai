@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS opens first Australian Local Zone in Perth"
-    excerpt: "AWS’s first Local Zone in Australia will bring low-latency performance to companies such as Woodside Energy and Nearmaps."
-    publishedDateTime: 2023-01-12T23:52:00Z
-    webUrl: "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth"
-    ampWebUrl: "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 59
-    images:
-      - url: "https://www.computerweekly.com/visuals/German/article/cloud-migration-2-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "AWS Perth Local Zones goes live"
     excerpt: "Read more Phil Davis switches AWS for Google Cloud Perth founded location intelligence company Nearmap conducts compute-heavy artificial intelligence and machine learning workloads. According to ..."
     publishedDateTime: 2023-01-13T05:56:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/"
 type: article
 quality: 103
-heat: 173
+heat: 163
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       - url: "https://www.windowslatest.com/wp-content/uploads/2023/01/Windows-11-Microsoft-Edge-rounded-corners.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Microsoft Strikes Partnership with Paige To Advance Cancer Diagnostics and Treatment"
-    excerpt: "Microsoft is making a strategic investment in Paige, which is leveraging AI for cancer diagnostics and treatment. Paige will also use Microsoft Azure as its cloud provider for the Paige Platform."
-    publishedDateTime: 2023-01-13T00:03:00Z
-    webUrl: "https://medcitynews.com/2023/01/microsoft-strikes-partnership-with-paige-to-advance-cancer-diagnostics-and-treatment/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 47
-    images:
-      - url: "https://medcitynews.com/uploads/2021/09/GettyImages-925101084.jpg"
-        width: 732
-        height: 478
         isCached: true
   - title: "Microsoft's Future Growth Prospects"
     excerpt: "Investments in Artificial Intelligence over the past decade are now starting to pay off. Share prices have decreased considerably from recent highs."

@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Framework Science Revolutionizes Hiring Process with Cost-Effective, AI-Powered Staff Augmentation Services and Fintech"
-excerpt: "Our focus on cost-effectiveness, AI-powered processes, and fintech payments set us apart from other providers.”— Jesus Romero SAN FRANCISCO, CALIFORNIA, UNITED STATES, January 12, 2023/ EINPresswire.com / -- Framework Science Revolutionizes Hiring Process with Cost-Effective,"
-publishedDateTime: 2023-01-12T20:01:00Z
-originalUrl: "https://apnews.com/article/mexico-ein-presswire-newsmatics-business-6b2dbec690e258cbae8c4b14731138db"
-webUrl: "https://apnews.com/article/mexico-ein-presswire-newsmatics-business-6b2dbec690e258cbae8c4b14731138db"
+excerpt: "Using cutting-edge AI technology and a focus on fintech, Framework Science can build and manage teams faster and cost-effectively than any other company in the industry. One of the significant ..."
+publishedDateTime: 2023-01-12T20:33:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
+webUrl: "https://fox4kc.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WDAF-TV
+  domain: fox4kc.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "IGqh2uoFE3RzBNkSN1oiapSIB3smGGXNz/Iw4cr9v2b2INpoHYnu6FrsS0v/wbRdySewk/f9yRpvAle2WaR390Ltr0J/zf7nXxIGmKtIZmGXouO3AoaDlkcV2B/P/tITIvxx3c/+eOk7NGVNZzlEJSO/cWugn2aNVsM+oDZh9mRi40VPnvCg50v/5LlmnGN6FSKHlEvrFmyg47MoRT3YaACZgPKAF5PnK32xpm0VYUFtilh7bUqg7a1xsGxN6j7FFEiJig/p+rPQFeh5OwTtS+yiuiotJYNhxkwISHHF3WQiHt+TgaDy0duckLpCgE7D/lr9YHy3ygEx9DIaHuXBdPGuhy5MjQ7j0K6VURGMRNc=;HseLzPt+cr40mO5oxpS5kA=="
+images:
+  - url: "https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/12754431-jesus-romero-co-founder-and-cf-300x300.jpeg"
+    width: 300
+    height: 300
+    isCached: true
+
+secured: "rgx3+VHAWGmJW+O/OAvh2/vjPBu8HMDQbM6Rduroc5Z9By08NSj1gP/kimx9fTonqwn9GjdmaZxSgOfyBeEn09Rt2At0BaZk2ZzmA3kj0Z0tmpP42J8RfT9cGaVhx30l7mDAAxm/i3CFUXwVMm4ubIqMBl6L5v4QUXcu56mN2p/VonOmFb51fXh+hYqPxwe1xuh/GQkaXlN4fj/01Qpq7DxF1y8gXaKOj7dJBfrZtiIcCU6LZEPzQ+0BjfCLGJOOcDe9IySq1R7QP3loZ1KbEZXKDzNB0h58HwlDqZYlPOMjFyfDcA93z/FKelRwacxEq8O9T1ttzocPqVz8QbOQSxowC+qrBvuAsrog47Bx/Q4=;G87gZVYqKouOAsIOuH3ynw=="
 ---
 

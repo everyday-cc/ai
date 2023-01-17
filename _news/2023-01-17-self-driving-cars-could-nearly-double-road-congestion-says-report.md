@@ -33,6 +33,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Self-driving cars could cause congestion to nearly double, warns government report"
+    excerpt: "Department for Transport predicts massive rise in delays if autonomous vehicles become commonplace Road congestion could almost double from current levels if self-driving cars become commonplace, according to a new government report."
+    publishedDateTime: 2023-01-17T13:09:00Z
+    webUrl: "https://www.thestar.co.uk/lifestyle/cars/self-driving-cars-could-cause-congestion-to-nearly-double-warns-dft-government-autonomous-vehicle-report-3988138"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.co.uk
+    quality: 0
 
 secured: "wgCK/tl7o2G3Qv/S24Fk/akS51XcYmtaWfQ+3TzmrvZzzJDBgY0sVVn+ZoFFkbyufRRe6AQXXiSJFkS/La1Ei/TxEc5MQQQvulA3VaQf1zzNpNyH489ZztMalWTf/U+f8UaqICCZ2Egi46yai5ZIE1dzp6Cc9Ccy7D4x5PJeATP0ibDMkDNmTAbpVKU7unlB363sX5FxAfumCh2miF7Q5/hEMayH6Cu5WkREoASIUUMA6NwO+9xn6+s1qnvg0DFh2nrHeAswerEIXcTanlpjUuGATby0QDQeGfIijcI2WxkiVQWuNIaazUeLZ9D2qtRANI0h7jZEiVHF+roFmEKLxPe29og3Bs6Q7N2g8KY8KY8Pde0hGQT8Uz/nCAeqes6mOAWEUWCQwSWhMLX0HFjVBAeuueU2lFDaXPafPTWw3ktpGPOKbzMSgUqqlvCiH4QBuu/w3R74c6q8nUVQPkVl24sgrgQH85bRcbdGh2UmHMUA70ST9Uw+Ktyr9CEpf0ER7v9yA1bOAiQ7S8M907Ciig==;OZY1UGfUUCbibLzeM6QISA=="
 ---

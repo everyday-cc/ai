@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-14T06:18:00Z
 originalUrl: "https://www.theguardian.com/lifeandstyle/2023/jan/14/its-2023-where-are-the-sex-robots-they-will-probably-never-be-as-huge-as-everyone-thinks"
 webUrl: "https://www.theguardian.com/lifeandstyle/2023/jan/14/its-2023-where-are-the-sex-robots-they-will-probably-never-be-as-huge-as-everyone-thinks"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: The Guardian

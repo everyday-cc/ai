@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/01/15/what-jobs-are-available-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/15/what-jobs-are-available-in-artificial-intelligence-how-to-make-a-career-in-this-ai-boom/amp/"
 type: article
 quality: 95
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "5 healthcare AI updates"
-    excerpt: "Artificial intelligence has the potential to transform healthcare delivery, and hospitals across the country are making serious investments in AI. Five AI in healthcare updates Becker's has covered since Dec."
-    publishedDateTime: 2023-01-13T00:17:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/5-healthcare-ai-updates.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
 
 secured: "2Fg1c+aYl1x0C2WkbDmS5pqGvW3RoL+CtcSKhdNTRuVl8oaXX2SrkQVyiqeV+v4tJAZtVMnFsAg7wEDbXvW/iP2PIxJZuBgHr9yKmCf0g9Ed1S+wzBVaiMN+e4bBlf0lsbXOv3vbA0eEo49T4iRc4DHBKxVl5WslvoYcqjjfZCozcntzGJeH5cIBM7FT2rd7ndF710O+onWdIxvtPhNC3Fl7dz0XImzVtPRYGaNFWlkhXZ4NckpyflC+PP/moEnYDzSLm6gnBhmIjSett4Bp7D414S11ekkZ1alrUIuW2QLm5kF9cuNhjqiow6itB6pXFsrZPXDWdGh7tihWB0L9NOr6XKMaRY+JEiuyliPWkJjn5V+108wqmPM88Tf5HdnTpKXN14BWhnRqIpec6yfn7S+t1vtyRmO6yOatT/z2QtYtTFFugXs82UjvxDnGjqFdlw9VWfKTMuS+Jszkq7PC+bkO2QBsUmYdnP6Ob3lz4ou+j1k19CKThydpRHFdON4XcaPM0S48ml685e9oSHjZCA==;dEXjua0qQaY9r88QrW/Cpg=="
 ---

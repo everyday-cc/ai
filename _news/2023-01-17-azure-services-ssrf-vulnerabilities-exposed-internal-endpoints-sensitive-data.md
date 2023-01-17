@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-17T14:41:00Z
 originalUrl: "https://www.securityweek.com/azure-services-ssrf-vulnerabilities-exposed-internal-endpoints-sensitive-data"
 webUrl: "https://www.securityweek.com/azure-services-ssrf-vulnerabilities-exposed-internal-endpoints-sensitive-data"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: SecurityWeek

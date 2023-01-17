@@ -25,14 +25,14 @@ related:
   - title: "ChatGPT could be used for good, but like many other AI models, it's rife with racist and discriminatory bias"
     excerpt: "ChatGPT could soon power Microsoft products, despite the potential to spew dangerous content. The AI community is torn on solutions."
     publishedDateTime: 2023-01-16T16:08:00Z
-    webUrl: "https://insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1"
+    webUrl: "https://www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1"
     ampWebUrl: "https://www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1?amp"
     cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1?amp"
     type: article
     provider:
-      name: insider
+      name: YAHOO!News
       domain: insider.com
-    quality: 42
+    quality: 40
     images:
       - url: "https://i.insider.com/62e40a4f4b455800188b5eaf?width=1200&format=jpeg"
         width: 1200

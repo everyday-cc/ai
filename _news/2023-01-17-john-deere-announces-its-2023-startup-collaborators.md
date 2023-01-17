@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-17T13:01:00Z
 originalUrl: "https://fox4kc.com/news/john-deere-announces-its-2023-startup-collaborators/"
 webUrl: "https://fox4kc.com/news/john-deere-announces-its-2023-startup-collaborators/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: WDAF-TV

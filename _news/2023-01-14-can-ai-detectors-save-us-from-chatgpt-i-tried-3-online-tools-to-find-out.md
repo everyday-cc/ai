@@ -78,7 +78,7 @@ related:
         isCached: true
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
-    publishedDateTime: 2023-01-17T11:30:00Z
+    publishedDateTime: 2023-01-17T15:30:00Z
     webUrl: "https://wusfnews.wusf.usf.edu/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever"
     type: article
     provider:

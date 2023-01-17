@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-growth-rate-comprehensive-analysis-of-profitable-key-business-trends-and-outlook-2023-01-12"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: MarketWatch
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Market Share 2023 Comprehensive Insights, Innovations and Business Outlook till 2029"
+    excerpt: "Research Reports added a research report on the global “Artificial Intelligence in Market\". The report includes"
+    publishedDateTime: 2023-01-17T04:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-market-share-2023-comprehensive-insights-innovations-and-business-outlook-till-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
 
 secured: "wkiYGYmiKWZdOc+aKquzZuTn2jFxNLPAX1u2/I+qDPMC0JqD/Jfx+jnSZIDnycOMrLtC+9OPD541f7xAnfpI/BIsx4+SEqL7zWKB76jmF/ybQ7U9QGZYCq1TLht88nAK7zcUdiIMiYJ52mpnWDefjWRazkBfKzu+u+gWF8rNl5LlL8lmh8K85cwwufsc8AtA7b7b5LVTOWVMwxe8ez9DnNRiNLvNMpdFfwKbq3UJu3P4BH88EN5AM7V+U1WClq3umvoDMYrIrkiNmuwu/wcs2ZETjPRnIGO0blFb98Cwryd0wDPBJBg4IeOYh992Zjxmla/zephhsXh2SVhORfTcrLnRUjCSxa8haBscrT3qC7M=;jxcyRGn8z60p5Gwe2IiVIQ=="
 ---

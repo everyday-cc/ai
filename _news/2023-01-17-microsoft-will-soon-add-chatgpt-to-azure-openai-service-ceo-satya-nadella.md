@@ -98,22 +98,6 @@ related:
         width: 1070
         height: 579
         isCached: true
-  - title: "Microsoft Azure OpenAI service now generally available, ChatGPT coming soon"
-    excerpt: "Microsoft has announced the general availability of the Azure OpenAI service, which enables enterprises to power their apps with large-scale artificial intelligence models such as GPT-3.5,"
-    publishedDateTime: 2023-01-17T07:30:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-azure-openai-service-now-generally-available-chatgpt-coming-soon-777948"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/microsoft-azure-openai-service-now-generally-available-chatgpt-coming-soon-777948"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/microsoft-azure-openai-service-now-generally-available-chatgpt-coming-soon-777948"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 87
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/01/17/1330160-ai.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "ChatGPT Is Coming Soon To Azure OpenAI Service, Says Microsoft Chief Satya Nadella"
     excerpt: "Microsoft has allowed its cloud-computing users to preview tech by OpenAI, a startup that it is backing. The preview has been done through a program that Microsoft calls the Azure OpenAI service."
     publishedDateTime: 2023-01-17T08:29:00Z
@@ -280,6 +264,43 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "ChatGPT capabilities will be part of Microsoft’s Azure OpenAI Service soon"
+    excerpt: "Last year, during Build 2022, Microsoft enhanced its Azure Cognitive Services with Azure OpenAI Service. The enhancement was designed to assist developers in"
+    publishedDateTime: 2023-01-17T14:16:00Z
+    webUrl: "https://www.onmsft.com/news/chatgpt-coming-to-azure-openai-service-soon/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 67
+    images:
+      - url: "https://www.onmsft.com/cdn-cgi/image/width=1024,height=768,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2021/01/Azure-cloud-cropped.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Microsoft Azure Openai Service Now Generally Available, Chatgpt Coming Soon"
+    excerpt: "Microsoft has announced the general availability of the Azure OpenAI service, which enables enterprises to power the"
+    publishedDateTime: 2023-01-17T08:05:00Z
+    webUrl: "https://menafn.com/1105437538/Microsoft-Azure-Openai-Service-Now-Generally-Available-Chatgpt-Coming-Soon"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 67
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?993770"
+        width: 462
+        height: 250
+        isCached: true
+  - title: "Microsoft: We're bringing ChatGPT to the Azure cloud-computing service"
+    excerpt: "Microsoft has announced general availability of its Azure OpenAI Service, an offering related to its $1 billion investment in OpenAI, the maker of ChatGPT. That means more businesses can apply to use OpenAI's Azure-hosted and trained large language models (LLMs),"
+    publishedDateTime: 2023-01-17T12:49:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-were-bringing-chatgpt-to-the-azure-openai-cloud-computing-service/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
   - title: "Microsoft's Azure OpenAI Service expands to general availability, will add ChatGPT soon"
     excerpt: "Microsoft plans to add chatbot ChatGPT to its Azure cloud computing service. The company said that the Azure OpenAI Service, a program offering access to OpenAI's technology, was now entering general availability."
     publishedDateTime: 2023-01-17T12:01:00Z
@@ -305,6 +326,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "Microsoft Patches 4 SSRF Flaws in Separate Azure Cloud Services"
+    excerpt: "Two of the vulnerabilities — in Azure Functions and Azure Digital Twins — required no account authentication for an attacker to exploit them."
+    publishedDateTime: 2023-01-17T15:13:00Z
+    webUrl: "https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-four-ssrf-flaws-in-separate-azure-cloud-services"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 54
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc3971b0cadba779c/63517ee229eafd0f926dd465/azure_Budrul_Chukrut_shutterstock.jpg"
+        width: 1000
+        height: 703
+        isCached: true
   - title: "Microsoft to add ChatGPT to Azure cloud services ‘soon’"
     excerpt: "The two companies have expanded their partnership recently, while there are rumors that Microsoft plans to give more funding to Open AI. Microsoft has expanded access to OpenAI’s software, making it generally available on its Azure cloud service."
     publishedDateTime: 2023-01-17T08:45:00Z
@@ -333,6 +368,24 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Four New Microsoft Azure Vulnerabilities Found By Orca Security"
+    excerpt: "Vulnerabilities in four Microsoft Azure services, which posed the risk of leading to the exposure of customer data, were discovered by the research team at cloud security company Orca Security, the researchers disclosed Tuesday."
+    publishedDateTime: 2023-01-17T14:19:00Z
+    webUrl: "https://www.crn.com/news/security/four-new-microsoft-azure-vulnerabilities-found-by-orca-security"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 51
+  - title: "Microsoft launches Azure OpenAI, ChatGPT coming ‘soon’"
+    excerpt: "Microsoft's Azure OpenAI Service is now available for select partners and customers. The tech giant says it will add OpenAI's popular ChatGPT tool 'soon'."
+    publishedDateTime: 2023-01-17T13:12:00Z
+    webUrl: "https://www.techzine.eu/news/applications/99948/microsoft-launches-azure-openai-chatgpt-coming-soon/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 49
   - title: "ChatGPT is coming soon to Azure OpenAI Service: Microsoft CEO Satya Nadella"
     excerpt: "Microsoft has allowed its cloud-computing users to preview tech by OpenAI a startup that it is backing. The preview has been done through a program that Microsoft calls the Azure OpenAI service."
     publishedDateTime: 2023-01-17T07:25:00Z
@@ -342,6 +395,15 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 47
+  - title: "Microsoft makes Azure with OpenAI’s Chat GPT available for enterprise customers"
+    excerpt: "Microsoft announced it will make Azure’s cloud service with OpenAI’s ChatGPT accessible for its enterprise customers"
+    publishedDateTime: 2023-01-17T07:25:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-makes-azure-with-openais-chat-gpt-available-for-enterprise-customers/article66387033.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 45
   - title: "Microsoft adding ChatGPT to Azure cloud service"
     excerpt: "OpenAI is already working on a successor GPT-4 model for its natural language processing. Still, concern about its accuracy — which Altman himself has said is not good enough for the bot to be relied on — has prompted caution about its premature use ..."
     publishedDateTime: 2023-01-17T04:57:00Z
@@ -374,6 +436,15 @@ related:
         width: 2048
         height: 1363
         isCached: true
+  - title: "Microsoft Azure Services Flaws Could've Exposed Cloud Resources to Unauthorized Access"
+    excerpt: "Researchers have discovered severe Server-Side Request Forgery (SSRF) vulnerabilities in 4 Microsoft Azure services."
+    publishedDateTime: 2023-01-17T14:44:00Z
+    webUrl: "https://thehackernews.com/2023/01/microsoft-azure-services-flaws-couldve.html"
+    type: article
+    provider:
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 26
   - title: "AI Committee chairman downplays fears over ChatGPT misuse"
     excerpt: "The Chairman of the Artificial Intelligence Committee at the Ministry of Communications and Information Technology (MCIT), Hassan Jassim al-Sayed, downplayed the fears over"
     publishedDateTime: 2023-01-16T20:26:00Z

@@ -44,6 +44,15 @@ related:
       name: BBC
       domain: bbc.com
     quality: 47
+  - title: "Revolut close to finalising 2021 accounts as fintech seeks U.K. licence - sources"
+    excerpt: "Fintech firm Revolut Ltd. is close to finalising its long-overdue 2021 financial accounts, a move that could pave the way for the start-up to obtain a UK banking licence, two people with knowledge of the matter told Reuters."
+    publishedDateTime: 2023-01-13T16:36:00Z
+    webUrl: "https://www.reuters.com/technology/revolut-close-finalising-2021-accounts-fintech-seeks-uk-licence-sources-2023-01-13/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 29
 
 secured: "OIOuP3+gjZ+dXAWBVTpa5CG20jGK6dMLzkxX5fiOtqxW0/+IJmviXuk6n5Os5tk8LM8716KAXxbbmL9Tk9Jrvz2I8gHdT72OnxoONjq8mKRQKESM2w5fKehGrCj2S2rop7VB8uEVRm+xKS1Rw5rL5+U1TwL+9bpqxMagTUIOiE/AKoZ7Mnk3JO/cGLXNwHB+Vj0WlCBQJSzlerz9jR3Uad/JylvlzEP/8RojGl/fd4rLSaPtx3JOVlMxgjT7jIcORsQjHqJR9xw3h9X2qY6lV1fHrH5aUXFzvPW2EBWShh4ncjSr3Fb+YEpjOuhCmG9lx2MIbj2gWvHEsfR6MpS2PZrOuq2sI4hUPDRj+B1UYm30kEdoO7xCAMCF4gcoFrUtnyM5+t1pnQ9yLsivX8t3IPWh1OeSeo+H0XjiPLcwtg6RZiUxmHcn9gU8HXt3ESwIzSltd42GB4mvs0UMRdwjTSh2y9SqSS626k+FfTSjtLLv3nVSq10guYsbxswbf5/4GAI85z+kW4f3wC+h9ZFIug==;KiTZIPTg8UboYJIcCmiMEA=="
 ---

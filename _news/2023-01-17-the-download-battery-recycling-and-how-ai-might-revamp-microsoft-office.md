@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-17T13:11:00Z
 originalUrl: "https://www.technologyreview.com/2023/01/17/1067026/download-battery-recycling-ai-revamp-microsoft-office/"
 webUrl: "https://www.technologyreview.com/2023/01/17/1067026/download-battery-recycling-ai-revamp-microsoft-office/"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: MIT Technology Review

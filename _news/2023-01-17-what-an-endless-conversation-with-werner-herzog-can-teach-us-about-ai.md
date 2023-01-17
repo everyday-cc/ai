@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-17T14:33:00Z
 originalUrl: "https://www.scientificamerican.com/article/what-an-endless-conversation-with-werner-herzog-can-teach-us-about-ai/"
 webUrl: "https://www.scientificamerican.com/article/what-an-endless-conversation-with-werner-herzog-can-teach-us-about-ai/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Scientific American

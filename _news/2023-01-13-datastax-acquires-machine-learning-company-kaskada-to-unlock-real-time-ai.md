@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2023/01/13/datastax-acquires-machine-lea
 webUrl: "https://insidebigdata.com/2023/01/13/datastax-acquires-machine-learning-company-kaskada-to-unlock-real-time-ai/"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 300
     height: 390
     isCached: true
-
-related:
-  - title: "DataStax Bolsters Real-Time Machine Learning with Kaskada Buy"
-    excerpt: "DataStax, which arguably is best known as the commercial entity behind the scalable NoSQL database Apache Cassandra, turned some heads in 2021 with the"
-    publishedDateTime: 2023-01-12T21:31:00Z
-    webUrl: "https://www.datanami.com/2023/01/12/datastax-bolsters-real-time-machine-learning-with-kaskada-buy/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2021/08/shutterstock_cassandra.jpg"
-        width: 1000
-        height: 531
-        isCached: true
 
 secured: "oow6SATqIiYGGziPylCz1EIN3+4TGjcpbqFoghOMvzvomzsHSObSqdfKy+97ifvgWfhRcPCeJ7HnvVBXutpR4mp2Cjs4r2bGCcdJbNuLFRPPAqYRMLhNcd7pKU9WeCL20ZiHljI+wWp+rwuerXlD7FHDKMggqvzlMiqZqoXvjNo58CSN1IL6TGB+FsHBf5DrqW6MC4TVSzpnXXBcUH6CRwzz8whnHtMkx29GsxM//ouGDRJwQj4EJ8kwxEfn9tA8CKvKmAGGRhrizC+JZvb6KDB7TiQI2HJhE2OEdEuxdC5RDaswdhJrg8QHs9ZqmofaS/U16stcnZuDBk8IES4Yj3mul7/rPFM43zftkpajh+FRVbqu9RSd3PbAgfTlXserXYHN5AjWC00nrEwoqP6kCH2sIFB/jroF4AdSc8XCaPhRzfFiF5UP0MUVNnXEUTbE8u1WCE7iZV/b6TwYUJtr/4EMKpcyl+YcfcqSsRvXrbIcE/o35vNfCLnX5N3iEQltcVctZAXIgaAerwU0UDyJWA==;24HK2RqGbX9sfNETVLGo5A=="
 ---

@@ -5,7 +5,12 @@ excerpt: "AI, as it is called, is coming to your home, your job, your life in wa
 publishedDateTime: 2023-01-16T21:07:00Z
 originalUrl: "https://www.wptv.com/news/region-c-palm-beach-county/west-palm-beach/artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says"
 webUrl: "https://www.wptv.com/news/region-c-palm-beach-county/west-palm-beach/artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says"
+ampWebUrl: "https://www.wptv.com/news/region-c-palm-beach-county/west-palm-beach/artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says?_amp=true"
+cdnAmpWebUrl: "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/region-c-palm-beach-county/west-palm-beach/artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says?_amp=true"
 type: article
+quality: 50
+heat: 50
+published: false
 
 provider:
   name: WPTV-TV
@@ -13,7 +18,14 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
-secured: "yp8XSXG5iBzts0w6KtZknoi/10olbed472A3J6i0ANMLPTYt27kgij8sSHTSY4sQCvurFV6q9FX2eRqizuRH49MWEnyzqfDHg80iYdwjcbC8+fY9yAufU+6/Vtj0b3OJSn7Vw3E2fFNSzzsS5of3WW4FnQEpc4yAQvFDrS92KJeqmCjydg5R+g6lDxeCnJF3aqG8BGDUqePvpQHlpRq+BmBq9TjL3p0x1/ThPuWyboPIe+lnJVvQpIXsfFznMUDbNNi02UZdCinowU1tBqNyY2sgQQOgHeoSnilfIKq96RKSO1B4fqSS6hSdo4D8l6IEITCskL5iQuJUmL8t2mvzQflaJ2jnqKf3tsurVHyftF9KbQ2889idlkxmcnBilVpKd0vkPy1Ja6KO6HRzRKiqg05TosM6U6eTfAv2l7hvfQLyueT5aB4JXUymlYJWFM/M3KiamIYJtylWCM+yhwkApclwLHKnnT47Sc1xrkAzfugiddXK/bpgz4Gk4Rrruu7OIjkXE3ndz0tTg471q+ql3g==;SU6y/j/Gy3y9X9z5872tQg=="
+images:
+  - url: "https://x-default-stgec.uplynk.com/ausw/slices/43b/2fbf8a5e953e4a01960f2f5161cc4953/43b7e564eb7748a39ab7f97767c430b9/poster_255d225c0b9349059b68d87bf000b15c.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "9ntiaabh2ud4W4nb/u/jIAAOHc7+Ejtl+pwTDnZvvQYdGoiPIZ2wikAKGXG5u25dy3AJbUJdC06Y5kRN9tS+Inzi8pX9L1nvXzKxChRfaym3GInUowHUuaFeCH9rnS6hVWT4LVtsxYwANgMHDUB7seQ+qKM92MXqZF5hQCbfIB3wrOaH8UCWcAeaJ+ekHHCq6zioWXtN28L2Dj8KmBL7NjpYwmHY/zIsJfFoGQ/vh4FnELjxc1vW+KewNditOKXw9aKNi1nzn60hkOIDXHJTiu0dM/MJv4Eod4k65+AKw5JuALc/kIGh3pQVR+UMu9P8jNZ3q7kNtgWFArIDQJDppXaP9BRTH5+/xCYv2dnqInQ=;SSkrxeWuRnhS9kPi+GNShQ=="
 ---
 

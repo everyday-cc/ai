@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-17T14:13:00Z
 originalUrl: "https://www.marinetechnologynews.com/news/greensea-seebyte-collaboration-fosters-625290"
 webUrl: "https://www.marinetechnologynews.com/news/greensea-seebyte-collaboration-fosters-625290"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: marinetechnologynews.com
