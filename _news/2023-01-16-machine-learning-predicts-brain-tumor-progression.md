@@ -44,20 +44,20 @@ related:
         height: 1280
         isCached: true
   - title: "Study reveals machine learning can predict brain tumor progression"
-    excerpt: "Researchers at the University of Waterloo have developed a computational model to better accurately anticipate the emergence of lethal brain tumours."
-    publishedDateTime: 2023-01-16T17:55:00Z
-    webUrl: "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression"
-    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression?amp"
+    excerpt: "Researchers analysed two sets of MRIs from each of five anonymous patients suffering from GBM. The patients underwent extensive MRIs, waited several months, and then received a second set of MRIs. Because these patients,"
+    publishedDateTime: 2023-01-17T05:34:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/study-reveals-machine-learning-can-predict-brain-tumor-progression/97047394"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/study-reveals-machine-learning-can-predict-brain-tumor-progression/97047394"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/study-reveals-machine-learning-can-predict-brain-tumor-progression/97047394"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
     quality: 74
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_01_2023_17_49_51_9560931.jpg?width=1280"
-        width: 1280
-        height: 960
+      - url: "https://etimg.etb2bimg.com/thumb/msid-97047394,imgsize-81168,width-1200,height-628,overlay-ethealthworld/study-reveals-machine-learning-can-predict-brain-tumor-progression.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Using machine learning to predict brain tumor progression"
     excerpt: "Researchers have created a computational model to predict the growth of deadly brain tumors more accurately. Researchers at the University of Waterloo have created a computational model to predict the growth of deadly brain tumours more accurately."

@@ -73,6 +73,22 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "GPT-4 | Implications, pros and cons of the next-generation of ChatGPT"
+    excerpt: "GPT-4: A major implication of GPT-4 will be the improvement of natural language processing (NLP) tasks such as language translation, text summarisation, and question answering. While, we cannot ignore the potential downsides to GPT-4 as it could be used to generate fake news or propaganda,"
+    publishedDateTime: 2023-01-17T04:20:00Z
+    webUrl: "https://www.cnbctv18.com/views/gpt-4-implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm"
+    ampWebUrl: "https://www.cnbctv18.com/views/gpt-4-implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/views/gpt-4-implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 44
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/01/AP23006584552936-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
 
 secured: "NxhwsxFwmZfOxroBoUx1uhJpTkgR45mm8IkF8dxpHeoN0ea905eLqp5WMEeMjR1xi2Tf1SsOsLapoNOC1dWPeDQVI63VaJSNGbPlIAwCu2EKfvQSP6ex3K3Xka7EQXhmXtVZwKSEuKwNz3Fh1JKGsinmsSiXWJpMm2jHBNqInJ1llxonvVmRU9uUoXZfnHuk7V1ZAzo3H98bDguxwSZ7iLIAw0wBfIpGVFFXnRNZFW6m7suk/7Wv7rh+lWaRNkuwL9iK0azcW0Fodlf01qQFnHKO5SCGNtwxXszMEAvStkbPPXGH+VT2vrQ3Bzg9h/TXsPOxi1BBFgbePbPgoFMlcW4u1ly3aNiLbZRuTsTCteIPMbkmmmnJtavN1D4HsZkvE3+w+laGXjrkYy6QPRtCcu897rhPA5nBJgWcSIAE66PBKAWLTw8etqPBpY6u9UPyPBNxQ7xT/9qV8rLnYl6uGTtkxcsJK1dVRVnYktnzNecteLXmIIP55SYzVWxOX11LMuyTda4JzclHCcHVWmj3RA==;tR9WhKLSuLK38g6cFaELnQ=="
 ---

@@ -55,20 +55,6 @@ related:
         width: 640
         height: 437
         isCached: true
-  - title: "'Robot' Lawyer Will Use Artificial Intelligence to Represent Defendants in Court for First Time"
-    excerpt: "Next month, a \"robot\" lawyer ... This marks the first time AI will be used in court, Joshua Browder, CEO of DoNotPay, the startup behind the project, told the outlet. Although the company isn ..."
-    publishedDateTime: 2023-01-12T13:41:00Z
-    webUrl: "https://people.com/human-interest/robot-lawyer-will-use-artificial-intelligence-represent-defendants-traffic-court/"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 42
-    images:
-      - url: "https://people.com/thmb/rvu-1obmbE2pJEQ_N3xvSRk_vVU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/robot-lawyer-011023-1-e5fe53d7cce04dcb8deed9690a8f6815.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "An AI Lawyer Is About to Defend a Human in a U.S. Courtroom"
     excerpt: "Expensive lawyers may be replaced by cheaper chatbots whispering legal arguments into clients’ ears. But that vision of the future is fraught with risks."
     publishedDateTime: 2023-01-14T05:14:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.wptv.com/news/region-c-palm-beach-county/west-palm-beach/ar
 ampWebUrl: "https://www.wptv.com/news/region-c-palm-beach-county/west-palm-beach/artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says?_amp=true"
 cdnAmpWebUrl: "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/region-c-palm-beach-county/west-palm-beach/artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says?_amp=true"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://x-default-stgec.uplynk.com/ausw/slices/43b/2fbf8a5e953e4a01960f2f5161cc4953/43b7e564eb7748a39ab7f97767c430b9/poster_255d225c0b9349059b68d87bf000b15c.jpg"
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UUUF4c1CIp28ZBDewYpy+znN7/ZrBgDPO9WEZuBSbACEIoOEDDag7Lz0bROFv2rp5kw+jS7eF76KmtNork7dx3gRIAvuQxhWaigVzBiRHr4HTCuBQEFmT0+AlfV1ndzsxxWVSFtgGJsibXFOowM1jUQTsWN0wE/ns3gvAMCqRbxBZnpJOIP2/pnoCjxx2Po3GahjvCpSuUA4SDEi4yZe5q4HzRsMXIfTBcH937YFXIlX4Y8qF0dOZcMjUioJhGQlMibbA4AZeKei9SnTtZnprz1W+9aP8J4UhF4b91V0qXCA/UR217cXE9t79x+o3z4VDZyI86LKUNHP2Iu1T756Lhdw3eAv3MX387jTOvYwF4I=;tvoyZnW6jmKAMWT8YKpKww=="
+secured: "NfXRpPXKXK/V9r5ceAY+zchdBqoM6cX5Jo2w7XLjVR+s+BrOh3pNxDwNIsCafs6JXlrra4Ffc/Xu0M6GwAKwKE8cQLHq6nI6ABdFRyR40F/bOzUUjIubVc30htDwqDxSd3GhJYGT+/lPQztWJRFqoVzcDvBXnVV/U7Q5r0GUcBfjcWRG4gjaLilYfDQv1EL37JpU2saXZh1JdAUGk7kcHyfz94oCrmVVktD4EWdMCe+a6OT4/a+6hxua89pLDTf5FgNfgqc2fhjdqQ1IdiMt+22CI+mbrWU3r7xNqSdJgNdazgdAceKe+oxAjjbOzNf5geJqyxMtflAwhLJNnTfDUKyDgH/YJM2DOi9a1hAId1wNck+kSzAlbA3afDiCJ8azvlX3uukrGi272lRgonYsVHP3qTHAZpQmMDPWlYPIFYztzP2hUxz5NySDUpBUXS5R9eOw0MY1nQWDXAl01k8YWORkuepghq0/S/aUjdgLFxA9nyUk1GcSiaTnMvWoLaXq7BbjosgjfE37vqk4/UHUqw==;1IMkEeZ+BPvw+gtcktpB2g=="
 ---
 

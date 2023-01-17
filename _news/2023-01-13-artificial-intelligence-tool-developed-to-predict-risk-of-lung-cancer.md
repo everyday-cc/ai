@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2023-01-artificial-intelligence-tool-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-artificial-intelligence-tool-lung-cancer.amp"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: Medical Xpress
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "MIT & Mass General Hospital Have Developed An AI System That Can Detect Lung Cancer"
+    excerpt: "One notable accomplishment in this arena is the recent announcement by the Massachusetts Institute of Technology (MIT) and Mass General Hospital (MGH) regarding the development of a deep learning model named “Sybil” that can be used to predict lung cancer risk,"
+    publishedDateTime: 2023-01-17T03:45:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2023/01/16/mit--mass-general-hospital-have-developed-an-ai-system-that-can-detect-lung-cancer/"
+    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/01/16/mit--mass-general-hospital-have-developed-an-ai-system-that-can-detect-lung-cancer/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/01/16/mit--mass-general-hospital-have-developed-an-ai-system-that-can-detect-lung-cancer/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63c625efe08d59122bc2bb21/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 848
+        isCached: true
   - title: "Artificial Intelligence Tool to Predict Lung Cancer Risk"
     excerpt: "in collaboration with researchers at the Massachusetts Institute of Technology (MIT), developed and tested an artificial intelligence tool known as Sybil. Based on analyses of LDCT scans from ..."
     publishedDateTime: 2023-01-14T23:24:00Z

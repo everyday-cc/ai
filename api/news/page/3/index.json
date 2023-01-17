@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-13-video-surfaces-of-self-driving-tesla-abruptly-braking-causing-8-car-pileup.md",
+      "title": "Video Surfaces of Self-Driving Tesla Abruptly Braking, Causing 8-Car Pileup",
+      "excerpt": "Footage from a Thanksgiving Day crash involving a Tesla Model S has been obtained(Opens in a new window) by The Intercept, and it shows the vehicle crossing into the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/video-surfaces-of-self-driving-tesla-abruptly-braking-causing-8-car-pileup",
+      "originalUrl": "https://www.pcmag.com/news/video-surfaces-of-self-driving-tesla-abruptly-braking-causing-8-car-pileup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/056VrwEw2Zcuw05FwNbaIIS-5.fit_lim.size_1200x630.v1673465374.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-13T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-global-chipmakers-to-invest-over-300m-in-ai-designed-chips-this-year.md",
       "title": "Global chipmakers to invest over $300m in AI-designed chips this year",
       "excerpt": "The world’s leading semiconductor companies will likely spend more than $300 million in the development of artificial intelligence (AI) to help design semiconductors faster this year as a global chip shortage continues to put a strain on demand,",
@@ -495,50 +547,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-artificial-intelligence-tool-developed-to-predict-risk-of-lung-cancer.md",
-      "title": "Artificial intelligence tool developed to predict risk of lung cancer",
-      "excerpt": "in collaboration with researchers at the Massachusetts Institute of Technology (MIT), developed and tested an artificial intelligence tool known as Sybil. Based on analyses of LDCT scans from ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-01-artificial-intelligence-tool-lung-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-01-artificial-intelligence-tool-lung-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/lung.jpg",
-          "width": 1920,
-          "height": 1279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-01-artificial-intelligence-tool-lung-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-artificial-intelligence-tool-lung-cancer.amp",
-      "publishedDateTime": "2023-01-12T13:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {

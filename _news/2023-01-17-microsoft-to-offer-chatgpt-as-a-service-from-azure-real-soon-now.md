@@ -54,6 +54,22 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Microsoft brings ChatGPT support to Azure: All the details"
+    excerpt: "In the last couple of weeks, it has been suggested that Microsoft will bring ChatGPT tech to a few of its products and services. Now, Microsoft has o"
+    publishedDateTime: 2023-01-17T06:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-brings-chatgpt-support-to-azure-all-the-details/articleshow/97049819.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/microsoft-brings-chatgpt-support-to-azure-all-the-details/amp_articleshow/97049819.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/microsoft-brings-chatgpt-support-to-azure-all-the-details/amp_articleshow/97049819.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 89
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-97049819,width-1070,height-580,imgsize-65374,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
+        isCached: true
   - title: "Microsoft will 'soon' add ChatGPT to Azure OpenAI Service: CEO Satya Nadella"
     excerpt: "The software giant also announced the ‘general availability’ of its Azure OpenAI Service that gives customers access to various AI tools for use in their own applications."
     publishedDateTime: 2023-01-17T03:26:00Z
@@ -99,6 +115,36 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6218d54-3c27-4c17-bc25-33ce1d1a268e.png"
         width: 808
         height: 768
+        isCached: true
+  - title: "Microsoft CEO Satya Nadella says ChatGPT is coming to Azure OpenAI Service, here’s what it means"
+    excerpt: "Satya Nadella announced via a LinkedIn post that ChatGPT is soon coming to Microsoft’s Azure OpenAI Service This means that users will soon be able to access ChatGPT via Microsoft’s cloud Those using Azure already have access to various AI-based models By Divyanshi Sharma: Amidst all the rumours of Microsoft planning to bring ChatGPT to its various platforms,"
+    publishedDateTime: 2023-01-17T05:31:00Z
+    webUrl: "https://www.indiatoday.in/technology/news/story/microsoft-ceo-satya-nadella-says-chatgpt-is-coming-to-azure-openai-service-heres-what-it-means-2322534-2023-01-17"
+    ampWebUrl: "https://www.indiatoday.in/amp/technology/news/story/microsoft-ceo-satya-nadella-says-chatgpt-is-coming-to-azure-openai-service-heres-what-it-means-2322534-2023-01-17"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/microsoft-ceo-satya-nadella-says-chatgpt-is-coming-to-azure-openai-service-heres-what-it-means-2322534-2023-01-17"
+    type: article
+    provider:
+      name: India Today
+      domain: indiatoday.in
+    quality: 76
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202301/rtx2qkyg-sixteen_nine.jpg?VersionId=HLQuLPIaQseQSx4CWcYXSIBC.Jgi670b"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft Announces Azure OpenAI Service for All"
+    excerpt: "Microsoft today announced the general availability of its cloud-based Azure OpenAI service so that common people can use its AI tools like GPT-3.5, Codex, and DALL•E 2 to enhance their work. It also said customers could access OpenAI’s flagship AI chatbot ChatGPT through Azure."
+    publishedDateTime: 2023-01-17T05:19:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-announces-azure-openai-service-for-all/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 69
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Microsoft-banner.jpeg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Microsoft bets big on the creator of ChatGPT in race to dominate AI"
     excerpt: "As a new chatbot wows the world, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI."
@@ -158,6 +204,6 @@ related:
         height: 1363
         isCached: true
 
-secured: "Am1PtykHdlUa4TkpeiA4ow+k0jJEKNeayVhsOqAPgPoF91wMT5Fq8juN9vOpSXI54zOyLT2H5CTF8sjPz7Hl6dXVxszazbGdU9F6ROUCrN6tUrvHvxGDCsj8BVPtoSW5a1hzmkGNO0BB/7FQJ0rbvMqoZ9LeSrRaMyOBaNmvHcaaQ6Ib9dAvXamq3e7zCUAIcwHzQMqQFx4cENhptWR1P9bE5R1Sp+8jhZdbyed0HQ+t5llR4D3GOJeFo4GxDhbjv6t88ia20l1W6BbmN7YOnWrOR6A8shlMTabj2ACvxDyTiIjWk9ESAs5mCCuXuyTaPXsf9uDxsNHapxLCLjVaz8aJ1IyVo2xM5cN9kWxLuW8=;1zAqxLq5nyc2vWXoI1TTpw=="
+secured: "2JFrI9KJUNNJnhTZ8YSp1lEO7/Ne+IjMpmSkF8zMjfORdLAsIAGgQftyQ7W0ICy7SUrtTS61ft1nplBqBvXDHEkf7WyE7i5RhSodYJduyIYuzb4l4uK86wtkVfgQnE+odTbWYAbUDJ5XN+NPlMCNu2yB44budohpR9qu2N+pGIfndzcs5hlVq1CO3w+NzklUlZSwLYwvWKwoblj701ErAr0GxHQ+Yn9cbdyh+b8W+QslSDXU3JpeP0e76+7c8ZtxyiORrYqqseGHSH9JqL8wLidH2znfLX3yYq6juFDe1pk28yB/NlcCBvgtfGsF6d4kmyXcKjm4lxB0Cf4QMehWk7NZNh1wD0lmyQ2fUG50f1rcrR9Ld6eThpwQV+Sn7wjeM04e14SUVjF9pMtPNDyKo+yE95nWifqnFghTUQfyVSjutlF5+UwaRCgbT6vbCVeWdwdOOiMQscpLKtJ+fHugbC8RsQUxPmf1CkRkvwQRE2BHkJuuum6d1Hw49hU8WqLiV7yUb5Lhq7oyJR1gcygjUA==;1zb0HFOrNLC7MBbcuhnaEQ=="
 ---
 

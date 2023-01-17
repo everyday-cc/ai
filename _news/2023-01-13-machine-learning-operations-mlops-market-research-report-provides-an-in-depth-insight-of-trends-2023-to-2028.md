@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "With 20.1% CAGR, Natural Language Processing (NLP) Market 2023 Is Thriving Worldwide by 2027| 108 Pages Report"
-    excerpt: "Market \" Analysis 2023 | Exclusive Report [ The global Natural Language Processing (NLP) market size is projected to reach USD 2529.8 million by 2027, from USD 703 million in 2020, at a CAGR of 20.1% during the 2022-2027."
-    publishedDateTime: 2023-01-12T14:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/with-201-cagr-natural-language-processing-nlp-market-2023-is-thriving-worldwide-by-2027-108-pages-report-2023-01-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI In Computer Vision Market 2023 By Trends, Latest Research, Industry Competition Analysis, Revenue and Forecast Till 2028"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this AI In Computer Vision"
     publishedDateTime: 2023-01-12T23:15:00Z
