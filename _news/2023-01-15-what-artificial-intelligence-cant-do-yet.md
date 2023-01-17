@@ -8,7 +8,7 @@ webUrl: "https://mybroadband.co.za/news/software/476393-what-artificial-intellig
 ampWebUrl: "https://mybroadband.co.za/news/software/476393-what-artificial-intelligence-cant-do-yet.html/amp"
 cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/476393-what-artificial-intelligence-cant-do-yet.html/amp"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 related:
   - title: "6 Types Of AI And What They Can Do For Your Business"
@@ -48,6 +49,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 80
+  - title: "Artificial intelligence is getting ready for business, and not too slowly"
+    excerpt: "Artificial intelligence is getting ready for business, and not too slowly AI enables machines to exhibit human-like cognition positioned to do anything from driving our cars to dominating the ..."
+    publishedDateTime: 2023-01-13T07:59:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly/96948911"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly/96948911"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly/96948911"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 60
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-96948911,imgsize-44834,width-1200,height=765,overlay-etbrandequity/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Meet Tori, AI for your fast food order"
     excerpt: "Tori — an artificial intelligence launched by OpenCity — is described as the restaurant industry’s first conversational voice in the drive thru."
     publishedDateTime: 2023-01-15T15:57:00Z
@@ -79,22 +96,6 @@ related:
       - url: "https://www.khon2.com/wp-content/uploads/sites/8/2023/01/GettyImages-1352323887.jpg?w=1280"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Artificial intelligence is getting ready for business, and not too slowly"
-    excerpt: "Artificial intelligence is getting ready for business, and not too slowly AI enables machines to exhibit human-like cognition positioned to do anything from driving our cars to dominating the ..."
-    publishedDateTime: 2023-01-13T07:59:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly/96948911"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly/96948911"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly/96948911"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 58
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-96948911,imgsize-44834,width-1200,height=765,overlay-etbrandequity/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly.jpg"
-        width: 1200
-        height: 765
         isCached: true
 
 secured: "ari13d2zdrMmZ9tETA+ww57/5hSpQorp1C0j3yXIGpu3RFEUHZsy+vK/KpJ0owkU+HXZ5N1xy44XIoQ9Aada6uKVcQGMKgzwFWa/EP+Hx8Z8LM9HwSwEQ3GPB2uOn0LAQuVE0H7Po5YiBksROf7cb+jH5lf8nRznRGkOzlfrUt51u/DvtTVE8oVHYMiXuRGH2Qx6lTZhErJkoTRgJzhk2CSjZY7Xa50bf+QH9sSxhJJAxYAaM2QchCebqWDPFZNTKs3YIyPwiZYEzNWAaUTaJQauTb1ct+YVaVOfBgyu4bqyf1RqgUemsI6WM61oN2xkk1F/Xdh6PgrrKdMIKhjT8W6x/mHZow65PRrF6N1B5oo=;Hawz/kXD2TM44z83HaRSzg=="

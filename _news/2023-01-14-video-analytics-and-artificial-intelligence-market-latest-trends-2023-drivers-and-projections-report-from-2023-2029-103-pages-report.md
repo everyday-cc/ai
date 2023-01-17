@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-14T10:55:00Z
 originalUrl: "https://www.marketwatch.com/press-release/video-analytics-and-artificial-intelligence-market-latest-trends-2023-drivers-and-projections-report-from-2023-2029-103-pages-report-2023-01-14"
 webUrl: "https://www.marketwatch.com/press-release/video-analytics-and-artificial-intelligence-market-latest-trends-2023-drivers-and-projections-report-from-2023-2029-103-pages-report-2023-01-14"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: -1
 published: false
 
 provider:
@@ -20,12 +20,57 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Global Automated Machine Learning (AutoML) Market 2023 (Latest Report) is booming in near Future 2029| 103 Pages Report"
+    excerpt: "Global Automated Machine Learning (AutoML) Market Report 2023 is spread across 103 pages and provides exclusive vital statistics, data, information, trends, and competitive landscape insights in this niche sector. In a nutshell, this report is a must-read ..."
+    publishedDateTime: 2023-01-15T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automated-machine-learning-automl-market-2023-latest-report-is-booming-in-near-future-2029-103-pages-report-2023-01-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Image Recognition Market (New Report) 2023 Is Flourishing Around the World by 2029 | 116 Pages Report"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-01-13T00:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-new-report-2023-is-flourishing-around-the-world-by-2029-116-pages-report-2023-01-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Market Significant Growth Opportunities 2023 [New Report] Business Statistics, Future Trends, and Global Share Forecast To 2029"
+    excerpt: "Pages Report] The Deep Learning market research report includes the total number of facts and figures with manufacturers, types, applications, and regions. The Deep Learning Market report provides a market overview of the report along with competitive landscape that includes business profile,"
+    publishedDateTime: 2023-01-14T04:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-significant-growth-opportunities-2023-new-report-business-statistics-future-trends-and-global-share-forecast-to-2029-2023-01-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "C6lLiDqZTel744WwqsdcAqgnqma2E+vIsYh3lvuDxCVpbO5RUGWnY2yrjII1WPpdZU5MvWs88xSE9FwTadrbnmChMYIT/d2NqkApCgRy4DzO3OOc6MA+yAPN4AgmH04c2DevMA/sffy2mD7r0xxqxApTgRCwzpUZGTRdOO+MOhUvAqzJrlNjBNhYt13mTxOyYCZ2hne+PKeYbIm3js2/LBnix/sZCyeOrd/UgkxXwqRnnRF/rOs+usFWXAbgFRTLz7SkML7rTb1UJiRg4NWgSTOvRv4e1lmQUfKUvzI5VXagxvvXLOPwcf0wvBGbqlKou9U0EQrTzhyGjRyaV+ZdSDenrlx/C11TD8aZqeNGJ3E=;6Ww22rO0h6HQACTOCXEbDg=="
 ---

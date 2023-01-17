@@ -47,15 +47,6 @@ related:
         width: 1300
         height: 731
         isCached: true
-  - title: "Microsoft’s $10bn bet on ChatGPT developer marks new era of AI"
-    excerpt: "The $10bn investment that Microsoft is considering in San Francisco-based research outfit OpenAI looks set to become the defining deal for a new era of artificial intelligence. If the US software giant is right about the far-reaching implications of the technology,"
-    publishedDateTime: 2023-01-16T11:00:00Z
-    webUrl: "https://www.ft.com/content/a6d71785-b994-48d8-8af2-a07d24f661c5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
 
 secured: "Pcv/ejL6UDcFdMSz4YI8mtofQnwPmTsrnrL7CKkHSx6yFstXyzg+TLjcdnVQo6W9Yp7TuEw5nBZvccLZe0Y4MlUjky0draU6V4puwVwjZwBztNc1jjB1qbBzlS7gSlsxcUiICcLTYIV8vwM1WeTDZLwKPOmO571K0wnNjjrxSivHuVOTNUmfJdh5Qq5B7EGUt7/YX0t8BsACAS5AyAz/gfOUShbJNEv9/a7lR0rsheKfzU7piRUtIJ9DU1wJWZ97WL7oYEyaQ8NY51ObFFbnHpy38QYdhU1rxX5PtqUKkzrw2klXC8AaSRINPDZZYTVpE2HMGXEWQL9KnvU+KqLPH1z2OpvLJTgFUaXD47lbMjY=;VUT/cKX2aM/W1B7GlKJKFQ=="
 ---

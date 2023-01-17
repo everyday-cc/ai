@@ -9,7 +9,7 @@ ampWebUrl: "https://www.insider.com/chatgpt-is-like-many-other-ai-models-rife-wi
 cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1?amp"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft bets big on the creator of ChatGPT in race to dominate AI"
-    excerpt: "As a new chatbot wows the world, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI."
-    publishedDateTime: 2023-01-13T19:01:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
   - title: "Portraits to go and prose like Tim Winton: ChatGPT and the rise of AI"
     excerpt: "AI expert Prof Toby Walsh speaks to Laura Murphy-Oates about the new wave of artificial intelligence and the fear and fascination it has created"
     publishedDateTime: 2023-01-16T13:00:00Z
@@ -49,6 +38,6 @@ related:
       domain: theguardian.com
     quality: 17
 
-secured: "MK7aHjxFLi9kODn67TZ4ygAvBh2Jiiq8R4yS0Qk9mmiLptZcXJdgXCeLrY2zQ23/oBZaTRALjh5vwTv4hk3lCvA/8rgbIJ4ZRZZnFdNA5h6bbIY5GRp31mhffqip/saZB2agskEqb88DtRpXkW/ocHz5umSiJ6warZZo0q9d7arCVX33/nodZZ80ru48UEc2EMnHv5LrB9YC4BYMOZ08WJDdg9+QLI7tFWzsfkT055n/0pimiOiMDNq9ez5sMXw+uzidtkLXJQv/tY9bY3USwpL7Htt3yaiMEEpZAywmSLjBwthxOcgWOLr502gZeKJ/iLIvahvF/RJZsdtVf8B4S6wbKzBuXqzYkULYTVlrY28=;9V8f8+tS0snYjq/wyXaZfg=="
+secured: "aTvp1hAx3qOrmGKW+2y9g2TEptXtMECOl9eSj0LGKcqTRbAnaX/xKaDEJi+v1/HwpWjelbYExZfsYyv+8lk3oCvpo8Pmp2VkhtAAn6vjmrCyqrHZvM71iw1eKfo/KiBXKPKpGL6xqxYKSjG1iRO1BB7UxP3+9DFJ11b1mCdEgJLaE0SXyHsEcRxDaci7sRQcJ4BK/BZ4l8IVq2xpbsZ0qKVWdz+35LrWV8sPT6l+mfwcYuelsJZuS2/wGDVSP4y2OPV33rxOJ0KB8gyvdTC1gtLyGoiDMNJZM79BTbnIH+DYXskCDgRvEe6iSOO0Kxbk8TUNeFR7LJ3XaYiELSGoEW2f24gZ9EzIY+VAJytnXUJPKN3k1cWTlHcpyTAITab7nw/AKwvFCQdqLrORCxwDdY+xUpqWAHGnmNPvUyVQiAwUptL9OykKSq5L8l8ZjrF69+xu3ov8huYiSv2XCOCZFU1/JSsh2ljD9ZPQGa+O4oa2Tj5l2/ZnikEcRcLf7NASO4erJTPgabFP+DtbqHz4uQ==;cdtr+dnulSJRpwsG/kwbuw=="
 ---
 

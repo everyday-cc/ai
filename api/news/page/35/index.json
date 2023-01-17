@@ -2,6 +2,299 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2022-12-08-first-global-forum-on-ethics-of-ai-held-in-prague-one-year-after-the-adoption-of-unescos-global-recommendation.md",
+      "title": "First Global Forum on Ethics of AI held in Prague, one year after the adoption of UNESCO’s global recommendation",
+      "excerpt": "It is in the process of setting up AI Experts without Borders, and the Global Network of Knowledge Centres on Ethics of AI – made up of some of the world’s leading universities and academic centres. To drive forward the gender equality agenda ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.unesco.org/en/articles/first-global-forum-ethics-ai-held-prague-one-year-after-adoption-unescos-global-recommendation",
+      "originalUrl": "https://www.unesco.org/en/articles/first-global-forum-ethics-ai-held-prague-one-year-after-adoption-unescos-global-recommendation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unesco.org/sites/default/files/styles/best_image/article/2022-12/GettyImages-476085510%20solarseven.jpg?itok=UGSIckda",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UNESCO",
+        "domain": "unesco.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-machine-learning-engineer-jhb-cpt-at-datafin-recruitment.md",
+      "title": "Machine Learning Engineer (JHB & CPT) at Datafin Recruitment",
+      "excerpt": "BUILD, implement, improve and support the AI platform which will support delivery of the AI strategy as the next Machine Learning Engineer sought by a forward-thinking Financial Services Provider. The ideal candidate must possess a suitable tertiary ...",
+      "sourceUrl": null,
+      "webUrl": "https://it-online.co.za/2022/12/08/machine-learning-engineer-jhb-cpt-at-datafin-recruitment/",
+      "originalUrl": "https://it-online.co.za/2022/12/08/machine-learning-engineer-jhb-cpt-at-datafin-recruitment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT-Online",
+        "domain": "it-online.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-researchers-gain-a-better-understanding-of-how-the-most-commonly-used-adhd-medication-works.md",
+      "title": "Researchers gain a better understanding of how the most commonly used ADHD medication works",
+      "excerpt": "Now, a new study seeks to close this gap and understand how methylphenidate interacts with cognitive control networks and attentional behavior. The new study appears in Biological Psychiatry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/973890",
+      "originalUrl": "https://www.eurekalert.org/news-releases/973890",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-why-c3ai-shares-are-moving-in-wednesdays-after-hours-session.md",
+      "title": "Why C3.ai Shares Are Moving In Wednesday's After-Hours Session",
+      "excerpt": "C3.Ai Inc (NYSE: AI) shares are volatile in Wednesday's after-hours session after the company reported better-than-expected",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/why-c3-ai-shares-are-moving-in-wednesday-s-after-hours-session-1031958991",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/why-c3-ai-shares-are-moving-in-wednesday-s-after-hours-session-1031958991",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/12/07/artificial-intelligence-gc56b6d204_1920.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T14:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-lensa-the-ai-portrait-app-has-soared-in-popularity-but-many-artists-question-the-ethics-of-ai-art.md",
+      "title": "Lensa, the AI portrait app, has soared in popularity. But many artists question the ethics of AI art.",
+      "excerpt": "For many online, Lensa AI is a cheap, accessible profile picture generator. But in digital art circles, the popularity of artificial intelligence-generated art has raised major privacy and ethics concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/internet/lensa-ai-artist-controversy-ethics-privacy-rcna60242",
+      "originalUrl": "https://www.nbcnews.com/tech/internet/lensa-ai-artist-controversy-ethics-privacy-rcna60242",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-12/221206-lensa-selfies-ai-celebrities-cs-548f22.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna60242",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna60242",
+      "publishedDateTime": "2022-12-07T13:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-tesla-on-self-driving-claims-failure-to-realize-long-term-aspirational-goal-is-not-fraud.md",
+      "title": "Tesla on self-driving claims: ‘failure to realize long-term, aspirational goal is not fraud’",
+      "excerpt": "Tesla, defending itself in a lawsuit over self-driving claims, said, “Mere failure to realize a long-term, aspirational goal is not fraud.”",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/12/07/tesla-self-driving-claims-failure-realize-long-term-aspirational-goal-not-fraud/",
+      "originalUrl": "https://electrek.co/2022/12/07/tesla-self-driving-claims-failure-realize-long-term-aspirational-goal-not-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T13:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-autonomous-robot-startup-synkar-partners-with-toronto-based-microart-services.md",
+      "title": "Autonomous Robot Startup Synkar Partners With Toronto Based Microart Services",
+      "excerpt": "Synkar's mission, 'To bring robotics, AI, and innovation into everyday logistics ... Matheus Theodoro and Evandro Barros joined forces with Lucas Assis to start their strategy and PHd level ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105281270/Autonomous-Robot-Startup-Synkar-Partners-With-Toronto-Based-Microart-Services",
+      "originalUrl": "https://menafn.com/1105281270/Autonomous-Robot-Startup-Synkar-Partners-With-Toronto-Based-Microart-Services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T13:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-ai-is-finally-good-at-stuff-and-thats-a-problem.md",
       "title": "AI is finally good at stuff, and that’s a problem",
       "excerpt": "Uncovering and explaining how our digital world is changing — and changing us. A few weeks ago, Wharton professor Ethan Mollick told his MBA students to play around with GPT, an artificial ...",
@@ -818,316 +1111,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-oss-wins-multi-million-dollar-ai-transportable-program-with-leading-5g-cellular-provider.md",
-      "title": "OSS Wins Multi-Million-Dollar AI Transportable Program with Leading 5G Cellular Provider",
-      "excerpt": "(Nasdaq: OSS), a leader in AI Transportable solutions on the edge, has won a multi-year, multi-million-dollar program with a Fortune 50 cellular provider to supply OSS transportable compute and storage hardware for a mobile 5G AI application.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/12/07/9726055.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/12/07/9726055.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-microsoft-announces-future-ready-champions-of-code-program-a-pan-india-program-for-developers.md",
-      "title": "Microsoft announces Future Ready Champions of Code Program a pan India program for developers",
-      "excerpt": "The program will provide opportunities to over 100K+ developers to earn or renew Microsoft cloud certifications over a period of 30 days",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/technology-science/microsoft-announces-future-ready-champions-of-code-program-a-pan-india-program-for-developers-article-96062574",
-      "originalUrl": "https://www.timesnownews.com/technology-science/microsoft-announces-future-ready-champions-of-code-program-a-pan-india-program-for-developers-article-96062574",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-96062574,imgsize-100,updatedat-1670423783327,width-1280,height-720,resizemode-75/96062574.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/technology-science/microsoft-announces-future-ready-champions-of-code-program-a-pan-india-program-for-developers-article-96062574/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/microsoft-announces-future-ready-champions-of-code-program-a-pan-india-program-for-developers-article-96062574/amp",
-      "publishedDateTime": "2022-12-07T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-san-francisco-changes-course-bans-police-use-of-killer-robots-amid-public-outrage.md",
-      "title": "San Francisco changes course, bans police use of 'killer robots' amid public outrage",
-      "excerpt": "Tuesday's vote came a week after the San Francisco Board of Supervisors voted 8-3 to initially approve allowing \"killer robots\" in emergencies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2022/12/07/san-francisco-rejects-police-killer-robots/10850743002/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2022/12/07/san-francisco-rejects-police-killer-robots/10850743002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-nvidia-ai-enterprise-30-adds-new-application-workflows-partners-with-deutsche-bank.md",
-      "title": "Nvidia AI Enterprise 3.0 adds new application workflows, partners with Deutsche Bank",
-      "excerpt": "Nvidia AI Enterprise 3.0 released today, with new software capabilities to help effectively build and deploy AI-driven applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-ai-enterprise-3-0-released-today-adds-new-application-workflows-and-partnership-with-deutsche-bank/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-ai-enterprise-3-0-released-today-adds-new-application-workflows-and-partnership-with-deutsche-bank/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/nvidia-e1670388516651.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidia-ai-enterprise-3-0-released-today-adds-new-application-workflows-and-partnership-with-deutsche-bank/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ai-enterprise-3-0-released-today-adds-new-application-workflows-and-partnership-with-deutsche-bank/amp/",
-      "publishedDateTime": "2022-12-07T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-googles-10-week-accelerator-is-on-the-hunt-for-green-start-ups.md",
-      "title": "Google's 10-week accelerator is on the hunt for green start-ups",
-      "excerpt": "Google's two new startup accelerator programs support companies whose goal is to create technology that combats climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-10-week-accelerator-is-on-the-hunt-for-green-start-ups/",
-      "originalUrl": "https://www.zdnet.com/article/googles-10-week-accelerator-is-on-the-hunt-for-green-start-ups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/03700fdc835096b8a8999115851b05475b1ddf7d/2022/12/06/954e837c-1d6a-438c-8ee3-04b738348881/googleaccelerator.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-10-week-accelerator-is-on-the-hunt-for-green-start-ups/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-10-week-accelerator-is-on-the-hunt-for-green-start-ups/",
-      "publishedDateTime": "2022-12-07T05:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-artificial-intelligence-ai-driven-vibration-analysis-enabling-higher-value-maintenance-work.md",
-      "title": "Artificial Intelligence (AI) Driven Vibration Analysis Enabling Higher-Value Maintenance Work",
-      "excerpt": "FinancialNewsMedia.com News Commentary - More and more over the past few years, it's been said that machines have their own language… and it's growing all the time",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/n29990684/artificial-intelligence-ai-driven-vibration-analysis-enabling-higher-value-maintenance-work",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/n29990684/artificial-intelligence-ai-driven-vibration-analysis-enabling-higher-value-maintenance-work",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29990684",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29990684",
-      "publishedDateTime": "2022-12-07T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-uber-motional-launch-robotaxi-service-in-las-vegas.md",
-      "title": "Uber, Motional launch robotaxi service in Las Vegas",
-      "excerpt": "REUTERS/Brendan McDermid/File Photo/File Photo Dec 7 (Reuters) - U.S. ride-hailing firm Uber Technologies Inc (UBER.N) and driverless tech-maker Motional said on Wednesday they launched their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/uber-motional-launch-robotaxi-service-las-vegas-2022-12-07/",
-      "originalUrl": "https://www.reuters.com/technology/uber-motional-launch-robotaxi-service-las-vegas-2022-12-07/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/5bI5V7Eei04IGlVxWpEN4-S1GiY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YQL5R2D73RO7HIBIGE5G5SIUGU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T04:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

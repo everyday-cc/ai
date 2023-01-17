@@ -37,7 +37,7 @@ related:
     provider:
       name: PBS
       domain: pbs.org
-    quality: 61
+    quality: 63
     images:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/ai-1-1024x666.jpg"
         width: 1024
@@ -59,15 +59,6 @@ related:
         width: 750
         height: 562
         isCached: true
-  - title: "New Concerns About AI Technology That Can Write Stories, Essays"
-    excerpt: "Many educators are worried students could use the tool to essentially do their homework. New York City schools have already banned access to the technology on school networks and devices, worried that using it \"does not build critical-thinking and problem-solving skills."
-    publishedDateTime: 2023-01-16T19:19:00Z
-    webUrl: "https://www.news9.com/story/63c59fea57666001594ce22d/new-concerns-about-ai-technology-that-can-write-stories-essays"
-    type: article
-    provider:
-      name: News9
-      domain: news9.com
-    quality: 19
 
 secured: "sjQzmnr4YBLSYzkQcbV2gyAwbdnULoibXxXNmcm51L0JcPOKq4317M6UvbuWWJK/FPxe+mWeKR+edIhJYplpJN3Szn2BqgLk61xEKUvdj5RtwvvZ1hjFA4bxKQc1YNUdL4BlczblSdabac8YeMs8HOYUMDFZ2fSKst5b5GFKEMDehOvo9fNNcOLOplO8/vRBGyjgTvVKZieUKWbtD86NNSeobu9Z7RX3dmq61DV+HClTfU/zvNr+Zm8b3AMtt5keRHRQZoIbu2mf/ENqn1Zt0oFKhvqWXqi4jUljksnBbJU5/L37vADuHzJwZgR8QPobKtzYbdXOBRDq9BkDWJVhNyLymawaD9Yp9QozkD+IFiM4FULaxdeYJQXUGbLz7z/525o1/9M/t7Cpnp1A1W3kGJ8J1wCVb54IID+7aixd9cQ1ovkDRyDxEFrv4QfnsP+XRhwXEG+awTIOACKwPee1HWu+Gf6p/tbgPlu/fH+GZPO6t1bBW5XckDb5KmAAaD9u3lodbkqpvSzLWgqcrYBzAw==;cf0e2+rFil3mGNbehG9nMw=="
 ---

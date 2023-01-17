@@ -7,7 +7,7 @@ originalUrl: "https://www.cnn.com/2023/01/16/tech/facial-recognition-fashion/ind
 webUrl: "https://www.cnn.com/2023/01/16/tech/facial-recognition-fashion/index.html"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Italian Startup Clothing Line will Protect Your Identity from Facial Recognition Software"
+    excerpt: "Big Brother is watching you...unless you wear this wacky shirt. Cap_able, an Italian clothing start-up, is trying to make fashion for the"
+    publishedDateTime: 2023-01-17T01:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/01/16/italian-startup-clothing-line-will-protect-your-id/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 60
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/716782/featured-daily-upside-image.jpg"
+        width: 1920
+        height: 1138
+        isCached: true
 
 secured: "5goilrUF3m7wOQmG00IDDrPP7YoGLyS60CbXJg61N9QTTGZHPuybniDf2VlmO7VF/YwwXulvXRAuUbY1YAeQbySsPhBHfzjt7KIuMs8rYYYu2As7KBeIBB6MqOS+6iUS1TLAuG/b4t8DgL+akMGxMzS5pLdP69KsE3n7Ki48Wnw6zXj1t+giYRwztdhYXWfkrQDLWy5Mh87vXU04PYKxdkCC3xlr9cSK9UcucFX5xr6gUZrVmYEUdyiTSZ5y4bFe2vFabtwcZ/KWpqqkaTHP0PQSfyLI8QW2YfisN+kGARlcfNJuVx1Q8K+dwKCdjewdnh6lASlQoGfySfOozCOM19xCkqK2YntmBjzZ25DEfCD5uCt/U+vRkKqXYehrGKZ44XNmwP9MqkMvshzBYzjcACgnpnbgH/AOuWQM8SEpkL9yk52fTlgYrvlfAKkuIFUyhEf1O8tbKBpngHwqBzus/2B+xyo2EqypNQXYFWJGT35AmdU6Jov0CvYuEY8bzLo84154zHdpLgObZRKxpcIPeQ==;fJuydWtRz6z9XvTafMo4xQ=="
 ---

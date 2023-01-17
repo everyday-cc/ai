@@ -39,15 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft’s $10bn bet on ChatGPT developer marks new era of AI"
-    excerpt: "The $10bn investment that Microsoft is considering in San Francisco-based research outfit OpenAI looks set to become the defining deal for a new era of artificial intelligence. If the US software giant is right about the far-reaching implications of the technology,"
-    publishedDateTime: 2023-01-16T11:00:00Z
-    webUrl: "https://www.ft.com/content/a6d71785-b994-48d8-8af2-a07d24f661c5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "Microsoft Exec Zia Mansoor Joins Unravel Data Board of Directors"
     excerpt: "Unravel Data, the first DataOps observability platform built to meet the needs of modern data teams, today announced that Zia Mansoor has joined the company’s Board of Directors. Mansoor currently serves as Microsoft’s Vice President of Data & AI,"
     publishedDateTime: 2023-01-12T22:00:00Z

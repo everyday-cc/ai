@@ -54,6 +54,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 80
+  - title: "Artificial intelligence is getting ready for business, and not too slowly"
+    excerpt: "Artificial intelligence is getting ready for business, and not too slowly AI enables machines to exhibit human-like cognition positioned to do anything from driving our cars to dominating the ..."
+    publishedDateTime: 2023-01-13T07:59:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly/96948911"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly/96948911"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly/96948911"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 60
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-96948911,imgsize-44834,width-1200,height=765,overlay-etbrandequity/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Meet Tori, AI for your fast food order"
     excerpt: "Tori — an artificial intelligence launched by OpenCity — is described as the restaurant industry’s first conversational voice in the drive thru."
     publishedDateTime: 2023-01-15T16:57:00Z
@@ -70,22 +86,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Artificial intelligence is getting ready for business, and not too slowly"
-    excerpt: "Artificial intelligence is getting ready for business, and not too slowly AI enables machines to exhibit human-like cognition positioned to do anything from driving our cars to dominating the ..."
-    publishedDateTime: 2023-01-13T07:59:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly/96948911"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly/96948911"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly/96948911"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 58
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-96948911,imgsize-44834,width-1200,height=765,overlay-etbrandequity/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "What artificial intelligence can’t do — yet"
     excerpt: "These days, we don’t have to wait long until the next breakthrough in artificial intelligence (AI) impresses everyone with capabilities that previously belonged only in science fiction."
     publishedDateTime: 2023-01-14T17:08:00Z
@@ -96,7 +96,7 @@ related:
     provider:
       name: MyBroadband
       domain: mybroadband.co.za
-    quality: 39
+    quality: 41
 
 secured: "/p6ofLjmo1oYejevSxjn+Sja2yygnFdTgO7DkHYfyS9yVZliHuqcK+iOxSPH5zc534vF9O20T+g44lDNfW8oEZBWFvY1NVNj2SxjpImNolsmywK9CFfm70smsWDtOEq7JMtCtx1mbZ7tG0RyZdUFnaFjlNYn1zNUdoKYFOfGrPqcghR8G+05G2CUKZ0y94ibWa6Pxn8x/Xr7kgFwm49hqWmAK7ChJNMNsL0k3VynZ/+2p3Dd79w/Eaz4Fpwfr1W4H+ETJIWU0Juu2FUUTt3Qd3V44nAySzHuAZFPK5RD3zPuPbO7j4mkuURgUKxuJjr8OrFHmOE316XFfZw9Pv0QCU3O0yQX3c9qWh2EFQDEN73yNsGsOLp6dwhDGaPTDC4SH1ds1Wwqg+ssycLguAl6h4UfeZN6caqWnGvjxyxc5D4dp8ffcL+/rLHQOgLv3gMrgw34WqMv7i/qnTEfgPp+swQLnPoiuAJHMmzsviHg3TG/2Ug1aMy9b+w4xoBL3RgV6ewUtsWm6MxAyWDlhwPuKw==;d+Tk7Oud3CgmIy41Wfn8SA=="
 ---

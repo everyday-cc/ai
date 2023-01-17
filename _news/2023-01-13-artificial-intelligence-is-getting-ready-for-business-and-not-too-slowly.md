@@ -8,7 +8,7 @@ webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/artificia
 ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly/96948911"
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly/96948911"
 type: article
-quality: 58
+quality: 60
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://etimg.etb2bimg.com/thumb/msid-96948911,imgsize-44834,width-1200,height=765,overlay-etbrandequity/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly.jpg"
@@ -96,7 +97,7 @@ related:
     provider:
       name: MyBroadband
       domain: mybroadband.co.za
-    quality: 39
+    quality: 41
 
 secured: "UPIOoJz7CC9oVGQrMKZ8R79UO695AhS9QmycvUfXr5G5FQYQuqxL4lDPES+jioQe8C4FFJroUL5Qz72zmW5P8zTceFHysKrHVFFzznhkl2MovB/xlDqhDgrWVvECYx6ryvD8UWU6kVNuTL4xu261PYsMHXPe9AKVY3kE3Yjcbrm3suW3DztSqOK9zL5VyF4S5e8COop6nl6OUt1BIKoqBSS5eILnLaEL7qftEi7rHkr1MILieR0NtQmXv02hZevN8LXW2BGq8XgMTisaz9llyVX6Cph2vYVZuNB1gGwlY9bWH81GeoSa0oQGo/d1QFc3uid32wHd3Ju+nf5otK17z+cOL5y9JhCmWN4iemlJJEA=;EH0+5CsJEvTsM9hiMuP8Rg=="
 ---

@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT and generative AI look like tech's next boom. They could be the next bubble."
-    excerpt: "Startups implementing generative AI are already attracting big, early-stage rounds at hefty valuations — with little evidence they can become profitable."
-    publishedDateTime: 2023-01-12T12:50:00Z
-    webUrl: "https://www.businessinsider.com/chatgtp-and-generative-ai-could-form-techs-next-big-bubble-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/chatgtp-and-generative-ai-could-form-techs-next-big-bubble-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgtp-and-generative-ai-could-form-techs-next-big-bubble-2023-1?amp"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: businessinsider.com
-    quality: 82
-    images:
-      - url: "https://i.insider.com/635836b8fc29ff001a5f6330?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Two professors who say they caught students cheating on essays with ChatGPT explain why AI plagiarism can be hard to prove"
     excerpt: "If students don't confess to using ChatGPT to write their essays, professors say AI plagiarism can be hard to prove."
     publishedDateTime: 2023-01-14T08:00:00Z

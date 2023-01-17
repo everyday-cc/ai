@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-17-italian-startup-clothing-line-will-protect-your-identity-from-facial-recognition-software.md",
+      "title": "Italian Startup Clothing Line will Protect Your Identity from Facial Recognition Software",
+      "excerpt": "Big Brother is watching you...unless you wear this wacky shirt. Cap_able, an Italian clothing start-up, is trying to make fashion for the",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/01/16/italian-startup-clothing-line-will-protect-your-id/",
+      "originalUrl": "https://www.fool.com/investing/2023/01/16/italian-startup-clothing-line-will-protect-your-id/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/716782/featured-daily-upside-image.jpg",
+          "width": 1920,
+          "height": 1138,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-16-the-10-scariest-future-tech-trends-everyone-must-know-about-right-now.md",
       "title": "The 10 Scariest Future Tech Trends Everyone Must Know About Right Now",
       "excerpt": "Is technology in the news keeping you awake at night? Should it be? Here are some of the scariest future tech trends that should be on your radar.",
@@ -1298,50 +1350,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-facial-recognition-using-ai-with-aws.md",
-      "title": "Facial Recognition using AI with AWS",
-      "excerpt": "Facial analysis capabilities, such as those available in Amazon Rekognition, allow users to understand where faces exist in an image or video, as well as what attributes those faces have.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/blogposting/23494/facial-recognition-using-ai-with-aws",
-      "originalUrl": "https://www.finextra.com/blogposting/23494/facial-recognition-using-ai-with-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/visible_pictures/0fca5d20-d19f-4a5d-835e-53f3224e94a3.png",
-          "width": 500,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "How AI chatbot ChatGPT changes the phishing game"
+    excerpt: "The Microsoft-backed free chatbot is improving fast and can not only write emails, essays but can also code. ChatGPT is also polyglot and that could facilitate and increase exponentially phishing attacks."
+    publishedDateTime: 2023-01-17T01:21:00Z
+    webUrl: "https://www.arnnet.com.au/article/704723/how-ai-chatbot-chatgpt-changes-phishing-game/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_266188678.jpg"
+        width: 473
+        height: 315
+        isCached: true
 
 secured: "K7v5ETEZxSKsgoSlSI2c0aMjQ1PA2wqfsKWMFpYZpz/WE5GYwIjRaP1Ik/YI45xfyRFsY7AZGMXBpik62y6QRonjMP+k62ZGW0Nirh7RgcEVvT+ODJ7Vb/HBz0KJleVyZl+5Cz1ZAd/5WlBgl0ILpkFj42va6OqCMYxlqssv/DYck0ESY5vWmUAl2RxRDk4VI56o0YLxGju4r/7HitTUXTkfy3Ka9MmYxlR5plJPjMzR0h2vA3zYtriMjzrJuZtBe7ZGzwGNwdWAmx3NGiHun3rfNfHzSBGwfgJcf406os+L3y0iHqR17WrDEYvSRelyEvXXXukP8YKt7Oi1Jyc17qbFGd2Cyq9iXGDkpKCvcZODFHlijtow04ylCkMhC2nNjhiihr6n8c/AQtiSKJkl20kinWR6emvXEKZW88L7qWg6/3V4NhiwqWHNyf9ZmrZ8/2AEYVggrKrhByi0A6SGXsq5bOGjP6elRUtQA5hzgHZQfeWHxQznTylLfJ44o6h/cc92CU5ADuThcccE3nP2Kw==;O8Xx+3ZDPC1u6HkDIt3Y5w=="
 ---

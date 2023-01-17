@@ -2,6 +2,196 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-12-robot-pals-and-ai-tools-whats-ahead-for-tech-in-the-classroom.md",
+      "title": "Robot pals and AI tools: What’s ahead for tech in the classroom?",
+      "excerpt": "The robot smiles, frowns, blinks, and even tears up – digitally, of course. His Paris-based creator, Blue Frog Robotics, bills him as an “emotional companion” that can solve problems faced by education systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.csmonitor.com/text_edition/USA/Education/2023/0110/Robot-pals-and-AI-tools-What-s-ahead-for-tech-in-the-classroom",
+      "originalUrl": "https://www.csmonitor.com/text_edition/USA/Education/2023/0110/Robot-pals-and-AI-tools-What-s-ahead-for-tech-in-the-classroom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-11T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Christian Science Monitor",
+        "domain": "csmonitor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-fintech-stocks-lag-behind-the-rest-of-the-market-should-you-buy-or-sell.md",
+      "title": "Fintech Stocks Lag Behind The Rest Of The Market — Should You Buy Or Sell?",
+      "excerpt": "While financial and tech stocks had a rough time in 2022, fintech stocks continue to lag behind the rest of the market. We explore the idea of investing in the fintech space in 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/01/11/fintech-stocks-lag-behind-the-rest-of-the-market---should-you-buy-or-sell/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/01/11/fintech-stocks-lag-behind-the-rest-of-the-market---should-you-buy-or-sell/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63bee7c6c67f5dbd12964a45/0x0.jpg?format=jpg&crop=2490,1400,x24,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/01/11/fintech-stocks-lag-behind-the-rest-of-the-market---should-you-buy-or-sell/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/11/fintech-stocks-lag-behind-the-rest-of-the-market---should-you-buy-or-sell/amp/",
+      "publishedDateTime": "2023-01-11T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-chatgpt-could-be-a-game-changer-for-microsoft-that-turns-it-into-a-core-ai-stock-as-it-mulls-a-10-billion-investment-into-openai-wedbush.md",
+      "title": "ChatGPT could be a 'game changer' for Microsoft that turns it into a core AI stock as it mulls a $10 billion investment into OpenAI, Wedbush says",
+      "excerpt": "Microsoft could integrate the ChatGPT technology into its Bing search engine, Microsoft Office products, and Azure cloud platform, Wedbush said.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-microsoft-stock-game-changer-ai-openai-10-billion-investment-2023-1",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-microsoft-stock-game-changer-ai-openai-10-billion-investment-2023-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62d08b9206bc8f00188ed8b3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-microsoft-stock-game-changer-ai-openai-10-billion-investment-2023-1?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/chatgpt-microsoft-stock-game-changer-ai-openai-10-billion-investment-2023-1?amp",
+      "publishedDateTime": "2023-01-11T07:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-how-to-get-started-with-natural-language-question-answering-technology.md",
+      "title": "How To Get Started With Natural Language Question Answering Technology",
+      "excerpt": "While natural language processing (NLP) and natural language understanding (NLU) can process the meaning and understand the sentiment of the human language, natural language question answering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/11/how-to-get-started-with-natural-language-question-answering-technology/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/11/how-to-get-started-with-natural-language-question-answering-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632dbbaa69b953ca837d2c1f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/11/how-to-get-started-with-natural-language-question-answering-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/11/how-to-get-started-with-natural-language-question-answering-technology/amp/",
+      "publishedDateTime": "2023-01-11T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-11-imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing.md",
       "title": "Imagination unveils IMG DXT GPU for mobile games with ray tracing",
       "excerpt": "Imagination Technologies has unveiled its new IMG DXT graphics processing unit (GPU) for mobile games with ray-tracing features.",
@@ -395,6 +585,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-ms-cognitive-symptoms-get-worse-with-fatigue.md",
+      "title": "MS Cognitive Symptoms Get Worse With Fatigue",
+      "excerpt": "We get fatigued, and any cognitive symptoms we may have seem to worsen. And as we find ourselves more burdened by this cog fog, we seem to become even more overwhelmed and fatigued. It's like the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.everydayhealth.com/columns/trevis-gleason-life-with-multiple-sclerosis/ms-cognitive-symptoms-get-worse-with-fatigue/",
+      "originalUrl": "https://www.everydayhealth.com/columns/trevis-gleason-life-with-multiple-sclerosis/ms-cognitive-symptoms-get-worse-with-fatigue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.everydayhealth.com/images/when-fatigued-ms-cognitive-symptoms-get-worse-1440x810.jpg?sfvrsn=715e3ccb_1",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T19:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Everyday Health",
+        "domain": "everydayhealth.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -927,239 +1160,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-report-microsoft-could-invest-10b-in-openai-at-29b-valuation.md",
-      "title": "Report: Microsoft could invest $10B in OpenAI at $29B valuation",
-      "excerpt": "The sources believe that Microsoft could be joined by multiple venture capital firms in the investment. Internal OpenAI documents reportedly suggest that the group had sought to close the investment by the end of 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/01/10/report-microsoft-invest-10b-openai-29b-valuation/",
-      "originalUrl": "https://siliconangle.com/2023/01/10/report-microsoft-invest-10b-openai-29b-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/microsoft.png",
-          "width": 718,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-ub-awarded-20-million-to-establish-national-ai-institute-to-help-children-with-speech-language-disorders.md",
-      "title": "UB awarded $20 million to establish national AI institute to help children with speech, language disorders",
-      "excerpt": "The National Science Foundation-funded effort will address the nationwide shortage of speech-language pathologists, ensure at-risk children receive assistance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buffalo.edu/news/releases/2023/01/004.html",
-      "originalUrl": "https://www.buffalo.edu/news/releases/2023/01/004.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.buffalo.edu/content/shared/university/news/news-center-releases/2023/01/004/_jcr_content/par/image.img.512.auto.jpg/1673369362064.jpg",
-          "width": 512,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medicine Buffalo",
-        "domain": "buffalo.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-breakingviews-microsofts-ai-bet-heads-i-win-tails-i-also-win.md",
-      "title": "Breakingviews: Microsoft’s AI bet: heads I win, tails I also win",
-      "excerpt": "I-win, tails-I-also win, AI deal. A mooted $10 billion investment, reported by Semafor, in the maker of the popular ChatGPT, could reshape Microsoft’s software business. Even if it flops, CEO Satya Nadella will slow a rival,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/breakingviews/microsofts-ai-bet-heads-i-win-tails-i-also-win-2023-01-10/",
-      "originalUrl": "https://www.reuters.com/breakingviews/microsofts-ai-bet-heads-i-win-tails-i-also-win-2023-01-10/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/rwNtFLLSNeCujhZe8fmQf3oxg1c=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VFTFO3NHBVLKNGZZOK6AJE437U.jpg",
-          "width": 728,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T09:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-microsofts-ai-bet-heads-i-win-tails-i-also-win.md",
-      "title": "Microsoft’s AI bet: heads I win, tails I also win",
-      "excerpt": "I-win, tails-I-also win, AI deal. A mooted $10 billion investment, reported by Semafor, in the maker of the popular ChatGPT, could reshape Microsoft’s software business. Even if it flops, CEO Satya Nadella will slow a rival,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-microsoft-openai-breakingviews-idDEKBN2TP1HN",
-      "originalUrl": "https://www.reuters.com/article/us-microsoft-openai-breakingviews-idDEKBN2TP1HN",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20230110&t=2&i=1619635774&r=LYNXMPEJ090PD&w=800",
-          "width": 728,
-          "height": 484,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T09:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-donotpays-first-robot-lawyer-to-take-on-speeding-tickets-in-court-via-ai.md",
-      "title": "DoNotPay's 'first robot lawyer' to take on speeding tickets in court via AI",
-      "excerpt": "Recent advancements in artificial intelligence have allowed bots to translate text, create art and even write essays.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-01-donotpay-robot-lawyer-tickets-court.html",
-      "originalUrl": "https://techxplore.com/news/2023-01-donotpay-robot-lawyer-tickets-court.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-court.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-01-donotpay-robot-lawyer-tickets-court.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-donotpay-robot-lawyer-tickets-court.amp",
-      "publishedDateTime": "2023-01-10T09:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

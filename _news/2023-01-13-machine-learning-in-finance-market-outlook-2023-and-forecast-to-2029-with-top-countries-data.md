@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-fina
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-outlook-2023-and-forecast-to-2029-with-top-countries-data-2023-01-13"
 type: article
 quality: 75
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -109,6 +109,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Data Science and Machine-Learning Platforms Market Geographical Segmentation By Forecast Revenue 2023-2029"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. This research"
+    publishedDateTime: 2023-01-16T05:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-geographical-segmentation-by-forecast-revenue-2023-2029-2023-01-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

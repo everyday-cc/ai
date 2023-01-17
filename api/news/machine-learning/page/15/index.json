@@ -2,6 +2,50 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-09-14-ubs-leverages-machine-learning-to-optimise-venue-selection.md",
+      "title": "UBS leverages machine learning to optimise venue selection",
+      "excerpt": "UBS has developed a state-of-the-art machine learning (ML) technique to search for patterns in data that skew the outcome of passive order placement on equities venues towards higher fill rates, lower information leakage, lower market impact and lower ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetradenews.com/thought-leadership/ubs-leverages-machine-learning-to-optimise-venue-selection/",
+      "originalUrl": "https://www.thetradenews.com/thought-leadership/ubs-leverages-machine-learning-to-optimise-venue-selection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetradenews.com/wp-content/uploads/2022/06/LiT-2022-260x260-1.jpg",
+          "width": 260,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The TRADE",
+        "domain": "thetradenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-10-years-later-deep-learning-revolution-rages-on-say-ai-pioneers-hinton-lecun-and-li.md",
       "title": "10 years later, deep learning ‘revolution’ rages on, say AI pioneers Hinton, LeCun and Li",
       "excerpt": "On the 10th anniversary of key research that led to deep learning breakthroughs, AI luminaries say the 'revolution' will continue.",
@@ -1309,58 +1353,6 @@
         "name": "techxplore",
         "domain": "techxplore.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-arize-ai-raises-38-million-series-b-to-scale-machine-learning-observability-platform.md",
-      "title": "Arize AI Raises $38 Million Series B To Scale Machine Learning Observability Platform",
-      "excerpt": "Arize AI Raises $38 Million Series B To Scale Machine Learning Observability Platform Sep 08, 2022 (PRNewswire via COMTEX) -- PR Newswire BERKELEY,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/arize-ai-raises-38-million-series-b-to-scale-machine-learning-observability-platform-2022-09-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/arize-ai-raises-38-million-series-b-to-scale-machine-learning-observability-platform-2022-09-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

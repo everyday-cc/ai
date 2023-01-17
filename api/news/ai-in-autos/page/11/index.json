@@ -2,6 +2,94 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-11-04-in-the-latest-human-vs-machine-match-artificial-intelligence-wins-by-a-hair.md",
+      "title": "In the latest human vs. machine match, artificial intelligence wins by a hair",
+      "excerpt": "A protein scientist, who competed against a computer program, says machine learning will advance biotechnology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221102164140.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221102164140.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-driverless-cars-will-they-be-on-boston-roads-any-time-soon.md",
+      "title": "Driverless cars: Will they be on Boston roads any time soon?",
+      "excerpt": "Do you ever wonder what happened to driverless cars? In this week's edition of Tech Talk, Boston Globe's Hiawatha Bray shares what some of the setbacks have been with the technology and when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbur.org/radioboston/2022/11/03/self-driving-cars-boston-tech-talk",
+      "originalUrl": "https://www.wbur.org/radioboston/2022/11/03/self-driving-cars-boston-tech-talk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wbur.org/wp/2016/06/Radio-Boston-Artwork-Tile-3000px_wbur-1.jpg",
+          "width": 3000,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBUR",
+        "domain": "wbur.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-huawei-and-tianjin-port-jointly-built-a-driverless-zero-carbon-vehicle-cloud-synergy-horizontal-transportation-solution.md",
       "title": "Huawei and Tianjin Port jointly built a driverless, zero-carbon “vehicle-cloud synergy” horizontal transportation solution",
       "excerpt": "Huawei and Tianjin Port have jointly collaborated on a driverless, zero-carbon \"vehicle-cloud synergy\" horizontal transportation solution. Huawei and Tianjin Port have jointly collaborated on a ...",
@@ -1289,102 +1377,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype.md",
-      "title": "Tesla, Ford and VW Sound the Death Knell for Driverless Car Hype",
-      "excerpt": "By contrast, Argo CEO Bryan Salesky emphasized the need for safe and limited deployments of test vehicles and close partnerships with cities and stakeholders that its driverless cars would share the road with. Neither the scorched-earth nor the nice-guy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype",
-      "originalUrl": "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.supplychainbrain.com/ext/resources/2022/10/27/AI-DRIVERLESS-CAR-SELF-DRIVING-AUTOMOBILE-BLOOMBER.jpg?height=635&t=1666931214&width=1200",
-          "width": 953,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain",
-        "domain": "supplychainbrain.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings.md",
-      "title": "Artificial intelligence (AI) platform aims to give lenders improved efficiency, expanded financial product offerings",
-      "excerpt": "Lama AI says fintech partners can avoid building their own lending infrastructure, models and secure credit facilities while enjoying increased approval rates.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings/",
-      "originalUrl": "https://venturebeat.com/ai/artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/12/blockchain.fintech.shutterstock_534103801.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings/amp/",
-      "publishedDateTime": "2022-10-27T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "AI in Autos"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2023/01/AP23006584552936-1019x573.jpg"
         width: 1019
         height: 573
+        isCached: true
+  - title: "How AI chatbot ChatGPT changes the phishing game"
+    excerpt: "The Microsoft-backed free chatbot is improving fast and can not only write emails, essays but can also code. ChatGPT is also polyglot and that could facilitate and increase exponentially phishing attacks."
+    publishedDateTime: 2023-01-17T01:21:00Z
+    webUrl: "https://www.arnnet.com.au/article/704723/how-ai-chatbot-chatgpt-changes-phishing-game/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_266188678.jpg"
+        width: 473
+        height: 315
         isCached: true
 
 secured: "gLxWHwy6L0FK9BJCeHMhQ4UAqWcyCxoUrpbTrX7oWLupAbVyGhiTYdKwP5nQI4uCe/UcmUx38NQ8K1LUUMorlJwpf5v7nXS8QUXtYiIHuggZ9b9PrKh6a2exlmGP3gy40nVprr6jQyt6kJ9Fij8Dw4qoOlQ5itgXP6mcJgwXe0P2V44iMC0328NzTZLeIqWOohp2eeYl29om+XnoEOJWdp8SY90w4l4GJYGAa8zyWovsVGsUb8QqGCfNB5o3UiA9H1LzEkPlpXMurUBNmfKGNSlyP+6NU3nJglxhoqgjQu3JYzbrRhVGvw+1iexeDWGHGzGmkLUttmVq4zPNHsqc2PSNRYkQ6/CmXD/SWBgsMUOz8Xye7T001pr3K5J7K9RSP9feGKw7SHzeyw2pvzlWTTJqdDArqqagdjP4hOuczZpamcjSOKV4ysXceNL/Jn2bjIeW4nhSVWWpiMvIQtobOujitNblcNXexrWDhtgfdOQxZqU0F5DdHmfU3eSbinMwgDmCNkfndYLlY9sPcUMqnA==;7o1x8MUIy8EONdhBJ2wIOQ=="

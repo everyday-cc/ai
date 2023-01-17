@@ -22,17 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft bets big on the creator of ChatGPT in race to dominate AI"
-    excerpt: "As a new chatbot wows the world, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI."
-    publishedDateTime: 2023-01-13T19:01:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
   - title: "ChatGPT could be used for good, but like many other AI models, it's rife with racist and discriminatory bias"
     excerpt: "ChatGPT could soon power Microsoft products, despite the potential to spew dangerous content. The AI community is torn on solutions."
     publishedDateTime: 2023-01-16T16:08:00Z

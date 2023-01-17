@@ -1,0 +1,49 @@
+---
+category: news
+title: "Artificial Intelligence Tool to Predict Lung Cancer Risk"
+excerpt: "in collaboration with researchers at the Massachusetts Institute of Technology (MIT), developed and tested an artificial intelligence tool known as Sybil. Based on analyses of LDCT scans from ..."
+publishedDateTime: 2023-01-14T23:24:00Z
+originalUrl: "https://www.medindia.net/news/artificial-intelligence-tool-to-predict-lung-cancer-risk-210080-1.htm"
+webUrl: "https://www.medindia.net/news/artificial-intelligence-tool-to-predict-lung-cancer-risk-210080-1.htm"
+ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-tool-to-predict-lung-cancer-risk-210080-1.htm"
+cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-tool-to-predict-lung-cancer-risk-210080-1.htm"
+type: article
+quality: 59
+heat: -1
+published: false
+
+provider:
+  name: Medindia
+  domain: medindia.net
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://images.medindia.net/amp-images/health-images/access-to-osimertinib-drug-made-easier-for-patients-by-nhs.jpg"
+    width: 1200
+    height: 1000
+    isCached: true
+
+related:
+  - title: "Artificial intelligence tool developed to predict risk of lung cancer"
+    excerpt: "in collaboration with researchers at the Massachusetts Institute of Technology (MIT), developed and tested an artificial intelligence tool known as Sybil. Based on analyses of LDCT scans from ..."
+    publishedDateTime: 2023-01-12T21:01:00Z
+    webUrl: "https://medicalxpress.com/news/2023-01-artificial-intelligence-tool-lung-cancer.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-01-artificial-intelligence-tool-lung-cancer.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-artificial-intelligence-tool-lung-cancer.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 61
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/lung.jpg"
+        width: 1920
+        height: 1279
+        isCached: true
+
+secured: "7BNsgd0N8vjJ0/y9hzklzQjWIHl7fm5k99kfMfCkqgM5bQJNHNcJaiD3Kb8M1hfCl0B0LBI7olNCxBu0j5AVRd2avm5fdDbp3zMw+YrZKx3UHyE93i5xgwx+OjBdMqtOwgiKewTHPLkKo0nIr6Uq/EC/N0wPN4ivRyixlIcxyZ80O1zbtM4rU8d/b8Qg7AoK2v2LOROR4nWlsMk6fzvA4PCVD8gmEv7AG4kMgNkqnyjzQD7apVXfj15TJpCdLozm+Itrigpe89Ofi/pUKavQelUkpFEiGVmY3/y5Uhxgs3/aDejqiZ/8ODzmfIY7NMWkjlFftXS13ozD/RUN1mEv+9nk4xBIB9pH15LTgDcetLs=;20eX3FvDewV3TZc+tPoD0A=="
+---
+

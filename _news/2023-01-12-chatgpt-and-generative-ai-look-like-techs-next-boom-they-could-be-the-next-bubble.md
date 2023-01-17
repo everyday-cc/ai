@@ -31,67 +31,75 @@ images:
     isCached: true
 
 related:
-  - title: "Role Playing Via Generative AI ChatGPT Conjures Up Mental Health Questions, Stirring AI Ethics And AI Law Scrutiny"
-    excerpt: "On a markedly relevant basis, these hefty matters bring forth some significant issues underlying AI Ethics and AI Law. Should AI developers be employing appropriate Ethical AI precautions when devising generative AI that can seemingly engage vividly in ..."
-    publishedDateTime: 2023-01-15T13:02:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/amp/"
+  - title: "Microsoft Azure OpenAI service now generally available, with ChatGPT on the way"
+    excerpt: "Microsoft announced the general availability of Azure OpenAI Service, which allows businesses to power their apps with large-scale AI models."
+    publishedDateTime: 2023-01-17T01:52:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-azure-openai-service-now-generally-available-with-chatgpt-on-the-way/"
+    ampWebUrl: "https://venturebeat.com/ai/microsoft-azure-openai-service-now-generally-available-with-chatgpt-on-the-way/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-azure-openai-service-now-generally-available-with-chatgpt-on-the-way/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 95
+  - title: "General availability of Azure OpenAI Service expands access to large, advanced AI models with added enterprise benefits"
+    excerpt: "With Azure OpenAI Service now generally available, more businesses can apply for access to the most advanced AI models in the world—including GPT-3.5, Codex, and DALL•E 2—backed by the trusted enterprise-grade capabilities and AI-optimized infrastructure of Microsoft Azure, to create cutting-edge applications."
+    publishedDateTime: 2023-01-16T17:00:02Z
+    webUrl: "https://azure.microsoft.com/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63c37f734794d6bc1e964a47/0x0.jpg?format=jpg&crop=2325,1307,x158,y0,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6218d54-3c27-4c17-bc25-33ce1d1a268e.png"
+        width: 808
+        height: 768
         isCached: true
-  - title: "Debunking Claims About Special-Purpose AI That Spot Generative AI ChatGPT Produced Essays, Plus Caustic Call-Outs By AI Ethics And AI Law"
-    excerpt: "A rising claim is that special-purpose AI apps can be devised to figure out whether a set of text is produced by human hand versus generative AI such as ChatGPT. These are misleading and a false hope."
-    publishedDateTime: 2023-01-12T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/12/debunking-those-bonehead-claims-about-being-able-to-use-special-purpose-ai-to-readily-spot-generative-ai-chatgpt-produced-essays-plus-caustic-call-outs-by-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/12/debunking-those-bonehead-claims-about-being-able-to-use-special-purpose-ai-to-readily-spot-generative-ai-chatgpt-produced-essays-plus-caustic-call-outs-by-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/12/debunking-those-bonehead-claims-about-being-able-to-use-special-purpose-ai-to-readily-spot-generative-ai-chatgpt-produced-essays-plus-caustic-call-outs-by-ai-ethics-and-ai-law/amp/"
+  - title: "Microsoft bets big on the creator of ChatGPT in race to dominate AI"
+    excerpt: "As a new chatbot wows the world, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI."
+    publishedDateTime: 2023-01-13T19:01:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6253775a681e4c1d1414a314/0x0.jpg?format=jpg&crop=1976,1317,x235,y0,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Two professors who say they caught students cheating on essays with ChatGPT explain why AI plagiarism can be hard to prove"
-    excerpt: "If students don't confess to using ChatGPT to write their essays, professors say AI plagiarism can be hard to prove."
-    publishedDateTime: 2023-01-14T08:00:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-essays-college-cheating-professors-caught-students-ai-plagiarism-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-essays-college-cheating-professors-caught-students-ai-plagiarism-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-essays-college-cheating-professors-caught-students-ai-plagiarism-2023-1?amp"
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
+  - title: "Microsoft to add ChatGPT to Azure cloud services 'soon'"
+    excerpt: "Microsoft Corp. said it will add OpenAI’s viral artificial intelligence bot ChatGPT to its cloud-based Azure service “soon,” building on an existing relationship between the two companies as Microsoft mulls taking a far larger stake in OpenAI."
+    publishedDateTime: 2023-01-17T02:07:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/news/microsoft-add-chatgpt-azure-cloud-services-soon"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/news/microsoft-add-chatgpt-azure-cloud-services-soon"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/news/microsoft-add-chatgpt-azure-cloud-services-soon"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-    images:
-      - url: "https://i.insider.com/63bc2b2623f3620019877328?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Everybody Loves ChatGPT Except For Nick Cave, Who Is Unimpressed With AI-Generated Lyrics Meant To Be Like His"
-    excerpt: "Cave called the ChatGPT-generated song ’bullsh*t’ and explained why it is ’a grotesque mockery of what it is to be human.’"
-    publishedDateTime: 2023-01-16T18:54:00Z
-    webUrl: "https://uproxx.com/indie/nick-cave-hates-chatgpt-lyrics-ai/"
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 54
+  - title: "Microsoft’s $10bn bet on ChatGPT developer marks new era of AI"
+    excerpt: "The $10bn investment that Microsoft is considering in San Francisco-based research outfit OpenAI looks set to become the defining deal for a new era of artificial intelligence. If the US software giant is right about the far-reaching implications of the technology,"
+    publishedDateTime: 2023-01-16T11:00:00Z
+    webUrl: "https://www.ft.com/content/a6d71785-b994-48d8-8af2-a07d24f661c5"
     type: article
     provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 19
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
+  - title: "OpenAI, the startup behind ChatGPT, discusses tender offer that could value it at $29B"
+    excerpt: "The startup was founded as a nonprofit back in 2015, with a mission of pursuing AI research for the benefit of humanity. In order to raise more capital to pay for the computing power needed to ..."
+    publishedDateTime: 2023-01-13T14:05:00Z
+    webUrl: "https://siliconangle.com/2023/01/05/openai-startup-behind-chatgpt-discusses-tender-offer-value-29b/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
     images:
-      - url: "https://uproxx.com/wp-content/uploads/2023/01/2-nick-1.jpg?w=710"
-        width: 710
-        height: 400
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/21470472099_8e78d53ecf_k.jpg"
+        width: 2048
+        height: 1363
         isCached: true
 
 secured: "/vWLbSM1ytuYmNU0bQaQzY5lHccPHhkzCItTug+BdnxnUU7ukY+zDuPuRtOp3wwnwWmqA+OPV+APtwsiYla1OmeTDWe1SGYwgfYrbBeV5g5F2tnL4bS+0ZXWsOaDIjxjodE8AMrON39l9LTUqfG8QZzbcCK4mW7bh53gXQIJ2d2ys4s4bjRw33Iux3UatpHevcCVoJ2bdhPwnOWLNTGBx+gN2jlPYiJMBl0k+ZOJk4ro0EXsNx7r4oO+Qbih1Un8VCGpJmSW0iIMNHC51hJNGYAKzz4MN3umqi5J2CqezCtXYXWkn4cdjibVlKmLstYaNVONZBc0djnJ0KPuT4vCSYOS2QG53Xes3OenYyToZx6jw5dvjFgQzdqn6ic/GniwgSCq+klETpoPSoyN1BXkK2FyItRrXxXi3kaOSEH6dJWBqWnB1NEVyYuUFozsdtfG/u6BwbqZMTpKLc0UwjL+WFkpXnLGjAgKSSiQr4pR1fnxXTz0ektT+bAh2/6+jdNjiM0zrZh8pWkKMIZBRfoLvA==;N5LY+FS4eSUW4CN7NLDe/g=="

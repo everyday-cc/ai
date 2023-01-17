@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data Science and Machine-Learning Platforms Market Geographical Segmentation By Forecast Revenue 2023-2029"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. This research"
+    publishedDateTime: 2023-01-16T05:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-geographical-segmentation-by-forecast-revenue-2023-2029-2023-01-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "uUzEP/WSp+exSLQW0rYYNctfogIHBMjGqKXqRQWTQNRDadvs2/jx/HkB/W3hdxobs9qZTxkWZKIOkixpzaTMN3c17THoTPX7Y/f5YxqFFMk+NvoYCgf0jXQkMO0swhMyMblhh9/X+kbE4cIYpo5CQFIrV0p81wfErLjcooXiPTI7/26SvSIpUPtqTXL4xS0x8w8J2xxIZOUFMa/H7Sjn5wOFvJ8sDcIskIfG0uvFXzjI6GfQR+uao9zbys+uDPQORexx6epTi9eQseqHXRYZ3BLYBIICSiVBqXcTgUjqWKJdHkC9uwrs6ORbLknj4s4+biIPpvuZttm4pbZX8I8R9f3ggSpaXDSDbol2g8PwFC4=;/TZY9JAxOtouYpKsoKuEXw=="
 ---

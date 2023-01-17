@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/amp/"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT and generative AI look like tech's next boom. They could be the next bubble."
-    excerpt: "Startups implementing generative AI are already attracting big, early-stage rounds at hefty valuations — with little evidence they can become profitable."
-    publishedDateTime: 2023-01-12T12:50:00Z
-    webUrl: "https://www.businessinsider.com/chatgtp-and-generative-ai-could-form-techs-next-big-bubble-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/chatgtp-and-generative-ai-could-form-techs-next-big-bubble-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgtp-and-generative-ai-could-form-techs-next-big-bubble-2023-1?amp"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: businessinsider.com
-    quality: 82
-    images:
-      - url: "https://i.insider.com/635836b8fc29ff001a5f6330?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Debunking Claims About Special-Purpose AI That Spot Generative AI ChatGPT Produced Essays, Plus Caustic Call-Outs By AI Ethics And AI Law"
     excerpt: "A rising claim is that special-purpose AI apps can be devised to figure out whether a set of text is produced by human hand versus generative AI such as ChatGPT. These are misleading and a false hope."
     publishedDateTime: 2023-01-12T13:00:00Z

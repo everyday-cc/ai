@@ -2,6 +2,326 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2022-10-13-ai-accelerator-chip-market-shows-enormous-growth-with-leading-players-like-nvidia-cadence-amd-intel.md",
+      "title": "AI Accelerator Chip Market Shows Enormous Growth with Leading Players like Nvidia, Cadence, AMD, Intel",
+      "excerpt": "The Global AI Accelerator Chip Market Report studies extensive evaluation of the market growth predictions and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-shows-enormous-growth-with-leading-players-like-nvidia-cadence-amd-intel-2022-10-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-shows-enormous-growth-with-leading-players-like-nvidia-cadence-amd-intel-2022-10-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T01:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-machine-learning-operations-mlops-market-2022-prophesied-to-grow-at-a-faster-pace-by-2028.md",
+      "title": "Machine Learning Operations (MLOps) Market 2022 Prophesied To Grow At A Faster Pace By 2028",
+      "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Machine Learning Operations (MLOps) Market\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-2022-prophesied-to-grow-at-a-faster-pace-by-2028-2022-10-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-2022-prophesied-to-grow-at-a-faster-pace-by-2028-2022-10-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T01:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-artificial-intelligence-shows-how-kim-kardashian-and-sisters-look-with-no-cosmetic-work.md",
+      "title": "Artificial Intelligence shows how Kim Kardashian and sisters look with no cosmetic work",
+      "excerpt": "A digitally altered TikTok video has predicted what the Kardashian sisters would look like without their cosmetic enhancements – showing side by side comparisons of the family with and without surgery",
+      "sourceUrl": null,
+      "webUrl": "https://www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387",
+      "originalUrl": "https://www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/incoming/article27997829.ece/ALTERNATES/s1200/3_Khloe-Kardashian.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387.amp",
+      "publishedDateTime": "2022-10-13T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-democrats-worry-over-bidens-cognitive-decline-as-joe-nudges-world-into-nuclear-war.md",
+      "title": "Democrats worry over Biden’s cognitive decline as Joe ‘nudges world into nuclear war’",
+      "excerpt": "“To repeat – a majority of Democrats now also think Biden possibly has mental health issues and could be suffering form cognitive decline.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailytelegraph.com.au/news/world/democrats-worry-over-bidens-cognitive-decline-as-joe-nudges-world-into-nuclear-war/video/0656320fe12f03d2a5b3478889dc82db",
+      "originalUrl": "https://www.dailytelegraph.com.au/news/world/democrats-worry-over-bidens-cognitive-decline-as-joe-nudges-world-into-nuclear-war/video/0656320fe12f03d2a5b3478889dc82db",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T22:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "dailytelegraph.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-artificial-intelligence-ai-in-computer-vision-market-size-expected-to-grow-at-a-cagr-of-262-by-2028.md",
+      "title": "Artificial Intelligence (Ai) In Computer Vision Market Size Expected to Grow at a CAGR of 26.2% by 2028",
+      "excerpt": "According to the research report published by Polaris Market Research, the Global Artificial Intelligence (Ai) In Computer Vision Market Size Is Expected To Reach USD 80.10 Billion By 2028., at a CAGR of 26.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-computer-vision-market-size-expected-to-grow-at-a-cagr-of-262-by-2028-2022-10-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-computer-vision-market-size-expected-to-grow-at-a-cagr-of-262-by-2028-2022-10-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-china-chip-industry-group-troubled-by-us-export-curbs.md",
+      "title": "China chip industry group 'troubled' by U.S. export curbs",
+      "excerpt": "China's top trade group for the chip sector said on Thursday it was \"disappointed\" by recent U.S. export controls and warned they could put more stress on global supply chains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/china/top-china-trade-association-chips-opposes-washingtons-export-control-regulations-2022-10-13/",
+      "originalUrl": "https://www.reuters.com/world/china/top-china-trade-association-chips-opposes-washingtons-export-control-regulations-2022-10-13/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/Oh8HYyRte3RRQ3wwt8W1EaXJGa0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/73ES4CI5ZJOLJDLNY7P24RENTE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T20:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-money-laundering.md",
+      "title": "Resistant AI and ComplyAdvantage Launch AI Transaction Monitoring Solution To Combat Fraud and Money Laundering",
+      "excerpt": "Founded in 2019, Resistant AI uses AI and machine learning to provide identity forensic solutions that protect automated financial services from fraud and manipulation, including customer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/application-security/resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-money-laundering",
+      "originalUrl": "https://www.darkreading.com/application-security/resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-money-laundering",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-smart-plastic-material-is-step-forward-toward-soft-flexible-robotics-and-electronics.md",
       "title": "'Smart plastic' material is step forward toward soft, flexible robotics and electronics",
       "excerpt": "\"The ability to control crystallization ... potentially transformative for wearable electronics or actuators in soft robotics.\" Scientists have long sought to mimic the properties of living ...",
@@ -874,343 +1194,6 @@
         "AI in Autos",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-animated-googly-eyes-could-make-autonomous-cars-safer-for-pedestrians.md",
-      "title": "Animated Googly Eyes Could Make Autonomous Cars Safer For Pedestrians",
-      "excerpt": "No matter how many cameras or sensors they use, autonomous cars will never be perfect, but research coming out of Japan suggests that a simple upgrade could help reduce the risk of self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/self-driving-cars-autonomous-vehicles-googly-eyes-study-1849643126",
-      "originalUrl": "https://gizmodo.com/self-driving-cars-autonomous-vehicles-googly-eyes-study-1849643126",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/d452f96448e325303ffdbfc29fcfa863.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/self-driving-cars-autonomous-vehicles-googly-eyes-study-1849643126/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/self-driving-cars-autonomous-vehicles-googly-eyes-study-1849643126/amp",
-      "publishedDateTime": "2022-10-12T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-42-of-tesla-autopilot-users-treat-their-cars-as-fully-self-driving.md",
-      "title": "42% of Tesla Autopilot Users Treat Their Cars as Fully Self Driving",
-      "excerpt": "The Insurance Institute for Highway Safety (IIHS) recently published the results of a study on how users of partially automated vehicles perceive their capabilities. Regular drivers of Cadillac Super Cruise,",
-      "sourceUrl": null,
-      "webUrl": "https://www.manufacturing.net/video/video/22485757/42-of-tesla-autopilot-users-treat-their-cars-as-fully-self-driving",
-      "originalUrl": "https://www.manufacturing.net/video/video/22485757/42-of-tesla-autopilot-users-treat-their-cars-as-fully-self-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.manufacturing.net/files/base/indm/multi/image/2022/10/ep528tn.6346cc0566c0e.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "manufacturing.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-57m.md",
-      "title": "Continue AI aims to add ESG intelligence to sustainability, lands $5.7M",
-      "excerpt": "Continue AI today announced $5.7 million in seed funding to provide ESG intelligence for companies to create meaningful change.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/",
-      "originalUrl": "https://venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1354356302-Fritz-Jorgensen-e1665583446575.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/amp/",
-      "publishedDateTime": "2022-10-12T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-fighting-climate-change-with-ai.md",
-      "title": "Fighting Climate Change with AI",
-      "excerpt": "Climate change's global impact is worsening with each passing day, and society is struggling to keep pace. Is artificial intelligence the key to preparing for—and fighting against—our world's greatest threat?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/sponsored/story/fighting-climate-change-with-ai/",
-      "originalUrl": "https://www.wired.com/sponsored/story/fighting-climate-change-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/633b3b9843f9a94be890d208/master/pass/GettyImages-1347310502.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/sponsored/story/fighting-climate-change-with-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/fighting-climate-change-with-ai/amp",
-      "publishedDateTime": "2022-10-12T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-microsofts-yusuf-mehdi-if-customers-want-a-particular-chip-we-will-support-them.md",
-      "title": "Microsoft's Yusuf Mehdi: If customers want a particular chip, we will support them",
-      "excerpt": "Microsoft CVP Yusuf Mehdi joins 'TechCheck' to discuss Microsoft's collaboration with Intel, the use of cloud and advanced AI, and the offering of chip choices for customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2022/10/12/microsofts-yusuf-mehdi-if-customers-want-a-particular-chip-we-will-support-them.html",
-      "originalUrl": "https://www.cnbc.com/video/2022/10/12/microsofts-yusuf-mehdi-if-customers-want-a-particular-chip-we-will-support-them.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107133320-16655890161665589013-25962498727-1080pnbcnews.jpg?v=1665589847&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-vectara-a-new-leader-in-applied-large-language-models-launches-its-first-neural-search-as-a-service-offering-to-transform-content-discovery.md",
-      "title": "Vectara, a New Leader in Applied Large Language Models, Launches its First Neural Search as a Service Offering to Transform Content Discovery",
-      "excerpt": "Vectara, the operating platform for neural network technology, today launched its first product, neural search as a service, that leverages large language models to understand the intent behind user queries and bring meaning to search.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/10/12/9690729.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/10/12/9690729.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "NEW YORK, (BUSINESS WIRE) -- inQuba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace-2022-10-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace-2022-10-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Scientists use machine learning to fast-track drug formulation development"
-excerpt: "To investigate whether machine learning tools could accurately predict the rate of drug release, the research team trained and evaluated a series of eleven different models, including multiple ..."
+excerpt: "Nov. 29, 2021 — Researchers have developed a new approach to machine learning that 'learns how to learn' and out-performs current machine learning methods for drug design, which in turn could ..."
 publishedDateTime: 2023-01-10T00:01:00Z
-originalUrl: "https://phys.org/news/2023-01-scientists-machine-fast-track-drug.html"
-webUrl: "https://phys.org/news/2023-01-scientists-machine-fast-track-drug.html"
-ampWebUrl: "https://phys.org/news/2023-01-scientists-machine-fast-track-drug.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-scientists-machine-fast-track-drug.amp"
+originalUrl: "https://www.sciencedaily.com/releases/2023/01/230110103448.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/01/230110103448.htm"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/university-of-toronto.jpg"
-    width: 2880
-    height: 1921
-    isCached: true
-
-secured: "JkDsBexArxWhj4Ef37MIj0Wi+Ci2LNK05j56oucXDMzLQ0xyyqk4HU3XUF6KpcFeGYF9yp8zT9CTtX1tMjOjKHT9F9082gd6huJ42397DhYxXIpxRJ28xbYYnyOe5D+ACGVSO+yRPzEcGfrj8caN4pZ0NFnA7w9VoqVhgZi7eJ/GTygAc1GdGywu3WCC62VbUFrCsI88ymesQwnqRifQo2vMACr/kKZoB5P2h6FM2LKVpsW/N7WDTihEvu+nSXhthHwmnR/ye/qcah8EWA+UsTABWj/uDND91+egeg3dRofQkUsR5Xi88+bj+J4DIIZ3MHhMvYuPueNx4qoXlsZ6CMKsRhMFH66LOxU2ROp+HqE=;4v8APy3xh756+wm7X0wVEw=="
+secured: "5xShBR9wxrF3/pkA1j1jjFjHJ3LcWNs9SL3vZ9I1sX8n6OUR8V/D0ZuDYPUP87euEhyRIo8iuiO+dmiM5MbAYwquNrp/LxeW1hvq2bCOCRI8Ua8qUbjA8K5x1lKQKhNOtzFY6T0uPjWVeERGBQBTmpbCs3xXeaxyJUQsvQQN1cEALKYIo/ODbq1yasuGRtE0MVmkZ81tSHiGNQLEfaw2WKUrcaBUB8OWW3hXcqLRnzEjigy+hMTfUkynCD2CykRJc1qa/jpDuEucJEGpQWyPff/sb5umd6gDq/e436wfBB7zxbUNpzgvoxohWwZ7n4dT9KTpqVMXKEeVTmdEfljCSDndv0zC+775ycBo5QK8k8I=;DNDPp0a0zSsCJtbRHwxx+g=="
 ---
 

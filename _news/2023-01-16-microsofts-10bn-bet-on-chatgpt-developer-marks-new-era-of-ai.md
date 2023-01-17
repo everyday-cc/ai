@@ -19,43 +19,83 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Supernal to Utilize Microsoft Azure for eVTOL Development"
-    excerpt: "Hyundai’s Supernal recently announced that it is collaborating with Microsoft in development of its electric vertical take-off and landing (eVTOL) aircraft for advanced air mobility. The collaboration aims to advance autonomy,"
-    publishedDateTime: 2023-01-12T20:50:00Z
-    webUrl: "https://www.aviationtoday.com/2023/01/12/supernal-utilize-microsoft-azure-evtol-development/"
+  - title: "Microsoft Azure OpenAI service now generally available, with ChatGPT on the way"
+    excerpt: "Microsoft announced the general availability of Azure OpenAI Service, which allows businesses to power their apps with large-scale AI models."
+    publishedDateTime: 2023-01-17T01:52:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-azure-openai-service-now-generally-available-with-chatgpt-on-the-way/"
+    ampWebUrl: "https://venturebeat.com/ai/microsoft-azure-openai-service-now-generally-available-with-chatgpt-on-the-way/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-azure-openai-service-now-generally-available-with-chatgpt-on-the-way/amp/"
     type: article
     provider:
-      name: Aviation Today
-      domain: aviationtoday.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 95
+  - title: "ChatGPT and generative AI look like tech's next boom. They could be the next bubble."
+    excerpt: "Startups implementing generative AI are already attracting big, early-stage rounds at hefty valuations — with little evidence they can become profitable."
+    publishedDateTime: 2023-01-12T12:50:00Z
+    webUrl: "https://www.businessinsider.com/chatgtp-and-generative-ai-could-form-techs-next-big-bubble-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/chatgtp-and-generative-ai-could-form-techs-next-big-bubble-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgtp-and-generative-ai-could-form-techs-next-big-bubble-2023-1?amp"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/635836b8fc29ff001a5f6330?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "General availability of Azure OpenAI Service expands access to large, advanced AI models with added enterprise benefits"
+    excerpt: "With Azure OpenAI Service now generally available, more businesses can apply for access to the most advanced AI models in the world—including GPT-3.5, Codex, and DALL•E 2—backed by the trusted enterprise-grade capabilities and AI-optimized infrastructure of Microsoft Azure, to create cutting-edge applications."
+    publishedDateTime: 2023-01-16T17:00:02Z
+    webUrl: "https://azure.microsoft.com/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6218d54-3c27-4c17-bc25-33ce1d1a268e.png"
+        width: 808
+        height: 768
+        isCached: true
+  - title: "Microsoft bets big on the creator of ChatGPT in race to dominate AI"
+    excerpt: "As a new chatbot wows the world, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI."
+    publishedDateTime: 2023-01-13T19:01:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 54
-    images:
-      - url: "https://www.aviationtoday.com/wp-content/uploads/2023/01/courtesy-of-microsoft-project-airsim-for-supernal.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Unravel Data Appoints Microsoft VP Mansoor Zia as Board Member"
-    excerpt: "Unravel Data appointed Microsoft VP Mansoor Zia as Board Member which reflects the strong relationship between their company and Microsoft."
-    publishedDateTime: 2023-01-16T12:11:00Z
-    webUrl: "https://analyticsindiamag.com/unravel-data-appoints-microsoft-vp-mansoor-zia-as-board-member/"
+  - title: "Microsoft to add ChatGPT to Azure cloud services 'soon'"
+    excerpt: "Microsoft Corp. said it will add OpenAI’s viral artificial intelligence bot ChatGPT to its cloud-based Azure service “soon,” building on an existing relationship between the two companies as Microsoft mulls taking a far larger stake in OpenAI."
+    publishedDateTime: 2023-01-17T02:07:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/news/microsoft-add-chatgpt-azure-cloud-services-soon"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/news/microsoft-add-chatgpt-azure-cloud-services-soon"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/news/microsoft-add-chatgpt-azure-cloud-services-soon"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/zia-mansoor-1300x731.png"
-        width: 1300
-        height: 731
-        isCached: true
-  - title: "Microsoft Exec Zia Mansoor Joins Unravel Data Board of Directors"
-    excerpt: "Unravel Data, the first DataOps observability platform built to meet the needs of modern data teams, today announced that Zia Mansoor has joined the company’s Board of Directors. Mansoor currently serves as Microsoft’s Vice President of Data & AI,"
-    publishedDateTime: 2023-01-12T22:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230112005740/en/Microsoft-Exec-Zia-Mansoor-Joins-Unravel-Data-Board-of-Directors"
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 54
+  - title: "OpenAI, the startup behind ChatGPT, discusses tender offer that could value it at $29B"
+    excerpt: "The startup was founded as a nonprofit back in 2015, with a mission of pursuing AI research for the benefit of humanity. In order to raise more capital to pay for the computing power needed to ..."
+    publishedDateTime: 2023-01-13T14:05:00Z
+    webUrl: "https://siliconangle.com/2023/01/05/openai-startup-behind-chatgpt-discusses-tender-offer-value-29b/"
     type: article
     provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 19
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/21470472099_8e78d53ecf_k.jpg"
+        width: 2048
+        height: 1363
+        isCached: true
 
 secured: "nljpiA7KXi6AGyJezAASS4OzzSjavvR8E/ghtWrFDhTNUr8eattR/ZzS5TZSaSJdr8qFO91HdV5RkIsVjDbRx8Va9pyLoA9br1CE1qT/zK+uYw0wdvgkgo6dwtEJwZUzS0FwXRzAxuWmTe84FIyL4Va8WioBcaHeFkNJIS/iGn2gwFFA2XRY3odbElkVQXJ3vVzx3j0pRjTSYlnhNQw3xvP78sUe//QbWh9yg+HsUqI5J/z488GWJ+GrgX9GB8sGpfbVkHsMJGBOhdWmvCyZ9fSwB36j6SUXxKMpTg9tnfiBnK/dKm/PsWJKT4KkoxxObN/RGdFH+rZ6+alOiLCXNGFAXlWoaqoLmDX5ShL3WIL75aOzoEMerkui7rjbi7qjXgjAJJN4wOC531+sbYDR8qJDE+ANP4Oe/+5ueg3k448hZHerjekz0K9T6HKmlHhXJo/zmzl/ZJHaEmUPxVfnY2RFKOefRcBtS7knkorGl2lcKvXdWEPTqDSEhvY3C8+YyE4gc+LwfCSWDz5JNOtCyg==;IvsumzCayD6eAzLA9pwDkg=="
 ---

@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Automated Machine Learning (AutoML) Market 2023 (Latest Report) is booming in near Future 2029| 103 Pages Report"
+    excerpt: "Global Automated Machine Learning (AutoML) Market Report 2023 is spread across 103 pages and provides exclusive vital statistics, data, information, trends, and competitive landscape insights in this niche sector. In a nutshell, this report is a must-read ..."
+    publishedDateTime: 2023-01-15T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automated-machine-learning-automl-market-2023-latest-report-is-booming-in-near-future-2029-103-pages-report-2023-01-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Image Recognition Market (New Report) 2023 Is Flourishing Around the World by 2029 | 116 Pages Report"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-01-13T00:47:00Z
@@ -43,19 +57,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How Healthcare Artificial Intelligence Market are made: An Overview to The Future Opportunities Over the Globe | 108 Report Pages"
-    excerpt: "Healthcare Artificial Intelligence Market Analysis 2023 | by Product Type ( Machine Learning, Natural Language Processing, Image Processing, Speech Recognition), Application Type (Medical Imaging ..."
-    publishedDateTime: 2023-01-13T09:43:00Z
-    webUrl: "https://www.digitaljournal.com/pr/how-healthcare-artificial-intelligence-market-are-made-an-overview-to-the-future-opportunities-over-the-globe-108-report-pages"
+  - title: "Video Analytics and Artificial Intelligence Market Latest Trends 2023, Drivers, and Projections Report from 2023-2029| 103 Pages Report"
+    excerpt: "Global \"Video Analytics and Artificial Intelligence Market\" Analysis and Outlook 2023 | Exclusive Report [ No of"
+    publishedDateTime: 2023-01-14T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-analytics-and-artificial-intelligence-market-latest-trends-2023-drivers-and-projections-report-from-2023-2029-103-pages-report-2023-01-14"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 25
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/AI-chatbot-China-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "CANolDbXsw4yj47LUEZbNJFxXtT052bDgbAue5kawqNgoYDBd3p/F0MJYRYC7h/+JZcRBtqmQ/MlrYulSMAMzdB80AdtDHu6bKZ16xB/Jft06LWE38i7JJzrUEjOIFYhydvLaG+VQgN7ky3BNNXDF8/CxRyJ3DJ8xppuaB/P7b/K7X8ojV8zlDnptCNEBNI1oultw5A3OLJ/eflZq6KJ9vH/0DamPFOktFKrYJKjk4du/n7pakzCXzeCjQDp+ZwrhJXu1mreOyQnQi7MKq4foOH2ih/PwIUmr2eQXqkOrSF3wPsrdgqOEAumJ7jkaVy4jhiVRxpsBqCHpQqHv506Lk4hTyCAr9iok3JDnkyIizY=;DbJ2D65rP6E6tSOY5bpCzw=="

@@ -38,6 +38,22 @@ related:
         width: 1105
         height: 737
         isCached: true
+  - title: "Artificial intelligence is getting ready for business, and not too slowly"
+    excerpt: "Artificial intelligence is getting ready for business, and not too slowly AI enables machines to exhibit human-like cognition positioned to do anything from driving our cars to dominating the ..."
+    publishedDateTime: 2023-01-13T07:59:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly/96948911"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly/96948911"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly/96948911"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 60
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-96948911,imgsize-44834,width-1200,height=765,overlay-etbrandequity/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Meet Tori, AI for your fast food order"
     excerpt: "Tori — an artificial intelligence launched by OpenCity — is described as the restaurant industry’s first conversational voice in the drive thru."
     publishedDateTime: 2023-01-15T15:57:00Z
@@ -70,22 +86,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Artificial intelligence is getting ready for business, and not too slowly"
-    excerpt: "Artificial intelligence is getting ready for business, and not too slowly AI enables machines to exhibit human-like cognition positioned to do anything from driving our cars to dominating the ..."
-    publishedDateTime: 2023-01-13T07:59:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly/96948911"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly/96948911"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly/96948911"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 58
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-96948911,imgsize-44834,width-1200,height=765,overlay-etbrandequity/digital/artificial-intelligence-is-getting-ready-for-business-and-not-too-slowly.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "What artificial intelligence can’t do — yet"
     excerpt: "These days, we don’t have to wait long until the next breakthrough in artificial intelligence (AI) impresses everyone with capabilities that previously belonged only in science fiction."
     publishedDateTime: 2023-01-14T17:08:00Z
@@ -96,7 +96,7 @@ related:
     provider:
       name: MyBroadband
       domain: mybroadband.co.za
-    quality: 39
+    quality: 41
 
 secured: "oe8K/c3o+mE4WZ35mydF/m1vP3uT/s/Ljs0Rhc71UDI9uT0vbAjfaogKGoCrxMsKAdX3ht5sGEibyqnUyEQER1/6yXnRKi6O1ebQAzcx5TUgWg3YCW1gqQJHaCDPwC0kFSYXz2lAwNExeIRkAA8XktJWhzCHDh4wWzLC2QS7e+onmCD5moOlowRfJ4ZdKnS830Q1qL315sYSpfpceLNR0r5wPTvBEmrQmbzH7IhR4AibuKUXTN9ZcppUe+g2gvsq7L90GHaPvvFRr1gMehJnahUM3wjZx43gdgbnmsTYmDeJ5tIukAX+ClE9wNJwM/YcndnRSyWf00z+0QDILoplWbfOapKFCcnjZKwQ8WoBHac=;67UZDdi0Lrkkrq2+i+lZUA=="
 ---
