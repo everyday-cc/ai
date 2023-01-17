@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Debunking Claims About Special-Purpose AI That Spot Generative AI ChatGPT Produced Essays, Plus Caustic Call-Outs By AI Ethics And AI Law"
-    excerpt: "A rising claim is that special-purpose AI apps can be devised to figure out whether a set of text is produced by human hand versus generative AI such as ChatGPT. These are misleading and a false hope."
-    publishedDateTime: 2023-01-12T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/12/debunking-those-bonehead-claims-about-being-able-to-use-special-purpose-ai-to-readily-spot-generative-ai-chatgpt-produced-essays-plus-caustic-call-outs-by-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/12/debunking-those-bonehead-claims-about-being-able-to-use-special-purpose-ai-to-readily-spot-generative-ai-chatgpt-produced-essays-plus-caustic-call-outs-by-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/12/debunking-those-bonehead-claims-about-being-able-to-use-special-purpose-ai-to-readily-spot-generative-ai-chatgpt-produced-essays-plus-caustic-call-outs-by-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6253775a681e4c1d1414a314/0x0.jpg?format=jpg&crop=1976,1317,x235,y0,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Two professors who say they caught students cheating on essays with ChatGPT explain why AI plagiarism can be hard to prove"
     excerpt: "If students don't confess to using ChatGPT to write their essays, professors say AI plagiarism can be hard to prove."
     publishedDateTime: 2023-01-14T08:00:00Z

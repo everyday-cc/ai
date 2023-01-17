@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-chatgpt-ces-and
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-chatgpt-ces-and-cybersecurity-advice-from-aws/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS announces Amazon Security Lake"
-    excerpt: "Amazon Web Services has created a service that automatically centralises an organisation’s security data from cloud and on-premises sources into a purpose-built data lake so customers can act on security data faster."
-    publishedDateTime: 2023-01-12T11:19:00Z
-    webUrl: "https://vir.com.vn/aws-announces-amazon-security-lake-99229.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 56
-    images:
-      - url: "https://vir.com.vn/stores/news_dataimages/2023/012023/12/15/in_social/e45f1d1d66681484789900f797e2662c.jpg?randTime=1673781020"
-        width: 600
-        height: 402
-        isCached: true
   - title: "ChatGPT Artificial Intelligence: An Upcoming Cybersecurity Threat?"
     excerpt: "Artificial intelligence (AI) has the potential to revolutionize many aspects of our lives, including how we approach cybersecurity. However, it also presents new risks and challenges that need to ..."
     publishedDateTime: 2023-01-12T13:45:00Z

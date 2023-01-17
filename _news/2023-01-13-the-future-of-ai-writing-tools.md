@@ -29,65 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Exploring AI for Tech Marketing"
-    excerpt: "Can AI improve your marketing and help grow your business? Contributor Nick Wassenberg whips up some prompts and explores."
-    publishedDateTime: 2023-01-12T13:00:00Z
-    webUrl: "https://tech.mn/news/exploring-ai-for-tech-marketing"
-    ampWebUrl: "https://tech.mn/news/exploring-ai-for-tech-marketing?hs_amp=true"
-    cdnAmpWebUrl: "https://tech-mn.cdn.ampproject.org/c/s/tech.mn/news/exploring-ai-for-tech-marketing?hs_amp=true"
+  - title: "The advantages of artificial intelligence (AI)"
+    excerpt: "DURING the last two months or so, there has been much discussion around the world regarding the potential benefits and threats in the fast development in recent years of"
+    publishedDateTime: 2023-01-16T16:08:00Z
+    webUrl: "https://www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594"
+    ampWebUrl: "https://www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594/amp"
+    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594/amp"
     type: article
     provider:
-      name: TECH
-      domain: tech.mn
-    quality: 76
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 74
     images:
-      - url: "https://tech.mn/hs-fs/hubfs/ai%20tech%20marketing%201.png?width=1634&height=758&name=ai%20tech%20marketing%201.png"
-        width: 1634
-        height: 758
+      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/01/17/148178.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "A mental health tech company ran an AI experiment on real users. Nothing’s stopping apps from conducting more."
-    excerpt: "A chat app used for emotional support used a popular chatbot to write answers for humans to select. Controversy followed."
-    publishedDateTime: 2023-01-14T19:28:00Z
-    webUrl: "https://www.nbcnews.com/tech/internet/chatgpt-ai-experiment-mental-health-tech-app-koko-rcna65110"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna65110"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna65110"
+  - title: "Granite Geek: The advancing language of AI"
+    excerpt: "Hands up, anybody who is old enough to remember ELIZA.That “natural language” program came out of MIT in the mid-1960s and caused a flurry of interest by creating text conversations online that fooled some people into thinking they were dealing with"
+    publishedDateTime: 2023-01-16T22:04:00Z
+    webUrl: "https://www.concordmonitor.com/ChatGPT-college-essay-49507670"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 69
+      name: Concord Monitor
+      domain: concordmonitor.com
+    quality: 39
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/220113-AI-Mental-Healthcare-jg-b3b521.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
-  - title: "Has Nvidia won the AI training market?"
-    excerpt: "AI chips serve two functions. AI builders first take a large (or truly massive) set of data and run complex software to look for patterns in"
-    publishedDateTime: 2023-01-15T16:10:00Z
-    webUrl: "https://www.techspot.com/news/97272-has-nvidia-won-ai-training-market.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-15-image.jpg"
-        width: 1963
-        height: 1104
-        isCached: true
-  - title: "Bilateral science funding aims to invest in priorities like AI and machine learning"
-    excerpt: "Australia’s Department of Industry, Science and Resources (DISR) has teamed up with India’s Department of Science and Technology, and the Department of Biotechnology to run round 15 of the grants program."
-    publishedDateTime: 2023-01-16T20:45:00Z
-    webUrl: "https://www.themandarin.com.au/209670-bilateral-science-funding-aims-to-invest-in-priorities-like-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: The Mandarin
-      domain: themandarin.com.au
-    quality: 48
-    images:
-      - url: "https://www.themandarin.com.au/wp-content/uploads/2023/01/Ed-Husic.jpg"
-        width: 795
-        height: 530
+      - url: "http://www.concordmonitor.com/getattachment/5a661fd6-3ca6-4a5e-b83c-8d52d2fd9a45/attachment.aspx"
+        width: 1463
+        height: 500
         isCached: true
 
 secured: "XaiYM7GahIQUG+3GxcGanPMKjkus3ZxV+AtBwAygjclTfbkYHh+ikji5ixZwa2pUDGWMNu2M0Yp9EXq+TlL2XwZibC8J42LMlRkVEd3QpD3mPohtmiBbmiL0i5PHlj99vm0gSDGenv5xbSkQ9RrPkeL5afeQHF+bL1GT+JGnJiU65vRQue7A/RHLuSDkmVd+Y6cqqSj86ayb4qYsk0KaI4/fKiVCjw4mTS/3NV06OEtLO8Vuhhlu9CS4UFDN9pLMlRahUBeau8hiDo8EN5bPj/G5Z5/cykQVk+eeO03hQySPdXgpLpKQDxPZLYFFjPo3VwmmN2JWo4MpQkdmN7sZdbqw5ula3QYuxeWwgkpj3Bg=;ckkocLVLemKJDqriN1nYhQ=="

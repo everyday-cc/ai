@@ -2,17 +2,17 @@
 category: news
 title: "Framework Science Revolutionizes Hiring Process with Cost-Effective, AI-Powered Staff Augmentation Services and Fintech"
 excerpt: "Using cutting-edge AI technology and a focus on fintech, Framework Science can build and manage teams faster and cost-effectively than any other company in the industry. One of the significant ..."
-publishedDateTime: 2023-01-12T23:44:00Z
-originalUrl: "https://www.news10.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
-webUrl: "https://www.news10.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
+publishedDateTime: 2023-01-12T20:33:00Z
+originalUrl: "https://fox59.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
+webUrl: "https://fox59.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: WTEN
-  domain: news10.com
+  name: FOX59 News
+  domain: fox59.com
 
 topics:
   - AI in Finance
@@ -39,7 +39,16 @@ related:
         width: 900
         height: 480
         isCached: true
+  - title: "Top 10 Fintech and innovation trends to watch in 2023"
+    excerpt: "Driving these innovations are Fintech companies which are contributing significantly to the growth of the local economy, creating new jobs, and stimulating an entrepreneurial ecosystem. Also, they are making the provision of financial services more efficient,"
+    publishedDateTime: 2023-01-16T13:56:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Top-10-Fintech-and-innovation-trends-to-watch-in-2023-1695992"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 4
 
-secured: "gO8EsejbM4ZUKhkxU68g2i4AuP+v63qXGEIW5+0KunnbMd2061keoCXM+nFuJPTrYa0yq/9zF8fl5xnsyTlW5LJGUf6ENJfVTCOEQ5NU6iV1NhJ16xNobRmJSjyEWaZE2mAXC40zE3cfF2XWwxjuQZ3i8AUvPfsbxcov+OYGfOyiCoumnfVBFQuoZ6vKe3ll0K4S+DpCn7X8U1OYb1h8G8mlhI1W9oWIN6rcmY36ukbSn/mi7Aqo+ob7eDmie8zl9W90xZjXUd37+VG45W2TEnTtKS00RjjrKMmXWbXml8F2Cgc/VWkoCZZdhIwygLbWRzgAykMTlBIf51du+1gIqmNDwpFacJ8Adt9gVqLJ00Y=;2NbcwFP1c/trXypZp+IJsA=="
+secured: "S4rVoK/auOBStPhIsrdTz91VJclTO0tJUhzYp+vHc10EiBnmySFfOkTCI8doKFdCx23EPAN1S8ZmA+z+pP9gho2wiYG2xFbAzASxmvfdiuBMz8NX5Fb+c3heDe2g/e4v4bHkZVT+iTirIaU0/QkbgDvM5g82vnR6CQKvvqCh225LRdY9ilmEHgxaCvlIF7axrsDSL2GmpnpPZ8D3YZAryvy9HpesLrXmi11U0/C0Z4YOJUigqwXl9O+z1u2bdPZRxdL73FPT5cSxRvL2n+MGJlbA1zF16nFmceuKgvkY95K1RPbiYDR1oGEbcp0SatnTAj3/r4DzYjcxX/RHICTWGkQCvoB66hSFe+Yp+A9BvpU=;pEmpZXo1G9nNUvDPvyNlUA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-chips-jp-morgan-healthca
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-chips-jp-morgan-healthcare-covid-51673722829"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Has Nvidia won the AI training market?"
+    excerpt: "AI chips serve two functions. AI builders first take a large (or truly massive) set of data and run complex software to look for patterns in"
+    publishedDateTime: 2023-01-15T16:10:00Z
+    webUrl: "https://www.techspot.com/news/97272-has-nvidia-won-ai-training-market.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-15-image.jpg"
+        width: 1963
+        height: 1104
+        isCached: true
   - title: "Nvidia Broadcast app to enhance video calls and live streams with AI-powered eye contact feature"
     excerpt: "The company's new Eye Contact feature estimates and changes the directional gaze of your eyes to make it seem as if you’re looking into the camera."
     publishedDateTime: 2023-01-15T16:58:00Z

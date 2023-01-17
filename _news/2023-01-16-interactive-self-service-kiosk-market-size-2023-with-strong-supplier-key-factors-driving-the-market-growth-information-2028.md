@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Image Recognition in Retail Market New Insight Report 2023 with Strategic Decision-Making and Identification of Major Corporations"
+    excerpt: "Global \"Image Recognition in Retail Market\" Analysis and Outlook 2023 | Exclusive Report [ No of Pages 126]. The"
+    publishedDateTime: 2023-01-16T17:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-new-insight-report-2023-with-strategic-decision-making-and-identification-of-major-corporations-2023-01-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "xXEynV08NT3U3X0DYR03CamNHuA1QVAAeS4uEjwWNyFIOZiQL22sVa+GkgLyS8kaIINtEzYMZSGz9q1FB8puEvbZAZdsGIcivAOn0xVW/hpjRoJLNuPMPV2XIjM/faP8tuUN1uOb74VINKPI+oXmo/UcH18XpUZlnxm5xhLPRJPbPowSGrQ/dm4xwp7ww36OdGcccQSRD6f+rvOrVEPtgwzn7i4VEAPGtgBPc4m5a7MPCCLSvJeICN82BOWtZPS/UYCMlJrL3Jrbm7FcjuI2p4DpqR6cOmu7WjKSUEKpdWtIIGOqUc1aM/Kn3WJuYqBkRocEagMXWYsy1T67ByceAfIz9U/HEAvruW1dWSMmu6A=;CDHZId8lYD/nFDMz8D9rzg=="
 ---

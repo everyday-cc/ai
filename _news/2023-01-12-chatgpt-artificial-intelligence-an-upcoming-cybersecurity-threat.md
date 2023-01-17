@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AWS announces Amazon Security Lake"
-    excerpt: "Amazon Web Services has created a service that automatically centralises an organisation’s security data from cloud and on-premises sources into a purpose-built data lake so customers can act on security data faster."
-    publishedDateTime: 2023-01-12T11:19:00Z
-    webUrl: "https://vir.com.vn/aws-announces-amazon-security-lake-99229.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 56
-    images:
-      - url: "https://vir.com.vn/stores/news_dataimages/2023/012023/12/15/in_social/e45f1d1d66681484789900f797e2662c.jpg?randTime=1673781020"
-        width: 600
-        height: 402
-        isCached: true
 
 secured: "nd3RAm4JoIO08HPDAcdQDlUn8/yfvKlsja8KUa0H6o/pxLk9Uxb5yqBH+mBLkI9kJ6WJmpjfrXPAk884uXReePhlcn/pamIhRt0/tlwpqsrWmvD8ZIoOKzlXa228cAZ8K5iJvfjhw5eGytaeErULHcubel1Pss/mZNJnTI9glKwg17CnOEoExTFFLExQJ8c3LDkbbHZ7r4MkDQ3u8usHBDZ7BTF4RVoa27DOe/Y63WA6sXgLM9A116SIp2/7I9u25zcsEj+Qub3CbcBo2UlhyXzNdUKVriljXtxo5Nx82qOJEKSRGWyuhMpV3/hEj+9RaYvS5Oymjlo+Sb0FgbbBF4+0QJRmuS7jty6q9ui5uNU=;/dO7ODx9ZxnvXKCuQ13yPw=="
 ---

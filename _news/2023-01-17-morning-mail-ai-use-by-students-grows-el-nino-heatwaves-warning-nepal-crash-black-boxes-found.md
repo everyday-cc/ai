@@ -2,9 +2,9 @@
 category: news
 title: "Morning Mail: AI use by students grows, El Niño heatwaves warning, Nepal crash black boxes found"
 excerpt: "In today’s newsletter: an Australian lecturer says she detected computer-generated text in a fifth of assessments. Plus: the dark side of ‘lucky girl syndrome’"
-publishedDateTime: 2023-01-16T20:04:00Z
-originalUrl: "https://www.theguardian.com/australia-news/2023/jan/17/morning-mail-ai-use-by-students-grows-el-nino-heatwaves-warning-nepal-crash-black-boxes-found?amp;amp;amp"
-webUrl: "https://www.theguardian.com/australia-news/2023/jan/17/morning-mail-ai-use-by-students-grows-el-nino-heatwaves-warning-nepal-crash-black-boxes-found?amp;amp;amp"
+publishedDateTime: 2023-01-16T19:05:00Z
+originalUrl: "https://www.theguardian.com/australia-news/2023/jan/17/morning-mail-ai-use-by-students-grows-el-nino-heatwaves-warning-nepal-crash-black-boxes-found"
+webUrl: "https://www.theguardian.com/australia-news/2023/jan/17/morning-mail-ai-use-by-students-grows-el-nino-heatwaves-warning-nepal-crash-black-boxes-found"
 ampWebUrl: "https://amp.theguardian.com/australia-news/2023/jan/17/morning-mail-ai-use-by-students-grows-el-nino-heatwaves-warning-nepal-crash-black-boxes-found"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/jan/17/morning-mail-ai-use-by-students-grows-el-nino-heatwaves-warning-nepal-crash-black-boxes-found"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "0Ba75mW2W0KEbnEKKQXe624QyIIh09pfHx/0LVzdhLaYr4thIYgx0cxLhbiqsm2eorqKyh2mfj5wMNwm3d0LfZrlcjacm9ziibqTfwLjG7CVnvlhAp1MMNZRKHmjC0wFVK2db8l4yyoyjDJx8f2lB94c/9n+WCw0j/tZ4pZ2vFQwwjCI9Hwi50NVuVqmsGFbZxHwqMPrXRGFTv2xVjePgmqSkUwHmPa4/qSs/BWE9A4VkUI3WsiBxWHkREv7c7TXtZjOt4TDrwSszgrCkaYNqMCl80h75SLQWejYlSUc/LqJNJGn/WdyrPZmpGKnRnzNi0+9sbnnq8wsdwf5hYufRHrvjqfN9C09na3FR5ccTcc=;REwMGysLGIaWwv7ZJB1BNw=="
+secured: "W8YqAxSRwNY7IMArw35Z2lUg8cwJRYOVVXFxVb7QOqCBO5w5b4rR/7haOIvONkNXJdtVshjoeoqKbBq3xbmO/c8afPB+xN5N+/CcnCWvT1MssBpaeVrXFU4xwiVg16mgUCdA7BDLhfvnS/pz+mPaYsJQiztsDumXcLQZFgA9Ym25PHIyZHhUbRRhmYyRyqDi2cUR6fsVlM7rZ3JFIewOAnTX2HIjpq/rcKgiDnoWIWAPBPnErILAdV00VW0+L726bXRnxinp9pUumIknsee3PnVfYUSqcX3PrYPevF2dGgLOs2Ly8zb2suZUcPAqKP1o1WOWEXDUqJdoPjIsLUL0q7IIZmd6zRHhI8SMYhU/vtU=;hlgZbIL2+jIn3t4lsk6EDw=="
 ---
 

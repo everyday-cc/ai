@@ -21,8 +21,8 @@ topics:
 related:
   - title: "Global Conversational AI Market will surpass USD 32.51 billion by 2028 at a CAGR of 21.6% till 2029 Says Brandessence Market Research"
     excerpt: "The Global Conversational AI Market was worth USD 8.24 Billion in 2022. It is anticipated for the industry to amass a valuation of USD 32.51 billion by 2028, registering a CAGR of 21.6% over the assessment timeline of 2022-2029."
-    publishedDateTime: 2023-01-16T14:04:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/16/9743514.htm"
+    publishedDateTime: 2023-01-16T15:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-conversational-ai-market-will-surpass-usd-3251-/2023/01/16/9743514.htm"
     type: article
     provider:
       name: TMCnet

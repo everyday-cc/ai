@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/building-an-ai-governance-strategy-that-work
 ampWebUrl: "https://venturebeat.com/ai/building-an-ai-governance-strategy-that-works/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/building-an-ai-governance-strategy-that-works/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1037155966.jpg?w=1200&strip=all"
@@ -40,6 +41,6 @@ related:
       domain: news9.com
     quality: 19
 
-secured: "WMC+qLQYl70xqSdCKbli1Gp8FgQTwXIwrtPehyO1mVDZ8DobRyOyiF24k4o9Lkx9rdoYGeY8LLHnGoEJ3zLL+3vDR29HcrFD+82Mi2fRM8R6MAN0Z25tQtm5+HMh2HoxnY8k+9TnOJ5v4JCk0qWStsMZ0DcPubpHqnRl8wVVn0F7yW21kFuQ3TnpjieTjYQfLpganZdqKMHsG+v/6gZ5/ijXx7mzqt482cnBmFGgfjXAHDHkK0QZspE2cEoH81C0L839VkIBI2VcOTnYXmb1fQOcRlu1Fb9EPG1/0CiG13+YED8oMPtCt8MRNIie7pRSKTmw19nG/+rHgmPuUKktedLI4TCtAbh+NssH8zAMQi0=;swfmxyRSuh7LPSg8yAKkZQ=="
+secured: "2wG+JAQG1w30E3bHJkZrp2CjhIPGvg1ZIzoUyrxcuintkMFfjHLuHL0Evt5nQy64S19sNIMinv+CmgCTiAyK4JMNGXEqLrxOpv/AsI+8RaBYB99/pOJPGZMXFHrloIkd7xDAq5RN8jZ029F6UkaeIpTkuiQzZ1rbgne49eALa4/QFHZP6H+fAljxtdkLi+tWy6hwWYIhxt6fboD0Z8uyWB5o3DPi07s0PKInXhNIRRHCabn8oPwSMoYbKzmoPpretn6+YNf/ZLf1q7KHXGWZE1SZYTVvkDLzQ/ZtBmatdkkmAZXYGFgpfHdct0CXTT5NyM2mKzLE7JaK8sKxIgWeUO1JIBQ6h6vEqeRFED2E1/u8MJYCRGRKd2VV2AqKalAmplIiS4rSWLBkE2zfrsO/wSY5KE8lRSRpsnlXbDbNVWFJ3ucsi/eqsIr/tFe+Mq22jUGkd8EE/PG5Gt+m2CFbdtpVI22o2rSzMtVP5SPTXDOzpDwHdblk4lygMBd5Wa19O6yTaU3dfkUOE1rgsYxeKg==;ASYPp8W5lkjxRIg0C0nKhw=="
 ---
 

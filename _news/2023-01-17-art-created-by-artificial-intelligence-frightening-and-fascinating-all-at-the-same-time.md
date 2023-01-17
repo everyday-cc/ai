@@ -8,7 +8,7 @@ webUrl: "https://www.cbsnews.com/sacramento/news/ai-art-created-artificial-intel
 ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/ai-art-created-artificial-intelligence/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/ai-art-created-artificial-intelligence/"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/09/03/525b158e-fb41-4e15-ba97-4fc9ac7abd1e/thumbnail/1200x630/1412f2908fad4d49e84ed45e36004757/ai-art-state-fair-63vo-transfer-frame-659.jpg"
@@ -44,6 +45,6 @@ related:
         height: 630
         isCached: true
 
-secured: "9/VNp+e6FC8QQkOmLUbrD/5tvpC8p4ySUyvXxvI9kw2TRxV2JRVXZJLlGyUmdb0EK9L/rf8sBvU4R+fFO1/1vVo9tqp/GAHETP6cahe1sInmlYFANDHCCyTkoS6RxfYUzQwoubybBtbJmQZthScGQPuP0m8W1iMsf/Aui4BHuFyjS52udycjT1buWPkEkvGF7oMGXOlNzu4WyH1Kpx72mm8btGanPWjHBiR8/rGEY/6On0gX+vObfJHSi42QGksVoN8p4UaqnOHn+/1AtvIg0jXprhh6q1mygUBky74odUyh/4xVU3A3zo/NvZgdbj7RKgLXIEyVTfboiQV8tOytkXiHfNW7SixBbG2eeCEE/m4=;zW5PE2A6Q1jRcGFMpseu2g=="
+secured: "akbKYgxcmDb9HzIVDbjlxSVGN5S0JYgxKwXs6lBxWw8buTFWgwhUqtE6Sp2h8eERCgbkpafnvuaIsbwuVYQPA6vtRihkijNvcnIShSU87YQK99ftV7wqgcA5jzOBMGXAhULk6t/O/Ix8mZT4poqEfElaTsApxPNX86vdom+VrohrYTgHTKvOFBTv5Dmi9WKc7g8Cv+fQWEUC1Ol2YdDxAA+MUTn3LlQjaA1QcxWQh8T620fnTAisLyl0gGgOSbJe6iOHagePWZCo2EqFS50zGtEYWS0LxHgB0JxmX4PZDwIw3A3jYRxZ/gykzctVy+diSNuGotg6hrt/5B4etAXRCTPEt3ll9kLBV6yVTQ0iG5aUbM0lHPQ9U2mDl3f6KZvtf3Y8e7FGJICJq2jjkXKC7Wa6NkSXU/vfStS5KpWTdNAPcvC+pzuqdZP5aPsJe+6XEmW+SzYq7y7gy/liSGzG0AwCbkvOJLR3znVJ7ToltfaOj40gr81CBTR0JL9D/8mIsoyKNJyFQXX5Mx4amyTEUg==;T9MKBQ52YwdjdDWLr89+iA=="
 ---
 

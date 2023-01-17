@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/show/educators-worry-about-students
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/educators-worry-about-students-using-artificial-intelligence-to-cheat"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://i.insider.com/63c0696b33ffb700180f8395?width=750&format=jpeg&auto=webp"
         width: 750
         height: 562
-        isCached: true
-  - title: "Educators concerned about students using artificial intelligence bots to cheat"
-    excerpt: "Educators across the country are addressing a growing concern that students could use artificial intelligence to cheat."
-    publishedDateTime: 2023-01-12T12:46:00Z
-    webUrl: "https://mynorthwest.com/3778287/educators-concerned-about-students-using-artificial-intelligence-bots-to-cheat/"
-    ampWebUrl: "https://mynorthwest.com/3778287/educators-concerned-about-students-using-artificial-intelligence-bots-to-cheat/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3778287/educators-concerned-about-students-using-artificial-intelligence-bots-to-cheat/amp/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 55
-    images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2023/01/t_8dc660dcd9204cc7a0ffef2be8a93539_name_promo_monvo_AI_CHEATING_transfer_frame_119__1_.jpg"
-        width: 900
-        height: 506
         isCached: true
 
 secured: "uu6rYJFFgyzh8iiNO5HK7FJyMKYk+SNScX9EWdFK70u+DKqdH/t2/2omZBVMoX2A695JRkf6nu1HmrZp3XJLPpk4cBbqidmLfr/5eioeMv1ARugNjFg5HlYqKuk2sJkYjiUbYGBH2Tmc4ONmMqhqzHN4YPWNsf9o8J8z6kwmYt5kuumsjR0oUnAeUujA24RwZigRcKs2rk1XjwSB0zZ4L01i9X0VqM6mGGvkA8OBGdna2TVpifpGVrBQdmC4qemwU74st9nvwlaKa3JRzzO2YY5dAFtzbkcJAxBdo7Cj5zXDA7lmgbAcI7RL3jEVTYx3KCkOiFCZ7wXnd3E1GaifEQj9p7vyyO4jMZom+9El1REeZ+P0X59e180W2+xePG+qZK/pNy4SRw0LIlHuLRvSftZYFv5h5v0GmxKRJwqa90kTO8aKwH5Jen2QxP/wP+GvTXibi6/Inq73GHvt+GxCKXtYHA0XMUrHUyetXXgorTwR7UO9YY0dXuATpskjkWWlXXnZ/YR1cVnHcHzEeCNwNg==;dHSS9b7imv0POB237grLdA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.manilatimes.net/2023/01/17/opinion/columns/the-advantage
 cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594/amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Future of AI Writing Tools"
+    excerpt: "The market size of Generative AI is currently estimated to be worth billions of dollars, and is expected to grow exponentially in the coming years. This growth is driven by the increasing demand for AI-powered writing assistants,"
+    publishedDateTime: 2023-01-13T03:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-future-of-ai-writing-tools-2023-01-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Granite Geek: The advancing language of AI"
     excerpt: "Hands up, anybody who is old enough to remember ELIZA.That “natural language” program came out of MIT in the mid-1960s and caused a flurry of interest by creating text conversations online that fooled some people into thinking they were dealing with"
     publishedDateTime: 2023-01-16T22:04:00Z

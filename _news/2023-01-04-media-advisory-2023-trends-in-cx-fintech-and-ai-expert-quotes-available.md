@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Media Advisory: 2023 Trends in CX, Fintech, and AI -- Expert Quotes Available"
-excerpt: "Agency focused on fintech, AI development, and customer experience strategy has identified key trends for 2023. Pull quotes available for immediate use. SAN FRANCISCO, Jan. 3, 2023 /PRNewswire ..."
+excerpt: "AI image processing will increasingly learn to ... CEO of Beyond the Arc Steven Ramirez is a popular fintech strategist and speaker. He focuses on the technology and trends affecting customer ..."
 publishedDateTime: 2023-01-04T01:12:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30268240/media-advisory-2023-trends-in-cx-fintech-and-ai-expert-quotes-available"
-webUrl: "https://www.benzinga.com/pressreleases/23/01/n30268240/media-advisory-2023-trends-in-cx-fintech-and-ai-expert-quotes-available"
+originalUrl: "https://www.benzinga.com/pressreleases/23/01/p30268245/media-advisory-2023-trends-in-cx-fintech-and-ai-expert-quotes-available"
+webUrl: "https://www.benzinga.com/pressreleases/23/01/p30268245/media-advisory-2023-trends-in-cx-fintech-and-ai-expert-quotes-available"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI in Finance
   - AI
 
-secured: "uL1wpvsVIQCBcEIonrn216K9FUeYHozSMhi8XzECCt3P45DKTmAEn6DfZPzL/OOXiDB2k1BJn8/J/DUa+AjAHNqqm21aV7DHwBpdrXVl6BfRz4uFpMZY6/OGjeXJT1ARIEFuUWowV+O6CS89D4gAva/9YGr8iBNugrtm0RSTq4FYySevpk/sUY3RaGeL6Bx3yMOFa3m7PPOyoD4X7cYIN7kv6ogcWivEFOLl6DXt4NLlhqharV2qQ2QiRbSixjVWEcBK07zJ18JOG1bBlpiOqUc+57U9F5Dewfts47B1raHGwRl/Xt2UJry0DrUV/2nDZkNiWOF1xwVSTsfOgWNot9XAW+pFsKBh2zAbbSYH9+A=;YUN+V2NkkpwgAwOrb9QR0w=="
+secured: "3WixRUoH+Qu2dWBE3yYZ50gY4ikEN6yViWn3o9rC5nCqeaQrCUaf0Zyt7Z6mGJ+3SZAGINETl+K4Zr1FBtcv9x9DI0UD9pj9Z1+eojuIyU/IFp9WLjs2FIJXVH8FHlHeGDK86fvCRBnFZ4NGHRGd9d5QjXpFTMDMU6MvPC2hafC2zyAKpaN6tpPE+Z42GvjMju9GIR97Nx5slyP8mYUqkrhYMMKguC2Ca9qJTZRN2ItaRwourlPSVAeeDVMDXB4cZTo16OoJR9Q6YVtlaJT1Ynx3zdqRnlHJ51y1lrWrFRiAZLW8otDkbO1wFhNOF+XA9WB+3IoJcq3iIafS1cd1oVbvvBmI9mVr6QP15Fm3mZE=;KR4mkm4pNtMt6ED93Lf1Ng=="
 ---
 

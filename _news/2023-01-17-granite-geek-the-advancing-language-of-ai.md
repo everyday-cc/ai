@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "The Future of AI Writing Tools"
+    excerpt: "The market size of Generative AI is currently estimated to be worth billions of dollars, and is expected to grow exponentially in the coming years. This growth is driven by the increasing demand for AI-powered writing assistants,"
+    publishedDateTime: 2023-01-13T03:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-future-of-ai-writing-tools-2023-01-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "1Dx5CCg0GbvoIzLgqDjFUpz8ItYWBaIdJs1bd29qUYwgp3yHgXU4SkahBrhIJGUbsg4vCIYiyTdUI5PMaap6aabPg9crEGPkFmgjO5U++sTBDV997bkKh/8lf4yPqbQdGDtYP+XtkgyV2CmVIgH0LQnVDn69Z1UyHvtfkSghblocqYm9TbQwlUrMMbbsfJ6q5RnYryGEbn3PeRbOXNAguY9RpWh6xWBdiFdAee5CPidK8sE83/hH30dvEkbpc7ULl3b5lJYjCdC8TmeuCScYzlfd4zzeciIvZVaRAEXzTqIy6NisW3gCMdHYBcPoSo9T639kk8BAlTrzPNnWM4UfVcQFTu8x40fa4Onx72giy0xxI94/X/196Y+ZahBMpBq50v2wlOSHIXWy5E9Gr/m4ya+j2U0mBn7ZFHhAeA4vf6qxVVGTBtpTUq7ehI6KtsGQRPLpki/TUEmSI1TIbTnpBTetLoc6P7Tu6saQTvPNH6b/Aimq27B1NNAmbOlc+fgCoi45I32Knpr6IcAQqB4TWw==;bFMYY55VGbCem2Dz0Aym7Q=="
 ---
