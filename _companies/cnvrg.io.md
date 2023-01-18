@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "cnvrg_io"
   url: "https://twitter.com/cnvrg_io"
-  followers: 1029
+  followers: 1030
 
 size: 11-50 employees
 yearFounded: 2016
