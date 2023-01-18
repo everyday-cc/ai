@@ -2,6 +2,49 @@
   "page": 144,
   "value": [
     {
+      "path": "_news/2022-09-09-cognitive-overload-the-hidden-cybersecurity-threat.md",
+      "title": "Cognitive Overload: The hidden cybersecurity threat",
+      "excerpt": "Very quickly, we’ve seen this always-on cybersecurity environment leads to burnout, and there’s one major contributor: cognitive overload ... specific products and services to secure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmagazine.com/perspective/threats/cognitive-overload-the-hidden-cybersecurity-threat%EF%BF%BC",
+      "originalUrl": "https://www.scmagazine.com/perspective/threats/cognitive-overload-the-hidden-cybersecurity-threat%EF%BF%BC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.scmagazine.com/wp-content/uploads/2022/09/MikeSaxton-e1662680296351.jpg",
+          "width": 1280,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SC Magazine",
+        "domain": "scmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-neural-network-software-market-growth-forecast-2022-2028-research-report-by-gmdh-artificial-intelligence-techniques-oracle.md",
       "title": "Neural Network Software Market Growth Forecast 2022-2028 Research Report | By -GMDH, Artificial Intelligence Techniques, Oracle",
       "excerpt": "Download Free Sample Neural Network Software Market report  The worldwide Neural Network Software Market is expected to grow at a booming CAGR of 2022-2030, rising from USD billion in 2021 to USD billion in 2028.",
@@ -1042,49 +1085,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-research-highlights-organisations-ai-capabilities-lag-far-behind-ambitions-leaving-money-on-the-table.md",
-      "title": "Research highlights organisations’ AI capabilities lag far behind ambitions, leaving money on the table",
-      "excerpt": "Fivetran, the global leader in modern data integration, today announced the results of a survey which shows that while 87 percent of organisations consider artificial intelligence (AI) vital to their business survival, 86 percent say they would struggle to ...",
-      "sourceUrl": null,
-      "webUrl": "https://bdaily.co.uk/articles/2022/09/07/research-highlights-organisations-ai-capabilities-lag-far-behind-ambitions-leaving-money-on-the-table",
-      "originalUrl": "https://bdaily.co.uk/articles/2022/09/07/research-highlights-organisations-ai-capabilities-lag-far-behind-ambitions-leaving-money-on-the-table",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bdaily.co.uk/images/uploads/k4FZxrIa5cHLowAMn3ayUFnZalzJchB5NKCEBf7t.jpeg?w=1200&h=627&fm=jpg&fit=crop-50-50&s=1da5d760d3b86910af944012f6538f08",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bdaily Business Network",
-        "domain": "bdaily.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

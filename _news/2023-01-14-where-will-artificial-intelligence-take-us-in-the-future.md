@@ -38,7 +38,7 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/pexels-liza-summer-6382640.jpg?itok=ESA6C_qh"
         width: 1528

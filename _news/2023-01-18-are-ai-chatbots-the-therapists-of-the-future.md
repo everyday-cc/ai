@@ -8,7 +8,7 @@ webUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202301/are-ai-
 ampWebUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future?amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/pexels-liza-summer-6382640.jpg?itok=ESA6C_qh"
@@ -55,6 +56,6 @@ related:
       domain: mybroadband.co.za
     quality: 39
 
-secured: "sqHQ1PJwO0Har43CYe1Pr2da+k1+Z0BlEPB62aTWNzPb8pKmM073p4ZPiS2UX48/OOvorOEEhiAyG2zmOHLpc+jV0jM6olWEfL8ly+xxXDSUPVhQ96RsqBJwBYrqjXHc9meGhdatf2tVK9TxyOcZ4FDc8BCl/WBSm1Aqi4HOtoJIPI9saYGGIXPLhs66aar4Yu5m2656lWNsh/41ORjtWW7Bm0H0Ty5B1/lHEwDAlb3RZ83+95FxdeK/577+eUStQsFBqeayolYEC3UvfnLah4tWsaBJ7jTIj+1uVFH7vBWraHBa4ks42WjL57yPBDpB4C6wHlUswws6Ha+qKOCEtExXeqRVyo4tKuy5vheB2Po=;m/9j6VjuVFAjnqz4v2TiDw=="
+secured: "KtKDbPTGkfVfKa82G9nnDIsAStl1ji12bzV9PTCZzqTXWL0xcsupBTC+i2Bn1iI2ubUoj5d4lrbMlx891gAuiGnMH6TOqrshDA8iX7NJSJyon1LgryHmtjJDNsOilqkMS6Fc/4ZJqfngPT2Ih2qq7xxt+QlNJj2fJIUWEpvLfDqWKaupw/0vegx1WAiGa1II1r+ycvlpKwaA4B/NtB/VSDBJFZ9hC/UdI34onP6xd6aHC5C6S6Fh4ytfmkFUwo3xHy2PUOWhoSd05L0Er82VGrd2iWmDvEzVjJkvHF1Bg4QdDW1/3+2k0Bwr5vqHCHOW9K1W1RDBX4zc6CcHy/Cj0qUIeHn3SEaIabQjj7VP8Br+X7PAA78zuB133c+y5pND7wVNrDhZp1Rn3pBtCgeAvvj96fsGGylxuexjidGWE5ysefH3Dtp3xH3Qa+AdUxDOrc0RcMuwLfGFOVyXZR9JGczYefBuqzr9Y5sy3Tc+UUi9ag2AZcIe3W89KpW/3mWH7SD7kuWnMthGnaB0rkbc8w==;UWYmQwBGO9X/P+ZkY0hmmA=="
 ---
 

@@ -51,6 +51,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Human Values For Artificial Intelligence"
+    excerpt: "MADRID - This may be the year when artificial intelligence (AI) transforms daily life. So said Brad Smith, president and vice chairman of Microso"
+    publishedDateTime: 2023-01-18T04:26:00Z
+    webUrl: "https://menafn.com/1105442954/Human-Values-For-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?649374"
+        width: 257
+        height: 250
+        isCached: true
 
 secured: "s6hXUWFfyk8inIQs430/6qpIyTUbATN0/cXnpuTNp/twsRniLHolHyArDujk4kMANlpcJJmFDzGV4WxNcW6JSDeHAfuFLSJcrP3B+zW9FiwgBXnVuo0ie/+3qXMSw4ibRGD0vBfVJVBo+hGMQg9T0fYK8k8smcy4yRwEOOSjjS8ge+SecYwGys0vSrTB22Ioqrf/OdGsgX22H1vzRT9OB8uw+LtzwwsADvny5F5URLZqVNZs4hIrIl9FoEGbXFIGdJTp2rA3DFCi/mIZlJwUXEKbfyAGu0GoUE9USuFjSvFVsjOHWIIwsxXuNWRXDbN9AM6siFpzVY5PZsF9g/sFvKxwCQJInEvT7JkTI4abCbvSzpO/bgCxQyialFgYaFWvbAvzHLOeVFKBdlfD1RSeQZ0QUeBGVY+Wr0p1WpwgFe6UL0qicS9sAS06Xc6KI5MukuoS3MMP9cfPyn3DgBADvkue1KNufSGeQPbMAib1VurTzkIj5Y43nrVtPad5gLaA8HtHNt0ATgU4kimJWbY2eA==;L/K2tBok8iGfsjM6hfgkvg=="
 ---

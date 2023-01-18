@@ -2,9 +2,9 @@
 category: news
 title: "Self-driving trucks poised to overhaul long-haul logistics"
 excerpt: "Chinese autonomous driving startup Pony.ai has been making forays into the self-driving truck segment. The company announced in November it had formed a strategic alliance with two partners — Chinese logistics company Sinotrans Ltd and machinery manufacturer Sany Group — to work on promoting smart logistics,"
-publishedDateTime: 2023-01-04T04:05:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202301/04/WS63b4d91ca31057c47eba7957.html"
-webUrl: "https://global.chinadaily.com.cn/a/202301/04/WS63b4d91ca31057c47eba7957.html"
+publishedDateTime: 2023-01-04T01:41:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202301/04/WS63b4d91ca31057c47eba7957.html"
+webUrl: "https://www.chinadaily.com.cn/a/202301/04/WS63b4d91ca31057c47eba7957.html"
 type: article
 
 provider:
@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://img2.chinadaily.com.cn/images/202301/04/63b4d91ca31057c4b4b2ab9d.jpeg"
+  - url: "http://img2.chinadaily.com.cn/images/202301/04/63b4d91ca31057c4b4b2ab9d.jpeg"
     width: 720
     height: 480
     isCached: true
 
-secured: "LhhNFxtAg+w6nh7JBAgcQ+ZumFhAYliTaHAzAlmasHCzknFTBxacE039WUxuK2ZOJd1Cdm16jOkvhEsspB88Sv/70HV8g5eCAnydHPP1PWrNHfXB76TDVcC1JHTpBaQP7P4+kV2IOzBbxG7UAMqjz1xJQGMDYJ9vp3VfWMjkCEYF/TTWeFDevJmq6epZgpXJ/KA9tjESJjf1LwwWCnHbXNPQ65C8t9bcMIXSfD28WHM/Ci9seQDcFy2gZkQ5FC2A7rd0uuhQWDDOv9GQBoItx3s6z/qYTGDBBY+DJwlAfsfEEp16+CEOAap/k47exVy2JvzsIVh7LOnO2vcxNZ0Dy2h+fRgk90nkY8QIxrGBqJQ=;s1z3YTYg4vwcZtqMrt48GQ=="
+secured: "Ap3B8CpA6zhJKFopZThUcvpvfuOsaug/R8HblERWnqpVrpwUTvbm3xos/A17xDd/V4BrhkX4Uh5p6OIwlht6CFUiAn/XUxUC9BvyTLSvg0Jq/QS1T1gmvsgMfUWqVlkbooMwI1CaMWYKkRhY1Au+tgU3wsxrfu6jiZ/jSCHVua0Nw3J9NYTG9Q4UvvfELX4YgRN7nbX6vHMMo/pimMqr0AZk6JlK9h5uzrQFxpC+kc9UBoNw/NNEK7lKuJEWt5rYrFSoEAu7eC7zeTmQPwuVUmqQT+wiQTDtOgk2Emi9ZgWZxF0EIPcjnFNTrujH4fCUmgQCv5C6L5pudrxClhJ65Z3DVluY3dlHUcqpho85xnw=;P9QngMRSRgbdY98hV37B8Q=="
 ---
 

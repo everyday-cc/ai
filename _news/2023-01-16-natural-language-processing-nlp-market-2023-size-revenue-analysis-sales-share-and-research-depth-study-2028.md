@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-16T09:36:00Z
 originalUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028-2023-01-16"
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028-2023-01-16"
 type: article
-quality: 80
-heat: 190
+quality: 82
+heat: 192
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Sales
+  - AWS AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

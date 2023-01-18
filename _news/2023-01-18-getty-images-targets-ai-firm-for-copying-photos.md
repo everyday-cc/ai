@@ -1,0 +1,60 @@
+---
+category: news
+title: "Getty Images targets AI firm for 'copying' photos"
+excerpt: "Stability AI runs a tool called Stable Diffusion that allows users to generate mash-up images from a few words of text, but the firm uses material it scrapes from the web often without permission. The question of copyright is still in dispute,"
+publishedDateTime: 2023-01-18T04:47:00Z
+originalUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/getty-images-targets-ai-firm-for-copying-photos/97078387"
+webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/getty-images-targets-ai-firm-for-copying-photos/97078387"
+ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/getty-images-targets-ai-firm-for-copying-photos/97078387"
+cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/getty-images-targets-ai-firm-for-copying-photos/97078387"
+type: article
+quality: 59
+heat: 89
+published: true
+
+provider:
+  name: brandequity.economictimes.indiatimes
+  domain: indiatimes.com
+
+topics:
+  - Microsoft AI
+  - AI
+
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-97078387,imgsize-37546,width-1200,height=765,overlay-etbrandequity/digital/getty-images-targets-ai-firm-for-copying-photos.jpg"
+    width: 1200
+    height: 765
+    isCached: true
+
+related:
+  - title: "Getty Images sues to determine who owns AI art"
+    excerpt: "Getty Images, the stock-image powerhouse, is suing Stability AI over its AI art generator in a copyright infringement case that could help decide the future of AI art."
+    publishedDateTime: 2023-01-17T18:39:00Z
+    webUrl: "https://www.pcworld.com/article/1475597/getty-sues-stability-ai-and-the-future-of-ai-art-could-be-at-stake.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 49
+  - title: "Getty Images suing the makers of popular AI art tool for allegedly stealing photos"
+    excerpt: "Getty Images announced a lawsuit against Stability AI, the company behind popular AI art tool Stable Diffusion, alleging the tech company committed copyright infringement."
+    publishedDateTime: 2023-01-17T19:48:00Z
+    webUrl: "https://www.cnn.com/2023/01/17/tech/getty-images-stability-ai-lawsuit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 41
+  - title: "Getty Images suing artificial intelligence firm Stability AI for 'copying' photos"
+    excerpt: "Stability AI runs a tool called Stable Diffusion that allows users to generate mash-up images from a few words of text, but the firm uses material it scrapes from the web often without permission."
+    publishedDateTime: 2023-01-17T13:45:00Z
+    webUrl: "https://www.newindianexpress.com/business/2023/jan/17/getty-images-suing-artificial-intelligencefirm-stability-ai-for-copying-photos-2538693.html"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 27
+
+secured: "kXOsSAVMLZUdDgFeo3yNq6kMZctoa3gfeqBeuhGmZOcFW0PifnGaAOOT5cZMquaQohezbvoRZLPScBNaHyVX9TTA/77EH2kPkuKqEnwWvIpAJic70YEQB5a/6gBE6X9aHe6x3wiG/hwWd2UfT56cW+rxjfMXwub6eDJiR9fPSvQXWOiQMtXWFkejic6RvSU8k7/xgOHJwD8UKGhsp18WVQPBoRIAbIyi2L3N7AOEW8JB4ADWdy2HfTyraa3Emm8XGUT729/yUcjbLqbVwpQ5prdzjts6sfVMoEuoaakjdynljN9BtNkkWuFFb7wFVSq7URSX2+G/r+dUbm7KWDAJy32boYPWtnptaJhP2jBZtUU=;aLLcSsHDjc0m3U899kQ0yQ=="
+---
+

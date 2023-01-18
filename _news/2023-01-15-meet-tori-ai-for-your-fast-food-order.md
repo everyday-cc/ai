@@ -9,7 +9,7 @@ ampWebUrl: "https://www.koin.com/news/meet-tori-ai-for-your-fast-food-order/amp/
 cdnAmpWebUrl: "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/news/meet-tori-ai-for-your-fast-food-order/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.khon2.com/wp-content/uploads/sites/8/2023/01/GettyImages-1352323887.jpg?w=1280"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Human Values For Artificial Intelligence"
+    excerpt: "MADRID - This may be the year when artificial intelligence (AI) transforms daily life. So said Brad Smith, president and vice chairman of Microso"
+    publishedDateTime: 2023-01-18T04:26:00Z
+    webUrl: "https://menafn.com/1105442954/Human-Values-For-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?649374"
+        width: 257
+        height: 250
         isCached: true
   - title: "AI might make it possible for you to talk to your pet"
     excerpt: "Many of us communicate with our pets in human terms making a futile attempt to make them understand what we are saying while also guessing what they are trying to say to us. Although we think it"

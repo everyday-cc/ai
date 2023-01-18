@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/industry/banking-finance/reimaginin
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/lite/"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 29
+  - title: "KFintech Drives Digital Transformation and Innovation in the Financial Services Industry with AWS"
+    excerpt: "(MENAFN- Adfactors PR ) January 17, 2023, Hyderabad: KFin Technologies Limited (KFintech), a leading technology-driven financial services firm ... including interactive dashboards that use AWS machine learning to automatically look for investment patterns ..."
+    publishedDateTime: 2023-01-18T04:12:00Z
+    webUrl: "https://menafn.com/1105442789/KFintech-Drives-Digital-Transformation-and-Innovation-in-the-Financial-Services-Industry-with-AWS"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 28
+    images:
+      - url: "https://menafn.com/updates/pr/2023-01/17/pr_11781_c1537bf4_image_story.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "What the banks vs fintech debate gets wrong"
     excerpt: "This need has led to the emergence of a completely new ecosystem, one that is more diverse and where fintechs and smaller banks take an increasing share of the real-time market. By flipping traditional infrastructure procurement on its head and standardising related operational and security capabilities,"
     publishedDateTime: 2023-01-17T12:39:00Z

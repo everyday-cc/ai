@@ -1,18 +1,18 @@
 ---
 category: news
 title: "DeepL, one of the world's leading AI communication companies, launches DeepL Write"
-excerpt: "DeepL, a world leader in AI communication technology, announced today their release of the beta version of DeepL Write. DeepL Write is an AI writing companion that will help"
-publishedDateTime: 2023-01-17T13:41:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/01/g30439340/deepl-one-of-the-worlds-leading-ai-communication-companies-launches-deepl-write"
-webUrl: "https://www.benzinga.com/pressreleases/23/01/g30439340/deepl-one-of-the-worlds-leading-ai-communication-companies-launches-deepl-write"
+excerpt: "DeepL, a world leader in AI communication technology, announced today their release of the beta version of DeepL Write. DeepL Write is an AI writing companion that will help users improve their writing and express themselves precisely—regardless of their language proficiency."
+publishedDateTime: 2023-01-17T13:52:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/01/17/9744110.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/01/17/9744110.htm"
 type: article
 quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
@@ -36,6 +36,6 @@ related:
         height: 652
         isCached: true
 
-secured: "cr9dLs0/SqNwV8Voyd0OJvEMOhMacUcWv4XuS0R0scVZqMq6EM9foeuJoMCtMy6K0cTLVyDOYI3gYy+fliSj2X79zXhpEtzsxM5kaIOoMHB/76cFjvqiNJj6OSTBQJmVRXruT1zrlT51HnAgMH8GA+QjmZ6RigI/wGVNFH+AKjXKjCf7eMSebXUti5XX+5SWDyr7aoLdhvXXprbPm0AON3L2086k9zwCHI6lsR1uYjAVqa59RTUfEE35EHr08I3iKsckOHgOa8h0ZM5x4JS68Bh5Gt9lWkE64CNY3pQsoY2z27fBV95NDiHe3pMGzRr02ijlC4ztCwR01dumtZ6/UKhIxVcDQDnhsNmaXHlbr7g=;qpSyOSgS/VjHw1TXeWW+Mw=="
+secured: "qBxJAUZ4qsnETg55r8rUOhnyJgD1DY0yM/tnvp2L/82NdrjTbSN89H5JkrO0g+2yqafT8UslGNwRLR9bpD01W99S05/CLURWmYHMc1wnhNS+2YDfeU/ZG8s6arrnv1f3xLzNuXYkPmIvbHCUoS9d4dCl4pbUoIGxUJpRMjxb1mXL4CAhbhpTZRSAN61FRsGhcmYx4Afabd3qJzgRvMf+5Tb8N/sg3P79u4FQPzIu5dkaaWFAn5s8oHWnhjvYPKQ2zi+RydHEYjIyxUzhxfYtKyqFZSWQV4LVODsYH51vfRM3tsvmfew3zCogMj0GS0vDpLCjSp9SCpU/7weKDko0TdUASN//hWTomFbba8dN/cA=;lU/BHHItB9kUtULJU6yH5g=="
 ---
 

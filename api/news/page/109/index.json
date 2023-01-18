@@ -2,6 +2,49 @@
   "page": 109,
   "value": [
     {
+      "path": "_news/2022-10-08-facebook-parent-meta-unveils-ai-video-generator-make-a-video.md",
+      "title": "Facebook parent Meta unveils AI video generator Make-a-Video",
+      "excerpt": "8 (UPI) --Meta, the parent company of Facebook, has unveiled a new ... RELATED Tesla unveils 'Optimus' robot prototype at AI Day event \"Make-A-Video research builds on the recent progress made ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Science_News/2022/10/08/facebook-parent-meta-unveils-ai-video-generator-make-a-video/7411665284314/",
+      "originalUrl": "https://www.upi.com/Science_News/2022/10/08/facebook-parent-meta-unveils-ai-video-generator-make-a-video/7411665284314/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/7411665284314/2022/1/16652843608717/v1.5/Facebook-parent-Meta-unveils-AI-video-generator-Make-a-Video.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2022/10/08/facebook-parent-meta-unveils-ai-video-generator-make-a-video/7411665284314/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2022/10/08/facebook-parent-meta-unveils-ai-video-generator-make-a-video/7411665284314/",
+      "publishedDateTime": "2022-10-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-08-who-wants-to-swim-with-robot-dolphins-more-people-than-you-may-think.md",
       "title": "Who wants to swim with robot dolphins? More people than you may think.",
       "excerpt": "A thin, barely perceptible cord running from its navel to a control panel nearby is the only obvious sign that this is no dolphin—it’s a robot. Delle, a prototype animatronic dolphin currently ...",
@@ -1116,57 +1159,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-5-key-ip-considerations-for-ai-startups.md",
-      "title": "5 key IP considerations for AI startups",
-      "excerpt": "Sophir is an IP partner at law firm Foley & Lardner LLP where he counsels clients in AI, digital health ... and claim technology as proprietary, startup companies are leaving a tool behind ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/07/5-key-ip-considerations-for-ai-startups/",
-      "originalUrl": "https://techcrunch.com/2022/10/07/5-key-ip-considerations-for-ai-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1220494634.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
