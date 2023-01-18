@@ -23,6 +23,7 @@ topics:
   - AI
   - Facebook AI
   - AI Hardware
+  - Natural Language Processing
 
 related:
   - title: "Can AI detectors save us from ChatGPT? I tried 3 online tools to find out"

@@ -18,6 +18,7 @@ topics:
   - AWS AI
   - AI
   - AI in Marketing
+  - Machine Learning
 
 images:
   - url: "https://images.storyboard18.com/storyboard18/2023/01/Wavemaker-768x432.jpg"
@@ -25,6 +26,6 @@ images:
     height: 432
     isCached: true
 
-secured: "HT0mGuzi7DhXyMHS+3UCymDKT6worGFxFju3c/mKP9s9oiB5i1DkLKURUB5bdtsLlymDDJ5mQZrpteHS0Xh73+TVO0742dq6as2DoClmOhwieFI8wTpLOfqrUlwbD2DSBOybfOEgsqQybflbpp48Y0wZuS61R87gjhqKUe0kOI8A/z0A6I22qCvFfDgh1TwZdbSH6aP41YLcKRWUxOt5tmQUo3TgAU7oECczPBea2p6QeCLXHSFkRHwdWpuG9VoI3YARdENtfcjFWF6Hm9/3+NjZctrdSfrqmX7OzwqjCb5pvASnIRGsIO98wfDWWEhrXpyLKDGbfhRknD5asQPJHebby26o5G2TX20h32beqQA=;04QQtEy/e3cZ+XDs2AupCg=="
+secured: "EWFP7TWK3JIvIY7PxmZQ2vrFMtOi53sKOnLw5qXG+f9AzJqz9oyGKgip84FK2r1HaX8Myh41N9T//DDMzoiOJmYLPFeL7viIK8Hm/aiCgKRA8qbl1/RpyJn8kC+IoRpYtM1gYGVHQIZcp6g7p4b1UBbwvzV5Y2JP9Om0Xb8tT6tcT1eusu1DP2p9NX0oDtSnmdzNtzgUewHbwETjFbGaZMjxRTTKRzlZJq2m5fkSFKtpatB3glydXWHZ5ac4BrocqZXaL3ejPgh27KkZ808fClmAng5Grf9zsiV68uhKuc0bDNSjJCVOgs0ilrxipSd6/Sfvxs0vXM0AP4PP2g9Ol5C10a2ybkem1aioDGbos+aqDjwik+VuZ8TYKgna3zEkuvvmhY6e98qbSrtvt2JVnkhvmjKCN2tDJXfTEcZsICILffhWDU7gZy879tMzK0CRuhzDSkMooMakfEb343gG9JnDsydDqAeWfm3jnV/3LLDp1hjgDiMdthfvuCZncE7SHvBjhtfyuJU3MUHn1TNBfg==;knZCP0Y3qFzvb5XleI+AiQ=="
 ---
 

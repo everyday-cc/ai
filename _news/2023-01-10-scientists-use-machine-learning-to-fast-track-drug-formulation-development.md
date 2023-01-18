@@ -5,8 +5,6 @@ excerpt: "To investigate whether machine learning tools could accurately predict
 publishedDateTime: 2023-01-10T00:01:00Z
 originalUrl: "https://phys.org/news/2023-01-scientists-machine-fast-track-drug.html"
 webUrl: "https://phys.org/news/2023-01-scientists-machine-fast-track-drug.html"
-ampWebUrl: "https://phys.org/news/2023-01-scientists-machine-fast-track-drug.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-scientists-machine-fast-track-drug.amp"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/university-of-toronto.jpg"
-    width: 2880
-    height: 1921
-    isCached: true
-
-secured: "tbRh3IOP4ygIHzcud8emgmOwo5OHwFJwb5Z/guRwIShemLQeZsJxzp8MKvn6KrvGrnydcws6yWARJuNzed/mmIneY1lp1BdvxOd4DsWfrdOf922rjayljNcPm9AFnloarjH7O6rFRVPAkLOcElBBDMHFdA1B0furCPlpcdOpbnzdt+pBL7tPAlvC+YdkTqqXZdITMO4BQqHfxwj/6XIxWZ7qBuVps5+L/GMtKsPHgcpKHasYaoYSHpM/XovOneVUV2LF4BImCzas7Gup0JVcPYg05LtuqBie/ywNLIA3RmoRluMLtx75KFskQVD+pMAhckigZR4Uld+uT/6kPC5FH3xJSfUim/NRHyhfdZfE4Gc=;TSeIEJb7eKm2C5jHUTFasg=="
+secured: "4F1EpnaxluUyCcdwvqDcYa3MYELSoYPYRqyF1h4UZZN9kdiFsbjL4u+qeJHDxoJdf+yZSCuCNNRbqFQd3VEbVERWYGgbqx5OzD9hFC+RlK3qZCElAo+aHKvu2KW4ToCYBc2Our+InyGems2q/r6IL45C1wvD9g/PCfKUE00yxSXcMqezygyYfyaTrKidnzyHk1adXtGD/9FV9STDN/SBpv9v+8l76YCV+JKtIlZ8j+ewpReyqc8uF7LFq9LBYHFijBYKSlV3b2vjjvdMUbOTMbZeC+wCZFGuJ0AjRkb/BliR1/OWGcFAQU4G3ywBMYoHVPXHLrlK94OpmUkxDHq/41zrpTIO0P6CxyPAEnfB3ZE=;egA9bLGO/8nE+oKIHF3OiA=="
 ---
 

@@ -3,12 +3,9 @@ category: news
 title: "Getty Images suing the makers of popular AI art tool for allegedly stealing photos"
 excerpt: "Getty Images announced a lawsuit against Stability AI, the company behind popular AI art tool Stable Diffusion, alleging the tech company committed copyright infringement."
 publishedDateTime: 2023-01-17T19:48:00Z
-originalUrl: "https://www.cnn.com/2023/01/17/tech/getty-images-stability-ai-lawsuit/index.html"
-webUrl: "https://www.cnn.com/2023/01/17/tech/getty-images-stability-ai-lawsuit/index.html"
+originalUrl: "https://edition.cnn.com/2023/01/17/tech/getty-images-stability-ai-lawsuit"
+webUrl: "https://edition.cnn.com/2023/01/17/tech/getty-images-stability-ai-lawsuit"
 type: article
-quality: 41
-heat: -1
-published: false
 
 provider:
   name: CNN
@@ -21,58 +18,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Getty Images targets AI firm for 'copying' photos"
-    excerpt: "Stability AI runs a tool called Stable Diffusion that allows users to generate mash-up images from a few words of text, but the firm uses material it scrapes from the web often without permission. The question of copyright is still in dispute,"
-    publishedDateTime: 2023-01-18T04:47:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/getty-images-targets-ai-firm-for-copying-photos/97078387"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/getty-images-targets-ai-firm-for-copying-photos/97078387"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/getty-images-targets-ai-firm-for-copying-photos/97078387"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-97078387,imgsize-37546,width-1200,height=765,overlay-etbrandequity/digital/getty-images-targets-ai-firm-for-copying-photos.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Getty Images Targets Artificial Intelligence Firm For \"Copying\" Photos"
-    excerpt: "Getty, which distributes stock images and news photos including those of AFP, accused Stability AI of profiting from its pictures and those of its partners."
-    publishedDateTime: 2023-01-18T05:56:00Z
-    webUrl: "https://www.ndtv.com/world-news/getty-images-targets-artificial-intelligence-firm-for-copying-photos-3702069"
-    ampWebUrl: "https://www.ndtv.com/world-news/getty-images-targets-artificial-intelligence-firm-for-copying-photos-3702069/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/getty-images-targets-artificial-intelligence-firm-for-copying-photos-3702069/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 57
-    images:
-      - url: "https://c.ndtvimg.com/2023-01/9mlda3p_stability-ai_625x300_18_January_23.jpg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "Getty Images sues to determine who owns AI art"
-    excerpt: "Getty Images, the stock-image powerhouse, is suing Stability AI over its AI art generator in a copyright infringement case that could help decide the future of AI art."
-    publishedDateTime: 2023-01-17T18:39:00Z
-    webUrl: "https://www.pcworld.com/article/1475597/getty-sues-stability-ai-and-the-future-of-ai-art-could-be-at-stake.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 49
-  - title: "Getty Images suing artificial intelligence firm Stability AI for 'copying' photos"
-    excerpt: "Stability AI runs a tool called Stable Diffusion that allows users to generate mash-up images from a few words of text, but the firm uses material it scrapes from the web often without permission."
-    publishedDateTime: 2023-01-17T13:45:00Z
-    webUrl: "https://www.newindianexpress.com/business/2023/jan/17/getty-images-suing-artificial-intelligencefirm-stability-ai-for-copying-photos-2538693.html"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 27
-
-secured: "kbwXCnzJCHK+MHC6IkHK6N/jt4UCp/EOfMd2kbK0UvCJqNFIn6PX/HMcsf8oi18Q5LZhU50x1DirjD1Syxsd749Rng1Niwd8cpxmKYvlvJ6IZ0iqvCU9RdyPcjH7Oqp+9zX9PpoX3fvxcx4cGpIGzPpxatBFisi7q+srHyNyKGlEKT57O6RMSJODsmekmWwKhd61+uMgll65B5zpo3GU8W7C/1hudO/hHhuZTRVxw5+xrG9oqlnWmm72Igv98a8dlmoSsEJwZX/jwXrE7nldulGE4Z5HLtBEUQ9HoTE/4UgHE2teYeIax+HMccDmpgo2Ulz5Mb8zy8t0DT3GOxOYJQqQGMTTsWIbANRM5ABDTJ1ZaV5qz9O9BhhlHz00Cjr5yH2MsSUJZYzPqLak5KAODs+TZ6asWn8owZCCEebXX05+ZgwJWnV3/fcvKgWiNcCeSexmp7XsRzXaqUjMcmmrKXgOCxFdkXtljeXhOnSbx25IKWRV3nh/pyz/T4Xlnk1sS1Hn9dPdsKm9gyVo1CCgQg==;HE4/1VDRQ8mNn4Y8pK6XjA=="
+secured: "TNzRDmCQC4rHA+x7qbYdeUU0AnNkD4f/PLIk7F6ic4w/EAfjZgiFC/Fta2tRnk9JweywnHouQWwbhp92J0DQKD56Ub/Y2a6LwbdkO5hPlRxTsnzJnVw5pNN+Wwdc2tAjfMsTAuQAkhv6TdL1dXcuHltpEZbVLiaKGNTse9gm7nlECfEJ/vmaXLOzOWpFpxUqPfXJ8T68X4fNXof7gB93b54KOgpG18OAzqGsZuEuVkbGBeTi/QMrYzSvMyyUxv/FgQBXMAvcKpYnfgVu9JuXmgTVuLLQEzMJlt9c7aHz4ddr6NHgxbVi0pIePOIOvBwkm7CbICrxKNNOIteJnQq2ShQIJ49XEJ7vcEIcvFEAsMvRfVmCdM4v2r/vcZqUCt+C52gBRh3APNm+VyuiHCyaLVj6au5pL70SZdtWQW6jNva9OBA16U4dFD+Lkvu7dCVOl1lCJPnXkqEkDBaddY+7tHe+Z6MhY/VsoTpM8rzjXdtZB/gwyTXzjv1p1MfabxKJT01yKJPbKSw9yOqJaxVKSw==;IL4hogiBBBFhEdahEWJFLw=="
 ---
 
