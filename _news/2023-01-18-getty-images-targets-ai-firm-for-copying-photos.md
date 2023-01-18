@@ -9,8 +9,8 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/ge
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/getty-images-targets-ai-firm-for-copying-photos/97078387"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: brandequity.economictimes.indiatimes
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Morning After: Getty Images sues AI art generator"
+    excerpt: "Twitter admits it’s intentionally breaking third-party apps, Getty Images sues AI art generator over data-scraping allegations, Samsung’s new 200-megapixel sensor will probably appear in the Galaxy S23 Ultra."
+    publishedDateTime: 2023-01-18T12:48:00Z
+    webUrl: "https://www.engadget.com/the-morning-after-getty-images-sues-ai-art-generator-121539563.html"
+    ampWebUrl: "https://www.engadget.com/amp/the-morning-after-getty-images-sues-ai-art-generator-121539563.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-getty-images-sues-ai-art-generator-121539563.html"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-11/a0f17a10-6caf-11ed-adef-6471c8c12f2e"
+        width: 1536
+        height: 768
+        isCached: true
   - title: "Getty Images Targets Artificial Intelligence Firm For \"Copying\" Photos"
     excerpt: "Getty, which distributes stock images and news photos including those of AFP, accused Stability AI of profiting from its pictures and those of its partners."
     publishedDateTime: 2023-01-18T05:56:00Z
@@ -55,7 +71,7 @@ related:
   - title: "Getty Images suing the makers of popular AI art tool for allegedly stealing photos"
     excerpt: "Getty Images announced a lawsuit against Stability AI, the company behind popular AI art tool Stable Diffusion, alleging the tech company committed copyright infringement."
     publishedDateTime: 2023-01-17T19:48:00Z
-    webUrl: "https://www.cnn.com/2023/01/17/tech/getty-images-stability-ai-lawsuit/index.html"
+    webUrl: "https://edition.cnn.com/2023/01/17/tech/getty-images-stability-ai-lawsuit"
     type: article
     provider:
       name: CNN

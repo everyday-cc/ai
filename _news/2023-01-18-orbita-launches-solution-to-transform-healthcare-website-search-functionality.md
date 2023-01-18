@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-18T14:32:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/orbita-launches-solution-to-transform-healthcare-website-search-functionality-1032025669"
 webUrl: "https://markets.businessinsider.com/news/stocks/orbita-launches-solution-to-transform-healthcare-website-search-functionality-1032025669"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: Business Insider

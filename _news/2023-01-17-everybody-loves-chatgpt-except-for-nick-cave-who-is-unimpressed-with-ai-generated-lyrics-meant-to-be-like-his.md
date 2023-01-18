@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Does Exposing And Logging Those Generative AI ChatGPT Erroneous And Hallucinatory Outputs Do Any Good, Asks AI Ethics And AI Law"
+    excerpt: "Here are some examples of generative AI ChatGPT producing falsehoods in the outputted essays, which raises questions including whether we should be logging these. AI Ethics and AI Law issues arise."
+    publishedDateTime: 2023-01-18T12:01:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/18/does-exposing-and-logging-those-generative-ai-chatgpt-erroneous-and-hallucinatory-outputs-do-any-good-asks-ai-ethics-and-ai-law/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 35
 
 secured: "YUePvLqvq+q8bSfptVLB7N3n9kK6UgLKHAd06+UrFgDK2IUV0qG8TPvDOZPVnwi8h105YMxz37idyxXbxJqSo2WrP55uF79cXST8Fu7PZPbqQv8W4xZLGt3hf9R0KB1ThezQ2j6CjhQVkmGqavFZ0kA8ySRMjUyWDjCwGaJP/AZn26TqYEfCzJbllCOOUtzF2fqBuDyTNTdrQBEmIDiBWWdIOsezf2Rh8BeF9tH5U2kNgaUWbBxCz9xg72rB66Ic939DwYy5fvAT4geE6n7YAk2yvHl8sH5Zgum/IXMmRYumxDyA6NwyoQpCssz34+8DdEc+vLhXFhjwOThybKePIV8ld2CnKPPl2YE49MObGAUb43TAUUnnfYBld5TqmyptebSS+hzA8KFt4XGkU1Z3ZVtP/lSBuOESabZX5fah7XFh29LT9guRT862Kg96xQvesaCYmjKg2N4MnWbboe1/u3YDCf7XM8YFjAAFiXSGdLXM+lAq6K/Oqsa6ocuYAtWrSDWTjvOS6qLknB+yhkdDmA==;OqF1Ri/+3mUC9/FUPkIckQ=="
 ---

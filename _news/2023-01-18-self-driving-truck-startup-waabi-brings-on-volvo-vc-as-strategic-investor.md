@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-18T13:57:00Z
 originalUrl: "https://techcrunch.com/2023/01/18/self-driving-truck-startup-waabi-brings-on-volvo-vc-as-strategic-investor/"
 webUrl: "https://techcrunch.com/2023/01/18/self-driving-truck-startup-waabi-brings-on-volvo-vc-as-strategic-investor/"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: TechCrunch

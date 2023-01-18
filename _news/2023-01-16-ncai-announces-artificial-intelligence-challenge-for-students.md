@@ -9,7 +9,7 @@ ampWebUrl: "https://dailytimes.com.pk/1051739/ncai-announces-artificial-intellig
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1051739/ncai-announces-artificial-intelligence-challenge-for-students/amp/"
 type: article
 quality: 78
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
     provider:
       name: Zawya
       domain: zawya.com
+    quality: 19
+  - title: "Quris-AI and MBZUAI to launch world-class Bio-AI center in Abu-Dhabi"
+    excerpt: "Quris-AI and Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) signed an agreement during Abu Dhabi Sustainability Week (ADSW) to develop a world-class Bio-AI center in Abu Dhabi. The state-of-the-art facility will support the development of personalized medications,"
+    publishedDateTime: 2023-01-18T11:33:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/18/9744889.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
 
 secured: "fWGBCEPekChFsIzeOaRyUhxiOv8EMo5HfppG7IhgYhNemaZVsATz7OcqDsJl65FRcatKZkLTjdkEcRPs34RvYRZvpYsHXdyX2TQktklWxvF+VR6VTgiltvN1kpJU1mBiQyRVBSBfpVotzP54t38edL09FfrNU+kcj22cm2OD9AANziKeM/c7dzrNEngIy314JGpgK2dGj47Y0ugOqcbgjiWyob33K8QeKlQGpd4FgNLviwuoSsRYgASS/pnh31Rq/XBALNpm19+tVPBjHh2oZvkexVJlioW63deojcQ3lkgBPQqWHDhGuwHgc0jm9Ofd8k8E5056HLutLtYNelisbeezqMo25TC85b3psqEyFmI=;gr51EzVdzq/yuYVsjIjSrw=="

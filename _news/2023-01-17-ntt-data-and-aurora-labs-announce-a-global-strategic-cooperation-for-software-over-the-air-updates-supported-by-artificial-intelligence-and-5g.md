@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Yobi, the Customer Communication App Connecting Multiple Channels, Announces Advanced New AI Features for a Supercharged Experience"
+    excerpt: "Yobi, the customer communication app for businesses designed to enhance customer relationship management (CRM) by unifying multiple communication channels, announced two new AI-powered features today."
+    publishedDateTime: 2023-01-18T14:25:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/18/9745276.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "VHM3E3nFbR1w+XNt9HAA/V0ukzcPFoNnJYPc9jIrzUS5stK9aoPIR8G4VuLl7hah1ukAAfe8Neb2jbP3DHquXJY1lA1kpevmrjg/K8MI8x0NkZ6m9L1iLRnJhPMjYMVn4wukvEJklyzlRlvq2oIPmkFu/XEf2FuQhGON593KRtsW992LhlmJm3hYu+uq9DYXtcM4UkDBNJpRFizjsb/F+td3fhEwkHnbeQ71wj1dc6ECzhxUwk5Mmp2tc2X3xf3BOy1CtOgXi3zW8pjagAC1wRPdZZEq8X+QY71EMBJbe3DpT+SyBSlO6XPYPOq6BZO705WSoqI/4nN6yNaOwKd7qbNRv/EY9cLTJy36nRFHAx1lBUlsmaYCYgyKoKyCN04rigG+CQeej0rz9RfQNqB4gnfq84ebImV/Pno8QtCFOC1RZnl+NGl28cPCOK9JcXRrbZfpqVhmQ8DkKERcdlSLgSNtMQXpiODIGyG0oWaw4biza/4bFabDnjxrNx0MzXQ+CC0/ZwKkGJmiD9x5qQMwkA==;oupyeJo+zJLZ0A94ykC+4g=="
 ---
 

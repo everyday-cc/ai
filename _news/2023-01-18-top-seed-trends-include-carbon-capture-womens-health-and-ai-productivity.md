@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-18T13:30:00Z
 originalUrl: "https://news.crunchbase.com/seed/trends-carbon-capture-womens-health-ai-productivity/"
 webUrl: "https://news.crunchbase.com/seed/trends-carbon-capture-womens-health-ai-productivity/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: news.crunchbase

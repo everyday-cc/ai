@@ -63,6 +63,15 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 19
+  - title: "Quris-AI and MBZUAI to launch world-class Bio-AI center in Abu-Dhabi"
+    excerpt: "Quris-AI and Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) signed an agreement during Abu Dhabi Sustainability Week (ADSW) to develop a world-class Bio-AI center in Abu Dhabi. The state-of-the-art facility will support the development of personalized medications,"
+    publishedDateTime: 2023-01-18T11:33:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/18/9744889.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "2ZeP4wpFhuj3JqCeZrQD802E1HHUWnxNZGLcmGnVtTILSHbagjJYgJCVwhN6ngoOjal5Xtct2rWo6Hjrmy8pRfEb3XC1ygF8jPxxpzPH8CquVG0nfseB4JpArGT/OLa8cStVnj+/5c3bxag5Yp/kMli95f3oao4qim1FapOTqQZRTux8UL5+IUh6jWr1OkB+gNJkbFpQ66+fCGAdkwqigIVrIpuYDNbD8L1i49jN6dx4yiFYAlD/UBoCzgEtQ1grkcYlIkyp5tgvAzbekI+7vfbEpL7P85l1Rve/mbu1HiOVz8tsK1doBMBjNMfosQ1cqhgLNSDWAb24SEBeuSBm2l/ML+5zk+XP/gE4stzjJ1qqjlYo72PtsdxxlY1x+yCsFaUwhXOCsRhDtCggcgfiUPlUEJP2d0gG0TlPMWPn1UYj2w2SWQnp9kxcyXBmc2ikrkPA6YZvpC1B/TdUDMK9TH14UTahYFAUzWSIldwlTTDbYdpHPx+IwM2CjALRw5bSYkbve7bL8k96QJZjtXcWsg==;hXWzdQvyH+4oLI+KwZxB2A=="
 ---

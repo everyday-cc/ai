@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-18T14:19:00Z
 originalUrl: "https://www.prnewswire.co.uk/news-releases/semi-technologies-becomes-weaviate-301724760.html"
 webUrl: "https://www.prnewswire.co.uk/news-releases/semi-technologies-becomes-weaviate-301724760.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: PR Newswire

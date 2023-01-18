@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-18T14:25:00Z
 originalUrl: "https://technews.tmcnet.com/news/2023/01/18/9745164.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/01/18/9745164.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

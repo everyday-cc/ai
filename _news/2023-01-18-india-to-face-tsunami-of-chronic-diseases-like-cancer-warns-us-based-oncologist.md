@@ -43,22 +43,15 @@ related:
         width: 345
         height: 230
         isCached: true
-  - title: "India to face ‘tsunami’ of chronic diseases like cancer: US-based oncologist"
-    excerpt: "India will face a tsunami of chronic diseases such as cancer due to globalization, growing economy, aging population and changing lifestyle, warns a leading oncologist, making it imperative for the nation to embrace technology-driven medical techniques to prevent health catastrophes in an effective manner."
-    publishedDateTime: 2023-01-18T12:04:00Z
-    webUrl: "https://indianexpress.com/article/lifestyle/health/india-tsunami-chronic-diseases-like-cancer-us-based-oncologist-8389903/"
-    ampWebUrl: "https://indianexpress.com/article/lifestyle/health/india-tsunami-chronic-diseases-like-cancer-us-based-oncologist-8389903/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/lifestyle/health/india-tsunami-chronic-diseases-like-cancer-us-based-oncologist-8389903/lite/"
+  - title: "India to face 'tsunami' of chronic diseases like cancer: US-based oncologist"
+    excerpt: "As per the Globocan estimates, the cancer burden worldwide is expected to be 28.4 million cases in 2040, a 47 per cent rise from 2020, due to demographic changes."
+    publishedDateTime: 2023-01-18T13:22:00Z
+    webUrl: "https://www.newindianexpress.com/nation/2023/jan/18/india-to-face-tsunami-of-chronic-diseases-like-cancer-us-based-oncologist-2539039.html"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 41
-    images:
-      - url: "https://images.indianexpress.com/2023/01/cancer-1.jpg"
-        width: 1200
-        height: 667
-        isCached: true
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 1
 
 secured: "8cs0hypNjq8ESarzguDEjtI4rP0/bJh9gLUlqMPn0B4iPj07+waGS5B4I7hfUTOOzO9y/yQnQ5Fy5akt4rvdPoNG9Do0bH/0yOE1IFdsov4RTlEkFz1PlKRSEGxY21mjauPsGuDJw+Is6XM9611XG+V3FhTXtC+NczwWV/mdDpWxvgIJ6/6F/vxupCAjpMtfuh57T5DcTWMn7qhkJjvDVVq2l5KlENgv8RKZfftg6iU/fiW3P0UtRBvYPvE5BM8+38zpbKFK3ouDhbTI+U3KYH0ZNPE93oVMargt6YzE+HT6TUvfV15PreETlULzbWdtxu1O7QLKVJo6mKdFVtgxeU6szP8Yg6FYlfYh5nAVMv60Phwc3kIbCAdGRLHCRJNxsB7eort28figlLm08c55BY6PqbMagssoW6o7YnNkFb8HKXuKflJwv2QQnu73n5wH/fFWNrdHW7GxM7sczUwTt4/3I+dmHbFtXu6Z6vvNYSYDPGK+JapmnvyH2nOGNrQCPeO8dmcOpcBOUDeBGH6IdQ==;mtBC8fBTHXLrCEtZBjmb6w=="
 ---

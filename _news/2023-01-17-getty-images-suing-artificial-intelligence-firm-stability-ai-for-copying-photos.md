@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "The Morning After: Getty Images sues AI art generator"
+    excerpt: "Twitter admits it’s intentionally breaking third-party apps, Getty Images sues AI art generator over data-scraping allegations, Samsung’s new 200-megapixel sensor will probably appear in the Galaxy S23 Ultra."
+    publishedDateTime: 2023-01-18T12:48:00Z
+    webUrl: "https://www.engadget.com/the-morning-after-getty-images-sues-ai-art-generator-121539563.html"
+    ampWebUrl: "https://www.engadget.com/amp/the-morning-after-getty-images-sues-ai-art-generator-121539563.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-getty-images-sues-ai-art-generator-121539563.html"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-11/a0f17a10-6caf-11ed-adef-6471c8c12f2e"
+        width: 1536
+        height: 768
+        isCached: true
   - title: "Getty Images targets AI firm for 'copying' photos"
     excerpt: "Stability AI runs a tool called Stable Diffusion that allows users to generate mash-up images from a few words of text, but the firm uses material it scrapes from the web often without permission. The question of copyright is still in dispute,"
     publishedDateTime: 2023-01-18T04:47:00Z
@@ -62,7 +78,7 @@ related:
   - title: "Getty Images suing the makers of popular AI art tool for allegedly stealing photos"
     excerpt: "Getty Images announced a lawsuit against Stability AI, the company behind popular AI art tool Stable Diffusion, alleging the tech company committed copyright infringement."
     publishedDateTime: 2023-01-17T19:48:00Z
-    webUrl: "https://www.cnn.com/2023/01/17/tech/getty-images-stability-ai-lawsuit/index.html"
+    webUrl: "https://edition.cnn.com/2023/01/17/tech/getty-images-stability-ai-lawsuit"
     type: article
     provider:
       name: CNN

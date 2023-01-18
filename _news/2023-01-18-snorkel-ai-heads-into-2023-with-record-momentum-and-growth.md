@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-18T14:25:00Z
 originalUrl: "https://venturebeat.com/business/snorkel-ai-heads-into-2023-with-record-momentum-and-growth/"
 webUrl: "https://venturebeat.com/business/snorkel-ai-heads-into-2023-with-record-momentum-and-growth/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

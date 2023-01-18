@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "A Tesla crashed into a fence during filming for the company's self-driving ad, Autopilot director testified"
+    excerpt: "An engineer said the car crashed into a fence trying to park itself and that drivers had to take control in test runs for the video, Reuters reported."
+    publishedDateTime: 2023-01-18T16:41:00Z
+    webUrl: "https://www.businessinsider.com/tesla-crashed-fence-filimg-autopilot-fsd-self-driving-ad-report-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/tesla-crashed-fence-filimg-autopilot-fsd-self-driving-ad-report-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-crashed-fence-filimg-autopilot-fsd-self-driving-ad-report-2023-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/63c7fef7eee94d001a78c743?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Engineer: Tesla Self-Driving Demo Video Was Staged"
     excerpt: "Tesla video promoting and demonstrating self-driving technology was staged, according to testimony by a senior engineer."
     publishedDateTime: 2023-01-18T06:26:00Z
@@ -136,6 +152,22 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/6a16ac686af8b80dd1c5c6e6faf178db_L.jpg"
         width: 620
         height: 465
+        isCached: true
+  - title: "Tesla faked 2016 self-driving video, according to engineer's deposition testimony"
+    excerpt: "Tesla staged a video showing its self-driving capability, Ashok Elluswamy, director of Autopilot, said in a 2022 deposition."
+    publishedDateTime: 2023-01-18T13:54:00Z
+    webUrl: "https://www.autoblog.com/2023/01/18/tesla-faked-self-driving-video-deposition-testimony/"
+    ampWebUrl: "https://www.autoblog.com/amp/2023/01/18/tesla-faked-self-driving-video-deposition-testimony/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/01/18/tesla-faked-self-driving-video-deposition-testimony/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 54
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/6015x3383+0+947/resize/800x450!/format/jpg/quality/85/https://media.zenfs.com/en/insider_articles_922/8050fe51a55b97368be98f6f319f1a38"
+        width: 800
+        height: 450
         isCached: true
   - title: "Tesla Staged Self-Driving Video, Engineer Reportedly Says—In Latest Blow To Autopilot Claims"
     excerpt: "The video ends with a Tesla apparently parallel parking itself, but the car actually crashed into a fence without driver assistance, a Tesla senior engineer said in a deposition obtained by Reuters."

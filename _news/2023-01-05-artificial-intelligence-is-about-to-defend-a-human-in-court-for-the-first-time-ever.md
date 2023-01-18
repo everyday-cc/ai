@@ -5,6 +5,8 @@ excerpt: "ARTIFICIAL Intelligence is breaking a new frontier, with a company tea
 publishedDateTime: 2023-01-04T18:20:00Z
 originalUrl: "https://www.thesun.ie/tech/news-tech/9999684/artificial-intelligence-defend-a-human-in-court-first-time/"
 webUrl: "https://www.thesun.ie/tech/news-tech/9999684/artificial-intelligence-defend-a-human-in-court-first-time/"
+ampWebUrl: "https://www.thesun.ie/tech/news-tech/9999684/artificial-intelligence-defend-a-human-in-court-first-time/amp/"
+cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/news-tech/9999684/artificial-intelligence-defend-a-human-in-court-first-time/amp/"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "CtfKkH9koJbUz1OT6Pqw7UrkZERH/iyklVrV867X5F1rqgWfjIjYldZl9P+9PYhvslRF/pzYcUpFfjznxNUnAWYbWul88Y+WoNtc46QG8Ss8gm2I21e6EVGHDRcDqH2nzNQFrWdH5XdojHRiHW2fDuFiJOxiAn63m9DCoVVEz1W/wntWMNDr0UtkB3zzXnxt0wj+yPO6uAml4pXD54e4jlzruyRDkHXmsp2JfbIHgFEXGabVGSdxfkowi7/t1gU/4dc/puXv2Uqgax7qLf3anNqPlN9hC03GUlo/Jf6CT45QDtAz4DA/vUhulayWBXC3Y7C4xEM8zm+znt2N1F2VLCTLkS4+xVz02Jh319GSIew=;OcjdrKnP05npgX4rexdeGQ=="
+images:
+  - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2023/01/MF-AI-Court-OFFPLAT.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+    width: 1920
+    height: 1080
+    isCached: true
+
+secured: "DWRYm6WycJIxfFlHuks/O7UrtHRRdJGbopZzCsmaPnrgAgwNgfhYVTCGi+xPcdA6gYRWz/OJc/WHSbYNvFFKwQrJPRGu3hxME/lm8nzd2ELTJ6lAECh80ECmoXC+zOB8XmhxRFsY87cQEzuKZs2kikvPa+nM014TLoiQ27xdoz/6qCLnAYHdJs3x4I2bbCbLRneejecmXZpkubtpOnJJ51z+jWPRgbfj5cJ4eOMVlEWxh59aonfTAE8MgyNGRAujduW2IimPB4tMj/y45iqWM4g0gsFpcnzWEDwYyfn1fIJyKhdxdtoRwDVYCPZMwXKwGuzkx65jYiFmMvriOCrGsude7sOelFO/MXA/W5LzBFQ=;3JRklROJYtNKPd8/cDIS7w=="
 ---
 

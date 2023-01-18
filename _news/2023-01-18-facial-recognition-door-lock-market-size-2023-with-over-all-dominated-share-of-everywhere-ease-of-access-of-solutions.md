@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition gates by JR West to launch at Osaka train station in March"
+    excerpt: "The facial recognition tickets gates will be installed at Osaka Station's Umekita Underground Exit and Shin-Osaka Station's East Exit."
+    publishedDateTime: 2023-01-18T16:29:00Z
+    webUrl: "https://www.biometricupdate.com/202301/facial-recognition-gates-by-jr-west-to-launch-at-osaka-train-station-in-march"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 51
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
   - title: "AI and Machine Learning Operationalization Software Market is Taking Hike in Revenue Along With Top Key Players Profile and Forecast 2023 To 2028"
     excerpt: "AI and Machine Learning Operationalization Software Market Size is projected to Reach Multimillion USD by 2029,"
     publishedDateTime: 2023-01-18T02:13:00Z
@@ -85,15 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Iris Recognition Market Report 2022 to 2028: Adoption of Biometric Technologies in the Defence and Automobile Industries Drives Growth"
-    excerpt: "The Global Iris Recognition Market size is expected to reach $8.9 billion by 2028, rising at a market growth of 15.6% CAGR during the forecast period. Iris recognition is a precise and effective technology for protecting information,"
-    publishedDateTime: 2023-01-13T22:28:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/01/13/9743228.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "YZoZg49fHX34lAYajAV3xzivXWwzd3lXKpzDlI+8IsfNP21tGjxldtElkwtF7kMnLWr7AytUuYzzlJzUWUoni/T7xX1Wz8NyM8uAZ2+eQA/kpPZEJpFkR3+F86/nwvs+oWxKpXzDNG4mxcUuDfYqOtXaNLBcgWU4/CAIkrRAko+nz7vnmqig8GtFAsXki04xLSSmVh/gFX62gQf3/DrB0k/odWhvzkLg89ipqdi5oMN6WIIWWdsX01HeJUFaDHCbkANqmvYBHPLkp+T/iqLw1jYh4PBsUHoSUUhHnMzycvsMmuKladBjboifprUvGI+Bqn05wa+ADWKxudR4IeF50d78vW8NO1eEp29aQ7Rtuf8=;ZhWoj3bMs7Bl9W5DHxNkkg=="
 ---

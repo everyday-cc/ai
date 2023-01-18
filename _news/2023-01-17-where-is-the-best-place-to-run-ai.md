@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 754
         isCached: true
+  - title: "How AI is giving a boost to recruiting for the jobs that are toughest to fill"
+    excerpt: "As employers struggle to fill vacant jobs, artificial intelligence (AI)-powered recruiting and human resources tools can help."
+    publishedDateTime: 2023-01-18T13:30:00Z
+    webUrl: "https://venturebeat.com/ai/how-ai-is-giving-a-boost-to-recruiting-for-the-jobs-that-are-toughest-to-fill/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 46
   - title: "The AI revolution is upon us. These are the jobs at risk and in demand"
     excerpt: "Artificial intelligence is no longer the stuff of science fiction, and its impact on the workforce will be profound. Here's what you need to know."
     publishedDateTime: 2023-01-15T18:49:00Z

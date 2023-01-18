@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-18T14:00:00Z
 originalUrl: "https://www.discovermagazine.com/the-sciences/archaeological-treasures-hide-beneath-the-colosseum"
 webUrl: "https://www.discovermagazine.com/the-sciences/archaeological-treasures-hide-beneath-the-colosseum"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Discover Magazine

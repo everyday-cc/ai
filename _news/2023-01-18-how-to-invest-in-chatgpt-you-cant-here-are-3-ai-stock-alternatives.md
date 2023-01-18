@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-18T11:15:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/how-to-invest-in-chatgpt-you-cant-here-are-3-ai-stock-alternatives-1032025067"
 webUrl: "https://markets.businessinsider.com/news/stocks/how-to-invest-in-chatgpt-you-cant-here-are-3-ai-stock-alternatives-1032025067"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -72,6 +72,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Nick Cave says ChatGPT's AI attempt to write Nick Cave lyrics 'sucks'"
+    excerpt: "Nick Cave has written a scathing review of an artificial intelligence system that tried to write a song \"in the style of Nick Cave\". The Bad Seeds frontman responded after a fan sent him lyrics written by ChatGPT,"
+    publishedDateTime: 2023-01-17T11:47:00Z
+    webUrl: "https://bbc.co.uk/news/entertainment-arts-64302944.amp"
+    ampWebUrl: "https://bbc.co.uk/news/entertainment-arts-64302944.amp"
+    cdnAmpWebUrl: "https://bbc-co-uk.cdn.ampproject.org/c/s/bbc.co.uk/news/entertainment-arts-64302944.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17964/production/_128321669_gettyimages-463824907.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Here are the 12 top power players at Google leading the fight in AI against the smash hit ChatGPT"
     excerpt: "ChatGPT could influence Google's dominance in search. Here are the 12 people inside the search giant developing AI-based technology to keep up."
     publishedDateTime: 2023-01-18T10:07:00Z
@@ -86,6 +102,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Nick Cave really doesn't like AI bot ChatGPT"
+    excerpt: "Cave has a famously close relationship with his fans, one of whom sent a song \"written\" by ChatGPT \"in the style of Nick Cave.\" The whole blog from Cave is worth reading, but among some wonderful and wise observations,"
+    publishedDateTime: 2023-01-17T18:01:00Z
+    webUrl: "https://mashable.com/article/nick-cave-chatgpt"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 47
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
     publishedDateTime: 2023-01-17T18:30:00Z
@@ -102,6 +127,15 @@ related:
         width: 880
         height: 542
         isCached: true
+  - title: "AI Committee chairman downplays fears over ChatGPT misuse"
+    excerpt: "The Chairman of the Artificial Intelligence Committee at the Ministry of Communications and Information Technology (MCIT), Hassan Jassim al-Sayed, downplayed the fears over"
+    publishedDateTime: 2023-01-16T20:26:00Z
+    webUrl: "https://www.gulf-times.com/article/653452/qatar/ai-committee-chairman-downplays-fears-over-chatgpt-misuse"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 19
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
     publishedDateTime: 2023-01-17T15:30:00Z
@@ -116,6 +150,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence software ChatGPT’s mock exam answers pass plagiarism checks, but AI detection software available"
+    excerpt: "Universities are having to adapt to combat potential plagiarism using artificial intelligence. Dr Popenici also encouraged education institutions to embrace AI. “Let’s use AI to enhance more significant ways to assess what our students learn and what ..."
+    publishedDateTime: 2023-01-18T12:03:00Z
+    webUrl: "https://www.goldcoastbulletin.com.au/news/queensland/artificial-intelligence-software-chatgpts-mock-exam-answers-pass-plagiarism-checks-but-ai-detection-software-available/news-story/7e612a21840fbb19eb6f8f3422d9d087"
+    type: article
+    provider:
+      name: Gold Coast Sun
+      domain: goldcoastbulletin.com.au
+    quality: 7
 
 secured: "7e3szVWPl7IE7LdBWnCXXf9GHzC/ZtDfeqVlbxjGypPCw3Sw3duId8HbLdtqTdxt2frFZD6hUxF8gju0vx9XhZKksnJ3GtF4VkeFf3e9HN0vomtafIcWA7cAs9D8kyE1bUIMz88jvhZBrdQmIzMamGxbRIMUqNGnGS60HFxp279KnkYavfXB3lbR2shxeZYtSVmyJ4/qwA9Nz+jYfEiZJnqcxmdAEae3ucthIcqo9KlwjqJ6nl6g8s+9SPQx9wmAhla32k2qQhKIGtKkB7v3U3xzC/jICW25UVT+B/z5PRhJPDsbESi18kfp96mUe53AIZ/08OzPzj37B9dodqz2MzASF5XlK3OoYH6l4arpiaAG/npD/zru6l0ZiUOyGO7wWOfoED+lvBzsHg9SJxmUf7ux6vy6WT6fKheDYg4ijavKOssMO9xfYngbGUymxG47YYal2j0hWyMLz6o+AOojJ+P9CN8d2BpIBH6gPhyIeST+H8AdnUajyIaeIp21QTu/02L3DtqxmcdhnbZyMAGoVw==;glqesGZqEDpSFIaofwN28w=="
 ---

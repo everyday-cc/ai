@@ -121,6 +121,15 @@ related:
         width: 718
         height: 404
         isCached: true
+  - title: "Google Research and DeepMind develop AI medical chatbot"
+    excerpt: "A new AI-powered medical-specific chatbot developed by Google and DeepMind has shown some potential for clinical applications."
+    publishedDateTime: 2023-01-18T13:35:00Z
+    webUrl: "https://www.digitalhealth.net/2023/01/google-research-and-deepmind-develop-ai-medical-chatbot/"
+    type: article
+    provider:
+      name: Digital Health
+      domain: digitalhealth.net
+    quality: 34
 
 secured: "qLYagjqzY2wrkkLrj6PiG7RVDcrJ03Y1hBe3ImqDzPnlRWXRxm79Z7OFYPW/ZWovZ7p5NaBZAWaSKgH5AHRLgkCoowdkM6ggEstIs98DVCmfE65Cumjw6yBUkPihGAiXkvPXbfCnZ51Sarx09pMR3UcUU6WregNe/1FlcGnRsbn3gh/zbANtTa45W7UKNWrdUig4HUfd+HnEpYOppQsKXhPqqY+Ei0HSjAmnVCa1sSfm+Yu3Y+A3hbHnbggO2Ufj5y7xvxetFgOFB+k3p5hNuv1fewPJ6/BPq38tAsuPh9CKHGEcOOYVvElyJNqHSlaTOl+Ggep78kjT3vfhdzIgjwvu9ghhOxElL8rZlU3hseAb7TspUvYuUsfPiNcGqLtbeaSfs4BycP1KZPbXLPRdUTjwtQT67SfkmV1S+2U0T/zLNh+JJ/sPdn0dG+/nCpw7GKQ2YQmPkpxgHeLdPGqI5Cp6uSRJGA09NmyaVVQ5p0njBDJUo38odedy7Kz0jJWVeE0VvMAzWfqZrjKWaPcQIQ==;vFSYD6K3bt7XLY0Wl5IygQ=="
 ---

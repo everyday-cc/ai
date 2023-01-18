@@ -60,6 +60,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Nick Cave says ChatGPT's AI attempt to write Nick Cave lyrics 'sucks'"
+    excerpt: "Nick Cave has written a scathing review of an artificial intelligence system that tried to write a song \"in the style of Nick Cave\". The Bad Seeds frontman responded after a fan sent him lyrics written by ChatGPT,"
+    publishedDateTime: 2023-01-17T11:47:00Z
+    webUrl: "https://bbc.co.uk/news/entertainment-arts-64302944.amp"
+    ampWebUrl: "https://bbc.co.uk/news/entertainment-arts-64302944.amp"
+    cdnAmpWebUrl: "https://bbc-co-uk.cdn.ampproject.org/c/s/bbc.co.uk/news/entertainment-arts-64302944.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17964/production/_128321669_gettyimages-463824907.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Here are the 12 top power players at Google leading the fight in AI against the smash hit ChatGPT"
     excerpt: "ChatGPT could influence Google's dominance in search. Here are the 12 people inside the search giant developing AI-based technology to keep up."
     publishedDateTime: 2023-01-18T10:07:00Z
@@ -82,7 +98,16 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 53
+    quality: 55
+  - title: "Nick Cave really doesn't like AI bot ChatGPT"
+    excerpt: "Cave has a famously close relationship with his fans, one of whom sent a song \"written\" by ChatGPT \"in the style of Nick Cave.\" The whole blog from Cave is worth reading, but among some wonderful and wise observations,"
+    publishedDateTime: 2023-01-17T18:01:00Z
+    webUrl: "https://mashable.com/article/nick-cave-chatgpt"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 47
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
     publishedDateTime: 2023-01-17T18:30:00Z
@@ -99,6 +124,15 @@ related:
         width: 880
         height: 542
         isCached: true
+  - title: "AI Committee chairman downplays fears over ChatGPT misuse"
+    excerpt: "The Chairman of the Artificial Intelligence Committee at the Ministry of Communications and Information Technology (MCIT), Hassan Jassim al-Sayed, downplayed the fears over"
+    publishedDateTime: 2023-01-16T20:26:00Z
+    webUrl: "https://www.gulf-times.com/article/653452/qatar/ai-committee-chairman-downplays-fears-over-chatgpt-misuse"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 19
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
     publishedDateTime: 2023-01-17T15:30:00Z
@@ -113,6 +147,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence software ChatGPT’s mock exam answers pass plagiarism checks, but AI detection software available"
+    excerpt: "Universities are having to adapt to combat potential plagiarism using artificial intelligence. Dr Popenici also encouraged education institutions to embrace AI. “Let’s use AI to enhance more significant ways to assess what our students learn and what ..."
+    publishedDateTime: 2023-01-18T12:03:00Z
+    webUrl: "https://www.goldcoastbulletin.com.au/news/queensland/artificial-intelligence-software-chatgpts-mock-exam-answers-pass-plagiarism-checks-but-ai-detection-software-available/news-story/7e612a21840fbb19eb6f8f3422d9d087"
+    type: article
+    provider:
+      name: Gold Coast Sun
+      domain: goldcoastbulletin.com.au
+    quality: 7
 
 secured: "6U8na6OF9Cfpbn3FBs1Aw1Ia9qA8yD4WwklyjCPscz1QFPxQx2revT2YC+C41VTWaA8JVom5Zaikkfk1Y+kGMiMMIlCrVLc2Zmc1WmsidwCojQZiYsYwHRjySX7+52JHTOntjQhGYKxPBtD7GhVnsc+Lu/+05258hqySCrVboIQIMBxCQ+REnihxqvSeExY0Y9MhQbACYqyYsc4IC9cVA2GfwwjBET/GDvvv62EeuXoeLc76287370Uw8P/Jh93zNPz73nXI1BgQqSSqQ+H3PljgDhH3t6d5WuDQCu8GjO/jt0pC2UCjrSGn9rverzv6Z6ZoRCLmjPX6vPEJrlj4kKFd5ZAsSBUfw7D4AjDOoWo2pnxqDSJgaOJWaFgiSOh5o3DAwyf7xqa7DiQIPf6QiqogjtifPZyjmskNrFXnKJHL1HOaHxrOxKif+BGcHOVduvMkCgNv7Z0KrqxbUeGQ8kf+DDIUQURXY4JdU+eojNEMJ2f/1qSomTuv+w221dtBSeOdovHvc952MwqdsLbdZA==;ES74jetM9gTLcxZqTWyDNA=="
 ---

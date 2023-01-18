@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-15T05:16:00Z
 originalUrl: "https://www.financialexpress.com/lifestyle/machine-machinations-how-tech-remains-both-a-divisive-and-unifying-force-can-be-disturbing/2948383/?ref=Must_Read"
 webUrl: "https://www.financialexpress.com/lifestyle/machine-machinations-how-tech-remains-both-a-divisive-and-unifying-force-can-be-disturbing/2948383/?ref=Must_Read"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: The Financial Express

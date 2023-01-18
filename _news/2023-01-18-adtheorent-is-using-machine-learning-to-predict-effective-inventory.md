@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-18T13:00:00Z
 originalUrl: "https://www.adexchanger.com/online-advertising/adtheorent-is-using-machine-learning-to-predict-effective-inventory/"
 webUrl: "https://www.adexchanger.com/online-advertising/adtheorent-is-using-machine-learning-to-predict-effective-inventory/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: adexchanger

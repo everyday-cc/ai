@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-18T13:07:00Z
 originalUrl: "https://www.cnet.com/tech/computing/apples-m2-pro-and-max-repeat-a-successful-chip-upgrade-strategy/"
 webUrl: "https://www.cnet.com/tech/computing/apples-m2-pro-and-max-repeat-a-successful-chip-upgrade-strategy/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: CNET

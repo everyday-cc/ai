@@ -71,6 +71,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Nick Cave says ChatGPT's AI attempt to write Nick Cave lyrics 'sucks'"
+    excerpt: "Nick Cave has written a scathing review of an artificial intelligence system that tried to write a song \"in the style of Nick Cave\". The Bad Seeds frontman responded after a fan sent him lyrics written by ChatGPT,"
+    publishedDateTime: 2023-01-17T11:47:00Z
+    webUrl: "https://bbc.co.uk/news/entertainment-arts-64302944.amp"
+    ampWebUrl: "https://bbc.co.uk/news/entertainment-arts-64302944.amp"
+    cdnAmpWebUrl: "https://bbc-co-uk.cdn.ampproject.org/c/s/bbc.co.uk/news/entertainment-arts-64302944.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17964/production/_128321669_gettyimages-463824907.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Here are the 12 top power players at Google leading the fight in AI against the smash hit ChatGPT"
     excerpt: "ChatGPT could influence Google's dominance in search. Here are the 12 people inside the search giant developing AI-based technology to keep up."
     publishedDateTime: 2023-01-18T10:07:00Z
@@ -93,7 +109,16 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 53
+    quality: 55
+  - title: "Nick Cave really doesn't like AI bot ChatGPT"
+    excerpt: "Cave has a famously close relationship with his fans, one of whom sent a song \"written\" by ChatGPT \"in the style of Nick Cave.\" The whole blog from Cave is worth reading, but among some wonderful and wise observations,"
+    publishedDateTime: 2023-01-17T18:01:00Z
+    webUrl: "https://mashable.com/article/nick-cave-chatgpt"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 47
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
     publishedDateTime: 2023-01-17T18:30:00Z
@@ -110,6 +135,24 @@ related:
         width: 880
         height: 542
         isCached: true
+  - title: "AI Committee chairman downplays fears over ChatGPT misuse"
+    excerpt: "The Chairman of the Artificial Intelligence Committee at the Ministry of Communications and Information Technology (MCIT), Hassan Jassim al-Sayed, downplayed the fears over"
+    publishedDateTime: 2023-01-16T20:26:00Z
+    webUrl: "https://www.gulf-times.com/article/653452/qatar/ai-committee-chairman-downplays-fears-over-chatgpt-misuse"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 19
+  - title: "Artificial intelligence software ChatGPT’s mock exam answers pass plagiarism checks, but AI detection software available"
+    excerpt: "Universities are having to adapt to combat potential plagiarism using artificial intelligence. Dr Popenici also encouraged education institutions to embrace AI. “Let’s use AI to enhance more significant ways to assess what our students learn and what ..."
+    publishedDateTime: 2023-01-18T12:03:00Z
+    webUrl: "https://www.goldcoastbulletin.com.au/news/queensland/artificial-intelligence-software-chatgpts-mock-exam-answers-pass-plagiarism-checks-but-ai-detection-software-available/news-story/7e612a21840fbb19eb6f8f3422d9d087"
+    type: article
+    provider:
+      name: Gold Coast Sun
+      domain: goldcoastbulletin.com.au
+    quality: 7
 
 secured: "FGTHr9q7MG76tFeFVPXi031EuIJ/2oALnKBcBINekwFEy/4YkAAIaGHvpuPjlDPdAFMTa7qCWCIXy8eaG8QwVxXFPKLdPiGb2Ac4Vd5l3+VH2xRTp1l3Lpnzm1VAYAM3ENQJaWWUUyLdGNeQrQCrCrqnwHc8H2IygvCqtVWWTMeGRmZJF9XLBjkqd4cuMMU35dlq7NMsBJ0Qd4agX3yU069IjpcwEsxoqvayuuk6YGcJ0rxxdnzseCIV2w9ZJyEv043O0zoynRe4B1lz+XaHVtmo//ye4/F4MygRPiMJwBjSl0Z/YrjwJ96y67W45HrVHXC+IBkfREvfD/KvIjbv9HunrU5MikVrpDbJCot/XeGICp+tqs9Qdi+0G12tco7C0aSyIAeAozvYZK+gQ5/4Y8IKG+iFniMeO+rIophKtohVKtJhJCYegJS1aiaosxU97zrhOJHcI4vpKbDW6kAqBEp1nrE8CoYryFikDhkf/Dl7dV1vLsg19g7fl6CKqyiHBT5oCUBk9yZNcxAC0wSAoQ==;wJM9bWd7YwlFx4bJLlKtTQ=="
 ---

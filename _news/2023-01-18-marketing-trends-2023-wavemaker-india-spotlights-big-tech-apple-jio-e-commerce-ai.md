@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-18T11:51:00Z
 originalUrl: "https://www.moneycontrol.com/storyboard18/storyboard18/how-it-works/marketing-trends-2023-wavemaker-india-spotlights-big-tech-apple-jio-e-commerce-ai-4993.htm"
 webUrl: "https://www.moneycontrol.com/storyboard18/storyboard18/how-it-works/marketing-trends-2023-wavemaker-india-spotlights-big-tech-apple-jio-e-commerce-ai-4993.htm"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:

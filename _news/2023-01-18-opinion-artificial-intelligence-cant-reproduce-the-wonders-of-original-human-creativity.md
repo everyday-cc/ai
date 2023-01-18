@@ -88,6 +88,15 @@ related:
       name: Sun Sentinel
       domain: sun-sentinel.com
     quality: 50
+  - title: "(Opinion) Sheldon Jacobson: How facial recognition will transform airport security"
+    excerpt: "Imagine using technology that never forgets a face, while improving airport security and shortening lines. Such technology exists and may be coming to an airport near you. Every flyer over the past two decades knows that airport security procedures involve a lot of unpacking,"
+    publishedDateTime: 2023-01-18T14:00:00Z
+    webUrl: "https://www.greeleytribune.com/2023/01/18/opinion-how-facial-recognition-will-transform-airport-security-checkposts/"
+    type: article
+    provider:
+      name: The Greeley Tribune
+      domain: greeleytribune.com
+    quality: 45
 
 secured: "jb/7lgi2KnGU7ExR8l4N37MRypcqjdN4BU2w8qe5oX8yLlL0+DURaat0w3Lrho2pESy0W4rbrKaTcF4aXyHyfDXo/+duJrC6Fye1Of0NHL1RZrwN2ECMaOgqbM4msc8pLevyFrdVYupzk7ylFkycQHraWwl0LsDxYT56avNHAE18muKb/yxQy2sXaqlqUstcNMJX+h9mZSMONPztkPJVnlsQlNooekfMziuZNzgsff0bcwBYJhb+wrs+QvgTVs2TIWXZZogTGvCl+j8MpAxY9nqNhlSSHs9bZs87SPMb4U2n4mcWKt+OMD9YS+P7MeS0rNGtKY0Te4otO29RqglWFwvd5D7CEayBBxiYuDkBhnc=;WLyYY2w2kqtLUWFhc8YVqA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-ca
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/"
 type: article
 quality: 99
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -121,6 +121,15 @@ related:
         width: 718
         height: 404
         isCached: true
+  - title: "Google Research and DeepMind develop AI medical chatbot"
+    excerpt: "A new AI-powered medical-specific chatbot developed by Google and DeepMind has shown some potential for clinical applications."
+    publishedDateTime: 2023-01-18T13:35:00Z
+    webUrl: "https://www.digitalhealth.net/2023/01/google-research-and-deepmind-develop-ai-medical-chatbot/"
+    type: article
+    provider:
+      name: Digital Health
+      domain: digitalhealth.net
+    quality: 34
 
 secured: "eT9cTVGIzhaupT0sK+dHSkwt6TiFoaKm+PYakzN/1aUsCnE4tlyycZMC09L1c74wmElGl3NFBPymT4PHHNaSxGZbZNmm9fRzmOMseO98qtOmCnOvjU+w9S9m7ZtYGt5+/ig7xU8iLvvkyw62Mpo4miX0Q9b9Pdg9aQ5PQnIXmC/kcb4HNqGfCVg2YOr/FWfO0sJZo9nwz5HXY7Z4u22aMsA5O6G3qBQiHUpY3rRWuOEBluNspqhHGwNUYzHg7rYoOZI6p1spMI8tCPkvJXaHPHePqHtWlFKeWJ/A9NkD2LNL8W2oadIMWWyuiLZ9F48Uaf6tIQ56cgPDYhWHsnioTp+rpKUHraynSIwuTZ6MqWKrKeZbaVFteYJBwhNEPwPpoehiqhb72ncVPSw11zLpvRVG+Bck6YaBLXpGV7lfz8Jr7DEl8osZBzV4PxyLslVPnHiz0hyU38hCCxjZRbkiXkyHVOsysM+YuatSjnZaPD8QgkCkPXXa+cL1Dj5iGieFdZIZpLTsxwcsyUQFLFJEuA==;krlqlwRJe69JvMga1dI8IQ=="
 ---

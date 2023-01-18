@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-18T13:08:00Z
 originalUrl: "https://diginomica.com/ai-bill-rights-industry-should-police-itself-claims-ml-company"
 webUrl: "https://diginomica.com/ai-bill-rights-industry-should-police-itself-claims-ml-company"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
   name: Diginomica

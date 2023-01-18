@@ -68,6 +68,15 @@ related:
       name: Neuroscience News
       domain: neurosciencenews.com
     quality: 34
+  - title: "Transformer-based deep learning for predicting protein properties in the life sciences"
+    excerpt: "The recent developments in large-scale machine learning, especially with the recent Transformer models, display much potential for solving computational problems within protein biology and outcompete traditional computational methods in many recent studies and benchmarks."
+    publishedDateTime: 2023-01-18T14:10:00Z
+    webUrl: "https://elifesciences.org/articles/82819"
+    type: article
+    provider:
+      name: eLife
+      domain: elifesciences.org
+    quality: 13
 
 secured: "uCJWKWe1b/SO+PbBuHUz7inr+264+I0EJgP5arF3HYzpXxRFxiLNN6YIaZUrhPxc3kcerJJffD49hDRoWq0JqFUOmsIQiUKWn9d+PRLP7511hLL2eaFMN+HW+RBCUjvUoUB4L2EtpPdCiIn51cmVXrsnIIGfKzsulLj38csosEI5ePw57VFWWtUnBnDLNNfCcqqFcFW4DaZEiuqo+KQuHJz6vdLVN+m1wd5JoJRX+uCxzrAR1XZrmHVpd673mmJMdxuMkgKzhUW84pSDMRviaaahDKcm7nwwnYpRdsUSHBUBd+nfOVD4NkTNe06PjFzaet580HsA0B8Nrfs42DRJPDY+qOGYWQijBBUljwVha/VaecgQiCr6319p+oHKvqs8E1ImM67ZC23LokDq4L6N1k3QphwykdESnsglArLbGIsgNgfj9yIvO45a8p9dGxx5Y+2RtvT+E4S9Cp/OshdOwK6W7j97dIQjaQh9HVf6+y4oNo9TT9Va3dUnjlL6Hmv0tpWDE+tIOEDitXzXxp/6ew==;asKpLcy+k9Wc7WX8T2B1OA=="
 ---

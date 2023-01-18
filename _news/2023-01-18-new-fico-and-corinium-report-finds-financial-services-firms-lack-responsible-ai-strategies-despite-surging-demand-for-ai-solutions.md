@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-18T12:03:00Z
 originalUrl: "https://www.bakersfield.com/ap/news/new-fico-and-corinium-report-finds-financial-services-firms-lack-responsible-ai-strategies-despite-surging/article_b5bb267e-c398-51c5-b9cd-de78613591d8.html"
 webUrl: "https://www.bakersfield.com/ap/news/new-fico-and-corinium-report-finds-financial-services-firms-lack-responsible-ai-strategies-despite-surging/article_b5bb267e-c398-51c5-b9cd-de78613591d8.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Bakersfield Californian

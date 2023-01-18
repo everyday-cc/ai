@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-18T14:06:00Z
 originalUrl: "https://www.americanprogress.org/article/voluntary-recognition-of-unions-is-increasingly-popular-among-u-s-employers/"
 webUrl: "https://www.americanprogress.org/article/voluntary-recognition-of-unions-is-increasingly-popular-among-u-s-employers/"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Center for American Progress

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-18T11:31:00Z
 originalUrl: "https://www.joplinglobe.com/region/national_business/aiadvertising-releases-preliminary-unaudited-q4-financial-results-in-conjunction-with-shareholder-update-letter/article_fd23fe5f-e8fd-5b24-b461-89209ae34e5a.html"
 webUrl: "https://www.joplinglobe.com/region/national_business/aiadvertising-releases-preliminary-unaudited-q4-financial-results-in-conjunction-with-shareholder-update-letter/article_fd23fe5f-e8fd-5b24-b461-89209ae34e5a.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Joplin Globe
