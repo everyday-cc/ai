@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 589
+heat: 578
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 19099884
+  followers: 19100302
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "ML6rN0l+ku48+C+ReTTSZYVYhyz/+sPza7/y2zm442z5YK5CYa4rwO2MvwOp+tAUJWpuMPnX/KP+wQNWWnbadE7aJewfgbGOkNxR8D7DZ2TOvdAzT4EN/zHP+En4p0m5A5Nyarr4PJosQct5NrVxypsdIv4jHlQEAJ4BoOxhpHKXPTJPQJC0fNZHSjHTidqXAKpTE+cf4k1Th1MYHCkWeFTuFimfhifSKHKCgegkNSfKOi698Y5inszQCsfxGAqxQhzAUmYVKjlfj5ThXQLEgcypyfshNnsqjblAwOrvX9f9CMwdHF1pwvcR+4pTRpMPmM+hXS9OzEBgYtFr9r1hyHVTRT4u3FeucXOIcAT1VRyrVld0dXu0qz2iusX/RxdGuYDODURpmRbMFjDzyjpZeuJbDiUb/TtreIdJ2ULIHmg=;Y/Za59chrqaz4BtaDR2Qog=="
+secured: "Yt2Oiw5olP3BUZbV9tZlpBsG6YNxqvXDBS5W6rQv6wwUuIZa7lno1COZTljp1uDOqRa/AqnNQ5A3651gi9uxHSXje8N4yUgcmKZMOfbSuP5AP+whgE4LTVmqLEC5EjaruKWsf3Qzf8wMFDCUu49uUfyiHOsFU+OS0uv5ngFdoLLsHHRIhVPuzR4gtjvyPXe1f9vN9clGiyn9eCrMgQYO7JpFgPoYsXTjYheNPykVd6j8q/KHQglkYmuwLQWSGTyf6U/+mdNfQTg6pi9iEgjFr0mfQjGkcMl67ay23XrzLDL+IiCJsspc+OsLGaRDhQeIOOcZeSE2O3c8AnIIMNm7GLzqa3issMNbOf+aaaT6u4MnJgyyj+DLTlKpJmqRxn2Jh3WEc42YgOP0Hrz9cEVA8peZvgSLCSTgfsvUDNGpdfo=;aldqHUERteSG4QIEa0OzaQ=="
 ---
 
