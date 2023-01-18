@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Microscopy Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
+    excerpt: "Pages Report] Rising demand for Machinery & Equipment Industry will drive the Artificial Intelligence Microscopy segment growth over the next five years. Global Market Analys"
+    publishedDateTime: 2023-01-18T02:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-microscopy-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Chip Market Share with CAGR Value 2023 Global Trends, Analysis, Top Key Players, Competitive Landscape, Size and Forecast to 2029"
     excerpt: "Final Report Will Add the Analysis of the Impact of the Russia-Ukraine War and COVID-19 on This Industry. Global"
     publishedDateTime: 2023-01-17T07:47:00Z

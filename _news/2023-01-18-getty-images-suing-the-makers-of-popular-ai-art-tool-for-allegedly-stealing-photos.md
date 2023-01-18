@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Getty Images Targets Artificial Intelligence Firm For \"Copying\" Photos"
+    excerpt: "Getty, which distributes stock images and news photos including those of AFP, accused Stability AI of profiting from its pictures and those of its partners."
+    publishedDateTime: 2023-01-18T05:56:00Z
+    webUrl: "https://www.ndtv.com/world-news/getty-images-targets-artificial-intelligence-firm-for-copying-photos-3702069"
+    ampWebUrl: "https://www.ndtv.com/world-news/getty-images-targets-artificial-intelligence-firm-for-copying-photos-3702069/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/getty-images-targets-artificial-intelligence-firm-for-copying-photos-3702069/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 57
+    images:
+      - url: "https://c.ndtvimg.com/2023-01/9mlda3p_stability-ai_625x300_18_January_23.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Getty Images sues to determine who owns AI art"
     excerpt: "Getty Images, the stock-image powerhouse, is suing Stability AI over its AI art generator in a copyright infringement case that could help decide the future of AI art."
     publishedDateTime: 2023-01-17T18:39:00Z

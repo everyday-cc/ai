@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Microscopy Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
+    excerpt: "Pages Report] Rising demand for Machinery & Equipment Industry will drive the Artificial Intelligence Microscopy segment growth over the next five years. Global Market Analys"
+    publishedDateTime: 2023-01-18T02:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-microscopy-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Food & Beverages Market 2023 Size, Share, Trend, Revenue, Key Players with LATEST RESEARCH REPORT till 2029"
     excerpt: "Jan (The Expresswire) -- \"Artificial Intelligence (AI) in Food and Beverages Market\" Research Insights Report 2023 | Latest Report Spread"
     publishedDateTime: 2023-01-17T14:34:00Z

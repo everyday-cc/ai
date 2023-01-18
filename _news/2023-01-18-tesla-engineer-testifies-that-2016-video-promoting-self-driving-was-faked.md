@@ -50,7 +50,7 @@ related:
   - title: "Tesla video promoting self-driving was staged, engineer testifies"
     excerpt: "A 2016 video that Tesla (TSLA) used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have,"
     publishedDateTime: 2023-01-17T19:34:00Z
-    webUrl: "https://edition.cnn.com/2023/01/17/tech/tesla-self-driving-video-staged/index.html"
+    webUrl: "https://www.cnn.com/2023/01/17/tech/tesla-self-driving-video-staged/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2023/01/17/tech/tesla-self-driving-video-staged/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/01/17/tech/tesla-self-driving-video-staged/index.html"
     type: article
@@ -215,20 +215,6 @@ related:
         width: 683
         height: 455
         isCached: true
-  - title: "Video shows Tesla abruptly stop, cause 8-car crash after Musk announced self-driving feature: report"
-    excerpt: "Speaking to police, the driver of the vehicle stated he \"had been using Tesla's new 'Full Self-Driving' feature, the report notes, before the Tesla's 'left signal activated' and its 'brakes ..."
-    publishedDateTime: 2023-01-13T14:30:00Z
-    webUrl: "https://www.salon.com/2023/01/11/video-shows-tesla-abruptly-stop-cause-8-car-crash-after-musk-announced-self-driving-feature-report_partner/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 24
-    images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/01/elon-musk-1239417462.jpg"
-        width: 1200
-        height: 810
-        isCached: true
   - title: "As self-driving sector shifts into gear, the innovators pull ahead of the pack"
     excerpt: "Closer to the ground, another revolution is taking place in the form of a budding self-driving car industry. Last week, British self-driving software start-up Oxbotica successfully raised £115mln in a series-C funding round comprising investments from ..."
     publishedDateTime: 2023-01-17T10:15:00Z
@@ -244,6 +230,6 @@ related:
         height: 630
         isCached: true
 
-secured: "8kFcuT0OU3NGvK/G9bpmyJRScOMPClupSZjwmXQuNnqUPjWyL8LpxEFt9On1wjSENNp6JHeGIqjH3FhwroJafT2bWLhJG3QXKf2tDON/wrmVtf0hi998ItDkeO5L+vfYoSDc1GKynviAo4MOUD3dKeGILCvFqA79E6mH+rjNeUUX/i/faPUDONg5o09gMiBiDCtkvXFb/xX084vfZ9x4x0y+fdpHPB9g9KEPOp6ibQLglKtgODomXUHzT2L050hJv7fc061XS4lfplgizP8SWBxmLONKe6gZzX/r3zrb+PWfk0hd7BlM8jJm2uZBIqUTY4xFR2wNdird6cBxlXqHFd+Hd9AJle20cH1NmFLa8/o=;eKzku1QDuEp3IYQEFaLGSA=="
+secured: "IA59aDPaW+2optPUCqPYbF1bsqGe7nfmvlUS3V9d4ENR9eMc+n3PuATwfCrqUQ1SLSARYnvKrWaSaM43rpFEwHsrzo/NJIz5tvOIu6U1PuKf7MMTl79RMwyuwJT9qtRSfoSI12yQB+KnKwFjgis4NGZ8PnJHaUeq+UI8KaG5XWpKFIpjykz6WuRRfNXCgjvphvl6bOGsUUnb4ic8x0cuLjnTVKPhGHypnKtMULVjuicVHhCX5NtGfgiiN8DNncTmMsAZM1kAIftlHABzNzXb6NY92YnJ8rkFJ1XKi65w7uWfB6k9xKQ4JdKPBvXIuZ0YAjyJYnZvxzhvrTGtWaAMHJd9ECqN/nWtMmk/HRzGqtn7g2/gRm1n8xGb9UNnx8chZvVDrADzOPw/EQj1YuaVfAXNTnNZsLJ9w61dX7rpV8hU0pI35Pb/dFoIy902cBfebE7jFfnw01WWLOxZa8Zhz4plb1oX7u0EU4SlKF+fywg/Lh1r6hxGQFd2rk2+eaWV76xxJsNVyHjir5GWmRjkcA==;ap9I+m5y7nOmqeOExJsvPg=="
 ---
 

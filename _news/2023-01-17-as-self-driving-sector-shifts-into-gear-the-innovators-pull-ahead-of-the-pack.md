@@ -44,7 +44,7 @@ related:
   - title: "Tesla video promoting self-driving was staged, engineer testifies"
     excerpt: "A 2016 video that Tesla (TSLA) used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have,"
     publishedDateTime: 2023-01-17T19:34:00Z
-    webUrl: "https://edition.cnn.com/2023/01/17/tech/tesla-self-driving-video-staged/index.html"
+    webUrl: "https://www.cnn.com/2023/01/17/tech/tesla-self-driving-video-staged/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2023/01/17/tech/tesla-self-driving-video-staged/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/01/17/tech/tesla-self-driving-video-staged/index.html"
     type: article
@@ -224,20 +224,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/01/17/screen_shot_2023-01-17_at_5.45.31_pm.png?width=1200&height=800&fit=crop"
         width: 683
         height: 455
-        isCached: true
-  - title: "Video shows Tesla abruptly stop, cause 8-car crash after Musk announced self-driving feature: report"
-    excerpt: "Speaking to police, the driver of the vehicle stated he \"had been using Tesla's new 'Full Self-Driving' feature, the report notes, before the Tesla's 'left signal activated' and its 'brakes ..."
-    publishedDateTime: 2023-01-13T14:30:00Z
-    webUrl: "https://www.salon.com/2023/01/11/video-shows-tesla-abruptly-stop-cause-8-car-crash-after-musk-announced-self-driving-feature-report_partner/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 24
-    images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/01/elon-musk-1239417462.jpg"
-        width: 1200
-        height: 810
         isCached: true
 
 secured: "NtmjVo1k4l09cEHdOlIduDgXmjxngBZO9/tqqVi+FDWn1E9EQXJrPVD6SkAcnU6KoXVE7lJdxYasyTAQ7LQ/9xE0B/JV4RmEZ2dPa57vvKrYwC0WRD8iZHAW5KCT7rc6KEklRDVYX2mI7Xd/UrgFckmMkUgXQntN+c/bLNuAg5yqkbV8QdeVI7bbdDKZ9EEvbS+BuLSER9Vm/1NpDcncai0NbsjmeSr+4AupybE9vCRjOYa1ntrNf7W7t+iPeqA8YRL5ZbSiQgDukCUKbsOhgGbSLCZLXLpJ8as4tYOSrtL/YNaCUsCqVwwK4pvr3bp01MvQoGvB+YCDJYNEhZ0kkOeMsaFxDSdeu74RVhsKm9jNl8/+h6Qm/NORnfhR2jwYs34ExCOAi4LPgaPm/gGbt29x5jaToXKlhFZ6UahfhF6oz0nCgJy5Y6KOVV+VsaqZpSHAiPmEnr141oDR+OewVb0NyAY0qhi2PnNDG0rAOt4WF7RKPZ52wM/tDp+41AU4imkbdK7xdiRt7onkIXZXmQ==;RCN3AU4V0vBx/guHtvhD0Q=="

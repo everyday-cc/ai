@@ -44,7 +44,7 @@ related:
   - title: "Tesla video promoting self-driving was staged, engineer testifies"
     excerpt: "A 2016 video that Tesla (TSLA) used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have,"
     publishedDateTime: 2023-01-17T19:34:00Z
-    webUrl: "https://edition.cnn.com/2023/01/17/tech/tesla-self-driving-video-staged/index.html"
+    webUrl: "https://www.cnn.com/2023/01/17/tech/tesla-self-driving-video-staged/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2023/01/17/tech/tesla-self-driving-video-staged/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/01/17/tech/tesla-self-driving-video-staged/index.html"
     type: article
@@ -210,20 +210,6 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/638420806/image_638420806.jpg?io=getty-c-w750"
         width: 750
         height: 500
-        isCached: true
-  - title: "Video shows Tesla abruptly stop, cause 8-car crash after Musk announced self-driving feature: report"
-    excerpt: "Speaking to police, the driver of the vehicle stated he \"had been using Tesla's new 'Full Self-Driving' feature, the report notes, before the Tesla's 'left signal activated' and its 'brakes ..."
-    publishedDateTime: 2023-01-13T14:30:00Z
-    webUrl: "https://www.salon.com/2023/01/11/video-shows-tesla-abruptly-stop-cause-8-car-crash-after-musk-announced-self-driving-feature-report_partner/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 24
-    images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/01/elon-musk-1239417462.jpg"
-        width: 1200
-        height: 810
         isCached: true
   - title: "As self-driving sector shifts into gear, the innovators pull ahead of the pack"
     excerpt: "Closer to the ground, another revolution is taking place in the form of a budding self-driving car industry. Last week, British self-driving software start-up Oxbotica successfully raised £115mln in a series-C funding round comprising investments from ..."

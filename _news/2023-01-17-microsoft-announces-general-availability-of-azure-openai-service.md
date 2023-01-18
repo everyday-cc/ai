@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Microsoft announces general availability of Azure OpenAI Service"
-excerpt: "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation"
-publishedDateTime: 2023-01-17T11:39:00Z
-originalUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
-webUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
+title: "Microsoft Announces general availability of Azure OpenAI Service"
+excerpt: "Microsoft makes Azure OpenAI Service generally available, which makes the world's most advanced AI, including GPT-3.5, Codex, and DALL•E 2"
+publishedDateTime: 2023-01-17T15:34:00Z
+originalUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
+webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
+ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
+cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Information Age
-  domain: information-age.com
+  name: enterprisetalk
+  domain: enterprisetalk.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
-    width: 788
-    height: 443
+  - url: "https://enterprisetalk.com/wp-content/uploads/2023/01/Microsoft-Announces-general-availability-of-Azure-OpenAI-Service.jpg"
+    width: 1500
+    height: 844
     isCached: true
 
 related:
@@ -546,20 +548,6 @@ related:
       name: Hindustan Times Tech
       domain: hindustantimes.com
     quality: 34
-  - title: "OpenAI, the startup behind ChatGPT, discusses tender offer that could value it at $29B"
-    excerpt: "The startup was founded as a nonprofit back in 2015, with a mission of pursuing AI research for the benefit of humanity. In order to raise more capital to pay for the computing power needed to ..."
-    publishedDateTime: 2023-01-13T14:05:00Z
-    webUrl: "https://siliconangle.com/2023/01/05/openai-startup-behind-chatgpt-discusses-tender-offer-value-29b/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 29
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/21470472099_8e78d53ecf_k.jpg"
-        width: 2048
-        height: 1363
-        isCached: true
   - title: "Microsoft Azure Services Flaws Could've Exposed Cloud Resources to Unauthorized Access"
     excerpt: "Researchers have discovered severe Server-Side Request Forgery (SSRF) vulnerabilities in 4 Microsoft Azure services."
     publishedDateTime: 2023-01-17T14:44:00Z
@@ -579,6 +567,6 @@ related:
       domain: gulf-times.com
     quality: 19
 
-secured: "J7FVgX/qT9PCK+rJvo1K19yqnTX80mQ/eobe/8bsElh6x9CNmanjuYEB/MeOdVA0rnKwTeKexbq4nJCFNBv/qyNGb3cU6gjmqBhwgFf25GhFsTIo7NInMV/ULKoXwtnWC3zzUNGzgcS6IdrVTLV6yZP7LyWa0RVP3H61u/ktrdqavEFSjVu4W8IF+ak6H4dvcnTDOW0eYcihguIBbPkktfK1nyBl/hf9NWihpeHKvd5OeWnKkI5NcXpzvss7660zw58jes/G0Ihxxj27WtfoJCVtzz3pHnaMsarbMIMajssGzXacpLBiORHX9pBrr2j7sJZA1oeJAXOMzSJbJDOPkWc9QpcO8g99YspZeoP9X2U=;oY/Hl6qOm3TgvQMNwCeCFg=="
+secured: "SXKIHS/CHrsD8MBN41zERZ2111VZUXc8b7kHbm/tTDcuWBhTfpLALUgz7oljWKtIHJpWxRXixzKSCEDifs8/MUcCRRz6sU4pOS3OBeFxbfRGUKFYDbA1zqAR+W8Zxig7+ClC0RHTwU1xXt+h1wfo1mTfTrl6jG3+kPWTY4kOdbvopY1JM3hjcOJVFrsWuDK658Veujm+ZPFJFN22IXUhdQkbU+54l9CqsBB1TMO/FiuPS0YLDEDFxTBwAL7Ifw7sH5/HRDd1FqCiBWrQ/7KG8TZcHtJqoJt4UnIeti1/uYMp9u4J5vqVVMNbYN72aWEIW8qy/RjjvId0oQDR/L186ayqcy2gwOB1eEouCd4SLP4=;+JJsYwHCzffJMWKOqKIbSw=="
 ---
 

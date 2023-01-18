@@ -26,17 +26,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Portraits to go and prose like Tim Winton: ChatGPT and the rise of AI"
-    excerpt: "AI expert Prof Toby Walsh speaks to Laura Murphy-Oates about the new wave of artificial intelligence and the fear and fascination it has created"
-    publishedDateTime: 2023-01-16T13:00:00Z
-    webUrl: "https://www.theguardian.com/australia-news/audio/2023/jan/17/portraits-to-go-and-prose-like-tim-winton-chatgpt-and-the-rise-of-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
-
 secured: "APSyqzkthY9890Yh5QgoWsWtBphQ9lNTze8U5v3Q+co06h/HufH6zBzhRA7s6OZ8OutEqs+1r5OZkLMlEh+2W61/9fPdPWnbKnoaLq3Oos4j8beOBPUb72k6yJpmLoToIoOt8zq++pjRVboepBX2N6W6rZ6nzCTvBJAqy4vEUhOp036DVOqtBaO+RnPnywlZviTx9lNcwL6epZd/TQzdquTNZH0AW6H1DseMNSJ63rgtxeLk4YVM62PzqXyistkR9/ASMaLY4mJyskkLpoQu9N/7faW32nyY42BsxUPjFTPe2/ZlxRJgrd2ul9N907Fm07edEx929VhSu+NUDv6x0k4Pj8doC0shlnmg092aRsx/mw36s/yKmioex/snOT8953BertKs9IYvNxuZ6X+OzsD5FQ7t6v8Kd3bWoXkcP1rzAHySnag8MtQr0pHOLie4oUcNkuVKpyyXlM43iBkKTP+1Q/4MpTGdLrQCcYzo8FGq6HWwT0KEp5+5DarUDkeYGYAKgyyRbutQ4MX1X8ZdDw==;pUYBK5UFm3ugeuPhzGL1og=="
 ---
 

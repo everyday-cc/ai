@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028-2023-01-16"
 type: article
 quality: 82
-heat: 192
+heat: 202
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
     excerpt: "Computer Vision Market\" Research Report 2023 is the professional market analysis study by 360 Research Reports"
     publishedDateTime: 2023-01-17T07:10:00Z
     webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-global-industry-analysis-size-share-growth-trends-and-forecast-2023-to-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Microscopy Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
+    excerpt: "Pages Report] Rising demand for Machinery & Equipment Industry will drive the Artificial Intelligence Microscopy segment growth over the next five years. Global Market Analys"
+    publishedDateTime: 2023-01-18T02:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-microscopy-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-01-17"
     type: article
     provider:
       name: MarketWatch

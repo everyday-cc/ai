@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-devic
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-geographical-segmentation-by-forecast-revenue-2023-2028-2023-01-14"
 type: article
 quality: 60
-heat: 130
+heat: 150
 published: true
 
 provider:
@@ -52,6 +52,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI and Machine Learning Operationalization Software Market is Taking Hike in Revenue Along With Top Key Players Profile and Forecast 2023 To 2028"
+    excerpt: "AI and Machine Learning Operationalization Software Market Size is projected to Reach Multimillion USD by 2029,"
+    publishedDateTime: 2023-01-18T02:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-and-machine-learning-operationalization-software-market-is-taking-hike-in-revenue-along-with-top-key-players-profile-and-forecast-2023-to-2028-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Door Lock Market Size 2023 with Over-all Dominated, Share of Everywhere, Ease of Access of Solutions"
+    excerpt: "Facial Recognition Door Lock market has witnessed a growth from USD million to USD million from 2017 to 2022. With a"
+    publishedDateTime: 2023-01-18T01:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-size-2023-with-over-all-dominated-share-of-everywhere-ease-of-access-of-solutions-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
