@@ -30,7 +30,7 @@ related:
     provider:
       name: MD&M East
       domain: mddionline.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_2023-1-18-110145.jpg"
         width: 770

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence:-what-it-is-and-why-it-matters",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -182,49 +182,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-ai-lawyer-to-fight-first-legal-case-in-court-startup-claims.md",
-      "title": "AI lawyer to fight first legal case in court, startup claims",
-      "excerpt": "In Brief An AI language model is apparently going to be used during an upcoming legal hearing to defend someone in a real case. The goal is to demonstrate that AI can replace lawyers, according to the CEO of the consumer rights-focused startup DoNotPay.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2023/01/16/in_brief_ai/",
-      "originalUrl": "https://www.theregister.com/2023/01/16/in_brief_ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/02/09/lawyer.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2023/01/16/in_brief_ai/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/01/16/in_brief_ai/",
-      "publishedDateTime": "2023-01-16T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     },
     {
@@ -1362,6 +1319,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-speech-analysis-can-help-measure-diagnosis-severity-and-onset-of-mental-illness.md",
+      "title": "Speech analysis can help measure diagnosis, severity, and onset of mental illness",
+      "excerpt": "Objective measurement of psychiatric disorders has long proved challenging. Yet, there is ample evidence that analysis of speech patterns can accurately diagnose depression and psychosis, measure their severity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/975876",
+      "originalUrl": "https://www.eurekalert.org/news-releases/975876",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },

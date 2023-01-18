@@ -24,6 +24,17 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "Artificial Intelligence Reconstructs Missing Data From Rapid MRI Scans"
+    excerpt: "Using AI to reconstruct MRI scans which are four times faster than standard scans promises to expand MRI access to more patients and reduce wait times for appointments, the study"
+    publishedDateTime: 2023-01-18T20:02:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/18/9745595.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+
 secured: "1cJn3/IUjK3QLoWrnV2tdN9xpfihdmDJCGGXs8pkRd3vaVKz4ATIlWdjyHGAwyQbm2PSFVpuhQcADt9ElVJ4fYtMJ45THiBw4l5vXnys7y+eLlnM9ARURZB/zkyl9BFN27LOMsIWS8AO6tYHtSG05Ig2fvBKEtMdavQA2OWj59pO+j8CK9eL0eTw+GnlgDiu1f3ufIWj8YkYey/4dlZw5vG+JiJA2IHUoDYLGoGpPeBljmDBYcjlhr+Seb6jJEQZQBN37NlwRex91jwF+FMXjNzglQvjwqa83eGFJlBbuHupGDpteBDv4cmBTTuVAh2TX4KXgSlLATy6PsuZr1RjgBlVc6O+aN6mDjfK2DioVEk1AYgN9wDIuNgv2NuLzhJjqxa6BeCWICafvVjCFIRse9iIk0TcQiRC9F40+KdBa6Yq2aTwf/+qVrReHI/c4J+F7bn7llhR0DaM9bt4kXzwRdhpv5XhaUwmc2TitDKxDI+haD4RvffI767HmAJyTnP/8+pkkAky4+Kkds4K0ozPqQ==;YuIWjrzhPArMjMX3mf155g=="
 ---
 

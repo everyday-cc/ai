@@ -38,7 +38,7 @@ related:
     provider:
       name: Entrepreneur
       domain: entrepreneur.com
-    quality: 49
+    quality: 51
     images:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1674066815-SOPAImagesContributor.jpg"
         width: 2000

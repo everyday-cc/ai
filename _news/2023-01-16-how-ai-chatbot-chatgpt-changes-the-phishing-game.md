@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 646
         isCached: true
+  - title: "ChatGPT Shows Scary Implications Of AI: Sports Owners And The Robot"
+    excerpt: "Kind of like when you call the airline and they ask for your number and say they will text you when you are next in line."
+    publishedDateTime: 2023-01-15T19:48:00Z
+    webUrl: "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgpt-shows-scary-implications-of-ai-sports-owners-and-the-robot/"
+    ampWebUrl: "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgpt-shows-scary-implications-of-ai-sports-owners-and-the-robot/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leonardarmato/2023/01/15/chatgpt-shows-scary-implications-of-ai-sports-owners-and-the-robot/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63c454a3ecbcbced56a44bb3/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 646
+        isCached: true
   - title: "GPT-4 | Implications, pros and cons of the next-generation of ChatGPT"
     excerpt: "A major implication of GPT-4 will be the improvement of natural language processing (NLP) tasks such as language translation, text summarisation, and question answering. While, we cannot ignore the potential downsides to GPT-4 as it could be used to generate fake news or propaganda,"
     publishedDateTime: 2023-01-16T11:15:00Z

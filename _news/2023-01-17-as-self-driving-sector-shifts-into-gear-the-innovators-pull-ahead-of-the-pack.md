@@ -204,17 +204,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Tesla full self-driving system put to the test after Bay Bridge crash"
-    excerpt: "OAKLAND, Calif. - A self-driving Tesla was put to the test by KTVU Friday to try to determine how a Model S caused a Thanksgiving Day eight-car pileup on the Bay Bridge. The crash has raised ..."
-    publishedDateTime: 2023-01-14T05:50:00Z
-    webUrl: "https://www.ktvu.com/news/tesla-full-self-driving-system-put-to-the-test-after-bay-bridge-crash"
-    ampWebUrl: "https://www.ktvu.com/news/tesla-full-self-driving-system-put-to-the-test-after-bay-bridge-crash.amp"
-    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/tesla-full-self-driving-system-put-to-the-test-after-bay-bridge-crash.amp"
-    type: article
-    provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 39
   - title: "Tesla engineer testified that promotional self-driving video was staged"
     excerpt: "(Ethan Miller/Getty Images) A 2016 video that Tesla used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior ..."
     publishedDateTime: 2023-01-18T12:14:00Z
@@ -313,6 +302,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tesla autopilot engineer says company’s video of self-driving feature was faked"
+    excerpt: "A senior engineer at Tesla has alleged that a 2016 video promoting the automaker's self-driving technology was staged."
+    publishedDateTime: 2023-01-18T18:17:00Z
+    webUrl: "https://www.dailydot.com/debug/tesla-engineer-self-driving-video-staged/"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 15
 
 secured: "NtmjVo1k4l09cEHdOlIduDgXmjxngBZO9/tqqVi+FDWn1E9EQXJrPVD6SkAcnU6KoXVE7lJdxYasyTAQ7LQ/9xE0B/JV4RmEZ2dPa57vvKrYwC0WRD8iZHAW5KCT7rc6KEklRDVYX2mI7Xd/UrgFckmMkUgXQntN+c/bLNuAg5yqkbV8QdeVI7bbdDKZ9EEvbS+BuLSER9Vm/1NpDcncai0NbsjmeSr+4AupybE9vCRjOYa1ntrNf7W7t+iPeqA8YRL5ZbSiQgDukCUKbsOhgGbSLCZLXLpJ8as4tYOSrtL/YNaCUsCqVwwK4pvr3bp01MvQoGvB+YCDJYNEhZ0kkOeMsaFxDSdeu74RVhsKm9jNl8/+h6Qm/NORnfhR2jwYs34ExCOAi4LPgaPm/gGbt29x5jaToXKlhFZ6UahfhF6oz0nCgJy5Y6KOVV+VsaqZpSHAiPmEnr141oDR+OewVb0NyAY0qhi2PnNDG0rAOt4WF7RKPZ52wM/tDp+41AU4imkbdK7xdiRt7onkIXZXmQ==;RCN3AU4V0vBx/guHtvhD0Q=="
 ---

@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "Seeq Recognizes its 2022 Reseller and Service Partners of the Year"
-    excerpt: "Annual partner awards, honoring excellence in delivering the next generation of process manufacturing improvements, announced at Seeq Global Partner Symposium in Las Vegas. LAS VE"
-    publishedDateTime: 2023-01-18T15:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/01/18/9745322.htm"
+    excerpt: "Annual partner awards, honoring excellence in delivering the next generation of process manufacturing improvements, announced at Seeq Global Partner Symposium in Las Vegas LAS VEGAS, Jan. 18, 2023 /PR"
+    publishedDateTime: 2023-01-18T13:17:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/n30462442/seeq-recognizes-its-2022-reseller-and-service-partners-of-the-year"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 24
     images:
-      - url: "https://mma.prnewswire.com/media/1985743/SEEQ_PARTNER_OF_THE_YEAR.jpg"
+      - url: "https://mma.prnewswire.com/media/1985743/SEEQ_PARTNER_OF_THE_YEAR.jpg?optimize=medium&dpr=2&auto=webp&width=750"
         width: 343
         height: 400
         isCached: true

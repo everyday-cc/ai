@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-18T20:00:00Z
 originalUrl: "https://venturebeat.com/games/electricnoir-debuts-dark-mode-as-an-ai-generated-horror-game/"
 webUrl: "https://venturebeat.com/games/electricnoir-debuts-dark-mode-as-an-ai-generated-horror-game/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

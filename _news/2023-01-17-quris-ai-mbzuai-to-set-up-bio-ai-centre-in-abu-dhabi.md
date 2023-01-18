@@ -58,6 +58,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 58
+  - title: "US grant creates AI expression recognition program for speech-challenged children"
+    excerpt: "American researchers working on an AI system to help children with speech impairments have won a $20 million grant from the National Science Foundation."
+    publishedDateTime: 2023-01-18T21:40:00Z
+    webUrl: "https://www.biometricupdate.com/202301/us-grant-creates-ai-expression-recognition-program-for-speech-challenged-children"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/10131503/voice-biometrics.jpg"
+        width: 1040
+        height: 585
+        isCached: true
   - title: "Quris-AI and MBZUAI to launch world-class Bio-AI center in Abu-Dhabi"
     excerpt: "Quris-AI and Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) signed an agreement during Abu Dhabi Sustainability Week (ADSW) to develop a world-class Bio-AI center in Abu Dhabi. The state-of-the-art facility will support the development of personalized medications,"
     publishedDateTime: 2023-01-18T11:33:00Z

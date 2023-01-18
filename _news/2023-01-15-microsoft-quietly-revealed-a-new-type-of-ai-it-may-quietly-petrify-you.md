@@ -155,6 +155,20 @@ related:
         width: 2000
         height: 1600
         isCached: true
+  - title: "Microsoft and Google Will Both Have to Bear AI’s Costs"
+    excerpt: "Tools such as ChatGPT could upend search and cloud computing, but the cost will be high as profit margins draw more scrutiny."
+    publishedDateTime: 2023-01-18T16:51:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-and-google-will-both-have-to-bear-ais-costs-11674006102"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-705153/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Microsoft says it will roll out ChatGPT on its own AI service after reports it will invest $10 billion into OpenAI"
     excerpt: "Microsoft said Azure OpenAI is now generally available for everyone to use and it plans to make ChatGPT available through the service."
     publishedDateTime: 2023-01-17T11:48:00Z
@@ -218,6 +232,22 @@ related:
       - url: "https://regmedia.co.uk/2023/01/17/shutterstock_editorial_only_microsoft_and_openai.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Golden Age Of Artificial Intelligence Underway: Microsoft Chief Nadella"
+    excerpt: "An Indian farmer recently used a ChatGPT interface to access an opaque government programme via the internet despite knowing only a local dialect, Microsoft chief Satya Nadella said on Wednesday to underline that the world is entering a golden age of artificial intelligence."
+    publishedDateTime: 2023-01-18T22:26:00Z
+    webUrl: "https://www.republicworld.com/world-news/global-event-news/golden-age-of-artificial-intelligence-underway-microsoft-chief-nadella-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/world-news/global-event-news/golden-age-of-artificial-intelligence-underway-microsoft-chief-nadella-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/global-event-news/golden-age-of-artificial-intelligence-underway-microsoft-chief-nadella-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 74
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/utanwltgki3qr9tw_1674080761.jpeg"
+        width: 768
+        height: 439
         isCached: true
   - title: "Microsoft makes Azure OpenAI Service generally available"
     excerpt: "Microsoft Corp. Monday announced the general availability of its Azure OpenAI Service, which provides access to artificial intelligence models developed by OpenAI LLC. The service is one of several Microsoft offerings that incorporate OpenAI technology."
@@ -394,7 +424,7 @@ related:
   - title: "Microsoft and Google Will Both Have to Bear AI’s Costs"
     excerpt: "Tools such as ChatGPT could upend search and cloud computing, but the cost will be high as profit margins draw more scrutiny."
     publishedDateTime: 2023-01-18T10:30:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-and-google-will-both-have-to-bear-ais-costs-11674006102"
+    webUrl: "https://www.wsj.com/articles/microsoft-and-google-will-both-have-to-bear-ais-costs-11674006102?mod=business_minor_pos10"
     type: article
     provider:
       name: Wall Street Journal
@@ -535,6 +565,15 @@ related:
     provider:
       name: IT-Online
       domain: it-online.co.za
+    quality: 49
+  - title: "Microsoft rolling out Azure OpenAI service with access to ChatGPT soon"
+    excerpt: "The Azure OpenAI service features a number of AI models made by OpenAI including GPT-3.5, Codex, and DALL-E, so businesses and developers can utilize these systems in their own apps and workloads. Microsoft essentially packages up GPT-3."
+    publishedDateTime: 2023-01-18T21:03:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20230118/4028043.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 49
   - title: "Microsoft makes Azure with OpenAI’s Chat GPT available for enterprise customers"
     excerpt: "Microsoft announced it will make Azure’s cloud service with OpenAI’s ChatGPT accessible for its enterprise customers"

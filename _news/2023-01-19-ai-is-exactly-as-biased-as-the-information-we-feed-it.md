@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-18T18:45:00Z
 originalUrl: "https://www.pcmag.com/news/ai-is-exactly-as-biased-as-the-information-we-feed-it"
 webUrl: "https://www.pcmag.com/news/ai-is-exactly-as-biased-as-the-information-we-feed-it"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: PC Magazine

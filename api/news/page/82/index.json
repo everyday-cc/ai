@@ -2,6 +2,92 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-11-02-1811-ai-the-metaverse-and-the-documentary-approach-to-photography.md",
+      "title": "18.11 - AI, the metaverse and the documentary approach to photography",
+      "excerpt": "Francesco Anselmi Born in 1984 in Milan, Francesco Anselmi lives between Italy and the United States. He graduated from the International Center of Photography in NYC, receiving the New York Times ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vogue.com/article/ai-the-metaverse-and-the-documentary-approach-to-photography-talk-photovogue-festival-2022",
+      "originalUrl": "https://www.vogue.com/article/ai-the-metaverse-and-the-documentary-approach-to-photography-talk-photovogue-festival-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.vogue.com/photos/635991903861f2604c305806/master/pass/GRAFICHE%20ARTICOLI9.jpg",
+          "width": 7555,
+          "height": 8850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vogue.com/article/ai-the-metaverse-and-the-documentary-approach-to-photography-talk-photovogue-festival-2022/amp",
+      "cdnAmpWebUrl": "https://www-vogue-com.cdn.ampproject.org/c/s/www.vogue.com/article/ai-the-metaverse-and-the-documentary-approach-to-photography-talk-photovogue-festival-2022/amp",
+      "publishedDateTime": "2022-11-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vogue",
+        "domain": "vogue.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-machine-learning-or-automation-whats-the-difference.md",
+      "title": "Machine Learning or Automation: What’s the Difference?",
+      "excerpt": "Machine learning is a rapidly developing subset of artificial intelligence that focuses on analyzing large data quantities, typically to make predictions. AI systems can’t truly think yet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
+      "originalUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04075911/1554238485.jpeg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business News Daily",
+        "domain": "businessnewsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-researchers-corroborate-the-importance-of-exercise-for-cognitive-function.md",
       "title": "Researchers corroborate the importance of exercise for cognitive function",
       "excerpt": "A special issue of Brain Plasticity presents new research and insights on neural plasticity and the role of peripheral factors in cognitive health. At least a dozen peripheral factors have been ...",
@@ -1102,92 +1188,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-amd-rdna3-gpu-revealed-with-two-eight-pin-connectors.md",
-      "title": "AMD RDNA3 GPU Revealed With Two Eight-Pin Connectors",
-      "excerpt": "That seems kind of quaint in the current environment. It also flies in the face of rumors that AMD would be unleashing a monster GPU in the same vein that Nvidia has with the 4090. The other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/gaming/340580-amd-rdna3-gpu-revealed-with-two-eight-pin-connectors",
-      "originalUrl": "https://www.extremetech.com/gaming/340580-amd-rdna3-gpu-revealed-with-two-eight-pin-connectors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.extremetech.com/wp-content/uploads/2022/10/Screenshot-2022-10-31-at-10.19.02-AM-640x360.png",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-trubrain-review-yummy-cognitive-goodness-does-it-really-work.md",
-      "title": "TruBrain Review: Yummy Cognitive Goodness-Does It Really Work",
-      "excerpt": "One is Oxiracetam, and the other is Piracetam. Both support the neural pathway and boost the neurons for better cognitive functions. In multiple studies conducted by neuroscientists, they found ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/outlook-spotlight/trubrain-review-yummy-cognitive-goodness-does-it-really-work-news-233945",
-      "originalUrl": "https://www.outlookindia.com/outlook-spotlight/trubrain-review-yummy-cognitive-goodness-does-it-really-work-news-233945",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/TruBrain_1667297858.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/outlook-spotlight/trubrain-review-yummy-cognitive-goodness-does-it-really-work-news-233945/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/trubrain-review-yummy-cognitive-goodness-does-it-really-work-news-233945/amp",
-      "publishedDateTime": "2022-11-01T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

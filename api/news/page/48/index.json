@@ -2,6 +2,102 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2022-12-01-cognitive-space-hires-retired-general-as-strategic-advisor.md",
+      "title": "Cognitive Space hires retired general as strategic advisor",
+      "excerpt": "Cognitive Space developed a software tool called CNTIENT to manage a hybrid architecture of remote-sensing satellites. Credit: Cognitive Space Retired Maj. Gen. Aaron Prupas was most recently ...",
+      "sourceUrl": null,
+      "webUrl": "https://spacenews.com/cognitive-space-hires-retired-general-as-strategic-advisor/",
+      "originalUrl": "https://spacenews.com/cognitive-space-hires-retired-general-as-strategic-advisor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://spacenews.com/wp-content/uploads/2022/12/Screenshot-2022-12-01-at-4.12.29-AM.png",
+          "width": 1966,
+          "height": 1014,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SpaceNews",
+        "domain": "spacenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-stability-ai-doubles-down-on-aws.md",
+      "title": "Stability AI doubles down on AWS",
+      "excerpt": "Generative AI startups Stability AI today announced that AWS is now its preferred cloud partner for building and deploying its models.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/",
+      "originalUrl": "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/2_4x.png?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/amp/",
+      "publishedDateTime": "2022-11-30T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-disneys-new-neural-network-can-change-an-actors-age-with-ease.md",
       "title": "Disney’s new neural network can change an actor’s age with ease",
       "excerpt": "Disney researchers have created a new neural network that can alter the visual age of actors in TV or film, reports Gizmodo. The technology will allow TV or film producers to make actors appear ...",
@@ -1031,109 +1127,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals.md",
-      "title": "Four Ways Companies Can Use Data And AI To Set, Meet And Beat Their ESG Goals",
-      "excerpt": "Consumer interest in sustainable and socially-conscious purchases appears to be intensifying despite global economic woes like inflation. Today, more than 75% of younger shoppers consider ESG issues when making purchase decisions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kyndryl/2022/11/30/four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals/",
-      "originalUrl": "https://www.forbes.com/sites/kyndryl/2022/11/30/four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63876f2f0477a8afa6db977c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kyndryl/2022/11/30/four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kyndryl/2022/11/30/four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals/amp/",
-      "publishedDateTime": "2022-11-30T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-neuralink-brain-chip-show-and-tell-update-how-to-watch-live.md",
-      "title": "Neuralink Brain Chip 'Show and Tell' Update: How to Watch Live",
-      "excerpt": "Maybe we'll see technology to type just by using your brain at Wednesday's update from the brain-implant startup co-founded by Elon Musk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/neuralink-brain-chip-show-and-tell-update-how-to-watch-live/",
-      "originalUrl": "https://www.cnet.com/science/neuralink-brain-chip-show-and-tell-update-how-to-watch-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/921e77c305dcb5b06fa9d09920c41e2fd4cefa40/hub/2022/11/28/a6afbd83-599a-42bf-b791-203f396668a0/neuralink-getty-images.jpg?auto=webp",
-          "width": 3543,
-          "height": 2362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/neuralink-brain-chip-show-and-tell-update-how-to-watch-live/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/neuralink-brain-chip-show-and-tell-update-how-to-watch-live/",
-      "publishedDateTime": "2022-11-30T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

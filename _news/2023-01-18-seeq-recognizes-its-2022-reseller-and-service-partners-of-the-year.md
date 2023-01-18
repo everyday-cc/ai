@@ -1,20 +1,45 @@
 ---
 category: news
 title: "Seeq Recognizes its 2022 Reseller and Service Partners of the Year"
-excerpt: "Annual partner awards, honoring excellence in delivering the next generation of process manufacturing improvements, announced at Seeq Global Partner Symposium in Las Vegas. LAS VE"
-publishedDateTime: 2023-01-18T14:25:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/01/18/9745322.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/01/18/9745322.htm"
+excerpt: "Annual partner awards, honoring excellence in delivering the next generation of process manufacturing improvements, announced at Seeq Global Partner Symposium in Las Vegas LAS VEGAS, Jan. 18, 2023 /PR"
+publishedDateTime: 2023-01-18T13:17:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30462442/seeq-recognizes-its-2022-reseller-and-service-partners-of-the-year"
+webUrl: "https://www.benzinga.com/pressreleases/23/01/n30462442/seeq-recognizes-its-2022-reseller-and-service-partners-of-the-year"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "ijjTtJQmklWf2XweSMK46KrjQdSRIItBpgQBjwijT5PY501xu3lQaeIOuwQKbAEZmlEfAk3tjCiIY3Ch2vyzFdsn11rkovDfHjX3Vo3bd2whfrb54rf3BKCvcXWH5jfVjRs+H+dufSBL2wn0HTPuipUfIKq2tgye1660/Imd/L/w4ioAcddiy3AqKywze0mbF1f4Jwtjl79Hvm1lPXOlvMhatdjpVbRJVAcLO/27/pr16yN92CBmwN2E+78+WqkkTO33oZYLUYjfUazxwZ+661zZvSQ3fEQd+k2W7hl9xtLYUqGcrS5+G9FZLgASjl+BEuFpevORLGT2xOI027l+AXjud15mIHF1xBkwT4binJUR7cIufd3WKs8h0ISO4KAgFdQ0V2gTpppEm8nHNp/JsqqWceuylo2CrjAV+M+D0KXq/d3be7HWl96qk19QruqHx5HpLVa1Gbu4w59vkuaGRkDoy5+U5eryFwj+0rUeKVoAw3rwKA4f/hVk0bKFhCsqI+yNimGTCqLFJmLrUHX2/Q==;tkhqbsTds213A9yKBDtrRg=="
+images:
+  - url: "https://mma.prnewswire.com/media/1985743/SEEQ_PARTNER_OF_THE_YEAR.jpg?optimize=medium&dpr=2&auto=webp&width=750"
+    width: 343
+    height: 400
+    isCached: true
+
+related:
+  - title: "Seeq Recognizes Its 2022 Reseller and Service Partners of the Year"
+    excerpt: "Annual partner awards, honoring excellence in delivering the next generation of process manufacturing improvements, were announced at Seeq Global Partner Symposium in Las Vegas."
+    publishedDateTime: 2023-01-18T18:17:00Z
+    webUrl: "https://www.automation.com/en-us/articles/january-2023/seeq-recognizes-2022-reseller-service-parts-year"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 24
+    images:
+      - url: "https://www.automation.com/getmedia/50452299-0455-42f9-bf78-9afd0ca53436/Seeq-news-Jan-18-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
+
+secured: "ZamAkS/dwo5uUN2hRBDFYdAoB0GNnGKTYZOTsDISBwU2YkQsuzX2KkeXOOS16870gIK/cd0U93N6h3iJp8BtOCRkaYj44QYRFGwXf1rbpWUiuEQX3f/sgRx4qqsarMOoXpxyJguNZreueo2Wu40RJ2kpmnde1q2dqyxoO8VOKFt/EDWQx2zkjFAVmRVC8tTfN7BL7N3FC4usrcLSdeZz0h6ELzfYdu/fkdAwvxEdh/qP8Z+dK8lLrhYaK2X6+di7sdmEl9XKY1dOcqZwhkN0IewJ+M/3K2LccD0WQOC+0tM+FgP8snJNiqj16lj4D18hv82hgrmdoolxngaiQ0K1qVgcmQQc+mW9sgChTPR+Vo0=;WEihdT5avMYnJbhrGX7USA=="
 ---
 

@@ -204,17 +204,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Tesla full self-driving system put to the test after Bay Bridge crash"
-    excerpt: "OAKLAND, Calif. - A self-driving Tesla was put to the test by KTVU Friday to try to determine how a Model S caused a Thanksgiving Day eight-car pileup on the Bay Bridge. The crash has raised ..."
-    publishedDateTime: 2023-01-14T05:50:00Z
-    webUrl: "https://www.ktvu.com/news/tesla-full-self-driving-system-put-to-the-test-after-bay-bridge-crash"
-    ampWebUrl: "https://www.ktvu.com/news/tesla-full-self-driving-system-put-to-the-test-after-bay-bridge-crash.amp"
-    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/tesla-full-self-driving-system-put-to-the-test-after-bay-bridge-crash.amp"
-    type: article
-    provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 39
   - title: "Tesla engineer testified that promotional self-driving video was staged"
     excerpt: "(Ethan Miller/Getty Images) A 2016 video that Tesla used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior ..."
     publishedDateTime: 2023-01-18T12:14:00Z
@@ -313,6 +302,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla autopilot engineer says company’s video of self-driving feature was faked"
+    excerpt: "A senior engineer at Tesla has alleged that a 2016 video promoting the automaker's self-driving technology was staged."
+    publishedDateTime: 2023-01-18T18:17:00Z
+    webUrl: "https://www.dailydot.com/debug/tesla-engineer-self-driving-video-staged/"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 15
 
 secured: "pLbNEA9G4hGe2398sTzdfBociUTQmhPVO+vF3cAgD0Z6Y25tBnr7nheNvnOfMpYcq4fAJqJPLUx7emJvqFXtCGe/MHbnc5hxb3JH4Zqg/srbsEHp1Zrm9Jf4cuNdTm8rDlXIrvdLIrdhk2lDVsUzSOX/n/bROi6W1r6QpshB8xSDlaGSxv8QMKV5lsid4lLtrVwT/2oX0aVszJaD4siV+kLcBTNKk4g+dCRpPlT8Omk6I469i/9okbyzl/+C1MkLjRp4spX+yRZDE8Leu/p7Faz2E8mgM1kI5Udo8S0a2S6XH7vRP2FOyLFWPkcbp2xhdXWGJ3I+JRr11S7/O3f/R1/nzGL3hKbuaFnG/Lzmk8I=;rVx5VIDXz35EC/HOzeUqPQ=="
 ---

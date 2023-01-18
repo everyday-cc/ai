@@ -2,6 +2,101 @@
   "page": 133,
   "value": [
     {
+      "path": "_news/2022-09-19-global-deep-learning-software-market-foreseen-to-grow-exponentially-by-2030.md",
+      "title": "global Deep Learning Software Market Foreseen to Grow Exponentially by 2030",
+      "excerpt": "According to the Regional Research Reports, the global Deep Learning Software Market size was valued at USD 3.4 billion",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-software-market-foreseen-to-grow-exponentially-by-2030-2022-09-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-software-market-foreseen-to-grow-exponentially-by-2030-2022-09-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-new-artificial-intelligence-recycling-technology-can-sort-plastics-on-its-own.md",
+      "title": "New artificial intelligence recycling technology can sort plastics on its own",
+      "excerpt": "The AI is meant to help the world overcome its struggle with sending recyclable plastics to landfills. New recycling technology has been developed using artifi",
+      "sourceUrl": null,
+      "webUrl": "https://www.hydrogenfuelnews.com/recycling-technology-ai/8554399/",
+      "originalUrl": "https://www.hydrogenfuelnews.com/recycling-technology-ai/8554399/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.hydrogenfuelnews.com/wp-content/uploads/2022/09/Recycling-technology-New-Tech.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hydrogen Fuel News",
+        "domain": "hydrogenfuelnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details.md",
       "title": "Muxi To Give China Its First Fully-Dedicated Gaming GPU In 2025; Check Details",
       "excerpt": "Muxi’s 7nm chipset, billed as the companys most powerful GPU to date, is primarily intended to meet the needs of high-end gaming PCs.",
@@ -1032,93 +1127,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-structural-reforms-and-economic-growth-a-machine-learning-approach.md",
-      "title": "Structural Reforms and Economic Growth: A Machine Learning Approach",
-      "excerpt": "We overcome these issues by using a machine learning approach (the partial least squares method ... Our findings suggest that structural reforms in the area of product, labor and financial markets as well as the legal system have a significant impact ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.imf.org/en/Publications/WP/Issues/2022/09/15/Structural-Reforms-and-Economic-Growth-A-Machine-Learning-Approach-523396",
-      "originalUrl": "https://www.imf.org/en/Publications/WP/Issues/2022/09/15/Structural-Reforms-and-Economic-Growth-A-Machine-Learning-Approach-523396",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Monetary Fund",
-        "domain": "imf.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-artists-begin-selling-ai-generated-artwork-on-stock-photography-websites.md",
-      "title": "Artists begin selling AI-generated artwork on stock photography websites",
-      "excerpt": "Seeking ways to \"monetize\" AI-generated art, some artists have already begun submitting their AI-generated pieces to stock photography websites like Shutterstock.com. Searches for \"AI generated\" or \"Midjourney\" (a popular image synthesis service) produce thousands of results on the site.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/09/artists-begin-selling-ai-generated-artwork-on-stock-photography-websites/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/09/artists-begin-selling-ai-generated-artwork-on-stock-photography-websites/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ai_art_on_shutterstock_hero-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

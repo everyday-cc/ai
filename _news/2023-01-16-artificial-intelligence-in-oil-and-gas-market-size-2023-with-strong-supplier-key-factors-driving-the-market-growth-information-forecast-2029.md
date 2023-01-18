@@ -112,20 +112,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Significant Growth Opportunities 2023 [New Report] Business Statistics, Future Trends, and Global Share Forecast To 2029"
-    excerpt: "Pages Report] The Deep Learning market research report includes the total number of facts and figures with manufacturers, types, applications, and regions. The Deep Learning Market report provides a market overview of the report along with competitive landscape that includes business profile,"
-    publishedDateTime: 2023-01-14T04:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-significant-growth-opportunities-2023-new-report-business-statistics-future-trends-and-global-share-forecast-to-2029-2023-01-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automatic Content Recognition (ACR) Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2029"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. The analytical"
     publishedDateTime: 2023-01-18T02:52:00Z

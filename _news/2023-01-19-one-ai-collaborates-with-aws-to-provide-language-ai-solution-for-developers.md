@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-18T17:50:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/01/p30469662/one-ai-collaborates-with-aws-to-provide-language-ai-solution-for-developers"
 webUrl: "https://www.benzinga.com/pressreleases/23/01/p30469662/one-ai-collaborates-with-aws-to-provide-language-ai-solution-for-developers"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Benzinga.com

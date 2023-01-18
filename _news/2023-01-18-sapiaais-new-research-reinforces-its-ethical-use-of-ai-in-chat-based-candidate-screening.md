@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US grant creates AI expression recognition program for speech-challenged children"
+    excerpt: "American researchers working on an AI system to help children with speech impairments have won a $20 million grant from the National Science Foundation."
+    publishedDateTime: 2023-01-18T21:40:00Z
+    webUrl: "https://www.biometricupdate.com/202301/us-grant-creates-ai-expression-recognition-program-for-speech-challenged-children"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/10131503/voice-biometrics.jpg"
+        width: 1040
+        height: 585
+        isCached: true
   - title: "Quris-AI, MBZUAI to set up Bio-AI centre in Abu-Dhabi"
     excerpt: "The state-of-the-art facility will support the development of personalised medications, tailored specifically to the diverse populations of the MENA region"
     publishedDateTime: 2023-01-17T11:11:00Z

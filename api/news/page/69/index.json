@@ -2,6 +2,101 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2022-11-14-run-machine-learning-inference-workloads-on-aws-graviton-based-instances-with-amazon-sagemaker.md",
+      "title": "Run machine learning inference workloads on AWS Graviton-based instances with Amazon SageMaker",
+      "excerpt": "Today, we are launching Amazon SageMaker inference on AWS Graviton to enable you to take advantage of the price, performance, and efficiency benefits that come from Graviton chips. Graviton-based instances are available for model inference in SageMaker. This post helps you migrate and deploy a machine",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-machine-learning-inference-workloads-on-aws-graviton-based-instances-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-machine-learning-inference-workloads-on-aws-graviton-based-instances-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T12:08:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-cerebras-builds-its-own-ai-supercomputer-andromeda.md",
+      "title": "Cerebras Builds Its Own AI Supercomputer, Andromeda",
+      "excerpt": "Company stood up an AI Exaflop system in just three days! At Supercomputing ‘22 in Dallas, Texas, startup Cerebras has announced the company has created its own supercomputer, m",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-its-own-ai-supercomputer-andromeda/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-its-own-ai-supercomputer-andromeda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63727c20a310e887f861196b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 656,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-its-own-ai-supercomputer-andromeda/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/11/14/cerebras-builds-its-own-ai-supercomputer-andromeda/amp/",
+      "publishedDateTime": "2022-11-14T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-saskatoon-police-say-man-punched-by-officer-on-video-not-charged-because-of-cognitive-issues.md",
       "title": "Saskatoon police say man punched by officer on video not charged because of 'cognitive issues'",
       "excerpt": "The arresting officer determined there were cognitive issues involved,\" police ... Thompson said it also highlights the lack of services in that part of the city. \"It has to do with the allocation ...",
@@ -1054,111 +1149,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-citi-backs-indian-saas-startup-lentra-as-it-plans-to-expand-internationally.md",
-      "title": "Citi backs Indian SaaS startup Lentra as it plans to expand internationally",
-      "excerpt": "Indian SaaS startup Lentra has raised $60 million in a Series B funding round that saw participation from Citi Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/",
-      "originalUrl": "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/keyboard-typing-image-getty.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/amp/",
-      "publishedDateTime": "2022-11-13T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-global-t-cell-therapy-market-growth-potential-2022-with-industry-trends-top-manufacturers-sales-revenue-and-cagr-status-forecast-to-2029.md",
-      "title": "Global T-cell Therapy Market Growth Potential 2022 with Industry Trends, Top Manufacturers, Sales Revenue and CAGR Status Forecast to 2029",
-      "excerpt": "Nov (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “T-cell Therapy Market” is expected",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-t-cell-therapy-market-growth-potential-2022-with-industry-trends-top-manufacturers-sales-revenue-and-cagr-status-forecast-to-2029-2022-11-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-t-cell-therapy-market-growth-potential-2022-with-industry-trends-top-manufacturers-sales-revenue-and-cagr-status-forecast-to-2029-2022-11-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-13T19:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

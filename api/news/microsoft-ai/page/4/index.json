@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-12-artificial-intelligence-ai-in-logistics-market-is-booming-worldwide-ibm-google-microsoft-corporation.md",
+      "title": "Artificial intelligence (AI) in Logistics Market Is Booming Worldwide IBM, Google, Microsoft Corporation",
+      "excerpt": "New Jersey, United States, Dec 11, 2022 /DigitalJournal/ The global Artificial intelligence (AI ... companies Influencing this Market include: IBM, Google, Microsoft Corporation, Amazon Web ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-logistics-market-is-booming-worldwide-ibm-google-microsoft-corporation",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-logistics-market-is-booming-worldwide-ibm-google-microsoft-corporation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Artificial-intelligence-AI-in-Logistics.jpg",
+          "width": 712,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-11-microsofts-role-in-the-success-of-openai.md",
+      "title": "Microsoft’s Role in the Success of OpenAI",
+      "excerpt": "The OpenAI–Microsoft partnership began in 2019 when Microsoft announced that it would invest $1 billion into OpenAI's project of building Artificial General Intelligence (AGI) that had wide economic benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/microsofts-role-in-the-success-of-openai/",
+      "originalUrl": "https://analyticsindiamag.com/microsofts-role-in-the-success-of-openai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/11/Azure-OpenAI-A-New-Microsoft-Service-Allows-GPT-3-Access.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-10T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-10-3-questions-you-should-ask-to-get-the-most-out-of-edge-data.md",
       "title": "3 questions you should ask to get the most out of edge data",
       "excerpt": "Does the value of edge data stop at the edge? Here's how to think strategically about managing your edge data in a world of big data and IoT.",
@@ -1153,92 +1240,6 @@
         "name": "Washington Examiner",
         "domain": "washingtonexaminer.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-microsoft-announces-future-ready-champions-of-code-program-to-empower-indias-developer-community.md",
-      "title": "Microsoft Announces Future Ready Champions Of Code Program To Empower India's Developer Community",
-      "excerpt": "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused o",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105276380/Microsoft-Announces-Future-Ready-Champions-Of-Code-Program-To-Empower-Indias-Developer-Community",
-      "originalUrl": "https://menafn.com/1105276380/Microsoft-Announces-Future-Ready-Champions-Of-Code-Program-To-Empower-Indias-Developer-Community",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-12/06/F_b9964image_story.jpg",
-          "width": 600,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T19:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-hearing-aids-slow-cognitive-decline-but-reasons-why-still-a-mystery.md",
-      "title": "Hearing aids slow cognitive decline, but reasons why still a mystery",
-      "excerpt": "The findings raise the curious suggestion that using hearing restoration devices could somehow slow the progression of cognitive decline. For about a decade researchers have been uncovering ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/health-wellbeing/hearing-aids-slow-cognitive-decline-dementia-metastudy/",
-      "originalUrl": "https://newatlas.com/health-wellbeing/hearing-aids-slow-cognitive-decline-dementia-metastudy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

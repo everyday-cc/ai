@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-size-sales-drivers-restraints-growth-strategies-major-players-regional-overview-forecast-till-2029-2023-01-18"
 type: article
 quality: 70
-heat: 170
+heat: 160
 published: true
 
 provider:
@@ -95,20 +95,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market Significant Growth Opportunities 2023 [New Report] Business Statistics, Future Trends, and Global Share Forecast To 2029"
-    excerpt: "Pages Report] The Deep Learning market research report includes the total number of facts and figures with manufacturers, types, applications, and regions. The Deep Learning Market report provides a market overview of the report along with competitive landscape that includes business profile,"
-    publishedDateTime: 2023-01-14T04:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-significant-growth-opportunities-2023-new-report-business-statistics-future-trends-and-global-share-forecast-to-2029-2023-01-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

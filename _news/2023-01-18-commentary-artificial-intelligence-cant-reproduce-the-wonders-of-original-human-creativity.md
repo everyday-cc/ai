@@ -43,7 +43,7 @@ related:
         height: 676
         isCached: true
   - title: "Artificial Intelligence Is Coming for Human Creativity"
-    excerpt: "Animal behaviorists have already disputed the uniqueness of human cognitive ability. Another blow to our hubris is now posed by the digital revolution, which not only exposes our cerebral limitations but also threatens human creativity."
+    excerpt: "The history of psychology is full of claims about unique human cognitive abilities. Many of these claims fell away in the light of research findings on the cognitive capacities of other species. Self-awareness was one such capacity."
     publishedDateTime: 2023-01-18T16:51:00Z
     webUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
     ampWebUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
@@ -52,7 +52,7 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 39
+    quality: 37
 
 secured: "0LIlYOrgGHqudLTbdSeyoPxb0LZl8u07s35IrmYEWMtGa7ydLzpvzCmiU44LBhqOTwOqP13U72yVlxCr2D0vrcjVsMEQXv9Xp6AeanqcH/CNM4aBvRSpJ7T1eWEk/TMGxzzAKDcPUltRgUzhjbeen1pUHa16naeEZlEaj1LdRQR0Yq4g4sO9xteFX9b7xfAPzBOtYuWMyRsxsXJVmIIUKizzLMWIMgeBWuIbvVU4LgNHEgh6SpGeQR7MfACRLYDzn2FlW6yA/5xcHBhH5wz5/0v/b1xOf00SM1UPnF06GHgwn1AUQ92mgBF3/wXVmyBoj3ciI+u7or4Fo2SmRJj0Cwst7yMVOiWoMkpNcOcW99M=;sH4exmh47jJuk1mZjkI/1Q=="
 ---

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-18-smiledirectclub-announces-launch-of-innovative-smilemaker-platform.md",
+      "title": "SmileDirectClub Announces Launch of Innovative SmileMaker Platform",
+      "excerpt": "SmileDirectClub, Inc. (Nasdaq: SDC), the next generation oral care company with the first medtech platform for teeth straightening, today announced the launch",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/smiledirectclub-announces-launch-of-innovative-smilemaker-platform/article_2cba2035-2c33-5c73-b766-a5eb626ef2be.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/smiledirectclub-announces-launch-of-innovative-smilemaker-platform/article_2cba2035-2c33-5c73-b766-a5eb626ef2be.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-mass-general-brigham-adjusting-clinical-workflows-with-ai.md",
       "title": "Mass General Brigham adjusting clinical workflows with AI",
       "excerpt": "As artificial intelligence’s role in clinical ... from years down to months and weeks,” Dreyer said. Download Modern Healthcare’s app to stay informed when industry news breaks.",
@@ -1338,50 +1381,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-artificial-intelligence-could-help-ease-strain-on-hospitals.md",
-      "title": "Artificial intelligence could help ease strain on hospitals",
-      "excerpt": "Pioneering artificial intelligence (AI) which automatically diagnoses lung diseases—such as tuberculosis and pneumonia—could ease winter pressures on hospitals, University of the West of Scotland researchers believe. Tuberculosis and pneumonia ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-81.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp",
-      "publishedDateTime": "2022-11-07T01:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

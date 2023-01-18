@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/artificial-intelligence-labor/"
 ampWebUrl: "https://www.wired.com/story/artificial-intelligence-labor/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-labor/amp"
 type: article
-quality: 89
-heat: 119
+quality: 91
+heat: 121
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media.wired.com/photos/63c6ed49e99d817cb5daad76/master/pass/03_Infinite-AI-interns-for-everybody.jpg"

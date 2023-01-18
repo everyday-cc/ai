@@ -97,7 +97,7 @@
       "originalUrl": "https://dailytimes.com.pk/1051739/ncai-announces-artificial-intelligence-challenge-for-students/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -195,7 +195,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -796,6 +796,41 @@
       ]
     },
     {
+      "path": "_news/2023-01-10-nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt.md",
+      "title": "NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)",
+      "excerpt": "The provider has not supplied information on the NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT ... Qualtrics Feedback, Microsoft Clarity and Google Analytics. We use this information to improve our site.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nhs.uk/services/clinic/dover-counselling-centre/AJA01/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt/",
+      "originalUrl": "https://www.nhs.uk/services/clinic/dover-counselling-centre/AJA01/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHS Choices",
+        "domain": "www.nhs.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-09-healthcare-decision-support-ibm-watson-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand.md",
       "title": "Healthcare Decision Support & IBM Watson Forecast for 2028, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand",
       "excerpt": "Healthcare Decision Support and IBM Watson Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,",
@@ -1275,59 +1310,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-how-hybrid-cybersecurity-is-strengthened-by-ai-machine-learning-and-human-intelligence.md",
-      "title": "How hybrid cybersecurity is strengthened by AI, machine learning and human intelligence",
-      "excerpt": "Human intelligence combined with AI and ML models enable hybrid cybersecurity to better predict, identify and stop security breaches.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/how-ai-machine-learning-and-human-intelligence-combine-to-strengthen-hybrid-cybersecurity/",
-      "originalUrl": "https://venturebeat.com/security/how-ai-machine-learning-and-human-intelligence-combine-to-strengthen-hybrid-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1657803103752.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/how-ai-machine-learning-and-human-intelligence-combine-to-strengthen-hybrid-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/how-ai-machine-learning-and-human-intelligence-combine-to-strengthen-hybrid-cybersecurity/amp/",
-      "publishedDateTime": "2023-01-04T14:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

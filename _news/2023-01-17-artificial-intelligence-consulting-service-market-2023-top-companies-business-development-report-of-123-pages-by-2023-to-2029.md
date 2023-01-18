@@ -73,6 +73,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
+  - title: "Artificial Intelligence Market Size 2023 to Increase at 51.1% CAGR Between Forecast Years 2023 and 2027| 98 Report Pages"
+    excerpt: "Jan (The Expresswire) -- \"Artificial Intelligence Market\" Report New Research Outlook Report 2023 | [In 2021, The global Artificial"
+    publishedDateTime: 2023-01-17T17:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-2023-to-increase-at-511-cagr-between-forecast-years-2023-and-2027-98-report-pages-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
 
 secured: "fky7hePVEMuRL8nwx5G7hK4WsmJkUXM0H/aWDW3ggWC6Vl57E2oDreakOjOOg3POwbf6T/MDmKZoek1D0lI16B5EKyiYmz6aM4dG7nhI/1nOud+pcsxMOHuXlYJOnFKhJFJjaD3+FvLRH/SGMWdUhzAPeDoehyDGBVJVFHwAGM+BAs529Tnpzto/bQKZlvBOkDLv5nBqlXaydVfC6Ty0kUgF1nHhNlmr3M98IcZtSWCDY8DVWfVeUWoYdK0nGr94+JtvQK90TdvkvQuEJyGYOYFtWyVz3vBRRwjrmf+TSgW+C/0ixxxoI2C5I1wTvfiuCG7ZU9OdOgx1So0GsP7fza5MnGRyRfh20MokPyJ7/3k=;PdO0+c0+zwDOARQHpf4NzQ=="
 ---

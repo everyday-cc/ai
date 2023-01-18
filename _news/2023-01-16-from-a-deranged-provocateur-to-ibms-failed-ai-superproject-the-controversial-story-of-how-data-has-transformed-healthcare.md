@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-16T12:50:00Z
 originalUrl: "https://menafn.com/1105433732/From-A-Deranged-Provocateur-To-IBMs-Failed-AI-Superproject-The-Controversial-Story-Of-How-Data-Has-Transformed-Healthcare"
 webUrl: "https://menafn.com/1105433732/From-A-Deranged-Provocateur-To-IBMs-Failed-AI-Superproject-The-Controversial-Story-Of-How-Data-Has-Transformed-Healthcare"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: Mena FN
@@ -16,6 +19,12 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "0D0smxLRGBXvlTePYBwKjKZ6PpCU3GpMSIwZbtI0D3XGEr768DeZC3MfNz3c17FRz0bieNrYEuVDXDPM9dKfnnsBAd/LlnywMZ2nbl8fY0PUdAg8zOrh64IuM3BKSVtICyd1aaqIcunVOhxNeMIPZPW5bDoBds9AYkh6tSsqm8D7cG1y2UDg6QZhnP0x63MqX07R7GR131CzwDA6hCHPl6gMw44q+zp9KVIL8zT5hBEwUGnkg0At0s21Ofavh7/ATMJ4lFjFLb0vs0y8DsDTrYqVKPpxMPtzvif+k8a02eyKdi3Nqg0gUcb0559FvSLV4d21g7XSpVyTs8wVowP5/ppRTtBnEVjsvQ9b11NDw5SU13usvpXhgP1K0zHce/XwPO/a8yTQGAz5h/HKffH3cDwqr86GWQa3RAvhGFJW7ZiL5ad6A5yBVofGcAA7SSsjtZ4cgZacCINdyuXkBEiLVeirSIlDvpLHCpyzFrytmNaoMj//P/rOss7dkPtpdfQTWi4IlPjsY3OfQFffZBOYtg==;fHAcP6onjxojFGCJqICoPg=="
+images:
+  - url: "https://menafn.com/updates/pr/2023-01/16/TC_44ff2image_story.png"
+    width: 640
+    height: 452
+    isCached: true
+
+secured: "j+Dkp3CUIJ3aRBZcz877ihWbd/SOE76w1M/3Lclg53QVA+FbO7NXzZIvf/S+4QgcFac1B/hzAKfJkUuBJnsIN5FKDki0fqa+fcAszNcM4znDjoT0KHxHuOWL0NqW5m3Vjv0Z+/cY3lAxX+v+KkpFk2f0PXbltevH1Wa8YA0OASfJt3jrL9BWUEYH4wwAz6zZ4oHmSSZjWCuw7K2L2VL5kzpFMNvWph9oP7flfxICFXhNKmIPF333h0QSS/imFYtWbJgwWPfU5QNicD2OeReplmB8Gpk2QDJoPt/5gmSoTe3Ch8FOexm6uMLVSKzBGpLLK+bVD/bA+G+xV7rBQaf3A/e/lGcBSeJvBoN+ooJN/Mk=;WDVhh2y3lHy7sbY9oXQ62Q=="
 ---
 

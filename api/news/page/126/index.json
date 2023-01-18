@@ -2,6 +2,110 @@
   "page": 126,
   "value": [
     {
+      "path": "_news/2022-09-24-2b3d-aims-to-reduce-veteran-suicide-in-the-metaverse-with-virtual-reality-mental-health-therapies.md",
+      "title": "2B3D Aims To Reduce Veteran Suicide In The Metaverse, With Virtual Reality Mental Health Therapies",
+      "excerpt": "Emerging therapies offer new and democratized, autonomous access for those with post-traumatic stress disorder.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zengernews/2022/09/23/2b3d-aims-to-reduce-veteran-suicide-in-the-metaverse-with-virtual-reality-mental-health-therapies/",
+      "originalUrl": "https://www.forbes.com/sites/zengernews/2022/09/23/2b3d-aims-to-reduce-veteran-suicide-in-the-metaverse-with-virtual-reality-mental-health-therapies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632de3a959a4d0977944b13e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zengernews/2022/09/23/2b3d-aims-to-reduce-veteran-suicide-in-the-metaverse-with-virtual-reality-mental-health-therapies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2022/09/23/2b3d-aims-to-reduce-veteran-suicide-in-the-metaverse-with-virtual-reality-mental-health-therapies/amp/",
+      "publishedDateTime": "2022-09-23T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-24-vws-latest-concept-is-a-self-driving-travel-pod-that-can-replace-short-flights.md",
+      "title": "VW's latest concept is a self-driving travel pod that can replace short flights",
+      "excerpt": "Many automakers dream of self-driving cars that are effectively lounges on wheels, but VW is taking things one step further. The brand has unveiled a Gen.Travel \"design study\" EV that it hopes could replace short flights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html?src=rss",
+      "originalUrl": "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html?src=rss",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-09/508f5e40-3b57-11ed-b59d-fdcf34ea0a64",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-23T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-23-large-scale-revenue-forecasting-at-bosch-with-amazon-forecast-and-amazon-sagemaker-custom-models.md",
       "title": "Large-scale revenue forecasting at Bosch with Amazon Forecast and Amazon SageMaker custom models",
       "excerpt": "This post is co-written by Goktug Cinar, Michael Binder, and Adrian Horvath from Bosch Center for Artificial Intelligence (BCAI). Revenue forecasting is a challenging yet crucial task for strategic business decisions and fiscal planning in most organizations. Often, revenue forecasting is manually performed",
@@ -1072,101 +1176,6 @@
         "Microsoft AI",
         "Machine Learning",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-how-to-leverage-ai-to-boost-care-management-success.md",
-      "title": "How to leverage AI to boost care management success",
-      "excerpt": "As a rapidly evolving technology, AI is adapting itself to the needs of the healthcare industry at an unprecedented pace.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-to-leverage-ai-to-boost-care-management-success/",
-      "originalUrl": "https://venturebeat.com/ai/how-to-leverage-ai-to-boost-care-management-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1351781263.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-to-leverage-ai-to-boost-care-management-success/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-leverage-ai-to-boost-care-management-success/amp/",
-      "publishedDateTime": "2022-09-22T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-how-amazon-search-reduced-ml-inference-costs-by-85-with-aws-inferentia.md",
-      "title": "How Amazon Search reduced ML inference costs by 85% with AWS Inferentia",
-      "excerpt": "Amazon’s product search engine indexes billions of products, serves hundreds of millions of customers worldwide, and is one of the most heavily used services in the world. The Amazon Search team develops machine learning (ML) technology that powers the Amazon.com search engine and helps customers search",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-reduced-ml-inference-costs-by-85-with-aws-inferentia/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-reduced-ml-inference-costs-by-85-with-aws-inferentia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

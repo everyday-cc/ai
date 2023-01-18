@@ -158,6 +158,20 @@ related:
         width: 710
         height: 400
         isCached: true
+  - title: "A mental health tech company ran an AI chat experiment on real users. Nothing’s stopping apps from conducting more."
+    excerpt: "ChatGPT was used by the emotional support chat app Koko to write responses for real users. Controversy came quickly after the experiment was announced."
+    publishedDateTime: 2023-01-14T13:10:00Z
+    webUrl: "https://www.aol.com/mental-health-tech-company-ran-141000959.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 17
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/fRD5CJ6x7HBzu1dai.Jo5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/01b67202fa238cd10095df448785d5a3"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "FGTHr9q7MG76tFeFVPXi031EuIJ/2oALnKBcBINekwFEy/4YkAAIaGHvpuPjlDPdAFMTa7qCWCIXy8eaG8QwVxXFPKLdPiGb2Ac4Vd5l3+VH2xRTp1l3Lpnzm1VAYAM3ENQJaWWUUyLdGNeQrQCrCrqnwHc8H2IygvCqtVWWTMeGRmZJF9XLBjkqd4cuMMU35dlq7NMsBJ0Qd4agX3yU069IjpcwEsxoqvayuuk6YGcJ0rxxdnzseCIV2w9ZJyEv043O0zoynRe4B1lz+XaHVtmo//ye4/F4MygRPiMJwBjSl0Z/YrjwJ96y67W45HrVHXC+IBkfREvfD/KvIjbv9HunrU5MikVrpDbJCot/XeGICp+tqs9Qdi+0G12tco7C0aSyIAeAozvYZK+gQ5/4Y8IKG+iFniMeO+rIophKtohVKtJhJCYegJS1aiaosxU97zrhOJHcI4vpKbDW6kAqBEp1nrE8CoYryFikDhkf/Dl7dV1vLsg19g7fl6CKqyiHBT5oCUBk9yZNcxAC0wSAoQ==;wJM9bWd7YwlFx4bJLlKtTQ=="
 ---

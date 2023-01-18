@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/amp/"
 type: article
 quality: 84
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -148,6 +148,20 @@ related:
       - url: "https://uproxx.com/wp-content/uploads/2023/01/2-nick-1.jpg?w=710"
         width: 710
         height: 400
+        isCached: true
+  - title: "A mental health tech company ran an AI chat experiment on real users. Nothing’s stopping apps from conducting more."
+    excerpt: "ChatGPT was used by the emotional support chat app Koko to write responses for real users. Controversy came quickly after the experiment was announced."
+    publishedDateTime: 2023-01-14T13:10:00Z
+    webUrl: "https://www.aol.com/mental-health-tech-company-ran-141000959.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 17
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/fRD5CJ6x7HBzu1dai.Jo5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/01b67202fa238cd10095df448785d5a3"
+        width: 1200
+        height: 600
         isCached: true
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."

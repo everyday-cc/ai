@@ -36,7 +36,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://media.wired.com/photos/63c6ed49e99d817cb5daad76/master/pass/03_Infinite-AI-interns-for-everybody.jpg"
         width: 2400

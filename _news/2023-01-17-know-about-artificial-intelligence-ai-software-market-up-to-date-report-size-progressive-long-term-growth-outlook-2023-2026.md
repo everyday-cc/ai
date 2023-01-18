@@ -70,10 +70,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Medical Market : Reliable Business Data Analysis and Forecast by 2029 with Top Countries Data"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. A recent"
+    publishedDateTime: 2023-01-18T04:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Systems in Healthcare Market 2023 Expected to Witness the Highest Revenue Growth Over Forecast to 2028"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence"
     publishedDateTime: 2023-01-14T23:14:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2023-01-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Market 2023 Report Offers Key Futuristic Top Trends And Competitive Landscape By 2029"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. This review"
+    publishedDateTime: 2023-01-18T04:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-2023-report-offers-key-futuristic-top-trends-and-competitive-landscape-by-2029-2023-01-18"
     type: article
     provider:
       name: MarketWatch
@@ -135,6 +163,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning in Manufacturing Market 2023 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2029"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Machine Learning"
+    publishedDateTime: 2023-01-18T04:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-2023-key-product-segments-application-analysis-and-industry-growth-forecast-by-2029-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

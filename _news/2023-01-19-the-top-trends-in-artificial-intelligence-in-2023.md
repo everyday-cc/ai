@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-18T16:13:00Z
 originalUrl: "https://www.mddionline.com/digital-health/top-trends-artificial-intelligence-2023"
 webUrl: "https://www.mddionline.com/digital-health/top-trends-artificial-intelligence-2023"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_2023-1-18-110145.jpg"

@@ -107,11 +107,20 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/university-of-toronto.jpg",
+          "width": 2880,
+          "height": 1921,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://phys.org/news/2023-01-scientists-machine-fast-track-drug.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-scientists-machine-fast-track-drug.amp",
       "publishedDateTime": "2023-01-09T16:01:00-08:00",
       "updatedDateTime": null,
       "provider": {

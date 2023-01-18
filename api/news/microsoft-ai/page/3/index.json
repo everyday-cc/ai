@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-18-bispecific-antibodies-in-blood-cancers-exercise-and-cognitive-function.md",
+      "title": "Bispecific Antibodies in Blood Cancers; Exercise and Cognitive Function",
+      "excerpt": "This week's topics include cognitive function, diet and exercise, intermittent vigorous exercise, bispecific antibodies, and weight loss, exercise and osteoarthritis pain. Rick: And a new use of T ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/podcasts/healthwatch/102291",
+      "originalUrl": "https://www.medpagetoday.com/podcasts/healthwatch/102291",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/102xxx/102291.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-17T20:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-18-chatgpt-is-proof-the-ai-chatbots-are-here-to-stay.md",
+      "title": "ChatGPT is proof the AI chatbots are here to stay",
+      "excerpt": "Chat GPT crashed. “I immediately feel like I lost 50 points of IQ,” tweeted one user. “Now I have to use search engines like cavemen did,” exclaimed",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetimes.co.uk/article/chatgpt-is-proof-the-ai-chatbots-are-here-to-stay-6jhd2fbgf?shareToken=ef7b4fa70be33e29af1e523c0621c38f",
+      "originalUrl": "https://www.thetimes.co.uk/article/chatgpt-is-proof-the-ai-chatbots-are-here-to-stay-6jhd2fbgf?shareToken=ef7b4fa70be33e29af1e523c0621c38f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F028dde28-7d61-11ed-a3d2-203363978915.jpg?crop=3000%2C1687%2C0%2C156&resize=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-17-microsoft-launches-real-time-voice-translation-in-skype.md",
       "title": "Microsoft launches real-time voice translation in Skype",
       "excerpt": "The new translation feature uses AI to automatically detect the languages being spoken during a video call and translate them in real time",
@@ -1209,93 +1295,6 @@
       "provider": {
         "name": "Eurogamer",
         "domain": "eurogamer.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-artificial-intelligence-ai-in-logistics-market-is-booming-worldwide-ibm-google-microsoft-corporation.md",
-      "title": "Artificial intelligence (AI) in Logistics Market Is Booming Worldwide IBM, Google, Microsoft Corporation",
-      "excerpt": "New Jersey, United States, Dec 11, 2022 /DigitalJournal/ The global Artificial intelligence (AI ... companies Influencing this Market include: IBM, Google, Microsoft Corporation, Amazon Web ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-logistics-market-is-booming-worldwide-ibm-google-microsoft-corporation",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-logistics-market-is-booming-worldwide-ibm-google-microsoft-corporation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Artificial-intelligence-AI-in-Logistics.jpg",
-          "width": 712,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-11-microsofts-role-in-the-success-of-openai.md",
-      "title": "Microsoft’s Role in the Success of OpenAI",
-      "excerpt": "The OpenAI–Microsoft partnership began in 2019 when Microsoft announced that it would invest $1 billion into OpenAI's project of building Artificial General Intelligence (AGI) that had wide economic benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/microsofts-role-in-the-success-of-openai/",
-      "originalUrl": "https://analyticsindiamag.com/microsofts-role-in-the-success-of-openai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/11/Azure-OpenAI-A-New-Microsoft-Service-Allows-GPT-3-Access.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-10T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,59 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2022-10-12-vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches.md",
-      "title": "Vectara’s AI-based neural search-as-a-service challenges keyword-based searches",
-      "excerpt": "Vectara, formerly ZIR AI, has emerged from stealth with $20M in seed funding, offering AI-based neural search-as-a-service technology.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/",
-      "originalUrl": "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-search_search-engine_connected_network_1400992296-e1665532643283.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/amp/",
-      "publishedDateTime": "2022-10-12T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-10-12-ai-equal-to-humans-in-text-message-mental-health-trial.md",
       "title": "AI equal to humans in text-message mental health trial",
       "excerpt": "UW Medicine researchers have found that algorithms are as good as trained human evaluators at identifying red-flag language in text messages from people with serious mental illness. This opens a promising area of study that could help with psychiatry training and scarcity of care.",
@@ -1469,6 +1416,40 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-speech-recognition-market-size-to-hit-usd-488-billion-at-a-2130-cagr-by-2030-report-by-market-research-future-mrfr.md",
+      "title": "Speech Recognition Market Size To Hit USD 48.8 Billion at a 21.30% CAGR by 2030 - Report by Market Research Future (MRFR)",
+      "excerpt": "The speech recognition market witness's rapid revenue growth due to the increasing use in the education sectors globally. Besides, the rising demand for accurate and easy-to-use speech recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g29036418/speech-recognition-market-size-to-hit-usd-48-8-billion-at-a-21-30-cagr-by-2030-report-by-market-re",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g29036418/speech-recognition-market-size-to-hit-usd-48-8-billion-at-a-21-30-cagr-by-2030-report-by-market-re",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29036418",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29036418",
+      "publishedDateTime": "2022-09-27T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

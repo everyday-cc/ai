@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-18T17:33:00Z
 originalUrl: "https://www.entrepreneur.com/business-news/getty-images-to-ai-companies-stop-illegally-using-our/443216"
 webUrl: "https://www.entrepreneur.com/business-news/getty-images-to-ai-companies-stop-illegally-using-our/443216"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://assets.entrepreneur.com/content/3x2/2000/1674066815-SOPAImagesContributor.jpg"

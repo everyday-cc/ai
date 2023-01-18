@@ -7,7 +7,7 @@ originalUrl: "https://www.bakersfield.com/ap/news/new-fico-and-corinium-report-f
 webUrl: "https://www.bakersfield.com/ap/news/new-fico-and-corinium-report-finds-financial-services-firms-lack-responsible-ai-strategies-despite-surging/article_b5bb267e-c398-51c5-b9cd-de78613591d8.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "New FICO Report: AI at Financial Services Firms Jeopardized by Lack of Responsible AI Initiatives"
+    excerpt: "Global analytics software platform provider FICO today released its third annual State of Responsible AI in Financial"
+    publishedDateTime: 2023-01-18T20:30:00Z
+    webUrl: "https://www.datanami.com/this-just-in/new-fico-report-ai-at-financial-services-firms-jeopardized-by-lack-of-responsible-ai-initiatives/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 6
 
 secured: "XTAowGSGoh0h/zMoMY2VN8EUyoaXJVdr5Wdb6LFGwzUIWOR2Ap/KauRg/P2kVZkYpp4603daByJaMVZ9R7kRoJxVUdNrvSIwDNfxUZ/id7JJALMm91Fe3+xaot2yACsS8Gl8FaNftS35j968xBUAPObCJZFJNw5vzteZtJF2aApnzIKfuVkNskXDdjn5upGPh0LYVGJvPTGtG5WKZysbAqHxha7ne/XAouN6OxyHEsVIejAuE5WbMSDRQhPCnx2alEi9Ee3o6RXwmjaK1T4vJs3Wf2HujkRzkBUNbmxTM8mDC+MeEyIvseDbMq//UJvdTbtZxuQcKxMOn1vNlOW7yWeVEvZtQn9uHn8+xT5y/Ls=;f1MZM+hkBKEGKuf3QHMTPw=="
 ---

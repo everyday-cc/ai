@@ -2,6 +2,101 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2022-10-18-nvidia-and-oracle-announce-expanded-cloud-ai-partnership.md",
+      "title": "Nvidia and Oracle announce expanded cloud AI partnership",
+      "excerpt": "Nvidia and Oracle announced an expanded, multiyear partnership today at Oracle CloudWorld to help customers speed AI adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/NVIDA-H100-SXM-image.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/amp/",
+      "publishedDateTime": "2022-10-18T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-speak-up-how-to-use-speech-recognition-and-dictate-text-in-windows.md",
+      "title": "Speak Up: How to Use Speech Recognition and Dictate Text in Windows",
+      "excerpt": "This can be done through Cortana, or you can use the speech recognition built directly into Windows 10 and 11 in order to speak to any supported version of Windows. Once you teach the operating ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/migrated-3765-windows-10/143275/speak-up-how-to-use-speech-recognition-and-dictate-text-in-windows",
+      "originalUrl": "https://uk.pcmag.com/migrated-3765-windows-10/143275/speak-up-how-to-use-speech-recognition-and-dictate-text-in-windows",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-ai-content-platform-jasper-raises-125m-at-a-15b-valuation.md",
       "title": "AI content platform Jasper raises $125M at a $1.5B valuation",
       "excerpt": "Jasper, a platform leveraging AI to generate marketing art and copy, has raised $125 million at a $1.5 billion valuation.",
@@ -1084,101 +1179,6 @@
       "provider": {
         "name": "Entorno Inteligente",
         "domain": "entornointeligente.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm.md",
-      "title": "Deep Learning Chipset Market Business Overview 2022, and Forecast to 2028 | NVIDIA, Intel, IBM",
-      "excerpt": "The Deep Learning Chipset Market research report offers various benefits, such as on-time product delivery, lower",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm-2022-10-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm-2022-10-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T23:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-deep-sea-organisms-research-oriented-by-deep-sea-technologies-development.md",
-      "title": "Deep-sea organisms research oriented by deep-sea technologies development",
-      "excerpt": "The deep sea has been documented as the largest biome on earth. Typical deep-sea ecosystems such as hydrothermal vents, cold seeps, seamounts, oceanic trenches, and whale falls, shatter our early ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-10-deep-sea-technologies.html",
-      "originalUrl": "https://phys.org/news/2022-10-deep-sea-technologies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/deep-sea-organisms-res.jpg",
-          "width": 1600,
-          "height": 1671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-10-deep-sea-technologies.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-deep-sea-technologies.amp",
-      "publishedDateTime": "2022-10-17T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null

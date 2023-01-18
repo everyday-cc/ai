@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-microsoft-can-become-the-biggest-winner-of-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 564,
+      "heat": 594,
       "tags": null,
       "images": [
         {
@@ -252,6 +252,40 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-infosys-strong-growth-of-137-per-cent-in-constant-currency-in-a-seasonally-weak-quarter.md",
+      "title": "Infosys: Strong growth of 13.7 per cent in constant currency in a seasonally weak quarter",
+      "excerpt": "Infosys (NSE: INFY) (BSE: INFY) (NYSE: INFY), a global leader in next-generation digital services and consulting, reported strong Q3 performance with year-on-year growth at 13.7 per cent and sequential growth at 2.",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/Articles/Business/20230112/4026024.html",
+      "originalUrl": "https://news.webindia123.com/news/Articles/Business/20230112/4026024.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T17:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1239,6 +1273,41 @@
       ]
     },
     {
+      "path": "_news/2023-01-10-nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt.md",
+      "title": "NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)",
+      "excerpt": "The provider has not supplied information on the NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT ... Qualtrics Feedback, Microsoft Clarity and Google Analytics. We use this information to improve our site.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nhs.uk/services/clinic/dover-counselling-centre/AJA01/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt/",
+      "originalUrl": "https://www.nhs.uk/services/clinic/dover-counselling-centre/AJA01/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHS Choices",
+        "domain": "www.nhs.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-08-fda-approves-alzheimers-drug-shown-to-moderately-slow-cognitive-decline-in-early-stages-of-the-disease.md",
       "title": "FDA approves Alzheimer’s drug shown to moderately slow cognitive decline in early stages of the disease",
       "excerpt": "The Food and Drug Administration on Friday approved a new Alzheimer’s disease treatment that moderately slows cognitive decline in people with early-stage disease. The drug, called Leqembi ...",
@@ -1279,76 +1348,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-isle-talk-iapt-nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt.md",
-      "title": "Isle Talk IAPT - NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)",
-      "excerpt": "We'd also like to use analytics cookies. These collect feedback and send information about how our site is used to services called Adobe Analytics, Qualtrics Feedback, Microsoft Clarity and Google Analytics. We use this information to improve our site.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhs.uk/services/clinic/isle-talk-iapt/R1F04/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt/",
-      "originalUrl": "https://www.nhs.uk/services/clinic/isle-talk-iapt/R1F04/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T20:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHS Choices",
-        "domain": "www.nhs.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-cognitive-behavioural-therapy-services.md",
-      "title": "Cognitive behavioural therapy services",
-      "excerpt": "We'd also like to use analytics cookies. These send information about how our site is used to services called Adobe Analytics, Hotjar and Google Analytics. We use this information to improve our site. Let us know if this is OK. We'll use a cookie to save ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhs.uk/services/hospital/priory-hospital-bristol/NTN38/departments/SRV0019/cognitive-behavioural-therapy-services/",
-      "originalUrl": "https://www.nhs.uk/services/hospital/priory-hospital-bristol/NTN38/departments/SRV0019/cognitive-behavioural-therapy-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T17:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHS Choices",
-        "domain": "www.nhs.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

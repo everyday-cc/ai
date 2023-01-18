@@ -2,6 +2,101 @@
   "page": 146,
   "value": [
     {
+      "path": "_news/2022-09-08-these-driverless-vehicles-are-going-to-start-delivering-uber-eats-orders-in-texas-and-california.md",
+      "title": "These driverless vehicles are going to start delivering Uber Eats orders in Texas and California",
+      "excerpt": "Nuro's driverless vehicles are going to start delivering some Uber Eats orders in Texas and California. Uber announced Thursday that it was launching a 10-year partnership with robotics company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/nuro-driverless-vehicles-will-deliver-uber-orders-in-texas-california-2022-9",
+      "originalUrl": "https://www.businessinsider.com/nuro-driverless-vehicles-will-deliver-uber-orders-in-texas-california-2022-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/631a16ba0a329a0011e3767d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/nuro-driverless-vehicles-will-deliver-uber-orders-in-texas-california-2022-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nuro-driverless-vehicles-will-deliver-uber-orders-in-texas-california-2022-9?amp",
+      "publishedDateTime": "2022-09-08T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-be-at-the-forefront-of-the-fintech-revolution-with-spjimrs-fintech-and-blockchain-programme.md",
+      "title": "Be at the forefront of the fintech revolution with SPJIMR’s Fintech and Blockchain programme",
+      "excerpt": "“[I] was able to get some great insights on applications of blockchain, cryptocurrency, AI, fintech products through engaging case studies, class discussion and applications in Python ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/spotlight/be-at-the-forefront-of-the-fintech-revolution-with-spjimrs-fintech-and-blockchain-programme/articleshow/94024712.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/spotlight/be-at-the-forefront-of-the-fintech-revolution-with-spjimrs-fintech-and-blockchain-programme/articleshow/94024712.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-94070643,width-1070,height-580,imgsize-184826,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1070,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/spotlight/be-at-the-forefront-of-the-fintech-revolution-with-spjimrs-fintech-and-blockchain-programme/amp_articleshow/94024712.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/spotlight/be-at-the-forefront-of-the-fintech-revolution-with-spjimrs-fintech-and-blockchain-programme/amp_articleshow/94024712.cms",
+      "publishedDateTime": "2022-09-08T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-baidu-announces-superconducting-quantum-computer-and-integration-solution.md",
       "title": "Baidu Announces Superconducting Quantum Computer and Integration Solution",
       "excerpt": "Subscribe for free. Baidu, the company behind the homonymous search engine, has announced its first quantum computing processor, named Qian Shi, along with an \"all-platform\" integration solution ...",
@@ -1059,83 +1154,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-life-certificate-through-face-recognition.md",
-      "title": "Life certificate through face recognition",
-      "excerpt": "India Post team was able to get a life certificate issued to a pensioner using face recognition system in the city on Wednesday. Mangaluru Senior Superintendent of Posts in a statement here said that freedom fighter Mattar Vittal Kini was facing difficulties in receiving pension as his fingerprint was not being recognised.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/cities/Mangalore/life-certificate-through-face-recognition/article65862949.ece",
-      "originalUrl": "https://www.thehindu.com/news/cities/Mangalore/life-certificate-through-face-recognition/article65862949.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/cities/Mangalore/life-certificate-through-face-recognition/article65862949.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Mangalore/life-certificate-through-face-recognition/article65862949.ece/amp/",
-      "publishedDateTime": "2022-09-07T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-cognitive-dissonance-what-to-know.md",
-      "title": "Cognitive dissonance: What to know",
-      "excerpt": "Cognitive dissonance is the discomfort a person feels when their behavior does not align with their values or beliefs. It can also occur when a person holds two contradictory beliefs at the same ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/326738",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/326738",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical News Today",
-        "domain": "medicalnewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

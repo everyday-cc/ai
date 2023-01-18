@@ -2,6 +2,83 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2022-11-17-bloomberg-media-uses-london-based-ai-firm-to-translate-news-videos-into-spanish.md",
+      "title": "Bloomberg Media uses London-based AI firm to translate news videos into Spanish",
+      "excerpt": "Under a new partnership, Bloomberg Media will use the technology of Papercup for translation of its news coverage into the Spanish language.",
+      "sourceUrl": null,
+      "webUrl": "https://pressgazette.co.uk/publishers/digital-journalism/bloomberg-media-papercup-translation-spanish-2/",
+      "originalUrl": "https://pressgazette.co.uk/publishers/digital-journalism/bloomberg-media-papercup-translation-spanish-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/08/Screenshot-2022-08-22-at-10.07.53-e1661155738756-464x348.jpg",
+          "width": 464,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Press Gazette",
+        "domain": "pressgazette.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-fintech-investment-innovation-ideology-and-technology-swift-growth-in-new-technology-such-as-ai-vital-for-sector-expansion.md",
+      "title": "FinTech Investment, Innovation, Ideology and Technology: Swift Growth in New Technology Such as AI Vital for Sector Expansion",
+      "excerpt": "Dublin, Nov. 17, 2022 (GLOBE NEWSWIRE) -- The \"FinTech: Investment, Innovation, Ideology and Technology\" report has been added to ResearchAndMarkets.com's offering. The fintech sector includes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/g29765867/fintech-investment-innovation-ideology-and-technology-swift-growth-in-new-technology-such-as-ai-vi",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/g29765867/fintech-investment-innovation-ideology-and-technology-swift-growth-in-new-technology-such-as-ai-vi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29765867",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29765867",
+      "publishedDateTime": "2022-11-17T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-dyslexia-screener-incubated-at-boston-childrens-hospital-leverages-speech-recognition-to-help-educators-identify-reading-challenges-sooner.md",
       "title": "Dyslexia Screener Incubated at Boston Children's Hospital Leverages Speech Recognition to Help Educators Identify Reading Challenges, Sooner",
       "excerpt": "In its first year, EarlyBird Education has helped thousands of educators assess over 20,000 students; new partnership with speech recognition technology pioneer SoapBox Labs makes it easier to ...",
@@ -1078,93 +1155,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-any-developer-can-be-a-space-developer-with-the-new-azure-orbital-space-sdk.md",
-      "title": "Any developer can be a space developer with the new Azure Orbital Space SDK",
-      "excerpt": "Today, we are announcing a crucial step towards democratizing access to space development, with the private preview release of Azure Orbital Space Software Development Kit(SDK)—a secure hosting platform and application kit designed to enable developers to create in the cloud and deploy and operate applications",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/any-developer-can-be-a-space-developer-with-the-new-azure-orbital-space-sdk/",
-      "originalUrl": "https://azure.microsoft.com/blog/any-developer-can-be-a-space-developer-with-the-new-azure-orbital-space-sdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T22:00:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-machine-learning-as-a-service-mlaas-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028.md",
-      "title": "Machine Learning-as-a-Service (MLaaS) Industry 2022 Market Growth, Size, Share, Demand, Trends and Forecasts to 2028",
-      "excerpt": "Global Machine Learning-as-a-Service (MLaaS) Market (2022-2028) Research report offers in-depth analysis on market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028-2022-11-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028-2022-11-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T21:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

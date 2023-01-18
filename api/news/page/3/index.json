@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-01-15-meet-tori-ai-for-your-fast-food-order.md",
-      "title": "Meet Tori, AI for your fast food order",
-      "excerpt": "Tori — an artificial intelligence launched by OpenCity — is described as the restaurant industry’s first conversational voice in the drive thru.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koin.com/news/meet-tori-ai-for-your-fast-food-order/",
-      "originalUrl": "https://www.koin.com/news/meet-tori-ai-for-your-fast-food-order/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.koin.com/wp-content/uploads/sites/10/2023/01/GettyImages-1352323887.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.koin.com/news/meet-tori-ai-for-your-fast-food-order/amp/",
-      "cdnAmpWebUrl": "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/news/meet-tori-ai-for-your-fast-food-order/amp/",
-      "publishedDateTime": "2023-01-15T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KOIN 6",
-        "domain": "koin.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-15-what-jobs-are-available-in-artificial-intelligence-how-to-make-a-career-in-this-ai-boom.md",
       "title": "What Jobs Are Available In Artificial Intelligence? How To Make A Career In This AI Boom",
       "excerpt": "From research to consulting, there will be an array of job opportunities across an even broader array of market sectors where the core skill set requires an expertise in the field of artificial intelligence.",
@@ -106,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -1261,6 +1218,49 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-14-indian-banks-said-to-soon-use-face-recognition-iris-scan-for-some-transactions.md",
+      "title": "Indian Banks Said to Soon Use Face Recognition, Iris Scan for Some Transactions",
+      "excerpt": "The new measures can be used to verify identities of individuals making deposits and withdrawals exceeding Rs. 2 million in a financial year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgets360.com/internet/news/indian-banks-facial-recognition-eye-scan-some-transactions-sources-3690867",
+      "originalUrl": "https://www.gadgets360.com/internet/news/indian-banks-facial-recognition-eye-scan-some-transactions-sources-3690867",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.gadgets360cdn.com/large/indian_banks_facial_recognition_iris_scan_reuters_1673630330807.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgets360.com/internet/news/indian-banks-facial-recognition-eye-scan-some-transactions-sources-3690867/amp",
+      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/indian-banks-facial-recognition-eye-scan-some-transactions-sources-3690867/amp",
+      "publishedDateTime": "2023-01-13T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadgets360",
+        "domain": "gadgets360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],
