@@ -169,6 +169,20 @@ related:
       name: KTVU
       domain: ktvu.com
     quality: 39
+  - title: "Tesla engineer testified that promotional self-driving video was staged"
+    excerpt: "(Ethan Miller/Getty Images) A 2016 video that Tesla used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior ..."
+    publishedDateTime: 2023-01-18T12:14:00Z
+    webUrl: "https://www.cbc.ca/news/business/tesla-deposition-self-driving-claim-1.6717564"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 39
+    images:
+      - url: "https://i.cbc.ca/1.6717570.1674041200!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/630933360.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Tesla engineer testifies 2016 self-driving video was staged"
     excerpt: "Ashok Elluswamy said Tesla's autopilot team made the video — a 'demonstration of the system’s capabilities' — at the behest of CEO Elon Musk."
     publishedDateTime: 2023-01-17T21:20:00Z
@@ -199,8 +213,8 @@ related:
         isCached: true
   - title: "Tesla engineer testifies that 2016 self-driving footage was faked"
     excerpt: "A senior Tesla (TSLA) engineer admitted that a 2016 video promoting the automaker’s autonomous driving technology was staged."
-    publishedDateTime: 2023-01-17T18:20:00Z
-    webUrl: "https://seekingalpha.com/news/3925123-tesla-engineer-testifies-that-2016-self-driving-footage-was-faked?source=content_type%3Areact|first_level_url%3Amarket-news|section_asset%3Atop"
+    publishedDateTime: 2023-01-17T17:13:00Z
+    webUrl: "https://seekingalpha.com/news/3925123-tesla-engineer-testifies-that-2016-self-driving-footage-was-faked"
     type: article
     provider:
       name: Seeking Alpha
@@ -254,6 +268,6 @@ related:
         height: 630
         isCached: true
 
-secured: "adwir5AsvOjsjCt74SYOcjM/bjQAx4Z/KGR6eAoix6cG6pF1dScGzF6J9bondNvMKJRSVk19gI3tm9YdtCbhV3LzkqSZbAUYAcWdM/wQPs9WiKPHoiMItcgxqj3P4Plr5wECsXlf3S6QGem5i4YmPbByQrZbu3iNkt396CB/Ioccw2Cgpo1oyTlgXdMTUBnTOuWdiSD/xac7tuTdCBQhHgFIeAFa2gXSRegta4dmVT+LecsFykubEs1sOORdY4BZFvf5XQ87cyhokueQ2Vin07ATMGT3QFg+whFcDUn0Q7KKwvM64a5woQWmHQKMiqadBgwS2RIHmE7b2nIK0qkpX+85g+2QYt+2N4pzeIaW7Xg=;Uh3Z371grhnMbz+8PMOwmw=="
+secured: "36QfjOnKyp0soTvzhbqJn77EPBGRBGnglA9J8cLglh8xI4vWDGSy9AOUoJHdHFiQ9NljpjFuoygQAM36gnphvceyla4pm3jU0UWo2P3NSOQmFlxPCgmRNYlwjpRig+Zdm/RkjwImRVWcGxc6ksDbd0e1gNDGddVp8i3sB+QrRorQwMZOV52+UrzXqM73Bh2eI/tVydd6bCf7cuKAdqWQNgA+HTOfUqlWYhtBEcvXXei0y9uUG52I7qqntEL7mf7Z8f5w4lPN4prxp6Qt8rnNlBFdUw5JvvfRFccI4+MvqfnpIBFLRRJ/eZjH96L/jpwQap1sfYUlfJBrB1ydWk/pYZfHtKcutfIWZj/ax6N4ZC/KMkPl94VbTe4HmlloRDLPAsgmo9fmolZcIR7Glzbdg7f+0F7L+5kketFIllaoFzccnXaRLrav3rbDEkWZ4ozmLCT0VmgjYVDqG8wJLGQ/wUUL6xfelnEwFhpBs4lJPAGv1FabyA/L+zyUoBf55sNW6ROJ5NODVp4sw1Ra5JLKOA==;fKOPiI+zRWA+uCHmnvL6xA=="
 ---
 

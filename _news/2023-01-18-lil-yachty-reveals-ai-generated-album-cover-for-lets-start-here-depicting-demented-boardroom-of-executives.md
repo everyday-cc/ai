@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Lil Yachty Reveals AI-Generated ‘Let’s Start Here’ Album Cover"
+    excerpt: "Lil Yachty is ready to let loose his latest body of work. The Atlanta-raised rapper’s Let’s Start Here studio LP is scheduled to drop on January 27. Yesterday, Lil Yachty revealed the official artwork for Let’s Start Here. According to Variety ..."
+    publishedDateTime: 2023-01-18T12:40:00Z
+    webUrl: "https://allhiphop.com/news/lil-yachty-reveals-ai-generated-lets-start-here-album-cover/"
+    type: article
+    provider:
+      name: AllHipHop
+      domain: allhiphop.com
+    quality: 37
+    images:
+      - url: "https://allhiphop.com/wp-content/uploads/2023/01/Lil-Yachty.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Lil Yachty Shared The Release Date And Creepy Cover Art For ‘Let’s Start Here,’ His Much-Anticipated New Album"
     excerpt: "At long last, Lil Yachty has finally shared the release date for his long-anticipated fifth studio album. Today, the “Poland” rapper revealed that his new album, called Let’s Start Here will release later this month."
     publishedDateTime: 2023-01-17T20:18:00Z

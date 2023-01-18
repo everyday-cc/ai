@@ -29,68 +29,146 @@ images:
     isCached: true
 
 related:
-  - title: "Driverless cars may worsen congestion by 85 percent, a report claims amid 2025 rollout"
-    excerpt: "It has been claimed in a Government report that driverless cars may worsen congestion by 85 percent. The claim by the Department of Transport comes amid thoughts of such vehicles becoming ..."
-    publishedDateTime: 2023-01-16T04:17:00Z
-    webUrl: "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont"
-    ampWebUrl: "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 66
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/1/590x/Traffic-1721675.jpg?r=1673839653328"
-        width: 590
-        height: 353
-        isCached: true
-  - title: "Self-Driving/Driverless Cars Market Size 2023 With End-user Industries, Segments Covered in the Report"
-    excerpt: "Self-Driving/Driverless Cars Market 2023 with 103 Pages Report and enhance with extents shares into sub-counties"
-    publishedDateTime: 2023-01-16T06:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-drivingdriverless-cars-market-size-2023-with-end-user-industries-segments-covered-in-the-report-2023-01-16"
+  - title: "Computer Vision Market 2023 Size, Sales, Drivers, Restraints, Growth Strategies, Major Players, Regional Overview Forecast till 2029"
+    excerpt: "Global Computer Vision MarketNEW UPDATED REPORT 2023 presents a trusted overview of the current market situation"
+    publishedDateTime: 2023-01-18T07:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-size-sales-drivers-restraints-growth-strategies-major-players-regional-overview-forecast-till-2029-2023-01-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Driverless cars could make traffic 85pc worse, government report finds"
-    excerpt: "He said: “If everyone insists on having their own driverless car then traffic volume and parking pressures will rise. “However, if we are prepared to access these vehicles on demand and forego ..."
-    publishedDateTime: 2023-01-15T19:00:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2023/01/15/driverless-cars-could-make-traffic-85pc-worse-government-report/"
+  - title: "Artificial Intelligence In Healthcare Service Market : Competitive Strategy Analysis and Forecast Values 2023-2029"
+    excerpt: "\" Artificial Intelligence In Healthcare Service Market \" areas divides into sub-regions and nations/regions, are covered in this market. This research includes data on profit prospects in addition to market share in each nation and sub region."
+    publishedDateTime: 2023-01-17T06:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-competitive-strategy-analysis-and-forecast-values-2023-2029-2023-01-17"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Accounting Market Growth, Trends and Industry Forecast 2023-2029 with Top Countries Data"
+    excerpt: "Artificial Intelligence in Accounting Market\" Research report provides significant value on the state of the industry."
+    publishedDateTime: 2023-01-17T07:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-growth-trends-and-industry-forecast-2023-2029-with-top-countries-data-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Software Market 2023 Business analysis By Top Key Player with Revenue & Region till 2029 [ LATEST REPORT ]"
+    excerpt: "Jan 15, 2023 (The Expresswire) -- \"Face Recognition Software Market\" Research Insights Report 2023 | Latest Report Spread Across[ 103 Pages ]"
+    publishedDateTime: 2023-01-15T14:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-business-analysis-by-top-key-player-with-revenue-region-till-2029-latest-report-2023-01-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Image Recognition in Retail Market New Insight Report 2023 with Strategic Decision-Making and Identification of Major Corporations"
+    excerpt: "Global \"Image Recognition in Retail Market\" Analysis and Outlook 2023 | Exclusive Report [ No of Pages 126]. The"
+    publishedDateTime: 2023-01-16T17:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-new-insight-report-2023-with-strategic-decision-making-and-identification-of-major-corporations-2023-01-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 39
     images:
-      - url: "https://www.telegraph.co.uk/content/dam/news/2023/01/15/TELEMMGLPICT000322063156_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?imwidth=680"
-        width: 680
-        height: 425
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Self-driving cars could nearly double road congestion, says report"
-    excerpt: "LONDON: Motorists could be stuck in congestion nearly twice as bad as current levels if self-driving cars become commonplace, a UK government report warns. The UK's Department for Transport (DfT) traffic projections for England and Wales show delays may rise by up to 85% from 2025 to 2060 in that scenario."
-    publishedDateTime: 2023-01-16T19:48:00Z
-    webUrl: "https://www.carsifu.my/news/self-driving-cars-could-nearly-double-road-congestion-says-report"
+  - title: "Deep Learning Market Significant Growth Opportunities 2023 [New Report] Business Statistics, Future Trends, and Global Share Forecast To 2029"
+    excerpt: "Pages Report] The Deep Learning market research report includes the total number of facts and figures with manufacturers, types, applications, and regions. The Deep Learning Market report provides a market overview of the report along with competitive landscape that includes business profile,"
+    publishedDateTime: 2023-01-14T04:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-significant-growth-opportunities-2023-new-report-business-statistics-future-trends-and-global-share-forecast-to-2029-2023-01-14"
     type: article
     provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 4
-  - title: "Self-driving cars could cause congestion to nearly double, warns government report"
-    excerpt: "Road congestion could almost double from current levels if self-driving cars become commonplace, according to a new government report. The Department for Transport’s projections for traffic levels in England and Wales suggest that delays could soar by up to 85% between 2025 and 2060."
-    publishedDateTime: 2023-01-17T13:50:00Z
-    webUrl: "https://www.yorkshirepost.co.uk/lifestyle/cars/self-driving-cars-could-cause-congestion-to-nearly-double-warns-dft-government-autonomous-vehicle-report-3988138"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Oil and Gas Market Size 2023 with strong supplier, Key factors, driving the market growth, Information Forecast 2029"
+    excerpt: "Global Artificial Intelligence in Oil and Gas Market| Outlook 2023-2028 | Number of Tables and Figures | No Pages 114 |"
+    publishedDateTime: 2023-01-16T07:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-size-2023-with-strong-supplier-key-factors-driving-the-market-growth-information-forecast-2029-2023-01-16"
     type: article
     provider:
-      name: The Yorkshire Post
-      domain: yorkshirepost.co.uk
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automatic Content Recognition (ACR) Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2029"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. The analytical"
+    publishedDateTime: 2023-01-18T02:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-content-recognition-acr-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Forecast 2028 for the Automatic Content Recognition (ACR) Market in terms of size, returns, gross margin, and market share"
+    excerpt: "The major players covered in the Automatic Content Recognition (ACR) market report are: Get a sample copy of the Automatic Content Recognition (ACR) Market report 2023 Automatic Content Recognition (ACR) Marketsize,"
+    publishedDateTime: 2023-01-18T00:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-automatic-content-recognition-acr-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Interactive Self-service Kiosk Market Size 2023 with strong supplier, Key factors, driving the market growth, Information 2028"
+    excerpt: "The Interactive Self-service Kiosk market is expected to witness significant growth due to growing device usage"
+    publishedDateTime: 2023-01-15T16:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/interactive-self-service-kiosk-market-size-2023-with-strong-supplier-key-factors-driving-the-market-growth-information-2028-2023-01-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5VZh+PCqfLay811ACgTmhLabgp0qala35Epv6OZXztoo74hKNPsdDwt8H+WvHgev6NNNEp0ZQL5NaGlJq2/52i13gCURy20sMELnv201Yo7WFXgfJ4A97c+bURo3iAjQCkkrzkic80XmGqTLpOzeks25ptW9es+nBDcabtz+JQfCeOZUeLK2Bu8z+5m3gOBW1lneZ8RWV8jqwFTn/QGX4evsMR2UqeUxz03WMd5M1o7Swi/FJLgu7XutOS4L1pCE5iATfITvFdIGaKPPWhl6j/7AXfQcnTJxUu242yTYRcMREcCaKHBL/h82diRFNpayvkjFDkfkv+zoPeAWa3N1nqWZxx1WG5h/VXJiiX+SS6k=;lkRBJINBvK42aD9n9TN25A=="
 ---

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Microsoft announces general availability of Azure OpenAI Service"
-excerpt: "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation"
-publishedDateTime: 2023-01-17T11:39:00Z
-originalUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
-webUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
+title: "Microsoft Announces general availability of Azure OpenAI Service"
+excerpt: "Microsoft makes Azure OpenAI Service generally available, which makes the world's most advanced AI, including GPT-3.5, Codex, and DALL•E 2"
+publishedDateTime: 2023-01-17T15:34:00Z
+originalUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
+webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
+ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
+cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Information Age
-  domain: information-age.com
+  name: enterprisetalk
+  domain: enterprisetalk.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
-    width: 788
-    height: 443
+  - url: "https://enterprisetalk.com/wp-content/uploads/2023/01/Microsoft-Announces-general-availability-of-Azure-OpenAI-Service.jpg"
+    width: 1500
+    height: 844
     isCached: true
 
 related:
@@ -576,7 +578,16 @@ related:
       name: Gulf Times
       domain: gulf-times.com
     quality: 19
+  - title: "Artificial intelligence software ChatGPT’s mock exam answers pass plagiarism checks, but AI detection software available"
+    excerpt: "Universities are having to adapt to combat potential plagiarism using artificial intelligence. Dr Popenici also encouraged education institutions to embrace AI. “Let’s use AI to enhance more significant ways to assess what our students learn and what ..."
+    publishedDateTime: 2023-01-18T12:03:00Z
+    webUrl: "https://www.goldcoastbulletin.com.au/news/queensland/artificial-intelligence-software-chatgpts-mock-exam-answers-pass-plagiarism-checks-but-ai-detection-software-available/news-story/7e612a21840fbb19eb6f8f3422d9d087"
+    type: article
+    provider:
+      name: Gold Coast Sun
+      domain: goldcoastbulletin.com.au
+    quality: 7
 
-secured: "oFkj4DofUN2Ejxb6Wkw565SWTqtUQorMaSEjunkNFDOBSqbNTP13MMvuPg6T0LjLJzAMDLZQG2RC/PHP3iUx3bxAbMNPWhiRU9byW2XJA0+GtduFBUg97DNhfeYROf/S6RW0rlkTLNHe3NRSD5yyP3SasShhe2dlPKTxGMDod0hzu4UnfIi8rektWaYnko9x6fcNo7T8yxPI7BmXg/rfybKNaUYcAOkl6hymbHdDaaPg3cKAYCFtty+uAV1MMG93xdSfNOfqjEYX5U0Baq1+9w1Yj3dM+2XNAC2lTN1+arAT3og+uB592X38Pngsd9Zz1ZNzo3TTJhrmsnHTT7iVNtIS5P6Q57eKNQk3+J2h+DQ=;p9MUCxwYx3iY3XApxBqj2g=="
+secured: "+tnxrDzspyf7JxHdGezGquY80J2bZ14vqWTsUrIyXLPxspKX5FTD0lV4jzPOaxekiQn2/Elj4MlIWPNr7/a3DlnzTvshldlCTfRtn8TO92Q3qFV9sLDtnSh2ACiK7YbxpHmj9meoGivVTtO99JpGi4puUn6aMfGweO/nWeQKfJylvGbMt4CVuwKIHUy2dOXVFEDWAy/CNDurONP21IhVWmSfJxsSKm33b/WEO89n/doCrF+h1RgCq66ErlvKjfojX+GjJJ7T2H767zr+6kpXoAMdmbvJN+AIpvT12tzgcikyNmZ+gA4VNq/qBDZbbLSFtF3Y7mAfbfE1GKS5mjiTgV5gg41ZP1pMm5Szy5N3GEk=;WRINxrPu9W9OXd/J0vTxIA=="
 ---
 

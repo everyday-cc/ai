@@ -7,7 +7,7 @@ originalUrl: "https://www.bustle.com/life/uk-government-blocks-scotland-gender-r
 webUrl: "https://www.bustle.com/life/uk-government-blocks-scotland-gender-recognition-reform-bill"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Welsh LGBTQ+ groups slam UK government blocking Scottish Gender Recognition Bill"
+    excerpt: "LGBTQ+ groups in Wales have criticised the decision of the UK government to block Scottish parliament's Gender Recognition Reform Bill. Labelling the move as \"crass and offensive\", the charity Pride Cymru joined other LGBTQ+ groups in Wales to voice ..."
+    publishedDateTime: 2023-01-18T12:14:00Z
+    webUrl: "https://www.walesonline.co.uk/news/wales-news/trans-rights-wales-uk-government-26006756"
+    ampWebUrl: "https://www.walesonline.co.uk/news/wales-news/trans-rights-wales-uk-government-26006756.amp"
+    cdnAmpWebUrl: "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/news/wales-news/trans-rights-wales-uk-government-26006756.amp"
+    type: article
+    provider:
+      name: Wales Online
+      domain: walesonline.co.uk
+    quality: 39
+    images:
+      - url: "https://i2-prod.walesonline.co.uk/incoming/article26007873.ece/ALTERNATES/s1200/1_RH_JRN_270822Pride5_03jpeg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Scottish secretary concedes courts will decide if gender recognition bill poses risk as UK government says – UK politics live"
     excerpt: "He says that if Tory MPs object to the gender recognition reform bill, they should go up to Scotland and get elected, so they can vote on it in the Scottish parliament. It is a Scottish matter, he says. Nicola Sturgeon, Scotland’s first minister ..."
     publishedDateTime: 2023-01-17T15:35:00Z

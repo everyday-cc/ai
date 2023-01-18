@@ -2,6 +2,126 @@
   "page": 132,
   "value": [
     {
+      "path": "_news/2022-09-20-cognitive-impairment-in-hispanic-adults-linked-to-discrimination-experiences.md",
+      "title": "Cognitive impairment in Hispanic adults linked to discrimination experiences",
+      "excerpt": "Now a new study shows that experiences with discrimination may be playing a role in disproportionate experiences of cognitive decline. In a first-of-its-kind study, published recently in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-09-cognitive-impairment-hispanic-adults-linked.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-09-cognitive-impairment-hispanic-adults-linked.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/hispanic-family-1.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-09-cognitive-impairment-hispanic-adults-linked.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-cognitive-impairment-hispanic-adults-linked.amp",
+      "publishedDateTime": "2022-09-19T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-enel-inaugurates-a-new-innovation-lab-in-tel-aviv-for-ai-and-robotics-in-renewables-and-power-grids.md",
+      "title": "Enel inaugurates a new Innovation Lab in Tel Aviv for AI and robotics in renewables and power grids",
+      "excerpt": "The Enel AI&Robotics Lab aims at cooperating with Israeli startups to boost innovation in the field of AI and Robotics applied to renewables and power distribution networks; This",
+      "sourceUrl": null,
+      "webUrl": "https://www.enel.com/es/medios/explora/busqueda-comunicados-de-prensa/press/2022/09/enel-inaugurates-a-new-innovation-lab-in-tel-aviv-for-ai-and-robotics-in-renewables-and-power-grids",
+      "originalUrl": "https://www.enel.com/es/medios/explora/busqueda-comunicados-de-prensa/press/2022/09/enel-inaugurates-a-new-innovation-lab-in-tel-aviv-for-ai-and-robotics-in-renewables-and-power-grids",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Enel",
+        "domain": "enel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
+      "title": "Truly autonomous cars may be impossible without helpful human touch",
+      "excerpt": "MILTON KEYNES, England (Reuters) -Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investing.com/news/world-news/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2894928",
+      "originalUrl": "https://www.investing.com/news/world-news/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2894928",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/LYNXNPEC9O0PR_L.jpg",
+          "width": 800,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-soft-robot-biodegrades-inside-body.md",
       "title": "Soft Robot Biodegrades Inside Body",
       "excerpt": "The device can be controlled using magnetic fields ... and may even lead to soft robots that can carry out surgical procedures within the body. One of the nicest features of the device is its ...",
@@ -1007,135 +1127,6 @@
         "name": "Business Insider India",
         "domain": "businessinsider.in",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-18-say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle.md",
-      "title": "Say Hello to the Next Generational AI Earbud That’s the most cost effective translation equipment for churches – Timekettle",
-      "excerpt": "Listen to the powerful preaching of God’s Word, now in your own language with the AI church translation equipment earbuds. GUANGDONG – SEPTEMBER 18, 2022 – Earbuds have come a long way since they were introduced to the world way back in 1891 by Ernest Mercadier.",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-9-18-say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-9-18-say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-17T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-daily-multivitamin-may-slow-down-cognitive-decline-in-older-adults.md",
-      "title": "Daily Multivitamin May Slow Down Cognitive Decline in Older Adults",
-      "excerpt": "Daily multivitamins may slow down cognitive decline among older adults. The corresponding study was published in Alzheimer's & Dementia. The Alzheimer's Association states that there are 6.5 million Americans living with Alzheimer's disease and that 1 in 3 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/drug-discovery-and-development/23635/daily-multivitamin-slow-cognitive-decline-adults",
-      "originalUrl": "https://www.labroots.com/trending/drug-discovery-and-development/23635/daily-multivitamin-slow-cognitive-decline-adults",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.labroots.com/content_article_profile_image_5de5b999909a9e88a3f03d5a7f5a4f882dc6e244_1436.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-17T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-would-you-be-okay-getting-a-doctor-less-surgery.md",
-      "title": "Would You Be Okay Getting a Doctor-less Surgery?",
-      "excerpt": "Robots could someday be fully autonomous in operating rooms. Their biggest challenge might have nothing to do with the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/technology/archive/2022/09/autonomous-robot-surgery-operations-medicine/671449/?amp;amp;amp;amp",
-      "originalUrl": "https://www.theatlantic.com/technology/archive/2022/09/autonomous-robot-surgery-operations-medicine/671449/?amp;amp;amp;amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/v9szENxl4Ozc3JpxnMJuY7ExRyc=/0x64:2995x1624/1200x625/media/img/mt/2022/09/GettyImages_636182204/original.jpg",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

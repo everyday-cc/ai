@@ -30,15 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Devices Market Geographical Segmentation By Forecast Revenue 2023-2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Facial Recognition"
-    publishedDateTime: 2023-01-14T23:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-geographical-segmentation-by-forecast-revenue-2023-2028-2023-01-14"
+  - title: "Artificial intelligence (AI) Chips Market Size 2023 Will Touch A New Level In The Upcoming Year 2026"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-01-18T01:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -58,57 +58,57 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI and Machine Learning Operationalization Software Market is Taking Hike in Revenue Along With Top Key Players Profile and Forecast 2023 To 2028"
-    excerpt: "AI and Machine Learning Operationalization Software Market Size is projected to Reach Multimillion USD by 2029,"
-    publishedDateTime: 2023-01-18T02:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-and-machine-learning-operationalization-software-market-is-taking-hike-in-revenue-along-with-top-key-players-profile-and-forecast-2023-to-2028-2023-01-17"
+  - title: "Artificial Intelligence Systems in Healthcare Market 2023 Expected to Witness the Highest Revenue Growth Over Forecast to 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence"
+    publishedDateTime: 2023-01-14T23:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2023-01-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Door Lock Market Size 2023 with Over-all Dominated, Share of Everywhere, Ease of Access of Solutions"
-    excerpt: "Facial Recognition Door Lock market has witnessed a growth from USD million to USD million from 2017 to 2022. With a"
-    publishedDateTime: 2023-01-18T01:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-size-2023-with-over-all-dominated-share-of-everywhere-ease-of-access-of-solutions-2023-01-17"
+  - title: "Know About Artificial Intelligence of Things (AIoT) Market [Up-to-date Report] Size, Progressive Long-Term Growth Outlook 2023-2026"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-01-16T01:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/know-about-artificial-intelligence-of-things-aiot-market-up-to-date-report-size-progressive-long-term-growth-outlook-2023-2026-2023-01-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Software Market 2023 Business analysis By Top Key Player with Revenue & Region till 2029 [ LATEST REPORT ]"
-    excerpt: "Jan 15, 2023 (The Expresswire) -- \"Face Recognition Software Market\" Research Insights Report 2023 | Latest Report Spread Across[ 103 Pages ]"
-    publishedDateTime: 2023-01-15T14:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-business-analysis-by-top-key-player-with-revenue-region-till-2029-latest-report-2023-01-15"
+  - title: "Know About Artificial Intelligence (AI) Software Market [Up-to-date Report] Size, Progressive Long-Term Growth Outlook 2023-2026"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-01-17T05:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/know-about-artificial-intelligence-ai-software-market-up-to-date-report-size-progressive-long-term-growth-outlook-2023-2026-2023-01-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition in Retail Market New Insight Report 2023 with Strategic Decision-Making and Identification of Major Corporations"
-    excerpt: "Global \"Image Recognition in Retail Market\" Analysis and Outlook 2023 | Exclusive Report [ No of Pages 126]. The"
-    publishedDateTime: 2023-01-16T17:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-new-insight-report-2023-with-strategic-decision-making-and-identification-of-major-corporations-2023-01-16"
+  - title: "Artificial Intelligence Of Things (AIoT) Solutions Market Size Related To Time And Cost Is Expected To Grow The Industry In Upcoming Years To 2029"
+    excerpt: "In 2023] The Global Artificial Intelligence Of Things (AIoT) Solutions Market Size (112 Report Pages) is estimated to"
+    publishedDateTime: 2023-01-18T01:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-related-to-time-and-cost-is-expected-to-grow-the-industry-in-upcoming-years-to-2029-2023-01-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -128,57 +128,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence-Emotion Recognition Market Size 2023 with Economical Benchmarking, Old Statistics and Forecasts, Company Returns Shares"
-    excerpt: "Artificial Intelligence-Emotion Recognition market has witnessed growth from USD million to USD million from 2017 to"
-    publishedDateTime: 2023-01-17T05:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-size-2023-with-economical-benchmarking-old-statistics-and-forecasts-company-returns-shares-2023-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automatic Content Recognition (ACR) Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2029"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. The analytical"
-    publishedDateTime: 2023-01-18T02:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-content-recognition-acr-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2029-2023-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Forecast 2028 for the Automatic Content Recognition (ACR) Market in terms of size, returns, gross margin, and market share"
-    excerpt: "The major players covered in the Automatic Content Recognition (ACR) market report are: Get a sample copy of the Automatic Content Recognition (ACR) Market report 2023 Automatic Content Recognition (ACR) Marketsize,"
-    publishedDateTime: 2023-01-18T00:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-automatic-content-recognition-acr-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Iris Recognition Market Report 2022 to 2028: Adoption of Biometric Technologies in the Defence and Automobile Industries Drives Growth"
-    excerpt: "The Global Iris Recognition Market size is expected to reach $8.9 billion by 2028, rising at a market growth of 15.6% CAGR during the forecast period. Iris recognition is a precise and effective technology for protecting information,"
-    publishedDateTime: 2023-01-13T22:28:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/01/13/9743228.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "2p7ZPPagj7m6X8X96LC17GszU2ZyArjRip7QL1tAMSarq0HgxLwdicsFScT4j8TUwRr5BI0RlixVTFkQmA1iI0+lR+Ldb/jyOyDP1xE9S4frucPR4SKOkwnJpZg68ZkZdnoNOOA8ycLA/Q3RpF7maF4vTkPoO0cOcX7dh+a0lyvfSleIerZ3Ha1EDYvjDfSsH7dlDsn7ZjhnEBnc1CkdXtjHseeQxOgfnegaI94s+eTSj/mtHMU2z1kdZ8TmbtZ32w31+99fhrlPh6vTrFlt32jXc9IxONKIYD04LWiAbJSyWb9AmGkU1vvMaZ9/Bi5MQgOILstbYzKC3rVHyDzcKeAna1v+Efbl12XCWwv5e9U=;tOutNVrMQJ8MFhnTYxgKfQ=="
 ---

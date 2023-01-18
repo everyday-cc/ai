@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Video Analytics and Artificial Intelligence Market Latest Trends 2023, Drivers, and Projections Report from 2023-2029| 103 Pages Report"
+    excerpt: "Global \"Video Analytics and Artificial Intelligence Market\" Analysis and Outlook 2023 | Exclusive Report [ No of"
+    publishedDateTime: 2023-01-14T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-analytics-and-artificial-intelligence-market-latest-trends-2023-drivers-and-projections-report-from-2023-2029-103-pages-report-2023-01-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "cSssNi3r37zTtQdEHVfdTuiRMZqrj85+j1JjexWM2THVC1cngHzqNosgzNExl/NdeKGnL18W4VJhSX2AZ/udtihP2O65+VoC2vm9S5N5k0BIhMlczHu3qWrAcpUR7ZDO9ywTOjtYTTvho+sHwOaEiDQpPPMDi49dOM3g/oHBQS2TTuUeZGM84RrA6pKCXVKLjZryRXYaBNKhj2eWzsy2iPcczLH25RBq2eMef0adjl/l/cSgRvHgQfac+HhmXcH2w5OdBtIDDRHeBS7VTl31X6a/pZOzthJ0kEXpVBTrCfoHgKdaixUwivbSHHI2ZPgx70SwGnJFhhAM+EzVX+GMUcVwBDOtZIKPHNkKp8v+1Ds=;kM6ISzMAHMje2MNgL3kP7Q=="
 ---

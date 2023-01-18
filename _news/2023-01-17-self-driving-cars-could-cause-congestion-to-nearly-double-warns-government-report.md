@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Driverless Tractors Market Size in 2023 [ New Report ] Global Survey with Forecast 2028 & Comprehensive Analysis in Report"
-    excerpt: "growing at a CAGR of % during the forecast period 2022-2028. The USA market for Driverless Tractors is estimated to increase from USD million in 2022 to reach USD million by 2028 at a CAGR of ..."
-    publishedDateTime: 2023-01-15T18:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/driverless-tractors-market-size-in-2023-new-report-global-survey-with-forecast-2028-comprehensive-analysis-in-report-2023-01-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Driverless cars could make traffic 85pc worse, government report finds"
     excerpt: "He said: “If everyone insists on having their own driverless car then traffic volume and parking pressures will rise. “However, if we are prepared to access these vehicles on demand and forego ..."
     publishedDateTime: 2023-01-15T19:00:00Z

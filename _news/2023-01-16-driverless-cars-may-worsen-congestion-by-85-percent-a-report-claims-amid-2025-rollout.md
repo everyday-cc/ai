@@ -9,7 +9,7 @@ ampWebUrl: "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-co
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont/amp"
 type: article
 quality: 66
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Driverless Tractors Market Size in 2023 [ New Report ] Global Survey with Forecast 2028 & Comprehensive Analysis in Report"
-    excerpt: "growing at a CAGR of % during the forecast period 2022-2028. The USA market for Driverless Tractors is estimated to increase from USD million in 2022 to reach USD million by 2028 at a CAGR of ..."
-    publishedDateTime: 2023-01-15T18:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/driverless-tractors-market-size-in-2023-new-report-global-survey-with-forecast-2028-comprehensive-analysis-in-report-2023-01-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -50,6 +50,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft and Google Will Both Have to Bear AI’s Costs"
+    excerpt: "Tools such as ChatGPT could upend search and cloud computing, but the cost will be high as profit margins draw more scrutiny."
+    publishedDateTime: 2023-01-18T10:30:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-and-google-will-both-have-to-bear-ais-costs-11674006102?mod=business_minor_pos10"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-705153/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Microsoft Wants To Put Chat GPT-style AI Tools in Every Product"
     excerpt: "Can AI experience cognitive dissonance? Microsoft CEO Satya Nadella told Davos attendees on Tuesday that the tech giant plans to use OpenAI,"
     publishedDateTime: 2023-01-18T02:00:00Z

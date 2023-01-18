@@ -34,6 +34,20 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Lil Yachty Reveals AI-Generated ‘Let’s Start Here’ Album Cover"
+    excerpt: "Lil Yachty is ready to let loose his latest body of work. The Atlanta-raised rapper’s Let’s Start Here studio LP is scheduled to drop on January 27. Yesterday, Lil Yachty revealed the official artwork for Let’s Start Here. According to Variety ..."
+    publishedDateTime: 2023-01-18T12:40:00Z
+    webUrl: "https://allhiphop.com/news/lil-yachty-reveals-ai-generated-lets-start-here-album-cover/"
+    type: article
+    provider:
+      name: AllHipHop
+      domain: allhiphop.com
+    quality: 37
+    images:
+      - url: "https://allhiphop.com/wp-content/uploads/2023/01/Lil-Yachty.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "txsuA2D3h5GjD2rFGTXfu6PmdB+PsrXobnroWto8DG7lUGT6LJaHMY/5gf2hACctOcuTtgcYa2TYpfKPZmx0KttqRHvjXBkBSy8CzHHsJhdOp4UGaT5K0xjvUtHqIlWD9/vF38ISl2k/hrI5Y9t+dP/Z4joc03NuGU5yb0GiayjQdmN9Gam2bc1JLzreLwfeK0mzg6z7zIiT3DLTKLXkjCB/0NoDDLns4/xpz0OmoHLltW9guJJlWfkSO+IiLemLH7HqBc91dJoxhSICBRt4oRMgdTaj6rRmEQtjs17CCRV6fYR5k7aeQAIs2Ls7XMYWCejtGDEE9KRIwm4ZxpFRHxeIvvo2E2BBNK5XmhBYi87O6p3CVQrp8DqDEW5w/SpGcqCFeAssEPjdwGbMtNKtz3Zo3GROn6PTQyOIoj0VlHJ4SsJwOQyjrI4qEyjg/fMIA6iNEamHCuEGhTLjTknSwLwG3ankwJbWdDsRuYKWai8TJUOl895ko14lrpxQSXtFXoep6V2s44lU3NH2vw2bPA==;ak97yP3TcIr2ubMtm4MJ3w=="
 ---

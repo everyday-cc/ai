@@ -64,6 +64,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Market Share 2023 Comprehensive Insights, Innovations and Business Outlook till 2029"
+    excerpt: "Research Reports added a research report on the global “Artificial Intelligence in Market\". The report includes"
+    publishedDateTime: 2023-01-17T04:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-market-share-2023-comprehensive-insights-innovations-and-business-outlook-till-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
 
 secured: "fky7hePVEMuRL8nwx5G7hK4WsmJkUXM0H/aWDW3ggWC6Vl57E2oDreakOjOOg3POwbf6T/MDmKZoek1D0lI16B5EKyiYmz6aM4dG7nhI/1nOud+pcsxMOHuXlYJOnFKhJFJjaD3+FvLRH/SGMWdUhzAPeDoehyDGBVJVFHwAGM+BAs529Tnpzto/bQKZlvBOkDLv5nBqlXaydVfC6Ty0kUgF1nHhNlmr3M98IcZtSWCDY8DVWfVeUWoYdK0nGr94+JtvQK90TdvkvQuEJyGYOYFtWyVz3vBRRwjrmf+TSgW+C/0ixxxoI2C5I1wTvfiuCG7ZU9OdOgx1So0GsP7fza5MnGRyRfh20MokPyJ7/3k=;PdO0+c0+zwDOARQHpf4NzQ=="
 ---

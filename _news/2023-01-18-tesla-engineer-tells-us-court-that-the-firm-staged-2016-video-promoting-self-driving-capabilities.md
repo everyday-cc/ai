@@ -183,6 +183,20 @@ related:
       name: KTVU
       domain: ktvu.com
     quality: 39
+  - title: "Tesla engineer testified that promotional self-driving video was staged"
+    excerpt: "(Ethan Miller/Getty Images) A 2016 video that Tesla used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior ..."
+    publishedDateTime: 2023-01-18T12:14:00Z
+    webUrl: "https://www.cbc.ca/news/business/tesla-deposition-self-driving-claim-1.6717564"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 39
+    images:
+      - url: "https://i.cbc.ca/1.6717570.1674041200!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/630933360.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Tesla engineer testifies 2016 self-driving video was staged"
     excerpt: "Ashok Elluswamy said Tesla's autopilot team made the video — a 'demonstration of the system’s capabilities' — at the behest of CEO Elon Musk."
     publishedDateTime: 2023-01-17T21:20:00Z
@@ -213,8 +227,8 @@ related:
         isCached: true
   - title: "Tesla engineer testifies that 2016 self-driving footage was faked"
     excerpt: "A senior Tesla (TSLA) engineer admitted that a 2016 video promoting the automaker’s autonomous driving technology was staged."
-    publishedDateTime: 2023-01-17T18:20:00Z
-    webUrl: "https://seekingalpha.com/news/3925123-tesla-engineer-testifies-that-2016-self-driving-footage-was-faked?source=content_type%3Areact|first_level_url%3Amarket-news|section_asset%3Atop"
+    publishedDateTime: 2023-01-17T17:13:00Z
+    webUrl: "https://seekingalpha.com/news/3925123-tesla-engineer-testifies-that-2016-self-driving-footage-was-faked"
     type: article
     provider:
       name: Seeking Alpha

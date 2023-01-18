@@ -2,9 +2,9 @@
 category: news
 title: "Tesla engineer testifies that 2016 self-driving footage was faked"
 excerpt: "A senior Tesla (TSLA) engineer admitted that a 2016 video promoting the automaker’s autonomous driving technology was staged."
-publishedDateTime: 2023-01-17T18:20:00Z
-originalUrl: "https://seekingalpha.com/news/3925123-tesla-engineer-testifies-that-2016-self-driving-footage-was-faked?source=content_type%3Areact|first_level_url%3Amarket-news|section_asset%3Atop"
-webUrl: "https://seekingalpha.com/news/3925123-tesla-engineer-testifies-that-2016-self-driving-footage-was-faked?source=content_type%3Areact|first_level_url%3Amarket-news|section_asset%3Atop"
+publishedDateTime: 2023-01-17T17:13:00Z
+originalUrl: "https://seekingalpha.com/news/3925123-tesla-engineer-testifies-that-2016-self-driving-footage-was-faked"
+webUrl: "https://seekingalpha.com/news/3925123-tesla-engineer-testifies-that-2016-self-driving-footage-was-faked"
 type: article
 quality: 39
 heat: -1
@@ -183,6 +183,20 @@ related:
       name: KTVU
       domain: ktvu.com
     quality: 39
+  - title: "Tesla engineer testified that promotional self-driving video was staged"
+    excerpt: "(Ethan Miller/Getty Images) A 2016 video that Tesla used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior ..."
+    publishedDateTime: 2023-01-18T12:14:00Z
+    webUrl: "https://www.cbc.ca/news/business/tesla-deposition-self-driving-claim-1.6717564"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 39
+    images:
+      - url: "https://i.cbc.ca/1.6717570.1674041200!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/630933360.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Tesla engineer testifies 2016 self-driving video was staged"
     excerpt: "Ashok Elluswamy said Tesla's autopilot team made the video — a 'demonstration of the system’s capabilities' — at the behest of CEO Elon Musk."
     publishedDateTime: 2023-01-17T21:20:00Z
@@ -254,6 +268,6 @@ related:
         height: 630
         isCached: true
 
-secured: "sKRp3XWdIFGsOLn5M/4t2x8X3GLci8TxeIWKbJkN+yda/GnBjwnSeJs3zuLzbKytvEGRuEV9gaFrBvjnyyHreRnkcnrWHoGbSdqWDIDdxzt7HrmAKCacjHcBRUFAYK5RV5dNBFVt7k1s20Hrz9qu1ZRc0lsTcNS5qRMlEZMixBOisHeqeK245W5aYv0Euz1SZiLXADSp4syg0Hn2P1VFm9cLIZ37/g/Lcdj90dWBw0OEsVFj/kuWY+NzJPsfIYPWrjiv6UaWO7GnGadtuAIxpDql/mJGnP3tCeSfgGzv2ekifZa2GMPEO9+Cx/x39/WfTIf6zc8nafTwhQTsX2PRAbDI+KX7eSLDLeq9GjZX4DY=;ULdO0+13RmJQR2YGwnKSVA=="
+secured: "npx85+a6UAWPNb9w35e1XAMyhKwFVCmQkUTeqWeCsT79EHZcHMypnDcxg6PxS40GApfht3sfJOjsupV5jn1tmKERrr2BpVtJbjJ53gn6DaeaUbJulIpTbKS9fV/YLuqdfsid4T0q8frZ5fkN05ZcbWbDMQDvmATIf0BNPsDBbzrjF31Xaw61tfed+4XkC5PUTMBa8U6raXZYHZ/KoTRsLtBFNPCKnHAhasPQt2HDM4kee+SHYpGQh6x1LKkZF38gQjZ/12iBJKj/CxFbrTp03A5pJLEiUV8PDErx/Dc6U+p5PULF33o0SYK+Rbs9glbobYn0dkkFGR8ZRtisso0TsZejan+DFvoyZfKOKGgUjrE=;LkXWSP1ZLYbvlihnNsX7Xw=="
 ---
 

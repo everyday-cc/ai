@@ -80,6 +80,22 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Microsoft Announces general availability of Azure OpenAI Service"
+    excerpt: "Microsoft makes Azure OpenAI Service generally available, which makes the world's most advanced AI, including GPT-3.5, Codex, and DALL•E 2"
+    publishedDateTime: 2023-01-17T15:34:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 89
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/01/Microsoft-Announces-general-availability-of-Azure-OpenAI-Service.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Microsoft brings ChatGPT support to Azure: All the details"
     excerpt: "In the last couple of weeks, it has been suggested that Microsoft will bring ChatGPT tech to a few of its products and services. Now, Microsoft has o"
     publishedDateTime: 2023-01-17T06:53:00Z
@@ -251,20 +267,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Microsoft-banner.jpeg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Microsoft announces general availability of Azure OpenAI Service"
-    excerpt: "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation"
-    publishedDateTime: 2023-01-17T11:39:00Z
-    webUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 69
-    images:
-      - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
-        width: 788
-        height: 443
         isCached: true
   - title: "Microsoft to Add ChatGPT to Its Cloud-Based Azure OpenAI Service"
     excerpt: "The tech giant has announced that it's now making the Azure OpenAI Service generally available after ... OpenAI tools for their own cloud applications, including the Dall-E AI art generator and the GPT-3.5 language system, Engadget reported."
@@ -576,6 +578,15 @@ related:
       name: Gulf Times
       domain: gulf-times.com
     quality: 19
+  - title: "Artificial intelligence software ChatGPT’s mock exam answers pass plagiarism checks, but AI detection software available"
+    excerpt: "Universities are having to adapt to combat potential plagiarism using artificial intelligence. Dr Popenici also encouraged education institutions to embrace AI. “Let’s use AI to enhance more significant ways to assess what our students learn and what ..."
+    publishedDateTime: 2023-01-18T12:03:00Z
+    webUrl: "https://www.goldcoastbulletin.com.au/news/queensland/artificial-intelligence-software-chatgpts-mock-exam-answers-pass-plagiarism-checks-but-ai-detection-software-available/news-story/7e612a21840fbb19eb6f8f3422d9d087"
+    type: article
+    provider:
+      name: Gold Coast Sun
+      domain: goldcoastbulletin.com.au
+    quality: 7
 
 secured: "JenWtZowEG3wslxwW36UarsM4jvFyyokaxw+TxdzcuUga0OxHOYiyyuqVOrNO8EBNYIPiFHekL7RSN9zY2+bk2NXipTVVYSdRL4CslTH+r5c4Gn9n9GFbELri8XFoYFxVVIMerpGuOZAIdvNBj8I6E8izNs8TN3YVOQjKJ2cXS/M6OEzcjsWOF78INz8K72yfYvRVNAs8/fMi0Y1GhxLIxOJq9zQYDVzT/XS7CDd+WX7UyqUePINKgg2Q7fN0JmlVgt8HVPLPpThPZJpxOUkpJvBMbIOzEP3QH2oPE6D++lNmVyelipS0tt/2tpmzGuO7nb9dfzZ+kIVI88LLXaxcLxb8ag+b1tipz2uVloeVjNIczrhLjtWKFOnKVhyMkHR2D9TmNWUJwttkr69GgRQMLxwCIitmNpaZANrcCWecUB4wGOL6CWEarpvOrD5FgjqcyrwVac7PCz6BXw8zOBeK9hbDxWZrEtBl7qKdmd/QbTa/Ob7ikWzUFotKWGQlN9T10ff7SVkNgxS4wxFjMg3kQ==;0zVYjf6c+bhB9hRFupaiow=="
 ---

@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-09-15-face-recognition-smart-lock-market-key-player-competition-weakness-and-strengths-from-2022-to-2028.md",
+      "title": "Face Recognition Smart Lock Market Key Player, Competition Weakness and Strengths from 2022 to 2028",
+      "excerpt": "The \"Face Recognition Smart Lock Market\" is segmented into North America: United States, Canada, Europe: GermanyFrance, U.K., Italy, Russia,Asia-Pacific: China, Japan, South, India, Australia, China,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-smart-lock-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-09-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-smart-lock-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-09-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans.md",
       "title": "Perceptron: AI that lights up the moon, improvises grammar and teaches robots to walk like humans",
       "excerpt": "In this edition of Perceptron, TechCrunch's semiregular review of AI research, we take a look at cutting-edge robotics, moon-scanning tech, and more.",

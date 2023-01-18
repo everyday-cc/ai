@@ -24,21 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "Company creates 2 artificial intelligence interns: 'They are hustling and grinding'"
-    excerpt: "Artificial intelligence isn't just making inroads in technology. Soon, AI may replace human beings in jobs as evidenced by one company that has created two AI interns. Kyle Monson, co-founder of the digital marketing company Codeword,"
-    publishedDateTime: 2023-01-13T20:45:00Z
-    webUrl: "https://abcnews.go.com/Technology/company-creates-2-artificial-intelligence-interns-hustling-grinding/story?id=96391717"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/company-creates-2-artificial-intelligence-interns-hustling-grinding/story?id=96391717"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/company-creates-2-artificial-intelligence-interns-hustling-grinding/story?id=96391717"
+  - title: "Infinite AI Interns for Everybody"
+    excerpt: "I predict 2023 is the year that finally changes, thanks to artificial intelligence. By the end of 2023, AI will be fast becoming one of the most important factors of production in the global economy. It’s true that the history of AI is largely a history ..."
+    publishedDateTime: 2023-01-18T12:07:00Z
+    webUrl: "https://www.wired.com/story/artificial-intelligence-labor/"
+    ampWebUrl: "https://www.wired.com/story/artificial-intelligence-labor/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-labor/amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 55
+      name: Wired
+      domain: wired.com
+    quality: 89
     images:
-      - url: "https://s.abcnews.com/images/Technology/chatgpt-artificial-intelligence-ap-mz-31-230112_1673544806362_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://media.wired.com/photos/63c6ed49e99d817cb5daad76/master/pass/03_Infinite-AI-interns-for-everybody.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Artificial Intelligence Is ‘For Anybody’"
+    excerpt: "Artificial intelligence, the simulation of human intelligence processes by computer systems, is growing increasingly smarter and more powerful, making it a technology that companies across industries want to get their hands on – including Los Angeles companies."
+    publishedDateTime: 2023-01-16T08:36:00Z
+    webUrl: "https://labusinessjournal.com/featured/artificial-intelligence-is-for-anybody/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 41
+    images:
+      - url: "https://images.labusinessjournal.com/wp-content/uploads/2023/01/PG01_AI_0116_chargers-store-e1673637310201.jpeg"
+        width: 1200
+        height: 633
+        isCached: true
+  - title: "Human Values For Artificial Intelligence"
+    excerpt: "MADRID - This may be the year when artificial intelligence (AI) transforms daily life. So said Brad Smith, president and vice chairman of Microso"
+    publishedDateTime: 2023-01-18T04:26:00Z
+    webUrl: "https://menafn.com/1105442954/Human-Values-For-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?649374"
+        width: 257
+        height: 250
         isCached: true
 
 secured: "pXOKj1sz7P6laMRD6bKg58Y2/iz8wHzFAgvVqAWtniZJWZEU3YIjYKvyPdtG0nJ2kjAWL1M10B8azqcLv7tGFifGwvv/KXvBCe2gGlpAFxD6bHV0U9CyHg6D6zQ4AOGm7juIOsBT3Th63RJpEOwyZscIA8pywYa/bSpvftA0LjSttNRSab9RQy11PcDAQApQMti0bImbyJVDkATBVM0SS1iWR4/cXa11Qux50lAWvnu/T0D/KgGQ3hy7FfmbS+WzrEOvNrP03piOGnCuHzg4+vsQHnO45yNyBrrXiXvL8bLdLgmPbptRSSyBwh4p1T2qCg81fgdgMtIxWTG7w+nxkkI40IeFPbBC7xOju8pjh3B07NO0j+i4h5KZAWCaYDfqRY1Wxyb2u81Tdxa09IzlDcBxOWAk8INxc/SeEW8tQJ56t5PaxQSWiNh41QfoZRiTQWijxUQX7TkUFG+aPHj9SyHKYmy8HtzRepKEDqCyQOno4qHYiRqdvFISgrYHbaRTbjQbkr81r/eBj9T4ajoGYA==;uBEbDn1v2Azn+7EgXmeH4g=="

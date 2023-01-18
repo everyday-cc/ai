@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cognitive-system-artific
 webUrl: "https://www.marketwatch.com/press-release/cognitive-system-artificial-intelligence-ai-systems-market-size-2023-with-factor-outlook-deployment-viewpoint-society-size-outlook-2023-01-13"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Oil and Gas Market Size 2023 with strong supplier, Key factors, driving the market growth, Information Forecast 2029"
-    excerpt: "Global Artificial Intelligence in Oil and Gas Market| Outlook 2023-2028 | Number of Tables and Figures | No Pages 114 |"
-    publishedDateTime: 2023-01-16T07:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-size-2023-with-strong-supplier-key-factors-driving-the-market-growth-information-forecast-2029-2023-01-16"
+  - title: "Machine Learning & Big Data Analytics Education Market Size 2023 with Factor Outlook, Deployment Viewpoint, Society Size Outlook"
+    excerpt: "Pages Insights] In 2023, Machine Learning and Big Data Analytics Education Market Size after extensive research"
+    publishedDateTime: 2023-01-18T02:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-size-2023-with-factor-outlook-deployment-viewpoint-society-size-outlook-2023-01-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

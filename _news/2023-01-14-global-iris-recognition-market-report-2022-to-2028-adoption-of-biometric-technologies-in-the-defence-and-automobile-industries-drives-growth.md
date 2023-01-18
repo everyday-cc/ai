@@ -33,34 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market : Projections and Regional Outlook, Set for Rapid Growth and Trend by 2023 To 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence (AI)"
-    publishedDateTime: 2023-01-16T10:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2023-to-2028-2023-01-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market : Projections and Regional Outlook, Set for Rapid Growth and Trend by 2023 To 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence (AI)"
-    publishedDateTime: 2023-01-17T10:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2023-to-2028-2023-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI and Machine Learning Operationalization Software Market is Taking Hike in Revenue Along With Top Key Players Profile and Forecast 2023 To 2028"
     excerpt: "AI and Machine Learning Operationalization Software Market Size is projected to Reach Multimillion USD by 2029,"
     publishedDateTime: 2023-01-18T02:13:00Z
@@ -89,43 +61,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Software Market 2023 Business analysis By Top Key Player with Revenue & Region till 2029 [ LATEST REPORT ]"
-    excerpt: "Jan 15, 2023 (The Expresswire) -- \"Face Recognition Software Market\" Research Insights Report 2023 | Latest Report Spread Across[ 103 Pages ]"
-    publishedDateTime: 2023-01-15T14:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-business-analysis-by-top-key-player-with-revenue-region-till-2029-latest-report-2023-01-15"
+  - title: "Artificial Intelligence Voice Market by Product and Geography : Forecast and Analysis 2023 to 2029 with Top Countries Data"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence"
+    publishedDateTime: 2023-01-17T03:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-by-product-and-geography-forecast-and-analysis-2023-to-2029-with-top-countries-data-2023-01-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition in Retail Market New Insight Report 2023 with Strategic Decision-Making and Identification of Major Corporations"
-    excerpt: "Global \"Image Recognition in Retail Market\" Analysis and Outlook 2023 | Exclusive Report [ No of Pages 126]. The"
-    publishedDateTime: 2023-01-16T17:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-new-insight-report-2023-with-strategic-decision-making-and-identification-of-major-corporations-2023-01-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Data Science and Machine-Learning Platforms Market Geographical Segmentation By Forecast Revenue 2023-2029"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. This research"
-    publishedDateTime: 2023-01-16T05:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-geographical-segmentation-by-forecast-revenue-2023-2029-2023-01-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -140,34 +84,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automatic Content Recognition (ACR) Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2029"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. The analytical"
-    publishedDateTime: 2023-01-18T02:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-content-recognition-acr-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2029-2023-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Forecast 2028 for the Automatic Content Recognition (ACR) Market in terms of size, returns, gross margin, and market share"
-    excerpt: "The major players covered in the Automatic Content Recognition (ACR) market report are: Get a sample copy of the Automatic Content Recognition (ACR) Market report 2023 Automatic Content Recognition (ACR) Marketsize,"
-    publishedDateTime: 2023-01-18T00:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-automatic-content-recognition-acr-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

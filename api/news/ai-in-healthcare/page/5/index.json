@@ -2,50 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-11-18-artificial-intelligence-based-predictive-analytics-platform-is-gaining.md",
-      "title": "Artificial Intelligence Based Predictive Analytics Platform Is Gaining",
-      "excerpt": "Increasing focus on Artificial Intelligence (AI)-based predictive analytics platforms is gaining popularity in the healthcare predictive analytics market trends. Players in the healthcare predictive analytics market are focusing on the launch of AI-based predictive analytics platforms to sustain their position in the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-predictive-analytics-platform-gaining-popularity-/2022/11/17/9716387.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-predictive-analytics-platform-gaining-popularity-/2022/11/17/9716387.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-11-18-3-key-ways-artificial-intelligence-helps-organizations-drive-dei.md",
       "title": "3 Key Ways Artificial Intelligence Helps Organizations Drive DE&I",
       "excerpt": "Debates about the efficacy and ethics of using artificial intelligence (AI) —or not using it—when making decisions about hiring, promotions, and diversity, equity and inclusion (DE&I) have been going on for years. And while the AI Bill of Rights has ...",
@@ -1373,6 +1329,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-07-artificial-intelligence-deciphers-detector-clouds-to-accelerate-materials-research.md",
+      "title": "Artificial intelligence deciphers detector 'clouds' to accelerate materials research",
+      "excerpt": "\"This new algorithm will really help.\" The speed boost offered by artificial intelligence promises to also alter the experimental process itself. Instead of making decisions after data collection ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221107135815.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221107135815.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

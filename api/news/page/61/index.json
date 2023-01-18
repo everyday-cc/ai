@@ -2,6 +2,155 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2022-11-18-easy-and-accurate-forecasting-with-autogluon-timeseries.md",
+      "title": "Easy and accurate forecasting with AutoGluon-TimeSeries",
+      "excerpt": "AutoGluon-TimeSeries is the latest addition to AutoGluon, which helps you easily build powerful time series forecasting models with as little as three lines of code. Time series forecasting is a common task in a wide array of industries as well as scientific domains. Having access to reliable forecasts",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/easy-and-accurate-forecasting-with-autogluon-timeseries/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/easy-and-accurate-forecasting-with-autogluon-timeseries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/18/forecasting-autogluon-timeseries.jpg",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T14:01:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-19-ai-in-healthcare-vast-potential-ethical-questions.md",
+      "title": "AI in healthcare: Vast potential, ethical questions",
+      "excerpt": "They’re also able to see more patients, which improves access to care. On the pharmaceutical side, you’ll find AlphaFold, an AI system developed by Google’s DeepMind. Using this AI tool helps scientists better predict the structure of protein folding ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/",
+      "originalUrl": "https://venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1296963883-Thinkhubstudio.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 588,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/ai-in-healthcare-vast-potential-ethical-questions/amp/",
+      "publishedDateTime": "2022-11-18T13:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-19-artificial-neural-networks-image.md",
+      "title": "Artificial neural networks (IMAGE)",
+      "excerpt": "Artificial neural networks are computing systems inspired by biological neural networks that constitute animal brains. Like biological models, they can learn (be trained) by processing examples ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/multimedia/965753",
+      "originalUrl": "https://www.eurekalert.org/multimedia/965753",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ccadd6b1-64f7-436d-848a-c1e5befd7db2/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T12:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-19-robot-delivery-startup-nuro-is-laying-off-20-percent-of-its-workers.md",
       "title": "Robot delivery startup Nuro is laying off 20 percent of its workers",
       "excerpt": "The layoffs were the latest piece of bad news to hit the AV industry, which just saw one of its more prominent names, Argo AI, shut down in recent weeks. “Laying off team members is always the ...",
@@ -1042,153 +1191,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-smiledirectclub-announces-launch-of-innovative-smilemaker-platform.md",
-      "title": "SmileDirectClub Announces Launch of Innovative SmileMaker Platform",
-      "excerpt": "SmileDirectClub, Inc. (Nasdaq: SDC), the next generation oral care company with the first medtech platform for teeth straightening, today announced the launch",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/smiledirectclub-announces-launch-of-innovative-smilemaker-platform/article_2cba2035-2c33-5c73-b766-a5eb626ef2be.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/smiledirectclub-announces-launch-of-innovative-smilemaker-platform/article_2cba2035-2c33-5c73-b766-a5eb626ef2be.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-18T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-deep-tech-startup-neuralgarage-raises-145-million-in-seed-funding.md",
-      "title": "Deep Tech Startup NeuralGarage Raises $1.45 Million In Seed Funding",
-      "excerpt": "Deep tech startup NeuralGarage raises $1.45 million in Seed round led ... NeuralGarage leverages the power of complex AI and computer vision algorithms to significantly improve content consumption, delivery and creation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/deep-tech-startup-neuralgarage-raises-145-million-in-seed/439468",
-      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/deep-tech-startup-neuralgarage-raises-145-million-in-seed/439468",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1668768315-Untitleddesign-2022-11-18T160933668.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-18T02:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-azure-ml-vs-databricks-machine-learning-comparison.md",
-      "title": "Azure ML vs. Databricks: Machine Learning Comparison",
-      "excerpt": "Microsoft Azure ML and Databricks both offer top-rated ML tools. But which is best for your company? Machine learning (ML) is being incorporated into virtually all aspects of enterprise IT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/azure-ml-vs-databricks/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/azure-ml-vs-databricks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/Poly.headset-1.jpg",
-          "width": 698,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-18T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
