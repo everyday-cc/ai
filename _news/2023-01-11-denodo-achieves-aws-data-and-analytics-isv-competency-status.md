@@ -2,19 +2,25 @@
 category: news
 title: "Denodo Achieves AWS Data and Analytics ISV Competency Status"
 excerpt: "Denodo, a leader in data management, today announced that it has achieved the Amazon Web Services (AWS) Data and Analytics ISV Competency status. Attaining this status differentiates Denodo as an AWS Partner that has successfully demonstrated deep expertise in data integration,"
-publishedDateTime: 2023-01-11T08:26:00Z
-originalUrl: "https://www.afp.com/en/news/1314/denodo-achieves-aws-data-and-analytics-isv-competency-status-202301100054891"
-webUrl: "https://www.afp.com/en/news/1314/denodo-achieves-aws-data-and-analytics-isv-competency-status-202301100054891"
+publishedDateTime: 2023-01-11T06:00:00Z
+originalUrl: "https://www.businesswireindia.com/denodo-achieves-aws-data-and-analytics-isv-competency-status-82492.html"
+webUrl: "https://www.businesswireindia.com/denodo-achieves-aws-data-and-analytics-isv-competency-status-82492.html"
 type: article
 
 provider:
-  name: AFP
-  domain: afp.com
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "JgmcBgX93aB2qK0jbUHf5FN6fD2bpb3nDsDBNRxL5IVpi1xg0DxDicnu2axxuaLVCPyZ/R4T2bz9A7xx3def9DOM6OWGwnF4Wj73lCDbZYBBD/9J5PQky3gh8ohke4Xnwr2+2sR7uRckGGLj5Upt+wt6Neefp/YSVlNUfayua8nuK71S2xAXHgM6z0aa6HfPpcuwWAzMtdUvJu0sz/8b/JBwsjhEGZUtodWSGx5CIsBFjgvvdA8IiE+JPJ1G0Xpw3Px3ie7Ot9uGlsjLvpxnW5P8UqM/JAI4/OtSXAXHHAXC54O3nGSMbxbutDsGr6KMVI9bA1hjYPuNr4eKqCN8jyzTnhiKGMkGiHUuELz3DLA=;UGju6jQD/pBjnKn+aVAcKg=="
+images:
+  - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Companylog_82492.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "XzgiIt2uUIsqBRn/UuE+GkpyXxMDDDJd6BFNspGXu+wRq9jPisUK2ib4Ez+s/Ua+VoyhF4TWH0KsGo/lsJ7OSZZ8kBdqw14zc2y7LPMnZ9OifhPekVQrzll9oLQTvKDyxcY9SFT7zhdBXq+zgxJBSH6OIEvoLSZEiFq73sqfJGh4A6sYyPD687vE63F6fvTpYRaiffR3gaqpVJXj7ts7zHa757SdfJ0iWwxPC04ihpZR2cwMnxTGS3HRPnHGKuDOtnbB06U9eJ0XuhjULjVgfkqXLPCY4FjTmLQHfshDaZWkECbDk+X1gv/sNvqK5pKyUGUOfN1J9WnM+TMVCIOs5xDcyB9k2JwoK7gHuBNbrBw=;qK89daX/Ck1GO0FclEKi+g=="
 ---
 

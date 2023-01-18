@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Microsoft announces general availability of Azure OpenAI Service"
-excerpt: "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation"
-publishedDateTime: 2023-01-17T11:39:00Z
-originalUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
-webUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
+title: "Microsoft Announces general availability of Azure OpenAI Service"
+excerpt: "Microsoft makes Azure OpenAI Service generally available, which makes the world's most advanced AI, including GPT-3.5, Codex, and DALL•E 2"
+publishedDateTime: 2023-01-17T15:34:00Z
+originalUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
+webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
+ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
+cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Information Age
-  domain: information-age.com
+  name: enterprisetalk
+  domain: enterprisetalk.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
-    width: 788
-    height: 443
+  - url: "https://enterprisetalk.com/wp-content/uploads/2023/01/Microsoft-Announces-general-availability-of-Azure-OpenAI-Service.jpg"
+    width: 1500
+    height: 844
     isCached: true
 
 related:
@@ -368,6 +370,22 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "Nick Cave says ChatGPT's AI attempt to write Nick Cave lyrics 'sucks'"
+    excerpt: "Nick Cave has written a scathing review of an artificial intelligence system that tried to write a song \"in the style of Nick Cave\". The Bad Seeds frontman responded after a fan sent him lyrics written by ChatGPT,"
+    publishedDateTime: 2023-01-17T11:47:00Z
+    webUrl: "https://bbc.co.uk/news/entertainment-arts-64302944.amp"
+    ampWebUrl: "https://bbc.co.uk/news/entertainment-arts-64302944.amp"
+    cdnAmpWebUrl: "https://bbc-co-uk.cdn.ampproject.org/c/s/bbc.co.uk/news/entertainment-arts-64302944.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17964/production/_128321669_gettyimages-463824907.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Microsoft bets big on the creator of ChatGPT in race to dominate AI"
     excerpt: "As a new chatbot wows the world, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI."
     publishedDateTime: 2023-01-13T19:01:00Z
@@ -563,6 +581,6 @@ related:
       domain: gulf-times.com
     quality: 19
 
-secured: "rKQgRlJKZOTZ2jqwO2xjBkbDpHz/3a2SsCDrnMgPYRwlU1Kc05RedpcOvNFieDtZIkrtaK91/2tU1OPZx3e+EkTqgS4nMCuGfqb67qOM1ZJCvNqhVAikYuSZObV7Dq+lmtuhPpIr4DkjEtiaNlMFZKBAfrnnHbQiMslkgwE1AI8rah1u7Ul2QPBQaGkYRnrV0XAdwtEQykRx5JPhVS1ip64cDYjTtpJyn920mcTaaXjyXwXe/jVRPz84Uc91AAO4KhJH7KsJ8kF9OuyAJj7kKb4v7qiPKB400CKS1PzrBxXeEgMFIIQrU713r/BZa9LZcmPs77xpNC94A8FlT84gO+oq0L9e217zEEe6feqvOI8=;jU2nxg8nOatwRShntyogww=="
+secured: "HG7VkZhLZJO7cFXmdqxBoOM+S+08BdAdrXBSkiYQ34nI6+i8BcaQSnrerm3GwA2GsqNVBFxeUHlc12++ffCohoZql/28y0dSkC7MZneS/jEwdXHYZgbOeFcSA2pYsuwtq/QMEyQD5jvMuxiYhrMDwUfN/tCCYGegTbKAfQ4ZmFeY9NyOhhBZOt2YeWTd1a5b3t7ctYMuPlA6nidTANLzYPK9FzcFsDWPqoZ76TCCQaz2PXB1i3r34VT/vT2mp3KCOuYSfhH7peeUzScjrOctmm4RB/+CweYo2gfiFjVSUEENOMknPpZgl3nOpLEQCuldkLlObBZNHxmKp/mlugmM8Fgju5vSj2411OBU4GmZcZw=;judOaVKQGeHSrk64GA4Rqw=="
 ---
 

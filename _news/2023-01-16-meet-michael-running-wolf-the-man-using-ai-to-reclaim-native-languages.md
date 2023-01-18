@@ -3,27 +3,28 @@ category: news
 title: "Meet Michael Running Wolf, the man using AI to reclaim Native languages"
 excerpt: "Imagine putting on a virtual reality headset and entering a world where you can explore communities, like Missoula, except your character, and everyone you interact with, speaks Salish."
 publishedDateTime: 2023-01-16T13:00:00Z
-originalUrl: "https://billingsgazette.com/news/state-and-regional/meet-michael-running-wolf-the-man-using-ai-to-reclaim-native-languages/article_def82ec7-a08a-5509-b4ef-d4df49899e6b.html"
-webUrl: "https://billingsgazette.com/news/state-and-regional/meet-michael-running-wolf-the-man-using-ai-to-reclaim-native-languages/article_def82ec7-a08a-5509-b4ef-d4df49899e6b.html"
+originalUrl: "https://missoulian.com/news/local/meet-michael-running-wolf-the-man-using-ai-to-reclaim-native-languages/article_9cdd8db4-4074-5edb-9fa4-74773cdb9464.html"
+webUrl: "https://missoulian.com/news/local/meet-michael-running-wolf-the-man-using-ai-to-reclaim-native-languages/article_9cdd8db4-4074-5edb-9fa4-74773cdb9464.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: Billings Gazette
-  domain: billingsgazette.com
+  name: Missoulian
+  domain: missoulian.com
 
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/d/ef/def82ec7-a08a-5509-b4ef-d4df49899e6b/63c1f7ca8f80e.preview.jpg?crop=1322%2C694%2C50%2C200&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/9/cd/9cdd8db4-4074-5edb-9fa4-74773cdb9464/63c1f5413be70.preview.jpg?crop=1322%2C694%2C50%2C200&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "7h/WysEI2V51mODNk7Tq/ViK30TWu3DKlxrhOrxidgUGsH7N9t4LP4f2Yuab96/q8iaE+qEr6FYSkW+BqUy2HAz0fK2TjbIioujxRh4FNoqVMpZWeJAar1aUmRFerW69neOYAMBXlPB6x6BH1SNbLeFXfHkGQZg3Q8vD5LeD21BIw6bJejn0d1N3Ia3/veB2wVzA/LSFyP375n85Td7B0KeVQzcz4qlqZZMa8ixGztY+zM63Zq+P6Q6INuO0VXPKRbhP1vC1GDTq2c9ADOr54HqDozFPk/6hPRobnEHY/FTNTn5y6CuFmRVL/mwS4fygZdKPB31lyjeAyvFFAFT4duxLav5tIA3RSRl9OSm5ux8=;BWf/pqM56ocpBWlZKm1c0w=="
+secured: "7xI24rkSFXTQGSoFxBw22Mixdkue9Z1QmHrrBNwlseDTe9TorbcXBQK8ZrF3GcSf/IugMcqK6CnpatXavIsO3dZBK+fcHk2/6Pp8WR8lyAXDN2EJ301PyGJ5Ygr2lvzMwRhK0imm+kBeAR38b/+fI0WmhqIWq7YnTOLWjZk1tNMWmKintJRU3nfuaPe2evKl0/7A/sGyQUSPyDRMzppaKvyhR+HUezLdza6srieck06Wo8PkFybMq+kLZmsvO5xMZPq61zKMtxO1bfVHOZOpsIN/zOjevaRqkIORSzpT5nNrvbdipJJhbj7RrA+Sg3iCjfcCm2vKO6mCfqGpzhwUbg29IydtcoaGFfd+VI87jNQ=;TauOF3cnw0QRbJYhrLvSiQ=="
 ---
 

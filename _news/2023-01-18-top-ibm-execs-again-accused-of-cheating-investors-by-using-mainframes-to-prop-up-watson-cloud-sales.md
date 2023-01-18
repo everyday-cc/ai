@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2023/01/18/ibm_sued_securities_fraud
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/01/18/ibm_sued_securities_fraud/"
 type: article
 quality: 76
-heat: 76
+heat: 77
 published: true
 
 provider:

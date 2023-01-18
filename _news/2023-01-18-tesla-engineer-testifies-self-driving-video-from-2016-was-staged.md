@@ -42,20 +42,20 @@ related:
         height: 494
         isCached: true
   - title: "Tesla video promoting self-driving was staged, engineer testifies"
-    excerpt: "The video released in October 2016 remains archived on Tesla’s website, and was promoted on Twitter by CEO Elon Musk as evidence the \"Tesla drives itself.\""
-    publishedDateTime: 2023-01-17T18:52:00Z
-    webUrl: "https://www.nbcnews.com/business/business-news/tesla-video-promoting-self-driving-was-staged-engineer-testifies-rcna66150"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna66150"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna66150"
+    excerpt: "A 2016 video that Tesla (TSLA) used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have,"
+    publishedDateTime: 2023-01-17T19:34:00Z
+    webUrl: "https://edition.cnn.com/2023/01/17/tech/tesla-self-driving-video-staged/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/01/17/tech/tesla-self-driving-video-staged/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/01/17/tech/tesla-self-driving-video-staged/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: CNN
+      domain: cnn.com
     quality: 89
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/2201117-tesla-video-mn-1345-3db658.jpg"
-        width: 879
-        height: 495
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230117142815-file-2016-tesla-self-driving-video-screenshot-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Tesla engineer testifies that 2016 video promoting self-driving was faked"
     excerpt: "The testimony was taken as evidence in a lawsuit against Tesla for a fatal 2018 crash involving former Apple engineer Walter Huang."
@@ -86,20 +86,6 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/01/Tesla-staged-video.png?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Video Surfaces of Self-Driving Tesla Abruptly Braking, Causing 8-Car Pileup"
-    excerpt: "Footage from a Thanksgiving Day crash involving a Tesla Model S has been obtained(Opens in a new window) by The Intercept, and it shows the vehicle crossing into the ..."
-    publishedDateTime: 2023-01-13T10:01:00Z
-    webUrl: "https://www.pcmag.com/news/video-surfaces-of-self-driving-tesla-abruptly-braking-causing-8-car-pileup"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/056VrwEw2Zcuw05FwNbaIIS-5.fit_lim.size_1200x630.v1673465374.jpg"
-        width: 1120
-        height: 630
         isCached: true
   - title: "More information about Tesla’s new Autopilot/Full Self-Driving hardware leaks"
     excerpt: "Tesla is expected to release a new Autopilot/Full Self-Driving hardware suite imminently and now more details have leaked. Since"
@@ -254,6 +240,6 @@ related:
         height: 630
         isCached: true
 
-secured: "9FqubAVOjGfdjNlh0TSi3dgzJ0aWXWVUMSDXF9RuJdvtZN1P0/b+xvuggyW0uxulAIIyT4qWqxyv/JBNFQhfai9xIUCaQeRFXou444jezQmRNuMDg5OfICSgwiaGmr/49ZHZUQogvb+syFq4nBEWdOwcnwqMIDtKu2LjSscTJPBwtMFAvynAZOmkXr98Y6ZYQSg3pAcjz3MQn/BzNhYWCj46Peh40R110lCdkxTqB5dM7ypYUhoH3VZXHyTonBYZisyNzcGu7UoBbSF9TPbM4j2sAGt8d+oHPW9yTiUfWaxd/VenSWWf052mv/HTuovxEHPUQw9zfSxs53ySc8axSyFBUqEjTqckyZ03IOpSSA8=;acZ+wGI35r3WXiCR5AIIRw=="
+secured: "7i7zhVn15zOJt/AfGQt6ocKwFMq5FKBGWS0NweVXPRZKW2+7arRYm3Apf4bxBIOxXaQAlIqxaC2nOwlBSRACDNO3FjNzEfoTAKitV2iAMg/6m1xA0AyR1sX3Y1rQkePMGRrAKnqDo/BMI/gqmOpBxTG9Y+A3B5tX+ZtfIWSHwYJ066eUA2hr+2IHdYMmW7hUDKTkTZN2DbZN5xVJtFV3z3UhdV6oYCsMSm/h5+RHYGAh4Y7IOUGLHoTOcy/4suGlQX9wNKl+7B1zzgTTa+tT6Z/mqsKRymRZbz1qt1yaAvnfHslMEfzO7sKNEMSDTMXcT/Xqalg4pYIxz8ge1cVw4Dl4OW0JgkaNAvHdDnufOglfdXahcms8wjORFW45Ky7qQAgFEluFiDs23RJeAEANrCtIPykhHt0Q+lwh072bOVUgCY6ojyc2fMSryPUnn6EviMPT5Mcg4RpAuCHuTQNxJecXnHwlr/O6aw68I+96YhIJMHVfTDRQ2j7UqP/NL0kGlnF4nA9qYaH61FxlPKMQdA==;nTyGRPNneHXZwstu/8AZjQ=="
 ---
 

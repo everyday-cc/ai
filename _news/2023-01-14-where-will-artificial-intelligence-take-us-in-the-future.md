@@ -31,9 +31,9 @@ related:
   - title: "Are AI Chatbots the Therapists of the Future?"
     excerpt: "Could artificial intelligence chatbots be the therapists of the future? ChatGPT, a text-generating conversational chatbot made using OpenAI’s powerful third-generation language processing model GPT-3,"
     publishedDateTime: 2023-01-18T00:47:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future?amp"
+    webUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future?amp"
     type: article
     provider:
       name: Psychology Today

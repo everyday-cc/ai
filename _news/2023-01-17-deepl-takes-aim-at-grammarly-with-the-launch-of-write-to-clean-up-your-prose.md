@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/01/17/deepl-takes-aim-at-grammarly-with-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/17/deepl-takes-aim-at-grammarly-with-the-launch-of-write-to-clean-up-your-prose/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 89
 published: true
 
 provider:

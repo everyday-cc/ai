@@ -47,6 +47,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Peter Dutton is giving Albanese a lose-lose proposition as his shadow campaign against the Indigenous voice escalates"
+    excerpt: "The opposition leader’s comments foreshadow an ugly referendum campaign on the voice to parliament"
+    publishedDateTime: 2023-01-18T01:25:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/jan/18/peter-dutton-shadow-campaign-against-indigenous-voice-to-parliament-escalates"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/jan/18/peter-dutton-shadow-campaign-against-indigenous-voice-to-parliament-escalates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/jan/18/peter-dutton-shadow-campaign-against-indigenous-voice-to-parliament-escalates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 36
+    images:
+      - url: "https://i.guim.co.uk/img/media/1f1321f78be4287c317a6205a8a88fe00d6b1e0f/0_84_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=e4525a15e4457d7bffc50594e14d8746"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "2v5Ww6oClbMIWMCBUoSWyX3OtVHGpnLydWIGchQr6XaU57nLE0f3t1OejM/lFEAVJkF+N/qJb9L5Iczf+JPIG/Nbpjj5oj38q1km92gLF7u+hvHditghmpMDZZuPzx02BaM77d/LjSwu8hCT98ZQIz5FkUunejtWRuknEIsIgk8r972lv2SaJYcttVLUTfU+fTJoOBpyw5U+Ezm3PRVPrZjdnEXKSi/nGC718BqqmvhUocgPV+az7gIw+Z5cmd42dkq+QYnWwev6P2ROQ/3QMeRmoN3/1O7+04PK6qZPzNK9rXmh2bG/8w7glw0nfiYG8DnfU3B28+Dg5S18K4WuBJS9qtihNZQ6m9q/X8xOT4M=;J65uzaJs2/B/dCtbajBJVw=="
 ---

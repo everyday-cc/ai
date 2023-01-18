@@ -3,10 +3,10 @@ category: news
 title: "Are AI Chatbots the Therapists of the Future?"
 excerpt: "Could artificial intelligence chatbots be the therapists of the future? ChatGPT, a text-generating conversational chatbot made using OpenAI’s powerful third-generation language processing model GPT-3,"
 publishedDateTime: 2023-01-18T00:47:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future"
-webUrl: "https://www.psychologytoday.com/za/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future"
+webUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future?amp"
 type: article
 quality: 59
 heat: -1
@@ -55,6 +55,6 @@ related:
       domain: mybroadband.co.za
     quality: 39
 
-secured: "n9IqKvTqO7FxUr9aWrgVRyBISIJ665MNxZOwftmPQNFBJet+R8bHbWJzKd53tRST0rnbCp4/eFKOZIgP/I5X2jcqbHfvkhceiJ2Pm12HLdANYR4mAq43t9eV4cPk97elFU8iLstAld2r0+lwQXE6C5bGUxtUiDVI3VWfV+SWmUcyNBX1BHZ6NFwcv43HCdrjiZhxO6azpundzwA7zVJL84FUA8jqd0yRGXp0kfObEWIS1zUZiSi6yIZmNZ4AUSy27uxWYsV85FHnML/ChwxVCygp25k6twPQ7bXHNJeaa29LvaF65bU8TE9AYkeHvKXGlnnC/+oi9Ws5Cz1RQ3thkLbYVlKkydqb0oc0NNv0jpQ=;Ezym7GSh9X3DOqdqL9CxPg=="
+secured: "sqHQ1PJwO0Har43CYe1Pr2da+k1+Z0BlEPB62aTWNzPb8pKmM073p4ZPiS2UX48/OOvorOEEhiAyG2zmOHLpc+jV0jM6olWEfL8ly+xxXDSUPVhQ96RsqBJwBYrqjXHc9meGhdatf2tVK9TxyOcZ4FDc8BCl/WBSm1Aqi4HOtoJIPI9saYGGIXPLhs66aar4Yu5m2656lWNsh/41ORjtWW7Bm0H0Ty5B1/lHEwDAlb3RZ83+95FxdeK/577+eUStQsFBqeayolYEC3UvfnLah4tWsaBJ7jTIj+1uVFH7vBWraHBa4ks42WjL57yPBDpB4C6wHlUswws6Ha+qKOCEtExXeqRVyo4tKuy5vheB2Po=;m/9j6VjuVFAjnqz4v2TiDw=="
 ---
 

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Peter Dutton is giving Albanese a lose-lose proposition as his shadow campaign against the Indigenous voice escalates"
+    excerpt: "The opposition leader’s comments foreshadow an ugly referendum campaign on the voice to parliament"
+    publishedDateTime: 2023-01-18T01:25:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/jan/18/peter-dutton-shadow-campaign-against-indigenous-voice-to-parliament-escalates"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/jan/18/peter-dutton-shadow-campaign-against-indigenous-voice-to-parliament-escalates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/jan/18/peter-dutton-shadow-campaign-against-indigenous-voice-to-parliament-escalates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 36
+    images:
+      - url: "https://i.guim.co.uk/img/media/1f1321f78be4287c317a6205a8a88fe00d6b1e0f/0_84_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=e4525a15e4457d7bffc50594e14d8746"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Peter Dutton’s push for draft bill before voice referendum risks confusing voters, experts warn"
     excerpt: "Labor cannot specify exactly how the body would work in future as it would be subject to the government of the day, expert group members say"
     publishedDateTime: 2023-01-17T06:27:00Z
@@ -48,6 +64,6 @@ related:
         height: 372
         isCached: true
 
-secured: "NksMyYkHfxSaO3FAIJ+8rQycncST9a4cBF2ubVjZ/bCJ1GFXjyi9C9Nnme9bmUfzaKqZFq4WYarQtMy1f9oztyYwAORMK0w6C3UPSp4wbFu1vNoIUtAlQxiiN6dIVF4xNSz+w4wscN41ejaKCkkgm2ajRt+KFl4dHcM5ZRzhGrgU5xD6PGhKLKTl6J/ssWaTADBfOZc+GF6Y72TgMOHHWjCCsXaBqMkxcbxwKKlWnXEYO6W18GOorCS/fj2MVdRwzD+i9CaK6KF0K3+YNhP7iSO4ZETiBYqShDCMJmom5H2p7aAhzl/oA6N97hoky6t/XXPiprNrP/ESGwbLBqEdgLIYaCIOjRceMhvWoYY7wlc=;um3p75MEmcmbpDbAzQDdcA=="
+secured: "RuGcfqWwsHhHmPokSXkKQ1ZO12pjfpyo1MTnUdiakf6bH9dGsjarbAcWdHMD/QDnUFz5n32o4b0bMZiv9fqAmusQIOjxlZf7MXc7poo+zh2JoGpePKIa+gmebYqZ8KBo92faH+Qc4vKQME1NFnv699DK610mJXmmNWX39xTpsAcAaeBdjhc9FmIrB3XzTQsOEa3j/roeuEP4+tjoR3MBHjBk80X/m+LrZRN6Pt2c6dXkvF2yYimM7+7jCFZvQZskM/eJGBi2n8h7D+zYYJzWQmmLjxECxq4BkgzeF2AM3ztTnzRMhx9T6M+k9BcAaQKdefC6ql8/r6LhlLmB6wzrULm7SDMMAMsBZfM30rpSyZR/Gr8HrEAL2ps4qknkYLx8pfUU1I9Vb9+J0QEGhEKAWOgtyHEdBt29FfcignMkRRcEMWXCSQ6Yg0Yxag4bIFJqznej7+jMxJusNulppyQQyOxJpOwhWwgEfWKe0/YOLsyxGt/1zdK3phuxoIVTBGV32TLv1X/ZyaoW7M2L4UWxMg==;QQcndGiDuTTdBzUPhW9jUg=="
 ---
 

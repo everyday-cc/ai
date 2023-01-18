@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech, edtech, deeptech–15 quotes of the week on digital transformation"
+    excerpt: "From data to decisions, these quotes from the week of January 9-15 capture tech impacts sweeping across the world!"
+    publishedDateTime: 2023-01-18T02:22:00Z
+    webUrl: "https://yourstory.com/2023/01/fintech-edtech-deeptech-quotes-digital-transformation-entrepreneur"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 23
+    images:
+      - url: "https://images.yourstory.com/cs/2/28b451402d6a11e9aa979329348d4c3e/Digital-1-1673934535223.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Top 10 Fintech and innovation trends to watch in 2023"
     excerpt: "Driving these innovations are Fintech companies which are contributing significantly to the growth of the local economy, creating new jobs, and stimulating an entrepreneurial ecosystem. Also, they are making the provision of financial services more efficient,"
     publishedDateTime: 2023-01-16T13:56:00Z

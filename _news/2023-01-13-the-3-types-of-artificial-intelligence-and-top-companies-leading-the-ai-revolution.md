@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/the-3-types-of-artificial-intelligen
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-3-types-of-artificial-intelligence-and-top-companies-leading-the-ai-revolution?amp"
 type: article
 quality: 80
-heat: -1
-published: false
+heat: 90
+published: true
 
 provider:
   name: Nasdaq
@@ -22,65 +22,20 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "6 Types Of AI And What They Can Do For Your Business"
-    excerpt: "Tyler Weitzman, cofounder, President and Head of AI at Speechify. AI is slowly taking over the world. Drones are delivering food, vacuums are cleaning homes on auto-pilot, virtual assistants are initiating calls and art is being assembled by bots."
-    publishedDateTime: 2023-01-13T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-types-of-ai-and-what-they-can-do-for-your-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-types-of-ai-and-what-they-can-do-for-your-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-types-of-ai-and-what-they-can-do-for-your-business/amp/"
+  - title: "Bilateral science funding aims to invest in priorities like AI and machine learning"
+    excerpt: "Australia’s Department of Industry, Science and Resources (DISR) has teamed up with India’s Department of Science and Technology, and the Department of Biotechnology to run round 15 of the grants program."
+    publishedDateTime: 2023-01-16T20:45:00Z
+    webUrl: "https://www.themandarin.com.au/209670-bilateral-science-funding-aims-to-invest-in-priorities-like-ai-and-machine-learning/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: The Mandarin
+      domain: themandarin.com.au
+    quality: 48
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63c00726196515fc48c92cf4/0x0.jpg?format=jpg&width=1200"
-        width: 1105
-        height: 737
+      - url: "https://www.themandarin.com.au/wp-content/uploads/2023/01/Ed-Husic.jpg"
+        width: 795
+        height: 530
         isCached: true
-  - title: "Meet Tori, AI for your fast food order"
-    excerpt: "Tori — an artificial intelligence launched by OpenCity — is described as the restaurant industry’s first conversational voice in the drive thru."
-    publishedDateTime: 2023-01-15T15:57:00Z
-    webUrl: "https://www.koin.com/news/meet-tori-ai-for-your-fast-food-order/"
-    ampWebUrl: "https://www.koin.com/news/meet-tori-ai-for-your-fast-food-order/amp/"
-    cdnAmpWebUrl: "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/news/meet-tori-ai-for-your-fast-food-order/amp/"
-    type: article
-    provider:
-      name: KOIN 6
-      domain: koin.com
-    quality: 59
-    images:
-      - url: "https://www.koin.com/wp-content/uploads/sites/10/2023/01/GettyImages-1352323887.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Meet Tori, AI for your fast food order"
-    excerpt: "Tori — an artificial intelligence launched by OpenCity — is described as the restaurant industry’s first conversational voice in the drive thru."
-    publishedDateTime: 2023-01-15T16:57:00Z
-    webUrl: "https://www.khon2.com/news/national/meet-tori-ai-for-your-fast-food-order/"
-    ampWebUrl: "https://www.khon2.com/news/national/meet-tori-ai-for-your-fast-food-order/amp/"
-    cdnAmpWebUrl: "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/news/national/meet-tori-ai-for-your-fast-food-order/amp/"
-    type: article
-    provider:
-      name: KHON2
-      domain: khon2.com
-    quality: 59
-    images:
-      - url: "https://www.khon2.com/wp-content/uploads/sites/8/2023/01/GettyImages-1352323887.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "What artificial intelligence can’t do — yet"
-    excerpt: "These days, we don’t have to wait long until the next breakthrough in artificial intelligence (AI) impresses everyone with capabilities that previously belonged only in science fiction."
-    publishedDateTime: 2023-01-14T17:08:00Z
-    webUrl: "https://mybroadband.co.za/news/software/476393-what-artificial-intelligence-cant-do-yet.html"
-    ampWebUrl: "https://mybroadband.co.za/news/software/476393-what-artificial-intelligence-cant-do-yet.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/476393-what-artificial-intelligence-cant-do-yet.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 41
 
 secured: "oe8K/c3o+mE4WZ35mydF/m1vP3uT/s/Ljs0Rhc71UDI9uT0vbAjfaogKGoCrxMsKAdX3ht5sGEibyqnUyEQER1/6yXnRKi6O1ebQAzcx5TUgWg3YCW1gqQJHaCDPwC0kFSYXz2lAwNExeIRkAA8XktJWhzCHDh4wWzLC2QS7e+onmCD5moOlowRfJ4ZdKnS830Q1qL315sYSpfpceLNR0r5wPTvBEmrQmbzH7IhR4AibuKUXTN9ZcppUe+g2gvsq7L90GHaPvvFRr1gMehJnahUM3wjZx43gdgbnmsTYmDeJ5tIukAX+ClE9wNJwM/YcndnRSyWf00z+0QDILoplWbfOapKFCcnjZKwQ8WoBHac=;67UZDdi0Lrkkrq2+i+lZUA=="
 ---

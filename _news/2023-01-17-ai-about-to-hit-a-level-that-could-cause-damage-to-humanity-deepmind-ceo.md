@@ -59,6 +59,20 @@ related:
         width: 703
         height: 436
         isCached: true
+  - title: "Getty sues Stable Diffusion, and the future of AI art could be at stake"
+    excerpt: "Getty Images, the stock-image powerhouse, is suing Stability AI over its AI art generator in a copyright infringement case that could help decide the future of AI art."
+    publishedDateTime: 2023-01-17T19:40:00Z
+    webUrl: "https://www.pcworld.com/article/1475597/getty-sues-stability-ai-and-the-future-of-ai-art-could-be-at-stake.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 69
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2023/01/1153158881_marilyn_monroe_in_the_style_of_andy_warhol-CMS-primary-2.png?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "AI art generators targeted in lawsuit for intellectual property theft"
     excerpt: "A class action lawsuit alleges that the AI art generation engine Stable Diffusion was trained on billions of copyrighted materials without credit, compensation, or consent of content owners."
     publishedDateTime: 2023-01-16T16:08:00Z

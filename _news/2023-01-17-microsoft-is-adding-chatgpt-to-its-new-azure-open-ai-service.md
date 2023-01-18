@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Wants To Put Chat GPT-style AI Tools in Every Product"
+    excerpt: "Can AI experience cognitive dissonance? Microsoft CEO Satya Nadella told Davos attendees on Tuesday that the tech giant plans to use OpenAI,"
+    publishedDateTime: 2023-01-18T02:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/01/17/microsoft-wants-to-put-chat-gpt-style-ai-tools-in/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/716949/featured-daily-upside-image.jpg"
+        width: 2000
+        height: 1600
+        isCached: true
   - title: "Microsoft quietly revealed a new type of AI (it may quietly petrify you)"
     excerpt: "You always thought this might be possible, but when a famous company says it's done it, it adds a little more scariness."
     publishedDateTime: 2023-01-15T13:26:00Z
