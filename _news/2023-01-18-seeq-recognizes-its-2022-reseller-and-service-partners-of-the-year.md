@@ -24,6 +24,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Seeq Recognizes Its 2022 Reseller and Service Partners of the Year"
+    excerpt: "Annual partner awards, honoring excellence in delivering the next generation of process manufacturing improvements, were announced at Seeq Global Partner Symposium in Las Vegas."
+    publishedDateTime: 2023-01-18T18:17:00Z
+    webUrl: "https://www.automation.com/en-us/articles/january-2023/seeq-recognizes-2022-reseller-service-parts-year"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 24
+    images:
+      - url: "https://www.automation.com/getmedia/50452299-0455-42f9-bf78-9afd0ca53436/Seeq-news-Jan-18-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
+
 secured: "6S8GhobPsSs0iIdEqILZxkm6JreDKt1Z1fg7zneaPPPBkNLVKRPBwT8uScVy9lD8MNRnRg0lbW7oS6CPOGw4K2KFn3Wp2KllG32FFonJHbT59A3DgFFFdDSSaII2eZtbKfA++7h7Bx8TPeMWZWVpMw+E1K3emA8ZSJiYDDI7rryPXS/AAPnzYpB9P79Xfztn6kK2gTNYcb6zn5b5tX0amk0UJOXEtTJ9YPEsVLXHy612R3FM6vykbn+tGHDMR47E35jqaZD4e+GMEUEDBDxcrtt08MY1D6ajNo6RjV480eDr2GRgWk8IXfdtXJodxk9p+X9C/SULv7ZN3SWl/z01/bi5ufSZLCfoj6EivvD7wl4=;HpqXnUPUPf323fDAVP5fnA=="
 ---
 

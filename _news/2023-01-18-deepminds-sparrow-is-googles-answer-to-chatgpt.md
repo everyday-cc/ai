@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How to Invest in ChatGPT? You Can’t. Here Are 3 AI Stock Alternatives."
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips How to invest in ChatGPT is a difficult problem to solve, but if you’re"
+    publishedDateTime: 2023-01-18T11:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-invest-in-chatgpt-you-cant-here-are-3-ai-stock-alternatives-1032025067"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
 
 secured: "N390iH8PrHrStn0uFNZGsIliHQAoT2xurwdOO13QQBPXamRTGJvWczeQaJEIOdRG3D+nZeGRdhm7KS1fYM00PQSFpqNeJdVeBRPI/SgMluKJxuof1oT8q71DzlCY79vmYKvR+EvU6hsDTzVBDLAXc8Aq6GQVlOm2j6CnilZuKMmryUf2LJzILHuBqNzzKKXLQc3iCdT8xJnE3Kjz2c4OwBT1AsZze+tcTWHTSdB9rh0idA2aBpVhfXUoRCn+ITlTiWDWytAYV6OdSttn0hgk7OaRfrSahLJt0T8pqmMUDtYNsQkx/GB76dvo7J7RNwxYIPnh6vD10S1kCUp8LAPiQoM8v/zJQv+rPBzsz3kzUx9naAY2Ww4NUzvsUR7WvitpV292CiofTOggQEv9qRJn8cj+1UB037xbGBMPvuIAXUxVrXu/lkiOmkapM3JZSinRL2wNfOzFEXvZgu9yEhvQVJ0Ioz0FcQ43UKQ3Tg7Q+JpsHs9c5j5lIs4dg4t5CWquPU8siY/gDiNvadl2bzS6SQ==;EhY/xvIyhnxHi5PPKHMaPw=="
 ---

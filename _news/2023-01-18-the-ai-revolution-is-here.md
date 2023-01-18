@@ -71,6 +71,20 @@ related:
         width: 1400
         height: 877
         isCached: true
+  - title: "Is Artificial Intelligence a Fad or the Next Big Thing?"
+    excerpt: "AI has captured a lot of people's attention, but the impact of this new technology may not be felt in the way you think."
+    publishedDateTime: 2023-01-18T16:47:00Z
+    webUrl: "https://www.fool.com/investing/2023/01/18/is-artificial-intelligence-the-next-massive-money/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/716890/18.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Generative AI is having a moment and governments need to pay attention"
     excerpt: "Governments need to understand and use generative AI systems to manage the changes they will bring, says Annan Boag from the Office of the Victorian Information Commissioner."
     publishedDateTime: 2023-01-16T21:21:00Z

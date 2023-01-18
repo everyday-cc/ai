@@ -19,33 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Deutsche Bank, Blue Water Fintech Lab Introduce Robotic Process Automation Commercialization Program"
-    excerpt: "Deutsche Bank and its Blue Water Fintech Lab recently launched a Robotic Process Automation (RPA) commercialization program."
-    publishedDateTime: 2023-01-17T17:26:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/01/201212-deutsche-bank-blue-water-fintech-lab-introduce-robotic-process-automation-commercialization-program/"
+  - title: "JP Morgan’s Chase UK fastest growing fintech app in 2022"
+    excerpt: "The Wall Street giant’s bet on the UK neo banking market prompted huge uptake from users in 2022 in the form of downloads and monthly active users."
+    publishedDateTime: 2023-01-18T10:11:00Z
+    webUrl: "https://www.altfi.com/article/10300_jp-morgans-chase-uk-fast-growing-fintech-app-in-2022"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
+      name: altfi
+      domain: altfi.com
     quality: 24
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/01/Robot-AI.jpg"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "Fintech, edtech, deeptech–15 quotes of the week on digital transformation"
-    excerpt: "From data to decisions, these quotes from the week of January 9-15 capture tech impacts sweeping across the world!"
-    publishedDateTime: 2023-01-18T02:22:00Z
-    webUrl: "https://yourstory.com/2023/01/fintech-edtech-deeptech-quotes-digital-transformation-entrepreneur"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 23
-    images:
-      - url: "https://images.yourstory.com/cs/2/28b451402d6a11e9aa979329348d4c3e/Digital-1-1673934535223.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
+      - url: "https://www.altfi.com/images/featured/jp-morgans-chase-uk-fast-growing-fintech-app-in-2022.jpg"
+        width: 1200
+        height: 720
         isCached: true
 
 secured: "AINjgAhDh2+PocY7xV6nbOTOEL5p/MBx3znUbocZA22YZ2o4iA+AsCj5B3SH7k//g9kvSEalHnx34toPVOo4j6i9KdhQY2ySbnQw8Qx2kRWG+juLrODI720R/q7v0jkNeZJNQl/YuHb7bYLL6RPbf/2MQINbDZrdP14EAzocAg6NHkfv5XHoEEHfJH1guzfJ53iXXKypeeTk5qN0wpk+qt2W6GPlMNemh4Hy8OnOS9xc1xrPzY0AWp2wrH7TL/7Ga9HAwUUexy3sKY+585rQLSY0vZWI1aL8zcceo5kZCMcr+5jAJ+TVnthkfrfYWJOpQ+sGiDbAuP5YCErjI1KHz4+P22BDmdZOzeeujwBaIkyyso3UWlnIfP5Ef/JtGsNpGEMQiTEu9WaoxiOGJezDhSI54U5QMc9lftZtusY4ym2xLV3KoTTHU75YF+60wzcEyvopzWNj05jAKCG9ZizAayGC+EzgGmIkjbqYPUJ8865iBdRvOc07p/DPsD7QycDBhHtVvPTLjB7HHwtCFfzRtg==;kgUs+C2Nvgq3zkmsJqwD+w=="

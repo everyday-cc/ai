@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/01/17/ai21-labs-intros-an-ai-writing-ass
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/17/ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "This AI writing app now fixes your lousy spelling mistakes"
+    excerpt: "Artificial intelligence is being used to cast its all-seeing eye over the written word with DeepL’s latest free writing app Write. Pitched as a rival to Grammarly, the AI writing tool is able to correct spelling and grammar mistakes,"
+    publishedDateTime: 2023-01-18T17:59:00Z
+    webUrl: "https://www.techradar.com/news/this-ai-writing-app-now-fixes-your-lousy-spelling-mistakes"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/fsh9XUg46KKeaptBBcvaqb-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Move over, ChatGPT: Israeli start-up AI21 Labs' AI to cite sources"
     excerpt: "This addresses something that the AI21 team refers to as \"the Achilles' heel of AI-generated text,\" which is a lack of sources and the chance of factual error."
     publishedDateTime: 2023-01-17T20:15:00Z

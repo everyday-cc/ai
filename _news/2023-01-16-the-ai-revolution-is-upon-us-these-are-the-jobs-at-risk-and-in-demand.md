@@ -65,6 +65,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 46
+  - title: "The AI Magic Show"
+    excerpt: "It felt, in some contexts, and especially upon first contact, as though it could actually participate in something like conversation. What many users suggested felt truly magical, however, were the hints at the underlying model’s broader capabilities."
+    publishedDateTime: 2023-01-18T16:00:00Z
+    webUrl: "https://nymag.com/intelligencer/2023/01/why-artificial-intelligence-often-feels-like-magic.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 37
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/089/f6b/5a8faa10717620809477ac526efa1a97f0-chat-gpt-magic-mosh.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "eb2q3fxYYCEKCtsKI+VQBB3hRmXqSJ/fjb58b7dwyGCbzMOPLduLr2bnJM4kY0pFsFVP8xMIMwGc26rFy0tM/dwIjXYs5Tv0kPuAzThj2GvODE8infE7fHVf78eSIu31liH8xqyqII24OHflVYjCVGhs16zIp8nfaXVi/V/m+QICV/Iu93qJz85p36J6fCwlfFCZN+rRjq6NxG37jkkrPuunO+o2ACZSBm/ukqAtxjGhaR++N5XX+SNCMaHcf3K+SEchipA7DIsZJ1aKmWrjSRpVbSTAyhUCxnjVqENpxhgDd4HN0LA1e20cVLu2CKDgUT8ME/4r1FiqfB11iis6ZdzIDl1Q62e5O5MGDz3k1z4=;ZM1gb2zOtmuW5H8SDqE8kQ=="
 ---

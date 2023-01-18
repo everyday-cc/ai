@@ -7,7 +7,7 @@ originalUrl: "https://www.crowdfundinsider.com/2023/01/201212-deutsche-bank-blue
 webUrl: "https://www.crowdfundinsider.com/2023/01/201212-deutsche-bank-blue-water-fintech-lab-introduce-robotic-process-automation-commercialization-program/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,29 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech, edtech, deeptech–15 quotes of the week on digital transformation"
-    excerpt: "From data to decisions, these quotes from the week of January 9-15 capture tech impacts sweeping across the world!"
-    publishedDateTime: 2023-01-18T02:22:00Z
-    webUrl: "https://yourstory.com/2023/01/fintech-edtech-deeptech-quotes-digital-transformation-entrepreneur"
+  - title: "Soft Robotics mGripAI™ High-Speed Automation Solution Demonstrated at International Processing and Production Expo"
+    excerpt: "Soft Robotics Inc. announced that they will be showcasing m GripAI in multiple booths at the International Processing and Production Expo (IPPE), January 24-26, 2023, at the Georgia World Congress Center in Atlanta,"
+    publishedDateTime: 2023-01-18T16:13:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/18/9745452.htm"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 23
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 47
     images:
-      - url: "https://images.yourstory.com/cs/2/28b451402d6a11e9aa979329348d4c3e/Digital-1-1673934535223.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
+      - url: "https://mma.prnewswire.com/media/1985876/Soft_Robotics_Inc___IP69K.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Top 10 Fintech and innovation trends to watch in 2023"
-    excerpt: "Driving these innovations are Fintech companies which are contributing significantly to the growth of the local economy, creating new jobs, and stimulating an entrepreneurial ecosystem. Also, they are making the provision of financial services more efficient,"
-    publishedDateTime: 2023-01-16T13:56:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Top-10-Fintech-and-innovation-trends-to-watch-in-2023-1695992"
+  - title: "Epson Signs Motion Automation Intelligence (Ai) as Distributor in Central and Southeast Regions"
+    excerpt: "Epson's Robots Combined with Motion Ai's Industry-Leading Manufacturers and Premier Automation Solutions Offer Value and Simplicity to Customers LOS ALAMITOS, Calif., Jan. 17, 2023 /PRNewswire/ -- Epson Robots,"
+    publishedDateTime: 2023-01-17T08:25:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/17/9743711.htm"
     type: article
     provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 4
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
 
 secured: "CVm118BmCj8UzNVqegaD0XL9vClaxAAsXvzUmAhcdWyCRnaGDsxLr97wafEri3w+G3ehr0zebXGPjh/YyZmFgzLKPzDD8QUdRAryAO5ZKJ9BlG2I4kyvxXeK3VDu//CGt/AhmQmezDdBT8zSIoUHvG3nrfrwrrVp/X4XSbMbi2Cl3gumqAF0Kd2Gr4d1KWHyVKNKuMCie/f6zbhdKyVOhhILZVClA0KB0fmdRLUvnxddKkrnnN3MB+thEmttSUkHdcF+ZILhrKaxlMURLttiYaXYgOEQsd5+YYqYOH1yNNrPztzuNp+00X1pkIKtpqNqLf++/VTIlpkaqizlzuWfG3N0I7VQNm31a/JhKA7t5PU=;9FWuRm+m7go7LKisj2IovA=="
 ---

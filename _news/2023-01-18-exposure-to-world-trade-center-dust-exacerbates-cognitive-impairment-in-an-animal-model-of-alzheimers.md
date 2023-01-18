@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Exposure to World Trade Center Dust Exacerbates Cognitive Impairment in an Animal Model of Alzheimer’s"
+    excerpt: "Mice exposed to dust from the WTC showed impairments in both long and short-term memory, and spatial recognition, as well as alterations to genes associated with immune-inflammatory response and blood-brain barrier dysfunction."
+    publishedDateTime: 2023-01-18T16:21:00Z
+    webUrl: "https://neurosciencenews.com/wtc-dust-alzheimers-22286/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 23
+    images:
+      - url: "https://neurosciencenews.com/files/2023/01/911-dust-alzheimers-neurosicences-public.jpg"
+        width: 770
+        height: 502
+        isCached: true
   - title: "Exposure to World Trade Center particulate matter accelerates cognitive deterioration in mice model of Alzheimer's"
     excerpt: "Mice exposed to World Trade Center dust exhibit a significant impairment in spatial recognition and short- and long-term memory, as well as changes in genes related to immune-inflammatory responses and blood-brain barrier disruption,"
     publishedDateTime: 2023-01-18T04:44:00Z

@@ -271,6 +271,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Tesla engineer testifies 2016 self-driving video was staged"
+    excerpt: "A 2016 video that purported to show the self-driving capabilities of a Tesla car was staged, a senior engineer testified."
+    publishedDateTime: 2023-01-18T16:45:00Z
+    webUrl: "https://www.stltoday.com/news/national/tesla-engineer-testifies-2016-self-driving-video-was-staged/article_37c9fd77-0ec1-553b-bc13-e3827518db0f.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/7c/37c9fd77-0ec1-553b-bc13-e3827518db0f/63c8200c3b33e.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla Engineer Tells US Court That the Firm Staged 2016 Video Promoting Self-Driving Capabilities"
     excerpt: "The video was released in October 2016 and promoted on Twitter by Chief Executive Elon Musk as evidence that “Tesla drives itself.”"
     publishedDateTime: 2023-01-18T07:58:00Z

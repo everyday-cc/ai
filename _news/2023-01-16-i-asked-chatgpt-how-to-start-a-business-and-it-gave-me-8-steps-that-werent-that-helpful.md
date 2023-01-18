@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chagpt-cant-start-a-business-for-you
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chagpt-cant-start-a-business-for-you-startup-steps-2023-1?amp"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1345
         height: 900
         isCached: true
+  - title: "How to Invest in ChatGPT? You Can’t. Here Are 3 AI Stock Alternatives."
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips How to invest in ChatGPT is a difficult problem to solve, but if you’re"
+    publishedDateTime: 2023-01-18T11:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-invest-in-chatgpt-you-cant-here-are-3-ai-stock-alternatives-1032025067"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
 
 secured: "sJqmK3zgKl3gFP8Fk5gcUSDVJYVsZeUyY250evrcXkfKO0x7pGNKpdRqLovrMtI1VJZZJZ32Z8bfFepQOUR+egWpDe2GWt+JQonFfUseIFsYEGUYMiuAXwRD+70gW5XTvlmy9dDhwtbQTNIu+eiZQ5GgMoOfSSL3RIF+mhfqbla3fApwC8iVOjIGy0b9n+Hp6mX9Dnk1I3WYxXOPhsHKWTNO7z1DaN3AbDYaxYboZAQhKkr5IdOEtEJjzfecRbWfMlv6n4vFqAgWAf+ijiafOWBuZSQbep3OJY3YUjua4XqjIX12+Zlg9GQhhxMx/TOu2oMm4Bl1HVbzQIAwvXWGUphHAXN8Sl6SSD7Hhm1NGZ2UiF2tOUSJqScwaH7YZHyPi7d/cahc+QRE/SEpx6wVGXEVqoLd/QM2p4rakZbEPVe/JRkOjGox29Vw4D4U96BEI9yjzDWSF+EpRbmthnxDb8NOXN42k1nKYeGKE5nXftSDE+5YWVXgXVZkMC98KgZxyEoGXuCv0xsFeXctbedoMg==;C3cdLkLQCi7+3v9hCrf0KA=="
 ---

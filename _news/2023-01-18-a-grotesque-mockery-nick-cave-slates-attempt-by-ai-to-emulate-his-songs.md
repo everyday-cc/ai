@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/01/17/entertainment/nick-cave-ai-scli-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/01/17/entertainment/nick-cave-ai-scli-intl/index.html"
 type: article
 quality: 85
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nick Cave Calls AI Song Written in His Style 'Grotesque Mockery'"
+    excerpt: "Tools like ChatGPT can never experience the complex human struggles that lead to emotionally resonant songs, the singer-songwriter says."
+    publishedDateTime: 2023-01-18T18:39:00Z
+    webUrl: "https://www.cnet.com/culture/entertainment/nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/defe08f4f2ceaf8687284194a29636cd016dd62d/hub/2023/01/17/8dbff024-4f5a-4e19-9655-84dd5a112a50/1246226412.jpg?auto=webp"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "‘A grotesque mockery’: Nick Cave slams attempt by AI to emulate his songs"
     excerpt: "Nick Cave has reacted furiously to an attempt to emulate his songs with AI, labeling it a \"grotesque mockery of what it is to be human.\""
     publishedDateTime: 2023-01-17T16:30:00Z

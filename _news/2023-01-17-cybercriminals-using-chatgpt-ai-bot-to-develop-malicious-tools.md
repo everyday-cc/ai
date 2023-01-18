@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hindustantimes.com/technology/cybercriminals-using-chatg
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902-amp.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Hindustan Times
@@ -27,132 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI detectors save us from ChatGPT? I tried 3 online tools to find out"
-    excerpt: "With the sudden arrival of ChatGPT, educators and editors are facing a worrying surge of automated content submissions. We look at the problem and what might be done."
-    publishedDateTime: 2023-01-14T01:55:00Z
-    webUrl: "https://www.zdnet.com/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/"
+  - title: "ChatGPT, a new AI Bot in town: Top 7 things you should know"
+    excerpt: "It does have shortcomings since it is AI. However, it tends to warn the user incase it does not have enough knowledge on the subject. While ChatGPT is focussed on human-like text, Google Search's forte is image or voice recognition, language translation ..."
+    publishedDateTime: 2023-01-18T12:52:00Z
+    webUrl: "https://www.bgr.in/webstories/news/chatgpt-a-new-ai-bot-in-town-top-7-things-you-should-know-1357013/"
+    ampWebUrl: "https://www.bgr.in/webstories/news/chatgpt-a-new-ai-bot-in-town-top-7-things-you-should-know-1357013/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/webstories/news/chatgpt-a-new-ai-bot-in-town-top-7-things-you-should-know-1357013/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
+      name: BGR
+      domain: www.bgr.in
+    quality: 59
     images:
-      - url: "https://www.zdnet.com/a/img/resize/69f53b17fd222baf337bde0508984dc0abbc56a2/2023/01/13/1b3cc46b-7c9b-445f-a88d-dc026d97e8e3/gettyimages-1418475387-1.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://st1.bgr.in/wp-content/uploads/2023/01/Untitled-design-2023-01-18T154735.163.jpg"
+        width: 640
+        height: 853
         isCached: true
-  - title: "ChatGPT And AI Will Fuel New EdTech Boom"
-    excerpt: "Venture capitalists predict artificial intelligence, virtual reality and video-learning startups will dominate the space in 2023."
-    publishedDateTime: 2023-01-18T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/emmawhitford/2023/01/18/chatgpt-and-ai-will-fuel-new-edtech-boom/"
+  - title: "ChatGPT could be used for good, but like many other AI models, it's rife with racist and discriminatory bias"
+    excerpt: "ChatGPT could soon power Microsoft products, despite the potential to spew dangerous content. The AI community is torn on solutions."
+    publishedDateTime: 2023-01-16T16:08:00Z
+    webUrl: "https://www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1"
+    ampWebUrl: "https://www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1?amp"
+    cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: YAHOO!News
+      domain: insider.com
+    quality: 40
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63c75360008c41557a766ebe/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nick Cave says ChatGPT's AI attempt to write Nick Cave lyrics 'sucks'"
-    excerpt: "Nick Cave has written a scathing review of an artificial intelligence system that tried to write a song \"in the style of Nick Cave\". The Bad Seeds frontman responded after a fan sent him lyrics written by ChatGPT,"
-    publishedDateTime: 2023-01-17T11:47:00Z
-    webUrl: "https://bbc.co.uk/news/entertainment-arts-64302944.amp"
-    ampWebUrl: "https://bbc.co.uk/news/entertainment-arts-64302944.amp"
-    cdnAmpWebUrl: "https://bbc-co-uk.cdn.ampproject.org/c/s/bbc.co.uk/news/entertainment-arts-64302944.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17964/production/_128321669_gettyimages-463824907.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Here are the 12 top power players at Google leading the fight in AI against the smash hit ChatGPT"
-    excerpt: "ChatGPT could influence Google's dominance in search. Here are the 12 people inside the search giant developing AI-based technology to keep up."
-    publishedDateTime: 2023-01-18T10:07:00Z
-    webUrl: "https://www.businessinsider.com/google-ai-power-players-chatgpt-artificial-intelligence-2023-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-    images:
-      - url: "https://i.insider.com/63c0772f1f388b00195f4423?width=1200&format=jpeg"
+      - url: "https://i.insider.com/62e40a4f4b455800188b5eaf?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "How to Invest in ChatGPT? You Can’t. Here Are 3 AI Stock Alternatives."
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips How to invest in ChatGPT is a difficult problem to solve, but if you’re"
-    publishedDateTime: 2023-01-18T11:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-invest-in-chatgpt-you-cant-here-are-3-ai-stock-alternatives-1032025067"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-  - title: "Nick Cave really doesn't like AI bot ChatGPT"
-    excerpt: "Cave has a famously close relationship with his fans, one of whom sent a song \"written\" by ChatGPT \"in the style of Nick Cave.\" The whole blog from Cave is worth reading, but among some wonderful and wise observations,"
-    publishedDateTime: 2023-01-17T18:01:00Z
-    webUrl: "https://mashable.com/article/nick-cave-chatgpt"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 47
-  - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
-    excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
-    publishedDateTime: 2023-01-17T18:30:00Z
-    webUrl: "https://www.kalw.org/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever"
-    ampWebUrl: "https://www.kalw.org/npr-news/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever?_amp=true"
-    cdnAmpWebUrl: "https://www-kalw-org.cdn.ampproject.org/c/s/www.kalw.org/npr-news/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever?_amp=true"
-    type: article
-    provider:
-      name: KALW
-      domain: kalw.org
-    quality: 37
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/f15d3d1/2147483647/strip/true/crop/1941x1195+0+130/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F13%2Fscreen-shot-2023-01-13-at-10.59.24-am-653c405371f044e9a4056427c4d35153ce997b5f.jpg"
-        width: 880
-        height: 542
-        isCached: true
-  - title: "AI Committee chairman downplays fears over ChatGPT misuse"
-    excerpt: "The Chairman of the Artificial Intelligence Committee at the Ministry of Communications and Information Technology (MCIT), Hassan Jassim al-Sayed, downplayed the fears over"
-    publishedDateTime: 2023-01-16T20:26:00Z
-    webUrl: "https://www.gulf-times.com/article/653452/qatar/ai-committee-chairman-downplays-fears-over-chatgpt-misuse"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 19
-  - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
-    excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
-    publishedDateTime: 2023-01-17T15:30:00Z
-    webUrl: "https://wusfnews.wusf.usf.edu/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever"
-    type: article
-    provider:
-      name: wusfnews.wusf.usf.edu
-      domain: usf.edu
-    quality: 17
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/776c42c/2147483647/strip/true/crop/1941x1019+0+218/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F13%2Fscreen-shot-2023-01-13-at-10.59.24-am-653c405371f044e9a4056427c4d35153ce997b5f.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial intelligence software ChatGPT’s mock exam answers pass plagiarism checks, but AI detection software available"
-    excerpt: "Universities are having to adapt to combat potential plagiarism using artificial intelligence. Dr Popenici also encouraged education institutions to embrace AI. “Let’s use AI to enhance more significant ways to assess what our students learn and what ..."
-    publishedDateTime: 2023-01-18T12:03:00Z
-    webUrl: "https://www.goldcoastbulletin.com.au/news/queensland/artificial-intelligence-software-chatgpts-mock-exam-answers-pass-plagiarism-checks-but-ai-detection-software-available/news-story/7e612a21840fbb19eb6f8f3422d9d087"
-    type: article
-    provider:
-      name: Gold Coast Sun
-      domain: goldcoastbulletin.com.au
-    quality: 7
 
 secured: "gi28kIi01+Egol9z3eBVnKNa5Gzuh9cfdkre4OcD2gIA4Xxusool4/svzOVrwLB3toBKMffaAkQB8sEbOFvrEi3uJSYIJO71vSzpcRMyNRTYnUKEwv797BzBrkioIRknneXtKsEKwKJPk3CXR7i4VMAi+Akw+1n+eM0jiANoo8OqrVk/9fT2u2NK4vlZ/5KhxcAop40ZT7+oFI5mLc9vQSTh8diuhl3omXIr9UF9cYgyu854RXyv8QcZW9Dmicdem+XtgB6VcCSH4J1ZLbFe5+lfWT6QnlOU6y8sLr8ddFTse1XafU/qFOn5dySDRz8e9ZAan7Os4/3ScFVpxfdFrlkvWwQFAOplfbjAjWCiHePueaUmxnOu9Ihq/xFPkjYBLXWcrB+B7Clx5owk3IYOJcyzmbs142el4/1AE2/fst+0zxXaM0Kas7xiJf3OT7clT90Sg9UQp317MHqt4n1GaI9bIp142ADxMuDExB9mGQCsC15v7EDoc3IHL9/tv7mFguk7JfruPhyx7baP4FJs9g==;3YHJZrxezZO6wXg76AYa4A=="
 ---

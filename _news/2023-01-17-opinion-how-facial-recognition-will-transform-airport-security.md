@@ -9,7 +9,7 @@ ampWebUrl: "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recogniti
 cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/1/54/15493ca8-82c0-555f-a023-6cf4e4602616/63c520b5236c7.image.jpg?crop=1698%2C891%2C0%2C164&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Air Force Wants to Add Facial Recognition to Automated Base Entrance"
+    excerpt: "The Air Force is considering using facial recognition technology at base entrances and plans to start with a pilot program at Scott Air Force Base in Illinois. The base has an automated system for ..."
+    publishedDateTime: 2023-01-16T04:06:00Z
+    webUrl: "https://www.defenseone.com/technology/2023/01/air-force-wants-add-facial-recognition-automated-base-entrance/381632/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 54
+    images:
+      - url: "https://cdn.defenseone.com/media/img/cd/2023/01/09/010922airforceNG-1/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Facial recognition will transform airport security"
     excerpt: "He has studied aviation security for more than 25 years, and wrote this for the Chicago Tribune. Imagine using technology that never forgets a face, while improving airport security and shortening lines."

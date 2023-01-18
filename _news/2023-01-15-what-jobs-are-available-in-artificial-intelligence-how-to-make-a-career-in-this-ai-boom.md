@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/01/15/what-jobs-are-available-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/15/what-jobs-are-available-in-artificial-intelligence-how-to-make-a-career-in-this-ai-boom/amp/"
 type: article
 quality: 97
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://images.sbs.com.au/dims4/default/25d178f/2147483647/strip/true/crop/6720x3780+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F1b%2Faf%2Fa15213444e4493034eaf66b85282%2Fgettyimages-1314579933.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "The AI Magic Show"
+    excerpt: "It felt, in some contexts, and especially upon first contact, as though it could actually participate in something like conversation. What many users suggested felt truly magical, however, were the hints at the underlying model’s broader capabilities."
+    publishedDateTime: 2023-01-18T16:00:00Z
+    webUrl: "https://nymag.com/intelligencer/2023/01/why-artificial-intelligence-often-feels-like-magic.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 37
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/089/f6b/5a8faa10717620809477ac526efa1a97f0-chat-gpt-magic-mosh.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "2Fg1c+aYl1x0C2WkbDmS5pqGvW3RoL+CtcSKhdNTRuVl8oaXX2SrkQVyiqeV+v4tJAZtVMnFsAg7wEDbXvW/iP2PIxJZuBgHr9yKmCf0g9Ed1S+wzBVaiMN+e4bBlf0lsbXOv3vbA0eEo49T4iRc4DHBKxVl5WslvoYcqjjfZCozcntzGJeH5cIBM7FT2rd7ndF710O+onWdIxvtPhNC3Fl7dz0XImzVtPRYGaNFWlkhXZ4NckpyflC+PP/moEnYDzSLm6gnBhmIjSett4Bp7D414S11ekkZ1alrUIuW2QLm5kF9cuNhjqiow6itB6pXFsrZPXDWdGh7tihWB0L9NOr6XKMaRY+JEiuyliPWkJjn5V+108wqmPM88Tf5HdnTpKXN14BWhnRqIpec6yfn7S+t1vtyRmO6yOatT/z2QtYtTFFugXs82UjvxDnGjqFdlw9VWfKTMuS+Jszkq7PC+bkO2QBsUmYdnP6Ob3lz4ou+j1k19CKThydpRHFdON4XcaPM0S48ml685e9oSHjZCA==;dEXjua0qQaY9r88QrW/Cpg=="

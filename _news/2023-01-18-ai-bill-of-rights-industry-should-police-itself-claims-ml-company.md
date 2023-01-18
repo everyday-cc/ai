@@ -5,10 +5,12 @@ excerpt: "So, in the long tail of the Facebook/Meta and Cambridge Analytica ... 
 publishedDateTime: 2023-01-18T13:08:00Z
 originalUrl: "https://diginomica.com/ai-bill-rights-industry-should-police-itself-claims-ml-company"
 webUrl: "https://diginomica.com/ai-bill-rights-industry-should-police-itself-claims-ml-company"
+ampWebUrl: "https://diginomica.com/ai-bill-rights-industry-should-police-itself-claims-ml-company?amp"
+cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-bill-rights-industry-should-police-itself-claims-ml-company?amp"
 type: article
-quality: 38
-heat: 38
-published: false
+quality: 80
+heat: 80
+published: true
 
 provider:
   name: Diginomica
@@ -19,7 +21,14 @@ topics:
   - AI
   - Machine Learning
   - AI Ethics
+  - AI Hardware
 
-secured: "+i3vDppeW65jCtAWk/6hTppq/DG0taOIx5gARYisWhwHmExb64uasi1HZirYOeflIqDAjUIOQzXgksUAvXrbE87HbU3EsQKDV5MQ5byek39+6f7Uoupbhw3Z0x3AsSIlGoySAjV0RY9NY+gM7TRb2Y4/jdMjvx6F1swcoeSkBZiosxyQAA04YDwx8Msi2CmW5fBSfpgWyntcxLoQleMqP9U0nm+S+iMI9L9pbjrBQL8Ks7HlqhcXznIZRpGL9Up6Ngwn0f2AJ9yyzUi8A75S+EurOAUdMTtHVbfNp4SKJozAZ+fTP2DnBA3BVINU8V6EpbpyL0x/Ei/sUNyPAzNljxPrAWwZDpAiN4Rd9hWO7IiCU79VS8rGwp+XgSVjHl83tRK++USsyjuOkLKDnLcl4XxoSYApfUYTWgfOSXjHcJUdUU2vn2eSp+l5rIPD4uOXV9aVgpicN8Vqf2kTUjRMMrqyPKIwxHw7kcPYafl+jbJmZ6m5Kpu+FwFfg6wcc8ZzTbHaNdauphpyqr0xghTUEA==;tqxfpH9dfXIQOwyR451cfg=="
+images:
+  - url: "https://diginomica.com/sites/default/files/images/2021-11/5E7E9601-C1C5-4EA8-94A0-7E3ECA1A6C2D.jpeg"
+    width: 640
+    height: 427
+    isCached: true
+
+secured: "dH/eXJx7BgbLXoSepCL2SkF+/EQNE54NJcnJJKPPBLutproXsAdtJGY9ridpcLpuXDnIFDwp3JbKZFcnypF8EQL8Ymeq+suRPwxWjutvQYsj/E2h30INy4/wDh30hHIJChXNG5/8xguo1TR3qSMgCgarR/CLOEAwxMISNwMinlJKT9YoQIDiO0QSnYml4VffToR7HJcyHpKKBlhPVlccv/bmKE8usAdHA2HJCSfZKUGMXEB0mbcNqONNSmlH3AA1vFBlAhQ3+C4Oj+HEB6uJn59q776a6pWEIAixcfzNeSG5s50k917ClS8f9nbKVVukG4fl/vCXa3pTQJAYguLBCGkeUWcZizxEzgl5LUAquNg=;p/ZwUNa7n9SK/4fc+EUKJA=="
 ---
 

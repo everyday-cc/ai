@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI detectors save us from ChatGPT? I tried 3 online tools to find out"
-    excerpt: "With the sudden arrival of ChatGPT, educators and editors are facing a worrying surge of automated content submissions. We look at the problem and what might be done."
-    publishedDateTime: 2023-01-14T01:55:00Z
-    webUrl: "https://www.zdnet.com/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/"
+  - title: "Role Playing Via Generative AI ChatGPT Conjures Up Mental Health Questions, Stirring AI Ethics And AI Law Scrutiny"
+    excerpt: "On a markedly relevant basis, these hefty matters bring forth some significant issues underlying AI Ethics and AI Law. Should AI developers be employing appropriate Ethical AI precautions when devising generative AI that can seemingly engage vividly in ..."
+    publishedDateTime: 2023-01-15T13:02:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://www.zdnet.com/a/img/resize/69f53b17fd222baf337bde0508984dc0abbc56a2/2023/01/13/1b3cc46b-7c9b-445f-a88d-dc026d97e8e3/gettyimages-1418475387-1.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63c37f734794d6bc1e964a47/0x0.jpg?format=jpg&crop=2325,1307,x158,y0,safe&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -57,21 +57,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Cybercriminals using ChatGPT AI bot to develop malicious tools?"
-    excerpt: "According to a report from cyber security firm Check Point Research (CPR), the cybercriminal community has already expressed strong interest in ChatGPT develop malicious code."
-    publishedDateTime: 2023-01-16T16:08:00Z
-    webUrl: "https://www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902-amp.html"
+  - title: "Two professors who say they caught students cheating on essays with ChatGPT explain why AI plagiarism can be hard to prove"
+    excerpt: "If students don't confess to using ChatGPT to write their essays, professors say AI plagiarism can be hard to prove."
+    publishedDateTime: 2023-01-14T08:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-essays-college-cheating-professors-caught-students-ai-plagiarism-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-essays-college-cheating-professors-caught-students-ai-plagiarism-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-essays-college-cheating-professors-caught-students-ai-plagiarism-2023-1?amp"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
     images:
-      - url: "https://images.hindustantimes.com/img/2023/01/16/1600x900/OPENAI-CHATGPT-61_1673882783604_1673882783604_1673883055328_1673883055328.jpg"
-        width: 1600
-        height: 900
+      - url: "https://i.insider.com/63bc2b2623f3620019877328?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Nick Cave says ChatGPT's AI attempt to write Nick Cave lyrics 'sucks'"
     excerpt: "Nick Cave has written a scathing review of an artificial intelligence system that tried to write a song \"in the style of Nick Cave\". The Bad Seeds frontman responded after a fan sent him lyrics written by ChatGPT,"
@@ -103,15 +103,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How to Invest in ChatGPT? You Can’t. Here Are 3 AI Stock Alternatives."
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips How to invest in ChatGPT is a difficult problem to solve, but if you’re"
-    publishedDateTime: 2023-01-18T11:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-invest-in-chatgpt-you-cant-here-are-3-ai-stock-alternatives-1032025067"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
   - title: "Nick Cave really doesn't like AI bot ChatGPT"
     excerpt: "Cave has a famously close relationship with his fans, one of whom sent a song \"written\" by ChatGPT \"in the style of Nick Cave.\" The whole blog from Cave is worth reading, but among some wonderful and wise observations,"
     publishedDateTime: 2023-01-17T18:01:00Z
@@ -121,6 +112,15 @@ related:
       name: Mashable
       domain: mashable.com
     quality: 47
+  - title: "Does Exposing And Logging Those Generative AI ChatGPT Erroneous And Hallucinatory Outputs Do Any Good, Asks AI Ethics And AI Law"
+    excerpt: "Here are some examples of generative AI ChatGPT producing falsehoods in the outputted essays, which raises questions including whether we should be logging these. AI Ethics and AI Law issues arise."
+    publishedDateTime: 2023-01-18T12:01:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/18/does-exposing-and-logging-those-generative-ai-chatgpt-erroneous-and-hallucinatory-outputs-do-any-good-asks-ai-ethics-and-ai-law/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 35
   - title: "AI Committee chairman downplays fears over ChatGPT misuse"
     excerpt: "The Chairman of the Artificial Intelligence Committee at the Ministry of Communications and Information Technology (MCIT), Hassan Jassim al-Sayed, downplayed the fears over"
     publishedDateTime: 2023-01-16T20:26:00Z
@@ -130,6 +130,20 @@ related:
       name: Gulf Times
       domain: gulf-times.com
     quality: 19
+  - title: "Everybody Loves ChatGPT Except For Nick Cave, Who Is Unimpressed With AI-Generated Lyrics Meant To Be Like His"
+    excerpt: "Cave called the ChatGPT-generated song ’bullsh*t’ and explained why it is ’a grotesque mockery of what it is to be human.’"
+    publishedDateTime: 2023-01-16T18:54:00Z
+    webUrl: "https://uproxx.com/indie/nick-cave-hates-chatgpt-lyrics-ai/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 19
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2023/01/2-nick-1.jpg?w=710"
+        width: 710
+        height: 400
+        isCached: true
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
     publishedDateTime: 2023-01-17T15:30:00Z
@@ -144,15 +158,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence software ChatGPT’s mock exam answers pass plagiarism checks, but AI detection software available"
-    excerpt: "Universities are having to adapt to combat potential plagiarism using artificial intelligence. Dr Popenici also encouraged education institutions to embrace AI. “Let’s use AI to enhance more significant ways to assess what our students learn and what ..."
-    publishedDateTime: 2023-01-18T12:03:00Z
-    webUrl: "https://www.goldcoastbulletin.com.au/news/queensland/artificial-intelligence-software-chatgpts-mock-exam-answers-pass-plagiarism-checks-but-ai-detection-software-available/news-story/7e612a21840fbb19eb6f8f3422d9d087"
-    type: article
-    provider:
-      name: Gold Coast Sun
-      domain: goldcoastbulletin.com.au
-    quality: 7
 
 secured: "qT4H0sbMST+IiNqdJooNWaSsJ4ur8oElnzJxRXT267GF65TFTLuyModaU9iN3zjuRM6otBj6Bw5ZxiI4OOgGqom1S8NoW7PV8y2QvyYP4lO44enOe2RwoSphd58L6Ff78uLgMCrbdEqksRQ9eKxNAAxte0OPxINlxzqufvOqFVRhaghIhjYlBtdxVS35IWtZMrYaiEn5VPLlG+Ygm4MqO6wm58OMFB7BPl7U2+cvw1fhinlo/yXbp34pTYBiAiBm2HqgvUD/j8Xhlh8+/63FSO/QIPAxRci9Jy3TT26yU7Z6cc0Sy7KCovyAmGSWmh5i6Yi1IKw95wYA2c57xFluhgXKCNHi3hK5dbvqL3mapxI=;GPlCw+T6bVanhdib4jnmmg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2023/01/tesla-staged-2016-self-driving-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/01/tesla-staged-2016-self-driving-demo-says-senior-autopilot-engineer/amp/"
 type: article
 quality: 89
-heat: 279
+heat: 289
 published: true
 
 provider:
@@ -260,6 +260,20 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/638420806/image_638420806.jpg?io=getty-c-w750"
         width: 750
         height: 500
+        isCached: true
+  - title: "Tesla engineer testifies 2016 self-driving video was staged"
+    excerpt: "A 2016 video that purported to show the self-driving capabilities of a Tesla car was staged, a senior engineer testified."
+    publishedDateTime: 2023-01-18T16:45:00Z
+    webUrl: "https://www.stltoday.com/news/national/tesla-engineer-testifies-2016-self-driving-video-was-staged/article_37c9fd77-0ec1-553b-bc13-e3827518db0f.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/7c/37c9fd77-0ec1-553b-bc13-e3827518db0f/63c8200c3b33e.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tesla Engineer Testifies: Self-Driving Video Elon Musk Promoted In 2016 Was Staged"
     excerpt: "As Tesla Inc (NASDAQ: TSLA) owners continued to wait for Elon Musk to come through on his \"full self-driving\" promise, new reports indicated fully autonomous capabilities might be further away than most thought,"

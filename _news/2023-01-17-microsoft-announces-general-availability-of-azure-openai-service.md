@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Microsoft Announces general availability of Azure OpenAI Service"
-excerpt: "Microsoft makes Azure OpenAI Service generally available, which makes the world's most advanced AI, including GPT-3.5, Codex, and DALL•E 2"
-publishedDateTime: 2023-01-17T15:34:00Z
-originalUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
-webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
-ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
-cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
+title: "Microsoft announces general availability of Azure OpenAI Service"
+excerpt: "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation"
+publishedDateTime: 2023-01-17T11:37:00Z
+originalUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
+webUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
 type: article
-quality: 89
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: enterprisetalk
-  domain: enterprisetalk.com
+  name: Information Age
+  domain: information-age.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://enterprisetalk.com/wp-content/uploads/2023/01/Microsoft-Announces-general-availability-of-Azure-OpenAI-Service.jpg"
-    width: 1500
-    height: 844
+  - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
+    width: 788
+    height: 443
     isCached: true
 
 related:
@@ -456,6 +454,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft Joins Tech Layoff Circus With 10,000 Jobs Cut in Pivot to AI"
+    excerpt: "Microsoft is planning to lay off 10,000 workers through March, joining a slew of tech companies in cutting down after a pandemic hiring boom, The New York Times reports. The company’s chief executive,"
+    publishedDateTime: 2023-01-18T14:53:00Z
+    webUrl: "https://www.thedailybeast.com/microsoft-joins-tech-layoff-circus-with-10000-jobs-cut-in-pivot-to-ai"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 54
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_4261,w_7575,x_0,y_306/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1674059714/GettyImages-1246327708_ptzqta"
+        width: 1480
+        height: 833
+        isCached: true
   - title: "Microsoft & OpenAI Bring AI Models to Developers Worldwide"
     excerpt: "Microsoft announces the general availability of its Azure OpenAI service, allowing developers to utilie technology like ChatGPT."
     publishedDateTime: 2023-01-17T17:00:00Z
@@ -598,6 +610,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "pgr9sES+QWDhAFBr96X3iHKc/aa072qxxOn0KrW+awmXXKX4VuVGtZRBVctDqtjaBG2FmocVrp/+ycsYLrnVyeHpB2CEoxnmHkyAzoDlsZu1wsZEcFpoDBXeoqk2BlQuQJEfq1zR3PZNj7622HAH6VuBqCrUhBVwzorQMBKIe+z6P6stc4xNkqGXFnv6pjDoRVYle+fvH9BJF5d7PFX8PsUMdYKI5Ch6/mF7PDA9z8XUHgrvPmd8l09YitUwhyxSKWdZz9hYSfLsAaVxMJExiziwCOENAaGOk1ZuwD/rnXuvUiubKr+P+DzVzAa+t5EKqt31AYymGcUhaQ7z9xHRLkuO8Ed1VIABDN1Bj0lWT8c=;Oe3krr0Y6YF2txpQzAnNPA=="
+secured: "fLCaLqhNGOW5mtkR8BT/5p/zmNsw6bRn0O4EUxXOOpoUS4Z7meYXEra67To1GPNxU7sELBFdYy1UFDBC/odFNabO2x+fMj2uYLwKBrfxeW5eTs7x9FAZ5RA5/iafU/qyVmu0UELprqT445aCIGP4iv6/+VygTaMeMB9y8VIpBMlxOT+hsOHdKAOgGg0t7noplunbRVIQWp/OSVWzj0IlMEP/XW0jYtTAqcfT0tH4e403ROdGpeaysVNVaswBcbg+wjB7XlD+HBeFAvzs8oCVixQG+Bp0qxDof1d334SWdCK6eHst+6cLKU8VOqocEAGoZZguNzVPCSG41KYVLvkBsUfUNK5eTnxtYGUwR2unQqc=;9qxulEPVSshxbwQWI0rqzg=="
 ---
 

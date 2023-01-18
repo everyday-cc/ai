@@ -26,139 +26,38 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Can AI detectors save us from ChatGPT? I tried 3 online tools to find out"
-    excerpt: "With the sudden arrival of ChatGPT, educators and editors are facing a worrying surge of automated content submissions. We look at the problem and what might be done."
-    publishedDateTime: 2023-01-14T01:55:00Z
-    webUrl: "https://www.zdnet.com/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/69f53b17fd222baf337bde0508984dc0abbc56a2/2023/01/13/1b3cc46b-7c9b-445f-a88d-dc026d97e8e3/gettyimages-1418475387-1.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "ChatGPT And AI Will Fuel New EdTech Boom"
-    excerpt: "Venture capitalists predict artificial intelligence, virtual reality and video-learning startups will dominate the space in 2023."
-    publishedDateTime: 2023-01-18T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/emmawhitford/2023/01/18/chatgpt-and-ai-will-fuel-new-edtech-boom/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63c75360008c41557a766ebe/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Cybercriminals using ChatGPT AI bot to develop malicious tools?"
-    excerpt: "According to a report from cyber security firm Check Point Research (CPR), the cybercriminal community has already expressed strong interest in ChatGPT develop malicious code."
-    publishedDateTime: 2023-01-16T16:08:00Z
-    webUrl: "https://www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/img/2023/01/16/1600x900/OPENAI-CHATGPT-61_1673882783604_1673882783604_1673883055328_1673883055328.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Nick Cave says ChatGPT's AI attempt to write Nick Cave lyrics 'sucks'"
-    excerpt: "Nick Cave has written a scathing review of an artificial intelligence system that tried to write a song \"in the style of Nick Cave\". The Bad Seeds frontman responded after a fan sent him lyrics written by ChatGPT,"
-    publishedDateTime: 2023-01-17T11:47:00Z
-    webUrl: "https://bbc.co.uk/news/entertainment-arts-64302944.amp"
-    ampWebUrl: "https://bbc.co.uk/news/entertainment-arts-64302944.amp"
-    cdnAmpWebUrl: "https://bbc-co-uk.cdn.ampproject.org/c/s/bbc.co.uk/news/entertainment-arts-64302944.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17964/production/_128321669_gettyimages-463824907.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Here are the 12 top power players at Google leading the fight in AI against the smash hit ChatGPT"
-    excerpt: "ChatGPT could influence Google's dominance in search. Here are the 12 people inside the search giant developing AI-based technology to keep up."
-    publishedDateTime: 2023-01-18T10:07:00Z
-    webUrl: "https://www.businessinsider.com/google-ai-power-players-chatgpt-artificial-intelligence-2023-1"
+  - title: "I asked ChatGPT how to start a business and it gave me 8 steps that weren't that helpful"
+    excerpt: "While it's very smart, ChatGPT is only a chatbot; I knew it couldn't physically start a business for me. But I wondered if it would at least walk me through the initial steps. So I asked this AI program a series of questions about starting a business."
+    publishedDateTime: 2023-01-16T10:03:00Z
+    webUrl: "https://www.businessinsider.com/chagpt-cant-start-a-business-for-you-startup-steps-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/chagpt-cant-start-a-business-for-you-startup-steps-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chagpt-cant-start-a-business-for-you-startup-steps-2023-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 56
+    quality: 63
     images:
-      - url: "https://i.insider.com/63c0772f1f388b00195f4423?width=1200&format=jpeg"
+      - url: "https://i.insider.com/63c17f1502cb82001937a144?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Nick Cave really doesn't like AI bot ChatGPT"
-    excerpt: "Cave has a famously close relationship with his fans, one of whom sent a song \"written\" by ChatGPT \"in the style of Nick Cave.\" The whole blog from Cave is worth reading, but among some wonderful and wise observations,"
-    publishedDateTime: 2023-01-17T18:01:00Z
-    webUrl: "https://mashable.com/article/nick-cave-chatgpt"
+  - title: "DeepMind's Sparrow is Google's answer to ChatGPT"
+    excerpt: "Ever since the launch of OpenAI’s ChatGPT, Google has been scrambling to build a rival. Now, Google’s subsidiary DeepMind, known for its pioneering work in AI research, has announced plans to launch a new chatbot called Sparrow. The company ..."
+    publishedDateTime: 2023-01-18T12:38:00Z
+    webUrl: "https://www.androidheadlines.com/2023/01/deepmind-sparrow-google-answer-to-chatgpt.html"
+    ampWebUrl: "https://www.androidheadlines.com/2023/01/deepmind-sparrow-google-answer-to-chatgpt.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/01/deepmind-sparrow-google-answer-to-chatgpt.html?amp"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 47
-  - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
-    excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
-    publishedDateTime: 2023-01-17T18:30:00Z
-    webUrl: "https://www.kalw.org/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever"
-    ampWebUrl: "https://www.kalw.org/npr-news/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever?_amp=true"
-    cdnAmpWebUrl: "https://www-kalw-org.cdn.ampproject.org/c/s/www.kalw.org/npr-news/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever?_amp=true"
-    type: article
-    provider:
-      name: KALW
-      domain: kalw.org
-    quality: 37
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/f15d3d1/2147483647/strip/true/crop/1941x1195+0+130/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F13%2Fscreen-shot-2023-01-13-at-10.59.24-am-653c405371f044e9a4056427c4d35153ce997b5f.jpg"
-        width: 880
-        height: 542
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/11/artificial-intelligence-image-8398439438.jpg"
+        width: 1345
+        height: 900
         isCached: true
-  - title: "AI Committee chairman downplays fears over ChatGPT misuse"
-    excerpt: "The Chairman of the Artificial Intelligence Committee at the Ministry of Communications and Information Technology (MCIT), Hassan Jassim al-Sayed, downplayed the fears over"
-    publishedDateTime: 2023-01-16T20:26:00Z
-    webUrl: "https://www.gulf-times.com/article/653452/qatar/ai-committee-chairman-downplays-fears-over-chatgpt-misuse"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 19
-  - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
-    excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
-    publishedDateTime: 2023-01-17T15:30:00Z
-    webUrl: "https://wusfnews.wusf.usf.edu/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever"
-    type: article
-    provider:
-      name: wusfnews.wusf.usf.edu
-      domain: usf.edu
-    quality: 17
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/776c42c/2147483647/strip/true/crop/1941x1019+0+218/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F13%2Fscreen-shot-2023-01-13-at-10.59.24-am-653c405371f044e9a4056427c4d35153ce997b5f.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial intelligence software ChatGPT’s mock exam answers pass plagiarism checks, but AI detection software available"
-    excerpt: "Universities are having to adapt to combat potential plagiarism using artificial intelligence. Dr Popenici also encouraged education institutions to embrace AI. “Let’s use AI to enhance more significant ways to assess what our students learn and what ..."
-    publishedDateTime: 2023-01-18T12:03:00Z
-    webUrl: "https://www.goldcoastbulletin.com.au/news/queensland/artificial-intelligence-software-chatgpts-mock-exam-answers-pass-plagiarism-checks-but-ai-detection-software-available/news-story/7e612a21840fbb19eb6f8f3422d9d087"
-    type: article
-    provider:
-      name: Gold Coast Sun
-      domain: goldcoastbulletin.com.au
-    quality: 7
 
 secured: "7e3szVWPl7IE7LdBWnCXXf9GHzC/ZtDfeqVlbxjGypPCw3Sw3duId8HbLdtqTdxt2frFZD6hUxF8gju0vx9XhZKksnJ3GtF4VkeFf3e9HN0vomtafIcWA7cAs9D8kyE1bUIMz88jvhZBrdQmIzMamGxbRIMUqNGnGS60HFxp279KnkYavfXB3lbR2shxeZYtSVmyJ4/qwA9Nz+jYfEiZJnqcxmdAEae3ucthIcqo9KlwjqJ6nl6g8s+9SPQx9wmAhla32k2qQhKIGtKkB7v3U3xzC/jICW25UVT+B/z5PRhJPDsbESi18kfp96mUe53AIZ/08OzPzj37B9dodqz2MzASF5XlK3OoYH6l4arpiaAG/npD/zru6l0ZiUOyGO7wWOfoED+lvBzsHg9SJxmUf7ux6vy6WT6fKheDYg4ijavKOssMO9xfYngbGUymxG47YYal2j0hWyMLz6o+AOojJ+P9CN8d2BpIBH6gPhyIeST+H8AdnUajyIaeIp21QTu/02L3DtqxmcdhnbZyMAGoVw==;glqesGZqEDpSFIaofwN28w=="
 ---

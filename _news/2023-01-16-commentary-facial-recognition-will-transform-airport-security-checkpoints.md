@@ -58,6 +58,20 @@ related:
         width: 1024
         height: 756
         isCached: true
+  - title: "Air Force Wants to Add Facial Recognition to Automated Base Entrance"
+    excerpt: "The Air Force is considering using facial recognition technology at base entrances and plans to start with a pilot program at Scott Air Force Base in Illinois. The base has an automated system for ..."
+    publishedDateTime: 2023-01-16T04:06:00Z
+    webUrl: "https://www.defenseone.com/technology/2023/01/air-force-wants-add-facial-recognition-automated-base-entrance/381632/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 54
+    images:
+      - url: "https://cdn.defenseone.com/media/img/cd/2023/01/09/010922airforceNG-1/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Facial recognition will transform airport security"
     excerpt: "He has studied aviation security for more than 25 years, and wrote this for the Chicago Tribune. Imagine using technology that never forgets a face, while improving airport security and shortening lines."
     publishedDateTime: 2023-01-16T12:00:00Z

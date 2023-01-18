@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT And AI Will Fuel New EdTech Boom"
+    excerpt: "Venture capitalists predict artificial intelligence, virtual reality and video-learning startups will dominate the space in 2023."
+    publishedDateTime: 2023-01-18T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/emmawhitford/2023/01/18/chatgpt-and-ai-will-fuel-new-edtech-boom/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63c75360008c41557a766ebe/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Two professors who say they caught students cheating on essays with ChatGPT explain why AI plagiarism can be hard to prove"
     excerpt: "If students don't confess to using ChatGPT to write their essays, professors say AI plagiarism can be hard to prove."
     publishedDateTime: 2023-01-14T08:00:00Z
@@ -55,6 +69,70 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Nick Cave says ChatGPT's AI attempt to write Nick Cave lyrics 'sucks'"
+    excerpt: "Nick Cave has written a scathing review of an artificial intelligence system that tried to write a song \"in the style of Nick Cave\". The Bad Seeds frontman responded after a fan sent him lyrics written by ChatGPT,"
+    publishedDateTime: 2023-01-17T11:47:00Z
+    webUrl: "https://bbc.co.uk/news/entertainment-arts-64302944.amp"
+    ampWebUrl: "https://bbc.co.uk/news/entertainment-arts-64302944.amp"
+    cdnAmpWebUrl: "https://bbc-co-uk.cdn.ampproject.org/c/s/bbc.co.uk/news/entertainment-arts-64302944.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17964/production/_128321669_gettyimages-463824907.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Here are the 12 top power players at Google leading the fight in AI against the smash hit ChatGPT"
+    excerpt: "ChatGPT could influence Google's dominance in search. Here are the 12 people inside the search giant developing AI-based technology to keep up."
+    publishedDateTime: 2023-01-18T10:07:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-power-players-chatgpt-artificial-intelligence-2023-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+    images:
+      - url: "https://i.insider.com/63c0772f1f388b00195f4423?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Nick Cave really doesn't like AI bot ChatGPT"
+    excerpt: "Cave has a famously close relationship with his fans, one of whom sent a song \"written\" by ChatGPT \"in the style of Nick Cave.\" The whole blog from Cave is worth reading, but among some wonderful and wise observations,"
+    publishedDateTime: 2023-01-17T18:01:00Z
+    webUrl: "https://mashable.com/article/nick-cave-chatgpt"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 47
+  - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
+    excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
+    publishedDateTime: 2023-01-17T18:30:00Z
+    webUrl: "https://www.kalw.org/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever"
+    ampWebUrl: "https://www.kalw.org/npr-news/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever?_amp=true"
+    cdnAmpWebUrl: "https://www-kalw-org.cdn.ampproject.org/c/s/www.kalw.org/npr-news/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever?_amp=true"
+    type: article
+    provider:
+      name: KALW
+      domain: kalw.org
+    quality: 37
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/f15d3d1/2147483647/strip/true/crop/1941x1195+0+130/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F13%2Fscreen-shot-2023-01-13-at-10.59.24-am-653c405371f044e9a4056427c4d35153ce997b5f.jpg"
+        width: 880
+        height: 542
+        isCached: true
+  - title: "AI Committee chairman downplays fears over ChatGPT misuse"
+    excerpt: "The Chairman of the Artificial Intelligence Committee at the Ministry of Communications and Information Technology (MCIT), Hassan Jassim al-Sayed, downplayed the fears over"
+    publishedDateTime: 2023-01-16T20:26:00Z
+    webUrl: "https://www.gulf-times.com/article/653452/qatar/ai-committee-chairman-downplays-fears-over-chatgpt-misuse"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 19
   - title: "Everybody Loves ChatGPT Except For Nick Cave, Who Is Unimpressed With AI-Generated Lyrics Meant To Be Like His"
     excerpt: "Cave called the ChatGPT-generated song ’bullsh*t’ and explained why it is ’a grotesque mockery of what it is to be human.’"
     publishedDateTime: 2023-01-16T18:54:00Z
@@ -68,6 +146,20 @@ related:
       - url: "https://uproxx.com/wp-content/uploads/2023/01/2-nick-1.jpg?w=710"
         width: 710
         height: 400
+        isCached: true
+  - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
+    excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
+    publishedDateTime: 2023-01-17T15:30:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever"
+    type: article
+    provider:
+      name: wusfnews.wusf.usf.edu
+      domain: usf.edu
+    quality: 17
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/776c42c/2147483647/strip/true/crop/1941x1019+0+218/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F13%2Fscreen-shot-2023-01-13-at-10.59.24-am-653c405371f044e9a4056427c4d35153ce997b5f.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "huL+zEprwO/eUz0wc1OMqO+lTvb/KYa1rZnU+0Oqy6bqJzPn2ozBPqFeUwwqxvfomZexJ8N5YXgekDp5k33A6cPsU8Fkw1yv9ycYoYtyL0VVXQF/8Lcw2tAAGE7+SvQJXSieXrgOWOWN3wyjGn6zJX0xSFjBhQfjbFKX+B9U9OrTMKQ91viK9eLJFvRzoaj2Jwj+TjfkhISw6yhSg/L3AZJjHPcimONp7Vpw8h/kTbiuIXhR7wAOj5bSpMg3ES8XFjWrOC9ssNHyjxCnG+5pQCUQ3lfnzCa+7ETuaGXuFwCrMDBhzMZ2j88HgDMvE4QXP7Sae2rkrVfx8bCIUDwA8tXDgW+bnk7GjuSmRFHWpG+tuRJIYGl7nrMr3Ddxcut3Hu9+wjpv8xoZiSrkFKYLBiusKaki/Qev3q+IZPOC2AY4iXVBH9kcSUEcaCalD87AYi3doxCU0OpZfkagTasA3eUqogjqBVLYJkLYM8naHJgrG2tzTo/tJwb0O0POh+CLHcYGv8DuGS5R5uxQrauPQA==;PtTTVeK0AoMbbibe0SlETg=="

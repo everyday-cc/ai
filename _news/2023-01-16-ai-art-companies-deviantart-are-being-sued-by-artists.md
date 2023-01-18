@@ -40,6 +40,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Getty Images Has Started Legal Proceedings Against an AI Generative Art Company For Copyright Infringement"
+    excerpt: "Getty announced in a press release on Tuesday that it began legal proceedings against AI company Stability AI for intellectual property infringement."
+    publishedDateTime: 2023-01-18T17:33:00Z
+    webUrl: "https://www.entrepreneur.com/business-news/getty-images-to-ai-companies-stop-illegally-using-our/443216"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1674066815-SOPAImagesContributor.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Lawsuits accuse AI content creators of misusing copyrighted work"
     excerpt: "A group of visual artists has sued artificial intelligence companies Stability AI Ltd, Midjourney Inc, and DeviantArt Inc for copyright infringement, adding to a fast-emerging line of intellectual property disputes over AI-generated work."
     publishedDateTime: 2023-01-17T19:05:00Z

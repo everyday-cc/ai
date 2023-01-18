@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The AI Magic Show"
+    excerpt: "It felt, in some contexts, and especially upon first contact, as though it could actually participate in something like conversation. What many users suggested felt truly magical, however, were the hints at the underlying model’s broader capabilities."
+    publishedDateTime: 2023-01-18T16:00:00Z
+    webUrl: "https://nymag.com/intelligencer/2023/01/why-artificial-intelligence-often-feels-like-magic.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 37
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/089/f6b/5a8faa10717620809477ac526efa1a97f0-chat-gpt-magic-mosh.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "j6yFeqxCn9eGy6OBelHukvIuXxw5Kt3SUbVUx0i0+PyCFN8nF/Ng5lmp8yEUuMdonmxRYG02icQJ5cbdP1VBFwI5gjrtDh2bztyw24EcK0/OOETuF2qUMUQUTi0FE2SCGPCc1nyCMW+eRz3/v8F+HowU5kOrIiORMgGJlZ12MXfzx+vfWi/uPazGyVROnpF2Mj6mW+/X/BherAHwMlobDua1ZmCulH0nAftLIxv6XVIGzAWiLaqTwQtaani436HF+HKzoBJo+t2Hg0O3nxIQbuBbS1TffT1LAc1gay68LsGiuPFm+VHMfNJGvks1sGm22buBkRkmI3j2xezFK7YS2hwz7CglQ0BC4CkD0bNtREDdlG5g5ILLKcaqw3d99J/jKuUljOk2S6msuprjrXIwpOsnFTpGvQyXMKdvk+8jIWNZgTpnJ/H6yzk+lCxt135bqVOgPdyjbvAv38xAw16MQI1xOefM3NKedWwdcAm72ODyCI+z65B4KxIoAUR6W91EwkNhpHkfKwnqrgJhlMb/kg==;fC1LJE2i3LC1wmFsQeYZfA=="
 ---
