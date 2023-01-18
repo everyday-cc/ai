@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-devic
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-geographical-segmentation-by-forecast-revenue-2023-2028-2023-01-14"
 type: article
 quality: 60
-heat: 150
+heat: 170
 published: true
 
 provider:
@@ -136,6 +136,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automatic Content Recognition (ACR) Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2029"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. The analytical"
+    publishedDateTime: 2023-01-18T02:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-content-recognition-acr-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Forecast 2028 for the Automatic Content Recognition (ACR) Market in terms of size, returns, gross margin, and market share"
+    excerpt: "The major players covered in the Automatic Content Recognition (ACR) market report are: Get a sample copy of the Automatic Content Recognition (ACR) Market report 2023 Automatic Content Recognition (ACR) Marketsize,"
+    publishedDateTime: 2023-01-18T00:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-automatic-content-recognition-acr-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

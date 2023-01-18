@@ -9,7 +9,7 @@ ampWebUrl: "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recogniti
 cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/6/b1/6b106f7e-952b-11ed-b53b-db389e490e67/63c48ac6bc23a.image.jpg?resize=1024%2C756"
         width: 1024
         height: 756
-        isCached: true
-  - title: "Facial recognition will transform airport security checkpoints | Commentary"
-    excerpt: "The true role of airport security is ensuring that you are the person you claim to be. Facial recognition enhances such efforts."
-    publishedDateTime: 2023-01-13T15:50:00Z
-    webUrl: "https://www.orlandosentinel.com/opinion/guest-commentary/os-op-facial-recognition-biometrics-tsa-airport-security-20230113-cckbpdteprba7kcyyvracg7iru-story.html"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 69
-    images:
-      - url: "https://www.orlandosentinel.com/resizer/csfLNVeObihARBGOaSm4ZUb0fHU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/IEBE4YD4TRDKTJCZT6PZJR6CDM.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Commentary: Facial recognition will transform airport security checkpoints"
     excerpt: "Imagine using technology that never forgets a face, while improving airport security and shortening lines. Such technology exists and may be coming to an airport near you. Every flyer over"

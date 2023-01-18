@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/cloud/cloud-computing/369875/microsoft-add
 webUrl: "https://www.itpro.co.uk/cloud/cloud-computing/369875/microsoft-adds-chatgpt-to-azure-openai-support-cloud-services"
 type: article
 quality: 99
-heat: 519
+heat: 529
 published: true
 
 provider:
@@ -488,6 +488,15 @@ related:
     provider:
       name: techzine
       domain: techzine.eu
+    quality: 49
+  - title: "Microsoft announces general availability of Azure OpenAI Service"
+    excerpt: "Large language models are quickly becoming an essential platform for people to innovate, apply AI to solve big problems, and imagine what’s possible. By Eric Boyd, corporate vice-president: AI platform at Microsoft Today,"
+    publishedDateTime: 2023-01-18T08:48:00Z
+    webUrl: "https://it-online.co.za/2023/01/18/microsoft-announces-general-availability-of-azure-openai-service/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
     quality: 49
   - title: "ChatGPT is coming soon to Azure OpenAI Service: Microsoft CEO Satya Nadella"
     excerpt: "Microsoft has allowed its cloud-computing users to preview tech by OpenAI a startup that it is backing. The preview has been done through a program that Microsoft calls the Azure OpenAI service."

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2023/01/tesla-staged-2016-self-driving-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/01/tesla-staged-2016-self-driving-demo-says-senior-autopilot-engineer/amp/"
 type: article
 quality: 89
-heat: 229
+heat: 249
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2017/08/tesla-model-x-desert-front.jpg?resize=1200,675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Engineer: Tesla Self-Driving Demo Video Was Staged"
+    excerpt: "Tesla video promoting and demonstrating self-driving technology was staged, according to testimony by a senior engineer."
+    publishedDateTime: 2023-01-18T06:26:00Z
+    webUrl: "https://www.entrepreneur.com/business-news/tesla-self-driving-demo-video-was-staged-says-engineer/443155"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1674018403-GettyImages-492682162-tesla-fsd.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Here’s the real story behind Tesla’s ‘staged’ self-driving video"
     excerpt: "There are a lot of media reports about Tesla having ‘staged’ or ‘faked’ a self-driving video in 2016 today after the testimony of a Tesla Autopilot executive was released, but here’s the full story. In 2016,"
@@ -189,8 +203,8 @@ related:
         isCached: true
   - title: "Tesla engineer testifies that 2016 self-driving footage was faked"
     excerpt: "A senior Tesla (TSLA) engineer admitted that a 2016 video promoting the automaker’s autonomous driving technology was staged."
-    publishedDateTime: 2023-01-17T17:13:00Z
-    webUrl: "https://seekingalpha.com/news/3925123-tesla-engineer-testifies-that-2016-self-driving-footage-was-faked"
+    publishedDateTime: 2023-01-17T18:20:00Z
+    webUrl: "https://seekingalpha.com/news/3925123-tesla-engineer-testifies-that-2016-self-driving-footage-was-faked?source=content_type%3Areact|first_level_url%3Amarket-news|section_asset%3Atop"
     type: article
     provider:
       name: Seeking Alpha
@@ -214,6 +228,20 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/01/17/screen_shot_2023-01-17_at_5.45.31_pm.png?width=1200&height=800&fit=crop"
         width: 683
         height: 455
+        isCached: true
+  - title: "Tesla Engineer Tells US Court That the Firm Staged 2016 Video Promoting Self-Driving Capabilities"
+    excerpt: "The video was released in October 2016 and promoted on Twitter by Chief Executive Elon Musk as evidence that “Tesla drives itself.”"
+    publishedDateTime: 2023-01-18T07:58:00Z
+    webUrl: "https://www.gadgets360.com/transportation/news/tesla-engineer-reveals-self-driving-2016-promotional-video-staged-elon-musk-shareholder-trial-3702330"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 26
+    images:
+      - url: "https://i.gadgets360cdn.com/large/tesla_reuters_1653725379866.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "As self-driving sector shifts into gear, the innovators pull ahead of the pack"
     excerpt: "Closer to the ground, another revolution is taking place in the form of a budding self-driving car industry. Last week, British self-driving software start-up Oxbotica successfully raised £115mln in a series-C funding round comprising investments from ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-co
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont/amp"
 type: article
 quality: 66
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The First Driverless Remote-Control Rental Cars Come To Las Vegas"
-    excerpt: "We hadn't previously covered the remote control car in our driverless vehicle features, and now the first driverless rental vehicle service is poised to launch in Las Vegas: Halo.Car. Las Vegas ..."
-    publishedDateTime: 2023-01-13T15:05:00Z
-    webUrl: "https://www.motortrend.com/events/halo-car-rentals-driverless-remote-control-delivery-pick-up/"
-    ampWebUrl: "https://www.motortrend.com/events/halo-car-rentals-driverless-remote-control-delivery-pick-up/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/events/halo-car-rentals-driverless-remote-control-delivery-pick-up/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 59
-    images:
-      - url: "https://www.motortrend.com/uploads/2023/01/halophotos30337.png"
-        width: 1600
-        height: 899
-        isCached: true
   - title: "Self-Driving/Driverless Cars Market Size 2023 With End-user Industries, Segments Covered in the Report"
     excerpt: "Self-Driving/Driverless Cars Market 2023 with 103 Pages Report and enhance with extents shares into sub-counties"
     publishedDateTime: 2023-01-16T06:42:00Z

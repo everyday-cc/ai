@@ -24,6 +24,17 @@ images:
     height: 576
     isCached: true
 
+related:
+  - title: "NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)"
+    excerpt: "The provider has not supplied information on the NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT) treatment and services at this clinic. We've put some small files called cookies on your device to make our site work."
+    publishedDateTime: 2023-01-15T22:38:00Z
+    webUrl: "https://www.nhs.uk/services/clinic/talkworks/RWV28/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt"
+    type: article
+    provider:
+      name: NHS Choices
+      domain: www.nhs.uk
+    quality: 11
+
 secured: "gRakXTw+lLa524ztwpOZbkIOgOSRogaIvxI6+1ciCdLXcFaM1FrsR1uoF0KI+KS5g2H3c019psoahcQ0UJZVfBJBNHOUSXMNhHBj8PtoHmaYdSthbQD4oj7VOPS2US+utIMZGCQwBB7pjo9aKVTS5lv77nrMzlValIdgl3NaenfYqsuviB9zNDKpEeMQf/KJ/Y2ekJSwbKGf6JTp51+vSN2sbfTyTASbt6kuC2mezfywCMgro3AX0Y/MBoy5QkzG2meQGR4Qh2Ng457ULqJKyXddSdYqlO9gqxqowv1iCh2BG9ruHEDTfXValhj8TpiuF9z53gVzzLyXE6VbzYaQCgRoEzU/BVq4ekoOSoW62izfhy2lpFgii/AYPHuFd5GP3wi6NJ7Lrg0agzxXDkO2LkoIFbeRyW6wRn3rwblgoy2doIwJfb3CIZDL0CHqr/Triz51/GHwEDZDOMPT2cjP/PFiQso/rmdZ20tootVc6ji3/su4lo4TK1Mog5J8cug2QZIuPtjVSgyv4YIEI3z9aA==;on+UHC5YT67AXc2PN8G1ow=="
 ---
 

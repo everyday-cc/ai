@@ -58,20 +58,6 @@ related:
         width: 1024
         height: 756
         isCached: true
-  - title: "Facial recognition will transform airport security checkpoints | Commentary"
-    excerpt: "The true role of airport security is ensuring that you are the person you claim to be. Facial recognition enhances such efforts."
-    publishedDateTime: 2023-01-13T15:50:00Z
-    webUrl: "https://www.orlandosentinel.com/opinion/guest-commentary/os-op-facial-recognition-biometrics-tsa-airport-security-20230113-cckbpdteprba7kcyyvracg7iru-story.html"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 69
-    images:
-      - url: "https://www.orlandosentinel.com/resizer/csfLNVeObihARBGOaSm4ZUb0fHU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/IEBE4YD4TRDKTJCZT6PZJR6CDM.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial recognition will transform airport security"
     excerpt: "He has studied aviation security for more than 25 years, and wrote this for the Chicago Tribune. Imagine using technology that never forgets a face, while improving airport security and shortening lines."
     publishedDateTime: 2023-01-16T12:00:00Z

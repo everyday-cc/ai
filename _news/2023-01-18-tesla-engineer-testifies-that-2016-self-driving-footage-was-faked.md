@@ -2,9 +2,9 @@
 category: news
 title: "Tesla engineer testifies that 2016 self-driving footage was faked"
 excerpt: "A senior Tesla (TSLA) engineer admitted that a 2016 video promoting the automaker’s autonomous driving technology was staged."
-publishedDateTime: 2023-01-17T17:13:00Z
-originalUrl: "https://seekingalpha.com/news/3925123-tesla-engineer-testifies-that-2016-self-driving-footage-was-faked"
-webUrl: "https://seekingalpha.com/news/3925123-tesla-engineer-testifies-that-2016-self-driving-footage-was-faked"
+publishedDateTime: 2023-01-17T18:20:00Z
+originalUrl: "https://seekingalpha.com/news/3925123-tesla-engineer-testifies-that-2016-self-driving-footage-was-faked?source=content_type%3Areact|first_level_url%3Amarket-news|section_asset%3Atop"
+webUrl: "https://seekingalpha.com/news/3925123-tesla-engineer-testifies-that-2016-self-driving-footage-was-faked?source=content_type%3Areact|first_level_url%3Amarket-news|section_asset%3Atop"
 type: article
 quality: 39
 heat: -1
@@ -72,6 +72,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2017/08/tesla-model-x-desert-front.jpg?resize=1200,675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Engineer: Tesla Self-Driving Demo Video Was Staged"
+    excerpt: "Tesla video promoting and demonstrating self-driving technology was staged, according to testimony by a senior engineer."
+    publishedDateTime: 2023-01-18T06:26:00Z
+    webUrl: "https://www.entrepreneur.com/business-news/tesla-self-driving-demo-video-was-staged-says-engineer/443155"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1674018403-GettyImages-492682162-tesla-fsd.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Here’s the real story behind Tesla’s ‘staged’ self-driving video"
     excerpt: "There are a lot of media reports about Tesla having ‘staged’ or ‘faked’ a self-driving video in 2016 today after the testimony of a Tesla Autopilot executive was released, but here’s the full story. In 2016,"
@@ -211,6 +225,20 @@ related:
         width: 683
         height: 455
         isCached: true
+  - title: "Tesla Engineer Tells US Court That the Firm Staged 2016 Video Promoting Self-Driving Capabilities"
+    excerpt: "The video was released in October 2016 and promoted on Twitter by Chief Executive Elon Musk as evidence that “Tesla drives itself.”"
+    publishedDateTime: 2023-01-18T07:58:00Z
+    webUrl: "https://www.gadgets360.com/transportation/news/tesla-engineer-reveals-self-driving-2016-promotional-video-staged-elon-musk-shareholder-trial-3702330"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 26
+    images:
+      - url: "https://i.gadgets360cdn.com/large/tesla_reuters_1653725379866.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "As self-driving sector shifts into gear, the innovators pull ahead of the pack"
     excerpt: "Closer to the ground, another revolution is taking place in the form of a budding self-driving car industry. Last week, British self-driving software start-up Oxbotica successfully raised £115mln in a series-C funding round comprising investments from ..."
     publishedDateTime: 2023-01-17T10:15:00Z
@@ -226,6 +254,6 @@ related:
         height: 630
         isCached: true
 
-secured: "/e5ICn1Q2M19djhUKbbs6jM0mn/zuQkxMeKavQQ5LV6bU6lcS9IxeOqI8+NrjxIulEhE9LGab669ek3GuVBqU5BJYHiVWbLwcCVPSvD1Pn4n0sX54o5g50SI8wCi/5naIK2E4lCpQ2R4y5mL8Y5XmJHTrS4awmiMMwb5rgj0nfhwAzkVxL7om1y2G9CQ7fwBYoCzdBfjIEqPdHR1JMXxIdTh587w+va2UjRW1g7gixPVqvsvwfw9PhXWfkV2tlWZFahKOdsoerKFqmFvmrl/Xd9oz/JOgg3lfqOBl9BJMssgS6vKUmbGJ6GWaJO7/8FBs6aJEAtc7E9oDLHff96XDHb4cVk4EYvG3Bvdx7PagTiklPCCEAGzPdMreAPDRITXZ4jqIHBxpv1Md6RDe/UyoOxeNhzBoloeR4MUt/3fNSmoc+4Xg0mua7ACx4yCel/GZq+5ZXSyPBBIjtaK1m6MD+fUMP8gLH9sJFNlo6uePn2lbt+7+A4uxQoH0OV9Qo2+9Bm4NDJvY4ML8Z3LvgX3GA==;SSsHuL8Gn4obS2x1ECICYQ=="
+secured: "sKRp3XWdIFGsOLn5M/4t2x8X3GLci8TxeIWKbJkN+yda/GnBjwnSeJs3zuLzbKytvEGRuEV9gaFrBvjnyyHreRnkcnrWHoGbSdqWDIDdxzt7HrmAKCacjHcBRUFAYK5RV5dNBFVt7k1s20Hrz9qu1ZRc0lsTcNS5qRMlEZMixBOisHeqeK245W5aYv0Euz1SZiLXADSp4syg0Hn2P1VFm9cLIZ37/g/Lcdj90dWBw0OEsVFj/kuWY+NzJPsfIYPWrjiv6UaWO7GnGadtuAIxpDql/mJGnP3tCeSfgGzv2ekifZa2GMPEO9+Cx/x39/WfTIf6zc8nafTwhQTsX2PRAbDI+KX7eSLDLeq9GjZX4DY=;ULdO0+13RmJQR2YGwnKSVA=="
 ---
 

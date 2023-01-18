@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Revolut close to finalising 2021 accounts as fintech seeks U.K. licence - sources"
-    excerpt: "Fintech firm Revolut Ltd. is close to finalising its long-overdue 2021 financial accounts, a move that could pave the way for the start-up to obtain a UK banking licence, two people with knowledge of the matter told Reuters."
-    publishedDateTime: 2023-01-13T16:36:00Z
-    webUrl: "https://www.reuters.com/technology/revolut-close-finalising-2021-accounts-fintech-seeks-uk-licence-sources-2023-01-13/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 29
   - title: "KFintech Drives Digital Transformation and Innovation in the Financial Services Industry with AWS"
     excerpt: "(MENAFN- Adfactors PR ) January 17, 2023, Hyderabad: KFin Technologies Limited (KFintech), a leading technology-driven financial services firm ... including interactive dashboards that use AWS machine learning to automatically look for investment patterns ..."
     publishedDateTime: 2023-01-18T04:12:00Z

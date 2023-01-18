@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/know-about-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/know-about-artificial-intelligence-of-things-aiot-market-up-to-date-report-size-progressive-long-term-growth-outlook-2023-2026-2023-01-15"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: MarketWatch
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Of Things (AIoT) Solutions Market Size Related To Time And Cost Is Expected To Grow The Industry In Upcoming Years To 2029"
+    excerpt: "In 2023] The Global Artificial Intelligence Of Things (AIoT) Solutions Market Size (112 Report Pages) is estimated to"
+    publishedDateTime: 2023-01-18T01:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-related-to-time-and-cost-is-expected-to-grow-the-industry-in-upcoming-years-to-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

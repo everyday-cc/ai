@@ -43,6 +43,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Robotics Market Production Growth, Demand And Supply Analysis 2023 To 2029 | Including 103 Pages Report"
+    excerpt: "In 2023] The Global Artificial Intelligence Robotics Market Size (103 Report Pages) is estimated to be worth USD"
+    publishedDateTime: 2023-01-18T01:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-production-growth-demand-and-supply-analysis-2023-to-2029-including-103-pages-report-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Healthcare Natural Language Processing (NLP) Market Size 2023 With Strong Supplier, Key Factors, Driving The Market Growth, Information 2029"
+    excerpt: "In 2023] The Global Healthcare Natural Language Processing (NLP) Market Size (118 Report Pages) is estimated to be"
+    publishedDateTime: 2023-01-18T01:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-size-2023-with-strong-supplier-key-factors-driving-the-market-growth-information-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size 2023 with Presentation Outlook, Horizontal Viewpoint, Global View"
     excerpt: "Natural Language Processing (NLP) in Healthcare and Life Sciences Marketsize, segment (mainly coveringMajorType (, Statistical NLP, Hybrid based NLP, Rule NLP, ,),End Users (, Healthcare, Life Sciences,"
     publishedDateTime: 2023-01-17T04:07:00Z
@@ -52,6 +80,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Delivery Robot Market : New Business Strategies And Forecast By 2028 with Top Countries Data"
+    excerpt: "Rising demand for Food and Beverages, Retail, Healthcare, Postal, Others will drive the Artificial Intelligence Delivery Robot segment growth over the next five years. Global Mark"
+    publishedDateTime: 2023-01-18T00:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-new-business-strategies-and-forecast-by-2028-with-top-countries-data-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -108,6 +150,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Image Recognition in Retail Market Size 2023 with Over-all Dominated, Share of Everywhere, Ease of Access of Solutions"
+    excerpt: "Pages Insights] In 2023, Image Recognition in Retail Market Size after extensive research on historical and current growth rates, the growth prospects of the global market are well received. This new market report 2023 provides a comprehensive analysis of the global Image Recognition in Retail market."
+    publishedDateTime: 2023-01-18T02:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-with-over-all-dominated-share-of-everywhere-ease-of-access-of-solutions-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI-assisted Diagnosis Market Size 2023, Share, Global Trend | Market Analysis, Growth, Opportunities and Forecast 2026"
+    excerpt: "New Report Publish on Global AI-assisted Diagnosis Market 2023 Research Report provides Size, Share, Growth, Developments, New Technology, Trends and Forecasts 2028. Also, AI-assisted Diagnosis Market Report provides an in-depth analysis of the market situation of the Top AI-assisted Diagnosis Manufacturers with the best facts and figures,"
+    publishedDateTime: 2023-01-18T04:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-assisted-diagnosis-market-size-2023-share-global-trend-market-analysis-growth-opportunities-and-forecast-2026-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

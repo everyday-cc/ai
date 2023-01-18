@@ -493,6 +493,15 @@ related:
       name: techzine
       domain: techzine.eu
     quality: 49
+  - title: "Microsoft announces general availability of Azure OpenAI Service"
+    excerpt: "Large language models are quickly becoming an essential platform for people to innovate, apply AI to solve big problems, and imagine what’s possible. By Eric Boyd, corporate vice-president: AI platform at Microsoft Today,"
+    publishedDateTime: 2023-01-18T08:48:00Z
+    webUrl: "https://it-online.co.za/2023/01/18/microsoft-announces-general-availability-of-azure-openai-service/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 49
   - title: "Nick Cave really doesn't like AI bot ChatGPT"
     excerpt: "Cave has a famously close relationship with his fans, one of whom sent a song \"written\" by ChatGPT \"in the style of Nick Cave.\" The whole blog from Cave is worth reading, but among some wonderful and wise observations,"
     publishedDateTime: 2023-01-17T18:01:00Z

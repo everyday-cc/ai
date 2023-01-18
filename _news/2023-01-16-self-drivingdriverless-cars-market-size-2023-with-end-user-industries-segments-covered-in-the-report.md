@@ -45,22 +45,6 @@ related:
         width: 590
         height: 353
         isCached: true
-  - title: "The First Driverless Remote-Control Rental Cars Come To Las Vegas"
-    excerpt: "We hadn't previously covered the remote control car in our driverless vehicle features, and now the first driverless rental vehicle service is poised to launch in Las Vegas: Halo.Car. Las Vegas ..."
-    publishedDateTime: 2023-01-13T15:05:00Z
-    webUrl: "https://www.motortrend.com/events/halo-car-rentals-driverless-remote-control-delivery-pick-up/"
-    ampWebUrl: "https://www.motortrend.com/events/halo-car-rentals-driverless-remote-control-delivery-pick-up/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/events/halo-car-rentals-driverless-remote-control-delivery-pick-up/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 59
-    images:
-      - url: "https://www.motortrend.com/uploads/2023/01/halophotos30337.png"
-        width: 1600
-        height: 899
-        isCached: true
   - title: "Driverless Tractors Market Size in 2023 [ New Report ] Global Survey with Forecast 2028 & Comprehensive Analysis in Report"
     excerpt: "growing at a CAGR of % during the forecast period 2022-2028. The USA market for Driverless Tractors is estimated to increase from USD million in 2022 to reach USD million by 2028 at a CAGR of ..."
     publishedDateTime: 2023-01-15T18:49:00Z

@@ -141,6 +141,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automatic Content Recognition (ACR) Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2029"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. The analytical"
+    publishedDateTime: 2023-01-18T02:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-content-recognition-acr-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Forecast 2028 for the Automatic Content Recognition (ACR) Market in terms of size, returns, gross margin, and market share"
+    excerpt: "The major players covered in the Automatic Content Recognition (ACR) market report are: Get a sample copy of the Automatic Content Recognition (ACR) Market report 2023 Automatic Content Recognition (ACR) Marketsize,"
+    publishedDateTime: 2023-01-18T00:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-automatic-content-recognition-acr-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Iris Recognition Market Report 2022 to 2028: Adoption of Biometric Technologies in the Defence and Automobile Industries Drives Growth"
     excerpt: "The Global Iris Recognition Market size is expected to reach $8.9 billion by 2028, rising at a market growth of 15.6% CAGR during the forecast period. Iris recognition is a precise and effective technology for protecting information,"
     publishedDateTime: 2023-01-13T22:28:00Z

@@ -63,6 +63,17 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Mr Dutton needs to decide where he stands on constitutional recognition and the Voice to Parliament | Samantha Maiden"
+    excerpt: "The summer holidays are drawing to a close and the cheat’s guide to this year’s big debate on constitutional recognition and the Voice to Parliament has landed."
+    publishedDateTime: 2023-01-17T21:00:00Z
+    webUrl: "https://www.adelaidenow.com.au/news/opinion/mr-dutton-needs-to-decide-where-he-stands-on-constitutional-recognition-and-the-voice-to-parliament-samantha-maiden/news-story/6225d67cdf94bd3d964e64dbe19fcb4c"
+    ampWebUrl: "https://www.adelaidenow.com.au/news/opinion/mr-dutton-needs-to-decide-where-he-stands-on-constitutional-recognition-and-the-voice-to-parliament-samantha-maiden/news-story/6225d67cdf94bd3d964e64dbe19fcb4c?amp"
+    cdnAmpWebUrl: "https://www-adelaidenow-com-au.cdn.ampproject.org/c/s/www.adelaidenow.com.au/news/opinion/mr-dutton-needs-to-decide-where-he-stands-on-constitutional-recognition-and-the-voice-to-parliament-samantha-maiden/news-story/6225d67cdf94bd3d964e64dbe19fcb4c?amp"
+    type: article
+    provider:
+      name: Adelaide Now
+      domain: adelaidenow.com.au
+    quality: 16
 
 secured: "2v5Ww6oClbMIWMCBUoSWyX3OtVHGpnLydWIGchQr6XaU57nLE0f3t1OejM/lFEAVJkF+N/qJb9L5Iczf+JPIG/Nbpjj5oj38q1km92gLF7u+hvHditghmpMDZZuPzx02BaM77d/LjSwu8hCT98ZQIz5FkUunejtWRuknEIsIgk8r972lv2SaJYcttVLUTfU+fTJoOBpyw5U+Ezm3PRVPrZjdnEXKSi/nGC718BqqmvhUocgPV+az7gIw+Z5cmd42dkq+QYnWwev6P2ROQ/3QMeRmoN3/1O7+04PK6qZPzNK9rXmh2bG/8w7glw0nfiYG8DnfU3B28+Dg5S18K4WuBJS9qtihNZQ6m9q/X8xOT4M=;J65uzaJs2/B/dCtbajBJVw=="
 ---
