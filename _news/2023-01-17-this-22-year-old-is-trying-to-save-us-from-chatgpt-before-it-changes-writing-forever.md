@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT: what can the extraordinary artificial intelligence chatbot do?"
-    excerpt: "Ask the AI program a question, as millions have in recent weeks, and it will do its best to respond"
-    publishedDateTime: 2023-01-13T17:49:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jan/13/chatgpt-explainer-what-can-artificial-intelligence-chatbot-do-ai"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jan/13/chatgpt-explainer-what-can-artificial-intelligence-chatbot-do-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jan/13/chatgpt-explainer-what-can-artificial-intelligence-chatbot-do-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/8fe841cd767bea2719c60a084174d64724d47c1f/0_263_5764_3457/master/5764.jpg?width=620&quality=85&auto=format&fit=max&s=218abc935ca512ae3c43fba89d78f3ed"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Cybercriminals using ChatGPT AI bot to develop malicious tools?"
     excerpt: "According to a report from cyber security firm Check Point Research (CPR), the cybercriminal community has already expressed strong interest in ChatGPT develop malicious code."
     publishedDateTime: 2023-01-16T16:08:00Z
@@ -73,35 +57,35 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
-    excerpt: "While many Americans were nursing hangovers on New Year’s Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
-    publishedDateTime: 2023-01-17T19:51:00Z
-    webUrl: "https://wbhm.org/npr_story_post/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever/"
-    ampWebUrl: "https://wbhm.org/npr_story_post/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever/amp/"
-    cdnAmpWebUrl: "https://wbhm-org.cdn.ampproject.org/c/s/wbhm.org/npr_story_post/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever/amp/"
+  - title: "Here are the 12 top power players at Google leading the fight in AI against the smash hit ChatGPT"
+    excerpt: "ChatGPT could influence Google's dominance in search. Here are the 12 people inside the search giant developing AI-based technology to keep up."
+    publishedDateTime: 2023-01-18T10:07:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-power-players-chatgpt-artificial-intelligence-2023-1"
     type: article
     provider:
-      name: WBHM
-      domain: wbhm.org
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+    images:
+      - url: "https://i.insider.com/63c0772f1f388b00195f4423?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
+    excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
+    publishedDateTime: 2023-01-17T18:30:00Z
+    webUrl: "https://www.kalw.org/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever"
+    ampWebUrl: "https://www.kalw.org/npr-news/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever?_amp=true"
+    cdnAmpWebUrl: "https://www-kalw-org.cdn.ampproject.org/c/s/www.kalw.org/npr-news/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever?_amp=true"
+    type: article
+    provider:
+      name: KALW
+      domain: kalw.org
     quality: 37
     images:
-      - url: "https://wbhm.org/wp-content/uploads/2023/01/screen-shot-2023-01-13-at-10.59.24-am-653c405371f044e9a4056427c4d35153ce997b5f-771x578.jpg"
-        width: 771
-        height: 578
-        isCached: true
-  - title: "Northwestern community members discuss use of AI program ChatGPT to write academic papers"
-    excerpt: "Essay bots may be the next industry to be automated away, thanks to AI program ChatGPT. Artificial intelligence can be used to perform a variety of human-like tasks, including turning information from the internet into detailed written responses,"
-    publishedDateTime: 2023-01-13T18:47:00Z
-    webUrl: "https://dailynorthwestern.com/2023/01/13/campus/northwestern-community-members-discuss-use-of-ai-program-chatgpt-to-write-academic-papers/"
-    type: article
-    provider:
-      name: The Daily Northwestern
-      domain: dailynorthwestern.com
-    quality: 30
-    images:
-      - url: "https://dailynorthwestern.com/wp-content/uploads/2023/01/FRAUDPAPER-ILIANA-GARNER.jpg"
-        width: 1501
-        height: 901
+      - url: "https://npr.brightspotcdn.com/dims4/default/f15d3d1/2147483647/strip/true/crop/1941x1195+0+130/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F13%2Fscreen-shot-2023-01-13-at-10.59.24-am-653c405371f044e9a4056427c4d35153ce997b5f.jpg"
+        width: 880
+        height: 542
         isCached: true
 
 secured: "FGTHr9q7MG76tFeFVPXi031EuIJ/2oALnKBcBINekwFEy/4YkAAIaGHvpuPjlDPdAFMTa7qCWCIXy8eaG8QwVxXFPKLdPiGb2Ac4Vd5l3+VH2xRTp1l3Lpnzm1VAYAM3ENQJaWWUUyLdGNeQrQCrCrqnwHc8H2IygvCqtVWWTMeGRmZJF9XLBjkqd4cuMMU35dlq7NMsBJ0Qd4agX3yU069IjpcwEsxoqvayuuk6YGcJ0rxxdnzseCIV2w9ZJyEv043O0zoynRe4B1lz+XaHVtmo//ye4/F4MygRPiMJwBjSl0Z/YrjwJ96y67W45HrVHXC+IBkfREvfD/KvIjbv9HunrU5MikVrpDbJCot/XeGICp+tqs9Qdi+0G12tco7C0aSyIAeAozvYZK+gQ5/4Y8IKG+iFniMeO+rIophKtohVKtJhJCYegJS1aiaosxU97zrhOJHcI4vpKbDW6kAqBEp1nrE8CoYryFikDhkf/Dl7dV1vLsg19g7fl6CKqyiHBT5oCUBk9yZNcxAC0wSAoQ==;wJM9bWd7YwlFx4bJLlKtTQ=="

@@ -75,6 +75,20 @@ related:
       name: Sun Sentinel
       domain: sun-sentinel.com
     quality: 50
+  - title: "Opinion: Artificial intelligence can’t reproduce the wonders of original human creativity"
+    excerpt: "The biggest story of the year – the story we should all be paying attention to – is the increasing power of artificial intelligence. Computer code can write itself, chatbots can generate academic papers,"
+    publishedDateTime: 2023-01-18T10:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/18/opinion-artificial-intelligence-cant-reproduce-the-wonders-of-original-human-creativity"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 28
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/01/18/1906846.jpg"
+        width: 1240
+        height: 793
+        isCached: true
 
 secured: "yBEE+I90zGE2/0NPHe5c5lBkG5b6plDqJo2ZalTFAQxwq7Y64ko0F4ayTpPxyDyrxZrOUB9Qos0cvBHKvbjxDEfMqlqwO5ZNbzfJKYMFKdq+wwfTe3eHHiSkyNgME63Rar56j6t+0/eMJHMUWlIgBXisZeBuyfoK4dbtnTcsfUo6mQ2m89fvL6Ipf0gtHy1BmWDSi0OEBGzUUZeA6bos7kUpEkss6TCQjBNek8So/0UJzOvv9DLAYW6CSP0JOQjj0gnBc18si3+VyyBqmV9MmSDceZQYWkJeicJmC6iX9AKNTqxJrp8BJD7PoGez+If0deBUMj15t0M6TQHiR3ekMPoQDS1UNA13AOg/q2vZUeCy6UhKtnecBreUpuwSLOYB9PNbdaW0JeNqkVGC/ZgtfjUpVSpAF8QfT2VKGgePFr11OqDfYxorp1FaJdMm73fe710UxNALLEwVRujdL5B1kXZzV8eInJrBwFAUI5zSmEy07GNnB7QRk6uLuNgASU/ANZcvph0FxrqY+4xCK7vqug==;HAHIZPkC9++dn4kymYPn2w=="
 ---

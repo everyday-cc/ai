@@ -2,6 +2,58 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-11-01-automated-exploratory-data-analysis-and-model-operationalization-framework-with-a-human-in-the-loop.md",
+      "title": "Automated exploratory data analysis and model operationalization framework with a human in the loop",
+      "excerpt": "Identifying, collecting, and transforming data is the foundation for machine learning (ML). According to a Forbes survey, there is widespread consensus among ML practitioners that data preparation accounts for approximately 80% of the time spent in developing a viable ML model. In addition, many of our",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automated-exploratory-data-analysis-and-model-operationalization-framework-with-a-human-in-the-loop/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automated-exploratory-data-analysis-and-model-operationalization-framework-with-a-human-in-the-loop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/01/automated-exploratory-data-analysis.jpg",
+          "width": 1342,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T10:00:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-01-tokyo-begins-same-sex-partnership-recognition.md",
       "title": "Tokyo begins same-sex partnership recognition",
       "excerpt": "They often face discrimination at school, work and at home, causing many to hide their sexual identities. Still, many sexual minority couples say the partnership recognition will improve their daily lives, allowing them to rent apartments and sign ...",
@@ -1112,57 +1164,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool.md",
-      "title": "Digital assets marketplace Creative Fabrica launches generative AI tool",
-      "excerpt": "Like other digital assets on the platform, users can put up their generative AI files for paid use by other members, which Creative Fabrica says makes it the first generative AI that also allows creators to make money.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/31/digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool/",
-      "originalUrl": "https://techcrunch.com/2022/10/31/digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/Spark-preview.jpeg?resize=1200,720",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/31/digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/31/digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool/amp/",
-      "publishedDateTime": "2022-10-31T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
-excerpt: "While many Americans were nursing hangovers on New Year’s Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
-publishedDateTime: 2023-01-17T19:51:00Z
-originalUrl: "https://wbhm.org/npr_story_post/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever/"
-webUrl: "https://wbhm.org/npr_story_post/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever/"
-ampWebUrl: "https://wbhm.org/npr_story_post/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever/amp/"
-cdnAmpWebUrl: "https://wbhm-org.cdn.ampproject.org/c/s/wbhm.org/npr_story_post/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever/amp/"
+excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
+publishedDateTime: 2023-01-17T18:30:00Z
+originalUrl: "https://www.kalw.org/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever"
+webUrl: "https://www.kalw.org/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever"
+ampWebUrl: "https://www.kalw.org/npr-news/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever?_amp=true"
+cdnAmpWebUrl: "https://www-kalw-org.cdn.ampproject.org/c/s/www.kalw.org/npr-news/npr-news/2023-01-17/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-forever?_amp=true"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WBHM
-  domain: wbhm.org
+  name: KALW
+  domain: kalw.org
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://wbhm.org/wp-content/uploads/2023/01/screen-shot-2023-01-13-at-10.59.24-am-653c405371f044e9a4056427c4d35153ce997b5f-771x578.jpg"
-    width: 771
-    height: 578
+  - url: "https://npr.brightspotcdn.com/dims4/default/f15d3d1/2147483647/strip/true/crop/1941x1195+0+130/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F13%2Fscreen-shot-2023-01-13-at-10.59.24-am-653c405371f044e9a4056427c4d35153ce997b5f.jpg"
+    width: 880
+    height: 542
     isCached: true
 
 related:
@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT: what can the extraordinary artificial intelligence chatbot do?"
-    excerpt: "Ask the AI program a question, as millions have in recent weeks, and it will do its best to respond"
-    publishedDateTime: 2023-01-13T17:49:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jan/13/chatgpt-explainer-what-can-artificial-intelligence-chatbot-do-ai"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jan/13/chatgpt-explainer-what-can-artificial-intelligence-chatbot-do-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jan/13/chatgpt-explainer-what-can-artificial-intelligence-chatbot-do-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/8fe841cd767bea2719c60a084174d64724d47c1f/0_263_5764_3457/master/5764.jpg?width=620&quality=85&auto=format&fit=max&s=218abc935ca512ae3c43fba89d78f3ed"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Cybercriminals using ChatGPT AI bot to develop malicious tools?"
     excerpt: "According to a report from cyber security firm Check Point Research (CPR), the cybercriminal community has already expressed strong interest in ChatGPT develop malicious code."
     publishedDateTime: 2023-01-16T16:08:00Z
@@ -75,19 +59,19 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Northwestern community members discuss use of AI program ChatGPT to write academic papers"
-    excerpt: "Essay bots may be the next industry to be automated away, thanks to AI program ChatGPT. Artificial intelligence can be used to perform a variety of human-like tasks, including turning information from the internet into detailed written responses,"
-    publishedDateTime: 2023-01-13T18:47:00Z
-    webUrl: "https://dailynorthwestern.com/2023/01/13/campus/northwestern-community-members-discuss-use-of-ai-program-chatgpt-to-write-academic-papers/"
+  - title: "Here are the 12 top power players at Google leading the fight in AI against the smash hit ChatGPT"
+    excerpt: "ChatGPT could influence Google's dominance in search. Here are the 12 people inside the search giant developing AI-based technology to keep up."
+    publishedDateTime: 2023-01-18T10:07:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-power-players-chatgpt-artificial-intelligence-2023-1"
     type: article
     provider:
-      name: The Daily Northwestern
-      domain: dailynorthwestern.com
-    quality: 30
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
     images:
-      - url: "https://dailynorthwestern.com/wp-content/uploads/2023/01/FRAUDPAPER-ILIANA-GARNER.jpg"
-        width: 1501
-        height: 901
+      - url: "https://i.insider.com/63c0772f1f388b00195f4423?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
@@ -104,6 +88,6 @@ related:
         height: 630
         isCached: true
 
-secured: "wAmgOXW+llyMsXhp8Lw1C7Xd7NxYAhdK4OYkU31fSnXx/hQGfEGsd+jSVO+RBEopqBmy4zJxqa/JxMutBWgCDF0Z4KzI1vCs4iff4+6s4SEJovewAxz88t519Z5GzOnR31McBz1rChaJ+b7LEMLBIboZwUI3yQxtUsvTSoIztJFhYA3WPcYGB4TNpc6ZaEOAz/bAa4Ivyv1mNTdp1GX4ZLgDQGL1g3HBrYifI/Etvq6GAGMoPRk4ERnlQl9XZFvTHBPPd4OD6MJpO1hPOZ/8ncK5Lbso9ZwN+2PG3RMpXo/qOWe1Qb4z0eUshpVFTUg0CceW4lO7wHC9uBVa96O/X7Tb49rxmFkojE9nLCndtIJz5rE9JstMTF2VG/8+VMuNaeAHQPCuofUwXH7tea+UQYzt86WfiJ8paNHnbTUSSVB3Ud7IACS6BwN3lY4Z5IBXkYNvinqk8UTxyMHrQi3tsHVZrgAM78fhUhZua0fU9BjDFIDge/FkmHtJqWRBsbuXIYJ+b2NQNZROK0U4FW0u7A==;99JhM6rsKncofQwPtuUM9A=="
+secured: "qT4H0sbMST+IiNqdJooNWaSsJ4ur8oElnzJxRXT267GF65TFTLuyModaU9iN3zjuRM6otBj6Bw5ZxiI4OOgGqom1S8NoW7PV8y2QvyYP4lO44enOe2RwoSphd58L6Ff78uLgMCrbdEqksRQ9eKxNAAxte0OPxINlxzqufvOqFVRhaghIhjYlBtdxVS35IWtZMrYaiEn5VPLlG+Ygm4MqO6wm58OMFB7BPl7U2+cvw1fhinlo/yXbp34pTYBiAiBm2HqgvUD/j8Xhlh8+/63FSO/QIPAxRci9Jy3TT26yU7Z6cc0Sy7KCovyAmGSWmh5i6Yi1IKw95wYA2c57xFluhgXKCNHi3hK5dbvqL3mapxI=;GPlCw+T6bVanhdib4jnmmg=="
 ---
 

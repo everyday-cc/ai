@@ -2,6 +2,49 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2022-11-17-new-study-discovers-pre-treatment-cognitive-impairment-in-younger-cancer-patients.md",
+      "title": "New study discovers pre-treatment cognitive impairment in younger cancer patients",
+      "excerpt": "Cancer in those aged 15 to 39 is rare. Only about 70,000 cases are diagnosed annually in the U.S., so there is little information about cognitive toxicity in this population. However, as cure ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-pre-treatment-cognitive-impairment-younger-cancer.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-pre-treatment-cognitive-impairment-younger-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/hospital-patient-3.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-pre-treatment-cognitive-impairment-younger-cancer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-pre-treatment-cognitive-impairment-younger-cancer.amp",
+      "publishedDateTime": "2022-11-16T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-snapdragon-ar2-chip-set-to-accelerate-ar-glasses.md",
       "title": "Snapdragon AR2 Chip Set To Accelerate AR Glasses",
       "excerpt": "Qualcomm unveiled its AR2 Gen 1 Platform at Snapdragon Summit 2022 in Hawaii today. The new chipset will enable distributed processing, which",
@@ -1086,49 +1129,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-aws-opens-spanish-cloud-region.md",
-      "title": "AWS opens Spanish cloud region",
-      "excerpt": "It becomes AWS' eighth infrastructure region in Europe, with this one located in Aragón. Like other regions, it will have three data centers (or availability zones). The facilities will be the company's first dedicated zones in Spain, though it currently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/aws-opens-spanish-cloud-region/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/aws-opens-spanish-cloud-region/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/AWS_Logos_Small.2e16d0ba.fill-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

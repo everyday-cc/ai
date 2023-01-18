@@ -2,6 +2,49 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-11-22-biggest-myths-of-ai.md",
+      "title": "Biggest myths of AI",
+      "excerpt": "“The notion that AI will be so smart that it will take over our lives. At the end of the day, AI is just a tool. Pretty much like the shovel or kitchen knife, it can be used both in good ways ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digit.in/amp-stories/biggest-myths-of-ai/",
+      "originalUrl": "https://www.digit.in/amp-stories/biggest-myths-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://transform.nws.ai/https%3A%2F%2Fcdn.thenewsroom.io%2Fplatform%2Fstory_media%2F1288797087%2Fscreenshot-2022-11-22-at-40703-pm.png/fill/1200/628/",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digit.in/amp-stories/biggest-myths-of-ai/",
+      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/amp-stories/biggest-myths-of-ai/",
+      "publishedDateTime": "2022-11-22T02:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-baidu-beats-revenue-expectations-despite-continued-covid-worries.md",
       "title": "Baidu Beats Revenue Expectations Despite Continued Covid Worries",
       "excerpt": "Baidu on Tuesday became the latest Chinese technology company to report a return to annual growth, as it beat expectations for its third-quarter revenue. Baidu (ticker: BIDU)—often referred to ...",
@@ -1087,59 +1130,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-nvidia-h100-gpu-performance-shatters-machine-learning-benchmarks-for-model-training.md",
-      "title": "NVIDIA H100 GPU Performance Shatters Machine Learning Benchmarks For Model Training",
-      "excerpt": "Goodson, dives in as a few weeks ago, a new set of MLCommons training results were released, this time for MLPerf 2.1 Training, which the NVIDIA H100 and A100 also dominated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/11/21/nvidia-h100-gpu-performance-shatters-machine-learning-benchmarks-for-model-training/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/11/21/nvidia-h100-gpu-performance-shatters-machine-learning-benchmarks-for-model-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637ba77489c789ccd9817eec/0x0.png?format=png&width=1200",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T07:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

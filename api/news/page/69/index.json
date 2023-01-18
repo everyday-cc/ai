@@ -2,6 +2,40 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2022-11-14-cerebras-unveils-andromeda-a-135-million-core-ai-supercomputer-that-delivers-near-perfect-linear-scaling-for-large-language-models.md",
+      "title": "Cerebras Unveils Andromeda, a 13.5 Million Core AI Supercomputer that Delivers Near-Perfect Linear Scaling for Large Language Models",
+      "excerpt": "Cerebras Systems, the pioneer in accelerating artificial intelligence (AI) compute, today unveiled Andromeda, a 13.5 million core AI supercomputer, now available and being used for commercial and academic work.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/11/14/9712263.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/11/14/9712263.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-onemeta-ais-verbum-is-more-than-a-best-in-class-translation-app-its-expected-to-be-an-enormous-near-term-value-driver-onei.md",
       "title": "OneMeta AI's Verbum Is More Than A Best-In-Class Translation App, It's Expected To Be An Enormous Near-Term Value Driver ($ONEI)",
       "excerpt": "It facilitated efficient, effective, real-time translation in multiple languages to about 400 people ... That includes OneMeta AI's WebSafety app allowing parents to monitor questionable and ...",
@@ -1102,52 +1136,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-artificial-intelligence-goes-vegan.md",
-      "title": "Artificial intelligence goes vegan",
-      "excerpt": "A New Zealand startup has developed the very first AI tool capable of automatically generating content in support of veganism",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1",
-      "originalUrl": "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbesindia.com/media/images/2022/Nov/img_197549_vegan.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1",
-      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1",
-      "publishedDateTime": "2022-11-11T20:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AWS AI",
-        "AI in Healthcare"
       ]
     }
   ],

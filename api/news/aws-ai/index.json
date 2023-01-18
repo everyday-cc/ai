@@ -2,31 +2,22 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-01-17-churn-prediction-using-multimodality-of-text-and-tabular-features-with-amazon-sagemaker-jumpstart.md",
-      "title": "Churn prediction using multimodality of text and tabular features with Amazon SageMaker Jumpstart",
-      "excerpt": "Amazon SageMaker JumpStart&nbsp;is the Machine Learning (ML) hub of SageMaker providing pre-trained, publicly available models for a wide range of problem types to help you get started with machine learning. Understanding customer behavior is top of mind for every business today. Gaining insights into",
+      "path": "_news/2023-01-17-set-up-amazon-sagemaker-studio-with-jupyter-lab-3-using-the-aws-cdk.md",
+      "title": "Set up Amazon SageMaker Studio with Jupyter Lab 3 using the AWS CDK",
+      "excerpt": "Amazon SageMaker Studio is a fully integrated development environment (IDE) for machine learning (ML) partly based on&nbsp;JupyterLab 3. Studio provides a web-based interface to interactively perform ML development tasks required to prepare data and build, train, and deploy ML models. In Studio, you",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/churn-prediction-using-multimodality-of-text-and-tabular-features-with-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/churn-prediction-using-multimodality-of-text-and-tabular-features-with-amazon-sagemaker-jumpstart/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/set-up-amazon-sagemaker-studio-with-jupyter-lab-3-using-the-aws-cdk/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/set-up-amazon-sagemaker-studio-with-jupyter-lab-3-using-the-aws-cdk/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 94,
       "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/17/churn-prediction-multi-modality.jpg",
-          "width": 1563,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T10:49:12-08:00",
+      "publishedDateTime": "2023-01-17T12:36:05-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

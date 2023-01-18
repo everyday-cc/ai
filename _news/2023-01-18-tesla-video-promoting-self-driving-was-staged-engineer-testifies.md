@@ -91,20 +91,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "More information about Tesla’s new Autopilot/Full Self-Driving hardware leaks"
-    excerpt: "Tesla is expected to release a new Autopilot/Full Self-Driving hardware suite imminently and now more details have leaked. Since"
-    publishedDateTime: 2023-01-13T19:00:00Z
-    webUrl: "https://electrek.co/2023/01/13/tesla-new-autopilot-full-self-driving-hardware-leaks/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 66
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla faked a 2016 video promoting its self-driving technology, according to a senior company engineer's deposition testimony"
     excerpt: "Tesla staged a video showing its self-driving capability, Ashok Elluswamy, director of Autopilot, said in a 2022 deposition."
     publishedDateTime: 2023-01-18T00:58:00Z
@@ -136,6 +122,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/56c916f99dd962472fe7082b84f3cd41ceacf303/0_112_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=f1bdacc32bb58b45ef85f0b20bafe659"
         width: 620
         height: 372
+        isCached: true
+  - title: "Tesla alleged to have faked self driving video"
+    excerpt: "Musk used it as evidence that his cars drove themselves  A 2016 video that Tesla used to promote its self-driving technology gave the vehicle features which were vapourware so that its owner Elon Musk as could prove that “Tesla drives itself."
+    publishedDateTime: 2023-01-18T10:34:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/56168-tesla-alleged-to-have-faked-self-driving-video"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/6a16ac686af8b80dd1c5c6e6faf178db_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "Tesla Staged Self-Driving Video, Engineer Reportedly Says—In Latest Blow To Autopilot Claims"
     excerpt: "The video ends with a Tesla apparently parallel parking itself, but the car actually crashed into a fence without driver assistance, a Tesla senior engineer said in a deposition obtained by Reuters."
@@ -258,6 +258,6 @@ related:
         height: 630
         isCached: true
 
-secured: "r/8YF4VbSITFy5VdlPJzrDrOceDm4uzU3F2T3xqgsKNPff5FuyCuL0ZNP+czO575jZTxFQfqV+d0Jamz+1Du+z5HmMHW5c+r50b9pu/n+up3FyqNvk6hk3pcUC4CP2xfKnZZXzBiY7Buoxr1b4c8Evh2jrAg3NV3ZIJW8rryEB3nc9Cgfi2TStnTK3VZ7Wb0ZVYWjrHRy6uCCJzfy7Tl5t65y7QTFijq6umP+Q6BnS1x/j9rNh6DQNhWoflgWwhfJduaq+wM2G/IyrR/CHB8RI0yH5PFhckr4wMRwfcy3j0g+aTnlFdtuOmgCfmt23SHmyEkD08USUUCrWAEz3jIscVc7vUyt1XYrkUDplv0Z6Y=;myjzmGahB5OxRtaShSACWg=="
+secured: "fBuAM3qHz2Y1eg+xijGuGwPGCtjLHMNJv8gPFhzKOnDHdIZNu/SJIwmbwGmBY6yWPsMs07NIykavbiYsJdHpwEcuTd8hzywkAbO1lf54Di6fEuW1oMUGjEN4Ull3H6rHBH8fX2nr98up1dgQl5MrP1nSxVfGRrpg5jQ+E3uR3C1Wq5nyljWyfeTUx7ZeAL3Sk7G8FbE6INcxbmLOgcYaDC+RpUZcL8iMZx1xISTgrTk39szVGtrZjzBVEB6WnkVE5CP9wuRxas4Y33gABQ68GZBKFJReGUFwqak0U8MWM75mrmuhO1t2W46ar95sP/nYxTM/kJAQYaiwMPdeDxDViCKEyLzPfaNe0vcUgBKSQj18XaG4LDE28ObrphjxvgpzDg1OTxnhXfqde7T14BKh5Iu3jY6f9C4DqXU/RQhnB4HhHk4g+w+YApRTG9urOr0vwKQQvn7/pRICTvagyJKyc3esymu92JWL3pu/XYj00IPd8N0sKiViczq2o7bGMgZY4KOlkS59zrSX33AvmF2R2A==;jR9LTgjF24lh8j7Aangi0g=="
 ---
 

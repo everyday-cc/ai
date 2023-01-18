@@ -2,6 +2,50 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2022-12-03-perrone-robotics-forms-new-partnership-to-create-autonomous-driverless-transit-van.md",
+      "title": "Perrone Robotics forms new partnership to create autonomous, driverless transit van",
+      "excerpt": "Our autonomy kit, or our AV kit that we call ‘Tony’ - short for To Navigate You - that we integrate into these different forms of vehicle that bring this driverless capability into these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbc29.com/2022/12/02/perrone-robotics-forms-new-partnership-create-autonomous-driverless-transit-van/",
+      "originalUrl": "https://www.nbc29.com/2022/12/02/perrone-robotics-forms-new-partnership-create-autonomous-driverless-transit-van/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wvir-prod.cdn.arcpublishing.com/resizer/HivFCV0Qs27gE6gNKv8dq15DzgA=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/YSABTKTZLZDQFGOY547MEJGAIM.bmp",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbc29.com/2022/12/02/perrone-robotics-forms-new-partnership-create-autonomous-driverless-transit-van/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nbc29-com.cdn.ampproject.org/c/s/www.nbc29.com/2022/12/02/perrone-robotics-forms-new-partnership-create-autonomous-driverless-transit-van/?outputType=amp",
+      "publishedDateTime": "2022-12-02T12:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC29",
+        "domain": "nbc29.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-12-03-armed-police-robots-will-be-a-threat-to-public-safety-heres-why.md",
       "title": "Armed police robots will be a threat to public safety. Here’s why.",
       "excerpt": "The vote and authorization, which caught national attention, speaks directly to the real fears and perils regarding the use of robotics and remote-control tools domestically. The vote took place ...",
@@ -1128,59 +1172,6 @@
         "Facebook AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-artificial-intelligence-chipset-market-2022-industry-size-shares-segment-forecast-up-to-2028.md",
-      "title": "Artificial Intelligence Chipset Market 2022 Industry Size, Shares, Segment & Forecast up to 2028",
-      "excerpt": "The global Artificial Intelligence Chipset market report provides geographic analysis covering regions, such as",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2022-industry-size-shares-segment-forecast-up-to-2028-2022-12-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2022-industry-size-shares-segment-forecast-up-to-2028-2022-12-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-02T01:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/01/17/how-will-chatgpt
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/17/how-will-chatgpt-affect-your-job-if-you-work-in-advertising-and-marketing/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "What generative AI means for brands—a marketing guide to ChatGPT, DALL-E and other artificial intelligence"
+    excerpt: "To be fair, the technology has been used in ad tech for years, but generative AI, a subtype of artificial intelligence that has obvious—and fun—applications, has instantly changed how marketers are preparing for adoption."
+    publishedDateTime: 2023-01-18T10:00:00Z
+    webUrl: "https://adage.com/article/digital-marketing-ad-tech-news/generative-ai-chatgpt-faq-guide-brands/2463201"
+    type: article
+    provider:
+      name: Ad Age
+      domain: adage.com
+    quality: 51
+    images:
+      - url: "https://s3-prod.adage.com/s3fs-public/styles/width_660/public/20230112_OpenAI_Generative-AI_3X2.jpg"
+        width: 660
+        height: 440
+        isCached: true
   - title: "Will ChatGPT Take Your Job?"
     excerpt: "Machine learning and artificial intelligence are still in their infancy ... OpenAI ChatGPT is now an AWS Certified Cloud Practitioner! There’s also the fact that Stack Overflow banned ChatGPT after it was used to answer questions — incorrectly."
     publishedDateTime: 2023-01-17T04:14:00Z

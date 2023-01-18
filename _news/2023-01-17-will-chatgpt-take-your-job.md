@@ -41,6 +41,20 @@ related:
         width: 1034
         height: 639
         isCached: true
+  - title: "What generative AI means for brands—a marketing guide to ChatGPT, DALL-E and other artificial intelligence"
+    excerpt: "To be fair, the technology has been used in ad tech for years, but generative AI, a subtype of artificial intelligence that has obvious—and fun—applications, has instantly changed how marketers are preparing for adoption."
+    publishedDateTime: 2023-01-18T10:00:00Z
+    webUrl: "https://adage.com/article/digital-marketing-ad-tech-news/generative-ai-chatgpt-faq-guide-brands/2463201"
+    type: article
+    provider:
+      name: Ad Age
+      domain: adage.com
+    quality: 51
+    images:
+      - url: "https://s3-prod.adage.com/s3fs-public/styles/width_660/public/20230112_OpenAI_Generative-AI_3X2.jpg"
+        width: 660
+        height: 440
+        isCached: true
 
 secured: "UBvnFBtZztfMJ7Olgfk6orj6JageGEqcoCL9UVFHCJhkDNTLdUS50RTBXCsdPzzE+2fp+qPQlEgSLJ71fh30M3qOdDE2SK1TVQXarBXH4OwnRRXOsus/23dhSbUBT3SrL9HQT6kSuZVT9SrT1SP+0NqrfM+aSRHV3lLs6KjIgO1kgCqOgfmCoO4rB+xBDHaKBaQMxB27fCFjgd2/PnmQB+vU6LFj2JzPwhonLHb5XYmC4Fq45qeqRMJ+EPpN8oKKKs+SskOgcq7HUc7ErjuVPu2v4AuCEsXDxi2TMXlO38AsWNmbAxyCtQvkCw7RVOGheRMnoIFW+Y7MelHGHCJe5NMOcWwXXEUhJcHZ/x7XVa4=;8FgC7dPomqSYa0eKPhFTWQ=="
 ---

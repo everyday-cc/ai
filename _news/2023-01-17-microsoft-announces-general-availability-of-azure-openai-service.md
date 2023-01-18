@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Microsoft Announces general availability of Azure OpenAI Service"
-excerpt: "Microsoft makes Azure OpenAI Service generally available, which makes the world's most advanced AI, including GPT-3.5, Codex, and DALL•E 2"
-publishedDateTime: 2023-01-17T15:34:00Z
-originalUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
-webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
-ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
-cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
+title: "Microsoft announces general availability of Azure OpenAI Service"
+excerpt: "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation"
+publishedDateTime: 2023-01-17T11:39:00Z
+originalUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
+webUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
 type: article
-quality: 89
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: enterprisetalk
-  domain: enterprisetalk.com
+  name: Information Age
+  domain: information-age.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://enterprisetalk.com/wp-content/uploads/2023/01/Microsoft-Announces-general-availability-of-Azure-OpenAI-Service.jpg"
-    width: 1500
-    height: 844
+  - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
+    width: 788
+    height: 443
     isCached: true
 
 related:
@@ -310,6 +308,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Microsoft rolling out Azure OpenAI service with access to ChatGPT soon"
+    excerpt: "American tech giant Microsoft is all set to roll out Azure OpenAI service this week which will allow businesses to integrate tools like DALL-E into their own c"
+    publishedDateTime: 2023-01-18T09:32:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273389916/microsoft-rolling-out-azure-openai-service-with-access-to-chatgpt-soon"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 69
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1674034037.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "ChatGPT coming to Azure: New integration shows how Microsoft will leverage OpenAI partnership"
     excerpt: "Having trouble reliably accessing OpenAI’s ChatGPT? Microsoft has a solution. The tech giant says it will soon make the generative AI chat technology available as part of its Azure OpenAI… Read More"
     publishedDateTime: 2023-01-17T18:32:00Z
@@ -386,17 +398,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Microsoft bets big on the creator of ChatGPT in race to dominate AI"
-    excerpt: "As a new chatbot wows the world, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI."
-    publishedDateTime: 2023-01-13T19:01:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/microsoft-bets-big-on-the-creator-of-chatgpt-in-race-to-dominate-ai/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
   - title: "Azure OpenAI Service Commercially Launched"
     excerpt: "Microsoft this week announced that its Azure OpenAI service has reached the 'general availability' commercial-release stage."
     publishedDateTime: 2023-01-17T00:00:00Z
@@ -576,6 +577,6 @@ related:
       domain: gulf-times.com
     quality: 19
 
-secured: "SXKIHS/CHrsD8MBN41zERZ2111VZUXc8b7kHbm/tTDcuWBhTfpLALUgz7oljWKtIHJpWxRXixzKSCEDifs8/MUcCRRz6sU4pOS3OBeFxbfRGUKFYDbA1zqAR+W8Zxig7+ClC0RHTwU1xXt+h1wfo1mTfTrl6jG3+kPWTY4kOdbvopY1JM3hjcOJVFrsWuDK658Veujm+ZPFJFN22IXUhdQkbU+54l9CqsBB1TMO/FiuPS0YLDEDFxTBwAL7Ifw7sH5/HRDd1FqCiBWrQ/7KG8TZcHtJqoJt4UnIeti1/uYMp9u4J5vqVVMNbYN72aWEIW8qy/RjjvId0oQDR/L186ayqcy2gwOB1eEouCd4SLP4=;+JJsYwHCzffJMWKOqKIbSw=="
+secured: "oFkj4DofUN2Ejxb6Wkw565SWTqtUQorMaSEjunkNFDOBSqbNTP13MMvuPg6T0LjLJzAMDLZQG2RC/PHP3iUx3bxAbMNPWhiRU9byW2XJA0+GtduFBUg97DNhfeYROf/S6RW0rlkTLNHe3NRSD5yyP3SasShhe2dlPKTxGMDod0hzu4UnfIi8rektWaYnko9x6fcNo7T8yxPI7BmXg/rfybKNaUYcAOkl6hymbHdDaaPg3cKAYCFtty+uAV1MMG93xdSfNOfqjEYX5U0Baq1+9w1Yj3dM+2XNAC2lTN1+arAT3og+uB592X38Pngsd9Zz1ZNzo3TTJhrmsnHTT7iVNtIS5P6Q57eKNQk3+J2h+DQ=;p9MUCxwYx3iY3XApxBqj2g=="
 ---
 

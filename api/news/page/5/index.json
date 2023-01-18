@@ -322,6 +322,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-12-divilo-selects-thetaray-ai-solution-to-monitor-global-payments-for-financial-crime.md",
+      "title": "Divilo Selects ThetaRay AI Solution to Monitor Global Payments for Financial Crime",
+      "excerpt": "Divilo, a Spain-based fintech providing B2B financial services, and ThetaRay, a leading provider of AI-powered transaction monitoring technology, today announced they will collaborate to protect Divilo’s growing services against money laundering,",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/payments/divilo-selects-thetaray-ai-solution-monitor-global-payments-financial-crime",
+      "originalUrl": "https://financialit.net/news/payments/divilo-selects-thetaray-ai-solution-monitor-global-payments-financial-crime",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/divilo.png",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-11T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-11-fintech-stocks-lag-behind-the-rest-of-the-market-should-you-buy-or-sell.md",
       "title": "Fintech Stocks Lag Behind The Rest Of The Market — Should You Buy Or Sell?",
       "excerpt": "While financial and tech stocks had a rough time in 2022, fintech stocks continue to lag behind the rest of the market. We explore the idea of investing in the fintech space in 2023.",
@@ -1089,58 +1132,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-build-and-deploy-ai-everywhere-with-a-universal-ai-platform.md",
-      "title": "Build and deploy AI everywhere with a universal AI platform",
-      "excerpt": "A universal AI platform has the flexibility to run every AI code, scope to empower every developer, and scale to enable AI everywhere.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/build-and-deploy-ai-everywhere-with-a-universal-ai-platform/",
-      "originalUrl": "https://venturebeat.com/ai/build-and-deploy-ai-everywhere-with-a-universal-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1081869346.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/build-and-deploy-ai-everywhere-with-a-universal-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/build-and-deploy-ai-everywhere-with-a-universal-ai-platform/amp/",
-      "publishedDateTime": "2023-01-10T17:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

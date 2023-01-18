@@ -2,6 +2,49 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2022-10-24-snap-way-to-design-ads-ranking-service-using-deep-learning.md",
+      "title": "Snap Way to Design Ads Ranking Service Using Deep Learning",
+      "excerpt": "Subscribe for free. Snap engineering has recently published a blog post on how they designed their Ads ranking and targeting service using deep learning. Showing ads to the users is the mainstream ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/10/snap-ad-ranking/",
+      "originalUrl": "https://www.infoq.com/news/2022/10/snap-ad-ranking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/10/snap-ad-ranking/en/headerimage/generatedHeaderImage-1666456310522.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-23T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-24-media-alert-brainchip-exhibits-its-essential-ai-capabilities-at-the-linley-fall-processor-conference-2022.md",
       "title": "Media Alert: BrainChip Exhibits its Essential AI Capabilities at the Linley Fall Processor Conference 2022",
       "excerpt": "As part of the presentation, Mankar will demonstrate how BrainChip uses hardware/software co-design, AutoML and the results of discussions with many AI application customers to achieve advances in system-level hardware performance,",
@@ -1098,58 +1141,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-elon-musks-language-about-teslas-self-driving-is-changing.md",
-      "title": "Elon Musk’s language about Tesla’s self-driving is changing",
-      "excerpt": "The language used by Elon Musk about Tesla’s self-driving effort is changing, and it is muddying the timeline for the automaker to deliver on its promise. Musk use to make statements that made him sound supremely confident that Tesla could soon deliver a self-driving system and virtually all vehicles the automaker produced since 2016 through a software update.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/10/21/elon-musk-language-tesla-self-driving-changing/",
-      "originalUrl": "https://electrek.co/2022/10/21/elon-musk-language-tesla-self-driving-changing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/10/21/elon-musk-language-tesla-self-driving-changing/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/21/elon-musk-language-tesla-self-driving-changing/amp/",
-      "publishedDateTime": "2022-10-21T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

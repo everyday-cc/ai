@@ -2,6 +2,58 @@
   "page": 137,
   "value": [
     {
+      "path": "_news/2022-09-14-announcing-visual-conversation-builder-for-amazon-lex.md",
+      "title": "Announcing Visual Conversation Builder for Amazon Lex",
+      "excerpt": "Amazon Lex is a service for building conversational interfaces using voice and text. Amazon Lex provides high-quality speech recognition and language understanding capabilities. With Amazon Lex, you can add sophisticated, natural language bots to new and existing applications. Amazon Lex reduces multi-platform",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-visual-conversation-builder-for-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-visual-conversation-builder-for-amazon-lex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/14/visual-conversation-builder.jpg",
+          "width": 1548,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T13:38:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-new-method-for-comparing-neural-networks-exposes-how-artificial-intelligence-works.md",
       "title": "New method for comparing neural networks exposes how artificial intelligence works",
       "excerpt": "A team has developed a novel approach for comparing neural networks that looks within the 'black box' of artificial intelligence to help researchers understand neural network behavior. Neural networks recognize patterns in datasets;",
@@ -995,40 +1047,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-nick-kohlschreiber-founder-of-acufi-explains-the-future-of-ai-in-fintech.md",
-      "title": "Nick Kohlschreiber, Founder of AcuFi, Explains the Future of AI in FinTech",
-      "excerpt": "For the fintech sector, concerns in the security of both user and company data can be addressed by AI. More than ever, the modern age will come with a new variety of bad actors–hackers, viruses, and vulnerabilities waiting to be exploited.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/09/14/9673562.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/09/14/9673562.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

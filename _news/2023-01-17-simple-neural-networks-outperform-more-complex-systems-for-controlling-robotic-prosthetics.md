@@ -1,32 +1,29 @@
 ---
 category: news
-title: "Simple neural networks outperform more complex systems for controlling robotic prosthetics"
-excerpt: "Artificial neural networks that are inspired by natural nerve circuits in the human body give primates faster, more accurate control of brain-controlled prosthetic hands and fingers, researchers at the University of Michigan have shown."
-publishedDateTime: 2023-01-17T15:15:00Z
-originalUrl: "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.html"
-webUrl: "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.html"
-ampWebUrl: "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.amp"
+title: "Simple Neural Networks Outperform More Complex Systems for Controlling Robotic Prosthetics"
+excerpt: "Feed-forward neural networks improve speed and provide more accurate control of brain-controlled prosthetic hands and fingers."
+publishedDateTime: 2023-01-17T14:53:00Z
+originalUrl: "https://neurosciencenews.com/neural-network-robotic-prosthetics-22270/"
+webUrl: "https://neurosciencenews.com/neural-network-robotic-prosthetics-22270/"
 type: article
-quality: 66
-heat: 66
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Neuroscience News
+  domain: neurosciencenews.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI in Robotics
+  - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-neural-netw.jpg"
-    width: 850
-    height: 478
+  - url: "https://neurosciencenews.com/files/2023/01/neuroprosthetics-neural-networks-neurosicnes.jpg"
+    width: 770
+    height: 513
     isCached: true
 
-secured: "PPrjaXjtgvhdB8kLN8RURukr9yx0t4o635jYPOLVf7i+nIOo64coa1g+P4EBnDgTaxePfagNTz5UET8abpW9ZLUpmnGOHhkvH56RggZbr+DFJM7DXEogCGl/jaADZPx1moJ8vIsLkFm2xSFrPRj8aDM+6h0OTUSfYALEd0qWYySEIvldaH5g2XtDSjPFpepXH17Yv8VyblMbmjfVbKVh27UXtYcPLYiqY0Xr4BINg9CY+QN/hRhIB6BfAcwzjKynwHySzmtB6Nd+dPf8/cQSA/IvKb0LESCchyGubtLalpyzSJYMjKGUEhxMGiAzWCCUR57+NPjv8PzUpOECr3rgvxHDwvL7IzjYNFcah0bSuPscQxUFa0sQNhjDIHQfqXcfBFCjMELDED5zDtsOhzCKCZQAnxtspd2ErGVAStDoQZ1Kzvzt+lVfT3xy+7d76PXm9YWx5IDQo3Z4sMQJpFB3WsBeiKNWlWt6LIsOSNWmXmBSwfX+PNcJ/on5V+fAH+tY+DRl9LW/oyNDqPf6AdxhWQ==;/Kua/CLyYLpsjqHkStNIBQ=="
+secured: "3J968lNbo6Z+c0aWg/Qqx5y8XDCb/j3JazPVfLCmpz1wlYZSPeyjNEP6NmadcwhlNr2wGO/GsAZWaNNWqdOOoc5pky4q+BOZD4mP1W4F2aj+V4qhjOJpmZrXr8c/l+ydIhUFWxBV+/bOzx7OHw90ojFKbrJgFd6m/go36UHzUMx4648iRl8UGGiF8U9mtIGr5ESZmwsB19axki+vNkzF13a8jIgHM7BPBTcAJUe/dl7oz5lRQxR2lwgiqvbXzmaHORps8k/ol9pPJEalCjjVoShUyRHszqIk5hZsg76iuTOemP3v8k9uB2v6gsLh2CkPWvXC6Z4s6LoOfXD+3mw3gWgS2fdHoxEbJhk+Sp1oE3o=;IpwxVQ+oHCcd+BkWV+q8mw=="
 ---
 

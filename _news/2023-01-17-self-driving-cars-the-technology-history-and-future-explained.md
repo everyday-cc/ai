@@ -48,15 +48,6 @@ related:
         width: 860
         height: 484
         isCached: true
-  - title: "Are self-driving cars dead?"
-    excerpt: "The focus for the past couple years has been on self-driving car technology. While that’s a trillion-dollar opportunity, it’s unclear when self-driving cars will actually hit the market. I performed deep research into self-driving car tech way back in 2015."
-    publishedDateTime: 2023-01-16T19:47:00Z
-    webUrl: "https://www.mauldineconomics.com/editorial/are-self-driving-cars-dead"
-    type: article
-    provider:
-      name: MauldinEconomics.com
-      domain: mauldineconomics.com
-    quality: 4
 
 secured: "DHXMQ0n2M16fnOp5OxH6UirCxHlUbgNs0Z3iokNUNZYqOQyx7kSbasvRS++b8+CLj11i8uoKzBOjqkK/Ug7CE3hqRaPiSU2JUHzgtnrf63SU7R/AlMQOKBJ6rm4RZiOTpG5RuG/OHDhoELRgrIx4NY9qzUmsZUW/oXxN/9Ou67vBTmlTXmc2Ikr//7vIc5E1nuGbpFQg/2/euiUaxGMVH/Bv8ubeF7CGZFC33c4dhyyzw38Gg3tATcItuyO13+ee6e1y5JIL4TAYOOOFfmJbafhS0CfjqU3ICVATUALavdCFFbbZGXPu4uJaXurVgnja9NPXiXdBFmKiYTpWeqOO8pYNxyY310DirLfjlsapw7NE6ryl6OO+AU5MlKUq/hTl/A5McEPbXL6X1Jm/9ROy8A/ydPEu44745MUki+JR56D6w3dU5Mgc/3qQsL3Ocxgwy+5g5qJlD/+3WYx23wl1cs0bvaTK/PXngwK9gT0NUIXGVHMNrd4zdK7KQUtT6Ctu4EMGD23vbnqIHDUnukFbxQ==;tmSDeq3jduoUaa90BUplGg=="
 ---

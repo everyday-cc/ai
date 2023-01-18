@@ -2,6 +2,52 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2022-11-12-artificial-intelligence-goes-vegan.md",
+      "title": "Artificial intelligence goes vegan",
+      "excerpt": "A New Zealand startup has developed the very first AI tool capable of automatically generating content in support of veganism",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1",
+      "originalUrl": "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/media/images/2022/Nov/img_197549_vegan.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1",
+      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1",
+      "publishedDateTime": "2022-11-11T20:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "AWS AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-12-waymos-driverless-taxis-keep-making-incremental-progress-while-others-flounder.md",
       "title": "Waymo’s driverless taxis keep making incremental progress, while others flounder",
       "excerpt": "Waymo keeps (driverless) trucking along. The Alphabet division made a couple of announcements this week meant to highlight the progress — albeit incremental — of its robotaxis. The first was ...",
@@ -1080,58 +1126,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone.md",
-      "title": "Stable Diffusion in your pocket? “Draw Things” brings AI images to iPhone",
-      "excerpt": "Introduced in August, Stable Diffusion (SD) is an AI image generator model that creates novel images ... When running locally, SD requires a fairly beefy GPU to generate images quickly, but some developers optimized the model to run on older GPUs with ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/11/stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/11/stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/sd_phone_hero_4-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/stable-diffusion-in-your-pocket-draw-things-brings-ai-images-to-iphone/amp/",
-      "publishedDateTime": "2022-11-10T15:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

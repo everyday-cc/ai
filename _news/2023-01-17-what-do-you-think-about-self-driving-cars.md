@@ -48,15 +48,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 25
-  - title: "Are self-driving cars dead?"
-    excerpt: "The focus for the past couple years has been on self-driving car technology. While that’s a trillion-dollar opportunity, it’s unclear when self-driving cars will actually hit the market. I performed deep research into self-driving car tech way back in 2015."
-    publishedDateTime: 2023-01-16T19:47:00Z
-    webUrl: "https://www.mauldineconomics.com/editorial/are-self-driving-cars-dead"
-    type: article
-    provider:
-      name: MauldinEconomics.com
-      domain: mauldineconomics.com
-    quality: 4
 
 secured: "spUVMvps+8rvRIwF+3Fgbyl+ycOyu0wuqvsBe6ybKn/WZUS2c8jsF8w1cjHlU6b2m57zJrbuxSij4/wJp6WoxHMwCzjyxvFhHhkWAVc06g1zIcYvjPKZUmq3l7nsu0PKE/8QMgaRfw2hY87OeqmK+LYRsnrsaxUBz07bdsAijkJKZHBzPn7jo9NOCyr9EO2Vo8d6Czi2yTaroPrRc8wOya8whGO6FpeQKi2bG68TLeMkiCucs0wZ8b2wti1XLYxhH4fiLsZKWsrV68A4WH/4+PMkzweqstr+CK6ApkQPckulBGC5B4aTP4o6u4zNtB0xw7zgLaUoTV4+zQIBzpvnNKtcaNiSd+RNJBWU8EqoEtOzpnIofMY+TqNFj6UkDzNXQLfKV0gVT7yn//X1McB14Yaaidq2zq3WXJvfBGtmtq5vL3ZOsQo+oBI9Fyt4dkdb1lBvX8fS10fvNTAP/Gwp67brazlzO/U4JSMlsCv87GJuaU/cKA7b/Ex8wFXBOk4IC3PvylCtME2r+5S2wTs0hw==;+3qY6YZ8bCWrq4o0tJ07Ng=="
 ---

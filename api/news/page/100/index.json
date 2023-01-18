@@ -2,6 +2,49 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2022-10-17-driverless-in-phoenix-and-gm-takes-its-ev-offensive-beyond-vehicles.md",
+      "title": "Driverless in Phoenix and GM takes its EV offensive beyond vehicles",
+      "excerpt": "It’s been a minute since I took a driverless ride in a Waymo. And the last time it was a Chrysler Pacifica. This time, I took a spin in downtown Phoenix in a driverless Jaguar I-Pace (sans human ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/17/driverless-in-phoenix-and-gm-takes-its-ev-offensive-beyond-vehicles/",
+      "originalUrl": "https://techcrunch.com/2022/10/17/driverless-in-phoenix-and-gm-takes-its-ev-offensive-beyond-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-17-a-new-ai-model-can-accurately-predict-human-response-to-novel-drug-compounds.md",
       "title": "A new AI model can accurately predict human response to novel drug compounds",
       "excerpt": "The journey between identifying a potential therapeutic compound and Food and Drug Administration approval of a new drug can take well over a decade and cost upward of a billion dollars. A research team at the CUNY Graduate Center has created an artificial intelligence model that could significantly improve the accuracy and reduce the time and cost of the drug development process.",
@@ -1065,58 +1108,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-10-16-crop-robotics-2022-beyond-the-valley-of-death.md",
-      "title": "CROP ROBOTICS 2022, BEYOND THE VALLEY OF DEATH",
-      "excerpt": "Western Growers Association produced an excellent report that outlined the need for robotics in agriculture. Ongoing labor challenges are, of course, a major driver, but so are rising costs, future demand,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/",
-      "originalUrl": "https://www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634a29a9e54228319eb5c039/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/amp/",
-      "publishedDateTime": "2022-10-15T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,40 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2022-10-03-how-robots-could-change-the-future.md",
+      "title": "How Robots Could Change the Future",
+      "excerpt": "Mind you: This may mean that certain ... And don’t forget the many new and exciting applications for robotics: allowing a surgeon to use a remotely controlled arm to operate on a patient from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rd.com/article/future-robots/",
+      "originalUrl": "https://www.rd.com/article/future-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reader's Digest",
+        "domain": "rd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-02-ai-code-of-ethics.md",
       "title": "AI code of ethics",
       "excerpt": "When John Cockcroft & Ernest Walton first split the atom to confirm Einstein’s famous equation, E=MC2, they wouldn’t have anticipated or even imagined in their wildest imagination that their discovery would be used to",
@@ -1106,40 +1140,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-bruce-willis-has-no-deal-with-company-that-created-his-digital-twin-rep.md",
-      "title": "Bruce Willis has no deal with company that created his 'digital twin': rep",
-      "excerpt": "Bruce Willis has retired from making movies since his aphasia diagnosis, but he may continue to be an action star. How? Well, technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/bruce-willis-may-still-appear-190942819.html",
-      "originalUrl": "https://www.aol.com/bruce-willis-may-still-appear-190942819.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

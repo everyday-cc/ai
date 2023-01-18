@@ -2,6 +2,58 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2022-12-01-driverless-parking-service-begins-commercial-operation-at-stuttgart-airport.md",
+      "title": "Driverless parking service begins commercial operation at Stuttgart Airport",
+      "excerpt": "The development partners say that the commercial approval from Germany's Federal Motor Transport Authority to operate its driverless parking system at the APCOA P6 parking garage at Stuttgart ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/mercedes-bosch-commercial-automated-valet-parking-stuttgart/",
+      "originalUrl": "https://newatlas.com/automotive/mercedes-bosch-commercial-automated-valet-parking-stuttgart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/1d9a14e/2147483647/strip/true/crop/4961x2605+0+93/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fca%2F57%2F77bc3e2b45cbb56a8cb81ce6b578%2F22c0242-007.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T10:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-introducing-aws-ai-service-cards-a-new-resource-to-enhance-transparency-and-advance-responsible-ai.md",
       "title": "Introducing AWS AI Service Cards: A new resource to enhance transparency and advance responsible AI",
       "excerpt": "Artificial intelligence (AI) and machine learning (ML) are some of the most transformative technologies we will encounter in our generation—to tackle business and societal problems, improve customer experiences, and spur innovation. Along with the widespread use and growing scale of AI comes the recognition",
@@ -1118,58 +1170,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-us-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains.md",
-      "title": "U.S.-Backed Researchers Use AI to Probe for Weaknesses in Drug Supply Chains",
-      "excerpt": "The U.S. Department of Homeland Security has approved research that will use artificial intelligence to delve into drug supply chains and probe for weaknesses, including foreign influence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763",
-      "originalUrl": "https://www.wsj.com/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-675403/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763",
-      "publishedDateTime": "2022-11-30T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.rediff.com/amp/business/report/tcs-evolving-tech-for-evs-s
 cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/tcs-evolving-tech-for-evs-self-driving-cars/20230117.htm"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,24 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving EVs use way more energy than you’d think"
-    excerpt: "Carmakers are rushing to develop autopilot software, but a new study highlights major energy and greenhouse gas worries."
-    publishedDateTime: 2023-01-13T18:00:00Z
-    webUrl: "https://www.popsci.com/technology/ev-autopilot-energy-consumption-study/"
-    ampWebUrl: "https://www.popsci.com/technology/ev-autopilot-energy-consumption-study/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ev-autopilot-energy-consumption-study/?amp"
+  - title: "Self-driving cars could see motorists stuck in traffic for longer"
+    excerpt: "Department for Transport projections said delays may rise by up to 85 from 2025 to 2060 with self-driving cars"
+    publishedDateTime: 2023-01-15T12:52:00Z
+    webUrl: "https://www.timesandstar.co.uk/news/national/uk-today/23251830.self-driving-cars-see-motorists-stuck-traffic-longer/"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 44
-    images:
-      - url: "https://www.popsci.com/uploads/2023/01/13/Depositphotos_57257653_L.jpg?auto=webp"
-        width: 2000
-        height: 1125
-        isCached: true
+      name: Times Star
+      domain: timesandstar.co.uk
+    quality: 4
+  - title: "Are self-driving cars dead?"
+    excerpt: "The focus for the past couple years has been on self-driving car technology. While that’s a trillion-dollar opportunity, it’s unclear when self-driving cars will actually hit the market. I performed deep research into self-driving car tech way back in 2015."
+    publishedDateTime: 2023-01-16T19:47:00Z
+    webUrl: "https://www.mauldineconomics.com/editorial/are-self-driving-cars-dead"
+    type: article
+    provider:
+      name: MauldinEconomics.com
+      domain: mauldineconomics.com
+    quality: 4
 
 secured: "s7ngkZiioDODeui20xt4aLlQvlvRYCNA2lxEhzyJRSyZD+2D6rSThGsixUNCn8TGhKMjhUJNh7GX0dsUmFLTFjE9bNcsjCGAreLcQ2ftRWi3k1T6SjMAJOSOMPt7oNAOhJTzinXkI3Cxt0RJNuqj81bdd16MgPmlCXJv1+7AFnqYCQ8feFMpgqex38qnIG/3v3rcXefe+yF15tfQ3K+F0pO9GWQ7DImq3L/R/dkFv3Ff5OaWMEkWNO/AZqu35qnC86JaXN62H8LRNp0Z8KI1Ls0xK7nVPWiR1DLOU15nhlyZTdFplS50EuqnZtCg0fSiaOgLbOn7QL5F+h6ZxaOp+5OBYxQ9bsv8iouPfHQL4y4=;oskwIkOC9Ype64T0D/qQmQ=="
 ---

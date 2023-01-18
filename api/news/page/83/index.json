@@ -2,6 +2,57 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2022-11-01-digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool.md",
+      "title": "Digital assets marketplace Creative Fabrica launches generative AI tool",
+      "excerpt": "Like other digital assets on the platform, users can put up their generative AI files for paid use by other members, which Creative Fabrica says makes it the first generative AI that also allows creators to make money.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/31/digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool/",
+      "originalUrl": "https://techcrunch.com/2022/10/31/digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/Spark-preview.jpeg?resize=1200,720",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/31/digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/31/digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool/amp/",
+      "publishedDateTime": "2022-10-31T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-01-building-more-responsible-ai.md",
       "title": "Building more responsible AI",
       "excerpt": "Dr. Nashlie Sephus, Tech Evangelist, tells us how it’s done The implementation of fair, responsible, and accurate AI is a top management priority for most companies, a recent report by BCG and MIT’s Sloan School has found.",
@@ -1069,49 +1120,6 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-30T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-microsoft-introduces-azure-savings-plans-for-compute.md",
-      "title": "Microsoft Introduces Azure Savings Plans for Compute",
-      "excerpt": "Microsoft recently announced Azure Savings Plans for Compute, providing customers with an easy and flexible way to save significantly on compute services compared to pay-as-you-go prices by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/10/azure-savings-plan-compute/",
-      "originalUrl": "https://www.infoq.com/news/2022/10/azure-savings-plan-compute/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.infoq.com/statics_s2_20221108063122/styles/static/images/logo/logo-big.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,

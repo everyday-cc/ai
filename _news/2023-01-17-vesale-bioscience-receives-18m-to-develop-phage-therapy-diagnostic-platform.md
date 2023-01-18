@@ -7,7 +7,7 @@ originalUrl: "https://www.360dx.com/business-news/vesale-bioscience-receives-eu1
 webUrl: "https://www.360dx.com/business-news/vesale-bioscience-receives-eu18m-develop-phage-therapy-diagnostic-platform"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Vésale Bioscience receives €1.8M grant for AMR phage project"
+    excerpt: "Belgian company Vésale Bioscience has received €1.8 million ($1.9 million) in grants from the European Innovation Council (EIC) Accelerator Fund for its PhageDiag project, a phagogram using artificial intelligence that enables decentralized diagnostics and personalized treatment."
+    publishedDateTime: 2023-01-18T10:18:00Z
+    webUrl: "https://www.labiotech.eu/trends-news/vesale-bioscience-grant-amr-phage-project/"
+    type: article
+    provider:
+      name: labiotech
+      domain: labiotech.eu
+    quality: 24
+    images:
+      - url: "https://www.labiotech.eu/wp-content/uploads/2023/01/shutterstock-1126283546.jpg"
+        width: 500
+        height: 282
+        isCached: true
   - title: "Vésale Bioscience receives €1.8M grant from European Innovation Council for PhageDiag project"
     excerpt: "Phage therapy represents an innovative and promising solution in the fight against multi-drug resistant infections. Vésale Bioscience’s technology consists of a phagogram with artificial intelligence, which allows decentralized diagnosis and ..."
     publishedDateTime: 2023-01-17T10:01:00Z

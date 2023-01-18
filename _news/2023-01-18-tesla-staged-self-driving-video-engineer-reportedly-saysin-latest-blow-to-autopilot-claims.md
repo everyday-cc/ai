@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "More information about Tesla’s new Autopilot/Full Self-Driving hardware leaks"
-    excerpt: "Tesla is expected to release a new Autopilot/Full Self-Driving hardware suite imminently and now more details have leaked. Since"
-    publishedDateTime: 2023-01-13T19:00:00Z
-    webUrl: "https://electrek.co/2023/01/13/tesla-new-autopilot-full-self-driving-hardware-leaks/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 66
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla faked a 2016 video promoting its self-driving technology, according to a senior company engineer's deposition testimony"
     excerpt: "Tesla staged a video showing its self-driving capability, Ashok Elluswamy, director of Autopilot, said in a 2022 deposition."
     publishedDateTime: 2023-01-18T00:58:00Z
@@ -144,6 +130,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/56c916f99dd962472fe7082b84f3cd41ceacf303/0_112_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=f1bdacc32bb58b45ef85f0b20bafe659"
         width: 620
         height: 372
+        isCached: true
+  - title: "Tesla alleged to have faked self driving video"
+    excerpt: "Musk used it as evidence that his cars drove themselves  A 2016 video that Tesla used to promote its self-driving technology gave the vehicle features which were vapourware so that its owner Elon Musk as could prove that “Tesla drives itself."
+    publishedDateTime: 2023-01-18T10:34:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/56168-tesla-alleged-to-have-faked-self-driving-video"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/6a16ac686af8b80dd1c5c6e6faf178db_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "Images Of Tesla's Next Gen Self-Driving Camera Hardware Leaked: Here's What They Reveal"
     excerpt: "Tesla, Inc TSLA unveiled its Hardware 3 Full Self-Driving computer. The hardware update brought more processing power to the vehicles to eventually enable the cars t"
