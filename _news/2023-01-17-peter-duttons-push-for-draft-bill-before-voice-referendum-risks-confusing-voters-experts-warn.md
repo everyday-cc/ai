@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2023/jan/17/peter-duttons
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/jan/17/peter-duttons-push-for-draft-bill-before-voice-referendum-risks-confusing-voters-experts-warn"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Peter Dutton accuses PM of evading questions on whether Labor would legislate voice to parliament if vote fails"
+    excerpt: "Anthony Albanese says he is not ‘leading with a position that assumes a loss of a referendum’ on the Indigenous voice"
+    publishedDateTime: 2023-01-17T23:13:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/jan/18/indigenous-voice-to-parliament-referendum-vote-government-australia-anthony-albanese-peter-dutton"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/jan/18/indigenous-voice-to-parliament-referendum-vote-government-australia-anthony-albanese-peter-dutton"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/jan/18/indigenous-voice-to-parliament-referendum-vote-government-australia-anthony-albanese-peter-dutton"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 39
+    images:
+      - url: "https://i.guim.co.uk/img/media/d9e32c9f81e40313fc619ee7494ee31be848f004/0_480_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=ae38801e6314b85c117318d3f6dbfb7e"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "2v5Ww6oClbMIWMCBUoSWyX3OtVHGpnLydWIGchQr6XaU57nLE0f3t1OejM/lFEAVJkF+N/qJb9L5Iczf+JPIG/Nbpjj5oj38q1km92gLF7u+hvHditghmpMDZZuPzx02BaM77d/LjSwu8hCT98ZQIz5FkUunejtWRuknEIsIgk8r972lv2SaJYcttVLUTfU+fTJoOBpyw5U+Ezm3PRVPrZjdnEXKSi/nGC718BqqmvhUocgPV+az7gIw+Z5cmd42dkq+QYnWwev6P2ROQ/3QMeRmoN3/1O7+04PK6qZPzNK9rXmh2bG/8w7glw0nfiYG8DnfU3B28+Dg5S18K4WuBJS9qtihNZQ6m9q/X8xOT4M=;J65uzaJs2/B/dCtbajBJVw=="
 ---

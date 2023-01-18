@@ -67,7 +67,7 @@ related:
     provider:
       name: Rolling Stone
       domain: rollingstone.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.rollingstone.com/wp-content/uploads/2023/01/MSG.jpg?w=1600&h=900&crop=1"
         width: 1600

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202301/india-introduces-face-iris-
 webUrl: "https://www.biometricupdate.com/202301/india-introduces-face-iris-biometrics-system-to-reduce-bank-fraud"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition in sports: The biometrics technology shaping ticketing, payments, security, more"
+    excerpt: "Facial recognition technology, including facial ticketing, is shaping the sports industry. SBJ Tech expert Andrew Cohen explores seven key deployments."
+    publishedDateTime: 2023-01-17T23:16:00Z
+    webUrl: "https://www.sportsbusinessjournal.com/Journal/Issues/2023/01/09/Technology/facial-recognition-technology-sports-stadiums.aspx"
+    type: article
+    provider:
+      name: Sports Business Journal
+      domain: sportsbusinessjournal.com
+    quality: 42
+    images:
+      - url: "https://www.sportsbusinessjournal.com/-/media/Images/Daily/2023/01/13/SBJ-Tech/facial-recognition/fans-pillar-page-beauty.ashx"
+        width: 699
+        height: 725
+        isCached: true
   - title: "GBT’s face and ‘body’ biometrics patent granted, imaging invention published"
     excerpt: "A pair of patents from GBT Technologies have advanced with the USPTO. One is for face and body biometrics, one for motion detection and imaging."
     publishedDateTime: 2023-01-16T19:34:00Z

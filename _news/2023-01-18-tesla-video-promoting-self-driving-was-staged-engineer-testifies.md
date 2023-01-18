@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Tesla video promoting self-driving was staged, engineer testifies"
-excerpt: "A 2016 video that Tesla used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior engineer."
-publishedDateTime: 2023-01-17T16:14:00Z
-originalUrl: "https://www.reuters.com/technology/tesla-video-promoting-self-driving-was-staged-engineer-testifies-2023-01-17/"
-webUrl: "https://www.reuters.com/technology/tesla-video-promoting-self-driving-was-staged-engineer-testifies-2023-01-17/"
+excerpt: "The video released in October 2016 remains archived on Tesla’s website, and was promoted on Twitter by CEO Elon Musk as evidence the \"Tesla drives itself.\""
+publishedDateTime: 2023-01-17T18:52:00Z
+originalUrl: "https://www.nbcnews.com/business/business-news/tesla-video-promoting-self-driving-was-staged-engineer-testifies-rcna66150"
+webUrl: "https://www.nbcnews.com/business/business-news/tesla-video-promoting-self-driving-was-staged-engineer-testifies-rcna66150"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna66150"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna66150"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/3IQpcCuKtmLZDMbi4XPgVhduRYk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/INZHKPTCXZPSLLZHEH43ULAMQ4.jpg"
-    width: 1200
-    height: 628
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/2201117-tesla-video-mn-1345-3db658.jpg"
+    width: 879
+    height: 495
     isCached: true
 
 related:
@@ -61,6 +59,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Here’s the real story behind Tesla’s ‘staged’ self-driving video"
+    excerpt: "There are a lot of media reports about Tesla having ‘staged’ or ‘faked’ a self-driving video in 2016 today after the testimony of a Tesla Autopilot executive was released, but here’s the full story. In 2016,"
+    publishedDateTime: 2023-01-17T23:42:00Z
+    webUrl: "https://electrek.co/2023/01/17/real-story-behind-tesla-staged-self-driving-video/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 69
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/01/Tesla-staged-video.png?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Video Surfaces of Self-Driving Tesla Abruptly Braking, Causing 8-Car Pileup"
     excerpt: "Footage from a Thanksgiving Day crash involving a Tesla Model S has been obtained(Opens in a new window) by The Intercept, and it shows the vehicle crossing into the ..."
     publishedDateTime: 2023-01-13T10:01:00Z
@@ -88,6 +100,22 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Tesla faked a 2016 video promoting its self-driving technology, according to a senior company engineer's deposition testimony"
+    excerpt: "Tesla staged a video showing its self-driving capability, Ashok Elluswamy, director of Autopilot, said in a 2022 deposition."
+    publishedDateTime: 2023-01-18T00:58:00Z
+    webUrl: "https://www.businessinsider.com/tesla-faked-video-in-2016-promoting-self-driving-technology-report-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/tesla-faked-video-in-2016-promoting-self-driving-technology-report-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-faked-video-in-2016-promoting-self-driving-technology-report-2023-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://i.insider.com/63c73ab2eee94d001a78beb4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Tesla video promoting self-driving was staged, senior engineer testifies"
     excerpt: "Video from 2016 was promoted by Elon Musk as evidence that ‘Tesla drives itself’"
@@ -155,6 +183,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla Engineer Testifies Self-Driving Video from 2016 Was Staged"
+    excerpt: "A Tesla engineer testified that Tesla faked a Model X driving by itself in a 2016 video. You know, the one from 2016 where the company vehemently insists that no one is in control of the car? Yeah, that one."
+    publishedDateTime: 2023-01-17T21:00:00Z
+    webUrl: "https://jalopnik.com/tesla-engineer-testifies-self-driving-video-from-2016-w-1849996739"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 39
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/610dc76b5321a17ad71500d759b0ded1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla engineer testifies that 2016 self-driving footage was faked"
     excerpt: "A senior Tesla (TSLA) engineer admitted that a 2016 video promoting the automaker’s autonomous driving technology was staged."
     publishedDateTime: 2023-01-17T17:13:00Z
@@ -168,6 +210,20 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/638420806/image_638420806.jpg?io=getty-c-w750"
         width: 750
         height: 500
+        isCached: true
+  - title: "Tesla Engineer Testifies: Self-Driving Video Elon Musk Promoted In 2016 Was Staged"
+    excerpt: "As Tesla Inc (NASDAQ: TSLA) owners continued to wait for Elon Musk to come through on his \"full self-driving\" promise, new reports indicated fully autonomous capabilities might be further away than most thought,"
+    publishedDateTime: 2023-01-17T23:04:00Z
+    webUrl: "https://www.benzinga.com/news/23/01/30453449/tesla-engineer-testifies-self-driving-video-elon-musk-promoted-in-2016-was-staged"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 33
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/01/17/screen_shot_2023-01-17_at_5.45.31_pm.png?width=1200&height=800&fit=crop"
+        width: 683
+        height: 455
         isCached: true
   - title: "Video shows Tesla abruptly stop, cause 8-car crash after Musk announced self-driving feature: report"
     excerpt: "Speaking to police, the driver of the vehicle stated he \"had been using Tesla's new 'Full Self-Driving' feature, the report notes, before the Tesla's 'left signal activated' and its 'brakes ..."
@@ -198,6 +254,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fOWW/ywahxGG6kkH5BnUdNWDJgqYva+z6pt9CuxKltTh+Us9ZhhaSZ7sOKOx1bMkdISNjLoQEZKDnHylBuhCLtWbQfbmue8/02LUGcvIjQgM8SwWFv3b5E5xSqj1zsyeRAB7AhkcSnDTe6cUJ+i6R9Q3D3y/bYDFPHEuetATWNf1paaG0mFU01dgn2Vb2U6WAQZgBw4WqRL+BplqpR8jLq7VGuMroXYHhkVwOHUrwGelq+7TEUb9ELTRqdutRnsnuvN2gMN7AYNrCkQpzPY3RQOvJ2FLFguf5cgxqj735VomtmuLpIvGUKjZcqyb8Vpnx326nypH6BUGZGOysVCWzzW7xKBNzNRkrPUHHhnIzo5GSDSBIszai0khk0JvsHimlj21eu0nIaYPM3eAYgsV7R5LTBPN5VBEHkx1mLwKyvZsppCv27Osvx6aUU/MjE2SbNnIEdadADqS2uEqCr3GK2TbCqaNhNh5if/P289PqZZeYZR/Zw6nfITWpqVu6alGe15neDEl7PUbPbwRmK1S3w==;w+v/g5b6WBalAlmWgW5Krg=="
+secured: "KYd5Etsi9oN0eHoFPuuBwA8p6e6xSgfDRh9VhpmDqueUMqvGSvIPe1g5BXR4dCEFLbVyoIqFGw2I0gj5aCSc+eQlAo10zJGiGly9w7MilkKTGE7DXXNtrwsR7e6dEL71lZ5sIukv1IBDol/Sk//1pbKKiewoCV2ldrgyxwP6m+dAcBTynB66GbZPXT8EBb7dI5Z01mT9YoRcHXL4c+tEwjq5SwfRfJwjyh3sO5ak1kxPrw/ke7zDU4ZkR83/Ds3Idl6tgA4UPP2xDUMqLR+AlGN+gbdo+U/cSTq2eYV7aCZH6BO1IFcLrfBAmfPaUAQbfqaB4Rwrl4JOKxB8NR/ozgI7L3zBEDFYLOzis3YeSi4=;rUfb1hQfzUcrSmWc2PS+jA=="
 ---
 

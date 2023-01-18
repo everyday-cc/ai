@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Microsoft Announces general availability of Azure OpenAI Service"
-excerpt: "Microsoft makes Azure OpenAI Service generally available, which makes the world's most advanced AI, including GPT-3.5, Codex, and DALL•E 2"
-publishedDateTime: 2023-01-17T15:34:00Z
-originalUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
-webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
-ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
-cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
+title: "Microsoft announces general availability of Azure OpenAI Service"
+excerpt: "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation"
+publishedDateTime: 2023-01-17T11:39:00Z
+originalUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
+webUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
 type: article
-quality: 89
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: enterprisetalk
-  domain: enterprisetalk.com
+  name: Information Age
+  domain: information-age.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://enterprisetalk.com/wp-content/uploads/2023/01/Microsoft-Announces-general-availability-of-Azure-OpenAI-Service.jpg"
-    width: 1500
-    height: 844
+  - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
+    width: 788
+    height: 443
     isCached: true
 
 related:
@@ -381,6 +379,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "Azure OpenAI Service Commercially Launched"
+    excerpt: "Microsoft this week announced that its Azure OpenAI service has reached the 'general availability' commercial-release stage."
+    publishedDateTime: 2023-01-17T00:00:00Z
+    webUrl: "https://redmondmag.com/articles/2023/01/17/azure-openai-service-commercially-launched.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/0917red_F1a_TeamBots.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft Patches 4 SSRF Flaws in Separate Azure Cloud Services"
     excerpt: "Two of the vulnerabilities — in Azure Functions and Azure Digital Twins — required no account authentication for an attacker to exploit them."
     publishedDateTime: 2023-01-17T15:13:00Z
@@ -551,6 +563,6 @@ related:
       domain: gulf-times.com
     quality: 19
 
-secured: "bBwyDoMM5zheVsGGhmv1zojTAZvfFlihQL/DlorcP2AHMJeuQgMEG1nzEezHMTJnFo8KB7hg7k7xGgjAmgyPjXD/xTyCNqiQs6Pa/jidrNwgFMkRqaPcQFAUIWhXVsCyGiqUQfvDL4GOhtDHHmRhSdG7sONCD65mP0x6T4qABEwT3jE4kX90x8zSds02K9xe6f7PSvrabi/tIYPwjByKsfxGwmQrSQrrh81PTxytlOk+pWwNI2loOFLNJLsPZL8YQbshEiBsxVxlGCx7x1EbiafPT+8NcyMCjxlqRIQvowz7ruVOHJXTmx3tNYL4YRH0Qe+5Oz3UIfSXo+6skBwDJ/otz2yNcnmHJwUkXTCLr/M=;dTrRtAhf/Qp3ztlUjI/dxg=="
+secured: "rKQgRlJKZOTZ2jqwO2xjBkbDpHz/3a2SsCDrnMgPYRwlU1Kc05RedpcOvNFieDtZIkrtaK91/2tU1OPZx3e+EkTqgS4nMCuGfqb67qOM1ZJCvNqhVAikYuSZObV7Dq+lmtuhPpIr4DkjEtiaNlMFZKBAfrnnHbQiMslkgwE1AI8rah1u7Ul2QPBQaGkYRnrV0XAdwtEQykRx5JPhVS1ip64cDYjTtpJyn920mcTaaXjyXwXe/jVRPz84Uc91AAO4KhJH7KsJ8kF9OuyAJj7kKb4v7qiPKB400CKS1PzrBxXeEgMFIIQrU713r/BZa9LZcmPs77xpNC94A8FlT84gO+oq0L9e217zEEe6feqvOI8=;jU2nxg8nOatwRShntyogww=="
 ---
 

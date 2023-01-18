@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Everseen Advances Computer Vision AI Systems for Global Retailers"
-excerpt: "Expanded partner program and installations bring real-time loss prevention to more than half of the world's top 15 retailers CORK, Ireland (PRWEB) January 15, 2023 Everseen, the leader in real-time co"
+excerpt: "Expanded partner program and installations bring real-time loss prevention to more than half of the world's top 15 retailers CORK, Ireland, Jan. 15, 2023 /PRNewswire-PRWeb/ -- Everseen, the leader in"
 publishedDateTime: 2023-01-15T13:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/01/p30423687/everseen-advances-computer-vision-ai-systems-for-global-retailers"
-webUrl: "https://www.benzinga.com/pressreleases/23/01/p30423687/everseen-advances-computer-vision-ai-systems-for-global-retailers"
+originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30423676/everseen-advances-computer-vision-ai-systems-for-global-retailers"
+webUrl: "https://www.benzinga.com/pressreleases/23/01/n30423676/everseen-advances-computer-vision-ai-systems-for-global-retailers"
 type: article
 quality: 34
 heat: 34
@@ -18,6 +18,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "+K7buOWqEXwpHi6wm9FjTlpiZxHXhRyrbMgbL8ZqSHFq4Q6rr/6IP+J6vn1Ng/L3TrIenPKje5Q906Opxk4DIQy4tniEpUWM7TDCyeYmuikeP4YMKkblP7qh/bbw6qTH19Wn7q9Fkq0c+sLNOTW0HZiKl807galgt6Cl/LWgVVyYmkI0xAbguFefAKGNOK3KEBbdbmlL85HvvaTQQqiM1JjDqHXy5U0zFJz5a49oCZF9JTSc4walYhZE9+Fdf5t79R83HapaMsvTOOmTU0rrw8nQb/dbaY6OfoHyR1jM4RSDr4xmkCvJQp6RI2FF29vvQlL/Bnm88KuaiwTcuE1c0qqXfuIb+aVfWg3m8iQ4KXY=;zZr8DrUQABTa/6Bd/68uRA=="
+secured: "MqLWlWdhN79IDaQaxuByuRvyE23rBcMx9H1GRGXxGhSyW0G5/4GdUcGF8uIRy1Tn/xZU6YWCMGQs6jzp5R2j7GN55wQceW2RHpwrUhRm9oFFEfV9NSbkpBj549WjGTyAtGss6Cs8DVynDtHr+1ncmY2OmJB8enkA7powu47aYDtXF5J+ipdJSuM2dlz0LPKV8rPaSRuQprZHaTtlG126rJg7qrbz18oRgi+KEwpMh+EbuWluS4nQa02eu0+xDDAlTLIw3r8c+Yx2AOoh0Y6bwSa0eAGXZtluJ+rccON0XVTiPYSzidqUL7LWadOAlP5UblzXCQEKVd5oYHsKMFqpTynS8SO3ithpKcz0IeK7M7w=;nSep7xgWeY9XRk8jJU3A9g=="
 ---
 

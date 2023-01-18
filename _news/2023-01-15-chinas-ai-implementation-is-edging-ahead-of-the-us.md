@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-impleme
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-implementation-is-edging-ahead-of-the-us/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63c225936b343c8425964a41/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 730
+        isCached: true
+  - title: "The Rise of AI Orchestration"
+    excerpt: "Most businesses don’t yet understand what AI orchestration is, and fewer recognize its game-changing value. It’s time to do some homework."
+    publishedDateTime: 2023-01-17T22:57:00Z
+    webUrl: "https://www.eweek.com/big-data-and-analytics/ai-orchestration/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2022/11/best-automation-companies.jpg"
+        width: 1400
+        height: 877
         isCached: true
   - title: "Generative AI is having a moment and governments need to pay attention"
     excerpt: "Governments need to understand and use generative AI systems to manage the changes they will bring, says Annan Boag from the Office of the Victorian Information Commissioner."

@@ -67,22 +67,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 95
-  - title: "Microsoft Announces general availability of Azure OpenAI Service"
-    excerpt: "Microsoft makes Azure OpenAI Service generally available, which makes the world's most advanced AI, including GPT-3.5, Codex, and DALL•E 2"
-    publishedDateTime: 2023-01-17T15:34:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 89
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/01/Microsoft-Announces-general-availability-of-Azure-OpenAI-Service.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "Microsoft brings ChatGPT support to Azure: All the details"
     excerpt: "In the last couple of weeks, it has been suggested that Microsoft will bring ChatGPT tech to a few of its products and services. Now, Microsoft has o"
     publishedDateTime: 2023-01-17T06:53:00Z
@@ -255,6 +239,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Microsoft announces general availability of Azure OpenAI Service"
+    excerpt: "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation"
+    publishedDateTime: 2023-01-17T11:39:00Z
+    webUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 69
+    images:
+      - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
+        width: 788
+        height: 443
+        isCached: true
   - title: "Microsoft to add ChatGPT to its Azure OpenAI service"
     excerpt: "One company that thinks it should is Microsoft, which has announced that it will feature in its Azure Open Ai service “soon”. Along with working closer with ChatGPT’s creators, OpenAI, Microsoft is also said to be readying a sizeable investment into ..."
     publishedDateTime: 2023-01-17T09:26:00Z
@@ -382,6 +380,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "Azure OpenAI Service Commercially Launched"
+    excerpt: "Microsoft this week announced that its Azure OpenAI service has reached the 'general availability' commercial-release stage."
+    publishedDateTime: 2023-01-17T00:00:00Z
+    webUrl: "https://redmondmag.com/articles/2023/01/17/azure-openai-service-commercially-launched.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/0917red_F1a_TeamBots.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft Patches 4 SSRF Flaws in Separate Azure Cloud Services"
     excerpt: "Two of the vulnerabilities — in Azure Functions and Azure Digital Twins — required no account authentication for an attacker to exploit them."
     publishedDateTime: 2023-01-17T15:13:00Z

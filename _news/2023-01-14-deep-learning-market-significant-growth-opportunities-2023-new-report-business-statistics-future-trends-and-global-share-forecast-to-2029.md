@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data Science and Machine-Learning Platforms Market 2023 Top Companies & Business Development Report of 122 Pages by 2023 to 2029"
+    excerpt: "Jan (The Expresswire) -- \"Data Science and Machine-Learning Platforms Market\" New Research Insights Report 2023 | New Report Spread Across|"
+    publishedDateTime: 2023-01-17T14:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-2023-top-companies-business-development-report-of-122-pages-by-2023-to-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "CANolDbXsw4yj47LUEZbNJFxXtT052bDgbAue5kawqNgoYDBd3p/F0MJYRYC7h/+JZcRBtqmQ/MlrYulSMAMzdB80AdtDHu6bKZ16xB/Jft06LWE38i7JJzrUEjOIFYhydvLaG+VQgN7ky3BNNXDF8/CxRyJ3DJ8xppuaB/P7b/K7X8ojV8zlDnptCNEBNI1oultw5A3OLJ/eflZq6KJ9vH/0DamPFOktFKrYJKjk4du/n7pakzCXzeCjQDp+ZwrhJXu1mreOyQnQi7MKq4foOH2ih/PwIUmr2eQXqkOrSF3wPsrdgqOEAumJ7jkaVy4jhiVRxpsBqCHpQqHv506Lk4hTyCAr9iok3JDnkyIizY=;DbJ2D65rP6E6tSOY5bpCzw=="
 ---

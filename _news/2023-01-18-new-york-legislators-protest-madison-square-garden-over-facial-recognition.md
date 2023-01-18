@@ -8,7 +8,7 @@ webUrl: "https://www.rollingstone.com/music/music-news/new-york-senate-madison-s
 ampWebUrl: "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/amp/"
 cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.rollingstone.com/wp-content/uploads/2023/01/MSG.jpg?w=1600&h=900&crop=1"
@@ -110,6 +111,6 @@ related:
         height: 630
         isCached: true
 
-secured: "bFLTu65lXqCf7YiBsq26p2ONWvkklca/lhoNnKh1MDnbWnODgqMjPO1n89vJeY8BTSDj3D2d9jTYkD3alpM9U2K1Hv50kC2NiMoDWB4GMXn6cFQGXaU2QEagqjL0Oymz1BxJUAIM+sIyqkL7ke844WpYbE2KtQssV0A0YPVMxymx1NkJloSj6sW9TKVgw1oUBmSzLhOogFco5ajeQ5vOrHwfpViHpqAcSB4TZhPajZBL9n2s0A1HBW7w4NXKgLQy/VUFHghx/37CJufNR7tgQw4j0HXGuVx+NjrgSsa51xfTAA/nFV1cQVlIU3NiVVOzUi8ub3nF1EbLPJLOKb4Z0PsmF7B57j0n+ShpM3Adxvw=;ZiDjcS2soX53JglVAhoJCA=="
+secured: "oQKHOXZYhDweP9yF/ElpzfHEFFdkAjq/HQ4+qiPtulCm3F8PyGi9qmBwiJ2vd+ScxXgF0GPhlK+etv54F0IWx6WMNl4DDdqbk2rAG1uGC8M2fljO33nsoCwvnAq/xL1B3nqYHaJ9IVGw/cWPouQ8jlD89VW4fl9G12bQZn/b0MI33flkgvmKDbZeCEs3d+f/veIbjRMa1BOFr4bRIFRf4/PXPT8TWPJhAyFC92cY/iXgzJMK5LY0wLUXahehSmdzSCJMpjE2HhQfo4qllQMZiiCw9kw2JRJxAHowU9Ieb0Yylyi+myXP6Un8eBHnqSb8DcLq6Hkh/jsd0HYyQtymjSnTsmNMvgu7VyCic+tD15QdKe09rnsTzjDR7BBsucSelVZDO2+zMrosasqrTDxo6C9VDB/Zln2cQqKsVzKKCrRB3xLfmH1pXKs8HvMnhTgfsojNzHUuTHbqLqHITyLB5PF+SPd45UH0JewJrYx6MSfMsup0HD/Q3hK5V6T4hwzHhCUCdC5fvWj6VYHAw3pcqA==;TtBSMxyksaxdLDrWSOzVIw=="
 ---
 

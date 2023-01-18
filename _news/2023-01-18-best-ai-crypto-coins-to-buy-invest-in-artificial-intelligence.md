@@ -7,7 +7,7 @@ originalUrl: "https://insidebitcoins.com/buy-cryptocurrency/best-ai-crypto-coins
 webUrl: "https://insidebitcoins.com/buy-cryptocurrency/best-ai-crypto-coins"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Bilateral science funding aims to invest in priorities like AI and machine learning"
-    excerpt: "Australia’s Department of Industry, Science and Resources (DISR) has teamed up with India’s Department of Science and Technology, and the Department of Biotechnology to run round 15 of the grants program."
-    publishedDateTime: 2023-01-16T20:45:00Z
-    webUrl: "https://www.themandarin.com.au/209670-bilateral-science-funding-aims-to-invest-in-priorities-like-ai-and-machine-learning/"
+  - title: "AI Is Not the New Crypto"
+    excerpt: "The torrent of investor money that flowed into crypto is now hitting the AI scene. We’re already seeing the results."
+    publishedDateTime: 2023-01-17T23:23:00Z
+    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/01/ai-is-not-the-new-crypto/672746/"
     type: article
     provider:
-      name: The Mandarin
-      domain: themandarin.com.au
-    quality: 48
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 67
     images:
-      - url: "https://www.themandarin.com.au/wp-content/uploads/2023/01/Ed-Husic.jpg"
-        width: 795
-        height: 530
+      - url: "https://cdn.theatlantic.com/thumbor/XlSN6a8iZwtpDJorFvWt_wxECXI=/0x635:8646x5138/1200x625/media/img/mt/2023/01/GettyImages_1370578245/original.jpg"
+        width: 1200
+        height: 625
         isCached: true
 
 secured: "OQIxh+4qSd4GM9iCUMdpiMCRnW/usQzUcvWAsPxlhb5qrcCscPTJQNpN5WgarxyRcfT8e9DgUKKrADAD5tDDK6gYCPlpk5JMPx4SivWJF6jMpetIMJXGVcyU+OJ3GIssyBS7u7tewkb1U/17efh/h9kuHQ75Vb2HyTHW2IHXqOqGMGc+JzaAQhFYlFM6GmLgqu+st8JJfs0EKp1EPaaq4ryCtOlcOYuwObxIfIuMrWDkJtT5d7EMOcoZN/ETvzf48y044E0vV/NRuJTrmxvcQc4UVgWhE/6HrpDZ8VcFH7evTA+2pKjuDKYfdMQf5vNGK/sA5VKkorh750NsA2OrKZc8fBxETAe9IgF+QUUg6OanhYN8cdJaHQRlUnA+UU06GDM4gIrklchjtuZG9a1Y7gzf6+KwZ191mn8sT5PaHbPmYVAjEI7Om2dz0WkhZycfI/aB2Ag3Kkv0nnwpPHTtDHT2pJ3Z9YG5BPBqSnWWgmRun7Cw69ZcxeClZ+/bG6oO3dftsGzwJXiJMy8wBkIing==;10VOStlFUEqQyL+bBgeYqg=="

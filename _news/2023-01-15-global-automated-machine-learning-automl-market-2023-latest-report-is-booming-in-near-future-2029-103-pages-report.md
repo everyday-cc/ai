@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-automated-machine
 webUrl: "https://www.marketwatch.com/press-release/global-automated-machine-learning-automl-market-2023-latest-report-is-booming-in-near-future-2029-103-pages-report-2023-01-15"
 type: article
 quality: 60
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Data Science and Machine-Learning Platforms Market 2023 Top Companies & Business Development Report of 122 Pages by 2023 to 2029"
+    excerpt: "Jan (The Expresswire) -- \"Data Science and Machine-Learning Platforms Market\" New Research Insights Report 2023 | New Report Spread Across|"
+    publishedDateTime: 2023-01-17T14:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-2023-top-companies-business-development-report-of-122-pages-by-2023-to-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

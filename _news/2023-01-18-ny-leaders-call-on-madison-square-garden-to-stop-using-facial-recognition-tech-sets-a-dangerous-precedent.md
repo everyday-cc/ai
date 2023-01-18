@@ -70,7 +70,7 @@ related:
     provider:
       name: Rolling Stone
       domain: rollingstone.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.rollingstone.com/wp-content/uploads/2023/01/MSG.jpg?w=1600&h=900&crop=1"
         width: 1600
@@ -111,6 +111,6 @@ related:
         height: 630
         isCached: true
 
-secured: "UVUF9A/segVUUVZUZ9YlVdBiF7N9XQFdkHql0tWTESkvydReVhY8O/zUlBxHYt2RqN/xwJ78YwK89TeDW6Adsrya9gY309gTHGkRs+Bg3JEOS7XGI2rC19BPtH3YEvjeH1pZkpIALEKpMZa1FPrkhytCZNAge8tygnzU5XBxPwx5pbYA+LVIVo8cf12iaW8C5JwkPDZF4oB6iO/M+Ijrp/Ed96pQmWEvJWDo65bdOWSmkXV9RaNHM3RS6ZD+PpiW+Ysa/F8AoW6x2ppOlzKjxn/opFNJVJn2DDpoPbMJj5cfJ2u+kITb1+9n4HpadiCScHxDb9tochP58q09Ad3CMij1U03suTWi3QiLnwaMntE=;pXTvDwG7IAh8OtzTN6L/Xg=="
+secured: "7WVeCXb/bTjF/Y9VEZluCUeY4olHh1UBjSijdUsEYpM6NLAVrmbCdxIym69voPRy7VowwUqkIS/CgmqC5K9MmbpDybjmVXxWqbxnDeYSO06OSTQNNVMr+NNy9nBt0AttG3Im5m26RS9Fg7q9OEHQ6vKKAtfWzrYd5WRPt0+mA+4NfV56HD5RbcaTBiP6xXihFJ2Pm/NLC6d6ZWfBtG2xzLy4DxL7bZmP44/+dt+tTbue2I/jYt5UadcEsMLyOFAYXqIwFnDJBfy2L3fld6yxGHq4tWT7leBgdPDJroNkLwGmp3slHyQcn4qdhyJaMUdriH8PJvR5+D67p4qXyAsos1CPbxRASqBzH/v+WoZc50WzEvgW3/HrVrgz7dy3Mf5PqAkIxr86JVXeiteEZY3H3sSW2amLmZObvGAHqS/RtsBElBVG2ngqjvtlqIR7/shyhpRiqx2JBjCo+rX64lSLFB2RcTm1bYDaOZRemeq8n2QrJEoSnXHkFwDrmKYMfb3YTIIKO8VEAIDIZJTf99LP1w==;ejF9WRQBkG+Hg6CXUQffcQ=="
 ---
 

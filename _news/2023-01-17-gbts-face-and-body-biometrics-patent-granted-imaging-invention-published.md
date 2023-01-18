@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Facial recognition in sports: The biometrics technology shaping ticketing, payments, security, more"
+    excerpt: "Facial recognition technology, including facial ticketing, is shaping the sports industry. SBJ Tech expert Andrew Cohen explores seven key deployments."
+    publishedDateTime: 2023-01-17T23:16:00Z
+    webUrl: "https://www.sportsbusinessjournal.com/Journal/Issues/2023/01/09/Technology/facial-recognition-technology-sports-stadiums.aspx"
+    type: article
+    provider:
+      name: Sports Business Journal
+      domain: sportsbusinessjournal.com
+    quality: 42
+    images:
+      - url: "https://www.sportsbusinessjournal.com/-/media/Images/Daily/2023/01/13/SBJ-Tech/facial-recognition/fans-pillar-page-beauty.ashx"
+        width: 699
+        height: 725
+        isCached: true
   - title: "India introduces face, iris biometrics system to reduce bank fraud"
     excerpt: "Large private and public banks have been given the green light to conduct face and iris biometric checks for substantial financial transactions."
     publishedDateTime: 2023-01-16T17:55:00Z

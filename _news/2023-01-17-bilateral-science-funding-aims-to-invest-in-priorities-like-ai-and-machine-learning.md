@@ -7,7 +7,7 @@ originalUrl: "https://www.themandarin.com.au/209670-bilateral-science-funding-ai
 webUrl: "https://www.themandarin.com.au/209670-bilateral-science-funding-aims-to-invest-in-priorities-like-ai-and-machine-learning/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 795
     height: 530
     isCached: true
-
-related:
-  - title: "Best AI Crypto Coins to Buy – Invest in Artificial Intelligence"
-    excerpt: "With OpenAI's ChatGPT, generative AI, and other machine-learning technologies attracting billions in investment, AI cryptos are trending."
-    publishedDateTime: 2023-01-17T16:10:00Z
-    webUrl: "https://insidebitcoins.com/buy-cryptocurrency/best-ai-crypto-coins"
-    type: article
-    provider:
-      name: Inside Bitcoins
-      domain: insidebitcoins.com
-    quality: 56
-    images:
-      - url: "https://insidebitcoins.com/wp-content/uploads/2023/01/ai-crypto-coins-to-buy.png"
-        width: 384
-        height: 384
-        isCached: true
 
 secured: "PCuR/IY9w0o0WU9KIFqhojl/OpeM9V+xvgkbayS0Zz2V9tRbbTG0ZX8wHAmDnOu3y8gaA0X9Pr5fvsPRCaMN1lb9Zab2vnijQxA5NPb394QEQ46mpOns9fuhrCG8HibU6ZDggQoRaps49S0jKiCU6GPWPIdMcP+A13piMHKTDrSYPiuYcYfToJLLOWLIgSZWspSK+tFlVc40jDS7FeVKFADKe/du6izHrvJKe+qTQgnnvxWab2B2PVH/FPttDFWj0+zw6MNZ/mBcqp7B4w0Ostuc92yx3uFzPRsTj9loE/DQQtJKitSMQUP5AwhYo5NPMfZp7EW19GtvlroFSE8v4h0J3pX6y32fHX2N1RqN/Pw=;hYiz85AtAAN0CvQYiMZaqg=="
 ---
