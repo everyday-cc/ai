@@ -2,13 +2,10 @@
 category: news
 title: "aiOla raises $25 million to interface natural language to AI solutions in traditional manufacturing"
 excerpt: "The Israeli startup has developed state-of-the-art voice and image recognition combined with advanced AI models to digitize, automate and streamline inspection processes HERZLIYA, Israel, Jan. 19, 2023 /PRNewswire/ -- Israeli startup aiOla announced that it has secured $25 million in funding led by New Era with the participation of Hamilton Lane and other investors."
-publishedDateTime: 2023-01-19T12:11:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/01/19/9745878.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/01/19/9745878.htm"
+publishedDateTime: 2023-01-19T13:52:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/01/19/9745878.htm"
+webUrl: "https://it.tmcnet.com/news/2023/01/19/9745878.htm"
 type: article
-quality: 23
-heat: -1
-published: false
 
 provider:
   name: TMCnet
@@ -17,23 +14,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1986673/Amir_Haramaty.jpg"
-    width: 400
-    height: 313
-    isCached: true
-
-related:
-  - title: "One AI Collaborates with AWS to Provide Language AI Solution for Developers"
-    excerpt: "Startup allows integration of advanced NLP into products and workflows, powering the analysis of text, audio and video at scale SAN FRANCISCO and TEL AVIV, Israel (PRWEB) January 18, 2023 One AI, a pl"
-    publishedDateTime: 2023-01-18T17:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/p30469662/one-ai-collaborates-with-aws-to-provide-language-ai-solution-for-developers"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
-
-secured: "B/6D/+FRCNHUYJVYg3k3qe2DSSNjnaW2CtygLI99Gms5/zOwuap3pCqSFkGTbTGzaQno4DIqZdMLriIAVuTfrFW8vkVN4JEUQTsuJs+CCLxwe1IXFYowIXSS0bMSzbgENPaxzCNPENUi0zldYN+WEkneX6Hx8MZfOOgDmwRfvpTqmDjJT/rgvQVWwr3ittq7AWrC7JTfVYPfaDUEsCmRnO0tv+bh+hvXBmjZKNmnlWDiA+Cu35YiaPJxXIQ6VOLJxFkj5MdVJr0RZQLotQVFmz4+UuCeH9jMH9QACghOLsD22GsJb/DWy8bfvlCklyfqPl61N38WBE5Lk7KPpV1McP+ygLEx+Vf3AgFsGP8D08A=;XudSNiuoifEJm/mYedKPmA=="
+secured: "jG9vnifM9LUg7PgnFkvMdAQSYFJB7vRIVK3fMW9knA3nFYENzqMI5sBsLS0vSzalh3/LCTtfv9jFodROwYTP5ovewwaJtICQYYgspWbNHxg6o0I1rXZoawz+t3Y1fUgxpQPpJe+viUivABkz4CIQltRkkarVqKxEm4Df/XxA0AAYHZ5DPnxbI49AyAHk+hdT/6k5ij7mpzHFEgUW3HEUBeT6lxy0Y4aMcT6m9Zu6xxkgfZjDKbmthCvYlQP3U+YM5cq9mgxYa0uPKaSZlGIVyMTwt64x9UDgF6zvZWIrsVGFV37sgA/TMZqD3eg9/85B/Lp19f7UomD1Wh+pVJz+1FZItr8zxEu9AFQ0wqPQFNKj++Y7NWBDsHaCpEZLrx0ElLGNCDeoeYslkES9DQEIaO/6SoHW7haZuc7+AjChSKMHD5twJpazB02AOFjEGCj1pNWAf08Pmq2C+eH2SDxxbHnmWhPoIcBESne5BpmVG3tvzUVVQWfsfnr0El4TZgaHf8XFVLrxuDeWXbtaOLI/cQ==;mjnwmT4t77h/wfQtIo8Clw=="
 ---
 

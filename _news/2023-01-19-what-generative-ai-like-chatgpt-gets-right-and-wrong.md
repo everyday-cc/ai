@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.grid.news/resizer/4_o-cnZ1toWsKZMVtTtZUrBHr9w=/1200x630/filters:format(jpg):quality(100)/cloudfront-us-east-1.images.arcpublishing.com/thesummit/YRSXDSDSRZH7JNBNZMIO66QBHA.jpg"
@@ -136,6 +137,6 @@ related:
         height: 630
         isCached: true
 
-secured: "xg22tmClC1ooj7ojQCIhTSpCqmNJ6AhyK2rjkdZYK7gnPbtUPzklIQc/c1EUNCVD9+FrtowiT8jYSDU9VEuwKT+suTroLXdkgkj0wpmNJdpzu9U2emA89I875FsIakgSZ4LySw3zt8TlTGudT/HB/NFxq71IAi8wdYbKNOBDS7+TL7uerONiPrkzxtD1hAQjXOAHE+IASB2wdzif0q36f1nw7tyZKzDDsohh++Fe2gPJV13sANQGYo6gxuZXd8S83EbeUesH2WFdad9wDV/momU4Gxma7WgRHQFQ3hTMwJAv4khpkfDPxzuxp/yQlJOt6w3uuW1nVUIREBWUM+T46O/B9vj/z3klhpLr5BUG9l0=;Fvn/Ta/B2pdS/wNxTtwjsw=="
+secured: "/DCmkU2eewbBBxR92owIeCvxpexsO/p2z68Bc3fHuXAmqRnYucD5QMcnBRrWD1n9DqBFht8SE0mBk/A5psxHQdal6TRMtwOHPo/xGyeo/X3yGC+hEfrtE7uycLQ2WGXqlpkZVMqmWKDK3dTkSCxkVyhwUbWqPxsIL/5TQcbI8CKkjXl11tSwtX+A9dWoM7NgVY3+8afFpdJznwL6zTVlsUQ3xAGdlBoCieXbdGHlLOtaIoQWKTPjJLZu1hsDgji2OOx83XwZ/q3mkGbC9YIXzVYmnmubsh0OfzYCnpXfUYxjh+mDxcsR7bHT3RTj8Q6Y1q0JP9wVvPUPw3d1wiN3tC2iCur0pOwWir3m94s56eWIQTHHStV0kWBEqwbCYp0WtiAsRJuZAA5Oki/2f1/Zmid7x9iLLKdzHsshqkF6wYYcptuRYWQVirlvcSIJLlPVZ1d1dGNZZaNJediY+fTFxyiCx5fNWcpY8wLmUe+kb9aFInjtg1399VLJHRUsy3aLWhniVlZldKpwU3wEi8zYWQ==;ASUgAwoO4BaodArelHVHKg=="
 ---
 
