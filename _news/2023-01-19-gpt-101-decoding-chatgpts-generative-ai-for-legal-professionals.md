@@ -2,9 +2,9 @@
 category: news
 title: "GPT 101: Decoding ChatGPT's Generative AI for Legal Professionals"
 excerpt: "While ChatGPT has caught the attention of many in the legal market, its underlying AI engine is where the real power—and disruption—lies."
-publishedDateTime: 2023-01-18T23:36:00Z
-originalUrl: "https://www.law.com/legaltechnews/2023/01/18/gpt-101-decoding-chatgpts-generative-ai-for-legal-professionals/"
-webUrl: "https://www.law.com/legaltechnews/2023/01/18/gpt-101-decoding-chatgpts-generative-ai-for-legal-professionals/"
+publishedDateTime: 2023-01-19T01:09:00Z
+originalUrl: "https://www.law.com/therecorder/2023/01/18/gpt-101-decoding-chatgpts-generative-ai-for-legal-professionals/"
+webUrl: "https://www.law.com/therecorder/2023/01/18/gpt-101-decoding-chatgpts-generative-ai-for-legal-professionals/"
 type: article
 quality: 39
 heat: -1
@@ -110,6 +110,20 @@ related:
         width: 880
         height: 542
         isCached: true
+  - title: "AI research tool aims to supplement flawed ChatGPT"
+    excerpt: "It started out as a side project during his university studies, but Kieran Lindsay believes his automated Minerva research assistant could be a game-changer for academics struggling to keep up with the flood of publications – and an important step towards explainable AI."
+    publishedDateTime: 2023-01-19T03:36:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/ai-research-tool-aims-to-supplement-flawed-chatgpt.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 37
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/minerva%20academic%20papers.jpg"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Does Exposing And Logging Those Generative AI ChatGPT Erroneous And Hallucinatory Outputs Do Any Good, Asks AI Ethics And AI Law"
     excerpt: "Here are some examples of generative AI ChatGPT producing falsehoods in the outputted essays, which raises questions including whether we should be logging these. AI Ethics and AI Law issues arise."
     publishedDateTime: 2023-01-18T12:01:00Z
@@ -142,20 +156,6 @@ related:
         width: 710
         height: 400
         isCached: true
-  - title: "A mental health tech company ran an AI chat experiment on real users. Nothing’s stopping apps from conducting more."
-    excerpt: "ChatGPT was used by the emotional support chat app Koko to write responses for real users. Controversy came quickly after the experiment was announced."
-    publishedDateTime: 2023-01-14T13:10:00Z
-    webUrl: "https://www.aol.com/mental-health-tech-company-ran-141000959.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 17
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/fRD5CJ6x7HBzu1dai.Jo5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/01b67202fa238cd10095df448785d5a3"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
     publishedDateTime: 2023-01-17T15:30:00Z
@@ -171,6 +171,6 @@ related:
         height: 630
         isCached: true
 
-secured: "C90dI8PVpSIVTZpxXGIABvm9ULbZxrclefLoH3F0SYsZ+LQfK7WuJJzJVnVrNdw5pvtv2BwKm66pJ2+i9ag13lJIlzyCqmSbVf4v0Rf4tc1Ux2Wk6NmaX1rccF0hFwz02wJQSTE7AVgwCggsoREj6hAjKm1O7zohmE44ZnAR21JfpBQhFgp39r+a49acqznpwoFaKDNlXYpxzHJYKHNXgIuD5H0UCPC1lzgNNe3xheljHhZnd4/Uts+n1nJYX40eE5NijbT4c7XzNDGm02KLGPLKZCcGNWqHxSJmxq+ckJGkuZqEZyk71EQU4RJ5nxkUNYO1zRs4+tnsRSoojLl5NuFE0lE/tovdVvasT1zvmmW73tWUlFwdlxqAadpdgGeeqbjmnTNBrElzLvhnKn1FzLR2nA7hQCPk5FYGfmke/bK6DvqVQ1XBAMyDa0jdUjP8tm0YIlAKrUrRVSm4W5WH4xSR0cnzRkxysaG0pA0t47ZmdwfTYRqhWulbVWAtIOiB2r79oYFh5WUB+1e9ZpJ66A==;lQ5VCiOCrmwonxLzGWd5UA=="
+secured: "9CMRSZyVyd5gluw3LgUH6rYBBelmwQkhIz5A92X23c0My6f7qbpSo9eFs4K2uimKKSBHTo5L1RZ89OVXMwdzXcS49ULWCLCY5QcsjeBuYs4WpkoZJuuFRxPG+rJiiNjV1fTnO2gomnuGjfm0ueFRe0/urrlhZ42iMRE0Z1uUo/CwaBGJBb5gbeX81aA88JH5HZxon16AHstXUmUrxKoNZE2Fhhuh+nu2jDUf5O/eLDFCl3Ckr+SQQ3SGm9sSgnAtINOZ4zeS93XqKb5cpM4Uh72SavOgM6wADr3YrqccvWWN1Pz0ZNjc0J6GfBk775v7k7Gxz8z1E7zWrxC6ci0way9fGhFNtX99GkirNYAV5ZI=;VUUQKAxnsNpRbu0wnUWDyA=="
 ---
 

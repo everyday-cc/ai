@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-18T16:14:00Z
 originalUrl: "https://www.du.edu/news/artificial-intelligence-new-wave-content-creation-or-ethical-nightmare"
 webUrl: "https://www.du.edu/news/artificial-intelligence-new-wave-content-creation-or-ethical-nightmare"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.du.edu/sites/default/files/thumbnail%20feature%20radioed.jpg"

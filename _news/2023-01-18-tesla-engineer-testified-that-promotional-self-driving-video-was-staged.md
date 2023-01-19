@@ -41,22 +41,6 @@ related:
         width: 800
         height: 494
         isCached: true
-  - title: "Tesla video promoting self-driving was staged, engineer testifies"
-    excerpt: "The video, which was released in October 2016 and remains archived on Tesla’s website, was promoted on Twitter by CEO Elon Musk as evidence the \"Tesla drives itself.\""
-    publishedDateTime: 2023-01-18T02:28:00Z
-    webUrl: "https://www.nbcnews.com/business/business-news/tesla-video-promoting-self-driving-was-staged-engineer-testifies-rcna66150"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna66150"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna66150"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/2201117-tesla-video-mn-1345-3db658.jpg"
-        width: 879
-        height: 495
-        isCached: true
   - title: "Tesla Engineer Reportedly Testifies That Self-Driving Video Was Staged"
     excerpt: "A video released by Tesla in 2016 purportedly showing the carmaker's self-driving technology in use on the road was actually staged, according to testimony from a senior Tesla engineer, Reuters reported on Wednesday. The video states that the \"car is ..."
     publishedDateTime: 2023-01-19T00:25:00Z
@@ -204,22 +188,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 53
-  - title: "Images Of Tesla's Next Gen Self-Driving Camera Hardware Leaked: Here's What They Reveal"
-    excerpt: "Tesla, Inc TSLA unveiled its Hardware 3 Full Self-Driving computer. The hardware update brought more processing power to the vehicles to eventually enable the cars t"
-    publishedDateTime: 2023-01-14T14:34:00Z
-    webUrl: "https://www.benzinga.com/tech/23/01/30416564/pictures-of-teslas-next-gen-self-driving-camera-hardware-leaked"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30416564"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30416564"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/01/13/0x0-sales_01.jpg?width=1200&height=800&fit=crop"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Tesla engineer testifies 2016 self-driving video was staged"
     excerpt: "Ashok Elluswamy said Tesla's autopilot team made the video — a 'demonstration of the system’s capabilities' — at the behest of CEO Elon Musk."
     publishedDateTime: 2023-01-17T21:20:00Z
@@ -261,6 +229,20 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/638420806/image_638420806.jpg?io=getty-c-w750"
         width: 750
         height: 500
+        isCached: true
+  - title: "Tesla video promoting self-driving was staged, engineer testifies"
+    excerpt: "A 2016 video that Tesla used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior engineer."
+    publishedDateTime: 2023-01-17T18:01:00Z
+    webUrl: "https://europe.autonews.com/automakers/tesla-video-promoting-self-driving-was-staged-engineer-testifies"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/zzzztesla.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tesla engineer testifies 2016 self-driving video was staged"
     excerpt: "A 2016 video that purported to show the self-driving capabilities of a Tesla car was staged, a senior engineer testified."

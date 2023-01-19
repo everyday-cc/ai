@@ -35,6 +35,22 @@ related:
         width: 345
         height: 230
         isCached: true
+  - title: "India to face ‘tsunami’ of chronic diseases like cancer: U.S.-based oncologist"
+    excerpt: "As per the Globocan estimates, the cancer burden worldwide is expected to be 28.4 million cases in 2040, a 47% rise from 2020, due to demographic changes"
+    publishedDateTime: 2023-01-19T05:19:00Z
+    webUrl: "https://www.thehindu.com/news/national/india-to-face-tsunami-of-chronic-diseases-like-cancer-us-based-oncologist/article66407518.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/india-to-face-tsunami-of-chronic-diseases-like-cancer-us-based-oncologist/article66407518.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/india-to-face-tsunami-of-chronic-diseases-like-cancer-us-based-oncologist/article66407518.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 40
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/txd9of/article66407531.ece/alternates/FREE_1200/2023-01-17T135035Z_87623630_RC2WEY9VK350_RTRMADP_3_YEMEN-SECURITY-HEALTH-CANCER.JPG"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "India to face 'tsunami' of chronic diseases like cancer, warns US-based oncologist"
     excerpt: "Cancer vaccines for prevention and treatment, expansion of Artificial Intelligence & data digital technology, and cancer diagnosis from liquid biopsies are among the six trends that will reshape cancer care in this century,"
     publishedDateTime: 2023-01-18T10:47:00Z

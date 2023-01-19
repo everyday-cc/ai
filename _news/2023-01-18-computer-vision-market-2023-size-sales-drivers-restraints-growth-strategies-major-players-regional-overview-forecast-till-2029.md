@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-size-sales-drivers-restraints-growth-strategies-major-players-regional-overview-forecast-till-2029-2023-01-18"
 type: article
 quality: 70
-heat: 160
+heat: 170
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Energy Market Size Top manufacturers Entry, Market Share, Growth, Trends, Segmentation and Forecast 2029"
+    excerpt: "In 2023, Artificial Intelligence in Energy Market Size 2023 to 2028 Research Report is spread across 106 Pages and"
+    publishedDateTime: 2023-01-18T12:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-size-top-manufacturers-entry-market-share-growth-trends-segmentation-and-forecast-2029-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

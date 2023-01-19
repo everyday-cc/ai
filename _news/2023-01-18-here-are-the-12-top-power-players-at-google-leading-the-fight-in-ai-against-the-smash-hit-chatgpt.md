@@ -86,8 +86,8 @@ related:
     quality: 47
   - title: "GPT 101: Decoding ChatGPT's Generative AI for Legal Professionals"
     excerpt: "While ChatGPT has caught the attention of many in the legal market, its underlying AI engine is where the real power—and disruption—lies."
-    publishedDateTime: 2023-01-18T23:36:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/01/18/gpt-101-decoding-chatgpts-generative-ai-for-legal-professionals/"
+    publishedDateTime: 2023-01-19T01:09:00Z
+    webUrl: "https://www.law.com/therecorder/2023/01/18/gpt-101-decoding-chatgpts-generative-ai-for-legal-professionals/"
     type: article
     provider:
       name: Law
@@ -113,6 +113,20 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/f15d3d1/2147483647/strip/true/crop/1941x1195+0+130/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F13%2Fscreen-shot-2023-01-13-at-10.59.24-am-653c405371f044e9a4056427c4d35153ce997b5f.jpg"
         width: 880
         height: 542
+        isCached: true
+  - title: "AI research tool aims to supplement flawed ChatGPT"
+    excerpt: "It started out as a side project during his university studies, but Kieran Lindsay believes his automated Minerva research assistant could be a game-changer for academics struggling to keep up with the flood of publications – and an important step towards explainable AI."
+    publishedDateTime: 2023-01-19T03:36:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/ai-research-tool-aims-to-supplement-flawed-chatgpt.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 37
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/minerva%20academic%20papers.jpg"
+        width: 1000
+        height: 562
         isCached: true
   - title: "Does Exposing And Logging Those Generative AI ChatGPT Erroneous And Hallucinatory Outputs Do Any Good, Asks AI Ethics And AI Law"
     excerpt: "Here are some examples of generative AI ChatGPT producing falsehoods in the outputted essays, which raises questions including whether we should be logging these. AI Ethics and AI Law issues arise."
@@ -145,20 +159,6 @@ related:
       - url: "https://uproxx.com/wp-content/uploads/2023/01/2-nick-1.jpg?w=710"
         width: 710
         height: 400
-        isCached: true
-  - title: "A mental health tech company ran an AI chat experiment on real users. Nothing’s stopping apps from conducting more."
-    excerpt: "ChatGPT was used by the emotional support chat app Koko to write responses for real users. Controversy came quickly after the experiment was announced."
-    publishedDateTime: 2023-01-14T13:10:00Z
-    webUrl: "https://www.aol.com/mental-health-tech-company-ran-141000959.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 17
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/fRD5CJ6x7HBzu1dai.Jo5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/01b67202fa238cd10095df448785d5a3"
-        width: 1200
-        height: 600
         isCached: true
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."

@@ -113,22 +113,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Microsoft Announces general availability of Azure OpenAI Service"
-    excerpt: "Microsoft makes Azure OpenAI Service generally available, which makes the world's most advanced AI, including GPT-3.5, Codex, and DALL•E 2"
-    publishedDateTime: 2023-01-17T15:34:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 89
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/01/Microsoft-Announces-general-availability-of-Azure-OpenAI-Service.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "Microsoft brings ChatGPT support to Azure: All the details"
     excerpt: "In the last couple of weeks, it has been suggested that Microsoft will bring ChatGPT tech to a few of its products and services. Now, Microsoft has o"
     publishedDateTime: 2023-01-17T06:53:00Z
@@ -281,6 +265,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Microsoft announces general availability of Azure OpenAI Service"
+    excerpt: "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation"
+    publishedDateTime: 2023-01-17T11:37:00Z
+    webUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 69
+    images:
+      - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
+        width: 788
+        height: 443
+        isCached: true
   - title: "Microsoft is Adding ChatGPT to Its New Azure Open AI Service"
     excerpt: "Microsoft will soon expand access to ChatGPT through its new Azure OpenAI service, which is now generally available to developers."
     publishedDateTime: 2023-01-17T10:30:00Z
@@ -364,6 +362,22 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1674034037.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Golden age of Artificial Intelligence is here, says Microsoft boss Satya Nadella"
+    excerpt: "The cutting-edge chatbot ChatGPT is capturing the world's imagination. The new artificial intelligence site amassed 1 million users in just five days after its recent launch. It is but one of a dozen AI-driven so-called apps that are expected to transform human productivity and the future of work."
+    publishedDateTime: 2023-01-19T05:35:00Z
+    webUrl: "https://www.hindustantimes.com/technology/golden-age-of-artificial-intelligence-is-here-says-microsoft-boss-satya-nadella-101674106282171.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/golden-age-of-artificial-intelligence-is-here-says-microsoft-boss-satya-nadella-101674106282171-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/golden-age-of-artificial-intelligence-is-here-says-microsoft-boss-satya-nadella-101674106282171-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 69
+    images:
+      - url: "https://images.hindustantimes.com/img/2023/01/19/1600x900/Satya_Nadella_1674106354561_1674106354888_1674106354888.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "ChatGPT coming to Azure: New integration shows how Microsoft will leverage OpenAI partnership"
     excerpt: "Having trouble reliably accessing OpenAI’s ChatGPT? Microsoft has a solution. The tech giant says it will soon make the generative AI chat technology available as part of its Azure OpenAI… Read More"
@@ -597,20 +611,6 @@ related:
       name: The Hindu
       domain: thehindu.com
     quality: 45
-  - title: "Microsoft's Future Growth Prospects"
-    excerpt: "Investments in Artificial Intelligence over the past decade are now starting to pay off. Share prices have decreased considerably from recent highs."
-    publishedDateTime: 2023-01-14T14:11:00Z
-    webUrl: "https://seekingalpha.com/article/4569974-microsoft-future-growth-prospects"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 41
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1408775753/image_1408775753.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Microsoft adding ChatGPT to Azure cloud service"
     excerpt: "OpenAI is already working on a successor GPT-4 model for its natural language processing. Still, concern about its accuracy — which Altman himself has said is not good enough for the bot to be relied on — has prompted caution about its premature use ..."
     publishedDateTime: 2023-01-17T04:57:00Z
@@ -656,6 +656,20 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 33
+  - title: "Satya Nadella says golden age of Artificial Intelligence is here, good for humanity"
+    excerpt: "In a session at the ongoing five-day annual meeting of the World Economic Forum, Nadella said that technology will provide more and more ways to bring people together."
+    publishedDateTime: 2023-01-19T05:45:00Z
+    webUrl: "https://telanganatoday.com/satya-nadella-says-golden-age-of-artificial-intelligence-is-here-good-for-humanity"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 31
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/01/Satya-Nadella-says-golden-age-of-Artificial-Intelligence-is-here-good-for-humanity.jpg"
+        width: 1280
+        height: 750
+        isCached: true
   - title: "Microsoft laying off 10,000 workers, reports say"
     excerpt: "Microsoft Corp. (Nasdaq: MSFT) is laying off 10,000 employees starting Wednesday, according to multiple news reports, making it the latest tech giant to do so amid a worsening economic climate."
     publishedDateTime: 2023-01-18T14:08:00Z

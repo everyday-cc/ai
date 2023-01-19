@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Energy Market Size Top manufacturers Entry, Market Share, Growth, Trends, Segmentation and Forecast 2029"
+    excerpt: "In 2023, Artificial Intelligence in Energy Market Size 2023 to 2028 Research Report is spread across 106 Pages and"
+    publishedDateTime: 2023-01-18T12:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-size-top-manufacturers-entry-market-share-growth-trends-segmentation-and-forecast-2029-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Oil and Gas Market Size 2023 with strong supplier, Key factors, driving the market growth, Information Forecast 2029"
     excerpt: "Global Artificial Intelligence in Oil and Gas Market| Outlook 2023-2028 | Number of Tables and Figures | No Pages 114 |"
     publishedDateTime: 2023-01-16T07:21:00Z

@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Tesla video promoting self-driving was staged, engineer testifies"
-excerpt: "The video, which was released in October 2016 and remains archived on Tesla’s website, was promoted on Twitter by CEO Elon Musk as evidence the \"Tesla drives itself.\""
-publishedDateTime: 2023-01-18T02:28:00Z
-originalUrl: "https://www.nbcnews.com/business/business-news/tesla-video-promoting-self-driving-was-staged-engineer-testifies-rcna66150"
-webUrl: "https://www.nbcnews.com/business/business-news/tesla-video-promoting-self-driving-was-staged-engineer-testifies-rcna66150"
-ampWebUrl: "https://www.nbcnews.com/news/amp/rcna66150"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna66150"
+excerpt: "A 2016 video that Tesla used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior engineer."
+publishedDateTime: 2023-01-17T18:01:00Z
+originalUrl: "https://europe.autonews.com/automakers/tesla-video-promoting-self-driving-was-staged-engineer-testifies"
+webUrl: "https://europe.autonews.com/automakers/tesla-video-promoting-self-driving-was-staged-engineer-testifies"
 type: article
-quality: 89
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: Automotive News
+  domain: autonews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/2201117-tesla-video-mn-1345-3db658.jpg"
-    width: 879
-    height: 495
+  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/zzzztesla.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -190,22 +188,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 53
-  - title: "Images Of Tesla's Next Gen Self-Driving Camera Hardware Leaked: Here's What They Reveal"
-    excerpt: "Tesla, Inc TSLA unveiled its Hardware 3 Full Self-Driving computer. The hardware update brought more processing power to the vehicles to eventually enable the cars t"
-    publishedDateTime: 2023-01-14T14:34:00Z
-    webUrl: "https://www.benzinga.com/tech/23/01/30416564/pictures-of-teslas-next-gen-self-driving-camera-hardware-leaked"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30416564"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30416564"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/01/13/0x0-sales_01.jpg?width=1200&height=800&fit=crop"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Tesla engineer testified that promotional self-driving video was staged"
     excerpt: "(Ethan Miller/Getty Images) A 2016 video that Tesla used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior ..."
     publishedDateTime: 2023-01-18T12:14:00Z
@@ -328,6 +310,6 @@ related:
       domain: dailydot.com
     quality: 15
 
-secured: "1jy+5c8oVqcXtAlIl7gPUgv3iaiEntFObdwScrGMeQMbVkppNni4LLhM0ZTq6l2XDNZbB0lFoiIlvUsvV+XJMOZZq3VtfGZLTu3etOzelhK7KDO30h2dUkz2oj6sjncKna6QviwkGfl1BX899VKxdhTJS5GWsARAWoAhyeBdUJOQPtZqsGtdO+Iqzo8jpC+VhWGo59AQj8ScK0Mhi7nMy2J4pmjpoUUayfpeuaVNlAllrp8HvjHmv4aBGVhJEHae8dmDIHYDldm1c11WEJEI0YrfNYFxaDBQtkqnpcQ/aaAI04VE6IASsZvI6bse6xfcPglotr0cHwZUO5K5QZ+MsX1bMyd8sSowgalPXgamiac=;kHyblVzXVqkWcLDPhEP+dg=="
+secured: "QX8jVa7a0vyhb7iq21hF00I/0uYCW7/mkCmgV4B+LvWGDA3gGrPmf1/Myk4amitF2EJvfqDQnG/0zOqnGhTyI/Hetm574q/ks+/6wLvIG0nBv8ykmQeisq8DEDMxkG3eg8FwGcp/bhFrc5zhYImjMUx+m8frxYj7L8SWAH/40kkSAh+pXlELBwBgyxhSWoXMBAnYuNP3RkqMqrvZ7hmHPIIkLn8VigfDHq39VQ2Sd5tnAISOTcQom9xBnlIwlchBlVZVSrzPCb3O5r/POcUazSU+jcJk2CWCo8A8jWRbVcpLOiaW79hPNbNPsUSNVLB9dq2By2VRygL35Wyzi6mU4Y4pg2FKD375yejrY6wpkVo=;Bo5L+1Ga6uuL6MoW3jNTeg=="
 ---
 

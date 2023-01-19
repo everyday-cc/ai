@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-healthcare-ai-firm-qritive-raises-
 webUrl: "https://www.tmcnet.com/usubmit/-healthcare-ai-firm-qritive-raises-75m-expand-into-/2023/01/18/9745712.htm"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Singapore based Fintech actyv.ai Raises Funding to Support Expansion, Product Enhancement"
-    excerpt: "Singapore-headquartered, category creator in the enterprise SaaS with embedded B2B BNPL and insurance space, has raised $12M."
-    publishedDateTime: 2023-01-14T13:39:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/01/201058-singapore-based-fintech-actyv-ai-raises-funding-to-support-expansion-product-enhancement/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/01/201058-singapore-based-fintech-actyv-ai-raises-funding-to-support-expansion-product-enhancement/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/01/201058-singapore-based-fintech-actyv-ai-raises-funding-to-support-expansion-product-enhancement/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 50
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/03/Singapore-Skyline-1024x725.jpg"
-        width: 1024
-        height: 725
-        isCached: true
   - title: "Healthcare AI startup Qritive bags US$7.5m funding for new markets expansion"
     excerpt: "SINGAPORE-headquartered healthcare AI startup Qritive has raised US$7.5 million in a funding round led by MassMutal Ventures, supported by Enterprise Singapore’s investment arm Seeds Capital, and Exfinity Venture Partners."
     publishedDateTime: 2023-01-19T03:26:00Z
