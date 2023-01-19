@@ -2,6 +2,58 @@
   "page": 119,
   "value": [
     {
+      "path": "_news/2022-09-30-how-to-effectively-use-the-computing-power-of-gpu-lets-check-cloudia-exchange.md",
+      "title": "How to Effectively Use the Computing Power of GPU? Let's Check Cloudia Exchange!",
+      "excerpt": "When we look at IT market, we see that, high computing power is the need of the hour. Cloudia Exchange is a new project that connects people who have GPU resources with projects that need those resources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/how-to-effectively-use-the-computing-power-of-gpu-lets-check-cloudia-exchange-2022-09-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/how-to-effectively-use-the-computing-power-of-gpu-lets-check-cloudia-exchange-2022-09-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-anyone-can-now-use-powerful-ai-tools-to-make-images-what-could-possibly-go-wrong.md",
       "title": "Anyone can now use powerful AI tools to make images. What could possibly go wrong?",
       "excerpt": "If you've ever wanted to use artificial intelligence to quickly design a hybrid between a duck and a corgi, now is your time to shine.",
@@ -1111,58 +1163,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-metas-new-make-a-video-signals-the-next-generative-ai-evolution.md",
-      "title": "Meta’s new Make-a-Video signals the next generative AI evolution",
-      "excerpt": "Make-A-Video builds on AI image generation technology (including Meta's Make-A-Scene work from earlier this year)",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/",
-      "originalUrl": "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/make-a-video2.jpg?w=1200&strip=all",
-          "width": 767,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/amp/",
-      "publishedDateTime": "2022-09-29T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

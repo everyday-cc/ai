@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chagpt-cant-start-a-business-for-you
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chagpt-cant-start-a-business-for-you-startup-steps-2023-1?amp"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
+  - title: "We Used ChatGPT To Write An Article About... ChatGPT. This Is What Happened"
+    excerpt: "Many people are talking about ChatGPT because it is a very advanced computer programme that can understand and respond to human language in a very natural way. It can answer questions, have conversations,"
+    publishedDateTime: 2023-01-19T08:49:00Z
+    webUrl: "https://says.com/my/tech/we-used-chatgpt-to-write-an-article-about-chatgpt"
+    type: article
+    provider:
+      name: Latest on SAYS
+      domain: says.com
+    quality: 2
 
 secured: "sJqmK3zgKl3gFP8Fk5gcUSDVJYVsZeUyY250evrcXkfKO0x7pGNKpdRqLovrMtI1VJZZJZ32Z8bfFepQOUR+egWpDe2GWt+JQonFfUseIFsYEGUYMiuAXwRD+70gW5XTvlmy9dDhwtbQTNIu+eiZQ5GgMoOfSSL3RIF+mhfqbla3fApwC8iVOjIGy0b9n+Hp6mX9Dnk1I3WYxXOPhsHKWTNO7z1DaN3AbDYaxYboZAQhKkr5IdOEtEJjzfecRbWfMlv6n4vFqAgWAf+ijiafOWBuZSQbep3OJY3YUjua4XqjIX12+Zlg9GQhhxMx/TOu2oMm4Bl1HVbzQIAwvXWGUphHAXN8Sl6SSD7Hhm1NGZ2UiF2tOUSJqScwaH7YZHyPi7d/cahc+QRE/SEpx6wVGXEVqoLd/QM2p4rakZbEPVe/JRkOjGox29Vw4D4U96BEI9yjzDWSF+EpRbmthnxDb8NOXN42k1nKYeGKE5nXftSDE+5YWVXgXVZkMC98KgZxyEoGXuCv0xsFeXctbedoMg==;C3cdLkLQCi7+3v9hCrf0KA=="
 ---

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Artificial Intelligence Is Coming for Human Creativity"
-excerpt: "The history of psychology is full of claims about unique human cognitive abilities. Many of these claims fell away in the light of research findings on the cognitive capacities of other species. Self-awareness was one such capacity."
+excerpt: "Animal behaviorists have already disputed the uniqueness of human cognitive ability. Another blow to our hubris is now posed by the digital revolution, which not only exposes our cerebral limitations but also threatens human creativity."
 publishedDateTime: 2023-01-18T16:51:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
-webUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
 type: article
 quality: 39
 heat: -1
@@ -17,7 +17,7 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
 related:
@@ -52,6 +52,6 @@ related:
         height: 676
         isCached: true
 
-secured: "/8BHv9LnUpMKB11FyYMnuNLyEaI/PEkMN6BFaBOy8UA4I/GRklDku82ld2jY68r8ImWDOAaBBSJYD+1EaYkUi2bEheC4GH+wnnE1UbQfOYIjBURwOnHm1yduSA8pCzSq6MESopzG9T1niIqKpHpQUpGCRZLR8hpBsEXE6ZgmXexNWwqwSjJK7A6Dnaa8oJAu5TifKjoFC5w/UdRA6Z6MZTUsFMqI6vJvwTwVTAjIEUMtZ7xEi51f31vTcljHqAqd/fnhXJMeWjLROGpS3WMVAJs3tSOapIUNTYs3XOBLQMglVEY65xblYZRQLYQdipZ5gCsF9k9hNJm0VCF7xsvY4BSgY1YUMrD5B031KrtAG3/tX8Ca1kFQQP0oU0mpEk5Vcp856fbu89eR1rBtvELShj3g2tNa9vciDQX3YjEG9j7phjdAFJgB7kmDyDabsNiifIX/rQYId64a2ZV1uei2XeT85axYRubxn+esb6fJSfYogVI9Wuv0GmhAadDV/bVvsTqIieERiYh2hBdg+M/9wA==;2l7H2JVfaLIj77C4foRJTA=="
+secured: "tXr5cvcqmWdqFgSIwr4jFcWMCzvNX6hLD2cH+8ouH4oc0lWci1mWGDed4VTkVGMWgLeBfi3lKRgsQpqzYwH/4AFKkFZ0RkueXmAD5MROqU1NBvWLvwI25P1b1StOuJ4IA8172Mp3mXGfXZpZ0y2dKyqyu4wsGhxJuu9YxGmetK/CaLXcCLcPt/c1WY6HImI3jGasrXb2ylqEnjVczgvLOf9SrtBn+Nn7wrMuS9Af9dDrW+zt/F9dpOSK7GDRVhoV+c4BRZrbTjAvPvrhnfcki5KgVHvlt99RYLJyybGJZarNu82aiOxgfAcSCpCJ2WXBMo2zgA9bwFtFDbUl7O5HwwhApmV8JlxCBa1fP0BG7ePLyoPU0ykfpEfz1rzs4Ty+HtDDMy9gh7b2rBVwLUxTxAbUDTqkio4XKYTuFvAt1Xg7iIQiCeCMhgqrItNqHwpWwoEbqLZGEENPXgs/BCrOHnYAGx1bSIEGUWWkd/R+nLsHAocEeQTnwCixDSfZ5BThpR6rCSQ/fChgYslFc8VXCg==;z/VjPNzZwSJo2gZ3Tlni6g=="
 ---
 

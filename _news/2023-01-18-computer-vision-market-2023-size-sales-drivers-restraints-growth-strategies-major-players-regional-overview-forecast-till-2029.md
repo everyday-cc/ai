@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-size-sales-drivers-restraints-growth-strategies-major-players-regional-overview-forecast-till-2029-2023-01-18"
 type: article
 quality: 70
-heat: 170
+heat: 180
 published: true
 
 provider:
@@ -81,6 +81,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Software Market Size in 2023 Industry Demand, Industry News, Business Growth, Top Key Players Update till 2029"
+    excerpt: "In 2023, Face Recognition Software Market Size 2023 to 2028 Research Report is spread across 106 Pages and provides"
+    publishedDateTime: 2023-01-18T12:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-size-in-2023-industry-demand-industry-news-business-growth-top-key-players-update-till-2029-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -182,6 +182,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "3D Facial Recognition Market Statistics 2023 : Industry Demand, Prominent Players Strategies, Size, SWOT Analysis and Forecast 2028"
+    excerpt: "Rising demand for Banking & Finance, Consumer Electronics, Government & Defense, Healthcare, Commercial Security, Residential, Others will drive the 3D Facial Recognition segment"
+    publishedDateTime: 2023-01-19T00:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-statistics-2023-industry-demand-prominent-players-strategies-size-swot-analysis-and-forecast-2028-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Data Science and Machine Learning Service Forecast for 2028, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
+    excerpt: "Data Science and Machine Learning Service Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,"
+    publishedDateTime: 2023-01-18T23:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Edge AI Chips Market with Strong Focus on Industry Size, by business Highlights, Market Segments, Growth Rate, Revenue, and Forecast to 2028"
     excerpt: "Market Updates(360marketupdates.com) published a new research report on Edge AI Chips Market 2023 with 116 Report"
     publishedDateTime: 2023-01-16T07:10:00Z

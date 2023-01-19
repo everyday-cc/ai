@@ -58,6 +58,15 @@ related:
         width: 1345
         height: 900
         isCached: true
+  - title: "We Used ChatGPT To Write An Article About... ChatGPT. This Is What Happened"
+    excerpt: "Many people are talking about ChatGPT because it is a very advanced computer programme that can understand and respond to human language in a very natural way. It can answer questions, have conversations,"
+    publishedDateTime: 2023-01-19T08:49:00Z
+    webUrl: "https://says.com/my/tech/we-used-chatgpt-to-write-an-article-about-chatgpt"
+    type: article
+    provider:
+      name: Latest on SAYS
+      domain: says.com
+    quality: 2
 
 secured: "7e3szVWPl7IE7LdBWnCXXf9GHzC/ZtDfeqVlbxjGypPCw3Sw3duId8HbLdtqTdxt2frFZD6hUxF8gju0vx9XhZKksnJ3GtF4VkeFf3e9HN0vomtafIcWA7cAs9D8kyE1bUIMz88jvhZBrdQmIzMamGxbRIMUqNGnGS60HFxp279KnkYavfXB3lbR2shxeZYtSVmyJ4/qwA9Nz+jYfEiZJnqcxmdAEae3ucthIcqo9KlwjqJ6nl6g8s+9SPQx9wmAhla32k2qQhKIGtKkB7v3U3xzC/jICW25UVT+B/z5PRhJPDsbESi18kfp96mUe53AIZ/08OzPzj37B9dodqz2MzASF5XlK3OoYH6l4arpiaAG/npD/zru6l0ZiUOyGO7wWOfoED+lvBzsHg9SJxmUf7ux6vy6WT6fKheDYg4ijavKOssMO9xfYngbGUymxG47YYal2j0hWyMLz6o+AOojJ+P9CN8d2BpIBH6gPhyIeST+H8AdnUajyIaeIp21QTu/02L3DtqxmcdhnbZyMAGoVw==;glqesGZqEDpSFIaofwN28w=="
 ---

@@ -2,6 +2,49 @@
   "page": 134,
   "value": [
     {
+      "path": "_news/2022-09-17-daily-multivitamin-may-slow-down-cognitive-decline-in-older-adults.md",
+      "title": "Daily Multivitamin May Slow Down Cognitive Decline in Older Adults",
+      "excerpt": "Daily multivitamins may slow down cognitive decline among older adults. The corresponding study was published in Alzheimer's & Dementia. The Alzheimer's Association states that there are 6.5 million Americans living with Alzheimer's disease and that 1 in 3 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.labroots.com/trending/drug-discovery-and-development/23635/daily-multivitamin-slow-cognitive-decline-adults",
+      "originalUrl": "https://www.labroots.com/trending/drug-discovery-and-development/23635/daily-multivitamin-slow-cognitive-decline-adults",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.labroots.com/content_article_profile_image_5de5b999909a9e88a3f03d5a7f5a4f882dc6e244_1436.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-17T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Labroots",
+        "domain": "labroots.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-17-would-you-be-okay-getting-a-doctor-less-surgery.md",
       "title": "Would You Be Okay Getting a Doctor-less Surgery?",
       "excerpt": "Robots could someday be fully autonomous in operating rooms. Their biggest challenge might have nothing to do with the technology.",
@@ -1132,58 +1175,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-fetterman-campaign-says-dem-nominee-is-healthy-after-two-cognitive-tests-wont-provide-documentation-report.md",
-      "title": "Fetterman campaign says Dem nominee is healthy after two cognitive tests, won't provide documentation: Report",
-      "excerpt": "The campaign for Pennsylvania Democratic Senate nominee John Fetterman has released some results from two recent cognitive tests that he recently took as questions about his ability to serve in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/fetterman-campaign-says-dem-nominee-healthy-two-cognitive-tests-provide-documentation",
-      "originalUrl": "https://www.foxnews.com/politics/fetterman-campaign-says-dem-nominee-healthy-two-cognitive-tests-provide-documentation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/09/340/340/Kyle-Morris.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fetterman-campaign-says-dem-nominee-healthy-two-cognitive-tests-provide-documentation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fetterman-campaign-says-dem-nominee-healthy-two-cognitive-tests-provide-documentation.amp",
-      "publishedDateTime": "2022-09-16T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

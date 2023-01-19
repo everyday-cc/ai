@@ -52,6 +52,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
+  - title: "How Artificial Intelligence Found the Words To Kill Cancer Cells"
+    excerpt: "A predictive model has been developed that enables researchers to encode instructions for cells to execute. Scientists at the University of California, San Francisco (UCSF) and IBM Research have created a virtual library of thousands of \"command sentences\" for cells using machine learning."
+    publishedDateTime: 2023-01-19T00:09:00Z
+    webUrl: "https://scitechdaily.com/how-artificial-intelligence-found-the-words-to-kill-cancer-cells/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 37
+    images:
+      - url: "https://scitechdaily.com/images/Cancer-Cell-Immune-Cell-Illustration.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "+WtMXbhQ6hif2MDfbS9/W+/EpkCuVdksLh3br9ToEFdJrRusdblLaGzcHpDf8aWveTzUwYYbcAi29FzFULrMX+0BnwPWIDUq5BHCnLvwhsbOtH7p/4WCuQVb4A4vuTT/wpbrO498bDVm5V9WpWJOWtB+GZlnKXbLWzRYAwZ9M4K6pVVP/vKQTJ+ETFT6zxcVad2p/mXKhllmCXbHXGokvh0qQzTcqplSutWFzbCKittIoOtaaj+lkcCQmDe+jg2fozTVI4yN4tYuNnfNKIIiA3S8ThcHGLxfihvsPfKZCdhzjN/be+cM3gFfoP7JYY3lLJDocbfWILIkGfIGRMhx5P3/U2gb0jgSCvkoAgQWmUsTKngPjSiLXNLTNStD8d91r/QbSS0f5/oskTcV0+lFPjLeWcehSInDk5zHjrVjVho/KAUBPJE1u1c/7y6oMsM2VGeMFDrDqaso9dETLYR9a2d0/gHl2QvHHGqHtf9G8Y9tmVEujHY929nVz4y3oH6wnqio3vxlaBVL0TOgjRTy1Q==;/YpAv3BKNnw/HFptzUhgYw=="
 ---

@@ -1,109 +1,47 @@
 ---
 category: news
 title: "Self-driving cars could nearly double road congestion, says Government report"
-excerpt: "Motorists could be stuck in congestion nearly twice as bad as current levels if self-driving cars become commonplace, a Government report warns. Department for Transport (DfT) traffic projections ..."
-publishedDateTime: 2023-01-15T09:08:00Z
-originalUrl: "https://www.aol.com/self-driving-cars-could-nearly-090027319.html"
-webUrl: "https://www.aol.com/self-driving-cars-could-nearly-090027319.html"
+excerpt: "But the document, published last month, claims “the ability to work or relax while travelling in a self-driving car” means occupants will be “more amenable to sitting in traffic”."
+publishedDateTime: 2023-01-15T11:26:00Z
+originalUrl: "https://www.independent.co.uk/tech/government-england-wales-department-for-transport-dft-b2262444.html"
+webUrl: "https://www.independent.co.uk/tech/government-england-wales-department-for-transport-dft-b2262444.html"
 type: article
 quality: 21
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: The Independent
+  domain: independent.co.uk
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/U5ux9vpqR44sDsOBKyRCcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/888fc871e24364dc519de9f449493743"
+  - url: "https://static.independent.co.uk/2023/01/15/09/d13718722572c3e45f244bb0d1b1f023Y29udGVudHNlYXJjaGFwaSwxNjczNzEwMjY3-2.70363808.jpg?quality=75&width=1200&auto=webp"
     width: 1200
-    height: 675
+    height: 800
     isCached: true
 
 related:
-  - title: "Driverless cars may worsen congestion by 85 percent, a report claims amid 2025 rollout"
-    excerpt: "It has been claimed in a Government report that driverless cars may worsen congestion by 85 percent. The claim by the Department of Transport comes amid thoughts of such vehicles becoming ..."
-    publishedDateTime: 2023-01-16T04:17:00Z
-    webUrl: "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont"
-    ampWebUrl: "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 66
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/1/590x/Traffic-1721675.jpg?r=1673839653328"
-        width: 590
-        height: 353
-        isCached: true
-  - title: "Self-Driving/Driverless Cars Market Size 2023 With End-user Industries, Segments Covered in the Report"
-    excerpt: "Self-Driving/Driverless Cars Market 2023 with 103 Pages Report and enhance with extents shares into sub-counties"
-    publishedDateTime: 2023-01-16T06:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-drivingdriverless-cars-market-size-2023-with-end-user-industries-segments-covered-in-the-report-2023-01-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Driverless cars could make traffic 85pc worse, government report finds"
-    excerpt: "He said: “If everyone insists on having their own driverless car then traffic volume and parking pressures will rise. “However, if we are prepared to access these vehicles on demand and forego ..."
-    publishedDateTime: 2023-01-15T19:00:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2023/01/15/driverless-cars-could-make-traffic-85pc-worse-government-report/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 39
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/news/2023/01/15/TELEMMGLPICT000322063156_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?imwidth=680"
-        width: 680
-        height: 425
-        isCached: true
-  - title: "Drivers could face double the level of congestion on the roads if self-driving cars grow in popularity, report warns"
-    excerpt: "Motorists could be stuck in congestion twice as bad as current levels if self-driving cars become common, a Government report warns. Delays may rise by up to 85 per cent from 2025 to 2060 in that ..."
-    publishedDateTime: 2023-01-16T00:03:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-11638573/Drivers-face-double-level-congestion-roads-self-driving-cars-grow-popularity.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-11638573/amp/Drivers-face-double-level-congestion-roads-self-driving-cars-grow-popularity.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11638573/amp/Drivers-face-double-level-congestion-roads-self-driving-cars-grow-popularity.html"
+  - title: "Self-driving cars could double congestion by 2060 because of traffic surge traffic, report warns"
+    excerpt: "Self-driving cars could lead to congestion almost doubling, a report found Department for Transport (DfT) analysis shows delays rising 85% by 2060 It suggests autonomous vehicles could make up ..."
+    publishedDateTime: 2023-01-15T12:10:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-11637203/amp/Self-driving-cars-double-congestion-2060-traffic-surge-traffic-report-warns.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-11637203/amp/Self-driving-cars-double-congestion-2060-traffic-surge-traffic-report-warns.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11637203/amp/Self-driving-cars-double-congestion-2060-traffic-surge-traffic-report-warns.html"
     type: article
     provider:
       name: Daily Mail
       domain: dailymail.co.uk
-    quality: 21
+    quality: 31
     images:
-      - url: "https://i.dailymail.co.uk/1s/2023/01/16/08/56796497-0-image-a-33_1673858194016.jpg"
+      - url: "https://i.dailymail.co.uk/1s/2023/01/15/11/66591075-0-image-a-10_1673780596966.jpg"
         width: 636
         height: 382
         isCached: true
-  - title: "Self-driving cars could nearly double road congestion, says report"
-    excerpt: "LONDON: Motorists could be stuck in congestion nearly twice as bad as current levels if self-driving cars become commonplace, a UK government report warns. The UK's Department for Transport (DfT) traffic projections for England and Wales show delays may rise by up to 85% from 2025 to 2060 in that scenario."
-    publishedDateTime: 2023-01-16T19:48:00Z
-    webUrl: "https://www.carsifu.my/news/self-driving-cars-could-nearly-double-road-congestion-says-report"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 4
-  - title: "Self-driving cars could cause congestion to nearly double, warns government report"
-    excerpt: "Road congestion could almost double from current levels if self-driving cars become commonplace, according to a new government report. The Department for Transport’s projections for traffic levels in England and Wales suggest that delays could soar by up to 85% between 2025 and 2060."
-    publishedDateTime: 2023-01-17T13:50:00Z
-    webUrl: "https://www.yorkshirepost.co.uk/lifestyle/cars/self-driving-cars-could-cause-congestion-to-nearly-double-warns-dft-government-autonomous-vehicle-report-3988138"
-    type: article
-    provider:
-      name: The Yorkshire Post
-      domain: yorkshirepost.co.uk
-    quality: 0
 
-secured: "YGZRIBp7lf4GrsNLmHp7rwmBLGaxbqI6FaqizzjE2QVjkcQsms6+HjVVRw8ywgtJLG7zAEXcq5nK0z8ZeQmw7Yj9qk8OvjH9bzcmS6Ic/Ch8MLRG8aAq8t2PwW8WY4pf3LtAoZV+7X8dVp6OVdDHEX8m44acZQDWRS4s6Urh5EQ6EFepKrYkxxfbgDc2bY0ye5fsao9pNBtAaDE+WaJpKFI1Qx1CVBXoTcv6R8e37fpOr+EWoUUoNBl/krBUjZACAMIEfWKVN4i1lyQxF0wLdKPiyPWpTv7PziQaMNfaIkyXiRP60aX2l2ee62HKxhd5ajbMGLe/owJ/9k2SDnphgydo03/EheVQUMYLnYaiKkA=;XGDOWDTUjmEYBxwipaM1gg=="
+secured: "+QeXr/KxHng0FG3I6SwzTA3QdHFENde1+w3Q+dNFUEmXwpJ2rTZUZU54Q4ZMgvVcnJKe7VVaTikvaFcKBEia+tR7QX1juQQ5yxq3/KStMUp8o6f7OkAPVo6OBQzbQRP7zsl5RsqQ1r0J/A16uOEAtKOw4N96jhEdoJmmvMShHtFJeasTlaYDSVfVb860OGyrskR2fdS++GtI4qJiukxEmUL5j/6e8UNIjmcmfwvBo6iQx3agTdvsT2nmgbC5wsqLfArnc7tTTPPuWVwl65qMqahulmlBI8OFPoDfTw3KO+hM6HBSy9FkWtKOuIavNAJ3+gACFaKNy6V6itv/kFNrUuLDMtWkzEd8IFr1lngQdrM=;7YvYMuvW+llSVcfCSrQyEA=="
 ---
 

@@ -52,6 +52,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
+  - title: "We Used ChatGPT To Write An Article About... ChatGPT. This Is What Happened"
+    excerpt: "Many people are talking about ChatGPT because it is a very advanced computer programme that can understand and respond to human language in a very natural way. It can answer questions, have conversations,"
+    publishedDateTime: 2023-01-19T08:49:00Z
+    webUrl: "https://says.com/my/tech/we-used-chatgpt-to-write-an-article-about-chatgpt"
+    type: article
+    provider:
+      name: Latest on SAYS
+      domain: says.com
+    quality: 2
 
 secured: "N390iH8PrHrStn0uFNZGsIliHQAoT2xurwdOO13QQBPXamRTGJvWczeQaJEIOdRG3D+nZeGRdhm7KS1fYM00PQSFpqNeJdVeBRPI/SgMluKJxuof1oT8q71DzlCY79vmYKvR+EvU6hsDTzVBDLAXc8Aq6GQVlOm2j6CnilZuKMmryUf2LJzILHuBqNzzKKXLQc3iCdT8xJnE3Kjz2c4OwBT1AsZze+tcTWHTSdB9rh0idA2aBpVhfXUoRCn+ITlTiWDWytAYV6OdSttn0hgk7OaRfrSahLJt0T8pqmMUDtYNsQkx/GB76dvo7J7RNwxYIPnh6vD10S1kCUp8LAPiQoM8v/zJQv+rPBzsz3kzUx9naAY2Ww4NUzvsUR7WvitpV292CiofTOggQEv9qRJn8cj+1UB037xbGBMPvuIAXUxVrXu/lkiOmkapM3JZSinRL2wNfOzFEXvZgu9yEhvQVJ0Ioz0FcQ43UKQ3Tg7Q+JpsHs9c5j5lIs4dg4t5CWquPU8siY/gDiNvadl2bzS6SQ==;EhY/xvIyhnxHi5PPKHMaPw=="
 ---

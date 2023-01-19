@@ -2,6 +2,49 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-11-22-how-good-are-large-language-models-at-machine-translation.md",
+      "title": "How Good Are Large Language Models at Machine Translation?",
+      "excerpt": "Are we on the cusp of yet another turning point in machine t (MT), where large language models (LLMs) with the ability to perform all kinds of downstream tasks also excel at MT, rendering current specialized MT models obsolete?",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/how-good-are-large-language-models-at-machine-translation/",
+      "originalUrl": "https://slator.com/how-good-are-large-language-models-at-machine-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2022/11/Large-Language-Model-Machine-Translation.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T03:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-aws-researchers-propose-a-method-that-predicts-bias-in-face-recognition-models-using-unlabeled-data.md",
       "title": "AWS Researchers Propose a Method That Predicts Bias in Face Recognition Models Using Unlabeled Data",
       "excerpt": "Subscribe for free. AWS researchers presented a novel method for evaluating bias in face recognition algorithms at this year's European Conference on Computer Vision (ECCV), which does not require ...",
@@ -1087,49 +1130,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-facebook-forced-to-ban-its-ai-after-it-revealed-how-to-make-napalm-and-made-racist-comments.md",
-      "title": "Facebook forced to ban its AI after it ‘revealed how to make napalm and made racist comments’",
-      "excerpt": "If you click on a link in this story we may earn affiliate revenue. FACEBOOK owner Meta has been forced to \"pause\" a public AI experiment after it started spewing misinformation and offensive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/tech/20495398/meta-withdraws-ai-galactica-controversy/",
-      "originalUrl": "https://www.thesun.co.uk/tech/20495398/meta-withdraws-ai-galactica-controversy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/08/NINTCHDBPICT000735281022.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/20495398/meta-withdraws-ai-galactica-controversy/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/20495398/meta-withdraws-ai-galactica-controversy/amp/",
-      "publishedDateTime": "2022-11-21T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

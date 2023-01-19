@@ -2,6 +2,40 @@
   "page": 139,
   "value": [
     {
+      "path": "_news/2022-09-14-more-robotaxis-are-coming-to-the-streets-of-us-cities.md",
+      "title": "More robotaxis are coming to the streets of US cities",
+      "excerpt": "Until now, this type of service was only available in San Francisco, with drivers behind the wheel during the day, but without a driver at night.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freemalaysiatoday.com/category/top-lifestyle/2022/09/14/more-robotaxis-are-coming-to-the-streets-of-us-cities/",
+      "originalUrl": "https://www.freemalaysiatoday.com/category/top-lifestyle/2022/09/14/more-robotaxis-are-coming-to-the-streets-of-us-cities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Free Malaysia Today",
+        "domain": "freemalaysiatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-microsoft-aws-feud-over-1b-federal-geospatial-intelligence-contract.md",
       "title": "Microsoft, AWS Feud Over $1B Federal Geospatial-Intelligence Contract",
       "excerpt": "Microsoft is protesting a $1 billion five-year contract the National Geospatial-Intelligence Agency gave ... Seattle-based AWS and the Springfield, Va.-based NGA for comment but had not heard ...",
@@ -1059,49 +1093,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-using-artificial-intelligence-to-improve-tuberculosis-treatments.md",
-      "title": "Using artificial intelligence to improve tuberculosis treatments",
-      "excerpt": "Imagine you have 20 new compounds that have shown some effectiveness in treating a disease like tuberculosis (TB), which affects 10 million people worldwide and kills 1.5 million each year.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html",
-      "originalUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/using-artificial-intel-9.jpg",
-          "width": 2880,
-          "height": 2225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.amp",
-      "publishedDateTime": "2022-09-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

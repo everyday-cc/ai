@@ -140,6 +140,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Systems Market Size, Status, Global outlook 2023 To 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. This research"
+    publishedDateTime: 2023-01-19T00:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-systems-market-size-status-global-outlook-2023-to-2028-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Chip Market Share with CAGR Value 2023 Global Trends, Analysis, Top Key Players, Competitive Landscape, Size and Forecast to 2029"
     excerpt: "Final Report Will Add the Analysis of the Impact of the Russia-Ukraine War and COVID-19 on This Industry. Global"
     publishedDateTime: 2023-01-17T07:47:00Z
@@ -158,6 +172,20 @@ related:
     excerpt: "Jan (The Expresswire) -- \"Artificial Intelligence (AI) in Food and Beverages Market\" Research Insights Report 2023 | Latest Report Spread"
     publishedDateTime: 2023-01-17T14:34:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-beverages-market-2023-size-share-trend-revenue-key-players-with-latest-research-report-till-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Construction Forecast for 2028, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
+    excerpt: "Artificial Intelligence (AI) in Construction Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,"
+    publishedDateTime: 2023-01-19T00:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand-2023-01-18"
     type: article
     provider:
       name: MarketWatch
