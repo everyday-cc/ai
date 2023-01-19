@@ -2,6 +2,240 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2022-10-20-texas-sues-google-for-collecting-biometric-data-without-consent.md",
+      "title": "Texas Sues Google for Collecting Biometric Data Without Consent",
+      "excerpt": "By Kashmir Hill and David McCabe The Texas attorney general filed a privacy lawsuit against Google on Thursday, accusing the internet company of collecting Texans’ facial and voice recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/10/20/technology/texas-google-privacy-lawsuit.html",
+      "originalUrl": "https://www.nytimes.com/2022/10/20/technology/texas-google-privacy-lawsuit.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/20/business/20google-texas-1/merlin_214779276_828ad650-e825-45b8-83f1-225e4f17a5f0-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/10/20/technology/texas-google-privacy-lawsuit.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/20/technology/texas-google-privacy-lawsuit.amp.html",
+      "publishedDateTime": "2022-10-20T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-metas-new-ai-powered-translator-can-interpret-a-spoken-only-language-in-real-time.md",
+      "title": "Meta's New AI-Powered Translator Can Interpret A Spoken-Only Language In Real Time",
+      "excerpt": "Meta Platforms Inc. META has built the first AI speech-to-speech translation system, focusing on unwritten languages. What Happened: On Wednesday, Meta announced the first AI-powered speech-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/22/10/29336004/metas-new-ai-powered-translator-can-interpret-a-spoken-only-language-in-real-time",
+      "originalUrl": "https://www.benzinga.com/news/22/10/29336004/metas-new-ai-powered-translator-can-interpret-a-spoken-only-language-in-real-time",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2022/10/20/shutterstock_2113535186.jpg?width=1200&height=800&fit=crop",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29336004",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29336004",
+      "publishedDateTime": "2022-10-20T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-texas-ag-sues-google-for-over-facial-and-voice-data-collection.md",
+      "title": "Texas AG sues Google for over facial and voice data collection",
+      "excerpt": "The complaint underscores the role of individual states in protecting users' information on the internet in the absence of a federal privacy law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
+      "originalUrl": "https://www.cnbc.com/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107051880-16510024222022-04-26t170649z_1339263067_rc24vt9ijs8a_rtrmadp_0_usa-court-immigration.jpeg?v=1666280902",
+          "width": 3500,
+          "height": 2334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
+      "publishedDateTime": "2022-10-20T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-waymo-one-brings-self-driving-ride-service-to-los-angeles.md",
+      "title": "Waymo One Brings Self-Driving Ride Service to Los Angeles",
+      "excerpt": "Waymo One is a commercial ride-hailing service like no other. Its driverless vehicles have been shuffling passengers around the Phoenix and San Francisco areas, and soon it'll expand to one of the largest metropolitan areas in the US.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/waymo-one-self-driving-ride-hailing-los-angeles/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/waymo-one-self-driving-ride-hailing-los-angeles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/3017a8e81aefb1d88583a0952d389f56c3f3beec/hub/2022/10/20/5dd1c780-0c5e-4b64-aa75-a7db9f282339/waymo-one-ogi.jpg?auto=webp",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-one-self-driving-ride-hailing-los-angeles/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-one-self-driving-ride-hailing-los-angeles/",
+      "publishedDateTime": "2022-10-20T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-silver-alert-issued-for-valley-man-with-cognitive-difficulties.md",
+      "title": "Silver Alert issued for Valley man with cognitive difficulties",
+      "excerpt": "PHOENIX – A Silver Alert was issued Thursday morning for a missing Valley man who has cognitive problems, authorities said. Emidio Espericueta Gurrola, 77, was last seen near 11th Street and ...",
+      "sourceUrl": null,
+      "webUrl": "https://ktar.com/story/5300333/silver-alert-issued-for-valley-man-with-cognitive-difficulties/",
+      "originalUrl": "https://ktar.com/story/5300333/silver-alert-issued-for-valley-man-with-cognitive-difficulties/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTAR News",
+        "domain": "ktar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-how-ai-can-improve-pharmaceutical-commercial-operations.md",
       "title": "How AI Can Improve Pharmaceutical Commercial Operations",
       "excerpt": "While AI can uncover precious insights, for companies that have not worked with AI previously, this can mean a complete reorganization of their data foundation.",
@@ -947,249 +1181,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-aftermath-islands-metaverse-replaces-usernames-and-passwords-with-blockchain-based-face-recognition.md",
-      "title": "Aftermath Islands Metaverse replaces usernames and passwords with blockchain-based face recognition",
-      "excerpt": "Aftermath Islands Metaverse launched its Liquid Avatar app to replace usernames and passwords with proof of humanity. That means that you will be able to sign into its metaverse apps by using verified face recognition on your smartphone instead of using a normal login.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/aftermath-islands-metaverse-replaces-usernames-and-passwords-with-blockchain-based-face-recognition/",
-      "originalUrl": "https://venturebeat.com/games/aftermath-islands-metaverse-replaces-usernames-and-passwords-with-blockchain-based-face-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Aftermath-Islands-Image-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-self-driving-bus-market-likely-to-enjoy-promising-growth-by-2028.md",
-      "title": "Self driving Bus Market Likely to Enjoy Promising Growth by 2028",
-      "excerpt": "India, Maharashtra, Pune The Latest research study released by HTF MI \"Self-driving Bus Market\" with 100+ pages of",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-bus-market-likely-to-enjoy-promising-growth-by-2028-2022-10-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-bus-market-likely-to-enjoy-promising-growth-by-2028-2022-10-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-5g-will-advance-payments-and-mobile-commerce.md",
-      "title": "5G will advance payments and mobile commerce",
-      "excerpt": "G technology could bring about positive changes to the retail industry, as retailers seek to maintain their digital transformation efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/10-19-2022-5g-will-advance-payments-and-mobile-commerce",
-      "originalUrl": "https://www.businessinsider.com/10-19-2022-5g-will-advance-payments-and-mobile-commerce",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f45112889aff80028ab7b48?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/10-19-2022-5g-will-advance-payments-and-mobile-commerce?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-19-2022-5g-will-advance-payments-and-mobile-commerce?amp",
-      "publishedDateTime": "2022-10-19T15:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-study-finds-that-artificial-intelligence-can-determine-race-from-medical-images.md",
-      "title": "Study finds that artificial intelligence can determine race from medical images",
-      "excerpt": "Artificial intelligence (AI) is used in a wide variety of health care settings, from analyzing medical images to assisting with surgical procedures. While AI can sometimes outperform trained clinicians,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/study-finds-that-artif.jpg",
-          "width": 2880,
-          "height": 1338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp",
-      "publishedDateTime": "2022-10-19T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-nvidia-geforce-rtx-3090-vs-3080-vs-3070-vs-3060-which-gpu-should-you-buy.md",
-      "title": "Nvidia GeForce RTX 3090 vs 3080 vs 3070 vs 3060: Which GPU should you buy?",
-      "excerpt": "they all make use of Nvidia DLSS (sort of an AI upscaler for games). Nvidia FreeStyle, ShadowPlay, Highlights, G-Sync and GPU boost work on all of the 30-series cards. They’re all VR-ready ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/news/nvidia-geforce-rtx-comparison",
-      "originalUrl": "https://www.tomsguide.com/news/nvidia-geforce-rtx-comparison",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/AnqrCABaVYriMJBAtyYQrU-1200-80.jpg",
-          "width": 951,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

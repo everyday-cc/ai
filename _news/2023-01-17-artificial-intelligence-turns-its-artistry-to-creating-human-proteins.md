@@ -8,8 +8,8 @@ webUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-intel
 ampWebUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/?amp=1"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Autos
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 related:
   - title: "Artificial intelligence intelligence turns its artistry to creating human proteins"

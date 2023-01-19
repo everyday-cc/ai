@@ -8,8 +8,8 @@ webUrl: "https://www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-o
 ampWebUrl: "https://www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594/amp"
 cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594/amp"
 type: article
-quality: 74
-heat: 84
+quality: 76
+heat: 86
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/01/17/148178.jpg"

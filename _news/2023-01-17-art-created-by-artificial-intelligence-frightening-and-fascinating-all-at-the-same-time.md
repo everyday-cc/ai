@@ -8,7 +8,7 @@ webUrl: "https://www.cbsnews.com/sacramento/news/ai-art-created-artificial-intel
 ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/ai-art-created-artificial-intelligence/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/ai-art-created-artificial-intelligence/"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/09/03/525b158e-fb41-4e15-ba97-4fc9ac7abd1e/thumbnail/1200x630/1412f2908fad4d49e84ed45e36004757/ai-art-state-fair-63vo-transfer-frame-659.jpg"

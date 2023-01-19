@@ -2,6 +2,135 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-09-aurora-sees-driverless-trucks-on-the-road-in-2024.md",
+      "title": "Aurora Sees Driverless Trucks On the Road in 2024",
+      "excerpt": "Every day, self-driving trucks carrying FedEx packages make repeated runs between Dallas and Houston, and between Fort Worth and El Paso. At least for now, those trucks rumbling through Texas have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/aurora-self-driving-cars-trucks-ces-51672953849",
+      "originalUrl": "https://www.barrons.com/articles/aurora-self-driving-cars-trucks-ces-51672953849",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-697502/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/aurora-self-driving-cars-trucks-ces-51672953849",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/aurora-self-driving-cars-trucks-ces-51672953849",
+      "publishedDateTime": "2023-01-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-08-a-path-emerges-for-driverless-vehicles-with-experiments-in-south-korea-hope-in-singapore.md",
+      "title": "A path emerges for driverless vehicles — with experiments in South Korea, hope in Singapore",
+      "excerpt": "A driverless road sweeper. His road sweeper, which uses artificial intelligence to gauge how dirty the road is and to differentiate between different types of debris, is now ready for deployment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/cna-insider/autonomous-vehicles-driverless-trials-safety-south-korea-singapore-3187291",
+      "originalUrl": "https://www.channelnewsasia.com/cna-insider/autonomous-vehicles-driverless-trials-safety-south-korea-singapore-3187291",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--XNUWLesZ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/01/07/picture1.jpg?itok=xTTW0WbU",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-07T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-07-secure-voting-app-driverless-tractors-lead-top-innovations-unveiled-at-ces.md",
+      "title": "Secure voting app, driverless tractors lead top innovations unveiled at CES",
+      "excerpt": "Honorees and “best of innovation” winners submit their products or services to be judged, and the awards are broken down into 28 product categories such as artificial intelligence, fitness and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reviewjournal.com/business/conventions/ces/secure-voting-app-driverless-tractors-lead-top-innovations-unveiled-at-ces-2707199/",
+      "originalUrl": "https://www.reviewjournal.com/business/conventions/ces/secure-voting-app-driverless-tractors-lead-top-innovations-unveiled-at-ces-2707199/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reviewjournal.com/wp-content/uploads/2023/01/17325179_web1_web1-IMG-1035.jpg?w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.reviewjournal.com/business/conventions/ces/secure-voting-app-driverless-tractors-lead-top-innovations-unveiled-at-ces-2707199/amp/",
+      "cdnAmpWebUrl": "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/conventions/ces/secure-voting-app-driverless-tractors-lead-top-innovations-unveiled-at-ces-2707199/amp/",
+      "publishedDateTime": "2023-01-06T18:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Las Vegas Review-Journal",
+        "domain": "reviewjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-07-artificial-intelligence-you-advances-are-breathtaking-a-need-to-know-guide-to-today-future.md",
       "title": "Artificial Intelligence & you: Advances are breathtaking – a need-to-know guide to today, future",
       "excerpt": "Twenty years from now, humanity will look back at 2022 as a seminal year for AI, a year when a tectonic shift began in AI capabilities. And it is quite likely that the pace of change will only accelerate from here.",
@@ -1166,135 +1295,6 @@
       "provider": {
         "name": "EconoTimes",
         "domain": "econotimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-01-top-10-ai-articles-from-2022-to-pump-up-your-ai-leadership-skills-in-2023.md",
-      "title": "Top 10 AI Articles From 2022 To Pump Up Your AI Leadership Skills In 2023",
-      "excerpt": "This article is a series of Dr. Cindy Gordon's top ten articles written on AI designed to advance AI knowledge for board directors, C-level executives - always with an ethical AI foundation for advancing #ResponsibleAI and #TrustedAI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/12/31/top-10-ai-articles-from-2022-to-pump-up-your-ai-leadership-skills-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/12/31/top-10-ai-articles-from-2022-to-pump-up-your-ai-leadership-skills-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-31T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-31-baidu-ponyai-start-driverless-robotaxi-tests-in-beijing.md",
-      "title": "Baidu, Pony.ai start driverless robotaxi tests in Beijing",
-      "excerpt": "Baidu Inc and Toyota Motor Corp-backed startup Pony. ai said on Friday (Dec 30) they been granted the first licences to test fully autonomous vehicles without safety operators as a backup in Beijing.Baidu and Pony.",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/china/baidu-ponyai-start-driverless-robotaxi-tests-beijing",
-      "originalUrl": "https://www.asiaone.com/china/baidu-ponyai-start-driverless-robotaxi-tests-beijing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Dec2022/311222_baidu_reuters.jpg?itok=JlijPujX",
-          "width": 800,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-30T18:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-31-baidu-gets-license-for-driverless-robotaxi-tests-in-china.md",
-      "title": "Baidu gets license for driverless robotaxi tests in China",
-      "excerpt": "Baidu would begin testing 10 fully autonomous vehicles in a technology park developed by the government of Beijing as a step toward offering a commercial robotaxi service in China’s capital.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/news/baidu-gets-license-for-driverless-robotaxi-tests-in-china-41672378062359.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/news/baidu-gets-license-for-driverless-robotaxi-tests-in-china-41672378062359.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2022/12/30/1600x900/BAIDU-autonomous_vehicle_robotaxi_1672378130428_1672378130547_1672378130547.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/baidu-gets-license-for-driverless-robotaxi-tests-in-china/amp-41672378062359.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/baidu-gets-license-for-driverless-robotaxi-tests-in-china/amp-41672378062359.html",
-      "publishedDateTime": "2022-12-30T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Auto News India",
-        "domain": "hindustantimes.com",
         "images": null,
         "publishers": null,
         "authors": null

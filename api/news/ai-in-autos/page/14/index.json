@@ -2,6 +2,136 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-10-17-driverless-in-phoenix-and-gm-takes-its-ev-offensive-beyond-vehicles.md",
+      "title": "Driverless in Phoenix and GM takes its EV offensive beyond vehicles",
+      "excerpt": "It’s been a minute since I took a driverless ride in a Waymo. And the last time it was a Chrysler Pacifica. This time, I took a spin in downtown Phoenix in a driverless Jaguar I-Pace (sans human ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/17/driverless-in-phoenix-and-gm-takes-its-ev-offensive-beyond-vehicles/",
+      "originalUrl": "https://techcrunch.com/2022/10/17/driverless-in-phoenix-and-gm-takes-its-ev-offensive-beyond-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-the-google-self-driving-car-all-you-need-to-know-about-waymo.md",
+      "title": "The Google Self-Driving Car: All you need to know about Waymo",
+      "excerpt": "But happy or not, self-driving cars are real ... and machine-learning-based artificial intelligence, both of which have proved to be a step-change in mapping environments. Computer scientists ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.carmagazine.co.uk/autonomous/waymo-one-google-s-self-driving-car/",
+      "originalUrl": "https://www.carmagazine.co.uk/autonomous/waymo-one-google-s-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T00:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CAR Magazine",
+        "domain": "carmagazine.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-16-ai-ethics-and-ai-law-clarifying-what-in-fact-is-trustworthy-ai.md",
+      "title": "AI Ethics And AI Law Clarifying What In Fact Is Trustworthy AI",
+      "excerpt": "There is a lot of talk about trustworthy AI, which needs clarification and also more so additional walk-the-talk attainment by AI builders and fielders, including the case of autonomous self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/16/ai-ethics-and-ai-law-clarifying-what-in-fact-is-trustworthy-ai/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/16/ai-ethics-and-ai-law-clarifying-what-in-fact-is-trustworthy-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/626ddc92dca052a0c9ab771e/0x0.jpg?format=jpg&crop=4134,3039,x366,y0,safe&width=1200",
+          "width": 1200,
+          "height": 882,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/16/ai-ethics-and-ai-law-clarifying-what-in-fact-is-trustworthy-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/10/16/ai-ethics-and-ai-law-clarifying-what-in-fact-is-trustworthy-ai/amp/",
+      "publishedDateTime": "2022-10-16T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-10-15-pace-of-artificial-intelligence-investments-slows-but-ai-is-still-hotter-than-ever.md",
       "title": "Pace Of Artificial Intelligence Investments Slows, But AI Is Still Hotter Than Ever",
       "excerpt": "Private companies using AI are expected to raise 36% less money in 2022 versus the previous year, but are still on track to exceed the 2020 level.",
@@ -1258,153 +1388,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice.md",
-      "title": "Artificial intelligence could soon diagnose illness based on the sound of your voice",
-      "excerpt": "Voices offer lots of information. Turns out, they can even help diagnose an illness — and researchers are working on an app for that. The National Institutes of Health is funding a massive research project to collect voice data and develop an AI that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice",
-      "originalUrl": "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/456da3a/2147483647/strip/true/crop/3556x2190+0+238/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F10%2F06%2F20211112-usfh-yael-bensoussan-ent-029-9c323b673818099ec763e1348ec00dde48b95595.jpg",
-          "width": 880,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true",
-      "cdnAmpWebUrl": "https://www-wamc-org.cdn.ampproject.org/c/s/www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true",
-      "publishedDateTime": "2022-10-10T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAMC",
-        "domain": "wamc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-asia-pacific-self-driving-car-market-2022-key-applications-new-technology-and-forecast-till-2030.md",
-      "title": "Asia-Pacific Self-driving Car Market 2022 Key Applications, New Technology and Forecast till 2030",
-      "excerpt": "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Asia-Pacific Self-driving Car Market are also discussed in detail in the research,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/asia-pacific-self-driving-car-market-2022-key-applications-new-technology-and-forecast-till-2030-2022-10-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/asia-pacific-self-driving-car-market-2022-key-applications-new-technology-and-forecast-till-2030-2022-10-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-self-driving-car-market-2022-research-report-analysis-from-perspective-of-segmentation-and-industry-growth-2030.md",
-      "title": "Self-driving Car Market 2022 Research Report Analysis from Perspective of Segmentation and Industry Growth 2030",
-      "excerpt": "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Self-driving Car Market are also discussed in detail in the research,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2022-research-report-analysis-from-perspective-of-segmentation-and-industry-growth-2030-2022-10-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2022-research-report-analysis-from-perspective-of-segmentation-and-industry-growth-2030-2022-10-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

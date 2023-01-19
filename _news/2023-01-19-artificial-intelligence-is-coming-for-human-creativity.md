@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Artificial Intelligence Is Coming for Human Creativity"
-excerpt: "The history of psychology is full of claims about unique human cognitive abilities. Many of these claims fell away in the light of research findings on the cognitive capacities of other species. Self-awareness was one such capacity."
+excerpt: "Animal behaviorists have already disputed the uniqueness of human cognitive ability. Another blow to our hubris is now posed by the digital revolution, which not only exposes our cerebral limitations but also threatens human creativity."
 publishedDateTime: 2023-01-18T16:51:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
-webUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
@@ -17,9 +17,8 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI
-  - AI in Autos
   - AI in Healthcare
+  - AI
 
 related:
   - title: "Commentary: Artificial intelligence can’t reproduce the wonders of original human creativity"
@@ -53,6 +52,6 @@ related:
         height: 676
         isCached: true
 
-secured: "rI7mV4ezD3EMHhjMHSu/4PvLPg7n3Xqd8TYEGoqfxnwaS3i7Z2HOTGatvmXRJQksb62C0WMUZpiI+RjTuU3OFCT0GIzVwI41pjL3swvdFzTA9vwEvv4zspzILfgTF0gyeBJDldNeJGAXWPvRbKVh+MvnI8AVSSKb4yTQ0cvwNoIw3sy9PddyxPja9U97aUvngFBYey/NDWIcOkxHJBw7aKDAySg/KicT2iNogFBoyZAXgWQQF8JSg+arz5xuTYPLB1HcYRRlE452hkB2N6siOTkTE/4vnuX1wyYpsgnwoZRmElk//5OCPBlTEOYTC3RF5uq6jFdsG6CduVLE+nzFKTE7lMXkSp8wvZj+StklljFJI3TEusrGB8Z1WFs+ZspIMrYsOXfCdRAqD2+7yTUxZq778RPB6X0wzEeqCL8dDBhdxpwpJWKHIVXjZ6MZ6WL2B5WeAX6UXaONHN4rGC2U4fIkpCZzXDVzpnxrmn2Z5YYtXoiVDRQjbLRH/xy7wuxRGayGjV2SV3NCY32+REw0Xw==;fprsnozCAWrwfNpKW/0QOg=="
+secured: "3jXWQrYdmTYc79+YbfvMzGj5/f7eXYZaG5FA2hb/CYf6Dx2RQb+DNmNdzQ0rINpUS5egxQvj8qqHpTy+shUIkD4jcsqqusd11Efxhsl7snqJ8IJ/IVgsWu8G4XVfHRumFS+uM7sRJN0pTnubz40OZQOzIxS7OpmWGEohaoC+nW1ahNb+iP5XLKoB+iZ7cccX35fsmoX+Zqfd/g7bmmxafO+y97qNaGiSXJCFziRwtjCwzbqNVrHhG9gXQnaCOs4wdgOfRBeWFtLVbkUPkjoETMkHyofLHf5Pmcw4Xfxn43UwWTVhlzKuJMbcGMHZKVD54DzwHF6G3o8ipU2DRFizpSlujVoUJzTZsnxh30DIakPQUUS101is15sNpAdnkAvYMPjZcyzxgP6dpn5GLMqRfunkIHIHFqviYdmEyl9/PexlWOG6wotHVGsWNZ/Um7k4eYp+50b3vvNcM+Qn332XOHfFADlSqHLoCchwNw/x45O+y+HH/JuTwy1sL5gdwmQwcz1sacChjPaXJ8RXW0FQwg==;M0/zXJYNVc8f6kAcxkY/Zw=="
 ---
 

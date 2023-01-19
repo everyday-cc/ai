@@ -2,6 +2,144 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-12-07-as-ai-rises-lawmakers-try-to-catch-up.md",
+      "title": "As AI rises, lawmakers try to catch up",
+      "excerpt": "artificial intelligence has burrowed its way into every arena of modern life. Its promoters reckon it is revolutionising human experience, but critics stress that the technology risks putting machines in charge of life-changing decisions. Regulators in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/business/as-ai-rises-lawmakers-try-to-catch-up/article",
+      "originalUrl": "https://www.digitaljournal.com/business/as-ai-rises-lawmakers-try-to-catch-up/article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/CES-Las-Vegas-AFP-1K-01.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T07:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-uber-motional-launch-robotaxi-service-in-las-vegas.md",
+      "title": "Uber, Motional launch robotaxi service in Las Vegas",
+      "excerpt": "REUTERS/Brendan McDermid/File Photo/File Photo Dec 7 (Reuters) - U.S. ride-hailing firm Uber Technologies Inc (UBER.N) and driverless tech-maker Motional said on Wednesday they launched their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/uber-motional-launch-robotaxi-service-las-vegas-2022-12-07/",
+      "originalUrl": "https://www.reuters.com/technology/uber-motional-launch-robotaxi-service-las-vegas-2022-12-07/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/5bI5V7Eei04IGlVxWpEN4-S1GiY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YQL5R2D73RO7HIBIGE5G5SIUGU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T04:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-uber-launches-driverless-rides-with-av-company-motional.md",
+      "title": "Uber launches driverless rides with AV company Motional",
+      "excerpt": "Uber's rival is also partnered with Motional and launched driverless rides in Las Vegas at CES in 2018. They also plan to become fully driverless in 2023. Needless to say, the race is on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/uber-launches-driverless-rides-av-110000428.html",
+      "originalUrl": "https://www.aol.com/news/uber-launches-driverless-rides-av-110000428.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_mashable_370/16eb380bff4dcecc9f6f03365ad6f717",
+          "width": 1026,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T03:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-its-official-adobe-stock-sells-images-generated-by-artificial-intelligence.md",
       "title": "It's Official! Adobe Stock Sells Images Generated By Artificial Intelligence",
       "excerpt": "SEE ALSO: Sony Is Technologically Ready To Make Humanoid Robots Once The Usage Becomes Clear According to reports, producers of fine art have been cautioned by the policy not to abuse artificial intelligence and flood the galleries with comparable images.",
@@ -1253,153 +1391,6 @@
       "provider": {
         "name": "The Business Journals",
         "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-honda-to-develop-advanced-level-3-self-driving-technology-by-2029.md",
-      "title": "Honda to develop advanced level 3 self-driving technology by 2029",
-      "excerpt": "TOKYO, Dec 1 (Reuters) - Honda (7267.T) said it would develop technology enabling its level 3 self-driving capability to function at any speed below legal limits on highways by the second half of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/honda-develop-advanced-level-3-self-driving-technology-by-2029-2022-11-30/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/honda-develop-advanced-level-3-self-driving-technology-by-2029-2022-11-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/QrJXIFEIbZhsR71wwDc8QVbn9Wk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XQGVWFZPRBOVFNJTGYYIWL7DH4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T19:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-driverless-parking-service-begins-commercial-operation-at-stuttgart-airport.md",
-      "title": "Driverless parking service begins commercial operation at Stuttgart Airport",
-      "excerpt": "The development partners say that the commercial approval from Germany's Federal Motor Transport Authority to operate its driverless parking system at the APCOA P6 parking garage at Stuttgart ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/mercedes-bosch-commercial-automated-valet-parking-stuttgart/",
-      "originalUrl": "https://newatlas.com/automotive/mercedes-bosch-commercial-automated-valet-parking-stuttgart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/1d9a14e/2147483647/strip/true/crop/4961x2605+0+93/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fca%2F57%2F77bc3e2b45cbb56a8cb81ce6b578%2F22c0242-007.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T10:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-baidu-to-supply-l2-driver-assisting-anp-30-mid-2023.md",
-      "title": "Baidu to supply L2+ driver-assisting ANP 3.0 mid-2023",
-      "excerpt": "Baidu unveiled its latest progress on unifying L4 and L2+ autonomous driving technology on Apollo Day held on November 29 and announced that it will deliver L2+ driver-assisting product \"ANP 3.0 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20221130VL211/adas-baidu.html",
-      "originalUrl": "https://www.digitimes.com/news/a20221130VL211/adas-baidu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20221130vl211_files/2_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
         "images": null,
         "publishers": null,
         "authors": null

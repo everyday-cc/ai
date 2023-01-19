@@ -61,6 +61,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "KFintech Drives Digital Transformation and Innovation in the Financial Services Industry with AWS"
+    excerpt: "KFin Technologies Limited (KFintech), a leading technology-driven financial services firm, today announced it is using Amazon Web Services (AWS), to help the asset management industry digitally transform and build new products,"
+    publishedDateTime: 2023-01-17T00:00:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/17/9744752.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "FJ1wLkEm4L92uxLEfSRbg2ZEBQxpNcJk+F9bl64aGIMN9i2V2pyGTiMS1qcNh4+W5GPSeCdP5ONaHb1koGmxUc2FxQyq2FbDqsKiiiaAUk77YpvTkNwmzh4iRUSlpj/spvke55Wnc++4jZ3x8jho2M4QsfjVIydaB1qNJiu/lXRW8+Ue0hLY1I2UYf/JhV1bXvsC5Fon701XUvHwJ3bAJpOiso1+VA6TETCcIl3Oe7eYeL5HZB46HWZnKQo/CgPTwHbAOhvY1j44s5T56maoqPYIV9jXDP1Wst0DN2ZyP1kjTXZemlTBz4h+PJha6+SbmPkPtgPATnLiEioKZ6p1gncRGkEb4m+2WbmZKX1T/oJ42/OnnQnDqlaD2X1zsksTFWwj/CqcNFbArAH1NLulxGokontQ0Tap4CLOISup5UWuj1BOT/vv2qTyMPqAyuVJGHQYVFZoSbjGpTNHqWPBk6pQ2DpfkuZz23XShB+ql+nDj/wVrtm8dJuCaFHN0mu6K0Q3MCDt8oqBOTERBSViuw==;zoz3umbbOmw+Ob4FCDEejw=="
 ---

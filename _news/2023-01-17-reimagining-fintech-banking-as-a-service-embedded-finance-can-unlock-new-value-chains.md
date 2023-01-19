@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/industry/banking-finance/reimaginin
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/lite/"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "KFintech Drives Digital Transformation and Innovation in the Financial Services Industry with AWS"
+    excerpt: "KFin Technologies Limited (KFintech), a leading technology-driven financial services firm, today announced it is using Amazon Web Services (AWS), to help the asset management industry digitally transform and build new products,"
+    publishedDateTime: 2023-01-17T00:00:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/17/9744752.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "tZyBRX5FaYEAuPm13Xkfj7SeukZDpcFl/dAcasDEKB1E0WUqdNGT1uvMYrjQFhOF/xdL42T1XRRbEhJqITG0YlGMulTXZjqktGC2W9Eqs+l/tqUe8Gott36TtBBMDRkBueqmCV5UkAs76GRu0VMV96jA7RdM9enHa74kxdnCna730L749DVFir1U7kHSJsGyeXYnc8o7Wb13M6LYKq52r4sS5bwFiO4eVKpkk6/XW23dJgl+quc6AXwOis1DjIoBXYggJDo8wNHbzng4mSYRDRuP1dJKI7NETzmXEKY6w7yVGVmkieDNRiyYsNYrDDBHN+2YesuzBtCtKhJyDT2kXcwljHZ/GyZpqo7eqlAkEeESQBZGtoEVRcqQXOHTxm4zKSTKK8KqBy7gIV+6qVRAA/PLwQT5UZIo0sojXAelzK6zH95AxBcbI1+W1wxjvTAtHLHd0ISodf68XwPv6Nw0F3EzsQBtES9CATx2uJXqlfE7TIlhJHlImu6jhNHA8MlgHGbm7KtoA8OOBr/d407FEA==;OrDsl8HIOVCvXIBnPxE+xg=="
 ---

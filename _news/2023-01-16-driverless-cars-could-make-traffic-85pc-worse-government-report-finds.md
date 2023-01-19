@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving cars could nearly double road congestion, says Government report"
+    excerpt: "Motorists could be stuck in congestion nearly twice as bad as current levels if self-driving cars become commonplace, a Government report warns. Department for Transport (DfT) traffic projections ..."
+    publishedDateTime: 2023-01-15T09:08:00Z
+    webUrl: "https://www.aol.com/self-driving-cars-could-nearly-090027319.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 21
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/U5ux9vpqR44sDsOBKyRCcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/888fc871e24364dc519de9f449493743"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Drivers could face double the level of congestion on the roads if self-driving cars grow in popularity, report warns"
     excerpt: "Motorists could be stuck in congestion twice as bad as current levels if self-driving cars become common, a Government report warns. Delays may rise by up to 85 per cent from 2025 to 2060 in that ..."
     publishedDateTime: 2023-01-16T00:03:00Z

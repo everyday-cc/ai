@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Microsoft announces general availability of Azure OpenAI Service"
-excerpt: "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation"
-publishedDateTime: 2023-01-17T11:37:00Z
-originalUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
-webUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
+title: "Microsoft Announces general availability of Azure OpenAI Service"
+excerpt: "Microsoft makes Azure OpenAI Service generally available, which makes the world's most advanced AI, including GPT-3.5, Codex, and DALL•E 2"
+publishedDateTime: 2023-01-17T15:34:00Z
+originalUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
+webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
+ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
+cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Information Age
-  domain: information-age.com
+  name: enterprisetalk
+  domain: enterprisetalk.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
-    width: 788
-    height: 443
+  - url: "https://enterprisetalk.com/wp-content/uploads/2023/01/Microsoft-Announces-general-availability-of-Azure-OpenAI-Service.jpg"
+    width: 1500
+    height: 844
     isCached: true
 
 related:
@@ -35,7 +37,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/01/VB_Microsoft_azure_openai_service_logos_011823.jpg?w=1200&strip=all"
         width: 1200
@@ -663,6 +665,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "kA4ZHfDDTdheU9igQvOsgdvTVVJ6hn2pjABjW2sc2cGVfpL42dZqNiWOKUjwvpaovPWU4TlhPzJdW9CrsewgRYwPR+YXquGktRkG1dKP9JaNCAd19sE0+3AfqdxmymeimRunHMqG18/6sjplm/Hek4UWgoO9TchBUnebQdaCJFdj2i0qBijxP1TcLr/5jIWAOloCBolUWE8ZcgW2M4aWXKY2FU4vOj0DXkXaQ6VLNFuffzbX+Lky8tUBELCj/LzT6NGZPrDaSwlYVjbqft4hZluKXprw42GwUcPo5wc+ygyLKSv3tgg5S6paoo1xoZhDyeXfalVk8+kVdbTF+N8qEfDQs9jeJgIQuKYGfnqtj10=;2ywKX5ZhvOE7b4y8QHsl5Q=="
+secured: "d/ojeyvN5QncHSheOdL6tP+wYNGv0pBXnyyZTmIVdpXSo1eppjP4WIDu6HdBTo7YgBt+WfWGhtD+FPla8mJENJVx2aFuyanTZI5Nn4lx40qVAPjoBXTzsdS6ebKvGAqGWh/vFymyJEECDDqkokONA7rFcaNYG2rZ8TrGejgIsKI3FLXy/agk0Wx36TnBR5s1S3PWqPZODXD1o4YYM/bEWWutDLiIwnfjFLoTBI1Mm2Oz4PsAwLqqJjHwhQdsTlqIHJtspL17zpp9fxJAQIWCqSwk/epGxb7wIH9Aql4ushuPLto+Xm/RxcHbUB7VrLhsY7eKsCVEE4rmI0/zo6KDRmeJfsH083dawSUl0rl6SD4=;d2op1PYEujdK5FEJ+Zt+vg=="
 ---
 

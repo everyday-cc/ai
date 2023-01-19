@@ -2,6 +2,258 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2022-10-28-ibm-salaries-revealed-engineers-can-earn-nearly-200k-see-how-much-analysts-managers-and-others-at-the-tech-giant-make.md",
+      "title": "IBM salaries revealed: Engineers can earn nearly $200K. See how much analysts, managers, and others at the tech giant make.",
+      "excerpt": "and artificial intelligence through its IBM Watson product suite. The company sells prolifically to the private sector, with specialized products for banking and finance, the oil and gas industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/see-how-much-ibm-pays-engineers-analysts-and-others-2022-10",
+      "originalUrl": "https://www.businessinsider.com/see-how-much-ibm-pays-engineers-analysts-and-others-2022-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/635ac354ea35650019e07f42?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers.md",
+      "title": "Logistics Operators Find Robots Are Helping Recruit Tech-Savvy Workers",
+      "excerpt": "Some companies say that investing in automation is helping them bring in a new generation of tech-savvy workers interested in working on the latest developments in artificial intelligence, robotics and other technologies aimed at driving efficiency in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
+      "originalUrl": "https://www.wsj.com/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-653155/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
+      "publishedDateTime": "2022-10-27T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-its-time-to-admit-self-driving-cars-arent-going-to-happen.md",
+      "title": "It’s time to admit self-driving cars aren’t going to happen",
+      "excerpt": "With the shutdown of Argo AI, Ford walking away from full autonomy and Tesla under criminal investigation, full self-driving looks impossible.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/",
+      "originalUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/self-driving-stop.jpg?resize=1200,864",
+          "width": 1200,
+          "height": 864,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/",
+      "publishedDateTime": "2022-10-27T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence.md",
+      "title": "English-learning startup ELSA launches Speech Analyzer to help people gain conversational confidence",
+      "excerpt": "ELSA is based on mid-Western American English as the standard most often used in business, education and everyday settings. Speech Analyzer is free.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/",
+      "originalUrl": "https://techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/3-1.png?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/amp/",
+      "publishedDateTime": "2022-10-27T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-microsoft-previews-vision-studio-for-working-with-azure-computer-vision-api.md",
+      "title": "Microsoft Previews 'Vision Studio' for Working with Azure Computer Vision API",
+      "excerpt": "As if things weren't complicated enough with oft-confused Visual Studio and Visual Studio Code offerings, Microsoft has now announced a preview of Vision Studio, for working with the Computer Vision API in the Azure cloud computing platform.",
+      "sourceUrl": null,
+      "webUrl": "https://visualstudiomagazine.com/articles/2022/10/27/vision-studio.aspx",
+      "originalUrl": "https://visualstudiomagazine.com/articles/2022/10/27/vision-studio.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2017/0417red_F2Hello.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-argo-ai-will-cease-operations-as-ford-and-volkswagen-pull-investments.md",
       "title": "Argo AI will cease operations as Ford and Volkswagen pull investments",
       "excerpt": "The world of autonomous driving took a big blow on Wednesday with the sudden news that Argo AI will shut down. The high-profile startup had deep pockets courtesy of large investments from Ford and then Volkswagen Group,",
@@ -959,247 +1211,6 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-ford-cant-afford-other-bets-like-driverless-cars.md",
-      "title": "Ford Can’t Afford Other Bets Like Driverless Cars",
-      "excerpt": "Ford’s decision to reverse out of the driverless-taxi business shows a laudable focus on delivering tangible products—but also the company’s financial weakness relative to crosstown rival ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ford-cant-afford-other-bets-like-driverless-cars-11666861656",
-      "originalUrl": "https://www.wsj.com/articles/ford-cant-afford-other-bets-like-driverless-cars-11666861656",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-652054/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims.md",
-      "title": "Exclusive: Tesla faces U.S. criminal probe over self-driving claims",
-      "excerpt": "The U.S. Department of Justice launched the probe last year following more than a dozen crashes, some fatal, involving Tesla’s driver assistance system Autopilot, people familiar with the matter say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/?ref=upstract.com",
-      "originalUrl": "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/Pc83Ei_m8ULxEdqo8XyYwlSi_f0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/S72XIA724ZL7BKAKEXM3RWBDYM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T21:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-ford-and-vw-close-down-argo-ai-autonomous-car-unit.md",
-      "title": "Ford and VW close down Argo AI autonomous-car unit",
-      "excerpt": "Autonomous-car specialist Argo AI is closing down after Ford and Volkswagen, Argo's main backers, ended support for the Pittsburgh-based company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/ford-and-vw-close-down-argo-ai-autonomous-car-unit/",
-      "originalUrl": "https://www.digitaltrends.com/cars/ford-and-vw-close-down-argo-ai-autonomous-car-unit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 247,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2019/06/argo-ai-fusion-detroit.jpg?p=1",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/ford-and-vw-close-down-argo-ai-autonomous-car-unit/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/ford-and-vw-close-down-argo-ai-autonomous-car-unit/?amp",
-      "publishedDateTime": "2022-10-26T20:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-video-games-are-good-for-a-developing-brain-study-shows.md",
-      "title": "Video games are good for a developing brain, study shows",
-      "excerpt": "Huge news for the kids who grew up gaming: There are some cognitive benefits associated with children who play video games. Children who played video games showed \"enhanced cognitive performance ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/video-games-children-study",
-      "originalUrl": "https://mashable.com/article/video-games-children-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/079RyeM8TLJYWd7KogR8t1J/hero-image.fill.size_1200x675.v1666805636.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T19:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-ford-disbands-argo-ai-autonomous-vehicle-unit-posts-loss.md",
-      "title": "Ford disbands Argo AI autonomous vehicle unit, posts loss",
-      "excerpt": "Ford is pulling out of its investment in Argo AI, an autonomous vehicle company ... said Guidehouse Research mobility analyst Sam Abuelsamid. The business, he said, has required big investments ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickondetroit.com/business/2022/10/26/ford-disbands-argo-ai-autonomous-vehicle-unit-posts-loss/",
-      "originalUrl": "https://www.clickondetroit.com/business/2022/10/26/ford-disbands-argo-ai-autonomous-vehicle-unit-posts-loss/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5K6T4TO3RRAM5IWMVK7LHUIG5Y.jpg?_a=ATO2Bfe0",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.clickondetroit.com/business/2022/10/26/ford-disbands-argo-ai-autonomous-vehicle-unit-posts-loss/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/business/2022/10/26/ford-disbands-argo-ai-autonomous-vehicle-unit-posts-loss/?outputType=amp",
-      "publishedDateTime": "2022-10-26T18:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "clickondetroit.com",
-        "domain": "clickondetroit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

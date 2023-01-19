@@ -2,6 +2,164 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-14-top-ai-startup-news-of-the-week-instadeep-deepl-pachyderm-and-more.md",
+      "title": "Top AI startup news of the week: InstaDeep, DeepL, Pachyderm and more",
+      "excerpt": "There were key AI startup acquisitions this week, as well as new funding in a variety of sectors. Here are six companies that made headlines.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-instadeep-deepl-pachyderm-and-more/",
+      "originalUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-instadeep-deepl-pachyderm-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1203833695.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-instadeep-deepl-pachyderm-and-more/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-ai-startup-news-of-the-week-instadeep-deepl-pachyderm-and-more/amp/",
+      "publishedDateTime": "2023-01-13T15:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-01-14-tech-gets-religion-on-ai-inside-the-vatican-summit-with-islamic-and-jewish-leaders-microsoft-and-ibm.md",
+      "title": "Tech gets religion on AI: Inside the Vatican summit with Islamic and Jewish leaders, Microsoft and IBM",
+      "excerpt": "It’s unusual for tech executives and religious leaders to get together to discuss their shared interests and goals for the future of humanity and the planet. It’s even more extraordinary… Read More",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/tech-gets-religion-on-ai-inside-the-vatican-summit-with-islamic-and-jewish-leaders-microsoft-and-ibm/",
+      "originalUrl": "https://www.geekwire.com/2023/tech-gets-religion-on-ai-inside-the-vatican-summit-with-islamic-and-jewish-leaders-microsoft-and-ibm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/01/microsoft-pope.jpg",
+          "width": 1828,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-13T10:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-how-thomson-reuters-built-an-ai-platform-using-amazon-sagemaker-to-accelerate-delivery-of-ml-projects.md",
+      "title": "How Thomson Reuters built an AI platform using Amazon SageMaker to accelerate delivery of ML projects",
+      "excerpt": "This post is co-written by Ramdev Wudali and Kiran Mantripragada from Thomson Reuters. In 1992, Thomson Reuters (TR) released its first AI legal research service, WIN (Westlaw Is Natural), an innovation at the time, as most search engines only supported Boolean terms and connectors. Since then, TR has",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-built-an-ai-platform-using-amazon-sagemaker-to-accelerate-delivery-of-ml-projects/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-built-an-ai-platform-using-amazon-sagemaker-to-accelerate-delivery-of-ml-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/13/thomson-reuters-sagemaker-ml-projects.jpg",
+          "width": 1562,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-13T09:26:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-federated-learning-on-aws-with-fedml-health-analytics-without-sharing-sensitive-data-part-1.md",
       "title": "Federated Learning on AWS with FedML: Health analytics without sharing sensitive data – Part 1",
       "excerpt": "This blog post is co-written with Chaoyang He and Salman Avestimehr from FedML. Analyzing real-world healthcare and life sciences (HCLS) data poses several practical challenges, such as distributed data silos, lack of sufficient data at any single site for rare events, regulatory guidelines that prohibit",
@@ -1058,143 +1216,6 @@
         "AI",
         "Natural Language Processing",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-aws-opens-first-australian-local-zone-in-perth.md",
-      "title": "AWS opens first Australian Local Zone in Perth",
-      "excerpt": "AWS’s first Local Zone in Australia will bring low-latency performance to companies such as Woodside Energy and Nearmaps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth",
-      "originalUrl": "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/cloud-migration-2-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth?amp=1",
-      "publishedDateTime": "2023-01-12T15:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-a-director-posted-ai-generated-stills-from-a-fake-80s-sci-fi-horror-movie-and-people-are-pissed.md",
-      "title": "A Director Posted AI-Generated Stills From A Fake ’80s Sci-Fi Horror Movie And People Are Pissed",
-      "excerpt": "BuzzFeed Contributor An AI-generated still from the made-up movie Galaxy of Flesh Los Angeles–based Keith Schofield is an accomplished director, having helmed music videos for the likes of Beck, Charlotte Gainsbourg,",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/chrisstokelwalker/ai-david-cronenberg-movie-galaxy-of-flesh-twitter",
-      "originalUrl": "https://www.buzzfeednews.com/article/chrisstokelwalker/ai-david-cronenberg-movie-galaxy-of-flesh-twitter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2022-06/16/14/campaign_images/948c073cbd4b/this-artist-used-ai-to-turn-the-met-gala-coachell-2-2274-1655390594-2_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/chrisstokelwalker/ai-david-cronenberg-movie-galaxy-of-flesh-twitter",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/chrisstokelwalker/ai-david-cronenberg-movie-galaxy-of-flesh-twitter",
-      "publishedDateTime": "2023-01-12T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-ferrum-health-raises-6-million-to-bring-artificial-intelligence-into-healthcare.md",
-      "title": "Ferrum Health Raises $6 Million to Bring Artificial Intelligence into Healthcare",
-      "excerpt": "SAN FRANCISCO, Jan. 12, 2023 /PRNewswire/ -- Ferrum Health, a healthcare artificial intelligence (AI) platform developer, announced that it has recently raised $6 million in a funding round led by ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ferrum-health-raises-6-million-to-bring-artificial-intelligence-into-healthcare-1032016043",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ferrum-health-raises-6-million-to-bring-artificial-intelligence-into-healthcare-1032016043",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T13:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

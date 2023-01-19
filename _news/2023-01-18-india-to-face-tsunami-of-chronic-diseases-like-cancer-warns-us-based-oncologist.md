@@ -43,6 +43,22 @@ related:
         width: 345
         height: 230
         isCached: true
+  - title: "India may have to battle a 'tsunami' of chronic diseases like cancer due to globalisation, predicts US oncologist"
+    excerpt: "India will face a tsunami of chronic diseases such as cancer due to globalization, growing economy, aging population and changing lifestyle, warns a leading oncologist, making it"
+    publishedDateTime: 2023-01-19T03:36:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/india-may-have-to-battle-a-tsunami-of-chronic-diseases-like-cancer-due-to-globalisation-predicts-us-oncologist/articleshow/97114890.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/india-may-have-to-battle-a-tsunami-of-chronic-diseases-like-cancer-due-to-globalisation-predicts-us-oncologist/amp_articleshow/97114890.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/india-may-have-to-battle-a-tsunami-of-chronic-diseases-like-cancer-due-to-globalisation-predicts-us-oncologist/amp_articleshow/97114890.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 23
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1737553,msid-97115043/cancer-tsunami.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "India to face 'tsunami' of chronic diseases like cancer: US-based oncologist"
     excerpt: "As per the Globocan estimates, the cancer burden worldwide is expected to be 28.4 million cases in 2040, a 47 per cent rise from 2020, due to demographic changes."
     publishedDateTime: 2023-01-18T13:22:00Z

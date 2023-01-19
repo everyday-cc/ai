@@ -51,6 +51,22 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "India may have to battle a 'tsunami' of chronic diseases like cancer due to globalisation, predicts US oncologist"
+    excerpt: "India will face a tsunami of chronic diseases such as cancer due to globalization, growing economy, aging population and changing lifestyle, warns a leading oncologist, making it"
+    publishedDateTime: 2023-01-19T03:36:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/india-may-have-to-battle-a-tsunami-of-chronic-diseases-like-cancer-due-to-globalisation-predicts-us-oncologist/articleshow/97114890.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/india-may-have-to-battle-a-tsunami-of-chronic-diseases-like-cancer-due-to-globalisation-predicts-us-oncologist/amp_articleshow/97114890.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/india-may-have-to-battle-a-tsunami-of-chronic-diseases-like-cancer-due-to-globalisation-predicts-us-oncologist/amp_articleshow/97114890.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 23
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1737553,msid-97115043/cancer-tsunami.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "y1eChcy+tw+wNQKROSzOHkEvIj3wrVa1K6QR1vJPtR+PYJ58UbkVGLik2CJfqw2VIxC1SGp2cs81rBMPIEv5Fm7bdebalHUXEdt1sDDcOcPLIDm5eII3yhXvueSAokshCp8xKp/JgM2xOaZNkakaOwKsRyXIfwX1/xBfu4EdFNNdauntSSllSDmMKG+kGBzi17neqcZaKDehV9ykBMmt5Rm1lYKKSSGMVUEIBGiygYueW6i8el5oc14ID77R3aYGDDXnWW4sd2lGZad74YKmwuTwIyQy0W9YXypQSVtbCz2KMd3WulZbQXbaMnTaK5U4Dou0TTJb4NDf8snFTKxfrN1BNoQE56WMjgVHrdDXZKd+mxhP0GXVhYDxjsyuChXvdUJxoju8ZPKJBoyoAfjwTEAc6/SzaOFQPP6haHwLb5L+Gypv7lx0d0tQRf2qjRMAtNMqCYopoVFnZY9F//gpsyI7qFeT/0F7WbQjVN9DhYobCcGuJt59FDDP9fjKzTRpE0qnJD3Yd7YO2DTEUHxd9Q==;a6KRoECX/SD5/cjrJuH67w=="
 ---

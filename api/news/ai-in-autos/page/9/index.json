@@ -2,6 +2,144 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-11-21-artificial-intelligence-is-pushing-boundaries-in-design-engineering.md",
+      "title": "Artificial Intelligence Is Pushing Boundaries in Design Engineering",
+      "excerpt": "Today’s design engineers are always looking for ways to innovate and compete in today’s global design environment. The 21st century has opened up a plethora of connected workflows that allow for seemingly real-time data interaction, no matter where you ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/design-software/artificial-intelligence-pushing-boundaries-design-engineering",
+      "originalUrl": "https://www.designnews.com/design-software/artificial-intelligence-pushing-boundaries-design-engineering",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/T998X3.jpg",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-21-waymo-given-green-light-to-provide-driverless-rides-in-san-francisco.md",
+      "title": "Waymo Given Green Light to Provide Driverless Rides in San Francisco",
+      "excerpt": "Waymo can now provide driverless rides in San Francisco. The California Public Utilities Commission (CPUC) gave the green light(Opens in a new window) to the Alphabet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/waymo-given-green-light-to-provide-driverless-rides-in-san-francisco",
+      "originalUrl": "https://www.pcmag.com/news/waymo-given-green-light-to-provide-driverless-rides-in-san-francisco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/056COxXdLFARliBLuI11lHz-1.fit_lim.size_1200x630.v1668958191.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-20T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-20-waymo-will-offer-driverless-rides-to-public-soon.md",
+      "title": "Waymo Will Offer Driverless Rides To Public Soon",
+      "excerpt": "The latest reports prove that driverless rides are not safe. At least, at this stage, none of the major carmakers is able to provide a safe autopilot feature. However, everything is changing in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2022/11/19/waymo-will-offer-driverless-rides-to-public-soon/",
+      "originalUrl": "https://www.gizchina.com/2022/11/19/waymo-will-offer-driverless-rides-to-public-soon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/11/Waymo-One-Offering-Driverless-Taxi-Service-in-Phoenix.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2022/11/19/waymo-will-offer-driverless-rides-to-public-soon/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/11/19/waymo-will-offer-driverless-rides-to-public-soon/amp/",
+      "publishedDateTime": "2022-11-19T23:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-20-airports-are-the-new-testbeds-for-emerging-technologies.md",
       "title": "Airports Are the New Testbeds for Emerging Technologies",
       "excerpt": "They are increasingly turning to cutting-edge technologies to meet their daily operational needs. These initiatives serve as real-world tests and economic drivers in the communities the airports serve.",
@@ -1214,136 +1352,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-why-artificial-intelligence-is-taking-over-contact-centers.md",
-      "title": "Why Artificial Intelligence Is Taking Over Contact Centers",
-      "excerpt": "Businesses with contact centers increasingly are striving to find ways to improve customer experience while reducing costs and the burden on employees. Enter artificial intelligence, which can help contact center agents respond to customers faster and be more productive while improving customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/article/2022/11/why-artificial-intelligence-taking-over-contact-centers",
-      "originalUrl": "https://biztechmagazine.com/article/2022/11/why-artificial-intelligence-taking-over-contact-centers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202211/chatbot%20Biz.jpg?itok=hMCJTqg9",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/article/2022/11/why-artificial-intelligence-taking-over-contact-centers?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/11/why-artificial-intelligence-taking-over-contact-centers?amp",
-      "publishedDateTime": "2022-11-15T12:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated.md",
-      "title": "Reports Of The Death Of Self-Driving Cars Are Greatly Exaggerated",
-      "excerpt": "Recent weeks have seen a number of reports of the death of self-driving cars, triggered mostly by the closure of Argo.AI, the self-driving startup funded by Ford and VW. That shutdown hasn’t been the only bad news in a year of bad news for almost all of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/15/reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/15/reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6372c490cf0161db04611970/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/15/reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/11/15/reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated/amp/",
-      "publishedDateTime": "2022-11-15T04:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-automotive-artificial-intelligence-market-to-hit-1423-billion-by-2030-grand-view-research-inc.md",
-      "title": "Automotive Artificial Intelligence Market to Hit $14.23 Billion by 2030: Grand View Research, Inc.",
-      "excerpt": "The global automotive artificial intelligence market size is expected to reach USD 14.23 billion by 2030, advancing at 21.6% CAGR, according to a new report by Grand View Research, Inc. Artificial Intelligence (AI) in the automotive industry is driven by factors such as government initiatives to incorporate autonomous driving and the growing demand for autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/15/9713017.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/15/9713017.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T03:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

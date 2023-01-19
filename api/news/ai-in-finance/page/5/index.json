@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-18-cujo-ai-launches-explorer-first-ai-powered-device-intelligence-as-a-service.md",
+      "title": "CUJO AI Launches Explorer, First AI-powered Device Intelligence as a Service",
+      "excerpt": "CUJO AI, a global leader in cybersecurity and network intelligence solutions for network service providers (NSPs), today announced that Explorer, the AI-powered network intelligence solution, is available as a stand-alone Device Intelligence as a Service,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/10/18/9694211.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/10/18/9694211.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-kubiya-gives-developers-a-hand-with-conversational-ai-platform.md",
+      "title": "Kubiya gives developers a hand with conversational AI platform",
+      "excerpt": "Kubiya, a self-serve platform that uses conversational AI to execute devops, launched out of stealth today with $6 million in seed funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/",
+      "originalUrl": "https://venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1367728606-e1645809619993.jpg?fit=800%2C547&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/amp/",
+      "publishedDateTime": "2022-10-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-10-17-the-financial-services-market-sees-a-rise-in-demand-for-artificial-intelligence.md",
       "title": "The Financial Services Market Sees A Rise In Demand For Artificial Intelligence",
       "excerpt": "The increasing demand for artificial intelligence (AI) in financial services is an emerging trend in the financial services market. AI is used to find efficiency gains, investments, and other financial elements within financial services companies.",
@@ -1265,92 +1351,6 @@
         "name": "fintechmagazine",
         "domain": "fintechmagazine.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-qz-asset-management-invited-to-showcase-bdai-technology-at-major-fintech-events-worldwide.md",
-      "title": "QZ Asset Management Invited to Showcase BDAI Technology at Major FinTech Events Worldwide",
-      "excerpt": "QZ Asset Management, a leading AI-powered investment company, announced today that it has plans to showcase its proprietary BDAI technology at global FinTech conferences during the first and second quarters of 2023. These conferences bring together key ...",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/marketersmedia-2022-9-29-qz-asset-management-invited-to-showcase-bdai-technology-at-major-fintech-events-worldwide",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/marketersmedia-2022-9-29-qz-asset-management-invited-to-showcase-bdai-technology-at-major-fintech-events-worldwide",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-28T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-qai-wins-investmenttech-and-personal-finance-tech-of-the-year-at-2022-us-fintech-awards.md",
-      "title": "Q.ai Wins \"InvestmentTech\" and \"Personal Finance Tech of the Year\" at 2022 US FinTech Awards",
-      "excerpt": "Q.ai Wins \"InvestmentTech\" and \"Personal Finance Tech of the Year\" at 2022 US FinTech Awards Sep 28, 2022 (PRNewswire via COMTEX) -- PR Newswire NEW",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/qai-wins-investmenttech-and-personal-finance-tech-of-the-year-at-2022-us-fintech-awards-2022-09-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/qai-wins-investmenttech-and-personal-finance-tech-of-the-year-at-2022-us-fintech-awards-2022-09-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-28T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

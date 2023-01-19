@@ -27,8 +27,8 @@ images:
 related:
   - title: "Seeq Recognizes its 2022 Reseller and Service Partners of the Year"
     excerpt: "Annual partner awards, honoring excellence in delivering the next generation of process manufacturing improvements, announced at Seeq Global Partner Symposium in Las Vegas. LAS VE"
-    publishedDateTime: 2023-01-18T14:25:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/18/9745322.htm"
+    publishedDateTime: 2023-01-18T15:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/01/18/9745322.htm"
     type: article
     provider:
       name: TMCnet

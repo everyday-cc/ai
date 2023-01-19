@@ -2,6 +2,143 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-13-aws-opens-first-australian-local-zone-in-perth.md",
+      "title": "AWS opens first Australian Local Zone in Perth",
+      "excerpt": "AWS’s first Local Zone in Australia will bring low-latency performance to companies such as Woodside Energy and Nearmaps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth",
+      "originalUrl": "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/article/cloud-migration-2-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth?amp=1",
+      "publishedDateTime": "2023-01-12T15:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-a-director-posted-ai-generated-stills-from-a-fake-80s-sci-fi-horror-movie-and-people-are-pissed.md",
+      "title": "A Director Posted AI-Generated Stills From A Fake ’80s Sci-Fi Horror Movie And People Are Pissed",
+      "excerpt": "BuzzFeed Contributor An AI-generated still from the made-up movie Galaxy of Flesh Los Angeles–based Keith Schofield is an accomplished director, having helmed music videos for the likes of Beck, Charlotte Gainsbourg,",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/chrisstokelwalker/ai-david-cronenberg-movie-galaxy-of-flesh-twitter",
+      "originalUrl": "https://www.buzzfeednews.com/article/chrisstokelwalker/ai-david-cronenberg-movie-galaxy-of-flesh-twitter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2022-06/16/14/campaign_images/948c073cbd4b/this-artist-used-ai-to-turn-the-met-gala-coachell-2-2274-1655390594-2_dblbig.jpg",
+          "width": 625,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/chrisstokelwalker/ai-david-cronenberg-movie-galaxy-of-flesh-twitter",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/chrisstokelwalker/ai-david-cronenberg-movie-galaxy-of-flesh-twitter",
+      "publishedDateTime": "2023-01-12T14:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-ferrum-health-raises-6-million-to-bring-artificial-intelligence-into-healthcare.md",
+      "title": "Ferrum Health Raises $6 Million to Bring Artificial Intelligence into Healthcare",
+      "excerpt": "SAN FRANCISCO, Jan. 12, 2023 /PRNewswire/ -- Ferrum Health, a healthcare artificial intelligence (AI) platform developer, announced that it has recently raised $6 million in a funding round led by ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ferrum-health-raises-6-million-to-bring-artificial-intelligence-into-healthcare-1032016043",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ferrum-health-raises-6-million-to-bring-artificial-intelligence-into-healthcare-1032016043",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T13:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-supernal-to-utilize-microsoft-azure-for-evtol-development.md",
       "title": "Supernal to Utilize Microsoft Azure for eVTOL Development",
       "excerpt": "Hyundai’s Supernal recently announced that it is collaborating with Microsoft in development of its electric vertical take-off and landing (eVTOL) aircraft for advanced air mobility. The collaboration aims to advance autonomy,",
@@ -1004,162 +1141,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-fintech-stocks-lag-behind-the-rest-of-the-market-should-you-buy-or-sell.md",
-      "title": "Fintech Stocks Lag Behind The Rest Of The Market — Should You Buy Or Sell?",
-      "excerpt": "While financial and tech stocks had a rough time in 2022, fintech stocks continue to lag behind the rest of the market. We explore the idea of investing in the fintech space in 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/01/11/fintech-stocks-lag-behind-the-rest-of-the-market---should-you-buy-or-sell/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/01/11/fintech-stocks-lag-behind-the-rest-of-the-market---should-you-buy-or-sell/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bee7c6c67f5dbd12964a45/0x0.jpg?format=jpg&crop=2490,1400,x24,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/01/11/fintech-stocks-lag-behind-the-rest-of-the-market---should-you-buy-or-sell/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/11/fintech-stocks-lag-behind-the-rest-of-the-market---should-you-buy-or-sell/amp/",
-      "publishedDateTime": "2023-01-11T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-chatgpt-could-be-a-game-changer-for-microsoft-that-turns-it-into-a-core-ai-stock-as-it-mulls-a-10-billion-investment-into-openai-wedbush.md",
-      "title": "ChatGPT could be a 'game changer' for Microsoft that turns it into a core AI stock as it mulls a $10 billion investment into OpenAI, Wedbush says",
-      "excerpt": "Microsoft could integrate the ChatGPT technology into its Bing search engine, Microsoft Office products, and Azure cloud platform, Wedbush said.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-microsoft-stock-game-changer-ai-openai-10-billion-investment-2023-1",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-microsoft-stock-game-changer-ai-openai-10-billion-investment-2023-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62d08b9206bc8f00188ed8b3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-microsoft-stock-game-changer-ai-openai-10-billion-investment-2023-1?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/chatgpt-microsoft-stock-game-changer-ai-openai-10-billion-investment-2023-1?amp",
-      "publishedDateTime": "2023-01-11T07:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-how-to-get-started-with-natural-language-question-answering-technology.md",
-      "title": "How To Get Started With Natural Language Question Answering Technology",
-      "excerpt": "While natural language processing (NLP) and natural language understanding (NLU) can process the meaning and understand the sentiment of the human language, natural language question answering ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/11/how-to-get-started-with-natural-language-question-answering-technology/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/11/how-to-get-started-with-natural-language-question-answering-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/632dbbaa69b953ca837d2c1f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/11/how-to-get-started-with-natural-language-question-answering-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/11/how-to-get-started-with-natural-language-question-answering-technology/amp/",
-      "publishedDateTime": "2023-01-11T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

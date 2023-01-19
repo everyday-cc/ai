@@ -28,33 +28,50 @@ images:
     isCached: true
 
 related:
-  - title: "Where will artificial intelligence take us in the future?"
-    excerpt: "Israel has become a trailblazer in AI, as it did in hi-tech in previous decades, earning it the venerable title, “Start-up Nation.”"
-    publishedDateTime: 2023-01-14T15:48:00Z
-    webUrl: "https://www.jpost.com/jerusalem-report/article-728305"
-    ampWebUrl: "https://m.jpost.com/jerusalem-report/article-728305/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jerusalem-report/article-728305/amp"
+  - title: "Investigation exposes murkier side of AI chatbot industry"
+    excerpt: "A Time investigation has exposed the murkier side of the AI chatbot industry, highlighting how at least one startup has been using questionable practices."
+    publishedDateTime: 2023-01-19T03:30:00Z
+    webUrl: "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/?amp"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 61
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/524652"
-        width: 640
-        height: 428
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/01/ChatGPT-OpenAI-logo.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Future versions of Windows will be AI-powered"
-    excerpt: "Microsoft chief product officer Panos Panay said several types of AI systems could be baked into a new version of Windows, including large generative models for language, coding, and imagery."
-    publishedDateTime: 2023-01-16T08:18:00Z
-    webUrl: "https://mybroadband.co.za/news/software/476491-future-versions-of-windows-will-be-ai-powered.html"
-    ampWebUrl: "https://mybroadband.co.za/news/software/476491-future-versions-of-windows-will-be-ai-powered.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/476491-future-versions-of-windows-will-be-ai-powered.html/amp"
+  - title: "Haneda Airport Demos AI Chatbot 'Bebot,' a Multilingual Guidance Service"
+    excerpt: "Bebot boasts a high degree of accuracy in answering questions that travelers need, including information on airport facilities and flight information."
+    publishedDateTime: 2023-01-18T22:27:00Z
+    webUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21292923/ai-chatbot-bebot-launches-multilingual-guidance-service-pilot-at-haneda-airport"
     type: article
     provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 38
+    images:
+      - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2023/01/image.63c86a837801c.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Health tech startup achieves world-first certification for AI mental health chatbot"
+    excerpt: "London headquartered health tech startup, Limbic, has announced that its psychological assessment tool, Limbic Access, has achieved Class IIa UKCA… | London | Medical | Technology | Health & Care | St"
+    publishedDateTime: 2023-01-17T07:00:00Z
+    webUrl: "https://bdaily.co.uk/articles/2023/01/17/health-tech-startup-achieves-world-first-certification-for-ai-mental-health-chatbot"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 31
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/oOPrAVtizCNL9r6WZpjm8olWnnu8nS7vyqpGEW1k.png?w=1200&h=627&fm=jpg&fit=crop-50-50&s=a07e11f599593ea2d1f69b2024323615"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "KtKDbPTGkfVfKa82G9nnDIsAStl1ji12bzV9PTCZzqTXWL0xcsupBTC+i2Bn1iI2ubUoj5d4lrbMlx891gAuiGnMH6TOqrshDA8iX7NJSJyon1LgryHmtjJDNsOilqkMS6Fc/4ZJqfngPT2Ih2qq7xxt+QlNJj2fJIUWEpvLfDqWKaupw/0vegx1WAiGa1II1r+ycvlpKwaA4B/NtB/VSDBJFZ9hC/UdI34onP6xd6aHC5C6S6Fh4ytfmkFUwo3xHy2PUOWhoSd05L0Er82VGrd2iWmDvEzVjJkvHF1Bg4QdDW1/3+2k0Bwr5vqHCHOW9K1W1RDBX4zc6CcHy/Cj0qUIeHn3SEaIabQjj7VP8Br+X7PAA78zuB133c+y5pND7wVNrDhZp1Rn3pBtCgeAvvj96fsGGylxuexjidGWE5ysefH3Dtp3xH3Qa+AdUxDOrc0RcMuwLfGFOVyXZR9JGczYefBuqzr9Y5sy3Tc+UUi9ag2AZcIe3W89KpW/3mWH7SD7kuWnMthGnaB0rkbc8w==;UWYmQwBGO9X/P+ZkY0hmmA=="
 ---

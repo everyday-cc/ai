@@ -2,6 +2,138 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-09-15-artificial-intelligence-chip-market-size-2022-2027-share-trends-analysis-and-forecast.md",
+      "title": "Artificial Intelligence Chip Market Size 2022-2027, Share, Trends, Analysis and Forecast",
+      "excerpt": "The latest research study \" Artificial Intelligence Chip Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \" by IMARC Group, finds that the global artificial intelligence chip market size reached a value of US$ 9.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-2022-2027-share-trends-analysis-and-forecast-2022-09-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-2022-2027-share-trends-analysis-and-forecast-2022-09-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-more-driverless-cars-are-coming-to-austin-what-you-need-to-know.md",
+      "title": "More driverless cars are coming to Austin: What you need to know",
+      "excerpt": "Austin is about to see more driverless cars on its roadways, as another autonomous vehicle company says it is expanding into Austin by the end of the year. San Francisco-based Cruise ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statesman.com/story/business/technology/2022/09/14/cruise-driverless-cars-are-coming-to-austin-what-you-need-to-know/69492889007/",
+      "originalUrl": "https://www.statesman.com/story/business/technology/2022/09/14/cruise-driverless-cars-are-coming-to-austin-what-you-need-to-know/69492889007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T18:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Austin American-Statesman",
+        "domain": "statesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-new-method-for-comparing-neural-networks-exposes-how-artificial-intelligence-works.md",
+      "title": "New method for comparing neural networks exposes how artificial intelligence works",
+      "excerpt": "A team has developed a novel approach for comparing neural networks that looks within the 'black box' of artificial intelligence to help researchers understand neural network behavior. Neural networks recognize patterns in datasets;",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220914102256.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220914102256.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-alphabets-googl-waymo-makes-way-to-bellevue-boosts-efforts.md",
       "title": "Alphabet's (GOOGL) Waymo Makes Way to Bellevue, Boosts Efforts",
       "excerpt": "Alphabet GOOGL is leaving no stone unturned to expand its Waymo ride-hailing service across the United States. This is evident from the latest move of testing its self-driving vehicles on the streets of Bellevue,",
@@ -1173,127 +1305,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-4-hot-takes-about-the-wild-new-world-of-generative-ai.md",
-      "title": "4 Hot Takes About The Wild New World Of Generative AI",
-      "excerpt": "Text-to-image AI models generate original images based solely on simple written inputs. Users can input any text prompt they like—say, “a cute corgi lives in a house made out of sushi”—and, as if by magic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631cc1be4103d0cf19fe5860/0x0.jpg?format=jpg&crop=1024,576,x0,y283,safe&width=1200",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/amp/",
-      "publishedDateTime": "2022-09-11T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-how-do-self-driving-cars-work-everything-you-need-to-know.md",
-      "title": "How do self-driving cars work? Everything you need to know",
-      "excerpt": "The idea of the self-driving car feels like something that comes straight out of science fiction, but it’s a future that the automotive industry is actively striving towards. One day ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/reference/how-do-self-driving-cars-work-everything-you-need-to-know",
-      "originalUrl": "https://www.tomsguide.com/reference/how-do-self-driving-cars-work-everything-you-need-to-know",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-driverless-vehicle-maker-aurrigo-to-float.md",
-      "title": "Driverless vehicle maker Aurrigo to float",
-      "excerpt": "A maker of driverless vehicles that could solve delays at airports is to list on Aim on Thursday, braving a stock market where there has been a dearth of company floats. Coventry-based Aurrigo ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/driverless-vehicle-maker-aurrigo-to-float-pxshf9fk7",
-      "originalUrl": "https://www.thetimes.co.uk/article/driverless-vehicle-maker-aurrigo-to-float-pxshf9fk7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

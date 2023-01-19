@@ -2,6 +2,247 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2022-11-16-aws-launches-infrastructure-region-in-spain.md",
+      "title": "AWS Launches Infrastructure Region in Spain",
+      "excerpt": "AWS Europe (Spain) Region allows customers to run workloads and store data securely in Spain while serving end users with even lower latency The new AWS Region is estimated to support more than ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswireindia.com/aws-launches-infrastructure-region-in-spain-81791.html",
+      "originalUrl": "https://www.businesswireindia.com/aws-launches-infrastructure-region-in-spain-81791.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_81791.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T04:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswireindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly.md",
+      "title": "Augmented Reality Coupled With Artificial Intelligence can Train Caretakers for the Elderly",
+      "excerpt": "Caretakers are often needed to help elderly people who are sick, disabled or injured. A new study highlights that augmented reality (AR) and artificial intelligence (AI) can merge to train caregivers for older people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly-209273-1.htm",
+      "originalUrl": "https://www.medindia.net/news/augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly-209273-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/alzheimer6.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly-209273-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/augmented-reality-coupled-with-artificial-intelligence-can-train-caretakers-for-the-elderly-209273-1.htm",
+      "publishedDateTime": "2022-11-16T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-how-ai-can-improve-job-quality.md",
+      "title": "How AI Can Improve Job Quality",
+      "excerpt": "Most people experience AI through workplace technology, not automation. AI can either improve job quality or make it worse. A new study from Partnership on AI shares insights from workers on how employers can ensure that AI makes jobs better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/",
+      "originalUrl": "https://www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/636953d143386d13e7af29b9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shalinjyotishi/2022/11/16/how-ai-can-improve-job-quality/amp/",
+      "publishedDateTime": "2022-11-16T03:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-integrated-ai-can-generate-460-billion-in-incremental-profits-report-finds.md",
+      "title": "Integrated AI can generate $460 billion in incremental profits, report finds",
+      "excerpt": "A new report from Infosys reveals $467 billion in incremental profit can be made by global organizations who optimize AI and data practices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/integrated-ai-can-generate-460-billion-in-incremental-profits-report-finds/",
+      "originalUrl": "https://venturebeat.com/ai/integrated-ai-can-generate-460-billion-in-incremental-profits-report-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/billions_of_dollars-e1668557733700.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/integrated-ai-can-generate-460-billion-in-incremental-profits-report-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/integrated-ai-can-generate-460-billion-in-incremental-profits-report-finds/amp/",
+      "publishedDateTime": "2022-11-16T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-daily-authority-the-chip-to-power-2023-android-flagships-is-here.md",
+      "title": "Daily Authority: 🐉 The chip to power 2023 Android flagships is here!",
+      "excerpt": "Each year, Qualcomm equips its flagship Snapdragon chips with more AI abilities, and the Snapdragon 8 Gen 2 is no different. Many of the improvements are powered by the updated Hexagon processor. You can now boost AI performance without also boosting other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/daily-authority-november-16-2022-3235363/",
+      "originalUrl": "https://www.androidauthority.com/daily-authority-november-16-2022-3235363/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2022/11/Snapdragon-8-Gen-2-on-phone.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T00:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-israel-deploys-remote-controlled-robotic-guns-in-west-bank.md",
       "title": "Israel deploys remote-controlled robotic guns in West Bank",
       "excerpt": "Robotic weapons are increasingly in operation around the world, with militaries expanding their use of drones to carry out lethal strikes from Ukraine to Ethiopia. Remote-controlled guns like the ...",
@@ -905,253 +1146,6 @@
         "name": "PR Newswire",
         "domain": "prnewswire.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-tigergraph-cloud-adds-graph-analytics-machine-learning-tools.md",
-      "title": "TigerGraph Cloud adds graph analytics, machine learning tools",
-      "excerpt": "The updated graph database-as-a-service (DBaaS) will come with visual analytics and machine learning tools, made accessible via the TigerGraph Suite.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.html",
-      "originalUrl": "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/08/16/10/hands_type_on_keyboard_of_laptop_displaying_bar_chart_data_metrics_analytics_review_by_peopleimages_gettyimages-1179754541_2400x1600-100857891-large-100931301-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.amp.html",
-      "publishedDateTime": "2022-11-15T11:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m.md",
-      "title": "Making data available on demand for AI and ML workloads, Weka lands $135M",
-      "excerpt": "The company has partnered with leading cloud providers, including AWS, Azure, GCP and Oracle ... s first multi-cloud data platform for next-generation workloads like AI, ML and HPC,” he said. By 2026, large enterprises will triple their unstructured ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1124400900.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/amp/",
-      "publishedDateTime": "2022-11-15T09:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-amazon-to-test-facial-recognition-technology-to-verify-seller-identity.md",
-      "title": "Amazon to test facial recognition technology to verify seller identity",
-      "excerpt": "Amazon will test facial recognition, forgery detection, and other automated technologies as a new alternative for verifying the identities of online sellers. The test will be rolled out as a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/amazon-to-test-facial-recognition-technology-to-verify-seller-identity/",
-      "originalUrl": "https://www.geekwire.com/2022/amazon-to-test-facial-recognition-technology-to-verify-seller-identity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/11/amazon-id.png",
-          "width": 960,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-mrsformer-employs-a-novel-multiresolution-head-attention-mechanism-to-cut-transformers-compute-and-memory-costs.md",
-      "title": "‘MrsFormer’ Employs a Novel Multiresolution-Head Attention Mechanism to Cut Transformers’ Compute and Memory Costs",
-      "excerpt": "Transformer architectures have demonstrated impressive performance improvements since their introduction in 2017 and are now the standard in the natural language processing and computer vision research fields.",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2022/11/14/mrsformer-employs-a-nove-multiresolution-head-attention-mechanism-to-cut-transformers-compute-and-memory-costs/",
-      "originalUrl": "https://syncedreview.com/2022/11/14/mrsformer-employs-a-nove-multiresolution-head-attention-mechanism-to-cut-transformers-compute-and-memory-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2022/11/14/mrsformer-employs-a-nove-multiresolution-head-attention-mechanism-to-cut-transformers-compute-and-memory-costs/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/11/14/mrsformer-employs-a-nove-multiresolution-head-attention-mechanism-to-cut-transformers-compute-and-memory-costs/amp/",
-      "publishedDateTime": "2022-11-15T09:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-this-market-report-on-iris-recognition-machine-provides-broad-description-of-the-this-industry.md",
-      "title": "This market report on Iris Recognition Machine provides broad description of the this industry",
-      "excerpt": "Iris recognition is used in various applications such as face recognition, object recognition, and biometric authentication. Iris recognition has become an important part of security and identification systems because it can be used to identify individuals ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/this-market-report-on-iris-recognition-machine-provides-broad-description-of-the-this-industry-2022-11-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/this-market-report-on-iris-recognition-machine-provides-broad-description-of-the-this-industry-2022-11-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

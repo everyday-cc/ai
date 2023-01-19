@@ -35,7 +35,7 @@ related:
     provider:
       name: manilatimes
       domain: manilatimes.net
-    quality: 74
+    quality: 76
     images:
       - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/01/17/148178.jpg"
         width: 1200

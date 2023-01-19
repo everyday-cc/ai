@@ -2,6 +2,164 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-10-05-the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights.md",
+      "title": "The White House moves to hold artificial intelligence accountable with AI Bill of Rights",
+      "excerpt": "To address this ever-growing issue, the White House today released a Blueprint for an AI Bill of Rights. This outlines five principles that should guide the design, use and deployment of automated systems to protect Americans in this age of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/",
+      "originalUrl": "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2010/04/bill-of-rights.jpg?w=1200&strip=all",
+          "width": 409,
+          "height": 293,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/amp/",
+      "publishedDateTime": "2022-10-04T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-tesla-announces-its-moving-away-from-ultrasonic-sensors-in-favor-of-tesla-vision.md",
+      "title": "Tesla announces it’s moving away from ultrasonic sensors in favor of ‘Tesla Vision’",
+      "excerpt": "Tesla announced today that it is moving away from using ultrasonic sensors in its suite of Autopilot sensors in favor of its camera-only “Tesla Vision” system. Last year, Tesla announced it would transition to its “Tesla Vision” Autopilot without radar and start producing vehicles without a front-facing radar.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/",
+      "originalUrl": "https://electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/11/tesla-ultrasonic-e1479179062536.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/amp/",
+      "publishedDateTime": "2022-10-04T14:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens.md",
+      "title": "What octopus intelligence can teach us about artificial intelligence — and aliens",
+      "excerpt": "Are intelligent aliens among us? A newly published novel just might lead you to think so — and these aliens aren’t from another planet",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens/",
+      "originalUrl": "https://www.geekwire.com/2022/what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/10/octopus1-1260x815.jpg",
+          "width": 1260,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-artificial-intelligence-used-to-better-monitor-maines-forests.md",
       "title": "Artificial intelligence used to better monitor Maine's forests",
       "excerpt": "Monitoring and measuring forest ecosystems are complex challenges because software, collection systems and computing environments require increasing amounts of energy. Now, the University of Maine's Wireless Sensor Networks laboratory,",
@@ -1282,158 +1440,6 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-driverless-delivery-vans-market-trends-key-players-drot-analysis-forecast-till-2028.md",
-      "title": "Driverless Delivery Vans Market Trends, Key Players, DROT, Analysis & Forecast Till 2028",
-      "excerpt": "The driverless delivery vans market is driven by the favorable initiatives and legislation by the governments across the world for self-driving",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/driverless-delivery-vans-market-trends-key-players-drot-analysis-forecast-till-2028-2022-09-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/driverless-delivery-vans-market-trends-key-players-drot-analysis-forecast-till-2028-2022-09-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work.md",
-      "title": "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot, Self Driving Car Work",
-      "excerpt": "There, too, Tesla developed custom AI chips. \"Tesla's inference engine is among the best in performance..., giving them a real advantage,\" said Keith McMillen, CEO of BeBop Sensors, a startup designing touch sensors robots can use. FSD, short for Full ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 643,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
-      "publishedDateTime": "2022-09-30T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-10-top-artificial-intelligence-ai-applications-in-healthcare.md",
-      "title": "10 top artificial intelligence (AI) applications in healthcare",
-      "excerpt": "As AI continues to be applied across the healthcare spectrum — from administration to patient interaction and medical research, diagnosis and treatment — here's how it's making an impact.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/",
-      "originalUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/Zebra-Medical-FDA-approval-AI-heart-disease.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/",
-      "publishedDateTime": "2022-09-30T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing",
-        "AI in Robotics",
         "AI in Autos"
       ]
     }

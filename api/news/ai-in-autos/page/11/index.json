@@ -2,6 +2,154 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-11-07-israel-to-start-self-driving-public-bus-pilot-programme.md",
+      "title": "Israel to start self-driving public bus pilot programme",
+      "excerpt": "Israel has launched a two-year pilot programme in which four companies will operate self-driving public buses in a bid to ease road congestion, the country's Innovation Authority said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/middle-east/israel-start-self-driving-public-bus-pilot-programme-2022-11-07/",
+      "originalUrl": "https://www.reuters.com/world/middle-east/israel-start-self-driving-public-bus-pilot-programme-2022-11-07/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=119",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-07-why-self-driving-vehicles-will-still-need-a-human-minder.md",
+      "title": "Why ‘Self-Driving’ Vehicles Will Still Need a Human Minder",
+      "excerpt": "Development of autonomous technologies is attracting billions of dollars, but industry executives say remote operators will likely always be needed",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922?mod=flipboard",
+      "originalUrl": "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922?mod=flipboard",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-650671/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-07-artificial-intelligence-could-help-ease-strain-on-hospitals.md",
+      "title": "Artificial intelligence could help ease strain on hospitals",
+      "excerpt": "Pioneering artificial intelligence (AI) which automatically diagnoses lung diseases—such as tuberculosis and pneumonia—could ease winter pressures on hospitals, University of the West of Scotland researchers believe. Tuberculosis and pneumonia ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-81.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp",
+      "publishedDateTime": "2022-11-07T01:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-how-self-driving-tractors-and-ai-are-changing-agriculture.md",
       "title": "How Self-Driving Tractors And AI Are Changing Agriculture",
       "excerpt": "As artificial intelligence (AI) and autonomous machines become more common in agriculture, the industry is going through enormous changes. Ofir Schlam, CEO and co-founder of Taranis, a leading ...",
@@ -1230,145 +1378,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-artificial-intelligence-methods-may-replace-histochemical-staining.md",
-      "title": "Artificial intelligence methods may replace histochemical staining",
-      "excerpt": "Pathologists observe tissue samples by staining them first. However, the standard procedures for staining tissue samples in histopathology are time-consuming and require specialized laboratory infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-77.jpg",
-          "width": 2880,
-          "height": 2681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.amp",
-      "publishedDateTime": "2022-10-31T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-andrej-karpathy-considers-coming-back-to-tesla-to-work-on-optimus-and-agi.md",
-      "title": "Andrej Karpathy considers coming back to Tesla to work on Optimus and AGI",
-      "excerpt": "As Tesla expanded its effort from self-driving to broader artificial intelligence, Karpathy was promoted to senior director of AI at Tesla. In March, Karpathy announced that he was going on sabbatical for four months. At the time, we reported that it was ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/10/31/andrej-karpathy-coming-back-tesla-work-optimus-agi/",
-      "originalUrl": "https://electrek.co/2022/10/31/andrej-karpathy-coming-back-tesla-work-optimus-agi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/03/Andrej-Karpathy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/10/31/andrej-karpathy-coming-back-tesla-work-optimus-agi/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/31/andrej-karpathy-coming-back-tesla-work-optimus-agi/amp/",
-      "publishedDateTime": "2022-10-31T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-as-automakers-adjust-why-are-we-still-waiting-for-driverless-cars.md",
-      "title": "As automakers adjust, why are we still waiting for driverless cars?",
-      "excerpt": "Anthony’s company, which shut down earlier this year, sought to solve the problem through an artificial intelligence system that trained cars to spot visual clues to what pedestrians are going ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2022/10/31/business/automakers-adjust-why-are-we-still-waiting-driverless-cars/",
-      "originalUrl": "https://www.bostonglobe.com/2022/10/31/business/automakers-adjust-why-are-we-still-waiting-driverless-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/cA79I_m8-REToeKBKMhKRSmGL3E=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/K5YFTNSB7PBEHGAV6BOIHT2TJU.JPG",
-          "width": 506,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-31T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

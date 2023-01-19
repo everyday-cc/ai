@@ -2,6 +2,153 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-01-honda-to-develop-advanced-level-3-self-driving-technology-by-2029.md",
+      "title": "Honda to develop advanced level 3 self-driving technology by 2029",
+      "excerpt": "TOKYO, Dec 1 (Reuters) - Honda (7267.T) said it would develop technology enabling its level 3 self-driving capability to function at any speed below legal limits on highways by the second half of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/honda-develop-advanced-level-3-self-driving-technology-by-2029-2022-11-30/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/honda-develop-advanced-level-3-self-driving-technology-by-2029-2022-11-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/QrJXIFEIbZhsR71wwDc8QVbn9Wk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XQGVWFZPRBOVFNJTGYYIWL7DH4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T19:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-driverless-parking-service-begins-commercial-operation-at-stuttgart-airport.md",
+      "title": "Driverless parking service begins commercial operation at Stuttgart Airport",
+      "excerpt": "The development partners say that the commercial approval from Germany's Federal Motor Transport Authority to operate its driverless parking system at the APCOA P6 parking garage at Stuttgart ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/mercedes-bosch-commercial-automated-valet-parking-stuttgart/",
+      "originalUrl": "https://newatlas.com/automotive/mercedes-bosch-commercial-automated-valet-parking-stuttgart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/1d9a14e/2147483647/strip/true/crop/4961x2605+0+93/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fca%2F57%2F77bc3e2b45cbb56a8cb81ce6b578%2F22c0242-007.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T10:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-baidu-to-supply-l2-driver-assisting-anp-30-mid-2023.md",
+      "title": "Baidu to supply L2+ driver-assisting ANP 3.0 mid-2023",
+      "excerpt": "Baidu unveiled its latest progress on unifying L4 and L2+ autonomous driving technology on Apollo Day held on November 29 and announced that it will deliver L2+ driver-assisting product \"ANP 3.0 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20221130VL211/adas-baidu.html",
+      "originalUrl": "https://www.digitimes.com/news/a20221130VL211/adas-baidu.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20221130vl211_files/2_2b.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars.md",
       "title": "Honda Plans New Autonomous Features but Sees Long Road Ahead to Self-Driving Cars",
       "excerpt": "The auto maker said it would focus for now on partially autonomous driving technology to improve safety, joining others that say fully self-driving cars aren’t ready for prime time.",
@@ -1240,156 +1387,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-whats-next-for-baidu-after-q3-earnings-beat.md",
-      "title": "What’s Next For Baidu After Q3 Earnings Beat?",
-      "excerpt": "Total revenue rose 2% year-over-year to 32.54 billion yuan ($4.55 billion), with adjusted net income rising by about 15% to 5.89 billion yuan ($828 million).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/11/28/whats-next-for-baidu-after-q3-earnings-beat/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/11/28/whats-next-for-baidu-after-q3-earnings-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63842e5e8fbec870944597a0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/11/28/whats-next-for-baidu-after-q3-earnings-beat/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/11/28/whats-next-for-baidu-after-q3-earnings-beat/amp/",
-      "publishedDateTime": "2022-11-28T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america.md",
-      "title": "Tesla's Full Self-Driving Beta Available to Anyone That Pays in North America",
-      "excerpt": "The software is available to everyone in North America, Tesla’s CEO Elon Musk announced this week. Tesla Inc’s Full Self-Driving Beta software is available to everyone in North America, Tesla’s CEO Elon Musk announced this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america",
-      "originalUrl": "https://www.pcmag.com/news/teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02OshWCfdI1EhLBcurR6BqR-1.fit_lim.size_1200x630.v1669587586.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-27T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-tsa-faces-ethical-limits-on-ai-but-advancement-work-must-persist.md",
-      "title": "TSA faces ethical limits on AI, but advancement work must persist",
-      "excerpt": "The potential competitive advantage offered by AI is enormous. Yet transitions from the research lab to practice will remain choppy and uncertain, which will help ensure that progress is measured, methodical and slow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stripes.com/opinion/2022-11-27/tsa-artificial-intelligence-8207585.html",
-      "originalUrl": "https://www.stripes.com/opinion/2022-11-27/tsa-artificial-intelligence-8207585.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.stripes.com/incoming/iqzdwc-oped-tsa-artificial-intelligence-commentary-get.jpg/alternates/LANDSCAPE_480/OPED-TSA-ARTIFICIAL-INTELLIGENCE-COMMENTARY-GET.jpg",
-          "width": 480,
-          "height": 299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-27T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stars and Stripes",
-        "domain": "stripes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare",
-        "Machine Learning"
       ]
     }
   ],
