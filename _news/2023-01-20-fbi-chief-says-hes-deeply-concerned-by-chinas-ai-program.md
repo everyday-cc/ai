@@ -1,31 +1,20 @@
 ---
 category: news
-title: "FBI chief says he’s ‘deeply concerned’ by China’s AI program"
-excerpt: "WASHINGTON (AP) — FBI Director Christopher Wray said Thursday that he was “deeply concerned” about the Chinese government’s artificial intelligence program, asserting that it was “not constrained by the rule of law.” Speaking during a panel ..."
-publishedDateTime: 2023-01-19T18:19:00Z
-originalUrl: "https://www.live5news.com/2023/01/19/fbi-chief-says-hes-deeply-concerned-by-chinas-ai-program/"
-webUrl: "https://www.live5news.com/2023/01/19/fbi-chief-says-hes-deeply-concerned-by-chinas-ai-program/"
-ampWebUrl: "https://www.live5news.com/2023/01/19/fbi-chief-says-hes-deeply-concerned-by-chinas-ai-program/?outputType=amp"
-cdnAmpWebUrl: "https://www-live5news-com.cdn.ampproject.org/c/s/www.live5news.com/2023/01/19/fbi-chief-says-hes-deeply-concerned-by-chinas-ai-program/?outputType=amp"
+title: "FBI chief says he's 'deeply concerned' by China's AI program"
+excerpt: "FBI Director Christopher Wray says he is “deeply concerned” about the Chinese government’s artificial intelligence program, asserting that it was “not constrained by the rule of law.”."
+publishedDateTime: 2023-01-19T20:54:00Z
+originalUrl: "https://www.local10.com/news/politics/2023/01/19/fbi-chief-says-hes-deeply-concerned-by-chinas-ai-program/"
+webUrl: "https://www.local10.com/news/politics/2023/01/19/fbi-chief-says-hes-deeply-concerned-by-chinas-ai-program/"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
-  name: Live 5 News
-  domain: live5news.com
+  name: WPLG
+  domain: local10.com
 
 topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://gray-wcsc-prod.cdn.arcpublishing.com/resizer/yU_mCK1JawU_m_dn4ptApi9iWNY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/YSIG55RN2RBUXN6NJWESEPELTY.png"
-    width: 800
-    height: 450
-    isCached: true
-
-secured: "zDQ4nRLAHagqRpxX0TstK0GUjRR0UISwp35/qbasRXG9DKeszf+r4yBmIZgnKlsY8AF4p858bMETo96T8zReGRdjPDMB4yLqMbOhF5TPnCCkL2ofbo/AfNo0jNk8Nr8+uBemWnDvl9Vtk1LEBRvyIT4YNncRXXxoCWAu1uLRuIX+lqPecMXMA3N9jA3LFbiSlqD6yjxhtHDXGf/0BhF2CXz5popF/HD6DA0pPylEJJtV2zSrgaxsw0b+OvmEmGEmyiEeMn15UhIDDqR9X2U+oEvFFbJQ7IY3u19/xL7aqlvJguIdt0hOwKjHBh/61EQGs3yPghBfjJpKLMxmi4Ke9AG3niNcpwPrsU0B6vTO5b4=;cX8w3grBfRbm1Lj7GFulDw=="
+secured: "xevFsZQsV4tZXsX7Jl0leWNuRYXGvxk12Zt+tnNyANp1wkzjy0b0hLcINzNTIUfUalgFrb7C2mPgo7vBC9r2KgbrrXpG2kyKCsShYP80e42yxdSv3nqn6xuxoQxvQFlPMQqqRXT/ZyDZDuSR9S5ddHFVi1dSNV1xd544bx0pc4+HGW6cmIP9IIv9d519OLSfjo0cRKy7BSJj01PgiyQtFyK4K9rWZfKKC0CiCXRODFCm1Nc9SbFcNyNJsZffjlCtISIq48t/mue+EEn3GLCWe5XvQn2Xg3tLQh/aRLym+6i85NsVBp+k0Zy0fnV7PQyb50snr9UfKwiRolYkbHghPO4ERkhdxst2VQlTQ6RP83t0eY6fiyTPp/Oyy0T9w3LtNYsMaIBJxWdYVBpiz13OEzgwzolRURsY6hMhQcLvQsZJZ/O/6nDwSWXX3xbSXs7npM4Zq87HiYd4QVXivSsz26KUb92gwD7YN9PIjLoh2ubu0KqS7DELO8FQSWKUrkbNDBqP6JdTnvozmpH9bs8jdg==;zU6l2g5dip7mSIzLKTRNmA=="
 ---
 

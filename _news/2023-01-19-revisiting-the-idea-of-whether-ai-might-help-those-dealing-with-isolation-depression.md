@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Hardware
 
 images:
   - url: "https://media.npr.org/assets/img/2014/03/18/noguchi_4_custom-a529dd06c9bdcc061d054e32d18b52bc466bbb1b.jpg"
@@ -37,6 +38,6 @@ related:
       domain: forbes.com
     quality: 49
 
-secured: "tpbhishTEzu9GgiZcql1jUTt1pQZLY+T2K+Ay4MBkNPvohBLUtfg/LBgTKcGBmxyhwUHItyiSkBRj5eRpX5uuj/Rf4WGAxoLeYZwWRoMN5hnjsLs8xcJKj8O574ORYIpCOj+3xk0kXZl/9114KLdP3tgJSlaWGFX5o9WFf1Hel6jS1ioHxsekmB/oLqFJOI8WW9KeHgYkVkNW7O8+4sIp36i5JS8eWN++ADQK1SWmHg00sO2+wEptPOXwQU1XTtjHwUiQTZvIZT7xfVi8dNCm6VX3Smzve+0sjf/syn7BJ7Z7u+4ycsmFg2T+2oZRwcQfgm3X8lbhP5Nlm5aFi+jtGLfQ174R06SiJX+ez6a1HM=;GYtcdXxL42B3wel5CRjiLQ=="
+secured: "BGVhhv+9FpmWd6szfeiEiTS8KauEVK+2Wha9QOOi6tYhbzLQRurniBeq/qMd8fClGHdUJ4ZvZ6FRkMR37bzWvOyv60VH9KDt/Fk+erREA+MpkeswKWXBWl+2z3IZb1rMhuMKwkAbdFJpFDFnxyCa6pnzZGpb/aYKUA/Q9PLnBjrsypD2/2/HA2bGJ9m1TQbuxgq7vLOXYRRjBT5GtlmXgmPx5Rc+C+A2FA7azQOleL8fg60cQJ+ruCRNOMH0CHSOUKV51SicjSyt+1rp5kIB5SnCVVCCMuuM48rUVz7u1qopuauUbTd/CuJ9VguNmkY4tYbQuy/EYhusIe7ru3dr6EO/Psf6JqCdNEWc2HnFleEq8Zuja7muxQA7gNCAnlmdKyue69m0nPVwzzRh60NkioJFaVFYuj0D0XEU76jt1/IU4VrD6Ui6LGrSgNiaW7LROdar+KMAjDdbT0GWq3dxcWnoXYLu33xOt0VYruQhUInEO9GWSRgZ5X3Yt9tUMUyPhIBab6TCplnjmmTwM75qug==;z1p5keTGQUTAvTNYhtyV+g=="
 ---
 

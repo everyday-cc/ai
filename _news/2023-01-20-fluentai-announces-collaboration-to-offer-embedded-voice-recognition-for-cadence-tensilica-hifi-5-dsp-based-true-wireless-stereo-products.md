@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Fluent.ai Announces Collaboration to Offer Embedded Voice Recognition for Cadence Tensilica HiFi 5 DSP-Based True Wireless Stereo Products"

@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-01-18_feepyk1js4.jpg"
