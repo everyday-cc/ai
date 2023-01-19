@@ -1,29 +1,29 @@
 ---
 category: news
 title: "SAS helps companies find balance in a world of ever-shifting supply chains"
-excerpt: "Take SAS Intelligent Planning Cloud on Microsoft Azure out for a spin with a free 14-day trial. SAS helps companies navigate changing preferences, shipping disruptions  \"Successful retail and consumer goods companies need to be able to react in near-real time to operational and market conditions,"
-publishedDateTime: 2023-01-16T13:22:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/01/16/9743499.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/01/16/9743499.htm"
+excerpt: "SAS® Intelligent Planning Cloud deploys quickly, creates rapid results for retailers and consumer goods manufacturers NEW YORK, /PRNewswire/ -- NRF 112th Annual Convention and EXPO -- Retailers and"
+publishedDateTime: 2023-01-16T12:07:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30427667/sas-helps-companies-find-balance-in-a-world-of-ever-shifting-supply-chains"
+webUrl: "https://www.benzinga.com/pressreleases/23/01/n30427667/sas-helps-companies-find-balance-in-a-world-of-ever-shifting-supply-chains"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1983275/SAS_resilient_supply_chains.jpg"
+  - url: "https://mma.prnewswire.com/media/1983275/SAS_resilient_supply_chains.jpg?optimize=medium&dpr=2&auto=webp&width=828"
     width: 400
     height: 267
     isCached: true
 
-secured: "EgyAe2m7pm0hv7hjfz4sfCnF7x+NbdPisWZc7RPNyBIHrOMPZju/4QnFtxN2M9K8Nl8P6NgeyRY7JGu7XTzXBVJ73SPJVYepAlxlMSeTWKpGZz9XfCxeqW6fXMQcUGCC1jO4uCwmabzRgeNUGaWz9OscdYphsOJ3P1pZLPGtnyzSW7rpOx9AwWzZktjiw44rCHdMBPJMyqGZEpWPnc+VSktTrIeUk+v9BEyJsBFjis4FSkH1lnLXlJ8xb88U8I41XbF4pWEViQNn9e2A2TQq/jCTV4RSByudTky9J/EBct96H82Yc9a3kshT/iOGU/5AzI+h1yaNqXwOOmq3y9aH+rJzKPoir0luZBw9VBlYHpR5FYp2n3E1edAlTOgJSyhDylrXQV4torERkWF1RFXDM+b/rzlmW8GKcuys1O85IHWTODcsagtD3TDoUby+mEYjDEdiLqtCH7cRK7PITnnTFmoL2A8ZKCulc+vUTorQ1/fKTZTag5ohTuCQQ6aLgSO0p/NJjosQ1ymZgpxF5uuTWQ==;R0ipceauPkswQuAWa77fQQ=="
+secured: "/BJZ92jiwcUqy+X8YCgZqe0lfoZSekMPv1+SS00GMnz3yTmjbKfoOfrukmwVxJwdaFS5TLrcEPc5mkfIpZOs92LsgJSO3YNk+EDxFfMq2WECH7GYSFH7DNf8GRIYevwb4JyDW/4N0XyFvuzYVvo5eQENexldArIGdkEIMxEc30lWzmwLimc0WjMKips/SyGiLnRndhYYp+SEhJPFMkPBSjLskASGftJAb1fAtZPdgZicuqlJctAtuqAwLv33eh4Y4zZFmz/IkqIUtEd2njRRR43cSc0YhLDRWi00mg2BtoMLr80utXVY7er3Y+xb+jXHem/lfoA4giT3+4RCetD1smcUb/3HIWQ5Ujw/uE4hATY=;ixms8VRBlgGZIkeyPZImvQ=="
 ---
 

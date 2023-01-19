@@ -2,6 +2,50 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-09-16-the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method.md",
+      "title": "The Mysterious Mathematics of AI Could be Decoded Using the Neural Network Method",
+      "excerpt": "Artificial Intelligence relies on Neural Networks making it think or process information like a human. There is both input and output but it mostly remains unknown what transpires in the processing unit of the Neural Networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techthirsty.com/the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method/",
+      "originalUrl": "https://www.techthirsty.com/the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techthirsty.com/wp-content/uploads/2022/09/Mysterious-Mathematics-of-AI-2.jpg",
+          "width": 1300,
+          "height": 859,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech Thirsty",
+        "domain": "techthirsty.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-machine-learning-gives-glimpse-of-how-a-dogs-brain-represents-what-it-sees.md",
       "title": "Machine learning gives glimpse of how a dog's brain represents what it sees",
       "excerpt": "Scientists have decoded visual images from a dog's brain, offering a first look at how the canine mind reconstructs what it sees.",
@@ -1315,40 +1359,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-hisense-selects-synaptics-dbm10l-processor-for-first-ai-enabled-always-on-voice-remote-control.md",
-      "title": "Hisense Selects Synaptics' DBM10L Processor For First AI-Enabled Always-On Voice Remote Control",
-      "excerpt": "Synaptics ® Incorporated (Nasdaq: SYNA) today announced that Hisense, a global leader in consumer electronics and home appliances, selected the DBM10L with its dedicated neural processing unit (NPU) to implement the first artificial intelligence (AI)-enabled always-on voice (AOV) remote control unit (RCU),",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/09/09/9670608.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/09/09/9670608.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

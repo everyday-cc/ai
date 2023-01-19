@@ -112,22 +112,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Microsoft Announces general availability of Azure OpenAI Service"
-    excerpt: "Microsoft makes Azure OpenAI Service generally available, which makes the world's most advanced AI, including GPT-3.5, Codex, and DALL•E 2"
-    publishedDateTime: 2023-01-17T15:34:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 89
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/01/Microsoft-Announces-general-availability-of-Azure-OpenAI-Service.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "Microsoft brings ChatGPT support to Azure: All the details"
     excerpt: "In the last couple of weeks, it has been suggested that Microsoft will bring ChatGPT tech to a few of its products and services. Now, Microsoft has o"
     publishedDateTime: 2023-01-17T06:53:00Z
@@ -174,8 +158,8 @@ related:
         isCached: true
   - title: "Microsoft and Google Will Both Have to Bear AI’s Costs"
     excerpt: "Tools such as ChatGPT could upend search and cloud computing, but the cost will be high as profit margins draw more scrutiny."
-    publishedDateTime: 2023-01-18T16:51:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-and-google-will-both-have-to-bear-ais-costs-11674006102"
+    publishedDateTime: 2023-01-19T00:03:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-and-google-will-both-have-to-bear-ais-costs-11674006102?mod=hp_minor_pos19"
     type: article
     provider:
       name: Wall Street Journal
@@ -293,6 +277,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Microsoft-banner.jpeg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Microsoft announces general availability of Azure OpenAI Service"
+    excerpt: "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation"
+    publishedDateTime: 2023-01-17T11:37:00Z
+    webUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 69
+    images:
+      - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
+        width: 788
+        height: 443
         isCached: true
   - title: "Microsoft to add ChatGPT to its Azure OpenAI service"
     excerpt: "One company that thinks it should is Microsoft, which has announced that it will feature in its Azure Open Ai service “soon”. Along with working closer with ChatGPT’s creators, OpenAI, Microsoft is also said to be readying a sizeable investment into ..."

@@ -2,6 +2,40 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-10-26-microsoft-gaming-revenue-grew-slightly-yoy-xbox-hardware-up-13-content-services-down-3.md",
+      "title": "Microsoft Gaming Revenue Grew Slightly YoY: Xbox Hardware Up 13%, Content & Services Down 3%",
+      "excerpt": "Today, Microsoft announced its financial results for the first quarter of the fiscal year 2023, related to the period between July 1, 2022, and September 30, 2022. The press release shared today ...",
+      "sourceUrl": null,
+      "webUrl": "https://twinfinite.net/2022/10/xbox-microsoft-finacials-q1-2023/",
+      "originalUrl": "https://twinfinite.net/2022/10/xbox-microsoft-finacials-q1-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Twinfinite",
+        "domain": "twinfinite.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-microsoft-celebrates-10-years-of-surface-at-its-2022-surface-event.md",
       "title": "Microsoft Celebrates 10 Years Of Surface At Its 2022 Surface Event",
       "excerpt": "I believe Microsoft has made some incredible innovations for its hardware and software over the past 10 years and with its Surface Brand. That path is marked by the Surface teams",
@@ -1302,49 +1336,6 @@
       "provider": {
         "name": "insideHPC",
         "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-fetterman-is-ready-for-full-duty-and-speaks-with-no-cognitive-deficits-his-doctor-says.md",
-      "title": "Fetterman is ready for 'full duty' and speaks with no 'cognitive deficits,' his doctor says",
-      "excerpt": "A new report from his campaign is the first major post-stroke update in months. Pennsylvania Senate candidate John Fetterman's health \"has continued to improve\" and he is speaking \"without ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/fetterman-ready-full-duty-speaks-cognitive-deficits-doctor/story?id=91739404",
-      "originalUrl": "https://abcnews.go.com/Politics/fetterman-ready-full-duty-speaks-cognitive-deficits-doctor/story?id=91739404",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/fetterman-file-gty-ml-221019_1666195068491_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/fetterman-ready-full-duty-speaks-cognitive-deficits-doctor/story?id=91739404",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fetterman-ready-full-duty-speaks-cognitive-deficits-doctor/story?id=91739404",
-      "publishedDateTime": "2022-10-20T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
         "images": null,
         "publishers": null,
         "authors": null

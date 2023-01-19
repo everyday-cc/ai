@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Here are the 12 top power players at Google leading the fight in AI against the smash hit ChatGPT"
+    excerpt: "ChatGPT could influence Google's dominance in search. Here are the 12 people inside the search giant developing AI-based technology to keep up."
+    publishedDateTime: 2023-01-18T10:07:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-power-players-chatgpt-artificial-intelligence-2023-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/63c0772f1f388b00195f4423?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Nick Cave says ChatGPT's AI attempt to write Nick Cave lyrics 'sucks'"
     excerpt: "Nick Cave has written a scathing review of an artificial intelligence system that tried to write a song \"in the style of Nick Cave\". The Bad Seeds frontman responded after a fan sent him lyrics written by ChatGPT,"
     publishedDateTime: 2023-01-17T11:47:00Z
@@ -63,20 +77,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17964/production/_128321669_gettyimages-463824907.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Here are the 12 top power players at Google leading the fight in AI against the smash hit ChatGPT"
-    excerpt: "ChatGPT could influence Google's dominance in search. Here are the 12 people inside the search giant developing AI-based technology to keep up."
-    publishedDateTime: 2023-01-18T10:07:00Z
-    webUrl: "https://www.businessinsider.com/google-ai-power-players-chatgpt-artificial-intelligence-2023-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-    images:
-      - url: "https://i.insider.com/63c0772f1f388b00195f4423?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "GPT 101: Decoding ChatGPT's Generative AI for Legal Professionals"
     excerpt: "While ChatGPT has caught the attention of many in the legal market, its underlying AI engine is where the real power—and disruption—lies."

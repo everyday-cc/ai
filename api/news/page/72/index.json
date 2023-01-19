@@ -2,6 +2,144 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2022-11-11-global-artificial-intelligence-chipsets-market-2022-to-hit-usd-24450-million-at-a-cagr-of-157-till-2028.md",
+      "title": "Global Artificial Intelligence Chipsets Market 2022 to hit USD 24450 Million at a CAGR of 15.7% till 2028",
+      "excerpt": "The global market for Artificial Intelligence Chipsets estimated at USD 10200 million in the year 2022, is projected to reach a revised size of USD 24450 million by 2028, growing",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chipsets-market-2022-to-hit-usd-24450-million-at-a-cagr-of-157-till-2028-2022-11-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chipsets-market-2022-to-hit-usd-24450-million-at-a-cagr-of-157-till-2028-2022-11-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T23:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-new-chip-expands-the-possibilities-for-ai.md",
+      "title": "New Chip Expands the Possibilities for AI",
+      "excerpt": "But these days, hardware improvements are no longer keeping pace with the enormous amount of memory and processing capacity required to run these massive algorithms. Soon, the size of AI algorithms may hit a wall.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearscience.com/2022/11/11/new_chip_expands_the_possibilities_for_ai_864336.html",
+      "originalUrl": "https://www.realclearscience.com/2022/11/11/new_chip_expands_the_possibilities_for_ai_864336.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T22:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearScience",
+        "domain": "realclearscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028.md",
+      "title": "Computer Vision Development Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028",
+      "excerpt": "Nov 11, 2022 (The Expresswire) -- \"Computer Vision Development Market\" Research Report gives detailed facts with consideration to market size, cost",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-11-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-11-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T21:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-young-onset-dementia-how-to-beat-cognitive-decline.md",
       "title": "Young-onset dementia: how to beat cognitive decline",
       "excerpt": "Dementia is a disease most often associated with growing old, the consequence of progressive decline in cognitive ability that gradually causes problems with memory, thinking and problem-solving.",
@@ -1047,153 +1185,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-altec-and-accel-works-partner-to-enhance-enterprise-digitalisation-in-southeast-asia-via-integrated-document-and-data-management.md",
-      "title": "Altec And Accel Works Partner To Enhance Enterprise Digitalisation In Southeast Asia Via Integrated Document And Data Management",
-      "excerpt": "SINGAPORE - - 10 November 2022 - , a leading provider of enterprise content platform and process automation solutions and Accel Works, a professio",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105162269/Altec-And-Accel-Works-Partner-To-Enhance-Enterprise-Digitalisation-In-Southeast-Asia-Via-Integrated-Document-And-Data-Management",
-      "originalUrl": "https://menafn.com/1105162269/Altec-And-Accel-Works-Partner-To-Enhance-Enterprise-Digitalisation-In-Southeast-Asia-Via-Integrated-Document-And-Data-Management",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-11/10/MOL_d6ef1007-1_Image_In_Body.jpg",
-          "width": 318,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T05:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-artificial-intelligence-will-become-an-indispensable-trusted-enterprise-coworker.md",
-      "title": "Artificial Intelligence Will Become An Indispensable, Trusted Enterprise Coworker",
-      "excerpt": "Artificial intelligence is transforming global markets and enterprises of all sizes. Over the next year, this transformation will become a quiet revolution. Rapid progress in areas of fundamental AI research,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forrester/2022/11/10/artificial-intelligence-will-become-an-indispensable-trusted-enterprise-coworker/",
-      "originalUrl": "https://www.forbes.com/sites/forrester/2022/11/10/artificial-intelligence-will-become-an-indispensable-trusted-enterprise-coworker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forrester/2022/11/10/artificial-intelligence-will-become-an-indispensable-trusted-enterprise-coworker/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2022/11/10/artificial-intelligence-will-become-an-indispensable-trusted-enterprise-coworker/amp/",
-      "publishedDateTime": "2022-11-10T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-ibms-latest-quantum-computing-processor-triples-the-qubits-of-its-predecessor.md",
-      "title": "IBM's latest quantum computing processor triples the qubits of its predecessor",
-      "excerpt": "IBM's latest quantum computing processor ... to tackle calculations of much greater complexity in fields such as artificial intelligence, and the design of new materials for drug discovery and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/ibm-quantum-computing-processor-osprey-140042059.html",
-      "originalUrl": "https://www.engadget.com/ibm-quantum-computing-processor-osprey-140042059.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/b1208170-5ec1-11ed-ad7f-0a8837a7224a",
-          "width": 1517,
-          "height": 894,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/ibm-quantum-computing-processor-osprey-140042059.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ibm-quantum-computing-processor-osprey-140042059.html",
-      "publishedDateTime": "2022-11-10T04:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

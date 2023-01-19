@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Chips Market Size 2023 With End-user Industries, Segments Covered in the Report"
+    excerpt: "Browse Market Size, charts, tables and figures extent in-depth TOC with 118 Report Pages on Artificial Intelligence (AI) Chips Market by Application (Electronics , Automotive , Consumer Goods ), by Type (GPU , ASIC , FPGA , CPU ) Business Outlook ..."
+    publishedDateTime: 2023-01-18T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-with-end-user-industries-segments-covered-in-the-report-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Medical Market : Reliable Business Data Analysis and Forecast by 2029 with Top Countries Data"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. A recent"
     publishedDateTime: 2023-01-18T04:07:00Z
@@ -197,10 +211,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Agriculture Market 2023 (New Report): Size is set to Grow at an Outstanding Pace in the Upcoming Years till 2029"
+    excerpt: "AI in Agriculture Market Share report provides overview of market ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Solar EVA Sheets Market Share, Size Global Growth Analysis, Gross Margin ..."
+    publishedDateTime: 2023-01-19T10:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-agriculture-market-2023-new-report-size-is-set-to-grow-at-an-outstanding-pace-in-the-upcoming-years-till-2029-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning in Manufacturing Market 2023 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2029"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Machine Learning"
     publishedDateTime: 2023-01-18T04:14:00Z
     webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-2023-key-product-segments-application-analysis-and-industry-growth-forecast-by-2029-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech Recognition Software Market 2023 (New Report): Size is set to Grow at an Outstanding Pace in the Upcoming Years till 2029"
+    excerpt: "Global Speech Recognition Software Market Research Report 2023 is spread across 120 pages and provides Size, Share, Growth, and Forecast with exclusive vital statistics, data, information, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2023-01-19T07:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-2023-new-report-size-is-set-to-grow-at-an-outstanding-pace-in-the-upcoming-years-till-2029-2023-01-19"
     type: article
     provider:
       name: MarketWatch

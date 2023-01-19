@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-18T10:07:00Z
 originalUrl: "https://www.businessinsider.com/google-ai-power-players-chatgpt-artificial-intelligence-2023-1"
 webUrl: "https://www.businessinsider.com/google-ai-power-players-chatgpt-artificial-intelligence-2023-1"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i.insider.com/63c0772f1f388b00195f4423?width=1200&format=jpeg"

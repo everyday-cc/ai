@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "AWS and Masdar City Free Zone collaborate to accelerate growth of UAE startups"
+    excerpt: "Masdar City, Abu Dhabi’s pioneering sustainable community and innovation hub, is collaborating with Amazon Web Services (AWS) to empower startups to bui"
+    publishedDateTime: 2023-01-19T10:20:00Z
+    webUrl: "https://www.albawaba.com/business/pr/aws-and-masdar-city-free-zone-collaborate-accelerate-growth-uae-startups-1506231"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/aws-and-masdar-city-free-zone-collaborate-accelerate-growth-uae-startups-1506231"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/aws-and-masdar-city-free-zone-collaborate-accelerate-growth-uae-startups-1506231"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 55
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-01/AWS%20and%20Masdar%20City%20Free%20Zone.jpg?itok=ly5lNlUS"
+        width: 2500
+        height: 1466
+        isCached: true
   - title: "Masdar City Free Zone and Amazon Web Services collaborate to accelerate growth of UAE start-ups"
     excerpt: "AWS offers more than 200 fully featured services for computer, storage, databases, networking, analytics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), and ..."
     publishedDateTime: 2023-01-17T17:50:00Z

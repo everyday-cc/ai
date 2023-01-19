@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-19-nvidia-and-microsoft-announce-plans-to-build-a-massive-ai-supercomputer.md",
+      "title": "Nvidia and Microsoft announce plans to build a ‘massive’ AI supercomputer",
+      "excerpt": "The future of artificial intelligence requires more powerful hardware to realize its potential. Nvidia and Microsoft will meet that need by building an “AI supercomputer.” Contrary to",
+      "sourceUrl": null,
+      "webUrl": "https://technology.inquirer.net/119521/nvidia-and-microsoft-supercomputer",
+      "originalUrl": "https://technology.inquirer.net/119521/nvidia-and-microsoft-supercomputer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T09:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philippine Daily Inquirer",
+        "domain": "inquirer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-cognitive-stimulation-therapy-cst-and-icst.md",
       "title": "Cognitive Stimulation Therapy (CST) and iCST",
       "excerpt": "Saint Louis University’s Geriatric Education Center (GEC) offers Cognitive Stimulation Therapy (CST), a support ... Disclaimer This project is supported by the Health Resources and Services Administration (HRSA) of the U.S. Department of Health and ...",
@@ -1307,58 +1341,6 @@
         "name": "Irish Examiner",
         "domain": "irishexaminer.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-qualys-ceo-removing-risk-in-clouds-continuous-challenge-zone.md",
-      "title": "Qualys CEO: Removing Risk In Cloud’s Continuous Challenge Zone",
-      "excerpt": "Cloud system misconfiguration is happening due to speed at which we are building and harnessing cloud itself - commercial & public organizations are grasping the flexible advantages of cloud at a speed that outpaces their approach to securing the services they themselves are adopting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/11/10/qualys-ceo-removing-risk-in-clouds-continuous-challenge-zone/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/11/10/qualys-ceo-removing-risk-in-clouds-continuous-challenge-zone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/636bd41bce450e31337fde53/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 817,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/11/10/qualys-ceo-removing-risk-in-clouds-continuous-challenge-zone/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2022/11/10/qualys-ceo-removing-risk-in-clouds-continuous-challenge-zone/amp/",
-      "publishedDateTime": "2022-11-10T15:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

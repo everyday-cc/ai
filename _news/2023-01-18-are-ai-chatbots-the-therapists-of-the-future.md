@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "DeepMind’s AI chatbot can do things that ChatGPT cannot, CEO claims"
+    excerpt: "Google’s DeepMind has pioneered advances in artificial intelligence since its founding in 2010, with the ultimate goal of creating a human-level AI (Alan Warburton / Better Images of AI / CC ..."
+    publishedDateTime: 2023-01-16T15:59:00Z
+    webUrl: "https://www.independent.co.uk/tech/deepmind-ai-chatbot-chatgpt-openai-b2262862.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 54
+    images:
+      - url: "https://static.independent.co.uk/2022/05/17/10/deepmind%20ai%20artificial%20general%20intelligence.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Haneda Airport Demos AI Chatbot 'Bebot,' a Multilingual Guidance Service"
     excerpt: "Bebot boasts a high degree of accuracy in answering questions that travelers need, including information on airport facilities and flight information."
     publishedDateTime: 2023-01-18T22:27:00Z

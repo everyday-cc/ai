@@ -57,6 +57,20 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "DeepMind’s AI chatbot can do things that ChatGPT cannot, CEO claims"
+    excerpt: "Google’s DeepMind has pioneered advances in artificial intelligence since its founding in 2010, with the ultimate goal of creating a human-level AI (Alan Warburton / Better Images of AI / CC ..."
+    publishedDateTime: 2023-01-16T15:59:00Z
+    webUrl: "https://www.independent.co.uk/tech/deepmind-ai-chatbot-chatgpt-openai-b2262862.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 54
+    images:
+      - url: "https://static.independent.co.uk/2022/05/17/10/deepmind%20ai%20artificial%20general%20intelligence.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Health tech startup achieves world-first certification for AI mental health chatbot"
     excerpt: "London headquartered health tech startup, Limbic, has announced that its psychological assessment tool, Limbic Access, has achieved Class IIa UKCA… | London | Medical | Technology | Health & Care | St"
     publishedDateTime: 2023-01-17T07:00:00Z

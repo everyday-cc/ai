@@ -2,6 +2,51 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-09-23-how-ai-generated-images-can-streamline-your-seo-game-with-dall-e-2.md",
+      "title": "How AI-generated images can streamline your SEO game with DALL-E 2",
+      "excerpt": "SEOs are always on the lookout for innovative technology that can help them amplify content creation effectively One such innovation that is on the cusp of being the next big thing in SEO and content creation is OpenAI’s DALL-E 2 What is it,",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginewatch.com/2022/09/22/how-ai-generated-images-can-streamline-your-seo-game-with-dall-e-2/",
+      "originalUrl": "https://www.searchenginewatch.com/2022/09/22/how-ai-generated-images-can-streamline-your-seo-game-with-dall-e-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.searchenginewatch.com/wp-content/uploads/2022/09/Examples-of-AI-generated-images-can-streamline-your-SEO-game-with-DALLE-2-Sad-beaver.jpg",
+          "width": 680,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.searchenginewatch.com/2022/09/22/how-ai-generated-images-can-streamline-your-seo-game-with-dall-e-2/?amp=1",
+      "cdnAmpWebUrl": "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2022/09/22/how-ai-generated-images-can-streamline-your-seo-game-with-dall-e-2/?amp=1",
+      "publishedDateTime": "2022-09-22T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "searchenginewatch",
+        "domain": "searchenginewatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-neural-network-speeds-holographic-image-reconstruction-for-biological-samples.md",
       "title": "Neural network speeds holographic image reconstruction for biological samples",
       "excerpt": "Researchers have developed a new end-to-end neural network that can speed up the reconstruction of holographic images. Unlike other deep learning techniques, the approach can be used on samples not encountered during training,",
@@ -1332,50 +1377,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method.md",
-      "title": "The Mysterious Mathematics of AI Could be Decoded Using the Neural Network Method",
-      "excerpt": "Artificial Intelligence relies on Neural Networks making it think or process information like a human. There is both input and output but it mostly remains unknown what transpires in the processing unit of the Neural Networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techthirsty.com/the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method/",
-      "originalUrl": "https://www.techthirsty.com/the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techthirsty.com/wp-content/uploads/2022/09/Mysterious-Mathematics-of-AI-2.jpg",
-          "width": 1300,
-          "height": 859,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T02:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Thirsty",
-        "domain": "techthirsty.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

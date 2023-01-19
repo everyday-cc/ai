@@ -160,6 +160,58 @@
       ]
     },
     {
+      "path": "_news/2023-01-17-rob-reiner-grilled-for-praising-biden-as-a-decent-law-abiding-person-poster-boy-for-cognitive-dissonance.md",
+      "title": "Rob Reiner grilled for praising Biden as a 'decent law abiding person': 'Poster boy for cognitive dissonance'",
+      "excerpt": "\"As of now, you're quite literally the poster boy for cognitive dissonance…\" he added. In a separate tweet, Lombardi slammed Reiner's post as a \"propaganda tweet.\" \"Yea? That’s why the FBI tri ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/rob-reiner-grilled-praising-biden-decent-law-abiding-person-poster-boy-cognitive-dissonance",
+      "originalUrl": "https://www.foxnews.com/media/rob-reiner-grilled-praising-biden-decent-law-abiding-person-poster-boy-cognitive-dissonance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/Headshot-1.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/rob-reiner-grilled-praising-biden-decent-law-abiding-person-poster-boy-cognitive-dissonance.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/rob-reiner-grilled-praising-biden-decent-law-abiding-person-poster-boy-cognitive-dissonance.amp",
+      "publishedDateTime": "2023-01-16T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-microsoft-will-soon-add-chatgpt-to-azure-openai-service-ceo-satya-nadella.md",
       "title": "Microsoft will 'soon' add ChatGPT to Azure OpenAI Service: CEO Satya Nadella",
       "excerpt": "The software giant also announced the ‘general availability’ of its Azure OpenAI Service that gives customers access to various AI tools for use in their own applications.",
@@ -1306,49 +1358,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-08-fda-approves-alzheimers-drug-shown-to-moderately-slow-cognitive-decline-in-early-stages-of-the-disease.md",
-      "title": "FDA approves Alzheimer’s drug shown to moderately slow cognitive decline in early stages of the disease",
-      "excerpt": "The Food and Drug Administration on Friday approved a new Alzheimer’s disease treatment that moderately slows cognitive decline in people with early-stage disease. The drug, called Leqembi ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2023/01/06/fda-approves-alzheimers-drug-leqembi-eisai/",
-      "originalUrl": "https://www.statnews.com/2023/01/06/fda-approves-alzheimers-drug-leqembi-eisai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statnews.com/wp-content/uploads/2019/04/AdobeStock_92675828-1024x576.jpeg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-07T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -101,6 +101,58 @@
       ]
     },
     {
+      "path": "_news/2023-01-17-achieving-next-level-value-from-ai-by-focusing-on-the-operational-side-of-machine-learning.md",
+      "title": "Achieving Next-Level Value From AI By Focusing On The Operational Side Of Machine Learning",
+      "excerpt": "To this list, I would add another reason that I have seen many organizations struggle to achieve value from their AI projects. Companies often have invested heavily in building da",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/achieving-next-level-value-from-ai-by-focusing-on-the-operational-side-of-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/achieving-next-level-value-from-ai-by-focusing-on-the-operational-side-of-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/achieving-next-level-value-from-ai-by-focusing-on-the-operational-side-of-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/17/achieving-next-level-value-from-ai-by-focusing-on-the-operational-side-of-machine-learning/amp/",
+      "publishedDateTime": "2023-01-17T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-16-machine-learning-predicts-brain-tumor-progression.md",
       "title": "Machine Learning Predicts Brain Tumor Progression",
       "excerpt": "Researchers used a deep learning model to turn the MRI data into patient-specific parameter estimates that inform a predictive model for brain tumor growth.",
@@ -1428,49 +1480,6 @@
       "provider": {
         "name": "InfoQ",
         "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-scientists-use-machine-learning-to-fast-track-drug-formulation-development.md",
-      "title": "Scientists use machine learning to fast-track drug formulation development",
-      "excerpt": "To investigate whether machine learning tools could accurately predict the rate of drug release, the research team trained and evaluated a series of eleven different models, including multiple ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-scientists-machine-fast-track-drug.html",
-      "originalUrl": "https://phys.org/news/2023-01-scientists-machine-fast-track-drug.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/university-of-toronto.jpg",
-          "width": 2880,
-          "height": 1921,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-scientists-machine-fast-track-drug.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-scientists-machine-fast-track-drug.amp",
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null

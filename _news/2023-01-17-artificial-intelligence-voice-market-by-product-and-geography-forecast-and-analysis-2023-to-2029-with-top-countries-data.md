@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Systems Market : Competitive Landscape and Analysis by Recent Trends 2023 to 2029"
+    excerpt: "A recent research report published by Precision Reports provides an overview of the \"Face Recognition Systems Market\" along with precise insights into potential future scenarios. The report suggests that this industry is expected to experience an annual ..."
+    publishedDateTime: 2023-01-19T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-competitive-landscape-and-analysis-by-recent-trends-2023-to-2029-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial recognition gates by JR West to launch at Osaka train station in March"
     excerpt: "The facial recognition tickets gates will be installed at Osaka Station's Umekita Underground Exit and Shin-Osaka Station's East Exit."
     publishedDateTime: 2023-01-18T16:29:00Z

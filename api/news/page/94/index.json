@@ -2,6 +2,143 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2022-10-22-how-to-use-midjourney-to-generate-ai-images.md",
+      "title": "How to use Midjourney to generate AI images",
+      "excerpt": "AI-generated images have never been more popular, and Midjourney is one of the best tools. Here's how to access the AI and what to know about using it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/",
+      "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/Midjourney-River.jpg?p=1",
+          "width": 1664,
+          "height": 1109,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/?amp",
+      "publishedDateTime": "2022-10-21T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-fiscalnote-provides-a-mission-critical-solution-to-address-regulatory-compliance.md",
+      "title": "FiscalNote Provides A Mission-Critical Solution To Address Regulatory Compliance",
+      "excerpt": "FiscalNote Holdings rides on a strong secular tailwind that provides it with a long runway of growth. Read what investors need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4548212-fiscalnote-provides-a-mission-critical-solution-to-address-regulatory-compliance",
+      "originalUrl": "https://seekingalpha.com/article/4548212-fiscalnote-provides-a-mission-critical-solution-to-address-regulatory-compliance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1370928101/image_1370928101.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-clinical-trials-using-new-cancer-imaging-and-treatment-technology-start-soon-in-ns.md",
+      "title": "Clinical trials using new cancer imaging and treatment technology start soon in N.S.",
+      "excerpt": "It uses artificial intelligence combined with radiation therapy to target tumours with more precision. He said he expects the therapy will result in shorter wait times and result in fewer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbc.ca/news/canada/nova-scotia/cancer-treatment-artificial-intelligence-halifax-varian-1.6619681",
+      "originalUrl": "https://www.cbc.ca/news/canada/nova-scotia/cancer-treatment-artificial-intelligence-halifax-varian-1.6619681",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.6619689.1666046131!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ethos-cancer-treatment.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.6619681",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6619681",
+      "publishedDateTime": "2022-10-21T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-22-google-in-talks-to-invest-200-million-into-ai-startup.md",
       "title": "Google in Talks to Invest $200 million Into AI Startup",
       "excerpt": "Alphabet’s Google is in talks to invest at least $200 million into artificial intelligence startup Cohere, in another sign of the escalating arms race among large technology companies in the sector.",
@@ -1026,135 +1163,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-the-cognitive-conditioning-of-the-electoral-mind-by-umar-yakubu.md",
-      "title": "The cognitive conditioning of the electoral mind, By Umar Yakubu",
-      "excerpt": "I sincerely hope and pray that as we move into the elections period with all the possibilities of change that it offers, people’s minds will open up properly to the stark realities around them ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.premiumtimesng.com/opinion/560783-the-cognitive-conditioning-of-the-electoral-mind-by-umar-yakubu.html",
-      "originalUrl": "https://www.premiumtimesng.com/opinion/560783-the-cognitive-conditioning-of-the-electoral-mind-by-umar-yakubu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.premiumtimesng.com/wp-content/files/2021/05/Umar-Yakubu.jpg",
-          "width": 498,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T23:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Premium Times",
-        "domain": "premiumtimesng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-natural-language-processing-nlp-market-projected-to-hit-us-630-billion-by-2030.md",
-      "title": "Natural Language Processing (NLP) Market Projected to Hit US$ 63.0 billion By 2030",
-      "excerpt": "The global natural language processing (NLP) market was estimated at US$ 10 billion in 2020 and anticipates growing at a significant compound annual growth rate (CAGR) of 20.2% during the forecast period from 2021-2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-projected-to-hit-us-630-billion-by-2030-2022-10-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-projected-to-hit-us-630-billion-by-2030-2022-10-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T23:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-signifyd-launches-fearless-payments-a-new-optimization-solution-to-propel-the-digital-transformation-of-payment-service-providers.md",
-      "title": "Signifyd Launches Fearless Payments, a New Optimization Solution to Propel the Digital Transformation of Payment Service Providers",
-      "excerpt": "Signifyd, the leading digital commerce protection provider, today launched Fearless Payments for payment providers, a suite of innovative solutions that empowers payment service providers (PSPs) to significantly increase authorization rates while lowering their operating costs and providing their customers with a full financial guarantee against all types of chargebacks.",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/news/payments/signifyd-launches-fearless-payments-new-optimization-solution-propel-digital",
-      "originalUrl": "https://financialit.net/news/payments/signifyd-launches-fearless-payments-new-optimization-solution-propel-digital",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

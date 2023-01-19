@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-17-dell-integrates-more-ai-power-into-updated-server-portfolio.md",
+      "title": "Dell integrates more AI power into updated server portfolio",
+      "excerpt": "Today's Dell PowerEdge event introduced a new server lineup with hardware for general purpose workloads and purpose-built systems for AI/ML.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/dell-integrates-more-ai-power-into-updated-server-portfolio/",
+      "originalUrl": "https://venturebeat.com/ai/dell-integrates-more-ai-power-into-updated-server-portfolio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/VB_Dell_poweredge_R760_011723-e1673966368373.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 726,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/dell-integrates-more-ai-power-into-updated-server-portfolio/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/dell-integrates-more-ai-power-into-updated-server-portfolio/amp/",
+      "publishedDateTime": "2023-01-17T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-amd-brings-zen-4-architecture-and-ai-to-its-mobile-processors-at-ces-2023.md",
       "title": "AMD Brings Zen 4 Architecture And AI To Its Mobile Processors At CES 2023",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead gives his coverage of AMD's newly announced mobile and desktop processors, mobile graphics, AI products, and adaptive solutions at CES 2023.",
@@ -199,6 +250,58 @@
         "Computer Vision",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-achieving-next-level-value-from-ai-by-focusing-on-the-operational-side-of-machine-learning.md",
+      "title": "Achieving Next-Level Value From AI By Focusing On The Operational Side Of Machine Learning",
+      "excerpt": "To this list, I would add another reason that I have seen many organizations struggle to achieve value from their AI projects. Companies often have invested heavily in building da",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/achieving-next-level-value-from-ai-by-focusing-on-the-operational-side-of-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/achieving-next-level-value-from-ai-by-focusing-on-the-operational-side-of-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/achieving-next-level-value-from-ai-by-focusing-on-the-operational-side-of-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/17/achieving-next-level-value-from-ai-by-focusing-on-the-operational-side-of-machine-learning/amp/",
+      "publishedDateTime": "2023-01-17T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -406,6 +509,58 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-rob-reiner-grilled-for-praising-biden-as-a-decent-law-abiding-person-poster-boy-for-cognitive-dissonance.md",
+      "title": "Rob Reiner grilled for praising Biden as a 'decent law abiding person': 'Poster boy for cognitive dissonance'",
+      "excerpt": "\"As of now, you're quite literally the poster boy for cognitive dissonance…\" he added. In a separate tweet, Lombardi slammed Reiner's post as a \"propaganda tweet.\" \"Yea? That’s why the FBI tri ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/rob-reiner-grilled-praising-biden-decent-law-abiding-person-poster-boy-cognitive-dissonance",
+      "originalUrl": "https://www.foxnews.com/media/rob-reiner-grilled-praising-biden-decent-law-abiding-person-poster-boy-cognitive-dissonance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/Headshot-1.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/rob-reiner-grilled-praising-biden-decent-law-abiding-person-poster-boy-cognitive-dissonance.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/rob-reiner-grilled-praising-biden-decent-law-abiding-person-poster-boy-cognitive-dissonance.amp",
+      "publishedDateTime": "2023-01-16T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1090,153 +1245,6 @@
         "AI",
         "AI in Sales",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-why-we-focus-on-ai-and-to-what-end.md",
-      "title": "Why we focus on AI (and to what end)",
-      "excerpt": "Today we published a paper outlining why we pursue AI. Read on for a preview, or visit ai.google to see the paper in full.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/why-we-focus-on-ai-and-to-what-end/",
-      "originalUrl": "https://blog.google/technology/ai/why-we-focus-on-ai-and-to-what-end/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_narrative_hero.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-16T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-the-10-scariest-future-tech-trends-everyone-must-know-about-right-now.md",
-      "title": "The 10 Scariest Future Tech Trends Everyone Must Know About Right Now",
-      "excerpt": "Is technology in the news keeping you awake at night? Should it be? Here are some of the scariest future tech trends that should be on your radar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/16/the-10-scariest-future-tech-trends-everyone-must-know-about-right-now/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/16/the-10-scariest-future-tech-trends-everyone-must-know-about-right-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c4f26d17dacdb903c92cf2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/16/the-10-scariest-future-tech-trends-everyone-must-know-about-right-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/16/the-10-scariest-future-tech-trends-everyone-must-know-about-right-now/amp/",
-      "publishedDateTime": "2023-01-15T21:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-driverless-cars-may-worsen-congestion-by-85-percent-a-report-claims-amid-2025-rollout.md",
-      "title": "Driverless cars may worsen congestion by 85 percent, a report claims amid 2025 rollout",
-      "excerpt": "It has been claimed in a Government report that driverless cars may worsen congestion by 85 percent. The claim by the Department of Transport comes amid thoughts of such vehicles becoming ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont",
-      "originalUrl": "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/1/590x/Traffic-1721675.jpg?r=1673839653328",
-          "width": 590,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont/amp",
-      "publishedDateTime": "2023-01-15T20:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

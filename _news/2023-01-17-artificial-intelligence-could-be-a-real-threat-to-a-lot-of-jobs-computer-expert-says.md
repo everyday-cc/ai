@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Artificial intelligence could be a 'real threat' to 'a lot of jobs,' computer expert says"
-excerpt: "WEST PALM BEACH, Fla. — Artificial intelligence. You are going to begin hearing a lot more about it. AI, as it is called, is coming to your home, your job, your life in ways you never thought ..."
-publishedDateTime: 2023-01-16T23:10:00Z
-originalUrl: "https://www.wptv.com/news/technology/artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says"
-webUrl: "https://www.wptv.com/news/technology/artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says"
-ampWebUrl: "https://www.wptv.com/news/technology/artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says?_amp=true"
-cdnAmpWebUrl: "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/technology/artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says?_amp=true"
+excerpt: "AI, as it is called, is coming to your home, your job, your life in ways you never thought possible. At least, that is what computer experts are saying."
+publishedDateTime: 2023-01-16T21:07:00Z
+originalUrl: "https://www.wptv.com/news/region-c-palm-beach-county/west-palm-beach/artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says"
+webUrl: "https://www.wptv.com/news/region-c-palm-beach-county/west-palm-beach/artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says"
+ampWebUrl: "https://www.wptv.com/news/region-c-palm-beach-county/west-palm-beach/artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says?_amp=true"
+cdnAmpWebUrl: "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/region-c-palm-beach-county/west-palm-beach/artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says?_amp=true"
 type: article
-quality: 50
-heat: 50
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
   domain: wptv.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -26,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "24kfu7GYUnCYAXlYhqYc22hy9O0lxEUu66Tk+MQ0/cfCWb/Ewms1sS0HXWWlieeqdQZ4Od3phqZsUYJtnoUCv8vWzrEW+ewNvMK8u1m65O8EVmIEw+q3yo/4vVVVbnaGTJmXO6VF7FsT1MbHS12tvTvB6jluFy2gnkXCVySt8IFGDJXsOJqnC9yMBpMoEYpTnlYq5qOVFoW7zMFSaR1ZO0CAzFebWSkE69GYnlYCMJOExFrX/iHzxUN4oFJVv1R6Jbzx4o2ZkwgQ9/hdT/uC0Rp6Ymij6PlVoAodzq5YcmSegZr6XRykYwF4sMhdmm8ME2fliecUiKhXYMsykLNVumwb/6Bl0+uPuv7T9mc7VI4=;danrgqNL3nUNFpmP5QHYQg=="
+secured: "n4mdrSB5jmpldRMS9YubqFML5JMPI+VK9L2cDDAWQdVp3lxF+qrLwxvgi4V7c0kwuBNkUxkph7Ch+6eLaP5FMlFY6CV3wyz0Tyr1zUpTa1lAJU6SE66pP2z07aGwbVWoNzqhT6Bxg71JXoqB7rv7tbejzHrnE3P+DjBEJL6h2Rw3rqAJ8E/FPnaR4D0TX+YdBkYyCc97FBPUPgEEFBdMCEZnuZqDnkV3Uq6FRPoULx3M78epQm1ctmEg5yMDMslI59Xh9/g8fxB7P6LdOuUx6apohE7XbtpKzz1JUxOiAoD96T+r5zGTATGVsnF5ydfVX7uCY27+hsEX52Peza0IzRHm03cFp/5TdgqQAKvyDp8=;Y5yc3Z5MAdxm0VEy0HgsLw=="
 ---
 

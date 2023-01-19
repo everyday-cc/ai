@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/business/pr/masdar-city-free-zone-and-a
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/masdar-city-free-zone-and-amazon-web-services-collaborate-accelerate-growth-uae-start"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS and Masdar City Free Zone collaborate to accelerate growth of UAE startups"
+    excerpt: "Masdar City, Abu Dhabi’s pioneering sustainable community and innovation hub, is collaborating with Amazon Web Services (AWS) to empower startups to bui"
+    publishedDateTime: 2023-01-19T10:20:00Z
+    webUrl: "https://www.albawaba.com/business/pr/aws-and-masdar-city-free-zone-collaborate-accelerate-growth-uae-startups-1506231"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/aws-and-masdar-city-free-zone-collaborate-accelerate-growth-uae-startups-1506231"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/aws-and-masdar-city-free-zone-collaborate-accelerate-growth-uae-startups-1506231"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 55
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-01/AWS%20and%20Masdar%20City%20Free%20Zone.jpg?itok=ly5lNlUS"
+        width: 2500
+        height: 1466
+        isCached: true
   - title: "Masdar City Free Zone and Amazon Web Services collaborate to accelerate growth of UAE start-ups"
     excerpt: "Masdar City Free Zone start-ups will gain access to Amazon Web Services Activate as well as technical support to help build and scale their companies"
     publishedDateTime: 2023-01-17T11:27:00Z
