@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/amp/"
 type: article
 quality: 84
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -98,20 +98,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Big-data-technology-767x633-2.jpg"
         width: 767
         height: 633
-        isCached: true
-  - title: "Got It AI launches truth checking tool to fix ChatGPT’s inaccuracies"
-    excerpt: "Autonomous conversational artificial intelligence startup Got It AI Inc. said today it has developed a new “truth checker” tool for the popular chatbot ChatGPT that can identify when it is ..."
-    publishedDateTime: 2023-01-14T10:41:00Z
-    webUrl: "https://siliconangle.com/2023/01/13/got-ai-launches-truth-checking-tool-fix-chatgpts-inaccuracies/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/got-it-ai.png"
-        width: 1079
-        height: 622
         isCached: true
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."

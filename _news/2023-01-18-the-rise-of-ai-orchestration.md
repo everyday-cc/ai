@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 772
         isCached: true
-  - title: "The Coming Democratization Of Financial Services, Thanks To Artificial Intelligence"
-    excerpt: "AI is successfully reducing financial service costs and accessibility for those who have been left out or had limited access to traditional banking options."
-    publishedDateTime: 2023-01-14T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/01/14/the-coming-democratization-of-financial-services-thanks-to-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/01/14/the-coming-democratization-of-financial-services-thanks-to-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/01/14/the-coming-democratization-of-financial-services-thanks-to-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63c225936b343c8425964a41/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 730
-        isCached: true
   - title: "Is Artificial Intelligence a Fad or the Next Big Thing?"
     excerpt: "AI has captured a lot of people's attention, but the impact of this new technology may not be felt in the way you think."
     publishedDateTime: 2023-01-18T16:47:00Z

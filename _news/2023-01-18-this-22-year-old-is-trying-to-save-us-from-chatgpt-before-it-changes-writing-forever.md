@@ -110,20 +110,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Got It AI launches truth checking tool to fix ChatGPT’s inaccuracies"
-    excerpt: "Autonomous conversational artificial intelligence startup Got It AI Inc. said today it has developed a new “truth checker” tool for the popular chatbot ChatGPT that can identify when it is ..."
-    publishedDateTime: 2023-01-14T10:41:00Z
-    webUrl: "https://siliconangle.com/2023/01/13/got-ai-launches-truth-checking-tool-fix-chatgpts-inaccuracies/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/got-it-ai.png"
-        width: 1079
-        height: 622
-        isCached: true
   - title: "Does Exposing And Logging Those Generative AI ChatGPT Erroneous And Hallucinatory Outputs Do Any Good, Asks AI Ethics And AI Law"
     excerpt: "Here are some examples of generative AI ChatGPT producing falsehoods in the outputted essays, which raises questions including whether we should be logging these. AI Ethics and AI Law issues arise."
     publishedDateTime: 2023-01-18T12:01:00Z

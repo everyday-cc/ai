@@ -8,7 +8,7 @@ webUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artifici
 ampWebUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
 type: article
-quality: 37
+quality: 41
 heat: -1
 published: false
 
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 related:
   - title: "Commentary: Artificial intelligence can’t reproduce the wonders of original human creativity"

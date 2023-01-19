@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-impleme
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-implementation-is-edging-ahead-of-the-us/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Coming Democratization Of Financial Services, Thanks To Artificial Intelligence"
-    excerpt: "AI is successfully reducing financial service costs and accessibility for those who have been left out or had limited access to traditional banking options."
-    publishedDateTime: 2023-01-14T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/01/14/the-coming-democratization-of-financial-services-thanks-to-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/01/14/the-coming-democratization-of-financial-services-thanks-to-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/01/14/the-coming-democratization-of-financial-services-thanks-to-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63c225936b343c8425964a41/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 730
-        isCached: true
   - title: "The Rise of AI Orchestration"
     excerpt: "Most businesses don’t yet understand what AI orchestration is, and fewer recognize its game-changing value. It’s time to do some homework."
     publishedDateTime: 2023-01-17T22:57:00Z

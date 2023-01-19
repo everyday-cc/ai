@@ -94,20 +94,6 @@ related:
       name: Mashable
       domain: mashable.com
     quality: 47
-  - title: "Got It AI launches truth checking tool to fix ChatGPT’s inaccuracies"
-    excerpt: "Autonomous conversational artificial intelligence startup Got It AI Inc. said today it has developed a new “truth checker” tool for the popular chatbot ChatGPT that can identify when it is ..."
-    publishedDateTime: 2023-01-14T10:41:00Z
-    webUrl: "https://siliconangle.com/2023/01/13/got-ai-launches-truth-checking-tool-fix-chatgpts-inaccuracies/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/got-it-ai.png"
-        width: 1079
-        height: 622
-        isCached: true
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
     publishedDateTime: 2023-01-17T18:30:00Z
@@ -185,6 +171,6 @@ related:
         height: 630
         isCached: true
 
-secured: "hrxgg88b2SeMBN+u5Zd8RM2g80X95Bywjds2ktb3KvRuD4kpjkUOYBTPz5nNcaFUTrfWr+5dgXzNfwRWMZ25BkaXhatOy8dPUKaXyyKbWw/4MKTao6EQ2CyUdt7y7FwWisk7NDRfeClXV6TZvYUo+u+DkWg/fV9F0pdv4A5froe1P4Vfy+S37T+L+Cu+VgC+6Phns5dSNudpErKYEt766WdI5HK0AxJ5Cd/pzJYlAdncOqpIsY9LfBvzxubpBVRPwTxcYwOTP+x8hBBviMWTivLOV8WpQmjHKshM+zNzZt5oIFS6R1ZMtd19w1Q7eFidvgtq8qtMKOWZ42tausLA3n4F5F/RliAReWcl/g1M5js=;j+9r6OW02SfFeVGU6O08ww=="
+secured: "C90dI8PVpSIVTZpxXGIABvm9ULbZxrclefLoH3F0SYsZ+LQfK7WuJJzJVnVrNdw5pvtv2BwKm66pJ2+i9ag13lJIlzyCqmSbVf4v0Rf4tc1Ux2Wk6NmaX1rccF0hFwz02wJQSTE7AVgwCggsoREj6hAjKm1O7zohmE44ZnAR21JfpBQhFgp39r+a49acqznpwoFaKDNlXYpxzHJYKHNXgIuD5H0UCPC1lzgNNe3xheljHhZnd4/Uts+n1nJYX40eE5NijbT4c7XzNDGm02KLGPLKZCcGNWqHxSJmxq+ckJGkuZqEZyk71EQU4RJ5nxkUNYO1zRs4+tnsRSoojLl5NuFE0lE/tovdVvasT1zvmmW73tWUlFwdlxqAadpdgGeeqbjmnTNBrElzLvhnKn1FzLR2nA7hQCPk5FYGfmke/bK6DvqVQ1XBAMyDa0jdUjP8tm0YIlAKrUrRVSm4W5WH4xSR0cnzRkxysaG0pA0t47ZmdwfTYRqhWulbVWAtIOiB2r79oYFh5WUB+1e9ZpJ66A==;lQ5VCiOCrmwonxLzGWd5UA=="
 ---
 

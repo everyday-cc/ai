@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Microsoft Announces general availability of Azure OpenAI Service"
-excerpt: "Microsoft makes Azure OpenAI Service generally available, which makes the world's most advanced AI, including GPT-3.5, Codex, and DALL•E 2"
-publishedDateTime: 2023-01-17T15:34:00Z
-originalUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
-webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
-ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
-cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
+title: "Microsoft announces general availability of Azure OpenAI Service"
+excerpt: "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation"
+publishedDateTime: 2023-01-17T11:37:00Z
+originalUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
+webUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
 type: article
-quality: 89
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: enterprisetalk
-  domain: enterprisetalk.com
+  name: Information Age
+  domain: information-age.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://enterprisetalk.com/wp-content/uploads/2023/01/Microsoft-Announces-general-availability-of-Azure-OpenAI-Service.jpg"
-    width: 1500
-    height: 844
+  - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
+    width: 788
+    height: 443
     isCached: true
 
 related:
@@ -665,6 +663,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "pXGaJw/jwa37fWj447/HaWgClm4ox1iOsLhmvdaGUnx9VzyS0hpyhlZYZRsrtdlj6kJiE9MbgIBOPpHQuffpl7hjvkX3YfZcREVihFEQHz5CS2Z51utM8OzEBJBdb/WuOJyrCEBBCAIE7IoVSpxRfcPOVbfgUXCdcMww9pvdJ7KYcWY2QG2icafQ8EVTzKPQ8Ru3BeE9vYQyIx6mCjbv9N/SflLGW4Q4GnqVZ+hJg+NoBHYUN2l1/hbKXGtM1u1o2nWmJ7+59ZCAXNOUM7k/AIy+EwOKrHwc3baigbYZqALlrSNKbZr7Ue68cgD55QUefkH9vmQeAd3n6ruQHCAkPbHQCCvSddDjEkwKY7RzDfA=;0UBj8rs1wfxT9hlZ1mekBQ=="
+secured: "kA4ZHfDDTdheU9igQvOsgdvTVVJ6hn2pjABjW2sc2cGVfpL42dZqNiWOKUjwvpaovPWU4TlhPzJdW9CrsewgRYwPR+YXquGktRkG1dKP9JaNCAd19sE0+3AfqdxmymeimRunHMqG18/6sjplm/Hek4UWgoO9TchBUnebQdaCJFdj2i0qBijxP1TcLr/5jIWAOloCBolUWE8ZcgW2M4aWXKY2FU4vOj0DXkXaQ6VLNFuffzbX+Lky8tUBELCj/LzT6NGZPrDaSwlYVjbqft4hZluKXprw42GwUcPo5wc+ygyLKSv3tgg5S6paoo1xoZhDyeXfalVk8+kVdbTF+N8qEfDQs9jeJgIQuKYGfnqtj10=;2ywKX5ZhvOE7b4y8QHsl5Q=="
 ---
 

@@ -37,22 +37,6 @@ related:
         width: 708
         height: 419
         isCached: true
-  - title: "Is this by Rothko or a robot? We ask the experts to tell the difference between human and AI art"
-    excerpt: "An art historian, a critic and a gallerist are tasked with guessing whether a piece is by an important artist or a clever bot. It turns out it’s harder than it looks"
-    publishedDateTime: 2023-01-14T10:55:00Z
-    webUrl: "https://www.theguardian.com/artanddesign/2023/jan/14/art-experts-try-to-spot-ai-works-dall-e-stable-diffusion"
-    ampWebUrl: "https://amp.theguardian.com/artanddesign/2023/jan/14/art-experts-try-to-spot-ai-works-dall-e-stable-diffusion"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2023/jan/14/art-experts-try-to-spot-ai-works-dall-e-stable-diffusion"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 61
-    images:
-      - url: "https://i.guim.co.uk/img/media/37d5fb8c7088957db1fb986ef9910abf56f43acc/43_1185_3220_1930/master/3220.jpg?width=620&quality=85&auto=format&fit=max&s=35ca6d25813d02bae2522044bccabb77"
-        width: 620
-        height: 372
-        isCached: true
   - title: "A Robot Able to “Smell” Using a Biological Sensor"
     excerpt: "A new biological sensor sends electrical information in response to the presence of an odor which the robot is able to detect and interpret."
     publishedDateTime: 2023-01-17T20:29:00Z
