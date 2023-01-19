@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2023/01/tesla-staged-2016-self-driving-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/01/tesla-staged-2016-self-driving-demo-says-senior-autopilot-engineer/amp/"
 type: article
 quality: 89
-heat: 289
+heat: 299
 published: true
 
 provider:
@@ -138,6 +138,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/56c916f99dd962472fe7082b84f3cd41ceacf303/0_112_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=f1bdacc32bb58b45ef85f0b20bafe659"
         width: 620
         height: 372
+        isCached: true
+  - title: "Tesla hits a new bump, accused of staging self-driving promotional video"
+    excerpt: "A senior Tesla engineer has testified that the 2016 video released by the carmaker to showcase its EVs' self-driving technology was staged."
+    publishedDateTime: 2023-01-19T17:59:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-hits-a-new-bump-accused-of-staging-self-driving-promotional-video-41674107708779.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-hits-a-new-bump-accused-of-staging-self-driving-promotional-video/amp-41674107708779.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/electric-vehicles/tesla-hits-a-new-bump-accused-of-staging-self-driving-promotional-video/amp-41674107708779.html"
+    type: article
+    provider:
+      name: Auto News India
+      domain: hindustantimes.com
+    quality: 58
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2023/01/19/1600x900/2021-tesla-model-x_1621055198406_1674109685302_1674109685302.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Tesla alleged to have faked self driving video"
     excerpt: "Musk used it as evidence that his cars drove themselves  A 2016 video that Tesla used to promote its self-driving technology gave the vehicle features which were vapourware so that its owner Elon Musk as could prove that “Tesla drives itself."

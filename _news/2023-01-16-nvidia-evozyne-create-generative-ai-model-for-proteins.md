@@ -38,20 +38,6 @@ related:
         width: 1963
         height: 1104
         isCached: true
-  - title: "Even Nvidia Is Using AI to Improve Its Products -- What Shareholders Need to Know"
-    excerpt: "In today's video, Jose Najarro and Nick Rossolillo discuss Nvidia (NVDA 2.35%) and recent reports of the company using artificial intelligence to optimize some of its software upd"
-    publishedDateTime: 2023-01-15T12:30:00Z
-    webUrl: "https://www.fool.com/investing/2023/01/15/even-nvidia-is-using-ai-to-improve-its-products-wh/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 64
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/716457/copy-of-jose-najarro-43.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Exigent AI Admitted to NVIDIA Inception Program for Startups"
     excerpt: "Exigent AI is excited to announce that it has been selected to join NVIDIA Inception, the world's leading AI and data science startup program. NVIDIA Inception provides support to pioneering startups that leverage AI to transform different industries ..."
     publishedDateTime: 2023-01-17T09:31:00Z

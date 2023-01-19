@@ -33,6 +33,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 43
+  - title: "AI Tools Can Create New Images, But Who is the Real Artist?"
+    excerpt: "Getty said it has begun legal proceedings in the High Court of Justice in London against Stability AI — the maker of Stable Diffusion —- for infringing intellectual property r"
+    publishedDateTime: 2023-01-19T17:17:00Z
+    webUrl: "https://www.manufacturing.net/automation/news/22657922/ai-tools-can-create-new-images-but-who-is-the-real-artist"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/01/AI.63c977bd8c73c.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C171%2C1920%2C1080&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI tools can create new images, but who is the real artist?"
     excerpt: "Countless artists have taken inspiration from “The Starry Night” since Vincent Van Gogh painted the swirling scene in 1889. Now artificial intelligence systems are doing the same, training themselves on a vast collection of digitized artworks to produce new images you can conjure in seconds from a smartphone app."
     publishedDateTime: 2023-01-19T14:07:00Z

@@ -149,6 +149,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Tesla hits a new bump, accused of staging self-driving promotional video"
+    excerpt: "A senior Tesla engineer has testified that the 2016 video released by the carmaker to showcase its EVs' self-driving technology was staged."
+    publishedDateTime: 2023-01-19T17:59:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-hits-a-new-bump-accused-of-staging-self-driving-promotional-video-41674107708779.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-hits-a-new-bump-accused-of-staging-self-driving-promotional-video/amp-41674107708779.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/electric-vehicles/tesla-hits-a-new-bump-accused-of-staging-self-driving-promotional-video/amp-41674107708779.html"
+    type: article
+    provider:
+      name: Auto News India
+      domain: hindustantimes.com
+    quality: 58
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2023/01/19/1600x900/2021-tesla-model-x_1621055198406_1674109685302_1674109685302.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Tesla alleged to have faked self driving video"
     excerpt: "Musk used it as evidence that his cars drove themselves  A 2016 video that Tesla used to promote its self-driving technology gave the vehicle features which were vapourware so that its owner Elon Musk as could prove that “Tesla drives itself."
     publishedDateTime: 2023-01-18T10:34:00Z
@@ -310,6 +326,6 @@ related:
       domain: dailydot.com
     quality: 15
 
-secured: "OLEoR4S2zcirzkkWmrpREwdLN8TmwYTwwpHQPVfHWtbhJyVKmQYxfF+bjuO9n6D3ZA0C7OagXV6UlFcsuSDfmq74LevevV1PPiFZPzXli9fWc18DCWlfgEVzDBDsG10jBlGMv+qw0BLG8fz28DXCKPtV3x0LYnpot7k/VyolK+9+3qcytNAEJ5h7CTw6SDYZ+KCr1RelOV1TXUfv2n3YaeNbJA22iDoQRR7pi17ZnOCbXspKPo90+OfbUqosLMsmRg7EaylvPIKZDId4VcbrnhfI2zjPwgrnkqPpdu3O5h7HRdMoKhejk/FHGt5FhBFLZ2cpZPBVG9Sg0S04hYAOgcuFOKMsUCwOg4enZEQyYpU=;cM2TODtBoFC1OUT3UhY07g=="
+secured: "i3+6Of87Co2RFUilOZwUSHLPdJbCiiKs9Z5f47KBZNiKqavp0lFEAcYkaVTJjC/VvtCWpIRY4OhDi1q+3xAhOO4c9ByBQdEv7kjNdlyYlE0dOaDXaELotK3b+JzkvWuflVST1h2KFGfRr8Q/TEkdwNyTCTGU36UaFoUT7yPOVJNrc34+SMyKqXex+cd0meNuK7wIt7vkeUEtRCCLCxh/h9Ka+9nkgcKBT4j7ubGovl0Lcn0ExWAipj8s+9FJAHe4EbE5+I1ePrawD7Zkhv34bUKl+EuAarPSRR7aFO/K1tsknmvwDztGJECo2dGX1mpfF+9n6BZH9HteySg67iYuTCBgGSkRpVP89JEikVsnewD1M49+GbDS/ZHtoScZuTwxI6h2JiLcPxOQkv8s+e8Gz/q9i1gV1lBkrxzlVHBNfTteJacbcjfhHP0Rk5nUJIf/yb/K9CxymPZmpjDKX0feCaK+hf7tvk532NefwkvQN09APFtVM97b1gPzU3coSh7+thN+P88afwZDEdpqDwGbVw==;gcg5uoaRikSqQVVXSGjD0w=="
 ---
 

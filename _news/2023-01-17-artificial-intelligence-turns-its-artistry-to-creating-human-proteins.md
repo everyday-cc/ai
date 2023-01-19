@@ -23,6 +23,20 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "AI Tools Can Create New Images, But Who is the Real Artist?"
+    excerpt: "Getty said it has begun legal proceedings in the High Court of Justice in London against Stability AI — the maker of Stable Diffusion —- for infringing intellectual property r"
+    publishedDateTime: 2023-01-19T17:17:00Z
+    webUrl: "https://www.manufacturing.net/automation/news/22657922/ai-tools-can-create-new-images-but-who-is-the-real-artist"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/01/AI.63c977bd8c73c.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C171%2C1920%2C1080&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial intelligence intelligence turns its artistry to creating human proteins"
     excerpt: "Scientists hope AI can help them develop new cancer treatment, a new flu vaccine or a new pill that helps you digest gluten."
     publishedDateTime: 2023-01-16T13:00:00Z

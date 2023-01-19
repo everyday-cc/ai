@@ -1,23 +1,29 @@
 ---
 category: news
-title: "From a ‘deranged’ provocateur to IBM’s failed AI superproject: the controversial story of how data has transformed healthcare"
-excerpt: "Just over a decade ago, artificial intelligence (AI) made one of its showier forays into the public’s consciousness when IBM’s Watson computer appeared on the American quiz show Jeopardy!"
-publishedDateTime: 2023-01-16T12:34:00Z
-originalUrl: "https://theconversation.com/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362"
-webUrl: "https://theconversation.com/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362"
+title: "From A 'Deranged' Provocateur To IBM's Failed AI Superproject: The Controversial Story Of How Data Has Transformed Healthcare"
+excerpt: "Just over a decade ago, artificial intelligence (AI) made one of its showier forays into the public's consciousness when ibm's watson"
+publishedDateTime: 2023-01-16T12:50:00Z
+originalUrl: "https://menafn.com/1105433732/From-A-Deranged-Provocateur-To-IBMs-Failed-AI-Superproject-The-Controversial-Story-Of-How-Data-Has-Transformed-Healthcare"
+webUrl: "https://menafn.com/1105433732/From-A-Deranged-Provocateur-To-IBMs-Failed-AI-Superproject-The-Controversial-Story-Of-How-Data-Has-Transformed-Healthcare"
 type: article
-quality: 9
-heat: 9
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - IBM AI
   - AI
   - AI in Healthcare
+
+images:
+  - url: "https://menafn.com/updates/pr/2023-01/16/TC_44ff2image_story.png"
+    width: 640
+    height: 452
+    isCached: true
 
 related:
   - title: "From a ‘deranged’ provocateur to IBM’s failed AI superproject: the controversial story of how data has transformed healthcare"
@@ -30,6 +36,6 @@ related:
       domain: business-reporter.co.uk
     quality: 9
 
-secured: "nXxbbPkWLbxIbkPtdJV4ojjBPS7yKc7DRpj2G3NVWGenUAL2KMjlFBw9bjwj61UF7MF2NBS4fKMMWY40CQ5nWroY5XJlvgxGbuWQBborYaJmQHTX1vQQi2t4o+HbxFllNJbn7zK85agAq6ZTX1ZZwKiN7UJPjlwL5Huz/FUZzgkFGrEDdN6QshdrjmxRHNk9vCQBUk13XfAJZ+D4XIGSTB8HmVYGlBYXWR9px68/zP3yntU6sAgNp+jyhi0He+m1cd/pD6zIvo7F80u2j3vgM+En60Tw584uxCNMyTwnNGihA2hOdsg5l8DIfyV+UJ5gk7a4JY2y0WGNQvSc8SR9NbPTQ6Cv4iD3VU9zSYuchk4=;5FUUy4W+MQB005EE4or+Dg=="
+secured: "ysVG3qH6ro7ED0vZcK7q/RSCkVVeA1WUMNjf/4+yu9ehQC7PPlTY2BIf1Seub09Tqi03niZaR+u2eDSCNjpIMrhfuoO+4NjyMeRIdWB3BNma1J8YfF6iQDKaoQsMA9CkbxnonijBtz3jqXkrUl8k4qzsfz5DM/HXNrNd9CBJmjAsDhiyABO1ITHXVhcME1u2844+zmLrR/TtGiqeZLbUIiIdw6oH9f8v4jfb7mSw8HhB5BGKPDPR0Zabx16iQJnZmAKI1fzHP0o4Y+FKpCqj+Qt6E3MNorwCbpnQHN9+P9X9mbXEhA/n9823s2sjOhbnid6hRZDEUfA7I+HWpUqFyzRn4lXCAcQ1lsR2U67peh0=;Ak4/iE2TyoYihINKR9YoCw=="
 ---
 

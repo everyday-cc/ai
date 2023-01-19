@@ -3,8 +3,8 @@ category: news
 title: "Machine machinations: How tech remains both a divisive and unifying force can be disturbing"
 excerpt: "The Equality Machine is a disturbing book. On the one hand, it tells you about the wonders that artificial intelligence and machine learning can ... supplying goods and services free of cost ..."
 publishedDateTime: 2023-01-15T05:16:00Z
-originalUrl: "https://www.financialexpress.com/lifestyle/machine-machinations-how-tech-remains-both-a-divisive-and-unifying-force-can-be-disturbing/2948383/"
-webUrl: "https://www.financialexpress.com/lifestyle/machine-machinations-how-tech-remains-both-a-divisive-and-unifying-force-can-be-disturbing/2948383/"
+originalUrl: "https://www.financialexpress.com/lifestyle/machine-machinations-how-tech-remains-both-a-divisive-and-unifying-force-can-be-disturbing/2948383/?ref=Must_Read"
+webUrl: "https://www.financialexpress.com/lifestyle/machine-machinations-how-tech-remains-both-a-divisive-and-unifying-force-can-be-disturbing/2948383/?ref=Must_Read"
 ampWebUrl: "https://www.financialexpress.com/lifestyle/machine-machinations-how-tech-remains-both-a-divisive-and-unifying-force-can-be-disturbing/2948383/lite/"
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/machine-machinations-how-tech-remains-both-a-divisive-and-unifying-force-can-be-disturbing/2948383/lite/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "JklX/LP6nNRImSNNzJ6B0n/JyT2LKByf2F0LPI+gLYx1y43PtJRzFLzFDIEmg2xtwDVQ+uX1R2YJC6l1Oy/65jO5mFtO6ScPKVvbvui/PXe+Z5yg631eUXqCdV0vqY7I5IEGJl1JNCl0i3CZNgfIBImH2kyRIb71nA659IIiqhs+n/AZoInIifq8JULUjpsZ02nZez0IxXgoCyFnJFUYXOD2NsoeGX2ogrzIkj7Efs2MfnmF5QA6fI25HQttmgOe2BDQs8cNbK85k10a1QzxKCwyqZrRnCO1VsPkeujGhjkNKJD///1H4ejtdqF/4YVhQl21GOU4VWmd+HcRWHsvgGWrjBmlJvKKIXkfBx4MvQg=;PoMg+A3rkdeOkr+NaE3D2w=="
+secured: "tJp13H3BWXCvcXls/bxXk2GFkvR2v8BE6FCk8bDBqp+75+/qGA+ZechlQ0vMRwbLLt1TXiww+MwTS/2U/tEa+tMtu2IFK2vJDBlSde0y3mv98jUI+JeyAIjqz1bdYu6veZv48YWLV8QldD5ol5wMOhCdag9MPrjpjDX+Rq1r5RmL6srekjruozgSA388jPq9P25Ii94PooPr3j/fo4KK3OT1M8/1c8b3WgCqfpfWS7pjp9sBqU2VpBhYGZPdLOLnkFx1HyaVTEU6Xhd4uBoAypo4zpFgUF7pokWblFeHt64cMtxxVq4ypoWypXVbcVqm+9Sz0vPUiCvoI5rU0LlUNJ2IaAVR/pp7pjSdauuvd3I=;9hjTAkJU5aMx2GTjfJnjUw=="
 ---
 

@@ -27,10 +27,10 @@ images:
 related:
   - title: "My Boss, the Robot?"
     excerpt: "What it will take to AI-proof your management job."
-    publishedDateTime: 2023-01-18T16:38:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/to-manage-is-human/202301/my-boss-the-robot"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/to-manage-is-human/202301/my-boss-the-robot?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/to-manage-is-human/202301/my-boss-the-robot?amp"
+    publishedDateTime: 2023-01-18T16:29:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/to-manage-is-human/202301/my-boss-the-robot"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/to-manage-is-human/202301/my-boss-the-robot?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/to-manage-is-human/202301/my-boss-the-robot?amp"
     type: article
     provider:
       name: Psychology Today

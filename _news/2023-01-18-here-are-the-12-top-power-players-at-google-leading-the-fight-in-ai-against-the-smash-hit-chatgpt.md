@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT: Students could use AI to cheat, but it's a chance to rethink assessment altogether"
+    excerpt: "ChatGPT is a powerful language model developed by OpenAI that has the ability to generate human-like text, making it capable of engaging in natural language conversations. This technology has the potential to revolutionize the way we interact with computers,"
+    publishedDateTime: 2023-01-19T18:07:00Z
+    webUrl: "https://phys.org/news/2023-01-chatgpt-students-ai-chance-rethink.html"
+    ampWebUrl: "https://phys.org/news/2023-01-chatgpt-students-ai-chance-rethink.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-chatgpt-students-ai-chance-rethink.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 47
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-1.jpg"
+        width: 1920
+        height: 1175
+        isCached: true
   - title: "GPT 101: Decoding ChatGPT's Generative AI for Legal Professionals"
     excerpt: "While ChatGPT has caught the attention of many in the legal market, its underlying AI engine is where the real power—and disruption—lies."
     publishedDateTime: 2023-01-19T01:09:00Z

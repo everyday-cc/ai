@@ -29,43 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Has Nvidia won the AI training market?"
-    excerpt: "AI chips serve two functions. AI builders first take a large (or truly massive) set of data and run complex software to look for patterns in"
-    publishedDateTime: 2023-01-15T16:10:00Z
-    webUrl: "https://www.techspot.com/news/97272-has-nvidia-won-ai-training-market.html"
+  - title: "Nvidia shows how surprisingly hard it is for a robot to pick up a chicken wing"
+    excerpt: "The chipmaker is showcasing how a robotics startup is using its simulation platform to train robots to pick up food like pieces of chicken."
+    publishedDateTime: 2023-01-19T17:00:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-shows-how-surprisingly-hard-it-is-for-a-robot-to-pick-up-a-chicken-wing/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-shows-how-surprisingly-hard-it-is-for-a-robot-to-pick-up-a-chicken-wing/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-shows-how-surprisingly-hard-it-is-for-a-robot-to-pick-up-a-chicken-wing/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-15-image.jpg"
-        width: 1963
-        height: 1104
+      - url: "https://www.zdnet.com/a/img/resize/a99225b214eb1f075000aa34ce23d0eaa8765f28/2023/01/19/dac2fd5c-7c0d-43d1-9a90-d0ce8fe7c1f8/robot-gripping-chicken-synthetic.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Nvidia, Evozyne create generative AI model for proteins"
-    excerpt: "Using a pretrained AI model from Nvidia, startup Evozyne has created two proteins with significant potential in healthcare and clean energy. A joint paper released today describes the process and the biological building blocks it produced."
-    publishedDateTime: 2023-01-16T08:36:00Z
-    webUrl: "https://it-online.co.za/2023/01/16/nvidia-evozyne-create-generative-ai-model-for-proteins/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 37
-    images:
-      - url: "https://it-online.co.za/wp-content/uploads/2023/01/nvidia.jpg"
-        width: 934
-        height: 594
-        isCached: true
-  - title: "Exigent AI Admitted to NVIDIA Inception Program for Startups"
-    excerpt: "Exigent AI is excited to announce that it has been selected to join NVIDIA Inception, the world's leading AI and data science startup program. NVIDIA Inception provides support to pioneering startups that leverage AI to transform different industries ..."
-    publishedDateTime: 2023-01-17T09:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/p30433686/exigent-ai-admitted-to-nvidia-inception-program-for-startups"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
 
 secured: "IRIlleOBbd9osJfRXmWCs7BcGG19NpsY9y+jyPgTwnam4zaJTAdBvFQJIcJSx/BNo7G9YMMzeTLgoNtQDcE4jhWrWFduX4ms4PfOXOLOZAKfVslruIZk/Bd3hMTC1cQkreV3zOOLFosoGvtDYmoDqCRH+aVFP55yKr9SCBcpoGVgC1JL8wk5qVedZ7KfKFySpY3ZaByCBwiyl1/Oor3tD0oiBjkPaLtcKpZjXhy6kULNAvnpqcV2xP0poE5DFSJU40TmAFCKcPhK61YIv8xVhkt7Z52ouQRIY1CMaAJL3lHitsTTW3ydGwBypmrNjjSbktzcFDmEvH78CZAFEbJlEBHtG7W/NafPfCUvge9VAUU=;08p+Z0Cwvvw2uz+PxIbq+w=="
 ---

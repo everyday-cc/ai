@@ -7,8 +7,8 @@ originalUrl: "https://www.scmp.com/presented/news/hong-kong/education/topics/cre
 webUrl: "https://www.scmp.com/presented/news/hong-kong/education/topics/creating-age-friendly-smart-city/article/3206106/unveiling-mystery-human-brain-ai-advancements"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: scmp.com
@@ -29,77 +29,17 @@ images:
     isCached: true
 
 related:
-  - title: "NCAI announces artificial intelligence challenge for students"
-    excerpt: "The technical areas for submission of concept notes included Artificial Intelligence Applications, Autonomous Systems, Assistive Robotics, Intelligent Systems, Convolution Neural Networks, Cyber Security and AI, Data Fusion, Data Mining and Information ..."
-    publishedDateTime: 2023-01-15T22:30:00Z
-    webUrl: "https://dailytimes.com.pk/1051739/ncai-announces-artificial-intelligence-challenge-for-students/"
-    ampWebUrl: "https://dailytimes.com.pk/1051739/ncai-announces-artificial-intelligence-challenge-for-students/amp/"
-    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1051739/ncai-announces-artificial-intelligence-challenge-for-students/amp/"
+  - title: "Artificial Intelligence Is Coming for Human Creativity"
+    excerpt: "The history of psychology is full of claims about unique human cognitive abilities. Many of these claims fell away in the light of research findings on the cognitive capacities of other species. Self-awareness was one such capacity."
+    publishedDateTime: 2023-01-18T16:51:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
     type: article
     provider:
-      name: Daily Times
-      domain: dailytimes.com.pk
-    quality: 78
-    images:
-      - url: "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
-  - title: "Sapia.ai's new research reinforces its ethical use of AI in chat-based candidate screening"
-    excerpt: "Sapia.ai, creator of the world's first AI Smart Interviewer, will be presenting four groundbreaking research reports at the Annual Conference of the Society for Industrial and Organizational Psychology (SIOP),"
-    publishedDateTime: 2023-01-17T21:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sapia-ai-s-new-research-reinforces-its-ethical-use-of-ai-in-chat-based-candidate-screening-1032023669"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-  - title: "IBM and MBZUAI Advance AI for Climate and Culture"
-    excerpt: "AI Center of Excellence will focus on finding carbon neutral solutions for existing energy resources and improving access to new AI technologies for Arabic speakers. ABU DHABI, UA"
-    publishedDateTime: 2023-01-19T15:44:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/19/9746327.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Psychology Today
+      domain: psychologytoday.com
     quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1986757/IBM_MBZUAI_AI_Center.jpg"
-        width: 400
-        height: 256
-        isCached: true
-  - title: "US grant creates AI expression recognition program for speech-challenged children"
-    excerpt: "American researchers working on an AI system to help children with speech impairments have won a $20 million grant from the National Science Foundation."
-    publishedDateTime: 2023-01-18T21:40:00Z
-    webUrl: "https://www.biometricupdate.com/202301/us-grant-creates-ai-expression-recognition-program-for-speech-challenged-children"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/10131503/voice-biometrics.jpg"
-        width: 1040
-        height: 585
-        isCached: true
-  - title: "Quris-AI, MBZUAI to set up Bio-AI centre in Abu-Dhabi"
-    excerpt: "The state-of-the-art facility will support the development of personalised medications, tailored specifically to the diverse populations of the MENA region"
-    publishedDateTime: 2023-01-17T11:11:00Z
-    webUrl: "https://www.zawya.com/en/business/healthcare/quris-ai-mbzuai-to-set-up-bio-ai-centre-in-abu-dhabi-yue8e1tb"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 19
-  - title: "Quris-AI and MBZUAI to launch world-class Bio-AI center in Abu-Dhabi"
-    excerpt: "Quris-AI and Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) signed an agreement during Abu Dhabi Sustainability Week (ADSW) to develop a world-class Bio-AI center in Abu Dhabi. The state-of-the-art facility will support the development of personalized medications,"
-    publishedDateTime: 2023-01-18T11:33:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/18/9744889.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "2ZeP4wpFhuj3JqCeZrQD802E1HHUWnxNZGLcmGnVtTILSHbagjJYgJCVwhN6ngoOjal5Xtct2rWo6Hjrmy8pRfEb3XC1ygF8jPxxpzPH8CquVG0nfseB4JpArGT/OLa8cStVnj+/5c3bxag5Yp/kMli95f3oao4qim1FapOTqQZRTux8UL5+IUh6jWr1OkB+gNJkbFpQ66+fCGAdkwqigIVrIpuYDNbD8L1i49jN6dx4yiFYAlD/UBoCzgEtQ1grkcYlIkyp5tgvAzbekI+7vfbEpL7P85l1Rve/mbu1HiOVz8tsK1doBMBjNMfosQ1cqhgLNSDWAb24SEBeuSBm2l/ML+5zk+XP/gE4stzjJ1qqjlYo72PtsdxxlY1x+yCsFaUwhXOCsRhDtCggcgfiUPlUEJP2d0gG0TlPMWPn1UYj2w2SWQnp9kxcyXBmc2ikrkPA6YZvpC1B/TdUDMK9TH14UTahYFAUzWSIldwlTTDbYdpHPx+IwM2CjALRw5bSYkbve7bL8k96QJZjtXcWsg==;hXWzdQvyH+4oLI+KwZxB2A=="
 ---

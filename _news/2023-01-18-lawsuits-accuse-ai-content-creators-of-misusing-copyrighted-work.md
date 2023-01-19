@@ -68,6 +68,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-01-19T18:45:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/01/19/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "'AI Art' Companies & DeviantArt Are Being Sued By Artists"
     excerpt: "Stability AI and Midjourney—two of the biggest names in the exploding field of AI-generated imagery—and portfolio site DeviantArt have become the target of a class action lawsuit, filed in California on behalf of artists."
     publishedDateTime: 2023-01-15T22:55:00Z
