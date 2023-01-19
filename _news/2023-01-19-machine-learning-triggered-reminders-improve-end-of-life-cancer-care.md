@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-19T13:37:00Z
 originalUrl: "https://healthitanalytics.com/news/machine-learning-triggered-reminders-improve-end-of-life-cancer-care"
 webUrl: "https://healthitanalytics.com/news/machine-learning-triggered-reminders-improve-end-of-life-cancer-care"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Analytics

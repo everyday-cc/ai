@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/technology/cybercriminals-using-chatg
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902-amp.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://st1.bgr.in/wp-content/uploads/2023/01/Untitled-design-2023-01-18T154735.163.jpg"
         width: 640
         height: 853
+        isCached: true
+  - title: "AI tools like ChatGPT in schools? ‘The burden falls onto the educators’ says NC professor"
+    excerpt: "Some educators are now moving with remarkable speed to rethink their assignments in response to ChatGPT over concerns about students taking shortcuts."
+    publishedDateTime: 2023-01-19T16:28:00Z
+    webUrl: "https://wraltechwire.com/2023/01/19/ai-tools-like-chatgpt-in-schools-the-burden-falls-onto-the-educators-says-nc-professor/"
+    ampWebUrl: "https://wraltechwire.com/2023/01/19/ai-tools-like-chatgpt-in-schools-the-burden-falls-onto-the-educators-says-nc-professor/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/01/19/ai-tools-like-chatgpt-in-schools-the-burden-falls-onto-the-educators-says-nc-professor/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 50
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2018/09/brain-artificial-intelligence-control-e1557857757427.jpg"
+        width: 948
+        height: 532
         isCached: true
   - title: "ChatGPT could be used for good, but like many other AI models, it's rife with racist and discriminatory bias"
     excerpt: "ChatGPT could soon power Microsoft products, despite the potential to spew dangerous content. The AI community is torn on solutions."

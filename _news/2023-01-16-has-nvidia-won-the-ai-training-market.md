@@ -7,8 +7,8 @@ originalUrl: "https://www.techspot.com/news/97272-has-nvidia-won-ai-training-mar
 webUrl: "https://www.techspot.com/news/97272-has-nvidia-won-ai-training-market.html"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: TechSpot
@@ -29,38 +29,43 @@ images:
     isCached: true
 
 related:
-  - title: "Why Chip Maker Nvidia Was at a Healthcare Conference"
-    excerpt: "Healthcare could become a billion dollar a year market for Nvidia's number-crunching and artificial intelligence products, writes J.P. Morgan's semiconductor analyst Harlan Sur, in a note about the chip maker's Thursday presentation."
-    publishedDateTime: 2023-01-14T23:03:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-chips-jp-morgan-healthcare-covid-51673722829"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-chips-jp-morgan-healthcare-covid-51673722829"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-chips-jp-morgan-healthcare-covid-51673722829"
+  - title: "Even Nvidia Is Using AI to Improve Its Products -- What Shareholders Need to Know"
+    excerpt: "In today's video, Jose Najarro and Nick Rossolillo discuss Nvidia (NVDA 2.35%) and recent reports of the company using artificial intelligence to optimize some of its software upd"
+    publishedDateTime: 2023-01-15T12:30:00Z
+    webUrl: "https://www.fool.com/investing/2023/01/15/even-nvidia-is-using-ai-to-improve-its-products-wh/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 76
+      name: The Motley Fool
+      domain: fool.com
+    quality: 64
     images:
-      - url: "https://images.barrons.com/im-703942/social"
+      - url: "https://g.foolcdn.com/editorial/images/716457/copy-of-jose-najarro-43.png"
         width: 1280
-        height: 640
+        height: 720
         isCached: true
-  - title: "Nvidia Broadcast app to enhance video calls and live streams with AI-powered eye contact feature"
-    excerpt: "The company's new Eye Contact feature estimates and changes the directional gaze of your eyes to make it seem as if you’re looking into the camera."
-    publishedDateTime: 2023-01-15T16:58:00Z
-    webUrl: "https://www.businesstoday.in/technology/story/nvidia-broadcast-app-to-enhance-video-calls-and-live-streams-with-ai-powered-eye-contact-feature-360388-2023-01-15"
-    ampWebUrl: "https://www.businesstoday.in/amp/technology/story/nvidia-broadcast-app-to-enhance-video-calls-and-live-streams-with-ai-powered-eye-contact-feature-360388-2023-01-15"
-    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/story/nvidia-broadcast-app-to-enhance-video-calls-and-live-streams-with-ai-powered-eye-contact-feature-360388-2023-01-15"
+  - title: "Nvidia, Evozyne create generative AI model for proteins"
+    excerpt: "Using a pretrained AI model from Nvidia, startup Evozyne has created two proteins with significant potential in healthcare and clean energy. A joint paper released today describes the process and the biological building blocks it produced."
+    publishedDateTime: 2023-01-16T08:36:00Z
+    webUrl: "https://it-online.co.za/2023/01/16/nvidia-evozyne-create-generative-ai-model-for-proteins/"
     type: article
     provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 46
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 37
     images:
-      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202301/1_1_0-sixteen_nine.jpg"
-        width: 1200
-        height: 675
+      - url: "https://it-online.co.za/wp-content/uploads/2023/01/nvidia.jpg"
+        width: 934
+        height: 594
         isCached: true
+  - title: "Exigent AI Admitted to NVIDIA Inception Program for Startups"
+    excerpt: "Exigent AI is excited to announce that it has been selected to join NVIDIA Inception, the world's leading AI and data science startup program. NVIDIA Inception provides support to pioneering startups that leverage AI to transform different industries ..."
+    publishedDateTime: 2023-01-17T09:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/p30433686/exigent-ai-admitted-to-nvidia-inception-program-for-startups"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "/wwo1CUn/UqZHHpVqkwtSr2eAXCIedIxg1k71T2VtshPW7WfMtjyLpBb8Y6QprSNfeeQMCfJZfCKQKSELUngIMuJE19xiKufgOjwelN79UtOSwup6pZ+I+jylXlU8fvWzh3dG0iQFHBy5nZfHDC8KOwSpsY7oIeudD4TbT0WdSFslpclLEbJgdWvN7A/ElOTa/tJ9fn19HcaKoN8wXRqwUNzyoHAxJXxuEmWd9juo3pw9PuB1FOOhdtC/Y0TEWBMMpgkpvR/AryKuLd/1Ntna2yPeRob8KN49QJghmPM3Qqv+6RQAHABwYS/E3p2z1+GRnaG4oZW/M2It7VikUBHMNiAcYIYzxifO+xDHEXse9YRN+mkyEOaQb5WoaXD+xN4UsUorB1QDJQbe6StzWccx5A2xGKhPTxVCypT+Lb3exVjYD3GL27bYpNm+0rtN0bMRKrlOiHOUdxrQiKsnMKKNcXuyS6ZBXil9JeEwnMPJc1KAPFgq19SqAE3/w7asEKdKInmJfXyM1v7SBon0c0YZA==;FQgOJzGng6RySOhsehRiMQ=="
 ---

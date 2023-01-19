@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "What generative AI like ChatGPT gets right — and wrong"
+    excerpt: "People have used it to write sonnets, essays and even computer code — usually followed by some statement akin to “Wow, this is incredible.” Where generative AI can shine is more general tasks that may not end up the way you thought — writing form emails,"
+    publishedDateTime: 2023-01-18T17:09:00Z
+    webUrl: "https://www.grid.news/story/technology/2023/01/18/what-generative-ai-like-chatgpt-gets-right-and-wrong/"
+    type: article
+    provider:
+      name: grid
+      domain: grid.news
+    quality: 39
+    images:
+      - url: "https://www.grid.news/resizer/4_o-cnZ1toWsKZMVtTtZUrBHr9w=/1200x630/filters:format(jpg):quality(100)/cloudfront-us-east-1.images.arcpublishing.com/thesummit/YRSXDSDSRZH7JNBNZMIO66QBHA.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
     publishedDateTime: 2023-01-17T18:30:00Z
@@ -84,20 +98,6 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/f15d3d1/2147483647/strip/true/crop/1941x1195+0+130/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F13%2Fscreen-shot-2023-01-13-at-10.59.24-am-653c405371f044e9a4056427c4d35153ce997b5f.jpg"
         width: 880
         height: 542
-        isCached: true
-  - title: "What generative AI like ChatGPT gets right — and wrong"
-    excerpt: "People have used it to write sonnets, essays and even computer code — usually followed by some statement akin to “Wow, this is incredible.” Where generative AI can shine is more general tasks that may not end up the way you thought — writing form emails,"
-    publishedDateTime: 2023-01-18T17:09:00Z
-    webUrl: "https://www.grid.news/story/technology/2023/01/18/what-generative-ai-like-chatgpt-gets-right-and-wrong/"
-    type: article
-    provider:
-      name: grid
-      domain: grid.news
-    quality: 37
-    images:
-      - url: "https://www.grid.news/resizer/4_o-cnZ1toWsKZMVtTtZUrBHr9w=/1200x630/filters:format(jpg):quality(100)/cloudfront-us-east-1.images.arcpublishing.com/thesummit/YRSXDSDSRZH7JNBNZMIO66QBHA.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Does Exposing And Logging Those Generative AI ChatGPT Erroneous And Hallucinatory Outputs Do Any Good, Asks AI Ethics And AI Law"
     excerpt: "Here are some examples of generative AI ChatGPT producing falsehoods in the outputted essays, which raises questions including whether we should be logging these. AI Ethics and AI Law issues arise."

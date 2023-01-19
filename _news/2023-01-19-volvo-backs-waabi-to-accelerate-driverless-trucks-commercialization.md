@@ -48,6 +48,15 @@ related:
         width: 1086
         height: 630
         isCached: true
+  - title: "Driverless electric hauling trucks in the pipeline at Cripple Creek & Victor Gold Mine"
+    excerpt: "This year, Blake said the Cripple Creek & Victor Gold Mine is focusing on completing a technical design review, which includes identifying areas on the property where a driverless haul truck can ..."
+    publishedDateTime: 2023-01-16T19:07:00Z
+    webUrl: "https://gazette.com/pikespeakcourier/driverless-electric-hauling-trucks-in-the-pipeline-at-cripple-creek-victor-gold-mine/article_b0b1af64-9398-11ed-8783-f3fef408061a.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 11
 
 secured: "mcqw1ySxtINqRpadJfnRPkEv20oWQbo/34Pl0wr0+doJSKNOieV5ycbD2Sgt1EScYxGKMWDNvvWihx96QK/YgiOf+jbYoqWVi+lpBmatXxFYE0KZouEtYYjg5nzVProfum2hVtbxhje0le4Xk5bCVz0hMYO8LLwOBsdaQbr9G/th0BYaStPYxDEjmD7nVCLa9ZtlNwG7ybfxoK9flkQI7QYNl6ZLxCd/kQxCvGqNJ3XV8GHxIhYW5TAHR7V2eBE655DCdCCZiFOaFQRefzsrKq3vdkStzEtyHdcgZ79ezGiacgl4f73RuIAg/r86kW9xXPdnf5ozaxusRWVpsjwpFRN7Z2itT5pguCMMaf+Cio3WKP/9+l1jr8o4zx/B0ZHC+f+fr1SbXDH9ccWd8Fb2TyHDQfd27Dlh6fCuS9r+ySX+JdGlnhg3/b3L6iAHLCqz4BHT7pG+Rt9lWhE+n/Q3wh1DD7cgCegWQ/Ke9Lq4IPCYpb5i5Mjte0jCeH3XYAsnE2R0RpCtTsy0cTUrTDQQNQ==;vHxzjqYkyIwtiOpXLDTWVQ=="
 ---

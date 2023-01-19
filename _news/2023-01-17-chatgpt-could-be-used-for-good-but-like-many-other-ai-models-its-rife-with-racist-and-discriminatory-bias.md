@@ -59,6 +59,22 @@ related:
         width: 640
         height: 853
         isCached: true
+  - title: "AI tools like ChatGPT in schools? ‘The burden falls onto the educators’ says NC professor"
+    excerpt: "Some educators are now moving with remarkable speed to rethink their assignments in response to ChatGPT over concerns about students taking shortcuts."
+    publishedDateTime: 2023-01-19T16:28:00Z
+    webUrl: "https://wraltechwire.com/2023/01/19/ai-tools-like-chatgpt-in-schools-the-burden-falls-onto-the-educators-says-nc-professor/"
+    ampWebUrl: "https://wraltechwire.com/2023/01/19/ai-tools-like-chatgpt-in-schools-the-burden-falls-onto-the-educators-says-nc-professor/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/01/19/ai-tools-like-chatgpt-in-schools-the-burden-falls-onto-the-educators-says-nc-professor/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 50
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2018/09/brain-artificial-intelligence-control-e1557857757427.jpg"
+        width: 948
+        height: 532
+        isCached: true
 
 secured: "APSyqzkthY9890Yh5QgoWsWtBphQ9lNTze8U5v3Q+co06h/HufH6zBzhRA7s6OZ8OutEqs+1r5OZkLMlEh+2W61/9fPdPWnbKnoaLq3Oos4j8beOBPUb72k6yJpmLoToIoOt8zq++pjRVboepBX2N6W6rZ6nzCTvBJAqy4vEUhOp036DVOqtBaO+RnPnywlZviTx9lNcwL6epZd/TQzdquTNZH0AW6H1DseMNSJ63rgtxeLk4YVM62PzqXyistkR9/ASMaLY4mJyskkLpoQu9N/7faW32nyY42BsxUPjFTPe2/ZlxRJgrd2ul9N907Fm07edEx929VhSu+NUDv6x0k4Pj8doC0shlnmg092aRsx/mw36s/yKmioex/snOT8953BertKs9IYvNxuZ6X+OzsD5FQ7t6v8Kd3bWoXkcP1rzAHySnag8MtQr0pHOLie4oUcNkuVKpyyXlM43iBkKTP+1Q/4MpTGdLrQCcYzo8FGq6HWwT0KEp5+5DarUDkeYGYAKgyyRbutQ4MX1X8ZdDw==;pUYBK5UFm3ugeuPhzGL1og=="
 ---

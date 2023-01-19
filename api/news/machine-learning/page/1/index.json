@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-19-deep-learning-based-ai-system-helps-infer-and-predict-indonesian-throughflow.md",
+      "title": "Deep learning-based AI system helps infer and predict Indonesian throughflow",
+      "excerpt": "Scientists from the Institute of Oceanology of the Chinese Academy of Sciences (IOCAS) and Nanjing University of Information Science and Technology have successfully constructed an inference and prediction system of the Indonesian Throughflow (ITF) by using a deep-learning method and realized the valid prediction of the ITF transport.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.html",
+      "originalUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/deep-learning-based-ai.jpg",
+          "width": 1372,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.amp",
+      "publishedDateTime": "2023-01-19T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-19-9-ways-entrepreneurs-can-leverage-machine-learning-to-elevate-their-business.md",
       "title": "9 Ways Entrepreneurs Can Leverage Machine Learning To Elevate Their Business",
       "excerpt": "However, few are more exciting or have more potential to transform life as we know it than machine learning (ML). Machine learning is a branch of artificial intelligence that describes applications that learn and improve from experience without being explicitly programmed,",
@@ -308,7 +351,7 @@
       "originalUrl": "https://dailytimes.com.pk/1051739/ncai-announces-artificial-intelligence-challenge-for-students/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -1448,58 +1491,6 @@
         "Machine Learning",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-deep-learning-in-manufacturing-market-global-and-regional-analysis-and-forecast-2028.md",
-      "title": "Deep Learning in Manufacturing Market Global and Regional Analysis and Forecast 2028",
-      "excerpt": "Deep Learning in Manufacturing Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-global-and-regional-analysis-and-forecast-2028-2023-01-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-global-and-regional-analysis-and-forecast-2028-2023-01-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T19:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

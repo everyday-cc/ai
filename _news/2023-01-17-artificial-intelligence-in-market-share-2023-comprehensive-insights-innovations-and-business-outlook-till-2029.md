@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Face Recognition Systems Market : Competitive Landscape and Analysis by Recent Trends 2023 to 2029"
+    excerpt: "A recent research report published by Precision Reports provides an overview of the \"Face Recognition Systems Market\" along with precise insights into potential future scenarios. The report suggests that this industry is expected to experience an annual ..."
+    publishedDateTime: 2023-01-19T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-competitive-landscape-and-analysis-by-recent-trends-2023-to-2029-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Size in Global Survey 2023 with RISK Analysis by Company Profiles till 2029"
     excerpt: "Jan 16, 2023 (The Expresswire) -- \"Artificial Intelligence Market\" New Research Insights Report 2023 | New Report Spread Across| 108 Pages |"
     publishedDateTime: 2023-01-16T14:51:00Z
@@ -36,52 +50,85 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Automotive Artificial Intelligence Market Survey 2023 with the increasing need to extend Outlook 2029"
-    excerpt: "Global “Automotive Artificial Intelligence Market” report 2023 delivers a complete overview of crucial factors"
-    publishedDateTime: 2023-01-16T03:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-survey-2023-with-the-increasing-need-to-extend-outlook-2029-2023-01-15"
+  - title: "Healthcare AI Market: 2023 Competitive Weakness and Strengths, GAGR Status, and Global Share Forecast To 2029"
+    excerpt: "The report focuses on the Healthcare AI market size, segment size (mainly covering product type, application, and geography), competitor landscape, recent status, and development trends. Furthermore,"
+    publishedDateTime: 2023-01-18T05:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-competitive-weakness-and-strengths-gagr-status-and-global-share-forecast-to-2029-2023-01-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 47
+  - title: "Artificial Intelligence Voice Market by Product and Geography : Forecast and Analysis 2023 to 2029 with Top Countries Data"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence"
+    publishedDateTime: 2023-01-17T03:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-by-product-and-geography-forecast-and-analysis-2023-to-2029-with-top-countries-data-2023-01-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Chipsets Market Size 2023 with big Company segment, cost-effective solutions Analysis Information 2028"
-    excerpt: "The Artificial Intelligence Chipsets market is expected to witness significant growth due to growing device usage"
-    publishedDateTime: 2023-01-15T16:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-2023-with-big-company-segment-cost-effective-solutions-analysis-information-2028-2023-01-15"
+  - title: "Artificial Intelligence in Industrial Market : Analysis, Forecast, Size, New Trends and Insights, Update, COVID-19 Impact"
+    excerpt: "Artificial Intelligence in Industrial Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-19T01:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-industrial-market-analysis-forecast-size-new-trends-and-insights-update-covid-19-impact-2023-01-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Size 2023 to Increase at 51.1% CAGR Between Forecast Years 2023 and 2027| 98 Report Pages"
-    excerpt: "Jan (The Expresswire) -- \"Artificial Intelligence Market\" Report New Research Outlook Report 2023 | [In 2021, The global Artificial"
-    publishedDateTime: 2023-01-17T17:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-2023-to-increase-at-511-cagr-between-forecast-years-2023-and-2027-98-report-pages-2023-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-  - title: "Artificial Intelligence Consulting Service Market 2023 Top Companies & Business Development Report of 123 Pages by 2023 to 2029"
-    excerpt: "Jan (The Expresswire) -- \"Artificial Intelligence Consulting Service Market\" New Research Insights Report 2023 | New Report Spread Across| 123"
+  - title: "Data Science and Machine-Learning Platforms Market 2023 Top Companies & Business Development Report of 122 Pages by 2023 to 2029"
+    excerpt: "Jan (The Expresswire) -- \"Data Science and Machine-Learning Platforms Market\" New Research Insights Report 2023 | New Report Spread Across|"
     publishedDateTime: 2023-01-17T14:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-consulting-service-market-2023-top-companies-business-development-report-of-123-pages-by-2023-to-2029-2023-01-17"
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-2023-top-companies-business-development-report-of-122-pages-by-2023-to-2029-2023-01-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 19
+    quality: 25
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "North America Enterprise Manufacturing Intelligence Market Scope- On-Going Trends, Industry Revenue, Future Prospect, And Regional Outlook 2023-2033"
+    excerpt: "CRIFAX added a report on ' north america enterprise manufacturing intelligence market , 2023-2033' to its database of market research collaterals consisting of overall market scenario with prevalent and future growth prospects,"
+    publishedDateTime: 2023-01-18T05:25:00Z
+    webUrl: "https://menafn.com/1105443225/North-America-Enterprise-Manufacturing-Intelligence-Market-Scope-On-Going-Trends-Industry-Revenue-Future-Prospect-And-Regional-Outlook-2023-2033"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?621157"
+        width: 444
+        height: 250
+        isCached: true
+  - title: "Pet Accessories Market Set To Reach Valuation Of USD 14.77 Billion By 2029, Size, Share, Demand, Future Growth, Challenges And Competitive Analysis'"
+    excerpt: "By keeping in mind the end user's point of view ... Livestock), Application (Identification & Tracking; Behaviour Monitoring & Control; Facilitation, Safety & Security; Medical Diagnosis & Treatment), End-Use (Commercial; Household), Country (U.S ..."
+    publishedDateTime: 2023-01-19T09:00:00Z
+    webUrl: "https://menafn.com/1105450102/Pet-Accessories-Market-Set-To-Reach-Valuation-Of-USD-1477-Billion-By-2029-Size-Share-Demand-Future-Growth-Challenges-And-Competitive-Analysis"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?219022"
+        width: 311
+        height: 250
+        isCached: true
 
 secured: "H7yRZNjAfWhMXGuHfPliL2goQZhoLcfUOvp1k6MQ2R9u2s9p6bDerSVKt/8/Volh1YO35EYnrp/Y3ZdqV0+7VO8nO9vaxTI1EYSKLz9BGCjjiygSAd62etCZEkRhSIVwLVYN85CjtnpwMQAN5zXt9CEQJFCx0Vlm82NM03gjDOifvtrr8mmC52YtGNQviLrZ9IL3rLXxUTpUr+kxXp1XEqxtDPQwTV45cfdCLqs0W41uTMM4VKq3HpVq5sUilM3aW1sc418joWyQzkLLV/sVz25oohwe05jpIBDvNJPNB+vW3jvM20+9UfDVnO+/kbpuKdwLQikV+CivEgwrR2qySOlnWr86ABdaKDBRqTW8c7U=;RjXG6x0CJi9qpSHil9k/3g=="
 ---

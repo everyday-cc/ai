@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Facebook AI
 
 images:
   - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/220113-AI-Mental-Healthcare-jg-b3b521.jpg"

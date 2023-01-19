@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-19T12:29:00Z
 originalUrl: "https://www.cnn.com/2023/01/19/tech/chatgpt-teachers-adjusting/index.html"
 webUrl: "https://www.cnn.com/2023/01/19/tech/chatgpt-teachers-adjusting/index.html"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: CNN

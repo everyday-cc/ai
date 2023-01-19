@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/01/16/italian-startup-clothing
 webUrl: "https://www.fool.com/investing/2023/01/16/italian-startup-clothing-line-will-protect-your-id/"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: CNN
       domain: cnn.com
     quality: 33
+  - title: "These clothes can shield you from facial recognition systems (VIDEO)"
+    excerpt: "An Italian start-up is exploiting a flaw in the system by selling a whole range of clothes capable of foiling facial recognition systems. To go incognito,"
+    publishedDateTime: 2023-01-19T14:10:00Z
+    webUrl: "https://www.malaymail.com/news/life/2023/01/19/these-clothes-can-shield-you-from-facial-recognition-systems-video/51163"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 19
 
 secured: "Fmq9h1WTWDbWhnTrNTd1ggSJ8tD/doXX128sBp9DwG3BEcniqUxfzynVRQ0FespjyNNxN2+4zaU4Hnf48o8Ty1CSnww/77unWmck/EF+tPKfAh1CWDRZhTtPp1FnfhF1bq/kUvvU6KGW6gLOF6NxY+mtEfx1NgN6s0eBTM5KflHwEy5Spb2Zw+wxPS03qXCbBrmH35FoeGECUKrJ/k85lGF6iz7NyfkH2owMSWPWtXiI+Y7TStDZHUrDJE2rOyjmc6lfmsPk+vS4+pglj7dcPxwYmT77Jw2d9uk/1ODE66hp3qy90xj1cCXu4LNryzEUSG52WUpgB/Xga6SJc4vkMw4+qiuxwXeP+Guo9wuZ6f0wvbW6KquaO4W4ag2QtWRDjL98irtCSQyI5R6svd3GXWAMsmSmmQj6onsFuig7VZKDYDbT0Z+tOFcX1XNs2UHhGlL4lKQzOifb8/QXFXuDgoCuW4VGs236wF7ECf2Q684a4EsCi8l1oq+rYhsfcZOG3e2h8KMJ/N4VFZUvmPLEIg==;2muWELYgyvSFldQQkVHcvQ=="
 ---

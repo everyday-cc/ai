@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-19T13:00:00Z
 originalUrl: "https://www.theguardian.com/australia-news/2023/jan/20/the-greens-sarah-hanson-young-backs-voice-yes-campaign-as-lidia-thorpe-again-criticises-it"
 webUrl: "https://www.theguardian.com/australia-news/2023/jan/20/the-greens-sarah-hanson-young-backs-voice-yes-campaign-as-lidia-thorpe-again-criticises-it"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: The Guardian

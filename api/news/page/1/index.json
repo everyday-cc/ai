@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-01-19-teachers-are-adapting-to-concerns-about-a-powerful-new-ai-tool.md",
-      "title": "Teachers are adapting to concerns about a powerful new AI tool",
-      "excerpt": "When Kristen Asplin heard about a powerful new AI chatbot tool called ChatGPT going viral online recently with its ability to write frighteningly good essays in seconds, she worried about how her students could use it to cheat.",
+      "path": "_news/2023-01-20-a-cartoonist-predicted-2023s-ai-drawing-machinesin-1923.md",
+      "title": "A cartoonist predicted 2023’s AI drawing machines—in 1923",
+      "excerpt": "The vintage cartoon carries the caption It depicts a cartoonist standing by his drawing table and making plans for soc",
       "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2023/01/19/tech/chatgpt-teachers-adjusting/index.html",
-      "originalUrl": "https://edition.cnn.com/2023/01/19/tech/chatgpt-teachers-adjusting/index.html",
+      "webUrl": "https://arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230117131326-student-working-on-laptop-stock-super-tease.jpeg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/cartoon_dynamo_hero_main-800x450.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/01/19/tech/chatgpt-teachers-adjusting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/01/19/tech/chatgpt-teachers-adjusting/index.html",
-      "publishedDateTime": "2023-01-19T04:29:00-08:00",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/amp/",
+      "publishedDateTime": "2023-01-19T08:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +49,152 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-the-goldilocks-principle-and-hybrid-cloud.md",
+      "title": "The Goldilocks Principle And Hybrid Cloud",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as The Goldilocks Principle shows up in many places in our lives and business in areas as vast and varied as astrobiology, economics, and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c96c06ef67aedf79766ebe/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 528,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/amp/",
+      "publishedDateTime": "2023-01-19T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-deep-learning-based-ai-system-helps-infer-and-predict-indonesian-throughflow.md",
+      "title": "Deep learning-based AI system helps infer and predict Indonesian throughflow",
+      "excerpt": "Scientists from the Institute of Oceanology of the Chinese Academy of Sciences (IOCAS) and Nanjing University of Information Science and Technology have successfully constructed an inference and prediction system of the Indonesian Throughflow (ITF) by using a deep-learning method and realized the valid prediction of the ITF transport.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.html",
+      "originalUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/deep-learning-based-ai.jpg",
+          "width": 1372,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.amp",
+      "publishedDateTime": "2023-01-19T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-ai-improves-field-service-quality-and-customer-experience.md",
+      "title": "AI improves field service quality and customer experience",
+      "excerpt": "Research shows that 80% of high performing field service organizations use artificial intelligence (AI). Also: One bad experience is all it takes to lose a customer. Here are thre",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-improves-field-service-quality-and-customer-experience/",
+      "originalUrl": "https://www.zdnet.com/article/ai-improves-field-service-quality-and-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/f748509203a5703ad1ec5ad7840e4842cdb63d79/2022/12/02/4631c01c-b209-4b8c-a497-091a6049e34c/artificial-intelligence.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-improves-field-service-quality-and-customer-experience/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-improves-field-service-quality-and-customer-experience/",
+      "publishedDateTime": "2023-01-19T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -62,7 +207,7 @@
       "originalUrl": "https://in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work",
       "featuredContent": null,
       "highlight": null,
-      "heat": 309,
+      "heat": 310,
       "tags": null,
       "images": [
         {
@@ -252,21 +397,21 @@
       ]
     },
     {
-      "path": "_news/2023-01-19-aws-and-masdar-city-free-zone-collaborate-to-accelerate-growth-of-uae-startups.md",
-      "title": "AWS and Masdar City Free Zone collaborate to accelerate growth of UAE startups",
-      "excerpt": "Masdar City, Abu Dhabi’s pioneering sustainable community and innovation hub, is collaborating with Amazon Web Services (AWS) to empower startups to bui",
+      "path": "_news/2023-01-19-face-recognition-systems-market-competitive-landscape-and-analysis-by-recent-trends-2023-to-2029.md",
+      "title": "Face Recognition Systems Market : Competitive Landscape and Analysis by Recent Trends 2023 to 2029",
+      "excerpt": "A recent research report published by Precision Reports provides an overview of the \"Face Recognition Systems Market\" along with precise insights into potential future scenarios. The report suggests that this industry is expected to experience an annual ...",
       "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/aws-and-masdar-city-free-zone-collaborate-accelerate-growth-uae-startups-1506231",
-      "originalUrl": "https://www.albawaba.com/business/pr/aws-and-masdar-city-free-zone-collaborate-accelerate-growth-uae-startups-1506231",
+      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-competitive-landscape-and-analysis-by-recent-trends-2023-to-2029-2023-01-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-competitive-landscape-and-analysis-by-recent-trends-2023-to-2029-2023-01-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2023-01/AWS%20and%20Masdar%20City%20Free%20Zone.jpg?itok=ly5lNlUS",
-          "width": 2500,
-          "height": 1466,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -274,14 +419,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/aws-and-masdar-city-free-zone-collaborate-accelerate-growth-uae-startups-1506231",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/aws-and-masdar-city-free-zone-collaborate-accelerate-growth-uae-startups-1506231",
-      "publishedDateTime": "2023-01-19T02:20:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-19T02:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -290,7 +444,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Computer Vision",
         "AI"
       ]
     },
@@ -354,7 +508,7 @@
       "originalUrl": "https://oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A-Net-Positive-For-Carbon-Emissions.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -439,6 +593,48 @@
       ]
     },
     {
+      "path": "_news/2023-01-19-michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.md",
+      "title": "Michigan’s Atwater Brewery releases IPA designed by artificial intelligence",
+      "excerpt": "Artificial Intelligence IPA is a 6.5% brew made with a blend of Centennial, Citra, and Amarillo hops, which results in tropical and citrus flavors and aromas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html",
+      "originalUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EJPLGYZV7BETJGYP34T37UYWMQ.jpeg",
+          "width": 3024,
+          "height": 2530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html?outputType=amp",
+      "publishedDateTime": "2023-01-18T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-19-what-happens-when-ai-has-read-everything.md",
       "title": "What Happens When AI Has Read Everything?",
       "excerpt": "The dream of an artificial mind may never become a reality if AI runs out of quality prose to ingest—and there isn’t much left.",
@@ -447,7 +643,7 @@
       "originalUrl": "https://www.theatlantic.com/technology/archive/2023/01/artificial-intelligence-ai-chatgpt-dall-e-2-learning/672754/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -978,7 +1174,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -1019,204 +1215,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-top-ibm-execs-again-accused-of-cheating-investors-by-using-mainframes-to-prop-up-watson-cloud-sales.md",
-      "title": "Top IBM execs again accused of cheating investors by using mainframes to prop up Watson, cloud sales",
-      "excerpt": "In effect, IBM deceived the market about its progress in developing Watson, cloud technologies, and other new sources of revenue, by deliberately misclassifying the money it was making from mainframe deals,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2023/01/18/ibm_sued_securities_fraud/",
-      "originalUrl": "https://www.theregister.com/2023/01/18/ibm_sued_securities_fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/01/30/shutterstock_ginni_krishna3.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2023/01/18/ibm_sued_securities_fraud/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/01/18/ibm_sued_securities_fraud/",
-      "publishedDateTime": "2023-01-17T16:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-ai-is-not-the-new-crypto.md",
-      "title": "AI Is Not the New Crypto",
-      "excerpt": "The torrent of investor money that flowed into crypto is now hitting the AI scene. We’re already seeing the results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/newsletters/archive/2023/01/ai-is-not-the-new-crypto/672746/",
-      "originalUrl": "https://www.theatlantic.com/newsletters/archive/2023/01/ai-is-not-the-new-crypto/672746/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/XlSN6a8iZwtpDJorFvWt_wxECXI=/0x635:8646x5138/1200x625/media/img/mt/2023/01/GettyImages_1370578245/original.jpg",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T15:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips.md",
-      "title": "Daily Crunch: Apple powers up 14- and 16-inch MacBook Pro models with M2 Pro and Max chips",
-      "excerpt": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/",
-      "originalUrl": "https://techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1149447240.jpg?resize=1200,801",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/amp/",
-      "publishedDateTime": "2023-01-17T15:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate.md",
-      "title": "Why are Getty and Shutterstock on opposite sides of the AI legal debate?",
-      "excerpt": "It has become clear that Getty and Shutterstock have diverged in their efforts to deal with the escalating legal issues around generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/",
-      "originalUrl": "https://venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/Untitled-design-8.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/amp/",
-      "publishedDateTime": "2023-01-17T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

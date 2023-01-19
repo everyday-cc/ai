@@ -2,59 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-11-07-cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler.md",
-      "title": "Cost-effective data preparation for machine learning using SageMaker Data Wrangler",
-      "excerpt": "Amazon SageMaker Data Wrangler is a capability of Amazon SageMaker that makes it faster for data scientists and engineers to prepare high-quality features for machine learning (ML) applications via a visual interface. Data Wrangler reduces the time it takes to aggregate and prepare data for ML from weeks",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/07/cost-effective-data-preparation.jpg",
-          "width": 1553,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T10:16:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-11-05-local-measure-gains-aws-retail-competency-status.md",
       "title": "Local Measure gains AWS Retail Competency status",
       "excerpt": "Australian customer experience software company Local Measure has achieved Amazon Web Services (AWS) Retail Competency status. The competency recognises AWS Partners that provide innovative ...",
@@ -1397,6 +1344,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-giant-horrid-deep-sea-louse-like-creature-filmed-feasting-on-fish-head.md",
+      "title": "Giant, Horrid Deep-Sea Louse-Like Creature Filmed Feasting on Fish Head",
+      "excerpt": "A creepy video captured during a research dive off the coast of Florida shows a deep-sea creature feasting on the head of a fish. The video was featured in the NOAA (National Oceanic and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/giant-deep-sea-creature-filmed-eating-fish-head-1753848",
+      "originalUrl": "https://www.newsweek.com/giant-deep-sea-creature-filmed-eating-fish-head-1753848",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2138119/giant-isopod-eating-fish.png",
+          "width": 2520,
+          "height": 1680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/giant-deep-sea-creature-filmed-eating-fish-head-1753848?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/giant-deep-sea-creature-filmed-eating-fish-head-1753848?amp=1",
+      "publishedDateTime": "2022-10-21T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

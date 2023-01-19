@@ -39,6 +39,15 @@ related:
         width: 860
         height: 484
         isCached: true
+  - title: "How an increase in self-driving cars could harm the environment"
+    excerpt: "PARIS: Self-driving vehicles are expected to go mainstream in the near future, but mass numbers of such vehicles could result in a significant increase in CO2 emissions, mainly due to the energy needed for the computers managing all the hardware and software on board."
+    publishedDateTime: 2023-01-19T14:41:00Z
+    webUrl: "https://www.carsifu.my/news/how-an-increase-in-self-driving-cars-could-harm-the-environment"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 4
 
 secured: "spUVMvps+8rvRIwF+3Fgbyl+ycOyu0wuqvsBe6ybKn/WZUS2c8jsF8w1cjHlU6b2m57zJrbuxSij4/wJp6WoxHMwCzjyxvFhHhkWAVc06g1zIcYvjPKZUmq3l7nsu0PKE/8QMgaRfw2hY87OeqmK+LYRsnrsaxUBz07bdsAijkJKZHBzPn7jo9NOCyr9EO2Vo8d6Czi2yTaroPrRc8wOya8whGO6FpeQKi2bG68TLeMkiCucs0wZ8b2wti1XLYxhH4fiLsZKWsrV68A4WH/4+PMkzweqstr+CK6ApkQPckulBGC5B4aTP4o6u4zNtB0xw7zgLaUoTV4+zQIBzpvnNKtcaNiSd+RNJBWU8EqoEtOzpnIofMY+TqNFj6UkDzNXQLfKV0gVT7yn//X1McB14Yaaidq2zq3WXJvfBGtmtq5vL3ZOsQo+oBI9Fyt4dkdb1lBvX8fS10fvNTAP/Gwp67brazlzO/U4JSMlsCv87GJuaU/cKA7b/Ex8wFXBOk4IC3PvylCtME2r+5S2wTs0hw==;+3qY6YZ8bCWrq4o0tJ07Ng=="
 ---

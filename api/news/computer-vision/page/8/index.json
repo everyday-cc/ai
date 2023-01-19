@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-10-19-the-app-stores-top-scanning-app-is-79-percent-off.md",
+      "title": "The App Store’s top scanning app is 79 percent off",
+      "excerpt": "Some documents, such as passports and book pages, may require scanning technology to pull and share information quickly. But instead of holding onto antiquated tech or making a trip to the post office every time you need a quick scan,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/iscanner-deal-sale-145540600.html",
+      "originalUrl": "https://www.engadget.com/iscanner-deal-sale-145540600.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/0c3bfbc0-4e19-11ed-8b4f-c66912ba8fd2",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/iscanner-deal-sale-145540600.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/iscanner-deal-sale-145540600.html",
+      "publishedDateTime": "2022-10-19T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-google-adds-a-no-code-computer-vision-platform-to-vertex-ai.md",
       "title": "Google Adds A No-Code Computer Vision Platform To Vertex AI",
       "excerpt": "Currently, in preview, Vertex AI Vision is an extension of AutoML Vision that can train models to perform image classification and object detection.",
@@ -1365,40 +1417,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-how-to-setup-facial-recognition-and-fingerprint-recognition-on-the-genesis-gv60.md",
-      "title": "How to setup Facial Recognition and Fingerprint Recognition on the Genesis GV60",
-      "excerpt": "At Autoblog’s Tech of the Year, Senior Editor John Snyder demonstrates the steps needed to set up Facial Recognition and Fingerprint on the 2023 fully electric Genesis GV60. Transcript JOHN ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/setup-facial-recognition-fingerprint-recognition-144507761.html",
-      "originalUrl": "https://www.autoblog.com/setup-facial-recognition-fingerprint-recognition-144507761.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-19T12:58:00Z
 originalUrl: "https://www.detroitnews.com/story/entertainment/dining/2023/01/19/atwater-brewery-offers-beer-made-by-robots-thursday/69821341007/"
 webUrl: "https://www.detroitnews.com/story/entertainment/dining/2023/01/19/atwater-brewery-offers-beer-made-by-robots-thursday/69821341007/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Detroit News

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-19T12:03:00Z
 originalUrl: "https://www.bakersfield.com/ap/news/cyngn-announces-sales-veteran-in-automated-robotics-chris-wright-as-head-of-sales/article_ba0770a2-faa5-5c31-b26f-c693dbb68184.html"
 webUrl: "https://www.bakersfield.com/ap/news/cyngn-announces-sales-veteran-in-automated-robotics-chris-wright-as-head-of-sales/article_ba0770a2-faa5-5c31-b26f-c693dbb68184.html"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: The Bakersfield Californian

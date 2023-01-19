@@ -22,18 +22,13 @@ topics:
 related:
   - title: "aiOla raises $25 million to interface natural language to AI solutions in traditional manufacturing"
     excerpt: "The Israeli startup has developed state-of-the-art voice and image recognition combined with advanced AI models to digitize, automate and streamline inspection processes HERZLIYA, Israel, Jan. 19, 2023 /PRNewswire/ -- Israeli startup aiOla announced that it has secured $25 million in funding led by New Era with the participation of Hamilton Lane and other investors."
-    publishedDateTime: 2023-01-19T12:11:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/19/9745878.htm"
+    publishedDateTime: 2023-01-19T13:52:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/01/19/9745878.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 23
-    images:
-      - url: "https://mma.prnewswire.com/media/1986673/Amir_Haramaty.jpg"
-        width: 400
-        height: 313
-        isCached: true
+    quality: 3
 
 secured: "mqaIhPyZKrgZ7qrishbqldD1+5QWVCPFYr2+L5J0MBMUYky7EA4nCNFVWaZlO8IOxKFwXoM3Tt5uLJlpApiQPqWonF8OpNpBAOU3Wy38Shhvvjb7dkfkVTLDO/4Qxv75CCManGwApas9gZpsVp2viDnZaAeW73Zbbd3k7zWBFHE1cXgiJUc+GOzG6AlRiFI6FI2fusNjGgBmvIeQPAtiRA0DnUBZsTIvmgX4ximaEnJK/MrLiRz4zSBKtEtDH5uwXytB3DaCxMjUWtZmkSHSYnC900UnbMu9eFELEAupy1wf7EH0i1KpZFIHVqcI+k7yCT7alNDhiDesPNs67knO+cbs9Xp+P+jipZE1ibUc4/I=;+OKKNAzEMZNFTJgkfdy4pQ=="
 ---

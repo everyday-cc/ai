@@ -231,16 +231,16 @@ related:
         height: 675
         isCached: true
   - title: "Tesla video promoting self-driving was staged, engineer testifies"
-    excerpt: "A 2016 video that Tesla used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior engineer."
-    publishedDateTime: 2023-01-17T18:01:00Z
-    webUrl: "https://europe.autonews.com/automakers/tesla-video-promoting-self-driving-was-staged-engineer-testifies"
+    excerpt: "The video, which remains archived on Tesla’s website, was released in October 2016 and promoted on Twitter by CEO Elon Musk as evidence that “Tesla drives itself.”"
+    publishedDateTime: 2023-01-17T23:01:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/tesla-video-promoting-self-driving-was-staged-engineer-testifies"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
     quality: 39
     images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/zzzztesla.jpg"
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/zzzztesla.jpg"
         width: 1200
         height: 630
         isCached: true

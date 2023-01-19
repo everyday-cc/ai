@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-19T05:50:00Z
 originalUrl: "https://www.computerweekly.com/blog/Open-Source-Insider/Encord-offers-ML-toolkit-for-computer-vision-apps"
 webUrl: "https://www.computerweekly.com/blog/Open-Source-Insider/Encord-offers-ML-toolkit-for-computer-vision-apps"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Computer Weekly

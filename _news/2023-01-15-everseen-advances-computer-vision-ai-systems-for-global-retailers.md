@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-15T14:23:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/01/p30423687/everseen-advances-computer-vision-ai-systems-for-global-retailers"
 webUrl: "https://www.benzinga.com/pressreleases/23/01/p30423687/everseen-advances-computer-vision-ai-systems-for-global-retailers"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Benzinga.com
@@ -15,6 +18,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "UotWCddtKE3DcfeDJAjAbM1pSuzR2t+9IYOvnJLhXDYqboKGugaFa4YdHmfgo2/QI3hhAhg/QtY6UJkjuhiMMR2Pye3V9/gwARErF26Hiy//7RZJesKKLah+xJjAooQtio2EFYghsFF5Sh2Mm9huKbO7hoT9Bw/ohKtjAdv/iYz5gM/oSPaQP60HaZUUA2qCez81bRPEfu5V8nYqNDWDFeuKp4T9VXWHOAmPQv3pgIm4Q0Y0hsoo+nzkycdIgXW0K8P9+l3nPob0NX9fr7RQmB2C+LYYqWb/KrfEzlBCyrTJ9mRxQSU+Cw1rqTLNj1ENPYVOM1I/m0/Kw4VcBY8pyFG9rGawHWxiKnjtl7vTUiU=;8vQ66xfmimGEp7dWBnQ+Zw=="
+secured: "ruKg6E5qYEC6ILmj7h3s7uQlK04iFeV8RceZzHyQktjsEluEUy2YWvUWB+FOKqy4bd4BkmH0fwDNtXiJTUyYU/HsmsIwECDtDv8hFxMWTD1QXOCV3Ip0JoOHCJQQbgJly1PfV17ljc/R1LOkUaYp5fDPyVVEAepFNUF0Jk+E/CaEZdjt9ZjN7OyZvG07ZWMEdZWpedpUv/TmAaWH+ShLZpu2ZV8XjOXIl0aJ+2CJiQPHEOdxLfKFiZNOr4nL6OG4Ni4NWcH5sf74BKNRvlgvfzApIp3pDGjA6Fl97u6pEDxwtetPNYoC1innrj5ks6Ut+nlwGoOLRc61RAbC93Ry8k2AEzDVcMaA9FHV6ocXZEY=;kFT6JsnCvI57jmHfCIf0tg=="
 ---
 

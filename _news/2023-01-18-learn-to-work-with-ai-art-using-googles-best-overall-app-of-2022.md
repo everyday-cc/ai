@@ -37,6 +37,20 @@ related:
         width: 1300
         height: 541
         isCached: true
+  - title: "Therapy by chatbot? The promise and challenges in using AI for mental health"
+    excerpt: "Some companies and researchers think smart computers might eventually help with provider shortages in mental health, and some consumers are already turning to chatbots to build \"emotional resilience.\""
+    publishedDateTime: 2023-01-19T14:40:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/2023-01-19/therapy-by-chatbot-the-promise-and-challenges-in-using-ai-for-mental-health"
+    type: article
+    provider:
+      name: wusfnews.wusf.usf.edu
+      domain: usf.edu
+    quality: 53
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/4bc16ea/2147483647/strip/true/crop/1916x1006+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F19%2Fchatbot-therapy_wide-b667f0335dfdad70b6cf6bfa40d9b392f61833c8.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ChatGPT detector could help spot cheaters using AI to write essays"
     excerpt: "A tool called GPTZero can identify whether text was produced by a chatbot, which could help teachers tell if students are getting AI to help with their homework"
     publishedDateTime: 2023-01-17T14:29:00Z

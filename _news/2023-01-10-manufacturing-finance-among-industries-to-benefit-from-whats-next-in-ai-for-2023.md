@@ -15,6 +15,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Finance
+  - Facebook AI
 
 images:
   - url: "https://www.cc.gatech.edu/sites/default/files/images/main/2023/2023_ai_whats_new_graphic_v2.jpg"
@@ -22,6 +23,6 @@ images:
     height: 478
     isCached: true
 
-secured: "0KElc2SD1qwzXlyF6kIiQTZ1f03L7AsgG8hAUxWgXPheFT9Cd++5XdUyLbzyVsnJtpZ36jX45JSieH3Y9f/pU/U0SwXiu6X13RDA7m9AZEtHK/4bGNvjjgZrdvLx14aarj/QyfGoTK+ucbAnB/APmh8S5KDvXKn84JDwBAgwir5tqpoPyH3VPFRbmywfVsu3kqbTae7RXw6rIKPBlDUEWHZJ9hVBQ+P00RYlcF9M74zaMLiH960TAlitkkbjC7G7RmrcJs73+1WLMEaI8ud5U26uHwO0f7UKBNiqfpOdQ8ZO9nqmBOnKqgOI0mtxRzxFPKlHUycI4KI5SkSY8x70YNgeKnmu45J7h+bJX0gQ9Qw=;e/SEn88QdJBjT/bELfZ4zA=="
+secured: "fkx3A2noN3SgS/zs9iHEl+SJVAfC/yb8I5qyALdthj3WnSeo6ATcZ167xJTeWJlxoNMF3ZtsMuWhPunX4Oc3Kh9ur3qYMffPo9W4SWi+E7nJV2A9MDREstCKqvRbInBJ+btQQnO33qOizHmfNfMP5jZtXCVKTOOJxmz3kw14DUCpsfKPlzausD1ECEniWOoS+ebrFWiKPNlUQ0mvWVeen7PhABonWZawQVGekxROdXhzOydTDycP4c7JVCwapbVscGXC4HsMpi2YTMhoza25yLOAOyHaDPjwaU6t5njBK2vkrlUxSF7iWDkRqT0Yju7UO5u2GAId4BGhlDoq1OQsvUwXzNM3XaHGd1/J/ZtBMFqIjrI765H818iplitv0avVGTEtcOJNKmx8dgKPL+URVj5eTyLmB7K5njyFz0z7XyyFPnSNOI3IBdaVpRZhV1aX4NUoXjhj22Mys7+SXV3TNLnolNvAsnCGFW4gfpa2bOtoANNnYSYWyAg3I1TCEABYD33kAlEPHAp4Q5zssMAU5A==;4jNiAkk+NuVWh87sqxM4+Q=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-release
 cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html?outputType=amp"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: MLive
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Michigan brewery to tap kegs on beer designed by artificial intelligence"
+    excerpt: "A Michigan brewery is using some of the most advanced forms of technology available to develop a new brew: a recipe designed using artificial intelligence. Atwater Brewery, which operates three taphouses across the state,"
+    publishedDateTime: 2023-01-19T13:23:00Z
+    webUrl: "https://www.woodtv.com/news/michigan/michigan-brewery-to-tap-kegs-on-beer-designed-by-artificial-intelligence/"
+    type: article
+    provider:
+      name: WOOD-TV
+      domain: woodtv.com
+    quality: 16
   - title: "Michigan’s Atwater Brewery releases IPA created by artificial intelligence"
     excerpt: "Artificial Intelligence IPA is a 6.5% brew made with a blend of Centennial, Citra, and Amarillo hops, which results in tropical and citrus flavors and aromas."
     publishedDateTime: 2023-01-18T19:57:00Z

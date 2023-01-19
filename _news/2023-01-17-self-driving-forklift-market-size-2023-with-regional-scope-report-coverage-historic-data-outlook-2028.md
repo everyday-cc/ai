@@ -237,6 +237,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 22
+  - title: "Speech & Voice Recognition Systems Market : Research Report Provides an In-Depth Insight of Trends 2023 To 2028"
+    excerpt: "Pages Report] Rising demand for Internet & Communication Industry will drive the Speech & Voice Recognition Systems segment growth over the next five years. Global Market Anal"
+    publishedDateTime: 2023-01-19T01:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-research-report-provides-an-in-depth-insight-of-trends-2023-to-2028-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 14
   - title: "Research and Markets: FLAP Data Center Market 2022 to 2027: Investment Analysis & Growth Opportunities - ResearchAndMarkets.com"
     excerpt: "The \"FLAP Data Center Market Investment Analysis Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The FLAP data center market is expected to grow at a CAGR"
     publishedDateTime: 2023-01-17T16:37:00Z

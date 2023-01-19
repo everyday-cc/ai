@@ -93,7 +93,7 @@ related:
     provider:
       name: grid
       domain: grid.news
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.grid.news/resizer/4_o-cnZ1toWsKZMVtTtZUrBHr9w=/1200x630/filters:format(jpg):quality(100)/cloudfront-us-east-1.images.arcpublishing.com/thesummit/YRSXDSDSRZH7JNBNZMIO66QBHA.jpg"
         width: 1200

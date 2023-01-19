@@ -552,6 +552,15 @@ related:
       name: The Hacker News
       domain: thehackernews.com
     quality: 26
+  - title: "Cross-site forgery bug would facilitate remote code execution in Microsoft Azure services"
+    excerpt: "The bug, reported to Microsoft on Oct. 26 and remediated Dec. 6, is the result of manipulating a series of misconfigurations and security bypasses in Kudu, a back-end source control management (SCM) tool that helps manage and modify web applications and is used by major Microsoft cloud services like Azure Functions,"
+    publishedDateTime: 2023-01-19T13:00:00Z
+    webUrl: "https://www.scmagazine.com/analysis/application-security/cross-site-forgery-bug-would-facilitate-remote-code-execution-in-microsoft-azure-services"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 25
   - title: "Artificial intelligence software ChatGPT’s mock exam answers pass plagiarism checks, but AI detection software available"
     excerpt: "Universities are having to adapt to combat potential plagiarism using artificial intelligence. Dr Popenici also encouraged education institutions to embrace AI. “Let’s use AI to enhance more significant ways to assess what our students learn and what ..."
     publishedDateTime: 2023-01-18T12:03:00Z

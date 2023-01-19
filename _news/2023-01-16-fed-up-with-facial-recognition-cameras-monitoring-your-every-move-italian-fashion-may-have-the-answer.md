@@ -37,6 +37,15 @@ related:
         width: 1920
         height: 1138
         isCached: true
+  - title: "These clothes can shield you from facial recognition systems (VIDEO)"
+    excerpt: "An Italian start-up is exploiting a flaw in the system by selling a whole range of clothes capable of foiling facial recognition systems. To go incognito,"
+    publishedDateTime: 2023-01-19T14:10:00Z
+    webUrl: "https://www.malaymail.com/news/life/2023/01/19/these-clothes-can-shield-you-from-facial-recognition-systems-video/51163"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 19
 
 secured: "5goilrUF3m7wOQmG00IDDrPP7YoGLyS60CbXJg61N9QTTGZHPuybniDf2VlmO7VF/YwwXulvXRAuUbY1YAeQbySsPhBHfzjt7KIuMs8rYYYu2As7KBeIBB6MqOS+6iUS1TLAuG/b4t8DgL+akMGxMzS5pLdP69KsE3n7Ki48Wnw6zXj1t+giYRwztdhYXWfkrQDLWy5Mh87vXU04PYKxdkCC3xlr9cSK9UcucFX5xr6gUZrVmYEUdyiTSZ5y4bFe2vFabtwcZ/KWpqqkaTHP0PQSfyLI8QW2YfisN+kGARlcfNJuVx1Q8K+dwKCdjewdnh6lASlQoGfySfOozCOM19xCkqK2YntmBjzZ25DEfCD5uCt/U+vRkKqXYehrGKZ44XNmwP9MqkMvshzBYzjcACgnpnbgH/AOuWQM8SEpkL9yk52fTlgYrvlfAKkuIFUyhEf1O8tbKBpngHwqBzus/2B+xyo2EqypNQXYFWJGT35AmdU6Jov0CvYuEY8bzLo84154zHdpLgObZRKxpcIPeQ==;fJuydWtRz6z9XvTafMo4xQ=="
 ---

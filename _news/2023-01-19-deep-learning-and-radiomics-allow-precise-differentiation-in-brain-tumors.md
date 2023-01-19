@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-19T14:26:00Z
 originalUrl: "https://medicalxpress.com/news/2023-01-deep-radiomics-precise-differentiation-brain.html"
 webUrl: "https://medicalxpress.com/news/2023-01-deep-radiomics-precise-differentiation-brain.html"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: Medical Xpress

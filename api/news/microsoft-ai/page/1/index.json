@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-19-the-goldilocks-principle-and-hybrid-cloud.md",
+      "title": "The Goldilocks Principle And Hybrid Cloud",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as The Goldilocks Principle shows up in many places in our lives and business in areas as vast and varied as astrobiology, economics, and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c96c06ef67aedf79766ebe/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 528,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/amp/",
+      "publishedDateTime": "2023-01-19T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-19-microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work.md",
       "title": "Microsoft CEO Satya Nadella Claims Artificial Intelligence Will Redefine Business And Work",
       "excerpt": "Microsoft CEO Satya Nadella said on Wednesday that the world is approaching a golden age of artificial intelligence by citing a recent instance in which an Indian farmer utilized a ChatGPT interface to access a secret government program online despite only understanding a local dialect.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work",
       "featuredContent": null,
       "highlight": null,
-      "heat": 309,
+      "heat": 310,
       "tags": null,
       "images": [
         {
@@ -106,7 +158,7 @@
       "originalUrl": "https://www.itpro.co.uk/cloud/cloud-computing/369875/microsoft-adds-chatgpt-to-azure-openai-support-cloud-services",
       "featuredContent": null,
       "highlight": null,
-      "heat": 529,
+      "heat": 539,
       "tags": null,
       "images": [
         {
@@ -1330,40 +1382,6 @@
       "provider": {
         "name": "Medindia",
         "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-the-impact-of-the-mind-dietary-pattern-on-cognitive-health-and-incidence-of-dementia.md",
-      "title": "The impact of the MIND dietary pattern on cognitive health and incidence of dementia",
-      "excerpt": "Around seventeen population-based studies conducted in Sweden, Australia, France, the US, Spain, Israel, Brazil, and the Netherlands, have analyzed the association between MIND and cognitive health.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230110/The-impact-of-the-MIND-dietary-pattern-on-cognitive-health-and-incidence-of-dementia.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230110/The-impact-of-the-MIND-dietary-pattern-on-cognitive-health-and-incidence-of-dementia.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/building-an-ai-governance-strategy-that-w
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/building-an-ai-governance-strategy-that-works/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artists file suit over artificial intelligence-generated works"
+    excerpt: "Countless artists have taken inspiration from “The Starry Night” since Vincent Van Gogh painted the swirling scene in 1889. Now artificial intelligence systems are doing the same, training themselves on a vast collection of digitized artworks to produce new images you can conjure in seconds from a smartphone app."
+    publishedDateTime: 2023-01-19T16:06:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/jan/19/artists-file-suit-over-artificial-intelligence-generated-works/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 37
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/01/19/AP23011863010313_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
   - title: "New Concerns About AI Technology That Can Write Stories, Essays"
     excerpt: "Many educators are worried students could use the tool to essentially do their homework. New York City schools have already banned access to the technology on school networks and devices, worried that using it \"does not build critical-thinking and problem-solving skills."
     publishedDateTime: 2023-01-16T19:19:00Z

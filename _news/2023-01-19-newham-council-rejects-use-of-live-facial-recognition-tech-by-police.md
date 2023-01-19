@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-19T09:00:00Z
 originalUrl: "https://www.computerweekly.com/news/252529364/Newham-Council-rejects-use-of-live-facial-recognition-tech-by-police"
 webUrl: "https://www.computerweekly.com/news/252529364/Newham-Council-rejects-use-of-live-facial-recognition-tech-by-police"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Computer Weekly

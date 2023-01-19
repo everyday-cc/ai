@@ -2,55 +2,21 @@
   "page": 149,
   "value": [
     {
-      "path": "_news/2022-06-10-pentagons-hicks-expects-real-results-from-artificial-intelligence-office.md",
-      "title": "Pentagon’s Hicks expects real results from artificial intelligence office",
-      "excerpt": "The Chief Digital and Artificial Intelligence Office, fully operational this month, needs to produce results and be seen as a “go-to place for talent and technical expertise,” Hicks said June 8 at the Department of Defense’s virtual Digital and AI ...",
+      "path": "_news/2022-09-07-iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law.md",
+      "title": "Iran might use facial recognition to identify women who violate hijab law",
+      "excerpt": "Iran might use facial recognition to identify women who violate hijab law. The regime continues a crackdown on women's dressing.",
       "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/06/09/pentagons-hicks-expects-real-results-from-artificial-intelligence-office/",
-      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/06/09/pentagons-hicks-expects-real-results-from-artificial-intelligence-office/",
+      "webUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/",
+      "originalUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-10T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-amd-details-zen-4-epyc-cpu-and-cdna-3-gpu-roadmaps-for-ai-and-data-center-dominance.md",
-      "title": "AMD Details Zen 4 EPYC CPU And CDNA 3 GPU Roadmaps For AI And Data Center Dominance",
-      "excerpt": "At AMD's Financial Analyst Day event, it outlined a bevy of future data products, including Genoa-X, Bergamo, and CDNA 3.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center",
-      "originalUrl": "https://hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
+      "heat": 78,
       "tags": null,
       "images": [
         {
-          "url": "https://images.hothardware.com/contentimages/newsitem/58803/content/amd-server-data-center-hero.jpg",
-          "width": 718,
-          "height": 481,
+          "url": "https://dailytimes.com.pk/assets/uploads/2018/06/15/US-restaurant-chain-in-hijab-row-orders-diversity-training.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -58,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center",
-      "publishedDateTime": "2022-06-10T09:46:00-07:00",
+      "ampWebUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/",
+      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/",
+      "publishedDateTime": "2022-09-06T17:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
+        "name": "Daily Times",
+        "domain": "dailytimes.com.pk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -74,60 +40,26 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-10-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Update",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) saw a significant growth in short interest during the month of May. As of May 31st, there was short interest totalling 17,",
+      "path": "_news/2022-09-07-nektarai-exits-stealth-mode-to-plug-crm-data-leakages.md",
+      "title": "Nektar.ai exits stealth mode to plug CRM data leakages",
+      "excerpt": "A lot of important data gets lost along the sales pipeline because sales teams use multiple tools, including email, Zoom and WhatsApp, to talk with buyers. Nektar.ai wants to solve the problem of data leakage with its sales productivity platform,",
       "sourceUrl": null,
-      "webUrl": "https://www.defenseworld.net/2022/06/10/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-3.html",
-      "originalUrl": "https://www.defenseworld.net/2022/06/10/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-3.html",
+      "webUrl": "https://techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/",
+      "originalUrl": "https://techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-10T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense World",
-        "domain": "defenseworld.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-how-ai-is-driving-iams-shift-to-digital-identity.md",
-      "title": "How AI is driving IAM’s shift to digital identity",
-      "excerpt": "The IAM industry needs to shift to digital identity, evolving away from legacy constructs to an AI-powered system that's always on.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/",
-      "originalUrl": "https://venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/GettyImages-961645454-e1645559719112.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1059088668.jpg",
+          "width": 2119,
+          "height": 1414,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -135,16 +67,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/amp/",
-      "publishedDateTime": "2022-06-10T08:20:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/amp/",
+      "publishedDateTime": "2022-09-06T17:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -161,25 +93,25 @@
       ],
       "topics": [
         "AI",
-        "Facebook AI"
+        "AI in Sales"
       ]
     },
     {
-      "path": "_news/2022-06-10-baidus-jidu-auto-releases-virtual-concept-robocar-as-intelligent-ev-unit-moves-towards-mass-production-in-2023.md",
-      "title": "Baidu’s Jidu Auto releases virtual concept robocar as intelligent EV unit moves towards mass production in 2023",
-      "excerpt": "Baidu-backed EV firm WM applies to list in ... Tesla’s founder Elon Musk recently said that Tesla aims to have self-driving cars, without the need for human intervention, by May 2023.",
+      "path": "_news/2022-09-07-mcdonalds-breakfasts-driverless-buses-among-innovations-launched-in-newcastle.md",
+      "title": "McDonald's breakfasts, driverless buses among innovations launched in Newcastle",
+      "excerpt": "The polymer bank note? Newcastle tested and passed. The driverless bus? Trialled in Newy. Sydney's infamous lockout laws? Taken up after a \"successful\" installation in Newcastle. The Hunter has ...",
       "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit",
+      "webUrl": "https://www.abc.net.au/news/2022-09-07/mcdonalds-breakfasts-driverless-buses-newcastle-innovations/101399644",
+      "originalUrl": "https://www.abc.net.au/news/2022-09-07/mcdonalds-breakfasts-driverless-buses-newcastle-innovations/101399644",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/08/a7880824-98af-4131-80cb-aeb9f88421db_36043c23.jpg?itok=OKP7ptvz&v=1654696184",
-          "width": 1200,
-          "height": 630,
+          "url": "https://live-production.wcms.abc-cdn.net.au/ed3cda7a3cd6263f40028637d2c3cb93?impolicy=wcms_crop_resize&cropH=467&cropW=700&xPos=0&yPos=230&width=862&height=575",
+          "width": 700,
+          "height": 467,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -187,16 +119,50 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit",
-      "publishedDateTime": "2022-06-10T07:57:00-07:00",
+      "ampWebUrl": "https://amp.abc.net.au/article/101399644",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101399644",
+      "publishedDateTime": "2022-09-06T16:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026.md",
+      "title": "Video Content Management System Market Analysis, Size, Share, Facts and Figures, Services and Forecast 2026",
+      "excerpt": "The global Video Content Management System Market size expected to grow at a Compound Annual Growth Rate (CAGR) of 14.0% during the forecast period, to reach USD 6.8 billion by 2026 from USD 3.5 billion in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026-2022-09-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026-2022-09-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -212,276 +178,17 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-10-give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but-is-it-art.md",
-      "title": "Give this AI a few words of description and it produces a stunning image – but is it art?",
-      "excerpt": "(THE CONVERSATION) A picture may be worth a thousand words, but thanks to an artificial intelligence program called DALL-E 2, you can have a professional-looking image with far fewer. DALL-E 2 is ...",
+      "path": "_news/2022-09-07-it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft.md",
+      "title": "IT services provider Long View is recognized as an industry leader in sustainability by Cisco and Microsoft",
+      "excerpt": "A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\".",
       "sourceUrl": null,
-      "webUrl": "https://napavalleyregister.com/lifestyles/technology/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but/article_398d9fd2-3b6c-5100-9c71-a945663a00f7.html",
-      "originalUrl": "https://napavalleyregister.com/lifestyles/technology/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but/article_398d9fd2-3b6c-5100-9c71-a945663a00f7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/custom/image/f675bdee-c549-11ea-98b6-631770e8cea7.jpg?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-10T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Napa Valley Register",
-        "domain": "napavalleyregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-hyundai-pilots-driverless-car-hailing-service-in-south-korea.md",
-      "title": "Hyundai pilots driverless car-hailing service in South Korea",
-      "excerpt": "The ride-hailing service will use the auto maker’s IONIQ 5 battery electric vehicles, launched last year, and will be equipped with its in-house developed level 4 autonomous driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/hyundai-pilots-driverless-car-hailing-service-in-south-korea/article65514993.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/hyundai-pilots-driverless-car-hailing-service-in-south-korea/article65514993.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/incoming/oex5ik/article65514944.ece/alternates/LANDSCAPE_615/Photo.4.jpg",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/hyundai-pilots-driverless-car-hailing-service-in-south-korea/article65514993.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/hyundai-pilots-driverless-car-hailing-service-in-south-korea/article65514993.ece/amp/",
-      "publishedDateTime": "2022-06-10T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-global-healthcare-artificial-intelligence-market.md",
-      "title": "Global Healthcare Artificial Intelligence Market...",
-      "excerpt": "Dublin, June 10, 2022 (GLOBE NEWSWIRE) -- The \"Global Healthcare Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This report examines the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27643706/global-healthcare-artificial-intelligence-market-analysis-report-2022-with-use-cases-from-clara-ma",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27643706/global-healthcare-artificial-intelligence-market-analysis-report-2022-with-use-cases-from-clara-ma",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27643706",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27643706",
-      "publishedDateTime": "2022-06-10T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-machine-learning-bella-italia-trials-use-of-robot-waiters.md",
-      "title": "Machine learning: Bella Italia trials use of robot waiters",
-      "excerpt": "The group behind restaurant brands Las Iguanas, Bella Italia and Café Rouge is trialling the use of robots at one of its venues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bighospitality.co.uk/Article/2022/06/10/machine-learning-bella-italia-trials-use-of-robot-waiters",
-      "originalUrl": "https://www.bighospitality.co.uk/Article/2022/06/10/machine-learning-bella-italia-trials-use-of-robot-waiters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bighospitality.co.uk/var/wrbm_gb_hospitality/storage/images/publications/hospitality/bighospitality.co.uk/sector/casual-dining/machine-learning-bella-italia-trials-use-of-robot-waiters/5745485-1-eng-GB/Machine-learning-Bella-Italia-trials-use-of-robot-waiters.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-10T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big Hospitality",
-        "domain": "bighospitality.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-why-is-baidu-stock-rallying.md",
-      "title": "Why Is Baidu Stock Rallying?",
-      "excerpt": "So what’s driving the recent gains and will the momentum hold up for Baidu BIDU? There are a couple of factors driving the recent gains. Firstly, Baidu posted a better than expected set of Q1 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/06/10/why-is-baidu-stock-rallying/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/06/10/why-is-baidu-stock-rallying/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//627945792c55604b71305590/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/06/10/why-is-baidu-stock-rallying/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/06/10/why-is-baidu-stock-rallying/amp/",
-      "publishedDateTime": "2022-06-10T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-ibm-cio-kathryn-guarini-on-being-ibms-first-customer.md",
-      "title": "IBM CIO Kathryn Guarini on being IBM’s first customer",
-      "excerpt": "Since deploying AI for customer support issues, Guarini says IBM has seen a 26% reduction in time-to-resolution of customer support cases. Having come from the IBM Research Division, which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/400808/ibm-cio-kathryn-guarini-on-being-ibms-first-customer.html",
-      "originalUrl": "https://www.cio.com/article/400808/ibm-cio-kathryn-guarini-on-being-ibms-first-customer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/06/20210305-IBM-Kathryn-Guarini-crop.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/400808/ibm-cio-kathryn-guarini-on-being-ibms-first-customer.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400808/ibm-cio-kathryn-guarini-on-being-ibms-first-customer.html/amp",
-      "publishedDateTime": "2022-06-10T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-stats-perform-to-launch-opta-vision.md",
-      "title": "Stats Perform To Launch Opta Vision",
-      "excerpt": "The Next Generation of Sports Data Delivering On the Promise of Richer Insights LONDON, June 10, 2022 /PRNewswire/ --Stats Perform, the sports",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/stats-perform-to-launch-opta-vision-1031521412",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/stats-perform-to-launch-opta-vision-1031521412",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft-1031727161",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft-1031727161",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -491,7 +198,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-10T03:00:00-07:00",
+      "publishedDateTime": "2022-09-06T11:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -514,69 +221,17 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-10-tesla-secures-multi-billion-dollar-deal-with-samsung-for-new-cameras-for-self-driving.md",
-      "title": "Tesla secures multi-billion-dollar deal with Samsung for new cameras for self-driving",
-      "excerpt": "Tesla has reportedly secured a multi-billion-dollar deal with Samsung to get new cameras for its self-driving sensor suite. Tesla’s Full Self-Driving (FSD) program relies on cameras to get imagery to feed its neural nets.",
+      "path": "_news/2022-09-07-taiwanese-president-cites-threat-of-chinese-cognitive-warfare.md",
+      "title": "Taiwanese President cites threat of Chinese ‘cognitive warfare’",
+      "excerpt": "Taiwanese President Tsai Ing-wen said on September 6 that China is conducting “cognitive warfare” by spreading misinformation in addition to its regular incursions into nearby waters and ...",
       "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/06/10/tesla-secures-billion-deal-samsung-new-cameras-self-driving/",
-      "originalUrl": "https://electrek.co/2022/06/10/tesla-secures-billion-deal-samsung-new-cameras-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/06/10/tesla-secures-billion-deal-samsung-new-cameras-self-driving/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/10/tesla-secures-billion-deal-samsung-new-cameras-self-driving/amp/",
-      "publishedDateTime": "2022-06-10T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-loading-remote-data-in-tff.md",
-      "title": "Loading Remote Data in TFF",
-      "excerpt": "In a production environment, the raw data for a federated computation is typically distributed across machines and requires special preprocessing and loading before it's usable. This tutorial describes how to load data stored in those remote locations with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/federated/tutorials/loading_remote_data",
-      "originalUrl": "https://www.tensorflow.org/federated/tutorials/loading_remote_data",
+      "webUrl": "https://www.thehindu.com/news/international/taiwanese-president-cites-threat-of-chinese-cognitive-warfare/article65857145.ece",
+      "originalUrl": "https://www.thehindu.com/news/international/taiwanese-president-cites-threat-of-chinese-cognitive-warfare/article65857145.ece",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -586,149 +241,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-10T02:38:00-07:00",
+      "publishedDateTime": "2022-09-06T10:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-global-us-283-bn-speech-and-voice-recognition-market-outlook-to-2026.md",
-      "title": "Global US $ 28.3 Bn Speech and Voice Recognition Market Outlook to 2026",
-      "excerpt": "The global speech and voice recognition market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 19.8% during the forecast period, to Reach USD 28.3 Billion by 2026, from USD 6.9 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/global-us-28-3-bn-speech-and-voice-recognition-market-outlook-to-2026",
-      "originalUrl": "https://www.digitaljournal.com/pr/global-us-28-3-bn-speech-and-voice-recognition-market-outlook-to-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ibb.co/TBSytXx/Speech-and-Voice-Recognition-Market-Overview.png",
-          "width": 623,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-10T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay.md",
-      "title": "Fintech startup HostBook raises $3 mn in series A funding led by Razorpay",
-      "excerpt": "Hostbooks intends to utilise the Series-A funding to further scale its operations and enhance its existing product suite",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay-122061000530_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay-122061000530_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/09/full/1631127536-5223.jpg?im=Resize,width=480",
-          "width": 480,
-          "height": 359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay-122061000530_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay-122061000530_1.html",
-      "publishedDateTime": "2022-06-10T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-get-a-deep-dive-into-azure-ai-at-microsofts-upcoming-webinar.md",
-      "title": "Get a deep-dive into Azure AI at Microsoft’s upcoming webinar",
-      "excerpt": "Microsoft’s approach to AI focuses on empowerment, innovation, and responsibility. Azure AI enables businesses to build on their own terms. Businesses can look at building applications using ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/06/microsofts-upcoming-webinar-towards-azure-ai/amp",
-      "originalUrl": "https://yourstory.com/2022/06/microsofts-upcoming-webinar-towards-azure-ai/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imageqi5m-1654840509809.jpg ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2022/06/microsofts-upcoming-webinar-towards-azure-ai/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/06/microsofts-upcoming-webinar-towards-azure-ai/amp",
-      "publishedDateTime": "2022-06-10T00:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
+        "name": "The Hindu",
+        "domain": "thehindu.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -743,21 +260,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-10-ai-gurus-are-leaving-big-tech-to-work-on-buzzy-new-start-ups.md",
-      "title": "A.I. gurus are leaving Big Tech to work on buzzy new start-ups",
-      "excerpt": "Four of the best-funded new AI start-ups — Inflection, Cohere, Adept and Anthropic — have recently poached dozens of AI scientists with backgrounds in Big Tech. The start-ups' hiring efforts ...",
+      "path": "_news/2022-09-07-springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program.md",
+      "title": "SpringML Renews its Machine Learning Specialization in the Google Cloud Partner Advantage Program",
+      "excerpt": "Partners achieving this specialization have demonstrated success with data exploration, preprocessing, model training, model evaluation, model deployment, online prediction, and Google pretrained Machine Learning APIs.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/06/10/ai-gurus-are-leaving-big-tech-to-work-on-buzzy-new-start-ups.html",
-      "originalUrl": "https://www.cnbc.com/2022/06/10/ai-gurus-are-leaving-big-tech-to-work-on-buzzy-new-start-ups.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program-1031727055",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program-1031727055",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://image.cnbcfm.com/api/v1/image/107006595-1643204907671-gettyimages-961707246-FRANCE_TECHNOLOGY.jpeg?v=1654767972",
-          "width": 4000,
-          "height": 2878,
+          "url": "https://mma.prnewswire.com/media/1892506/SpringML_Renews_Machine_Learning_Specialization.jpg",
+          "width": 400,
+          "height": 227,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -765,16 +282,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/06/10/ai-gurus-are-leaving-big-tech-to-work-on-buzzy-new-start-ups.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/06/10/ai-gurus-are-leaving-big-tech-to-work-on-buzzy-new-start-ups.html",
-      "publishedDateTime": "2022-06-09T23:06:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T10:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -790,284 +307,10 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-aws-announces-general-availability-of-aws-mainframe-modernization.md",
-      "title": "AWS Announces General Availability of AWS Mainframe Modernization",
-      "excerpt": "SEATTLE–(BUSINESS WIRE)–Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of AWS Mainframe Modernization, a new service that makes it faster and easier for customers to modernize ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-mainframe-modernization/",
-      "originalUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-mainframe-modernization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-mainframe-modernization/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/aws-announces-general-availability-of-aws-mainframe-modernization/amp/",
-      "publishedDateTime": "2022-06-09T21:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
+        "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-hyundais-self-driving-roboride-taxi-ready-for-gangnams-streets.md",
-      "title": "Hyundai’s self-driving RoboRide taxi ready for Gangnam’s streets",
-      "excerpt": "Hyundai has launched its self-driving taxis in the streets of Gangnam, South Korea that is equipped with Level 4 autonomous driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://philkotse.com/market-news/hyundai-roboride-autonomous-self-driving-taxi-12831",
-      "originalUrl": "https://philkotse.com/market-news/hyundai-roboride-autonomous-self-driving-taxi-12831",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.philkotse.com/2022/06/10/O3IWXvly/1-c8f8_wm.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://philkotse.com/market-news/hyundai-roboride-autonomous-self-driving-taxi-12831/amp",
-      "cdnAmpWebUrl": "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/hyundai-roboride-autonomous-self-driving-taxi-12831/amp",
-      "publishedDateTime": "2022-06-09T20:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philkotse",
-        "domain": "philkotse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-how-ai-is-useful-and-not-useful-for-cybersecurity.md",
-      "title": "How AI Is Useful — and Not Useful — for Cybersecurity",
-      "excerpt": "Artificial intelligence has advanced greatly in the past decade. On my phone, I'm reading Apple and Google news that is well-tailored to me, thanks to AI recommendation models. Self-driving cars ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.darkreading.com/attacks-breaches/how-ai-is-useful-and-not-useful-for-cybersecurity",
-      "originalUrl": "https://www.darkreading.com/attacks-breaches/how-ai-is-useful-and-not-useful-for-cybersecurity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltde9425c06d16a1b9/629cd4823e67f920b951f264/AI_Prostock-studio_Alamy.jpg",
-          "width": 1290,
-          "height": 745,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T19:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Reading",
-        "domain": "darkreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-artificial-intelligence-reveals-a-never-before-described-3d-structure-in-rotavirus-spike-protein.md",
-      "title": "Artificial intelligence reveals a never-before described 3D structure in rotavirus spike protein",
-      "excerpt": "The tip of rotavirus B spike protein is not only totally different from the corresponding structure in rotavirus A and C, but also no other protein before had been reported to have this structure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/06/220609131855.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/06/220609131855.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-amd-touts-big-datacenter-ai-ambitions-in-cpu-gpu-roadmap.md",
-      "title": "AMD touts big datacenter, AI ambitions in CPU-GPU roadmap",
-      "excerpt": "After taking serious CPU market share from Intel over the last few years, AMD has revealed larger ambitions in AI, datacenters and other areas with an expanded roadmap of CPUs, GPUs and other kinds of chips for the near future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/06/10/amd_chip_roadmap/",
-      "originalUrl": "https://www.theregister.com/2022/06/10/amd_chip_roadmap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-artificial-intelligence-automation-and-robotics.md",
-      "title": "Artificial intelligence, automation and robotics",
-      "excerpt": "The challenge of open source in the enterprise is not technical – Cliff Saran's Enterprise blog Grid stability and the risk it poses to the retail sector and its datacentres – Ahead in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/resources/Artificial-intelligence-automation-and-robotics",
-      "originalUrl": "https://www.computerweekly.com/resources/Artificial-intelligence-automation-and-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-how-vision-systems-work-in-robotics.md",
-      "title": "How Vision Systems Work in Robotics",
-      "excerpt": "Robot vision systems are commonly referred to as machine vision. This vision tool is used in several industrial processes, including material inspection, object recognition, and pattern recognition. Each industry applies its particular values to machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation/how-vision-systems-work-robotics",
-      "originalUrl": "https://www.designnews.com/automation/how-vision-systems-work-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
-  "nextPage": 150
+  "nextPage": null
 }

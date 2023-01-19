@@ -2,6 +2,40 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-10-06-how-to-setup-facial-recognition-and-fingerprint-recognition-on-the-genesis-gv60.md",
+      "title": "How to setup Facial Recognition and Fingerprint Recognition on the Genesis GV60",
+      "excerpt": "At Autoblog’s Tech of the Year, Senior Editor John Snyder demonstrates the steps needed to set up Facial Recognition and Fingerprint on the 2023 fully electric Genesis GV60. Transcript JOHN ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/setup-facial-recognition-fingerprint-recognition-144507761.html",
+      "originalUrl": "https://www.autoblog.com/setup-facial-recognition-fingerprint-recognition-144507761.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-facial-recognition-market-size-2022-2030-exhibits-cagr-to-reach-usd-million-by-2030.md",
       "title": "Facial Recognition Market Size [2022-2030] Exhibits CAGR to Reach USD Million by 2030",
       "excerpt": "The Facial Recognition market size was US$ $$ billion in 2021, and the global market size is forecast to reach US$ $$ billion by 2030, growing at a compound annual growth rate (CAGR) of $$% during the forecast period from 2022 to 2030.",
@@ -1387,49 +1421,6 @@
         "Facebook AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-kami-visions-fall-management-solution-kamicare-expands-national-access-through-general-availability.md",
-      "title": "Kami Vision's Fall Management Solution, KamiCare, Expands National Access Through General Availability",
-      "excerpt": "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions and cameras to enterprise, SMBs and consumers, announces the general availability of KamiCare, its vision AI fall management solution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/09/27/9681407.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/09/27/9681407.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
-          "width": 476,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

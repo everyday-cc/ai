@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Tesla video promoting self-driving was staged, engineer testifies"
-excerpt: "A 2016 video that Tesla used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior engineer."
-publishedDateTime: 2023-01-17T18:01:00Z
-originalUrl: "https://europe.autonews.com/automakers/tesla-video-promoting-self-driving-was-staged-engineer-testifies"
-webUrl: "https://europe.autonews.com/automakers/tesla-video-promoting-self-driving-was-staged-engineer-testifies"
+excerpt: "The video, which remains archived on Tesla’s website, was released in October 2016 and promoted on Twitter by CEO Elon Musk as evidence that “Tesla drives itself.”"
+publishedDateTime: 2023-01-17T23:01:00Z
+originalUrl: "https://www.autonews.com/regulation-safety/tesla-video-promoting-self-driving-was-staged-engineer-testifies"
+webUrl: "https://www.autonews.com/regulation-safety/tesla-video-promoting-self-driving-was-staged-engineer-testifies"
 type: article
 quality: 39
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/zzzztesla.jpg"
+  - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/zzzztesla.jpg"
     width: 1200
     height: 630
     isCached: true
@@ -310,6 +310,6 @@ related:
       domain: dailydot.com
     quality: 15
 
-secured: "QX8jVa7a0vyhb7iq21hF00I/0uYCW7/mkCmgV4B+LvWGDA3gGrPmf1/Myk4amitF2EJvfqDQnG/0zOqnGhTyI/Hetm574q/ks+/6wLvIG0nBv8ykmQeisq8DEDMxkG3eg8FwGcp/bhFrc5zhYImjMUx+m8frxYj7L8SWAH/40kkSAh+pXlELBwBgyxhSWoXMBAnYuNP3RkqMqrvZ7hmHPIIkLn8VigfDHq39VQ2Sd5tnAISOTcQom9xBnlIwlchBlVZVSrzPCb3O5r/POcUazSU+jcJk2CWCo8A8jWRbVcpLOiaW79hPNbNPsUSNVLB9dq2By2VRygL35Wyzi6mU4Y4pg2FKD375yejrY6wpkVo=;Bo5L+1Ga6uuL6MoW3jNTeg=="
+secured: "OLEoR4S2zcirzkkWmrpREwdLN8TmwYTwwpHQPVfHWtbhJyVKmQYxfF+bjuO9n6D3ZA0C7OagXV6UlFcsuSDfmq74LevevV1PPiFZPzXli9fWc18DCWlfgEVzDBDsG10jBlGMv+qw0BLG8fz28DXCKPtV3x0LYnpot7k/VyolK+9+3qcytNAEJ5h7CTw6SDYZ+KCr1RelOV1TXUfv2n3YaeNbJA22iDoQRR7pi17ZnOCbXspKPo90+OfbUqosLMsmRg7EaylvPIKZDId4VcbrnhfI2zjPwgrnkqPpdu3O5h7HRdMoKhejk/FHGt5FhBFLZ2cpZPBVG9Sg0S04hYAOgcuFOKMsUCwOg4enZEQyYpU=;cM2TODtBoFC1OUT3UhY07g=="
 ---
 

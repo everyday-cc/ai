@@ -242,6 +242,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 17
+  - title: "Speech & Voice Recognition Systems Market : Research Report Provides an In-Depth Insight of Trends 2023 To 2028"
+    excerpt: "Pages Report] Rising demand for Internet & Communication Industry will drive the Speech & Voice Recognition Systems segment growth over the next five years. Global Market Anal"
+    publishedDateTime: 2023-01-19T01:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-research-report-provides-an-in-depth-insight-of-trends-2023-to-2028-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 14
 
 secured: "l/ZSaVez7kCod1xPv9qOI9r9f7RoY1b5Lz2uVD07i/gigg4TwaHqRmgP7z2Fd8yL2++G/SGAbGMLfi1Cx6WAFOfFXeso/P/beOGZiXI1BBwBG0eRcqCVWzlnZ4UGKHPaMPHchDOPj74O+sbc/HD+N1Pc3dQQyRM5N5WTsXCe4ji7WF3KXrpvkqqtVauT/LJvcff8x+jAenfMY4VUCHGsgmZlXWSJAjvYgu7v4MlewvFCNhM+2iNAibbVYXG1kOCsT/MRNV+4YsNDugZpXUuKDLCeAxmEFranSZuRCwrxZmpLUkHScty7TCKA2U8AVwglJW2impglQaeYzHBzzCoT5P19EW78dc9q5i79WRzk2xU=;mPhtJotvk89rL6wtplUF0w=="
 ---

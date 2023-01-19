@@ -2,6 +2,401 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2022-10-30-history-of-ai-in-33-breakthroughs-the-first-expert-system.md",
+      "title": "History Of AI In 33 Breakthroughs: The First Expert System",
+      "excerpt": "Expert systems represented a new stage in the evolution of AI, shifting from its initial emphasis on general problem-solving and reasoning to a new focus was on knowledge,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2022/10/29/history-of-ai-in-33-breakthroughs-the-first-expert-system/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/10/29/history-of-ai-in-33-breakthroughs-the-first-expert-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/635db2d65570dc9d8908fd10/0x0.jpg?format=jpg&width=1200",
+          "width": 568,
+          "height": 378,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/10/29/history-of-ai-in-33-breakthroughs-the-first-expert-system/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/10/29/history-of-ai-in-33-breakthroughs-the-first-expert-system/amp/",
+      "publishedDateTime": "2022-10-29T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-30-trust-artificial-intelligence-still-a-work-in-progress-survey-shows.md",
+      "title": "Trust Artificial Intelligence? Still A Work In Progress, Survey Shows",
+      "excerpt": "Trust is a priority, but many organizations haven’t taken enough steps to ensure AI is trustworthy, the survey also shows. Eighty-five percent of respondents agree that consumer",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/29/trust-artificial-intelligence-still-a-work-in-progress-survey-shows/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/29/trust-artificial-intelligence-still-a-work-in-progress-survey-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/635d917f6cae08519f08fd16/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/29/trust-artificial-intelligence-still-a-work-in-progress-survey-shows/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/29/trust-artificial-intelligence-still-a-work-in-progress-survey-shows/amp/",
+      "publishedDateTime": "2022-10-29T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-30-google-buys-an-ai-avatar-startup-to-take-on-tiktok.md",
+      "title": "Google buys an AI avatar startup to take on TikTok",
+      "excerpt": "Google has quietly acquired a startup that was working on using AI to generate avatars for social media users and brands. According to TechCrunch, the company recently paid about $100 million to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-buys-alter-at-avatar-startup-185313472.html",
+      "originalUrl": "https://www.engadget.com/google-buys-alter-at-avatar-startup-185313472.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/6bf6dc20-57b9-11ed-9bff-f67e87022c36",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-buys-alter-at-avatar-startup-185313472.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-buys-alter-at-avatar-startup-185313472.html",
+      "publishedDateTime": "2022-10-29T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-29-vyommitra-is-the-humanoid-robot-india-is-sending-to-space.md",
+      "title": "Vyommitra Is The Humanoid Robot India Is Sending To Space",
+      "excerpt": "Yet, when you think of countries with a burgeoning space agency, India is not one that immediately springs to mind. However ... displayed on the vehicle's control panels, flip switches accordingly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1077334/vyommitra-is-the-humanoid-robot-india-is-sending-to-space/",
+      "originalUrl": "https://www.slashgear.com/1077334/vyommitra-is-the-humanoid-robot-india-is-sending-to-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-29T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-29-how-to-manage-risk-as-ai-spreads-throughout-your-organization.md",
+      "title": "How to manage risk as AI spreads throughout your organization",
+      "excerpt": "AI has many possibilities. But organizations must strategically implement AI to gain benefits and avoid risk and harmful consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/",
+      "originalUrl": "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1339968369.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/amp/",
+      "publishedDateTime": "2022-10-29T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-29-tesla-and-argo-ai-setbacks-sap-momentum-for-driverless-tech.md",
+      "title": "Tesla and Argo AI setbacks sap momentum for driverless tech",
+      "excerpt": "The driverless tech industry hit a couple of snags this week. First came news in Ford’s (F) Q3 earnings report that the automaker was shutting down its Argo AI autonomous driving joint venture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/tesla-argo-ai-setbacks-sap-145810466.html",
+      "originalUrl": "https://www.aol.com/finance/tesla-argo-ai-setbacks-sap-145810466.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/PjszFwy462T9BOJ7cFK3bQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njk-/https://media.zenfs.com/en/aol_yahoo_finance_433/9113db93c990a4cb7e94c8aa550cb8be",
+          "width": 1200,
+          "height": 769,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-29T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-29-you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong.md",
+      "title": "You think your customers want a humanlike AI; you may be wrong",
+      "excerpt": "There’s a wide variety in how brands are approaching the design of VA experiences today, and there seems special interest in the highly humanlike ones—VAs that aim for the appearance and behavior of the real humans who previously fielded these inquiries.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong/",
+      "originalUrl": "https://venturebeat.com/ai/you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1338009807.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong/amp/",
+      "publishedDateTime": "2022-10-29T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-29-why-generative-ai-is-suddenly-on-everyones-lips-its-an-open-field.md",
+      "title": "Why “generative AI” is suddenly on everyone’s lips: it’s an “open field”",
+      "excerpt": "There's a lot of confusion about generative AI, including how new exactly it is, and whether it's becoming massively overhyped.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/28/generative-ai/",
+      "originalUrl": "https://techcrunch.com/2022/10/28/generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/intro-1.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/28/generative-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/28/generative-ai/amp/",
+      "publishedDateTime": "2022-10-28T23:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-29-texas-attorney-general-sues-google-again-this-time-over-facial-recognition-in-photos.md",
       "title": "Texas Attorney General Sues Google Again, This Time Over Facial Recognition in Photos",
       "excerpt": "which uses facial recognition to sort together photos of the same people. Even if you gave Google permission to collect your own facial recognition data, the people you’ve taken pictures of ...",
@@ -784,332 +1179,6 @@
         "AI in Autos",
         "Google AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision.md",
-      "title": "LatticeFlow Secures $12 Million to Eliminate AI Data and Model Blind Spots in Computer Vision",
-      "excerpt": "The funding will accelerate development of the first scalable AI platform to automatically diagnose and fix data and model issues in computer vision, vital for enabling real-world model adoption ZURICH–(BUSINESS WIRE)–#DeepTech—LatticeFlow ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/",
-      "originalUrl": "https://www.01net.it/latticeflow-secures-12-million-to-eliminate-ai-data-and-model-blind-spots-in-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-lego-is-discontinuing-its-mindstorms-buildable-robot-kits.md",
-      "title": "Lego Is Discontinuing Its Mindstorms Buildable Robot Kits",
-      "excerpt": "where the robots can be controlled and programmed, for another two years after that. Lego Mindstorms first debuted back in September of 1998, over 24 years ago, leveraging the company’s more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2022/10/lego-is-discontinuing-its-mindstorms-buildable-robot-kits/",
-      "originalUrl": "https://www.gizmodo.com.au/2022/10/lego-is-discontinuing-its-mindstorms-buildable-robot-kits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gizmodo",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh.md",
-      "title": "After Argo AI’s collapse, what's next for driverless tech in Pittsburgh?",
-      "excerpt": "Hours after self-driving tech startup Argo AI revealed its decision Wednesday to fold, the autonomous vehicle industry notched a long-sought win in Harrisburg. State lawmakers approved a measure to allow companies to operate the vehicles on roads without a human operator present.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh",
-      "originalUrl": "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/40b3fc9/2147483647/strip/true/crop/4032x2117+0+907/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2F03%2F704d4a554042b24679e0a3048668%2Flocomation-photo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WESA",
-        "domain": "wesa.fm",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-ford-says-full-self-driving-is-a-long-way-off-as-argo-ai-shuts-down.md",
-      "title": "Ford says full self-driving ‘is a long way off' as Argo AI shuts down",
-      "excerpt": "DETROIT — Ford Motor Co. posted a third-quarter loss of $827 million that it largely blames on newly revealed plans to shut down Argo AI, a self ... using artificial intelligence and 3D printing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/mobility-report-newsletter/ford-says-full-self-driving-long-way-argo-ai-shuts-down",
-      "originalUrl": "https://www.autonews.com/mobility-report-newsletter/ford-says-full-self-driving-long-way-argo-ai-shuts-down",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/roundup%20hyundai_i.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-usd-681-billion-growth-in-ai-market-size-in-2021-expected-to-record-a-cagr-of-148-during-2021-2026-predicts-globaldata.md",
-      "title": "USD 68.1 Billion Growth In AI Market Size In 2021, Expected To Record A CAGR Of 14.8% During 2021-2026, Predicts Globaldata",
-      "excerpt": "The latest market research report titled has been published by GlobalData Plc on their report store. The report estimates the market witnessed a gro",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105094742/USD-681-Billion-Growth-In-AI-Market-Size-In-2021-Expected-To-Record-A-CAGR-Of-148-During-2021-2026-Predicts-Globaldata",
-      "originalUrl": "https://menafn.com/1105094742/USD-681-Billion-Growth-In-AI-Market-Size-In-2021-Expected-To-Record-A-CAGR-Of-148-During-2021-2026-Predicts-Globaldata",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?420875",
-          "width": 374,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype.md",
-      "title": "Tesla, Ford and VW Sound the Death Knell for Driverless Car Hype",
-      "excerpt": "By contrast, Argo CEO Bryan Salesky emphasized the need for safe and limited deployments of test vehicles and close partnerships with cities and stakeholders that its driverless cars would share the road with. Neither the scorched-earth nor the nice-guy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype",
-      "originalUrl": "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.supplychainbrain.com/ext/resources/2022/10/27/AI-DRIVERLESS-CAR-SELF-DRIVING-AUTOMOBILE-BLOOMBER.jpg?height=635&t=1666931214&width=1200",
-          "width": 953,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain",
-        "domain": "supplychainbrain.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms.md",
-      "title": "Long COVID: how lost connections between nerve cells in the brain may explain cognitive symptoms",
-      "excerpt": "Some people with long COVID complain of “brain fog”, which includes a wide variety of cognitive symptoms affecting memory, concentration, sleep and speech. There’s also growing concern about ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms-192702",
-      "originalUrl": "https://theconversation.com/long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms-192702",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms-192702",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms-192702",
-      "publishedDateTime": "2022-10-27T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-artificial-intelligence-has-an-achilles-heel-data.md",
-      "title": "Artificial Intelligence Has An Achilles Heel: Data",
-      "excerpt": "Artificial intelligence just doesn’t pop up when you install tools and software. It takes planning and, most of all, it takes data. But getting the right data to make AI and machine learning algorithms — and understanding it — is where many organizations are slipping up,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/27/artificial-intelligence-has-an-achilles-heel-data/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/27/artificial-intelligence-has-an-achilles-heel-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/635b38cb63aefdcfb6876e01/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/27/artificial-intelligence-has-an-achilles-heel-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/27/artificial-intelligence-has-an-achilles-heel-data/amp/",
-      "publishedDateTime": "2022-10-27T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-19T13:04:00Z
 originalUrl: "https://www.theguardian.com/film/2023/jan/20/transfusion-review-paint-by-numbers-drama-could-be-written-by-ai"
 webUrl: "https://www.theguardian.com/film/2023/jan/20/transfusion-review-paint-by-numbers-drama-could-be-written-by-ai"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Guardian

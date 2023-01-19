@@ -109,7 +109,7 @@
       "originalUrl": "https://venturebeat.com/ai/building-an-ai-governance-strategy-that-works/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -245,7 +245,8 @@
       ],
       "topics": [
         "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "Facebook AI"
       ]
     },
     {
@@ -483,6 +484,49 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-07-ces-2023-ais-at-a-really-important-moment-says-sonys-ai-ethics-expert.md",
+      "title": "CES 2023: AI's at a ‘really important moment,' says Sony's AI ethics expert",
+      "excerpt": "This amounts to a crucial moment for AI, Alice Xiang, Head of Sony Group's (SONY) AI Ethics Office and AI Lead Research Scientist, told Yahoo Finance Live (video above). “We're really seeing an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/ces-2023-ais-really-important-200046285.html",
+      "originalUrl": "https://www.aol.com/finance/ces-2023-ais-really-important-200046285.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_yahoo_finance_433/5c8b533b3390eeae6f9ec4727d034d18",
+          "width": 720,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-06T12:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1335,49 +1379,6 @@
       "provider": {
         "name": "CTV News",
         "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-air-india-puts-in-place-ethics-governance-structure.md",
-      "title": "Air India Puts In Place Ethics Governance Structure",
-      "excerpt": "This committee has the mandate to formalise ethics-related guidelines, approve policies and procedures related to ethics, and will be the final escalation point for the regional ethics committees",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200",
-      "originalUrl": "https://www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1656938538.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200/amp",
-      "publishedDateTime": "2022-12-11T19:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
         "images": null,
         "publishers": null,
         "authors": null

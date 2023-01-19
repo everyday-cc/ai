@@ -2,6 +2,369 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2022-11-22-innovation-showdown-crypto-and-meta-vs-industry-40.md",
+      "title": "Innovation Showdown: Crypto And Meta Vs. Industry 4.0",
+      "excerpt": "Digital-industrial applications did not completely escape the hype, of course, and have triggered their share of disappointments. The reality of self-driving cars, for example, lags far behind the promise of a fully driver-less future — a future that ten years ago might have sounded almost within reach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/",
+      "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637bebf143f2b4ffba1a9f12/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/amp/",
+      "publishedDateTime": "2022-11-21T23:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-amazon-web-services-launches-aws-asia-pacific-hyderabad-region.md",
+      "title": "Amazon Web Services launches AWS Asia Pacific (Hyderabad) Region",
+      "excerpt": "Cloud service provider Amazon Web Services, Inc. has launched AWS Asia Pacific (Hyderabad) Region, its second such facility to augment services to customers in India.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece",
+      "originalUrl": "https://www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/ajfcx3/article66168232.ece/alternates/FREE_1200/2022-10-28T005024Z_750891177_RC2UXU9J3955_RTRMADP_3_TECH-RESULTS-CLOUD.JPG",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece/amp/",
+      "publishedDateTime": "2022-11-21T22:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-aws-launches-second-infrastructure-region-in-india-to-invest-44-billion-by-2030.md",
+      "title": "AWS launches second infrastructure region in India, to invest $4.4 billion by 2030",
+      "excerpt": "The investment is also estimated to create an average of more than 48,000 full-time jobs annually, which will be part of the AWS supply chain in India including construction, facility maintenance, engineering,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/",
+      "originalUrl": "https://www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/11/AWS.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/lite/",
+      "publishedDateTime": "2022-11-21T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-can-an-artificial-intelligence-be-considered-an-artist.md",
+      "title": "Can an artificial intelligence be considered an artist?",
+      "excerpt": "In the majority of fiction that concerns artificial intelligence (AI), it replaces us in almost every industry. Often, only the artistic fields are left untouched. Usually, a robot or AI showing capabilities to create a work is seen as a completion ...",
+      "sourceUrl": null,
+      "webUrl": "https://cursus.edu/en/25914/can-an-artificial-intelligence-be-considered-an-artist",
+      "originalUrl": "https://cursus.edu/en/25914/can-an-artificial-intelligence-be-considered-an-artist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cursus.edu/storage/thumbnails/7ZVqQtw5b8GmadzNNUhf0iyrebl1wUruX356Ujkh.jpeg",
+          "width": 900,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-21T21:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cursus.edu",
+        "domain": "cursus.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-the-speech-jfk-never-gave.md",
+      "title": "The Speech JFK Never Gave",
+      "excerpt": "While the bulk of the speech is no longer timely – budget spending, politics, issues of the day, and so forth – his main ideas and philosophies most certainly are, especially in our current political and social environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/eliamdur/2022/11/22/the-speech-jfk-never-gave/",
+      "originalUrl": "https://www.forbes.com/sites/eliamdur/2022/11/22/the-speech-jfk-never-gave/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63715fb816756bee83fa64ef/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 970,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2022/11/22/the-speech-jfk-never-gave/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2022/11/22/the-speech-jfk-never-gave/amp/",
+      "publishedDateTime": "2022-11-21T21:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-waymo-launches-fully-driverless-rides-in-san-francisco.md",
+      "title": "Waymo launches fully driverless rides in San Francisco",
+      "excerpt": "Driverless rides will soon be taking to the streets of San Francisco. The California Public Utilities Commission granted Waymo, a subsidiary of Alphabet Inc., a permit to participate in its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfexaminer.com/news/waymo-offers-fully-driverless-rides-in-san-francisco/article_fac08082-69b1-11ed-b013-43cf9e6fd703.html",
+      "originalUrl": "https://www.sfexaminer.com/news/waymo-offers-fully-driverless-rides-in-san-francisco/article_fac08082-69b1-11ed-b013-43cf9e6fd703.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/d/ce/dce695e0-4ffa-11ed-a102-a3739e1956a2/6350760db606a.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-21T19:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Francisco Examiner",
+        "domain": "sfexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all.md",
+      "title": "Artificial neural networks learn better when they spend time not learning at all",
+      "excerpt": "Ryan Golden , Jean Erik Delanois, et al, (2022, November 18), Artificial neural networks learn better when they spend time not learning at all, PLOS Computational Biology, DOI: 10.1371/journal.pcbi.1010628.",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/mdtv/neurology-neurosurgery/videos/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-102720",
+      "originalUrl": "https://medicaldialogues.in/mdtv/neurology-neurosurgery/videos/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-102720",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medicaldialogues.in/h-upload/2022/11/22/191602-why-sudden-increase-in-melioidosis-cases-in-india-1500-900px.jpg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicaldialogues.in/amp/mdtv/neurology-neurosurgery/videos/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-102720",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/neurology-neurosurgery/videos/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-102720",
+      "publishedDateTime": "2022-11-21T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-india-assumes-chair-of-the-global-partnership-on-artificial-intelligence.md",
+      "title": "India assumes chair of the global partnership on artificial intelligence",
+      "excerpt": "Rajeev Chandrasekhar said that India will work in close cooperation with member states to put a framework in place",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence-11669043467856.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence-11669043467856.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/11/21/600x338/Chandrasekhar_1669043793226_1669043793443_1669043793443.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence/amp-11669043467856.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/india-assumes-chair-of-the-global-partnership-on-artificial-intelligence/amp-11669043467856.html",
+      "publishedDateTime": "2022-11-21T18:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-amazons-ai-is-helping-the-police-watch-you.md",
       "title": "Amazon's AI Is Helping the Police Watch You",
       "excerpt": "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security.",
@@ -774,376 +1137,6 @@
         "name": "Finanznachrichten",
         "domain": "finanznachrichten.de",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-black-sesame-technologies-and-zte-join-forces-for-self-driving-cars.md",
-      "title": "Black Sesame Technologies and ZTE Join Forces for Self-Driving Cars",
-      "excerpt": "Black Sesame Technologies and ZTE Join forces for self-driving car technologies. This made BST the first driving chip partner of ZTE",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/",
-      "originalUrl": "https://www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/11/black-sesame-technologies-zte-self-driving-cars-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/11/21/black-sesame-technologies-zte-self-driving-cars/?amp=1",
-      "publishedDateTime": "2022-11-21T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-thetaray-ai-tech-continues-global-awards-sweep.md",
-      "title": "ThetaRay AI Tech Continues Global Awards Sweep",
-      "excerpt": "CrossTech Compliance Solution of the Year award goes to ThetaRay (Photo: Business Wire) The Compliance Solution of the Year award from CrossTech 2022 in Miami last week recognizes",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/thetaray-ai-tech-continues-global-awards-sweep/article_8b9acfd1-ddfd-52bf-be0b-3ce9bf6e2d85.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/thetaray-ai-tech-continues-global-awards-sweep/article_8b9acfd1-ddfd-52bf-be0b-3ce9bf6e2d85.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/d/d3/dd3af79d-c181-5035-bdea-ba0d600154ab/637b778ce566e.image.jpg?crop=900%2C473%2C0%2C393&resize=900%2C473&order=crop%2Cresize",
-          "width": 900,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-the-top-five-ways-ai-is-transforming-business.md",
-      "title": "The Top Five Ways AI Is Transforming Business",
-      "excerpt": "With automated workflow and optimized day-to-day tasks, AI is helping businesses boost productivity in many ways. It reduces the time employees spend performing a task. As a result, they achieve more in less time, enhancing the company’s overall productivity side by side.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/21/the-top-five-ways-ai-is-transforming-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/21/the-top-five-ways-ai-is-transforming-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61b210016811815c378fdd64/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/21/the-top-five-ways-ai-is-transforming-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/11/21/the-top-five-ways-ai-is-transforming-business/amp/",
-      "publishedDateTime": "2022-11-21T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-like-human-brains-artificial-neural-networks-need-rest.md",
-      "title": "Like Human Brains, Artificial Neural Networks Need Rest",
-      "excerpt": "Artificial neural networks that mimic natural neural systems by transmitting data at set times and having periods similar to sleep may avoid catastrophic forgetting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/neuroscience/news/like-human-brains-artificial-neural-networks-need-rest-367756",
-      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/like-human-brains-artificial-neural-networks-need-rest-367756",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/367756/like-human-brains-artificial-neural-networks-need-rest-367756-640x360.jpg?cb=20221121",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T02:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-ai-in-fintech-market-by-sources-analysis-share-trends-size-forecast-from-2022-2030.md",
-      "title": "AI in fintech Market By Sources: Analysis, Share, Trends, Size, & Forecast From 2022-2030",
-      "excerpt": "The global AI in fintech market size was US$ 7.87 billion in 2021. The global AI in fintech market is forecast to grow to US$ 41.1 billion by 2030, registering a compound annual growth rate (CAGR ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-by-sources-analysis-share-trends-size-forecast-from-2022-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-by-sources-analysis-share-trends-size-forecast-from-2022-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/11/AAA-7-1-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T02:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-is-ai-art-really-art-this-california-gallery-says-yes.md",
-      "title": "Is AI art really art? This California gallery says yes",
-      "excerpt": "As artificial intelligence becomes increasingly popular for generating images, a question has roiled the art world: Can AI create art? At bitforms gallery in San Francisco, the answer is yes.",
-      "sourceUrl": null,
-      "webUrl": "https://localnews8.com/entertainment/2022/11/20/is-ai-art-really-art-this-california-gallery-says-yes/",
-      "originalUrl": "https://localnews8.com/entertainment/2022/11/20/is-ai-art-really-art-this-california-gallery-says-yes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://localnews8.b-cdn.net/2022/11/hypatia-h_eddeec5a39f505f7c29f640c14b1998d-h_5443a445c179c9945d1e14bca24f1eb0-300.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T02:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local News 8",
-        "domain": "localnews8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-meta-to-replace-facebook-news-tabs-human-editors-with-ai.md",
-      "title": "Meta to replace Facebook News tab’s human editors with AI",
-      "excerpt": "Meta plans to end human curation of the UK Facebook News tab ... is already curated by artificial intelligence. From early 2023, the entire tab will be AI-generated. Meta informed publishers ...",
-      "sourceUrl": null,
-      "webUrl": "https://pressgazette.co.uk/news/facebook-news-tab-uk-automated/",
-      "originalUrl": "https://pressgazette.co.uk/news/facebook-news-tab-uk-automated/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/10/GettyImages-1201476988-scaled-e1666003822588.jpg",
-          "width": 2124,
-          "height": 1592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T02:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Press Gazette",
-        "domain": "pressgazette.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-ambient-computing-is-at-the-heart-of-the-frictionless-economy.md",
-      "title": "Ambient Computing Is At The Heart Of The Frictionless Economy",
-      "excerpt": "The aim is to remove the friction in using technology and, in particular, to help users move away from screens and scanning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/632dbbaa69b953ca837d2c1f/0x0.jpg?format=jpg&crop=5700,3206,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/amp/",
-      "publishedDateTime": "2022-11-21T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

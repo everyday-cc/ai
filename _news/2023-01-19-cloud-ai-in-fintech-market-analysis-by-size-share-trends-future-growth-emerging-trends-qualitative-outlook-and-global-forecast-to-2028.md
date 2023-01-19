@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Systems in Healthcare Market 2023 Expected to Witness the Highest Revenue Growth Over Forecast to 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence"
-    publishedDateTime: 2023-01-14T23:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2023-01-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in BFSI Market 2023 Report Offers Key Futuristic Top Trends And Competitive Landscape By 2029"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. This review"
     publishedDateTime: 2023-01-18T04:25:00Z

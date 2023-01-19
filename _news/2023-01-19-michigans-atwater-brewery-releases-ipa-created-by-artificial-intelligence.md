@@ -34,6 +34,15 @@ related:
         width: 3024
         height: 2530
         isCached: true
+  - title: "Michigan brewery to tap kegs on beer designed by artificial intelligence"
+    excerpt: "A Michigan brewery is using some of the most advanced forms of technology available to develop a new brew: a recipe designed using artificial intelligence. Atwater Brewery, which operates three taphouses across the state,"
+    publishedDateTime: 2023-01-19T13:23:00Z
+    webUrl: "https://www.woodtv.com/news/michigan/michigan-brewery-to-tap-kegs-on-beer-designed-by-artificial-intelligence/"
+    type: article
+    provider:
+      name: WOOD-TV
+      domain: woodtv.com
+    quality: 16
 
 secured: "YNa1pMzt8reHX02m+kq8Rv8zd8JlCAxK4Ln8jMa27C9itN28aWy7e9VOZfTwMhltqauPUQNet4/cE+VU7e1ueyJON2F9VlMy+9yEZwycphZXelTbP+4RZOlW7mSQroQZdyHeD2qpVGchOM7uKJ12Q9kiq+65CbLyJjFnukRCbioenyxAT67dSGnWGzGZLhU0ncsYHTWt9tFMBcbkabbQX/hl6fhPB/5c81Sth+VyqentWjVFpbn6XbTErf4I0K+NxOiT4edv5dJIX6YaLYlccJSOL4G4HGR/gX49n2kYiX2n75T+lk1BaIviP4VuG5bNyzgJXAqaYGCQEqrrsnAN96wiAUGJOJVADJcc57caVb4=;SGEn+q5LjTaDPKSEXom0xA=="
 ---

@@ -64,6 +64,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 58
+  - title: "IBM and MBZUAI Advance AI for Climate and Culture"
+    excerpt: "AI Center of Excellence will focus on finding carbon neutral solutions for existing energy resources and improving access to new AI technologies for Arabic speakers. ABU DHABI, UA"
+    publishedDateTime: 2023-01-19T15:44:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/19/9746327.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1986757/IBM_MBZUAI_AI_Center.jpg"
+        width: 400
+        height: 256
+        isCached: true
   - title: "Quris-AI, MBZUAI to set up Bio-AI centre in Abu-Dhabi"
     excerpt: "The state-of-the-art facility will support the development of personalised medications, tailored specifically to the diverse populations of the MENA region"
     publishedDateTime: 2023-01-17T11:11:00Z

@@ -2,49 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-10-15-phoenix-street-racer-sentenced-to-25-years-in-prison-after-pleading-guilty.md",
-      "title": "Phoenix street racer sentenced to 2.5 years in prison after pleading guilty",
-      "excerpt": "PHOENIX – A man known for organizing illicit street racing activities in Phoenix was sentenced to 2½ years in prison this week, authorities said Thursday. Jessie Ray Luna-Espinoza pleaded ...",
-      "sourceUrl": null,
-      "webUrl": "https://ktar.com/story/5291801/phoenix-street-racer-sentenced-to-2-5-years-in-prison-after-pleading-guilty/",
-      "originalUrl": "https://ktar.com/story/5291801/phoenix-street-racer-sentenced-to-2-5-years-in-prison-after-pleading-guilty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktar.com/wp-content/uploads/2022/10/Jessie-Luna-Espinoza.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ktar.com/story/5291801/phoenix-street-racer-sentenced-to-2-5-years-in-prison-after-pleading-guilty/amp/",
-      "cdnAmpWebUrl": "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/5291801/phoenix-street-racer-sentenced-to-2-5-years-in-prison-after-pleading-guilty/amp/",
-      "publishedDateTime": "2022-10-14T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTAR News",
-        "domain": "ktar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-14-testing-approaches-for-amazon-sagemaker-ml-models.md",
       "title": "Testing approaches for Amazon SageMaker ML models",
       "excerpt": "This post was co-written with Tobias Wenzel, Software Engineering Manager for the Intuit Machine Learning Platform. We all appreciate the importance of a high-quality and reliable machine learning (ML) model when using autonomous driving or interacting with Alexa, for examples. ML models also play an",
@@ -1504,6 +1461,41 @@
         "AWS AI",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise.md",
+      "title": "Amazon (AMZN) Expands Its AWS Offerings With IoT FleetWise",
+      "excerpt": "Amazon Web Services (\"AWS\") — continues to strengthen its service offerings in a bid to sustain its cloud dominance. The move to make AWS IoT FleetWise generally available is a testament to the same.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise?amp",
+      "publishedDateTime": "2022-09-29T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
       ]
     }
   ],

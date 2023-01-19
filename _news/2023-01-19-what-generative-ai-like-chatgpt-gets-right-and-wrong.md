@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-18T17:09:00Z
 originalUrl: "https://www.grid.news/story/technology/2023/01/18/what-generative-ai-like-chatgpt-gets-right-and-wrong/"
 webUrl: "https://www.grid.news/story/technology/2023/01/18/what-generative-ai-like-chatgpt-gets-right-and-wrong/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 

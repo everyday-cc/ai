@@ -2,58 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2022-10-21-giant-horrid-deep-sea-louse-like-creature-filmed-feasting-on-fish-head.md",
-      "title": "Giant, Horrid Deep-Sea Louse-Like Creature Filmed Feasting on Fish Head",
-      "excerpt": "A creepy video captured during a research dive off the coast of Florida shows a deep-sea creature feasting on the head of a fish. The video was featured in the NOAA (National Oceanic and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/giant-deep-sea-creature-filmed-eating-fish-head-1753848",
-      "originalUrl": "https://www.newsweek.com/giant-deep-sea-creature-filmed-eating-fish-head-1753848",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2138119/giant-isopod-eating-fish.png",
-          "width": 2520,
-          "height": 1680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/giant-deep-sea-creature-filmed-eating-fish-head-1753848?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/giant-deep-sea-creature-filmed-eating-fish-head-1753848?amp=1",
-      "publishedDateTime": "2022-10-21T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-21-d-wave-launches-in-aws-marketplace.md",
       "title": "D-Wave Launches in AWS Marketplace",
       "excerpt": "D-Wave is listing in AWS Marketplace at a time when organizations are increasingly turning to quantum technology to solve their most challenging business problems. Hyperion Research recently found that nearly 70% of companies surveyed have an in-house quantum computing program,",
@@ -1364,6 +1312,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-15-phoenix-street-racer-sentenced-to-25-years-in-prison-after-pleading-guilty.md",
+      "title": "Phoenix street racer sentenced to 2.5 years in prison after pleading guilty",
+      "excerpt": "PHOENIX – A man known for organizing illicit street racing activities in Phoenix was sentenced to 2½ years in prison this week, authorities said Thursday. Jessie Ray Luna-Espinoza pleaded ...",
+      "sourceUrl": null,
+      "webUrl": "https://ktar.com/story/5291801/phoenix-street-racer-sentenced-to-2-5-years-in-prison-after-pleading-guilty/",
+      "originalUrl": "https://ktar.com/story/5291801/phoenix-street-racer-sentenced-to-2-5-years-in-prison-after-pleading-guilty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktar.com/wp-content/uploads/2022/10/Jessie-Luna-Espinoza.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ktar.com/story/5291801/phoenix-street-racer-sentenced-to-2-5-years-in-prison-after-pleading-guilty/amp/",
+      "cdnAmpWebUrl": "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/5291801/phoenix-street-racer-sentenced-to-2-5-years-in-prison-after-pleading-guilty/amp/",
+      "publishedDateTime": "2022-10-14T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTAR News",
+        "domain": "ktar.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

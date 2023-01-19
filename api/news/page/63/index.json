@@ -2,6 +2,360 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2022-11-19-microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud.md",
+      "title": "Microsoft and Nvidia extend partnership to build AI supercomputer in the cloud",
+      "excerpt": "Nidhi Chappell, partner/GM, specialized compute at Microsoft, explained to VentureBeat that Azure AI-optimized virtual machine (VM) offerings, like the current generation of the NDm A100 v4 VM series, start with a single virtual machine (VM) and eight ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/",
+      "originalUrl": "https://venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1154983903-e1652785911789.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud/amp/",
+      "publishedDateTime": "2022-11-18T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-19-nvidia-and-microsoft-announce-plans-to-build-a-massive-ai-supercomputer.md",
+      "title": "Nvidia and Microsoft announce plans to build a ‘massive’ AI supercomputer",
+      "excerpt": "The future of artificial intelligence requires more powerful hardware to realize its potential. Nvidia and Microsoft will meet that need by building an “AI supercomputer.” Contrary to",
+      "sourceUrl": null,
+      "webUrl": "https://technology.inquirer.net/119521/nvidia-and-microsoft-supercomputer",
+      "originalUrl": "https://technology.inquirer.net/119521/nvidia-and-microsoft-supercomputer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T09:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philippine Daily Inquirer",
+        "domain": "inquirer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-19-spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech.md",
+      "title": "Spot AI raises $40M to build smarter CCTV security camera tech",
+      "excerpt": "CCTV cameras have a strong Big Brother vibe, but that may be because we don't really know how the footage they pick up ever gets used.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/17/spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech/",
+      "originalUrl": "https://techcrunch.com/2022/11/17/spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/spot-ai.jpg?resize=1200,814",
+          "width": 1200,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/17/spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech/amp/",
+      "publishedDateTime": "2022-11-18T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-11-19-mi-report-michigan-must-boost-investments-grow-workforce-to-lead-in-mobility.md",
+      "title": "MI: Report: Michigan must boost investments, grow workforce to lead in mobility",
+      "excerpt": "Michigan must support new ways to expand its mobility workforce, invest in rapid transit and put in place a state-level consumer incentive for electric vehicles to bolster its position as a transportation leader.",
+      "sourceUrl": null,
+      "webUrl": "https://www.masstransitmag.com/management/news/21287658/mi-report-michigan-must-boost-investments-grow-workforce-to-lead-in-mobility",
+      "originalUrl": "https://www.masstransitmag.com/management/news/21287658/mi-report-michigan-must-boost-investments-grow-workforce-to-lead-in-mobility",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.masstransitmag.com/files/base/cygnus/mass/image/static/logo/site_logo.png?auto=format,compress&fit=fill&fill=solid&fill-color=000000&w=1200&h=627",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mass Transit",
+        "domain": "masstransitmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-ai-in-computer-vision-market-new-report-by-global-industry-analysis-share-new-technological-trends-till-2027.md",
+      "title": "AI in Computer Vision Market New Report by Global Industry Analysis - Share & New Technological Trends till 2027",
+      "excerpt": "The global AI in Computer Vision market size was valued at USD 3571.46 million in 2022 and is expected to expand at a CAGR of 22.07% during the forecast period, reaching USD 11818.3 million by 2027. The report combines extensive quantitative analysis and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-new-report-by-global-industry-analysis---share-new-technological-trends-till-2027-2022-11-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-new-report-by-global-industry-analysis---share-new-technological-trends-till-2027-2022-11-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-can-artificial-intelligence-solve-datas-consent-problem.md",
+      "title": "Can artificial intelligence solve data’s consent problem?",
+      "excerpt": "Artificial intelligence (AI) has long been used by auction-based ad platforms such as Google to model how users behave, so that ads can be targeted more effectively. But the data privacy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedrum.com/opinion/2022/11/18/can-artificial-intelligence-solve-data-s-consent-problem",
+      "originalUrl": "https://www.thedrum.com/opinion/2022/11/18/can-artificial-intelligence-solve-data-s-consent-problem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-assets-05.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-666306-pawel-czerwinski-iuqbc3am5sw-unsplash--default--1280.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drum",
+        "domain": "thedrum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-how-artificial-intelligence-is-being-used-to-stop-retail-theft.md",
+      "title": "How artificial intelligence is being used to stop retail theft",
+      "excerpt": "One of those tools is artificial intelligence. It's used at Lunardi's, a Bay Area grocery store. “We actually have an alert right now,\" said Rick Sanchez, director of Lunardi's. The security ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
+      "originalUrl": "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/cec511c/2147483647/strip/true/crop/2315x1302+15+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fd2%2F79%2Ff6ae98ae406d97772336693fbbf4%2Fscreen-shot-2022-11-18-at-8.00.58%20AM.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true",
+      "cdnAmpWebUrl": "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true",
+      "publishedDateTime": "2022-11-18T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fox13now",
+        "domain": "fox13now.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-roadlink-international-trading-limited-successfully-tests-driverless-car-in-shenzhen.md",
+      "title": "Roadlink International Trading Limited Successfully Tests Driverless Car in Shenzhen",
+      "excerpt": "HONG KONG, Nov. 18, 2022 (GLOBE NEWSWIRE) -- Roadlink International Trading Limited said that the testing in Shenzhen over the past six months included a \"driverless car safely navigating roads ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/g29785340/roadlink-international-trading-limited-successfully-tests-driverless-car-in-shenzhen",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/g29785340/roadlink-international-trading-limited-successfully-tests-driverless-car-in-shenzhen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29785340",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29785340",
+      "publishedDateTime": "2022-11-18T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-how-the-dont-say-gay-law-is-affecting-florida-lgbtq-students-and-teachers.md",
       "title": "How The “Don’t Say Gay” Law Is Affecting Florida LGBTQ Students And Teachers",
       "excerpt": "There are many people who contributed to the formation of our country that deserve recognition,” she said ... parents have “the right to object to…materials used in classrooms based upon his or her belief regarding morality, sex, religion, or ...",
@@ -805,358 +1159,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-leading-defence-companies-in-the-artificial-intelligence-theme.md",
-      "title": "Leading defence companies in the artificial intelligence theme",
-      "excerpt": "The future of the defence industry will be shaped by a range of disruptive themes, with artificial intelligence (AI) being one of the themes that will have a significant impact on defence companies. AI technologies are rapidly evolving. The US and China ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.army-technology.com/data-insights/leading-defence-companies-in-the-artificial-intelligence-theme/",
-      "originalUrl": "https://www.army-technology.com/data-insights/leading-defence-companies-in-the-artificial-intelligence-theme/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.army-technology.com/wp-content/uploads/sites/3/2022/11/Aritificial-Intelligence-in-Defence-2.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "army-technology.com",
-        "domain": "army-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection.md",
-      "title": "Artificial intelligence-aided colonoscopy does not increase cancer detection",
-      "excerpt": "More information: Idan Levy et al, Artificial Intelligence-Aided Colonoscopy Does Not Increase Adenoma Detection Rate in Routine Clinical Practice, American Journal of Gastroenterology (2022). DOI ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-aided-colonoscopy-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-aided-colonoscopy-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T15:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-alexatm-20b-is-now-available-in-amazon-sagemaker-jumpstart.md",
-      "title": "AlexaTM 20B is now available in Amazon SageMaker JumpStart",
-      "excerpt": "Today, we announce the public availability of Amazon’s state-of-the-art Alexa Teacher Model with 20 billion parameters &nbsp;(AlexaTM 20B) through Amazon SageMaker JumpStart, SageMaker’s machine learning hub. AlexaTM 20B is a multilingual large-scale sequence-to-sequence (seq2seq) language model developed",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/alexatm-20b-is-now-available-in-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/alexatm-20b-is-now-available-in-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/17/alexatm-sagemaker-jumpstart.jpg",
-          "width": 1551,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T15:13:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-1-in-3-older-americans-have-cognitive-impairment-or-dementia.md",
-      "title": "1 in 3 Older Americans Have Cognitive Impairment or Dementia",
-      "excerpt": "Oct. 25, 2022 – A new study shows one-third of Americans age 65 or older have mild cognitive impairment or dementia. The study, published in the journal JAMA Neurologyon Monday, is the most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.webmd.com/brain/news/20221025/1-in-3-older-americans-have-cognitive-impairment-dementia",
-      "originalUrl": "https://www.webmd.com/brain/news/20221025/1-in-3-older-americans-have-cognitive-impairment-dementia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/blog_posts/alzheimers_disease/1800x1200_woman_holding_hands_with_senior_woman.jpg",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WebMD",
-        "domain": "webmd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-after-tufts-denied-request-for-union-recognition-heres-whats-next-for-ras.md",
-      "title": "After Tufts denied request for union recognition, here’s what’s next for RAs",
-      "excerpt": "Voluntary recognition from the university would have allowed ULTRA ... The RAs’ email did result in the formation of an RA Council, where RAs can voice concerns to the university. However, according to Francois, the RA Council has been ineffective ...",
-      "sourceUrl": null,
-      "webUrl": "https://tuftsdaily.com/news/2022/11/17/after-tufts-denied-request-for-union-recognition-heres-whats-next-for-ras/",
-      "originalUrl": "https://tuftsdaily.com/news/2022/11/17/after-tufts-denied-request-for-union-recognition-heres-whats-next-for-ras/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.tuftsdaily.com/2022/11/compressed.png",
-          "width": 1938,
-          "height": 1292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T13:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tufts Daily",
-        "domain": "tuftsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-stanford-debuts-first-ai-benchmark-to-help-understand-llms.md",
-      "title": "Stanford debuts first AI benchmark to help understand LLMs",
-      "excerpt": "Watch now. In the world of artificial intelligence (AI) and machine learning (ML), 2022 has arguably been the year of foundation models, or AI models trained on a massive scale. From GPT-3 to DALL-E, from BLOOM to Imagen — another day, it seems ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/stanford-debuts-first-ai-benchmark-to-help-understand-llms/",
-      "originalUrl": "https://venturebeat.com/ai/stanford-debuts-first-ai-benchmark-to-help-understand-llms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1342297397.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/stanford-debuts-first-ai-benchmark-to-help-understand-llms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stanford-debuts-first-ai-benchmark-to-help-understand-llms/amp/",
-      "publishedDateTime": "2022-11-17T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators.md",
-      "title": "Meet Unstable Diffusion, the group trying to monetize AI porn generators",
-      "excerpt": "“We need to … think about how safety controls might be subverted when you have an API-mediated version of the system that carries controls preventing misuse,” Abhishek Gupta, the founder and principal researcher at the Montreal AI Ethics ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/",
-      "originalUrl": "https://techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/unstable-diffusion-triptych.jpg?resize=1200,636",
-          "width": 1200,
-          "height": 636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/amp/",
-      "publishedDateTime": "2022-11-17T12:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-las-vegas-driverless-car-rental-service-set-for-expansion.md",
-      "title": "Las Vegas driverless car rental service set for expansion",
-      "excerpt": "A driverless car rental service is expanding its Las Vegas operations. Following a four-month beta test of its on-demand electric vehicle service in the downtown Las Vegas area, Halo.Car is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reviewjournal.com/business/las-vegas-driverless-car-rental-service-set-for-expansion-2678321/",
-      "originalUrl": "https://www.reviewjournal.com/business/las-vegas-driverless-car-rental-service-set-for-expansion-2678321/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T12:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Las Vegas Review-Journal",
-        "domain": "reviewjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

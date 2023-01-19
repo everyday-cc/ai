@@ -544,6 +544,15 @@ related:
       name: The Hacker News
       domain: thehackernews.com
     quality: 26
+  - title: "Cross-site forgery bug would facilitate remote code execution in Microsoft Azure services"
+    excerpt: "The bug, reported to Microsoft on Oct. 26 and remediated Dec. 6, is the result of manipulating a series of misconfigurations and security bypasses in Kudu, a back-end source control management (SCM) tool that helps manage and modify web applications and is used by major Microsoft cloud services like Azure Functions,"
+    publishedDateTime: 2023-01-19T13:00:00Z
+    webUrl: "https://www.scmagazine.com/analysis/application-security/cross-site-forgery-bug-would-facilitate-remote-code-execution-in-microsoft-azure-services"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 25
   - title: "AI Committee chairman downplays fears over ChatGPT misuse"
     excerpt: "The Chairman of the Artificial Intelligence Committee at the Ministry of Communications and Information Technology (MCIT), Hassan Jassim al-Sayed, downplayed the fears over"
     publishedDateTime: 2023-01-16T20:26:00Z

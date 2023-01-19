@@ -2,6 +2,256 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-17-italian-startup-clothing-line-will-protect-your-identity-from-facial-recognition-software.md",
+      "title": "Italian Startup Clothing Line will Protect Your Identity from Facial Recognition Software",
+      "excerpt": "Big Brother is watching you...unless you wear this wacky shirt. Cap_able, an Italian clothing start-up, is trying to make fashion for the",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/01/16/italian-startup-clothing-line-will-protect-your-id/",
+      "originalUrl": "https://www.fool.com/investing/2023/01/16/italian-startup-clothing-line-will-protect-your-id/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/716782/featured-daily-upside-image.jpg",
+          "width": 1920,
+          "height": 1138,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-artists-file-class-action-lawsuit-against-ai-image-generator-companies.md",
+      "title": "Artists file class-action lawsuit against AI image generator companies",
+      "excerpt": "Some artists have begun waging a legal fight against the alleged theft of billions of copyrighted images used to train AI art generators and reproduce unique styles without compensating artists or asking for consent.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/01/artists-file-class-action-lawsuit-against-ai-image-generator-companies/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/01/artists-file-class-action-lawsuit-against-ai-image-generator-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/ai_lawsuit_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/01/artists-file-class-action-lawsuit-against-ai-image-generator-companies/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/artists-file-class-action-lawsuit-against-ai-image-generator-companies/amp/",
+      "publishedDateTime": "2023-01-16T15:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains.md",
+      "title": "Reimagining fintech : Banking-as-a-service, embedded finance can unlock new value chains",
+      "excerpt": "At a macro level, the banking and financial services industry are in the midst of a technology-led transformation phase.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/",
+      "originalUrl": "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/01/banking1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/lite/",
+      "publishedDateTime": "2023-01-16T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits.md",
+      "title": "General availability of Azure OpenAI Service expands access to large, advanced AI models with added enterprise benefits",
+      "excerpt": "With Azure OpenAI Service now generally available, more businesses can apply for access to the most advanced AI models in the world—including GPT-3.5, Codex, and DALL•E 2—backed by the trusted enterprise-grade capabilities and AI-optimized infrastructure of Microsoft Azure, to create cutting-edge applications.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/",
+      "originalUrl": "https://azure.microsoft.com/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6218d54-3c27-4c17-bc25-33ce1d1a268e.png",
+          "width": 808,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T09:00:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-stable-diffusion-ai-art-lawsuit-plus-caution-from-openai-deepmind-the-ai-beat.md",
+      "title": "Stable Diffusion AI art lawsuit, plus caution from OpenAI, DeepMind | The AI Beat",
+      "excerpt": "Stability AI and Midjourney were hit with a copyright infringement lawsuit, while OpenAI and DeepMind are signaling generative AI caution.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-16-at-10.28.05-AM-e1673882948444.png?w=1200&strip=all",
+          "width": 703,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/",
+      "publishedDateTime": "2023-01-16T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools.md",
       "title": "Cybercriminals using ChatGPT AI bot to develop malicious tools?",
       "excerpt": "According to a report from cyber security firm Check Point Research (CPR), the cybercriminal community has already expressed strong interest in ChatGPT develop malicious code.",
@@ -10,7 +260,7 @@
       "originalUrl": "https://www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -243,7 +493,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028-2023-01-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 252,
+      "heat": 262,
       "tags": null,
       "images": [
         {
@@ -540,7 +790,7 @@
       "originalUrl": "https://dailytimes.com.pk/1051739/ncai-announces-artificial-intelligence-challenge-for-students/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -626,6 +876,58 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-has-nvidia-won-the-ai-training-market.md",
+      "title": "Has Nvidia won the AI training market?",
+      "excerpt": "AI chips serve two functions. AI builders first take a large (or truly massive) set of data and run complex software to look for patterns in",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/97272-has-nvidia-won-ai-training-market.html",
+      "originalUrl": "https://www.techspot.com/news/97272-has-nvidia-won-ai-training-market.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-15-image.jpg",
+          "width": 1963,
+          "height": 1104,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-15T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -775,58 +1077,6 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-15-even-nvidia-is-using-ai-to-improve-its-products-what-shareholders-need-to-know.md",
-      "title": "Even Nvidia Is Using AI to Improve Its Products -- What Shareholders Need to Know",
-      "excerpt": "In today's video, Jose Najarro and Nick Rossolillo discuss Nvidia (NVDA 2.35%) and recent reports of the company using artificial intelligence to optimize some of its software upd",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/01/15/even-nvidia-is-using-ai-to-improve-its-products-wh/",
-      "originalUrl": "https://www.fool.com/investing/2023/01/15/even-nvidia-is-using-ai-to-improve-its-products-wh/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/716457/copy-of-jose-najarro-43.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-15T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -982,257 +1232,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-15-global-automated-machine-learning-automl-market-2023-latest-report-is-booming-in-near-future-2029-103-pages-report.md",
-      "title": "Global Automated Machine Learning (AutoML) Market 2023 (Latest Report) is booming in near Future 2029| 103 Pages Report",
-      "excerpt": "Global Automated Machine Learning (AutoML) Market Report 2023 is spread across 103 pages and provides exclusive vital statistics, data, information, trends, and competitive landscape insights in this niche sector. In a nutshell, this report is a must-read ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-automated-machine-learning-automl-market-2023-latest-report-is-booming-in-near-future-2029-103-pages-report-2023-01-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-automated-machine-learning-automl-market-2023-latest-report-is-booming-in-near-future-2029-103-pages-report-2023-01-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-15-facial-recognition-devices-market-geographical-segmentation-by-forecast-revenue-2023-2028.md",
-      "title": "Facial Recognition Devices Market Geographical Segmentation By Forecast Revenue 2023-2028",
-      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Facial Recognition",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-devices-market-geographical-segmentation-by-forecast-revenue-2023-2028-2023-01-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-devices-market-geographical-segmentation-by-forecast-revenue-2023-2028-2023-01-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-14T15:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-15-why-chip-maker-nvidia-was-at-a-healthcare-conference.md",
-      "title": "Why Chip Maker Nvidia Was at a Healthcare Conference",
-      "excerpt": "Healthcare could become a billion dollar a year market for Nvidia's number-crunching and artificial intelligence products, writes J.P. Morgan's semiconductor analyst Harlan Sur, in a note about the chip maker's Thursday presentation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/nvidia-chips-jp-morgan-healthcare-covid-51673722829",
-      "originalUrl": "https://www.barrons.com/articles/nvidia-chips-jp-morgan-healthcare-covid-51673722829",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-703942/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-chips-jp-morgan-healthcare-covid-51673722829",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-chips-jp-morgan-healthcare-covid-51673722829",
-      "publishedDateTime": "2023-01-14T15:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-01-15-top-5-stories-of-the-week-chatgpt-ces-and-cybersecurity-advice-from-aws.md",
-      "title": "Top 5 stories of the week: ChatGPT, CES and cybersecurity advice from AWS",
-      "excerpt": "A roundup of the top 5 stories this week, including AI at CES and coming soon to Microsoft Office, and security advice from AWS.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-chatgpt-ces-and-cybersecurity-advice-from-aws/",
-      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-chatgpt-ces-and-cybersecurity-advice-from-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/VB_weekly-5_tony-hand-P3uJUQ62uXE-unsplash-e1673647845482.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-chatgpt-ces-and-cybersecurity-advice-from-aws/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-chatgpt-ces-and-cybersecurity-advice-from-aws/amp/",
-      "publishedDateTime": "2023-01-14T13:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-15-voice-ai-company-soundhound-has-reportedly-laid-off-half-its-workforce.md",
-      "title": "Voice AI company SoundHound has reportedly laid off half its workforce",
-      "excerpt": "SoundHound, the company that once said it wanted to challenge Amazon and Google’s dominance in the AI voice market, has reportedly cut about half its workforce..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/voice-ai-company-sound-hound-has-reportedly-laid-off-half-its-workforce-191947184.html",
-      "originalUrl": "https://www.engadget.com/voice-ai-company-sound-hound-has-reportedly-laid-off-half-its-workforce-191947184.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/hss/storage/midas/c60d961b15f8679229c66e816bc38aeb/203828890/soundhound-ed.jpg",
-          "width": 1400,
-          "height": 746,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/voice-ai-company-sound-hound-has-reportedly-laid-off-half-its-workforce-191947184.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/voice-ai-company-sound-hound-has-reportedly-laid-off-half-its-workforce-191947184.html",
-      "publishedDateTime": "2023-01-14T11:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
