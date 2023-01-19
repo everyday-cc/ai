@@ -2,11 +2,11 @@
 category: news
 title: "My Boss, the Robot?"
 excerpt: "What it will take to AI-proof your management job."
-publishedDateTime: 2023-01-18T16:29:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/to-manage-is-human/202301/my-boss-the-robot"
-webUrl: "https://www.psychologytoday.com/intl/blog/to-manage-is-human/202301/my-boss-the-robot"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/to-manage-is-human/202301/my-boss-the-robot?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/to-manage-is-human/202301/my-boss-the-robot?amp"
+publishedDateTime: 2023-01-18T16:38:00Z
+originalUrl: "https://www.psychologytoday.com/us/blog/to-manage-is-human/202301/my-boss-the-robot"
+webUrl: "https://www.psychologytoday.com/us/blog/to-manage-is-human/202301/my-boss-the-robot"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/to-manage-is-human/202301/my-boss-the-robot?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/to-manage-is-human/202301/my-boss-the-robot?amp"
 type: article
 quality: 39
 heat: -1
@@ -36,6 +36,6 @@ related:
         height: 768
         isCached: true
 
-secured: "nfnYrsOJZXVbwO+1J40qqPbBncFJbykzPJ/h1OOPjK+YmZq56/ARK78QYZwpolW7GcsCzh+MjgC73Muf1ohwIA4JWhCNgG/SBDDpff0bTa0V0SjRz1oWFv5TEQZoRlp5rxrougzOlYNxaO2jCynL+DDnQn9UzMJrYt0C870Im9fYR3dFICuBQoIDRROWqZiY03dMSBJzWBNbtxVBEhZzAT8ogVlD/sW6iSWRSvuz+XplvymKT6MqE0i/TjmAwq3Ht9OjEWfL0/14PjH1H7a+uTUl2GzZRS8ry684aJIfl5f0bULvqpRM5OUcLSUThYv01DTQGm0W1cyy+Hc/VNab5I5DFM8agKWungx480C1CiHri3ai1LbpWGIBm+JiK5s5aAFILOWz1TQDmvzOjKs0ohzH/Oze5Dsuk7+hk3JJj52ji46WJpoNVJCU/S3OHAxb+T8vm0pn0a+2p9ZxaIssUZpjwlZYpaLT9ePKNRIDJa1+bT07MWxENqGOLKSX6J5nzjuy1Qz3FQMuVd6SYWfI9g==;Bdg8tdrGexUNBBQbxeqbhQ=="
+secured: "TvixtLVi66a0zgsCazgVCh/FZo4HCTEkK5Rx7GUq44CenQ9NihwyB1Le48TmXJVKUl+0z3Cyg5OnYPlyGlo9Hst/UhquPZhpTIhc7Nwamx3L1tm7SQTTdfLvDMBuQmlrOYx8sMSvRSDHALMCewtwfOBO+JE03clYgH2tb4nuRVT0R5OdBre4WchuV8iREH7X6MnNP1SpM09+oYd/rur6fE6YX8QXsnTR7qH3rnYgxGdFa2pXpD7NxEI5URZC+J6lNZhBeg1oXsWuJ+EU9aWrZ83k563Spsi30z8khQofUXr3lNZiRu+aF3TaUtNv1hrzajC2PV+UmNDnIA7WrXhodnqyE/g6kYocbYqABByeX5V9Ad4HKTuM3gaKvDHEGogypz+wmXz0hXH0hZoXD8GFjfg92j+JMR5sdJ/89au4qD3kqllr7+Jkyk1f0xqklZw5yn1IL7GRSnD/BCb0fTIHbKKykpZ5q4OJ+5i/1Zdd26NfBMWbVjgF6a/2+ZlpZYIERPm2UJSRTR4m5ivbyRhtCQ==;46nnHZz7tIW/hDIWslsTRA=="
 ---
 

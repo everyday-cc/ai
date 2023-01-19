@@ -28,73 +28,80 @@ images:
     isCached: true
 
 related:
-  - title: "China’s AI Implementation Is Edging Ahead Of The US"
-    excerpt: "As Kaifu Lee, a keen observer of AI development in China has put it, “we're now in the age of AI implementation.”"
-    publishedDateTime: 2023-01-14T19:35:00Z
-    webUrl: "https://www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-implementation-is-edging-ahead-of-the-us/"
-    ampWebUrl: "https://www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-implementation-is-edging-ahead-of-the-us/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-implementation-is-edging-ahead-of-the-us/amp/"
+  - title: "Investigation exposes murkier side of AI chatbot industry"
+    excerpt: "A Time investigation has exposed the murkier side of the AI chatbot industry, highlighting how at least one startup has been using questionable practices."
+    publishedDateTime: 2023-01-19T03:30:00Z
+    webUrl: "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63c3019633134dd0cc964a43/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/01/ChatGPT-OpenAI-logo.jpg?resize=1200%2C630&p=1"
         width: 1200
-        height: 772
+        height: 630
         isCached: true
-  - title: "Is Artificial Intelligence a Fad or the Next Big Thing?"
-    excerpt: "AI has captured a lot of people's attention, but the impact of this new technology may not be felt in the way you think."
-    publishedDateTime: 2023-01-18T16:47:00Z
-    webUrl: "https://www.fool.com/investing/2023/01/18/is-artificial-intelligence-the-next-massive-money/"
+  - title: "Are AI Chatbots the Therapists of the Future?"
+    excerpt: "Could artificial intelligence chatbots be the therapists of the future? ChatGPT, a text-generating conversational chatbot made using OpenAI’s powerful third-generation language processing model GPT-3,"
+    publishedDateTime: 2023-01-18T00:47:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future?amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 61
     images:
-      - url: "https://g.foolcdn.com/editorial/images/716890/18.png"
-        width: 1280
-        height: 720
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/pexels-liza-summer-6382640.jpg?itok=ESA6C_qh"
+        width: 1528
+        height: 800
         isCached: true
-  - title: "Generative AI is having a moment and governments need to pay attention"
-    excerpt: "Governments need to understand and use generative AI systems to manage the changes they will bring, says Annan Boag from the Office of the Victorian Information Commissioner."
-    publishedDateTime: 2023-01-16T21:21:00Z
-    webUrl: "https://www.themandarin.com.au/209547-generative-ai-governments-need-to-pay-attention/"
+  - title: "DeepMind’s AI chatbot can do things that ChatGPT cannot, CEO claims"
+    excerpt: "Google’s DeepMind has pioneered advances in artificial intelligence since its founding in 2010, with the ultimate goal of creating a human-level AI (Alan Warburton / Better Images of AI / CC ..."
+    publishedDateTime: 2023-01-16T15:59:00Z
+    webUrl: "https://www.independent.co.uk/tech/deepmind-ai-chatbot-chatgpt-openai-b2262862.html"
     type: article
     provider:
-      name: The Mandarin
-      domain: themandarin.com.au
-    quality: 39
+      name: The Independent
+      domain: independent.co.uk
+    quality: 54
     images:
-      - url: "https://www.themandarin.com.au/wp-content/uploads/2023/01/generative-ai.jpg"
-        width: 795
-        height: 530
+      - url: "https://static.independent.co.uk/2022/05/17/10/deepmind%20ai%20artificial%20general%20intelligence.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "The AI revolution is here"
-    excerpt: "Could ChatGPT be used to give financial advice? InvestmentNews fed the algorithm questions to see how the AI would stack up."
-    publishedDateTime: 2023-01-17T21:57:00Z
-    webUrl: "https://www.investmentnews.com/the-ai-revolution-is-here-chatgpt-232769"
+  - title: "Haneda Airport Demos AI Chatbot 'Bebot,' a Multilingual Guidance Service"
+    excerpt: "Bebot boasts a high degree of accuracy in answering questions that travelers need, including information on airport facilities and flight information."
+    publishedDateTime: 2023-01-18T22:27:00Z
+    webUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21292923/ai-chatbot-bebot-launches-multilingual-guidance-service-pilot-at-haneda-airport"
     type: article
     provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 39
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 38
     images:
-      - url: "https://s32566.pcdn.co/wp-content/uploads/2023/01/AI-tech.jpg.optimal.jpg"
-        width: 851
-        height: 567
+      - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2023/01/image.63c86a837801c.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Alfonso Cahero Announced The Implementation Of Artificial Intelligence For Cahero Family Office"
-    excerpt: "MIAMI, FLORIDA, UNITED STATES, January 15, 2023 /einpresswire.com / -- alfonso cahero , with his family office, contributes to the success"
-    publishedDateTime: 2023-01-15T20:52:00Z
-    webUrl: "https://menafn.com/1105430536/Alfonso-Cahero-Announced-The-Implementation-Of-Artificial-Intelligence-For-Cahero-Family-Office"
+  - title: "Health tech startup achieves world-first certification for AI mental health chatbot"
+    excerpt: "London headquartered health tech startup, Limbic, has announced that its psychological assessment tool, Limbic Access, has achieved Class IIa UKCA… | London | Medical | Technology | Health & Care | St"
+    publishedDateTime: 2023-01-17T07:00:00Z
+    webUrl: "https://bdaily.co.uk/articles/2023/01/17/health-tech-startup-achieves-world-first-certification-for-ai-mental-health-chatbot"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 5
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 31
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/oOPrAVtizCNL9r6WZpjm8olWnnu8nS7vyqpGEW1k.png?w=1200&h=627&fm=jpg&fit=crop-50-50&s=a07e11f599593ea2d1f69b2024323615"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "bX0wg739InypTd3vZTTDLjJulp4cVAIkOLfMHajpuiC6FAnDvh1WX5hvPV1bZLR+pXRwyS9NPI9y5LynyhXeHJjyRj2hzIQLpekeJfiRetEd4odH+57jWTo5JcL4LWA1nfWgvk5DQNXrwiWftTL69VCv5CFDF9aUastk64LQPSmASpZGM6kP+lce4ysAHdshhgaIJGjDqY1o2ZBqxp3gf2MKqEgdz406O5KMP8b/f4EPt7N9GKtJb9A/NGEjJ1/gsMV5G+QCx9GkaNvnaWGdxHKDh1IkMdefDGWyvQ6udQisfGJMbCY7pbe6vfa0Nqpt4/pTbsgc3Et4COMqMKcA6rR18r/B6QpJRgTprpXxoi5ILUKpyPZosPnNt2xX0ShW91r66ePtdjXobn/eUizPmiuxN1PtvjirpXonS6rK+4RHifF1OiG1fFycoIsgF+w2lNro/naQMnxKZnvU8wyQkRraLH127ihqexaT49bnzgz7ToN9oQ1L6k90tutV366taTxnfJSIgz96NzaAnlwIfQ==;xOz8SkJdUGmo7bIQZFcIaA=="
 ---

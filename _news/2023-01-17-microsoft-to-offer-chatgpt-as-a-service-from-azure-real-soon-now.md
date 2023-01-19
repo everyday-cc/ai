@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Microsoft can become the biggest winner of generative AI"
-    excerpt: "Azure OpenAI Service can be Microsoft’s winning card in the race to dominate the fast-growing market for generative AI."
-    publishedDateTime: 2023-01-18T15:43:00Z
-    webUrl: "https://venturebeat.com/ai/how-microsoft-can-become-the-biggest-winner-of-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/how-microsoft-can-become-the-biggest-winner-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-microsoft-can-become-the-biggest-winner-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/01/VB_Microsoft_azure_openai_service_logos_011823.jpg?w=1200&strip=all"
-        width: 1200
-        height: 594
-        isCached: true
-  - title: "Microsoft's Panos Panay teases next gen AI-powered Windows 11 & Windows 120 0"
-    excerpt: "Next-gen Windows 11 and Windows 12 OSs could be drastically different from what we have now. Senior executive of Microsoft, Panos Panay recently shared some very early details regarding this."
-    publishedDateTime: 2023-01-15T22:49:00Z
-    webUrl: "https://www.neowin.net/news/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/"
-    ampWebUrl: "https://www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 103
-    images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2023/01/1673818486_win_11_wallpaper_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Microsoft adds ChatGPT to Azure OpenAI to support cloud services"
     excerpt: "The latest integration of ChatGPT within Microsoft products builds on long-standing ties between the two firms"
     publishedDateTime: 2023-01-17T12:04:00Z
@@ -114,6 +82,22 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Microsoft Announces general availability of Azure OpenAI Service"
+    excerpt: "Microsoft makes Azure OpenAI Service generally available, which makes the world's most advanced AI, including GPT-3.5, Codex, and DALL•E 2"
+    publishedDateTime: 2023-01-17T15:34:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 89
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/01/Microsoft-Announces-general-availability-of-Azure-OpenAI-Service.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Microsoft brings ChatGPT support to Azure: All the details"
     excerpt: "In the last couple of weeks, it has been suggested that Microsoft will bring ChatGPT tech to a few of its products and services. Now, Microsoft has o"
     publishedDateTime: 2023-01-17T06:53:00Z
@@ -129,48 +113,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-97049819,width-1070,height-580,imgsize-65374,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1070
         height: 579
-        isCached: true
-  - title: "Microsoft Is Playing the Long Game in Artificial Intelligence"
-    excerpt: "The company's cloud resources, business customers, and large amount of data resources make it a perfect partner to improve the artificial intelligence models and create a business model for it. Travis Hoium covers why Microsoft isn't doing this for ..."
-    publishedDateTime: 2023-01-17T12:48:00Z
-    webUrl: "https://www.fool.com/investing/2023/01/17/microsoft-is-playing-the-long-game-in-artificial-i/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/716716/microsoft-openai.png"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft Wants To Put Chat GPT-style AI Tools in Every Product"
-    excerpt: "Can AI experience cognitive dissonance? Microsoft CEO Satya Nadella told Davos attendees on Tuesday that the tech giant plans to use OpenAI,"
-    publishedDateTime: 2023-01-18T02:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/01/17/microsoft-wants-to-put-chat-gpt-style-ai-tools-in/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/716949/featured-daily-upside-image.jpg"
-        width: 2000
-        height: 1600
-        isCached: true
-  - title: "Microsoft and Google Will Both Have to Bear AI’s Costs"
-    excerpt: "Tools such as ChatGPT could upend search and cloud computing, but the cost will be high as profit margins draw more scrutiny."
-    publishedDateTime: 2023-01-19T00:03:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-and-google-will-both-have-to-bear-ais-costs-11674006102?mod=hp_minor_pos19"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-705153/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Microsoft says it will roll out ChatGPT on its own AI service after reports it will invest $10 billion into OpenAI"
     excerpt: "Microsoft said Azure OpenAI is now generally available for everyone to use and it plans to make ChatGPT available through the service."
@@ -220,21 +162,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Golden Age Of Artificial Intelligence Underway: Microsoft Chief Nadella"
-    excerpt: "An Indian farmer recently used a ChatGPT interface to access an opaque government programme via the internet despite knowing only a local dialect, Microsoft chief Satya Nadella said on Wednesday to underline that the world is entering a golden age of artificial intelligence."
-    publishedDateTime: 2023-01-18T22:26:00Z
-    webUrl: "https://www.republicworld.com/world-news/global-event-news/golden-age-of-artificial-intelligence-underway-microsoft-chief-nadella-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/world-news/global-event-news/golden-age-of-artificial-intelligence-underway-microsoft-chief-nadella-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/global-event-news/golden-age-of-artificial-intelligence-underway-microsoft-chief-nadella-articleshow.html"
+  - title: "Microsoft May Add ChatGPT To Azure Cloud Services ‘Soon’: Report"
+    excerpt: "Microsoft has said it will add OpenAI’s artificial intelligence (AI) chatbot ChatGPT to its cloud-based Azure service “soon”."
+    publishedDateTime: 2023-01-17T18:43:00Z
+    webUrl: "https://news.abplive.com/technology/microsoft-chatgpt-openai-azure-cloud-services-details-1576356"
+    ampWebUrl: "https://news.abplive.com/technology/microsoft-chatgpt-openai-azure-cloud-services-details-1576356/amp"
+    cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/technology/microsoft-chatgpt-openai-azure-cloud-services-details-1576356/amp"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
+      name: news.abplive
+      domain: abplive.com
     quality: 74
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/utanwltgki3qr9tw_1674080761.jpeg"
-        width: 768
-        height: 439
+      - url: "https://feeds.abplive.com/onecms/images/uploaded-images/2023/01/17/2fe50d465ef475dff9c77c88d4b615261673979897891295_original.png"
+        width: 720
+        height: 540
         isCached: true
   - title: "Microsoft makes Azure OpenAI Service generally available"
     excerpt: "Microsoft Corp. Monday announced the general availability of its Azure OpenAI Service, which provides access to artificial intelligence models developed by OpenAI LLC. The service is one of several Microsoft offerings that incorporate OpenAI technology."
@@ -250,62 +192,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Microsoft Announces Azure OpenAI Service for All"
-    excerpt: "Microsoft today announced the general availability of its cloud-based Azure OpenAI service so that common people can use its AI tools like GPT-3.5, Codex, and DALL•E 2 to enhance their work. It also said customers could access OpenAI’s flagship AI chatbot ChatGPT through Azure."
-    publishedDateTime: 2023-01-17T05:19:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-announces-azure-openai-service-for-all/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 69
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Microsoft-banner.jpeg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Microsoft announces general availability of Azure OpenAI Service"
-    excerpt: "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation"
-    publishedDateTime: 2023-01-17T11:37:00Z
-    webUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 69
-    images:
-      - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
-        width: 788
-        height: 443
-        isCached: true
-  - title: "Microsoft is Adding ChatGPT to Its New Azure Open AI Service"
-    excerpt: "Microsoft will soon expand access to ChatGPT through its new Azure OpenAI service, which is now generally available to developers."
-    publishedDateTime: 2023-01-17T10:30:00Z
-    webUrl: "https://www.thurrott.com/cloud/278435/microsoft-is-adding-chatgpt-to-its-new-azure-open-ai-service"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 69
-    images:
-      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/01/Microsoft-Azure-OpenAI.jpg"
-        width: 1066
-        height: 600
-        isCached: true
-  - title: "Microsoft to add ChatGPT to its Azure OpenAI service"
-    excerpt: "One company that thinks it should is Microsoft, which has announced that it will feature in its Azure Open Ai service “soon”. Along with working closer with ChatGPT’s creators, OpenAI, Microsoft is also said to be readying a sizeable investment into ..."
-    publishedDateTime: 2023-01-17T09:26:00Z
-    webUrl: "https://htxt.co.za/2023/01/17/microsoft-to-add-chatgpt-to-its-azure-openai-service/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 69
-    images:
-      - url: "https://secure.gravatar.com/avatar/e85cb8c57c0a1dc75fe35470c3cc8eb8?s=300&d=mm&r=g"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Microsoft to Add ChatGPT to Its Cloud-Based Azure OpenAI Service"
     excerpt: "The tech giant has announced that it's now making the Azure OpenAI Service generally available after ... OpenAI tools for their own cloud applications, including the Dall-E AI art generator and the GPT-3.5 language system, Engadget reported."
     publishedDateTime: 2023-01-17T12:25:00Z
@@ -319,6 +205,20 @@ related:
       - url: "https://www.tasnimnews.com/Static/img/tasnim-main-logo.jpg"
         width: 487
         height: 423
+        isCached: true
+  - title: "Microsoft: Viral chatbot ChatGPT ‘coming soon’ to Azure OpenAI Service"
+    excerpt: "The Azure OpenAI Service has been available to a limited number of enterprise customers when it debuted in November 2021. Microsoft: Viral chatbot ChatGPT 'coming soon' to Azure OpenAI Service. Artificial Intelligence,"
+    publishedDateTime: 2023-01-17T07:28:00Z
+    webUrl: "https://www.itp.net/emergent-tech/microsoft-viral-chatbot-chatgpt-coming-soon-to-azure-openai-service"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 69
+    images:
+      - url: "https://www.itp.net/cloud/2023/01/17/Microsoft_buildings_EU-1.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "Microsoft Announces GA of Azure OpenAI Service, ChatGPT on Way"
     excerpt: "Microsoft has announced the general availability of Azure OpenAI Service, the result of a partnership with OpenAI whose ChatGPT generative AI application has created a sensation since its lat November launch that generated 1 million-plus downloads in its first week."
@@ -362,22 +262,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Golden age of Artificial Intelligence is here, says Microsoft boss Satya Nadella"
-    excerpt: "The cutting-edge chatbot ChatGPT is capturing the world's imagination. The new artificial intelligence site amassed 1 million users in just five days after its recent launch. It is but one of a dozen AI-driven so-called apps that are expected to transform human productivity and the future of work."
-    publishedDateTime: 2023-01-19T05:35:00Z
-    webUrl: "https://www.hindustantimes.com/technology/golden-age-of-artificial-intelligence-is-here-says-microsoft-boss-satya-nadella-101674106282171.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/golden-age-of-artificial-intelligence-is-here-says-microsoft-boss-satya-nadella-101674106282171-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/golden-age-of-artificial-intelligence-is-here-says-microsoft-boss-satya-nadella-101674106282171-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 69
-    images:
-      - url: "https://images.hindustantimes.com/img/2023/01/19/1600x900/Satya_Nadella_1674106354561_1674106354888_1674106354888.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "ChatGPT coming to Azure: New integration shows how Microsoft will leverage OpenAI partnership"
     excerpt: "Having trouble reliably accessing OpenAI’s ChatGPT? Microsoft has a solution. The tech giant says it will soon make the generative AI chat technology available as part of its Azure OpenAI… Read More"
     publishedDateTime: 2023-01-17T18:32:00Z
@@ -415,15 +299,6 @@ related:
         width: 462
         height: 250
         isCached: true
-  - title: "Microsoft quietly revealed a new type of AI (it may quietly petrify you)"
-    excerpt: "You always thought this might be possible, but when a famous company says it's done it, it adds a little more scariness."
-    publishedDateTime: 2023-01-15T13:26:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-quietly-revealed-a-new-type-of-ai-it-may-quietly-petrify-you/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 65
   - title: "Microsoft: We're bringing ChatGPT to the Azure cloud-computing service"
     excerpt: "Microsoft has announced general availability of its Azure OpenAI Service, an offering related to its $1 billion investment in OpenAI, the maker of ChatGPT. That means more businesses can apply to use OpenAI's Azure-hosted and trained large language models (LLMs),"
     publishedDateTime: 2023-01-17T12:49:00Z
@@ -432,15 +307,6 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 64
-  - title: "Microsoft and Google Will Both Have to Bear AI’s Costs"
-    excerpt: "Tools such as ChatGPT could upend search and cloud computing, but the cost will be high as profit margins draw more scrutiny."
-    publishedDateTime: 2023-01-18T10:30:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-and-google-will-both-have-to-bear-ais-costs-11674006102?mod=business_minor_pos10"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
     quality: 64
   - title: "Microsoft's Azure OpenAI Service expands to general availability, will add ChatGPT soon"
     excerpt: "Microsoft plans to add chatbot ChatGPT to its Azure cloud computing service. The company said that the Azure OpenAI Service, a program offering access to OpenAI's technology, was now entering general availability."
@@ -456,21 +322,35 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "Windows 11’s new experiment forces Microsoft Edge rounded corners everywhere"
-    excerpt: "Microsoft Edge’s latest version comes with an exciting but weird change that lets you experience Windows 11’s rounded corners feature in its full glory. Microsoft has published a new version of Edge Canary with an experimental feature that brings rounded corners to all websites,"
-    publishedDateTime: 2023-01-15T12:03:00Z
-    webUrl: "https://www.windowslatest.com/2023/01/15/windows-11s-new-experiment-forces-microsoft-edge-rounded-corners-everywhere/"
-    ampWebUrl: "https://www.windowslatest.com/2023/01/15/windows-11s-new-experiment-forces-microsoft-edge-rounded-corners-everywhere/amp/"
-    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/01/15/windows-11s-new-experiment-forces-microsoft-edge-rounded-corners-everywhere/amp/"
+  - title: "Nick Cave says ChatGPT's AI attempt to write Nick Cave lyrics 'sucks'"
+    excerpt: "Nick Cave has written a scathing review of an artificial intelligence system that tried to write a song \"in the style of Nick Cave\". The Bad Seeds frontman responded after a fan sent him lyrics written by ChatGPT,"
+    publishedDateTime: 2023-01-17T11:47:00Z
+    webUrl: "https://bbc.co.uk/news/entertainment-arts-64302944.amp"
+    ampWebUrl: "https://bbc.co.uk/news/entertainment-arts-64302944.amp"
+    cdnAmpWebUrl: "https://bbc-co-uk.cdn.ampproject.org/c/s/bbc.co.uk/news/entertainment-arts-64302944.amp"
     type: article
     provider:
-      name: Windows Latest
-      domain: windowslatest.com
-    quality: 58
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
     images:
-      - url: "https://www.windowslatest.com/wp-content/uploads/2023/01/Windows-11-Microsoft-Edge-rounded-corners.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17964/production/_128321669_gettyimages-463824907.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Azure OpenAI Service Commercially Launched"
+    excerpt: "Microsoft this week announced that its Azure OpenAI service has reached the 'general availability' commercial-release stage."
+    publishedDateTime: 2023-01-17T00:00:00Z
+    webUrl: "https://redmondmag.com/articles/2023/01/17/azure-openai-service-commercially-launched.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/0917red_F1a_TeamBots.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Microsoft Patches 4 SSRF Flaws in Separate Azure Cloud Services"
     excerpt: "Two of the vulnerabilities — in Azure Functions and Azure Digital Twins — required no account authentication for an attacker to exploit them."
@@ -486,6 +366,20 @@ related:
         width: 1000
         height: 703
         isCached: true
+  - title: "Microsoft to add ChatGPT to Azure cloud services ‘soon’"
+    excerpt: "The two companies have expanded their partnership recently, while there are rumors that Microsoft plans to give more funding to Open AI. Microsoft has expanded access to OpenAI’s software, making it generally available on its Azure cloud service."
+    publishedDateTime: 2023-01-17T08:45:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/microsoft-chatgpt-openai-azure-cloud"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/01/AdobeStock_377722570_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Microsoft to offer ChatGPT at industrial scale via its Azure services"
     excerpt: "Microsoft's Azure OpenAI service promises the world's most advanced AI model with industrial-grade uptime and computing infrastructure."
     publishedDateTime: 2023-01-17T12:58:00Z
@@ -500,33 +394,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft Joins Tech Layoff Circus With 10,000 Jobs Cut in Pivot to AI"
-    excerpt: "Microsoft is planning to lay off 10,000 workers through March, joining a slew of tech companies in cutting down after a pandemic hiring boom, The New York Times reports. The company’s chief executive,"
-    publishedDateTime: 2023-01-18T14:53:00Z
-    webUrl: "https://www.thedailybeast.com/microsoft-joins-tech-layoff-circus-with-10000-jobs-cut-in-pivot-to-ai"
+  - title: "ChatGPT coming soon to Azure OpenAI service — with guardrails"
+    excerpt: "Microsoft on Monday announced the general availability of Azure OpenAI Service as part of its ongoing partnership with OpenAI. Businesses will soon have access to Chat"
+    publishedDateTime: 2023-01-17T18:49:00Z
+    webUrl: "https://www.ciodive.com/news/Microsoft-OpenAI-ChatGPT-Azure/640523/"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
+      name: CIO Dive
+      domain: ciodive.com
     quality: 54
     images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_4261,w_7575,x_0,y_306/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1674059714/GettyImages-1246327708_ptzqta"
-        width: 1480
-        height: 833
-        isCached: true
-  - title: "Microsoft & OpenAI Bring AI Models to Developers Worldwide"
-    excerpt: "Microsoft announces the general availability of its Azure OpenAI service, allowing developers to utilie technology like ChatGPT."
-    publishedDateTime: 2023-01-17T17:00:00Z
-    webUrl: "https://www.searchenginejournal.com/microsoft-openai-bring-ai-models-to-developers-worldwide/476633/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 54
-    images:
-      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2023/01/microsoft-azure-openai-63c6d3030e5f1-sej.png"
-        width: 1600
-        height: 840
+      - url: "https://www.ciodive.com/imgproxy/gAriKtGQYhK2XyclUlYaZMu9mPmhu5i-0UQsi3pM8aI/crop:6440:3481/g:nowe:0:811/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk2NzIxMDg1Ni5qcGc.jpg"
+        width: 770
+        height: 364
         isCached: true
   - title: "Microsoft Azure will be adding ChatGPT to its cloud services soon"
     excerpt: "Microsoft announced the broad availability of its Azure OpenAI Service and customers will also be able to access ChatGPT."
@@ -542,20 +422,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "AI tools will be built into all Microsoft products, says CEO Satya Nadella"
-    excerpt: "Microsoft announced the general availability of Azure OpenAI Service as part of its partnership with OpenAI. More businesses can now apply for access to GPT-3.5, Codex, DALL-E 2, and other AI models."
-    publishedDateTime: 2023-01-17T12:28:00Z
-    webUrl: "https://www.windowscentral.com/microsoft/ai-tools-will-be-built-into-all-microsoft-products-says-ceo-satya-nadella"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 52
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/tWExjNvfviRukeJYqaPT8K-1200-80.jpg"
-        width: 810
-        height: 456
-        isCached: true
   - title: "Four New Microsoft Azure Vulnerabilities Found By Orca Security"
     excerpt: "Vulnerabilities in four Microsoft Azure services, which posed the risk of leading to the exposure of customer data, were discovered by the research team at cloud security company Orca Security, the researchers disclosed Tuesday."
     publishedDateTime: 2023-01-17T14:19:00Z
@@ -564,15 +430,6 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 51
-  - title: "Microsoft is working on an AI called VALL-E that can clone your voice from a 3-second audio clip"
-    excerpt: "The tech giant's new AI project comes after its plans to invest $10 billion in OpenAI's ChatGPT. VALL-E is a text-to-speech AI tool that can mimic voices."
-    publishedDateTime: 2023-01-18T14:36:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-chatgpt-vall-e-valle-voice-text-clone-listen-clip"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
     quality: 51
   - title: "Microsoft launches Azure OpenAI, ChatGPT coming ‘soon’"
     excerpt: "Microsoft's Azure OpenAI Service is now available for select partners and customers. The tech giant says it will add OpenAI's popular ChatGPT tool 'soon'."
@@ -601,6 +458,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 49
+  - title: "Nick Cave really doesn't like AI bot ChatGPT"
+    excerpt: "Cave has a famously close relationship with his fans, one of whom sent a song \"written\" by ChatGPT \"in the style of Nick Cave.\" The whole blog from Cave is worth reading, but among some wonderful and wise observations,"
+    publishedDateTime: 2023-01-17T18:01:00Z
+    webUrl: "https://mashable.com/article/nick-cave-chatgpt"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 47
   - title: "Microsoft makes Azure with OpenAI’s Chat GPT available for enterprise customers"
     excerpt: "Microsoft announced it will make Azure’s cloud service with OpenAI’s ChatGPT accessible for its enterprise customers"
     publishedDateTime: 2023-01-17T07:25:00Z
@@ -610,6 +476,29 @@ related:
       name: The Hindu
       domain: thehindu.com
     quality: 45
+  - title: "Microsoft Has Entered the Chat: Azure OpenAI Service Launches, ChatGPT Access Coming Soon"
+    excerpt: "Software giant Microsoft has launched general availability of access to OpenAI's advanced AI models, including GPT-3.5, Codex and DALL•E 2, through Azure OpenAI Service, and says ChatGPT access will follow shortly."
+    publishedDateTime: 2023-01-18T13:58:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/01/18/microsoft-has-entered-the-chat-azure-openai-service-launches-chatgpt-access-coming-soon/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 40
+  - title: "AI research tool aims to supplement flawed ChatGPT"
+    excerpt: "It started out as a side project during his university studies, but Kieran Lindsay believes his automated Minerva research assistant could be a game-changer for academics struggling to keep up with the flood of publications – and an important step towards explainable AI."
+    publishedDateTime: 2023-01-19T03:36:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/ai-research-tool-aims-to-supplement-flawed-chatgpt.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 37
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/minerva%20academic%20papers.jpg"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Microsoft adding ChatGPT to Azure cloud service"
     excerpt: "OpenAI is already working on a successor GPT-4 model for its natural language processing. Still, concern about its accuracy — which Altman himself has said is not good enough for the bot to be relied on — has prompted caution about its premature use ..."
     publishedDateTime: 2023-01-17T04:57:00Z
@@ -618,15 +507,6 @@ related:
     provider:
       name: MyBroadband
       domain: mybroadband.co.za
-    quality: 36
-  - title: "Microsoft’s CPO Teases Future Versions Of AI-Powered Windows"
-    excerpt: "Earlier this month at AMD’s CES 2023 keynote, Microsoft's EVP & Chief Product Officer (CEO), Panos Panay revealed that AI (artificial intelligence) is"
-    publishedDateTime: 2023-01-16T18:44:00Z
-    webUrl: "https://www.techworm.net/2023/01/microsofts-cpo-teases-future-versions-of-ai-powered-windows.html"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
     quality: 36
   - title: "Microsoft’s $10bn bet on ChatGPT developer marks new era of AI"
     excerpt: "The $10bn investment that Microsoft is considering in San Francisco-based research outfit OpenAI looks set to become the defining deal for a new era of artificial intelligence. If the US software giant is right about the far-reaching implications of the technology,"
@@ -637,47 +517,51 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "Microsoft plans to add AI capabilities into every product"
-    excerpt: "Microsoft plans to incorporate artificial intelligence products from ChatGPT and Dall-E 2 maker OpenAI in all of its"
-    publishedDateTime: 2023-01-17T20:35:00Z
-    webUrl: "https://www.gamesindustry.biz/microsoft-plans-to-add-ai-capabilities-into-every-product"
+  - title: "Azure OpenAI Service Opens Up, ChatGPT On Tap"
+    excerpt: "The general availability of Azure OpenAI Service was announced yesterday (Jan. 16) by company CEO Satya Nadella in a tweet, followed up 16 minutes later by a companion announcement from OpenAI that said: \"We've learned a lot from the ChatGPT research preview and have been making important updates based on user feedback."
+    publishedDateTime: 2023-01-17T20:01:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/01/17/openai-ga.aspx"
     type: article
     provider:
-      name: GamesIndustry
-      domain: gamesindustry.biz
+      name: Virtualization Review
+      domain: virtualizationreview.com
     quality: 34
-  - title: "The Download: battery recycling, and how AI might revamp Microsoft Office"
-    excerpt: "To Redwood Materials, the rows of cardboard boxes in the parking lot of its new battery recycling site just outside Reno, Nevada, represent both the past and the future of electric vehicles. Far from trash,"
-    publishedDateTime: 2023-01-17T13:11:00Z
-    webUrl: "https://www.technologyreview.com/2023/01/17/1067026/download-battery-recycling-ai-revamp-microsoft-office/"
+  - title: "Microsoft to Add ChatGPT to Azure Cloud Services ‘Soon’"
+    excerpt: "Microsoft, in talks for further investment in OpenAI, is widely releasing Azure service based on earlier partnership"
+    publishedDateTime: 2023-01-17T20:29:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-to-add-chatgpt-to-azure-cloud-services-soon-71673942043773.html"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 33
-  - title: "Satya Nadella says golden age of Artificial Intelligence is here, good for humanity"
-    excerpt: "In a session at the ongoing five-day annual meeting of the World Economic Forum, Nadella said that technology will provide more and more ways to bring people together."
-    publishedDateTime: 2023-01-19T05:45:00Z
-    webUrl: "https://telanganatoday.com/satya-nadella-says-golden-age-of-artificial-intelligence-is-here-good-for-humanity"
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 34
+  - title: "Microsoft Azure Services Flaws Could've Exposed Cloud Resources to Unauthorized Access"
+    excerpt: "Researchers have discovered severe Server-Side Request Forgery (SSRF) vulnerabilities in 4 Microsoft Azure services."
+    publishedDateTime: 2023-01-17T14:44:00Z
+    webUrl: "https://thehackernews.com/2023/01/microsoft-azure-services-flaws-couldve.html"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 31
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/01/Satya-Nadella-says-golden-age-of-Artificial-Intelligence-is-here-good-for-humanity.jpg"
-        width: 1280
-        height: 750
-        isCached: true
-  - title: "Microsoft laying off 10,000 workers, reports say"
-    excerpt: "Microsoft Corp. (Nasdaq: MSFT) is laying off 10,000 employees starting Wednesday, according to multiple news reports, making it the latest tech giant to do so amid a worsening economic climate."
-    publishedDateTime: 2023-01-18T14:08:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/01/18/microsoft-layoffs-thousands-this-week.html"
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 26
+  - title: "AI Committee chairman downplays fears over ChatGPT misuse"
+    excerpt: "The Chairman of the Artificial Intelligence Committee at the Ministry of Communications and Information Technology (MCIT), Hassan Jassim al-Sayed, downplayed the fears over"
+    publishedDateTime: 2023-01-16T20:26:00Z
+    webUrl: "https://www.gulf-times.com/article/653452/qatar/ai-committee-chairman-downplays-fears-over-chatgpt-misuse"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
+      name: Gulf Times
+      domain: gulf-times.com
     quality: 19
+  - title: "Artificial intelligence software ChatGPT’s mock exam answers pass plagiarism checks, but AI detection software available"
+    excerpt: "Universities are having to adapt to combat potential plagiarism using artificial intelligence. Dr Popenici also encouraged education institutions to embrace AI. “Let’s use AI to enhance more significant ways to assess what our students learn and what ..."
+    publishedDateTime: 2023-01-18T12:03:00Z
+    webUrl: "https://www.goldcoastbulletin.com.au/news/queensland/artificial-intelligence-software-chatgpts-mock-exam-answers-pass-plagiarism-checks-but-ai-detection-software-available/news-story/7e612a21840fbb19eb6f8f3422d9d087"
+    type: article
+    provider:
+      name: Gold Coast Sun
+      domain: goldcoastbulletin.com.au
+    quality: 7
 
 secured: "2JFrI9KJUNNJnhTZ8YSp1lEO7/Ne+IjMpmSkF8zMjfORdLAsIAGgQftyQ7W0ICy7SUrtTS61ft1nplBqBvXDHEkf7WyE7i5RhSodYJduyIYuzb4l4uK86wtkVfgQnE+odTbWYAbUDJ5XN+NPlMCNu2yB44budohpR9qu2N+pGIfndzcs5hlVq1CO3w+NzklUlZSwLYwvWKwoblj701ErAr0GxHQ+Yn9cbdyh+b8W+QslSDXU3JpeP0e76+7c8ZtxyiORrYqqseGHSH9JqL8wLidH2znfLX3yYq6juFDe1pk28yB/NlcCBvgtfGsF6d4kmyXcKjm4lxB0Cf4QMehWk7NZNh1wD0lmyQ2fUG50f1rcrR9Ld6eThpwQV+Sn7wjeM04e14SUVjF9pMtPNDyKo+yE95nWifqnFghTUQfyVSjutlF5+UwaRCgbT6vbCVeWdwdOOiMQscpLKtJ+fHugbC8RsQUxPmf1CkRkvwQRE2BHkJuuum6d1Hw49hU8WqLiV7yUb5Lhq7oyJR1gcygjUA==;1zb0HFOrNLC7MBbcuhnaEQ=="
 ---

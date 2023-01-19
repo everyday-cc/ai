@@ -7,7 +7,7 @@ originalUrl: "https://www.themandarin.com.au/209547-generative-ai-governments-ne
 webUrl: "https://www.themandarin.com.au/209547-generative-ai-governments-need-to-pay-attention/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,75 +23,6 @@ images:
     width: 795
     height: 530
     isCached: true
-
-related:
-  - title: "China’s AI Implementation Is Edging Ahead Of The US"
-    excerpt: "As Kaifu Lee, a keen observer of AI development in China has put it, “we're now in the age of AI implementation.”"
-    publishedDateTime: 2023-01-14T19:35:00Z
-    webUrl: "https://www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-implementation-is-edging-ahead-of-the-us/"
-    ampWebUrl: "https://www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-implementation-is-edging-ahead-of-the-us/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-implementation-is-edging-ahead-of-the-us/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63c3019633134dd0cc964a43/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 772
-        isCached: true
-  - title: "The Rise of AI Orchestration"
-    excerpt: "Most businesses don’t yet understand what AI orchestration is, and fewer recognize its game-changing value. It’s time to do some homework."
-    publishedDateTime: 2023-01-17T22:57:00Z
-    webUrl: "https://www.eweek.com/big-data-and-analytics/ai-orchestration/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2022/11/best-automation-companies.jpg"
-        width: 1400
-        height: 877
-        isCached: true
-  - title: "Is Artificial Intelligence a Fad or the Next Big Thing?"
-    excerpt: "AI has captured a lot of people's attention, but the impact of this new technology may not be felt in the way you think."
-    publishedDateTime: 2023-01-18T16:47:00Z
-    webUrl: "https://www.fool.com/investing/2023/01/18/is-artificial-intelligence-the-next-massive-money/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/716890/18.png"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "The AI revolution is here"
-    excerpt: "Could ChatGPT be used to give financial advice? InvestmentNews fed the algorithm questions to see how the AI would stack up."
-    publishedDateTime: 2023-01-17T21:57:00Z
-    webUrl: "https://www.investmentnews.com/the-ai-revolution-is-here-chatgpt-232769"
-    type: article
-    provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 39
-    images:
-      - url: "https://s32566.pcdn.co/wp-content/uploads/2023/01/AI-tech.jpg.optimal.jpg"
-        width: 851
-        height: 567
-        isCached: true
-  - title: "Alfonso Cahero Announced The Implementation Of Artificial Intelligence For Cahero Family Office"
-    excerpt: "MIAMI, FLORIDA, UNITED STATES, January 15, 2023 /einpresswire.com / -- alfonso cahero , with his family office, contributes to the success"
-    publishedDateTime: 2023-01-15T20:52:00Z
-    webUrl: "https://menafn.com/1105430536/Alfonso-Cahero-Announced-The-Implementation-Of-Artificial-Intelligence-For-Cahero-Family-Office"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 5
 
 secured: "na2e20I1E8pwKsMhqt8WYGpoDVWSDQwjeq+McCiVyUdILGeHAfE6PEFDGeuw/hWVeKvxiKnHEqrU0TK+nWcRHSn3h5/jp26H3H/RZfbQpCaRcWwwQfxx6uTa9TeMK8CjGh1tX0OKE/LMnvomX/e8DOzZrct/6Z6YamzeY5z1CZ/+nQ4fd69r+zpnF5tBOQRXZ9hwxCYMyAxOsLmR6Wussd1OT9ffd8CGvX6HniMOgD4rSoBGgCbWzwwDiB2EIT4Wfui0pF2COul/pHtSK3TmtMuHyYs7STIOPx7fE3bqvaQYP3dSuPMxR4EWzoHTnLI9Mqi4oOl8ZiLw7Gje2No757hZu6pULyjCatNEGXyhxoE2K6/AtPNmANmZBO5gxNLGXrqaI3YW3T3Y8lnyyN9tVlYZDv6IhYoNZqC/QYo4kfPTC/ANP49jkgfR9bvIeVdcyXKDkvpEs+62v4tV8gT+FYg5Mqz4/ZoIgXCzDyjrv5FS11i8TflqhfGg9x/6gO9GzuI88IKlfMP7kaewR7yoSg==;89pIgilBEU+rmBiogCIObw=="
 ---

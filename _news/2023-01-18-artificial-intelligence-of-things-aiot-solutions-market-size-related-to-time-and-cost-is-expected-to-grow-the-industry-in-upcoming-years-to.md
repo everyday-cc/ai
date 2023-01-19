@@ -266,6 +266,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud AI in Fintech Market : Analysis by Size, Share Trends, Future Growth, Emerging Trends, Qualitative Outlook and Global Forecast to 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Cloud AI in Fintech"
+    publishedDateTime: 2023-01-19T01:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-analysis-by-size-share-trends-future-growth-emerging-trends-qualitative-outlook-and-global-forecast-to-2028-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "XYDzlipnvBIEiI6N1bmig+zpe+j0PuEy/6pMiVF89XhSQ9lTO6IX8QIz1r//e9GwlifSgiLLqTK/Mh91GBgtylg3NAKyonPdDkfc5l7iDekAExOqekTJl/IhNlqy9Ksrk5MkSfgKDEj5hpHKBoYWTotb0UDzW/nmKjBaz5DaqoYtnvKXZ6+hk+vLspRPSTfn0gOew9qfP6dVXrURFaMfuVcFZ4ZIdJ/ImWEazQ79YalSliDJTYIyF1A+Yb3beL5y9zk+f+28Kq4DxToPd8XRJhQo5OamopvBBvA5ZS29QPIfsqh5JFpkyP6oQXXA3hyzNPu0D9pqsD9NVlChJ8qFoSXJAp5O1fSWFsGuWtsejNM=;ihierdpVrRxBuRpn8kCeWg=="
 ---

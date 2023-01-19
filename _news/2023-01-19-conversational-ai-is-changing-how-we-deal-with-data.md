@@ -31,7 +31,7 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 28
+    quality: 30
   - title: "EXCEL USERS REJOICE: Akkio Launches Chat Data Prep, the First Machine Learning Platform to Transform Data Using Ordinary Conversational Language"
     excerpt: "Akkio, the no-code AI company, today announced a new way to interact with data that brings the latest advances in machine learning (ML) to everyday Excel users. Akkio’s new Chat Data Prep allows users to transform spreadsheet data by typing in conversational language rather than entering traditional formulas and formatting commands."
     publishedDateTime: 2023-01-18T11:19:00Z

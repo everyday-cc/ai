@@ -25,73 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "China’s AI Implementation Is Edging Ahead Of The US"
-    excerpt: "As Kaifu Lee, a keen observer of AI development in China has put it, “we're now in the age of AI implementation.”"
-    publishedDateTime: 2023-01-14T19:35:00Z
-    webUrl: "https://www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-implementation-is-edging-ahead-of-the-us/"
-    ampWebUrl: "https://www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-implementation-is-edging-ahead-of-the-us/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-implementation-is-edging-ahead-of-the-us/amp/"
+  - title: "Machine Learning, Artificial Intelligence can revolutionise women’s credit underwriting"
+    excerpt: "Artificial Intelligence (AI) and Machine Learning (ML) are changing how financial services are offered to customers. By leveraging data and technology, banks and financial service providers (FSP) are developing newer ways to lower the"
+    publishedDateTime: 2023-01-16T10:57:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/machine-learning-artificial-intelligence-can-revolutionize-womens-credit-underwriting/?source=app&frmapp=yes"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/machine-learning-artificial-intelligence-can-revolutionize-womens-credit-underwriting/?source=app&frmapp=yes"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/machine-learning-artificial-intelligence-can-revolutionize-womens-credit-underwriting/?source=app&frmapp=yes"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63c3019633134dd0cc964a43/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 772
-        isCached: true
-  - title: "The Rise of AI Orchestration"
-    excerpt: "Most businesses don’t yet understand what AI orchestration is, and fewer recognize its game-changing value. It’s time to do some homework."
-    publishedDateTime: 2023-01-17T22:57:00Z
-    webUrl: "https://www.eweek.com/big-data-and-analytics/ai-orchestration/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2022/11/best-automation-companies.jpg"
-        width: 1400
-        height: 877
-        isCached: true
-  - title: "Is Artificial Intelligence a Fad or the Next Big Thing?"
-    excerpt: "AI has captured a lot of people's attention, but the impact of this new technology may not be felt in the way you think."
-    publishedDateTime: 2023-01-18T16:47:00Z
-    webUrl: "https://www.fool.com/investing/2023/01/18/is-artificial-intelligence-the-next-massive-money/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/716890/18.png"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Generative AI is having a moment and governments need to pay attention"
-    excerpt: "Governments need to understand and use generative AI systems to manage the changes they will bring, says Annan Boag from the Office of the Victorian Information Commissioner."
-    publishedDateTime: 2023-01-16T21:21:00Z
-    webUrl: "https://www.themandarin.com.au/209547-generative-ai-governments-need-to-pay-attention/"
-    type: article
-    provider:
-      name: The Mandarin
-      domain: themandarin.com.au
-    quality: 39
-    images:
-      - url: "https://www.themandarin.com.au/wp-content/uploads/2023/01/generative-ai.jpg"
-        width: 795
-        height: 530
-        isCached: true
-  - title: "Alfonso Cahero Announced The Implementation Of Artificial Intelligence For Cahero Family Office"
-    excerpt: "MIAMI, FLORIDA, UNITED STATES, January 15, 2023 /einpresswire.com / -- alfonso cahero , with his family office, contributes to the success"
-    publishedDateTime: 2023-01-15T20:52:00Z
-    webUrl: "https://menafn.com/1105430536/Alfonso-Cahero-Announced-The-Implementation-Of-Artificial-Intelligence-For-Cahero-Family-Office"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 5
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 48
 
 secured: "UuIaaXKTQCoTfOhVn7UxTlrIWe4WU9QxiMWBF8Rhfi5qeIjahGjiHcIJVwcPnY+89GavnC5hHgJH7lU3gbW6j+wZjHJdJxUsBQCWUv/N78Z08wU/3oYsasYTj4VSDyw3DgGZqfHHJgtd8p7xrg9FIdzr7Np0g4h7vJDS0nuIuvpgUTMoO6TacUZDF59XX6BJmIpM0Yt7zlKviKws9A9k9V9ghqKI+yqz6+n18b8/b9oDFqyjJlih0QsmKY4W+N1idps31Xo6WUdhTg+Hh3NA4veX32B779p3rDRmeVyuY1LXsGay+0BNgPHyjFF8M4APOh4uatfqXbCsGFW4EA27O3s9zbu64z3WjTvUasS68PBsN7LHrk+0IT4Svbio3wNdRZogmnPdNJrf/dRHUqvCa8yDK7NbxLRz59+IxMmb512Bl2OmjN7rH+g3y4DRINBWyG9Wgd/mzqOv8HCAgnCdvBX6lsZOYdgiaCljtpZ1sdWHTQWGG0/W2Ik6NDLpKAhO49ghBH+TqVi+yqbcooA9jw==;qCwRHOU28RwTcl/757yh6A=="
 ---

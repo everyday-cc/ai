@@ -45,6 +45,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "AI art generators face separate copyright lawsuits from Getty Images and a group of artists"
+    excerpt: "Three artists have launched a class action against the companies behind Stable Diffusion, Midjourney, and DreamUp."
+    publishedDateTime: 2023-01-19T10:29:00Z
+    webUrl: "https://www.businessinsider.com/ai-art-artists-getty-images-lawsuits-stable-diffusion-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/ai-art-artists-getty-images-lawsuits-stable-diffusion-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-art-artists-getty-images-lawsuits-stable-diffusion-2023-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://i.insider.com/63c82647eee94d001a78ce29?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Lawsuits accuse AI content creators of misusing copyrighted work"
     excerpt: "A group of visual artists has sued artificial intelligence companies Stability AI Ltd, Midjourney Inc, and DeviantArt Inc for copyright infringement, adding to a fast-emerging line of intellectual property disputes over AI-generated work."
     publishedDateTime: 2023-01-17T19:05:00Z

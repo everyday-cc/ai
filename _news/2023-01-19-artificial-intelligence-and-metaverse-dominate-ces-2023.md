@@ -8,8 +8,8 @@ webUrl: "https://www.medindia.net/news/healthinfocus/artificial-intelligence-and
 ampWebUrl: "https://www.medindia.net/amp/news/healthinfocus/artificial-intelligence-and-metaverse-dominate-ces-2023-210136-1.htm"
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/healthinfocus/artificial-intelligence-and-metaverse-dominate-ces-2023-210136-1.htm"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.medindia.net/images/common/news/950_400/metaverse-headsets-and-smart-devices.jpg"
@@ -26,6 +27,6 @@ images:
     height: 400
     isCached: true
 
-secured: "1sZdRTILZ4HINCsAGyuQgDwMP31th/ZvcB3rULIkJVhLQHu8qKlmC8FoMW7iUZ4WjohK6WJm1sP7FvWaZMeEsg8YfF5qTqJF0/MXjdS9kqxKMEG0jgla3fQVipaM8SUD24dz2amWzQnavGrKBLym154D4Hq6Nrfvk9XQVByreC5HfhasVGKBl1iZuF2X4DywmKMI0nqW5C7XmaQCy9gqhul1SgeTKspHDL42sqCivQmDP1yGzPiYhnIHSrsEQJlBd4HUOpR4h74yKpJuiGQR98xyw/A9xrUpIbF2mDZ4WVWwr7ZXXt1oW9owlb/2gFb6r//QVHtQalTMZkYcY3od9hfWfoeGYMyqoULFLAmuvrY=;fx6haxgsu6pG+2F29S8CFg=="
+secured: "NgdBSmK2TSo8E8UfwWKDudFLieu+AVA/qxnCSKVaC20SwSrHSpEjUBbegUT4kVIfN/qKkBTIrTdYU48KpDWsxVoAdyD6NWdh9DQLBRvR1Am+OFBI/waFt0aWXmUT5RD9cW5arCjp9KXMc8u4q2EEiifx6vsg9H++AtOhvyINdzuYn/z79cef0DoeSc6cSkuw/RuIvX+t9OsyvjGp7Hhu+RCK9+czSu20Mh3XrzqYasSTOHPEQGsuIWr4DX4oASdN+rDAaOJcbFAaH78gHZmTg+XOX4WlWtbZzo7jKkPO9KHTyVJ4vv/NudAg2vFyZDWWUm7kdHemF+vEVVYmswqSlXsreMHrfxbBdsIPoHOYPEx8MS9kwNi+ob0XG9c8LayWEveJhRgKeupaBEdTZUEv7gBVFBT9ABtWwnmEUm7ZpNIvq2mysEAo0nXyYLwt8omxluBTMpb3mieW+PGYNbMKJFpmxK/D7HuWBH+H5zASeVhOz9XNhI5OGgMe5C2lJ/QYlyeRA/mfCIXE898jWjdyRg==;mY+6fRuHw2PBx5vj5XvPRg=="
 ---
 

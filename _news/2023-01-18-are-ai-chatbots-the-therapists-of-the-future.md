@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Rise of AI Orchestration"
+    excerpt: "Most businesses don’t yet understand what AI orchestration is, and fewer recognize its game-changing value. It’s time to do some homework."
+    publishedDateTime: 2023-01-17T22:57:00Z
+    webUrl: "https://www.eweek.com/big-data-and-analytics/ai-orchestration/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2022/11/best-automation-companies.jpg"
+        width: 1400
+        height: 877
+        isCached: true
   - title: "DeepMind’s AI chatbot can do things that ChatGPT cannot, CEO claims"
     excerpt: "Google’s DeepMind has pioneered advances in artificial intelligence since its founding in 2010, with the ultimate goal of creating a human-level AI (Alan Warburton / Better Images of AI / CC ..."
     publishedDateTime: 2023-01-16T15:59:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-15T04:00:00Z
 originalUrl: "https://www.bizjournals.com/buffalo/news/2023/01/15/can-artificial-intelligence-displace-attorneys.html"
 webUrl: "https://www.bizjournals.com/buffalo/news/2023/01/15/can-artificial-intelligence-displace-attorneys.html"
 type: article
-quality: 28
+quality: 30
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Autos
   - AI
   - Natural Language Processing
+  - AI in Healthcare
 
 related:
   - title: "Conversational AI Is Changing How We Deal With Data"
