@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Two professors who say they caught students cheating on essays with ChatGPT explain why AI plagiarism can be hard to prove"
-    excerpt: "If students don't confess to using ChatGPT to write their essays, professors say AI plagiarism can be hard to prove."
-    publishedDateTime: 2023-01-14T08:00:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-essays-college-cheating-professors-caught-students-ai-plagiarism-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-essays-college-cheating-professors-caught-students-ai-plagiarism-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-essays-college-cheating-professors-caught-students-ai-plagiarism-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-    images:
-      - url: "https://i.insider.com/63bc2b2623f3620019877328?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Nick Cave says ChatGPT's AI attempt to write Nick Cave lyrics 'sucks'"
     excerpt: "Nick Cave has written a scathing review of an artificial intelligence system that tried to write a song \"in the style of Nick Cave\". The Bad Seeds frontman responded after a fan sent him lyrics written by ChatGPT,"
     publishedDateTime: 2023-01-17T11:47:00Z
@@ -110,6 +94,34 @@ related:
       name: Mashable
       domain: mashable.com
     quality: 47
+  - title: "GPT 101: Decoding ChatGPT's Generative AI for Legal Professionals"
+    excerpt: "While ChatGPT has caught the attention of many in the legal market, its underlying AI engine is where the real power—and disruption—lies."
+    publishedDateTime: 2023-01-18T23:36:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/01/18/gpt-101-decoding-chatgpts-generative-ai-for-legal-professionals/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Big-data-technology-767x633-2.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Got It AI launches truth checking tool to fix ChatGPT’s inaccuracies"
+    excerpt: "Autonomous conversational artificial intelligence startup Got It AI Inc. said today it has developed a new “truth checker” tool for the popular chatbot ChatGPT that can identify when it is ..."
+    publishedDateTime: 2023-01-14T10:41:00Z
+    webUrl: "https://siliconangle.com/2023/01/13/got-ai-launches-truth-checking-tool-fix-chatgpts-inaccuracies/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/got-it-ai.png"
+        width: 1079
+        height: 622
+        isCached: true
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
     publishedDateTime: 2023-01-17T18:30:00Z
@@ -173,6 +185,6 @@ related:
         height: 630
         isCached: true
 
-secured: "LEFtnIAlF0OgDoU7O2hHGnFL3IbNF2g2dxwrx5ZIbY6ntnp5LcvDkdp/yl3vZ4+VU2lOdaikaX3Fsh8D9nzWrj5CI+4TTIHlCS3+c7lH3h/BEQKtjwafaGO8CAsQpB67MF48biruf6pEoNFpvWAZan8c9UjK1+qqndd9Tz9cl+gBQGTU9CshNYgFP2fHCw74ug7BvJIydBKZbSGSoURLZmCEVf4+LQ8NyxTB8V7Gp9GaUkTGPfti3rR237rctpL6rReRZNvVPhDlzwm3QQKQVnJR1P2b59kCNCnvplj+ilcdBnVqAQtuJZgQcMSxf3K8ALbCBBcfE4oVoDmj/Fyj/Br0Mcxeh+8U105jcm9Zt58=;sI7CX+wdKeSpvLm4HIqs+w=="
+secured: "sL8n7W5sNr95LtVCC4P4jEeQqF31lFRFxlT2bqmFCBqsAL1CxS0APFUTruv+dWNdH08Mb705CuM15naEdYkTrNI923iVVLCnibpF+/wXBYXSaNU2c9XyTTnJwBA8eFOwDJaVBeaw2ApKgrP4X12KMxkeTTedN0mZDit0Hmyc4A1I7suk8FMjnLE0NWwbYUthusJcyEZZxqGbGkasfKER0BLv5Hg7R42mSEfa1KmQCQIyUvV+qUKe/wtioD66EGOqmdXIiZ16ZzjaDkAYcEFWsNkrkwyhyfosjlhYa0oc+hjcZFR01Z6GdSa6bVtBX5NokaMymjX0WNVOmYROtCOdwym+zcX/nVsq1J7vfnQnBRCX8jDDBUXJW63e8fDzH1ZZronLDelimYnJ2mFmFztPuaNdpPITSEqNJn80bOk0mKrXEQ8rsiv33oar61MQisqZjrWKwkrFipWV1eZM9Fchjr3OETu/cNeAEKuQWO9cVhnOkfTHQNKV9lcCrPwV/9T08rdV/6vvGpQ7d5AaNEVQzA==;quTrlAyjOSc7erGBq0Tv9Q=="
 ---
 

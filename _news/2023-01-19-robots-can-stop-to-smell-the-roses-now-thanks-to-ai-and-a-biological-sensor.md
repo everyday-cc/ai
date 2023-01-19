@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/robots-can-smell-the-roses-now-than
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/robots-can-smell-the-roses-now-thanks-to-ai-and-a-biological-sensor"
 type: article
 quality: 71
-heat: 102
+heat: 103
 published: true
 
 provider:

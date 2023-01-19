@@ -7,7 +7,7 @@ originalUrl: "https://www.theatlantic.com/newsletters/archive/2023/01/ai-is-not-
 webUrl: "https://www.theatlantic.com/newsletters/archive/2023/01/ai-is-not-the-new-crypto/672746/"
 type: article
 quality: 67
-heat: 78
+heat: 79
 published: true
 
 provider:

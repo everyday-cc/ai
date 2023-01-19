@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars ‘could be huge driver of carbon emissions’"
-    excerpt: "The energy needed to run powerful computers onboard a large global fleet of self-driving cars could generate as many greenhouse gas emissions as all the data centres in the world today. That was the warning from researchers at the Massachusetts Institute of Technology (MIT),"
-    publishedDateTime: 2023-01-16T16:31:00Z
-    webUrl: "https://www.imeche.org/news/news-article/self-driving-cars-could-be-huge-driver-of-carbon-emissions"
+  - title: "Self-driving cars could nearly double road congestion, says Government report"
+    excerpt: "But the document, published last month, claims “the ability to work or relax while travelling in a self-driving car” means occupants will be “more amenable to sitting in traffic”."
+    publishedDateTime: 2023-01-15T11:26:00Z
+    webUrl: "https://www.independent.co.uk/tech/government-england-wales-department-for-transport-dft-b2262444.html"
     type: article
     provider:
-      name: Institution of Mechanical Engineers
-      domain: imeche.org
-    quality: 24
+      name: The Independent
+      domain: independent.co.uk
+    quality: 21
     images:
-      - url: "https://imechewebresources.blob.core.windows.net/imeche-web-content/images/default-source/default-album/mit_autonomous-emissions-01-press_0.jpg?sfvrsn=96f26b11_0&size=705"
-        width: 800
-        height: 450
+      - url: "https://static.independent.co.uk/2023/01/15/09/d13718722572c3e45f244bb0d1b1f023Y29udGVudHNlYXJjaGFwaSwxNjczNzEwMjY3-2.70363808.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "NnR5Jv4HC9Fy1Qg9q/0U2uEt3r4vy02Eifz53rzPvKLPQNk6CEdisEOH2Ya+sbjyY1QHD48SskuQzySDqpv6yDHL31lJk78hzHXIXEg8CaanAOja3DyDjLh9w8dfD+GL7Vc7wzNRXkogKruwmtYZgdksZUZ0eQta35H3nZgQkijNpMzPOqIW6n/290EUSgI6wp7z7dhZS/L3pu0NBRSrfjt0iui4DOwZ5c69iGw2uGpDTNtQYMoKkMhNYpa/I7gfi1RCoFpchxeJBUjGWZpyIkwG37v+l0RdNRCj3jcKOiBncuzbqb8h0n4PTmjHX8+0p/JoOoBnSUdDkQKQI/G/QYjd3vBTYG8JM1Ie84XGmpg=;AHvSlg5ZIGcrdLU1ts+Oag=="

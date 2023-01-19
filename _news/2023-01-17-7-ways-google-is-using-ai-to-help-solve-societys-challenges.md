@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/ai/7-ways-google-is-using-ai-to-hel
 webUrl: "https://blog.google/technology/ai/7-ways-google-is-using-ai-to-help-solve-societys-challenges/"
 type: article
 quality: 89
-heat: 111
+heat: 109
 published: true
 
 provider:

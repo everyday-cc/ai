@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Seeq Recognizes its 2022 Reseller and Service Partners of the Year"
-excerpt: "Annual partner awards, honoring excellence in delivering the next generation of process manufacturing improvements, announced at Seeq Global Partner Symposium in Las Vegas LAS VEGAS, Jan. 18, 2023 /PR"
-publishedDateTime: 2023-01-18T13:17:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30462442/seeq-recognizes-its-2022-reseller-and-service-partners-of-the-year"
-webUrl: "https://www.benzinga.com/pressreleases/23/01/n30462442/seeq-recognizes-its-2022-reseller-and-service-partners-of-the-year"
+excerpt: "Annual partner awards, honoring excellence in delivering the next generation of process manufacturing improvements, announced at Seeq Global Partner Symposium in Las Vegas. LAS VE"
+publishedDateTime: 2023-01-18T14:25:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/01/18/9745322.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/01/18/9745322.htm"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1985743/SEEQ_PARTNER_OF_THE_YEAR.jpg?optimize=medium&dpr=2&auto=webp&width=750"
+  - url: "https://mma.prnewswire.com/media/1985743/SEEQ_PARTNER_OF_THE_YEAR.jpg"
     width: 343
     height: 400
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 313
         isCached: true
 
-secured: "ZamAkS/dwo5uUN2hRBDFYdAoB0GNnGKTYZOTsDISBwU2YkQsuzX2KkeXOOS16870gIK/cd0U93N6h3iJp8BtOCRkaYj44QYRFGwXf1rbpWUiuEQX3f/sgRx4qqsarMOoXpxyJguNZreueo2Wu40RJ2kpmnde1q2dqyxoO8VOKFt/EDWQx2zkjFAVmRVC8tTfN7BL7N3FC4usrcLSdeZz0h6ELzfYdu/fkdAwvxEdh/qP8Z+dK8lLrhYaK2X6+di7sdmEl9XKY1dOcqZwhkN0IewJ+M/3K2LccD0WQOC+0tM+FgP8snJNiqj16lj4D18hv82hgrmdoolxngaiQ0K1qVgcmQQc+mW9sgChTPR+Vo0=;WEihdT5avMYnJbhrGX7USA=="
+secured: "tDglBuKtkzM1dtDceo2RtxuyUIX82v1cfzyPtWFBw6gygb9M8U0+DUHedf7UtdzdRDtC/wFC/eiZbo0Ril1Nj9P2yRdZMY4Yawef8mvXX2xQgSNJzqz1uEEo1dEXSxnWmfKG8mWKMF/k4w2k/g2BtBfez0zqNOwVIovc0aH+qQvjRZf80HH3AZ9UjCFJxTHkNT7P/nLQEp9e9rX/Dwah46UlffNu8WtPTSAaX3/4QKXil5PAAIQZZ2ZG+TudRWKtoBCPD277iymt2Z3YLnN9w5ZgWMSEaiwkhWJn2bkF9ZurNOiDzzRqrUKtGMA8BHRBmIgO8uU1JL7HMoDN/25KWesUZGlzNO8ZMk/+QafJ6Mw=;WCiVN6/DSd9FUAI7JKnUuA=="
 ---
 

@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Tesla video promoting self-driving was staged, engineer testifies"
-excerpt: "A 2016 video that Tesla (TSLA) used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have,"
-publishedDateTime: 2023-01-17T19:34:00Z
-originalUrl: "https://www.cnn.com/2023/01/17/tech/tesla-self-driving-video-staged/index.html"
-webUrl: "https://www.cnn.com/2023/01/17/tech/tesla-self-driving-video-staged/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2023/01/17/tech/tesla-self-driving-video-staged/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/01/17/tech/tesla-self-driving-video-staged/index.html"
+excerpt: "The video, which was released in October 2016 and remains archived on Tesla’s website, was promoted on Twitter by CEO Elon Musk as evidence the \"Tesla drives itself.\""
+publishedDateTime: 2023-01-18T02:28:00Z
+originalUrl: "https://www.nbcnews.com/business/business-news/tesla-video-promoting-self-driving-was-staged-engineer-testifies-rcna66150"
+webUrl: "https://www.nbcnews.com/business/business-news/tesla-video-promoting-self-driving-was-staged-engineer-testifies-rcna66150"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna66150"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna66150"
 type: article
 quality: 89
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/230117142815-file-2016-tesla-self-driving-video-screenshot-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/2201117-tesla-video-mn-1345-3db658.jpg"
+    width: 879
+    height: 495
     isCached: true
 
 related:
@@ -46,6 +42,22 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/02/Screen-Shot-2020-02-17-at-2.45.34-PM-800x494.png"
         width: 800
         height: 494
+        isCached: true
+  - title: "Tesla Engineer Reportedly Testifies That Self-Driving Video Was Staged"
+    excerpt: "A video released by Tesla in 2016 purportedly showing the carmaker's self-driving technology in use on the road was actually staged, according to testimony from a senior Tesla engineer, Reuters reported on Wednesday. The video states that the \"car is ..."
+    publishedDateTime: 2023-01-19T00:25:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-engineer-reportedly-testifies-that-self-driving-video-was-staged/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-engineer-reportedly-testifies-that-self-driving-video-was-staged/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-engineer-reportedly-testifies-that-self-driving-video-was-staged/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/resize/56842f696816b2aebc9775f387607ad99f371f37/hub/2023/01/19/a3cd4700-7b48-434d-93c0-fd4560d47ae9/gettyimages-1199703559-1.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tesla engineer testifies that 2016 video promoting self-driving was faked"
     excerpt: "The testimony was taken as evidence in a lawsuit against Tesla for a fatal 2018 crash involving former Apple engineer Walter Huang."
@@ -316,6 +328,6 @@ related:
       domain: dailydot.com
     quality: 15
 
-secured: "fBuAM3qHz2Y1eg+xijGuGwPGCtjLHMNJv8gPFhzKOnDHdIZNu/SJIwmbwGmBY6yWPsMs07NIykavbiYsJdHpwEcuTd8hzywkAbO1lf54Di6fEuW1oMUGjEN4Ull3H6rHBH8fX2nr98up1dgQl5MrP1nSxVfGRrpg5jQ+E3uR3C1Wq5nyljWyfeTUx7ZeAL3Sk7G8FbE6INcxbmLOgcYaDC+RpUZcL8iMZx1xISTgrTk39szVGtrZjzBVEB6WnkVE5CP9wuRxas4Y33gABQ68GZBKFJReGUFwqak0U8MWM75mrmuhO1t2W46ar95sP/nYxTM/kJAQYaiwMPdeDxDViCKEyLzPfaNe0vcUgBKSQj18XaG4LDE28ObrphjxvgpzDg1OTxnhXfqde7T14BKh5Iu3jY6f9C4DqXU/RQhnB4HhHk4g+w+YApRTG9urOr0vwKQQvn7/pRICTvagyJKyc3esymu92JWL3pu/XYj00IPd8N0sKiViczq2o7bGMgZY4KOlkS59zrSX33AvmF2R2A==;jR9LTgjF24lh8j7Aangi0g=="
+secured: "1jy+5c8oVqcXtAlIl7gPUgv3iaiEntFObdwScrGMeQMbVkppNni4LLhM0ZTq6l2XDNZbB0lFoiIlvUsvV+XJMOZZq3VtfGZLTu3etOzelhK7KDO30h2dUkz2oj6sjncKna6QviwkGfl1BX899VKxdhTJS5GWsARAWoAhyeBdUJOQPtZqsGtdO+Iqzo8jpC+VhWGo59AQj8ScK0Mhi7nMy2J4pmjpoUUayfpeuaVNlAllrp8HvjHmv4aBGVhJEHae8dmDIHYDldm1c11WEJEI0YrfNYFxaDBQtkqnpcQ/aaAI04VE6IASsZvI6bse6xfcPglotr0cHwZUO5K5QZ+MsX1bMyd8sSowgalPXgamiac=;kHyblVzXVqkWcLDPhEP+dg=="
 ---
 

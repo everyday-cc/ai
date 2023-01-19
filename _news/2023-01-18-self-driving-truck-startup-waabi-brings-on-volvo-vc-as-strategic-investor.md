@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/01/18/self-driving-truck-startup-waabi
 webUrl: "https://techcrunch.com/2023/01/18/self-driving-truck-startup-waabi-brings-on-volvo-vc-as-strategic-investor/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Volvo backs Waabi to accelerate driverless trucks commercialization"
+    excerpt: "Volvo is “currently exploring ways to cooperate” with Waabi for their shared plans to accelerate the commercialization of driverless trucks."
+    publishedDateTime: 2023-01-18T23:11:00Z
+    webUrl: "https://betakit.com/volvo-backs-waabi-to-accelerate-driverless-trucks-commercialization/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 39
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/11/Waabi-Driver.jpg"
+        width: 1050
+        height: 700
+        isCached: true
   - title: "Volvo Group Invests in Autonomous-Truck Developer Waabi"
     excerpt: "Volvo believes that fully autonomous trucking transports are key to provide additional capacity, better safety and improved efficiency. It's putting its money where its mouth is with an investment in Waabi."
     publishedDateTime: 2023-01-18T20:59:00Z

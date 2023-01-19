@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Microsoft announces general availability of Azure OpenAI Service"
-excerpt: "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation"
-publishedDateTime: 2023-01-17T11:37:00Z
-originalUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
-webUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
+title: "Microsoft Announces general availability of Azure OpenAI Service"
+excerpt: "Microsoft makes Azure OpenAI Service generally available, which makes the world's most advanced AI, including GPT-3.5, Codex, and DALL•E 2"
+publishedDateTime: 2023-01-17T15:34:00Z
+originalUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
+webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
+ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
+cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Information Age
-  domain: information-age.com
+  name: enterprisetalk
+  domain: enterprisetalk.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
-    width: 788
-    height: 443
+  - url: "https://enterprisetalk.com/wp-content/uploads/2023/01/Microsoft-Announces-general-availability-of-Azure-OpenAI-Service.jpg"
+    width: 1500
+    height: 844
     isCached: true
 
 related:
@@ -512,6 +514,20 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "Microsoft Azure will be adding ChatGPT to its cloud services soon"
+    excerpt: "Microsoft announced the broad availability of its Azure OpenAI Service and customers will also be able to access ChatGPT."
+    publishedDateTime: 2023-01-19T00:15:00Z
+    webUrl: "https://techwireasia.com/2023/01/microsoft-azure-will-be-adding-chatgpt-on-its-cloud-services-soon/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/03/shutterstock_1357496909-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "AI tools will be built into all Microsoft products, says CEO Satya Nadella"
     excerpt: "Microsoft announced the general availability of Azure OpenAI Service as part of its partnership with OpenAI. More businesses can now apply for access to GPT-3.5, Codex, DALL-E 2, and other AI models."
     publishedDateTime: 2023-01-17T12:28:00Z
@@ -649,6 +665,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "nchNWxedVz9p78Bvxe5keRm9Vujz1C55xBG4W/6hGhK/Yu9yJ/8fKusZ4ISDikvOTEG8zLbfRzS2tEchGs0ep0ZYQjhtuxRYp/dfgt7r7v/E7fHvv1Ra1sZb+XSXWh/4MTwHB5s85ksOCLaMA0PGXOl3vP9DRKx/Mtp2HvqA2t+YAS9y0HBUSPBV270jzMiN6UALwGamU/1sWXiA3VshXxwM6vWS7rYEvVKhU+LrsMR90rSkoH0yf8Ejw2vvy8C/H4XVZw2AIDbCq6w1RMVXYM85CNZKNAVOwe5dSuwXB071XArmBrMOZ0R+yAHFtEpXympRYSeY64ogZs/TchVxPy1bYgmOkqEtj0q6/zWcaZs=;ooG1oUkVANniXQtPc7/l6A=="
+secured: "pXGaJw/jwa37fWj447/HaWgClm4ox1iOsLhmvdaGUnx9VzyS0hpyhlZYZRsrtdlj6kJiE9MbgIBOPpHQuffpl7hjvkX3YfZcREVihFEQHz5CS2Z51utM8OzEBJBdb/WuOJyrCEBBCAIE7IoVSpxRfcPOVbfgUXCdcMww9pvdJ7KYcWY2QG2icafQ8EVTzKPQ8Ru3BeE9vYQyIx6mCjbv9N/SflLGW4Q4GnqVZ+hJg+NoBHYUN2l1/hbKXGtM1u1o2nWmJ7+59ZCAXNOUM7k/AIy+EwOKrHwc3baigbYZqALlrSNKbZr7Ue68cgD55QUefkH9vmQeAd3n6ruQHCAkPbHQCCvSddDjEkwKY7RzDfA=;0UBj8rs1wfxT9hlZ1mekBQ=="
 ---
 

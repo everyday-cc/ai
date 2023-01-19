@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-27-how-bitcoin-and-artificial-intelligence-will-free-your-time.md",
+      "title": "How Bitcoin And Artificial Intelligence Will Free Your Time",
+      "excerpt": "The use of technology will give humans more time to practice mindfulness and do the things they want to do, without having to worry about making ends meet.",
+      "sourceUrl": null,
+      "webUrl": "https://bitcoinmagazine.com/culture/bitcoin-and-artificial-intelligence-frees-your-time",
+      "originalUrl": "https://bitcoinmagazine.com/culture/bitcoin-and-artificial-intelligence-frees-your-time",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bitcoinmagazine.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTkzMjU1NjA1NDIxNjE0NjU5/city-of-the-future.png",
+          "width": 620,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bitcoinmagazine.com/.amp/culture/bitcoin-and-artificial-intelligence-frees-your-time",
+      "cdnAmpWebUrl": "https://bitcoinmagazine-com.cdn.ampproject.org/c/s/bitcoinmagazine.com/.amp/culture/bitcoin-and-artificial-intelligence-frees-your-time",
+      "publishedDateTime": "2022-11-26T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bitcoin Magazine",
+        "domain": "bitcoinmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-26-tech-turmoil-complicates-canadas-policing-of-the-online-world.md",
       "title": "Tech Turmoil Complicates Canada’s Policing of the Online World",
       "excerpt": "The government has four bills before Parliament to reign in tech giants at a time when the industry is retrenching.",
@@ -1288,49 +1332,6 @@
       "provider": {
         "name": "GizChina",
         "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-20-airports-are-the-new-testbeds-for-emerging-technologies.md",
-      "title": "Airports Are the New Testbeds for Emerging Technologies",
-      "excerpt": "They are increasingly turning to cutting-edge technologies to meet their daily operational needs. These initiatives serve as real-world tests and economic drivers in the communities the airports serve.",
-      "sourceUrl": null,
-      "webUrl": "https://www.governing.com/next/airports-are-the-new-testbeds-for-emerging-technologies",
-      "originalUrl": "https://www.governing.com/next/airports-are-the-new-testbeds-for-emerging-technologies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/5031646/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fec%2F28%2F09773cf00d8d10ada26a5abfbac2%2Fshutterstock-530657836.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.governing.com/next/airports-are-the-new-testbeds-for-emerging-technologies?_amp=true",
-      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/airports-are-the-new-testbeds-for-emerging-technologies?_amp=true",
-      "publishedDateTime": "2022-11-19T22:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Governing",
-        "domain": "governing.com",
         "images": null,
         "publishers": null,
         "authors": null

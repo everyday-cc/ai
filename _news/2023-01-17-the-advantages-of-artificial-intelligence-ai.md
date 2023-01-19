@@ -9,7 +9,7 @@ ampWebUrl: "https://www.manilatimes.net/2023/01/17/opinion/columns/the-advantage
 cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594/amp"
 type: article
 quality: 74
-heat: 86
+heat: 84
 published: true
 
 provider:

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Volvo backs Waabi to accelerate driverless trucks commercialization"
+    excerpt: "Volvo is “currently exploring ways to cooperate” with Waabi for their shared plans to accelerate the commercialization of driverless trucks."
+    publishedDateTime: 2023-01-18T23:11:00Z
+    webUrl: "https://betakit.com/volvo-backs-waabi-to-accelerate-driverless-trucks-commercialization/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 39
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/11/Waabi-Driver.jpg"
+        width: 1050
+        height: 700
+        isCached: true
   - title: "Self-driving truck startup Waabi brings on Volvo VC as strategic investor"
     excerpt: "The partnership also symbolizes Volvo’s own commitment to self-driving trucking. Volvo Group has been exploring autonomous mobility solutions for years. As early as 2017, Volvo had developed an autonomous concept truck that would be used for hub-to-hub ..."
     publishedDateTime: 2023-01-18T13:57:00Z

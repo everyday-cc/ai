@@ -80,15 +80,6 @@ related:
       name: CarSifu
       domain: carsifu.my
     quality: 4
-  - title: "Self-driving cars could nearly double road congestion, says Government report"
-    excerpt: "Motorists could be stuck in congestion nearly twice as bad as current levels if self-driving cars become commonplace, a Government report warns. Department for Transport (DfT) traffic projections ..."
-    publishedDateTime: 2023-01-15T09:08:00Z
-    webUrl: "https://www.aol.com/self-driving-cars-could-nearly-090027319.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 1
   - title: "Self-driving cars could cause congestion to nearly double, warns government report"
     excerpt: "Road congestion could almost double from current levels if self-driving cars become commonplace, according to a new government report. The Department for Transport’s projections for traffic levels in England and Wales suggest that delays could soar by up to 85% between 2025 and 2060."
     publishedDateTime: 2023-01-17T13:50:00Z

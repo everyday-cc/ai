@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/01/201058-singapore-based-fint
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/01/201058-singapore-based-fintech-actyv-ai-raises-funding-to-support-expansion-product-enhancement/amp/"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1024
     height: 725
     isCached: true
+
+related:
+  - title: "Healthcare AI Firm Qritive Raises $7.5M to Expand into New Markets"
+    excerpt: "Qritive ( a leading healthcare AI startup has announced that they have raised $7.5M in a funding round led by MassMutual Ventures, supported by SEEDS Capital, the investment arm of Enterprise Singapore,"
+    publishedDateTime: 2023-01-18T00:00:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/18/9745712.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "IZFfFQ1r+YiXFzirrAPeCIXV3gaIrdrl1m9k4kikXt86YBn/M4uBEkokI/TIz6wAbaFuWKm7f5/dUzgSHgxz1v3DMhnZghBNZptTYwpna7e1AAbj8gepfChVDDHioqVLcrOBFWb7MSp7DJ/2fT7/IrMcUeRIL94xNwLWYfg22k2lXr6pccKaxb0zIvVOj/8q1IH/iX9IMqQ63BW3KFA7ro7qzSHyI/E0hh79HHE6x4WP+pVaNjU8Zb/Ha7BsMe68BHKUW2LrYSrYC3/p14e7nQ3jktwFtsBVSWVMG1X3tB01vmiCGy5sVErl3sTxzPMlediVncXq2v1+kY7hPV5pcTinXlBw1qQeAY5Wv5V6P8q+efmRRjuq7suJOIn48noftWzWG7b8kSwvRVnhuo/CNstwGBGu7eLcmhXMYyflfBoVIpdBcBUeEqnLrmADw1s/V3n8k2ZEb3k/jXDTLFGQhD6WgB6cnurPDiw0b6qXUmcOGFecwtl7aMNq8k93TtKz1mSRYt2NrRfYRRHufyGWKw==;uL0+v4bE9DLi1gNI7Btt4w=="
 ---
