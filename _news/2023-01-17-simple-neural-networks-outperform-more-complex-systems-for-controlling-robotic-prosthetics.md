@@ -1,20 +1,29 @@
 ---
 category: news
-title: "Simple neural networks outperform more complex systems for controlling robotic prosthetics"
-excerpt: "Artificial neural networks that are inspired by natural nerve circuits in the human body give primates faster, more accurate control of brain-controlled prosthetic hands and fingers, researchers at the University of Michigan have shown."
-publishedDateTime: 2023-01-17T15:26:00Z
-originalUrl: "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.html"
-webUrl: "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.html"
+title: "Simple Neural Networks Outperform More Complex Systems for Controlling Robotic Prosthetics"
+excerpt: "Feed-forward neural networks improve speed and provide more accurate control of brain-controlled prosthetic hands and fingers."
+publishedDateTime: 2023-01-17T14:53:00Z
+originalUrl: "https://neurosciencenews.com/neural-network-robotic-prosthetics-22270/"
+webUrl: "https://neurosciencenews.com/neural-network-robotic-prosthetics-22270/"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Neuroscience News
+  domain: neurosciencenews.com
 
 topics:
-  - Machine Learning
+  - AI in Robotics
   - AI
 
-secured: "+KaFeeoA4PRWpj6VlpKe1obyFOXUsjVJOvQHgbD0vg89yiflm9DO1L7dSpqsx5Xx5jWaX/frtkVA3qcvE+lxsEk//NIUf0dhxjR0fSQL3XuuOWVA2n0uMDeCMb13YwWhjprrTRGB1SAgAki3kwlcH8gnRQ19TT8lScXA3Chzce1p4Da1MdYmjQZ7hvGHAXW4MeA9NsS72NJIM8wgqmcDEC6/qYylADTYacy5KjJ+djkfu9BGX1aE8iZpIPyiIkBXBajx928yL86r8lBFagHVbmJXDPlViLopynAUyqr6LLRv37S5gwCMu+jW0vRK4qRXMg8Eporz3WQs+3xMkapDxcQrhF26f5gICM/8bbBNmN45PQ/pi2oaSQQfF6UgvDzlMBHPDgH+E3fXmpyMxvL09E+/Z0n9IBzmO1Kmxp5sD/yglqghWGmqPWDVGXil4wWf6ltPFjF4bcrx5+GxfL48nLcwDrZSG3k4FHoTC6AWHxC1drsnFe5j7Jf2Iz4x1sF/tCv/KQckdD3SOE6D/O/1yA==;zlaH/ncogcJCftGl1yMSsg=="
+images:
+  - url: "https://neurosciencenews.com/files/2023/01/neuroprosthetics-neural-networks-neurosicnes.jpg"
+    width: 770
+    height: 513
+    isCached: true
+
+secured: "8o6XaY/FvI4Iat5MjxeTTOPopWsMYw+oJmo/Joz9MqhfYpvJHa9olMsePPD738IomGrbhRMH4Ens08WaItmrPzPGY8PvvxOlRd3NoM8gLd6VV5NERF6LCoHO98utYkqZWgiG6vBvF+K4vqBt77PEpWyzgvsoJKGAUsJFt3PYQKZQfaQi4mBMgDi5DUO18hXJdZhiEW4ukpaD2eWhyAY22X58GI23MifvqZu3X5qltVlj7qAz8B4C1lrdbPPW+EwnRQLk0w56xHiDl/13XZWZHUUXPaGpdGxiDWwfKsVvDIm1YJVU5m1nnPsqggnJANbdoNEPDye66SAy6C1TPxcYvgQk/Ov33uMn82aTRWpCvSU=;mKQIbXHsR9BEBjR0n8855g=="
 ---
 

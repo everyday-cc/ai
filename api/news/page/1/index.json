@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-20-federated-learning-ai-model-could-lead-to-healthcare-breakthrough.md",
+      "title": "Federated learning AI model could lead to healthcare breakthrough",
+      "excerpt": "AI biotech vendor Owkin has revealed just how powerful the federated model can be for healthcare, including breast cancer treatment.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/",
+      "originalUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1365534802.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/amp/",
+      "publishedDateTime": "2023-01-19T13:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-artificial-intelligence-meets-beer-ai-crafts-recipe-for-new-atwater-brew-made-in-detroit.md",
       "title": "Artificial Intelligence meets beer: AI crafts recipe for new Atwater brew made in Detroit",
       "excerpt": "Atwater quality manager Joe Platt described the process as \"scarily easy,\" noting that it only took a few sentences to get the computer to write a goof beer recipe.",
@@ -336,7 +388,7 @@
       "originalUrl": "https://www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -376,7 +428,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -783,7 +836,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-competitive-landscape-and-analysis-by-recent-trends-2023-to-2029-2023-01-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -886,7 +939,7 @@
       "originalUrl": "https://oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A-Net-Positive-For-Carbon-Emissions.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -907,6 +960,49 @@
       "provider": {
         "name": "Crude Oil Prices",
         "domain": "oilprice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-michigans-atwater-brewery-releases-ipa-created-by-artificial-intelligence.md",
+      "title": "Michigan’s Atwater Brewery releases IPA created by artificial intelligence",
+      "excerpt": "Artificial Intelligence IPA is a 6.5% brew made with a blend of Centennial, Citra, and Amarillo hops, which results in tropical and citrus flavors and aromas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html",
+      "originalUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EJPLGYZV7BETJGYP34T37UYWMQ.jpeg",
+          "width": 3024,
+          "height": 2530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html?outputType=amp",
+      "publishedDateTime": "2023-01-18T11:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -959,48 +1055,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.md",
-      "title": "Michigan’s Atwater Brewery releases IPA designed by artificial intelligence",
-      "excerpt": "Artificial Intelligence IPA is a 6.5% brew made with a blend of Centennial, Citra, and Amarillo hops, which results in tropical and citrus flavors and aromas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html",
-      "originalUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EJPLGYZV7BETJGYP34T37UYWMQ.jpeg",
-          "width": 3024,
-          "height": 2530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html?outputType=amp",
-      "publishedDateTime": "2023-01-18T09:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MLive",
-        "domain": "mlive.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1156,57 +1210,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-vdoai-aims-to-bring-new-revenue-to-publishers.md",
-      "title": "VDO.AI Aims To Bring New Revenue To Publishers",
-      "excerpt": "VDO says their AI technology is enabling platforms such as theirs so they can handle over 5 billion transactions daily each.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/waynerash/2023/01/18/vdo-aims-to-bring-new-revenue-to-publishers/",
-      "originalUrl": "https://www.forbes.com/sites/waynerash/2023/01/18/vdo-aims-to-bring-new-revenue-to-publishers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c826873b5ed2b91de9af4f/0x0.jpg?format=jpg&crop=3840,1699,x0,y219,safe&width=1200",
-          "width": 1200,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/waynerash/2023/01/18/vdo-aims-to-bring-new-revenue-to-publishers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/waynerash/2023/01/18/vdo-aims-to-bring-new-revenue-to-publishers/amp/",
-      "publishedDateTime": "2023-01-18T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

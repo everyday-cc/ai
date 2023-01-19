@@ -2,6 +2,41 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-16-israel-deploys-remote-controlled-robotic-guns-in-west-bank.md",
+      "title": "Israel deploys remote-controlled robotic guns in West Bank",
+      "excerpt": "Robotic weapons are increasingly in operation around the world, with militaries expanding their use of drones to carry out lethal strikes from Ukraine to Ethiopia. Remote-controlled guns like the ...",
+      "sourceUrl": null,
+      "webUrl": "https://lasvegassun.com/news/2022/nov/15/israel-deploys-remote-controlled-robotic-guns-in-w/",
+      "originalUrl": "https://lasvegassun.com/news/2022/nov/15/israel-deploys-remote-controlled-robotic-guns-in-w/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T23:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Las Vegas Sun",
+        "domain": "lasvegassun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-tigergraph-cloud-adds-graph-analytics-machine-learning-tools.md",
       "title": "TigerGraph Cloud adds graph analytics, machine learning tools",
       "excerpt": "The updated graph database-as-a-service (DBaaS) will come with visual analytics and machine learning tools, made accessible via the TigerGraph Suite.",
@@ -1329,58 +1364,6 @@
         "name": "Financial IT",
         "domain": "financialit.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-cloud-ai-in-fintech-market-current-scenario-and-future-prospects.md",
-      "title": "Cloud AI in Fintech Market Current Scenario and Future Prospects",
-      "excerpt": "The Cloud AI in Fintech Market Report provides Insightful qualitative and quantitative information along with an",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-current-scenario-and-future-prospects-2022-10-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-current-scenario-and-future-prospects-2022-10-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/the-morning-after-getty-images-sues-ai-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-getty-images-sues-ai-art-generator-121539563.html"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "1923 cartoon predicts 2023’s AI art generators"
+    excerpt: "The vintage cartoon carries the caption It depicts a cartoonist standing by his drawing table and making plans for social events while an \"idea dynamo\" generates ideas and a \"cartoon dynamo\" renders the artwork."
+    publishedDateTime: 2023-01-19T16:52:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/cartoon_dynamo_hero_main-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Getty Images targets AI firm for 'copying' photos"
     excerpt: "Stability AI runs a tool called Stable Diffusion that allows users to generate mash-up images from a few words of text, but the firm uses material it scrapes from the web often without permission. The question of copyright is still in dispute,"
     publishedDateTime: 2023-01-18T04:47:00Z

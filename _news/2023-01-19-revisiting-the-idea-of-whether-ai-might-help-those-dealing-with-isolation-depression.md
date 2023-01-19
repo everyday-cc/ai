@@ -8,8 +8,8 @@ webUrl: "https://www.wmfe.org/2023-01-19/revisiting-the-idea-of-whether-ai-might
 ampWebUrl: "https://www.wmfe.org/2023-01-19/revisiting-the-idea-of-whether-ai-might-help-those-dealing-with-isolation-depression?_amp=true"
 cdnAmpWebUrl: "https://www-wmfe-org.cdn.ampproject.org/c/s/www.wmfe.org/2023-01-19/revisiting-the-idea-of-whether-ai-might-help-those-dealing-with-isolation-depression?_amp=true"
 type: article
-quality: 52
-heat: 62
+quality: 54
+heat: 64
 published: false
 
 provider:

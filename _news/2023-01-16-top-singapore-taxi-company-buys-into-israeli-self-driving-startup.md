@@ -34,6 +34,15 @@ related:
       name: The Jerusalem Post Blogs
       domain: jpost.com
     quality: 19
+  - title: "S’pore’s top taxi company buys into Israeli self-driving startup"
+    excerpt: "Ottopia offers a system that lets people monitor self-driving vehicles remotely. The move fits ComfortDelGro’s strategy of acquiring autonomous-driving technologies through investment or tie-ups rather than developing them on its own."
+    publishedDateTime: 2023-01-17T02:58:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/01/17/spores-top-taxi-company-buys-into-israeli-self-driving-startup/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 4
 
 secured: "UcBCPw0oyuJYIO4QVWBjU5so8vCqVaHE+SGF8CpsSw9npZ4+3C5+0ZCtNcuQKDaKQZldTGDeNTw96Ig6+NpsdGtayOfDSWbV7C973z5caJvHIw5bGcDZcpYX6ujVT7SF32d+AOUKE2G7eRxeqC1kwok8Cp4rNQ4Zx2iyXNsY5bxZG4QIL9N0oAe3hDAL7itLbf6NR2rRWx9hGiXRWefCBBwFN3fIHhizCl9rqfxX0/RLBqLVaIn/KX/9TQ7z7icbm7i3lsvwyB4CQw6BhJ0JmfF2zS1kesf7y64iaiCX1eZVvmSF5iiKN0Mw5m0dCPDBHLlznIGvi2eNQMZ/lBCDS2jFO4tIR/v9YdmYjW9SiZygN81RBdrXDXHQM18wU1N+gs8qlIEWVI4i20GMiLVXwM4GLKGF9wiauM5uIYWRyNH1j8c3v3pC6rWHkc+Gc66rmIQcKzf4iFb7+V+cEMyjHHPDqqWP1K4pohywrSHqHTajwvFRLAsSKea49nJoYx86i87m+DnujcS7pCasB+ScvQ==;/X/Uv9YrO70q0nPUAi1WkA=="
 ---

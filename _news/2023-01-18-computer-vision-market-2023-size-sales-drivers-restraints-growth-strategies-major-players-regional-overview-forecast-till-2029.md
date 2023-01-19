@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-size-sales-drivers-restraints-growth-strategies-major-players-regional-overview-forecast-till-2029-2023-01-18"
 type: article
 quality: 70
-heat: 190
+heat: 200
 published: true
 
 provider:
@@ -198,6 +198,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mobile Speech Recognition Software Market Share 2023 with Regional Scope, New Product Innovation, and Expansion Forecast 2029"
+    excerpt: "Global \"Mobile Speech Recognition Software Market\" Analysis and Outlook 2023| Latest Report [ No of Pages 115] In"
+    publishedDateTime: 2023-01-19T17:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-share-2023-with-regional-scope-new-product-innovation-and-expansion-forecast-2029-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
 
 secured: "bYpRG1VPOtV5LBGsOoYPllUlmJ7rTlnoSXr0sioLvqVoKJNps8lqbA6cLvcBMfaBV/4dwy9tauexLwuHTFgtauNxgLhKSNhMelCLHs/UgPFjFZwdSgSSxfA2B0LEMlyT3PISblSBP759vK/Ch17SWryiIl0fECtv6i8Q5ML6SxhevUqbnOFHmdjh+EWqqRCRwXguMb85DJlr0kAI39oCo9iAuQluQ3InEQSG5iwk3THXkSoghMH5n/gQV7D3cfWuC5tah0wAeP4ppf0k5Jwo5K39rSBlH1WUNqnl1YKnwRrkBRyPKYbi/XcwD4AOgerRcUhcwBnI/bBZTZmNpPynVeik6rB2kNX56C72Madi0YY=;wJPGgo7eRCSu1bWYnP9CVA=="
 ---

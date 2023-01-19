@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-19T18:19:00Z
 originalUrl: "https://phys.org/news/2023-01-real-time-block-by-block-machine-method.html"
 webUrl: "https://phys.org/news/2023-01-real-time-block-by-block-machine-method.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Phys.org

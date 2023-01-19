@@ -2,6 +2,162 @@
   "page": 126,
   "value": [
     {
+      "path": "_news/2022-09-27-kaust-goes-for-nvidia-cpu-gpu-combo-in-shaheen-iii-supercomputer.md",
+      "title": "KAUST Goes For Nvidia CPU-GPU Combo In Shaheen-III Supercomputer",
+      "excerpt": "The King Abdullah University of Science and Technology (KAUST) in Saudi Arabia has introduced the latest in its long-standing lineup of successive",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/09/26/kaust-hpe-shaheen-iii-supercomputer/",
+      "originalUrl": "https://www.nextplatform.com/2022/09/26/kaust-hpe-shaheen-iii-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/nvidia-gtc-2021-grace-cpu-hopper-gpu.jpg",
+          "width": 1089,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/09/26/kaust-hpe-shaheen-iii-supercomputer/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/09/26/kaust-hpe-shaheen-iii-supercomputer/amp/",
+      "publishedDateTime": "2022-09-26T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-japanese-engineers-put-a-pair-of-googly-eyes-on-a-self-driving-car.md",
+      "title": "Japanese engineers put a pair of googly eyes on a self-driving car",
+      "excerpt": "A comic pair of googly eyes on the front of a self-driving car could reduce traffic accidents, a new study suggests. Researchers in Japan fitted a golf cart with two large, remote-controlled ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11250965/Japanese-engineers-pair-googly-eyes-self-driving-car.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11250965/Japanese-engineers-pair-googly-eyes-self-driving-car.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-affordable-security-through-knightscopes-k1-hemisphere-autonomous-security-robot.md",
+      "title": "Affordable Security Through Knightscope’s K1 Hemisphere Autonomous Security Robot.",
+      "excerpt": "The K1 Hemisphere by Knightscope is a wall mounted entry point security robot that is equipped with the latest in technology and artificial intelligence. The K1 can act as monitoring and reporting device at gates and entry points, allowing organisations to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/affordable-security-through-knightscopes-k1-hemisphere-autonomous-security-robot/",
+      "originalUrl": "https://techbullion.com/affordable-security-through-knightscopes-k1-hemisphere-autonomous-security-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/09/William-Santana-Li-the-CEO-of-Knightscope.jpg",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/affordable-security-through-knightscopes-k1-hemisphere-autonomous-security-robot/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/affordable-security-through-knightscopes-k1-hemisphere-autonomous-security-robot/amp/",
+      "publishedDateTime": "2022-09-26T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-public-support-needed-to-tackle-racial-and-other-biases-in-ai-for-healthcare.md",
+      "title": "Public support needed to tackle racial and other biases in AI for healthcare",
+      "excerpt": "as part of the NHS AI Lab’s AI Ethics Initiative. Dr Xiaoxuan Liu from the Institute of Inflammation and Ageing at the University of Birmingham and co-lead of the STANDING Together project said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/965946",
+      "originalUrl": "https://www.eurekalert.org/news-releases/965946",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-machine-learning-in-banking-market-to-garner-2127-billion-globally-by-2031-at-322-cagr-allied-market-research.md",
       "title": "Machine Learning in Banking Market to Garner $21.27 Billion, Globally, By 2031 at 32.2% CAGR: Allied Market Research",
       "excerpt": "Allied Market Research recently published a report, titled, \"Machine Learning in Banking Market By Component (Solution and Service), Enterprise Size (Large Enterprises, Small and Medium-Sized Enterprises [SMEs]),",
@@ -987,179 +1143,6 @@
         "Machine Learning",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-25-ai-generated-portraits-imagine-how-celebrities-would-look-like-if-they-were-alive-today.md",
-      "title": "AI-Generated Portraits Imagine How Celebrities Would Look Like If They Were Alive Today",
-      "excerpt": "Images generated by Artificial Intelligence (AI) have been making waves recently, and now one Turkey-based artist has used this technology to bring back celebrities from the dead. Photographer and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/offbeat/ai-generated-portraits-imagine-how-celebrities-would-look-like-if-they-were-alive-today-3375540",
-      "originalUrl": "https://www.ndtv.com/offbeat/ai-generated-portraits-imagine-how-celebrities-would-look-like-if-they-were-alive-today-3375540",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2022-09/kv22lbto_ai-princess-diana-_625x300_25_September_22.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/offbeat/ai-generated-portraits-imagine-how-celebrities-would-look-like-if-they-were-alive-today-3375540/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/offbeat/ai-generated-portraits-imagine-how-celebrities-would-look-like-if-they-were-alive-today-3375540/amp/1",
-      "publishedDateTime": "2022-09-25T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-25-gpu-acceleration-delegate-for-android.md",
-      "title": "GPU acceleration delegate for Android",
-      "excerpt": "Using graphics processing units (GPUs) to run your machine learning (ML) models can dramatically improve the performance of your model and the user experience of your ML-enabled applications. On Android devices, you can enable use of GPU-accelerated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/lite/android/delegates/gpu",
-      "originalUrl": "https://www.tensorflow.org/lite/android/delegates/gpu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-24T22:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-25-samsung-patents-dual-under-display-camera-system-for-facial-recognition.md",
-      "title": "Samsung patents dual under-display camera system for facial recognition",
-      "excerpt": "Samsung specifically mentions using under-display cameras, though, which is interesting in its own right. Up until now, the Korean giant has more or less just experimented with the technology on its Galaxy Fold line without a broader release.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gsmarena.com/samsung_patents_dual_underdisplay_camera_system_for_facial_recognition-news-55926.php",
-      "originalUrl": "https://www.gsmarena.com/samsung_patents_dual_underdisplay_camera_system_for_facial_recognition-news-55926.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fdn.gsmarena.com/imgroot/news/22/09/samsung-dual-udc-facial-recognition/-1220x526/gsmarena_001.jpg",
-          "width": 1220,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.gsmarena.com/samsung_patents_dual_underdisplay_camera_system_for_facial_recognition-amp-55926.php",
-      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_patents_dual_underdisplay_camera_system_for_facial_recognition-amp-55926.php",
-      "publishedDateTime": "2022-09-24T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GSM Arena",
-        "domain": "gsmarena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-study-indicates-proton-therapy-has-less-side-effects-in-prostate-cancer-treatment.md",
-      "title": "Study indicates proton therapy has less side effects in prostate cancer treatment",
-      "excerpt": "The results from a pilot study on a small group of high-risk prostate cancer patients by Apollo Proton Cancer Centre (APCC) indicate that the proton therapy could significantly reduce side effects compared to conventional radiation therapy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/tamil-nadu/study-indicates-proton-therapy-has-less-side-effects-in-prostate-cancer-treatment/article65931455.ece",
-      "originalUrl": "https://www.thehindu.com/news/national/tamil-nadu/study-indicates-proton-therapy-has-less-side-effects-in-prostate-cancer-treatment/article65931455.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-24T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

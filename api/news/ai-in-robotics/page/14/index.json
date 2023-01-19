@@ -2,6 +2,50 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-09-21-lets-investigate-a-way-to-invest-in-artificial-intelligence-and-robotics.md",
+      "title": "Let's Investigate a Way to Invest in Artificial Intelligence and Robotics",
+      "excerpt": "A Real Money subscriber wants to be involved with robotics and artificial intelligence in the years to come but doesn't believe he is a good stock picker. So what should he do? Let's check out the charts of the Global X Robotics & Artificial Intelligence ETF (BOTZ) .",
+      "sourceUrl": null,
+      "webUrl": "https://realmoney.thestreet.com/investing/ets/artificial-intelligence-and-robotics-etf-botz-16102690",
+      "originalUrl": "https://realmoney.thestreet.com/investing/ets/artificial-intelligence-and-robotics-etf-botz-16102690",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/4c810e48-a47e-11e7-be5b-71dfc49c8ace.png",
+          "width": 1152,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-nvidia-expands-edge-ai-tech-for-healthcare-and-robotics.md",
       "title": "Nvidia expands edge AI tech for healthcare and robotics",
       "excerpt": "Nvidia announced its new IGX platform for industrial and medical edge AI use cases, as well as a new version of the Jetson Nano for robotics.",
@@ -1365,49 +1409,6 @@
         "AI",
         "AI in Robotics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-robot-lab-live-highlights-remote-control-burger-crafting-using-two-robot-dogs.md",
-      "title": "Robot Lab Live Highlights - Remote Control Burger Crafting Using Two Robot Dogs",
-      "excerpt": "Remotely controlling a robotic system from a distance, whether it be in a different room or country, has always been a difficult task. In this demonstration, the team from Real Robotics Lab will show how a motion capture suit - such as the ones used in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/content/videos/robot-lab-live-highlights-remote-control-burger-crafting-using-two-robot-dogs",
-      "originalUrl": "https://www.newelectronics.co.uk/content/videos/robot-lab-live-highlights-remote-control-burger-crafting-using-two-robot-dogs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/media/g21dp5mu/burgers.png?width=1200&height=630&mode=crop",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

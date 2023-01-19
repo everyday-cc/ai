@@ -9,8 +9,8 @@ ampWebUrl: "https://securityboulevard.com/2023/01/ai-and-political-lobbying/amp/
 cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2023/01/ai-and-political-lobbying/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Security Boulevard
@@ -41,6 +41,15 @@ related:
         width: 795
         height: 530
         isCached: true
+  - title: "AI Passes U.S. Medical Licensing Exam"
+    excerpt: "Two artificial intelligence (AI) programs -- including ChatGPT -- have passed the U.S. Medical Licensing Examination (USMLE), according to two recent papers. The papers highlighted different approaches to using large language models to take the USMLE,"
+    publishedDateTime: 2023-01-19T21:47:00Z
+    webUrl: "https://www.medpagetoday.com/special-reports/exclusives/102705"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 21
 
 secured: "sI7Ta5Th7vK62ZqbU3sJCr9+ISdYZFkgXl8Mm59HRB+Ha1lbuKJExKYw0gZl0xHMqY+mscW0CIeosf5GpK+8czQ2WaqgVQcZ4AqkOgzlq7zkpTnmff8P7BD69/afny10scomm5ONOeio5UHgPOh4sz26lAmGMJ7W8Mp/vJIXWzMGhmgufVkXeW/EE53xdS5sHifHpJuxBFCVaB1q0hlpW+hKCg19m5QTMOBoxiNvjctsGfKo+ZnlYmI++MLZ8Mbw/wGZFtrxOX4Hfvso4iFOkpQ9wrX/DRq/lJt5gKsfjUpm0T/LH2bHhs8uwB/g963Go9dnNG4+KYYiYGzgc68YhmnLIhCHpiJ85rqVqACr8ms=;JzlNLh3E3HTEWWCqZ52Piw=="
 ---

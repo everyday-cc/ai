@@ -33,7 +33,7 @@ related:
     provider:
       name: WMFE
       domain: wmfe.org
-    quality: 52
+    quality: 54
     images:
       - url: "https://media.npr.org/assets/img/2014/03/18/noguchi_4_custom-a529dd06c9bdcc061d054e32d18b52bc466bbb1b.jpg"
         width: 616

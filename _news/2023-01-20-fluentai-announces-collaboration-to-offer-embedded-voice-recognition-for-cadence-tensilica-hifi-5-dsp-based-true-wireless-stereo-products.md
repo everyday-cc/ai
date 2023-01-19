@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Fluent.ai Announces Collaboration to Offer Embedded Voice Recognition for Cadence Tensilica HiFi 5 DSP-Based True Wireless Stereo Products"
-excerpt: "Fluent.ai – a leader in small footprint embedded, noise robust and multilingual/multi-accent speech recognition software solutions, today announced its embedded voice recognition solution for True Wireless Stereo (TWS) and other hearable products running on the Cadence ® Tensilica ® HiFi 5 DSP in partnership with Airoha,"
-publishedDateTime: 2023-01-19T18:00:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/01/19/9746105.htm"
-webUrl: "https://it.tmcnet.com/news/2023/01/19/9746105.htm"
+excerpt: "Fluent.ai provides offline, noise robust speech recognition that can support any language or accent. The latest software solution allows users to trigger more than 30 TWS actions through 101 natural and flexible voice commands,"
+publishedDateTime: 2023-01-19T17:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fluentai-announces-collaboration-offer-embedded-voice-recognition-cadence-/2023/01/19/9746105.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fluentai-announces-collaboration-offer-embedded-voice-recognition-cadence-/2023/01/19/9746105.htm"
 type: article
 quality: 0
 heat: -1
@@ -15,9 +15,8 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI Hardware
-  - AI
   - Natural Language Processing
+  - AI
 
 related:
   - title: "Fluent.ai Announces Collaboration to Offer Embedded Voice Recognition for Cadence Tensilica HiFi 5 DSP-Based True Wireless Stereo Products"
@@ -30,6 +29,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "DdW8sz4EoWIxa4VnmnAsPW7dj4oSg8666ac/zJS2xYU2F9lgCDUKAO85o9jeZwo3kzQfEB9VeXCGM4UCdQPP4z3qW7SDuMHUEOeXUEFrGeyGJEu0MJUQ8NEFIvTLzwk69ODl0Ujja+FyIhqknZxKIVzZFNEZMVWUqMu/i6Z1ld/a1xbZzWJ2mb1cexopK4NyN86sZiyp9Go0ZkEr2Y1pqRWOMnTllOf9+Yg6YrTx03UB7Xa2PaIGQZloDmwKq8AZFt09J0ZMzPgPue7Xr4qO9E/pH6GBjU3qRZwjmwluAxdsoI1dnuFmYhUCDh1QdH2tv/BT+BdN01+hKkejUN/nJ7D5f7zgMOLKNc/2eYGG/DI=;uLmeOb58WG1iVN4jt1DwFA=="
+secured: "YSDLppNyX0F/mvEfYA+nJgcG95ElFrSEI2Or7CYBxIMPqptlV24rNjqzEkua2Vi6LKR8CBxWiR03rpArJH4Kt1lRww/W9XbQH2lEwv1TN4O2y83eupw6ZW876ZFQLAG9O2PWxZLvYHnq9+aJC97ngv3KfHY7WOTdqVcfHCOZLic3CvA8jBV3Hx7rLcX5UT7ObfGWrnJAUDP1bb9j3qPnkWTlRyKC1SNIT4lAei47RhWb2f+Vis2SvB4GvEH3h2wAnmffqVUqTw6VUPd1rBaB1LxF3qplr+Fp1N1zR8zZhk5mwa5wLt3o++vcCeWsRYzxFHKTQWESmroT1m34TtAy+AIy6GsLE6v5R8IF3UI9WXk=;+iOO+NIbvjs0bgitDBWVTQ=="
 ---
 

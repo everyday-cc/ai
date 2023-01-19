@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/face-recognition-systems
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-competitive-landscape-and-analysis-by-recent-trends-2023-to-2029-2023-01-19"
 type: article
 quality: 55
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -103,6 +103,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Camera Market Size and Outlook 2023 | by Product Classification, Application Areas, Manufactures and Forecast to 2028"
+    excerpt: "Jan 18, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Face Recognition Camera"
+    publishedDateTime: 2023-01-18T05:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-camera-market-size-and-outlook-2023-by-product-classification-application-areas-manufactures-and-forecast-to-2028-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
   - title: "North America Enterprise Manufacturing Intelligence Market Scope- On-Going Trends, Industry Revenue, Future Prospect, And Regional Outlook 2023-2033"
     excerpt: "CRIFAX added a report on ' north america enterprise manufacturing intelligence market , 2023-2033' to its database of market research collaterals consisting of overall market scenario with prevalent and future growth prospects,"
     publishedDateTime: 2023-01-18T05:25:00Z

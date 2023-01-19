@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google's big fear is AI running wild. After ChatGPT, it's too late."
+    excerpt: "Google's top executives published a report calling for a responsible release of AI, months after rival AI bot ChatGPT has entered the mainstream."
+    publishedDateTime: 2023-01-19T14:17:00Z
+    webUrl: "https://www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
   - title: "ChatGPT And AI Will Fuel New EdTech Boom"
     excerpt: "Venture capitalists predict artificial intelligence, virtual reality and video-learning startups will dominate the space in 2023."
     publishedDateTime: 2023-01-18T10:30:00Z
@@ -70,6 +81,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "An AI rival to ChatGPT passed a university level law and economics exam, and did better than many humans, professor says"
+    excerpt: "A professor at George Mason University said the AI's answer to a law and economics exam was \"better than many human responses.\""
+    publishedDateTime: 2023-01-19T15:02:00Z
+    webUrl: "https://www.businessinsider.com/ai-financed-by-sam-bankman-fried-passed-law-economics-exam-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/ai-financed-by-sam-bankman-fried-passed-law-economics-exam-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-financed-by-sam-bankman-fried-passed-law-economics-exam-2023-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "GPT 101: Decoding ChatGPT's Generative AI for Legal Professionals"
     excerpt: "While ChatGPT has caught the attention of many in the legal market, its underlying AI engine is where the real power—and disruption—lies."
     publishedDateTime: 2023-01-19T01:09:00Z
@@ -123,6 +145,17 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 35
+  - title: "Building ChatGPT’s AI content filters devastated workers’ mental health, according to new report"
+    excerpt: "A new report from 'Time' magazine paints a grim picture of labor conditions involved in training AI to avoid harmful and graphic content."
+    publishedDateTime: 2023-01-19T22:00:00Z
+    webUrl: "https://www.popsci.com/technology/chatgpt-sama-content-filter-labor/"
+    ampWebUrl: "https://www.popsci.com/technology/chatgpt-sama-content-filter-labor/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/chatgpt-sama-content-filter-labor/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 26
   - title: "Everybody Loves ChatGPT Except For Nick Cave, Who Is Unimpressed With AI-Generated Lyrics Meant To Be Like His"
     excerpt: "Cave called the ChatGPT-generated song ’bullsh*t’ and explained why it is ’a grotesque mockery of what it is to be human.’"
     publishedDateTime: 2023-01-16T18:54:00Z

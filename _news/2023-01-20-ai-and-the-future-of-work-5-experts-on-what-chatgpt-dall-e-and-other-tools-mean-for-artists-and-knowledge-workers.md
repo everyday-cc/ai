@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "AI, do my homework! How ChatGPT pitted teachers against tech"
-    excerpt: "Know-it-all chatbots landed with a bang last year, convincing one engineer that machines had become sentient, spreading panic that industries could be"
-    publishedDateTime: 2023-01-15T06:18:00Z
-    webUrl: "https://www.digitaljournal.com/business/ai-do-my-homework-how-chatgpt-pitted-teachers-against-tech/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/01/417f48272db8337f0641706f22b1ac6c99009e68.jpg"
-        width: 768
-        height: 510
-        isCached: true
-  - title: "AI, do my homework! How ChatGPT pitted teachers against tech"
     excerpt: "It can write a half-decent essay and answer many common classroom questions, sparking a fierce debate about the very future of traditional education."
     publishedDateTime: 2023-01-16T06:44:00Z
     webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/16/ai-do-my-homework-how-chatgpt-pitted-teachers-against-tech"

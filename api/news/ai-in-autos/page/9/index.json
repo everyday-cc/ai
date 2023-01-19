@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-11-21-ambient-computing-is-at-the-heart-of-the-frictionless-economy.md",
+      "title": "Ambient Computing Is At The Heart Of The Frictionless Economy",
+      "excerpt": "The aim is to remove the friction in using technology and, in particular, to help users move away from screens and scanning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632dbbaa69b953ca837d2c1f/0x0.jpg?format=jpg&crop=5700,3206,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/amp/",
+      "publishedDateTime": "2022-11-21T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-21-artificial-intelligence-is-pushing-boundaries-in-design-engineering.md",
       "title": "Artificial Intelligence Is Pushing Boundaries in Design Engineering",
       "excerpt": "Today’s design engineers are always looking for ways to innovate and compete in today’s global design environment. The 21st century has opened up a plethora of connected workflows that allow for seemingly real-time data interaction, no matter where you ...",
@@ -1300,58 +1352,6 @@
         "name": "RealClearScience",
         "domain": "realclearscience.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours.md",
-      "title": "Cruise has expanded its driverless robotaxi service to daytime hours",
-      "excerpt": "Cruise is expanding its driverless ride-hailing service in San Francisco to daytime hours, Cruise CEO Kyle Vogt tweeted Wednesday. The robotaxi service is now available to employees 24 hours a day.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/",
-      "originalUrl": "https://techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/Cruise_700848.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/amp/",
-      "publishedDateTime": "2022-11-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

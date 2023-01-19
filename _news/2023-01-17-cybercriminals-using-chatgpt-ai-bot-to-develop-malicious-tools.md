@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/technology/cybercriminals-using-chatg
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902-amp.html"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2018/09/brain-artificial-intelligence-control-e1557857757427.jpg"
         width: 948
         height: 532
+        isCached: true
+  - title: "AI Tools Like ChatGPT May Reshape Teaching Materials — And Possibly Substitute Teach"
+    excerpt: "This summer, a coding class offered by a private school in Austin, Texas, was led by an unusual teacher. The PreK-8 school, Paragon Prep, offered a"
+    publishedDateTime: 2023-01-19T21:19:00Z
+    webUrl: "https://www.edsurge.com/news/2023-01-19-ai-tools-like-chatgpt-may-reshape-teaching-materials-and-possibly-substitute-teach"
+    ampWebUrl: "https://www.edsurge.com/amp/news/2023-01-19-ai-tools-like-chatgpt-may-reshape-teaching-materials-and-possibly-substitute-teach"
+    cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2023-01-19-ai-tools-like-chatgpt-may-reshape-teaching-materials-and-possibly-substitute-teach"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 50
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/15165/robot_and_human_together-1674149694.png?auto=compress%2Cformat&w=640&h=259&fit=crop"
+        width: 640
+        height: 259
         isCached: true
   - title: "ChatGPT could be used for good, but like many other AI models, it's rife with racist and discriminatory bias"
     excerpt: "ChatGPT could soon power Microsoft products, despite the potential to spew dangerous content. The AI community is torn on solutions."

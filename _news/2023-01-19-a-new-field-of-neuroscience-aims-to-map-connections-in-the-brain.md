@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-19T12:00:00Z
 originalUrl: "https://hms.harvard.edu/news/new-field-neuroscience-aims-map-connections-brain"
 webUrl: "https://hms.harvard.edu/news/new-field-neuroscience-aims-map-connections-brain"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Harvard Medical School

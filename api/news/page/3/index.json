@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-17-microsoft-adds-chatgpt-to-azure-openai-to-support-cloud-services.md",
+      "title": "Microsoft adds ChatGPT to Azure OpenAI to support cloud services",
+      "excerpt": "The latest integration of ChatGPT within Microsoft products builds on long-standing ties between the two firms",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/cloud/cloud-computing/369875/microsoft-adds-chatgpt-to-azure-openai-support-cloud-services",
+      "originalUrl": "https://www.itpro.co.uk/cloud/cloud-computing/369875/microsoft-adds-chatgpt-to-azure-openai-support-cloud-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 549,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1673953350/itpro/ChatGPT_Microsoft_GettyImages-1246126800.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-nick-cave-criticises-ai-attempt-to-write-nick-cave-lyrics-this-song-sucks.md",
+      "title": "Nick Cave criticises AI attempt to write Nick Cave lyrics: 'This song sucks'",
+      "excerpt": "Nick Cave has written a scathing review of an artificial intelligence system that tried to write a song \"in the style of Nick Cave\". The Bad Seeds frontman responded after a fan sent him lyrics written by ChatGPT,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/entertainment-arts-64302944.amp",
+      "originalUrl": "https://www.bbc.com/news/entertainment-arts-64302944.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/17964/production/_128321669_gettyimages-463824907.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/entertainment-arts-64302944.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-64302944.amp",
+      "publishedDateTime": "2023-01-17T03:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-defending-democracy-and-liberty-in-the-face-of-chinas-challenge.md",
       "title": "Defending Democracy And Liberty In The Face Of China's Challenge",
       "excerpt": "The newly established House Select Committee on Strategic Competition between the United States and the Chinese Communist Party holds crucial responsibility in addressing the challenges posed by the CCP.",
@@ -114,7 +217,7 @@
       "originalUrl": "https://blog.google/technology/ai/7-ways-google-is-using-ai-to-help-solve-societys-challenges/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -477,7 +580,7 @@
       "originalUrl": "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -624,7 +727,7 @@
       "originalUrl": "https://www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -700,6 +803,59 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-how-soon-will-m3gan-become-reality-robot-ethicists-weigh-in.md",
+      "title": "How soon will M3gan become reality? Robot ethicists weigh in",
+      "excerpt": "The horror movie’s hi-tech star may be fiction, but concerns over the human relationship with AI are real",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life",
+      "originalUrl": "https://www.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8cbe1d6be565c48d135529109932104bb25ba2ae/0_0_7500_4500/master/7500.jpg?width=620&quality=85&auto=format&fit=max&s=d73b13b448bb94e1599a5791447aa36b",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life",
+      "publishedDateTime": "2023-01-16T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1099,154 +1255,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-advocates-demand-madison-square-garden-stop-using-facial-recognition.md",
-      "title": "Advocates demand Madison Square Garden stop using facial recognition",
-      "excerpt": "Lawmakers and privacy advocates are calling on James Dolan, owner of Madison Square Garden and Radio City Music Hall, to stop surveilling guests for non-security purposes.",
-      "sourceUrl": null,
-      "webUrl": "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/",
-      "originalUrl": "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pix11.com/wp-content/uploads/sites/25/2022/11/AP22318781223165.jpg?w=1280",
-          "width": 1280,
-          "height": 851,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/amp/",
-      "publishedDateTime": "2023-01-15T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pix11",
-        "domain": "pix11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-microsofts-panos-panay-teases-next-gen-ai-powered-windows-11-windows-120-0.md",
-      "title": "Microsoft's Panos Panay teases next gen AI-powered Windows 11 & Windows 120 0",
-      "excerpt": "Next-gen Windows 11 and Windows 12 OSs could be drastically different from what we have now. Senior executive of Microsoft, Panos Panay recently shared some very early details regarding this.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
-      "originalUrl": "https://www.neowin.net/news/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/01/1673818486_win_11_wallpaper_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
-      "publishedDateTime": "2023-01-15T14:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot.md",
-      "title": "ChatGBT Shows Scary Implications Of AI: Sports Owners And The Robot",
-      "excerpt": "Kind of like when you call the airline and they ask for your number and say they will text you when you are next in line.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/",
-      "originalUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c454a3ecbcbced56a44bb3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/amp/",
-      "publishedDateTime": "2023-01-15T11:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

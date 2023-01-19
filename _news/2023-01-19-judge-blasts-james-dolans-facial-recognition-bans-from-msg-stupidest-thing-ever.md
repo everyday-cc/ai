@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2023/01/18/judge-blasts-james-dolans-facial-recog
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/01/18/judge-blasts-james-dolans-facial-recognition-bans-from-msg-stupidest-thing-ever/amp/"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1024
     height: 682
     isCached: true
+
+related:
+  - title: "Judge slams James Dolan for 'totally crazy' facial recognition ban on legal foes from venues"
+    excerpt: "MSG Entertainment CEO James Dolan's use of facial recognition to ban legal foes from venues like Madison Square Garden was labeled \"totally crazy\" by a judge."
+    publishedDateTime: 2023-01-19T19:49:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/judge-slams-james-dolan-totally-crazy-use-of-facial-recognition-to-ban-opposing-lawyers-from-venues"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 8
 
 secured: "XCa89c/cOOhLEwNKwvQs5HrvbNrYKWB/k85bPYQPh6jshJYHbmEEJyfWkqspoaaTe868cI61zYPOFvKnS68pcTootrHccu3F58oVRGWlYd0MxR4V1UH+c3SJ6nZD6Ik9Zdy2yTyC/nfjh7gDSr44gUF4LMOqvi3cxiplIv6L0bf13+Dm8fITE/DdMZqynf5pzMFnV0hCf7x/JoWLsWjlgrgK3NFhE1KdSsETdHqwHSTHU2wrO12LL3rU7IMXnf9YCu8B0BU1F1qEBYYKjC6Z7fEsM6+6vLLRvzC+61OzfsRpuETeppW+U/htGV6dG2sn5PuWsKMx78y633pSwgSObqx4SXT3GzzcGD8UgN73Y7qu1sexon4AwO72B4Qt6Gz/zbVerxcaCIFUgi9OPVqNljabLwpTlOx5y9DDCgHcUjV2pIHGMX44hke/7eq+tSnTg2OjNhU44Hasm4GTEpJxJpYCbJB7F0jBY/uA2SyOaEEnnws4eFYoV1oC9HzvrkOTVvaObEhBWjQVMuvj7J9Esg==;B1+0xjguh8V+UPvSIATqOw=="
 ---

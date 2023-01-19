@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Musk oversaw video exaggerating Tesla’s self-driving capabilities"
+    excerpt: "The company’s CEO wrote to Tesla’s Autopilot team after 2 a.m. California time in October 2016 to emphasize the importance of a demonstration drive to promote the system"
+    publishedDateTime: 2023-01-19T20:50:00Z
+    webUrl: "https://www.ocregister.com/2023/01/19/musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/"
+    ampWebUrl: "https://www.ocregister.com/2023/01/19/musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/01/19/musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 59
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2023/01/OCR-Z-TESLA-MUSK.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Tesla video promoting self-driving was staged, senior engineer testifies"
     excerpt: "Video from 2016 was promoted by Elon Musk as evidence that ‘Tesla drives itself’"
     publishedDateTime: 2023-01-17T17:44:00Z
@@ -254,20 +270,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Tesla video promoting self-driving was staged, engineer testifies"
-    excerpt: "The video, which remains archived on Tesla’s website, was released in October 2016 and promoted on Twitter by CEO Elon Musk as evidence that “Tesla drives itself.”"
-    publishedDateTime: 2023-01-17T23:01:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/tesla-video-promoting-self-driving-was-staged-engineer-testifies"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/zzzztesla.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla engineer testifies 2016 self-driving video was staged"
     excerpt: "A 2016 video that purported to show the self-driving capabilities of a Tesla car was staged, a senior engineer testified."
     publishedDateTime: 2023-01-18T16:45:00Z
@@ -282,6 +284,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Musk Oversaw Video That Exaggerated Tesla’s Self-Driving, Emails Show"
+    excerpt: "Elon Musk oversaw the creation of a 2016 video that exaggerated the abilities of Tesla Inc.’s driver-assistance system Autopilot, even dictating the opening text that claimed the company’s car drove itself."
+    publishedDateTime: 2023-01-19T19:58:00Z
+    webUrl: "https://www.ttnews.com/articles/musk-oversaw-video-exaggerated-teslas-self-driving-emails-show"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 34
   - title: "Tesla Engineer Testifies: Self-Driving Video Elon Musk Promoted In 2016 Was Staged"
     excerpt: "As Tesla Inc (NASDAQ: TSLA) owners continued to wait for Elon Musk to come through on his \"full self-driving\" promise, new reports indicated fully autonomous capabilities might be further away than most thought,"
     publishedDateTime: 2023-01-17T23:04:00Z
@@ -324,6 +335,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla video promoting self-driving was staged, engineer testifies"
+    excerpt: "A 2016 video that Tesla used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior engineer."
+    publishedDateTime: 2023-01-17T21:52:00Z
+    webUrl: "https://www.aol.com/finance/tesla-video-promoting-self-driving-225249712.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
+  - title: "Tesla Engineer Says Company Staged Self-Driving Demonstration Video"
+    excerpt: "A senior Tesla engineer testified in a deposition last July that the automaker promoted its self-driving technology in a staged 2016 video. The video was then shared on Twitter by CEO Elon Musk. It remains archived on Tesla's official website."
+    publishedDateTime: 2023-01-19T20:12:00Z
+    webUrl: "https://carbuzz.com/news/tesla-engineer-says-company-staged-self-driving-demonstration-video"
+    type: article
+    provider:
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 19
 
 secured: "Bl4pnRv9RjaD0DM79QD2ipyxD0+53QFiUYl1PmGt46mOnq4rOMS3GdG2y07wwOJGjN6P5W/1iZLTI8Q4/epDneibgjhB8i3yP5kWGscSLCuh36wvEUbKzyE+rdZgMNQPBFG9U05Bfit3ZJEikIyYJpWMVua1y0D61B5dlxcJHyBGK29R/vE2Ef9aHX4Ytae49xsklQ69Ff9Tff2yRw5fO71u+/YHFjVOurkaaDMb6CZK54XRVU/FamHB6uLKCdDSA/HVCsQysLqVwsiftEe3XU92ci+cNftV6J4y2PnkktTfa+TKHfFub4Ky5RsNm88Nw+Wkvj3/AfJjx74KzxDwDwGjviX8zREvl9OaeltJ3DmNiIH4N9je+ivPBdTVjmNVFBA63XjWp8Sp6/avSXdM9X++pwffpk+FR+SOZnsVAL2WKCkkV2mOmjTpu+jlYO9iCDy66yBYcX9IeDGLQ4Qy2clxj708CXjDa2aeL3YHCz614pc9F3g0k+tWl+iaVkhwf+ckU0Z0BVAc9An9abGnBQ==;O0tubmiw0ic/+RT/CXHb+A=="
 ---

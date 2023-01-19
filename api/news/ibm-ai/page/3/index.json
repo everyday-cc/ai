@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-02-mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics.md",
+      "title": "MIT and MIT-IBM Watson AI Lab help machines see better using spatial acoustics",
+      "excerpt": "Researchers at MIT and MIT-IBM Watson AI Lab have created a technique that allows machines to better perceive their immediate environment. This is done using a machine-learning model that accurately captures the way sound interacts with an environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics-9435971.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics-9435971.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/11/MIT-Research-Sound.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics-9435971.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics-9435971.html/amp",
+      "publishedDateTime": "2022-11-02T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-ai-is-running-out-of-computing-power-ibm-says-the-answer-is-this-new-chip.md",
       "title": "AI is running out of computing power. IBM says the answer is this new chip",
       "excerpt": "The hype suggests that artificial intelligence (AI) is already everywhere, but in reality the technology that drives it is still developing. Many AI applications are powered with chips that weren't designed for AI – instead, they rely on general-purpose ...",
@@ -1356,58 +1399,6 @@
         "name": "PR Newswire",
         "domain": "prnewswire.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-ibm-advertising-accelerator-leverages-artificial-intelligence-for-optimum-viewer-engagement.md",
-      "title": "IBM Advertising Accelerator leverages artificial intelligence for optimum viewer engagement",
-      "excerpt": "Powered by IBM Watson, the accelerator will use artificial intelligence to predict the best choice of creative elements to be used in advertising that will, in turn, translate into high engagement ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/ibm-advertising-accelerator-leverages-artificial-intelligence-for-optimum-viewer-engagement/",
-      "originalUrl": "https://www.neowin.net/news/ibm-advertising-accelerator-leverages-artificial-intelligence-for-optimum-viewer-engagement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2017/03/1488544544_img_2239_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/ibm-advertising-accelerator-leverages-artificial-intelligence-for-optimum-viewer-engagement/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ibm-advertising-accelerator-leverages-artificial-intelligence-for-optimum-viewer-engagement/",
-      "publishedDateTime": "2022-09-16T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

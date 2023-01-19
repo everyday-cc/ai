@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/16/ai-do-my-home
 webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/16/ai-do-my-homework-how-chatgpt-pitted-teachers-against-tech"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI, do my homework! How ChatGPT pitted teachers against tech"
-    excerpt: "Know-it-all chatbots landed with a bang last year, convincing one engineer that machines had become sentient, spreading panic that industries could be"
-    publishedDateTime: 2023-01-15T06:18:00Z
-    webUrl: "https://www.digitaljournal.com/business/ai-do-my-homework-how-chatgpt-pitted-teachers-against-tech/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/01/417f48272db8337f0641706f22b1ac6c99009e68.jpg"
-        width: 768
-        height: 510
-        isCached: true
   - title: "AI and the future of work: 5 experts on what ChatGPT, DALL-E and other tools mean for artists and knowledge workers"
     excerpt: "Artificial intelligence researchers discuss how large language models are likely to affect these professionals, and how issues like misinformation to plagiarism could play out."
     publishedDateTime: 2023-01-19T16:01:00Z

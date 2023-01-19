@@ -320,6 +320,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
+  - title: "Azure OpenAI and ChatGPT services are now available to enterprise customers"
+    excerpt: "In a nutshell: Microsoft is opening access to machine learning-based models for Azure customers, giving businesses and enterprises the chance to employ the world's most advanced (and talked about) AI services created by OpenAI research laboratories."
+    publishedDateTime: 2023-01-19T19:55:00Z
+    webUrl: "https://www.techspot.com/news/97317-azure-openai-chatgpt-services-now-available-enterprise-customers.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 62
   - title: "Nick Cave says ChatGPT's AI attempt to write Nick Cave lyrics 'sucks'"
     excerpt: "Nick Cave has written a scathing review of an artificial intelligence system that tried to write a song \"in the style of Nick Cave\". The Bad Seeds frontman responded after a fan sent him lyrics written by ChatGPT,"
     publishedDateTime: 2023-01-17T11:47:00Z

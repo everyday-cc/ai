@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-30-can-ai-drive-more-diversity-in-drug-development.md",
+      "title": "Can AI Drive More Diversity in Drug Development?",
+      "excerpt": "“AI can help with diagnosis and risk prediction, which can mean earlier interventions,\" says Moeller, who's also vice chair of the Alliance for Artificial Intelligence in Healthcare board.",
+      "sourceUrl": null,
+      "webUrl": "https://www.webmd.com/a-to-z-guides/news/20221129/can-ai-drive-more-diversity-drug-development",
+      "originalUrl": "https://www.webmd.com/a-to-z-guides/news/20221129/can-ai-drive-more-diversity-drug-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/advances_in_treatment_of_ms_slideshow/1800ss_getty_rf_lab_research.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T11:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WebMD",
+        "domain": "webmd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-uromems-begins-first-in-human-study-of-smart-implant-for-treating-stress-urinary-incontinence.md",
       "title": "UroMems begins first-in-human study of smart implant for treating stress urinary incontinence",
       "excerpt": "UroMems announced today that it completed the first-in-human implant of its UroActive system for treating stress urinary incontinence (SUI).",
@@ -1337,60 +1380,6 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-5-jobs-that-could-be-taken-by-artificial-intelligence-in-the-next-10-years.md",
-      "title": "5 Jobs That Could Be Taken By Artificial Intelligence In The Next 10 Years",
-      "excerpt": "The thing is though, the uses of AI go much, much further than making pretty pictures. We’re seeing the use of artificial intelligence grow all the time, across all different sectors of the economy. This is likely to end up with many jobs as we know them ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637652b1faac083553360160/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/17/5-jobs-which-could-be-taken-by-artificial-intelligence-in-the-next-10-years/amp/",
-      "publishedDateTime": "2022-11-18T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos",
         "AI in Healthcare"
       ]
     }

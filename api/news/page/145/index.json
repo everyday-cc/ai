@@ -2,6 +2,188 @@
   "page": 145,
   "value": [
     {
+      "path": "_news/2022-09-12-new-study-identifies-how-memory-of-personal-interactions-declines-with-age.md",
+      "title": "New study identifies how memory of personal interactions declines with age",
+      "excerpt": "At this time, there are no medications that can prevent or reverse cognitive decline due to typical aging. \"If an older adult attends a cocktail party, afterwards they would most likely recognize ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220908172340.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220908172340.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-11T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-4-hot-takes-about-the-wild-new-world-of-generative-ai.md",
+      "title": "4 Hot Takes About The Wild New World Of Generative AI",
+      "excerpt": "Text-to-image AI models generate original images based solely on simple written inputs. Users can input any text prompt they like—say, “a cute corgi lives in a house made out of sushi”—and, as if by magic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/631cc1be4103d0cf19fe5860/0x0.jpg?format=jpg&crop=1024,576,x0,y283,safe&width=1200",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/amp/",
+      "publishedDateTime": "2022-09-11T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-3-challenges-collaborative-robots-need-to-overcome.md",
+      "title": "3 Challenges Collaborative Robots Need to Overcome",
+      "excerpt": "It addresses issues such as making sure the base knows where the robot arm is at all times. Rob Spiegel has covered automation and control for 19 years, 17 of them for Design News. Other topics he has covered include supply chain technology, alternative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/3-challenges-collaborative-robots-need-overcome",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/3-challenges-collaborative-robots-need-overcome",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Kollaborierende_Roboter_0.jpg",
+          "width": 6082,
+          "height": 4054,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-a-start-ups-evolution-from-ai-lab-to-ai-business.md",
+      "title": "A Start-up’s Evolution from AI Lab to AI Business",
+      "excerpt": "This Tokyo-based start-up has been incrementally realising the potential of AI to reshape the internet of things (IoT) – ever since shifting focus from search engines to deep learning (and dropping its original moniker, Preferred Infrastructure) ...",
+      "sourceUrl": null,
+      "webUrl": "https://knowledge.insead.edu/entrepreneurship/start-ups-evolution-ai-lab-ai-business",
+      "originalUrl": "https://knowledge.insead.edu/entrepreneurship/start-ups-evolution-ai-lab-ai-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/images/2019/11/from_ai_lab_to_ai_business.jpg?itok=RHEzbS9N",
+          "width": 1999,
+          "height": 1499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "knowledge.insead.edu",
+        "domain": "insead.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-sir-ian-mckellen-hints-memory-really-does-get-worse-with-age-mild-cognitive-decline.md",
       "title": "Sir Ian McKellen hints 'memory really does get worse' with age – mild cognitive decline",
       "excerpt": "Could McKellen be hinting towards mild cognitive impairment (MCI) or dementia? Both conditions are more likely to occur in older age. McKellen told Radio Times: \"If you were to get to the stage ...",
@@ -914,208 +1096,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws.md",
-      "title": "Build repeatable, secure, and extensible end-to-end machine learning workflows using Kubeflow on AWS",
-      "excerpt": "This is a guest blog post cowritten with athenahealth. athenahealth&nbsp;a leading provider of network-enabled software and services for medical groups and health systems nationwide. Its electronic health records, revenue cycle management, and patient engagement tools allow anytime, anywhere access,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/repeatable-secure-kubeflow.jpg",
-          "width": 1534,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T09:21:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-deep-dive-how-ai-content-generators-work.md",
-      "title": "Deep Dive: How AI content generators work",
-      "excerpt": "AI content generators cannot be subjective, no matter how great the ML training using structured data is, but their uses can be additive to marketing teams.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/",
-      "originalUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/ai-marketing-shutterstock_741922060.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deep-dive-how-ai-content-generators-work/amp/",
-      "publishedDateTime": "2022-09-09T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests.md",
-      "title": "Beyond Mere Efficiency: Artificial Intelligence is Transforming Culture, Study Suggests",
-      "excerpt": "Executives who saw significant financial benefits from their AI initiatives were 10x more likely to change how they measure success than those who saw no such benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631b608de551689b89d7038c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/amp/",
-      "publishedDateTime": "2022-09-09T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-indika-ai-bets-on-synthetic-data-to-overcome-challenges-of-real-world-data.md",
-      "title": "Indika AI bets on synthetic data to overcome challenges of real-world data",
-      "excerpt": "It is also improving fraud detection in the fintech industry and training language systems. High-quality datasets are required to train artificial intelligence (AI) solutions, so that the ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
-      "originalUrl": "https://yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/d99b1110116911ed9e63f54395117598/shutterstock1279483576-1662557345744.jpeg ",
-          "width": 5500,
-          "height": 4125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
-      "publishedDateTime": "2022-09-09T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YourStory",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -113,6 +113,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Camera Market Size and Outlook 2023 | by Product Classification, Application Areas, Manufactures and Forecast to 2028"
+    excerpt: "Jan 18, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Face Recognition Camera"
+    publishedDateTime: 2023-01-18T05:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-camera-market-size-and-outlook-2023-by-product-classification-application-areas-manufactures-and-forecast-to-2028-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
   - title: "Pet Accessories Market Set To Reach Valuation Of USD 14.77 Billion By 2029, Size, Share, Demand, Future Growth, Challenges And Competitive Analysis'"
     excerpt: "By keeping in mind the end user's point of view ... Livestock), Application (Identification & Tracking; Behaviour Monitoring & Control; Facilitation, Safety & Security; Medical Diagnosis & Treatment), End-Use (Commercial; Household), Country (U.S ..."
     publishedDateTime: 2023-01-19T09:00:00Z

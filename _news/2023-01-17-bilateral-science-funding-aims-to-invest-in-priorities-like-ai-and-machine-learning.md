@@ -41,6 +41,15 @@ related:
         width: 1524
         height: 512
         isCached: true
+  - title: "AI Passes U.S. Medical Licensing Exam"
+    excerpt: "Two artificial intelligence (AI) programs -- including ChatGPT -- have passed the U.S. Medical Licensing Examination (USMLE), according to two recent papers. The papers highlighted different approaches to using large language models to take the USMLE,"
+    publishedDateTime: 2023-01-19T21:47:00Z
+    webUrl: "https://www.medpagetoday.com/special-reports/exclusives/102705"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 21
 
 secured: "PCuR/IY9w0o0WU9KIFqhojl/OpeM9V+xvgkbayS0Zz2V9tRbbTG0ZX8wHAmDnOu3y8gaA0X9Pr5fvsPRCaMN1lb9Zab2vnijQxA5NPb394QEQ46mpOns9fuhrCG8HibU6ZDggQoRaps49S0jKiCU6GPWPIdMcP+A13piMHKTDrSYPiuYcYfToJLLOWLIgSZWspSK+tFlVc40jDS7FeVKFADKe/du6izHrvJKe+qTQgnnvxWab2B2PVH/FPttDFWj0+zw6MNZ/mBcqp7B4w0Ostuc92yx3uFzPRsTj9loE/DQQtJKitSMQUP5AwhYo5NPMfZp7EW19GtvlroFSE8v4h0J3pX6y32fHX2N1RqN/Pw=;hYiz85AtAAN0CvQYiMZaqg=="
 ---

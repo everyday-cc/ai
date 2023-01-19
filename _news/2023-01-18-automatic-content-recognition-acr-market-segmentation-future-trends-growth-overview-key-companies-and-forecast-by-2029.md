@@ -197,6 +197,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mobile Speech Recognition Software Market Share 2023 with Regional Scope, New Product Innovation, and Expansion Forecast 2029"
+    excerpt: "Global \"Mobile Speech Recognition Software Market\" Analysis and Outlook 2023| Latest Report [ No of Pages 115] In"
+    publishedDateTime: 2023-01-19T17:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-share-2023-with-regional-scope-new-product-innovation-and-expansion-forecast-2029-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
 
 secured: "RAKqOjxVssD55a3ELLstnEXk6JYsbqO5/jSP6jDxxKcnA5Vm9WsrzwjMVyy0Ho0lqj33O3sODbZ5EBajIaZXTuSVkr3/8FsQEXq3EOqDNvFvf5XgQtZwkrwA1w3vE2x72oIMtpJ8qrLiMlpn39WGLMhUezNyOL9s2gwOe2DFuvOu5o5Fnmu6tTbbDwvLBJINjcc5hPhaSW83qhiqoLpvzoFG0GKGMbV3X1nwgiQ8hHEFeAd5gGsmJHFZs6i72fqRihNUlyoRh0k/79Q+q+tC2X+KVWyPZYhfYnE1sCnRuTHV9dbx+IMKmR4s+2isysa4+f1rdpdFaA+Z8rDFHmKSOtEBDT8wMZ59H1VWostDMbM=;V17v/iOiLqyf85SSwpNQyA=="
 ---

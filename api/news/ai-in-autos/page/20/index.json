@@ -2,6 +2,40 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-09-12-insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
+      "title": "INSIGHT-Truly autonomous cars may be impossible without helpful human touch",
+      "excerpt": "Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-0",
+      "originalUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-0?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-0?amp",
+      "publishedDateTime": "2022-09-12T01:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-4-hot-takes-about-the-wild-new-world-of-generative-ai.md",
       "title": "4 Hot Takes About The Wild New World Of Generative AI",
       "excerpt": "Text-to-image AI models generate original images based solely on simple written inputs. Users can input any text prompt they like—say, “a cute corgi lives in a house made out of sushi”—and, as if by magic,",

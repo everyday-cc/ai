@@ -2,6 +2,214 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2022-10-14-can-machine-learning-help-prevent-business-email-compromise.md",
+      "title": "Can Machine Learning Help Prevent Business Email Compromise?",
+      "excerpt": "It's possible to prevent phishing and BEC, but technology can’t do it alone. Trained people and AI/ML working together as a single unified layer—not side by side—is one great way to beat the clock.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/14/can-machine-learning-help-prevent-business-email-compromise/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/14/can-machine-learning-help-prevent-business-email-compromise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620516d86fe879bdc64354fc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/14/can-machine-learning-help-prevent-business-email-compromise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/14/can-machine-learning-help-prevent-business-email-compromise/amp/",
+      "publishedDateTime": "2022-10-14T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so.md",
+      "title": "Could self-driving trucks solve the supply chain crisis? Meet the AI trailblazer who thinks so",
+      "excerpt": "Prof Raquel Urtasun is the founder of a startup at the cutting edge of driverless technology – and the University of Toronto has been the perfect incubator for her research",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so?amp;amp",
+      "originalUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so?amp;amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8d63b3b2dd2fc44b35b12a1d55829a36d4350e92/72_0_2199_1320/master/2199.jpg?width=620&quality=85&auto=format&fit=max&s=201c69131168171b858cbc90e46daa0f",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
+      "publishedDateTime": "2022-10-14T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-this-ai-based-platform-is-set-to-revolutionize-digital-health-forever.md",
+      "title": "This AI-Based Platform Is Set To Revolutionize Digital Health Forever",
+      "excerpt": "Jason Mitakidis' AI-based HealthWorks is at the forefront of developing insertable sensor technology that provides data on your body's vitals",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/lifestyle/this-ai-based-platform-is-set-to-revolutionize-digital/437237",
+      "originalUrl": "https://www.entrepreneur.com/en-in/lifestyle/this-ai-based-platform-is-set-to-revolutionize-digital/437237",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1665747791-JasonMitakidisfinal.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-14T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-artificial-intelligence-ai-market-cagr-of-556-size-share-growth-trends-industry-analysis-growth-opportunities-and-forecast-2022-to-2030.md",
+      "title": "Artificial Intelligence (AI) Market CAGR of 55.6% Size, Share, Growth, Trends, Industry Analysis, Growth Opportunities and Forecast 2022 to 2030",
+      "excerpt": "The global artificial intelligence market size is expected to reach $169,411.8 million in 2025, from $4,065.0 million in 2016 growing at a CAGR of 55.6% from 2018 to 2025. Artificial Intelligence (AI) has been one of the most progressive technologies in computer science since its introduction in the 1950s.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-cagr-of-556-size-share-growth-trends-industry-analysis-growth-opportunities-and-forecast-2022-to-2030-2022-10-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-cagr-of-556-size-share-growth-trends-industry-analysis-growth-opportunities-and-forecast-2022-to-2030-2022-10-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-14T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-the-worldwide-computer-vision-in-automatic-inspection-industry-is-projected-to-reach-3-billion-by-2027-researchandmarketscom.md",
       "title": "The Worldwide Computer Vision in Automatic Inspection Industry is Projected to Reach $3 Billion by 2027 - ResearchAndMarkets.com",
       "excerpt": "The \"Computer Vision in Automatic Inspection Market Research Report by Component (Hardware and Software), Product, Application, Vertical, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets.",
@@ -980,195 +1188,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-the-role-of-recognition-in-supporting-offline-remote-and-hybrid-employees.md",
-      "title": "The Role Of Recognition In Supporting Offline, Remote And Hybrid Employees",
-      "excerpt": "Knowing how to properly recognize employees outside of a traditional workplace setting is vital for ensuring their job satisfaction and productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/13/the-role-of-recognition-in-supporting-offline-remote-and-hybrid-employees/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/13/the-role-of-recognition-in-supporting-offline-remote-and-hybrid-employees/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/1141999796/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/13/the-role-of-recognition-in-supporting-offline-remote-and-hybrid-employees/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/10/13/the-role-of-recognition-in-supporting-offline-remote-and-hybrid-employees/amp/",
-      "publishedDateTime": "2022-10-13T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-a-remote-controlled-car-with-a-flag-on-a-pole-can-herd-cattle.md",
-      "title": "A remote-controlled car with a flag on a pole can herd cattle",
-      "excerpt": "A small remote-controlled vehicle proved effective at keeping cows away from overgrazed areas, and the animals showed few signs of fear or aggression",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2342409-a-remote-controlled-car-with-a-flag-on-a-pole-can-herd-cattle/",
-      "originalUrl": "https://www.newscientist.com/article/2342409-a-remote-controlled-car-with-a-flag-on-a-pole-can-herd-cattle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/10/13133633/SEI_129097097.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-why-vodafone-needed-an-ai-booster-to-scale-data-science.md",
-      "title": "Why Vodafone needed an AI Booster to scale data science",
-      "excerpt": "Scaling thousands of machine learning workloads led to a host of challenges that Vodafone is now solving with the help of Google Cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-vodafone-needed-an-ai-booster-to-scale-data-science/",
-      "originalUrl": "https://venturebeat.com/ai/why-vodafone-needed-an-ai-booster-to-scale-data-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-Vodafone-logo_2022_1240687862-e1665670081751.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-vodafone-needed-an-ai-booster-to-scale-data-science/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-vodafone-needed-an-ai-booster-to-scale-data-science/amp/",
-      "publishedDateTime": "2022-10-13T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-rodes-backed-ispd-launches-cognitive-science-media-agency.md",
-      "title": "Rodes-Backed ISPD Launches 'Cognitive Science' Media Agency",
-      "excerpt": "“The last two years have resulted in a massive shift in how consumers interact with brands,\" says Abramo, a veteran media-services exec with nearly a quarter century of experience at Havas Media ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/378714/rodes-backed-ispd-launches-cognitive-science-med.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/378714/rodes-backed-ispd-launches-cognitive-science-med.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2022/10/13/abramo_screen-shot-2022-10-13-at-84858-am_HEvFaag.png",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

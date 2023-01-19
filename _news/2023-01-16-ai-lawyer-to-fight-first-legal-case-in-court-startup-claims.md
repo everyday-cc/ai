@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2023/01/16/in_brief_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/01/16/in_brief_ai/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1000
     height: 667
     isCached: true
+
+related:
+  - title: "Tech startup offers £800k reward to use their robot lawyer to argue Supreme Court case"
+    excerpt: "The founder of a new startup is offering a $1million (£808,000) reward to anyone who is willing to secretly bring the company's robot lawyer into the US Supreme Court and argue their case for them. Joshua Browder,"
+    publishedDateTime: 2023-01-19T20:14:00Z
+    webUrl: "https://www.express.co.uk/news/science/1723698/robot-lawyer-technology-news-startup-do-not-pay-supreme-court-artificial-intelligence"
+    ampWebUrl: "https://www.express.co.uk/news/science/1723698/robot-lawyer-technology-news-startup-do-not-pay-supreme-court-artificial-intelligence/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1723698/robot-lawyer-technology-news-startup-do-not-pay-supreme-court-artificial-intelligence/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 51
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/Tech-startup-offers-1mn-reward-to-secretly-bring-robot-lawyer-to-argue-Supreme-Court-case-1723698.jpg?r=1674163226730"
+        width: 590
+        height: 350
+        isCached: true
 
 secured: "06RXGjNPGkt61Np5o1b6f1BIug2kZlvIG3yhM+FKOO6QjmQ/NJqTLBsjbBzy4hEtGVMylnBwMbrdnIUGDeiL/QJS90M/vFleGTiCEV8HnVTDuoWII8dfu8okcFZbRlttajLEP+8bItYktBWWKnQ8pHOhXDXrNqhxxdkr7GinLOcxXMW3xUgiYR/Jh5/Mq+u5BRrZEsIl8fpXbaXWeDxnInqLQVw2D+qP2Pfs+/j6mbS89Moq00ck0sVhTW2CZ4qbatvBedUGE8U4c45vI3I5UiiwLva9qnxuEaDsd2k8lofSdwOCxPKycRjdrI1SKXvkaWYyi4tsG8q5C+jlNaUly818L36FMg+AcBw9NFBVDoU=;fk2VOW6FR9aoQWvs3nGK1w=="
 ---

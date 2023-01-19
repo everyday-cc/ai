@@ -48,6 +48,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-18-ai-and-political-lobbying.md",
+      "title": "AI and Political Lobbying",
+      "excerpt": "Launched just weeks ago, ChatGPT is already threatening to upend how we draft everyday communications like emails, college essays and myriad other forms of writing. Created by the company OpenAI, ChatGPT is a chatbot that can automatically respond to written prompts in a manner that is sometimes eerily close to human.",
+      "sourceUrl": null,
+      "webUrl": "https://securityboulevard.com/2023/01/ai-and-political-lobbying/",
+      "originalUrl": "https://securityboulevard.com/2023/01/ai-and-political-lobbying/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securityboulevard.com/wp-content/uploads/2018/01/TwitterLogo-002.jpg",
+          "width": 1524,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://securityboulevard.com/2023/01/ai-and-political-lobbying/amp/",
+      "cdnAmpWebUrl": "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2023/01/ai-and-political-lobbying/amp/",
+      "publishedDateTime": "2023-01-18T04:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security Boulevard",
+        "domain": "securityboulevard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-18-infinite-ai-interns-for-everybody.md",
       "title": "Infinite AI Interns for Everybody",
       "excerpt": "I predict 2023 is the year that finally changes, thanks to artificial intelligence. By the end of 2023, AI will be fast becoming one of the most important factors of production in the global economy. It’s true that the history of AI is largely a history ...",
@@ -1311,51 +1354,6 @@
         "Facebook AI",
         "IBM AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-three-best-practices-for-mlai-security.md",
-      "title": "Three best practices for ML/AI security",
-      "excerpt": "Two-in-five organizations will have experienced an AI security or privacy breach, with one in four of those being adversarial attacks. Security industry watchdogs have been ringing alarm bells for years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmagazine.com/perspective/emerging-technology/three-best-practices-for-ml-ai-security",
-      "originalUrl": "https://www.scmagazine.com/perspective/emerging-technology/three-best-practices-for-ml-ai-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.scmagazine.com/wp-content/uploads/2022/07/BradleyCol-e1658956241270.jpg",
-          "width": 1280,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-21T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SC Media",
-        "domain": "scmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning",
-        "AI in Security"
       ]
     }
   ],

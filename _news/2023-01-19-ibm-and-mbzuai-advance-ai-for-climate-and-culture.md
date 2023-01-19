@@ -35,7 +35,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63c91d9baefd5d5958922d86/0x0.jpg?format=jpg&width=1200"
         width: 1023
@@ -56,6 +56,20 @@ related:
       - url: "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
         width: 735
         height: 552
+        isCached: true
+  - title: "Therapy by chatbot? The promise and challenges in using AI for mental health"
+    excerpt: "Some companies and researchers think smart computers might eventually help with provider shortages in mental health, and some consumers are already turning to chatbots to build \"emotional resilience.\""
+    publishedDateTime: 2023-01-19T14:40:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/2023-01-19/therapy-by-chatbot-the-promise-and-challenges-in-using-ai-for-mental-health"
+    type: article
+    provider:
+      name: wusfnews.wusf.usf.edu
+      domain: usf.edu
+    quality: 53
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/4bc16ea/2147483647/strip/true/crop/1916x1006+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F19%2Fchatbot-therapy_wide-b667f0335dfdad70b6cf6bfa40d9b392f61833c8.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ctq1vxdZrDhq1ufhieiYde5Cj91HcMOJ6794FHvn2hDzyV/oqm6nSdnyUKobU6MnRWqdYIVKybqi7XydnI7ips6/nFaikYZPfjYHK/nf0i2NoGvPwBXeLTqqdUThdNxursC5bd9NhCEOpymx216jjw/hu79SCi0yP5pzTRgJy5n65/Z3LZLv1qs2yjD/xZ2xp/Pbmn30PEusiwmpPAJGDmzb4dPbVR/doH5I7V4ekFtGdeLjjMZ7Ksp1zvRsXdd6WFo1sqBKg9eJzuur5ml6efOJ+KxBCh75xegPDYt0pyx4iOSARsk5EcbT75PWxikJFIjrdPMb0G+tE1nlemfqADssEXGVe2gsAT+G2xKXtKQ=;7LJA4YOw66n1BiyJM0a1lQ=="

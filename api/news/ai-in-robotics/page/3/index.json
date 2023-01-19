@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-19-this-mechanical-engineer-is-building-robots-to-harvest-raspberries.md",
+      "title": "This mechanical engineer is building robots to harvest raspberries",
+      "excerpt": "Mechanical engineer Josie Hughes is on a mission to show how robotics can play a role in our everyday lives, particularly when it comes to food. Starting with LEGO robots as a child, the Cambridge graduate now leads the Computational Robot Design & Fabrication Lab (CREATE) at the Swiss Federal Institute of Technology Lausanne (EPFL),",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/12/19/world/raspberry-harvest-robot-josie-hughes-hnk-spc-intl/index.html",
+      "originalUrl": "https://www.cnn.com/2022/12/19/world/raspberry-harvest-robot-josie-hughes-hnk-spc-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221215134817-03-josie-hughes-raspberry-robot-t4g-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/12/19/world/raspberry-harvest-robot-josie-hughes-hnk-spc-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/19/world/raspberry-harvest-robot-josie-hughes-hnk-spc-intl/index.html",
+      "publishedDateTime": "2022-12-18T23:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-19-stereolabs-launches-3d-robot-camera.md",
       "title": "Stereolabs Launches 3D Robot Camera",
       "excerpt": "the ZED-X is built for production-scale deployments of autonomous robots under rugged conditions. With the ZED SDK and the ZED Hub multi-camera control platform, the ZED-X delivers capabilities ...",
@@ -1270,49 +1322,6 @@
       "provider": {
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-11-machine-made-biryani-how-robotics-and-automation-is-taking-over-cloud-kitchens-in-india.md",
-      "title": "Machine-made biryani? How robotics and automation is taking over cloud kitchens in India",
-      "excerpt": "The last biryani that you ordered in was perhaps made by a machine and not a cook. Shocked? Don’t be. Most cloud kitchens and restaurant chains are increasingly relying on machines to prepare ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/machine-made-biryani-how-robotics-and-automation-is-taking-over-cloud-kitchens-in-india-9667741.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/machine-made-biryani-how-robotics-and-automation-is-taking-over-cloud-kitchens-in-india-9667741.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/12/Machine-Kitchen-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/machine-made-biryani-how-robotics-and-automation-is-taking-over-cloud-kitchens-in-india-9667741.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/machine-made-biryani-how-robotics-and-automation-is-taking-over-cloud-kitchens-in-india-9667741.html/amp",
-      "publishedDateTime": "2022-12-11T00:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
         "images": null,
         "publishers": null,
         "authors": null

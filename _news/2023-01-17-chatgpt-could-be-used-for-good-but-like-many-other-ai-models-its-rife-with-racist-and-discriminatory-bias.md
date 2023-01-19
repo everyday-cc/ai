@@ -75,6 +75,22 @@ related:
         width: 948
         height: 532
         isCached: true
+  - title: "AI Tools Like ChatGPT May Reshape Teaching Materials — And Possibly Substitute Teach"
+    excerpt: "This summer, a coding class offered by a private school in Austin, Texas, was led by an unusual teacher. The PreK-8 school, Paragon Prep, offered a"
+    publishedDateTime: 2023-01-19T21:19:00Z
+    webUrl: "https://www.edsurge.com/news/2023-01-19-ai-tools-like-chatgpt-may-reshape-teaching-materials-and-possibly-substitute-teach"
+    ampWebUrl: "https://www.edsurge.com/amp/news/2023-01-19-ai-tools-like-chatgpt-may-reshape-teaching-materials-and-possibly-substitute-teach"
+    cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2023-01-19-ai-tools-like-chatgpt-may-reshape-teaching-materials-and-possibly-substitute-teach"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 50
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/15165/robot_and_human_together-1674149694.png?auto=compress%2Cformat&w=640&h=259&fit=crop"
+        width: 640
+        height: 259
+        isCached: true
 
 secured: "APSyqzkthY9890Yh5QgoWsWtBphQ9lNTze8U5v3Q+co06h/HufH6zBzhRA7s6OZ8OutEqs+1r5OZkLMlEh+2W61/9fPdPWnbKnoaLq3Oos4j8beOBPUb72k6yJpmLoToIoOt8zq++pjRVboepBX2N6W6rZ6nzCTvBJAqy4vEUhOp036DVOqtBaO+RnPnywlZviTx9lNcwL6epZd/TQzdquTNZH0AW6H1DseMNSJ63rgtxeLk4YVM62PzqXyistkR9/ASMaLY4mJyskkLpoQu9N/7faW32nyY42BsxUPjFTPe2/ZlxRJgrd2ul9N907Fm07edEx929VhSu+NUDv6x0k4Pj8doC0shlnmg092aRsx/mw36s/yKmioex/snOT8953BertKs9IYvNxuZ6X+OzsD5FQ7t6v8Kd3bWoXkcP1rzAHySnag8MtQr0pHOLie4oUcNkuVKpyyXlM43iBkKTP+1Q/4MpTGdLrQCcYzo8FGq6HWwT0KEp5+5DarUDkeYGYAKgyyRbutQ4MX1X8ZdDw==;pUYBK5UFm3ugeuPhzGL1og=="
 ---

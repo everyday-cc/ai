@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-19T19:34:00Z
 originalUrl: "https://www.chicagotribune.com/opinion/commentary/ct-opinion-baseball-hall-of-fame-selection-artificial-intelligence-20230119-nk6eb6jklfeehj3nc2x3dlkmjm-story.html"
 webUrl: "https://www.chicagotribune.com/opinion/commentary/ct-opinion-baseball-hall-of-fame-selection-artificial-intelligence-20230119-nk6eb6jklfeehj3nc2x3dlkmjm-story.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Chicago Tribune

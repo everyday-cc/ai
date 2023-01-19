@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-10-19-11-new-deaths-tied-to-semi-autonomous-driving-systems.md",
+      "title": "11 new deaths tied to semi-autonomous driving systems",
+      "excerpt": "NHTSA has added 11 new deaths to a growing list of fatalities tied to the use of semi-automated driving systems that have occurred this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems",
+      "originalUrl": "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/1200/675/traffic.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems.amp",
+      "publishedDateTime": "2022-10-18T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-17-driverless-in-phoenix-and-gm-takes-its-ev-offensive-beyond-vehicles.md",
       "title": "Driverless in Phoenix and GM takes its EV offensive beyond vehicles",
       "excerpt": "It’s been a minute since I took a driverless ride in a Waymo. And the last time it was a Chrysler Pacifica. This time, I took a spin in downtown Phoenix in a driverless Jaguar I-Pace (sans human ...",
@@ -1335,59 +1387,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-autonomous-delivery-robots-the-precursor-to-self-driving-cars.md",
-      "title": "Autonomous Delivery Robots: The Precursor To Self-Driving Cars",
-      "excerpt": "Although widespread use of self-driving cars is still years away, autonomous delivery robots may be helping to pave the way toward quicker commercial implementation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/autonomous-delivery-robots-the-precursor-to-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/autonomous-delivery-robots-the-precursor-to-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634028fd5ebb205248de06a9/0x0.jpg?format=jpg&crop=4735,2664,x0,y351,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/autonomous-delivery-robots-the-precursor-to-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/10/autonomous-delivery-robots-the-precursor-to-self-driving-cars/amp/",
-      "publishedDateTime": "2022-10-10T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

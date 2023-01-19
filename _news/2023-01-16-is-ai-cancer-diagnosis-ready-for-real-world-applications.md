@@ -35,7 +35,7 @@ related:
     provider:
       name: Crude Oil Prices
       domain: oilprice.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-01-18_feepyk1js4.jpg"
         width: 718

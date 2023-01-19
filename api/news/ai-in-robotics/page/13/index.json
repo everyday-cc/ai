@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-09-29-ai-powered-robots-have-become-nice-to-necessity-for-warehousing-automation.md",
+      "title": "AI-powered Robots Have Become Nice To Necessity For Warehousing Automation",
+      "excerpt": "AI-powered robots are based on the principles of human intelligence are defined as the way in which machines imitate human intelligence to perform simple and complex tasks",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/technology/ai-powered-robots-have-become-nice-to-necessity-for/436278",
+      "originalUrl": "https://www.entrepreneur.com/en-in/technology/ai-powered-robots-have-become-nice-to-necessity-for/436278",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1664430293-Untitleddesign-2022-09-29T111421176.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-bioinspired-robots-walk-swim-slither-and-fly.md",
       "title": "Bioinspired robots walk, swim, slither and fly",
       "excerpt": "Part of Nature Outlook: Robotics and artificial intelligence Her mind returned to those curious ... Now Kim is developing control software that he hopes will allow the robot to move smoothly ...",
@@ -1341,50 +1393,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-lets-investigate-a-way-to-invest-in-artificial-intelligence-and-robotics.md",
-      "title": "Let's Investigate a Way to Invest in Artificial Intelligence and Robotics",
-      "excerpt": "A Real Money subscriber wants to be involved with robotics and artificial intelligence in the years to come but doesn't believe he is a good stock picker. So what should he do? Let's check out the charts of the Global X Robotics & Artificial Intelligence ETF (BOTZ) .",
-      "sourceUrl": null,
-      "webUrl": "https://realmoney.thestreet.com/investing/ets/artificial-intelligence-and-robotics-etf-botz-16102690",
-      "originalUrl": "https://realmoney.thestreet.com/investing/ets/artificial-intelligence-and-robotics-etf-botz-16102690",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/4c810e48-a47e-11e7-be5b-71dfc49c8ace.png",
-          "width": 1152,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T11:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

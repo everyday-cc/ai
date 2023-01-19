@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-19T19:11:00Z
 originalUrl: "https://www.chron.com/business/article/AI-tools-can-create-new-images-but-who-is-the-17727671.php"
 webUrl: "https://www.chron.com/business/article/AI-tools-can-create-new-images-but-who-is-the-17727671.php"
 type: article
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: Houston Chronicle
@@ -14,6 +17,39 @@ provider:
 topics:
   - AI
 
-secured: "sltyZLvbCApD96Fh52QQ3e6a8/PEDDncsi+k4DRRQ36T0hHk9q+Nm2QtY86kqxLsUTh7PAxJNSieJmaUbcZBiaBOscQmUaQ1imWuvIs10NKLL/VSMmVkPTdYFdyaJfRF3NqVDk6An/q8lThhS/6W3/FXnQT8i3oCpM1eQsTMiGvz5V2ckLy4+HLwlOjYr95JuDlB1hC0nCglyqqeg4BAIZofopRtetOloABimB8vMbHLWPIjNIG1CA488qGjWF5Ulg+CYJPhlqOVhAqg1gzkREDQs28LUny7EHzJj3hg/VY7ThAzR2L3ECsuZeIuM7KDjEfBMYWsfIMNgwtQVzxBGc7L1YKwcyJDlIY0F0eJUcu+MJc2/FIszuZ5k/VM80JrR0FoUZgRqSIQ/jxrWlFhUIGHSmwd8uKTeCLbtf94OSyuXlrdlykR37dojYZnufBL/t3IAPXmMjcnAp9WHud1EqAd/z3rpOOW7k8r6t9Wbd35i9uQKZdZHoy43Z+IJpJg6/VwToM8GhW1iwXvytn8Ww==;0K/epNnPrVQGfi7tK98J+g=="
+related:
+  - title: "Artificial intelligence turns its artistry to creating human proteins"
+    excerpt: "Last spring, an artificial intelligence lab called OpenAI unveiled technology that lets you create digital images simply by describing what you want to see. Called DALL-E, it sparked a wave of ..."
+    publishedDateTime: 2023-01-17T01:21:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 43
+  - title: "Artificial intelligence intelligence turns its artistry to creating human proteins"
+    excerpt: "Scientists hope AI can help them develop new cancer treatment, a new flu vaccine or a new pill that helps you digest gluten."
+    publishedDateTime: 2023-01-16T13:00:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 35
+  - title: "AI tools can create new images, but who is the real artist?"
+    excerpt: "Countless artists have taken inspiration from “The Starry Night” since Vincent Van Gogh painted the swirling scene in 1889. Now artificial intelligence systems are doing the same, training themselves on a vast collection of digitized artworks to produce new images you can conjure in seconds from a smartphone app."
+    publishedDateTime: 2023-01-19T14:07:00Z
+    webUrl: "https://apnews.com/article/technology-science-entertainment-photography-visual-arts-1c6d9e0e260e2d135a3e3bf98d5493df"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+
+secured: "zSGMomWrGtfnTqNXn5J5rQAJWUpu3zINljK4xF8zK+lThkDNJVrMstLhoYcWVqHyLqfMx+o8tki33He1YAItXJ04MB5tDili2miivEA243a2Nc06OP53vXEDaUHXe8tMD//MvQ3xV7Bl7xvHR1hsktSJYrZpziMjCp8aRh2Wb1n/2awzAyT7g+k5qOpUOAM0cDRZv9HHEIMxYb3kcweo+eE1TUenzCKKb3xbYHOpmvpnYKU/HG07M2T6cHvpBYJ6qnxX+f9AJ9hFPQVorm0so8/q5oXYR3jrL6lYej7vGUQiL/tsvmcLDQhzXNEF3oUpsR077sALwtOPzct3UnoUFA0TItwOppxp4E3EXJp8F3p/NNrqJADVNJHnhDcS7I4dPOut1/1+1xqU9A+8Svec4TEB5CUX9U2AzRo4vKedJxVpIvfIWr9MkePCPxMPwlmPH0uQk3RzSJPniWTs1pKhJCEsWjeVA7iNDtLrYMlqkbePFzeWCvvhGK3i8fmumfiJkHDy1+E0NDiOR+o8KIPfUw==;C9nHQaGeYmhEP9GzGOP2wg=="
 ---
 

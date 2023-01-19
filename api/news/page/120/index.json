@@ -2,6 +2,201 @@
   "page": 120,
   "value": [
     {
+      "path": "_news/2022-09-30-tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work.md",
+      "title": "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot, Self Driving Car Work",
+      "excerpt": "There, too, Tesla developed custom AI chips. \"Tesla's inference engine is among the best in performance..., giving them a real advantage,\" said Keith McMillen, CEO of BeBop Sensors, a startup designing touch sensors robots can use. FSD, short for Full ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 643,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
+      "publishedDateTime": "2022-09-30T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-amazon-vp-explains-how-to-move-past-limits-of-machine-learning.md",
+      "title": "Amazon VP explains how to move past limits of machine learning",
+      "excerpt": "Many companies believe machine learning is the solution to their problems, but it can’t overcome bad data and metrics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning",
+      "originalUrl": "https://www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2022/09/Amazons-Matt-Taddy.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning/amp",
+      "publishedDateTime": "2022-09-30T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-alphasoc-announces-industry-first-cloud-native-network-traffic-analysis-product-to-identify-compromised-workloads-across-popular-cloud-platforms.md",
+      "title": "AlphaSOC Announces Industry-First Cloud-Native Network Traffic Analysis Product to Identify Compromised Workloads Across Popular Cloud Platforms",
+      "excerpt": "AlphaSOC, Inc., the Security Analytics Company, today announced its new AlphaSOC Analytics Engine (AE) solution, a differentiated cloud-native network traffic analysis (NTA) product that uniquely identifies compromised workloads across Amazon Web Services,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/09/30/9684060.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/09/30/9684060.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
+          "width": 476,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-10-top-artificial-intelligence-ai-applications-in-healthcare.md",
+      "title": "10 top artificial intelligence (AI) applications in healthcare",
+      "excerpt": "As AI continues to be applied across the healthcare spectrum — from administration to patient interaction and medical research, diagnosis and treatment — here's how it's making an impact.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/",
+      "originalUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/Zebra-Medical-FDA-approval-AI-heart-disease.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/",
+      "publishedDateTime": "2022-09-30T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030.md",
       "title": "Facial Recognition Market 2022 | Business Overview, New Trends, Growth Analysis, And Forecast To 2030",
       "excerpt": "Key Companies Covered in the Facial Recognition Market Research are International Business Machines Corporation (IBM), Aware, Inc., 3M, NEC Corporation, Cognitec Systems GmbH, Daon Crossmatch, Nuance Communications Inc.",
@@ -990,186 +1185,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-amazons-ambient-intelligence-is-a-cozy-way-to-say-home-surveillance.md",
-      "title": "Amazon's 'ambient intelligence' is a cozy way to say home surveillance",
-      "excerpt": "Amazon laid out its vision for “ambient intelligence” (an obvious play on artificial intelligence), a term the company has used since at least 2021. Here’s what Amazon meant by that at the time.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/amazon-alexa-ambient-intelligence-surveillance",
-      "originalUrl": "https://mashable.com/article/amazon-alexa-ambient-intelligence-surveillance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-as-extreme-weather-events-worsen-7analytics-meshes-ai-and-big-data-to-predict-flooding.md",
-      "title": "As extreme weather events worsen, 7Analytics meshes AI and big data to predict flooding",
-      "excerpt": "Analytics was founded by data scientists and geologists to help reduce the risks of flooding, harnessing the power of AI, ML, and big data.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/29/as-extreme-weather-events-worsen-7analytics-meshes-ai-and-big-data-to-predict-flooding/",
-      "originalUrl": "https://techcrunch.com/2022/09/29/as-extreme-weather-events-worsen-7analytics-meshes-ai-and-big-data-to-predict-flooding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1199168364.jpg?resize=1200,400",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/29/as-extreme-weather-events-worsen-7analytics-meshes-ai-and-big-data-to-predict-flooding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/29/as-extreme-weather-events-worsen-7analytics-meshes-ai-and-big-data-to-predict-flooding/amp/",
-      "publishedDateTime": "2022-09-29T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-fda-clears-next-gen-deep-learning-mri-software-from-ge-healthcare.md",
-      "title": "FDA clears next-gen deep learning MRI software from GE Healthcare",
-      "excerpt": "GE Healthcare (NYSE:GE) announced today that it received FDA 510(k) clearance for its AIR Recon DL for 3D and Propeller imaging sequences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.massdevice.com/fda-clears-ge-healthcare-deep-learning-mri-software/",
-      "originalUrl": "https://www.massdevice.com/fda-clears-ge-healthcare-deep-learning-mri-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.massdevice.com/wp-content/uploads/2022/09/GE-Healthcare-AIR-Recon-DL-MRI.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassDevice",
-        "domain": "massdevice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-us-fintech-synapse-expands-in-brazil-looks-to-latam-india-ceo.md",
-      "title": "U.S. fintech Synapse expands in Brazil, looks to Latam, India- CEO",
-      "excerpt": "SAO PAULO, Sept 29 (Reuters) - U.S. fintech Synapse is close to reaching ... faced one question at the company's 'AI Day' event on Friday that momentarily stumped him. Technology Robinhood to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/us-fintech-synapse-expands-brazil-looks-latam-india-ceo-2022-09-29/",
-      "originalUrl": "https://www.reuters.com/technology/us-fintech-synapse-expands-brazil-looks-latam-india-ceo-2022-09-29/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=114",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

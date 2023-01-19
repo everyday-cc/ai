@@ -2,6 +2,190 @@
   "page": 147,
   "value": [
     {
+      "path": "_news/2022-09-09-boston-startup-gets-new-money-to-make-industrial-robots-easier-to-use.md",
+      "title": "Boston startup gets new money to make industrial robots easier to use",
+      "excerpt": "Although Konidaris got his doctorate in computer science at UMass Amherst and spent several years at MIT’s Artificial Intelligence ... But when it was time to start a company, Konidaris returned ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2022/09/08/business/boston-startup-choreographing-robots-gets-new-money/",
+      "originalUrl": "https://www.bostonglobe.com/2022/09/08/business/boston-startup-choreographing-robots-gets-new-money/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/1uiaMUlvHKlDkbUjgxnww4WKfBg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/5TM44GFYIFJ6FRS7O4WSMG252A.JPG",
+          "width": 506,
+          "height": 269,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-decis-natural-language-processing-nlp-model-achieves-breakthrough-performance-at-mlperf.md",
+      "title": "Deci's Natural Language Processing (NLP) Model Achieves Breakthrough Performance at MLPerf",
+      "excerpt": "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build better AI, announced results for its Natural Language Processing (NLP) inference model submitted to the MLPerf Inference v2.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/09/08/9670227.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/09/08/9670227.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1893621/Deci_Throughput_Infographic.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-el-paso-artist-diego-robot-martinezs-exhibition-explores-peace-love-dope-death.md",
+      "title": "El Paso artist Diego 'Robot' Martinez's exhibition explores 'Peace Love Dope Death'",
+      "excerpt": "Diego \"Robot\" Martinez's art show, “Peace Love Dope Death,” will be from 6 to 11 p.m. Friday through Sunday, with food trucks, a light show and music.",
+      "sourceUrl": null,
+      "webUrl": "https://www.elpasotimes.com/story/entertainment/things-to-do/2022/09/08/el-paso-artist-diego-robot-martinez-exhibit-explores-peace-love-dope-death/66257047007/",
+      "originalUrl": "https://www.elpasotimes.com/story/entertainment/things-to-do/2022/09/08/el-paso-artist-diego-robot-martinez-exhibit-explores-peace-love-dope-death/66257047007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2022/09/08/PTX1/ecba9216-b0f4-4f7c-8093-9caa2a5365f5-1EF2C7B2-D415-4D1E-9BDE-DFF647CED2DF.jpeg?auto=webp&crop=4031,2268,x0,y143&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "El Paso Times",
+        "domain": "elpasotimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-ai-native-tech-startups-can-weather-an-economic-nuclear-winter.md",
+      "title": "AI-native tech startups can weather an economic nuclear winter",
+      "excerpt": "By being careful and strategic, AI-Native companies will be poised to emerge strong and healthy — and even grow — from a downturn.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/",
+      "originalUrl": "https://venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281732617.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/amp/",
+      "publishedDateTime": "2022-09-08T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-mlcommons-releases-new-benchmarks-to-boost-ml-performance.md",
       "title": "MLCommons releases new benchmarks to boost ML performance",
       "excerpt": "MLCommons just released new benchmarks for its latest update, with new ML models and a new testing division for inference over the network.",
@@ -979,204 +1163,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-report-data-access-hurdles-affect-ai-adoption-for-71-of-enterprises.md",
-      "title": "Report: Data access hurdles affect AI adoption for 71% of enterprises",
-      "excerpt": "A new survey conducted by Fivetran shows that 71% of enterprises still struggle to access all the data needed for AI projects.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/report-data-access-hurdles-affect-ai-adoption-for-71-of-enterprises/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/report-data-access-hurdles-affect-ai-adoption-for-71-of-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1401124210-Thinkhubstudio.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/report-data-access-hurdles-affect-ai-adoption-for-71-of-enterprises/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/report-data-access-hurdles-affect-ai-adoption-for-71-of-enterprises/amp/",
-      "publishedDateTime": "2022-09-08T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-ai-and-ccaas-help-marshall-mclennan-and-mckesson-build-business-efficiencies.md",
-      "title": "AI And CCaaS Help Marshall McLennan And McKesson Build Business Efficiencies",
-      "excerpt": "Firms have a pressing need to enhance their digital sales and support solutions to address new customer demands. Businesses look to AI and CCaaS to support these efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/maribellopez/2022/09/08/ai-and-ccaas-help-marshall-mclennan-and-mckesson-build-business-efficiencies/",
-      "originalUrl": "https://www.forbes.com/sites/maribellopez/2022/09/08/ai-and-ccaas-help-marshall-mclennan-and-mckesson-build-business-efficiencies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6317bd9c58a90f2c25213eba/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2022/09/08/ai-and-ccaas-help-marshall-mclennan-and-mckesson-build-business-efficiencies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2022/09/08/ai-and-ccaas-help-marshall-mclennan-and-mckesson-build-business-efficiencies/amp/",
-      "publishedDateTime": "2022-09-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-robot-software-market-research-insights-with-upcoming-trends-opportunities-competitive-analysis-forecast-to-2022-2031.md",
-      "title": "Robot Software Market Research Insights with Upcoming Trends, Opportunities, Competitive Analysis, Forecast to 2022-2031",
-      "excerpt": "Increasing adoption of Internet of Things (IoT) and Artificial Intelligence (AI) is the key driver for the growth of the robot software market The robot software market size is expected to grow from USD 1,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/robot-software-market-research-insights-with-upcoming-trends-opportunities-competitive-analysis-forecast-to-2022-2031-2022-09-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/robot-software-market-research-insights-with-upcoming-trends-opportunities-competitive-analysis-forecast-to-2022-2031-2022-09-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-edge-ai-processor-market-is-expected-to-reach-55-billion-rising-at-a-growth-of-153-cagr-during-the-forecast-period.md",
-      "title": "Edge AI Processor Market is expected to reach $5.5 billion & rising at a growth of 15.3% CAGR during the forecast period",
-      "excerpt": "The Global Edge AI Processor Market size is expected to reach $5.5 billion by 2028, rising at a market growth of 15.3% CAGR during the forecast period. Global Edge AI Processor Market Size, Share & Industry Trends Analysis Report By Type (Central Processing Unit (CPU),",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-processor-market-is-expected-to-reach-55-billion-rising-at-a-growth-of-153-cagr-during-the-forecast-period-2022-09-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-processor-market-is-expected-to-reach-55-billion-rising-at-a-growth-of-153-cagr-during-the-forecast-period-2022-09-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

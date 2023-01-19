@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-11-16-cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours.md",
+      "title": "Cruise has expanded its driverless robotaxi service to daytime hours",
+      "excerpt": "Cruise is expanding its driverless ride-hailing service in San Francisco to daytime hours, Cruise CEO Kyle Vogt tweeted Wednesday. The robotaxi service is now available to employees 24 hours a day.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/",
+      "originalUrl": "https://techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/Cruise_700848.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/amp/",
+      "publishedDateTime": "2022-11-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-why-artificial-intelligence-is-taking-over-contact-centers.md",
       "title": "Why Artificial Intelligence Is Taking Over Contact Centers",
       "excerpt": "Businesses with contact centers increasingly are striving to find ways to improve customer experience while reducing costs and the burden on employees. Enter artificial intelligence, which can help contact center agents respond to customers faster and be more productive while improving customer experience.",
@@ -1284,40 +1336,6 @@
       "provider": {
         "name": "Consumer Reports",
         "domain": "consumerreports.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-627-million-in-federal-funding-will-help-pittsburgh-grow-its-autonomy-sector.md",
-      "title": "$62.7 million in federal funding will help Pittsburgh grow its autonomy sector",
-      "excerpt": "RIDC, an economic development nonprofit whose properties are home to numerous leaders in autonomous technology, artificial intelligence and robotics ... The joint testing facility, driverless car legislation, a recent reduction in Pennsylvania’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/austin/news/2022/11/07/funding-will-help-pittsburgh-grow-autonomy-sector.html",
-      "originalUrl": "https://www.bizjournals.com/austin/news/2022/11/07/funding-will-help-pittsburgh-grow-autonomy-sector.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
         "images": null,
         "publishers": null,
         "authors": null

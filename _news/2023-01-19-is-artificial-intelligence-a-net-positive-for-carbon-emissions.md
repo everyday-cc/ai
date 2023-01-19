@@ -8,8 +8,8 @@ webUrl: "https://oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A
 ampWebUrl: "https://oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A-Net-Positive-For-Carbon-Emissions.amp.html"
 cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A-Net-Positive-For-Carbon-Emissions.amp.html"
 type: article
-quality: 57
-heat: 78
+quality: 59
+heat: 80
 published: true
 
 provider:

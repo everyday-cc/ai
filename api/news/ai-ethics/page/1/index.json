@@ -153,6 +153,59 @@
       ]
     },
     {
+      "path": "_news/2023-01-16-how-soon-will-m3gan-become-reality-robot-ethicists-weigh-in.md",
+      "title": "How soon will M3gan become reality? Robot ethicists weigh in",
+      "excerpt": "The horror movie’s hi-tech star may be fiction, but concerns over the human relationship with AI are real",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life",
+      "originalUrl": "https://www.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8cbe1d6be565c48d135529109932104bb25ba2ae/0_0_7500_4500/master/7500.jpg?width=620&quality=85&auto=format&fit=max&s=d73b13b448bb94e1599a5791447aa36b",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life",
+      "publishedDateTime": "2023-01-16T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-01-15-role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny.md",
       "title": "Role Playing Via Generative AI ChatGPT Conjures Up Mental Health Questions, Stirring AI Ethics And AI Law Scrutiny",
       "excerpt": "On a markedly relevant basis, these hefty matters bring forth some significant issues underlying AI Ethics and AI Law. Should AI developers be employing appropriate Ethical AI precautions when devising generative AI that can seemingly engage vividly in ...",
@@ -161,7 +214,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1336,49 +1389,6 @@
       "provider": {
         "name": "UNESCO",
         "domain": "unesco.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-its-not-just-fun-lensa-ai-portrait-app-raises-ethical-privacy-concerns.md",
-      "title": "'It's not just fun': Lensa AI portrait app raises ethical, privacy concerns",
-      "excerpt": "Magic avatars' are the latest internet craze, but one expert says individuals uploading photos of themselves onto the Lensa AI portrait app may not be aware of the ethical and privacy concerns involved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/sci-tech/it-s-not-just-fun-lensa-ai-portrait-app-raises-ethical-privacy-concerns-1.6190874",
-      "originalUrl": "https://www.ctvnews.ca/sci-tech/it-s-not-just-fun-lensa-ai-portrait-app-raises-ethical-privacy-concerns-1.6190874",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/12/12/2582392/_jcr_content/renditions/videothumbnail.1670858793517.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2022/12/12/1_6190874.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2022/12/12/1_6190874.amp.html",
-      "publishedDateTime": "2022-12-12T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
         "images": null,
         "publishers": null,
         "authors": null

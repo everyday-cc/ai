@@ -2,6 +2,154 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-16-advocates-demand-madison-square-garden-stop-using-facial-recognition.md",
+      "title": "Advocates demand Madison Square Garden stop using facial recognition",
+      "excerpt": "Lawmakers and privacy advocates are calling on James Dolan, owner of Madison Square Garden and Radio City Music Hall, to stop surveilling guests for non-security purposes.",
+      "sourceUrl": null,
+      "webUrl": "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/",
+      "originalUrl": "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pix11.com/wp-content/uploads/sites/25/2022/11/AP22318781223165.jpg?w=1280",
+          "width": 1280,
+          "height": 851,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/amp/",
+      "publishedDateTime": "2023-01-15T15:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pix11",
+        "domain": "pix11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-microsofts-panos-panay-teases-next-gen-ai-powered-windows-11-windows-120-0.md",
+      "title": "Microsoft's Panos Panay teases next gen AI-powered Windows 11 & Windows 120 0",
+      "excerpt": "Next-gen Windows 11 and Windows 12 OSs could be drastically different from what we have now. Senior executive of Microsoft, Panos Panay recently shared some very early details regarding this.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
+      "originalUrl": "https://www.neowin.net/news/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/01/1673818486_win_11_wallpaper_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
+      "publishedDateTime": "2023-01-15T14:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot.md",
+      "title": "ChatGBT Shows Scary Implications Of AI: Sports Owners And The Robot",
+      "excerpt": "Kind of like when you call the airline and they ask for your number and say they will text you when you are next in line.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/",
+      "originalUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c454a3ecbcbced56a44bb3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/amp/",
+      "publishedDateTime": "2023-01-15T11:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-01-16-has-nvidia-won-the-ai-training-market.md",
       "title": "Has Nvidia won the AI training market?",
       "excerpt": "AI chips serve two functions. AI builders first take a large (or truly massive) set of data and run complex software to look for patterns in",
@@ -158,7 +306,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -301,6 +449,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-15-machine-machinations-how-tech-remains-both-a-divisive-and-unifying-force-can-be-disturbing.md",
+      "title": "Machine machinations: How tech remains both a divisive and unifying force can be disturbing",
+      "excerpt": "The Equality Machine is a disturbing book. On the one hand, it tells you about the wonders that artificial intelligence and machine learning can ... supplying goods and services free of cost ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/lifestyle/machine-machinations-how-tech-remains-both-a-divisive-and-unifying-force-can-be-disturbing/2948383/",
+      "originalUrl": "https://www.financialexpress.com/lifestyle/machine-machinations-how-tech-remains-both-a-divisive-and-unifying-force-can-be-disturbing/2948383/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-14T21:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -1050,208 +1232,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-leveraging-artificial-intelligence-and-machine-learning-at-parsons-with-aws-deepracer.md",
-      "title": "Leveraging artificial intelligence and machine learning at Parsons with AWS DeepRacer",
-      "excerpt": "This post is co-written with&nbsp;Jennifer Bergstrom, Sr. Technical Director, ParsonsX. Parsons Corporation (NYSE:PSN) is a leading disruptive technology company in critical infrastructure, national defense, space, intelligence, and security markets providing solutions across the globe to help make the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/leveraging-artificial-intelligence-and-machine-learning-at-parsons-with-aws-deepracer/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/leveraging-artificial-intelligence-and-machine-learning-at-parsons-with-aws-deepracer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/13/parsons-deepracer.jpg",
-          "width": 1561,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T15:46:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-singapore-debuts-ethics-test-for-ai.md",
-      "title": "Singapore debuts ethics test for AI",
-      "excerpt": "Singapore leaders have committed to building an AI governance testing framework and tools against which they can compare their algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202301/singapore-debuts-ethics-test-for-ai",
-      "originalUrl": "https://www.biometricupdate.com/202301/singapore-debuts-ethics-test-for-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/28170217/responsible-ai-scaled.jpg",
-          "width": 2048,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T15:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-top-ai-startup-news-of-the-week-instadeep-deepl-pachyderm-and-more.md",
-      "title": "Top AI startup news of the week: InstaDeep, DeepL, Pachyderm and more",
-      "excerpt": "There were key AI startup acquisitions this week, as well as new funding in a variety of sectors. Here are six companies that made headlines.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-instadeep-deepl-pachyderm-and-more/",
-      "originalUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-instadeep-deepl-pachyderm-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1203833695.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-instadeep-deepl-pachyderm-and-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-ai-startup-news-of-the-week-instadeep-deepl-pachyderm-and-more/amp/",
-      "publishedDateTime": "2023-01-13T15:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-tech-gets-religion-on-ai-inside-the-vatican-summit-with-islamic-and-jewish-leaders-microsoft-and-ibm.md",
-      "title": "Tech gets religion on AI: Inside the Vatican summit with Islamic and Jewish leaders, Microsoft and IBM",
-      "excerpt": "It’s unusual for tech executives and religious leaders to get together to discuss their shared interests and goals for the future of humanity and the planet. It’s even more extraordinary… Read More",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/tech-gets-religion-on-ai-inside-the-vatican-summit-with-islamic-and-jewish-leaders-microsoft-and-ibm/",
-      "originalUrl": "https://www.geekwire.com/2023/tech-gets-religion-on-ai-inside-the-vatican-summit-with-islamic-and-jewish-leaders-microsoft-and-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/01/microsoft-pope.jpg",
-          "width": 1828,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

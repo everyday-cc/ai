@@ -59,6 +59,20 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "AI in Fintech Market is expected to represent Significant CAGR of +20% by 2030 |Next It Corp, NetGuardians, Intel"
+    excerpt: "AI in fintech is the use of artificial intelligence for financial data analytics, customer service, supply chain management, trading advice, and much more. For artificial intelligence in banking ..."
+    publishedDateTime: 2023-01-16T11:38:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-is-expected-to-represent-significant-cagr-of-20-by-2030-next-it-corp-netguardians-intel"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 18
+    images:
+      - url: "https://www.market-news.org/wp-content/uploads/2023/01/AI-in-Fintech-2.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "+np3Qv3YCn0P+TWuvUmFLlzVfUOt5prXLOWQ3K4I1XvqKxnCg2huKAA8UDC4ZpYd4+GL6fPuAp9Y10ebHpR/KHK148LTTeYmL2wM9pLx4Mv+g8+zAh7Oge+upWWA46UY43peqYi9Wv1F8Bbmb68y3LwNMf7fRAcjFpYPXWsX3BSshqiFsjm/LCN78obMq0DiUndzJu8ulPiQG6/6eRGE3pZInxM1jKBiVEmPx9jv2QnEZ3T8SVXXxf7He9GwkmRJTJeeoUXhvxbR1kLDH1oHkxIW6nGfH4FwAzawa7qvhOyMXxVLAtWt45Es2gzXzUrmDe7cE0aXqDcdYLGv1a3QyZmVCgzYv5MTtSsFwpsLPu8=;MMwGmrJEp148kG+KXzq6QA=="
 ---
