@@ -2,6 +2,307 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2022-11-18-another-opinion-facial-recognition-use-must-be-accurate-fair.md",
+      "title": "ANOTHER OPINION: Facial recognition use must be accurate, fair",
+      "excerpt": "The action requires a facial recognition system using biometrics, which generally use body measurements to match a photo with a person. Those systems are not as reliable as Batman or Jason Bourne ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.goshennews.com/opinion/another-opinion-facial-recognition-use-must-be-accurate-fair/article_1fac2e5e-66c0-11ed-b0d0-478b9bc39009.html",
+      "originalUrl": "https://www.goshennews.com/opinion/another-opinion-facial-recognition-use-must-be-accurate-fair/article_1fac2e5e-66c0-11ed-b0d0-478b9bc39009.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/goshennews.com/content/tncms/custom/image/b3e2ff74-9933-11e5-a144-bfe0ad02fa0b.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T21:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Goshen News",
+        "domain": "goshennews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-ai-cant-cut-it-correcting-language-learners-writing-still-has-to-be-done-by-hand.md",
+      "title": "AI Can’t Cut It: Correcting Language Learners’ Writing Still Has to Be Done by Hand",
+      "excerpt": "Besides well-known applications that translate texts into many different languages ... is a trained philosopher and physicist. He works as an AI consultant at the Goethe-Institut’s Language Lab, a unit tasked with developing the institute’s online ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.goethe.de/en/spr/spr/24347140.html",
+      "originalUrl": "https://www.goethe.de/en/spr/spr/24347140.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.goethe.de/resources/files/jpg1195/rotstift_teaser-formatkey-jpg-w1920.jpg",
+          "width": 1920,
+          "height": 835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T20:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Goethe",
+        "domain": "goethe.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-crime-and-public-safety.md",
+      "title": "Crime and Public Safety",
+      "excerpt": "The case in Aurora is one of hundreds of times Colorado law enforcement in the past few years have accessed facial recognition software through the DMV or by using a program more than 80 Colorado ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.denverpost.com/2020/09/27/facial-recognition-colorado-police/",
+      "originalUrl": "https://www.denverpost.com/2020/09/27/facial-recognition-colorado-police/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denverpost.com/wp-content/uploads/2020/07/TDP-L-J_ELIJAHRALLY_RE_18.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.denverpost.com/2020/09/27/facial-recognition-colorado-police/amp/",
+      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/27/facial-recognition-colorado-police/amp/",
+      "publishedDateTime": "2022-11-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Denver Post",
+        "domain": "denverpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-leading-defence-companies-in-the-artificial-intelligence-theme.md",
+      "title": "Leading defence companies in the artificial intelligence theme",
+      "excerpt": "The future of the defence industry will be shaped by a range of disruptive themes, with artificial intelligence (AI) being one of the themes that will have a significant impact on defence companies. AI technologies are rapidly evolving. The US and China ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.army-technology.com/data-insights/leading-defence-companies-in-the-artificial-intelligence-theme/",
+      "originalUrl": "https://www.army-technology.com/data-insights/leading-defence-companies-in-the-artificial-intelligence-theme/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.army-technology.com/wp-content/uploads/sites/3/2022/11/Aritificial-Intelligence-in-Defence-2.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "army-technology.com",
+        "domain": "army-technology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection.md",
+      "title": "Artificial intelligence-aided colonoscopy does not increase cancer detection",
+      "excerpt": "More information: Idan Levy et al, Artificial Intelligence-Aided Colonoscopy Does Not Increase Adenoma Detection Rate in Routine Clinical Practice, American Journal of Gastroenterology (2022). DOI ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-aided-colonoscopy-cancer.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-aided-colonoscopy-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T15:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-alexatm-20b-is-now-available-in-amazon-sagemaker-jumpstart.md",
+      "title": "AlexaTM 20B is now available in Amazon SageMaker JumpStart",
+      "excerpt": "Today, we announce the public availability of Amazon’s state-of-the-art Alexa Teacher Model with 20 billion parameters &nbsp;(AlexaTM 20B) through Amazon SageMaker JumpStart, SageMaker’s machine learning hub. AlexaTM 20B is a multilingual large-scale sequence-to-sequence (seq2seq) language model developed",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/alexatm-20b-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/alexatm-20b-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/17/alexatm-sagemaker-jumpstart.jpg",
+          "width": 1551,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T15:13:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-1-in-3-older-americans-have-cognitive-impairment-or-dementia.md",
+      "title": "1 in 3 Older Americans Have Cognitive Impairment or Dementia",
+      "excerpt": "Oct. 25, 2022 – A new study shows one-third of Americans age 65 or older have mild cognitive impairment or dementia. The study, published in the journal JAMA Neurologyon Monday, is the most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.webmd.com/brain/news/20221025/1-in-3-older-americans-have-cognitive-impairment-dementia",
+      "originalUrl": "https://www.webmd.com/brain/news/20221025/1-in-3-older-americans-have-cognitive-impairment-dementia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/blog_posts/alzheimers_disease/1800x1200_woman_holding_hands_with_senior_woman.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T14:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WebMD",
+        "domain": "webmd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-after-tufts-denied-request-for-union-recognition-heres-whats-next-for-ras.md",
       "title": "After Tufts denied request for union recognition, here’s what’s next for RAs",
       "excerpt": "Voluntary recognition from the university would have allowed ULTRA ... The RAs’ email did result in the formation of an RA Council, where RAs can voice concerns to the university. However, according to Francois, the RA Council has been ineffective ...",
@@ -830,314 +1131,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-adludio-adds-deep-learning-to-its-ad-platform.md",
-      "title": "Adludio Adds Deep Learning to Its Ad Platform",
-      "excerpt": "Adludio, providers of an artificial intelligence powered interactive mobile advertising platform, has added deep learning to its platform to give users additional measurement and actionable insights. Using Adludio's platform, clients can input desired ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=155989",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=155989",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/149236-1122_ConvoAI_480x610_v2-ORG.png",
-          "width": 480,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-brains-memory-center-flags-autistic-adults-at-risk-for-cognitive-decline.md",
-      "title": "Brain’s memory center flags autistic adults at risk for cognitive decline",
-      "excerpt": "Braden and her team have been scanning the brains of autistic people aged 40 and older and administering a battery of cognitive tests every two years. “We collect lots of data,” she says. Relatively little research has looked into how autistic adults ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.spectrumnews.org/news/brains-memory-center-flags-autistic-adults-at-risk-for-cognitive-decline/",
-      "originalUrl": "https://www.spectrumnews.org/news/brains-memory-center-flags-autistic-adults-at-risk-for-cognitive-decline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://spectrumnews-web-assets.s3.amazonaws.com/wp-content/uploads/2022/11/17100905/844-autism-memory-cognitive-decline-aging.jpg",
-          "width": 844,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T07:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Spectrum",
-        "domain": "spectrumnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models.md",
-      "title": "Snorkel takes a deep dive into data labeling and foundation AI models",
-      "excerpt": "Snorkel AI today announced a preview of its new capabilities to help users adapt foundation AI models for enterprise use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/",
-      "originalUrl": "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1168836247-e1664214930793.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/amp/",
-      "publishedDateTime": "2022-11-17T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai.md",
-      "title": "AI startup Snorkel preps a new kind of expert for enterprise AI",
-      "excerpt": "and also too arduous to build and maintain — they didn't scale, in other words. In an intriguing twist on that earlier approach, Snorkel, a three-year-old AI startup based in San Francisco, Wednesday unveiled tools to, as they put it, bring the human ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai/",
-      "originalUrl": "https://www.zdnet.com/article/ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/344bbfe0bd114ebfe363a4ba2758ca25291e9623/2022/11/17/a9c230b0-6ff9-466d-a751-53e84f1758f2/snorkel-2022-prompt-builder.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai/",
-      "publishedDateTime": "2022-11-17T07:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-try-out-ai-at-mohais-artificial-intelligence-exhibit.md",
-      "title": "Try out AI at MOHAI’s ‘Artificial Intelligence’ exhibit",
-      "excerpt": "“Artificial Intelligence ... You can watch what a self-driving car “sees,” or how a robotic animal programmed with AI figures out how to deal with obstacles. As with most of MOHAI, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/",
-      "originalUrl": "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/?amp=1",
-      "publishedDateTime": "2022-11-17T07:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-how-to-get-people-to-trust-ai-predictions.md",
-      "title": "How to Get People to Trust AI Predictions",
-      "excerpt": "We stop believing artificial intelligence if it makes any mistake. But what if we thought it could learn from those mistakes?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-trust-11668630792?mod=latest_headlines",
-      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-trust-11668630792?mod=latest_headlines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-664644/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-pinpoint-predictive-launches-the-first-deep-learning-powered-prediction-of-individual-customer-profitability-available-at-top-of-funnel.md",
-      "title": "Pinpoint Predictive Launches the First Deep-Learning Powered Prediction of Individual Customer Profitability Available at Top-of-Funnel",
-      "excerpt": "This is the first commercial solution powered by deep-learning, built on trillions of behavioral data points, and includes predictions for claims frequency, severity, and loss cost. By focusing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20221117005030/en/Pinpoint-Predictive-Launches-the-First-Deep-Learning-Powered-Prediction-of-Individual-Customer-Profitability-Available-at-Top-of-Funnel",
-      "originalUrl": "https://www.businesswire.com/news/home/20221117005030/en/Pinpoint-Predictive-Launches-the-First-Deep-Learning-Powered-Prediction-of-Individual-Customer-Profitability-Available-at-Top-of-Funnel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsroom.businesswire.com",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

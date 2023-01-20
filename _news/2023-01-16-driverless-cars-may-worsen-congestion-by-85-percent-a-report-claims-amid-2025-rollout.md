@@ -9,7 +9,7 @@ ampWebUrl: "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-co
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont/amp"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Drivers could face double the level of congestion on the roads if self-driving cars grow in popularity, report warns"
-    excerpt: "Motorists could be stuck in congestion twice as bad as current levels if self-driving cars become common, a Government report warns. Delays may rise by up to 85 per cent from 2025 to 2060 in that ..."
-    publishedDateTime: 2023-01-16T00:03:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-11638573/Drivers-face-double-level-congestion-roads-self-driving-cars-grow-popularity.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-11638573/amp/Drivers-face-double-level-congestion-roads-self-driving-cars-grow-popularity.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11638573/amp/Drivers-face-double-level-congestion-roads-self-driving-cars-grow-popularity.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 21
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/01/16/08/56796497-0-image-a-33_1673858194016.jpg"
-        width: 636
-        height: 382
         isCached: true
   - title: "Self-driving cars could nearly double road congestion, says report"
     excerpt: "LONDON: Motorists could be stuck in congestion nearly twice as bad as current levels if self-driving cars become commonplace, a UK government report warns. The UK's Department for Transport (DfT) traffic projections for England and Wales show delays may rise by up to 85% from 2025 to 2060 in that scenario."

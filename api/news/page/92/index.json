@@ -2,6 +2,326 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2022-10-26-ibm-announces-three-new-ai-libraries-for-natural-language-processing.md",
+      "title": "IBM announces three new AI libraries for natural language processing",
+      "excerpt": "IBM unveiled three new embeddable AI libraries to reduce the barriers for AI adoption and to address the AI skills shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/ibm-announces-three-new-ai-libraries-for-natural-language-processing/",
+      "originalUrl": "https://sdtimes.com/ai/ibm-announces-three-new-ai-libraries-for-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-25-at-1.12.13-PM.png",
+          "width": 1202,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-microsoft-celebrates-10-years-of-surface-at-its-2022-surface-event.md",
+      "title": "Microsoft Celebrates 10 Years Of Surface At Its 2022 Surface Event",
+      "excerpt": "I believe Microsoft has made some incredible innovations for its hardware and software over the past 10 years and with its Surface Brand. That path is marked by the Surface teams",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-celebrates-10-years-of-surface-at-its-2022-surface-event/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-celebrates-10-years-of-surface-at-its-2022-surface-event/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-ibm-expands-embeddable-ai-portfolio-with-plug-and-play-watson-libraries.md",
+      "title": "IBM expands embeddable AI portfolio with plug-and-play Watson libraries",
+      "excerpt": "The new offerings announced today provide customers with access to the same AI libraries that IBM uses to power its own IBM Watson products. In other words, they enable developers to build extremely sophisticated AI capabilities directly into their ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/10/25/ibm-expands-embeddable-ai-portfolio-plug-play-watson-libraries/",
+      "originalUrl": "https://siliconangle.com/2022/10/25/ibm-expands-embeddable-ai-portfolio-plug-play-watson-libraries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/watson.jpg",
+          "width": 830,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-shutterstock-to-offer-ai-generated-art-while-compensating-human-artists.md",
+      "title": "Shutterstock to Offer AI-Generated Art While Compensating Human Artists",
+      "excerpt": "The stock image provider is embracing OpenAI's DAll-E 2 program, but will also launch a fund to pay artists for contributing to the AI art generation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/shutterstock-to-offer-ai-generated-art-while-compensating-human-artists",
+      "originalUrl": "https://www.pcmag.com/news/shutterstock-to-offer-ai-generated-art-while-compensating-human-artists",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05aAKSsxub8UucKDaCAuuDN-1.fit_lim.size_1200x630.v1666708832.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-video-games-linked-to-heightened-cognitive-abilities-in-children-study.md",
+      "title": "Video games linked to heightened cognitive abilities in children: Study",
+      "excerpt": "The study analyzed data from the adolescent brain cognitive development study that is tracking roughly 12,000 children coming of age. Researchers assessed a subset of 2,000 who entered the study ...",
+      "sourceUrl": null,
+      "webUrl": "https://gazette.com/news/us-world/video-games-linked-to-heightened-cognitive-abilities-in-children-study/article_d8b5efef-132f-5df1-93e8-b49744f85059.html",
+      "originalUrl": "https://gazette.com/news/us-world/video-games-linked-to-heightened-cognitive-abilities-in-children-study/article_d8b5efef-132f-5df1-93e8-b49744f85059.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.prcdn.co/img?cid=9YMC&page=1&width=300",
+          "width": 293,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-hardware.md",
+      "title": "AI chip startup Axelera lands $27M in capital to commercialize its hardware",
+      "excerpt": "Axelera, a startup developing an AI chip for accelerated processing, has landed $27 million in fresh venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/",
+      "originalUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1060938604-1.jpg?resize=1200,742",
+          "width": 1200,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/",
+      "publishedDateTime": "2022-10-25T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-artificial-intelligence-ai-in-clinical-trials-market-worth-48-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
+      "title": "Artificial Intelligence (AI) in Clinical Trials Market worth $4.8 billion by 2027 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "Artificial Intelligence (AI) in Clinical Trials Marketis projected to reach USD 4.8 billion by 2027 from USD 1.5 billion in 2022, at a CAGR",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/10/25/9699370.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/10/25/9699370.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-perceptron-ai-halts-traffic-stabilises-gaits-and-saves-whales.md",
       "title": "Perceptron: AI halts traffic, stabilises gaits, and saves whales",
       "excerpt": "An AI system listens for the calls of certain species and reports back to a researcher, who can then determine where the animal or animals are by correlating the data with factors like water temperature and weather as well as historical records of whale sightings in the area.",
@@ -809,335 +1129,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women.md",
-      "title": "Vara Raises $4.4 Million In Funding To Bring Its Groundbreaking AI Breast Cancer Screening Platform To Millions More Women",
-      "excerpt": "There are more lost disability-adjusted life years (DALYs) by women to breast cancer globally than any other type of cancer. Vara, a startup building an intelligent platform that infuses state-of-the-art AI into routine breast screenings,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women/",
-      "originalUrl": "https://www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6357aa205c30294b7fa133ef/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women/amp/",
-      "publishedDateTime": "2022-10-25T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-your-health-brain-like-ai-no-internet-needed.md",
-      "title": "YOUR HEALTH: Brain-like AI, no internet needed",
-      "excerpt": "The scientists say with no need for internet connection, the AI would also work in space, where no AI technology has gone before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/",
-      "originalUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wafb-prod.cdn.arcpublishing.com/resizer/mJT1ZA4do6crwyKcA266GlU_m7g=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/56TBXSJTO5AKLMJVGDMLBKZETU.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wafb-com.cdn.ampproject.org/c/s/www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/?outputType=amp",
-      "publishedDateTime": "2022-10-25T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAFB",
-        "domain": "wafb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.md",
-      "title": "SAS Data Ethics Director Reggie Townsend on Building Ethical AI and Why It Matters",
-      "excerpt": "What is ethical artificial intelligence (AI), why is it vital to the future of technology, and how can CIO’s and business leaders help foster it? We spoke to Reggie Townsend, Data Ethics Practice Director at analytics software company SAS,",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.html",
-      "originalUrl": "https://www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2022/10/reggie-townsend-100933805-medium.jpg?auto=webp&quality=85,70",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.amp.html",
-      "publishedDateTime": "2022-10-24T23:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-why-writers-need-to-make-use-of-ai-content-generator.md",
-      "title": "Why writers need to make use of AI content generator",
-      "excerpt": "The need to make the writer’s content more interesting and attractive with available multimedia content has made technology the right tool for content to stay fresh and relevant. There is a huge responsibility for content writers that their content should be unique,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/",
-      "originalUrl": "https://techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/10/pexels-startup-stock-photos-7112.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/amp/",
-      "publishedDateTime": "2022-10-24T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-the-value-of-artificial-intelligence-isnt-just-insights.md",
-      "title": "The Value Of Artificial Intelligence Isn’t Just Insights",
-      "excerpt": "The impact of AI will take time until it is felt, argue Aja Agrawal, Joshua Gans, and Avi Goldfarb, co-authors of Power and Prediction: The Disruptive Economics of Artificial Intelligence. Right now,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63575c205665bd66e7a133f3/0x0.jpg?format=jpg&width=1200",
-          "width": 933,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/amp/",
-      "publishedDateTime": "2022-10-24T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-ai-assisted-cloud-service-to-aid-medical-diagnosis-in-japan.md",
-      "title": "AI-assisted cloud service to aid medical diagnosis in Japan",
-      "excerpt": "TOKYO -- A Japanese consortium including Hitachi and Microsoft Japan will use artificial intelligence to help doctors make diagnoses, tapping the cloud for data-sharing to eliminate the need for ...",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/Health-Care/AI-assisted-cloud-service-to-aid-medical-diagnosis-in-Japan",
-      "originalUrl": "https://asia.nikkei.com/Business/Health-Care/AI-assisted-cloud-service-to-aid-medical-diagnosis-in-Japan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F6%252F8%252F0%252F3%252F42763086-3-eng-GB%252FCropped-166663548420221024N%2520MRI%2520scan.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T20:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nikkei Asia",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-artificial-intelligence-in-accounting-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-104-pages-report.md",
-      "title": "Artificial Intelligence in Accounting Market Detailed Analysis of Current Scenario with Growth Forecasts to 2029 | 104 Pages Report",
-      "excerpt": "According to this latest study, In 2022 the growth of Artificial Intelligence in Accounting Market is projected to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-104-pages-report-2022-10-24-2319769",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-104-pages-report-2022-10-24-2319769",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T20:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

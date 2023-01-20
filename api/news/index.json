@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-20-musk-oversaw-staged-tesla-self-driving-video-emails-show.md",
+      "title": "Musk oversaw staged Tesla self-driving video, emails show",
+      "excerpt": "If there was any doubt that Tesla CEO Elon Musk knew the company's much-watched 2016 self-driving demo was staged, emails obtained by Bloomberg should lay that to rest. \"Just want to be absolutely clear that everyone’s top priority is achieving an amazing Autopilot demo drive,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/",
+      "originalUrl": "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 364,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1233956223-800x533.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/amp/",
+      "publishedDateTime": "2023-01-20T07:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-how-much-will-ai-impact-life-in-2023.md",
+      "title": "How much will AI impact life in 2023?",
+      "excerpt": "Artificial intelligence (AI) has been a part of many aspects of modern life for years, but in the last few weeks the sudden arrival of ChatGPT, a publicly",
+      "sourceUrl": null,
+      "webUrl": "https://www.consumeraffairs.com/news/how-much-will-ai-impact-life-in-2023-012023.html",
+      "originalUrl": "https://www.consumeraffairs.com/news/how-much-will-ai-impact-life-in-2023-012023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.consumeraffairs.com/files/news/Artificial_intelligence_concept_kishore_kumar_Getty_Images.jpg",
+          "width": 900,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.consumeraffairs.com/amp/news/how-much-will-ai-impact-life-in-2023-012023.html",
+      "cdnAmpWebUrl": "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/how-much-will-ai-impact-life-in-2023-012023.html",
+      "publishedDateTime": "2023-01-20T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ConsumerAffairs",
+        "domain": "consumeraffairs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-google-parent-to-lay-off-12000-workers-as-ai-focus-intensifies.md",
+      "title": "Google parent to lay off 12,000 workers as AI focus intensifies",
+      "excerpt": "Google's parent Alphabet Inc is cutting about 12,000 jobs, or 6% of its workforce, it said in a staff memo Friday, as the technology sector reels from layoffs and companies stake their futures on artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/google-parent-lay-off-12000-workers-memo-2023-01-20/",
+      "originalUrl": "https://www.reuters.com/business/google-parent-lay-off-12000-workers-memo-2023-01-20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/R1bvBhTymqDIOCrXWG4Y9_Zs1Wg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RI5ZSREWSFIILIYXR22VOHOPME.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-20T06:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-paging-dr-ai-to-the-emergency-room-artificial-intelligence-passes-us-medical-licensing-exam.md",
       "title": "Paging Dr AI to the Emergency Room! Artificial Intelligence passes U.S Medical Licensing Exam",
       "excerpt": "We may soon see AI tools run diagnostic tests and clinical research trials on humans, now that ChatGPT and Flan-PaLM have passed the U.S. Medical Licensing Examination (USMLE).",
@@ -10,7 +156,7 @@
       "originalUrl": "https://www.digit.in/news/machine-learning-and-ai/paging-dr-ai-to-the-emergency-room-artificial-intelligence-passes-us-medical-licensing-exam-66910.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -43,6 +189,57 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-latest-blueswell-startups-harnessing-wind-for-ships-and-ai-for-fish-management.md",
+      "title": "Latest BlueSwell Startups Harnessing Wind For Ships And AI For Fish Management",
+      "excerpt": "They’re examples from program’s the third cohort of six startups selected and supported by the folks at SeaAhead Inc. and the New England Aquarium.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffkart/2023/01/20/latest-blueswell-startups-harnessing-wind-for-ships-and-ai-for-fish-management/",
+      "originalUrl": "https://www.forbes.com/sites/jeffkart/2023/01/20/latest-blueswell-startups-harnessing-wind-for-ships-and-ai-for-fish-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c99c1d67b3adb6ece9af4f/0x0.jpg?format=jpg&crop=2654,1244,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2023/01/20/latest-blueswell-startups-harnessing-wind-for-ships-and-ai-for-fish-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2023/01/20/latest-blueswell-startups-harnessing-wind-for-ships-and-ai-for-fish-management/amp/",
+      "publishedDateTime": "2023-01-20T03:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -496,7 +693,7 @@
       "originalUrl": "https://techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -873,7 +1070,7 @@
       "originalUrl": "https://www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -969,21 +1166,21 @@
       ]
     },
     {
-      "path": "_news/2023-01-20-uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso.md",
-      "title": "UC Santa Barbara Doctoral Students Build Neural Network to Paint Like Picasso",
-      "excerpt": "Fifty years after his death, Pablo Picasso is painting once again. The late Spanish master has been reborn as a form of artificial intelligence (AI), a “neural network” created by two UC Santa Barbara doctoral students to generate original pieces of art in his signature styles.",
+      "path": "_news/2023-01-20-ai-tools-can-create-new-images-but-who-is-the-real-artist.md",
+      "title": "AI tools can create new images, but who is the real artist?",
+      "excerpt": "Countless artists have taken inspiration from “The Starry Night” since Vincent Van Gogh painted the swirling scene in 1889. Now artificial intelligence systems are doing the same, training themselves on a vast collection of digitized artworks to produce new images you can conjure in seconds from a smartphone app.",
       "sourceUrl": null,
-      "webUrl": "https://www.independent.com/2023/01/19/uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso/",
-      "originalUrl": "https://www.independent.com/2023/01/19/uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso/",
+      "webUrl": "https://www.washingtontimes.com/news/2023/jan/19/ai-tools-can-create-new-images-who-real-artist/",
+      "originalUrl": "https://www.washingtontimes.com/news/2023/jan/19/ai-tools-can-create-new-images-who-real-artist/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://www.independent.com/wp-content/uploads/2023/01/AI_picasso.jpg?fit=1200%2C799",
+          "url": "https://twt-thumbs.washtimes.com/media/image/2023/01/19/Artificial_Intelligence_Image_Generators_10313--a74dd_c0-347-8317-5198_s1200x700.jpg?d7ae28a2f207d29f72b5f7f2063e1372249da405",
           "width": 1200,
-          "height": 799,
+          "height": 700,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -991,215 +1188,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.independent.com/2023/01/19/uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso/?amp=1",
-      "cdnAmpWebUrl": "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2023/01/19/uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso/?amp=1",
-      "publishedDateTime": "2023-01-19T08:09:00-08:00",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2023/jan/19/ai-tools-can-create-new-images-who-real-artist/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/jan/19/ai-tools-can-create-new-images-who-real-artist/",
+      "publishedDateTime": "2023-01-19T08:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Santa Barbara Independent",
-        "domain": "independent.com",
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-the-goldilocks-principle-and-hybrid-cloud.md",
-      "title": "The Goldilocks Principle And Hybrid Cloud",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as The Goldilocks Principle shows up in many places in our lives and business in areas as vast and varied as astrobiology, economics, and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c96c06ef67aedf79766ebe/0x0.png?format=png&width=1200",
-          "width": 936,
-          "height": 528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/amp/",
-      "publishedDateTime": "2023-01-19T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-deep-learning-based-ai-system-helps-infer-and-predict-indonesian-throughflow.md",
-      "title": "Deep learning-based AI system helps infer and predict Indonesian throughflow",
-      "excerpt": "Scientists from the Institute of Oceanology of the Chinese Academy of Sciences (IOCAS) and Nanjing University of Information Science and Technology have successfully constructed an inference and prediction system of the Indonesian Throughflow (ITF) by using a deep-learning method and realized the valid prediction of the ITF transport.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.html",
-      "originalUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/deep-learning-based-ai.jpg",
-          "width": 1372,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.amp",
-      "publishedDateTime": "2023-01-19T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-googles-big-fear-is-ai-running-wild-after-chatgpt-its-too-late.md",
-      "title": "Google's big fear is AI running wild. After ChatGPT, it's too late.",
-      "excerpt": "Google's top executives published a report calling for a responsible release of AI, months after rival AI bot ChatGPT has entered the mainstream.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1",
-      "originalUrl": "https://www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 463,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63c93fe72a1e600018b8ac60?width=1200&format=jpeg",
-          "width": 553,
-          "height": 276,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1?amp",
-      "publishedDateTime": "2023-01-19T06:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Google AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-ai-improves-field-service-quality-and-customer-experience.md",
-      "title": "AI improves field service quality and customer experience",
-      "excerpt": "Research shows that 80% of high performing field service organizations use artificial intelligence (AI). Also: One bad experience is all it takes to lose a customer. Here are thre",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-improves-field-service-quality-and-customer-experience/",
-      "originalUrl": "https://www.zdnet.com/article/ai-improves-field-service-quality-and-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/f748509203a5703ad1ec5ad7840e4842cdb63d79/2022/12/02/4631c01c-b209-4b8c-a497-091a6049e34c/artificial-intelligence.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-improves-field-service-quality-and-customer-experience/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-improves-field-service-quality-and-customer-experience/",
-      "publishedDateTime": "2023-01-19T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

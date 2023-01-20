@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "FBI director ‘deeply concerned’ over China’s AI program"
+    excerpt: "FBI Director Christopher Wray on Thursday said he is “deeply concerned” about the Chinese government’s artificial intelligence (AI) program, adding that it is “not constrained by the rule of law.” Speaking at a panel session at the World Economic Forum in Davos,"
+    publishedDateTime: 2023-01-20T15:59:00Z
+    webUrl: "https://www.taipeitimes.com/News/front/archives/2023/01/21/2003792945"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/images/2023/01/21/P01-230121-329.jpg"
+        width: 787
+        height: 525
+        isCached: true
   - title: "FBI chief says he’s ‘deeply concerned’ by China’s artificial intelligence program"
     excerpt: "FBI Director Christopher Wray said Thursday that he was “deeply concerned” about the Chinese government’s artificial intelligence program, asserting that it was “not constrained by the rule of law.”"
     publishedDateTime: 2023-01-19T19:38:00Z

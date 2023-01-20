@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Artificial Intelligence Is Coming for Human Creativity"
-excerpt: "The history of psychology is full of claims about unique human cognitive abilities. Many of these claims fell away in the light of research findings on the cognitive capacities of other species. Self-awareness was one such capacity."
+excerpt: "Animal behaviorists have already disputed the uniqueness of human cognitive ability. Another blow to our hubris is now posed by the digital revolution, which not only exposes our cerebral limitations but also threatens human creativity."
 publishedDateTime: 2023-01-18T16:51:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
-webUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
 type: article
-quality: 37
+quality: 59
 heat: -1
 published: false
 
@@ -17,7 +17,14 @@ provider:
   domain: psychologytoday.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/Is%20AI%20coming%20for%20Creativity%2C%203%2C%20Joseph%20Ayerle.jpg?itok=clf3nLZg"
+    width: 1528
+    height: 800
+    isCached: true
 
 related:
   - title: "Unveiling the Mystery of the Human Brain for AI Advancements"
@@ -35,6 +42,6 @@ related:
         height: 630
         isCached: true
 
-secured: "qgjpUlqII3/YACGUKpaisEqlFwrVuTNH1YM8OeK2gVWtN6K/dgDjsmzRj2NKrxbDfGASyc0QtmfONCVCE3YOF4QhvY1aN4ooqJ/LAh2ZOiX9A89tWM4KMQhBQ+dRFhRtyn+dD071j/LNzkJkJvdSnBjr2Q+E6liOLGl5Hm5RUXT0fZp9jO4rWDxgBAeZY2EQpKAj1rTj7dSqlBhni1CEnclfld1Sb7jTSVnvVnuDHzDgv7Jkoo5N6fr8e1pa0gJyfkmOBn6X4DZL04UZQkYAYfvTY58f9LmFw0br6Rn362oGxoctytMbdgAjXOHPxBJzspcZ85Bex89pKiPbKNEVSGi5lROS/678V2XPTFSWVSdpEMFJKDp93c/dAHLNEdXtKAZLWesUsbVCGi8XFjKhkEp8cWXcyNsACs2IMrljAKRj7D3Y7AHT8R0qAyWseqx3EYERCvZaynh0JeYsaUle0zJPB23qAvbl2JFBzcCBu7rPPSecxVLPctBE87V4j3q94ied0GpQCmY6VXt2tlF13A==;Agzk9JqLZ+EKV4equ8jeWQ=="
+secured: "H6Tzrc5oJvP180QGoak2eF7Xumga/LT3VjUgFUShbCnXvAc8bxDdFtn3AclIStvZbcfytmXd/x10S3Z46wCTFqMr+nbPI84I/4qT3+m6q6D5chG/JpsR2T2R+Oe9Sm28ye63qiD02sjLesW94soBg62J7SqmIzC3mCmU30gqd3GtaEkAkVIo4Jn4xlDb8CPnqKyrnmzncNp0ho98XhNRPz7D78hDFla479wOzvvcfOsyCP7S5NMs7NPwsks6liY4/uVABK3JwTX7YXASa0BTvfigmdJ2fKgabXI7iV5Gs7zaAViJdixM2qYbDfUXQKbY3sS24SkOWFINxzq6NLIyZ1S0TDUQYwQVEuTCP7kdKuo=;paQJf/aPqtvhRHJtPk0omg=="
 ---
 

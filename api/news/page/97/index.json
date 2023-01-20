@@ -2,6 +2,324 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2022-10-21-texas-ag-sues-google-over-its-facial-data-collection-practices-updated.md",
+      "title": "Texas AG sues Google over its facial data collection practices (Updated)",
+      "excerpt": "Texas AG, Ken Paxton, is once again suing Google -- this time over the company's use of facial and voice biometric data gathered from the state's residents..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html",
+      "originalUrl": "https://www.engadget.com/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-09/98e07ce0-2aa6-11ed-bfef-4161b140f90d",
+          "width": 5000,
+          "height": 2964,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html",
+      "publishedDateTime": "2022-10-20T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-weight-loss-in-early-parkinson-linked-to-cognitive-decline.md",
+      "title": "Weight Loss in Early Parkinson Linked to Cognitive Decline",
+      "excerpt": "THURSDAY, Oct. 20, 2022 (HealthDay News) -- Weight loss in early Parkinson disease (PD) is associated with a decline in cognitive function, according to a study published online Oct. 19 in Neurology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kpvi.com/interests/weight-loss-in-early-parkinson-linked-to-cognitive-decline/article_e58ebdf7-b049-5c83-8435-6b68275bde2b.html",
+      "originalUrl": "https://www.kpvi.com/interests/weight-loss-in-early-parkinson-linked-to-cognitive-decline/article_e58ebdf7-b049-5c83-8435-6b68275bde2b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kpvi.com/content/tncms/assets/v3/editorial/c/80/c802b23b-58c1-50e8-8c20-79c45aff8b67/6351f2b4671d4.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T18:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "kpvi",
+        "domain": "kpvi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video.md",
+      "title": "This Week In XR: Stability AI Raises $101 Million, VITURE Raises $10 Million For Wearable Hi Def Video",
+      "excerpt": "Stability AI Raises $101M Stable Diffusion, a state of the art open source text-to-image AI program that generates images from text, announced a $101M seed round at Techcrunch Disrupt in San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2022/10/20/this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2022/10/20/this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6351e8216ab4d7c1914360b0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2022/10/20/this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2022/10/20/this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video/amp/",
+      "publishedDateTime": "2022-10-20T17:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-driverless-cabs-ai-perfume-and-a-history-mystery.md",
+      "title": "Driverless cabs, AI perfume and a history mystery",
+      "excerpt": "Click takes a ride in one of the first fare paying driverless cabs in San Francisco ... visitors solve a historical mystery. And how artificial intelligence is helping the perfume industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/programmes/m001cv9d",
+      "originalUrl": "https://www.bbc.co.uk/programmes/m001cv9d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-amazon-scams-to-avoid-at-all-costs.md",
+      "title": "Amazon Scams to Avoid at All Costs",
+      "excerpt": "Scammers can even pose as representatives from big companies, like Amazon, in attempts to steal customers’ information. One way to keep yourself safe from these scams is to know what they are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rd.com/article/amazon-scams/",
+      "originalUrl": "https://www.rd.com/article/amazon-scams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rd.com/wp-content/uploads/2021/04/GettyImages-1203044142.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reader's Digest",
+        "domain": "rd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-the-role-of-motion-control-in-medical-robotics.md",
+      "title": "The Role of Motion Control in Medical Robotics",
+      "excerpt": "Motion control is a critical component of almost all of today’s robotic applications, explains Aleksandar Nacev, PhD, chief technology officer for Promaxo. Nacev is an engineering professional with expertise in magnetic systems engineering. Promaxo’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
+      "originalUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/motion%20control%20webinar%20DT613X.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-cloud-ai-in-fintech-market-current-scenario-and-future-prospects.md",
+      "title": "Cloud AI in Fintech Market Current Scenario and Future Prospects",
+      "excerpt": "The Cloud AI in Fintech Market Report provides Insightful qualitative and quantitative information along with an",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-current-scenario-and-future-prospects-2022-10-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-current-scenario-and-future-prospects-2022-10-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-history-of-ai-in-33-breakthroughs-the-first-ai-driven-robot.md",
       "title": "History Of AI In 33 Breakthroughs: The First AI-Driven Robot",
       "excerpt": "This robot record was reached half a century after the development of SHAKEY, the world’s first “mobile intelligent robot.” According to the 2017 IEEE Milestone citation, it “could perceive its surroundings,",
@@ -818,342 +1136,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-metas-new-ai-powered-translator-can-interpret-a-spoken-only-language-in-real-time.md",
-      "title": "Meta's New AI-Powered Translator Can Interpret A Spoken-Only Language In Real Time",
-      "excerpt": "Meta Platforms Inc. META has built the first AI speech-to-speech translation system, focusing on unwritten languages. What Happened: On Wednesday, Meta announced the first AI-powered speech-to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/22/10/29336004/metas-new-ai-powered-translator-can-interpret-a-spoken-only-language-in-real-time",
-      "originalUrl": "https://www.benzinga.com/news/22/10/29336004/metas-new-ai-powered-translator-can-interpret-a-spoken-only-language-in-real-time",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2022/10/20/shutterstock_2113535186.jpg?width=1200&height=800&fit=crop",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29336004",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29336004",
-      "publishedDateTime": "2022-10-20T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-texas-ag-sues-google-for-over-facial-and-voice-data-collection.md",
-      "title": "Texas AG sues Google for over facial and voice data collection",
-      "excerpt": "The complaint underscores the role of individual states in protecting users' information on the internet in the absence of a federal privacy law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
-      "originalUrl": "https://www.cnbc.com/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107051880-16510024222022-04-26t170649z_1339263067_rc24vt9ijs8a_rtrmadp_0_usa-court-immigration.jpeg?v=1666280902",
-          "width": 3500,
-          "height": 2334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
-      "publishedDateTime": "2022-10-20T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-waymo-one-brings-self-driving-ride-service-to-los-angeles.md",
-      "title": "Waymo One Brings Self-Driving Ride Service to Los Angeles",
-      "excerpt": "Waymo One is a commercial ride-hailing service like no other. Its driverless vehicles have been shuffling passengers around the Phoenix and San Francisco areas, and soon it'll expand to one of the largest metropolitan areas in the US.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/waymo-one-self-driving-ride-hailing-los-angeles/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/waymo-one-self-driving-ride-hailing-los-angeles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/3017a8e81aefb1d88583a0952d389f56c3f3beec/hub/2022/10/20/5dd1c780-0c5e-4b64-aa75-a7db9f282339/waymo-one-ogi.jpg?auto=webp",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-one-self-driving-ride-hailing-los-angeles/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-one-self-driving-ride-hailing-los-angeles/",
-      "publishedDateTime": "2022-10-20T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-silver-alert-issued-for-valley-man-with-cognitive-difficulties.md",
-      "title": "Silver Alert issued for Valley man with cognitive difficulties",
-      "excerpt": "PHOENIX – A Silver Alert was issued Thursday morning for a missing Valley man who has cognitive problems, authorities said. Emidio Espericueta Gurrola, 77, was last seen near 11th Street and ...",
-      "sourceUrl": null,
-      "webUrl": "https://ktar.com/story/5300333/silver-alert-issued-for-valley-man-with-cognitive-difficulties/",
-      "originalUrl": "https://ktar.com/story/5300333/silver-alert-issued-for-valley-man-with-cognitive-difficulties/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTAR News",
-        "domain": "ktar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-how-ai-can-improve-pharmaceutical-commercial-operations.md",
-      "title": "How AI Can Improve Pharmaceutical Commercial Operations",
-      "excerpt": "While AI can uncover precious insights, for companies that have not worked with AI previously, this can mean a complete reorganization of their data foundation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/20/how-ai-can-improve-pharmaceutical-commercial-operations/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/20/how-ai-can-improve-pharmaceutical-commercial-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63505c9e1699476fd8d663b0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/20/how-ai-can-improve-pharmaceutical-commercial-operations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/10/20/how-ai-can-improve-pharmaceutical-commercial-operations/amp/",
-      "publishedDateTime": "2022-10-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-waymo-says-it-plans-to-launch-its-self-driving-service-in-los-angeles.md",
-      "title": "Waymo says it plans to launch its self-driving service in Los Angeles",
-      "excerpt": "Waymo says it plans to launch its ride-hailing service Waymo One in Los Angeles The company would not specify a timeline for when it expects the service to become available to riders. The company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/10/19/waymo-says-it-plans-to-launch-a-ride-hailing-service-in-los-angeles.html",
-      "originalUrl": "https://www.cnbc.com/2022/10/19/waymo-says-it-plans-to-launch-a-ride-hailing-service-in-los-angeles.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104568503-waymolexus.jpg?v=1666211967",
-          "width": 934,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/10/19/waymo-says-it-plans-to-launch-a-ride-hailing-service-in-los-angeles.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/19/waymo-says-it-plans-to-launch-a-ride-hailing-service-in-los-angeles.html",
-      "publishedDateTime": "2022-10-20T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-laws-of-motion-created-ai-sizing-technology-accelerating-personalized-sustainable-inclusivity-in-fashion.md",
-      "title": "Laws Of Motion Created AI Sizing Technology Accelerating Personalized, Sustainable Inclusivity In Fashion",
-      "excerpt": "Carly Bigi, founder and CEO of Laws of Motion, created an AI technology company that is accelerating the advent of personalized and sustainable inclusivity in the apparel industry. Launched in 2019, Laws of Motion generated its first $40 million in revenue after raising only $2 million in pre-seed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cherylrobinson/2022/10/20/laws-of-motion-created-ai-sizing-technology-accelerating-personalized-sustainable-inclusivity-in-fashion/",
-      "originalUrl": "https://www.forbes.com/sites/cherylrobinson/2022/10/20/laws-of-motion-created-ai-sizing-technology-accelerating-personalized-sustainable-inclusivity-in-fashion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634f4c63292f1847e4b5c039/0x0.jpg?format=jpg&crop=3754,2815,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cherylrobinson/2022/10/20/laws-of-motion-created-ai-sizing-technology-accelerating-personalized-sustainable-inclusivity-in-fashion/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cherylrobinson/2022/10/20/laws-of-motion-created-ai-sizing-technology-accelerating-personalized-sustainable-inclusivity-in-fashion/amp/",
-      "publishedDateTime": "2022-10-20T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

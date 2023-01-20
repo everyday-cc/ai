@@ -107,6 +107,50 @@
       ]
     },
     {
+      "path": "_news/2023-01-18-new-york-legislators-protest-madison-square-garden-over-facial-recognition.md",
+      "title": "New York Legislators Protest Madison Square Garden Over Facial Recognition",
+      "excerpt": "It is absolutely time for the city and the state to reconsider any and all permits, licenses, and benefits provided to MSG in the face of their continued malfeasance,” one New York",
+      "sourceUrl": null,
+      "webUrl": "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/",
+      "originalUrl": "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rollingstone.com/wp-content/uploads/2023/01/MSG.jpg?w=1600&h=900&crop=1",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/amp/",
+      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/amp/",
+      "publishedDateTime": "2023-01-17T13:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rolling Stone",
+        "domain": "rollingstone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-opinion-how-facial-recognition-will-transform-airport-security.md",
       "title": "Opinion: How facial recognition will transform airport security",
       "excerpt": "Imagine using technology that never forgets a face, while improving airport security and shortening lines. Such technology exists and may be coming to an airport near you. Every flyer over the past two decades knows that airport security procedures involve a lot of unpacking,",
@@ -252,6 +296,50 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-msg-risks-government-support-by-targeting-enemies-with-facial-recognition-tech-pols-warn.md",
+      "title": "MSG risks government support by targeting ‘enemies’ with facial recognition tech, pols warn",
+      "excerpt": "Elected officials are warning Madison Square Garden Entertainment better stop using “terrifying” facial recognition software to boot rival attorneys at its venue.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/",
+      "originalUrl": "https://nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/01/msg-facial-recognition-comp-03.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/amp/",
+      "publishedDateTime": "2023-01-16T11:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1317,94 +1405,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-facial-recognitions-alarming-pitfalls.md",
-      "title": "Facial recognition's alarming pitfalls",
-      "excerpt": "Facial recognition also lets you unlock smartphones and tablets without a password. Driving the news: A Black man was recently jailed for almost a week in Georgia after a facial recognition system incorrectly matched his face with a suspect in a New Orleans robbery,",
-      "sourceUrl": null,
-      "webUrl": "https://www.axios.com/2023/01/07/facial-recognition-issues-problems",
-      "originalUrl": "https://www.axios.com/2023/01/07/facial-recognition-issues-problems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.axios.com/OjuswAauFS55c0w3Z6L9OxN53Ec=/0x0:1920x1080/1366x768/2023/01/06/1673035395318.jpg",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-07T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-ai-startup-eys3d-debuts-computer-vision-platform-for-autonomous-robots.md",
-      "title": "AI startup eYs3D debuts computer vision platform for autonomous robots",
-      "excerpt": "The startup explains that the modular XINK platform comes with everything a developer needs to add such capabilities to their robots, with high-performance compute power, an AI accelerator ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/01/05/ai-startup-eys3d-debuts-computer-vision-platform-autonomous-robots/",
-      "originalUrl": "https://siliconangle.com/2023/01/05/ai-startup-eys3d-debuts-computer-vision-platform-autonomous-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/eYesw3D.png",
-          "width": 801,
-          "height": 454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T21:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision",
-        "Google AI"
       ]
     }
   ],

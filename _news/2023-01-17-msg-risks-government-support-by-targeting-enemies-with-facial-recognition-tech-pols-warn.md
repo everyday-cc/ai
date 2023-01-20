@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-rec
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/amp/"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: New York Post
@@ -28,6 +28,17 @@ images:
     isCached: true
 
 related:
+  - title: "NY lawmakers call on MSG to stop using facial recognition software"
+    excerpt: "Madison Square Garden's use of facial recognition technology has come under scrutiny after revelations that it was being used to ban attorneys who work or firms with pending lawsuits against MSG."
+    publishedDateTime: 2023-01-16T03:33:00Z
+    webUrl: "https://www.fox5ny.com/news/nyc-lawmakers-calling-on-msg-to-stop-using-facial-recognition-software"
+    ampWebUrl: "https://www.fox5ny.com/news/nyc-lawmakers-calling-on-msg-to-stop-using-facial-recognition-software.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/nyc-lawmakers-calling-on-msg-to-stop-using-facial-recognition-software.amp"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 39
   - title: "MSG risks public help by targeting ‘enemies’ with facial recognition tech – Pols"
     excerpt: "Elected officials are warning Madison Square Garden Entertainment better stop using “terrifying” facial recognition software to boot rival attorneys at its venue."
     publishedDateTime: 2023-01-16T18:54:00Z

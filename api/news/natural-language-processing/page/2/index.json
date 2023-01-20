@@ -2,6 +2,83 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-09-the-expanding-ease-and-utility-of-text-analytics-and-natural-language-processing.md",
+      "title": "The expanding ease and utility of text analytics and natural language processing",
+      "excerpt": "Statistical model techniques also produce the benefit of accelerating tradi- tional natural language processing (NLP) methods to reduce their time-to-value. Conversely, pairing these conventional methods with their newer statistical counterparts heightens ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=156495",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=156495",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/150767-JH_123.jpg-ORG.jpg",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-08T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-timekettle-prepares-innovative-translation-tech-showcase-for-ces-2023.md",
+      "title": "Timekettle prepares innovative translation tech showcase for CES 2023",
+      "excerpt": "Technology company Timekettle is showcasing its cutting-edge translation technical solutions at the 2023 Consumer Electronics Show (\"CES 2023\"), the world's most",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30311197/timekettle-prepares-innovative-translation-tech-showcase-for-ces-2023",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30311197/timekettle-prepares-innovative-translation-tech-showcase-for-ces-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-06T05:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-06-how-ai-could-solve-the-metaverses-language-problem.md",
       "title": "How AI Could Solve the Metaverse’s Language Problem",
       "excerpt": "Enter OneMeta AI. The company's Verbum service, which is making its debut at CES 2023, can provide real-time translation of up to 50 individuals, all speaking a different language (it supports 82 ...",
@@ -1228,94 +1305,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-natural-language-processing-and-recognition-market-with-tremendous-growth-by-2029-apple-google-microsoft.md",
-      "title": "Natural Language Processing and Recognition Market with Tremendous growth by 2029 Apple, Google, Microsoft",
-      "excerpt": "New Jersey, United States, Dec 13, 2022 /DigitalJournal/ Natural language processing consists of the combination of the computational rule-based modeling of the human language that represents data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-and-recognition-market-with-tremendous-growth-by-2029-apple-google-microsoft",
-      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-and-recognition-market-with-tremendous-growth-by-2029-apple-google-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Natural-Language-Processing-and-Recognition.jpeg",
-          "width": 600,
-          "height": 319,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-speech-and-voice-recognition-market-report-covers-future-trends-with-research-2022-2029-nuance-communications-microsoft-corporation-alphabet.md",
-      "title": "Speech And Voice Recognition Market Report Covers Future Trends with Research 2022-2029 | Nuance Communications, Microsoft Corporation, Alphabet",
-      "excerpt": "New Jersey, United States, Dec 13, 2022 /DigitalJournal/ Speech and voice recognition technology involves the application of pattern recognition to convert speech into a sequence of words.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-report-covers-future-trends-with-research-2022-2029-nuance-communications-microsoft-corporation-alphabet",
-      "originalUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-report-covers-future-trends-with-research-2022-2029-nuance-communications-microsoft-corporation-alphabet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Speech-And-Voice-Recognition.jpg",
-          "width": 600,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

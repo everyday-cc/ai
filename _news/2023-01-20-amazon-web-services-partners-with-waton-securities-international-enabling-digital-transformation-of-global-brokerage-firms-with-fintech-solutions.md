@@ -1,21 +1,40 @@
 ---
 category: news
 title: "Amazon Web Services Partners with Waton Securities International, Enabling Digital Transformation of Global Brokerage Firms with FinTech Solutions"
-excerpt: "In January 2023, Amazon Web Services (known as \"AWS\") announced the strategic partnership with Waton Securities International (known as \"Waton\") to launch"
-publishedDateTime: 2023-01-20T11:53:00Z
-originalUrl: "https://www.asiaone.com/business/amazon-web-services-partners-waton-securities-international-enabling-digital"
-webUrl: "https://www.asiaone.com/business/amazon-web-services-partners-waton-securities-international-enabling-digital"
+excerpt: "As a licensed brokerage firm and a FinTech solution provider ... In addition, Waton has built in automated risk management AI in our Broker Cloud platorm, which helps clients identify, monitor and manage various type of risks, and fulfil regulatory ..."
+publishedDateTime: 2023-01-20T12:17:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/01/20/9746697.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/01/20/9746697.htm"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
   - AWS AI
 
-secured: "4tR+B70a/QODwTVGWADgEx/fhtvdd2qj5jDrIWsmL0RiPBLZkg4xYwEP36bLEX5GH9xYNXsWDMdaohssjFIWhTlykmLXiXTWsqnxzhyXPGEjSYdZ7FZfC1ONid2yixWF9Vfmt+DlNowrw7q8eibzPXJVKEqdPMOAC7bBogea+ib8mh/Bzapaxh3g8v+3DLSC4LL0Af7YZpLwchwmoY7o69gzJo0QLiwjODLurZVX7p8MHaL/HjxkWd+z7XP7mWW11/jdsvYkRtFp8NWvtHi9mgB1JNjNada2F820f2BF3iwknPmvyR3ZMgYneRh3agvRWBMd0sooUob+RXg8Nz9GM1SsxCR7C5tMdACOkiWp6PVQo+dHfsgGt8nMnI9cYrQoZsybpe4g/WYkuey2LMEpy7d9C/PfdDjkXQR4zcT+6SePGrYkGz+AuSK9FWP7c6fVlGRA/7d2weqjDKKFKLbmA3c2yDPeVkcwDS1Z/anhVLOmoN6RXWiuI9n0TlqA0evGc67KEHReqQNo2BLsYq2l5g==;WURGQ7rttHWjy2q3HWDQaw=="
+related:
+  - title: "Deutsche Bank, Blue Water Fintech Lab Introduce Robotic Process Automation Commercialization Program"
+    excerpt: "Deutsche Bank and its Blue Water Fintech Lab recently launched a Robotic Process Automation (RPA) commercialization program."
+    publishedDateTime: 2023-01-17T17:26:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/01/201212-deutsche-bank-blue-water-fintech-lab-introduce-robotic-process-automation-commercialization-program/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 24
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/01/Robot-AI.jpg"
+        width: 1280
+        height: 960
+        isCached: true
+
+secured: "pmOCnMh+3cFZUQPjeGNriMXRh02C4tSypb7bNJOARQAWJvqW8QlB/cVm5+sZu3qfuNcVRyXj4HYPNznVyeEXVXMKoxAWz5R3dbcbx1paZoIY4U+sQz4ApDGjIxE5EgE8UKutlssE4EY6KPpjXVhYLDO6Par0byLvpRBPgP/Ii3qSzIWukr7driepCqLDkLoDSo/44Dl9mWCdEptHmL90vZmd7XEMeMo40ALLjJ2wXsFCKfwWvBxes/YpC7roQE38z5lXDeQbmXIbOETigLvcNUV8gCKFR7DSbBiW8C8XBKQ+v3E6tzNGJ3/o8nK0mqMb4mxrAZz/Tkpurl3JXYMcs0gMA+PsU2/O+3QtRHi/wd0=;vGS6YR1MtCMwCdnpX0STXQ=="
 ---
 

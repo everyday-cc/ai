@@ -2,6 +2,343 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2022-10-22-over-30-lakh-officials-to-be-trained-in-artificial-intelligence-minister.md",
+      "title": "Over 30 Lakh Officials To Be Trained In Artificial Intelligence: Minister",
+      "excerpt": "Union Minister Jitendra Singh on Friday said more than 30 lakh central and state government officials will be trained and exposed to emerging technologies such as artificial intelligence (AI), machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/india-news/over-30-lakh-officials-to-be-trained-in-artificial-intelligence-minister-jitendra-singh-3453748",
+      "originalUrl": "https://www.ndtv.com/india-news/over-30-lakh-officials-to-be-trained-in-artificial-intelligence-minister-jitendra-singh-3453748",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2022-08/6uvni4e_jitendra-singh-650-_625x300_21_August_22.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/india-news/over-30-lakh-officials-to-be-trained-in-artificial-intelligence-minister-jitendra-singh-3453748/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/over-30-lakh-officials-to-be-trained-in-artificial-intelligence-minister-jitendra-singh-3453748/amp/1",
+      "publishedDateTime": "2022-10-21T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-why-generative-ai-legal-battles-are-brewing-the-ai-beat.md",
+      "title": "Why generative AI legal battles are brewing | The AI Beat",
+      "excerpt": "Behind this week's firehose of news around generative AI tools, legal battles around \"fair use\" of training data are brewing, say experts.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-generative-ai-legal-battles-are-brewing-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/why-generative-ai-legal-battles-are-brewing-the-ai-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-824294832.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 863,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-generative-ai-legal-battles-are-brewing-the-ai-beat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-generative-ai-legal-battles-are-brewing-the-ai-beat/amp/",
+      "publishedDateTime": "2022-10-21T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-dalle-mini-and-the-future-of-artificial-intelligence-art.md",
+      "title": "Dall·E Mini And The Future Of Artificial Intelligence Art",
+      "excerpt": "With many companies investing in artificial intelligence, it’s no surprise that there are AI-powered graphic generators that can create original works of art. Dall-E 2 is particularly good at making photorealistic images from text prompts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6352ceae4b01a4d84be382e7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/amp/",
+      "publishedDateTime": "2022-10-21T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-how-ai-can-help-in-the-fight-against-breast-cancer.md",
+      "title": "How AI can help in the fight against breast cancer",
+      "excerpt": "In 2020, there were 2.3 million people diagnosed with breast cancer and 685,000 deaths globally. Early cancer detection is key to better health outcomes. But screenings are work intensive, and patients often find getting mammogramsand waiting for results stressful.In response to these challenges, Google",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/health/how-ai-can-help-in-the-fight-against-breast-cancer/",
+      "originalUrl": "https://blog.google/technology/health/how-ai-can-help-in-the-fight-against-breast-cancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Mammo_Image_2.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-post-covid-cognitive-impairments-similar-to-being-sleep-deprived-canadian-led-study.md",
+      "title": "Post-COVID cognitive impairments similar to being 'sleep deprived': Canadian-led study",
+      "excerpt": "A new Western University-led study has shed more light on the impacts of COVID-19, suggesting patients may experience short- and long-term cognitive impairments following infection, which can be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctvnews.ca/health/coronavirus/post-covid-cognitive-impairments-similar-to-being-sleep-deprived-canadian-led-study-1.6117002",
+      "originalUrl": "https://www.ctvnews.ca/health/coronavirus/post-covid-cognitive-impairments-similar-to-being-sleep-deprived-canadian-led-study-1.6117002",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-databrickss-chris-dagostino-on-ai-and-data-management.md",
+      "title": "Databricks’s Chris D’Agostino on AI and Data Management",
+      "excerpt": "A new survey details major market trends in the data and AI sectors, and reveals how these two technologies closely interoperate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/database/databricks-ai-and-data-management/",
+      "originalUrl": "https://www.eweek.com/database/databricks-ai-and-data-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/10/eSPEAKS-thumbnail-5.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-billiondollarbreaks-d-wave-quantum-inc-nyse-qbts-now-available-in-aws-marketplace.md",
+      "title": "BillionDollarBreaks - D-Wave Quantum Inc. (NYSE: QBTS) Now Available in AWS Marketplace",
+      "excerpt": "D-Wave Quantum Inc. (NYSE: QBTS), a leader in quantum computing systems, software and services, and the only quantum computing company building both annealing and gate-model quantum computers, has launched in AWS Marketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/billiondollarbreaks---d-wave-quantum-inc-nyse-qbts-now-available-in-aws-marketplace-2022-10-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/billiondollarbreaks---d-wave-quantum-inc-nyse-qbts-now-available-in-aws-marketplace-2022-10-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-new-flexible-steerable-device-placed-in-live-brains-by-minimally-invasive-robot.md",
       "title": "New flexible, steerable device placed in live brains by minimally invasive robot",
       "excerpt": "Imperial College London scientists have successfully placed a bioinspired steerable catheter into the brain of an animal for the first time.",
@@ -809,324 +1146,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-texas-ag-sues-google-over-its-facial-data-collection-practices-updated.md",
-      "title": "Texas AG sues Google over its facial data collection practices (Updated)",
-      "excerpt": "Texas AG, Ken Paxton, is once again suing Google -- this time over the company's use of facial and voice biometric data gathered from the state's residents..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html",
-      "originalUrl": "https://www.engadget.com/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-09/98e07ce0-2aa6-11ed-bfef-4161b140f90d",
-          "width": 5000,
-          "height": 2964,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html",
-      "publishedDateTime": "2022-10-20T18:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-weight-loss-in-early-parkinson-linked-to-cognitive-decline.md",
-      "title": "Weight Loss in Early Parkinson Linked to Cognitive Decline",
-      "excerpt": "THURSDAY, Oct. 20, 2022 (HealthDay News) -- Weight loss in early Parkinson disease (PD) is associated with a decline in cognitive function, according to a study published online Oct. 19 in Neurology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kpvi.com/interests/weight-loss-in-early-parkinson-linked-to-cognitive-decline/article_e58ebdf7-b049-5c83-8435-6b68275bde2b.html",
-      "originalUrl": "https://www.kpvi.com/interests/weight-loss-in-early-parkinson-linked-to-cognitive-decline/article_e58ebdf7-b049-5c83-8435-6b68275bde2b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kpvi.com/content/tncms/assets/v3/editorial/c/80/c802b23b-58c1-50e8-8c20-79c45aff8b67/6351f2b4671d4.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T18:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "kpvi",
-        "domain": "kpvi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video.md",
-      "title": "This Week In XR: Stability AI Raises $101 Million, VITURE Raises $10 Million For Wearable Hi Def Video",
-      "excerpt": "Stability AI Raises $101M Stable Diffusion, a state of the art open source text-to-image AI program that generates images from text, announced a $101M seed round at Techcrunch Disrupt in San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2022/10/20/this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2022/10/20/this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6351e8216ab4d7c1914360b0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2022/10/20/this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2022/10/20/this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video/amp/",
-      "publishedDateTime": "2022-10-20T17:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-driverless-cabs-ai-perfume-and-a-history-mystery.md",
-      "title": "Driverless cabs, AI perfume and a history mystery",
-      "excerpt": "Click takes a ride in one of the first fare paying driverless cabs in San Francisco ... visitors solve a historical mystery. And how artificial intelligence is helping the perfume industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/programmes/m001cv9d",
-      "originalUrl": "https://www.bbc.co.uk/programmes/m001cv9d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-amazon-scams-to-avoid-at-all-costs.md",
-      "title": "Amazon Scams to Avoid at All Costs",
-      "excerpt": "Scammers can even pose as representatives from big companies, like Amazon, in attempts to steal customers’ information. One way to keep yourself safe from these scams is to know what they are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rd.com/article/amazon-scams/",
-      "originalUrl": "https://www.rd.com/article/amazon-scams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rd.com/wp-content/uploads/2021/04/GettyImages-1203044142.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reader's Digest",
-        "domain": "rd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-the-role-of-motion-control-in-medical-robotics.md",
-      "title": "The Role of Motion Control in Medical Robotics",
-      "excerpt": "Motion control is a critical component of almost all of today’s robotic applications, explains Aleksandar Nacev, PhD, chief technology officer for Promaxo. Nacev is an engineering professional with expertise in magnetic systems engineering. Promaxo’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
-      "originalUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/motion%20control%20webinar%20DT613X.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-cloud-ai-in-fintech-market-current-scenario-and-future-prospects.md",
-      "title": "Cloud AI in Fintech Market Current Scenario and Future Prospects",
-      "excerpt": "The Cloud AI in Fintech Market Report provides Insightful qualitative and quantitative information along with an",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-current-scenario-and-future-prospects-2022-10-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-current-scenario-and-future-prospects-2022-10-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

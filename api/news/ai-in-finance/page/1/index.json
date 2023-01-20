@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-20-how-much-will-ai-impact-life-in-2023.md",
+      "title": "How much will AI impact life in 2023?",
+      "excerpt": "Artificial intelligence (AI) has been a part of many aspects of modern life for years, but in the last few weeks the sudden arrival of ChatGPT, a publicly",
+      "sourceUrl": null,
+      "webUrl": "https://www.consumeraffairs.com/news/how-much-will-ai-impact-life-in-2023-012023.html",
+      "originalUrl": "https://www.consumeraffairs.com/news/how-much-will-ai-impact-life-in-2023-012023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.consumeraffairs.com/files/news/Artificial_intelligence_concept_kishore_kumar_Getty_Images.jpg",
+          "width": 900,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.consumeraffairs.com/amp/news/how-much-will-ai-impact-life-in-2023-012023.html",
+      "cdnAmpWebUrl": "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/how-much-will-ai-impact-life-in-2023-012023.html",
+      "publishedDateTime": "2023-01-20T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ConsumerAffairs",
+        "domain": "consumeraffairs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services.md",
       "title": "How startups are using AI for fixing challenges in traditional financial services",
       "excerpt": "Startups using AI are making better data-driven decisions, increasing profits directly by efficient targeting, automating repetitive tasks, and much more to unlock competitive advantages",
@@ -1332,49 +1375,6 @@
         "AI in Finance",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-options-ai-awarded-best-broker-for-options-trading-at-benzinga-global-fintech-awards.md",
-      "title": "Options AI Awarded Best Broker For Options Trading at Benzinga Global Fintech Awards",
-      "excerpt": "Options AI’s goal is to level the playing field for retail investors. NEW YORK, NY, USA, January 4, 2023 /EINPresswire.com/ -- Options AI today announced that it ...",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/ein-presswire/609049340/options-ai-awarded-best-broker-for-options-trading-at-benzinga-global-fintech-awards/",
-      "originalUrl": "https://ktla.com/business/press-releases/ein-presswire/609049340/options-ai-awarded-best-broker-for-options-trading-at-benzinga-global-fintech-awards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktla.com/wp-content/uploads/sites/4/2023/01/KTLA-LOGO_LAS-VERY-OWN-logo.png",
-          "width": 600,
-          "height": 207,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

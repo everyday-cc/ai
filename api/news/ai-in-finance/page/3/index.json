@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-06-bank-of-america-sees-ai-transforming-the-internet-over-the-next-five-yearstop-stocks-to-ride-trend.md",
+      "title": "Bank of America sees AI transforming the internet over the next five years—top stocks to ride trend",
+      "excerpt": "AI and machine learning will be a \"critical driver of all things Internet,\" Bank of America said in a note Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/12/06/bank-of-america-sees-ai-transforming-the-internet-over-the-next-five-yearstop-stocks-to-ride-trend.html",
+      "originalUrl": "https://www.cnbc.com/2022/12/06/bank-of-america-sees-ai-transforming-the-internet-over-the-next-five-yearstop-stocks-to-ride-trend.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107157151-1669394314402-gettyimages-1236198615-BPS01_Tablet_Apps_OC_5JPG.jpeg?v=1670304576&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T19:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-03-this-ai-powered-fintech-is-making-strides-is-it-time-to-buy.md",
       "title": "This AI-Powered Fintech Is Making Strides: Is It Time to Buy?",
       "excerpt": "Lemonade is on a mission to reimagine the insurance business. It leverages artificial intelligence (AI) to help people buy renters, homeowners, pet, and car insurance with just a few questions ...",
@@ -1263,50 +1316,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-israel-deploys-remote-controlled-robotic-guns-in-west-bank.md",
-      "title": "Israel deploys remote-controlled robotic guns in West Bank",
-      "excerpt": "Robotic weapons are increasingly in operation around the world, with militaries expanding their use of drones to carry out lethal strikes from Ukraine to Ethiopia. Remote-controlled guns like the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2022-11-16/israel-deploys-remote-controlled-robotic-guns-in-west-bank",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2022-11-16/israel-deploys-remote-controlled-robotic-guns-in-west-bank",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/b3bbc03/2147483647/strip/true/crop/5455x3648+9+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6c%2F62%2Ffff55e966143d9ee01ff02211184%2F0d99c1e0017d40e4bd07a61b15c66b8c",
-          "width": 320,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2022-11-16/israel-deploys-remote-controlled-robotic-guns-in-west-bank?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2022-11-16/israel-deploys-remote-controlled-robotic-guns-in-west-bank?_amp=true",
-      "publishedDateTime": "2022-11-16T17:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

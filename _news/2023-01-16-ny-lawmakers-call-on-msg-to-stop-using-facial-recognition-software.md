@@ -21,93 +21,31 @@ topics:
   - AI
 
 related:
-  - title: "Advocates demand Madison Square Garden stop using facial recognition"
-    excerpt: "Lawmakers and privacy advocates are calling on James Dolan, owner of Madison Square Garden and Radio City Music Hall, to stop surveilling guests for non-security purposes."
-    publishedDateTime: 2023-01-15T23:45:00Z
-    webUrl: "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/"
-    ampWebUrl: "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/amp/"
+  - title: "MSG risks government support by targeting ‘enemies’ with facial recognition tech, pols warn"
+    excerpt: "Elected officials are warning Madison Square Garden Entertainment better stop using “terrifying” facial recognition software to boot rival attorneys at its venue."
+    publishedDateTime: 2023-01-16T19:13:00Z
+    webUrl: "https://nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/"
+    ampWebUrl: "https://nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/amp/"
     type: article
     provider:
-      name: pix11
-      domain: pix11.com
-    quality: 59
+      name: New York Post
+      domain: nypost.com
+    quality: 51
     images:
-      - url: "https://pix11.com/wp-content/uploads/sites/25/2022/11/AP22318781223165.jpg?w=1280"
-        width: 1280
-        height: 851
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/01/msg-facial-recognition-comp-03.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "New calls for Madison Square Garden to halt use of facial recognition"
-    excerpt: "Madison Square Garden Entertainment utilized the tech to have three people removed from the Garden and Radio City Music Hall."
-    publishedDateTime: 2023-01-15T22:49:00Z
-    webUrl: "https://abc7ny.com/msg-facial-recognition-madison-square-garden-fans/12706435/"
-    ampWebUrl: "https://abc7ny.com/amp/msg-facial-recognition-madison-square-garden-fans/12706435/"
-    cdnAmpWebUrl: "https://abc7ny-com.cdn.ampproject.org/c/s/abc7ny.com/amp/msg-facial-recognition-madison-square-garden-fans/12706435/"
+  - title: "MSG risks public help by targeting ‘enemies’ with facial recognition tech – Pols"
+    excerpt: "Elected officials are warning Madison Square Garden Entertainment better stop using “terrifying” facial recognition software to boot rival attorneys at its venue."
+    publishedDateTime: 2023-01-16T18:54:00Z
+    webUrl: "https://nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/"
     type: article
     provider:
-      name: abc7NY
-      domain: abc7ny.com
-    quality: 59
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12706437_011523-msg-facial-recognition.png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "New York Legislators Protest Madison Square Garden Over Facial Recognition"
-    excerpt: "It is absolutely time for the city and the state to reconsider any and all permits, licenses, and benefits provided to MSG in the face of their continued malfeasance,” one New York"
-    publishedDateTime: 2023-01-17T21:22:00Z
-    webUrl: "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/"
-    ampWebUrl: "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/amp/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 59
-    images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2023/01/MSG.jpg?w=1600&h=900&crop=1"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "NY leaders call on Madison Square Garden to stop using facial recognition tech: 'Sets a dangerous precedent'"
-    excerpt: "While New York lawmakers are calling on Madison Square Garden to cease the use of facial recognition tech on fans, the company said it does not retain images of most individuals."
-    publishedDateTime: 2023-01-17T20:19:00Z
-    webUrl: "https://www.foxbusiness.com/technology/ny-lawmakers-call-on-madison-square-garden-to-stop-using-facial-recognition-software-thats-been-used-to-boot"
-    ampWebUrl: "https://www.foxbusiness.com/technology/ny-lawmakers-call-on-madison-square-garden-to-stop-using-facial-recognition-software-thats-been-used-to-boot.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ny-lawmakers-call-on-madison-square-garden-to-stop-using-facial-recognition-software-thats-been-used-to-boot.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 42
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f10f4340-42c7-4392-896f-74dc0661b6a9/bfd9c01d-d211-4649-99dc-e9d1fe3285eb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "New York Legislators to Madison Square Garden: TKTK Facial Recognition"
-    excerpt: "It is absolutely time for the city and the state to reconsider any and all permits, licenses, and benefits provided to MSG in the face of their continued malfeasance,” one New York"
-    publishedDateTime: 2023-01-17T20:46:00Z
-    webUrl: "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scaning-1234662270/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 21
-  - title: "NYC pols urge Madison Square Garden head James Dolan to stop using facial recognition tech to kick out ‘adversaries’"
-    excerpt: "Manhattan state Sen. Brad Hoylman-Sigal and a bevy of pols gathered outside MSG on Sunday to demand its controversial CEO James Dolan end the practice."
-    publishedDateTime: 2023-01-16T01:40:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/new-york-elections-government/ny-madison-square-garden-ban-james-dolan-20230116-wxmn3nhjsrccforssj46ewwgru-story.html"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
+      name: New York Post
+      domain: nypost.com
     quality: 16
-    images:
-      - url: "https://www.nydailynews.com/resizer/L_MSAFn9B40oDPIgZ9Jn7h4DA7Q=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/BXRLJD2CPRH7VDFNOUJXPJXBCQ.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "TTu8jtGxPIkFjWWLH0xz/aXUZUJedL4XMeTfHfTaYVxIVHPD6TtMy2ijKBYjExU0agFmYZe+g3sETAlstJv89wsRZcfMU+wsGj0TWPZlVg/5521A5y3xQNR9L+TuCgH1NAC1kkN5Wt1zov9cK4FusWDQuMtVIBgNwtnqJfCIEvz1YnqDOC4ijzk2S+hGVt8cy/paybclQH3Q1dSXL95tWsOOlpASHxo2/1NXj52P6g+z+crOK6bZR87Hn90F4Wn0+ZSPCClsovNjS6yWdxX/az4CH3EKYWoR3AAO/3oNUjGZoECi78skfYb7/oNaFxz0mvH+9BKJVtgK5S474VJkkTGKEl9TI6X0zzNI/unVt+Cl1hjV3NRupPY96oY2FKK/9cyoBB9BUnktPyD7IhvD0bbV+Q3tnqNpYoMiVkt1D0MFNUtfkoLQ/SJwsYoRb4pLO9r27L3GfNRXpZ/7bHIpgQGcnxuz2z5tzqDvAyrDk28+Fvcp9j9AZuzeQ+r+X24a0p+D/imLfEEOM4d9NBuShQ==;cUMkWCA8vI5xWcCkBGSn2g=="
 ---

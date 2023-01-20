@@ -41,22 +41,6 @@ related:
         width: 1023
         height: 683
         isCached: true
-  - title: "NCAI announces artificial intelligence challenge for students"
-    excerpt: "The technical areas for submission of concept notes included Artificial Intelligence Applications, Autonomous Systems, Assistive Robotics, Intelligent Systems, Convolution Neural Networks, Cyber Security and AI, Data Fusion, Data Mining and Information ..."
-    publishedDateTime: 2023-01-15T22:30:00Z
-    webUrl: "https://dailytimes.com.pk/1051739/ncai-announces-artificial-intelligence-challenge-for-students/"
-    ampWebUrl: "https://dailytimes.com.pk/1051739/ncai-announces-artificial-intelligence-challenge-for-students/amp/"
-    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1051739/ncai-announces-artificial-intelligence-challenge-for-students/amp/"
-    type: article
-    provider:
-      name: Daily Times
-      domain: dailytimes.com.pk
-    quality: 78
-    images:
-      - url: "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Therapy by chatbot? The promise and challenges in using AI for mental health"
     excerpt: "Some companies and researchers think smart computers might eventually help with provider shortages in mental health, and some consumers are already turning to chatbots to build \"emotional resilience.\""
     publishedDateTime: 2023-01-19T14:40:00Z

@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Musk oversaw staged Tesla self-driving video, emails show"
+    excerpt: "If there was any doubt that Tesla CEO Elon Musk knew the company's much-watched 2016 self-driving demo was staged, emails obtained by Bloomberg should lay that to rest. \"Just want to be absolutely clear that everyone’s top priority is achieving an amazing Autopilot demo drive,"
+    publishedDateTime: 2023-01-20T15:25:00Z
+    webUrl: "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/"
+    ampWebUrl: "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 104
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1233956223-800x533.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Tesla staged 2016 self-driving demo, says senior Autopilot engineer"
     excerpt: "The car is driving itself.\" We then see a Tesla Model X leave a garage ... 3D maps were used to pre-program the route, including where to stop, and during the self-parking demo a Tesla crashed into a fence, Elluswamy said. The fatal crash occurred on ..."
     publishedDateTime: 2023-01-17T20:35:00Z
@@ -347,20 +363,15 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "As self-driving sector shifts into gear, the innovators pull ahead of the pack"
-    excerpt: "Closer to the ground, another revolution is taking place in the form of a budding self-driving car industry. Last week, British self-driving software start-up Oxbotica successfully raised £115mln in a series-C funding round comprising investments from ..."
-    publishedDateTime: 2023-01-17T10:15:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1003364/as-self-driving-sector-shifts-into-gear-the-innovators-pull-ahead-of-the-pack-1003364.html"
+  - title: "Elon Musk oversaw video exaggerating Tesla’s self-driving capabilities"
+    excerpt: "The company’s CEO wrote to Tesla’s Autopilot team after 2 a.m. California time in October 2016 to emphasize the importance of a demonstration drive to promote the system"
+    publishedDateTime: 2023-01-20T14:13:00Z
+    webUrl: "https://www.eastbaytimes.com/2023/01/20/musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/"
     type: article
     provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 20
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzAxXC9zaHV0dGVyc3RvY2stMTAwNTcwMTkwOC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0="
-        width: 1200
-        height: 630
-        isCached: true
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 19
   - title: "Tesla Engineer Says Company Staged Self-Driving Demonstration Video"
     excerpt: "A senior Tesla engineer testified in a deposition last July that the automaker promoted its self-driving technology in a staged 2016 video. The video was then shared on Twitter by CEO Elon Musk. It remains archived on Tesla's official website."
     publishedDateTime: 2023-01-19T20:12:00Z

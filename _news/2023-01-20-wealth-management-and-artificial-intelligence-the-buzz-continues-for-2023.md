@@ -18,15 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "How are AI and machine learning changing risk management?"
-    excerpt: "Business owners across the world were trained through experience how to identify risk to their operation. Whether a competitor released a new product, the economy trended in an opposite direction, or a natural disaster/pandemic occured,"
-    publishedDateTime: 2023-01-18T23:17:00Z
-    webUrl: "https://www.techopedia.com/how-are-ai-and-machine-learning-changing-risk-management/7/34926"
+  - title: "Latest BlueSwell Startups Harnessing Wind For Ships And AI For Fish Management"
+    excerpt: "They’re examples from program’s the third cohort of six startups selected and supported by the folks at SeaAhead Inc. and the New England Aquarium."
+    publishedDateTime: 2023-01-20T11:46:00Z
+    webUrl: "https://www.forbes.com/sites/jeffkart/2023/01/20/latest-blueswell-startups-harnessing-wind-for-ships-and-ai-for-fish-management/"
+    ampWebUrl: "https://www.forbes.com/sites/jeffkart/2023/01/20/latest-blueswell-startups-harnessing-wind-for-ships-and-ai-for-fish-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2023/01/20/latest-blueswell-startups-harnessing-wind-for-ships-and-ai-for-fish-management/amp/"
     type: article
     provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63c99c1d67b3adb6ece9af4f/0x0.jpg?format=jpg&crop=2654,1244,x0,y0,safe&width=1200"
+        width: 1200
+        height: 562
+        isCached: true
 
 secured: "Wivd2H6bMCzCQbONURaULr5ruRFBgsmrHOvSuwz9Rdv43AiDVi3tgdac3azNiXOCRmK8foucDIAFn6z063xOONYMe2i/25Ew/5LiTNs/xJ2LshBrKjDLyCskhOAglrOxseSSzn+q27mPO4th2Fkb9Wt/uLgRpeUitswf0g+MKORUKipJRcv0vy+bo/gV4iQqeQ4FLQCN+HUVolDzS8fHu8Rh2bc2f4mQA7TXoB8ZyCrcdfVxlCA9s9M0TLB1MxH/+OTviL05GYLDeR0HqAtv/TJmeufOohLVf8q3CubqZj6KSohD4YD8BNTgq+9Lf+MJapifkl+cZxBG+yZRpcpzy8gpxJBLQPwXjxnd7tySrKQ=;1adgbekhfTfgjG1ZxUdx+g=="
 ---

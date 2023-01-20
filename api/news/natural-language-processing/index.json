@@ -10,7 +10,7 @@
       "originalUrl": "https://www.digit.in/news/machine-learning-and-ai/paging-dr-ai-to-the-emergency-room-artificial-intelligence-passes-us-medical-licensing-exam-66910.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -185,6 +185,50 @@
       ]
     },
     {
+      "path": "_news/2023-01-18-new-york-legislators-protest-madison-square-garden-over-facial-recognition.md",
+      "title": "New York Legislators Protest Madison Square Garden Over Facial Recognition",
+      "excerpt": "It is absolutely time for the city and the state to reconsider any and all permits, licenses, and benefits provided to MSG in the face of their continued malfeasance,” one New York",
+      "sourceUrl": null,
+      "webUrl": "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/",
+      "originalUrl": "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rollingstone.com/wp-content/uploads/2023/01/MSG.jpg?w=1600&h=900&crop=1",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/amp/",
+      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/amp/",
+      "publishedDateTime": "2023-01-17T13:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rolling Stone",
+        "domain": "rollingstone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-deepl-takes-aim-at-grammarly-with-the-launch-of-write-to-clean-up-your-prose.md",
       "title": "DeepL takes aim at Grammarly with the launch of Write, to clean up your prose",
       "excerpt": "After raising funding at a $1 billion valuation, translation startup DeepL is taking the wraps off Write to improve your writing.",
@@ -288,6 +332,50 @@
         "Natural Language Processing",
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-msg-risks-government-support-by-targeting-enemies-with-facial-recognition-tech-pols-warn.md",
+      "title": "MSG risks government support by targeting ‘enemies’ with facial recognition tech, pols warn",
+      "excerpt": "Elected officials are warning Madison Square Garden Entertainment better stop using “terrifying” facial recognition software to boot rival attorneys at its venue.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/",
+      "originalUrl": "https://nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/01/msg-facial-recognition-comp-03.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/amp/",
+      "publishedDateTime": "2023-01-16T11:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1309,83 +1397,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-01-09T03:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-the-expanding-ease-and-utility-of-text-analytics-and-natural-language-processing.md",
-      "title": "The expanding ease and utility of text analytics and natural language processing",
-      "excerpt": "Statistical model techniques also produce the benefit of accelerating tradi- tional natural language processing (NLP) methods to reduce their time-to-value. Conversely, pairing these conventional methods with their newer statistical counterparts heightens ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=156495",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=156495",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/150767-JH_123.jpg-ORG.jpg",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-08T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-timekettle-prepares-innovative-translation-tech-showcase-for-ces-2023.md",
-      "title": "Timekettle prepares innovative translation tech showcase for CES 2023",
-      "excerpt": "Technology company Timekettle is showcasing its cutting-edge translation technical solutions at the 2023 Consumer Electronics Show (\"CES 2023\"), the world's most",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30311197/timekettle-prepares-innovative-translation-tech-showcase-for-ces-2023",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30311197/timekettle-prepares-innovative-translation-tech-showcase-for-ces-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T05:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",

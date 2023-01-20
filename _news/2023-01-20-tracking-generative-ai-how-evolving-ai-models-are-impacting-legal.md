@@ -80,19 +80,19 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "'AI Art' Companies & DeviantArt Are Being Sued By Artists"
-    excerpt: "Stability AI and Midjourney—two of the biggest names in the exploding field of AI-generated imagery—and portfolio site DeviantArt have become the target of a class action lawsuit, filed in California on behalf of artists."
-    publishedDateTime: 2023-01-15T22:55:00Z
-    webUrl: "https://kotaku.com/ai-art-stable-diffusion-midjourney-lawsuit-sued-court-1849991363"
+  - title: "Art community fights for integrity as AI presents artificial images"
+    excerpt: "Artificial intelligence is adding art to its growing résumé. But artists and computer experts are starting to push back against companies that allow AI to create art from original works, citing copyright infringement and the possibility of misinformation."
+    publishedDateTime: 2023-01-20T15:44:00Z
+    webUrl: "https://www.csmonitor.com/The-Culture/Arts/2023/0120/Art-community-fights-for-integrity-as-AI-presents-artificial-images"
     type: article
     provider:
-      name: Kotaku
-      domain: kotaku.com
+      name: Christian Science Monitor
+      domain: csmonitor.com
     quality: 37
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8e0b906302cb1d7434ac04c76d9782da.jpg"
-        width: 1200
-        height: 675
+      - url: "https://images.csmonitor.com/csm/2023/01/1150225_2_0120-art_standard.jpg?alias=standard_900x600"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "fdn7IfNonn974IDoo5XKIasg8/ctS614iIBI7X4kFyGd4PDBlz5WkqcKaDZzfFuczZ6p3qyzDcK04Rv7XBqiDCESKI0ZXuH+jbyqhZkOEIjw7hKg2rjxLab4XTSdizamCMtNlFmAvyx6HqE2HUfwtdIeh2+G1lDcmte6Y5UYtZP4R+UUsy1f8Ee+TgGcsEd83yGcv9gxkv4F1hF2dw7X+XcwRfnGKZOryLbWeF55yIjDVh6SGzxgbe0HAxpuAb+F9KlRHBPNuMNN23DKD/8FLzrRXFpq5aZhdJcpOTqrLcsHI2FmhrvMohROngMOba/5fUo3GrQDyDl43UUbnKPaxagaFFzN6J/dud8SSTEZYSo=;erhKwR7Q7cEHQz/ctYncXg=="

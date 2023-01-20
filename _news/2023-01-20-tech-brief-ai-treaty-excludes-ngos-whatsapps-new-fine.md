@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-20T13:01:00Z
 originalUrl: "https://www.euractiv.com/section/digital/news/tech-brief-ai-treaty-excludes-ngos-whatsapps-new-fine/"
 webUrl: "https://www.euractiv.com/section/digital/news/tech-brief-ai-treaty-excludes-ngos-whatsapps-new-fine/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: EURACTIV

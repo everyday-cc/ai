@@ -2,6 +2,325 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2022-11-09-using-natural-language-processing-to-explore-dry-january-posts-on-twitter-a-longitudinal-infodemiology-study.md",
+      "title": "Using natural language processing to explore 'Dry January' posts on Twitter: A longitudinal infodemiology study.",
+      "excerpt": "This website requires cookies, and the limited processing of your  personal data in order to function. By using the site you are agreeing  to this as outlined in our privacy notice and cookie policy .",
+      "sourceUrl": null,
+      "webUrl": "https://europepmc.org/article/MED/36343184",
+      "originalUrl": "https://europepmc.org/article/MED/36343184",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T22:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Europe PMC",
+        "domain": "europepmc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-uae-launches-first-driverless-100-electric-vehicle.md",
+      "title": "UAE Launches First Driverless, 100% Electric Vehicle",
+      "excerpt": "The driverless and 100% electric shuttle is ... and Best Use of Automation categories at the prestigious 2021 Artificial Intelligence (AI) and Machine Learning Awards in the UK.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105154370/UAE-Launches-First-Driverless-100-Electric-Vehicle",
+      "originalUrl": "https://menafn.com/1105154370/UAE-Launches-First-Driverless-100-Electric-Vehicle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain.md",
+      "title": "Massachusetts Institute of Technology: Study urges caution when comparing neural networks to the brain",
+      "excerpt": "Neural networks, a type of computing system loosely modeled on the organization of the human brain, form the basis of many artificial intelligence systems for applications such speech recognition, computer vision,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain/",
+      "originalUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg?fit=600%2C400&ssl=1",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain/amp/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-study-urges-caution-when-comparing-neural-networks-to-the-brain/amp/",
+      "publishedDateTime": "2022-11-08T20:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-enterprise-artificial-intelligence-market-share-size-competitive-strategies-and-forecast-2022-2028.md",
+      "title": "Enterprise Artificial Intelligence Market Share, Size, Competitive Strategies and Forecast 2022 – 2028",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Nov 08, 2022 (Heraldkeepers) -- The global Enterprise Artificial Intelligence market is segregated on the basis of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-share-size-competitive-strategies-and-forecast-2022-2028-2022-11-08?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-share-size-competitive-strategies-and-forecast-2022-2028-2022-11-08?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T20:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-deep-learning-camera-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data.md",
+      "title": "Deep Learning Camera Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data",
+      "excerpt": "Number of Tables and Figures :128 | The global \"Deep Learning Camera Market\"size is projected to reach Multimillion USD",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-camera-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-11-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-camera-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-11-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T19:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-how-ai-is-breaking-out-of-silos-to-drive-gains-in-healthcare-autonomous-vehicles-and-beyond.md",
+      "title": "How AI is breaking out of silos to drive gains in healthcare, autonomous vehicles - and beyond",
+      "excerpt": "Xiao has a vision for how AI will become truly transformative: “Today we live in the age of artificial narrow intelligence. Many of the AI applications are very specifically focused on a particular domain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/brandfeature/tbd-media-group/50-leaders-of-change/how-ai-is-breaking-out-of-silos-to-drive-gains-in-healthcare-autonomous-vehicles-and-beyond",
+      "originalUrl": "https://www.reuters.com/brandfeature/tbd-media-group/50-leaders-of-change/how-ai-is-breaking-out-of-silos-to-drive-gains-in-healthcare-autonomous-vehicles-and-beyond",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.prismic.io/reuterscustomhubs/6b2e60c3-6e1d-467a-8f7f-a661fd68ca2e_tbd-50loc-g42-main-image.jpg?auto=compress,format",
+          "width": 2040,
+          "height": 1093,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T18:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-waymo-can-now-charge-for-fully-driverless-services-in-san-francisco.md",
+      "title": "Waymo can now charge for fully driverless services in San Francisco",
+      "excerpt": "The California Department of Motor Vehicles approved an amendment to Waymo’s existing deployment permit Wednesday to include driverless, as well as drivered, operations. Now, Waymo will be able ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/",
+      "originalUrl": "https://techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/IPACE_3.jpeg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/amp/",
+      "publishedDateTime": "2022-11-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-nvidias-selling-a-nerfed-gpu-in-china-to-get-around-export-restrictions.md",
       "title": "Nvidia’s selling a nerfed GPU in China to get around export restrictions",
       "excerpt": "If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Nvidia’s note about not being able to be programmed to exceed the limits is important. Back when GPUs were in short supply, the company announced that its ...",
@@ -856,308 +1175,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-artificial-intelligence-in-agriculture-market-2022-projected-to-gain-significant-value-by-2026.md",
-      "title": "Artificial Intelligence in Agriculture Market 2022 Projected to Gain Significant Value by 2026",
-      "excerpt": "\" Artificial Intelligence in Agriculture Market \" Insights 2022 | By Types ( Computer Vision, Predictive Analytics, Machine Learning ), Applications ( Agriculture Robots, Livestock Monitoring, Drone Analytics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-2022-projected-to-gain-significant-value-by-2026-2022-11-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-2022-projected-to-gain-significant-value-by-2026-2022-11-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T20:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-nvidia-has-advanced-chip-for-china-that-meets-us-exports-rules.md",
-      "title": "Nvidia Has Advanced Chip for China That Meets US Exports Rules",
-      "excerpt": "The chip was developed after the US government told the chipmaker to restrict sales of a chip designed for AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/nvidia-has-advanced-chip-for-china-that-meets-us-exports-rules/",
-      "originalUrl": "https://www.cnet.com/tech/nvidia-has-advanced-chip-for-china-that-meets-us-exports-rules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/917de34dae0234cfee3bdd2ff0f41e0c1d3d5a90/hub/2022/11/08/c9b1b3eb-353d-4084-9cdb-09a4ad261737/gettyimages-1231345600.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-has-advanced-chip-for-china-that-meets-us-exports-rules/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-has-advanced-chip-for-china-that-meets-us-exports-rules/",
-      "publishedDateTime": "2022-11-07T20:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-anumana-acquires-neutrace-establishing-a-comprehensive-electrophysiology-deep-learning-development-platform-and-product-pipeline.md",
-      "title": "Anumana Acquires NeuTrace, Establishing a Comprehensive Electrophysiology Deep-Learning Development Platform and Product Pipeline",
-      "excerpt": "Advanced deep learning techniques on in-procedure EGM and ECG data feeds, combined with pre- and post-procedure ECG and EMR data records, will enable new and improved ECG-AI based diagnostic and pre-diagnostic algorithms for early disease detection and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/anumana-acquires-neutrace-establishing-a-comprehensive-electrophysiology-deep-learning-development-platform-and-product-pipeline/",
-      "originalUrl": "https://www.01net.it/anumana-acquires-neutrace-establishing-a-comprehensive-electrophysiology-deep-learning-development-platform-and-product-pipeline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T20:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-watch-this-penny-sized-jumping-robot-right-itself-mid-leap.md",
-      "title": "Watch This Penny-Sized Jumping Robot Right Itself Mid-Leap",
-      "excerpt": "When they put these modified robots through their paces, the team confirmed that a collophore and body shape are necessary to land. Watch This Tiny Remote-Controlled Robot Crab-Walk Want Quieter ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.popularmechanics.com/technology/robots/a41887660/springtail-robots/",
-      "originalUrl": "https://www.popularmechanics.com/technology/robots/a41887660/springtail-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T16:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Mechanics",
-        "domain": "popularmechanics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-early-weight-loss-tied-to-faster-cognitive-decline-in-parkinsons-disease.md",
-      "title": "Early Weight Loss Tied to Faster Cognitive Decline in Parkinson's Disease",
-      "excerpt": "Early weight loss after a diagnosis of Parkinson's disease (PD) may be a harbinger of more rapid deterioration in cognitive function, new research suggests. Results showed that in the first year ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/983735",
-      "originalUrl": "https://www.medscape.com/viewarticle/983735",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-the-pursuit-of-ai-education-past-present-and-future.md",
-      "title": "The pursuit of AI education - past, present, and future",
-      "excerpt": "Meet Sylvia Christie, our education partnerships manager who’s played a leading role in expanding our scholarship programme, which is marking its five-year anniversary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/the-pursuit-of-ai-education-past-present-and-future",
-      "originalUrl": "https://www.deepmind.com/blog/the-pursuit-of-ai-education-past-present-and-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-8-ways-to-reduce-ai-burnout.md",
-      "title": "8 ways to reduce AI burnout",
-      "excerpt": "\"Corporations should take extra care with both transparency in AI decisions and the ethics and governance that are applied. Explainable AI from top to bottom and transparency are two important ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/eight-ways-to-reduce-ai-burnout/",
-      "originalUrl": "https://www.zdnet.com/article/eight-ways-to-reduce-ai-burnout/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ba7479982a509e36f691d8c6cc9c79d0f4b1d6d0/2021/07/16/17b162b7-11cd-4a0a-9c87-13fb721e5e72/artificial-intelligence-shutterstock-1218220324.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/eight-ways-to-reduce-ai-burnout/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eight-ways-to-reduce-ai-burnout/",
-      "publishedDateTime": "2022-11-07T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

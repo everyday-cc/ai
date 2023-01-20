@@ -81,29 +81,20 @@
     {
       "path": "_news/2023-01-06-consciousness-in-robots-was-once-taboo-now-its-the-last-word.md",
       "title": "‘Consciousness’ in Robots Was Once Taboo. Now It’s the Last Word.",
-      "excerpt": "A robot prototype being developed by Yuhang ... The invocation of human features goes back to the dawn of artificial intelligence research in 1955, when a group of scientists at Dartmouth asked ...",
+      "excerpt": "Robots were being used for surgical procedures ... The invocation of human features goes back to the dawn of artificial intelligence research in 1955, when a group of scientists at Dartmouth ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.html",
-      "originalUrl": "https://www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.html",
+      "webUrl": "https://www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.amp.html",
+      "originalUrl": "https://www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.amp.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/01/05/multimedia/00SCI-ROBOTSELF-promo-1-4bcc/00SCI-ROBOTSELF-promo-1-4bcc-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.amp.html",
-      "publishedDateTime": "2023-01-06T06:30:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-06T07:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The New York Times",

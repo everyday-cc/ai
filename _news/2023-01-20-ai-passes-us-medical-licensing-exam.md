@@ -42,6 +42,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "A peek into healthcare's future? AI passes medical licensing exam"
+    excerpt: "An artificial intelligence chatbot that generates humanlike responses passed all three parts of the U.S. Medical Licensing Exam, according to findings published in the preprint server medRxiv. Researchers evaluated the performance of ChatGPT — a model launched by OpenAI in November — on the exam."
+    publishedDateTime: 2023-01-20T15:01:00Z
+    webUrl: "https://www.beckershospitalreview.com/hospital-physician-relationships/a-peek-into-healthcares-future-ai-passes-medical-licensing-exam.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/13thAnnualReviewerButton.png"
+        width: 2200
+        height: 900
+        isCached: true
 
 secured: "9I3GugA4kVexL6mt5I7xRA5oCR9ZS7+VEQlUg8Te9+Oj85rWshuA0AtOEn73MSf+m3bLu9+ET2cIcu8TVD8rBNlwcvZgx0g41lgZhDy7THdqGIDkp8UOEK+UxJVZE+GXq06V0gFgmVQn/6fv3OL8vDG2vI2B5RShfJi+Ga3oCKj6GhkBNA7YEsBvcHkxEoJPyfUuHxdY6Qyaae/Aqqj97o4Qkn3R8+CWLBacTHml/H/LW7XCkLQeyhjIJUOU2ugabncalWqzBnNmWgtT2/bx9Jdc2mmptmGoQ2XurIgo/0SHqZ6iKYB991+0BpSI4VT5eIOcUS4hNHUmjRPQwibV7/hp8/As2HjH7j9F0Q4abh1A6s9kha6cWuVOKvrl4jNKNOwboaGQzOaRVIfARURUq9skGO74XE8adjuPYJ4g0JxOFWeS/Cl4hs88dEk40XuGihzd0E8WBHlXGeim1kXC+ps82H8VBvYL2iiaBd/T0t//ETyS/A66w2hYmneqVkkZxflxe6GK3JohqSV5QR1PZg==;ZkOMjbkD99mFoUawMTSiUg=="
 ---

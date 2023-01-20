@@ -42,22 +42,6 @@ related:
         width: 1023
         height: 683
         isCached: true
-  - title: "NCAI announces artificial intelligence challenge for students"
-    excerpt: "The technical areas for submission of concept notes included Artificial Intelligence Applications, Autonomous Systems, Assistive Robotics, Intelligent Systems, Convolution Neural Networks, Cyber Security and AI, Data Fusion, Data Mining and Information ..."
-    publishedDateTime: 2023-01-15T22:30:00Z
-    webUrl: "https://dailytimes.com.pk/1051739/ncai-announces-artificial-intelligence-challenge-for-students/"
-    ampWebUrl: "https://dailytimes.com.pk/1051739/ncai-announces-artificial-intelligence-challenge-for-students/amp/"
-    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1051739/ncai-announces-artificial-intelligence-challenge-for-students/amp/"
-    type: article
-    provider:
-      name: Daily Times
-      domain: dailytimes.com.pk
-    quality: 78
-    images:
-      - url: "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "IBM and MBZUAI Advance AI for Climate and Culture"
     excerpt: "AI Center of Excellence will focus on finding carbon neutral solutions for existing energy resources and improving access to new AI technologies for Arabic speakers. ABU DHABI, UA"
     publishedDateTime: 2023-01-19T15:44:00Z

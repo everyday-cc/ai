@@ -2,10 +2,13 @@
 category: news
 title: "Seeq Recognizes its 2022 Reseller and Service Partners of the Year"
 excerpt: "Annual partner awards, honoring excellence in delivering the next generation of process manufacturing improvements, announced at Seeq Global Partner Symposium in Las Vegas. LAS VE"
-publishedDateTime: 2023-01-18T15:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/01/18/9745322.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/01/18/9745322.htm"
+publishedDateTime: 2023-01-18T14:25:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/01/18/9745322.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/01/18/9745322.htm"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: TMCnet
@@ -15,6 +18,28 @@ topics:
   - AWS AI
   - AI
 
-secured: "p39pXNvgik3YKGT0qRTBLHD1iAyj24UC+9F+XskFpvIAxzZDNrZgPM2x5McVWKFWxPxw4ENPIWtax/pP7Vp25wLUjB5BMXixJkHFoPMZ9QEdJirCxYCkQdQtk9H6wkefCH1d10SjLwwmAGX84Ak1b9rZ0Gg6jik7nOlzpttG/VYudYzIUaGX36z66eCGf1BOoX9knmXvR/7Z+2A0Cz1pcn6pi1fq2mXMYKkwMnkoiMKDX9UDlQCgHy9PZtSPqy6yzn131xhlsXnARfwZHAkYdUE7THshGLYSb5pGA3w56tSC/mQVEyuSUczHnNnTaz77auscUPWdnhy5RAMo3uKF7fonapxGJGOVA9wnN7Zswxt4W54qW4iA4AGpmQpnL3lofzeiVAEcirmgm+Jg6IN6QLUucMoAhtkjbFj4+BV5ShQg489lIQ/L/29gL2T50tnq6q623uEm9tjJFC/85Eb4oEd1vPdkaAbqjoZ9Z5Dn9IcU8ajWSsh/edKd8RAcjBgQ3CFYPnqbfEr+M1p5tnOpYw==;p+5pdS6z6l+zdrSDUkR96A=="
+images:
+  - url: "https://mma.prnewswire.com/media/1985743/SEEQ_PARTNER_OF_THE_YEAR.jpg"
+    width: 343
+    height: 400
+    isCached: true
+
+related:
+  - title: "Seeq Recognizes Its 2022 Reseller and Service Partners of the Year"
+    excerpt: "Annual partner awards, honoring excellence in delivering the next generation of process manufacturing improvements, were announced at Seeq Global Partner Symposium in Las Vegas."
+    publishedDateTime: 2023-01-18T18:17:00Z
+    webUrl: "https://www.automation.com/en-us/articles/january-2023/seeq-recognizes-2022-reseller-service-parts-year"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 24
+    images:
+      - url: "https://www.automation.com/getmedia/50452299-0455-42f9-bf78-9afd0ca53436/Seeq-news-Jan-18-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
+
+secured: "mr86q5q++OY4zqc+7c45Ye88BRz6UeJ3ggKkOH1RKr0V/k41UYOVR3Hlw0He/3GzpPpveXpVIc6EdS8V5/ZslsoWw0wbW3KiwPyZG2EWN8TMIOOiWyxuIWlS2elDuriwMRTPL/B2zlKa1BmCQR3ziSMAxqOQV7oPaTVHn+IGRpDYKFC7VayodJA+crzxbAnY8yFCkWtUB+FTK8llnek0eQ9dNuZtaXiUl7+Y9KR78RHyyZ4EzEYEvZkFlIiL+L8EY139JpTcnZW4fobTk99bcH4FJQPTXgZEkxRG0KOPBauyQ0AG1c1LRCo4vmUq8lyLR27vdA31zjDOIiV+9WlcBfem3jswqZY8J5Fo6D9/ALI=;0aNUn8AkEBuNLw3voMAxfw=="
 ---
 

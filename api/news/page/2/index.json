@@ -2,6 +2,249 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-20-uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso.md",
+      "title": "UC Santa Barbara Doctoral Students Build Neural Network to Paint Like Picasso",
+      "excerpt": "Fifty years after his death, Pablo Picasso is painting once again. The late Spanish master has been reborn as a form of artificial intelligence (AI), a “neural network” created by two UC Santa Barbara doctoral students to generate original pieces of art in his signature styles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.com/2023/01/19/uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso/",
+      "originalUrl": "https://www.independent.com/2023/01/19/uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.independent.com/wp-content/uploads/2023/01/AI_picasso.jpg?fit=1200%2C799",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.com/2023/01/19/uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso/?amp=1",
+      "cdnAmpWebUrl": "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2023/01/19/uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso/?amp=1",
+      "publishedDateTime": "2023-01-19T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Santa Barbara Independent",
+        "domain": "independent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-the-goldilocks-principle-and-hybrid-cloud.md",
+      "title": "The Goldilocks Principle And Hybrid Cloud",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as The Goldilocks Principle shows up in many places in our lives and business in areas as vast and varied as astrobiology, economics, and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c96c06ef67aedf79766ebe/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 528,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/amp/",
+      "publishedDateTime": "2023-01-19T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-deep-learning-based-ai-system-helps-infer-and-predict-indonesian-throughflow.md",
+      "title": "Deep learning-based AI system helps infer and predict Indonesian throughflow",
+      "excerpt": "Scientists from the Institute of Oceanology of the Chinese Academy of Sciences (IOCAS) and Nanjing University of Information Science and Technology have successfully constructed an inference and prediction system of the Indonesian Throughflow (ITF) by using a deep-learning method and realized the valid prediction of the ITF transport.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.html",
+      "originalUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/deep-learning-based-ai.jpg",
+          "width": 1372,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.amp",
+      "publishedDateTime": "2023-01-19T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-googles-big-fear-is-ai-running-wild-after-chatgpt-its-too-late.md",
+      "title": "Google's big fear is AI running wild. After ChatGPT, it's too late.",
+      "excerpt": "Google's top executives published a report calling for a responsible release of AI, months after rival AI bot ChatGPT has entered the mainstream.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1",
+      "originalUrl": "https://www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 483,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63c93fe72a1e600018b8ac60?width=1200&format=jpeg",
+          "width": 553,
+          "height": 276,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1?amp",
+      "publishedDateTime": "2023-01-19T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Google AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-ai-improves-field-service-quality-and-customer-experience.md",
+      "title": "AI improves field service quality and customer experience",
+      "excerpt": "Research shows that 80% of high performing field service organizations use artificial intelligence (AI). Also: One bad experience is all it takes to lose a customer. Here are thre",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-improves-field-service-quality-and-customer-experience/",
+      "originalUrl": "https://www.zdnet.com/article/ai-improves-field-service-quality-and-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/f748509203a5703ad1ec5ad7840e4842cdb63d79/2022/12/02/4631c01c-b209-4b8c-a497-091a6049e34c/artificial-intelligence.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-improves-field-service-quality-and-customer-experience/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-improves-field-service-quality-and-customer-experience/",
+      "publishedDateTime": "2023-01-19T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-19-microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work.md",
       "title": "Microsoft CEO Satya Nadella Claims Artificial Intelligence Will Redefine Business And Work",
       "excerpt": "Microsoft CEO Satya Nadella said on Wednesday that the world is approaching a golden age of artificial intelligence by citing a recent instance in which an Indian farmer utilized a ChatGPT interface to access a secret government program online despite only understanding a local dialect.",
@@ -208,7 +451,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -768,6 +1011,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-18-ai-and-political-lobbying.md",
+      "title": "AI and Political Lobbying",
+      "excerpt": "Launched just weeks ago, ChatGPT is already threatening to upend how we draft everyday communications like emails, college essays and myriad other forms of writing. Created by the company OpenAI, ChatGPT is a chatbot that can automatically respond to written prompts in a manner that is sometimes eerily close to human.",
+      "sourceUrl": null,
+      "webUrl": "https://securityboulevard.com/2023/01/ai-and-political-lobbying/",
+      "originalUrl": "https://securityboulevard.com/2023/01/ai-and-political-lobbying/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securityboulevard.com/wp-content/uploads/2018/01/TwitterLogo-002.jpg",
+          "width": 1524,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://securityboulevard.com/2023/01/ai-and-political-lobbying/amp/",
+      "cdnAmpWebUrl": "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2023/01/ai-and-political-lobbying/amp/",
+      "publishedDateTime": "2023-01-18T04:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security Boulevard",
+        "domain": "securityboulevard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-18-infinite-ai-interns-for-everybody.md",
       "title": "Infinite AI Interns for Everybody",
       "excerpt": "I predict 2023 is the year that finally changes, thanks to artificial intelligence. By the end of 2023, AI will be fast becoming one of the most important factors of production in the global economy. It’s true that the history of AI is largely a history ...",
@@ -923,298 +1209,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-top-ibm-execs-again-accused-of-cheating-investors-by-using-mainframes-to-prop-up-watson-cloud-sales.md",
-      "title": "Top IBM execs again accused of cheating investors by using mainframes to prop up Watson, cloud sales",
-      "excerpt": "In effect, IBM deceived the market about its progress in developing Watson, cloud technologies, and other new sources of revenue, by deliberately misclassifying the money it was making from mainframe deals,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2023/01/18/ibm_sued_securities_fraud/",
-      "originalUrl": "https://www.theregister.com/2023/01/18/ibm_sued_securities_fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/01/30/shutterstock_ginni_krishna3.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2023/01/18/ibm_sued_securities_fraud/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/01/18/ibm_sued_securities_fraud/",
-      "publishedDateTime": "2023-01-17T16:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-ai-is-not-the-new-crypto.md",
-      "title": "AI Is Not the New Crypto",
-      "excerpt": "The torrent of investor money that flowed into crypto is now hitting the AI scene. We’re already seeing the results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/newsletters/archive/2023/01/ai-is-not-the-new-crypto/672746/",
-      "originalUrl": "https://www.theatlantic.com/newsletters/archive/2023/01/ai-is-not-the-new-crypto/672746/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/XlSN6a8iZwtpDJorFvWt_wxECXI=/0x635:8646x5138/1200x625/media/img/mt/2023/01/GettyImages_1370578245/original.jpg",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T15:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-john-chambers-expects-a-tough-2023-but-plenty-of-opportunities-for-ai-cybersecurity.md",
-      "title": "John Chambers expects a ‘tough’ 2023 but plenty of opportunities for AI, cybersecurity",
-      "excerpt": "\"This year is going to be tough,\" Chambers told MarketWatch. \"However, I believe strongly that downturns are when the next generation of leaders can emerge.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/john-chambers-expects-a-tough-2023-but-plenty-of-opportunities-for-ai-cybersecurity-11673995609?mod=home-page",
-      "originalUrl": "https://www.marketwatch.com/story/john-chambers-expects-a-tough-2023-but-plenty-of-opportunities-for-ai-cybersecurity-11673995609?mod=home-page",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-705156/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/john-chambers-expects-a-tough-2023-but-plenty-of-opportunities-for-ai-cybersecurity-11673995609",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/john-chambers-expects-a-tough-2023-but-plenty-of-opportunities-for-ai-cybersecurity-11673995609",
-      "publishedDateTime": "2023-01-17T15:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips.md",
-      "title": "Daily Crunch: Apple powers up 14- and 16-inch MacBook Pro models with M2 Pro and Max chips",
-      "excerpt": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/",
-      "originalUrl": "https://techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1149447240.jpg?resize=1200,801",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/amp/",
-      "publishedDateTime": "2023-01-17T15:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate.md",
-      "title": "Why are Getty and Shutterstock on opposite sides of the AI legal debate?",
-      "excerpt": "It has become clear that Getty and Shutterstock have diverged in their efforts to deal with the escalating legal issues around generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/",
-      "originalUrl": "https://venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/Untitled-design-8.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/amp/",
-      "publishedDateTime": "2023-01-17T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-set-up-amazon-sagemaker-studio-with-jupyter-lab-3-using-the-aws-cdk.md",
-      "title": "Set up Amazon SageMaker Studio with Jupyter Lab 3 using the AWS CDK",
-      "excerpt": "Amazon SageMaker Studio is a fully integrated development environment (IDE) for machine learning (ML) partly based on&nbsp;JupyterLab 3. Studio provides a web-based interface to interactively perform ML development tasks required to prepare data and build, train, and deploy ML models. In Studio, you",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/set-up-amazon-sagemaker-studio-with-jupyter-lab-3-using-the-aws-cdk/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/set-up-amazon-sagemaker-studio-with-jupyter-lab-3-using-the-aws-cdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T12:36:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

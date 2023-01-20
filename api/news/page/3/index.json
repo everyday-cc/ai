@@ -2,21 +2,21 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-01-18-tesla-staged-2016-self-driving-demo-says-senior-autopilot-engineer.md",
-      "title": "Tesla staged 2016 self-driving demo, says senior Autopilot engineer",
-      "excerpt": "The car is driving itself.\" We then see a Tesla Model X leave a garage ... 3D maps were used to pre-program the route, including where to stop, and during the self-parking demo a Tesla crashed into a fence, Elluswamy said. The fatal crash occurred on ...",
+      "path": "_news/2023-01-18-top-ibm-execs-again-accused-of-cheating-investors-by-using-mainframes-to-prop-up-watson-cloud-sales.md",
+      "title": "Top IBM execs again accused of cheating investors by using mainframes to prop up Watson, cloud sales",
+      "excerpt": "In effect, IBM deceived the market about its progress in developing Watson, cloud technologies, and other new sources of revenue, by deliberately misclassifying the money it was making from mainframe deals,",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2023/01/tesla-staged-2016-self-driving-demo-says-senior-autopilot-engineer/",
-      "originalUrl": "https://arstechnica.com/cars/2023/01/tesla-staged-2016-self-driving-demo-says-senior-autopilot-engineer/",
+      "webUrl": "https://www.theregister.com/2023/01/18/ibm_sued_securities_fraud/",
+      "originalUrl": "https://www.theregister.com/2023/01/18/ibm_sued_securities_fraud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 339,
+      "heat": 98,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/02/Screen-Shot-2020-02-17-at-2.45.34-PM-800x494.png",
+          "url": "https://regmedia.co.uk/2020/01/30/shutterstock_ginni_krishna3.jpg",
           "width": 800,
-          "height": 494,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,60 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://arstechnica.com/cars/2023/01/tesla-staged-2016-self-driving-demo-says-senior-autopilot-engineer/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/01/tesla-staged-2016-self-driving-demo-says-senior-autopilot-engineer/amp/",
-      "publishedDateTime": "2023-01-17T12:35:00-08:00",
+      "ampWebUrl": "https://www.theregister.com/AMP/2023/01/18/ibm_sued_securities_fraud/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/01/18/ibm_sued_securities_fraud/",
+      "publishedDateTime": "2023-01-17T16:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-ai-is-not-the-new-crypto.md",
+      "title": "AI Is Not the New Crypto",
+      "excerpt": "The torrent of investor money that flowed into crypto is now hitting the AI scene. We’re already seeing the results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/newsletters/archive/2023/01/ai-is-not-the-new-crypto/672746/",
+      "originalUrl": "https://www.theatlantic.com/newsletters/archive/2023/01/ai-is-not-the-new-crypto/672746/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/XlSN6a8iZwtpDJorFvWt_wxECXI=/0x635:8646x5138/1200x625/media/img/mt/2023/01/GettyImages_1370578245/original.jpg",
+          "width": 1200,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T15:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +93,248 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-john-chambers-expects-a-tough-2023-but-plenty-of-opportunities-for-ai-cybersecurity.md",
+      "title": "John Chambers expects a ‘tough’ 2023 but plenty of opportunities for AI, cybersecurity",
+      "excerpt": "\"This year is going to be tough,\" Chambers told MarketWatch. \"However, I believe strongly that downturns are when the next generation of leaders can emerge.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/john-chambers-expects-a-tough-2023-but-plenty-of-opportunities-for-ai-cybersecurity-11673995609?mod=home-page",
+      "originalUrl": "https://www.marketwatch.com/story/john-chambers-expects-a-tough-2023-but-plenty-of-opportunities-for-ai-cybersecurity-11673995609?mod=home-page",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-705156/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/john-chambers-expects-a-tough-2023-but-plenty-of-opportunities-for-ai-cybersecurity-11673995609",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/john-chambers-expects-a-tough-2023-but-plenty-of-opportunities-for-ai-cybersecurity-11673995609",
+      "publishedDateTime": "2023-01-17T15:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips.md",
+      "title": "Daily Crunch: Apple powers up 14- and 16-inch MacBook Pro models with M2 Pro and Max chips",
+      "excerpt": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/",
+      "originalUrl": "https://techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1149447240.jpg?resize=1200,801",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/amp/",
+      "publishedDateTime": "2023-01-17T15:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate.md",
+      "title": "Why are Getty and Shutterstock on opposite sides of the AI legal debate?",
+      "excerpt": "It has become clear that Getty and Shutterstock have diverged in their efforts to deal with the escalating legal issues around generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/",
+      "originalUrl": "https://venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/Untitled-design-8.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/amp/",
+      "publishedDateTime": "2023-01-17T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-new-york-legislators-protest-madison-square-garden-over-facial-recognition.md",
+      "title": "New York Legislators Protest Madison Square Garden Over Facial Recognition",
+      "excerpt": "It is absolutely time for the city and the state to reconsider any and all permits, licenses, and benefits provided to MSG in the face of their continued malfeasance,” one New York",
+      "sourceUrl": null,
+      "webUrl": "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/",
+      "originalUrl": "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rollingstone.com/wp-content/uploads/2023/01/MSG.jpg?w=1600&h=900&crop=1",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/amp/",
+      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/amp/",
+      "publishedDateTime": "2023-01-17T13:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rolling Stone",
+        "domain": "rollingstone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-set-up-amazon-sagemaker-studio-with-jupyter-lab-3-using-the-aws-cdk.md",
+      "title": "Set up Amazon SageMaker Studio with Jupyter Lab 3 using the AWS CDK",
+      "excerpt": "Amazon SageMaker Studio is a fully integrated development environment (IDE) for machine learning (ML) partly based on&nbsp;JupyterLab 3. Studio provides a web-based interface to interactively perform ML development tasks required to prepare data and build, train, and deploy ML models. In Studio, you",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/set-up-amazon-sagemaker-studio-with-jupyter-lab-3-using-the-aws-cdk/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/set-up-amazon-sagemaker-studio-with-jupyter-lab-3-using-the-aws-cdk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T12:36:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -521,7 +805,7 @@
       "originalUrl": "https://www.itpro.co.uk/cloud/cloud-computing/369875/microsoft-adds-chatgpt-to-azure-openai-support-cloud-services",
       "featuredContent": null,
       "highlight": null,
-      "heat": 579,
+      "heat": 609,
       "tags": null,
       "images": [
         {
@@ -976,308 +1260,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-building-an-ai-governance-strategy-that-works.md",
-      "title": "Building an AI governance strategy that works",
-      "excerpt": "Any organization that uses or develops AI should focus on their AI governance practices, lest they put their business and customers at risk.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/building-an-ai-governance-strategy-that-works/",
-      "originalUrl": "https://venturebeat.com/ai/building-an-ai-governance-strategy-that-works/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1037155966.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/building-an-ai-governance-strategy-that-works/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/building-an-ai-governance-strategy-that-works/amp/",
-      "publishedDateTime": "2023-01-16T18:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-italian-startup-clothing-line-will-protect-your-identity-from-facial-recognition-software.md",
-      "title": "Italian Startup Clothing Line will Protect Your Identity from Facial Recognition Software",
-      "excerpt": "Big Brother is watching you...unless you wear this wacky shirt. Cap_able, an Italian clothing start-up, is trying to make fashion for the",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/01/16/italian-startup-clothing-line-will-protect-your-id/",
-      "originalUrl": "https://www.fool.com/investing/2023/01/16/italian-startup-clothing-line-will-protect-your-id/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/716782/featured-daily-upside-image.jpg",
-          "width": 1920,
-          "height": 1138,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-16T17:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-artists-file-class-action-lawsuit-against-ai-image-generator-companies.md",
-      "title": "Artists file class-action lawsuit against AI image generator companies",
-      "excerpt": "Some artists have begun waging a legal fight against the alleged theft of billions of copyrighted images used to train AI art generators and reproduce unique styles without compensating artists or asking for consent.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/01/artists-file-class-action-lawsuit-against-ai-image-generator-companies/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/01/artists-file-class-action-lawsuit-against-ai-image-generator-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/ai_lawsuit_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/01/artists-file-class-action-lawsuit-against-ai-image-generator-companies/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/artists-file-class-action-lawsuit-against-ai-image-generator-companies/amp/",
-      "publishedDateTime": "2023-01-16T15:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains.md",
-      "title": "Reimagining fintech : Banking-as-a-service, embedded finance can unlock new value chains",
-      "excerpt": "At a macro level, the banking and financial services industry are in the midst of a technology-led transformation phase.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/",
-      "originalUrl": "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/01/banking1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/lite/",
-      "publishedDateTime": "2023-01-16T13:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits.md",
-      "title": "General availability of Azure OpenAI Service expands access to large, advanced AI models with added enterprise benefits",
-      "excerpt": "With Azure OpenAI Service now generally available, more businesses can apply for access to the most advanced AI models in the world—including GPT-3.5, Codex, and DALL•E 2—backed by the trusted enterprise-grade capabilities and AI-optimized infrastructure of Microsoft Azure, to create cutting-edge applications.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/",
-      "originalUrl": "https://azure.microsoft.com/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6218d54-3c27-4c17-bc25-33ce1d1a268e.png",
-          "width": 808,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-16T09:00:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-stable-diffusion-ai-art-lawsuit-plus-caution-from-openai-deepmind-the-ai-beat.md",
-      "title": "Stable Diffusion AI art lawsuit, plus caution from OpenAI, DeepMind | The AI Beat",
-      "excerpt": "Stability AI and Midjourney were hit with a copyright infringement lawsuit, while OpenAI and DeepMind are signaling generative AI caution.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-16-at-10.28.05-AM-e1673882948444.png?w=1200&strip=all",
-          "width": 703,
-          "height": 436,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/",
-      "publishedDateTime": "2023-01-16T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

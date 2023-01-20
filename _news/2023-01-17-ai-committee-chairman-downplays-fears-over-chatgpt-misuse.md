@@ -90,6 +90,20 @@ related:
         width: 1070
         height: 579
         isCached: true
+  - title: "Microsoft Wants To Put Chat GPT-style AI Tools in Every Product"
+    excerpt: "Can AI experience cognitive dissonance? Microsoft CEO Satya Nadella told Davos attendees on Tuesday that the tech giant plans to use OpenAI,"
+    publishedDateTime: 2023-01-18T02:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/01/17/microsoft-wants-to-put-chat-gpt-style-ai-tools-in/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/716949/featured-daily-upside-image.jpg"
+        width: 2000
+        height: 1600
+        isCached: true
   - title: "Microsoft says it will roll out ChatGPT on its own AI service after reports it will invest $10 billion into OpenAI"
     excerpt: "Microsoft said Azure OpenAI is now generally available for everyone to use and it plans to make ChatGPT available through the service."
     publishedDateTime: 2023-01-17T11:48:00Z
@@ -197,6 +211,20 @@ related:
       - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
         width: 788
         height: 443
+        isCached: true
+  - title: "Microsoft is Adding ChatGPT to Its New Azure Open AI Service"
+    excerpt: "Microsoft will soon expand access to ChatGPT through its new Azure OpenAI service, which is now generally available to developers."
+    publishedDateTime: 2023-01-17T10:30:00Z
+    webUrl: "https://www.thurrott.com/cloud/278435/microsoft-is-adding-chatgpt-to-its-new-azure-open-ai-service"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 69
+    images:
+      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/01/Microsoft-Azure-OpenAI.jpg"
+        width: 1066
+        height: 600
         isCached: true
   - title: "Microsoft to Add ChatGPT to Its Cloud-Based Azure OpenAI Service"
     excerpt: "The tech giant has announced that it's now making the Azure OpenAI Service generally available after ... OpenAI tools for their own cloud applications, including the Dall-E AI art generator and the GPT-3.5 language system, Engadget reported."
@@ -438,6 +466,20 @@ related:
       - url: "https://www.ciodive.com/imgproxy/gAriKtGQYhK2XyclUlYaZMu9mPmhu5i-0UQsi3pM8aI/crop:6440:3481/g:nowe:0:811/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk2NzIxMDg1Ni5qcGc.jpg"
         width: 770
         height: 364
+        isCached: true
+  - title: "Microsoft Joins Tech Layoff Circus With 10,000 Jobs Cut in Pivot to AI"
+    excerpt: "Microsoft is planning to lay off 10,000 workers through March, joining a slew of tech companies in cutting down after a pandemic hiring boom, The New York Times reports. The company’s chief executive,"
+    publishedDateTime: 2023-01-18T14:53:00Z
+    webUrl: "https://www.thedailybeast.com/microsoft-joins-tech-layoff-circus-with-10000-jobs-cut-in-pivot-to-ai"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 54
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_4261,w_7575,x_0,y_306/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1674059714/GettyImages-1246327708_ptzqta"
+        width: 1480
+        height: 833
         isCached: true
   - title: "Microsoft Azure will be adding ChatGPT to its cloud services soon"
     excerpt: "Microsoft announced the broad availability of its Azure OpenAI Service and customers will also be able to access ChatGPT."

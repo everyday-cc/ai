@@ -20,38 +20,6 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Advocates demand Madison Square Garden stop using facial recognition"
-    excerpt: "Lawmakers and privacy advocates are calling on James Dolan, owner of Madison Square Garden and Radio City Music Hall, to stop surveilling guests for non-security purposes."
-    publishedDateTime: 2023-01-15T23:45:00Z
-    webUrl: "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/"
-    ampWebUrl: "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/amp/"
-    type: article
-    provider:
-      name: pix11
-      domain: pix11.com
-    quality: 59
-    images:
-      - url: "https://pix11.com/wp-content/uploads/sites/25/2022/11/AP22318781223165.jpg?w=1280"
-        width: 1280
-        height: 851
-        isCached: true
-  - title: "New calls for Madison Square Garden to halt use of facial recognition"
-    excerpt: "Madison Square Garden Entertainment utilized the tech to have three people removed from the Garden and Radio City Music Hall."
-    publishedDateTime: 2023-01-15T22:49:00Z
-    webUrl: "https://abc7ny.com/msg-facial-recognition-madison-square-garden-fans/12706435/"
-    ampWebUrl: "https://abc7ny.com/amp/msg-facial-recognition-madison-square-garden-fans/12706435/"
-    cdnAmpWebUrl: "https://abc7ny-com.cdn.ampproject.org/c/s/abc7ny.com/amp/msg-facial-recognition-madison-square-garden-fans/12706435/"
-    type: article
-    provider:
-      name: abc7NY
-      domain: abc7ny.com
-    quality: 59
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12706437_011523-msg-facial-recognition.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "New York Legislators Protest Madison Square Garden Over Facial Recognition"
     excerpt: "It is absolutely time for the city and the state to reconsider any and all permits, licenses, and benefits provided to MSG in the face of their continued malfeasance,” one New York"
     publishedDateTime: 2023-01-17T21:22:00Z
@@ -84,17 +52,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "NY lawmakers call on MSG to stop using facial recognition software"
-    excerpt: "Madison Square Garden's use of facial recognition technology has come under scrutiny after revelations that it was being used to ban attorneys who work or firms with pending lawsuits against MSG."
-    publishedDateTime: 2023-01-16T03:33:00Z
-    webUrl: "https://www.fox5ny.com/news/nyc-lawmakers-calling-on-msg-to-stop-using-facial-recognition-software"
-    ampWebUrl: "https://www.fox5ny.com/news/nyc-lawmakers-calling-on-msg-to-stop-using-facial-recognition-software.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/nyc-lawmakers-calling-on-msg-to-stop-using-facial-recognition-software.amp"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 39
   - title: "NYC pols urge Madison Square Garden head James Dolan to stop using facial recognition tech to kick out ‘adversaries’"
     excerpt: "Manhattan state Sen. Brad Hoylman-Sigal and a bevy of pols gathered outside MSG on Sunday to demand its controversial CEO James Dolan end the practice."
     publishedDateTime: 2023-01-16T01:40:00Z

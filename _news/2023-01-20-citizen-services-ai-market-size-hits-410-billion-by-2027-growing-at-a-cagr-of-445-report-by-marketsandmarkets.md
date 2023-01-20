@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-20T12:45:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/01/g30501393/citizen-services-ai-market-size-hits-41-0-billion-by-2027-growing-at-a-cagr-of-44-5-report-by-mark"
 webUrl: "https://www.benzinga.com/pressreleases/23/01/g30501393/citizen-services-ai-market-size-hits-41-0-billion-by-2027-growing-at-a-cagr-of-44-5-report-by-mark"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-20T12:49:00Z
 originalUrl: "https://news.abplive.com/business/the-davos-chats-2023-from-new-geopolitical-couplings-to-ai-gautam-adani-writes-1576957"
 webUrl: "https://news.abplive.com/business/the-davos-chats-2023-from-new-geopolitical-couplings-to-ai-gautam-adani-writes-1576957"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: news.abplive

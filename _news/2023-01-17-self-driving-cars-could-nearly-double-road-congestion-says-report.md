@@ -49,22 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Drivers could face double the level of congestion on the roads if self-driving cars grow in popularity, report warns"
-    excerpt: "Motorists could be stuck in congestion twice as bad as current levels if self-driving cars become common, a Government report warns. Delays may rise by up to 85 per cent from 2025 to 2060 in that ..."
-    publishedDateTime: 2023-01-16T00:03:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-11638573/Drivers-face-double-level-congestion-roads-self-driving-cars-grow-popularity.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-11638573/amp/Drivers-face-double-level-congestion-roads-self-driving-cars-grow-popularity.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11638573/amp/Drivers-face-double-level-congestion-roads-self-driving-cars-grow-popularity.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 21
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/01/16/08/56796497-0-image-a-33_1673858194016.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Self-driving cars could cause congestion to nearly double, warns government report"
     excerpt: "Road congestion could almost double from current levels if self-driving cars become commonplace, according to a new government report. The Department for Transport’s projections for traffic levels in England and Wales suggest that delays could soar by up to 85% between 2025 and 2060."
     publishedDateTime: 2023-01-17T13:50:00Z

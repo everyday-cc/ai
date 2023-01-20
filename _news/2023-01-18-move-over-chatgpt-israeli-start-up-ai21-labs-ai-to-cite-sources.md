@@ -190,6 +190,22 @@ related:
         width: 345
         height: 230
         isCached: true
+  - title: "Davos 2023: Adani is hooked on ChatGPT, says race for AI to get complex"
+    excerpt: "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amounts of information to generate natural-sounding t"
+    publishedDateTime: 2023-01-20T14:52:00Z
+    webUrl: "https://www.business-standard.com/article/technology/davos-2023-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-123012000936_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/davos-2023-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-123012000936_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/davos-2023-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-123012000936_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 59
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-09/16/full/1663333122-7833.jpg"
+        width: 620
+        height: 464
+        isCached: true
   - title: "Here are the 12 top power players at Google leading the fight in AI against the smash hit ChatGPT"
     excerpt: "ChatGPT could influence Google's dominance in search. Here are the 12 people inside the search giant developing AI-based technology to keep up."
     publishedDateTime: 2023-01-18T10:07:00Z
@@ -457,6 +473,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 35
+  - title: "Those Schools Banning Access To Generative AI ChatGPT Are Not Going To Move The Needle And Are Missing The Boat, Says AI Ethics And AI Law"
+    excerpt: "Some rather high-profile bans have been announced regarding the use of generative AI such as ChatGPT. We need to closely examine these bans and decide whether they make any sense. Here's the scoop."
+    publishedDateTime: 2023-01-20T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/20/those-schools-banning-access-to-generative-ai-chatgpt-are-not-going-to-move-the-needle-and-are-missing-the-boat-says-ai-ethics-and-ai-law/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 30
   - title: "Building ChatGPT’s AI content filters devastated workers’ mental health, according to new report"
     excerpt: "A new report from 'Time' magazine paints a grim picture of labor conditions involved in training AI to avoid harmful and graphic content."
     publishedDateTime: 2023-01-19T22:00:00Z

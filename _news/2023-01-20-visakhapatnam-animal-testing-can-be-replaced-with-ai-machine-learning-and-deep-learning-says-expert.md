@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-20T07:39:00Z
 originalUrl: "https://www.thehindu.com/news/cities/Visakhapatnam/visakhapatnam-animal-testing-can-be-replaced-with-ai-machine-learning-and-deep-learning-says-expert/article66413233.ece"
 webUrl: "https://www.thehindu.com/news/cities/Visakhapatnam/visakhapatnam-animal-testing-can-be-replaced-with-ai-machine-learning-and-deep-learning-says-expert/article66413233.ece"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: The Hindu

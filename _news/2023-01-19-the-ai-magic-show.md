@@ -54,6 +54,15 @@ related:
         width: 1463
         height: 500
         isCached: true
+  - title: "Global (AI) Artificial Intelligence in Precision Medicine Market"
+    excerpt: "According to the research report, the global (AI) artificial intelligence in precision medicine market size & share was valued at USD 1.26 Billion in 2022 and is expected to reach USD 26.24 Billion by 2032,"
+    publishedDateTime: 2023-01-20T14:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-ai-artificial-intelligence-precision-medicine-market-size-/2023/01/20/9746711.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "nNQ6BnTRfUDf4kr9gLjfqYNu4YTFTTu/3lKnFnScHLY8Rv8BE7/mAQlGR1b5akKnzNShb5W9XeAJnJiFlM1qSw/pw4P00nCtsPK6iJSDlVGjfZu6Xqo3kg3kTcqDdnDpPqmtDfclPQ6Il/Mimmtzb/bmvjSK1QEKNJmyQ/p5z1WUN52FSU01N4rGKYpKPIS4j914H+gDqDQZAfzUH0G8hIZcCm7lZ4l8W6UjrjKvLMy8YvoG7bL2t3N8DZqRlGdqlia/Yurd7m22JpMNNY3NXgPtQjPut+2xw5m1ug/CciW2ocUgRJBcBM4JmoBc4QXj8jWC0enl4pA0QN/n6BEeZffvdPqwUwaXix4ua7Tz8iYEF8/WlinA+8UoTdk//PC3XT1aNBq+Pul8tQbOFYFlYLRn0pwbKDIi8egAXXeIISEfiJ0DcMVdFd8Hp0STK35zXMC4iFWjw2u7KRJtIET9x5appzKwERCCBtNPjbRkeeRBHkbl4dbREKCuwulhy41masjj4LDIrkAkVnn19acqAw==;ldaSY5LBEODVw8q0H/gmcw=="
 ---

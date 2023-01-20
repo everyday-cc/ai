@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-22-filmmakers-can-tweak-your-tv-settings-in-more-ways-than-ever.md",
+      "title": "Filmmakers Can Tweak Your TV Settings in More Ways Than Ever",
+      "excerpt": "Support is growing for Filmmaker Mode, a setting on newer televisions that makes movies look how the creators intended.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/filmmaker-mode-televisions/",
+      "originalUrl": "https://www.wired.com/story/filmmaker-mode-televisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/637c22edc16b4f8de1df58cc/master/pass/Filmmakers-Can-Tweak-Your-TV-Settings-in-More-Ways-Than-Ever-Gear-GettyImages-1385473818.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/filmmaker-mode-televisions/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/filmmaker-mode-televisions/amp",
+      "publishedDateTime": "2022-11-22T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-aws-researchers-propose-a-method-that-predicts-bias-in-face-recognition-models-using-unlabeled-data.md",
+      "title": "AWS Researchers Propose a Method That Predicts Bias in Face Recognition Models Using Unlabeled Data",
+      "excerpt": "Subscribe for free. AWS researchers presented a novel method for evaluating bias in face recognition algorithms at this year's European Conference on Computer Vision (ECCV), which does not require ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/11/aws-bias-face-recognition/",
+      "originalUrl": "https://www.infoq.com/news/2022/11/aws-bias-face-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/11/aws-bias-face-recognition/en/headerimage/generatedHeaderImage-1668807034658.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T03:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-21-25-lakh-central-government-pensioners-avail-digital-life-certificates-using-facial-recognition-technology.md",
       "title": "25 lakh Central government pensioners avail digital life certificates using facial recognition technology",
       "excerpt": "Around 25 lakh Central government pensioners have availed digital life certificates aided by facial recognition technology under a special drive, Union Personnel Minister Jitendra Singh said on Monday. A special drive was conducted for 20 days to encourage pensioners to avail the facility.",
@@ -1295,92 +1391,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-congress-returns-after-the-2022-midterm-election-with-a-hectic-year-end-agenda.md",
-      "title": "Congress returns after the 2022 midterm election with a hectic year-end agenda",
-      "excerpt": "Lawmakers’ packed to-do list includes reaching a government funding agreement, passing an election overhaul bill and codifying federal recognition of same-sex marriage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/congress-returns-2022-midterm-election-hectic-year-end-agenda-rcna56668",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/congress-returns-2022-midterm-election-hectic-year-end-agenda-rcna56668",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-11/221114-capitol-building-mb-1215-f019ea.jpg",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna56668",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna56668",
-      "publishedDateTime": "2022-11-14T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry.md",
-      "title": "Computer vision and beyond: The future of AI in India’s insurance industry",
-      "excerpt": "Sandeep Bhargava is Managing Director, APJ, Rackspace Technology. Artificial Intelligence (AI) is transforming the Indian auto insurance industry. Computer vision is now applied to improve claims processes, while data and analytics have the potential to ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Rackspace_Sandeep_Bhargava_photo-1.jpg",
-          "width": 753,
-          "height": 929,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
-      "publishedDateTime": "2022-11-14T00:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

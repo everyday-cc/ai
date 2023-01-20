@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-20T09:00:00Z
 originalUrl: "https://www.cbsnews.com/news/ai-stable-diffusion-stability-ai-lawsuit-artists-sue-image-generators/"
 webUrl: "https://www.cbsnews.com/news/ai-stable-diffusion-stability-ai-lawsuit-artists-sue-image-generators/"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: CBS News

@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A chatbot that lets you talk with Jesus and Hitler is the latest controversy in the AI gold rush"
+    excerpt: "The Historical Figures app is available in Apple's App Store and lets you chat with notable people from history re-animated by artificial intelligence."
+    publishedDateTime: 2023-01-20T15:59:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/chatgpt-gpt-chat-bot-ai-hitler-historical-figures-open-rcna66531"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna66531"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna66531"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 74
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230120-Historical-AI-Chat-jg-aaa290.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Are AI Chatbots the Therapists of the Future?"
     excerpt: "Could artificial intelligence chatbots be the therapists of the future? ChatGPT, a text-generating conversational chatbot made using OpenAI’s powerful third-generation language processing model GPT-3,"
     publishedDateTime: 2023-01-18T00:47:00Z

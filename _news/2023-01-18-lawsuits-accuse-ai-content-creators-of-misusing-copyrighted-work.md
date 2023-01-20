@@ -82,19 +82,19 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "'AI Art' Companies & DeviantArt Are Being Sued By Artists"
-    excerpt: "Stability AI and Midjourney—two of the biggest names in the exploding field of AI-generated imagery—and portfolio site DeviantArt have become the target of a class action lawsuit, filed in California on behalf of artists."
-    publishedDateTime: 2023-01-15T22:55:00Z
-    webUrl: "https://kotaku.com/ai-art-stable-diffusion-midjourney-lawsuit-sued-court-1849991363"
+  - title: "Art community fights for integrity as AI presents artificial images"
+    excerpt: "Artificial intelligence is adding art to its growing résumé. But artists and computer experts are starting to push back against companies that allow AI to create art from original works, citing copyright infringement and the possibility of misinformation."
+    publishedDateTime: 2023-01-20T15:44:00Z
+    webUrl: "https://www.csmonitor.com/The-Culture/Arts/2023/0120/Art-community-fights-for-integrity-as-AI-presents-artificial-images"
     type: article
     provider:
-      name: Kotaku
-      domain: kotaku.com
+      name: Christian Science Monitor
+      domain: csmonitor.com
     quality: 37
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8e0b906302cb1d7434ac04c76d9782da.jpg"
-        width: 1200
-        height: 675
+      - url: "https://images.csmonitor.com/csm/2023/01/1150225_2_0120-art_standard.jpg?alias=standard_900x600"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "KqMSncFaelleXteuz3rZiz/QrRgAuW4BYW5Xono8avXuqLqtK4uvn/U/WSskiXPttxBp4/sTPHXuNtpNT/h71LKmDfE7rc/jLsqIn0InfVhZJAWMACyeRNWjNpCe3T+5lPsQI8SULZASmvcES5T8Ady0lfLLGoXSjkcvXKxRNdaN/yY8vbjA0kyxVN4LLgAhlsxHfknm3I96s5pCnAOLmdUEq1TJIszbgdAUs4t99pyIQ/zjLu+vWJKFf5Ze/oDVGQmNfntVsdFBI8lPRzpAGIR4DSEkGEhfOtIlbdbJngoBzdABkFHG8Qy6QecaPyiqU+9XvgKvsLD9gzoVcHY1e1Ujzk+8vzDVT+/z35HaaTiTUWpa7zyCKMsjoyV52iW0FsAL9y38bJI54RM8mZS1YHGX3esv2wiV9R9lvaWCo+vCGSc1GqeH3xKC9+WtT5uY0B1K6TgML2ZWGqsiSlsIZqAx9P5vGZYcFMocTK+l3S3sJOyD2hY0tvXNutc41rUx/3Vjfqysj8tjgBqSbjlJBw==;9enXp4yUHSPyJdtia9oWPA=="

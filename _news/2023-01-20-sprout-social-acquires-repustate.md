@@ -1,20 +1,23 @@
 ---
 category: news
-title: "Sprout Social acquires Repustate"
-excerpt: "Sprout Social , which provides social media management software, has acquired Repustate , a sentiment analysis and natural language processing company. Sprout said the acquisition will increase the power,"
-publishedDateTime: 2023-01-20T13:06:00Z
-originalUrl: "https://mobilemarketingmagazine.com/sprout-social-acquires-repustate"
-webUrl: "https://mobilemarketingmagazine.com/sprout-social-acquires-repustate"
+title: "Sprout Social Acquires Repustate"
+excerpt: "Sprout Social, Inc. (“Sprout Social”, the “Company”) (Nasdaq: SPT), an industry-leading provider of social media management software, today announced the acquisition of Repustate, an innovative sentiment analysis and natural language processing company."
+publishedDateTime: 2023-01-19T21:27:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/01/19/9746538.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/01/19/9746538.htm"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
-  name: Pepsi
-  domain: mobilemarketingmagazine.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "Ii3o4xEhV3GH/0neqro2KcmWXcKyfuk2CUWpRm8qns01GNPEHrPyYsXVGsI3Ijh7M44gpVeFwwnMhcggGJhZDVDhSRi3O63w+Kk3KixPuyF4lDiEZ2Bgr/ktkDkz2q0BYyNwAwIcg4JasHeMLB33xQz0sul3WWCLZXc0dKLvvJCig8lhPuQxPg1QZbhNnET82j80M1ievYfTSUVa5tm2lbEokG6gue0WOt8T2pNzgH9GrJVWRqimRb0BvbfqSyXIaXweKcA9ybsYEuaG9+bOd32MhmYEMdqkZoj3SSvScGZyQ9blCVdY88k/nTLoIg0+8APxftWrUGlUG2uoqJ55I7DCVoogaLU+dLCJHaR5H3864IkZlFNOeKGRnPyrGyIV1QxguzuTTZvyUao1f1MUGi7Nc0SzQ5QlWNoecYFaizw7DhsVmIdY9iGgTeMB10XGunuTHQ/sDJOhMZTq2AZnKpKwVfwuY2wzWBPGLMq3RWhkHXs1nFy0D8ydRBqQlO6fjghwrEG+NvBcm4ewuRWsIQ==;Qsxkd8ejZr22mwt0M8/rdw=="
+secured: "sbkqPG+pvtkr3+9f47Xfao5JkblbwRJ9oILQlI1KtPpHieG47wvU2DEBa2jUA3D0s/SPygUGrb8yFEuhtRDybxcGO+5S2X3+GWOeIzFJI1q7d71q4xWlQEd3et/og2ahrSQMjVScPGUEN2NCav+qEwCdAHyrD91RBbrJ3139Z3pafFsinjYvA8fq1+rD/4xDOcBqdmyMlj/UTLUimZslaA8P/MLWII49EI/olH7adzphkb+tACB1e4iluLn6X/BXYtPgTFO2DrwC5Ifa7r5nAFoOTsL17yynBrqitVynvMi4JNJ0clnQ05Ioz6smRpk/IqqY4GTo/8rZN0Ds7CNEUbfYTfeGaF0F7Wz5rB++54Y=;2bDkftIzSSRo3UPzOG3ygQ=="
 ---
 

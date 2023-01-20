@@ -2,6 +2,314 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2022-11-17-adludio-adds-deep-learning-to-its-ad-platform.md",
+      "title": "Adludio Adds Deep Learning to Its Ad Platform",
+      "excerpt": "Adludio, providers of an artificial intelligence powered interactive mobile advertising platform, has added deep learning to its platform to give users additional measurement and actionable insights. Using Adludio's platform, clients can input desired ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=155989",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=155989",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/149236-1122_ConvoAI_480x610_v2-ORG.png",
+          "width": 480,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-brains-memory-center-flags-autistic-adults-at-risk-for-cognitive-decline.md",
+      "title": "Brain’s memory center flags autistic adults at risk for cognitive decline",
+      "excerpt": "Braden and her team have been scanning the brains of autistic people aged 40 and older and administering a battery of cognitive tests every two years. “We collect lots of data,” she says. Relatively little research has looked into how autistic adults ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.spectrumnews.org/news/brains-memory-center-flags-autistic-adults-at-risk-for-cognitive-decline/",
+      "originalUrl": "https://www.spectrumnews.org/news/brains-memory-center-flags-autistic-adults-at-risk-for-cognitive-decline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://spectrumnews-web-assets.s3.amazonaws.com/wp-content/uploads/2022/11/17100905/844-autism-memory-cognitive-decline-aging.jpg",
+          "width": 844,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T07:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Spectrum",
+        "domain": "spectrumnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models.md",
+      "title": "Snorkel takes a deep dive into data labeling and foundation AI models",
+      "excerpt": "Snorkel AI today announced a preview of its new capabilities to help users adapt foundation AI models for enterprise use cases.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/",
+      "originalUrl": "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1168836247-e1664214930793.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/snorkel-takes-a-deep-dive-into-data-labeling-and-foundation-ai-models/amp/",
+      "publishedDateTime": "2022-11-17T07:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai.md",
+      "title": "AI startup Snorkel preps a new kind of expert for enterprise AI",
+      "excerpt": "and also too arduous to build and maintain — they didn't scale, in other words. In an intriguing twist on that earlier approach, Snorkel, a three-year-old AI startup based in San Francisco, Wednesday unveiled tools to, as they put it, bring the human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai/",
+      "originalUrl": "https://www.zdnet.com/article/ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/344bbfe0bd114ebfe363a4ba2758ca25291e9623/2022/11/17/a9c230b0-6ff9-466d-a751-53e84f1758f2/snorkel-2022-prompt-builder.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai/",
+      "publishedDateTime": "2022-11-17T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-try-out-ai-at-mohais-artificial-intelligence-exhibit.md",
+      "title": "Try out AI at MOHAI’s ‘Artificial Intelligence’ exhibit",
+      "excerpt": "“Artificial Intelligence ... You can watch what a self-driving car “sees,” or how a robotic animal programmed with AI figures out how to deal with obstacles. As with most of MOHAI, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/",
+      "originalUrl": "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/try-out-ai-at-mohais-artificial-intelligence-exhibit/?amp=1",
+      "publishedDateTime": "2022-11-17T07:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-how-to-get-people-to-trust-ai-predictions.md",
+      "title": "How to Get People to Trust AI Predictions",
+      "excerpt": "We stop believing artificial intelligence if it makes any mistake. But what if we thought it could learn from those mistakes?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-trust-11668630792?mod=latest_headlines",
+      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-trust-11668630792?mod=latest_headlines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-664644/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-pinpoint-predictive-launches-the-first-deep-learning-powered-prediction-of-individual-customer-profitability-available-at-top-of-funnel.md",
+      "title": "Pinpoint Predictive Launches the First Deep-Learning Powered Prediction of Individual Customer Profitability Available at Top-of-Funnel",
+      "excerpt": "This is the first commercial solution powered by deep-learning, built on trillions of behavioral data points, and includes predictions for claims frequency, severity, and loss cost. By focusing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20221117005030/en/Pinpoint-Predictive-Launches-the-First-Deep-Learning-Powered-Prediction-of-Individual-Customer-Profitability-Available-at-Top-of-Funnel",
+      "originalUrl": "https://www.businesswire.com/news/home/20221117005030/en/Pinpoint-Predictive-Launches-the-First-Deep-Learning-Powered-Prediction-of-Individual-Customer-Profitability-Available-at-Top-of-Funnel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T06:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsroom.businesswire.com",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-bloomberg-media-uses-london-based-ai-firm-to-translate-news-videos-into-spanish.md",
       "title": "Bloomberg Media uses London-based AI firm to translate news videos into Spanish",
       "excerpt": "Under a new partnership, Bloomberg Media will use the technology of Papercup for translation of its news coverage into the Spanish language.",
@@ -823,337 +1131,6 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-artificial-intelligence-ai-in-construction-market-overview-2022-to-2030-future-trends-and-forecast-by-autodesk-ibm-microsoft.md",
-      "title": "Artificial Intelligence (AI) in Construction Market Overview 2022 to 2030, Future Trends and Forecast | By -Autodesk, IBM, Microsoft",
-      "excerpt": "The assessment offers a thorough assessment of the Artificial Intelligence (AI) in Construction Market and helps market players to procure a footing in the business. It highlights fundamental market components like drivers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-overview-2022-to-2030-future-trends-and-forecast-by--autodesk-ibm-microsoft-2022-11-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-overview-2022-to-2030-future-trends-and-forecast-by--autodesk-ibm-microsoft-2022-11-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-meet-your-new-corporate-office-mate-a-brainless-robot.md",
-      "title": "Meet Your New Corporate Office Mate: A ‘Brainless’ Robot",
-      "excerpt": "The new workers zipped around the office completing mundane tasks like fetching coffee, delivering meals and handing off packages. They did not get in anyone’s way or violate personal space. They waited unobtrusively for elevators with unfailing politeness. And, perhaps most enticingly, they did not complain. That’s because they were robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/11/17/business/south-korea-office-robots-naver.html",
-      "originalUrl": "https://www.nytimes.com/2022/11/17/business/south-korea-office-robots-naver.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/11/09/world/00skorea-robots-01/00skorea-robots-01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/11/17/business/south-korea-office-robots-naver.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/11/17/business/south-korea-office-robots-naver.amp.html",
-      "publishedDateTime": "2022-11-17T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-4-times-when-mathematics-made-huge-breakthroughs-in-ai.md",
-      "title": "4 Times When Mathematics Made Huge Breakthroughs in AI",
-      "excerpt": "Although some discoveries offered compelling answers, others promised avenues of explorations for the future generations.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/4-times-when-mathematics-made-huge-breakthroughs-in-ai/",
-      "originalUrl": "https://analyticsindiamag.com/4-times-when-mathematics-made-huge-breakthroughs-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/math.png",
-          "width": 1536,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T01:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-the-information-names-shanghai-bangbang-robotics-as-one-of-the-top-50-most-promising-startups-2022.md",
-      "title": "The Information Names Shanghai Bangbang Robotics as One of the Top 50 Most Promising Startups 2022",
-      "excerpt": "BangBang Robotics has a current company valuation of approximately $83 million and is on track to triple its revenue in 2022. With its pioneering development of artificial intelligence (AI) enabled electric wheelchairs, the company has been included in ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-information-names-shanghai-bangbang-robotics-as-one-of-the-top-50-most-promising-startups-2022-1031921280",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-information-names-shanghai-bangbang-robotics-as-one-of-the-top-50-most-promising-startups-2022-1031921280",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1949937/The_Information_IT50_Shanghai_Bangbang_Robotics_A_Wheelchair_Maker.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T01:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-artificial-intelligence-products-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029.md",
-      "title": "Artificial Intelligence Products Market: A Detailed Analysis of Latest Market Trend with Growth Projections Through 2029",
-      "excerpt": "The prime objective of this Global \"Artificial Intelligence Products Market\" (2022) is to provide the insights on the post COVID-19 impact, and top to bottom analysis on the present state focuses on the major players and restraints for the key players.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029-2022-11-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029-2022-11-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T00:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-aiq-to-work-with-aws-to-accelerate-digital-transformation-in-energy-sector.md",
-      "title": "AIQ to work with AWS to accelerate digital transformation in energy sector",
-      "excerpt": "The companies will develop an Innovation Factory team who will work to develop new solutions that boost operational efficiency across the energy sector’s value chain",
-      "sourceUrl": null,
-      "webUrl": "https://meconstructionnews.com/55428/aiq-to-work-with-aws-to-accelerate-digital-transformation-in-energy-sector",
-      "originalUrl": "https://meconstructionnews.com/55428/aiq-to-work-with-aws-to-accelerate-digital-transformation-in-energy-sector",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://meconstructionnews.com/wp-content/uploads/2022/11/AIQ-and-AWS-Partnership_1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://meconstructionnews.com/55428/aiq-to-work-with-aws-to-accelerate-digital-transformation-in-energy-sector/amp",
-      "cdnAmpWebUrl": "https://meconstructionnews-com.cdn.ampproject.org/c/s/meconstructionnews.com/55428/aiq-to-work-with-aws-to-accelerate-digital-transformation-in-energy-sector/amp",
-      "publishedDateTime": "2022-11-16T22:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "meconstructionnews.com",
-        "domain": "meconstructionnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-lumiq-wins-aws-specialty-partner-of-the-year-2022-for-data-analytics-machine-learning-second-year-in-a-row.md",
-      "title": "LUMIQ wins AWS Specialty Partner of the Year 2022 - for Data, Analytics, & Machine Learning - second year in a row",
-      "excerpt": "India's leading Data & Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data, Analytics, and Machine Learning at the recent AWS Partner Summit in Bengaluru. The event saw Anil Kumble talking about his entrepreneurial journey and the evolution of the Indian tech landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1290553&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1290553&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1949765/LUMIQ_AWS_Partner_Summit_Award_2022.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T22:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
         "AWS AI"
       ]
     }

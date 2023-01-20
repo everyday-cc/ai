@@ -1,20 +1,31 @@
 ---
 category: news
-title: "Simple Neural Networks Outperform More Complex Systems for Controlling Robotic Prosthetics"
-excerpt: "Feed-forward neural networks improve speed and provide more accurate control of brain-controlled prosthetic hands and fingers."
-publishedDateTime: 2023-01-17T14:53:00Z
-originalUrl: "https://neurosciencenews.com/neural-network-robotic-prosthetics-22270/"
-webUrl: "https://neurosciencenews.com/neural-network-robotic-prosthetics-22270/"
+title: "Simple neural networks outperform more complex systems for controlling robotic prosthetics"
+excerpt: "Artificial neural networks that are inspired by natural nerve circuits in the human body give primates faster, more accurate control of brain-controlled prosthetic hands and fingers, researchers at the University of Michigan have shown."
+publishedDateTime: 2023-01-17T15:26:00Z
+originalUrl: "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.html"
+webUrl: "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.html"
+ampWebUrl: "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.amp"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: Neuroscience News
-  domain: neurosciencenews.com
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - AI in Robotics
+  - Machine Learning
   - AI
 
-secured: "WgAiINTaW0nvPcLMuQvOF8/+W8ChQ3Ni8nN5i/x0Nea8IoG09AVPAXH6ECQNrc2kNjRIttsyzq+f5VR2BKaQSr0Ckpfbj0oNuwwhJiSy+DI/W3Esv3snIYzOJve8Ycda8eVAYZRPOWCZ4C6LP4/1m6PDNq6KsjCjBbkcbBdA9gCyDMnR2ErB/aGvLg18XXZfyRdyFROFD2lhz/yZ9U0ksxoI6fq3r8OupdleJGs961GYTXG+PxNwsIrj8Qe2Z6PfbkgHV3B2NLslgubAjfDy8uXEyOZ/qSRMRXks5cfXpFYOyqoAfgy5GY8+7yUJk+ccbpQFJclA/m41R6ULdjgXGrMpAQh1WofEzrE4HgpcdooythFx3PfnyaECemxBhU1oJWS9xnrquD6x5lN+Xo9pxwRJY650Xzx8V7y4FnwONd/XNHJTbIKsZxWuj9WXjShP2ZxFt52LescaWqSM9OaHjf21sPL7WYg3Hd/KGC55cTgHEQFUGtx1IBR3WPqPDq0Nd7pFZU5Br3SKR8RJNqvAqQ==;D0lGiyc6AUZlsd07shKwzw=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-neural-netw.jpg"
+    width: 850
+    height: 478
+    isCached: true
+
+secured: "9kv149yhaDe5EV5QY0zbmsH7v/pnXa9bRFXy0TdKBoJXnvtsBc+jvf1NFwcW58mR05D8l1ZsSHNozBH6TWqSNwpwWG4alC3EiamWNaiNiUwXEvhGuXKaBZ/+EQmZa9BRwQrgr3tYXNtp79O7noBMaPLljSz5S9WAg/YYSzyGSL23u2zIWQUeuTq3NSn9ja0fe5GcDuE5FotInlpwi0xLNku4oT+y5VF/K9kiwtkK9laNbuK5G1WTZI9yEH/lglxvhHjLwHxD5NPhklbizo+2KMgL3xutuT4i6n+UMMNx8ME2WZ2fSkWWGDZr3n8mBq48jy9WMO5msGH6Kko+X7zwybWVA+YSa8nrQqlehktFgXE=;9OAQAVlXmKtqH1HpWF2sQw=="
 ---
 

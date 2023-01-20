@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-20T12:30:00Z
 originalUrl: "https://www.forbes.com/sites/shalinjyotishi/2023/01/20/amazon-wants-to-help-community-colleges-hbcus-teach-ai/"
 webUrl: "https://www.forbes.com/sites/shalinjyotishi/2023/01/20/amazon-wants-to-help-community-colleges-hbcus-teach-ai/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

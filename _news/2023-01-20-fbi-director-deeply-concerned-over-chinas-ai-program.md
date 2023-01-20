@@ -1,0 +1,54 @@
+---
+category: news
+title: "FBI director ‘deeply concerned’ over China’s AI program"
+excerpt: "FBI Director Christopher Wray on Thursday said he is “deeply concerned” about the Chinese government’s artificial intelligence (AI) program, adding that it is “not constrained by the rule of law.” Speaking at a panel session at the World Economic Forum in Davos,"
+publishedDateTime: 2023-01-20T15:59:00Z
+originalUrl: "https://www.taipeitimes.com/News/front/archives/2023/01/21/2003792945"
+webUrl: "https://www.taipeitimes.com/News/front/archives/2023/01/21/2003792945"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: The Taipei Times
+  domain: taipeitimes.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://www.taipeitimes.com/images/2023/01/21/P01-230121-329.jpg"
+    width: 787
+    height: 525
+    isCached: true
+
+related:
+  - title: "FBI chief says he's 'deeply concerned' by China's AI program"
+    excerpt: "FBI Director Christopher Wray says he's “deeply concerned” about the Chinese government’s artificial intelligence program, asserting that it was “not constrained by the rule of law.” Speaking Thursday"
+    publishedDateTime: 2023-01-19T22:50:00Z
+    webUrl: "https://omaha.com/lifestyles/article_e9500932-b937-55f7-8e9e-45eae32c80d8.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/8/cf/8cf3f26d-8493-5212-bd4c-39debc72b726/63c97ab616712.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "FBI chief says he’s ‘deeply concerned’ by China’s artificial intelligence program"
+    excerpt: "FBI Director Christopher Wray said Thursday that he was “deeply concerned” about the Chinese government’s artificial intelligence program, asserting that it was “not constrained by the rule of law.”"
+    publishedDateTime: 2023-01-19T19:38:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/jan/19/fbi-chief-says-hes-deeply-concerned-by-chinas-arti/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 12
+
+secured: "88qtOivJIOei1OysYSoQ1cVV2snrgt/ZZMw9KSF8sy5stLtu5FPUXMprPuzz4AIe5YsOzx/EKWC96E9HznvkOOzob3y6V6tu3ZFVkVri7vHHFS3NvymhovqqC9MsaPai5AvkpncqKnzBkK/FGEweelOXQ5lzx8NXrxMhY1YTv3eeO6gIiNN7+LHBlsBwLbHtffm7KyXZe8QcHfw1W+ZN7ZWUY/nnP1JguwwUHuiK6SsFNeIeF7F/tnmgLni0JbZMJV17ZagUBzKRmHDQPqcCyvVCz8Kr9NoeRgy990vdHTEC3GdbiXTnrZfFuVVaP1eAqp6+XipyYXzFeINhVr6ldbGqvUW1RqBI67eWM6PrJps=;XcCDqfAP4uEzrNFAdF189w=="
+---
+

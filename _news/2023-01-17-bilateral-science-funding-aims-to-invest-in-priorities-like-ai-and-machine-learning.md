@@ -41,6 +41,20 @@ related:
         width: 1524
         height: 512
         isCached: true
+  - title: "Google's AI is best yet at answering medical and health questions"
+    excerpt: "Google has built an AI that can answer medical questions. However, it's not as good as a human doctor and the company says it cannot yet perform safely in the real world"
+    publishedDateTime: 2023-01-20T15:27:00Z
+    webUrl: "https://www.newscientist.com/article/2355689-googles-ai-is-best-yet-at-answering-medical-and-health-questions/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/01/19205111/SEI_140927322.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "PCuR/IY9w0o0WU9KIFqhojl/OpeM9V+xvgkbayS0Zz2V9tRbbTG0ZX8wHAmDnOu3y8gaA0X9Pr5fvsPRCaMN1lb9Zab2vnijQxA5NPb394QEQ46mpOns9fuhrCG8HibU6ZDggQoRaps49S0jKiCU6GPWPIdMcP+A13piMHKTDrSYPiuYcYfToJLLOWLIgSZWspSK+tFlVc40jDS7FeVKFADKe/du6izHrvJKe+qTQgnnvxWab2B2PVH/FPttDFWj0+zw6MNZ/mBcqp7B4w0Ostuc92yx3uFzPRsTj9loE/DQQtJKitSMQUP5AwhYo5NPMfZp7EW19GtvlroFSE8v4h0J3pX6y32fHX2N1RqN/Pw=;hYiz85AtAAN0CvQYiMZaqg=="
 ---
