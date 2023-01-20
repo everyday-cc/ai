@@ -2,6 +2,59 @@
   "page": 119,
   "value": [
     {
+      "path": "_news/2022-10-01-how-colleges-are-using-artificial-intelligence-to-improve-enrollment-and-retention.md",
+      "title": "How Colleges Are Using Artificial Intelligence To Improve Enrollment And Retention",
+      "excerpt": "Higher education is advancing from its initial use of AI to automate routine tasks, digitize workflows, develop complex datasets, and create dashboards for analytics. Now, colleges are doing more than using technology to do the same things better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/",
+      "originalUrl": "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6102d1d3cc6d3da87fbd41c4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/amp/",
+      "publishedDateTime": "2022-10-01T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-10-01-tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders.md",
       "title": "Tesla Robot Shows Some Skills, But Falls Flat With Some Robotics Insiders",
       "excerpt": "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence event ...",
@@ -1090,59 +1143,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-bundesliga-match-fact-win-probability-quantifying-the-effect-of-in-game-events-on-winning-chances-using-machine-learning-on-aws.md",
-      "title": "Bundesliga Match Fact Win Probability: Quantifying the effect of in-game events on winning chances using machine learning on AWS",
-      "excerpt": "Ten years from now, the technological fitness of clubs will be a key contributor towards their success. Today we’re already witnessing the potential of technology to revolutionize the understanding of football. xGoals quantifies and allows comparison of goal scoring potential of any shooting situation,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-win-probability-quantifying-the-effect-of-in-game-events-on-winning-chances-using-machine-learning-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-win-probability-quantifying-the-effect-of-in-game-events-on-winning-chances-using-machine-learning-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/30/ML-11374-image011.jpg",
-          "width": 1400,
-          "height": 865,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T09:28:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

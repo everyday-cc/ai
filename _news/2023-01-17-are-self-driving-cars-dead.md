@@ -35,15 +35,6 @@ related:
         width: 345
         height: 230
         isCached: true
-  - title: "Self-driving cars could see motorists stuck in traffic for longer"
-    excerpt: "Department for Transport projections said delays may rise by up to 85 from 2025 to 2060 with self-driving cars"
-    publishedDateTime: 2023-01-15T12:52:00Z
-    webUrl: "https://www.timesandstar.co.uk/news/national/uk-today/23251830.self-driving-cars-see-motorists-stuck-traffic-longer/"
-    type: article
-    provider:
-      name: Times Star
-      domain: timesandstar.co.uk
-    quality: 4
 
 secured: "wBB3nP4g467PP8MBi1wv/sOH0Xu+J1uvGSWHV5GS/v69p7Pbk6aRp+V2kzo0CYB99GN/h8LPzNv5CvgG3IqFEMyLbUEAzjBFQ12OerieIkdiJUl/YV9xxIbqGpZJhS3bTKrF/naiPZFkPNdMkzyprLxY65v03Iqna1qmSvwwOcxmnDo9JBURYIkKGe4QF5ZklAeYxf7Uvt5YC5kdyBpERQUWjjBWLBLG3Lx4MllSUUhp7vpKyNQaG5W1l+M5wewzXWIJqCslSkaaeTStd54ZejRqzCziljYLFcsBZnYQdsbmodC4n8qKng+uBIbKgvc5Sm7KbRPkSWnT8hO2ZDKCgvkhloJ0/xKDqIA40+ljDSTKmUn03G/mGeAn5OF1Ili967jSwljm23knV5eG70Cp8FPkS9fKNCSo7XNnRuMWC7QUmGZtwwOuz/t2b06WDqDjmGR1Ja5w5HrOkhlqwGk0j6N63woy3VgtsAuBx2uPWSr2ATOf2KkHGJzEz4Wb8Yqk5AXuS5TE01vZEUUuDWSmWw==;tHWdltCCGGhjx9b+qDAtaQ=="
 ---

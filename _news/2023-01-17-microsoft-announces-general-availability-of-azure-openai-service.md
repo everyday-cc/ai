@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Microsoft announces general availability of Azure OpenAI Service"
-excerpt: "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation"
-publishedDateTime: 2023-01-17T11:37:00Z
-originalUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
-webUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
+title: "Microsoft Announces general availability of Azure OpenAI Service"
+excerpt: "Microsoft makes Azure OpenAI Service generally available, which makes the world's most advanced AI, including GPT-3.5, Codex, and DALL•E 2"
+publishedDateTime: 2023-01-17T15:34:00Z
+originalUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
+webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
+ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
+cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Information Age
-  domain: information-age.com
+  name: enterprisetalk
+  domain: enterprisetalk.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
-    width: 788
-    height: 443
+  - url: "https://enterprisetalk.com/wp-content/uploads/2023/01/Microsoft-Announces-general-availability-of-Azure-OpenAI-Service.jpg"
+    width: 1500
+    height: 844
     isCached: true
 
 related:
@@ -492,6 +494,20 @@ related:
       name: Law
       domain: law.com
     quality: 40
+  - title: "ChatGPT won’t give OpenAI sustainable first-mover advantage"
+    excerpt: "But in our view, though the hype around ChatGPT is justified, we don’t believe OpenAI will lock up the market with its first-mover advantage. Rather, we believe that success in this market will be directly proportional to the quality and quantity of data that a technology company has at its disposal,"
+    publishedDateTime: 2023-01-20T03:40:00Z
+    webUrl: "https://siliconangle.com/2023/01/19/chatgpt-wont-give-openai-sustainable-first-mover-advantage/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/AdobeStock_553851695.jpeg"
+        width: 3072
+        height: 2048
+        isCached: true
   - title: "AI research tool aims to supplement flawed ChatGPT"
     excerpt: "It started out as a side project during his university studies, but Kieran Lindsay believes his automated Minerva research assistant could be a game-changer for academics struggling to keep up with the flood of publications – and an important step towards explainable AI."
     publishedDateTime: 2023-01-19T03:36:00Z
@@ -579,6 +595,6 @@ related:
       domain: goldcoastbulletin.com.au
     quality: 7
 
-secured: "Ixvpj5UEPa24GhJMeQJvfpQTAcx1G9qwrrlpMP9LePAimvbbBYamr6RTjagn2tCW261W4wK8u7WOzfefwdZmF7ugBr5liz+/c9Ers93KXc/tpIF/jdff/lLwp/Rc1yRK5PUdc3OpZs0C7o7EkJsJvV/WY+Dkt5NIfWxY031yDZUFLlHs6bo9iqbrfRWs5ukhwfTMshze2ZrI9/jUAuNKZrinCReXuwpV8YCc3KG7r8hh6emdac1PXVUz8stliQYzAiGKnUoAnd64ku7FDrEycAzZAHnUUzvADP7gg81i16gTZcQSm3GslEpruAe9JAoHoefBzaXY6MTJGG/9EYUfzK2VLZYrk4dCt07E3kwNBcWDeIZ+ABoTnjDZ0kYSNnGidt3UDH9BMH1A6exb2JWEmsqefkqw8bmVjt2BeDzsvz2cA/MFVCavGaM9GsbzqZJotwgfY4VHhzFDogWuFdTFt3BJq/gVx6vhOOKcEPnXAIrriK3zPzIlkBQHFkBtsHj5Ex5Z+B3SsZ91PEJEnwGpmg==;F9eLjAPJUur/si6CHclt3w=="
+secured: "Qvw5ZZZrfVGogLnpgTSsWA4WCp/gm6ibmL8ip5TlkR4uiHeIxg/5ByOGzf2e3yACVZtC0heLGNZE0+wmxK9beE3C2weP95SmGKOLRTLSUZDew24vWn6dAcLN4csfbtRAGmbokR998ts0VyGo5qeb1YdGhfPvHYGzWTEN1jLfjezZkfbjFHTh6IU2QTlzJLBDYwppCuAwAhfDPYAyxRyEZbeVlHWXpWQi0Utb0BbA8nM0s9mBcGnlgvc/ahLFBovaHRm5NQOyjIQmHVmqasIVSh6YacRYvUZ0m+pSRwctf/b59z54msnMvF+CAa5lmt8Mq0iPFl9fliUgfwiP89GxS5nFHUmLtQgqYgTmZ+dV7OQ=;IQrMk5qL1981vGjxYec+aA=="
 ---
 

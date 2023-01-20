@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-19-investigation-exposes-murkier-side-of-ai-chatbot-industry.md",
+      "title": "Investigation exposes murkier side of AI chatbot industry",
+      "excerpt": "A Time investigation has exposed the murkier side of the AI chatbot industry, highlighting how at least one startup has been using questionable practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/",
+      "originalUrl": "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/ChatGPT-OpenAI-logo.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/?amp",
+      "publishedDateTime": "2023-01-18T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-19-is-artificial-intelligence-a-net-positive-for-carbon-emissions.md",
       "title": "Is Artificial Intelligence A Net-Positive For Carbon Emissions?",
       "excerpt": "Artificial Intelligence is playing an ever-larger role in the global energy industry, but as it grows its carbon footprint is also growing and threatening to undermine its work",
@@ -1164,59 +1215,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-tech-moves-ex-lululemon-chief-joins-seattle-startup-microsoft-ai-ethics-leader-now-at-google.md",
-      "title": "Tech Moves: Ex-Lululemon chief joins Seattle startup; Microsoft AI ethics leader now at Google",
-      "excerpt": "Correll, the former chief technology officer at Lululemon Studio, joined Seattle startup Littlebird as CTO. D’Ambrosio-Correll joined home fitness startup Mirror in 2018 and led engineering. The company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/tech-moves-ex-lululemon-chief-joins-seattle-startup-littlebird-microsoft-ai-ethics-leader-now-at-google/",
-      "originalUrl": "https://www.geekwire.com/2023/tech-moves-ex-lululemon-chief-joins-seattle-startup-littlebird-microsoft-ai-ethics-leader-now-at-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/01/kristiedc.jpeg",
-          "width": 1010,
-          "height": 1010,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

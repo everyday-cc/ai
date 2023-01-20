@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-01-02-gamification-ar-will-change-e-learning-in-2023.md",
+      "title": "Gamification, AR will change e-learning in 2023",
+      "excerpt": "“Emerging technologies such as artificial intelligence, machine learning, blockchain and robotics ... edtech players will have to design programmes and services to suit the learners ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/education-2/metaverse-ar-gamification/2933646/",
+      "originalUrl": "https://www.financialexpress.com/education-2/metaverse-ar-gamification/2933646/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/01/AVGC.png",
+          "width": 2384,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/education-2/metaverse-ar-gamification/2933646/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/metaverse-ar-gamification/2933646/lite/",
+      "publishedDateTime": "2023-01-01T20:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-01-goodbye-google-welcome-ai.md",
       "title": "Goodbye Google? Welcome AI",
       "excerpt": "When was the last time you visited the library for research?For me, it was a few years ago near Barcelona, Spain, because it was snowing outside,",
@@ -962,48 +1005,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-26-voice-is-the-next-frontier-for-conversational-ai-a-critical-functionality-but-challenging-to-master.md",
-      "title": "Voice Is The Next Frontier For Conversational AI, A Critical Functionality But Challenging To Master",
-      "excerpt": "Even with 5 billion people worldwide in possession of a phone, high-quality support via voice channels will be a must-have long into the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/26/voice-is-the-next-frontier-for-conversational-ai-a-critical-functionality-but-challenging-to-master/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/26/voice-is-the-next-frontier-for-conversational-ai-a-critical-functionality-but-challenging-to-master/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-26T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

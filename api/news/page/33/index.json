@@ -2,6 +2,40 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-12-12-raven-advances-cutting-edge-precision-and-autonomous-ag-tech-with-two-raven-autonomytm-product-debuts.md",
+      "title": "Raven Advances Cutting-Edge Precision and Autonomous Ag Tech with Two Raven Autonomy(TM) Product Debuts",
+      "excerpt": "“The Driverless Tillage Solution and Driver Assist Harvest Solution developments are proof that we are expanding these autonomous capabilities into all areas of the cash crop cycle, helping farmers capitalize on additional efficiencies and cost savings ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/12/12/raven-advances-cutting-edge-precision-and-autonomous-ag-tech-with-two-raven",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/12/12/raven-advances-cutting-edge-precision-and-autonomous-ag-tech-with-two-raven",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-its-not-just-fun-lensa-ai-portrait-app-raises-ethical-privacy-concerns.md",
       "title": "'It's not just fun': Lensa AI portrait app raises ethical, privacy concerns",
       "excerpt": "Magic avatars' are the latest internet craze, but one expert says individuals uploading photos of themselves onto the Lensa AI portrait app may not be aware of the ethical and privacy concerns involved.",
@@ -1080,40 +1114,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-deepminds-alphacode-can-outcompete-human-coders.md",
-      "title": "DeepMind's AlphaCode Can Outcompete Human Coders",
-      "excerpt": "DeepMind's AlphaCode model performed well against human coders in a programming competition, with a paper describing its overall performance as similar to that of a \"novice programmer\" with up to a year of training AlphaCode achieved \"approximately human-level performance\" and solved previously unseen natural language problems by forecasting code segments and generating millions of potential solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/267656-deepminds-alphacode-can-outcompete-human-coders/fulltext",
-      "originalUrl": "https://cacm.acm.org/news/267656-deepminds-alphacode-can-outcompete-human-coders/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

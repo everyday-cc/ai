@@ -2,6 +2,50 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-10-11-hsbc-and-silent-eight-expand-machine-learning-partnership.md",
+      "title": "HSBC and Silent Eight Expand Machine Learning Partnership",
+      "excerpt": "Silent Eight announced an extension to its existing partnership with HSBC to tackle financial crime. The new service will cover the deployment of Negative News Screening that leverages machine learning to identify individuals who pose a greater risk for money laundering,",
+      "sourceUrl": null,
+      "webUrl": "https://www.malaysiasun.com/news/272901056/hsbc-and-silent-eight-expand-machine-learning-partnership",
+      "originalUrl": "https://www.malaysiasun.com/news/272901056/hsbc-and-silent-eight-expand-machine-learning-partnership",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1915578/Silent_Eight___Black_for_Screen_Logo.jpg",
+          "width": 400,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Malaysia Sun",
+        "domain": "malaysiasun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-gds-harnesses-machine-learning-to-control-feedback-spam.md",
       "title": "GDS harnesses machine learning to control feedback spam",
       "excerpt": "Felix Reilly, a data scientist at GDS, said in a blogpost that GOV.UK received around 540,000 feedback responses in 2021, and that in early 2022 there was a surge in spam to a peak of 12% of the total.",
@@ -1430,60 +1474,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-02-self-taught-ai-may-have-a-lot-in-common-with-the-human-brain.md",
-      "title": "Self-Taught AI May Have a Lot in Common With the Human Brain",
-      "excerpt": "Neural networks can use self-supervised learning to figure out what matters. This process might be what helps humans do the same.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/self-taught-ai-may-have-a-lot-in-common-with-the-human-brain/",
-      "originalUrl": "https://www.wired.com/story/self-taught-ai-may-have-a-lot-in-common-with-the-human-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6337428ca546819a4885f46c/191:100/w_1280,c_limit/Quanta_Self_learning_AI_2880x1620_Lede-scaled.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-02T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision",
-        "Facebook AI"
       ]
     }
   ],

@@ -78,22 +78,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 65
-  - title: "Windows 11’s new experiment forces Microsoft Edge rounded corners everywhere"
-    excerpt: "Microsoft Edge’s latest version comes with an exciting but weird change that lets you experience Windows 11’s rounded corners feature in its full glory. Microsoft has published a new version of Edge Canary with an experimental feature that brings rounded corners to all websites,"
-    publishedDateTime: 2023-01-15T12:03:00Z
-    webUrl: "https://www.windowslatest.com/2023/01/15/windows-11s-new-experiment-forces-microsoft-edge-rounded-corners-everywhere/"
-    ampWebUrl: "https://www.windowslatest.com/2023/01/15/windows-11s-new-experiment-forces-microsoft-edge-rounded-corners-everywhere/amp/"
-    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/01/15/windows-11s-new-experiment-forces-microsoft-edge-rounded-corners-everywhere/amp/"
-    type: article
-    provider:
-      name: Windows Latest
-      domain: windowslatest.com
-    quality: 58
-    images:
-      - url: "https://www.windowslatest.com/wp-content/uploads/2023/01/Windows-11-Microsoft-Edge-rounded-corners.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "P9KvVPD4OGxv+Tbh5amL5qZ0O4OjIh2qahBG2OblZ1k7ljJfmsVBQ8NgFZ24f/PAvQiKO6SWg6HFmvehIlaYvtc6l6hCE5gVkR9p47OkhN0Z5j5G90nlOvSPn3vJpfm9byzC10sJLk6HSygYuSdP1Q8R+FtDpCbIcI1YTlrtlMg0hKeAboyyvXpfMZzXha5HfskGW6iqP317sxMuShBtb5lOC15ya4AiR3nmSjEIWQCaWhObnpbhG2Yx2B3LFXhr8jasrY0AZjA8vfJm/lR/YWzh4T9MlBmAaSZc0NIJEGDY1CTxai4U5zdCBvrywIpp/XtxtIiR+PUcCzmb4dRrTQZTfQBIoY+RPDHsURIzJpJ7sKi8s9NmYcYxn1JtgDQOs5f93Ln+MEWEkF8UlBcMwarrMdItVB2CbJ2OfcCSZXlw5Rda5P0yXmEY6UenIx4K9EriKjdUEB14RpmDX4V9VGSB1su7bVEGVOLYLylz4mp1oWvh9i5FWJIPr8q7OPVnkPsPUwdyv+IoPiQ2eQbO8Q==;mxdAmcx7SP5m4kBSOVKsYg=="
 ---

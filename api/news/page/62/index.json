@@ -2,6 +2,58 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2022-11-21-speech-and-voice-recognition-technology-market-global-industry-analysis-size-share-growth-trends-and-forecast-2022-2028.md",
+      "title": "Speech and Voice Recognition Technology Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028",
+      "excerpt": "The market research report revolves around the increased awareness of environmental safety because of which the \" Speech and Voice Recognition Technology market \" is growing. The positive attitude of society towards environmental safety is generating the need for the existence of the Speech and Voice Recognition Technology market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-11-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-11-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-21T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-21-axiomteks-ip67-outdoor-edge-ai-system-with-m12-connectors-powered-by-nvidiar-jetsontm-xaviertm-nx-aie800-904-fl-dc.md",
       "title": "Axiomtek's IP67 Outdoor Edge AI System with M12 Connectors Powered by NVIDIA(R) Jetson(TM) Xavier(TM) NX - AIE800-904-FL-DC",
       "excerpt": "Axiomtek - a world-renowned leader relentlessly devoted in the research, development, and manufacture of series of innovative and reliable industrial computer products of high efficiency – is pleased to introduce the AIE800-904-FL-DC,",
@@ -1095,58 +1147,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-20-waymo-can-now-provide-fully-driverless-rides-in-san-francisco.md",
-      "title": "Waymo can now provide fully driverless rides in San Francisco",
-      "excerpt": "Waymo can now provide driverless rides to passengers in San Francisco. On Friday, the California Public Utilities Commission (CPUC) said it granted the Alphabet-owned Waymo a permit to participate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/11/19/23467784/waymo-provide-fully-driverless-rides-san-francisco-california",
-      "originalUrl": "https://www.theverge.com/2022/11/19/23467784/waymo-provide-fully-driverless-rides-san-francisco-california",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/nKYxlCmZtKON5e89PGJxO0QiW0w=/0x0:5154x3372/1200x628/filters:focal(2717x1815:2718x1816)/cdn.vox-cdn.com/uploads/chorus_asset/file/24211424/1390904981.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-19T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

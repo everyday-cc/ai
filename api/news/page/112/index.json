@@ -2,6 +2,59 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2022-10-07-3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt.md",
+      "title": "3 things the AI Bill of Rights does (and 3 things it doesn’t)",
+      "excerpt": "Expectations were high for the White House's Blueprint for an AI Bill of Rights released this week. Here's what what it does and doesn't do.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/",
+      "originalUrl": "https://venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-167852886.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/amp/",
+      "publishedDateTime": "2022-10-07T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-ai-music-generators-could-be-a-boon-for-artists-but-also-problematic.md",
       "title": "AI music generators could be a boon for artists — but also problematic",
       "excerpt": "Stability AI is funding an effort to create a music-generating system using the same AI techniques behind Stable Diffusion.",
@@ -1107,49 +1160,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-this-ai-powered-deep-learning-firefighter-helmet-could-help-save-lives.md",
-      "title": "This AI-powered, deep learning firefighter helmet could help save lives",
-      "excerpt": "The helmet allows firefighters literally see through smoke. Veuer’s Tony Spitz has the details. Get up-to-the-minute news sent straight to your device.",
-      "sourceUrl": null,
-      "webUrl": "https://omaha.com/news/video_48f0f46b-a94e-5866-87f1-9ee642bd6983.html",
-      "originalUrl": "https://omaha.com/news/video_48f0f46b-a94e-5866-87f1-9ee642bd6983.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/8f/48f0f46b-a94e-5866-87f1-9ee642bd6983/633efb996ab23.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

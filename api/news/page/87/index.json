@@ -2,6 +2,49 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2022-10-29-texas-attorney-general-sues-google-again-this-time-over-facial-recognition-in-photos.md",
+      "title": "Texas Attorney General Sues Google Again, This Time Over Facial Recognition in Photos",
+      "excerpt": "which uses facial recognition to sort together photos of the same people. Even if you gave Google permission to collect your own facial recognition data, the people you’ve taken pictures of ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912",
+      "originalUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912/amp",
+      "publishedDateTime": "2022-10-28T19:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-29-lego-is-moving-on-from-its-mindstorms-educational-robots.md",
       "title": "Lego is moving on from its Mindstorms educational robots",
       "excerpt": "If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. While the company isn’t completely done with the idea of educational robotics kits, it will stop selling its Mindstorms Robot Inventor kit by the end of ...",
@@ -1067,58 +1110,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-google-quietly-bought-an-ai-startup-to-build-your-avatar.md",
-      "title": "Google Quietly Bought an AI Startup to Build Your Avatar",
-      "excerpt": "Google quietly acquired Alter, a Twitter-backed AI avatar startup formerly named Facemoji, earlier this year for $100 million, TechCrunch reported Thursday. Alter's acquisition was completed two months ago,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/google-quietly-bought-an-ai-startup-to-build-your-avatar/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/google-quietly-bought-an-ai-startup-to-build-your-avatar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/d189282b394184fca61d9cb8dced46eb01ce2e53/hub/2020/09/30/cfd89362-d0cb-494b-8200-d329c0ca4585/20200929-google-g-logo-02.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar/",
-      "publishedDateTime": "2022-10-27T17:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

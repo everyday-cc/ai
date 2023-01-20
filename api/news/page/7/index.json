@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-01-12-4-ai-and-ml-job-hunting-tips-from-chip-huyen.md",
+      "title": "4 AI and ML job hunting tips from Chip Huyen",
+      "excerpt": "It may be a tough market, but author and computer scientist Chip Huyen says there are several ways AI and ML job hunters can stand out.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/4-ai-and-ml-job-hunting-tips-from-chip-huyen/",
+      "originalUrl": "https://venturebeat.com/ai/4-ai-and-ml-job-hunting-tips-from-chip-huyen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/chip-huyen-1-1-e1673449558562.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/4-ai-and-ml-job-hunting-tips-from-chip-huyen/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/4-ai-and-ml-job-hunting-tips-from-chip-huyen/amp/",
+      "publishedDateTime": "2023-01-11T15:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-01-12-7-cheap-fintech-stocks-to-buy-before-they-rebound-in-2023.md",
       "title": "7 Cheap Fintech Stocks to Buy Before They Rebound in 2023",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips When thinking about sectors that have a chance to roar back in 2023, financial",
@@ -1069,58 +1122,6 @@
         "name": "Futurism",
         "domain": "futurism.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-artificial-intelligence-ai-accelerator-market-2023-trends-industry-structure-development-demographics-developing-factors-by-2028.md",
-      "title": "Artificial Intelligence (AI) Accelerator Market 2023 : Trends, Industry Structure, Development, Demographics, Developing Factors By 2028",
-      "excerpt": "Jan 11, 2023 (The Expresswire) -- Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence (AI) Accelerator industry. \"Artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-2023-trends-industry-structure-development-demographics-developing-factors-by-2028-2023-01-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-2023-trends-industry-structure-development-demographics-developing-factors-by-2028-2023-01-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,49 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-12-21-tech-tuesday-super-mario-world-handwriting-ai-robots-climbing-walls.md",
+      "title": "Tech Tuesday: Super Mario World, handwriting AI, robots climbing walls",
+      "excerpt": "From Super Mario World to Google taking on doctor’s handwriting and robot dogs that can climb walls, tech expert Greg Nibler joined AM Extra for the latest tech news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koin.com/am-extra/tech-tuesday-super-mario-world-handwriting-ai-robots-climbing-walls/",
+      "originalUrl": "https://www.koin.com/am-extra/tech-tuesday-super-mario-world-handwriting-ai-robots-climbing-walls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.koin.com/wp-content/uploads/sites/10/2022/12/Super-Mario-World-Universal-Studios-12202022.png?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.koin.com/am-extra/tech-tuesday-super-mario-world-handwriting-ai-robots-climbing-walls/amp/",
+      "cdnAmpWebUrl": "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/am-extra/tech-tuesday-super-mario-world-handwriting-ai-robots-climbing-walls/amp/",
+      "publishedDateTime": "2022-12-20T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KOIN 6",
+        "domain": "koin.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-20-power-recommendation-and-search-using-an-imdb-knowledge-graph-part-1.md",
       "title": "Power recommendation and search using an IMDb knowledge graph – Part 1",
       "excerpt": "The IMDb and Box Office Mojo Movies/TV/OTT licensable data package provides a wide range of entertainment metadata, including over 1 billion user ratings; credits for more than 11 million cast and crew members; 9 million movie, TV, and entertainment titles; and global box office reporting data from more",
@@ -1162,57 +1205,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-19-how-ai-creativity-affects-human-art-and-business.md",
-      "title": "How AI Creativity Affects Human Art And Business",
-      "excerpt": "CEO at Reface, a Ukrainian startup and AI product company of easy-to-use tools for digital self-expression. Until recently, we could hardly imagine that by entering some absurd text prompt like \"Spiderman on the moon shaking hands with a surreal Elon Musk,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/19/how-ai-creativity-affects-human-art-and-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/19/how-ai-creativity-affects-human-art-and-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c83a13fef1dee7d35374c5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/19/how-ai-creativity-affects-human-art-and-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/19/how-ai-creativity-affects-human-art-and-business/amp/",
-      "publishedDateTime": "2022-12-19T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

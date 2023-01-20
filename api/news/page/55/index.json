@@ -2,6 +2,48 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2022-11-28-ai-experts-are-increasingly-afraid-of-what-theyre-creating.md",
+      "title": "AI experts are increasingly afraid of what they’re creating",
+      "excerpt": "As the veteran video game programmer John Carmack put it in announcing his new investor-backed AI startup, it’s “AGI or bust, by way of Mad Science!” This particular mad science might kill ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/the-highlight/23447596/artificial-intelligence-agi-openai-gpt3-existential-risk-human-extinction",
+      "originalUrl": "https://www.vox.com/the-highlight/23447596/artificial-intelligence-agi-openai-gpt3-existential-risk-human-extinction",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T03:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-5-risks-of-ai-and-machine-learning-that-modelops-remediates.md",
       "title": "5 risks of AI and machine learning that modelops remediates",
       "excerpt": "Modelops improves machine learning model development, testing, deployment, and monitoring. Follow these tips to keep model risks in check and increase the efficiency and usefulness of your ML initiatives.",
@@ -1092,58 +1134,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-27-image-recognition-technology-market-2023-in-depth-insights-and-business-scenario-by-analysts-certification-2028-newst-96-pages-report.md",
-      "title": "Image Recognition Technology Market 2023 In-Depth Insights and Business Scenario, by Analysts Certification 2028 | Newst 96 Pages Report",
-      "excerpt": "Impact on the Image Recognition Technology market, and how it could impact business in the near and distant future. How big is the global Image Recognition Technology market? Who are the Top Image Recognition Technology manufacturer of the Industry?",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-technology-market-2023-in-depth-insights-and-business-scenario-by-analysts-certification-2028-newst-96-pages-report-2022-11-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-technology-market-2023-in-depth-insights-and-business-scenario-by-analysts-certification-2028-newst-96-pages-report-2022-11-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-27T02:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

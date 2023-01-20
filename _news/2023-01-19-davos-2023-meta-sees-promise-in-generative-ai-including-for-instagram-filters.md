@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Davos 2023-Meta Sees Promise in Generative AI, Including for Instagram Filters"
-excerpt: "Meta Sees Promise in Generative AI, Including for Instagram Filters DAVOS, Switzerland (Reuters) - Generative artificial intelligence, the umbrella technology behind the popular chatbot ChatGPT, has interesting applications for social media,"
-publishedDateTime: 2023-01-19T15:13:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2023-01-19/davos-2023-meta-sees-promise-in-generative-ai-including-for-instagram-filters"
-webUrl: "https://www.usnews.com/news/technology/articles/2023-01-19/davos-2023-meta-sees-promise-in-generative-ai-including-for-instagram-filters"
+title: "Davos 2023-Meta sees promise in generative AI, including for Instagram filters"
+excerpt: "Generative artificial intelligence, the umbrella technology behind the popular chatbot ChatGPT, has interesting applications for social media, the chief product officer for Facebook parent Meta Platforms Inc told Reuters."
+publishedDateTime: 2023-01-19T14:58:00Z
+originalUrl: "https://www.devdiscourse.com/article/technology/2325164-davos-2023-meta-sees-promise-in-generative-ai-including-for-instagram-filters"
+webUrl: "https://www.devdiscourse.com/article/technology/2325164-davos-2023-meta-sees-promise-in-generative-ai-including-for-instagram-filters"
+ampWebUrl: "https://www.devdiscourse.com/article/technology/2325164-davos-2023-meta-sees-promise-in-generative-ai-including-for-instagram-filters?amp"
+cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2325164-davos-2023-meta-sees-promise-in-generative-ai-including-for-instagram-filters?amp"
 type: article
-quality: 45
-heat: 45
+quality: 55
+heat: 55
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: devdiscourse
+  domain: devdiscourse.com
 
 topics:
   - Facebook AI
   - AI
 
-secured: "nbsjhxfTJE1w4dlvcQ11BG3VeCWwvAyxzGv3L/LaNb02LMUBAWDwloMNwzKddnPOhWwQWVjT088Qalje5c12bbzjPFfxW5qGPe8Zk7G4dmyM5nU2pS+ivd7qaa9Vsao/F1TeE51SWLf7LPEql1OftzpjOUCfXItXQF3VvX5yBp8dwqIx+Efnhnhgm2Fc0nDlhth64OjgvyGbB5RGUa4Aex9LQLYlsXwDCoq8wy+c62YBVpMoOKMzyU9DBTFKqKpbJUPpp3kfQLKiBxT6IEksChf3/IQGdi6UhhkVIdaLeZqpPNqEHJXcDJwKhC+qTmJZBVJVLNo9k8A+X+J0C0ZqAwwfM+EGIJKF3pLnkAWvktvAhaUhdq99iy47VeJqqmzEV2KNq1t8BT6AG/syZahTJjXBg5mAQbbk6laf3WSyN8QZxe4GR0Xfb48kw8TVt+3TU/rxjYDIz7iOD+Y/zctv2tWuTceqjDqOhIFMxyiz/8Uq93zQjnE5mdtYxrxhsqsuoYs+CMv+UpDr6BC755uXbQ==;18HbAmqNaUqFj2dWPTW0Tw=="
+images:
+  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_02_2201424.jpg?width=1280"
+    width: 1280
+    height: 853
+    isCached: true
+
+secured: "5r51nb9Mu95FTgc1a3u4F7LARgB6syq/f4vrKNEHWHaxKoq+7GDnftTa5ZJWT+xC5SZxzlfaOFpMBl1qaVXhvBrK/hkUxwMMGnFZ03TpcmXe93xliWsOE9qt1rBQIoIcdy5SQsB6GU5nf3J5QddEF9wLOfoWZKj1lnObnzEstL5K5CP9sjPe9uJW+qff2Ura4/k+4usDapTb8E0pApkRYJWLnBieCCwZDg7RK3omzGisSVupXC+V9XuWe/+UCz5eaObYB2uPIxwQ/25L5cKzDaSt4dQlNrTGV2W8Oog5mmkdGPESJas7cfoGS9aQGB5cxgj1QldyJjA6IL3g5pj9xroAivuBsDtMqvl0VfXDzYw=;k/lVc2DaDmNIskLOBPH9CQ=="
 ---
 

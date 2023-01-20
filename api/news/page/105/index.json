@@ -2,6 +2,59 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2022-10-14-the-snapdragon-ai-journey.md",
+      "title": "The Snapdragon AI Journey",
+      "excerpt": "Qualcomm Technologies, Inc. (QTI) has been researching, developing, and shipping AI acceleration on their Snapdragon processors for the past decade.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63484e1cf003b2ae28de06ab/0x0.png?format=png&width=1200",
+          "width": 628,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/amp/",
+      "publishedDateTime": "2022-10-13T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-heres-why-machine-learning-benefits-biz-developers.md",
       "title": "Here's Why Machine Learning Benefits Biz Developers",
       "excerpt": "In a day and age where content creation is a way to drive inbound traffic and help nurture the customer journey, leveraging machine learning helps automate this process.",
@@ -1157,58 +1210,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-china-chip-industry-group-troubled-by-us-export-curbs.md",
-      "title": "China chip industry group 'troubled' by U.S. export curbs",
-      "excerpt": "China's top trade group for the chip sector said on Thursday it was \"disappointed\" by recent U.S. export controls and warned they could put more stress on global supply chains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/china/top-china-trade-association-chips-opposes-washingtons-export-control-regulations-2022-10-13/",
-      "originalUrl": "https://www.reuters.com/world/china/top-china-trade-association-chips-opposes-washingtons-export-control-regulations-2022-10-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/Oh8HYyRte3RRQ3wwt8W1EaXJGa0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/73ES4CI5ZJOLJDLNY7P24RENTE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T20:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

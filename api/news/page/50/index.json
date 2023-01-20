@@ -2,6 +2,49 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-12-01-experimental-alzheimers-drug-slows-cognitive-decline.md",
+      "title": "Experimental Alzheimer’s Drug Slows Cognitive Decline",
+      "excerpt": "The experimental Alzheimer’s disease drug lecanemab slowed cognitive decline in some people with early Alzheimer’s disease but also caused serious side effects in some patients, according to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.everydayhealth.com/alzheimers-disease/experimental-alzheimers-drug-slows-cognitive-decline/",
+      "originalUrl": "https://www.everydayhealth.com/alzheimers-disease/experimental-alzheimers-drug-slows-cognitive-decline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.everydayhealth.com/images/experimental-alzheimers-drug-lecanemab-slows-decline-1440x810.jpg?sfvrsn=ff019268_1",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T14:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Everyday Health",
+        "domain": "everydayhealth.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history.md",
       "title": "You can use an AI Time Machine to see what you'd look like in different eras throughout history",
       "excerpt": "A TikTok trend popularized the MyHeritage's AI Time Machine, which generates realistic photos of what you would have looked like in past eras.",
@@ -1073,58 +1116,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-startup-uses-ai-to-deliver-custom-investment-portfolios-and-usher-in-wealth-30.md",
-      "title": "Startup Uses AI To Deliver Custom Investment Portfolios And Usher In \"wealth 3.0\"",
-      "excerpt": "The next generation of investors aren’t looking to go down the same beaten path; they understand the importance of personalization and real-time decision-making. When done manually, this can be very expensive and time-consuming,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/11/30/startup-uses-ai-to-deliver-custom-investment-portfolios-and-usher-in-wealth-30/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/11/30/startup-uses-ai-to-deliver-custom-investment-portfolios-and-usher-in-wealth-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63840c971af0e7b9960b4382/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/11/30/startup-uses-ai-to-deliver-custom-investment-portfolios-and-usher-in-wealth-30/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/11/30/startup-uses-ai-to-deliver-custom-investment-portfolios-and-usher-in-wealth-30/amp/",
-      "publishedDateTime": "2022-11-30T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

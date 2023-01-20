@@ -2,6 +2,49 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2022-11-29-new-artificial-intelligence-could-help-humans-actually-talk-to-animals.md",
+      "title": "New Artificial Intelligence Could Help Humans Actually Talk To Animals",
+      "excerpt": "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/",
+      "originalUrl": "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsy",
+        "domain": "newsy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-researchers-propose-competencies-for-proper-use-of-artificial-intelligence-in-healthcare.md",
       "title": "Researchers propose competencies for proper use of artificial intelligence in healthcare",
       "excerpt": "Competencies for the Use of Artificial Intelligence in Primary Care Winston Liaw, MD, MPH; Department of Health Systems and Population Health Sciences, University of Houston College of Medicine ...",
@@ -1074,48 +1117,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-ai-experts-are-increasingly-afraid-of-what-theyre-creating.md",
-      "title": "AI experts are increasingly afraid of what they’re creating",
-      "excerpt": "As the veteran video game programmer John Carmack put it in announcing his new investor-backed AI startup, it’s “AGI or bust, by way of Mad Science!” This particular mad science might kill ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/the-highlight/23447596/artificial-intelligence-agi-openai-gpt3-existential-risk-human-extinction",
-      "originalUrl": "https://www.vox.com/the-highlight/23447596/artificial-intelligence-agi-openai-gpt3-existential-risk-human-extinction",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T03:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

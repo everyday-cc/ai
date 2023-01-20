@@ -68,22 +68,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 65
-  - title: "Windows 11’s new experiment forces Microsoft Edge rounded corners everywhere"
-    excerpt: "Microsoft Edge’s latest version comes with an exciting but weird change that lets you experience Windows 11’s rounded corners feature in its full glory. Microsoft has published a new version of Edge Canary with an experimental feature that brings rounded corners to all websites,"
-    publishedDateTime: 2023-01-15T12:03:00Z
-    webUrl: "https://www.windowslatest.com/2023/01/15/windows-11s-new-experiment-forces-microsoft-edge-rounded-corners-everywhere/"
-    ampWebUrl: "https://www.windowslatest.com/2023/01/15/windows-11s-new-experiment-forces-microsoft-edge-rounded-corners-everywhere/amp/"
-    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/01/15/windows-11s-new-experiment-forces-microsoft-edge-rounded-corners-everywhere/amp/"
-    type: article
-    provider:
-      name: Windows Latest
-      domain: windowslatest.com
-    quality: 58
-    images:
-      - url: "https://www.windowslatest.com/wp-content/uploads/2023/01/Windows-11-Microsoft-Edge-rounded-corners.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft Joins Tech Layoff Circus With 10,000 Jobs Cut in Pivot to AI"
     excerpt: "Microsoft is planning to lay off 10,000 workers through March, joining a slew of tech companies in cutting down after a pandemic hiring boom, The New York Times reports. The company’s chief executive,"
     publishedDateTime: 2023-01-18T14:53:00Z

@@ -2,6 +2,49 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2022-11-09-with-ai-you-need-to-see-the-bigger-hardware-and-software-picture.md",
+      "title": "With AI, you need to see the bigger hardware and software picture",
+      "excerpt": "IDC has reported that when it comes to infrastructure, GPU accelerated compute and HPC like scale-up are amongst the top considerations for tech leaders and architects looking to build out their AI infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/11/09/with_ai_you_need_to/",
+      "originalUrl": "https://www.theregister.com/2022/11/09/with_ai_you_need_to/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/03/10/gpu_shutter.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/11/09/with_ai_you_need_to/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/11/09/with_ai_you_need_to/",
+      "publishedDateTime": "2022-11-09T04:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-anything-world-raises-75m-to-assist-content-creators-using-ai-based-animation.md",
       "title": "Anything World raises $7.5M to assist content creators using AI-based animation",
       "excerpt": "Anything World has raised $7.5 million in funding to create an AI-based animation system that creators can use to be more expressive.",
@@ -1105,58 +1148,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-in-the-age-of-artificial-intelligence-human-skills-are-needed-more-than-ever.md",
-      "title": "In the age of artificial intelligence, human skills are needed more than ever",
-      "excerpt": "Alan Turing, widely considered to be the father of theoretical computer science and artificial intelligence, reportedly said that “once the machine thinking method had started, it would not take ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/comment/opinion/article/3198719/age-artificial-intelligence-human-skills-are-needed-more-ever",
-      "originalUrl": "https://www.scmp.com/comment/opinion/article/3198719/age-artificial-intelligence-human-skills-are-needed-more-ever",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2022/11/08/bc563069-25d9-4e6d-bab5-e1f1aa801ff8_edbd8e94.jpg?itok=Ya-ASJIt&v=1667899505",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3198719/age-artificial-intelligence-human-skills-are-needed-more-ever",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3198719/age-artificial-intelligence-human-skills-are-needed-more-ever",
-      "publishedDateTime": "2022-11-08T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

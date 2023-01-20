@@ -2,6 +2,49 @@
   "page": 146,
   "value": [
     {
+      "path": "_news/2022-09-10-artificial-intelligence-is-now-used-to-track-down-hate-speech.md",
+      "title": "Artificial intelligence is now used to track down hate speech",
+      "excerpt": "AI can help alleviate that burden by scaling up or down to fill in those gaps based on new influxes of users. Facebook, for instance, has seen massive growth, from 400 million users in the early ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newschannel5.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
+      "originalUrl": "https://www.newschannel5.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsy.com/images/videos/m/1660250991_F4WYcV.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newschannel5.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
+      "cdnAmpWebUrl": "https://www-newschannel5-com.cdn.ampproject.org/c/s/www.newschannel5.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
+      "publishedDateTime": "2022-09-09T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVF",
+        "domain": "newschannel5.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-10-to-my-darling-mama-thank-you-tearful-king-charles-chokes-up-in-emotional-first-tv-address-to-his-subjects.md",
       "title": "'To my darling Mama, thank you': Tearful King Charles chokes up in emotional first TV address to his subjects",
       "excerpt": "In a moving speech that was screened at a service of ... praising his 'darling wife Camilla' who becomes Queen Consort 'in recognition of her own loyal public service since our marriage 17 years ...",
@@ -1103,40 +1146,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-uk-based-reall-invests-in-syntellect-global-affordable-housing-fintech-startup-in-a-pre-series-a-round.md",
-      "title": "UK-based Reall invests in Syntellect - global affordable housing fintech startup in a Pre Series A Round",
-      "excerpt": "UK-based Reall invests in Syntellect - global affordable housing fintech startup in a Pre Series A Round. Updated:",
-      "sourceUrl": null,
-      "webUrl": "https://www.ptinews.com/pti/uk-based-reall-invests-in-syntellect-global-affordable-housing-fintech-startup-in-a-pre-series-a-round/57377.html",
-      "originalUrl": "https://www.ptinews.com/pti/uk-based-reall-invests-in-syntellect-global-affordable-housing-fintech-startup-in-a-pre-series-a-round/57377.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PTI",
-        "domain": "ptinews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

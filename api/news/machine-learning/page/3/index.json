@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-05-using-artificial-intelligence-ai-to-identify-clonally-derived-cell-lines-see-the-future-today-upcoming-webinar-hosted-by-xtalks.md",
+      "title": "Using Artificial Intelligence (AI) to Identify Clonally Derived Cell Lines. See the Future Today, Upcoming Webinar Hosted by Xtalks",
+      "excerpt": "In this free webinar, learn how new artificial intelligence-driven imaging technology is being used to identify single cells automatically on day 0, saving days to weeks of labor and time and accelerating IND submissions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/health-press-release/using-artificial-intelligence-ai-to-identify-clonally-derived-cell-lines-see-the-future-today-upcoming-webinar-hosted-by-xtalks--614150-1.htm",
+      "originalUrl": "https://www.medindia.net/health-press-release/using-artificial-intelligence-ai-to-identify-clonally-derived-cell-lines-see-the-future-today-upcoming-webinar-hosted-by-xtalks--614150-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms.md",
       "title": "TDK to acquire Qeexo to enable complete smart edge platforms",
       "excerpt": "Qeexo AutoML enables a no-code environment, enabling data collection and training of 18 (and expanding) different machine learning algorithms, including both neural networks and non-neural ...",
@@ -1276,58 +1310,6 @@
         "AI in Autos",
         "AI in Finance",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-keep-autonomous-killing-machines-off-our-streets-opinion.md",
-      "title": "Keep Autonomous Killing Machines Off Our Streets | Opinion",
-      "excerpt": "Robots are not, yet, autonomous killing machines. Even the rule briefly considered in San Francisco, would have kept a human operator in the decision loop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/keep-autonomous-killing-machines-off-our-streets-opinion-1768564",
-      "originalUrl": "https://www.newsweek.com/keep-autonomous-killing-machines-off-our-streets-opinion-1768564",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2167946/robot-warriors.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/keep-autonomous-killing-machines-off-our-streets-opinion-1768564?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/keep-autonomous-killing-machines-off-our-streets-opinion-1768564?amp=1",
-      "publishedDateTime": "2022-12-22T02:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

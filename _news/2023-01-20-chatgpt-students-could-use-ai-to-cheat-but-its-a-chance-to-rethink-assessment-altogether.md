@@ -217,6 +217,20 @@ related:
         width: 640
         height: 259
         isCached: true
+  - title: "Nearly a Third of White-Collar Workers Have Tried ChatGPT or Other AI Programs, According to a New Survey"
+    excerpt: "Many are using the technology to draft emails, generate ideas, write and troubleshoot bits of code and summarize research or meeting notes"
+    publishedDateTime: 2023-01-20T02:59:00Z
+    webUrl: "https://time.com/6248707/survey-chatgpt-ai-use-at-work/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 50
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "An AI rival to ChatGPT passed a university level law and economics exam, and did better than many humans, professor says"
     excerpt: "A professor at George Mason University said the AI's answer to a law and economics exam was \"better than many human responses.\""
     publishedDateTime: 2023-01-19T15:02:00Z

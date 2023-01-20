@@ -2,6 +2,40 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2022-11-30-thundersoft-joins-the-amazon-sagemaker-ready-program.md",
+      "title": "ThunderSoft Joins the Amazon SageMaker Ready Program",
+      "excerpt": "Joining the Amazon SageMaker Ready Program differentiates ThunderSoft as an AWS Partner Network (APN) member with a product that works with Amazon SageMaker and is generally available for and fully supports AWS customers.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/11/30/9722485.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/11/30/9722485.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-study-links-mait-cells-to-cognitive-function.md",
       "title": "Study links MAIT cells to cognitive function",
       "excerpt": "MAIT cells, which were discovered in the 1990s, were already known to be the most abundant innate-like T cells in humans and to be particularly numerous in the liver and skin. The Rutgers study ...",
@@ -1061,50 +1095,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital.md",
-      "title": "Andrew Ng’s Netail offers AI for retailers to ease change from physical to digital",
-      "excerpt": "Netail, which closed $5M in seed funding, enables retailers to identify competitors, track their inventory, and optimize prices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/",
-      "originalUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/",
-      "publishedDateTime": "2022-11-29T07:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

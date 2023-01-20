@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars could see motorists stuck in traffic for longer"
-    excerpt: "Department for Transport projections said delays may rise by up to 85 from 2025 to 2060 with self-driving cars"
-    publishedDateTime: 2023-01-15T12:52:00Z
-    webUrl: "https://www.timesandstar.co.uk/news/national/uk-today/23251830.self-driving-cars-see-motorists-stuck-traffic-longer/"
-    type: article
-    provider:
-      name: Times Star
-      domain: timesandstar.co.uk
-    quality: 4
   - title: "Are self-driving cars dead?"
     excerpt: "The focus for the past couple years has been on self-driving car technology. While that’s a trillion-dollar opportunity, it’s unclear when self-driving cars will actually hit the market. I performed deep research into self-driving car tech way back in 2015."
     publishedDateTime: 2023-01-16T19:47:00Z

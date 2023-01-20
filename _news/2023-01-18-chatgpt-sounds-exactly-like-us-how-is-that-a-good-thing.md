@@ -210,6 +210,20 @@ related:
         width: 640
         height: 259
         isCached: true
+  - title: "Nearly a Third of White-Collar Workers Have Tried ChatGPT or Other AI Programs, According to a New Survey"
+    excerpt: "Many are using the technology to draft emails, generate ideas, write and troubleshoot bits of code and summarize research or meeting notes"
+    publishedDateTime: 2023-01-20T02:59:00Z
+    webUrl: "https://time.com/6248707/survey-chatgpt-ai-use-at-work/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 50
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "ChatGPT: Students could use AI to cheat, but it's a chance to rethink assessment altogether"
     excerpt: "ChatGPT is a powerful language model developed by OpenAI that has the ability to generate human-like text, making it capable of engaging in natural language conversations. This technology has the potential to revolutionize the way we interact with computers,"
     publishedDateTime: 2023-01-19T18:07:00Z

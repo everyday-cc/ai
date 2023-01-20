@@ -2,6 +2,59 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2022-10-05-tesla-announces-its-moving-away-from-ultrasonic-sensors-in-favor-of-tesla-vision.md",
+      "title": "Tesla announces it’s moving away from ultrasonic sensors in favor of ‘Tesla Vision’",
+      "excerpt": "Tesla announced today that it is moving away from using ultrasonic sensors in its suite of Autopilot sensors in favor of its camera-only “Tesla Vision” system. Last year, Tesla announced it would transition to its “Tesla Vision” Autopilot without radar and start producing vehicles without a front-facing radar.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/",
+      "originalUrl": "https://electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/11/tesla-ultrasonic-e1479179062536.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/amp/",
+      "publishedDateTime": "2022-10-04T14:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-why-bringing-sas-viya-onto-microsoft-azure-marketplace-is-a-big-deal.md",
       "title": "Why bringing SAS Viya onto Microsoft Azure Marketplace is a big deal",
       "excerpt": "With files from Lynn Greiner. On Sept. 27, SAS officially brought its Viya analytics platform to the Microsoft Azure Marketplace. The service enables Azure customers to use the solution on a pay-as-you-go basis with the click of a button.",
@@ -1091,58 +1144,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-techstars-ceo-on-the-future-of-fintech.md",
-      "title": "TechStars CEO On The Future Of FinTech",
-      "excerpt": "Meeting up with TechStars CEO Maëlle Gavet at the Collision conference in Toronto. Here’s what she is excited about in financial technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633b75a5d5779d3d6278b209/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/",
-      "publishedDateTime": "2022-10-04T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

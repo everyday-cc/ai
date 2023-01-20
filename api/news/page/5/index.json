@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-14-singapore-based-fintech-actyvai-raises-funding-to-support-expansion-product-enhancement.md",
+      "title": "Singapore based Fintech actyv.ai Raises Funding to Support Expansion, Product Enhancement",
+      "excerpt": "Singapore-headquartered, category creator in the enterprise SaaS with embedded B2B BNPL and insurance space, has raised $12M.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/01/201058-singapore-based-fintech-actyv-ai-raises-funding-to-support-expansion-product-enhancement/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/01/201058-singapore-based-fintech-actyv-ai-raises-funding-to-support-expansion-product-enhancement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2016/03/Singapore-Skyline-1024x725.jpg",
+          "width": 1024,
+          "height": 725,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/01/201058-singapore-based-fintech-actyv-ai-raises-funding-to-support-expansion-product-enhancement/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/01/201058-singapore-based-fintech-actyv-ai-raises-funding-to-support-expansion-product-enhancement/amp/",
+      "publishedDateTime": "2023-01-14T05:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-14-ai-is-taking-on-ever-larger-puzzles.md",
       "title": "AI Is Taking On Ever-Larger Puzzles",
       "excerpt": "But eight months later, still in the midst of the pandemic, AI solved a nearly 50-year-old grand challenge in biology: the protein-structure prediction problem. Life science experts described this breakthrough as “the singular and momentous advance in life science that demonstrates the power of AI.",
@@ -1164,58 +1207,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-3d-facial-recognition-systems-market-key-factors-responsible-for-rapid-growth-in-the-coming-years-2028.md",
-      "title": "3D Facial Recognition Systems Market | Key factors responsible for rapid growth in the coming years 2028",
-      "excerpt": "The Global 3D Facial Recognition Systems market 2023 to 2028 Report add an In-depth analysis on the market status of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-key-factors-responsible-for-rapid-growth-in-the-coming-years-2028-2023-01-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-key-factors-responsible-for-rapid-growth-in-the-coming-years-2028-2023-01-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T20:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

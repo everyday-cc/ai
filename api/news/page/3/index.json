@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-18-tech-moves-ex-lululemon-chief-joins-seattle-startup-microsoft-ai-ethics-leader-now-at-google.md",
+      "title": "Tech Moves: Ex-Lululemon chief joins Seattle startup; Microsoft AI ethics leader now at Google",
+      "excerpt": "Correll, the former chief technology officer at Lululemon Studio, joined Seattle startup Littlebird as CTO. D’Ambrosio-Correll joined home fitness startup Mirror in 2018 and led engineering. The company,",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/tech-moves-ex-lululemon-chief-joins-seattle-startup-littlebird-microsoft-ai-ethics-leader-now-at-google/",
+      "originalUrl": "https://www.geekwire.com/2023/tech-moves-ex-lululemon-chief-joins-seattle-startup-littlebird-microsoft-ai-ethics-leader-now-at-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/01/kristiedc.jpeg",
+          "width": 1010,
+          "height": 1010,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-dell-integrates-more-ai-power-into-updated-server-portfolio.md",
       "title": "Dell integrates more AI power into updated server portfolio",
       "excerpt": "Today's Dell PowerEdge event introduced a new server lineup with hardware for general purpose workloads and purpose-built systems for AI/ML.",
@@ -313,7 +366,7 @@
       "originalUrl": "https://www.itpro.co.uk/cloud/cloud-computing/369875/microsoft-adds-chatgpt-to-azure-openai-support-cloud-services",
       "featuredContent": null,
       "highlight": null,
-      "heat": 549,
+      "heat": 559,
       "tags": null,
       "images": [
         {
@@ -1211,60 +1264,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028.md",
-      "title": "Natural Language Processing (NLP) Market 2023 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028",
-      "excerpt": "Pages Report] Rising demand for Consumer Goods Industry will drive the Natural Language Processing (NLP) segment growth over the next five years. Global Market Analysis for N",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028-2023-01-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028-2023-01-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 262,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-16T01:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales",
-        "AWS AI"
       ]
     }
   ],

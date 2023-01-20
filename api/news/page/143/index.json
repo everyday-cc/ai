@@ -2,6 +2,49 @@
   "page": 143,
   "value": [
     {
+      "path": "_news/2022-09-13-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
+      "title": "Truly autonomous cars may be impossible without helpful human touch",
+      "excerpt": "Making robot cars that can drive more safely than people is immensely tough because self-driving software systems simply lack humans' ability to predict and assess risk quickly, especially when encountering unexpected incidents.",
+      "sourceUrl": null,
+      "webUrl": "https://europe.autonews.com/automakers/truly-autonomous-cars-may-be-impossible-without-human-touch",
+      "originalUrl": "https://europe.autonews.com/automakers/truly-autonomous-cars-may-be-impossible-without-human-touch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Vay%20driver%20web.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes.md",
       "title": "The New Artificial Intelligence Of Car Audio Might Improve More Than Just Tunes",
       "excerpt": "Hollywood has perennially portrayed Artificial Intelligence (AI) as the operating layer of dystopian robots who replace unsuspecting humans and create the escalating, central conflict. Yet, AI is now enhancing entertainment and,",
@@ -1074,49 +1117,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-tech-war-why-the-us-nvidia-chip-ban-is-a-direct-threat-to-beijings-artificial-intelligence-ambitions.md",
-      "title": "Tech war: Why the US Nvidia chip ban is a direct threat to Beijing’s artificial intelligence ambitions",
-      "excerpt": "Nvidia has said that it can continue to ship AI chips from its Hong Kong facility through September 2023. “Most cloud service providers in China use Nvidia chips in their GPU-based products ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3192213/tech-war-why-us-nvidia-chip-ban-direct-threat-beijings-artificial",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3192213/tech-war-why-us-nvidia-chip-ban-direct-threat-beijings-artificial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
