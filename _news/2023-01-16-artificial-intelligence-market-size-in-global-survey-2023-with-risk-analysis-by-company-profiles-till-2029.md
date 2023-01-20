@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Automotive Artificial Intelligence Market Survey 2023 with the increasing need to extend Outlook 2029"
-    excerpt: "Global “Automotive Artificial Intelligence Market” report 2023 delivers a complete overview of crucial factors"
-    publishedDateTime: 2023-01-16T03:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-survey-2023-with-the-increasing-need-to-extend-outlook-2029-2023-01-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Market Share 2023 Comprehensive Insights, Innovations and Business Outlook till 2029"
     excerpt: "Research Reports added a research report on the global “Artificial Intelligence in Market\". The report includes"
     publishedDateTime: 2023-01-17T04:35:00Z

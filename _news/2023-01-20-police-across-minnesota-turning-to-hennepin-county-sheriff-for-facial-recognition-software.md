@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Law enforcement agencies around Minnesota tap Hennepin County’s facial recognition software"
+    excerpt: "Plus: Wage inequality is down even as wages lose ground to inflation; St. Paul rec center employee charged with attempted murder; Vikings fire DC Ed Donatell; and more."
+    publishedDateTime: 2023-01-20T21:49:00Z
+    webUrl: "https://www.minnpost.com/glean/2023/01/law-enforcement-agencies-around-minnesota-tap-hennepin-countys-facial-recognition-software/"
+    type: article
+    provider:
+      name: MinnPost
+      domain: minnpost.com
+    quality: 29
+    images:
+      - url: "https://www.minnpost.com/wp-content/uploads/2023/01/PoliceCarLights740.jpg?strip=all"
+        width: 740
+        height: 494
+        isCached: true
+
 secured: "uBxSiEf/MCjurCXosL0UEz5SeFQNxEqiTMWmas4H1VCbbO3hkMclN2F7lh7bsNbgO1cSidBCEoyA8UxwN2qQilslBpbZNwCCoPscNLXbKWwnCMra2wfzYwBbWdIboxdJCVQKd0cFysjYNaysVqus3QMxKxuPZBrxi3xwlP1Yq+E1irE7a67Jgc4ppfwkMQ8d5Bntut+N2PsBDxLzEegw2FPNCRV8GBW6fpel0ZXGeOstMkf69dHR0LRRnAKmNIJOpdRGoOPzet91xE28omqXxuB9esPyNdsJ9Lw6Cs8DGifcsW1iGBjKeaJ7prwAYxo4vTZbq1/gX2friiDVW4la7qFF33N6kvjn8ACXQvL8IJA=;VQD6UZE1PL6JZ3e4E77dvA=="
 ---
 

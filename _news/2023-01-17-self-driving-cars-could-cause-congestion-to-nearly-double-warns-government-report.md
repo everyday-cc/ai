@@ -19,36 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Driverless cars may worsen congestion by 85 percent, a report claims amid 2025 rollout"
-    excerpt: "It has been claimed in a Government report that driverless cars may worsen congestion by 85 percent. The claim by the Department of Transport comes amid thoughts of such vehicles becoming ..."
-    publishedDateTime: 2023-01-16T04:17:00Z
-    webUrl: "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont"
-    ampWebUrl: "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 66
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/1/590x/Traffic-1721675.jpg?r=1673839653328"
-        width: 590
-        height: 353
-        isCached: true
-  - title: "Self-Driving/Driverless Cars Market Size 2023 With End-user Industries, Segments Covered in the Report"
-    excerpt: "Self-Driving/Driverless Cars Market 2023 with 103 Pages Report and enhance with extents shares into sub-counties"
-    publishedDateTime: 2023-01-16T06:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-drivingdriverless-cars-market-size-2023-with-end-user-industries-segments-covered-in-the-report-2023-01-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-driving cars could nearly double road congestion, says report"
     excerpt: "LONDON: Motorists could be stuck in congestion nearly twice as bad as current levels if self-driving cars become commonplace, a UK government report warns. The UK's Department for Transport (DfT) traffic projections for England and Wales show delays may rise by up to 85% from 2025 to 2060 in that scenario."
     publishedDateTime: 2023-01-16T19:48:00Z

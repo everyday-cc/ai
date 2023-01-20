@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-in
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/?amp=1"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -23,22 +23,26 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Artificial intelligence intelligence turns its artistry to creating human proteins"
+    excerpt: "Scientists hope AI can help them develop new cancer treatment, a new flu vaccine or a new pill that helps you digest gluten."
+    publishedDateTime: 2023-01-16T13:00:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 35
   - title: "AI tools can create new images, but who is the real artist?"
     excerpt: "With some generated images traveling on social networks and potentially going viral, they can be challenging to debunk since they can’t be traced back to a specific tool or data source"
     publishedDateTime: 2023-01-20T15:38:00Z
-    webUrl: "https://www.kcci.com/article/ai-images-who-is-real-artist/42592783"
-    ampWebUrl: "https://www.kcci.com/amp/article/ai-images-who-is-real-artist/42592783"
-    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/ai-images-who-is-real-artist/42592783"
+    webUrl: "https://www.wcvb.com/article/ai-images-who-is-real-artist/42592783"
     type: article
     provider:
-      name: KCCI Des Moines
-      domain: kcci.com
-    quality: 59
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap23011863010313-1-1674235508.jpg?crop=1.00xw:0.846xh;0,0.0337xh&resize=1200:*"
-        width: 1200
-        height: 677
-        isCached: true
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
+    quality: 19
   - title: "AI tools can create new images, but who is the real artist?"
     excerpt: "Countless artists have taken inspiration from “The Starry Night” since Vincent Van Gogh painted the swirling scene in 1889. Now artificial intelligence systems are doing the same, training themselves on a vast collection of digitized artworks to produce new images you can conjure in seconds from a smartphone app."
     publishedDateTime: 2023-01-19T14:07:00Z

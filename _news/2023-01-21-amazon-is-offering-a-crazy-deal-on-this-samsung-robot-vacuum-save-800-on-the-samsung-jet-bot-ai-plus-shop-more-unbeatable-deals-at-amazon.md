@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/essentials/amazon-is-offering-a-crazy-deal-on-t
 ampWebUrl: "https://www.cbsnews.com/amp/essentials/amazon-is-offering-a-crazy-deal-on-this-samsung-robot-vacuum-save-800-on-the-samsung-jet-bot-ai-plus-shop-more-unbeatable-deals-at-amazon/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-is-offering-a-crazy-deal-on-this-samsung-robot-vacuum-save-800-on-the-samsung-jet-bot-ai-plus-shop-more-unbeatable-deals-at-amazon/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:

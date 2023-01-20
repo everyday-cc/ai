@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-19T20:32:00Z
 originalUrl: "https://endpts.com/small-cap-cns-outfit-pasithea-therapeutics-inks-api-deal-with-wuxi-for-preclinical-mek-inhibitor/"
 webUrl: "https://endpts.com/small-cap-cns-outfit-pasithea-therapeutics-inks-api-deal-with-wuxi-for-preclinical-mek-inhibitor/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: ENDPOINTS NEWS

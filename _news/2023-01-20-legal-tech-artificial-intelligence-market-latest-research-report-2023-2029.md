@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-latest-research-report-2023-2029-2023-01-20"
 type: article
 quality: 65
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Legal Tech Artificial Intelligence Market Analysis Report 2023 Along with Statistics Figures, till 2029"
+    excerpt: "As per Market Growth Report, “The Legal Tech Artificial Intelligence market has witnessed growth from USD million to"
+    publishedDateTime: 2023-01-20T17:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
   - title: "Artificial Intelligence Consulting Service Market 2023 Top Companies & Business Development Report of 123 Pages by 2023 to 2029"
     excerpt: "Jan (The Expresswire) -- \"Artificial Intelligence Consulting Service Market\" New Research Insights Report 2023 | New Report Spread Across| 123"
     publishedDateTime: 2023-01-17T14:25:00Z
@@ -60,6 +69,15 @@ related:
       name: Nextgov
       domain: nextgov.com
     quality: 18
+  - title: "Artificial Intelligence Based Medical Device Market is Taking Hike in Revenue Along With Top Key Players Profile and Forecast 2023 To 2029"
+    excerpt: "\"Artificial Intelligence Based Medical Device Market\" Research Report explains how the market growth has been unfolding over the recent past and what would be the future market projections during the anticipated period from 2023 to 2029."
+    publishedDateTime: 2023-01-20T03:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-is-taking-hike-in-revenue-along-with-top-key-players-profile-and-forecast-2023-to-2029-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
 
 secured: "ECQH1AhNlpj8aZW8dX+zvnGoFTN34rzBor6MsjhISlCBL6UsyJ1ktTrTz8FS5swxkt7/Zo5fKbpASOzSQczoOIJbXTmkPstwuD4ZSo9iwUqezxvlBw1IUcKGpI8rhfnyA4uq2SkIwHIMhUyWhLZ12VJYNEKwJMY6OCYcxK3vP5Pu1rK1tSZG0kce9xEjGL4urh4D1KIxS55+10MGO9y6Ay30BzrntK1jyAOIvCg9OfZEN+VZ0DMBUIpau2yYtg5fLNGrqBckI4CtU0/Z45mn4Ma+xbjuBWRBO8/IefvS8Q6fB41uWu535nYC/+JxzSa8Q8Cg21mNkJoiLSXnFS5gnIFYYtCP3OZlkCrNEnSnDz8=;jWcYslohPI3kjhgqgsvUQg=="
 ---

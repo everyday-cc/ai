@@ -8,8 +8,8 @@ webUrl: "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html
 ampWebUrl: "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/20/technology/chatbots-turing-test.amp.html"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:

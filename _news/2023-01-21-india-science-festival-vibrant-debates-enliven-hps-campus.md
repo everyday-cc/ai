@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-20T19:49:00Z
 originalUrl: "https://www.deccanchronicle.com/featured/210123/india-science-festival-vibrant-debates-enliven-hps-campus.html"
 webUrl: "https://www.deccanchronicle.com/featured/210123/india-science-festival-vibrant-debates-enliven-hps-campus.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Deccan Chronicle

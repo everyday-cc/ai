@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-20T19:36:00Z
 originalUrl: "https://www.utoronto.ca/news/power-and-prediction-u-t-s-avi-goldfarb-disruptive-economics-artificial-intelligence"
 webUrl: "https://www.utoronto.ca/news/power-and-prediction-u-t-s-avi-goldfarb-disruptive-economics-artificial-intelligence"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: University of Toronto

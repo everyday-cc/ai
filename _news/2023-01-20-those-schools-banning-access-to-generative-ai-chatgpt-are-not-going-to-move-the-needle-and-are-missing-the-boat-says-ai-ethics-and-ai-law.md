@@ -553,20 +553,6 @@ related:
       name: Law
       domain: law.com
     quality: 40
-  - title: "Unlocking AI’s Potential with ChatGPT – by SAE’s Hiba Hassan"
-    excerpt: "By Hiba Hassan, head of design and visual communications, SAE On November 30, 2022, OpenAI, a San Francisco-based company, released Generative Pre-Trained Transformer (ChatGPT), an AI-based chatbot. ChatGPT is based on OpenAI’s GPT-3 AI platform."
-    publishedDateTime: 2023-01-16T05:01:00Z
-    webUrl: "https://campaignme.com/unlocking-ais-potential-with-chatgpt-by-saes-hiba-hassan/"
-    type: article
-    provider:
-      name: Campaign Middle East
-      domain: campaignme.com
-    quality: 39
-    images:
-      - url: "https://campaignme.com/wp-content/uploads/2023/01/Hiba-e1673848982376-600x459.jpg"
-        width: 600
-        height: 459
-        isCached: true
   - title: "How AI chatbot ChatGPT changes the phishing game"
     excerpt: "The Microsoft-backed free chatbot is improving fast and can not only write emails, essays but can also code. ChatGPT is also polyglot and that could facilitate and increase exponentially phishing attacks."
     publishedDateTime: 2023-01-17T01:21:00Z

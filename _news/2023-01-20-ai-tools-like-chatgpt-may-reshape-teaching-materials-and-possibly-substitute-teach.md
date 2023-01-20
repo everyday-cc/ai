@@ -9,7 +9,7 @@ ampWebUrl: "https://www.edsurge.com/amp/news/2023-01-19-ai-tools-like-chatgpt-ma
 cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2023-01-19-ai-tools-like-chatgpt-may-reshape-teaching-materials-and-possibly-substitute-teach"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 640
     height: 259
     isCached: true
-
-related:
-  - title: "AI, do my homework! How ChatGPT pitted teachers against tech"
-    excerpt: "It can write a half-decent essay and answer many common classroom questions, sparking a fierce debate about the very future of traditional education."
-    publishedDateTime: 2023-01-16T06:44:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/16/ai-do-my-homework-how-chatgpt-pitted-teachers-against-tech"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/01/16/1903488.jpg"
-        width: 1240
-        height: 827
-        isCached: true
 
 secured: "s1/UpAnFwy0ROLEbY2hAyM+l9X289ZTFolcsb4RpCUbgAwbvR+al5pHTqxdDveL9D+OLxlw+g4d05pWhgJU4MDtG8595p7z7KgAqe4+m/lsnmmESWYIybaNH8Rg2cv55YNUB2YRRkE9Q0Y0up/AkM6AA2MLDo2i1BocAWruXaHjwgorSHBIjdEVVFWfUsXlKvwii0GE/rYz24HzbOVEiB/gaX/day0zG+Msl3Ih9nPIl32FfhTDO0nlUD53YCQ/4MmJzLyt3OrQKRhH+L4cQqu3KjzrsTv5WtFcSMlpGXPaEvrZxdSEA5o5lmIK1EfiNcKCz1fcHZhXDzBV2988dVozlol0Rumqvm23vXlWqkOE=;XFfBd1Swnx0HALkN+ogxgQ=="
 ---

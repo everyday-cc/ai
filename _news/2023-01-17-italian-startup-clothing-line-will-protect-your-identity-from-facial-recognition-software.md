@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/01/16/italian-startup-clothing
 webUrl: "https://www.fool.com/investing/2023/01/16/italian-startup-clothing-line-will-protect-your-id/"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fed up with facial recognition cameras monitoring your every move? Italian fashion may have the answer"
-    excerpt: "The red-headed man wearing what looks like the ultimate Christmas sweater walks up to the camera. A yellow quadrant surrounds him. Facial recognition software immediately identifies the man as ... a giraffe?"
-    publishedDateTime: 2023-01-16T06:31:00Z
-    webUrl: "https://www.cnn.com/2023/01/16/tech/facial-recognition-fashion/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 33
   - title: "These clothes can shield you from facial recognition systems (VIDEO)"
     excerpt: "An Italian start-up is exploiting a flaw in the system by selling a whole range of clothes capable of foiling facial recognition systems. To go incognito,"
     publishedDateTime: 2023-01-19T14:10:00Z

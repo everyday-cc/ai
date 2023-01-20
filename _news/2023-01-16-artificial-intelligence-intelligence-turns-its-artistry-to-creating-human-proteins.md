@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-in
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/?amp=1"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,37 @@ topics:
   - AI
   - Machine Learning
   - AI in Healthcare
+
+related:
+  - title: "Artificial intelligence turns its artistry to creating human proteins"
+    excerpt: "Last spring, an artificial intelligence lab called OpenAI unveiled technology that lets you create digital images simply by describing what you want to see. Called DALL-E, it sparked a wave of ..."
+    publishedDateTime: 2023-01-17T01:21:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 43
+  - title: "AI tools can create new images, but who is the real artist?"
+    excerpt: "With some generated images traveling on social networks and potentially going viral, they can be challenging to debunk since they can’t be traced back to a specific tool or data source"
+    publishedDateTime: 2023-01-20T15:38:00Z
+    webUrl: "https://www.wcvb.com/article/ai-images-who-is-real-artist/42592783"
+    type: article
+    provider:
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
+    quality: 19
+  - title: "AI tools can create new images, but who is the real artist?"
+    excerpt: "Countless artists have taken inspiration from “The Starry Night” since Vincent Van Gogh painted the swirling scene in 1889. Now artificial intelligence systems are doing the same, training themselves on a vast collection of digitized artworks to produce new images you can conjure in seconds from a smartphone app."
+    publishedDateTime: 2023-01-19T14:07:00Z
+    webUrl: "https://apnews.com/article/technology-science-entertainment-photography-visual-arts-1c6d9e0e260e2d135a3e3bf98d5493df"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
 
 secured: "lA4nYbDtnaGVrIwM8XpuVI0A01MPu7TMDFJTCE/rAg4L8i9Fs7OS0cI0hLrD+Y7+5DH0s6isYV/uaaPUGXTzFYBobEMZg3ruKkEY3JpNVa0QUsK/LwGPCFCDn2FRvjvqm4a/tlB9rPkygy1NXGXEDHVYhd+zIfHUxHJFGoBx+iySF4JdyKYYgqLx73GceyD3XpSww2nLTVGFoA5XrPZ5hGmDGB2qsu7ZEbuvkPLzqA95KzvwUJZ9c0O06edYmbK/oytmN4JqZ8bq6XAUt/d7wjfiF4brV5DTALertRenVLLPRaeT0caoq0LzXhYwJ/hh4pK3A6Dfhamxu1YEBy9N2+S6zWgdhQs4ulAixOCWg3idGpy3ucEFTNHlNVha3c8KH2Wh/BrNn6rYSiOZqf7KyQoUDmEUbCH8bRwc618Aq7D+0BgBdO4PND3UO3YT34XP6ZicLHIcFUDPyV/PUvWjkpTkySPk4y3a52LJ7qRlM8xCP+HV5z1g5kJDaKkABhO+qYs+lJnMTokXHtJ17w+bbQ==;PL5H19m9zIBKrQibmT3BjQ=="
 ---

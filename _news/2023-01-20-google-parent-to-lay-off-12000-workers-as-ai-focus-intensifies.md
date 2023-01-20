@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/google-parent-lay-off-12000-worke
 webUrl: "https://www.reuters.com/business/google-parent-lay-off-12000-workers-memo-2023-01-20/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google parent to lay off 12,000 workers as AI focus intensifies"
+    excerpt: "Google's parent Alphabet Inc is cutting about 12,000 jobs, or 6% of its workforce, it said in a staff memo Friday, as the technology sector reels from layoffs and companies stake their futures on artificial intelligence (AI)."
+    publishedDateTime: 2023-01-20T17:26:00Z
+    webUrl: "https://www.reuters.com/article/alphabet-layoffs-idCAKBN2TZ0MF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
   - title: "Google parent Alphabet to axe 12,000 jobs worldwide"
     excerpt: "Google’s parent company has announced it will axe 12,000 staff, pushing total tech job losses above 200,000 since the start of last year, as industry bosses concede they overextended during the pandemic’s digital boom."
     publishedDateTime: 2023-01-20T13:39:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-20T19:07:00Z
 originalUrl: "https://www.investmentnews.com/fintech-bytes-broadridge-extends-canadian-partnership-startup-attracts-funding-from-advisors-232986"
 webUrl: "https://www.investmentnews.com/fintech-bytes-broadridge-extends-canadian-partnership-startup-attracts-funding-from-advisors-232986"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: InvestmentNews

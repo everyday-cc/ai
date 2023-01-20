@@ -50,6 +50,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Legal Tech Artificial Intelligence Market Analysis Report 2023 Along with Statistics Figures, till 2029"
+    excerpt: "As per Market Growth Report, “The Legal Tech Artificial Intelligence market has witnessed growth from USD million to"
+    publishedDateTime: 2023-01-20T17:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
   - title: "AI Research Task Force Votes to Send Final Report to Congress, President"
     excerpt: "The task force’s report details a plan for the AI research resource initiative, including governance, funding, security and ethics on issues like AI bias."
     publishedDateTime: 2023-01-17T19:16:00Z
@@ -59,6 +68,15 @@ related:
       name: Nextgov
       domain: nextgov.com
     quality: 18
+  - title: "Artificial Intelligence Based Medical Device Market is Taking Hike in Revenue Along With Top Key Players Profile and Forecast 2023 To 2029"
+    excerpt: "\"Artificial Intelligence Based Medical Device Market\" Research Report explains how the market growth has been unfolding over the recent past and what would be the future market projections during the anticipated period from 2023 to 2029."
+    publishedDateTime: 2023-01-20T03:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-is-taking-hike-in-revenue-along-with-top-key-players-profile-and-forecast-2023-to-2029-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
 
 secured: "fky7hePVEMuRL8nwx5G7hK4WsmJkUXM0H/aWDW3ggWC6Vl57E2oDreakOjOOg3POwbf6T/MDmKZoek1D0lI16B5EKyiYmz6aM4dG7nhI/1nOud+pcsxMOHuXlYJOnFKhJFJjaD3+FvLRH/SGMWdUhzAPeDoehyDGBVJVFHwAGM+BAs529Tnpzto/bQKZlvBOkDLv5nBqlXaydVfC6Ty0kUgF1nHhNlmr3M98IcZtSWCDY8DVWfVeUWoYdK0nGr94+JtvQK90TdvkvQuEJyGYOYFtWyVz3vBRRwjrmf+TSgW+C/0ixxxoI2C5I1wTvfiuCG7ZU9OdOgx1So0GsP7fza5MnGRyRfh20MokPyJ7/3k=;PdO0+c0+zwDOARQHpf4NzQ=="
 ---

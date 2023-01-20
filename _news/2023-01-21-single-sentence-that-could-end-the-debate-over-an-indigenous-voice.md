@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-20T19:33:00Z
 originalUrl: "https://www.news.com.au/finance/single-sentence-that-could-end-the-debate-over-an-indigenous-voice/news-story/0679bf5b9127d1f4a182ffb128e16d9d"
 webUrl: "https://www.news.com.au/finance/single-sentence-that-could-end-the-debate-over-an-indigenous-voice/news-story/0679bf5b9127d1f4a182ffb128e16d9d"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Couriermail
