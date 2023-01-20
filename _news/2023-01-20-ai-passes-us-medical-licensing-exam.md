@@ -26,35 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI and Political Lobbying"
-    excerpt: "Launched just weeks ago, ChatGPT is already threatening to upend how we draft everyday communications like emails, college essays and myriad other forms of writing. Created by the company OpenAI, ChatGPT is a chatbot that can automatically respond to written prompts in a manner that is sometimes eerily close to human."
-    publishedDateTime: 2023-01-18T12:19:00Z
-    webUrl: "https://securityboulevard.com/2023/01/ai-and-political-lobbying/"
-    ampWebUrl: "https://securityboulevard.com/2023/01/ai-and-political-lobbying/amp/"
-    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2023/01/ai-and-political-lobbying/amp/"
+  - title: "Paging Dr AI to the Emergency Room! Artificial Intelligence passes U.S Medical Licensing Exam"
+    excerpt: "We may soon see AI tools run diagnostic tests and clinical research trials on humans, now that ChatGPT and Flan-PaLM have passed the U.S. Medical Licensing Examination (USMLE)."
+    publishedDateTime: 2023-01-20T12:31:00Z
+    webUrl: "https://www.digit.in/news/machine-learning-and-ai/paging-dr-ai-to-the-emergency-room-artificial-intelligence-passes-us-medical-licensing-exam-66910.html"
+    ampWebUrl: "https://www.digit.in/article/amp/machine-learning-and-ai/66910/paging-dr-ai-to-the-emergency-room-artificial-intelligence-passes-us-medical-licensing-exam"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/66910/paging-dr-ai-to-the-emergency-room-artificial-intelligence-passes-us-medical-licensing-exam"
     type: article
     provider:
-      name: Security Boulevard
-      domain: securityboulevard.com
-    quality: 59
+      name: Digit
+      domain: digit.in
+    quality: 65
     images:
-      - url: "https://securityboulevard.com/wp-content/uploads/2018/01/TwitterLogo-002.jpg"
-        width: 1524
-        height: 512
-        isCached: true
-  - title: "Bilateral science funding aims to invest in priorities like AI and machine learning"
-    excerpt: "Australia’s Department of Industry, Science and Resources (DISR) has teamed up with India’s Department of Science and Technology, and the Department of Biotechnology to run round 15 of the grants program."
-    publishedDateTime: 2023-01-16T20:45:00Z
-    webUrl: "https://www.themandarin.com.au/209670-bilateral-science-funding-aims-to-invest-in-priorities-like-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: The Mandarin
-      domain: themandarin.com.au
-    quality: 48
-    images:
-      - url: "https://www.themandarin.com.au/wp-content/uploads/2023/01/Ed-Husic.jpg"
-        width: 795
-        height: 530
+      - url: "https://static.digit.in/default/1280-720px-15-279ca90502.jpeg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "9I3GugA4kVexL6mt5I7xRA5oCR9ZS7+VEQlUg8Te9+Oj85rWshuA0AtOEn73MSf+m3bLu9+ET2cIcu8TVD8rBNlwcvZgx0g41lgZhDy7THdqGIDkp8UOEK+UxJVZE+GXq06V0gFgmVQn/6fv3OL8vDG2vI2B5RShfJi+Ga3oCKj6GhkBNA7YEsBvcHkxEoJPyfUuHxdY6Qyaae/Aqqj97o4Qkn3R8+CWLBacTHml/H/LW7XCkLQeyhjIJUOU2ugabncalWqzBnNmWgtT2/bx9Jdc2mmptmGoQ2XurIgo/0SHqZ6iKYB991+0BpSI4VT5eIOcUS4hNHUmjRPQwibV7/hp8/As2HjH7j9F0Q4abh1A6s9kha6cWuVOKvrl4jNKNOwboaGQzOaRVIfARURUq9skGO74XE8adjuPYJ4g0JxOFWeS/Cl4hs88dEk40XuGihzd0E8WBHlXGeim1kXC+ps82H8VBvYL2iiaBd/T0t//ETyS/A66w2hYmneqVkkZxflxe6GK3JohqSV5QR1PZg==;ZkOMjbkD99mFoUawMTSiUg=="

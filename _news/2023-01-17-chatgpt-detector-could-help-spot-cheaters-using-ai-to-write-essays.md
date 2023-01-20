@@ -40,6 +40,54 @@ related:
         width: 553
         height: 276
         isCached: true
+  - title: "Google isn't just afraid of competition from ChatGPT — the giant is scared ChatGPT will kill AI"
+    excerpt: "ChatGPT. If ChatGPT runs rampant, the search giant fears it could ruin AI adoption for everyone."
+    publishedDateTime: 2023-01-20T11:39:00Z
+    webUrl: "https://www.businessinsider.com/google-is-scared-that-chatgpt-will-kill-artificial-intelligence-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/google-is-scared-that-chatgpt-will-kill-artificial-intelligence-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-is-scared-that-chatgpt-will-kill-artificial-intelligence-2023-1?amp"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://i.insider.com/63ca186aeee94d001a790dc5?width=1200&format=jpeg"
+        width: 553
+        height: 276
+        isCached: true
+  - title: "Adani is hooked on ChatGPT, says race for AI to get complex as chip war"
+    excerpt: "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amounts of information to generate natural-sounding text on virtually anything - from crafting jokes to writing ad copy,"
+    publishedDateTime: 2023-01-20T11:35:00Z
+    webUrl: "https://www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war"
+    ampWebUrl: "https://www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 74
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/30_08_2022_02_53_58_2717576.jpg?width=1280"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "Gautam Adani is hooked on ChatGPT, says race for AI to get complex as chip war"
+    excerpt: "Gautam Adani, the CEO of Adani Group, notes that advancements in AI, specifically generative AI, were a major topic of discussion at the World Economic Forum, mentioning that the recent release of ChatGPT is a \"transformational moment in the democratization of AI\"."
+    publishedDateTime: 2023-01-20T12:47:00Z
+    webUrl: "https://www.cnbctv18.com/technology/gautam-adani-hooked-on-chatgpt-says-ai-race-to-get-complex-chip-war-15728761.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/gautam-adani-hooked-on-chatgpt-says-ai-race-to-get-complex-chip-war-15728761.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/gautam-adani-hooked-on-chatgpt-says-ai-race-to-get-complex-chip-war-15728761.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 70
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2022/12/chatbot-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "Davos 2023: CEOs buzz about ChatGPT-style AI at World Economic Forum"
     excerpt: "Generative artificial intelligence, tech that can invent virtually any content someone can think up and type into a text box, is garnering not just venture investment in Silicon Valley but interest in Davos at the World Economic Forum's annual meeting this week."
     publishedDateTime: 2023-01-17T03:04:00Z
@@ -131,6 +179,22 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2022/11/artificial-intelligence-image-8398439438.jpg"
         width: 1345
         height: 900
+        isCached: true
+  - title: "Adani is hooked on ChatGPT, says race for AI to get complex"
+    excerpt: "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amount of information to generate natural-sounding text on virtually anything - from crafting jokes to writing ad copy,"
+    publishedDateTime: 2023-01-20T12:19:00Z
+    webUrl: "https://www.rediff.com/business/report/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex/20230120.htm"
+    ampWebUrl: "https://m.rediff.com/amp/business/report/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex/20230120.htm"
+    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex/20230120.htm"
+    type: article
+    provider:
+      name: rediff.com
+      domain: rediff.com
+    quality: 59
+    images:
+      - url: "https://im.rediff.com/345-230/money/2023/jan/20construction.jpg"
+        width: 345
+        height: 230
         isCached: true
   - title: "Here are the 12 top power players at Google leading the fight in AI against the smash hit ChatGPT"
     excerpt: "ChatGPT could influence Google's dominance in search. Here are the 12 people inside the search giant developing AI-based technology to keep up."
@@ -244,6 +308,38 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-1.jpg"
         width: 1920
         height: 1175
+        isCached: true
+  - title: "GPT-4 | Implications, pros and cons of the next-generation of ChatGPT"
+    excerpt: "A major implication of GPT-4 will be the improvement of natural language processing (NLP) tasks such as language translation, text summarisation, and question answering. While, we cannot ignore the potential downsides to GPT-4 as it could be used to generate fake news or propaganda,"
+    publishedDateTime: 2023-01-16T11:15:00Z
+    webUrl: "https://www.cnbctv18.com/views/gpt-4--implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm"
+    ampWebUrl: "https://www.cnbctv18.com/views/gpt-4--implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/views/gpt-4--implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 44
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/01/AP23006584552936-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
+  - title: "GPT-4 | Implications, pros and cons of the next-generation of ChatGPT"
+    excerpt: "GPT-4: A major implication of GPT-4 will be the improvement of natural language processing (NLP) tasks such as language translation, text summarisation, and question answering. While, we cannot ignore the potential downsides to GPT-4 as it could be used to generate fake news or propaganda,"
+    publishedDateTime: 2023-01-17T04:20:00Z
+    webUrl: "https://www.cnbctv18.com/views/gpt-4-implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm"
+    ampWebUrl: "https://www.cnbctv18.com/views/gpt-4-implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/views/gpt-4-implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 44
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/01/AP23006584552936-1019x573.jpg"
+        width: 1019
+        height: 573
         isCached: true
   - title: "An AI rival to ChatGPT passed a university level law and economics exam, and did better than many humans, professor says"
     excerpt: "A professor at George Mason University said the AI's answer to a law and economics exam was \"better than many human responses.\""

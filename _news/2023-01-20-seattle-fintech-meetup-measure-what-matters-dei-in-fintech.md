@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/calendar-event/seattle-fintech-meetup-mea
 webUrl: "https://www.geekwire.com/calendar-event/seattle-fintech-meetup-measure-what-matters-dei-in-fintech/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "7 FinTech tweets you should see!"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-01-20T11:46:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/7-fintech-tweets-you-should-see-12/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/tweets.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Fintech, edtech, deeptech–15 quotes of the week on digital transformation"
     excerpt: "From data to decisions, these quotes from the week of January 9-15 capture tech impacts sweeping across the world!"
     publishedDateTime: 2023-01-18T02:22:00Z

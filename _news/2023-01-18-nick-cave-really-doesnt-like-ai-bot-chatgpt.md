@@ -336,6 +336,22 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "How AI chatbot ChatGPT changes the phishing game"
+    excerpt: "Facebook took ten ... activities that Check Point Research believes is intended to implement and test ChatGPT into the cybercriminals day-to-day criminal operations. Several tools on the market already claim to detect AI-written content, which only ..."
+    publishedDateTime: 2023-01-16T10:03:00Z
+    webUrl: "https://www.csoonline.com/article/3685488/how-ai-chatbot-chatgpt-changes-the-phishing-game.html"
+    ampWebUrl: "https://www.csoonline.com/article/3685488/how-ai-chatbot-chatgpt-changes-the-phishing-game.amp.html"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3685488/how-ai-chatbot-chatgpt-changes-the-phishing-game.amp.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/01/shutterstock_1901618698-100936241-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Nick Cave says ChatGPT's AI attempt to write Nick Cave lyrics 'sucks'"
     excerpt: "Nick Cave has written a scathing review of an artificial intelligence system that tried to write a song \"in the style of Nick Cave\". The Bad Seeds frontman responded after a fan sent him lyrics written by ChatGPT,"
     publishedDateTime: 2023-01-17T11:47:00Z
@@ -490,6 +506,20 @@ related:
       name: Law
       domain: law.com
     quality: 40
+  - title: "How AI chatbot ChatGPT changes the phishing game"
+    excerpt: "The Microsoft-backed free chatbot is improving fast and can not only write emails, essays but can also code. ChatGPT is also polyglot and that could facilitate and increase exponentially phishing attacks."
+    publishedDateTime: 2023-01-17T01:21:00Z
+    webUrl: "https://www.arnnet.com.au/article/704723/how-ai-chatbot-chatgpt-changes-phishing-game/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_266188678.jpg"
+        width: 473
+        height: 315
+        isCached: true
   - title: "ChatGPT won’t give OpenAI sustainable first-mover advantage"
     excerpt: "But in our view, though the hype around ChatGPT is justified, we don’t believe OpenAI will lock up the market with its first-mover advantage. Rather, we believe that success in this market will be directly proportional to the quality and quantity of data that a technology company has at its disposal,"
     publishedDateTime: 2023-01-20T03:40:00Z

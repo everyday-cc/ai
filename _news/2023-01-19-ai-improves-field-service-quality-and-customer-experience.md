@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-improves-field-service-q
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-improves-field-service-quality-and-customer-experience/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Ensuring Better Patient Experience And Outcomes Through Artificial Intelligence"
+    excerpt: "This makes the patient experience especially hard in healthcare. Sixty-eight percent of patients said their healthcare providers need to improve how they interact with patients. W"
+    publishedDateTime: 2023-01-20T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/20/ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/20/ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/20/ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/638755d97adcceda18c8a8ba/0x0.jpg?format=jpg&crop=3796,2136,x0,y266,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "YDRAW8COjgvT7ZZYAIDze9JmhaWS8BCO35pA/IOyBm8gGAug778IlqqWcAfOUBuQOsXGUxyU1Kr5de8YGgriOlhwXrth6homIImzYRB5cLcJvm2Y20R0tPXkSdjXsZ3trY00pno7GBmesyeW3rMVxai2LZUTEf8hLVUCknJnFDXUVW5LhtYqmqB827x/h6Nw5MajjsSB9YdVESwunNGGKU/dJWqZ/HOj/PhtVzK5i3PC0DiKCPTaEHWym0Ik5COzCLFhxDe04GvBe27CupTXHsVI1Y2SItZpHuL0ApssIiGfZhQFJplc0Nh5gKgG1HOJC5ccA1ydo2e4wpVHYzcK94bHiQhJXqsbmbHhe/0yElvqjVWhFXKmfoT33egaF24xZ5t6cAwJ4horFt8maGXvIcUD2JVbF4BO7xwFNILW36iDuQwJV6V/aW6lV3SngG22gEPvyR7NWJWMZoiUqclaHx4hHH9vEIGPYESssDL2iJZ9FHDleiDH/RUGRUUD6wSSkMWfOWPR0K7udU6fEdL+pA==;GIL+c861O6p2KisVUZDFGA=="
 ---

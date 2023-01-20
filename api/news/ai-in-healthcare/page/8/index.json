@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-10-06-an-ai-model-reveals-how-the-bodys-defense-system-recognizes-skin-cancer.md",
+      "title": "An AI model reveals how the body’s defense system recognizes skin cancer",
+      "excerpt": "The artificial intelligence model could be utilized to enable more effective care for skin cancer patients and could lead to similar breakthroughs in the diagnosis and treatment of other cancers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/967586",
+      "originalUrl": "https://www.eurekalert.org/news-releases/967586",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-massive-bio-and-pertheraai-partner-to-empower-cancer-patients-with-personalized-therapies-and-accurate-trial-recommendations.md",
       "title": "Massive Bio and Perthera.ai Partner to Empower Cancer Patients with Personalized Therapies and Accurate Trial Recommendations",
       "excerpt": "Less than three percent of cancer patients today are matched and enrolled in a clinical trial. By combining the advanced computational methods and artificial intelligence capabilities of both companies,",
@@ -1291,40 +1325,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-therapy-music-and-spas-the-non-drug-startups-in-psychedelics.md",
-      "title": "Therapy, Music And Spas: The Non-Drug Startups In Psychedelics",
-      "excerpt": "Startups in the psychedelic space that aren't drug related are gaining funding. We look at the niche within a niche.",
-      "sourceUrl": null,
-      "webUrl": "https://news.crunchbase.com/business/psychedelic-startup-venture-capital/",
-      "originalUrl": "https://news.crunchbase.com/business/psychedelic-startup-venture-capital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.crunchbase",
-        "domain": "crunchbase.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

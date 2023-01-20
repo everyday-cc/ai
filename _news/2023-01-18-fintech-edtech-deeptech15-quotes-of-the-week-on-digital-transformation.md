@@ -39,6 +39,20 @@ related:
         width: 1828
         height: 958
         isCached: true
+  - title: "7 FinTech tweets you should see!"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-01-20T11:46:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/7-fintech-tweets-you-should-see-12/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/tweets.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Top 10 Fintech and innovation trends to watch in 2023"
     excerpt: "Driving these innovations are Fintech companies which are contributing significantly to the growth of the local economy, creating new jobs, and stimulating an entrepreneurial ecosystem. Also, they are making the provision of financial services more efficient,"
     publishedDateTime: 2023-01-16T13:56:00Z

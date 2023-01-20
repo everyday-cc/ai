@@ -1,20 +1,20 @@
 ---
 category: news
 title: "ACRELEC and XXII Team Up to Provide Restaurants with Advanced Computer Vision Analytics for Drive-Thru"
-excerpt: "Restaurant operators will now have access to a platform that combines AI computer vision with timer technology to track the customer journey and alleviate roadblocks in the drive-thru Drive-thru ..."
-publishedDateTime: 2023-01-06T13:56:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30309832/acrelec-and-xxii-team-up-to-provide-restaurants-with-advanced-computer-vision-analytics-for-drive-"
-webUrl: "https://www.benzinga.com/pressreleases/23/01/n30309832/acrelec-and-xxii-team-up-to-provide-restaurants-with-advanced-computer-vision-analytics-for-drive-"
+excerpt: "Restaurant operators will now have access to a platform that combines AI computer vision with timer technology to track the customer journey and alleviate roadblocks in the drive-thru CHICAGO, Jan. 6,"
+publishedDateTime: 2023-01-06T15:51:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/01/06/9739153.htm"
+webUrl: "https://it.tmcnet.com/news/2023/01/06/9739153.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "CKhOOqgiSITceXjiRq/qrAvXmmFO59l57R58sjgtNyEbYONeAQgF33/kT6rWQD0Hq4anDIp6fctPaWfTH7foXodrYFlouveJ14GqF9MXgtpRSwwnF21XAPI+aGiBGTCS7VepdMIxgy2isusPjs2xSsjWl3+9IHFY3wIrZT9XASJI5mmkVQXU0/v4oXb9pZh8B+33S552/Buov38bqZdraDEZaJP+1QxRnz4xx5T9r0TemYWy//TdTyiOWkeDS3zon0E5xOdL32Rxb4eosXUdJQVJeB9WqyHX+kZNvIY2vHX5gDzifJkzqeuWh1qRXbeomTcNfsQDcMpqu7Ax6W/qWtQ2llPGGuxRGO/DBD27hVQ=;eOxCnCvY0+gCEGx712yPQQ=="
+secured: "Z8crm1UqmeKN4Xvg9IfTr+O75Ow8QZLxt+qLVIHQzQKGHPmPlqX6hVyyOOdSs0uvIw4onNloIqsm02SAVMK+S+7ZBtZeK5wg9nA22fCTQiKCVM36pnpDxKN9RhkioxwgEr26JhbeAcx/hyaU+RiTHRK1gnNBUmWvOEadkqRAfUL3HOyes8GpjhtMZEpKZ/R53dsUdJEBI4ZBTpHDgyOxhq8BRCiAYz9/1c2vX045PSVS+zFekOreZxgSOL63tSLM+2zLeL+TrYbmd8cLW5Lur7xeIDVT1Ymm6q9ebt59T2LQtCNEgGAyRudsKN6RjAztd3hgmosu6ETq56wpjg38R45xjS5tVMwREa78ada6VP0=;KBJ8QmsOXlLzXMZhshA53Q=="
 ---
 

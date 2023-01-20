@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-19T21:30:00Z
 originalUrl: "https://insidehpc.com/2023/01/ohio-supercomputer-center-launches-ascend-gpu-hpc-cluster/"
 webUrl: "https://insidehpc.com/2023/01/ohio-supercomputer-center-launches-ascend-gpu-hpc-cluster/"
 type: article
-quality: 39
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://insidehpc.com/wp-content/uploads/2023/01/Ascend-GPU-cluster-Ohio-Supercomputer-Center-0123.jpg"

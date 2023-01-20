@@ -93,6 +93,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Computer Vision Forecast for 2028, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
+    excerpt: "The major players covered in the AI in Computer Vision market report are: AI in Computer Vision Marketsize, segment (mainly coveringMajorType (, Hardware, Software, ,),End Users (, Automotive, Sports and Entertainment,"
+    publishedDateTime: 2023-01-20T02:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Delivery Robot Market : New Business Strategies And Forecast By 2028 with Top Countries Data"
     excerpt: "Rising demand for Food and Beverages, Retail, Healthcare, Postal, Others will drive the Artificial Intelligence Delivery Robot segment growth over the next five years. Global Mark"
     publishedDateTime: 2023-01-18T00:35:00Z

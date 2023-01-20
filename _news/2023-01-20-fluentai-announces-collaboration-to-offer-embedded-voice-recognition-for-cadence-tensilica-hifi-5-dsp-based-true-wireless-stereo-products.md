@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Fluent.ai Announces Collaboration to Offer Embedded Voice Recognition for Cadence Tensilica HiFi 5 DSP-Based True Wireless Stereo Products"
-excerpt: "Fluent.ai – a leader in small footprint embedded, noise robust and multilingual/multi-accent speech recognition software solutions, today announced its embedded voice recognition solution for True Wireless Stereo (TWS) and other hearable products running on the Cadence ® Tensilica ® HiFi 5 DSP in partnership with Airoha,"
-publishedDateTime: 2023-01-19T18:00:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/01/19/9746105.htm"
-webUrl: "https://it.tmcnet.com/news/2023/01/19/9746105.htm"
+excerpt: "Fluent.ai provides offline, noise robust speech recognition that can support any language or accent. The latest software solution allows users to trigger more than 30 TWS actions through 101 natural and flexible voice commands,"
+publishedDateTime: 2023-01-19T17:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fluentai-announces-collaboration-offer-embedded-voice-recognition-cadence-/2023/01/19/9746105.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fluentai-announces-collaboration-offer-embedded-voice-recognition-cadence-/2023/01/19/9746105.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -15,29 +15,9 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI Hardware
+  - Natural Language Processing
   - AI
 
-related:
-  - title: "Retailers Embrace AI Transition to the Cloud with SymphonyAI and Oracle"
-    excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, today announced a collaboration with Oracle (NYSE: ORCL) to offer SymphonyAI solutions … Continue Reading →"
-    publishedDateTime: 2023-01-16T12:07:00Z
-    webUrl: "https://multichannelmerchant.com/press-releases/retailers-embrace-ai-transition-to-the-cloud-with-symphonyai-and-oracle/"
-    type: article
-    provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 19
-  - title: "Fluent.ai Announces Collaboration to Offer Embedded Voice Recognition for Cadence Tensilica HiFi 5 DSP-Based True Wireless Stereo Products"
-    excerpt: "Fluent.ai – a leader in small footprint embedded, noise robust and multilingual/multi-accent speech recognition software solutions, today announced its embedded voice recognition solution for True Wireless Stereo (TWS) and other hearable products running on the Cadence ® Tensilica ® HiFi 5 DSP in partnership with Airoha,"
-    publishedDateTime: 2023-01-19T14:25:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/19/9746105.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
-secured: "Zioui9gceEieD6AquO/0lA4ERihdwcj0CB0S2sS5iXXUNQFXC67qhEP/AgNGR4QQwfx30dgd9VSda4A5wrERp0HRhLhjLUWAkOQSeEWi+7kGwDNtooQMvnj9S4dJKlQIVG2jXshLUKyRAPd6doUrnt8ro7f6/Y3jpjyzzoqn8QoYHQh9kSgcMs4HP45mgTLVcTCCDrhA8chjrngtzFzSQqgbdE5x0JFLYPobWYcDzOTcKmDpepJweclnF8rIaeSPB/M/x6xVHcRc43SRpjbsDghIRQWEKyV3vk/8TIsD+zPADlM4D8lD46oymIUW+IYxl+ZUA5U5/ArNRH8C+CBLiceQzNry/nsbXD5QVuu2wP4=;KAWckbaLcbDf+xL5ToL47w=="
+secured: "oO0Y7CmbyrBhC7HJFwEHiElW9N7yL4IOFGcEJGTNZhmGoH2zhZewDBa6/Zu3Ia+mXGdVWjOiFSCmB2XyzXOgmxCG4NKDfGnQevZoWbb3YnPLmkRHmFGPsBOyX3zf/crxJ/Dx3mt7gfuRgPk0YAUNbOQftzmvgjQzqz1hEKfy6JhjHjErA9A4nw0lChItS3To7iyF2eD7wOEg6yUw7W8YrdthPSXmisg0n56z7AeJ01fq0uTzU6RNi27qnu9p5f+Vb2vP4sRN3uarKG7eV62DTvktidvppIq1QNTKZJaVLO4OaGPmhpspSSafreyvhZ1yAo0ZYTQL7fRGw36ab7ykDtOhPdoc0zoFvWVFu86rNBY=;Vz1UVP32D/QD4YjrLMDvug=="
 ---
 

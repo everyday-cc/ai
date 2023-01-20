@@ -56,6 +56,20 @@ related:
         width: 1086
         height: 630
         isCached: true
+  - title: "Volvo Group Invests in Autonomous-Truck Startup Waabi"
+    excerpt: "Volvo believes that fully autonomous trucking transports are key to provide additional capacity, better safety and improved efficiency. It's putting its money where its mouth is with an investment in Waabi."
+    publishedDateTime: 2023-01-20T12:01:00Z
+    webUrl: "https://www.truckinginfo.com/10190618/volvo-group-invests-in-autonomous-truck-developer-waabi"
+    type: article
+    provider:
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 22
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2023-01/01182023_volvo-waabi-__-1200x630-s.jpg"
+        width: 1086
+        height: 630
+        isCached: true
 
 secured: "oxiWtLv+ayTfEjzgdjbarygbr+BVi+lFZdXEmpSo6vtCIms432Q2H4MicUUMXZBK6jUHMWT0EV2bFGeGwnHHYv1MzE95X8gw+5nxcw5hr+PXW5H84EBaAyB1GNrg5xAWx2GYVJR1/tJQYaOyUyKGXvCzV6x5GW7c2MJO5t/U2EXt9blLc8sBBuo8swzxijmalZ/GDDJG2PfK1+2rMaBr3TnR/F37HuiarbZrOyO3HpBQzRWkR+BA2gLb/ZNC92TQt66DAzgyv7RDWojrcjE6u801tlf3BqsPLmvjeslkEjcoJ84hfZOw9QlmJ2P9mTD18qu+l0Xxlk0ElG6eG2SAy8XgtgEPo4wn8UWsYmaFIUA=;nwQJhLvxylT0EtaZFMLSgQ=="
 ---

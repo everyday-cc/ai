@@ -2,6 +2,40 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-10-19-bill-allowing-driverless-vehicles-in-pennsylvania-advances-in-senate-bringing-its-adoption-closer.md",
+      "title": "Bill allowing driverless vehicles in Pennsylvania advances in Senate, bringing its adoption closer",
+      "excerpt": "State legislators in Harrisburg have further advanced a bill that would permit autonomous vehicle companies operating in Pennsylvania the ability to conduct testing of their self-driving machines ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/news/2022/10/18/bill-driverless-vehicles-advances-senate-vote.html",
+      "originalUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/news/2022/10/18/bill-driverless-vehicles-advances-senate-vote.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-rivian-hires-former-waymo-exec-for-new-autonomy-ai-role.md",
       "title": "Rivian hires former Waymo exec for new autonomy, AI role",
       "excerpt": "Rivian has hired former Waymo executive James Philbin to lead autonomy and AI at the automaker, a new role that signals the company’s interest in automated driving technology. Philbin was ...",
@@ -1352,50 +1386,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-teslas-mass-market-optimus-robot-could-change-humanity-forever.md",
-      "title": "Tesla's Mass Market Optimus Robot Could Change Humanity Forever",
-      "excerpt": "Tesla's Optimus Robot will represent a step change for humanity when it hits the market in five years. Find out the implications for shareholders and the world.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4545818-teslas-mass-market-optimus-robot-could-change-humanity-hold",
-      "originalUrl": "https://seekingalpha.com/article/4545818-teslas-mass-market-optimus-robot-could-change-humanity-hold",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/640351119/image_640351119.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T00:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

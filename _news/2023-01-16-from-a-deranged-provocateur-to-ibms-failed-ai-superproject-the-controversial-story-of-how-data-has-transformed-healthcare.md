@@ -1,18 +1,20 @@
 ---
 category: news
-title: "From A 'Deranged' Provocateur To IBM's Failed AI Superproject: The Controversial Story Of How Data Has Transformed Healthcare"
-excerpt: "Just over a decade ago, artificial intelligence (AI) made one of its showier forays into the public's consciousness when ibm's watson"
-publishedDateTime: 2023-01-16T12:50:00Z
-originalUrl: "https://menafn.com/1105433732/From-A-Deranged-Provocateur-To-IBMs-Failed-AI-Superproject-The-Controversial-Story-Of-How-Data-Has-Transformed-Healthcare"
-webUrl: "https://menafn.com/1105433732/From-A-Deranged-Provocateur-To-IBMs-Failed-AI-Superproject-The-Controversial-Story-Of-How-Data-Has-Transformed-Healthcare"
+title: "From a ‘deranged’ provocateur to IBM’s failed AI superproject: the controversial story of how data has transformed healthcare"
+excerpt: "Just over a decade ago, artificial intelligence (AI) made one of its showier forays into the public’s consciousness when IBM’s Watson computer appeared on the American quiz show Jeopardy!"
+publishedDateTime: 2023-01-16T12:34:00Z
+originalUrl: "https://theconversation.com/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362"
+webUrl: "https://theconversation.com/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362"
+ampWebUrl: "https://theconversation.com/amp/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362"
 type: article
-quality: 29
-heat: 29
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - IBM AI
@@ -20,9 +22,9 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-01/16/TC_44ff2image_story.png"
-    width: 640
-    height: 452
+  - url: "https://images.theconversation.com/files/503380/original/file-20230106-16-mc22tn.png?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=226&fit=crop"
+    width: 320
+    height: 226
     isCached: true
 
 related:
@@ -36,6 +38,6 @@ related:
       domain: business-reporter.co.uk
     quality: 9
 
-secured: "5guO/VYbDrBJhuMA0LL0Ulh7hXdcz+MioXrVpuoyPpRhSu+peDrVac+5fU99uhumW0AT2ZkjunrTlfhRNUgbdaT4w44x09yVcKpJIytvGS8lC98N+1o+kn7K1E0ahQyzm1W8qdAPPWN9vLLdqy9R3LVC0MigwL/eqDjqucGfm4P3ncCzEz++YSLxHssBqEO+BDmFX/UWkYG7XM3O1l5m77OElfbZmx7vsg2T9gxeqZtyc8ZmrOzRkvfkUAdVhEyXyLS7W/lebjC4GshOHa7S7MNZhSbZLMq4EoKRioEEaeLQT7uXXCFLlgZe5J47AS+3Ar6VH/+t0rvU154JS6I/F/dTJQ4TWEtcS4oI0SpLhYs=;irKrn+R4W15orI43O0TzWA=="
+secured: "acDDJbbkxWjwFiYA/X70ntL6t311foKaBY65aFp8gbDegifBziLGsfYpQPE9/sqrdtE8rs2DY96E+K3kefE7XarV0MpFySifyeo6m+AHwr/Yo/nUtD3B3zWJ8m19+Oq74XMRnRoUYVQOxyFcIlUhaUvc1Dkie+WSTKN+3j9METvLCW4v31d9gBcpONR46ek5WmwpylPgJObRJay4m91Yx+c+QBtieOHhdfyH3qA7WLKUhLRJjG7XcRNJIzo59B0GQZM7zbU2iRGHTLE9QAPCktJL/lQAjteyysm2BEnoIhXVFWXVuGRwLY0zxJRgDdeeSbZ34YyBBxDG7SlxauKWn438dT12uOeIFV91si70iPw=;kCDQHnRAkRy5Dx6H74e2fQ=="
 ---
 

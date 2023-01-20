@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2023/01/ohio-supercomputer-center-launches-a
 webUrl: "https://insidehpc.com/2023/01/ohio-supercomputer-center-launches-ascend-hpc-gpu-cluster/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -34,7 +34,7 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://insidehpc.com/wp-content/uploads/2023/01/Ascend-GPU-cluster-Ohio-Supercomputer-Center-0123.jpg"
         width: 600

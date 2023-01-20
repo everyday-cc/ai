@@ -19,6 +19,17 @@ topics:
   - AI
   - Machine Learning
 
+related:
+  - title: "Akkio Launches Chat Data Prep, the First Machine Learning Platform to Transform Data Using Ordinary Conversational Language"
+    excerpt: "Akkio’s new Chat Data Prep liberates spreadsheet users by using ML – in just minutes they can now wrangle tabular data uploaded from Excel, Snowflake or other databases.Cambridge, Massachusetts, United States - January 20,"
+    publishedDateTime: 2023-01-20T09:45:00Z
+    webUrl: "https://www.asiaone.com/business/akkio-launches-chat-data-prep-first-machine-learning-platform-transform-data-using"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 0
+
 secured: "vcnN9FTM77qPHtn+zw0bQTzeHVN3q9qhKgBNSllm+H2axTnRqkuf38ki08eAiSFJ4MUahQYw0SXO7W9XCykWZVK4UbP/EcbDF3KZEYH7GAPIHSvjsD6IBz6mpJWHqAJS01AH1/iZ5NTvI/KhgvqWJT8gTEt/83lFwzq6hs28GvRxWwauVKrbLaRqHFt6HkkTpeVtyl8NQUg80dCefMf71MYbm2JofxwO2QZZzkkokpDjy2ln5a7GJEzCztvZ/A+7yHCxak6pgj4nznfB4EOYKVUcpBgQfk7oZCpBOnJFCPjq7rFYoZA+uQvla3A+PJpAMpskhUYEAlx6A8GSCjv7vGKkpWh5Xe6zJDqNXll4ahw=;MsSctzI0Qnx4JSVSpYkXXg=="
 ---
 
