@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Tesla video promoting self-driving was staged, engineer testifies"
-excerpt: "A 2016 video that Tesla used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior engineer."
-publishedDateTime: 2023-01-17T21:52:00Z
-originalUrl: "https://www.aol.com/finance/tesla-video-promoting-self-driving-225249712.html"
-webUrl: "https://www.aol.com/finance/tesla-video-promoting-self-driving-225249712.html"
+excerpt: "The video, which remains archived on Tesla’s website, was released in October 2016 and promoted on Twitter by CEO Elon Musk as evidence that “Tesla drives itself.”"
+publishedDateTime: 2023-01-17T23:01:00Z
+originalUrl: "https://www.autonews.com/regulation-safety/tesla-video-promoting-self-driving-was-staged-engineer-testifies"
+webUrl: "https://www.autonews.com/regulation-safety/tesla-video-promoting-self-driving-was-staged-engineer-testifies"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Automotive News
+  domain: autonews.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/zzzztesla.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Tesla staged 2016 self-driving demo, says senior Autopilot engineer"
@@ -354,6 +360,6 @@ related:
       domain: dailydot.com
     quality: 15
 
-secured: "ECbMHRUf20cyaEqYq+GiV7dQl+YK/hUcoICpKovJmcN67PDq0lk9eYkfd/nhdBaP4r8/fyE1wTA5uc9G4q0Ca+nIjzAkB0M87jAulbsUwjXDllERjIRhKlDjnniwSxyvAbyrh1otD/7S5Tdq4lhBNHYz2bTuqKoLBPovTSPm/imD3v3T2AJ4xH2oumYpa1VETjYKsgk2HVX5RYrqKmWBtRemXw/PRQMa2wT68rnzMICNyDSbpZBbCE4GC1jPXD4bGw6qVXQ5K6nMebopBPXIJRJUovS0PIBpUnzG/GEvK1mizVTt/1B8M6CG107izHbgFaDRt9YWav9SIUxtonZFLVT2qD09VduCfbQfH4xlfOLGcqWqgJeMU8Vo/QEsjbuZ704ezPc3mu4Oy8ptIs98IggH5fMc6f9Ooj/EB0+4+fTnaHq0j0be4vIRWQFEln+iKhBtq4CEt1X2UE0FGxSEiB+Z4HGjW9loqCmN7Jq6NhNPjUF8GCz6g6gf0aVg2beOPh2UsPQ8vlh3l8MuNlI9hA==;ZjNxWDSp+WTMfa1T3NxftA=="
+secured: "XQ99VnDfm177LHLqjjeDrff5/SgJ7N63Rm0k/guu9co+4P7OlmW4FTbd7RYq9vyDmjAbjnInJ+0nsH7hExlcNdWwxP8yWVhpoL9Y9G5NoIrOdqIhoNnKoWgEQUoByC6jF+id/19mPWBhkEToLICD58dDpsEpdjqh3N9TOWABajaSxlOfPNlqa09YqHS4EVn7pRBsjjXIJ8Go/13mgT9BgaYvOv5G4iXsXtwGbJ6ajZfzTX2mn0A+H8dKutXkE4yT3o2Gl+utuX+Mc7rjxwAdH/o4VmgmVPKTho3KMATXLfPsfYLbZma5myjatxcNpbkL9D3w55IrAs9++kABKCVWDlwHaA6WPtKUSSu4nPscB4c=;rPYWz/xdHEhLEP+aZoNEhg=="
 ---
 

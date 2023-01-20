@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/01/17/ai21-labs-intros-an-ai-writing-ass
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/17/ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Move over, ChatGPT: Israeli start-up AI21 Labs' AI to cite sources"
-    excerpt: "This addresses something that the AI21 team refers to as \"the Achilles' heel of AI-generated text,\" which is a lack of sources and the chance of factual error."
-    publishedDateTime: 2023-01-17T20:15:00Z
-    webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-728803"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 17
 
 secured: "0m+UfTCwfUe0EfO9PSHoqKG7pN3HPBPj5QTaeWHqiGfT8KG1IMDO79oc2LbOoviEcRz14d2pBB2rYYlyCgVeJG2YSKphRK7QbKZNazhjh96Svtbu51SH+fGwQUubD5P6+TWtND1qfA8fCnpyDDEI5VRsSDIj7wRK1jKA+TNiLTquyzFfT9vzpRPHlAEmgTOFRi+w8d+Tb9zIbhjVhWIjDelLTQrkszOJ9D4RJgU3d2KNZoCxQxHVRIukqnc9byYv/nLhnlifetEcwbCySMq863nQNbCa68OA2KGhQsWQxAYWF5YlpXDthJqUTI4TIPAttBpsWDFsNftc6cKFMtgR8c1dCp1BNRVMJhNwxmnSq0zhPVWIeV2x6TbuMzIstGsh2d8pcWd65kVcggwSZysf/uP/fL1Xmh/aZBNha9Iv/wnZN1BAVz2P98aPEsthiOLvxhu7ljthbGaoj/DRJv5EXSnDmcYP6BavR3ppozsgNlZCUKRY6K0PiAKLYv1plDFvTPvnNg2OvhFsZKQ4pDKlvQ==;BZ+af8QUqDCloOWzeMOa2g=="
 ---

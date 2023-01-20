@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/amp/"
 type: article
 quality: 84
-heat: 204
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -42,7 +42,26 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 69
+    quality: 93
+    images:
+      - url: "https://i.insider.com/63c93fe72a1e600018b8ac60?width=1200&format=jpeg"
+        width: 553
+        height: 276
+        isCached: true
+  - title: "Davos 2023: CEOs buzz about ChatGPT-style AI at World Economic Forum"
+    excerpt: "Generative artificial intelligence, tech that can invent virtually any content someone can think up and type into a text box, is garnering not just venture investment in Silicon Valley but interest in Davos at the World Economic Forum's annual meeting this week."
+    publishedDateTime: 2023-01-17T03:04:00Z
+    webUrl: "https://www.reuters.com/technology/davos-2023-ceos-buzz-about-chatgpt-style-ai-world-economic-forum-2023-01-17/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/sEg8tNlt3IswcvMoqGVLo-jexXE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/S6XYZQMD2ZOTLJN56RZ27Q7V4Q.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "ChatGPT And AI Will Fuel New EdTech Boom"
     excerpt: "Venture capitalists predict artificial intelligence, virtual reality and video-learning startups will dominate the space in 2023."
     publishedDateTime: 2023-01-18T10:30:00Z
@@ -57,6 +76,70 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "I asked ChatGPT how to start a business and it gave me 8 steps that weren't that helpful"
+    excerpt: "While it's very smart, ChatGPT is only a chatbot; I knew it couldn't physically start a business for me. But I wondered if it would at least walk me through the initial steps. So I asked this AI program a series of questions about starting a business."
+    publishedDateTime: 2023-01-16T10:03:00Z
+    webUrl: "https://www.businessinsider.com/chagpt-cant-start-a-business-for-you-startup-steps-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/chagpt-cant-start-a-business-for-you-startup-steps-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chagpt-cant-start-a-business-for-you-startup-steps-2023-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/63c17f1502cb82001937a144?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Cybercriminals using ChatGPT AI bot to develop malicious tools?"
+    excerpt: "According to a report from cyber security firm Check Point Research (CPR), the cybercriminal community has already expressed strong interest in ChatGPT develop malicious code."
+    publishedDateTime: 2023-01-16T16:08:00Z
+    webUrl: "https://www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/img/2023/01/16/1600x900/OPENAI-CHATGPT-61_1673882783604_1673882783604_1673883055328_1673883055328.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "ChatGPT, a new AI Bot in town: Top 7 things you should know"
+    excerpt: "It does have shortcomings since it is AI. However, it tends to warn the user incase it does not have enough knowledge on the subject. While ChatGPT is focussed on human-like text, Google Search's forte is image or voice recognition, language translation ..."
+    publishedDateTime: 2023-01-18T12:52:00Z
+    webUrl: "https://www.bgr.in/webstories/news/chatgpt-a-new-ai-bot-in-town-top-7-things-you-should-know-1357013/"
+    ampWebUrl: "https://www.bgr.in/webstories/news/chatgpt-a-new-ai-bot-in-town-top-7-things-you-should-know-1357013/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/webstories/news/chatgpt-a-new-ai-bot-in-town-top-7-things-you-should-know-1357013/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 59
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2023/01/Untitled-design-2023-01-18T154735.163.jpg"
+        width: 640
+        height: 853
+        isCached: true
+  - title: "DeepMind's Sparrow is Google's answer to ChatGPT"
+    excerpt: "Ever since the launch of OpenAI’s ChatGPT, Google has been scrambling to build a rival. Now, Google’s subsidiary DeepMind, known for its pioneering work in AI research, has announced plans to launch a new chatbot called Sparrow. The company ..."
+    publishedDateTime: 2023-01-18T12:38:00Z
+    webUrl: "https://www.androidheadlines.com/2023/01/deepmind-sparrow-google-answer-to-chatgpt.html"
+    ampWebUrl: "https://www.androidheadlines.com/2023/01/deepmind-sparrow-google-answer-to-chatgpt.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/01/deepmind-sparrow-google-answer-to-chatgpt.html?amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/11/artificial-intelligence-image-8398439438.jpg"
+        width: 1345
+        height: 900
+        isCached: true
   - title: "Here are the 12 top power players at Google leading the fight in AI against the smash hit ChatGPT"
     excerpt: "ChatGPT could influence Google's dominance in search. Here are the 12 people inside the search giant developing AI-based technology to keep up."
     publishedDateTime: 2023-01-18T10:07:00Z
@@ -70,6 +153,59 @@ related:
       - url: "https://i.insider.com/63c0772f1f388b00195f4423?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "How to Invest in ChatGPT? You Can’t. Here Are 3 AI Stock Alternatives."
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips How to invest in ChatGPT is a difficult problem to solve, but if you’re"
+    publishedDateTime: 2023-01-18T11:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-invest-in-chatgpt-you-cant-here-are-3-ai-stock-alternatives-1032025067"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+  - title: "DeepMind’s AI chatbot can do things that ChatGPT cannot, CEO claims"
+    excerpt: "Google’s DeepMind has pioneered advances in artificial intelligence since its founding in 2010, with the ultimate goal of creating a human-level AI (Alan Warburton / Better Images of AI / CC ..."
+    publishedDateTime: 2023-01-16T15:59:00Z
+    webUrl: "https://www.independent.co.uk/tech/deepmind-ai-chatbot-chatgpt-openai-b2262862.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 54
+    images:
+      - url: "https://static.independent.co.uk/2022/05/17/10/deepmind%20ai%20artificial%20general%20intelligence.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "What generative AI means for brands—a marketing guide to ChatGPT, DALL-E and other artificial intelligence"
+    excerpt: "To be fair, the technology has been used in ad tech for years, but generative AI, a subtype of artificial intelligence that has obvious—and fun—applications, has instantly changed how marketers are preparing for adoption."
+    publishedDateTime: 2023-01-18T10:00:00Z
+    webUrl: "https://adage.com/article/digital-marketing-ad-tech-news/generative-ai-chatgpt-faq-guide-brands/2463201"
+    type: article
+    provider:
+      name: Ad Age
+      domain: adage.com
+    quality: 51
+    images:
+      - url: "https://s3-prod.adage.com/s3fs-public/styles/width_660/public/20230112_OpenAI_Generative-AI_3X2.jpg"
+        width: 660
+        height: 440
+        isCached: true
+  - title: "AI Tools Like ChatGPT May Reshape Teaching Materials — And Possibly Substitute Teach"
+    excerpt: "This summer, a coding class offered by a private school in Austin, Texas, was led by an unusual teacher. The PreK-8 school, Paragon Prep, offered a"
+    publishedDateTime: 2023-01-19T21:19:00Z
+    webUrl: "https://www.edsurge.com/news/2023-01-19-ai-tools-like-chatgpt-may-reshape-teaching-materials-and-possibly-substitute-teach"
+    ampWebUrl: "https://www.edsurge.com/amp/news/2023-01-19-ai-tools-like-chatgpt-may-reshape-teaching-materials-and-possibly-substitute-teach"
+    cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2023-01-19-ai-tools-like-chatgpt-may-reshape-teaching-materials-and-possibly-substitute-teach"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 50
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/15165/robot_and_human_together-1674149694.png?auto=compress%2Cformat&w=640&h=259&fit=crop"
+        width: 640
+        height: 259
         isCached: true
   - title: "ChatGPT: Students could use AI to cheat, but it's a chance to rethink assessment altogether"
     excerpt: "ChatGPT is a powerful language model developed by OpenAI that has the ability to generate human-like text, making it capable of engaging in natural language conversations. This technology has the potential to revolutionize the way we interact with computers,"
@@ -98,6 +234,36 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
+  - title: "ChatGPT could be used for good, but like many other AI models, it's rife with racist and discriminatory bias"
+    excerpt: "ChatGPT could soon power Microsoft products, despite the potential to spew dangerous content. The AI community is torn on solutions."
+    publishedDateTime: 2023-01-16T16:08:00Z
+    webUrl: "https://www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1"
+    ampWebUrl: "https://www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1?amp"
+    cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1?amp"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: insider.com
+    quality: 40
+    images:
+      - url: "https://i.insider.com/62e40a4f4b455800188b5eaf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Unlocking AI’s Potential with ChatGPT – by SAE’s Hiba Hassan"
+    excerpt: "By Hiba Hassan, head of design and visual communications, SAE On November 30, 2022, OpenAI, a San Francisco-based company, released Generative Pre-Trained Transformer (ChatGPT), an AI-based chatbot. ChatGPT is based on OpenAI’s GPT-3 AI platform."
+    publishedDateTime: 2023-01-16T05:01:00Z
+    webUrl: "https://campaignme.com/unlocking-ais-potential-with-chatgpt-by-saes-hiba-hassan/"
+    type: article
+    provider:
+      name: Campaign Middle East
+      domain: campaignme.com
+    quality: 39
+    images:
+      - url: "https://campaignme.com/wp-content/uploads/2023/01/Hiba-e1673848982376-600x459.jpg"
+        width: 600
+        height: 459
+        isCached: true
   - title: "GPT 101: Decoding ChatGPT's Generative AI for Legal Professionals"
     excerpt: "While ChatGPT has caught the attention of many in the legal market, its underlying AI engine is where the real power—and disruption—lies."
     publishedDateTime: 2023-01-19T01:09:00Z
@@ -125,6 +291,34 @@ related:
       - url: "https://www.grid.news/resizer/4_o-cnZ1toWsKZMVtTtZUrBHr9w=/1200x630/filters:format(jpg):quality(100)/cloudfront-us-east-1.images.arcpublishing.com/thesummit/YRSXDSDSRZH7JNBNZMIO66QBHA.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI, do my homework! How ChatGPT pitted teachers against tech"
+    excerpt: "It can write a half-decent essay and answer many common classroom questions, sparking a fierce debate about the very future of traditional education."
+    publishedDateTime: 2023-01-16T06:44:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/16/ai-do-my-homework-how-chatgpt-pitted-teachers-against-tech"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/01/16/1903488.jpg"
+        width: 1240
+        height: 827
+        isCached: true
+  - title: "ChatGPT detector could help spot cheaters using AI to write essays"
+    excerpt: "A tool called GPTZero can identify whether text was produced by a chatbot, which could help teachers tell if students are getting AI to help with their homework"
+    publishedDateTime: 2023-01-17T14:29:00Z
+    webUrl: "https://www.newscientist.com/article/2355035-chatgpt-detector-could-help-spot-cheaters-using-ai-to-write-essays/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/01/16165748/SEI_140499394.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
@@ -162,6 +356,20 @@ related:
       name: Popular Science
       domain: popsci.com
     quality: 26
+  - title: "Will ChatGPT Take Your Job?"
+    excerpt: "Machine learning and artificial intelligence are still in their infancy ... OpenAI ChatGPT is now an AWS Certified Cloud Practitioner! There’s also the fact that Stack Overflow banned ChatGPT after it was used to answer questions — incorrectly."
+    publishedDateTime: 2023-01-17T04:14:00Z
+    webUrl: "https://www.searchenginejournal.com/will-chatgpt-take-your-job/476189/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 24
+    images:
+      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2023/01/human-vs-chatgpt-job-63bfe8e97c592-sej.png"
+        width: 1600
+        height: 840
+        isCached: true
   - title: "Everybody Loves ChatGPT Except For Nick Cave, Who Is Unimpressed With AI-Generated Lyrics Meant To Be Like His"
     excerpt: "Cave called the ChatGPT-generated song ’bullsh*t’ and explained why it is ’a grotesque mockery of what it is to be human.’"
     publishedDateTime: 2023-01-16T18:54:00Z
@@ -176,6 +384,15 @@ related:
         width: 710
         height: 400
         isCached: true
+  - title: "Portraits to go and prose like Tim Winton: ChatGPT and the rise of AI"
+    excerpt: "AI expert Prof Toby Walsh speaks to Laura Murphy-Oates about the new wave of artificial intelligence and the fear and fascination it has created"
+    publishedDateTime: 2023-01-16T13:00:00Z
+    webUrl: "https://www.theguardian.com/australia-news/audio/2023/jan/17/portraits-to-go-and-prose-like-tim-winton-chatgpt-and-the-rise-of-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
     publishedDateTime: 2023-01-17T15:30:00Z
@@ -190,6 +407,33 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Move over, ChatGPT: Israeli start-up AI21 Labs' AI to cite sources"
+    excerpt: "This addresses something that the AI21 team refers to as \"the Achilles' heel of AI-generated text,\" which is a lack of sources and the chance of factual error."
+    publishedDateTime: 2023-01-17T20:15:00Z
+    webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-728803"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 17
+  - title: "ChatGPT Sounds Exactly Like Us. How Is That a Good Thing?"
+    excerpt: "For 70 years, programmers have tried to make computers more like people. Now that they’ve succeeded, we still don’t have the secret to human consciousness."
+    publishedDateTime: 2023-01-18T07:44:00Z
+    webUrl: "https://www.washingtonpost.com/business/chatgpt-sounds-exactly-like-us-how-is-that-a-good-thing/2023/01/18/6aedf446-9736-11ed-a173-61e055ec24ef_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 4
+  - title: "We Used ChatGPT To Write An Article About... ChatGPT. This Is What Happened"
+    excerpt: "Many people are talking about ChatGPT because it is a very advanced computer programme that can understand and respond to human language in a very natural way. It can answer questions, have conversations,"
+    publishedDateTime: 2023-01-19T08:49:00Z
+    webUrl: "https://says.com/my/tech/we-used-chatgpt-to-write-an-article-about-chatgpt"
+    type: article
+    provider:
+      name: Latest on SAYS
+      domain: says.com
+    quality: 2
 
 secured: "ocKSTbTy9e7tEt5X85U5qqKT1K+SooWXcA8kEATKcFdpGibod7a0DAveCf7RWR7XYxZ3XcCCaoOTlnEfPrJG3YV5qkNvw2OJFxa6v/2lWuT9kIKYFX9hbYoZ94DwQL8BlWtvarCsTgD3aVjcvajWqP/bdZIWV439O9b0f32Efm33OzDJrTC3uNH/2QCPDbr7RaASMpP+ZYC3sJUH3y5C3qo8HM8cEK+LOYL+NoQuhlus1jVtaHX64qgVTah+hMMeqnFEVHOnUrgfgJ2ncprKzLnGMLUI1d3aHvQCtqifPEL0TBezOmCru4zVYUvVhBBDRkY242qrOrseYTsVt1TPxQ9wS1h0XF42dyhwSwaCdSrUNXGU5tJzQ4Fvgmc9LQ/1xdA/QGfyOAZiYuzUCPg4WzZLhOX+IumbgjjBtf8SB5fDhc0hs9w//ZygDhK7OFW3EKRsmb2qSqPwkAjgIKmix43thBC8IboFKm8gwzw6v6UIUElqpisVOJn4xb5q/JXq8JlgBA7IQCP2/V9IVc/6rQ==;SWWtJpjDFTb+PJBixeBwCA=="
 ---

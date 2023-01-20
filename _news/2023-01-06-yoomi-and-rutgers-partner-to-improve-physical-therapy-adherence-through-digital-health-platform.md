@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Yoomi and Rutgers Partner to Improve Physical Therapy Adherence Through Digital Health Platform"
-excerpt: "Yoomi partners with Rutgers Robert Wood Johnson Medical School to explore how technology can mobilize patients in physical therapy programs."
-publishedDateTime: 2023-01-05T23:41:00Z
-originalUrl: "https://ptproductsonline.com/exercise-rehab/yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform/"
-webUrl: "https://ptproductsonline.com/exercise-rehab/yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform/"
+excerpt: "Yoomi, a digital health company focused on improving the standard of care in physical therapy, announced today it is partnering with Rutgers Robert Wood Johnson Medical School to explore how technology can mobilize patients effectively in physical therapy programs."
+publishedDateTime: 2023-01-06T08:52:00Z
+originalUrl: "https://www.channelbiz.co.uk/press-release/yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform/"
+webUrl: "https://www.channelbiz.co.uk/press-release/yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform/"
 type: article
 
 provider:
-  name: Physical Therapy Products
-  domain: ptproductsonline.com
+  name: Channel Biz
+  domain: channelbiz.co.uk
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://ptproductsonline.com/wp-content/uploads/2022/03/DigitalHealth1.jpg"
-    width: 800
-    height: 565
-    isCached: true
-
-secured: "VWEMdHDjGxlMJ19/yj84SLIzz8K7iNpd0R32mlW7HlK8SXr381dYklpTH+c9C03XCZihFL2lmKF81JFGgNx4SoqYR7Yc8STl4jChnEIYSWX1v2jCJ1J+CVeGAk1bVaSK7SBZLiKidUYBKO6XkfPhP/O6QO+/iuLCAyMZJb1XIG4Ug4UxyzinYdo1qgKSQe4apHiFHaGezsHDwDPP1STni80omgFMPFBl715EOjalvd2KRqyIwOEUJaM+uw89+MCCSMLKHHkhjBo9rOtDXRBfGel+AIv6CUwFg9rjaRhLSIev7lPjUPfM8N9TmaT/jxo6dxoetKO9gRn7vUSqeg5so+cQDvQh2WfVy6fcQ5uN1YnTmwfqiG3wnFxGMxTIvZOStoqTj+aDAcPqn4/m2WKBpARo8MdHY+W3kpBHZJlhj67gKqsMgP4kPmC+Vo2rUsmrwGxbezBOVTVjYdRz7SrOOaR5JkpykktsXWNrcUgP4QHCXw3+p8XqC7gF09ZCne94RKMLt+K2lRr7yehINnnByQ==;jSpfVZ7rUy/vb11z1ksJZg=="
+secured: "FI719MAy8iS0fSbDsGSWAl4F/4PQdouwLJp9vkR0GVhYPeIdVHqiKzCDTy61qHQPDN3dbl2UkPiQweUjrKN5EK2qjwDuLrrZv87eHhyOw1EopIWpwjaeyonPWYqsjLSX7GZYJMGsefGY7VW7gAdyMFLlfEv0Cw/34S+1JpW2LejJjW7HSVZ22hN8YYG4UGpuZELIcWS9tK0iHTIUBQYkfyOTS+443LqMQW0cxWxsi2Po18jhFIrDzEPVMiyii3VrleDbSR3V/TxXwGfYQVdGsLzsBbbDcDYskWRS9HqmInvMwB2R4sg0diJK98AwoAuDjuGt/CcqZ2I1EccGxP7WRTU3/sN5gG7j9pbJYZvhO+Y=;4MCKeV2U+R99ru2/zlgy6Q=="
 ---
 

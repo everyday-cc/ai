@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/natural-language-processing-in-artif
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence%3A-what-it-is-and-why-it-matters?amp"
 type: article
 quality: 77
-heat: 79
+heat: 77
 published: true
 
 provider:

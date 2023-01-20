@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 659
         isCached: true
+  - title: "AI can create stunning portraits. What does that mean for the art world?"
+    excerpt: "Amazing artwork is being made using artificial intelligence and image rendering software, but it's raising questions about creativity, copyrights and commerce. NBC News’ Jacob Ward shares his own story of unintentionally buying AI-generated art."
+    publishedDateTime: 2023-01-20T00:17:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/ai-can-create-stunning-portraits-what-does-that-mean-for-the-art-world-160238149972"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo160238149972"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo160238149972"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 86
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_01/1674173785367_nn_jwa_ai_art_2301119_1920x1080-lyu5r7.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "New Concerns About AI Technology That Can Write Stories, Essays"
     excerpt: "Many educators are worried students could use the tool to essentially do their homework. New York City schools have already banned access to the technology on school networks and devices, worried that using it \"does not build critical-thinking and problem-solving skills."
     publishedDateTime: 2023-01-16T19:19:00Z

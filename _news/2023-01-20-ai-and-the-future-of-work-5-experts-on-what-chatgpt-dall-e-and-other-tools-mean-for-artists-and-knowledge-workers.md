@@ -7,7 +7,7 @@ originalUrl: "https://technical.ly/software-development/ai-future-work-chatgpt-d
 webUrl: "https://technical.ly/software-development/ai-future-work-chatgpt-dall-e/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "AI, do my homework! How ChatGPT pitted teachers against tech"
-    excerpt: "It can write a half-decent essay and answer many common classroom questions, sparking a fierce debate about the very future of traditional education."
-    publishedDateTime: 2023-01-16T06:44:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/16/ai-do-my-homework-how-chatgpt-pitted-teachers-against-tech"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/01/16/1903488.jpg"
-        width: 1240
-        height: 827
-        isCached: true
 
 secured: "pWuPVVcwY1/eglp+sg3Z7PC4NNWG3Zuj3x0cFVSU2VNOGTRKAV6KiueyMXxabBZluP8azlDSzrv4mlhuA9Xju783t7Z+G4dvmoME7L2lZEQBf1XXULEWNSxmVe/UcNzpkABkbCzRXICibJFR4DtFKD1azQARbVQBaULh0RJdGFbup+Z5opGN5GVr7k9SeDo4Bpt+M9Xr6ENLWslcORfg+9WDeq95BEtFnjQINJ46o+KQMgmQxFq37mFkZj9gYWAhwhm3lL7XjhMj32Edvaw7quoDdtk+GoQdMqyd9K+QJFDlNgteSx/i1YXBgbMrSUcM3xgqpGUAXHlzdVBFkgGBsrm1Rseh4X1q5ZRg9SedXX4=;ld/Wj8rg/wf1KGhzTt8UVw=="
 ---

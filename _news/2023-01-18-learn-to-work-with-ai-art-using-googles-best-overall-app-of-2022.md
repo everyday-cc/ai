@@ -37,20 +37,6 @@ related:
         width: 1300
         height: 541
         isCached: true
-  - title: "ChatGPT detector could help spot cheaters using AI to write essays"
-    excerpt: "A tool called GPTZero can identify whether text was produced by a chatbot, which could help teachers tell if students are getting AI to help with their homework"
-    publishedDateTime: 2023-01-17T14:29:00Z
-    webUrl: "https://www.newscientist.com/article/2355035-chatgpt-detector-could-help-spot-cheaters-using-ai-to-write-essays/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/01/16165748/SEI_140499394.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "OtRS8wmWYr2oKdKJWGCStMEW5D0T3DcE/H7T74oCsxiKX+wQ5Mcxa92t0lUKo8Ck4WPAeCdXTpGlmWxYtu2Efamkkf0RBZ9p7lpgL1FF76dUR5NXRWLMeQzS7I+uhYyhK3S3BOiRZTLTSvAj1y9Lk8FNw8gUCPzakJ5EZNllyfxlQRrJCQiIf83hSvqHRFHfaOp4CRxuWAkx2E2svB0wXtTHT+tlBC+kNPzfsYoZo3eJ8bom+jd9iXKs7nU+KoxkWahNBc8SAmId8b3momFHQm7U2ewz/ulze7tDf/6H+HavaDaIzcfnMZY1g1fU4b4CzNGLTbOMmGrKKg/CRsutQeppjSQ4HivFlLsc4yBduzLHRM18HFJf0WxXJxZV8yrXS8umdEiRrTBf6JZTfKJPX7XFqVsrZKuAOJU1TtYM/zgcehB6OJiiS5AHem9/ipkSwugHBTW6PHNk6c46bmiRZgw6vIKOpXIJryHhx4mPnW/v6uQ28XKjDxs3pAIOus0O2nzJ3hNOUDWagxQY3uGRQQ==;axnPwWLdicPpQ93BpJmCwQ=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-he
 ampWebUrl: "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/amp/"
 type: article
-quality: 104
-heat: 114
+quality: 106
+heat: 116
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1365534802.jpg?w=1200&strip=all"
@@ -48,6 +49,6 @@ related:
         height: 875
         isCached: true
 
-secured: "pKAqpmZNea4y8qvtkaE/VPWVY2QJdDkGiSwXdYDL1JaYBbmPgYAD/EEpwuVWtJI1URZqAK/MlECFRsMo7u7gZTJlRHDld4i+X2YPjjsa7zegPSWPbWbWT1mxxpmvhfoNXZow1/DnAKgnlF3yNn3kHiy3INFOJ8oRttVnocVmKmh6GMwCzzSn0XWqhpXYZByXhOoyVCiPZC8v/+2ptFP4gapdOgEQve8FSRHs8HjP8Kh6lUCOR1tTmZcBIwKF0b2k4JEcg/iWhQJkSW7G67DDZciPyyZmRg+nK+ivBnzL+F+oI5apVRJ/kKWTtc/8tW1Qv3HSFc3kJx6WmEdRUQ7T3R3Z5vUmOidnkGOsFrs+/SY=;AGb+pzwC7DTYZJrOvLmjAg=="
+secured: "yAt7roeydIthwE+oxO+VKMNSYGNLG8VnjhBJRPQc3ZxLJNbAO74jdANK6c8NpBnc7qPvM9mSyFbeXJqi2AhlWsRItk4VEwzmdd9YasqeAOxc51XTik2qBGl7ILpUyz7z5ey16ODLlryGohbbDDWIRcqft35e22IbRWyviH7JMsxmblgC7P637SvSGHz8XKqbUkA4OAv0k677smF/2SLyx7mn6sYr2YZtnHfLsw0Pz9KJVbVL7wLJhTpB5O+kv7CWjTsJPzCvNFW2xFqYE7xq4kwJ6zBt+yKEQiTBP5yzgoKH6Or3YwDkJJa46/qnM01GBiNBUEae/T4rV/QaIhpPEBNv2onZtiFEuxOObceEnML/vkpcoSd+ZtLOEv5qmUfz/BEyhkR1zZhhGJC0Y59xUeTZCUXB1jaGLtmMYtoWl9w5wCEqEhm8/FLgTPZn3qGtkN94UJ0rebm7YnCQsOYHcjD1RmRHV0yMGIJkp4vmQjR5D4n7uVPgtJZ70lHXmCmGAhcXVZWDopCHtMZTlBVZWA==;D5z085m/hOjmx4cl2OPBdA=="
 ---
 

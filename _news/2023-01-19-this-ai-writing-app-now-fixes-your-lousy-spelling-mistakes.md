@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 819
         isCached: true
-  - title: "Move over, ChatGPT: Israeli start-up AI21 Labs' AI to cite sources"
-    excerpt: "This addresses something that the AI21 team refers to as \"the Achilles' heel of AI-generated text,\" which is a lack of sources and the chance of factual error."
-    publishedDateTime: 2023-01-17T20:15:00Z
-    webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-728803"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 17
 
 secured: "y4JqbBGc4cBNmKYwavVWNoSYgNOnHaveaTZjESStbFH3V5vPVW1UPGV/bF0YT6oC6CBUI24IPw+lqnV3EJjPSeaDgEuMw8wvskPeQn9ptDUqjwVGk+u0g3EhEVPZ4KslC6TT3kUpVK58dj6KTkzCj8+a6PVr+ILGy4adZ/wFd31o6R3Qby8gv5Y4rUFS0mu4lnRP77vQQOROGmH/jeTj2R7Uc5ZRcKYsRE/9Ouhm1XSvjmSe87yw4XJKaCH7FUCobtbbXYS/SJcslu7hmr1hws9tULvMiCGYBhdLdtv5iaTGaVu3UXUBS51TWOkxyCEphxItnnkfXOdu6bw5hEmYwyZrHoAlsavVRa3SjzPZNl2sO8ekRRI8aIbwJiRTo9bAmZqzI6XbuoE26dsZZu+zZv4KsUclR0TOGkED762INP7G/jD2F9mZGjXSAb2x05hze/biT9qhPZsUY/bik+VK2cIO2G68YuwvUteuGl1ebnQKgJMkkvfk7bDlpKheTBwDrVVwGkVcUiob4lq0ka5vrg==;cQWy4hcmicW5uv0E11nM4g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/investigation-exposes-murkie
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/?amp"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/pexels-liza-summer-6382640.jpg?itok=ESA6C_qh"
         width: 1528
         height: 800
-        isCached: true
-  - title: "DeepMind’s AI chatbot can do things that ChatGPT cannot, CEO claims"
-    excerpt: "Google’s DeepMind has pioneered advances in artificial intelligence since its founding in 2010, with the ultimate goal of creating a human-level AI (Alan Warburton / Better Images of AI / CC ..."
-    publishedDateTime: 2023-01-16T15:59:00Z
-    webUrl: "https://www.independent.co.uk/tech/deepmind-ai-chatbot-chatgpt-openai-b2262862.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 54
-    images:
-      - url: "https://static.independent.co.uk/2022/05/17/10/deepmind%20ai%20artificial%20general%20intelligence.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Haneda Airport Demos AI Chatbot 'Bebot,' a Multilingual Guidance Service"
     excerpt: "Bebot boasts a high degree of accuracy in answering questions that travelers need, including information on airport facilities and flight information."
