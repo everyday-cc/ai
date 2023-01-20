@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 related:
   - title: "EXCEL USERS REJOICE: Akkio Launches Chat Data Prep, the First Machine Learning Platform to Transform Data Using Ordinary Conversational Language"

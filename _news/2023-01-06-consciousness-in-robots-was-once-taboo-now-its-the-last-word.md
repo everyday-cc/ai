@@ -1,12 +1,10 @@
 ---
 category: news
 title: "‘Consciousness’ in Robots Was Once Taboo. Now It’s the Last Word."
-excerpt: "A robot prototype being developed by Yuhang ... The invocation of human features goes back to the dawn of artificial intelligence research in 1955, when a group of scientists at Dartmouth asked ..."
-publishedDateTime: 2023-01-06T14:30:00Z
-originalUrl: "https://www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.html"
-webUrl: "https://www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.html"
-ampWebUrl: "https://www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.amp.html"
+excerpt: "Robots were being used for surgical procedures ... The invocation of human features goes back to the dawn of artificial intelligence research in 1955, when a group of scientists at Dartmouth ..."
+publishedDateTime: 2023-01-06T15:05:00Z
+originalUrl: "https://www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.amp.html"
+webUrl: "https://www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.amp.html"
 type: article
 
 provider:
@@ -21,12 +19,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://static01.nyt.com/images/2023/01/05/multimedia/00SCI-ROBOTSELF-promo-1-4bcc/00SCI-ROBOTSELF-promo-1-4bcc-facebookJumbo.jpg"
-    width: 1050
-    height: 549
-    isCached: true
-
-secured: "RW0FFTtyOW2OZu19I0HXovgmhiguFkq1im78cQ+r0UsybR90LYe5Ey1I5Y/RZ1kI3Aecn1YQ7Xa28cHxcyQ8TYO56KW5UbsxTKYrXSNC7wx3zJhU2e5TrEHpOzeO9dNZOIOiyy7nU/I75NJO2CSyk0/gjdDluElTECqHthWLF2P042HYYr+6ZOqf285K3fNck2apPV5f+xK4mhSrk1oDUDrngbhN86DFvWtdQGJYo5DMCWE64gJ6Ra1JeEHGI2KybWtG7fRorSfCfemVENcJrAMkJ0+KReCHudn85jA7vIF5GFwZ3clycLL9nf6WnKF1L1WPit9n6CKn1dsQG7sFByz8qWOZRZLquYVWot/Gn8Y=;NbEqkU0C1N6h0v7DyjVvrQ=="
+secured: "7RuF7qVNzHi3EN5IzGQ6X1gATzEMjFtXOf3/4UZzjtpJXXLzDMM9Z9ZjUu1KNvcSdQnqBJJC8cg+UlWtwrOERq7QowojvsHipG+c+Yzk7F/oNausRzkehnn+OuJ6aQRo08U/BblGxgvybb7wNiLYAocLKAZwln0tl43ctPkPJ7IPHo0VHI0coVoJUA8Xb2uhN6jwK1SVV5oW2iyY1T5w3hGIUuPJ3wBeEqnZv2AHfsepibXDKGyQ8Rl7WxPX1/i0SZ7tAzhv3gAvHq/kdH+AdB3/6SrGdw99zzC4LKqFezerH6BYzuYHpoXY5KQcu7jn3ZIOOKObCvQ9FQPqCTvwVfh0glYkG1Yb8y2oLwUgnoA=;sIsNyzoz4+Z+HHTORtRVSQ=="
 ---
 
