@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/01/17/ai21-labs-intros-an-ai-writing-ass
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/17/ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Top AI startup news of the week: AI21 Labs, Mad Street Den, aiOla, and more"
+    excerpt: "Announcements around generative AI-powered writing assistance and a few sizable funding rounds fill out the top AI startup news."
+    publishedDateTime: 2023-01-20T17:22:00Z
+    webUrl: "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-ai21-labs-mad-street-den-aiola-and-more/"
+    ampWebUrl: "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-ai21-labs-mad-street-den-aiola-and-more/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-ai-startup-news-of-the-week-ai21-labs-mad-street-den-aiola-and-more/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/pexels-pixabay-355948.jpg?w=1200&strip=all"
+        width: 1200
+        height: 729
+        isCached: true
   - title: "This AI writing app now fixes your lousy spelling mistakes"
     excerpt: "Artificial intelligence is being used to cast its all-seeing eye over the written word with DeepL’s latest free writing app Write. Pitched as a rival to Grammarly, the AI writing tool is able to correct spelling and grammar mistakes,"
     publishedDateTime: 2023-01-18T17:59:00Z
@@ -44,6 +60,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Move over, ChatGPT: Israeli start-up AI21 Labs' AI to cite sources"
+    excerpt: "This addresses something that the AI21 team refers to as \"the Achilles' heel of AI-generated text,\" which is a lack of sources and the chance of factual error."
+    publishedDateTime: 2023-01-17T20:15:00Z
+    webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-728803"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 17
 
 secured: "0m+UfTCwfUe0EfO9PSHoqKG7pN3HPBPj5QTaeWHqiGfT8KG1IMDO79oc2LbOoviEcRz14d2pBB2rYYlyCgVeJG2YSKphRK7QbKZNazhjh96Svtbu51SH+fGwQUubD5P6+TWtND1qfA8fCnpyDDEI5VRsSDIj7wRK1jKA+TNiLTquyzFfT9vzpRPHlAEmgTOFRi+w8d+Tb9zIbhjVhWIjDelLTQrkszOJ9D4RJgU3d2KNZoCxQxHVRIukqnc9byYv/nLhnlifetEcwbCySMq863nQNbCa68OA2KGhQsWQxAYWF5YlpXDthJqUTI4TIPAttBpsWDFsNftc6cKFMtgR8c1dCp1BNRVMJhNwxmnSq0zhPVWIeV2x6TbuMzIstGsh2d8pcWd65kVcggwSZysf/uP/fL1Xmh/aZBNha9Iv/wnZN1BAVz2P98aPEsthiOLvxhu7ljthbGaoj/DRJv5EXSnDmcYP6BavR3ppozsgNlZCUKRY6K0PiAKLYv1plDFvTPvnNg2OvhFsZKQ4pDKlvQ==;BZ+af8QUqDCloOWzeMOa2g=="
 ---

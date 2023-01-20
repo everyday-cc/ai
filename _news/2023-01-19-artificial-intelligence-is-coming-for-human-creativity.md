@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Artificial Intelligence Is Coming for Human Creativity"
-excerpt: "Animal behaviorists have already disputed the uniqueness of human cognitive ability. Another blow to our hubris is now posed by the digital revolution, which not only exposes our cerebral limitations but also threatens human creativity."
+excerpt: "The history of psychology is full of claims about unique human cognitive abilities. Many of these claims fell away in the light of research findings on the cognitive capacities of other species. Self-awareness was one such capacity."
 publishedDateTime: 2023-01-18T16:51:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
+webUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -42,6 +41,6 @@ related:
         height: 630
         isCached: true
 
-secured: "H6Tzrc5oJvP180QGoak2eF7Xumga/LT3VjUgFUShbCnXvAc8bxDdFtn3AclIStvZbcfytmXd/x10S3Z46wCTFqMr+nbPI84I/4qT3+m6q6D5chG/JpsR2T2R+Oe9Sm28ye63qiD02sjLesW94soBg62J7SqmIzC3mCmU30gqd3GtaEkAkVIo4Jn4xlDb8CPnqKyrnmzncNp0ho98XhNRPz7D78hDFla479wOzvvcfOsyCP7S5NMs7NPwsks6liY4/uVABK3JwTX7YXASa0BTvfigmdJ2fKgabXI7iV5Gs7zaAViJdixM2qYbDfUXQKbY3sS24SkOWFINxzq6NLIyZ1S0TDUQYwQVEuTCP7kdKuo=;paQJf/aPqtvhRHJtPk0omg=="
+secured: "mLZRD/WyAoNukUcdHUw5jFcYFlIlTraMGLddW3ASGhW0rM0AzfYbOkp735S/PhAJnDH5l0bj0PTlp3VDnuLgAXIMs+fsSRE1iPrir3RHtm2OXNoASUF1lX7XueJndm790DCee9VT/r5XNHLzR6a3VlKe1h/iEX8fIE6mTQ4YVnos4xG1t1A+i8+x6nWVjz7tcmkg3pekHjYRFMbqql+IS2pvvopdumrOjUYQj4Spepa29ZuFRlrhOeFe9ZnBnVzzZXbFONo7NO1Ms8A4AvN5L3jc3TOHvSRe1dAzbK41gNhJRsE7dtPDJa6Qg2xORB87poCYTmkA7UcJBbPNK/m0TAHACCeZZ6ypO8YqbY8URk8=;c/p7qt6EkEfWYq9Eo84p9A=="
 ---
 

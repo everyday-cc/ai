@@ -54,60 +54,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-19-googles-big-fear-is-ai-running-wild-after-chatgpt-its-too-late.md",
-      "title": "Google's big fear is AI running wild. After ChatGPT, it's too late.",
-      "excerpt": "Google's top executives published a report calling for a responsible release of AI, months after rival AI bot ChatGPT has entered the mainstream.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1",
-      "originalUrl": "https://www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 483,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63c93fe72a1e600018b8ac60?width=1200&format=jpeg",
-          "width": 553,
-          "height": 276,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1?amp",
-      "publishedDateTime": "2023-01-19T06:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Google AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-17-7-ways-google-is-using-ai-to-help-solve-societys-challenges.md",
       "title": "7 ways Google is using AI to help solve society's challenges",
       "excerpt": "Google is using AI to help people facing disease and natural disasters, and to provide new opportunities for underserved communities.",
@@ -1416,6 +1362,49 @@
       "provider": {
         "name": "Digit",
         "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-deepminds-alphacode-conquers-coding-performing-as-well-as-humans.md",
+      "title": "DeepMind’s AlphaCode Conquers Coding, Performing as Well as Humans",
+      "excerpt": "AlphaCode paves the road for a novel way to design AI coders: forget past experience and just listen to the data.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/",
+      "originalUrl": "https://singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/12/code-g59512838a_1280.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/?amp=1",
+      "publishedDateTime": "2022-12-13T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
         "images": null,
         "publishers": null,
         "authors": null

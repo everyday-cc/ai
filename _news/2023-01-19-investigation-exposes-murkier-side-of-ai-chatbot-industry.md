@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/investigation-exposes-murkie
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/?amp"
 type: article
 quality: 87
-heat: 138
+heat: 137
 published: true
 
 provider:

@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Orca Security deploys ChatGPT to secure the cloud with AI"
+    excerpt: "Orca Security announces the launch of a new integration with ChatGPT designed to secure the cloud with AI-driven remediation."
+    publishedDateTime: 2023-01-20T18:45:00Z
+    webUrl: "https://venturebeat.com/security/chatgpt-secure-cloud/"
+    ampWebUrl: "https://venturebeat.com/security/chatgpt-secure-cloud/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/chatgpt-secure-cloud/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2014/12/cloud-computing.jpg?w=1200&strip=all"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Microsoft adds ChatGPT to Azure OpenAI to support cloud services"
     excerpt: "The latest integration of ChatGPT within Microsoft products builds on long-standing ties between the two firms"
     publishedDateTime: 2023-01-17T12:04:00Z
@@ -65,6 +81,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 95
+  - title: "Google's big fear is AI running wild. After ChatGPT, it's too late."
+    excerpt: "Google's top executives published a report calling for a responsible release of AI, months after rival AI bot ChatGPT has entered the mainstream."
+    publishedDateTime: 2023-01-19T14:17:00Z
+    webUrl: "https://www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/63c93fe72a1e600018b8ac60?width=1200&format=jpeg"
+        width: 553
+        height: 276
+        isCached: true
   - title: "Microsoft to add OpenAI's bot ChatGPT to Azure cloud services soon"
     excerpt: "The service gives Microsoft's cloud customers access to various OpenAI tools like the GPT-3.5 language system that ChatGPT is based on, as well as the Dall-E model for generating images from text"
     publishedDateTime: 2023-01-17T04:07:00Z
@@ -81,67 +113,37 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Microsoft brings ChatGPT support to Azure: All the details"
-    excerpt: "In the last couple of weeks, it has been suggested that Microsoft will bring ChatGPT tech to a few of its products and services. Now, Microsoft has o"
-    publishedDateTime: 2023-01-17T06:53:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-brings-chatgpt-support-to-azure-all-the-details/articleshow/97049819.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/microsoft-brings-chatgpt-support-to-azure-all-the-details/amp_articleshow/97049819.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/microsoft-brings-chatgpt-support-to-azure-all-the-details/amp_articleshow/97049819.cms"
+  - title: "ChatGPT AI Threat Pulls Google Co-Founders Back Into Action, Report Says"
+    excerpt: "Sergey Brin and Larry Page are helping the company respond to an impressive technology that is a direct threat to Google's search business."
+    publishedDateTime: 2023-01-20T17:01:00Z
+    webUrl: "https://www.cnet.com/tech/computing/chatgpt-ai-threat-pulls-google-co-founders-back-into-action-report/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-ai-threat-pulls-google-co-founders-back-into-action-report/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-ai-threat-pulls-google-co-founders-back-into-action-report/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 89
+      name: CNET
+      domain: cnet.com
+    quality: 86
     images:
-      - url: "https://static.toiimg.com/thumb/msid-97049819,width-1070,height-580,imgsize-65374,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
+      - url: "https://www.cnet.com/a/img/resize/6566d0eccf5fec01e2a5403685c78a26e676b622/hub/2019/10/09/f3cb3e1b-9560-4bc9-a30d-88e1471b28e1/20191008-google-headquarters-campus-mountain-view-006.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Microsoft Wants To Put Chat GPT-style AI Tools in Every Product"
-    excerpt: "Can AI experience cognitive dissonance? Microsoft CEO Satya Nadella told Davos attendees on Tuesday that the tech giant plans to use OpenAI,"
-    publishedDateTime: 2023-01-18T02:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/01/17/microsoft-wants-to-put-chat-gpt-style-ai-tools-in/"
+  - title: "Google isn't just afraid of competition from ChatGPT — the giant is scared ChatGPT will kill AI"
+    excerpt: "ChatGPT. If ChatGPT runs rampant, the search giant fears it could ruin AI adoption for everyone."
+    publishedDateTime: 2023-01-20T11:39:00Z
+    webUrl: "https://www.businessinsider.com/google-is-scared-that-chatgpt-will-kill-artificial-intelligence-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/google-is-scared-that-chatgpt-will-kill-artificial-intelligence-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-is-scared-that-chatgpt-will-kill-artificial-intelligence-2023-1?amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/716949/featured-daily-upside-image.jpg"
-        width: 2000
-        height: 1600
-        isCached: true
-  - title: "Microsoft says it will roll out ChatGPT on its own AI service after reports it will invest $10 billion into OpenAI"
-    excerpt: "Microsoft said Azure OpenAI is now generally available for everyone to use and it plans to make ChatGPT available through the service."
-    publishedDateTime: 2023-01-17T11:48:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-microsoft-accessible-on-its-platforms-soon-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-microsoft-accessible-on-its-platforms-soon-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-microsoft-accessible-on-its-platforms-soon-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
+      name: YAHOO!Finance
       domain: businessinsider.com
-    quality: 82
+    quality: 75
     images:
-      - url: "https://i.insider.com/63c666fcbcd21800196b85eb?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "OpenAI’s ChatGPT to be available as an API, coming to Microsoft’s Azure: What it means"
-    excerpt: "OpenAI’s ChatGPT chatbot will soon be available via an API, thus allowing businesses to leverage it for their own use cases. Microsoft is also adding ChatGPT to its Azure OpenAI suite of services."
-    publishedDateTime: 2023-01-17T03:40:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/openais-chatgpt-api-microsoft-azure-api-businesses-8386106/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/openais-chatgpt-api-microsoft-azure-api-businesses-8386106/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/openais-chatgpt-api-microsoft-azure-api-businesses-8386106/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 81
-    images:
-      - url: "https://images.indianexpress.com/2023/01/ChatGPT_AP_1.jpg"
-        width: 1200
-        height: 667
+      - url: "https://i.insider.com/63ca186aeee94d001a790dc5?width=1200&format=jpeg"
+        width: 553
+        height: 276
         isCached: true
   - title: "Microsoft looks to ‘democratise’ AI with viral bot ChatGPT"
     excerpt: "Software giant Microsoft has announced the general availability of Azure OpenAI Service in a move it says aims at “democratising artificial intelligence (AI)” in its ongoing partnership with start-up OpenAI, the company behind viral bot ChatGPT."
@@ -159,22 +161,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft to offer ChatGPT-as-a-service from Azure real soon now"
-    excerpt: "Microsoft has promised it will \"soon\" offer the ChatGPT AI chatbot as a service from its Azure cloud. The software giant on Monday announced its existing Azure OpenAI service has opened up to general availability (GA)."
-    publishedDateTime: 2023-01-17T03:36:00Z
-    webUrl: "https://www.theregister.com/2023/01/17/azure_openai_chatgpt/"
-    ampWebUrl: "https://www.theregister.com/AMP/2023/01/17/azure_openai_chatgpt/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/01/17/azure_openai_chatgpt/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 74
-    images:
-      - url: "https://regmedia.co.uk/2023/01/17/shutterstock_editorial_only_microsoft_and_openai.jpg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft May Add ChatGPT To Azure Cloud Services ‘Soon’: Report"
     excerpt: "Microsoft has said it will add OpenAI’s artificial intelligence (AI) chatbot ChatGPT to its cloud-based Azure service “soon”."
     publishedDateTime: 2023-01-17T18:43:00Z
@@ -191,33 +177,37 @@ related:
         width: 720
         height: 540
         isCached: true
-  - title: "Microsoft makes Azure OpenAI Service generally available"
-    excerpt: "Microsoft Corp. Monday announced the general availability of its Azure OpenAI Service, which provides access to artificial intelligence models developed by OpenAI LLC. The service is one of several Microsoft offerings that incorporate OpenAI technology."
-    publishedDateTime: 2023-01-17T20:38:00Z
-    webUrl: "https://siliconangle.com/2023/01/17/microsoft-makes-azure-openai-service-generally-available/"
+  - title: "Adani is hooked on ChatGPT, says race for AI to get complex as chip war"
+    excerpt: "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amounts of information to generate natural-sounding text on virtually anything - from crafting jokes to writing ad copy,"
+    publishedDateTime: 2023-01-20T11:35:00Z
+    webUrl: "https://www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war"
+    ampWebUrl: "https://www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war?amp"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 71
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 74
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/microsoft-1.png"
-        width: 900
-        height: 506
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/30_08_2022_02_53_58_2717576.jpg?width=1280"
+        width: 1280
+        height: 960
         isCached: true
-  - title: "Microsoft announces general availability of Azure OpenAI Service"
-    excerpt: "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation"
-    publishedDateTime: 2023-01-17T11:37:00Z
-    webUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
+  - title: "Gautam Adani is hooked on ChatGPT, says race for AI to get complex as chip war"
+    excerpt: "Gautam Adani, the CEO of Adani Group, notes that advancements in AI, specifically generative AI, were a major topic of discussion at the World Economic Forum, mentioning that the recent release of ChatGPT is a \"transformational moment in the democratization of AI\"."
+    publishedDateTime: 2023-01-20T12:47:00Z
+    webUrl: "https://www.cnbctv18.com/technology/gautam-adani-hooked-on-chatgpt-says-ai-race-to-get-complex-chip-war-15728761.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/gautam-adani-hooked-on-chatgpt-says-ai-race-to-get-complex-chip-war-15728761.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/gautam-adani-hooked-on-chatgpt-says-ai-race-to-get-complex-chip-war-15728761.htm/amp"
     type: article
     provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 69
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 70
     images:
-      - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
-        width: 788
-        height: 443
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2022/12/chatbot-1019x573.jpg"
+        width: 1019
+        height: 573
         isCached: true
   - title: "Microsoft is Adding ChatGPT to Its New Azure Open AI Service"
     excerpt: "Microsoft will soon expand access to ChatGPT through its new Azure OpenAI service, which is now generally available to developers."
@@ -247,20 +237,6 @@ related:
         width: 487
         height: 423
         isCached: true
-  - title: "Microsoft: Viral chatbot ChatGPT ‘coming soon’ to Azure OpenAI Service"
-    excerpt: "The Azure OpenAI Service has been available to a limited number of enterprise customers when it debuted in November 2021. Microsoft: Viral chatbot ChatGPT 'coming soon' to Azure OpenAI Service. Artificial Intelligence,"
-    publishedDateTime: 2023-01-17T07:28:00Z
-    webUrl: "https://www.itp.net/emergent-tech/microsoft-viral-chatbot-chatgpt-coming-soon-to-azure-openai-service"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 69
-    images:
-      - url: "https://www.itp.net/cloud/2023/01/17/Microsoft_buildings_EU-1.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Microsoft Announces GA of Azure OpenAI Service, ChatGPT on Way"
     excerpt: "Microsoft has announced the general availability of Azure OpenAI Service, the result of a partnership with OpenAI whose ChatGPT generative AI application has created a sensation since its lat November launch that generated 1 million-plus downloads in its first week."
     publishedDateTime: 2023-01-17T17:07:00Z
@@ -274,20 +250,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2023/01/Eric-Boyd-Microsoft-0123.jpg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Microsoft expands availability of Azure OpenAI Service"
-    excerpt: "Microsoft announced that it’s expanding the general availability of Azure OpenAI, which allows more businesses to apply for access to AI models such as GPT-3.5, Codex and DALL•E 2."
-    publishedDateTime: 2023-01-18T13:03:00Z
-    webUrl: "https://www.scmagazine.com/news/emerging-technology/microsoft-expands-availability-of-azure-openai-service"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 69
-    images:
-      - url: "https://files.scmagazine.com/wp-content/uploads/2023/01/011823_microsoft_logo.jpg"
-        width: 1500
-        height: 900
         isCached: true
   - title: "Microsoft rolling out Azure OpenAI service with access to ChatGPT soon"
     excerpt: "American tech giant Microsoft is all set to roll out Azure OpenAI service this week which will allow businesses to integrate tools like DALL-E into their own c"
@@ -303,42 +265,19 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "ChatGPT coming to Azure: New integration shows how Microsoft will leverage OpenAI partnership"
-    excerpt: "Having trouble reliably accessing OpenAI’s ChatGPT? Microsoft has a solution. The tech giant says it will soon make the generative AI chat technology available as part of its Azure OpenAI… Read More"
-    publishedDateTime: 2023-01-17T18:32:00Z
-    webUrl: "https://www.geekwire.com/2023/chatgpt-coming-to-azure-new-integration-shows-how-microsoft-will-leverage-openai-partnership/"
+  - title: "ChatGPT And AI Will Fuel New EdTech Boom"
+    excerpt: "Venture capitalists predict artificial intelligence, virtual reality and video-learning startups will dominate the space in 2023."
+    publishedDateTime: 2023-01-18T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/emmawhitford/2023/01/18/chatgpt-and-ai-will-fuel-new-edtech-boom/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 68
-  - title: "ChatGPT capabilities will be part of Microsoft’s Azure OpenAI Service soon"
-    excerpt: "Last year, during Build 2022, Microsoft enhanced its Azure Cognitive Services with Azure OpenAI Service. The enhancement was designed to assist developers in"
-    publishedDateTime: 2023-01-17T14:16:00Z
-    webUrl: "https://www.onmsft.com/news/chatgpt-coming-to-azure-openai-service-soon/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
+      name: Forbes
+      domain: forbes.com
     quality: 67
     images:
-      - url: "https://www.onmsft.com/cdn-cgi/image/width=1024,height=768,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2021/01/Azure-cloud-cropped.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Microsoft Azure Openai Service Now Generally Available, Chatgpt Coming Soon"
-    excerpt: "Microsoft has announced the general availability of the Azure OpenAI service, which enables enterprises to power the"
-    publishedDateTime: 2023-01-17T08:05:00Z
-    webUrl: "https://menafn.com/1105437538/Microsoft-Azure-Openai-Service-Now-Generally-Available-Chatgpt-Coming-Soon"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 67
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?993770"
-        width: 462
-        height: 250
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63c75360008c41557a766ebe/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft: We're bringing ChatGPT to the Azure cloud-computing service"
     excerpt: "Microsoft has announced general availability of its Azure OpenAI Service, an offering related to its $1 billion investment in OpenAI, the maker of ChatGPT. That means more businesses can apply to use OpenAI's Azure-hosted and trained large language models (LLMs),"
@@ -358,20 +297,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 62
-  - title: "Microsoft's Azure OpenAI Service expands to general availability, will add ChatGPT soon"
-    excerpt: "Microsoft plans to add chatbot ChatGPT to its Azure cloud computing service. The company said that the Azure OpenAI Service, a program offering access to OpenAI's technology, was now entering general availability."
-    publishedDateTime: 2023-01-17T12:01:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsofts-azure-openai-service-expands-to-general-availability-will-add-chatgpt-soon/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 61
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/116_OpenAI_DALLE_2_-_An_impressio.2e16d0ba.fill-1200x630.png"
-        width: 1024
-        height: 538
-        isCached: true
   - title: "How AI chatbot ChatGPT changes the phishing game"
     excerpt: "Facebook took ten ... activities that Check Point Research believes is intended to implement and test ChatGPT into the cybercriminals day-to-day criminal operations. Several tools on the market already claim to detect AI-written content, which only ..."
     publishedDateTime: 2023-01-16T10:03:00Z
@@ -388,33 +313,90 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Azure OpenAI Service Commercially Launched"
-    excerpt: "Microsoft this week announced that its Azure OpenAI service has reached the 'general availability' commercial-release stage."
-    publishedDateTime: 2023-01-17T00:00:00Z
-    webUrl: "https://redmondmag.com/articles/2023/01/17/azure-openai-service-commercially-launched.aspx"
+  - title: "Cybercriminals using ChatGPT AI bot to develop malicious tools?"
+    excerpt: "According to a report from cyber security firm Check Point Research (CPR), the cybercriminal community has already expressed strong interest in ChatGPT develop malicious code."
+    publishedDateTime: 2023-01-16T16:08:00Z
+    webUrl: "https://www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902-amp.html"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
     images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/0917red_F1a_TeamBots.jpg"
-        width: 647
-        height: 450
+      - url: "https://images.hindustantimes.com/img/2023/01/16/1600x900/OPENAI-CHATGPT-61_1673882783604_1673882783604_1673883055328_1673883055328.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Microsoft Patches 4 SSRF Flaws in Separate Azure Cloud Services"
-    excerpt: "Two of the vulnerabilities — in Azure Functions and Azure Digital Twins — required no account authentication for an attacker to exploit them."
-    publishedDateTime: 2023-01-17T15:13:00Z
-    webUrl: "https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-four-ssrf-flaws-in-separate-azure-cloud-services"
+  - title: "ChatGPT, a new AI Bot in town: Top 7 things you should know"
+    excerpt: "It does have shortcomings since it is AI. However, it tends to warn the user incase it does not have enough knowledge on the subject. While ChatGPT is focussed on human-like text, Google Search's forte is image or voice recognition, language translation ..."
+    publishedDateTime: 2023-01-18T12:52:00Z
+    webUrl: "https://www.bgr.in/webstories/news/chatgpt-a-new-ai-bot-in-town-top-7-things-you-should-know-1357013/"
+    ampWebUrl: "https://www.bgr.in/webstories/news/chatgpt-a-new-ai-bot-in-town-top-7-things-you-should-know-1357013/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/webstories/news/chatgpt-a-new-ai-bot-in-town-top-7-things-you-should-know-1357013/"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
+      name: BGR
+      domain: www.bgr.in
+    quality: 59
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2023/01/Untitled-design-2023-01-18T154735.163.jpg"
+        width: 640
+        height: 853
+        isCached: true
+  - title: "Adani is hooked on ChatGPT, says race for AI to get complex"
+    excerpt: "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amount of information to generate natural-sounding text on virtually anything - from crafting jokes to writing ad copy,"
+    publishedDateTime: 2023-01-20T12:19:00Z
+    webUrl: "https://www.rediff.com/business/report/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex/20230120.htm"
+    ampWebUrl: "https://m.rediff.com/amp/business/report/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex/20230120.htm"
+    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex/20230120.htm"
+    type: article
+    provider:
+      name: rediff.com
+      domain: rediff.com
+    quality: 59
+    images:
+      - url: "https://im.rediff.com/345-230/money/2023/jan/20construction.jpg"
+        width: 345
+        height: 230
+        isCached: true
+  - title: "Here are the 12 top power players at Google leading the fight in AI against the smash hit ChatGPT"
+    excerpt: "ChatGPT could influence Google's dominance in search. Here are the 12 people inside the search giant developing AI-based technology to keep up."
+    publishedDateTime: 2023-01-18T10:07:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-power-players-chatgpt-artificial-intelligence-2023-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/63c0772f1f388b00195f4423?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "How to Invest in ChatGPT? You Can’t. Here Are 3 AI Stock Alternatives."
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips How to invest in ChatGPT is a difficult problem to solve, but if you’re"
+    publishedDateTime: 2023-01-18T11:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-invest-in-chatgpt-you-cant-here-are-3-ai-stock-alternatives-1032025067"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+  - title: "DeepMind’s AI chatbot can do things that ChatGPT cannot, CEO claims"
+    excerpt: "Google’s DeepMind has pioneered advances in artificial intelligence since its founding in 2010, with the ultimate goal of creating a human-level AI (Alan Warburton / Better Images of AI / CC ..."
+    publishedDateTime: 2023-01-16T15:59:00Z
+    webUrl: "https://www.independent.co.uk/tech/deepmind-ai-chatbot-chatgpt-openai-b2262862.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
     quality: 54
     images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc3971b0cadba779c/63517ee229eafd0f926dd465/azure_Budrul_Chukrut_shutterstock.jpg"
-        width: 1000
-        height: 703
+      - url: "https://static.independent.co.uk/2022/05/17/10/deepmind%20ai%20artificial%20general%20intelligence.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Microsoft to add ChatGPT to Azure cloud services ‘soon’"
     excerpt: "The two companies have expanded their partnership recently, while there are rumors that Microsoft plans to give more funding to Open AI. Microsoft has expanded access to OpenAI’s software, making it generally available on its Azure cloud service."
@@ -430,20 +412,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Microsoft to offer ChatGPT at industrial scale via its Azure services"
-    excerpt: "Microsoft's Azure OpenAI service promises the world's most advanced AI model with industrial-grade uptime and computing infrastructure."
-    publishedDateTime: 2023-01-17T12:58:00Z
-    webUrl: "https://interestingengineering.com/innovation/chatgpt-microsofts-azure-openai-services"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/01/17/image/jpeg/2oEtPbucAy3H6yRAT4if6r6Pn0Whj2SrBD0b5AE9.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "ChatGPT coming soon to Azure OpenAI service — with guardrails"
     excerpt: "Microsoft on Monday announced the general availability of Azure OpenAI Service as part of its ongoing partnership with OpenAI. Businesses will soon have access to Chat"
     publishedDateTime: 2023-01-17T18:49:00Z
@@ -457,20 +425,6 @@ related:
       - url: "https://www.ciodive.com/imgproxy/gAriKtGQYhK2XyclUlYaZMu9mPmhu5i-0UQsi3pM8aI/crop:6440:3481/g:nowe:0:811/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk2NzIxMDg1Ni5qcGc.jpg"
         width: 770
         height: 364
-        isCached: true
-  - title: "Microsoft Joins Tech Layoff Circus With 10,000 Jobs Cut in Pivot to AI"
-    excerpt: "Microsoft is planning to lay off 10,000 workers through March, joining a slew of tech companies in cutting down after a pandemic hiring boom, The New York Times reports. The company’s chief executive,"
-    publishedDateTime: 2023-01-18T14:53:00Z
-    webUrl: "https://www.thedailybeast.com/microsoft-joins-tech-layoff-circus-with-10000-jobs-cut-in-pivot-to-ai"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 54
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_4261,w_7575,x_0,y_306/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1674059714/GettyImages-1246327708_ptzqta"
-        width: 1480
-        height: 833
         isCached: true
   - title: "Microsoft Azure will be adding ChatGPT to its cloud services soon"
     excerpt: "Microsoft announced the broad availability of its Azure OpenAI Service and customers will also be able to access ChatGPT."
@@ -486,33 +440,36 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Four New Microsoft Azure Vulnerabilities Found By Orca Security"
-    excerpt: "Vulnerabilities in four Microsoft Azure services, which posed the risk of leading to the exposure of customer data, were discovered by the research team at cloud security company Orca Security, the researchers disclosed Tuesday."
-    publishedDateTime: 2023-01-17T14:19:00Z
-    webUrl: "https://www.crn.com/news/security/four-new-microsoft-azure-vulnerabilities-found-by-orca-security"
+  - title: "Worried ChatGPT will steal your job? You’ll have to out-think artificial intelligence"
+    excerpt: "Does ChatGPT really come across as human? If it can do Task X, could it also do Task Y? And, perhaps most importantly: How frightened should I be of this thing taking my job? Such questions can be amusing and addictive,"
+    publishedDateTime: 2023-01-20T03:59:00Z
+    webUrl: "https://www.cityam.com/worried-chatgpt-steal-your-job-youll-have-to-out-think-artificial-intelligence/"
+    ampWebUrl: "https://www.cityam.com/worried-chatgpt-steal-your-job-youll-have-to-out-think-artificial-intelligence/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/worried-chatgpt-steal-your-job-youll-have-to-out-think-artificial-intelligence/?amp=1"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 51
-  - title: "Microsoft launches Azure OpenAI, ChatGPT coming ‘soon’"
-    excerpt: "Microsoft's Azure OpenAI Service is now available for select partners and customers. The tech giant says it will add OpenAI's popular ChatGPT tool 'soon'."
-    publishedDateTime: 2023-01-17T13:12:00Z
-    webUrl: "https://www.techzine.eu/news/applications/99948/microsoft-launches-azure-openai-chatgpt-coming-soon/"
+      name: City A.M.
+      domain: cityam.com
+    quality: 52
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2023/01/city-A.M-1-1.jpg"
+        width: 1536
+        height: 1024
+        isCached: true
+  - title: "Nearly a Third of White-Collar Workers Have Tried ChatGPT or Other AI Programs, According to a New Survey"
+    excerpt: "Many are using the technology to draft emails, generate ideas, write and troubleshoot bits of code and summarize research or meeting notes"
+    publishedDateTime: 2023-01-20T02:59:00Z
+    webUrl: "https://time.com/6248707/survey-chatgpt-ai-use-at-work/"
     type: article
     provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 49
-  - title: "Microsoft announces general availability of Azure OpenAI Service"
-    excerpt: "Large language models are quickly becoming an essential platform for people to innovate, apply AI to solve big problems, and imagine what’s possible. By Eric Boyd, corporate vice-president: AI platform at Microsoft Today,"
-    publishedDateTime: 2023-01-18T08:48:00Z
-    webUrl: "https://it-online.co.za/2023/01/18/microsoft-announces-general-availability-of-azure-openai-service/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 49
+      name: Time
+      domain: time.com
+    quality: 50
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "Microsoft rolling out Azure OpenAI service with access to ChatGPT soon"
     excerpt: "The Azure OpenAI service features a number of AI models made by OpenAI including GPT-3.5, Codex, and DALL-E, so businesses and developers can utilize these systems in their own apps and workloads. Microsoft essentially packages up GPT-3."
     publishedDateTime: 2023-01-18T21:03:00Z
@@ -531,15 +488,49 @@ related:
       name: Mashable
       domain: mashable.com
     quality: 47
-  - title: "Microsoft makes Azure with OpenAI’s Chat GPT available for enterprise customers"
-    excerpt: "Microsoft announced it will make Azure’s cloud service with OpenAI’s ChatGPT accessible for its enterprise customers"
-    publishedDateTime: 2023-01-17T07:25:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-makes-azure-with-openais-chat-gpt-available-for-enterprise-customers/article66387033.ece"
+  - title: "ChatGPT: Students could use AI to cheat, but it's a chance to rethink assessment altogether"
+    excerpt: "ChatGPT is a powerful language model developed by OpenAI that has the ability to generate human-like text, making it capable of engaging in natural language conversations. This technology has the potential to revolutionize the way we interact with computers,"
+    publishedDateTime: 2023-01-19T18:07:00Z
+    webUrl: "https://phys.org/news/2023-01-chatgpt-students-ai-chance-rethink.html"
+    ampWebUrl: "https://phys.org/news/2023-01-chatgpt-students-ai-chance-rethink.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-chatgpt-students-ai-chance-rethink.amp"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 45
+      name: Phys.org
+      domain: phys.org
+    quality: 47
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-1.jpg"
+        width: 1920
+        height: 1175
+        isCached: true
+  - title: "An AI rival to ChatGPT passed a university level law and economics exam, and did better than many humans, professor says"
+    excerpt: "A professor at George Mason University said the AI's answer to a law and economics exam was \"better than many human responses.\""
+    publishedDateTime: 2023-01-19T15:02:00Z
+    webUrl: "https://www.businessinsider.com/ai-financed-by-sam-bankman-fried-passed-law-economics-exam-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/ai-financed-by-sam-bankman-fried-passed-law-economics-exam-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-financed-by-sam-bankman-fried-passed-law-economics-exam-2023-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+  - title: "ChatGPT could be used for good, but like many other AI models, it's rife with racist and discriminatory bias"
+    excerpt: "ChatGPT could soon power Microsoft products, despite the potential to spew dangerous content. The AI community is torn on solutions."
+    publishedDateTime: 2023-01-16T16:08:00Z
+    webUrl: "https://www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1"
+    ampWebUrl: "https://www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1?amp"
+    cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1?amp"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: insider.com
+    quality: 40
+    images:
+      - url: "https://i.insider.com/62e40a4f4b455800188b5eaf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft Has Entered the Chat: Azure OpenAI Service Launches, ChatGPT Access Coming Soon"
     excerpt: "Software giant Microsoft has launched general availability of access to OpenAI's advanced AI models, including GPT-3.5, Codex and DALL•E 2, through Azure OpenAI Service, and says ChatGPT access will follow shortly."
     publishedDateTime: 2023-01-18T13:58:00Z
@@ -549,6 +540,20 @@ related:
       name: Law
       domain: law.com
     quality: 40
+  - title: "Unlocking AI’s Potential with ChatGPT – by SAE’s Hiba Hassan"
+    excerpt: "By Hiba Hassan, head of design and visual communications, SAE On November 30, 2022, OpenAI, a San Francisco-based company, released Generative Pre-Trained Transformer (ChatGPT), an AI-based chatbot. ChatGPT is based on OpenAI’s GPT-3 AI platform."
+    publishedDateTime: 2023-01-16T05:01:00Z
+    webUrl: "https://campaignme.com/unlocking-ais-potential-with-chatgpt-by-saes-hiba-hassan/"
+    type: article
+    provider:
+      name: Campaign Middle East
+      domain: campaignme.com
+    quality: 39
+    images:
+      - url: "https://campaignme.com/wp-content/uploads/2023/01/Hiba-e1673848982376-600x459.jpg"
+        width: 600
+        height: 459
+        isCached: true
   - title: "How AI chatbot ChatGPT changes the phishing game"
     excerpt: "The Microsoft-backed free chatbot is improving fast and can not only write emails, essays but can also code. ChatGPT is also polyglot and that could facilitate and increase exponentially phishing attacks."
     publishedDateTime: 2023-01-17T01:21:00Z
@@ -563,19 +568,61 @@ related:
         width: 473
         height: 315
         isCached: true
-  - title: "ChatGPT won’t give OpenAI sustainable first-mover advantage"
-    excerpt: "But in our view, though the hype around ChatGPT is justified, we don’t believe OpenAI will lock up the market with its first-mover advantage. Rather, we believe that success in this market will be directly proportional to the quality and quantity of data that a technology company has at its disposal,"
-    publishedDateTime: 2023-01-20T03:40:00Z
-    webUrl: "https://siliconangle.com/2023/01/19/chatgpt-wont-give-openai-sustainable-first-mover-advantage/"
+  - title: "GPT 101: Decoding ChatGPT's Generative AI for Legal Professionals"
+    excerpt: "While ChatGPT has caught the attention of many in the legal market, its underlying AI engine is where the real power—and disruption—lies."
+    publishedDateTime: 2023-01-19T01:09:00Z
+    webUrl: "https://www.law.com/therecorder/2023/01/18/gpt-101-decoding-chatgpts-generative-ai-for-legal-professionals/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Law
+      domain: law.com
     quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/AdobeStock_553851695.jpeg"
-        width: 3072
-        height: 2048
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Big-data-technology-767x633-2.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "What generative AI like ChatGPT gets right — and wrong"
+    excerpt: "People have used it to write sonnets, essays and even computer code — usually followed by some statement akin to “Wow, this is incredible.” Where generative AI can shine is more general tasks that may not end up the way you thought — writing form emails,"
+    publishedDateTime: 2023-01-18T17:09:00Z
+    webUrl: "https://www.grid.news/story/technology/2023/01/18/what-generative-ai-like-chatgpt-gets-right-and-wrong/"
+    type: article
+    provider:
+      name: grid
+      domain: grid.news
+    quality: 39
+    images:
+      - url: "https://www.grid.news/resizer/4_o-cnZ1toWsKZMVtTtZUrBHr9w=/1200x630/filters:format(jpg):quality(100)/cloudfront-us-east-1.images.arcpublishing.com/thesummit/YRSXDSDSRZH7JNBNZMIO66QBHA.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "From Fake News to Fake Views: New Challenges Posed by ChatGPT-Like AI"
+    excerpt: "An infinite supply of plausible opinions from fake, AI-powered pundits threatens to crowd out genuine discourse."
+    publishedDateTime: 2023-01-20T12:16:00Z
+    webUrl: "https://www.lawfareblog.com/fake-news-fake-views-new-challenges-posed-chatgpt-ai"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 39
+    images:
+      - url: "https://www.lawfareblog.com/sites/default/files/Pioneer_Building%2C_San_Francisco_%282019%29_-1.jpg"
+        width: 2560
+        height: 1286
+        isCached: true
+  - title: "ChatGPT detector could help spot cheaters using AI to write essays"
+    excerpt: "A tool called GPTZero can identify whether text was produced by a chatbot, which could help teachers tell if students are getting AI to help with their homework"
+    publishedDateTime: 2023-01-17T14:29:00Z
+    webUrl: "https://www.newscientist.com/article/2355035-chatgpt-detector-could-help-spot-cheaters-using-ai-to-write-essays/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/01/16165748/SEI_140499394.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "AI research tool aims to supplement flawed ChatGPT"
     excerpt: "It started out as a side project during his university studies, but Kieran Lindsay believes his automated Minerva research assistant could be a game-changer for academics struggling to keep up with the flood of publications – and an important step towards explainable AI."
@@ -600,15 +647,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 36
-  - title: "Microsoft’s $10bn bet on ChatGPT developer marks new era of AI"
-    excerpt: "The $10bn investment that Microsoft is considering in San Francisco-based research outfit OpenAI looks set to become the defining deal for a new era of artificial intelligence. If the US software giant is right about the far-reaching implications of the technology,"
-    publishedDateTime: 2023-01-16T11:00:00Z
-    webUrl: "https://www.ft.com/content/a6d71785-b994-48d8-8af2-a07d24f661c5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "Azure OpenAI Service Opens Up, ChatGPT On Tap"
     excerpt: "The general availability of Azure OpenAI Service was announced yesterday (Jan. 16) by company CEO Satya Nadella in a tweet, followed up 16 minutes later by a companion announcement from OpenAI that said: \"We've learned a lot from the ChatGPT research preview and have been making important updates based on user feedback."
     publishedDateTime: 2023-01-17T20:01:00Z
@@ -627,24 +665,29 @@ related:
       name: Hindustan Times Tech
       domain: hindustantimes.com
     quality: 34
-  - title: "Microsoft Azure Services Flaws Could've Exposed Cloud Resources to Unauthorized Access"
-    excerpt: "Researchers have discovered severe Server-Side Request Forgery (SSRF) vulnerabilities in 4 Microsoft Azure services."
-    publishedDateTime: 2023-01-17T14:44:00Z
-    webUrl: "https://thehackernews.com/2023/01/microsoft-azure-services-flaws-couldve.html"
+  - title: "Those Schools Banning Access To Generative AI ChatGPT Are Not Going To Move The Needle And Are Missing The Boat, Says AI Ethics And AI Law"
+    excerpt: "Some rather high-profile bans have been announced regarding the use of generative AI such as ChatGPT. We need to closely examine these bans and decide whether they make any sense. Here's the scoop."
+    publishedDateTime: 2023-01-20T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/20/those-schools-banning-access-to-generative-ai-chatgpt-are-not-going-to-move-the-needle-and-are-missing-the-boat-says-ai-ethics-and-ai-law/"
     type: article
     provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 26
-  - title: "Cross-site forgery bug would facilitate remote code execution in Microsoft Azure services"
-    excerpt: "The bug, reported to Microsoft on Oct. 26 and remediated Dec. 6, is the result of manipulating a series of misconfigurations and security bypasses in Kudu, a back-end source control management (SCM) tool that helps manage and modify web applications and is used by major Microsoft cloud services like Azure Functions,"
-    publishedDateTime: 2023-01-19T13:00:00Z
-    webUrl: "https://www.scmagazine.com/analysis/application-security/cross-site-forgery-bug-would-facilitate-remote-code-execution-in-microsoft-azure-services"
+      name: Forbes
+      domain: forbes.com
+    quality: 30
+  - title: "Will ChatGPT Take Your Job?"
+    excerpt: "Machine learning and artificial intelligence are still in their infancy ... OpenAI ChatGPT is now an AWS Certified Cloud Practitioner! There’s also the fact that Stack Overflow banned ChatGPT after it was used to answer questions — incorrectly."
+    publishedDateTime: 2023-01-17T04:14:00Z
+    webUrl: "https://www.searchenginejournal.com/will-chatgpt-take-your-job/476189/"
     type: article
     provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 25
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 24
+    images:
+      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2023/01/human-vs-chatgpt-job-63bfe8e97c592-sej.png"
+        width: 1600
+        height: 840
+        isCached: true
   - title: "AI Committee chairman downplays fears over ChatGPT misuse"
     excerpt: "The Chairman of the Artificial Intelligence Committee at the Ministry of Communications and Information Technology (MCIT), Hassan Jassim al-Sayed, downplayed the fears over"
     publishedDateTime: 2023-01-16T20:26:00Z
@@ -654,6 +697,29 @@ related:
       name: Gulf Times
       domain: gulf-times.com
     quality: 19
+  - title: "Everybody Loves ChatGPT Except For Nick Cave, Who Is Unimpressed With AI-Generated Lyrics Meant To Be Like His"
+    excerpt: "Cave called the ChatGPT-generated song ’bullsh*t’ and explained why it is ’a grotesque mockery of what it is to be human.’"
+    publishedDateTime: 2023-01-16T18:54:00Z
+    webUrl: "https://uproxx.com/indie/nick-cave-hates-chatgpt-lyrics-ai/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 19
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2023/01/2-nick-1.jpg?w=710"
+        width: 710
+        height: 400
+        isCached: true
+  - title: "Portraits to go and prose like Tim Winton: ChatGPT and the rise of AI"
+    excerpt: "AI expert Prof Toby Walsh speaks to Laura Murphy-Oates about the new wave of artificial intelligence and the fear and fascination it has created"
+    publishedDateTime: 2023-01-16T13:00:00Z
+    webUrl: "https://www.theguardian.com/australia-news/audio/2023/jan/17/portraits-to-go-and-prose-like-tim-winton-chatgpt-and-the-rise-of-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
   - title: "Artificial intelligence software ChatGPT’s mock exam answers pass plagiarism checks, but AI detection software available"
     excerpt: "Universities are having to adapt to combat potential plagiarism using artificial intelligence. Dr Popenici also encouraged education institutions to embrace AI. “Let’s use AI to enhance more significant ways to assess what our students learn and what ..."
     publishedDateTime: 2023-01-18T12:03:00Z
@@ -663,6 +729,15 @@ related:
       name: Gold Coast Sun
       domain: goldcoastbulletin.com.au
     quality: 7
+  - title: "We Used ChatGPT To Write An Article About... ChatGPT. This Is What Happened"
+    excerpt: "Many people are talking about ChatGPT because it is a very advanced computer programme that can understand and respond to human language in a very natural way. It can answer questions, have conversations,"
+    publishedDateTime: 2023-01-19T08:49:00Z
+    webUrl: "https://says.com/my/tech/we-used-chatgpt-to-write-an-article-about-chatgpt"
+    type: article
+    provider:
+      name: Latest on SAYS
+      domain: says.com
+    quality: 2
 
 secured: "QxSVeY+riI7uAab+EkxNGQln0xg6RP5WSC6i3/oKxWinhGW0mcWRXewIL9AFZKcrQrR7gB9y3UcrMkMeGdT9PPA4XHqzBLxfuSMNYJyLsRFmrdR20kwBYSEK1o4KXBJX0oRxN9xfcAK6zwZGs29RsHLLBSCnQSs6dhaLIkNNfFlCytW6lpRQ4pNMeyylvkm6Ogg4zwgmSPt/U5Itk+ICRy3rKiuV3L6Sxur6Lnii2M5/tvvFQHANsYlVmOJfO7TQBIgiFQy6UBCqz7gqJ0iR5D3bWy+3bPjJX88ihuEeA5m19y80p94GynoMmYO+6E70quh/TBvQ9COgwKELM3i7lx6hvQWelzyRtW06WcT89KLAbbwtEJFKfVNotVjoF+q4cpoVLH3Ymd/xx5SXrjDac8n7YGOjaCLux7SpYI7uE1LoqgIp8aUVlEbJP+nKy0vOOaNG0fJvKO0hv8L7MQeQpA/2IuiOeYwRATcx7N96IN3Y+SZLaB61B701fdb3XofpL9iPww8QjQqEjv9VImW7qg==;zqhm6+dBScjHIFFg9ku37w=="
 ---

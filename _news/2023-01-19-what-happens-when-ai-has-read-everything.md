@@ -7,7 +7,7 @@ originalUrl: "https://www.theatlantic.com/technology/archive/2023/01/artificial-
 webUrl: "https://www.theatlantic.com/technology/archive/2023/01/artificial-intelligence-ai-chatgpt-dall-e-2-learning/672754/"
 type: article
 quality: 69
-heat: 79
+heat: 81
 published: true
 
 provider:

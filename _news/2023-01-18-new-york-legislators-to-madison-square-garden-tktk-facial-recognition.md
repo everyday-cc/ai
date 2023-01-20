@@ -52,20 +52,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "NYC pols urge Madison Square Garden head James Dolan to stop using facial recognition tech to kick out ‘adversaries’"
-    excerpt: "Manhattan state Sen. Brad Hoylman-Sigal and a bevy of pols gathered outside MSG on Sunday to demand its controversial CEO James Dolan end the practice."
-    publishedDateTime: 2023-01-16T01:40:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/new-york-elections-government/ny-madison-square-garden-ban-james-dolan-20230116-wxmn3nhjsrccforssj46ewwgru-story.html"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 16
-    images:
-      - url: "https://www.nydailynews.com/resizer/L_MSAFn9B40oDPIgZ9Jn7h4DA7Q=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/BXRLJD2CPRH7VDFNOUJXPJXBCQ.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "cbUr1ibY7EhI4FwsCfhIUrCochUxsD6szF9N2JfwJhyGrYf+wWrk45Mvz0mhztDy7azTOhGe1HuPYNMl6yV50gPoOwB82dhkeiI7sAyQ4Ce5wSYKypL/L0aYVWIQsH+zCcVn+VyKl31g7FaE8iF/6x94Evc7gE5+i8JIP99LKGQVE9nkR90LnvSUK2Bm1P4YP0GCJKsYE+6ACripCyenswex1JqBvvPTRd+EQXck+THqg2wfbBUcyZDH9hbi7sIvm7GHcs2P/Q4p1rzQbKGL69LO73g/uflYExlzYCRZ5q+F67BkHTRU6VpTa8llcs8d4wmDZV03hgzoSJeM25JwUblVB5qF4Qm8pP9xO0lj1+XOnp98qVsTnyWhcTjVKQpQREVnxg6o+5H9wjJUmbWL7iCQDcP5Xi0Frm6u++eoo5Vdko/zykBADavP7tsy/TEi7I/t0zW0Hbr+hrbJbTNWjjVDdVNlBjuJ76L+WdSpzXT5Les8j3efjVqpliuRGyH+TAO2zh9hWI+ILlD1Rj70KQ==;OderfnkILmdPj/YtlcESmQ=="
 ---

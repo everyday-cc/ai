@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/google-parent-lay-off-12000-worke
 webUrl: "https://www.reuters.com/business/google-parent-lay-off-12000-workers-memo-2023-01-20/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google’s Treasured AI Unit Gets Swept Up in 12,000 Job Cuts"
+    excerpt: "Alphabet Inc. is reorganizing its treasured artificial intelligence unit as part of the company’s sweeping job cuts announced on Friday, according to an internal memo."
+    publishedDateTime: 2023-01-20T16:21:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-01-20/google-s-treasured-ai-unit-gets-swept-up-in-12-000-job-cuts"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCglq79tGiV4/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google parent Alphabet to axe 12,000 jobs worldwide"
     excerpt: "Google’s parent company has announced it will axe 12,000 staff, pushing total tech job losses above 200,000 since the start of last year, as industry bosses concede they overextended during the pandemic’s digital boom."
     publishedDateTime: 2023-01-20T13:39:00Z

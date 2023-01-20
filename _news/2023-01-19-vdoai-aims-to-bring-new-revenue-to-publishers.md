@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/waynerash/2023/01/18/vdo-aims-to-bring-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/waynerash/2023/01/18/vdo-aims-to-bring-new-revenue-to-publishers/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

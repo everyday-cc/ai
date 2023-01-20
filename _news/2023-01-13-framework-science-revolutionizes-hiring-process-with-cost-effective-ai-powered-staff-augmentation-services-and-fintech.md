@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Framework Science Revolutionizes Hiring Process with Cost-Effective, AI-Powered Staff Augmentation Services and Fintech"
-excerpt: "Using cutting-edge AI technology and a focus on fintech, Framework Science can build and manage teams faster and cost-effectively than any other company in the industry. One of the significant ..."
-publishedDateTime: 2023-01-12T20:33:00Z
-originalUrl: "https://fox59.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
-webUrl: "https://fox59.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
+excerpt: "Our focus on cost-effectiveness, AI-powered processes, and fintech payments set us apart from other providers.”— Jesus Romero SAN FRANCISCO, CALIFORNIA, UNITED STATES, January 12, 2023/ EINPresswire.com / -- Framework Science Revolutionizes Hiring Process with Cost-Effective,"
+publishedDateTime: 2023-01-12T20:01:00Z
+originalUrl: "https://apnews.com/article/mexico-ein-presswire-newsmatics-business-6b2dbec690e258cbae8c4b14731138db"
+webUrl: "https://apnews.com/article/mexico-ein-presswire-newsmatics-business-6b2dbec690e258cbae8c4b14731138db"
 type: article
 
 provider:
-  name: FOX59 News
-  domain: fox59.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/12754431-jesus-romero-co-founder-and-cf-300x300.jpeg"
-    width: 300
-    height: 300
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "bYxD+GQsboxZJqTeImZYIddMguYN1W+9WxRljUt/6cSVX1iZ34NIFZ+EpZhnU+T0gqVHVIwwBc4Z82D2ChMCd0SJaIiW34e414v+vnRIDU9BHgyNQVROEbi3TGKOcsP55MNADttJXA0YboHaZoITBFQvWTCLq2YvZKbV2WOTJ9QvotKq+xvANhM0s5WtIh7RnMNEUlPKxhWaqvgCSfBk/KvK8AnP5PG7tkBH7ilHrrYXTyPWAPOi99TVyb+aDNa3umQxd75t2OkJuT31c65Qoj3sPQw3aOfabh5Q9dxOT9CGktSdkzBEasZijmnMeLL8KD8MxruvqGAxradMrSvGXYLRItk+4/1FZutAYcoFiT8=;NXR/HsM3G99zvHDUnTAkUw=="
+secured: "dxOZ0o1V4+6lxVJg1fPLCoCwJbSyu+cIGWI++7cd6OAlzii2ShilFXYsO/3iwdb9f6M14k6OYcruRMBbRNlpkK13DIP9oicxv2H4bPIM8pnbKHHM0eduGL9T3viO+yRpslmFPij569Mf+nJ4+O0h7WUzaCiKUCEj2GuMFFpAfJa8vG9qzikId2N6ZMg4sG92FmlRwKbsP0xJaEyWSdPUkHJyHXrXKrgskg4eLHcYS2sF7eobD9D+SuzOVlR46/1otg3x338I2EWTJ9YWHpwkvhXFZF5SbQ0UBcQX02pb9R3RBH6uZB+CCp168DeJ19tPgn7B9CC4Uul8nabqAHyDEur75XDgL+oJ1kr3zdssCfs=;pMe1WqSTH9h7+vZTeFsadA=="
 ---
 

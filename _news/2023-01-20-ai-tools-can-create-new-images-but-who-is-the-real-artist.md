@@ -1,28 +1,29 @@
 ---
 category: news
 title: "AI tools can create new images, but who is the real artist?"
-excerpt: "Countless artists have taken inspiration from “The Starry Night” since Vincent Van Gogh painted the swirling scene in 1889. Now artificial intelligence systems are doing the same, training themselves on a vast collection of digitized artworks to produce new images you can conjure in seconds from a smartphone app."
-publishedDateTime: 2023-01-19T16:34:00Z
-originalUrl: "https://www.washingtontimes.com/news/2023/jan/19/ai-tools-can-create-new-images-who-real-artist/"
-webUrl: "https://www.washingtontimes.com/news/2023/jan/19/ai-tools-can-create-new-images-who-real-artist/"
-ampWebUrl: "https://amp.washingtontimes.com/news/2023/jan/19/ai-tools-can-create-new-images-who-real-artist/"
-cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/jan/19/ai-tools-can-create-new-images-who-real-artist/"
+excerpt: "With some generated images traveling on social networks and potentially going viral, they can be challenging to debunk since they can’t be traced back to a specific tool or data source"
+publishedDateTime: 2023-01-20T15:38:00Z
+originalUrl: "https://www.kcci.com/article/ai-images-who-is-real-artist/42592783"
+webUrl: "https://www.kcci.com/article/ai-images-who-is-real-artist/42592783"
+ampWebUrl: "https://www.kcci.com/amp/article/ai-images-who-is-real-artist/42592783"
+cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/ai-images-who-is-real-artist/42592783"
 type: article
-quality: 57
-heat: 87
+quality: 59
+heat: 79
 published: true
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: KCCI Des Moines
+  domain: kcci.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://twt-thumbs.washtimes.com/media/image/2023/01/19/Artificial_Intelligence_Image_Generators_10313--a74dd_c0-347-8317-5198_s1200x700.jpg?d7ae28a2f207d29f72b5f7f2063e1372249da405"
+  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap23011863010313-1-1674235508.jpg?crop=1.00xw:0.846xh;0,0.0337xh&resize=1200:*"
     width: 1200
-    height: 700
+    height: 677
     isCached: true
 
 related:
@@ -37,20 +38,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 43
-  - title: "An A.I. Translation Tool Can Help Save Dying Languages. But at What Cost?"
-    excerpt: "With Kochila Tharu, the spelling is difficult, the words are difficult, and you know, they’re exposed to English all the time, in schools, on television,” Chaudhary said Artificial intelligence-assisted translation tools like StoryWeaver can bring more languages into conversation with one another—but the tech is still new,"
-    publishedDateTime: 2023-01-16T10:50:00Z
-    webUrl: "https://slate.com/technology/2023/01/storyweaver-ai-translation-tools-language-preservation.html"
-    type: article
-    provider:
-      name: Slate
-      domain: slate.com
-    quality: 23
-    images:
-      - url: "https://compote.slate.com/images/cc9dc9a4-1083-4541-a4bc-3329a1cf6658.jpeg?crop=3150%2C2100%2Cx0%2Cy0&width=1560"
-        width: 1560
-        height: 1040
-        isCached: true
   - title: "AI tools can create new images, but who is the real artist?"
     excerpt: "Countless artists have taken inspiration from “The Starry Night” since Vincent Van Gogh painted the swirling scene in 1889. Now artificial intelligence systems are doing the same, training themselves on a vast collection of digitized artworks to produce new images you can conjure in seconds from a smartphone app."
     publishedDateTime: 2023-01-19T14:07:00Z
@@ -61,6 +48,6 @@ related:
       domain: apnews.com
     quality: 17
 
-secured: "9NUWoC4iVnnho50h2FeEMDxfFlXUH2mTRd1MSMuNHWr5rCCO1y2Kpi5lirf4VSLFT2O4u1z2dZKylgYrt0bN3O1Qd34EWEWfTXg+P2RmNVMknAJI9OttMH0vsCBbBCfTGtPdppdiXfWhYXERUK7DSpUoHeL74ETGjP+c9MA/pA7Yqip86Uv7KlxMt/rsr48mbWJ12EQaY45K63dHeq8rqaXJnXZqUgGXaLF5WxNFiBlzu53ap/R4IoMsxkOTHUg8vmubR86h48EcKs768AOO7OXhSKVf0+CXkQOfPnl92NA9VOVNbWEkFyF2mhPywP9ednZbPaDKs4TccUn0V0kHbzhJcMFSBEzfVACwtJS3K0E=;fSDGb2niu/sCNl2MktTrLg=="
+secured: "um+0K9ITEWiMXENvXV3HZy5VeqFu3+WgHm+gUkcpiMjAPR7Sgk2d9qWIYfJkqA473EdHWDryB/GFcmCWhTDPVzIFsQWuyjliOcE6SqcerRYKImqLB7Gl1Sk5ygssk9XQ3eSIzec5iXv+6ZNZCQqVp7hYQJTynYoeaw0ankleLL20nbXdW8LM7TfkCketUYv2YDlNvVnE6RXHhvl1kRlDtH/cIyaqDFN3OY4vPsKGhJ96J1N9VKmGC4mUXVHqcCUD1JCjM39Hjy63R0w8UuYrgjYc/OjjhpENrwxYRaKUMAyPC/Dy9zXdEj+xkVJSB3VwSGASZsemh7dPeRlHP9qgRYW3NTO4h5q+SPyMNKaMoTE=;zzw4WWXZZscnLtNuwBriow=="
 ---
 

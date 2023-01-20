@@ -38,6 +38,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 84
+  - title: "­­How CCC Intelligent Solutions created a custom approach for hosting complex AI models using Amazon SageMaker"
+    excerpt: "This post is co-written by Christopher Diaz, Sam Kinard, Jaime Hidalgo and Daniel Suarez&nbsp; from CCC Intelligent Solutions. In this post, we discuss how CCC Intelligent Solutions (CCC) combined Amazon SageMaker with other AWS services to create a custom solution capable of hosting the types of complex"
+    publishedDateTime: 2023-01-20T18:28:02Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-ccc-intelligent-solutions-created-a-custom-approach-for-hosting-complex-ai-models-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/20/Featured-images-for-ML-11307.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "wrsCJGalkaCh5CukjVTl2MUaI8H6CC4dnG0w2YedFI89ZGhvpSOq8m+O7XuttDPoxWhPhqXJPrAWKbZXoUQx8Wzfx7Yk1HSRCEM8ELzKvaI4s1xe6jyagmXDVVyn6iLVms2mIv6C9Qs3a4qy7Wvnqf95aPL9myilETUUqSZ+StRLjnHLAK1vUuEX5Ow2MjCgZosLtCQGOmtHx43oIgZKaYVUj8Bt84ooxxC7RglQB5fVjvfw4iPaD/lTGSu4xAQR/RyozvLAEFYvl8XVxMqn36w1TDU+OMapIhvp9GZHbob9QMr/UIR6ZdLR81Rjjm5mH/QT0w7MifkNNTi40YQgA3n09R1CHqDXJfXscm7Bgdk=;3Dv4+Xb89a2ZMzFm50CGjw=="
 ---

@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Google’s Treasured AI Unit Gets Swept Up in 12,000 Job Cuts"
+    excerpt: "Alphabet Inc. is reorganizing its treasured artificial intelligence unit as part of the company’s sweeping job cuts announced on Friday, according to an internal memo."
+    publishedDateTime: 2023-01-20T16:21:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-01-20/google-s-treasured-ai-unit-gets-swept-up-in-12-000-job-cuts"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCglq79tGiV4/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "M/4tHwRYVdT2q85F83Zrx23TEeFEZSv7AITEIXOyneJemGF1jUHk1IQHNXToad2Gn/5ibi+u6Qbp0J+wI+r53ZghAXYTq4WtrtSWFj88pi81hNPzhaosgFpYwe1Y0JKikthhu7ZGVg6GTkFVU+9AcLExBqOwVv4DlZBmeKmVX7NP6B2ld6kjSDLu23z/++TcR9Xm5zcYBv5wj5P5aDtlBEEuO90bVNdpUlZLIvxrDC/LSsjxkI6xZ6BRGQUHqetVeRmgSwp79i9m/KAqz+R/+W/Inlro6rku+ON95mmTTQf3QO0Qg7Z/Psw8fK2afxPDTpRfKWaHdU44UQRAmt+Un1JmiGQ/BuGdf2DG4fIOqU3RIRAmY2aNI+lo9L8PY1J/6shug/KCNPsBIid/3NsV5UzhrXnxUEQjX2p44WRa1vDTW7ZC2NPDvyurAJ5/vabBKNvsWEhLb7zbt4QRDiD15/PIxbTpQ9Kwfor9/0ZyXQOz++TlqTRib0qpUImtTbcTYrHeQzbh52YdLKjnO6i1uA==;hyTm/5Po6e5PCY+/y30ycQ=="
 ---

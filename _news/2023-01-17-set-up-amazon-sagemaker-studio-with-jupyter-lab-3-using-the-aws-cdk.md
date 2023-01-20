@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/set-up-amazon-sagema
 webUrl: "https://aws.amazon.com/blogs/machine-learning/set-up-amazon-sagemaker-studio-with-jupyter-lab-3-using-the-aws-cdk/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AWS AI
 
 related:
+  - title: "­­How CCC Intelligent Solutions created a custom approach for hosting complex AI models using Amazon SageMaker"
+    excerpt: "This post is co-written by Christopher Diaz, Sam Kinard, Jaime Hidalgo and Daniel Suarez&nbsp; from CCC Intelligent Solutions. In this post, we discuss how CCC Intelligent Solutions (CCC) combined Amazon SageMaker with other AWS services to create a custom solution capable of hosting the types of complex"
+    publishedDateTime: 2023-01-20T18:28:02Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-ccc-intelligent-solutions-created-a-custom-approach-for-hosting-complex-ai-models-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/20/Featured-images-for-ML-11307.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Churn prediction using multimodality of text and tabular features with Amazon SageMaker Jumpstart"
     excerpt: "Amazon SageMaker JumpStart&nbsp;is the Machine Learning (ML) hub of SageMaker providing pre-trained, publicly available models for a wide range of problem types to help you get started with machine learning. Understanding customer behavior is top of mind for every business today. Gaining insights into"
     publishedDateTime: 2023-01-17T18:49:12Z
