@@ -2,7 +2,7 @@
 name: "Zscaler"
 overview: "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀"
 type: "profile"
-heat: 71
+heat: 64
 
 website: https://www.zscaler.com
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Zscaler"
 
-secured: "mja52YW69rWOmR9lfQGC8H+gzwns1tUyQnf43EKkUdCzUmp1HKZ8fn/3lHd3XuccTEZBJ02rd94z4krauf9d7EFLxvV0a2EmbJaOq46oGrK4CAN7J22pDDRrYNKlYd7DvXzcbiOZ8N2XO5L9yNpMOnVn2sGW1ZCA/W5zT0c/ACk9aDS7qMohUixIAPXBDQId1hRq8dym4YXzcxNucob6x29NZGQ7YZJ5YTwuV54+KbrJpCjHIn5fE8UGH5G2CKWSXeEetqrOEWsGSk7hztyWOcjEHmwDoe0BQaOQgCXeFR6T71s/7p0s9AIidvWpWTHGytPMqD2y9EjyQZq4buCEd05iH5z3NeXp4gKc1YW+1WBubL0uPX/bTY/a7al/A2lWK9HzamOi4fRJzr+ZG/kKGWTtNCYLo9K67dD4fI2wfig=;SgEth9AJTNqrgX1O5W7eOg=="
+secured: "txnXW4HKRkivit5S/XDtgCWUGSJFdxrKtWuPmIOdElIJwwQx36fLkyNr1lFnIoNUckwdQgdLyXdQzUBkR0kBVReBcw/gSddrVUF03slv6Ghc9Ex/Gdz5Dp3YjmwANUXqT4uNJ8OYxlEZzoCRVOa4qeoiVBWPobVXHxyDqGlrDSRGSlUG1Q1hJeuzsgAZGg7dCfbfF+Xob84NTRjM4zgaia2NVa8121vWG0iyJGXmjp7o9YnFxgk9ptrG8wDtPwMEs6CnDipVuDydViN/akmmK2dxmVde+iKh5ABo4OCHpNW+Sy8rUltbwzaJLcGeoExz5o0tKUTob2fOmTvEWcj6AYTrX/Z4PQDiD5Qd2NU/LlCH26D44PIjQz2m5Dgp/RYUK4hx848vlvUbohHc58sHCOK3OHWctefZwHP+c5z4VRQ=;wgp64DnU2CULKLnWhLB9Zg=="
 ---
 

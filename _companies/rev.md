@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "rev"
   url: "https://twitter.com/rev"
-  followers: 11352
+  followers: 11351
 
 size: 51-200 employees
 yearFounded: 2010
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "HLZUYT60sNWG6ZUfcjI+g5L8/Ot0v85Dyxem+I0bHBvd95cc+jyvxC1SSFU17pMDPdPHA+Qc9xTShLZoiv+4RbdzUrtmid4G+87uDxYySQpRiBhclxA1jTfYFh8kxwTmYp9GrmpJ61KPo7mhDvAPRTUJFx6M54s+FR/vPiTNoEO5BDKoPrwbh9TVXJSVMu4dBl7n2N7DYg8EiRU3dKjc7i//CvxAHXQtkhvaiqfa22pNSXRI65dB5KTJTBN+YXoRX0Jwkg67/DrrjcWw/olZqqbqA5JHEGDXfNCQpVAZtg6mAcaQTrmLAMRZ6KWQqhNqBL7mPB8vvyuxQCLEGJLuAzzfnBUVJhuQHrO0xKq5L2TFwKLLoSe/wjCrByEjAUG/FySLHaHfGbYMRZcy5GLvd4H5XtcfI5wePHj13FmpM3c=;Y4SYwCDkuZw392EzZZtRsQ=="
+secured: "rBiR6a2dZtD1TPwcbVlhVF5Q+wJoh8eXEgEStN6VG5Ac0t5RPv2E5hDdiVFWzZPYPHnXmn+FSaPvi1m5LwUukynO41TKqfZbZJcX/rM/J94mskN277vKoh/+Wd3tlkvrDn35FKWqCEn8jev0kdVd1jw4FwQJUFX55QJaF5304rIg2KSS6tskREBjWFPVZkP+OkdqWcEKPj0RicUFUB1dUIjn6jrKBvJGN9aKzHL/cVhShEUBp1rM1kbQPrdezGo6SQCanBeA2ptUQ8kHEuOg34qPOqyatDswv0KZVND9A99Gvy5XWvzBT43uCBkovzhaPoMtphRsiwBGk+AIb6LsN7D9x5XnHTTYw6JHJwW2wlaUnRItPLNpvU4CvGbho1ptgPlTQBob0NsPZ+eIJzKG35DQkK2WgcULDQr1Pf+B7+c=;s8NPlOA9ZphyshDwqEFvdw=="
 ---
 
