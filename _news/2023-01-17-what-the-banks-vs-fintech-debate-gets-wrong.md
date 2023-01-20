@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fintech technologies: Harbinger of financial revolution in Maharashtra"
+    excerpt: "Finance Technology, or FinTech, as it is called has brought about a whirlwind change in the working of the ﬁnancial industry sector. It is one of the fastest and most adopted techs globally. Finance"
+    publishedDateTime: 2023-01-20T10:38:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-technologies-harbinger-of-financial-revolution-in-maharashtra/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-technologies-harbinger-of-financial-revolution-in-maharashtra/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/fintech-technologies-harbinger-of-financial-revolution-in-maharashtra/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
   - title: "KFintech Drives Digital Transformation and Innovation in the Financial Services Industry with AWS"
     excerpt: "(MENAFN- Adfactors PR ) January 17, 2023, Hyderabad: KFin Technologies Limited (KFintech), a leading technology-driven financial services firm ... including interactive dashboards that use AWS machine learning to automatically look for investment patterns ..."
     publishedDateTime: 2023-01-18T04:12:00Z

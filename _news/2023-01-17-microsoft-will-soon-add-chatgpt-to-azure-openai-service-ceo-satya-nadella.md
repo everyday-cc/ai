@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 594
         isCached: true
+  - title: "Microsoft rolling out Azure Open AI service with access to Chat GPT soon"
+    excerpt: "American tech giant Microsoft is all set to roll out Azure Open AI service this week, which will allow businesses to integrate tools like DALL-E into their own cloud apps. According to The Verge, an American technology news website,"
+    publishedDateTime: 2023-01-19T11:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/videoshow/97134538.cms"
+    ampWebUrl: "https://m.timesofindia.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/amp_videoshow/97134538.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/amp_videoshow/97134538.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 88
+    images:
+      - url: "https://static.toiimg.com/photo/msid-97134538/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Microsoft Is Playing the Long Game in Artificial Intelligence"
     excerpt: "The company's cloud resources, business customers, and large amount of data resources make it a perfect partner to improve the artificial intelligence models and create a business model for it. Travis Hoium covers why Microsoft isn't doing this for ..."
     publishedDateTime: 2023-01-17T12:48:00Z

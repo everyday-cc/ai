@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claim
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work?amp=1"
 type: article
 quality: 109
-heat: 311
+heat: 321
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/01/VB_Microsoft_azure_openai_service_logos_011823.jpg?w=1200&strip=all"
         width: 1200
         height: 594
+        isCached: true
+  - title: "Microsoft rolling out Azure Open AI service with access to Chat GPT soon"
+    excerpt: "American tech giant Microsoft is all set to roll out Azure Open AI service this week, which will allow businesses to integrate tools like DALL-E into their own cloud apps. According to The Verge, an American technology news website,"
+    publishedDateTime: 2023-01-19T11:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/videoshow/97134538.cms"
+    ampWebUrl: "https://m.timesofindia.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/amp_videoshow/97134538.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/amp_videoshow/97134538.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 88
+    images:
+      - url: "https://static.toiimg.com/photo/msid-97134538/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Microsoft will 'soon' add ChatGPT to Azure OpenAI Service: CEO Satya Nadella"
     excerpt: "The software giant also announced the ‘general availability’ of its Azure OpenAI Service that gives customers access to various AI tools for use in their own applications."

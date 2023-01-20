@@ -3,10 +3,10 @@ category: news
 title: "Worried ChatGPT will steal your job? You’ll have to out-think artificial intelligence"
 excerpt: "Does ChatGPT really come across as human? If it can do Task X, could it also do Task Y? And, perhaps most importantly: How frightened should I be of this thing taking my job? Such questions can be amusing and addictive,"
 publishedDateTime: 2023-01-20T03:59:00Z
-originalUrl: "https://www.cityam.com/worried-chatgpt-will-steal-your-job-youll-have-to-out-think-artificial-intelligence/"
-webUrl: "https://www.cityam.com/worried-chatgpt-will-steal-your-job-youll-have-to-out-think-artificial-intelligence/"
-ampWebUrl: "https://www.cityam.com/worried-chatgpt-will-steal-your-job-youll-have-to-out-think-artificial-intelligence/?amp=1"
-cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/worried-chatgpt-will-steal-your-job-youll-have-to-out-think-artificial-intelligence/?amp=1"
+originalUrl: "https://www.cityam.com/worried-chatgpt-steal-your-job-youll-have-to-out-think-artificial-intelligence/"
+webUrl: "https://www.cityam.com/worried-chatgpt-steal-your-job-youll-have-to-out-think-artificial-intelligence/"
+ampWebUrl: "https://www.cityam.com/worried-chatgpt-steal-your-job-youll-have-to-out-think-artificial-intelligence/?amp=1"
+cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/worried-chatgpt-steal-your-job-youll-have-to-out-think-artificial-intelligence/?amp=1"
 type: article
 quality: 52
 heat: -1
@@ -21,9 +21,9 @@ topics:
   - AI
 
 images:
-  - url: "https://www.cityam.com/wp-content/uploads/2023/01/GettyImages-1246349266.jpg?w=594&h=396&crop=1"
-    width: 594
-    height: 396
+  - url: "https://www.cityam.com/wp-content/uploads/2023/01/city-A.M-1-1.jpg"
+    width: 1536
+    height: 1024
     isCached: true
 
 related:
@@ -444,6 +444,6 @@ related:
       domain: says.com
     quality: 2
 
-secured: "cRHJ0ORMXSsSNh/96ZPUqP/6BeK41/MkRkD/Et5s7ZeBLydqKokr7XWUjm/9ioIRN61QxLICrgl9LLUVLa5aLCiTneXAp/XPRebk9FF0maSOvbOqYjY4WrjuB0R/npLCJO06iAwQLj7VBm+Bq6Nhua5pb0tGyBv3tiV1gwFoVkLwQkw3Bd84KKVvhgs5MRTgK01JqMJoEGxC3VE5R3eIMwPfasflay2nNIkXs4JC4Un3NRue9o7JfMtENKm1p9funwkmLnrLT1kpXLZuDOTClKO10DPo0LR/xlI7r+nduOsLyIYuxYBmdsxIFR+3GkDDSOAC+Ug8wNX5aEfQ/bi8yxQq0Fe1lRfAy2tAJnpcui8cabnApWf2A8NeCbaDADbpyLm3osuL0VbYb/fcOb1asMVqQ1ReQIGdld9bjjhXA5fkW5shYtzCPimaxCd2/SYx21ONkbe1Vp7DjDOitvK+ourcVxGkKiAzAnJYzVBpUTbH0mZs8Mz5jFEPc6T84Stt/9VhPVgCLFbf0zgn5DGkNQ==;hIOhk9xGR5GT/xN4NAvZAQ=="
+secured: "hy5McUyxWWkdYhYIKnQqw6H+Oov1MzKt9qsTEWodd28M/vTG7VCeyz/vH7aksvAe0UbWVTE/bqQ9QDvFHB/UMV+7hWLHduhEA8UTssGHu8uWI44JC3t9FA4VXPEsImUBgOLasm2Swz10r8YVruPIDmiKZGyK6Pd4gEsyYyxt9z8ceWdbQoHolxqRoslmnVOleIvDr3n/xMAIZEcoXFaYrASjzAprzn1jTYQJGGEC1CaZ456P/pwJZIaKfASNSrc00POxV+2R7NyngpXPdTmFaUVb/2AdU8laPB2VpO2XJhFA+R7LnQjcDH+fvHNSA2mquL60LpVmzDJ/SeigcT8i6jfVGC3xH4oYeiIZIMydYe0=;mBIUnIyL6oVZgweodEMTmA=="
 ---
 

@@ -24,6 +24,17 @@ images:
     height: 803
     isCached: true
 
+related:
+  - title: "How generative AI will supercharge productivity"
+    excerpt: "Imagine software programmers using an AI assistant to write code in their company’s style to four times their output. This is beginning to happen today. Enhanced productivity is now possible with generative tech,"
+    publishedDateTime: 2023-01-20T04:00:00Z
+    webUrl: "https://www.fastcompany.com/90836481/how-generative-ai-will-supercharge-productivity"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
+
 secured: "sbIQims6ysBLa4jAhY8Tg041N3CgDrfq6BmS01572eXTTUQ+aTVmuUtRdUzVVqSd9P5STiLc7W4qki8Qi2/os/VHsPpWyqIII/tL9l2NUS/pWKO4n7mXKUunIh9wNyTciI/WlKsJMlCiPJUY+XIa2zfMpb+8IgGuK6EuCodUV7GSiVIJlnd9QET2xRzcEKkY8wuDmFEVAmQEWyOTOeDfJTa35lrhxKgwiVtVCD5FbqwmQHNMJ6mnWKcE1OwNAFhaGfeRaG5EeLPuCe1LEAambaw+U3DareQo9RcQP09sAlcZN9g3+c1H7zPFr6e+4/Q4UvN5suie7EGUhLU/zRicxGQeWCf84ONlXFMddT8aVwQdsqhFKOj7wV/VFCIcAeWVQN9hdJagHfg9StVCKgOn2+iwXl81CRj6yIdHxIzP5vuM9Pp7c8cojARjZP0e1G/d96E1WFE+Gxu1IrlVHWTnQiBMkPnvFOGplXqddwUf3GiDSH1tHKhMKlgaeI8wahbdBqG8GYOX47eb2Dqo7aR14g==;iyYeUsPncwSu/u4fzclNow=="
 ---
 

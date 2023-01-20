@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning-as-a-Service (MLaaS) Market Size, Trends, Share, Growth Status, and Forecast 2028 with Top Countries Data"
+    excerpt: "Rising demand for IT and Telecom, Automotive, Healthcare, Aerospace and Defense, Retail, Government, BFSI, Other End Users will drive the Machine Learning-as-a-Service (MLaaS) seg"
+    publishedDateTime: 2023-01-20T01:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-trends-share-growth-status-and-forecast-2028-with-top-countries-data-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market : Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2023 to 2029"
     excerpt: "Computer Vision Market\" Research Report 2023 is the professional market analysis study by 360 Research Reports"
     publishedDateTime: 2023-01-17T07:10:00Z
@@ -126,6 +140,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Object Recognition Imaging Systems Market Size 2023, Share, Trends, Growth Analysis, CAGR, Challenges, Drivers, Restraints Forecast to 2029"
+    excerpt: "The Global Object Recognition Imaging Systems Market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2029. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-01-20T05:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-size-2023-share-trends-growth-analysis-cagr-challenges-drivers-restraints-forecast-to-2029-2023-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

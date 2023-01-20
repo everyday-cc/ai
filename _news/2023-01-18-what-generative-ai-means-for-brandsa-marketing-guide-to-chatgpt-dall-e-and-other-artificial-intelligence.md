@@ -173,18 +173,18 @@ related:
   - title: "Worried ChatGPT will steal your job? You’ll have to out-think artificial intelligence"
     excerpt: "Does ChatGPT really come across as human? If it can do Task X, could it also do Task Y? And, perhaps most importantly: How frightened should I be of this thing taking my job? Such questions can be amusing and addictive,"
     publishedDateTime: 2023-01-20T03:59:00Z
-    webUrl: "https://www.cityam.com/worried-chatgpt-will-steal-your-job-youll-have-to-out-think-artificial-intelligence/"
-    ampWebUrl: "https://www.cityam.com/worried-chatgpt-will-steal-your-job-youll-have-to-out-think-artificial-intelligence/?amp=1"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/worried-chatgpt-will-steal-your-job-youll-have-to-out-think-artificial-intelligence/?amp=1"
+    webUrl: "https://www.cityam.com/worried-chatgpt-steal-your-job-youll-have-to-out-think-artificial-intelligence/"
+    ampWebUrl: "https://www.cityam.com/worried-chatgpt-steal-your-job-youll-have-to-out-think-artificial-intelligence/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/worried-chatgpt-steal-your-job-youll-have-to-out-think-artificial-intelligence/?amp=1"
     type: article
     provider:
       name: City A.M.
       domain: cityam.com
     quality: 52
     images:
-      - url: "https://www.cityam.com/wp-content/uploads/2023/01/GettyImages-1246349266.jpg?w=594&h=396&crop=1"
-        width: 594
-        height: 396
+      - url: "https://www.cityam.com/wp-content/uploads/2023/01/city-A.M-1-1.jpg"
+        width: 1536
+        height: 1024
         isCached: true
   - title: "AI Tools Like ChatGPT May Reshape Teaching Materials — And Possibly Substitute Teach"
     excerpt: "This summer, a coding class offered by a private school in Austin, Texas, was led by an unusual teacher. The PreK-8 school, Paragon Prep, offered a"

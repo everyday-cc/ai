@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fintech technologies: Harbinger of financial revolution in Maharashtra"
+    excerpt: "Finance Technology, or FinTech, as it is called has brought about a whirlwind change in the working of the ﬁnancial industry sector. It is one of the fastest and most adopted techs globally. Finance"
+    publishedDateTime: 2023-01-20T10:38:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-technologies-harbinger-of-financial-revolution-in-maharashtra/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-technologies-harbinger-of-financial-revolution-in-maharashtra/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/fintech-technologies-harbinger-of-financial-revolution-in-maharashtra/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
   - title: "What the banks vs fintech debate gets wrong"
     excerpt: "This need has led to the emergence of a completely new ecosystem, one that is more diverse and where fintechs and smaller banks take an increasing share of the real-time market. By flipping traditional infrastructure procurement on its head and standardising related operational and security capabilities,"
     publishedDateTime: 2023-01-17T12:39:00Z

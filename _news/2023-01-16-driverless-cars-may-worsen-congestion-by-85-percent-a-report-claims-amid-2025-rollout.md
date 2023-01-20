@@ -9,7 +9,7 @@ ampWebUrl: "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-co
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont/amp"
 type: article
 quality: 66
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Driverless cars could make traffic 85pc worse, government report finds"
-    excerpt: "He said: “If everyone insists on having their own driverless car then traffic volume and parking pressures will rise. “However, if we are prepared to access these vehicles on demand and forego ..."
-    publishedDateTime: 2023-01-15T19:00:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2023/01/15/driverless-cars-could-make-traffic-85pc-worse-government-report/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 39
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/news/2023/01/15/TELEMMGLPICT000322063156_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?imwidth=680"
-        width: 680
-        height: 425
         isCached: true
   - title: "Drivers could face double the level of congestion on the roads if self-driving cars grow in popularity, report warns"
     excerpt: "Motorists could be stuck in congestion twice as bad as current levels if self-driving cars become common, a Government report warns. Delays may rise by up to 85 per cent from 2025 to 2060 in that ..."

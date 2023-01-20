@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-01-19"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -104,15 +104,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 24
-  - title: "Artificial Intelligence Consulting Service Market 2023 Top Companies & Business Development Report of 123 Pages by 2023 to 2029"
-    excerpt: "Jan (The Expresswire) -- \"Artificial Intelligence Consulting Service Market\" New Research Insights Report 2023 | New Report Spread Across| 123"
-    publishedDateTime: 2023-01-17T14:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-consulting-service-market-2023-top-companies-business-development-report-of-123-pages-by-2023-to-2029-2023-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
   - title: "Face Recognition Camera Market Size and Outlook 2023 | by Product Classification, Application Areas, Manufactures and Forecast to 2028"
     excerpt: "Jan 18, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Face Recognition Camera"
     publishedDateTime: 2023-01-18T05:24:00Z
