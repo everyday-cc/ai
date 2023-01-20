@@ -2,6 +2,49 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2022-11-07-how-pensioners-can-submit-life-certificate-through-face-recognition-facility.md",
+      "title": "How pensioners can submit life certificate through face recognition facility",
+      "excerpt": "Union Minister Jitendra Singh launched the nationwide campaign for November and urged all pensioners to avail the facility of face authentication technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/how-pensioners-can-submit-life-certificate-through-face-recognition-facility-11667799845560.html",
+      "originalUrl": "https://www.livemint.com/news/india/how-pensioners-can-submit-life-certificate-through-face-recognition-facility-11667799845560.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/11/07/600x338/Pensioners_1667802523496_1667802523707_1667802523707.PNG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/how-pensioners-can-submit-life-certificate-through-face-recognition-facility/amp-11667799845560.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/how-pensioners-can-submit-life-certificate-through-face-recognition-facility/amp-11667799845560.html",
+      "publishedDateTime": "2022-11-06T22:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-silver-alert-issued-for-missing-man-with-cognitive-illness-last-seen-in-northwest-austin.md",
       "title": "Silver Alert issued for missing man with cognitive illness last seen in northwest Austin",
       "excerpt": "AUSTIN (KXAN) — The Austin Police Department is asking for the public’s help in finding a man with a cognitive illness who was last seen Sunday in northwest Austin. A Silver Alert was ...",
@@ -1137,50 +1180,6 @@
         "AI Hardware",
         "IBM AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-robotics-engineering-week-to-address-critical-development-issues.md",
-      "title": "Robotics Engineering Week to address critical development issues",
-      "excerpt": "Robotics Engineering Week's sessions are focused on critical topics for robotics and automation professionals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/robotics-engineering-week-to-address-critical-development-issues/",
-      "originalUrl": "https://www.therobotreport.com/robotics-engineering-week-to-address-critical-development-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/11/featured-web-robotics-engineering-week.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-04T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

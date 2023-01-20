@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Has Nvidia won the AI training market?"
-    excerpt: "AI chips serve two functions. AI builders first take a large (or truly massive) set of data and run complex software to look for patterns in"
-    publishedDateTime: 2023-01-15T16:10:00Z
-    webUrl: "https://www.techspot.com/news/97272-has-nvidia-won-ai-training-market.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-15-image.jpg"
-        width: 1963
-        height: 1104
-        isCached: true
   - title: "Nvidia, Evozyne create generative AI model for proteins"
     excerpt: "Using a pretrained AI model from Nvidia, startup Evozyne has created two proteins with significant potential in healthcare and clean energy. A joint paper released today describes the process and the biological building blocks it produced."
     publishedDateTime: 2023-01-16T08:36:00Z

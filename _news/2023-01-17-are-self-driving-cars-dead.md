@@ -35,6 +35,20 @@ related:
         width: 345
         height: 230
         isCached: true
+  - title: "Human-Like Perception for Self-Driving Cars"
+    excerpt: "This ability is still lacking in the current algorithms that enable robots and self-driving vehicles to perceive their ... which is evaluated with the help of artificial intelligence. In this way, the vehicles are trained to identify other road users ..."
+    publishedDateTime: 2023-01-20T07:13:00Z
+    webUrl: "https://www.elektroniknet.de/international/human-like-perception-for-self-driving-cars.201546.html"
+    type: article
+    provider:
+      name: Elektronik Net
+      domain: elektroniknet.de
+    quality: 24
+    images:
+      - url: "https://cdn.weka-fachmedien.de/thumbs/media_uploads/images/1674120398-339-worjuklbi.jpg.600x315.png"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "wBB3nP4g467PP8MBi1wv/sOH0Xu+J1uvGSWHV5GS/v69p7Pbk6aRp+V2kzo0CYB99GN/h8LPzNv5CvgG3IqFEMyLbUEAzjBFQ12OerieIkdiJUl/YV9xxIbqGpZJhS3bTKrF/naiPZFkPNdMkzyprLxY65v03Iqna1qmSvwwOcxmnDo9JBURYIkKGe4QF5ZklAeYxf7Uvt5YC5kdyBpERQUWjjBWLBLG3Lx4MllSUUhp7vpKyNQaG5W1l+M5wewzXWIJqCslSkaaeTStd54ZejRqzCziljYLFcsBZnYQdsbmodC4n8qKng+uBIbKgvc5Sm7KbRPkSWnT8hO2ZDKCgvkhloJ0/xKDqIA40+ljDSTKmUn03G/mGeAn5OF1Ili967jSwljm23knV5eG70Cp8FPkS9fKNCSo7XNnRuMWC7QUmGZtwwOuz/t2b06WDqDjmGR1Ja5w5HrOkhlqwGk0j6N63woy3VgtsAuBx2uPWSr2ATOf2KkHGJzEz4Wb8Yqk5AXuS5TE01vZEUUuDWSmWw==;tHWdltCCGGhjx9b+qDAtaQ=="
 ---

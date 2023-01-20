@@ -33,14 +33,21 @@ images:
 
 related:
   - title: "M3GAN is already an icon. Could existing AI turn her into reality?"
-    excerpt: "\"M3GAN\" raises questions about humans over-relying on technology including artificial intelligence. AI experts say that while M3GAN's killer mechanics aren't likely to be replicated anytime soon, the AI that powers her is already on the way."
-    publishedDateTime: 2023-01-19T19:30:00Z
-    webUrl: "https://edition.cnn.com/2023/01/19/entertainment/m3gan-robot-uprising-cec/index.html"
+    excerpt: "M3GAN is an immaculately coiffed humanoid doll with killer instinct and distinct fashion sense. A robot that advanced and, frankly, insolent seems unlikely to take over the world anytime soon"
+    publishedDateTime: 2023-01-19T18:55:00Z
+    webUrl: "https://www.cbsnews.com/atlanta/news/m3gan-is-already-an-icon-could-existing-ai-turn-her-into-reality/"
+    ampWebUrl: "https://www.cbsnews.com/amp/atlanta/news/m3gan-is-already-an-icon-could-existing-ai-turn-her-into-reality/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/atlanta/news/m3gan-is-already-an-icon-could-existing-ai-turn-her-into-reality/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
+      name: CBS News
+      domain: cbsnews.com
+    quality: 57
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/19/17923699-d9ca-4364-a569-e697313918a3/thumbnail/1200x630/aba1fe5de4850107bd0ff4dce57761b5/gettyimages-1447567159.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "KuP/RT85V0fk0SgLw1s3ieQyVoZvzr2lw+zXfbC03y1RN5S0JWs68jtF2pE5iC7SL/SDj+7yeBfOqoCChLGkIoXkTLbId3OqplJ12Keh8dn+cV8bFGCqtZvkNF9xuPXiBxBbfFPvyAJbH+ddSSi/cMZ3AxgXHFLcp6kHWQ0vwrxs5vRxpaQ9fT7DPEUXFX1iIFZPXCDuNXM7pyoGRTgiVXEtdh+arkZ9L2tIM9ZTs5L88uTzHwLKTze7MB9uI1J59VrI/gLrU7IeZ9B/2hYeVamcK+cEe/abaEH8XThA3gOfULl8P2G+K9qZhmbsc7uhmBrTIaeeTabsd764L/+FL40gvSjRo4a0AkwsIAjodos=;wgKsGppOpIvGr2TNyN0NBg=="
 ---

@@ -181,6 +181,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Elon Musk oversaw video that exaggerated Tesla's self-driving capabilities"
+    excerpt: "Just want to be absolutely clear that everyone’s top priority is achieving an amazing Autopilot demo drive,” Musk said in the email. “Since this is a demo, it is fine to hardcode some of it, since we will backfill with production code later in an OTA update,"
+    publishedDateTime: 2023-01-20T08:10:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/industry/elon-musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/97166614"
+    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/industry/elon-musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/97166614"
+    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/industry/elon-musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/97166614"
+    type: article
+    provider:
+      name: ET Auto
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-97166614,imgsize-31024,width-1200,height-628,overlay-etauto/elon-musk-oversaw-video-that-exaggerated-tesla-s-self-driving-capabilities.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla alleged to have faked self driving video"
     excerpt: "Musk used it as evidence that his cars drove themselves  A 2016 video that Tesla used to promote its self-driving technology gave the vehicle features which were vapourware so that its owner Elon Musk as could prove that “Tesla drives itself."
     publishedDateTime: 2023-01-18T10:34:00Z
@@ -360,6 +376,6 @@ related:
       domain: dailydot.com
     quality: 15
 
-secured: "dZyTu1353hHTkZ+Y190MM31EwBU4ev6mEV02eiKNxR/PmDEhT9UtU5RodP0lU69klzqkCIEWmbFBrECLHlYd5RQzjW5Zk0+y/q8+1QSbTgTY9gCcuCEKraRW0Qyi5tMyik8UrtYnAn5SznDp1NI9blQ+Ty62vVUH9xuR9kml2EDasHtVH/AMHr3rA1jQAKuIeFKmLktxunpGZAfCtKTsCq001m31+cHdFfDRl+vR3R4QcAtqnvVDIjVHW4fCyLpOOgOq8zcC+T/k0vrLS6Z+v5ZzcPgEem3TrcceCUo7P51mE9yT4zS4bMTFUusFQCkdl5GYjXjbBMBpd0w9KkGUTu+yzBAJEPTT4IKsfh1q0ig=;qfIZC2p7yigRlkZAXVs/zw=="
+secured: "07Ssy73v7DPD84cuYFwj9y+MRKAUM6UC+Twy5hSrvdWgAp4uHtBlJ33TLTqXPevcbpgPtj7zQFWSvjcdNJTJKgeJIRv5OsjBBBA8ykAThvEW1+EZkzivVYjEgWWcOjew9mgU7is+ZuRirkk/FmO8TUP0VqiNxYcldXga7nCv5NXQLDfSrgAgSD3S8rkYTZDx7c//ealgLPUls3iJtP+C5mXBTINKq08M7868hxHxwiaW82JxNUAPkSO6qbyEL3GrE8/QVuQgAf3HC6XGXQVCxLF4T6c684Tkd2YePRL0LlaTy/c5oMtXC7Bl9bY9b1v+ecJQlqVIRiQ3054I/65rrTXBya2DpSgvdl+g19JTXQh7LHWA0RDClO1CEQd9d0iyV2Pu4Ye7a5wyFuLMNptHLzLVcdjOh+HsPlxuckrXq24dT2hzp25vg+fUhxE+u3NxYElJTix+EX1HtweFXOgtcq1S7usm9UJEFj/0DK7KPS0Hy5PwSpARFAiREhpzNF63S8bUl7o2CsuJO/5eXlnOTQ==;+VS1MpLeJchCJk6JllmpXg=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 138,
   "value": [
     {
+      "path": "_news/2022-09-15-microsofts-69b-activision-deal-faces-in-depth-uk-inquiry.md",
+      "title": "Microsoft's $69B Activision deal faces in-depth UK inquiry",
+      "excerpt": "Microsoft's $69 billion deal to buy video game company Activision Blizzard faces an in-depth antitrust investigation in Britain after the tech company refused to offer proposals to ease competition concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctinsider.com/news/article/Microsoft-s-69B-Activision-deal-faces-in-depth-17443968.php",
+      "originalUrl": "https://www.ctinsider.com/news/article/Microsoft-s-69B-Activision-deal-faces-in-depth-17443968.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/27/21/37/22878184/4/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ctinsider",
+        "domain": "ctinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-alexa-developer-raises-17m-for-unlikely-ai-startup.md",
       "title": "Alexa developer raises £17m for Unlikely AI startup",
       "excerpt": "A developer who previously worked on Alexa has raised £17m ($19.5m) for an Unlikely AI startup. The artificial intelligence startup company is in London and headed up by former Alexa boss William ...",
@@ -1067,40 +1110,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-more-driverless-cars-are-coming-to-austin-what-you-need-to-know.md",
-      "title": "More driverless cars are coming to Austin: What you need to know",
-      "excerpt": "Austin is about to see more driverless cars on its roadways, as another autonomous vehicle company says it is expanding into Austin by the end of the year. San Francisco-based Cruise ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statesman.com/story/business/technology/2022/09/14/cruise-driverless-cars-are-coming-to-austin-what-you-need-to-know/69492889007/",
-      "originalUrl": "https://www.statesman.com/story/business/technology/2022/09/14/cruise-driverless-cars-are-coming-to-austin-what-you-need-to-know/69492889007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T18:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Austin American-Statesman",
-        "domain": "statesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

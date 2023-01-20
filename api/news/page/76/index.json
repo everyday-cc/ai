@@ -2,6 +2,40 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2022-11-09-microsoft-365-apps-continue-to-be-the-most-exploited-cloud-services.md",
+      "title": "Microsoft 365 Apps Continue to be the Most Exploited Cloud Services",
+      "excerpt": "Microsoft 365 still gets the lion’s share. Attackers can choose to compromise a legitimate account and abuse multiple services to launch attacks from a trusted location, targeting that organization or even an external objective. Similarly, they can spin ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infosecurity-magazine.com/blogs/microsoft-apps-exploited-cloud/",
+      "originalUrl": "https://www.infosecurity-magazine.com/blogs/microsoft-apps-exploited-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T06:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Infosecurity-magazine.com",
+        "domain": "infosecurity-magazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-gbts-facial-and-body-recognition-patent-application-received-a-notice-of-allowance.md",
       "title": "GBT's Facial and Body Recognition Patent Application Received a Notice of Allowance",
       "excerpt": "(\"GBT/Tokenize\") received a notice of allowance for its facial and body recognition non-provisional patent application. The patent describes a pioneering technology for studying, identifying and recognizing features of an image,",
@@ -1077,60 +1111,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-introduction-to-machine-learning-for-marketing.md",
-      "title": "Introduction To Machine Learning For Marketing",
-      "excerpt": "Machine learning has been inducted into various domains for automation and insights. It has helped businesses grow by aiding decision-making based on data. Organizations create and deploy machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2022/11/08/introduction-to-machine-learning-for-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2022/11/08/introduction-to-machine-learning-for-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63690fe14a7cd7210342ae53/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2022/11/08/introduction-to-machine-learning-for-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/11/08/introduction-to-machine-learning-for-marketing/amp/",
-      "publishedDateTime": "2022-11-08T14:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing",
-        "Microsoft AI"
       ]
     }
   ],

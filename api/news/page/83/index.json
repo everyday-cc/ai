@@ -2,6 +2,49 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2022-11-02-researchers-show-how-network-pruning-can-skew-deep-learning-models.md",
+      "title": "Researchers show how network pruning can skew deep learning models",
+      "excerpt": "Computer science researchers have demonstrated that a widely used technique called neural network pruning can adversely affect the performance of deep learning models, detailed what causes these performance problems,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.html",
+      "originalUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/computer-code-3.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-network-pruning-skew-deep.amp",
+      "publishedDateTime": "2022-11-02T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-study-urges-caution-when-comparing-neural-networks-to-the-brain.md",
       "title": "Study urges caution when comparing neural networks to the brain",
       "excerpt": "Neural networks, a type of computing system loosely modeled on the organization of the human brain, form the basis of many artificial intelligence systems for applications such as speech recognition, computer vision, and medical image analysis. In the ...",
@@ -1047,49 +1090,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-researchers-corroborate-the-importance-of-exercise-for-cognitive-function.md",
-      "title": "Researchers corroborate the importance of exercise for cognitive function",
-      "excerpt": "A special issue of Brain Plasticity presents new research and insights on neural plasticity and the role of peripheral factors in cognitive health. At least a dozen peripheral factors have been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221102/Researchers-corroborate-the-importance-of-exercise-for-cognitive-function.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221102/Researchers-corroborate-the-importance-of-exercise-for-cognitive-function.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/87802400-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

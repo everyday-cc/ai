@@ -1,25 +1,29 @@
 ---
 category: news
 title: "M3GAN is already an icon. Could existing AI turn her into reality?"
-excerpt: "\"M3GAN\" raises questions about humans over-relying on technology including artificial intelligence. AI experts say that while M3GAN's killer mechanics aren't likely to be replicated anytime soon, the AI that powers her is already on the way."
-publishedDateTime: 2023-01-19T19:30:00Z
-originalUrl: "https://edition.cnn.com/2023/01/19/entertainment/m3gan-robot-uprising-cec/index.html"
-webUrl: "https://edition.cnn.com/2023/01/19/entertainment/m3gan-robot-uprising-cec/index.html"
+excerpt: "M3GAN is an immaculately coiffed humanoid doll with killer instinct and distinct fashion sense. A robot that advanced and, frankly, insolent seems unlikely to take over the world anytime soon"
+publishedDateTime: 2023-01-19T18:55:00Z
+originalUrl: "https://www.cbsnews.com/atlanta/news/m3gan-is-already-an-icon-could-existing-ai-turn-her-into-reality/"
+webUrl: "https://www.cbsnews.com/atlanta/news/m3gan-is-already-an-icon-could-existing-ai-turn-her-into-reality/"
+ampWebUrl: "https://www.cbsnews.com/amp/atlanta/news/m3gan-is-already-an-icon-could-existing-ai-turn-her-into-reality/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/atlanta/news/m3gan-is-already-an-icon-could-existing-ai-turn-her-into-reality/"
 type: article
-quality: 47
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CBS News
+  domain: cbsnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/19/17923699-d9ca-4364-a569-e697313918a3/thumbnail/1200x630/aba1fe5de4850107bd0ff4dce57761b5/gettyimages-1447567159.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "How soon will M3gan become reality? Robot ethicists weigh in"
@@ -39,6 +43,6 @@ related:
         height: 372
         isCached: true
 
-secured: "dRKg5bPtnN07nkM4ih+6uGYALhxF/sRK+sGedLKkmw8P1Aaf7LxaEVf9xL06QzIGvA9znpbgWwNcZf68m+ON9SeRpD5BCBFBCWb+U2nK/dRY+L2QztgxiblOKcbxrf4mjE83VfLBL8MOeiWD9Tf6N+5N3LiBEAJcRffT2jT438SBcNxUmQ1B1Iu4vz5lMGRy2o82wzhesTTvMZqE0SfntdXURJZWY5rX84bjwxaXxcC3oW6pxG9tssZgISC0au2YGiCMShyEX9QGLnANcVRrQDFdgG5xQu6ELuTxtyR0kM/5Y/WzeXHx4F+ERFYiEuKAmeup8AkdTDBKfdEfq+6Ev/iFog/FSi4Yh/hjtpm3zg6NCq72zOJHFC2cK299W1Cyu2xKA11+HRZxvIvoCvjVGg3TrpRDNbaBauVo3OyWtGeTNFxDM5PZeRJlq5FzqqRVSIYsdj+ZIkDY+2hF/shRrHGBl+hyosw9LkK91tAap6e+Eto2qDMwIhrBo39l4TPl3g6FSz/GPgGGjuCj9cG4iA==;fizNfJLXbR0mwC+XsX89OQ=="
+secured: "oX9vngkSyurF2xdJEY7AQ21ZouycH5DGV9gfYSJj6kHyHvCADP2yWQEd2f/buYEfsVn8Phz5nijGOOJ/gtMRrWnRg/UM/5tdFYKBjzk7UzrkOC/kEBi3lv2gRlc4GMyb9Qec/+j5ELJBXVjLicJowzIrT4YxOjWl/u7wjRx8GzPX+KCkKCV3LvPPCXqWMDlQa2h1AI9g2iu9pIKIgueIZEyl7UYOEgDa8PDit77vYyMS7NZgiPMFgLJdWck0OXTkfmNSCX5irjHeUfo2wgn+/Y6IV/wF9iT62I+6xK9vj5gd78kHTIkpyZ9qRgsTBZN/1DZRkbIk+SyLuzlkj6DQw0ri+MWfLfN/xgkaPmyzRoo=;QJrZ5V13TKOkbVO8IS6Q4g=="
 ---
 

@@ -2,6 +2,40 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-11-27-facial-recognition-can-help-conserve-seals-scientists-say.md",
+      "title": "Facial recognition can help conserve seals, scientists say",
+      "excerpt": "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ...",
+      "sourceUrl": null,
+      "webUrl": "https://buffalonews.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_a322b893-3a01-5a0e-8412-78110503a218.html",
+      "originalUrl": "https://buffalonews.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_a322b893-3a01-5a0e-8412-78110503a218.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T06:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-27-alphabets-deepmind-has-put-a-hiring-freeze-on-new-interns-canceling-one-applicants-interview-with-just-an-hours-notice.md",
       "title": "Alphabet's DeepMind has put a hiring freeze on new interns, canceling one applicant's interview with just an hour's notice",
       "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. DeepMind has imposed a freeze on hiring for new interns at the Alphabet-owned company. The AI firm told ...",
@@ -1095,40 +1129,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-15-best-self-driving-car-stocks-to-buy-now.md",
-      "title": "15 Best Self Driving Car Stocks To Buy Now",
-      "excerpt": "In this article, we will discuss the 15 Best Self Driving Car Stocks To Buy Now. You can skip our detailed analysis of the autonomous car industry and go directly to the 5 Best Self Driving Car ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/15-best-self-driving-car-124145938.html",
-      "originalUrl": "https://www.aol.com/news/15-best-self-driving-car-124145938.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

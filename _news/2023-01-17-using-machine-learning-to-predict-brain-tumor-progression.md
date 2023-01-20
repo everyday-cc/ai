@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Using machine learning to predict brain tumor progression"
-excerpt: "Researchers have created a computational model to predict the growth of deadly brain tumors more accurately. Researchers at the University of Waterloo have created a computational model to predict the growth of deadly brain tumours more accurately."
-publishedDateTime: 2023-01-16T20:45:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/01/230116112613.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/01/230116112613.htm"
+title: "Using Machine Learning to Predict Brain Tumor Progression"
+excerpt: "Combining machine learning technology with neuroimaging data, clinicians will be better able to fully analyze a patient's glioblastoma brain tumor and predict cancer progression."
+publishedDateTime: 2023-01-16T16:47:00Z
+originalUrl: "https://neurosciencenews.com/brain-cancer-machine-learning-22266/"
+webUrl: "https://neurosciencenews.com/brain-cancer-machine-learning-22266/"
 type: article
-quality: 64
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Neuroscience News
+  domain: neurosciencenews.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://neurosciencenews.com/files/2023/01/machine-learning-brain-tumor-neurosicences-public.jpg"
+    width: 770
+    height: 513
+    isCached: true
 
 related:
   - title: "Machine Learning Predicts Brain Tumor Progression"
@@ -81,6 +83,6 @@ related:
       domain: elifesciences.org
     quality: 13
 
-secured: "88BbBDLwEJKVdCompvCM3SpDokq7H1VwQvQMyp/wIDmcwqMEU4XJZwTpdhdQ8zlbY1tWXG9FMSj7qraJdKcU2J4HAE67iXmUKYfLsVGb8ig+/cBj7lLpGc0OCQYHNxb/Ql0PW6ZkQlqu9CG0UCgIC1/01tV19KoH+lodvmQBFq54JYZ6AADdsBkMPcfGwoK5Vm+KqAQgKN0o2c09CVxAZQZh0ffAJL036P5VhPFFd1e/C6PxKWzPb7JVMt3wf3VpxOB2FCz9YlvPcFP+b3F3z8QOoTv6VKXH+/1qcU2kVVjCFgti0wsm2e8Lzwzes2Qjv2+Pn5/ZFf2pNEEDDIEDUbqyqnGPxvJ/48dNxRgH/3I=;fzVhbPrvNMDqhsFIsbacKA=="
+secured: "2I/VBQ3k3zsXCyUfaxfgx9WBhiT3Y+XiXN32MODr9sSQsbdsErPgTXVFnp/DN5FibfcU1H7dX5WNOkH16bRAaGIHQn5PzzhiWiaB14s3kfxqaAcqPtdZTbb9sI/VyPi1YBZ65w59hCE4xjrCPNqzzRE5sONDOrqVrHuB6Ln4dPYPQHb05YYcYrNkMo0+5C2aaAfzcTvFyB832MkLnpoDnvxC6iMo9fF5Xxdmj8FUmzk2vD8v7Y2GUQUwRrplawpuGHoPl8Is4qmU4AQvj2dnSPbG/5lsylCqGvsEfFsY5T3bxz9fj8gwjDVMvgdtWCogeywg4oEZtLol5kq0lXd5/qHyxmdaBSRW7KJxoMJ+i+s=;Ckw0wKub4ZfmrYC9HtRuhQ=="
 ---
 

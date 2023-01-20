@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Human-Like Perception for Self-Driving Cars"
+    excerpt: "This ability is still lacking in the current algorithms that enable robots and self-driving vehicles to perceive their ... which is evaluated with the help of artificial intelligence. In this way, the vehicles are trained to identify other road users ..."
+    publishedDateTime: 2023-01-20T07:13:00Z
+    webUrl: "https://www.elektroniknet.de/international/human-like-perception-for-self-driving-cars.201546.html"
+    type: article
+    provider:
+      name: Elektronik Net
+      domain: elektroniknet.de
+    quality: 24
+    images:
+      - url: "https://cdn.weka-fachmedien.de/thumbs/media_uploads/images/1674120398-339-worjuklbi.jpg.600x315.png"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Are self-driving cars dead?"
     excerpt: "The focus for the past couple years has been on self-driving car technology. While that’s a trillion-dollar opportunity, it’s unclear when self-driving cars will actually hit the market. I performed deep research into self-driving car tech way back in 2015."
     publishedDateTime: 2023-01-16T19:47:00Z

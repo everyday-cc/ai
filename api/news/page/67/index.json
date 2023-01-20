@@ -2,6 +2,49 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2022-11-17-what-technologies-have-the-potential-to-transform-computer-vision-by-the-end-of-2022.md",
+      "title": "What technologies have the Potential to Transform Computer Vision by the end of 2022?",
+      "excerpt": "Everyone and everything evolves. However, this change is sometimes positive, while it might be hostile with each passing day. The same is valid for technology, but the change is positive. The rate of technological change is so rapid that it can astound and even confide the people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tech-critter.com/what-technologies-have-the-potential-to-transform-computer-vision-by-the-end-of-2022/",
+      "originalUrl": "https://www.tech-critter.com/what-technologies-have-the-potential-to-transform-computer-vision-by-the-end-of-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2022/11/ion-fet-QRawWgV6gmo-unsplash.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tech-critter.com/amp/what-technologies-have-the-potential-to-transform-computer-vision-by-the-end-of-2022/",
+      "cdnAmpWebUrl": "https://www-tech--critter-com.cdn.ampproject.org/c/s/www.tech-critter.com/amp/what-technologies-have-the-potential-to-transform-computer-vision-by-the-end-of-2022/",
+      "publishedDateTime": "2022-11-16T21:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech-critter.com",
+        "domain": "tech-critter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-notion-ai-wants-to-be-your-new-writing-assistant.md",
       "title": "Notion AI Wants To Be Your New Writing Assistant",
       "excerpt": "Aside from that, Notion AI can speed up the research, understanding, and editing process for writers. The AI can, for example, analyze and summarize articles, pulling out critical",
@@ -1124,49 +1167,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-nauticus-robotics-inc-kitt-q3-2022-earnings-call-transcript.md",
-      "title": "Nauticus Robotics, Inc. (KITT) Q3 2022 Earnings Call Transcript",
-      "excerpt": "Q3 2022 Earnings Conference Call November 14, 2022, 12:00 PM ET Company Participants Jeff Grampp - IR, Gateway Group Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4558475-nauticus-robotics-inc-kitt-q3-2022-earnings-call-transcript",
-      "originalUrl": "https://seekingalpha.com/article/4558475-nauticus-robotics-inc-kitt-q3-2022-earnings-call-transcript",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://it-online.co.za/2023/01/16/nvidia-evozyne-create-generativ
 webUrl: "https://it-online.co.za/2023/01/16/nvidia-evozyne-create-generative-ai-model-for-proteins/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Has Nvidia won the AI training market?"
-    excerpt: "AI chips serve two functions. AI builders first take a large (or truly massive) set of data and run complex software to look for patterns in"
-    publishedDateTime: 2023-01-15T16:10:00Z
-    webUrl: "https://www.techspot.com/news/97272-has-nvidia-won-ai-training-market.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-15-image.jpg"
-        width: 1963
-        height: 1104
-        isCached: true
   - title: "Exigent AI Admitted to NVIDIA Inception Program for Startups"
     excerpt: "Exigent AI is excited to announce that it has been selected to join NVIDIA Inception, the world's leading AI and data science startup program. NVIDIA Inception provides support to pioneering startups that leverage AI to transform different industries ..."
     publishedDateTime: 2023-01-17T09:31:00Z

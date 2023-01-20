@@ -2,6 +2,41 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-01-05-artificial-intelligence-and-machine-learning-in-2023.md",
+      "title": "Artificial Intelligence and Machine Learning in 2023",
+      "excerpt": "As 2022 drew to a close, once again the overblown hype surrounding fully automated driverless trucking ... significant—new kid on the artificial intelligence (AI) block is the family of natural ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aei.org/technology-and-innovation/artificial-intelligence-and-machine-learning-in-2023/",
+      "originalUrl": "https://www.aei.org/technology-and-innovation/artificial-intelligence-and-machine-learning-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Enterprise Institute",
+        "domain": "aei.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-syntiant-unveils-ndp115-neural-decision-processor-at-ces-2023.md",
       "title": "Syntiant Unveils NDP115 Neural Decision Processor at CES 2023",
       "excerpt": "Able to run speech inferences at 280 microwatts, the NDP115 is designed to natively run multiple deep neural networks on a variety of architectures, such as CNNs, RNNs and fully connected networks. Ideal for close-talk, far-field, keyword speech and audio ...",
@@ -1072,49 +1107,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-citizens-cz-smart-youq-watch-is-powered-by-nasa-research-and-ibm-watson-ai.md",
-      "title": "Citizen’s CZ Smart YouQ watch is powered by NASA research and IBM Watson AI",
-      "excerpt": "Citizen has revealed a smartwatch that’s cut through the CES 2023 noise thanks to an impressive double-whammy collaboration involving NASA and IBM’s AI-powered Watson Studio. Available in a few configurations ranging from casual and sport (costing from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.stuff.tv/hot-stuff/citizens-cz-smart-youq-watch-is-powered-by-nasa-research-and-ibm-watson-ai/",
-      "originalUrl": "https://www.stuff.tv/hot-stuff/citizens-cz-smart-youq-watch-is-powered-by-nasa-research-and-ibm-watson-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.stuff.tv/wp-content/uploads/sites/2/2023/01/Citizen-CZ-Smartwatch-CES-2023-Hot-Stuff-Lead.png",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.stuff.tv/hot-stuff/citizens-cz-smart-youq-watch-is-powered-by-nasa-research-and-ibm-watson-ai/amp/",
-      "cdnAmpWebUrl": "https://www-stuff-tv.cdn.ampproject.org/c/s/www.stuff.tv/hot-stuff/citizens-cz-smart-youq-watch-is-powered-by-nasa-research-and-ibm-watson-ai/amp/",
-      "publishedDateTime": "2023-01-04T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stuff",
-        "domain": "stuff.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

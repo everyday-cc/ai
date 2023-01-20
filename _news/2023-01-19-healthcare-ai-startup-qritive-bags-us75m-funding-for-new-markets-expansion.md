@@ -22,7 +22,7 @@ related:
   - title: "Healthcare AI Firm Qritive Raises $7.5M to Expand into New Markets"
     excerpt: "Qritive ( a leading healthcare AI startup has announced that they have raised $7.5M in a funding round led by MassMutual Ventures, supported by SEEDS Capital, the investment arm of Enterprise Singapore,"
     publishedDateTime: 2023-01-18T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-healthcare-ai-firm-qritive-raises-75m-expand-into-/2023/01/18/9745712.htm"
+    webUrl: "https://technews.tmcnet.com/news/2023/01/18/9745712.htm"
     type: article
     provider:
       name: TMCnet

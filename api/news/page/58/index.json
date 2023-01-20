@@ -2,6 +2,49 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-11-24-fintech-startup-galgal-raises-1-million-in-seed-funding.md",
+      "title": "Fintech startup Galgal raises $1 million in seed funding",
+      "excerpt": "Galgal Money is a new-age Mumbai-based fintech start-up that focuses on bringing efficient banking solutions to the youth, with the purpose to simplify money management and make savings as stress-free as possible. Through its AI system, the Galgal app is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding-11669279584176.html",
+      "originalUrl": "https://www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding-11669279584176.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/11/24/600x338/ddd54600-6bd3-11ed-a20b-ccf96773636d_1669279558141.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding/amp-11669279584176.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/fintech-startup-galgal-raises-1-million-in-seed-funding/amp-11669279584176.html",
+      "publishedDateTime": "2022-11-24T00:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-24-harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai.md",
       "title": "Harvey, which uses AI to answer legal questions, lands cash from OpenAI",
       "excerpt": "Harvey, a startup using AI to answer legal questions, has secured an investment from OpenAI as well as Google AI head Jeff Dean.",
@@ -1171,40 +1214,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-nih-funded-study-uses-ai-to-improve-language-for-children-with-cochlear-implants.md",
-      "title": "NIH-funded study uses AI to improve language for children with cochlear implants",
-      "excerpt": "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news",
-      "sourceUrl": null,
-      "webUrl": "https://sciencex.com/wire-news/430637008/nih-funded-study-uses-ai-to-improve-language-for-children-with-c.html",
-      "originalUrl": "https://sciencex.com/wire-news/430637008/nih-funded-study-uses-ai-to-improve-language-for-children-with-c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sciencex.com/wire-news/430637008/nih-funded-study-uses-ai-to-improve-language-for-children-with-c.amp",
-      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/430637008/nih-funded-study-uses-ai-to-improve-language-for-children-with-c.amp",
-      "publishedDateTime": "2022-11-23T01:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "sciencex",
-        "domain": "sciencex.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

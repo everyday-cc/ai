@@ -2,6 +2,58 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2022-10-27-how-ai-powers-sams-clubs-holiday-product-assortment.md",
+      "title": "How AI powers Sam’s Club’s holiday product assortment",
+      "excerpt": "“We have patented models around object detection which have roughly about 90% accuracy ... Club associates, he insists, love the inventory intelligence and item recognition technology. “Instead of having to manually find out all of these details ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-sams-club-uses-ai-to-get-pumpkin-pie-to-holiday-tables/",
+      "originalUrl": "https://venturebeat.com/ai/how-sams-club-uses-ai-to-get-pumpkin-pie-to-holiday-tables/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1132704475.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-sams-club-uses-ai-to-get-pumpkin-pie-to-holiday-tables/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-sams-club-uses-ai-to-get-pumpkin-pie-to-holiday-tables/amp/",
+      "publishedDateTime": "2022-10-26T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-tesla-is-reportedly-under-doj-criminal-probe-over-self-driving-claims.md",
       "title": "Tesla is reportedly under DoJ criminal probe over self-driving claims",
       "excerpt": "Tesla is reportedly under criminal investigation by the Department of Justice in the United States over self-driving claims.",
@@ -1164,58 +1216,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots.md",
-      "title": "LatticeFlow raises $12M to eliminate computer vision blind spots",
-      "excerpt": "LatticeFlow, a startup that was spun out of Zurich’s ETH in 2020, helps machine learning teams improve their AI vision models by automatically diagnosing issues and improving both the data and ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/26/latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots/",
-      "originalUrl": "https://techcrunch.com/2022/10/26/latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1382834268.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/26/latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/26/latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots/amp/",
-      "publishedDateTime": "2022-10-26T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

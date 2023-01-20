@@ -22,6 +22,85 @@ topics:
   - AI
 
 related:
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 19, 2023 (The Expresswire) -- Natural Language Processing For Healthcare And Life Sciences Market Size is projected to Reach Multimillion USD by 2029, In comparison to ..."
+    publishedDateTime: 2023-01-20T02:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Systems Market : Competitive Landscape and Analysis by Recent Trends 2023 to 2029"
+    excerpt: "A recent research report published by Precision Reports provides an overview of the \"Face Recognition Systems Market\" along with precise insights into potential future scenarios. The report suggests that this industry is expected to experience an annual ..."
+    publishedDateTime: 2023-01-19T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-competitive-landscape-and-analysis-by-recent-trends-2023-to-2029-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI and Machine Learning Operationalization Software Market is Taking Hike in Revenue Along With Top Key Players Profile and Forecast 2023 To 2028"
+    excerpt: "AI and Machine Learning Operationalization Software Market Size is projected to Reach Multimillion USD by 2029,"
+    publishedDateTime: 2023-01-18T02:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-and-machine-learning-operationalization-software-market-is-taking-hike-in-revenue-along-with-top-key-players-profile-and-forecast-2023-to-2028-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Healthcare AI Market: 2023 Competitive Weakness and Strengths, GAGR Status, and Global Share Forecast To 2029"
+    excerpt: "The report focuses on the Healthcare AI market size, segment size (mainly covering product type, application, and geography), competitor landscape, recent status, and development trends. Furthermore,"
+    publishedDateTime: 2023-01-18T05:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-competitive-weakness-and-strengths-gagr-status-and-global-share-forecast-to-2029-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+  - title: "Artificial Intelligence Voice Market by Product and Geography : Forecast and Analysis 2023 to 2029 with Top Countries Data"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence"
+    publishedDateTime: 2023-01-17T03:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-by-product-and-geography-forecast-and-analysis-2023-to-2029-with-top-countries-data-2023-01-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Data Science and Machine-Learning Platforms Market 2023 Top Companies & Business Development Report of 122 Pages by 2023 to 2029"
+    excerpt: "Jan (The Expresswire) -- \"Data Science and Machine-Learning Platforms Market\" New Research Insights Report 2023 | New Report Spread Across|"
+    publishedDateTime: 2023-01-17T14:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-2023-top-companies-business-development-report-of-122-pages-by-2023-to-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Size 2023 to Increase at 51.1% CAGR Between Forecast Years 2023 and 2027| 98 Report Pages"
     excerpt: "Jan (The Expresswire) -- \"Artificial Intelligence Market\" Report New Research Outlook Report 2023 | [In 2021, The global Artificial"
     publishedDateTime: 2023-01-17T17:49:00Z
@@ -31,15 +110,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 24
-  - title: "Global Face-swiping Payment Market Report 2022: Sector to Reach $11.9 Billion by 2028 at a CAGR of 17.4%"
-    excerpt: "The \"Global Face-swiping Payment Market Size, Share & Industry Trends Analysis Report By Type (Payment Equipment (POS Equipment and Kiosk) and Payment System), By Application"
-    publishedDateTime: 2023-01-16T12:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/n30427723/global-face-swiping-payment-market-report-2022-sector-to-reach-11-9-billion-by-2028-at-a-cagr-of-1"
+  - title: "Face Recognition Camera Market Size and Outlook 2023 | by Product Classification, Application Areas, Manufactures and Forecast to 2028"
+    excerpt: "Jan 18, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Face Recognition Camera"
+    publishedDateTime: 2023-01-18T05:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-camera-market-size-and-outlook-2023-by-product-classification-application-areas-manufactures-and-forecast-to-2028-2023-01-18"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
 
 secured: "fky7hePVEMuRL8nwx5G7hK4WsmJkUXM0H/aWDW3ggWC6Vl57E2oDreakOjOOg3POwbf6T/MDmKZoek1D0lI16B5EKyiYmz6aM4dG7nhI/1nOud+pcsxMOHuXlYJOnFKhJFJjaD3+FvLRH/SGMWdUhzAPeDoehyDGBVJVFHwAGM+BAs529Tnpzto/bQKZlvBOkDLv5nBqlXaydVfC6Ty0kUgF1nHhNlmr3M98IcZtSWCDY8DVWfVeUWoYdK0nGr94+JtvQK90TdvkvQuEJyGYOYFtWyVz3vBRRwjrmf+TSgW+C/0ixxxoI2C5I1wTvfiuCG7ZU9OdOgx1So0GsP7fza5MnGRyRfh20MokPyJ7/3k=;PdO0+c0+zwDOARQHpf4NzQ=="
 ---

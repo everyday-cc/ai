@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028-2023-01-16"
 type: article
 quality: 82
-heat: 262
+heat: 282
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In RegTech Market : Industry Analysis 2023 To 2028 based on Sales, Revenue, Size and Share"
+    excerpt: "Artificial Intelligence In RegTech Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-20T02:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-industry-analysis-2023-to-2028-based-on-sales-revenue-size-and-share-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -208,6 +222,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Media Market 2022 Industry Size, Share, Trends, Opportunities, Growth Analysis and Forecast to 2030"
+    excerpt: "The global Cognitive Media Market report covers detailed study with the underlying influencing factors for the variations in the industry growth trends. The report scope includes market analysis on regional as well as country level."
+    publishedDateTime: 2023-01-19T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-2022-industry-size-share-trends-opportunities-growth-analysis-and-forecast-to-2030-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

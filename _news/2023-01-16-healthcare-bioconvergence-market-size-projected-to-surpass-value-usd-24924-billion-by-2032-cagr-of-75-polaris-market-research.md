@@ -33,6 +33,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Global Face-swiping Payment Market Report 2022: Sector to Reach $11.9 Billion by 2028 at a CAGR of 17.4%"
+    excerpt: "The \"Global Face-swiping Payment Market Size, Share & Industry Trends Analysis Report By Type (Payment Equipment (POS Equipment and Kiosk) and Payment System), By Application"
+    publishedDateTime: 2023-01-16T12:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/n30427723/global-face-swiping-payment-market-report-2022-sector-to-reach-11-9-billion-by-2028-at-a-cagr-of-1"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "BxiCnNbi/Lg38aoxfhHzUdrcY/MByzHi8tOooOrtSCwkTEq3R/Ns0pqtMEwC+MBkw8aEs858gOBRbyGSZq6gNUHLKOaWEDP87omqZ8gTl9QP/oaOLuJnJEF9c/54kY+Qs27CIEfHiU2vsCs+o5LSXGRuYlUHtlixnSs0c4+pOFQn8bBysPH+Ix7TQF3eJX0IVAL1SQfZN1E2T/EoUD8hQOl4ohOcmQehnjgKmQlpw/E7u190INiDg1JCSGbLrINixHNhhhc4F+N2Ka8WCrxYaq2oQBzSh4sYR3PjbHx3cw1BMimz0fYjL3yMTxZfgb9myJIc/Artjsi6LvrV776j5tncftCAUNJ7Kx7yX1FBZAM=;PL/PUYsgw0TkpjIkJOmMEw=="
 ---

@@ -2,6 +2,58 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2022-11-30-honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars.md",
+      "title": "Honda Plans New Autonomous Features but Sees Long Road Ahead to Self-Driving Cars",
+      "excerpt": "The auto maker said it would focus for now on partially autonomous driving technology to improve safety, joining others that say fully self-driving cars aren’t ready for prime time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402",
+      "originalUrl": "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-676004/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-cogniac-named-a-leader-in-idc-marketscape-worldwide-general-purpose-computer-vision-ai-software-platforms.md",
       "title": "Cogniac Named a \"Leader\" in IDC MarketScape: Worldwide General-Purpose Computer Vision AI Software Platforms",
       "excerpt": "Cogniac Corporation (“Cogniac”), a leader in enterprise-class computer vision software, was identified as a “Leader” in the IDC MarketScape report: Worldwide General-Purpose Computer Vision AI Software Platforms 2022 Vendor Assessment.",
@@ -1067,49 +1119,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray.md",
-      "title": "Early research suggests promising use of AI to predict risk of heart attack or stroke using a single chest X-ray",
-      "excerpt": "Early research suggests promising use of AI to predict risk of heart attack or stroke using a single chest X-ray",
-      "sourceUrl": null,
-      "webUrl": "https://keyt.com/health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/",
-      "originalUrl": "https://keyt.com/health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://keyt.b-cdn.net/2022/11/hypatia-h_44d1a744c66563ee67e542a225dd4910-h_8fd481471df36eb8a520d96017fe985d-300.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T17:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KEYT",
-        "domain": "keyt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Artificial Intelligence Is Coming for Human Creativity"
-excerpt: "The history of psychology is full of claims about unique human cognitive abilities. Many of these claims fell away in the light of research findings on the cognitive capacities of other species. Self-awareness was one such capacity."
+excerpt: "Animal behaviorists have already disputed the uniqueness of human cognitive ability. Another blow to our hubris is now posed by the digital revolution, which not only exposes our cerebral limitations but also threatens human creativity."
 publishedDateTime: 2023-01-18T16:51:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
-webUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
 type: article
 quality: 39
 heat: -1
@@ -17,8 +17,8 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 related:
   - title: "Unveiling the Mystery of the Human Brain for AI Advancements"
@@ -36,6 +36,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Ap6tJOYKrsPPtRLUCqEfuuMCZCW0p9QAf11lz4tG16SHIKz1wXAQIV7LpmnDS14dNvYL+fG4hYUxLhgr4zurkY3aw50fbMUuPxB3LDvKKoEga1lR9Zn3ufE1LXcQFQWZ/mx4TIHf+n/nhLrURcY396JRA2ykpJF/J/VqNLna1q/klqjXhYhY8aGZ05n+5llsGAnUffQLMS5/z3b5Vir3FQBYqPT3VqiR2jciAGXZ2X/2R0ZdWNNwmNbMtBeF/jbXThSRtrcu04Xb9zS94DhOQDyoXytOeCvSBHZWNXhP7CJGaVipk+TPsyBL+nr7IuozyIBqtDhzV1tiJXM/wMF8T4yvqPCBwaxanXbnaEXbINvMkJMSm80zzWKZjEBL0JlM5pcqDzM46mENRStNxqxszOuLZXM9nQdz1lJsTqM3Yhph8EuTRuOPtPi1DOnBgceiSB6J4g/yAKSYXdMy6XSuo6dNK/65tM3XxbxxncfcazRWCK0kOEdpAn81hLbfc9DJ0pA0GRt0qbIwDNHJyuDqWQ==;V5RjYdHpNMTNle24xBajpg=="
+secured: "Y7Vu5GSNWPYr4kxkC3uZOKo+UyJ5cJEv4ugc1zkS59s8EEdCl6IQTHvfJMfRWzrTHFVmIUL5dac0H0CewI7lSjYIBw4z9Qz3h3ga2iYbXsJRcY1pUL/WB7NKeUCU0FDMlgsf8DuDuN8Qegc82CIyCrD6VkvKYEWnxyQZO6VhTAgOwCpTZ8vjT9KzW6j3BDNj+hywXPE/6FJ/IAePq0FMK5WLgGV6VuqKvWB8KI4bmr5izxgInyOHO4HmbIFCQfHGQPkYZX0aUt9vCTMqzarrx6k9m39Sty3ccI5ZgUuoYT9NlmcFnPp7JE5IQo1oLhQf6sErI1fuv0UiWzWFRWxNxMigM/DWt3LaXS1EvUwv97g8e325Bq9kYEqIN6DuD7TuWN5aaeqWDKtO6m3oX9Rk7eKqbAMO4Kcc3Ox32aWINoKrE798ZtsdbiNgSVCToukdgbqBDH23mQWXuZRZrt7lVx/v1enOJg23SoTGZVNOguvARUbQT5HyX70pn7oE9QV7VhXKrNOSwucNU8IcU1E6LQ==;UVFKL4dX/j+OQQCfiZA4tQ=="
 ---
 

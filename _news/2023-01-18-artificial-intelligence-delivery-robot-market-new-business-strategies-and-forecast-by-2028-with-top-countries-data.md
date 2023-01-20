@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In RegTech Market : Industry Analysis 2023 To 2028 based on Sales, Revenue, Size and Share"
+    excerpt: "Artificial Intelligence In RegTech Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-20T02:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-industry-analysis-2023-to-2028-based-on-sales-revenue-size-and-share-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market : Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2023 to 2029"
     excerpt: "Computer Vision Market\" Research Report 2023 is the professional market analysis study by 360 Research Reports"
     publishedDateTime: 2023-01-17T07:10:00Z
@@ -206,6 +220,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Media Market 2022 Industry Size, Share, Trends, Opportunities, Growth Analysis and Forecast to 2030"
+    excerpt: "The global Cognitive Media Market report covers detailed study with the underlying influencing factors for the variations in the industry growth trends. The report scope includes market analysis on regional as well as country level."
+    publishedDateTime: 2023-01-19T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-2022-industry-size-share-trends-opportunities-growth-analysis-and-forecast-to-2030-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

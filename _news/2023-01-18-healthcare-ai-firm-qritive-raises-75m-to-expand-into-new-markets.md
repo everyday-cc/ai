@@ -3,8 +3,8 @@ category: news
 title: "Healthcare AI Firm Qritive Raises $7.5M to Expand into New Markets"
 excerpt: "Qritive ( a leading healthcare AI startup has announced that they have raised $7.5M in a funding round led by MassMutual Ventures, supported by SEEDS Capital, the investment arm of Enterprise Singapore,"
 publishedDateTime: 2023-01-18T00:00:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-healthcare-ai-firm-qritive-raises-75m-expand-into-/2023/01/18/9745712.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-healthcare-ai-firm-qritive-raises-75m-expand-into-/2023/01/18/9745712.htm"
+originalUrl: "https://technews.tmcnet.com/news/2023/01/18/9745712.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/01/18/9745712.htm"
 type: article
 quality: 34
 heat: 34
@@ -29,6 +29,6 @@ related:
       domain: businesstimes.com.sg
     quality: 31
 
-secured: "KC03wadLJ76lEsGgjD1ByR2VAKf878l/oRWjr2mUdo42NL0honrNddP5dPUNCp8lUOrELVzSzg85UM3cyqtKZqE8OocGOxH1uROOgPECXmn3UUhgiCGWTZiPnMFB4H6/cSB/sjbgsh5ULZqxyvhLBPU4fuUebbraD7W6op93oN9BUo+758lmhDltB8usoq+Muy0o912hschy3if/4AOVjb2IK9uxp71zG+jfOldeJijF+Nq3JNCk9UwgcPJ5n2C+JbXerMcXb4rqJp6LXejgmqgYvdV5nKLMDukQZYHGB/q0Dm+c4JC7llK19E2H5RAFr/yTpH/MlxdLhcA91P9JVMNIQi951hROg84q/x2w+3Q=;GsUw7esqIenReIOB7JpOeg=="
+secured: "/xIPexFKZX36Q6uKl9I1QiXrk8DqxmUdekNP9Z+s1XbThdKp44k3pdfQUJzWsSqDP8Ph7A5qySFgXTmPsKsCuDEhNjb44AwMQlSBlm37dSmhb+3vPsWSoH2hzOmEQVy9+uqYlDsbD2y1yp8GW4ddiO58av2gFSMNmRbz90P1x8qH4ncYiFeSDwzo7kIdrSL54YfcZ3BVV/qxycFvVEN5ZZ/vZD5rUTXzQt6+JtsNNdUgRJoTroha/VHxfo1Ri8rix7cgh+N4cP0XmGEnevuCz3NePFRr4fou+iyX/YCFAeC6pmDvAtIowXW8KnSwffCHhSJoOtg93OIZkWZtUaVk/yM8euBSXTXkM8c5fOuuE00=;ijycJmezdjQvUvJ6GuF8Aw=="
 ---
 

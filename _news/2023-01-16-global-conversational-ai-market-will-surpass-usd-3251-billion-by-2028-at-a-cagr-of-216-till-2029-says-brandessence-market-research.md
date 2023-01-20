@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Global Face-swiping Payment Market Report 2022: Sector to Reach $11.9 Billion by 2028 at a CAGR of 17.4%"
+    excerpt: "The \"Global Face-swiping Payment Market Size, Share & Industry Trends Analysis Report By Type (Payment Equipment (POS Equipment and Kiosk) and Payment System), By Application"
+    publishedDateTime: 2023-01-16T12:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/n30427723/global-face-swiping-payment-market-report-2022-sector-to-reach-11-9-billion-by-2028-at-a-cagr-of-1"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
   - title: "Healthcare Bioconvergence Market Size Projected to Surpass Value USD 249.24 Billion By 2032 | CAGR of 7.5%: Polaris Market Research"
     excerpt: "Degree visibility, titled \"Healthcare Bioconvergence Market Share, Size, Trends, Industry Analysis Report, By Application (Drug"
     publishedDateTime: 2023-01-16T12:30:00Z
