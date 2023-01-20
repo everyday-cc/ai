@@ -2,6 +2,49 @@
   "page": 127,
   "value": [
     {
+      "path": "_news/2022-09-26-bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace.md",
+      "title": "Bosch SVENTA and Phantom Edge now available in AWS Marketplace",
+      "excerpt": "Bangalore: Bosch Global Software Technologies (BGSW), formerly known as Robert Bosch Engineering and Business Solutions (RBEI), and an Amazon Web Services (AWS) Advanced Consulting Partner, today anno",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace/",
+      "originalUrl": "https://indiaeducationdiary.in/bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace/",
+      "publishedDateTime": "2022-09-25T18:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-robots-and-artificial-intelligence.md",
       "title": "Robots and Artificial Intelligence",
       "excerpt": "Why DoD’s New Approach to Data and Artificial Intelligence Should Enhance National Defense The DoD’s updated efforts on artificial intelligence (AI) are requiring some disruptive ...",
@@ -1135,49 +1178,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-using-neural-networks-to-recognize-arthritis-in-an-mri-scan.md",
-      "title": "Using neural networks to recognize arthritis in an MRI scan",
-      "excerpt": "The team had only recently investigated whether neural networks could determine the type of arthritis using high resolution computer tomography images. They were successful. According to Prof.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-09-neural-networks-arthritis-mri-scan.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-09-neural-networks-arthritis-mri-scan.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/x-ray-hand.jpg",
-          "width": 1920,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-09-neural-networks-arthritis-mri-scan.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-neural-networks-arthritis-mri-scan.amp",
-      "publishedDateTime": "2022-09-23T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

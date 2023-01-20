@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox2detroit.com/news/artificial-intelligence-meets-beer-
 cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/artificial-intelligence-meets-beer-ai-crafts-recipe-for-new-atwater-brew-made-in-detroit.amp"
 type: article
 quality: 63
-heat: 73
+heat: 74
 published: true
 
 provider:

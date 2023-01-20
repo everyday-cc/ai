@@ -2,6 +2,40 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-12-12-botz-global-x-robotics-artificial-intelligence-thematic-etf.md",
+      "title": "BOTZ Global X Robotics & Artificial Intelligence Thematic ETF",
+      "excerpt": "The chart has 1 X axis displaying Time. Data ranges from 2021-12-09 00:00:00 to 2022-12-12 00:00:00. The chart has 1 Y axis displaying values. Data ranges from -50.35 to 3.4.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/symbol/BOTZ/charting",
+      "originalUrl": "https://seekingalpha.com/symbol/BOTZ/charting",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-deepminds-alphacode-can-outcompete-human-coders.md",
       "title": "DeepMind's AlphaCode Can Outcompete Human Coders",
       "excerpt": "DeepMind's AlphaCode model performed well against human coders in a programming competition, with a paper describing its overall performance as similar to that of a \"novice programmer\" with up to a year of training AlphaCode achieved \"approximately human-level performance\" and solved previously unseen natural language problems by forecasting code segments and generating millions of potential solutions.",
@@ -1087,58 +1121,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-amd-rdna-3-gpu-leaked-benchmarks-disappoint-some-gamers.md",
-      "title": "AMD RDNA 3 GPU leaked benchmarks disappoint some gamers",
-      "excerpt": "Switching to 3DMark FireStrike, the 7900 XTX overtakes the RTX 4080, scoring 18,853 compared to the Nvidia GPU on 17,294, with the 7900 XT behind on 16,915. And in 1440p for FireStrike ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/amd-rdna-3-gpu-leaked-benchmarks-disappoint-some-gamers",
-      "originalUrl": "https://www.techradar.com/news/amd-rdna-3-gpu-leaked-benchmarks-disappoint-some-gamers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/S9k9shDNxpyX28a5ooxiGV-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-10T04:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

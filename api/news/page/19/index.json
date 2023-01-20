@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-01-03-whats-next-in-2023-ai-evs-delivery-robots-and-more.md",
+      "title": "What's Next in 2023? AI, EVs, delivery robots and more",
+      "excerpt": "Smarter AI, electric cars for almost every budget, delivery robots — these are just some of the 2023 predictions from the Axios What's Next team. What did we miss? Give us a shout at whatsnext@axios.com.",
+      "sourceUrl": null,
+      "webUrl": "https://www.axios.com/2023/01/03/technology-trends-2023",
+      "originalUrl": "https://www.axios.com/2023/01/03/technology-trends-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.axios.com/btoyoHWNSqozUTpp3Ce87_yIdEA=/0x0:1920x1080/1366x768/2023/01/02/1672672089210.jpg",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-03-defensive-vs-offensive-ai-why-security-teams-are-losing-the-ai-war.md",
       "title": "Defensive vs. offensive AI: Why security teams are losing the AI war",
       "excerpt": "Google Cloud Platform and Microsoft Azure, are using AI and ML to improve security personalization and enforce least privileged access. These systems use predictive AI and ML to analyze patterns ...",
@@ -1029,40 +1072,6 @@
         "Facebook AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-02-tcs-wipro-indusnet-teams-win-microsofts-coding-hackathon.md",
-      "title": "TCS, Wipro, Indusnet Teams Win Microsoft's Coding Hackathon",
-      "excerpt": "Microsoft India on Monday announced the top three winning teams of the coding hackathon, shortlisted based on their innov",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105374526/TCS-Wipro-Indusnet-Teams-Win-Microsofts-Coding-Hackathon",
-      "originalUrl": "https://menafn.com/1105374526/TCS-Wipro-Indusnet-Teams-Win-Microsofts-Coding-Hackathon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-01T23:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

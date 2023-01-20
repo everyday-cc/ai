@@ -69,15 +69,6 @@ related:
         width: 1066
         height: 600
         isCached: true
-  - title: "Microsoft quietly revealed a new type of AI (it may quietly petrify you)"
-    excerpt: "You always thought this might be possible, but when a famous company says it's done it, it adds a little more scariness."
-    publishedDateTime: 2023-01-15T13:26:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-quietly-revealed-a-new-type-of-ai-it-may-quietly-petrify-you/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 65
 
 secured: "P9KvVPD4OGxv+Tbh5amL5qZ0O4OjIh2qahBG2OblZ1k7ljJfmsVBQ8NgFZ24f/PAvQiKO6SWg6HFmvehIlaYvtc6l6hCE5gVkR9p47OkhN0Z5j5G90nlOvSPn3vJpfm9byzC10sJLk6HSygYuSdP1Q8R+FtDpCbIcI1YTlrtlMg0hKeAboyyvXpfMZzXha5HfskGW6iqP317sxMuShBtb5lOC15ya4AiR3nmSjEIWQCaWhObnpbhG2Yx2B3LFXhr8jasrY0AZjA8vfJm/lR/YWzh4T9MlBmAaSZc0NIJEGDY1CTxai4U5zdCBvrywIpp/XtxtIiR+PUcCzmb4dRrTQZTfQBIoY+RPDHsURIzJpJ7sKi8s9NmYcYxn1JtgDQOs5f93Ln+MEWEkF8UlBcMwarrMdItVB2CbJ2OfcCSZXlw5Rda5P0yXmEY6UenIx4K9EriKjdUEB14RpmDX4V9VGSB1su7bVEGVOLYLylz4mp1oWvh9i5FWJIPr8q7OPVnkPsPUwdyv+IoPiQ2eQbO8Q==;mxdAmcx7SP5m4kBSOVKsYg=="
 ---

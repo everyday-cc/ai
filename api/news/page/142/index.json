@@ -2,6 +2,49 @@
   "page": 142,
   "value": [
     {
+      "path": "_news/2022-09-14-ai-eye-podcast-722-stocks-discussed-nyse-ai-nasdaqgs-goog-otc-mrnj.md",
+      "title": "AI Eye Podcast 722: Stocks discussed: (NYSE: $AI) (NasdaqGS: $GOOG) (OTC: $MRNJ)",
+      "excerpt": "Investorideas.com, a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news, deal tracker and advancements in artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investorideas.com/news/2022/artificial-intelligence/09131AI-GOOG-MRNJ.asp",
+      "originalUrl": "https://www.investorideas.com/news/2022/artificial-intelligence/09131AI-GOOG-MRNJ.asp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.investorideas.com/images/AI-Eye.jpg",
+          "width": 1280,
+          "height": 1206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investor ideas",
+        "domain": "investorideas.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022.md",
       "title": "Kyndi's Natural Language Search Solution Recognized as a KMWorld Top Trend-Setting Product of 2022",
       "excerpt": "SAN MATEO, Calif., Sept. 13, 2022 /PRNewswire/ -- Kyndi, the leading natural language processing (NLP) company, today announced that KMWorld, the premier knowledge management publication ...",
@@ -1054,49 +1097,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-natural-language-processing-nlp-market-research-2030-key-growth-factors-and-opportunity-analysis.md",
-      "title": "Natural Language Processing (NLP) Market Research, 2030 | Key Growth Factors And Opportunity Analysis",
-      "excerpt": "The high implementation cost is one of the major factors for businesses accessing natural language processing solutions through cloud-based deployments. PORTLAND , PORTLAND, OR, UNITED STATE ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104855393/Natural-Language-Processing-NLP-Market-Research-2030-Key-Growth-Factors-And-Opportunity-Analysis",
-      "originalUrl": "https://menafn.com/1104855393/Natural-Language-Processing-NLP-Market-Research-2030-Key-Growth-Factors-And-Opportunity-Analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-09/13/EP_e1e64image_story.jpeg",
-          "width": 738,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MENAFN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

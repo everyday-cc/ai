@@ -2,6 +2,57 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-11-03-data-quality-is-also-an-ai-problem.md",
+      "title": "Data Quality Is Also An AI Problem",
+      "excerpt": "Any AI processes that use traditional data sources will be just as dependent on those sources being of high quality as any other analytic processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/11/03/data-quality-is-also-an-ai-problem/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/11/03/data-quality-is-also-an-ai-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63122d3b4220a3347b2931c5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/11/03/data-quality-is-also-an-ai-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/11/03/data-quality-is-also-an-ai-problem/amp/",
+      "publishedDateTime": "2022-11-03T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-how-artificial-intelligence-is-transforming-out-of-home-advertising-for-small-businesses.md",
       "title": "How Artificial Intelligence Is Transforming Out-Of-Home Advertising For Small Businesses",
       "excerpt": "Like almost every part of our lives, artificial intelligence is transforming out-of-home advertising. Now, it could be a more efficient alternative for small businesses, especially brick-and-mortar companies.",
@@ -1096,49 +1147,6 @@
       "provider": {
         "name": "techxplore",
         "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-study-urges-caution-when-comparing-neural-networks-to-the-brain.md",
-      "title": "Study urges caution when comparing neural networks to the brain",
-      "excerpt": "Neural networks, a type of computing system loosely modeled on the organization of the human brain, form the basis of many artificial intelligence systems for applications such as speech recognition, computer vision, and medical image analysis. In the ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/study-urges-caution-wh.jpg",
-          "width": 717,
-          "height": 410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.amp",
-      "publishedDateTime": "2022-11-02T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

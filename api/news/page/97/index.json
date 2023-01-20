@@ -2,6 +2,58 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2022-10-20-enable-cicd-of-multi-region-amazon-sagemaker-endpoints.md",
+      "title": "Enable CI/CD of multi-Region Amazon SageMaker endpoints",
+      "excerpt": "Amazon SageMaker and SageMaker inference endpoints provide a capability of training and deploying your AI and machine learning (ML) workloads. With inference endpoints, you can deploy your models for real-time or batch inference. The endpoints support various types of ML models hosted using AWS Deep",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enable-ci-cd-of-multi-region-amazon-sagemaker-endpoints/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enable-ci-cd-of-multi-region-amazon-sagemaker-endpoints/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/07/Figure_1_Blog_latest-BLOG-Latest.jpg",
+          "width": 1831,
+          "height": 861,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T13:19:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language.md",
       "title": "Meta touts AI tool, developed partly in Israel, that translates spoken-only language",
       "excerpt": "Tech titan bills work as a 'step toward a future where simultaneous translation between languages is possible'; Tel Aviv R&D center developers among global Meta AI teams in project",
@@ -1084,49 +1136,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-targeting-ai-computer-vision-innodisk-launches-new-camera-module-series.md",
-      "title": "Targeting AI & Computer Vision, Innodisk Launches New Camera Module Series",
-      "excerpt": "and are expected to achieve outstanding results in the increasingly prosperous field of AI computer vision applications.\" Innodisk hopes that its latest expansion into the camera market alongside ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/targeting-ai-computer-vision-innodisk-launches-new-camera-module-series",
-      "originalUrl": "https://www.asiaone.com/business/targeting-ai-computer-vision-innodisk-launches-new-camera-module-series",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/pr-newswire_500_4_1128.jpg?h=7de12b8a&itok=RhGXQ4Eq",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

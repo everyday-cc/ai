@@ -2,6 +2,58 @@
   "page": 109,
   "value": [
     {
+      "path": "_news/2022-10-11-xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit.md",
+      "title": "XACT Robotics® Receives FDA Clearance for its ACE Xtend™ Remote Control Unit",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. HINGHAM, Mass., (BUSINESS WIRE) -- XACT Robotics®, developer of the world’s first and only comprehensive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/xact-robotics-receives-fda-clearance-for-its-ace-xtendtm-remote-control-unit-2022-10-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/xact-robotics-receives-fda-clearance-for-its-ace-xtendtm-remote-control-unit-2022-10-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-top-nine-ethical-issues-in-artificial-intelligence.md",
       "title": "Top Nine Ethical Issues In Artificial Intelligence",
       "excerpt": "Some of today’s tech giants believe that artificial intelligence (AI) should be more widely utilized. However, there are many ethical and risk assessment issues to be considered before this can become reality.",
@@ -1063,58 +1115,6 @@
         "AI in Finance",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-the-best-robot-vacuums-based-on-rigorous-testing.md",
-      "title": "The Best Robot Vacuums Based On Rigorous Testing",
-      "excerpt": "After weeks of testing, here are the best robot vacuums with the technology and features to make cleaning your floors a breeze.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/10/best-robot-vacuums/",
-      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/10/best-robot-vacuums/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633f5e6fd4326a3ec4de06ab/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

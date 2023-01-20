@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-12-02-counting-the-cost-of-training-large-language-models.md",
-      "title": "Counting The Cost Of Training Large Language Models",
-      "excerpt": "There are two drivers of Jasper’s business, which is what is leading it away from the coupled model parallel and data parallel world of distributed GPU AI training, which has some painful processes when it comes to chopping up data and tasks for an AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2022/12/01/counting-the-cost-of-training-large-language-models/",
-      "originalUrl": "https://www.nextplatform.com/2022/12/01/counting-the-cost-of-training-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.nextplatform.com/wp-content/uploads/2022/04/cerebras-wafer-logo.jpg",
-          "width": 670,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2022/12/01/counting-the-cost-of-training-large-language-models/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/12/01/counting-the-cost-of-training-large-language-models/amp/",
-      "publishedDateTime": "2022-12-01T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-02-is-the-gtx-1650-the-best-budget-gpu.md",
       "title": "Is the GTX 1650 the best budget GPU?",
       "excerpt": "Do I need a powerful GPU for Minecraft? One fact you should understand about Minecraft is that the CPU is actually the most important piece of hardware, if you don't want to spend a lot of money ...",
@@ -1411,6 +1368,50 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-11-19-nvidia-and-microsoft-working-to-bring-a-gpu-based-ai-supercomputer-to-the-cloud.md",
+      "title": "Nvidia and Microsoft working to bring a GPU-based, AI supercomputer to the cloud",
+      "excerpt": "Generative AI models prove helpful for many applications. Machine learning algorithms can create uncanny imagery or predict source code from the future, often negatively swaying public",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/96703-nvidia-microsoft-working-bring-gpu-based-ai-supercomputer.html",
+      "originalUrl": "https://www.techspot.com/news/96703-nvidia-microsoft-working-bring-gpu-based-ai-supercomputer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T11:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI",
         "AI Hardware"
       ]

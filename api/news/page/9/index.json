@@ -2,6 +2,48 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-01-10-conversational-ai-startup-nlx-raises-usd-46m-to-boost-expansion-and-product-development.md",
+      "title": "Conversational AI startup NLX raises USD 4.6M to boost expansion and product development",
+      "excerpt": "NLX Inc., startup specializing in conversational AI, announced, it has raised USD 4.6M in additional funding to continue its market expansion",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/conversational-ai-startup-nlx-raises-usd-4-6m-to-boost-expansion-and-product-development/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/conversational-ai-startup-nlx-raises-usd-4-6m-to-boost-expansion-and-product-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/01/Conversational-AI-startup-NLX-raises-USD-4.6M-to-boost-expansion-and-product-development.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/conversational-ai-startup-nlx-raises-usd-4-6m-to-boost-expansion-and-product-development/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/conversational-ai-startup-nlx-raises-usd-4-6m-to-boost-expansion-and-product-development/amp/",
+      "publishedDateTime": "2023-01-10T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
       "excerpt": "Artificial intelligence (AI) is already a leading technology ... The company's Amazon Web Services (AWS) holds the largest cloud market share with 34% right now. AWS offers a myriad of AI-based ...",
@@ -1079,49 +1121,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-this-lawsuit-against-microsoft-could-change-the-future-of-ai.md",
-      "title": "This lawsuit against Microsoft could change the future of AI",
-      "excerpt": "With ChatGPT, artificial intelligence and what it can do is suddenly all the rage. But an intellectual property lawsuit against Microsoft could undermine the future of AI before it gets off the ground.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.html",
-      "originalUrl": "https://www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2015/09/lawsuit-judge-law-court-decision-sued-100614065-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.amp.html",
-      "publishedDateTime": "2023-01-09T23:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

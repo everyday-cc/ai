@@ -9,8 +9,8 @@ ampWebUrl: "https://www.koin.com/news/meet-tori-ai-for-your-fast-food-order/amp/
 cdnAmpWebUrl: "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/news/meet-tori-ai-for-your-fast-food-order/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: KOIN 6
@@ -43,15 +43,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "AI might make it possible for you to talk to your pet"
-    excerpt: "Many of us communicate with our pets in human terms making a futile attempt to make them understand what we are saying while also guessing what they are trying to say to us. Although we think it"
-    publishedDateTime: 2023-01-15T13:16:00Z
-    webUrl: "https://www.thenews.com.pk/latest/1030954-ai-might-make-it-possible-for-you-to-talk-to-your-pet"
-    type: article
-    provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 19
 
 secured: "/p6ofLjmo1oYejevSxjn+Sja2yygnFdTgO7DkHYfyS9yVZliHuqcK+iOxSPH5zc534vF9O20T+g44lDNfW8oEZBWFvY1NVNj2SxjpImNolsmywK9CFfm70smsWDtOEq7JMtCtx1mbZ7tG0RyZdUFnaFjlNYn1zNUdoKYFOfGrPqcghR8G+05G2CUKZ0y94ibWa6Pxn8x/Xr7kgFwm49hqWmAK7ChJNMNsL0k3VynZ/+2p3Dd79w/Eaz4Fpwfr1W4H+ETJIWU0Juu2FUUTt3Qd3V44nAySzHuAZFPK5RD3zPuPbO7j4mkuURgUKxuJjr8OrFHmOE316XFfZw9Pv0QCU3O0yQX3c9qWh2EFQDEN73yNsGsOLp6dwhDGaPTDC4SH1ds1Wwqg+ssycLguAl6h4UfeZN6caqWnGvjxyxc5D4dp8ffcL+/rLHQOgLv3gMrgw34WqMv7i/qnTEfgPp+swQLnPoiuAJHMmzsviHg3TG/2Ug1aMy9b+w4xoBL3RgV6ewUtsWm6MxAyWDlhwPuKw==;d+Tk7Oud3CgmIy41Wfn8SA=="
 ---

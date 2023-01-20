@@ -43,22 +43,6 @@ related:
         width: 553
         height: 276
         isCached: true
-  - title: "Role Playing Via Generative AI ChatGPT Conjures Up Mental Health Questions, Stirring AI Ethics And AI Law Scrutiny"
-    excerpt: "On a markedly relevant basis, these hefty matters bring forth some significant issues underlying AI Ethics and AI Law. Should AI developers be employing appropriate Ethical AI precautions when devising generative AI that can seemingly engage vividly in ..."
-    publishedDateTime: 2023-01-15T13:02:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/15/role-playing-via-generative-ai-chatgpt-conjures-up-mental-health-questions-stirring-ai-ethics-and-ai-law-scrutiny/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63c37f734794d6bc1e964a47/0x0.jpg?format=jpg&crop=2325,1307,x158,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Davos 2023: CEOs buzz about ChatGPT-style AI at World Economic Forum"
     excerpt: "Generative artificial intelligence, tech that can invent virtually any content someone can think up and type into a text box, is garnering not just venture investment in Silicon Valley but interest in Davos at the World Economic Forum's annual meeting this week."
     publishedDateTime: 2023-01-17T03:04:00Z
@@ -171,6 +155,22 @@ related:
       - url: "https://static.independent.co.uk/2022/05/17/10/deepmind%20ai%20artificial%20general%20intelligence.jpg?quality=75&width=1200&auto=webp"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Worried ChatGPT will steal your job? You’ll have to out-think artificial intelligence"
+    excerpt: "Does ChatGPT really come across as human? If it can do Task X, could it also do Task Y? And, perhaps most importantly: How frightened should I be of this thing taking my job? Such questions can be amusing and addictive,"
+    publishedDateTime: 2023-01-20T03:59:00Z
+    webUrl: "https://www.cityam.com/worried-chatgpt-will-steal-your-job-youll-have-to-out-think-artificial-intelligence/"
+    ampWebUrl: "https://www.cityam.com/worried-chatgpt-will-steal-your-job-youll-have-to-out-think-artificial-intelligence/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/worried-chatgpt-will-steal-your-job-youll-have-to-out-think-artificial-intelligence/?amp=1"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 52
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2023/01/GettyImages-1246349266.jpg?w=594&h=396&crop=1"
+        width: 594
+        height: 396
         isCached: true
   - title: "What generative AI means for brands—a marketing guide to ChatGPT, DALL-E and other artificial intelligence"
     excerpt: "To be fair, the technology has been used in ad tech for years, but generative AI, a subtype of artificial intelligence that has obvious—and fun—applications, has instantly changed how marketers are preparing for adoption."

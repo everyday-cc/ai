@@ -2,6 +2,40 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2022-12-09-us-regulators-sue-to-block-microsofts-69b-activision-acquisition.md",
+      "title": "US regulators sue to block Microsoft's $69B Activision acquisition",
+      "excerpt": "United Kingdom and European Union regulators are also looking to probe the acquisition, but the FTC is the first agency to formally challenge it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/seattle/news/2022/12/08/microsoft-ftc-activision-lawsuit-block.html",
+      "originalUrl": "https://www.bizjournals.com/seattle/news/2022/12/08/microsoft-ftc-activision-lawsuit-block.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-new-research-shows-empowering-advertisements-fall-short-in-cognitive-tests.md",
       "title": "New research shows 'empowering' advertisements fall short in cognitive tests",
       "excerpt": "Those that neither mentioned empowerment nor focused on women's physical beauty—think commercials for Apple, Geico, Allstate and Microsoft—were designated as low on both metrics. After viewing ...",
@@ -1078,58 +1112,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-four-person-dev-team-gets-apples-m-series-gpu-working-in-linux.md",
-      "title": "Four-person dev team gets Apple’s M-series GPU working in Linux",
-      "excerpt": "For the brave people running Linux on Apple Silicon, their patience has paid off. GPU drivers that provide desktop hardware acceleration are now available in Asahi Linux, unleashing more of the M ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2022/12/four-person-dev-team-gets-apples-m-series-gpu-working-in-linux/",
-      "originalUrl": "https://arstechnica.com/gadgets/2022/12/four-person-dev-team-gets-apples-m-series-gpu-working-in-linux/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/asahi1-800x450.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2022/12/four-person-dev-team-gets-apples-m-series-gpu-working-in-linux/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2022/12/four-person-dev-team-gets-apples-m-series-gpu-working-in-linux/amp/",
-      "publishedDateTime": "2022-12-08T02:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

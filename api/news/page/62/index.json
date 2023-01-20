@@ -2,6 +2,58 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2022-11-21-ambient-computing-is-at-the-heart-of-the-frictionless-economy.md",
+      "title": "Ambient Computing Is At The Heart Of The Frictionless Economy",
+      "excerpt": "The aim is to remove the friction in using technology and, in particular, to help users move away from screens and scanning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632dbbaa69b953ca837d2c1f/0x0.jpg?format=jpg&crop=5700,3206,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/amp/",
+      "publishedDateTime": "2022-11-21T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-21-speech-and-voice-recognition-technology-market-global-industry-analysis-size-share-growth-trends-and-forecast-2022-2028.md",
       "title": "Speech and Voice Recognition Technology Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028",
       "excerpt": "The market research report revolves around the increased awareness of environmental safety because of which the \" Speech and Voice Recognition Technology market \" is growing. The positive attitude of society towards environmental safety is generating the need for the existence of the Speech and Voice Recognition Technology market.",
@@ -1096,58 +1148,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-20-why-employee-recognition-is-more-crucial-than-ever.md",
-      "title": "Why Employee Recognition Is More Crucial Than Ever",
-      "excerpt": "Employee recognition has never mattered more than in today’s workplace. That’s because employees want to feel valued—especially in the context of remote working. And when they don’t ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carolinecastrillon/2022/11/20/why-employee-recognition-is-more-crucial-than-ever/",
-      "originalUrl": "https://www.forbes.com/sites/carolinecastrillon/2022/11/20/why-employee-recognition-is-more-crucial-than-ever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62602bba96f40df576fc46ac/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carolinecastrillon/2022/11/20/why-employee-recognition-is-more-crucial-than-ever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecastrillon/2022/11/20/why-employee-recognition-is-more-crucial-than-ever/amp/",
-      "publishedDateTime": "2022-11-19T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

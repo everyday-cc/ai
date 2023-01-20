@@ -9,7 +9,7 @@ ampWebUrl: "https://www.manilatimes.net/2023/01/17/opinion/columns/the-advantage
 cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594/amp"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "http://www.concordmonitor.com/getattachment/5a661fd6-3ca6-4a5e-b83c-8d52d2fd9a45/attachment.aspx"
         width: 1463
         height: 500
+        isCached: true
+  - title: "The AI Magic Show"
+    excerpt: "It felt, in some contexts, and especially upon first contact, as though it could actually participate in something like conversation. What many users suggested felt truly magical, however, were the hints at the underlying model’s broader capabilities."
+    publishedDateTime: 2023-01-18T16:00:00Z
+    webUrl: "https://nymag.com/intelligencer/2023/01/why-artificial-intelligence-often-feels-like-magic.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 37
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/089/f6b/5a8faa10717620809477ac526efa1a97f0-chat-gpt-magic-mosh.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "3Wkdv4FHvRCAUn+hC4NGVoobPLY7O6C4w8Sv7ZSjk7f/9ev0XrthFr1/376o/Q6UJ73aCatDIwiDPNjxQIfHcqZzYW6rv/26bC0bfQPRngDAw21TcLhHgAksPTOASULfBxX/y3KcoXQfk6t0bILavTX9ect0qc9IgT6OwgMG0UmpurPQrwYpPHEsL4QDiDe/FQZKQSiD7UmSyBf1s28LVwhvvL4w7m49ozl0LevMaujvfQSzYzHHln8DBmNP/boTdMpdH4F9883aV9jSxuLKG8S6fUXCchUGk3mi/Vg9mQPRs31V/dCiP7ilNtvOzxr+X9wso6omv+pWlyPcR1ishU9QLGuLdon3pJCHIzW2a6J/xiafQ8I6AqZh6L8Tc8rJo/4hHSis50ieajHYkSAtQY4CnG8+8GhsOqRHvSvKvgVsPyJyVnKqq//BqbF6qSqNM4dIpLR+0Q5cOSuZtffYzTS7/gc0ihtiymc/Ic7SbBLXcxv37e4rWb2BT5Oo1/ztOtnSwWBN0aJ9RC9RthpNow==;rTT4XqZPo0RS/U7sgUfMrg=="

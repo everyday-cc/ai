@@ -24,60 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "What Jobs Are Available In Artificial Intelligence? How To Make A Career In This AI Boom"
-    excerpt: "From research to consulting, there will be an array of job opportunities across an even broader array of market sectors where the core skill set requires an expertise in the field of artificial intelligence."
-    publishedDateTime: 2023-01-15T14:45:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/01/15/what-jobs-are-available-in-artificial-intelligence-how-to-make-a-career-in-this-ai-boom/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2023/01/15/what-jobs-are-available-in-artificial-intelligence-how-to-make-a-career-in-this-ai-boom/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/15/what-jobs-are-available-in-artificial-intelligence-how-to-make-a-career-in-this-ai-boom/amp/"
+  - title: "The advantages of artificial intelligence (AI)"
+    excerpt: "DURING the last two months or so, there has been much discussion around the world regarding the potential benefits and threats in the fast development in recent years of"
+    publishedDateTime: 2023-01-16T16:08:00Z
+    webUrl: "https://www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594"
+    ampWebUrl: "https://www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594/amp"
+    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 76
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63c21d9ee418e8eb7b964a4f/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/01/17/148178.jpg"
         width: 1200
-        height: 754
+        height: 900
         isCached: true
-  - title: "Where Is The Best Place To Run AI?"
-    excerpt: "Uploading vast amounts of data to the cloud can often introduce very high latency, in many cases surpassing hundreds of milliseconds, which can seriously impair operations to the point of rendering them ineffectual at best and total wastes of time and money at worst."
-    publishedDateTime: 2023-01-17T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/amp/"
+  - title: "Granite Geek: The advancing language of AI"
+    excerpt: "Hands up, anybody who is old enough to remember ELIZA.That “natural language” program came out of MIT in the mid-1960s and caused a flurry of interest by creating text conversations online that fooled some people into thinking they were dealing with"
+    publishedDateTime: 2023-01-16T22:04:00Z
+    webUrl: "https://www.concordmonitor.com/ChatGPT-college-essay-49507670"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Concord Monitor
+      domain: concordmonitor.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63c15e4efdaea7ad1989b8c5/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How AI is giving a boost to recruiting for the jobs that are toughest to fill"
-    excerpt: "As employers struggle to fill vacant jobs, artificial intelligence (AI)-powered recruiting and human resources tools can help."
-    publishedDateTime: 2023-01-18T13:30:00Z
-    webUrl: "https://venturebeat.com/ai/how-ai-is-giving-a-boost-to-recruiting-for-the-jobs-that-are-toughest-to-fill/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
-  - title: "The AI revolution is upon us. These are the jobs at risk and in demand"
-    excerpt: "Artificial intelligence is no longer the stuff of science fiction, and its impact on the workforce will be profound. Here's what you need to know."
-    publishedDateTime: 2023-01-15T18:49:00Z
-    webUrl: "https://www.sbs.com.au/news/article/the-ai-revolution-is-upon-us-these-are-the-jobs-at-risk-and-in-demand/izjijemns"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 37
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/25d178f/2147483647/strip/true/crop/6720x3780+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F1b%2Faf%2Fa15213444e4493034eaf66b85282%2Fgettyimages-1314579933.jpg"
-        width: 1280
-        height: 720
+      - url: "http://www.concordmonitor.com/getattachment/5a661fd6-3ca6-4a5e-b83c-8d52d2fd9a45/attachment.aspx"
+        width: 1463
+        height: 500
         isCached: true
 
 secured: "nNQ6BnTRfUDf4kr9gLjfqYNu4YTFTTu/3lKnFnScHLY8Rv8BE7/mAQlGR1b5akKnzNShb5W9XeAJnJiFlM1qSw/pw4P00nCtsPK6iJSDlVGjfZu6Xqo3kg3kTcqDdnDpPqmtDfclPQ6Il/Mimmtzb/bmvjSK1QEKNJmyQ/p5z1WUN52FSU01N4rGKYpKPIS4j914H+gDqDQZAfzUH0G8hIZcCm7lZ4l8W6UjrjKvLMy8YvoG7bL2t3N8DZqRlGdqlia/Yurd7m22JpMNNY3NXgPtQjPut+2xw5m1ug/CciW2ocUgRJBcBM4JmoBc4QXj8jWC0enl4pA0QN/n6BEeZffvdPqwUwaXix4ua7Tz8iYEF8/WlinA+8UoTdk//PC3XT1aNBq+Pul8tQbOFYFlYLRn0pwbKDIi8egAXXeIISEfiJ0DcMVdFd8Hp0STK35zXMC4iFWjw2u7KRJtIET9x5appzKwERCCBtNPjbRkeeRBHkbl4dbREKCuwulhy41masjj4LDIrkAkVnn19acqAw==;ldaSY5LBEODVw8q0H/gmcw=="

@@ -2,6 +2,39 @@
   "page": 138,
   "value": [
     {
+      "path": "_news/2022-09-15-alexa-developer-raises-17m-for-unlikely-ai-startup.md",
+      "title": "Alexa developer raises £17m for Unlikely AI startup",
+      "excerpt": "A developer who previously worked on Alexa has raised £17m ($19.5m) for an Unlikely AI startup. The artificial intelligence startup company is in London and headed up by former Alexa boss William ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/alexa-developer-raises-17m-for-unlikely-ai-startup/article_74a4913e-6167-5aeb-afe7-590e53db2d5a.html",
+      "originalUrl": "https://www.victoriaadvocate.com/alexa-developer-raises-17m-for-unlikely-ai-startup/article_74a4913e-6167-5aeb-afe7-590e53db2d5a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals.md",
       "title": "Our commitment on using AI to accelerate progress on global development goals",
       "excerpt": "I joined Google earlier this year to lead a new function: Technology &amp; Society. Our aim is to help connect research, people and ideas across Google to shape the future of our technology innovations and their impact on society for the better. A key area of focus is AI, a field I have studied and immersed",
@@ -1069,61 +1102,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans.md",
-      "title": "Perceptron: AI that lights up the moon, improvises grammar and teaches robots to walk like humans",
-      "excerpt": "In this edition of Perceptron, TechCrunch's semiregular review of AI research, we take a look at cutting-edge robotics, moon-scanning tech, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/",
-      "originalUrl": "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1160995648.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/amp/",
-      "publishedDateTime": "2022-09-14T17:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "Computer Vision",
-        "Google AI",
-        "AI Hardware"
       ]
     }
   ],

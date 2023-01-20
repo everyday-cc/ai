@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thequint.com/amp/story/neon/social-buzz/ai-children-avat
 cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/neon/social-buzz/ai-children-avatar-indian-cricketers-virat-kohli-sachin-tendulkar-ms-dhoni-rohit-sharma"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Artist Uses Artificial Intelligence To Create Visuals, Predict Delhi's Battle With Pollution In Future; Netizens Shocked"
-    excerpt: "If the pollution condition in Delhi remains the same for an extended time, the life of people will be immensely affected. Predicting the same, an artist used AI to visualise the national"
-    publishedDateTime: 2023-01-15T14:03:00Z
-    webUrl: "https://thelogicalindian.com/trending/artist-shows-delhis-battle-with-pollution-in-future-picture-generated-from-artificial-intelligence-39876"
-    type: article
-    provider:
-      name: The Logical Indian
-      domain: thelogicalindian.com
-    quality: 0
 
 secured: "4i1LiqI+7F3TQT6VQeE8MyeKUzqP4+kO8mxO7iuQwxrnYao+PExi8H8k2vHtyi2XTgqXPzU8uzM+FrzKPBydn6raDAu+Os/3u58dByBmXZrVFxR4e9szj7e8IJarg4yZCnRLt/5JWK1NRX1vLylxk6amPHglPbNeq6Y1EE8Dx4xP/PdnSd+seNDdbCpPg3yS80f+S+hQgQ0sVABWOpMM6a//AKR5N+e2tEFAVP6TkI2rjwyEnlhc0xbcPxUtBcalfr4C5C5FmvV4gBYX6ve9Y5i6OPX+UsTY3VrqXQtPBHRkr7WfSL27gDF1GuD9+Lx9NeOcH1795VjlHrarRq1s/MNbT1vmB0LNeIh0WjzuRrwNYqlxhOjkHxsAkIqGB1znieYx9TfbIZFF1NcvHAKA3S7FfSk3dwgf/om/QnbZuCwO4W9zwH9iWQV2Loi1qV+x0nRpHm+1eyP6IjXylQCGlxyUUJRrZGsHo5A5UhwoiHcFVsMBzzyHfi+OqTkaIW6VmW6/ZEeJiDdpJQJDCpsTSQ==;4nVcZHWX2Cl/HM4D0R0efw=="
 ---

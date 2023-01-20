@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Tesla video promoting self-driving was staged, engineer testifies"
-excerpt: "The video, which remains archived on Tesla’s website, was released in October 2016 and promoted on Twitter by CEO Elon Musk as evidence that “Tesla drives itself.”"
-publishedDateTime: 2023-01-17T23:01:00Z
-originalUrl: "https://www.autonews.com/regulation-safety/tesla-video-promoting-self-driving-was-staged-engineer-testifies"
-webUrl: "https://www.autonews.com/regulation-safety/tesla-video-promoting-self-driving-was-staged-engineer-testifies"
+excerpt: "A 2016 video that Tesla used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior engineer."
+publishedDateTime: 2023-01-17T21:52:00Z
+originalUrl: "https://www.aol.com/finance/tesla-video-promoting-self-driving-225249712.html"
+webUrl: "https://www.aol.com/finance/tesla-video-promoting-self-driving-225249712.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/zzzztesla.jpg"
-    width: 1200
-    height: 630
+  - url: "https://media.zenfs.com/en/reuters-finance.com/be3c9b4347adbed001c9d88effd27c4a"
+    width: 800
+    height: 536
     isCached: true
 
 related:
@@ -360,6 +360,6 @@ related:
       domain: dailydot.com
     quality: 15
 
-secured: "Ud169a8WcmjorWxQ6dtQ1bFVn1rsS6DZgt6yABac5O/Zk2bsjTuENeoOEAl4qg2ubudyQ4ttfS3Px5Uem20VhE0zBo74vYgLxPWRebc7aiSzx9Q8aPP/HJE4aDtcJRK/SzVCTLdv38J2aAW8Wlw2nZL7Ve3ZuSSeLw3lnXTRMzGLHhZXUJWtt+bf5xZ8s28mtf2AvRaKjtpRoL8unGDz1X2iUDc8ibhQ+JwL+lV1K4mfkm8rBP7cVMWRGfqffFEbG8caPlE7VB5LW5e2nn9P+fstHMDxX0Po4b4up/LRQrxuagpur5oYc5fc3xMVHY06P+SqIZqw70xE7ZzL3sqfLZ3Y+4Hq4dJowHAZh35vXKc=;NiQU/Zn8pxGcf6YbIFxiOQ=="
+secured: "dZyTu1353hHTkZ+Y190MM31EwBU4ev6mEV02eiKNxR/PmDEhT9UtU5RodP0lU69klzqkCIEWmbFBrECLHlYd5RQzjW5Zk0+y/q8+1QSbTgTY9gCcuCEKraRW0Qyi5tMyik8UrtYnAn5SznDp1NI9blQ+Ty62vVUH9xuR9kml2EDasHtVH/AMHr3rA1jQAKuIeFKmLktxunpGZAfCtKTsCq001m31+cHdFfDRl+vR3R4QcAtqnvVDIjVHW4fCyLpOOgOq8zcC+T/k0vrLS6Z+v5ZzcPgEem3TrcceCUo7P51mE9yT4zS4bMTFUusFQCkdl5GYjXjbBMBpd0w9KkGUTu+yzBAJEPTT4IKsfh1q0ig=;qfIZC2p7yigRlkZAXVs/zw=="
 ---
 

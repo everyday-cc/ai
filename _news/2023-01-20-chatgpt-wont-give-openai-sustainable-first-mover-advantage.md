@@ -80,22 +80,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Microsoft Announces general availability of Azure OpenAI Service"
-    excerpt: "Microsoft makes Azure OpenAI Service generally available, which makes the world's most advanced AI, including GPT-3.5, Codex, and DALL•E 2"
-    publishedDateTime: 2023-01-17T15:34:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 89
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/01/Microsoft-Announces-general-availability-of-Azure-OpenAI-Service.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "Microsoft brings ChatGPT support to Azure: All the details"
     excerpt: "In the last couple of weeks, it has been suggested that Microsoft will bring ChatGPT tech to a few of its products and services. Now, Microsoft has o"
     publishedDateTime: 2023-01-17T06:53:00Z
@@ -205,6 +189,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/microsoft-1.png"
         width: 900
         height: 506
+        isCached: true
+  - title: "Microsoft announces general availability of Azure OpenAI Service"
+    excerpt: "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation"
+    publishedDateTime: 2023-01-17T11:37:00Z
+    webUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 69
+    images:
+      - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
+        width: 788
+        height: 443
         isCached: true
   - title: "Microsoft to Add ChatGPT to Its Cloud-Based Azure OpenAI Service"
     excerpt: "The tech giant has announced that it's now making the Azure OpenAI Service generally available after ... OpenAI tools for their own cloud applications, including the Dall-E AI art generator and the GPT-3.5 language system, Engadget reported."
@@ -595,6 +593,6 @@ related:
       domain: goldcoastbulletin.com.au
     quality: 7
 
-secured: "esTaojjbb2PZpwi2Kweq8h/Yc1swBmtzBx//rOR+jRwpvW+eCsMcnTIs0Rmsxcb97fJ11SVB3dp2qEItdYRR4pYKXdVAJsLThtiA+dGAIlB7qiZlPe9QO6DgU30w6zySGf9Cc23IN/zY5PYau7PLCWA2Ucf53eVwR5ELj8Gjo4wLNyiBq1P6qnd8YNUd4NuQEZy6wIVZSMwBQAEySez6X5pZnJ+iOT7W7W5AIFTdRsXAbjXcgtnXN89xZaElQuXWpheSLmrObbCttH/bc9ADODJyGlxOAyfCVSavccumbbA/4M6pltWH0WNErwUlaK9TIxlOsihNxcd/VUQQTRqLolm61e9XVXvP2Nzx9aj5dRY=;PAxidkre+be59Rm1dg+9MA=="
+secured: "YlxFSHbNqhI/GoAW/98LAHIHPecmRuSLbtLEKVuqLnxvyy3eI7HxVQa0tuR9gR1l4uLTNrM5W7dtARqQj4BW6fmBwzSC1VDyZoMZbQRA6pM124weg4TTF89vjsZu9UfOAOkM4mlA5Etm+ZgMs92dG3lUAeDA7FCIBLMaJZNEA4udqaTMAUCW3gRsgs7BkP7g0Po5NoAc15SVAkmL9du0icHtl2ArP2w5enekDfzn23EYyuuVHqi+wf/i8Cw/AUzhlS/7SVvH9e7pDqyzfoNW/pEGw5POwlkIaJZskVL2JmGXyQO3cJ4uBuhMpdpzXj5SHuj3/13rHQ9wVRn53NBcvY/JB5FJixkZj3vVdD/f9PQJmiU9TKggqk63fgwct5zdydlZhDaEFayE7TJJMoYNSMCmHFiNR/rb4vpKsjFfIqzURwrFvUs/5P6fcrw0ZovBVc/RsgxBLROAPZX+fH5XCKdEWYjCdqwP+Zv6rSdO3nExBBSl0mKIhJPTCunC2vX4zfcG2tnN/xpQ2KdKuJA9PQ==;QioxLOR8f4k1uPAlNj6fyg=="
 ---
 

@@ -2,6 +2,40 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2022-12-14-encharge-ai-a-chip-startup-born-in-princeton-lab-raises-217-mln.md",
+      "title": "EnCharge AI, a chip startup born in Princeton lab, raises $21.7 mln",
+      "excerpt": "OAKLAND, Calif., Dec 14 (Reuters) - EnCharge AI, a chip startup born at a Princeton University lab, on Wednesday said it raised $21.7 million as it looks to commercialize its computing technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/encharge-ai-a-chip-startup-born-in-princeton-lab-raises-$21.7-mln",
+      "originalUrl": "https://www.nasdaq.com/articles/encharge-ai-a-chip-startup-born-in-princeton-lab-raises-$21.7-mln",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-14T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-stellar-cyber-integrates-with-deep-instincts-deep-learning-technology-for-unrivaled-cyber-attack-prevention.md",
       "title": "Stellar Cyber Integrates with Deep Instinct's Deep Learning Technology for Unrivaled Cyber Attack Prevention",
       "excerpt": "Under this latest integration, Deep Instinct's revolutionary approach to leverage deep learning is able to continuously analyze endpoints, servers, and other network assets to detect and prevent more than 99% of potential attacks.",
@@ -1064,40 +1098,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-how-ibms-watson-could-disrupt-medical-imaging.md",
-      "title": "How IBM's Watson Could Disrupt Medical Imaging",
-      "excerpt": "\"If IBM can make Watson AI products for image analytics clinically relevant and seamlessly integrate these tools into the EMR, control of the radiology IT market will increasingly shift away from traditional radiology IT vendors. It may even force a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/how-ibms-watson-could-disrupt-medical-imaging",
-      "originalUrl": "https://www.mddionline.com/how-ibms-watson-could-disrupt-medical-imaging",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

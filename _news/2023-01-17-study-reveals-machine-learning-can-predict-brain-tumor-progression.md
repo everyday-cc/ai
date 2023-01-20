@@ -59,15 +59,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Using Machine Learning to Predict Brain Tumor Progression"
-    excerpt: "Combining machine learning technology with neuroimaging data, clinicians will be better able to fully analyze a patient's glioblastoma brain tumor and predict cancer progression."
-    publishedDateTime: 2023-01-16T16:47:00Z
-    webUrl: "https://neurosciencenews.com/brain-cancer-machine-learning-22266/"
+  - title: "Using machine learning to predict brain tumor progression"
+    excerpt: "Researchers have created a computational model to predict the growth of deadly brain tumors more accurately. Researchers at the University of Waterloo have created a computational model to predict the growth of deadly brain tumours more accurately."
+    publishedDateTime: 2023-01-16T20:45:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/01/230116112613.htm"
     type: article
     provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 34
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
   - title: "Transformer-based deep learning for predicting protein properties in the life sciences"
     excerpt: "The recent developments in large-scale machine learning, especially with the recent Transformer models, display much potential for solving computational problems within protein biology and outcompete traditional computational methods in many recent studies and benchmarks."
     publishedDateTime: 2023-01-18T14:10:00Z

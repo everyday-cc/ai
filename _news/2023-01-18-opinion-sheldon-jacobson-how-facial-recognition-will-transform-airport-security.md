@@ -89,15 +89,6 @@ related:
       name: Bangor Daily News
       domain: bangordailynews.com
     quality: 51
-  - title: "Facial recognition will transform airport security checkpoints | Opinion"
-    excerpt: "Facial recognition technology is being tested at 16 American airports, including those in Miami and Orlando. Once implemented and perfected, it will create a pathway for an airport screening experience that will be eventually embraced as the new model for airport security,"
-    publishedDateTime: 2023-01-15T13:30:00Z
-    webUrl: "https://www.sun-sentinel.com/opinion/commentary/fl-op-com-facial-recognition-airport-security-20230115-43g3v2rokfb2tnl63whvzmavmu-story.html"
-    type: article
-    provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 50
   - title: "Opinion: Artificial intelligence can’t reproduce the wonders of original human creativity"
     excerpt: "The biggest story of the year – the story we should all be paying attention to – is the increasing power of artificial intelligence. Computer code can write itself, chatbots can generate academic papers,"
     publishedDateTime: 2023-01-18T10:00:00Z

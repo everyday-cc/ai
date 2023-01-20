@@ -2,6 +2,50 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-11-23-experts-from-across-the-disciplines-come-together-at-new-center-to-push-the-boundaries-of-smart-robotics-and-ai.md",
+      "title": "Experts from across the disciplines come together at new center to push the boundaries of smart robotics and AI",
+      "excerpt": "How humans and super smart robots will live and work together in the future will be among the key issues being scrutinised by experts at a new centre of excellence for AI and autonomous machines based at The University of Manchester. The Manchester Centre ...",
+      "sourceUrl": null,
+      "webUrl": "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.html",
+      "originalUrl": "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx1.b-cdn.net/csz/news/800/2022/experts-from-across-th.jpg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.amp",
+      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.amp",
+      "publishedDateTime": "2022-11-23T01:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sciencex",
+        "domain": "sciencex.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-an-optical-chip-that-can-train-machine-learning-hardware.md",
       "title": "An optical chip that can train machine learning hardware",
       "excerpt": "A multi-institution research team has developed an optical chip that can train machine learning hardware. Their research is published today in Optica.",
@@ -1089,59 +1133,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-accelerate-multilingual-workflows-with-a-customizable-translation-solution-built-with-amazon-translate.md",
-      "title": "Accelerate multilingual workflows with a customizable translation solution built with Amazon Translate",
-      "excerpt": "Enterprises often need to communicate effectively to a large base of customers, partners, and stakeholders across several different languages. They need to translate and localize content such as marketing materials, product content assets, operational manuals, and legal documents. Each business unit",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-multilingual-workflows-with-a-customizable-translation-solution-built-with-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-multilingual-workflows-with-a-customizable-translation-solution-built-with-amazon-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/22/accelerate-multilingual-workflows-translate.jpg",
-          "width": 1560,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T10:28:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

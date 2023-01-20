@@ -2,6 +2,49 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2022-10-17-remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution.md",
+      "title": "Remote-controlled robots coming to Lake Erie will help remove, study plastic pollution",
+      "excerpt": "The BeBot and the PixieDrone are electric, remote-controlled robots that will be deployed in Lake Erie for testing in the fall and will begin the plastic cleanup in the spring. Lake Erie will soon have two electric, remote-controlled robots on its shores ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wksu.org/environment-energy/2022-10-17/remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution",
+      "originalUrl": "https://www.wksu.org/environment-energy/2022-10-17/remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/482cc9a/2147483647/strip/true/crop/2048x1152+0+0/resize/480x270!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F82%2F40%2Fa718fcdd4aabbcae7f6d96a3685e%2Fmichael-regan-and-crowd.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wksu.org/environment-energy/2022-10-17/remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution?_amp=true",
+      "cdnAmpWebUrl": "https://www-wksu-org.cdn.ampproject.org/c/s/www.wksu.org/environment-energy/2022-10-17/remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution?_amp=true",
+      "publishedDateTime": "2022-10-16T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wksu",
+        "domain": "wksu.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-17-local-racer-involved-in-crash-at-findlay-stadium-stateline-speedway-died-on-sunday.md",
       "title": "Local racer involved in crash at Findlay Stadium Stateline Speedway died on Sunday",
       "excerpt": "POST FALLS, ID. — A local racer was involved in an crash during a race at Findlay Stadium Stateline Speedway died on Sunday. Scott Eldredge got in the crash Saturday night. Findlay Stadium ...",
@@ -1118,59 +1161,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-testing-approaches-for-amazon-sagemaker-ml-models.md",
-      "title": "Testing approaches for Amazon SageMaker ML models",
-      "excerpt": "This post was co-written with Tobias Wenzel, Software Engineering Manager for the Intuit Machine Learning Platform. We all appreciate the importance of a high-quality and reliable machine learning (ML) model when using autonomous driving or interacting with Alexa, for examples. ML models also play an",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/testing-approaches-for-sagemaker-ml-models.jpg",
-          "width": 1549,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T10:51:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -43,15 +43,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "AI might make it possible for you to talk to your pet"
-    excerpt: "Many of us communicate with our pets in human terms making a futile attempt to make them understand what we are saying while also guessing what they are trying to say to us. Although we think it"
-    publishedDateTime: 2023-01-15T13:16:00Z
-    webUrl: "https://www.thenews.com.pk/latest/1030954-ai-might-make-it-possible-for-you-to-talk-to-your-pet"
-    type: article
-    provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 19
 
 secured: "9C1C/03PKOfXJ8HBhpfzAYK2Tt0rkvxHU/8RXcWQomPYfRObzzNZFJIjBgeiZVCM+7HpShn+g24mmQjKbxrdAhi2iMHob/8bnERI3WUikfVOUazcO3ceYjrBSImmL1ahHvT74enenEuIrc8KwCuIWFKgf8oVSxeBsUkQ5wkMKd2M549EwlOvOvsuPJv1RN5xKlDCptVK8xpcmqQBBrmg1DG+UqtWZWzoHRz2FOYIj3NKeIEmDv2msaC4Qmj48Ob9Ur6KAKnU8kQNKKZMO2Gu1PKWcFB0i9pO1hwJas1ptl4lyXFV3t6V0QGV2gC4iSN/CqDDei6sISEE8S/MrLXUlTqXTdZ6Ic8YYJFLrr4wR20=;2jcXVbUGJnwkCqx5H3FAUg=="
 ---

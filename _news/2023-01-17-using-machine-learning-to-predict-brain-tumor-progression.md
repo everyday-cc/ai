@@ -1,18 +1,22 @@
 ---
 category: news
-title: "Using Machine Learning to Predict Brain Tumor Progression"
-excerpt: "Combining machine learning technology with neuroimaging data, clinicians will be better able to fully analyze a patient's glioblastoma brain tumor and predict cancer progression."
-publishedDateTime: 2023-01-16T16:47:00Z
-originalUrl: "https://neurosciencenews.com/brain-cancer-machine-learning-22266/"
-webUrl: "https://neurosciencenews.com/brain-cancer-machine-learning-22266/"
+title: "Using machine learning to predict brain tumor progression"
+excerpt: "Researchers have created a computational model to predict the growth of deadly brain tumors more accurately. Researchers at the University of Waterloo have created a computational model to predict the growth of deadly brain tumours more accurately."
+publishedDateTime: 2023-01-16T20:45:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/01/230116112613.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/01/230116112613.htm"
 type: article
-quality: 34
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Neuroscience News
-  domain: neurosciencenews.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
@@ -77,6 +81,6 @@ related:
       domain: elifesciences.org
     quality: 13
 
-secured: "NET0uhY1jM3jM/ukFpDKg5Ivw4BF7WVhvXOmPahPNkPxtfOXLZoxeMvg+6xgwcBW2kC4Yga25gD+7ez2F/wsQTx3GxMtgS9rMAfaRxr5QoUHVD6fyR+SaapRBWXg3eCmfcJDFoA7W/vsO+9Do4fsxf7nUM4Et5sulpgG73vbnWnD21ilxNyajZ6FWuKQQPh02QtR4WnwnEBzyMYHv8Qs7pd19Yhw6yQgBzdljcIvPM2GYW+zhMlePGKWtAyvNrhFW9IjLazKiZJQ+eR2q8YihKltuaeVaE4Bj5PrEs8hqwdosQshiAcFWmyXHJSSIsYudzXCwaOXM4UW6JGojlf/whoCoM1W9esyv08hiLtDBs5i8t12BXuwvRoHhLQXsbTe7pH2Mzx1y//zw8gDDaxt+ytichtabVTkZgwTmfUhbvD8koNDzW3NbOEUogjQAWlXAp44gd5UOMiMvLa16EKLvMyMODNCQpwbBbftza2lFZKYXBTeey/mq9CA1VphdmKdzfHKhjD4KgXJ0RNKDZ41uA==;2900wkJrtds7SoTpHrMfFA=="
+secured: "88BbBDLwEJKVdCompvCM3SpDokq7H1VwQvQMyp/wIDmcwqMEU4XJZwTpdhdQ8zlbY1tWXG9FMSj7qraJdKcU2J4HAE67iXmUKYfLsVGb8ig+/cBj7lLpGc0OCQYHNxb/Ql0PW6ZkQlqu9CG0UCgIC1/01tV19KoH+lodvmQBFq54JYZ6AADdsBkMPcfGwoK5Vm+KqAQgKN0o2c09CVxAZQZh0ffAJL036P5VhPFFd1e/C6PxKWzPb7JVMt3wf3VpxOB2FCz9YlvPcFP+b3F3z8QOoTv6VKXH+/1qcU2kVVjCFgti0wsm2e8Lzwzes2Qjv2+Pn5/ZFf2pNEEDDIEDUbqyqnGPxvJ/48dNxRgH/3I=;fzVhbPrvNMDqhsFIsbacKA=="
 ---
 

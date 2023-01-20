@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-01-11-self-driving-tesla-causes-eight-vehicle-crash-injures-child.md",
+      "title": "Self-Driving Tesla Causes Eight-Vehicle Crash, Injures Child",
+      "excerpt": "New footage just dropped of a Tesla self-driving accident that caused a pileup on the San Francisco Bay Bridge and resulted in a toddler being injured.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/self-driving-tesla-crash-footage",
+      "originalUrl": "https://futurism.com/the-byte/self-driving-tesla-crash-footage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2023/01/self-driving-tesla-crash-footage.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T16:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-11-artificial-intelligence-ai-accelerator-market-2023-trends-industry-structure-development-demographics-developing-factors-by-2028.md",
       "title": "Artificial Intelligence (AI) Accelerator Market 2023 : Trends, Industry Structure, Development, Demographics, Developing Factors By 2028",
       "excerpt": "Jan 11, 2023 (The Expresswire) -- Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence (AI) Accelerator industry. \"Artificial ...",
@@ -1088,48 +1131,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-conversational-ai-startup-nlx-raises-usd-46m-to-boost-expansion-and-product-development.md",
-      "title": "Conversational AI startup NLX raises USD 4.6M to boost expansion and product development",
-      "excerpt": "NLX Inc., startup specializing in conversational AI, announced, it has raised USD 4.6M in additional funding to continue its market expansion",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/conversational-ai-startup-nlx-raises-usd-4-6m-to-boost-expansion-and-product-development/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/conversational-ai-startup-nlx-raises-usd-4-6m-to-boost-expansion-and-product-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2023/01/Conversational-AI-startup-NLX-raises-USD-4.6M-to-boost-expansion-and-product-development.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/conversational-ai-startup-nlx-raises-usd-4-6m-to-boost-expansion-and-product-development/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/conversational-ai-startup-nlx-raises-usd-4-6m-to-boost-expansion-and-product-development/amp/",
-      "publishedDateTime": "2023-01-10T06:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

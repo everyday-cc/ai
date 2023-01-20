@@ -19,29 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Top Singapore taxi company buys into Israeli self-driving startup"
-    excerpt: "ComfortDelGro, Singapore's largest taxi operator, is investing $4 million in Israeli self-driving software startup Ottopia, tapping more outside technology in its push toward autonomous transportation."
-    publishedDateTime: 2023-01-16T15:44:00Z
-    webUrl: "https://asia.nikkei.com/Business/Automobiles/Top-Singapore-taxi-company-buys-into-Israeli-self-driving-startup"
+  - title: "Mobileye CEO tells i24NEWS why Israeli company is betting big on robot taxis"
+    excerpt: "We will deploy between 100 and 150 robot taxis in 2023 in Israel and in a number of cities in Europe as a full-scale test' - Click the link for more details"
+    publishedDateTime: 2023-01-20T06:09:00Z
+    webUrl: "https://www.i24news.tv/en/news/international/technology-science/1674194917-mobileye-ceo-tells-i24news-why-israeli-company-is-betting-big-on-robot-taxis"
     type: article
     provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 24
+      name: i24NEWS
+      domain: i24news.tv
+    quality: 36
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F3%252F9%252F9%252F43939932-1-eng-GB%252Fphoto_SXM2023011100006770.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
-        width: 1260
-        height: 630
+      - url: "https://cdn.i24news.tv/uploads/10/0a/02/6c/de/97/c1/be/9c/e5/81/7e/e0/e8/7f/f7/100a026cde97c1be9ce5817ee0e87ff7.jpg"
+        width: 724
+        height: 483
         isCached: true
-  - title: "An Israeli perspective on artificial intelligence in 2023"
-    excerpt: "Israel is considered a leader in the commercialization of AI technology. Here are some firms working on AI research."
-    publishedDateTime: 2023-01-15T19:38:00Z
-    webUrl: "https://www.jpost.com/jerusalem-report/article-728313"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 19
 
 secured: "YamvxL3PvV07m38y0UJsVWIsFHW8RQ0E2q2seXV12lG5GRIqBOxv1KoPFbkgvd/G1B0tdl72wlzYYm4EZbYPV698VXCZ1WUQUhwh49uBNs+H8Kz+WmPlpaw9bwrXSXWNJxWhvCQSI2Df3xYzqgFGt1uIxM9fuft1YcbA3QqG54PNhv07DyeBsSZ3x/HLVq1PcTy2z0LAYD1j+rDq+gw/mgW9EN+I6dng4t+rxPJiJlDAN22pGIB9nBBJNAM2RYl5O6G8wAeeCxn/N4OIeXmIUHLTTl6+1ABu5J3Z8iV6eJsqeK5lNp46Etm0020TRT2+Zv2ATzoIC1OLjETB4/pIo7mTnuW9El79l2iEKtAqarfn0q1OP8QwdmTN6WJvHZei9IYASORN6ZB0TzQxuvXGIAkhJTEJVSN80dyHvqJmdNLy5ks9ijKt/5WgRxmZN93kcIc8Mragpfy4S/EfQPgODZiMmWyHFJo0XQ43W9c7DjM6Y2MR7P8wQwUFEr0eNhUwhZtzUaLdULt/1tKibkigxw==;89fh3eWWfXFhCVj/BwaAuw=="
 ---

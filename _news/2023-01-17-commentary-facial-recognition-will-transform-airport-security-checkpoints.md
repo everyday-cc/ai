@@ -81,15 +81,6 @@ related:
       name: Bangor Daily News
       domain: bangordailynews.com
     quality: 51
-  - title: "Facial recognition will transform airport security checkpoints | Opinion"
-    excerpt: "Facial recognition technology is being tested at 16 American airports, including those in Miami and Orlando. Once implemented and perfected, it will create a pathway for an airport screening experience that will be eventually embraced as the new model for airport security,"
-    publishedDateTime: 2023-01-15T13:30:00Z
-    webUrl: "https://www.sun-sentinel.com/opinion/commentary/fl-op-com-facial-recognition-airport-security-20230115-43g3v2rokfb2tnl63whvzmavmu-story.html"
-    type: article
-    provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 50
   - title: "(Opinion) Sheldon Jacobson: How facial recognition will transform airport security"
     excerpt: "Imagine using technology that never forgets a face, while improving airport security and shortening lines. Such technology exists and may be coming to an airport near you. Every flyer over the past two decades knows that airport security procedures involve a lot of unpacking,"
     publishedDateTime: 2023-01-18T14:00:00Z

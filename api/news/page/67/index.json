@@ -2,6 +2,58 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2022-11-17-notion-ai-wants-to-be-your-new-writing-assistant.md",
+      "title": "Notion AI Wants To Be Your New Writing Assistant",
+      "excerpt": "Aside from that, Notion AI can speed up the research, understanding, and editing process for writers. The AI can, for example, analyze and summarize articles, pulling out critical",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6375be983ee8c63117f59b8f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/11/17/notion-ai-wants-to-be-your-new-writing-assistant/amp/",
+      "publishedDateTime": "2022-11-16T21:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-machine-learning-as-a-service-mlaas-market-size-enables-you-to-anticipate-market-changes-to-remain-ahead-of-your-competitors.md",
       "title": "Machine Learning-as-a-Service (MLaaS) Market size Enables You to Anticipate Market Changes to Remain Ahead of Your Competitors",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Nov 17, 2022 (The Expresswire) -- Machine Learning-as-a-Service (MLaaS) Market [Spreadsheet of 96 Pages] explore investment in Market. It classify how companies deploying ...",
@@ -1115,57 +1167,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-fractal-unveils-interconnected-ai-platform-to-automate-decision-making-for-cpg-manufacturing-and-retail.md",
-      "title": "Fractal unveils interconnected AI platform to automate decision-making for CPG, manufacturing and retail",
-      "excerpt": "Fractal AI has developed an end-to-end AI autonomic decision-making platform, Asper AI, for CPG, manufacturing and retail businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/fractal-unveils-interconnected-ai-platform-to-automate-decision-making-for-cpg-manufacturing-and-retail/",
-      "originalUrl": "https://venturebeat.com/ai/fractal-unveils-interconnected-ai-platform-to-automate-decision-making-for-cpg-manufacturing-and-retail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1341282481-e1668554800160.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/fractal-unveils-interconnected-ai-platform-to-automate-decision-making-for-cpg-manufacturing-and-retail/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/fractal-unveils-interconnected-ai-platform-to-automate-decision-making-for-cpg-manufacturing-and-retail/amp/",
-      "publishedDateTime": "2022-11-16T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

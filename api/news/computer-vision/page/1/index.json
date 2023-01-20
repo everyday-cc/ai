@@ -62,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-size-sales-drivers-restraints-growth-strategies-major-players-regional-overview-forecast-till-2029-2023-01-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -115,7 +115,7 @@
       "originalUrl": "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -336,6 +336,40 @@
       "provider": {
         "name": "pix11",
         "domain": "pix11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-15-everseen-advances-computer-vision-ai-systems-for-global-retailers.md",
+      "title": "Everseen Advances Computer Vision AI Systems for Global Retailers",
+      "excerpt": "Expanded partner program and installations bring real-time loss prevention to more than half of the world's top 15 retailers Everseen, the leader in real-time computer vision AI for retailers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/p30423687/everseen-advances-computer-vision-ai-systems-for-global-retailers",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/p30423687/everseen-advances-computer-vision-ai-systems-for-global-retailers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-15T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1371,40 +1405,6 @@
         "AI",
         "Computer Vision",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-how-banking-institutions-can-adopt-computer-vision.md",
-      "title": "How Banking Institutions Can Adopt Computer Vision",
-      "excerpt": "Incorporating computer vision in banking will help banks function more effectively. AI-based technologies like computer vision can automate banking procedures and processes to help humans complete repetitive activities more quickly and accurately.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/financial/how-banking-institutions-can-adopt-computer-vision",
-      "originalUrl": "https://www.bbntimes.com/financial/how-banking-institutions-can-adopt-computer-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

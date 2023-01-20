@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-16-with-astonishing-cagr-machine-learning-as-a-service-mlaas-market-generate-revenue-at-significant-rate-2029.md",
+      "title": "With Astonishing CAGR, Machine Learning-as-a-Service (MLaaS) Market Generate Revenue at Significant Rate, 2029",
+      "excerpt": "As per latest research on Machine Learning-as-a-Service (MLaaS) Market (Report spread across 125 Pages), the growth",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/with-astonishing-cagr-machine-learning-as-a-service-mlaas-market-generate-revenue-at-significant-rate-2029-2023-01-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/with-astonishing-cagr-machine-learning-as-a-service-mlaas-market-generate-revenue-at-significant-rate-2029-2023-01-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T01:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-16-natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028.md",
       "title": "Natural Language Processing (NLP) Market 2023 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028",
       "excerpt": "Pages Report] Rising demand for Consumer Goods Industry will drive the Natural Language Processing (NLP) segment growth over the next five years. Global Market Analysis for N",
@@ -306,7 +358,7 @@
       "originalUrl": "https://www.neowin.net/news/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -455,49 +507,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-15-meet-tori-ai-for-your-fast-food-order.md",
-      "title": "Meet Tori, AI for your fast food order",
-      "excerpt": "Tori — an artificial intelligence launched by OpenCity — is described as the restaurant industry’s first conversational voice in the drive thru.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koin.com/news/meet-tori-ai-for-your-fast-food-order/",
-      "originalUrl": "https://www.koin.com/news/meet-tori-ai-for-your-fast-food-order/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.koin.com/wp-content/uploads/sites/10/2023/01/GettyImages-1352323887.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.koin.com/news/meet-tori-ai-for-your-fast-food-order/amp/",
-      "cdnAmpWebUrl": "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/news/meet-tori-ai-for-your-fast-food-order/amp/",
-      "publishedDateTime": "2023-01-15T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KOIN 6",
-        "domain": "koin.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-15-what-jobs-are-available-in-artificial-intelligence-how-to-make-a-career-in-this-ai-boom.md",
       "title": "What Jobs Are Available In Artificial Intelligence? How To Make A Career In This AI Boom",
       "excerpt": "From research to consulting, there will be an array of job opportunities across an even broader array of market sectors where the core skill set requires an expertise in the field of artificial intelligence.",
@@ -548,6 +557,40 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-15-everseen-advances-computer-vision-ai-systems-for-global-retailers.md",
+      "title": "Everseen Advances Computer Vision AI Systems for Global Retailers",
+      "excerpt": "Expanded partner program and installations bring real-time loss prevention to more than half of the world's top 15 retailers Everseen, the leader in real-time computer vision AI for retailers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/p30423687/everseen-advances-computer-vision-ai-systems-for-global-retailers",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/p30423687/everseen-advances-computer-vision-ai-systems-for-global-retailers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-15T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1180,58 +1223,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-given-a-platform-14-years-ago-by-hudson-miracle-this-hero-pilot-has-used-it-to-promote-airline-safety.md",
-      "title": "Given A Platform 14 Years Ago By Hudson Miracle, This Hero Pilot Has Used It To Promote Airline Safety",
-      "excerpt": "In Charlotte, where a museum was renamed to honor him, hero pilot Sully Sullenberger said the failure of an FAA safety system provides an opportunity to fix it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedreed/2023/01/14/fourteen-years-after-hudson-miracle-hero-pilot-sullenberger-says-dont-waste-a--crisisfix-notam/",
-      "originalUrl": "https://www.forbes.com/sites/tedreed/2023/01/14/fourteen-years-after-hudson-miracle-hero-pilot-sullenberger-says-dont-waste-a--crisisfix-notam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c085fb88737cf94d964a48/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedreed/2023/01/14/fourteen-years-after-hudson-miracle-hero-pilot-sullenberger-says-dont-waste-a--crisisfix-notam/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedreed/2023/01/14/fourteen-years-after-hudson-miracle-hero-pilot-sullenberger-says-dont-waste-a--crisisfix-notam/amp/",
-      "publishedDateTime": "2023-01-14T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

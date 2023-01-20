@@ -270,7 +270,7 @@
       "originalUrl": "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -509,6 +509,57 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-where-is-the-best-place-to-run-ai.md",
+      "title": "Where Is The Best Place To Run AI?",
+      "excerpt": "Uploading vast amounts of data to the cloud can often introduce very high latency, in many cases surpassing hundreds of milliseconds, which can seriously impair operations to the point of rendering them ineffectual at best and total wastes of time and money at worst.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c15e4efdaea7ad1989b8c5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/amp/",
+      "publishedDateTime": "2023-01-17T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1083,7 +1134,7 @@
       "originalUrl": "https://www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1202,58 +1253,6 @@
         "name": "Medindia",
         "domain": "medindia.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-with-astonishing-cagr-machine-learning-as-a-service-mlaas-market-generate-revenue-at-significant-rate-2029.md",
-      "title": "With Astonishing CAGR, Machine Learning-as-a-Service (MLaaS) Market Generate Revenue at Significant Rate, 2029",
-      "excerpt": "As per latest research on Machine Learning-as-a-Service (MLaaS) Market (Report spread across 125 Pages), the growth",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/with-astonishing-cagr-machine-learning-as-a-service-mlaas-market-generate-revenue-at-significant-rate-2029-2023-01-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/with-astonishing-cagr-machine-learning-as-a-service-mlaas-market-generate-revenue-at-significant-rate-2029-2023-01-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-16T01:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

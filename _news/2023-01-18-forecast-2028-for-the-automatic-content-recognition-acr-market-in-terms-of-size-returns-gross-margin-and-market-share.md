@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Software Market 2023 Business analysis By Top Key Player with Revenue & Region till 2029 [ LATEST REPORT ]"
-    excerpt: "Jan 15, 2023 (The Expresswire) -- \"Face Recognition Software Market\" Research Insights Report 2023 | Latest Report Spread Across[ 103 Pages ]"
-    publishedDateTime: 2023-01-15T14:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-business-analysis-by-top-key-player-with-revenue-region-till-2029-latest-report-2023-01-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Driverless Tractors Market Size in 2023 [ New Report ] Global Survey with Forecast 2028 & Comprehensive Analysis in Report"
     excerpt: "growing at a CAGR of % during the forecast period 2022-2028. The USA market for Driverless Tractors is estimated to increase from USD million in 2022 to reach USD million by 2028 at a CAGR of ..."
     publishedDateTime: 2023-01-15T18:49:00Z

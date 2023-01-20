@@ -2,6 +2,59 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-11-24-harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai.md",
+      "title": "Harvey, which uses AI to answer legal questions, lands cash from OpenAI",
+      "excerpt": "Harvey, a startup using AI to answer legal questions, has secured an investment from OpenAI as well as Google AI head Jeff Dean.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/23/harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai/",
+      "originalUrl": "https://techcrunch.com/2022/11/23/harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1136679354.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/23/harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/23/harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai/amp/",
+      "publishedDateTime": "2022-11-23T23:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-24-natural-language-processing-nlp-in-healthcare-market-overview-2022-to-2030-future-trends-and-forecast-by-3m-linguamatics-amazon-aws.md",
       "title": "Natural Language Processing (NLP) in Healthcare Market Overview 2022 to 2030, Future Trends and Forecast | By -3M, Linguamatics, Amazon AWS",
       "excerpt": "Browse detailed TOC, Tables, Figures, Charts, and Companies mentioned in the Global Natural Language Processing (NLP) in Healthcare Market research report 2022-2030 The Global Natural Language Processing (NLP) in Healthcare Market investigation report is segmented by Types ( Machine Translation,",
@@ -1153,50 +1206,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-experts-from-across-the-disciplines-come-together-at-new-center-to-push-the-boundaries-of-smart-robotics-and-ai.md",
-      "title": "Experts from across the disciplines come together at new center to push the boundaries of smart robotics and AI",
-      "excerpt": "How humans and super smart robots will live and work together in the future will be among the key issues being scrutinised by experts at a new centre of excellence for AI and autonomous machines based at The University of Manchester. The Manchester Centre ...",
-      "sourceUrl": null,
-      "webUrl": "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.html",
-      "originalUrl": "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx1.b-cdn.net/csz/news/800/2022/experts-from-across-th.jpg",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.amp",
-      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.amp",
-      "publishedDateTime": "2022-11-23T01:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "sciencex",
-        "domain": "sciencex.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

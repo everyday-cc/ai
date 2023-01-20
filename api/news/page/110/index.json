@@ -2,6 +2,58 @@
   "page": 110,
   "value": [
     {
+      "path": "_news/2022-10-11-the-best-robot-vacuums-based-on-rigorous-testing.md",
+      "title": "The Best Robot Vacuums Based On Rigorous Testing",
+      "excerpt": "After weeks of testing, here are the best robot vacuums with the technology and features to make cleaning your floors a breeze.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/10/best-robot-vacuums/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/10/best-robot-vacuums/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633f5e6fd4326a3ec4de06ab/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals.md",
       "title": "How a flawed biometrics research project exposed AI ethical issues, singled out LGBTQ+ individuals",
       "excerpt": "Flaws in a facial recognition dataset that was discovered by researchers highlight just some ways in which biometrics tech can cause harm to LGBTQ+ individuals.",
@@ -1164,48 +1216,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali.md",
-      "title": "IIT Mandi start up to launch world's first giant swing backed by AI in Manali",
-      "excerpt": "The swing was built under a startup incubated at Indian Institute of Technology (IIT), Mandi, and is claimed to be a first-of-its-kind in the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zeebiz.com/small-business/news-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali-202286",
-      "originalUrl": "https://www.zeebiz.com/small-business/news-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali-202286",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zeebiz.com/small-business/news-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali-202286/amp",
-      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/small-business/news-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali-202286/amp",
-      "publishedDateTime": "2022-10-09T21:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zee Business",
-        "domain": "zeebiz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

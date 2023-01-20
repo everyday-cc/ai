@@ -55,15 +55,6 @@ related:
         width: 2000
         height: 1600
         isCached: true
-  - title: "Microsoft quietly revealed a new type of AI (it may quietly petrify you)"
-    excerpt: "You always thought this might be possible, but when a famous company says it's done it, it adds a little more scariness."
-    publishedDateTime: 2023-01-15T13:26:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-quietly-revealed-a-new-type-of-ai-it-may-quietly-petrify-you/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 65
   - title: "Microsoft Joins Tech Layoff Circus With 10,000 Jobs Cut in Pivot to AI"
     excerpt: "Microsoft is planning to lay off 10,000 workers through March, joining a slew of tech companies in cutting down after a pandemic hiring boom, The New York Times reports. The company’s chief executive,"
     publishedDateTime: 2023-01-18T14:53:00Z
