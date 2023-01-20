@@ -2,6 +2,101 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2022-12-06-medical-studies-get-tech-edge-with-ai-machine-learning-remote-care.md",
+      "title": "Medical studies get tech edge with AI, machine learning, remote care",
+      "excerpt": "New-age technologies like Artificial Intelligence (AI) and Machine Learning (ML) have taken diagnosis, treatment, post-operative care, remote patient care and palliative care to a whole new level.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/articleshow/96010436.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/articleshow/96010436.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-96010436,imgsize-60926,width-800/96010436.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/amp_articleshow/96010436.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/amp_articleshow/96010436.cms",
+      "publishedDateTime": "2022-12-05T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools.md",
+      "title": "14 Innovative Ways Agencies Are Leveraging Machine Learning Ad Tools",
+      "excerpt": "Here, members of Forbes Agency Council share impactful ways agencies are leveraging ML advertising tools. Read on to learn about a variety of innovative ways agency pros are using ML to better reach consumers and attract more targeted audiences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/05/14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/05/14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638e23847ed4f1a8cd55d451/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/05/14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/12/05/14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools/amp/",
+      "publishedDateTime": "2022-12-05T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-dubais-tech-pitch-to-the-world.md",
       "title": "Dubai’s tech pitch to the world",
       "excerpt": "Having offices in the emirate makes it easier for Indian startups to hire global talent, and it also makes it easier for the Dubai government to source good tech talent from India. High net-worth individuals (HNIs) and entrepreneurs from India are being lured to Dubai by tax reliefs,",
@@ -1022,110 +1117,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-at-neurips-2022-generative-ai-and-llms-are-hot-topics.md",
-      "title": "At NeurIPS 2022, generative AI and LLMs are hot topics",
-      "excerpt": "At the first week of NeurIPS 2022, generative AI and LLMs were hot topics — along with a Geoffrey Hinton keynote in honor of ImageNet.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/at-neurips-2022-generative-ai-and-llms-are-hot-topics/",
-      "originalUrl": "https://venturebeat.com/ai/at-neurips-2022-generative-ai-and-llms-are-hot-topics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/Fir7IQiWIAAYtAI.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/at-neurips-2022-generative-ai-and-llms-are-hot-topics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/at-neurips-2022-generative-ai-and-llms-are-hot-topics/amp/",
-      "publishedDateTime": "2022-12-02T19:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-pci-standards-group-deflects-assigns-blame-for-melting-gpu-power-connectors.md",
-      "title": "PCI standards group deflects, assigns blame for melting GPU power connectors",
-      "excerpt": "Nvidia's new RTX 4090 and 4080 GPUs both use a new connector called 12VHPWR to deliver power as a way to satisfy ever-more power-hungry graphics cards without needing to set aside the physical ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2022/12/pci-standards-group-deflects-assigns-blame-for-melting-gpu-power-connectors/",
-      "originalUrl": "https://arstechnica.com/gadgets/2022/12/pci-standards-group-deflects-assigns-blame-for-melting-gpu-power-connectors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/IMG_0709-800x534.jpeg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2022/12/pci-standards-group-deflects-assigns-blame-for-melting-gpu-power-connectors/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2022/12/pci-standards-group-deflects-assigns-blame-for-melting-gpu-power-connectors/amp/",
-      "publishedDateTime": "2022-12-02T18:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

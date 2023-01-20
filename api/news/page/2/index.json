@@ -2,6 +2,91 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-19-is-artificial-intelligence-a-net-positive-for-carbon-emissions.md",
+      "title": "Is Artificial Intelligence A Net-Positive For Carbon Emissions?",
+      "excerpt": "Artificial Intelligence is playing an ever-larger role in the global energy industry, but as it grows its carbon footprint is also growing and threatening to undermine its work",
+      "sourceUrl": null,
+      "webUrl": "https://oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A-Net-Positive-For-Carbon-Emissions.html",
+      "originalUrl": "https://oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A-Net-Positive-For-Carbon-Emissions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-01-18_feepyk1js4.jpg",
+          "width": 718,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A-Net-Positive-For-Carbon-Emissions.amp.html",
+      "cdnAmpWebUrl": "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A-Net-Positive-For-Carbon-Emissions.amp.html",
+      "publishedDateTime": "2023-01-18T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crude Oil Prices",
+        "domain": "oilprice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-michigans-atwater-brewery-releases-ipa-created-by-artificial-intelligence.md",
+      "title": "Michigan’s Atwater Brewery releases IPA created by artificial intelligence",
+      "excerpt": "Artificial Intelligence IPA is a 6.5% brew made with a blend of Centennial, Citra, and Amarillo hops, which results in tropical and citrus flavors and aromas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html",
+      "originalUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EJPLGYZV7BETJGYP34T37UYWMQ.jpeg",
+          "width": 3024,
+          "height": 2530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html?outputType=amp",
+      "publishedDateTime": "2023-01-18T11:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-19-nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery.md",
       "title": "Nick Cave Calls AI Song Written in His Style 'Grotesque Mockery'",
       "excerpt": "Tools like ChatGPT can never experience the complex human struggles that lead to emotionally resonant songs, the singer-songwriter says.",
@@ -10,7 +95,7 @@
       "originalUrl": "https://www.cnet.com/culture/entertainment/nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -339,7 +424,7 @@
       "originalUrl": "https://www.newsweek.com/russia-marker-combat-robots-ukraine-tests-impact-1774666",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1132,109 +1217,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-dell-integrates-more-ai-power-into-updated-server-portfolio.md",
-      "title": "Dell integrates more AI power into updated server portfolio",
-      "excerpt": "Today's Dell PowerEdge event introduced a new server lineup with hardware for general purpose workloads and purpose-built systems for AI/ML.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/dell-integrates-more-ai-power-into-updated-server-portfolio/",
-      "originalUrl": "https://venturebeat.com/ai/dell-integrates-more-ai-power-into-updated-server-portfolio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/VB_Dell_poweredge_R760_011723-e1673966368373.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/dell-integrates-more-ai-power-into-updated-server-portfolio/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/dell-integrates-more-ai-power-into-updated-server-portfolio/amp/",
-      "publishedDateTime": "2023-01-17T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-amd-brings-zen-4-architecture-and-ai-to-its-mobile-processors-at-ces-2023.md",
-      "title": "AMD Brings Zen 4 Architecture And AI To Its Mobile Processors At CES 2023",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead gives his coverage of AMD's newly announced mobile and desktop processors, mobile graphics, AI products, and adaptive solutions at CES 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/17/amd-brings-zen-4-architecture-and-ai-to-its-mobile-processors-at-ces-2023/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/17/amd-brings-zen-4-architecture-and-ai-to-its-mobile-processors-at-ces-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c6b974f0d56574eae9af4b/0x0.png?format=png&width=1200",
-          "width": 936,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/17/amd-brings-zen-4-architecture-and-ai-to-its-mobile-processors-at-ces-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/01/17/amd-brings-zen-4-architecture-and-ai-to-its-mobile-processors-at-ces-2023/amp/",
-      "publishedDateTime": "2023-01-17T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

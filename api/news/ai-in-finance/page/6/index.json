@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-09-29-monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure.md",
+      "title": "Monnai taps explainable AI to build global fintech insight infrastructure",
+      "excerpt": "Monnai aims to use explainable AI to deliver a global infrastructure and power fintech decision-making at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/",
+      "originalUrl": "https://venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1249306214.jpg?fit=800%2C397&strip=all",
+          "width": 800,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/amp/",
+      "publishedDateTime": "2022-09-29T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-why-fintech-stocks-crashed-today.md",
       "title": "Why Fintech Stocks Crashed Today",
       "excerpt": "Fintech stocks are especially sensitive to interest ... This is especially true for Upstart, which claims its AI models are a new and better way to underwrite loans than traditional FICO scores.",
@@ -1335,40 +1387,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-nick-kohlschreiber-founder-of-acufi-explains-the-future-of-ai-in-fintech.md",
-      "title": "Nick Kohlschreiber, Founder of AcuFi, Explains the Future of AI in FinTech",
-      "excerpt": "For the fintech sector, concerns in the security of both user and company data can be addressed by AI. More than ever, the modern age will come with a new variety of bad actors–hackers, viruses, and vulnerabilities waiting to be exploited.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/09/14/9673562.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/09/14/9673562.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

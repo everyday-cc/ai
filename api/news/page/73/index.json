@@ -2,6 +2,84 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2022-11-11-net-health-announces-new-ai-powered-solution-for-hospital-outpatient-rehab-therapy-clinics.md",
+      "title": "Net Health® Announces New AI-Powered Solution for Hospital Outpatient Rehab Therapy Clinics",
+      "excerpt": "To help outpatient rehab therapy clinics reduce the number of missed patient visits, boost revenue and improve patient outcomes, Net Health® recently released a first-of-its kind predictive analytics solution for hospital-based rehab therapy organizations called the Missed Visit Prediction Indicator.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/11/11/9711431.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/11/11/9711431.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-artificial-intelligence-the-latest-architecture-and-news.md",
+      "title": "Artificial Intelligence: The Latest Architecture and News",
+      "excerpt": "The promise of the metaverse, this new type of three-dimensional and immersive digital space, is proving to become more and more appealing to architects eager to explore the new realm of virtual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.archdaily.com/tag/artificial-intelligence",
+      "originalUrl": "https://www.archdaily.com/tag/artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.adsttc.com/doodles/flat/logo-animation.gif",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ArchDaily",
+        "domain": "archdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-quicklogic-inks-efpga-sales-rep-agreement-with-chip-gogo-in-japan.md",
       "title": "QuickLogic Inks eFPGA Sales Rep Agreement with CHIP-gogo in Japan",
       "excerpt": "Extensive experience with semiconductor IP and custom LSI design services to strategic accounts in Japan SAN JOSE, Calif., Nov. 11, 2022 /PRNewswire/ -- QuickLogic Corporation (NASDAQ:QUIK), a develop",
@@ -1073,111 +1151,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-identifying-and-avoiding-common-data-issues-while-building-no-code-ml-models-with-amazon-sagemaker-canvas.md",
-      "title": "Identifying and avoiding common data issues while building no code ML models with Amazon SageMaker Canvas",
-      "excerpt": "Business analysts work with data and like to analyze, explore, and understand data to achieve effective business outcomes. To address business problems, they often rely on machine learning (ML) practitioners such as data scientists to assist with techniques such as utilizing ML to build models using",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identifying-and-avoiding-common-data-issues-while-building-no-code-ml-models-with-amazon-sagemaker-canvas/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identifying-and-avoiding-common-data-issues-while-building-no-code-ml-models-with-amazon-sagemaker-canvas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/10/avoiding-common-data-issues-sagemaker-canvas.jpg",
-          "width": 1550,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T08:44:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-waymo-is-one-step-closer-to-charging-for-self-driving-taxis-in-california.md",
-      "title": "Waymo is one step closer to charging for self-driving taxis in California",
-      "excerpt": "The firm already had permission to charge for self-driving taxi rides with a safety ... modest compared to what's available in China. Baidu's robotaxi service is available to the public in larger ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/waymo-driverless-taxi-permit-california-dmv-150046627.html",
-      "originalUrl": "https://www.engadget.com/waymo-driverless-taxi-permit-california-dmv-150046627.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/25f6b130-60fd-11ed-ade3-926f5c8d40ba",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/waymo-driverless-taxi-permit-california-dmv-150046627.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-driverless-taxi-permit-california-dmv-150046627.html",
-      "publishedDateTime": "2022-11-10T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,101 @@
   "page": 136,
   "value": [
     {
+      "path": "_news/2022-09-17-2-artificial-intelligence-growth-stocks-shaping-the-future-of-technology.md",
+      "title": "2 Artificial-Intelligence Growth Stocks Shaping the Future of Technology",
+      "excerpt": "And artificial intelligence (AI ... speech recognition, robotics, and self-driving cars. The company stumbled in its most recent quarter. Revenue rose just 3% to $6.7 billion, and non-GAAP ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/09/16/2-growth-stocks-shaping-the-future-of-technology/",
+      "originalUrl": "https://www.fool.com/investing/2022/09/16/2-growth-stocks-shaping-the-future-of-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/700387/artificial-intelligence-1.jpg",
+          "width": 2070,
+          "height": 1449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-17-how-ai-drives-down-healthcare-costs-and-improves-quality-of-care.md",
+      "title": "How AI Drives Down Healthcare Costs and Improves Quality of Care",
+      "excerpt": "By Ronny Shalev, PhD, CEO of Dyad Medical Artificial intelligence (AI) is one of the main tools powering the next generation of healthcare technology. With the potential to drive down healthcare costs and improve patient outcomes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/",
+      "originalUrl": "https://www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/09/129-333x500.jpg",
+          "width": 333,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/",
+      "publishedDateTime": "2022-09-16T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-17-cognitive-health-may-benefit-from-balanced-meal-timing.md",
       "title": "Cognitive health may benefit from balanced meal timing",
       "excerpt": "However, evidence regarding the relationship between TPEI and cognitive function at the population level is relatively lacking. Previous studies in animal models have shown that the disruption in ...",
@@ -1059,101 +1154,6 @@
         "Machine Learning",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-automatic-facial-recognition-the-debate-in-2022.md",
-      "title": "Automatic Facial Recognition – The debate in 2022",
-      "excerpt": "In particular, public and private sectors are exploring the use of solutions utilising Automated Facial Recognition (AFR) to prevent crime and improve the safety of their facilities – but where are we now in the AFR debate? In IFSEC Global’s Video ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ifsecglobal.com/surveillance/automatic-facial-recognition-the-debate-in-2022/",
-      "originalUrl": "https://www.ifsecglobal.com/surveillance/automatic-facial-recognition-the-debate-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s33644.pcdn.co/wp-content/uploads/2019/10/fr.gif",
-          "width": 1000,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ifsecglobal.com/surveillance/automatic-facial-recognition-the-debate-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/surveillance/automatic-facial-recognition-the-debate-in-2022/amp/",
-      "publishedDateTime": "2022-09-16T01:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ifsecglobal.com",
-        "domain": "ifsecglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-rephraseai-raises-106-million-in-series-a-funding.md",
-      "title": "Rephrase.ai Raises $10.6 Million In Series A Funding",
-      "excerpt": "This fund raised will allow the company to enhance its capabilities by integrating product experiences, scaling hiring across the business, including within the engineering, AI, product, sales, and marketing teams,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/rephraseai-raises-106-million-in-series-a-funding/435460",
-      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/rephraseai-raises-106-million-in-series-a-funding/435460",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1663313917-Untitleddesign89.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T00:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

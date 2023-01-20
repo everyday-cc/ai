@@ -55,6 +55,22 @@ related:
       name: CNN
       domain: cnn.com
     quality: 46
+  - title: "Are AI-generated songs a ‘grotesque mockery’ of humanity or simply an opportunity to make a new kind of music?"
+    excerpt: "Nick Cave has condemned a song designed and directed by ChatGPT. But new technology should be embraced, not feared"
+    publishedDateTime: 2023-01-20T00:45:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/jan/20/are-ai-generated-songs-a-grotesque-mockery-of-humanity-or-simply-an-opportunity-to-make-a-new-kind-of-music"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jan/20/are-ai-generated-songs-a-grotesque-mockery-of-humanity-or-simply-an-opportunity-to-make-a-new-kind-of-music"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jan/20/are-ai-generated-songs-a-grotesque-mockery-of-humanity-or-simply-an-opportunity-to-make-a-new-kind-of-music"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 37
+    images:
+      - url: "https://i.guim.co.uk/img/media/0948d59fb030eded9708f45aa62c88502b788f86/531_192_4148_2488/master/4148.jpg?width=620&quality=85&auto=format&fit=max&s=37853aa317d016331a77a197bfbd40b3"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "vubasxHlPCtHUU5pKkB0LhDxgxFvYCWuEwhUoVdyTn1cd9nZxMv7q0gWcZAsLBEJXfNr/0OujTfsfYzHioug9O730YjILMLRmJHW6Hxqb8zGmMJrFuL+/y8EXm5/eBGfsXXSKZLcVgMaEkBNPeBT7+Bst0tR6qr80LYJBr0LrswDeQhuHyx9/hJb66qfE0yJtJ6vshhBqU26ieeSd3AkYfj0ovDG6pVTrACxDasktLFhp+5EWYpBBsYYk8CRwGfe8Jke3cHtkn/Xn65pDyaJq7NxBt0GG8bePPliRBmU8jAFCM8TzgNGZfpRsBvsUY8Z5L2rSUWbvmJhhWacHHRvo7qYqYitkgZV2ghV0kv6ZTI=;w7VYFKsqLFGCIRgvjzr82w=="
 ---

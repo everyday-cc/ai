@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-17-two-israeli-companies-join-545m-innovation-program-in-abu-dhabi.md",
+      "title": "Two Israeli companies join $545m innovation program in Abu Dhabi",
+      "excerpt": "office in Abu Dhabi and an artificial intelligence (AI) tech hub as part of a new agreement. On Tuesday, Israeli fintech company Liquidity Group said it signed a deal to open an R&D center in the UAE.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/two-israeli-companies-join-545m-innovation-program-in-abu-dhabi/",
+      "originalUrl": "https://www.timesofisrael.com/two-israeli-companies-join-545m-innovation-program-in-abu-dhabi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2022/11/WhatsApp-Image-2022-11-16-at-02.27.28-640x400.jpeg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/two-israeli-companies-join-545m-innovation-program-in-abu-dhabi/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/two-israeli-companies-join-545m-innovation-program-in-abu-dhabi/amp/",
+      "publishedDateTime": "2022-11-16T16:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-global-machine-learning-market-to-reach-16405-billion-by-2028-with-a-392-cagr.md",
       "title": "Global Machine Learning Market to Reach $164.05 Billion by 2028 with a 39.2% CAGR",
       "excerpt": "Global machine learning market was valued at USD 16.2 billion in 2021, and it is expected to reach a value of USD 164.05 billion by 2028, at a CAGR of more than 39.2% over the forecast period (2022-2028).",
@@ -1330,40 +1373,6 @@
       "provider": {
         "name": "planadviser.com",
         "domain": "planadviser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-bics-launches-communications-platform-as-a-service.md",
-      "title": "BICS launches Communications Platform as a Service",
-      "excerpt": "BICS says its new CPaaS for text, voice, and messaging can integrate using APIs and plug-ins, no coding required.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rcrwireless.com/20221024/telco-cloud/bics-launches-communications-platform-as-a-service",
-      "originalUrl": "https://www.rcrwireless.com/20221024/telco-cloud/bics-launches-communications-platform-as-a-service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RCR Wireless News",
-        "domain": "rcrwireless.com",
         "images": null,
         "publishers": null,
         "authors": null

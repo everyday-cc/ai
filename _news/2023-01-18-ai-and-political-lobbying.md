@@ -49,7 +49,12 @@ related:
     provider:
       name: MedPage Today
       domain: medpagetoday.com
-    quality: 21
+    quality: 41
+    images:
+      - url: "https://assets.medpagetoday.net/media/images/102xxx/102705.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "sI7Ta5Th7vK62ZqbU3sJCr9+ISdYZFkgXl8Mm59HRB+Ha1lbuKJExKYw0gZl0xHMqY+mscW0CIeosf5GpK+8czQ2WaqgVQcZ4AqkOgzlq7zkpTnmff8P7BD69/afny10scomm5ONOeio5UHgPOh4sz26lAmGMJ7W8Mp/vJIXWzMGhmgufVkXeW/EE53xdS5sHifHpJuxBFCVaB1q0hlpW+hKCg19m5QTMOBoxiNvjctsGfKo+ZnlYmI++MLZ8Mbw/wGZFtrxOX4Hfvso4iFOkpQ9wrX/DRq/lJt5gKsfjUpm0T/LH2bHhs8uwB/g963Go9dnNG4+KYYiYGzgc68YhmnLIhCHpiJ85rqVqACr8ms=;JzlNLh3E3HTEWWCqZ52Piw=="
 ---

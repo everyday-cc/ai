@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-03-this-ai-powered-fintech-is-making-strides-is-it-time-to-buy.md",
+      "title": "This AI-Powered Fintech Is Making Strides: Is It Time to Buy?",
+      "excerpt": "Lemonade is on a mission to reimagine the insurance business. It leverages artificial intelligence (AI) to help people buy renters, homeowners, pet, and car insurance with just a few questions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/12/02/this-ai-powered-fintech-is-making-strides-is-it-ti/",
+      "originalUrl": "https://www.fool.com/investing/2022/12/02/this-ai-powered-fintech-is-making-strides-is-it-ti/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T16:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-this-ai-powered-fintech-is-making-strides-is-it-time-to-buy.md",
       "title": "This AI-Powered Fintech Is Making Strides: Is It Time to Buy?",
       "excerpt": "The AI-powered insurance fintech got off to a blistering start in its efforts to grab market share, and its stock price exploded after it went public in July 2020, gaining 551% a few months later.",
@@ -1264,49 +1307,6 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-two-israeli-companies-join-545m-innovation-program-in-abu-dhabi.md",
-      "title": "Two Israeli companies join $545m innovation program in Abu Dhabi",
-      "excerpt": "office in Abu Dhabi and an artificial intelligence (AI) tech hub as part of a new agreement. On Tuesday, Israeli fintech company Liquidity Group said it signed a deal to open an R&D center in the UAE.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/two-israeli-companies-join-545m-innovation-program-in-abu-dhabi/",
-      "originalUrl": "https://www.timesofisrael.com/two-israeli-companies-join-545m-innovation-program-in-abu-dhabi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2022/11/WhatsApp-Image-2022-11-16-at-02.27.28-640x400.jpeg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/two-israeli-companies-join-545m-innovation-program-in-abu-dhabi/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/two-israeli-companies-join-545m-innovation-program-in-abu-dhabi/amp/",
-      "publishedDateTime": "2022-11-16T16:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-20-how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services.md",
+      "title": "How startups are using AI for fixing challenges in traditional financial services",
+      "excerpt": "Startups using AI are making better data-driven decisions, increasing profits directly by efficient targeting, automating repetitive tasks, and much more to unlock competitive advantages",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/start-ups/how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services-11674182424472.html",
+      "originalUrl": "https://www.livemint.com/companies/start-ups/how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services-11674182424472.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2023/01/20/600x338/AI_1674182789785_1674182790018_1674182790018.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/start-ups/how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services/amp-11674182424472.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services/amp-11674182424472.html",
+      "publishedDateTime": "2023-01-19T18:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-odisha-soa-signs-mous-with-start-ups-specialising-in-robotics-ai-drone-technology.md",
+      "title": "Odisha: SOA signs MoUs with start-ups specialising in robotics, AI, drone technology",
+      "excerpt": "The signatories to the MoU were Prof Pradipta Kumar Nanda, Pro-Vice-Chancellor, SOA and Subhajit Nayak and Dhrutidhar Behera",
+      "sourceUrl": null,
+      "webUrl": "https://www.edexlive.com/news/2023/jan/20/odisha-soa-signs-mous-with-start-ups-specialising-in-robotics-ai-drone-technology-33446.html",
+      "originalUrl": "https://www.edexlive.com/news/2023/jan/20/odisha-soa-signs-mous-with-start-ups-specialising-in-robotics-ai-drone-technology-33446.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.edexlive.com/uploads/user/imagelibrary/2023/1/20/original/robotics-4113409_1280.jpg",
+          "width": 1280,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.edexlive.com/news/2023/jan/20/odisha-soa-signs-mous-with-start-ups-specialising-in-robotics-ai-drone-technology-33446.amp",
+      "cdnAmpWebUrl": "https://m-edexlive-com.cdn.ampproject.org/c/s/m.edexlive.com/news/2023/jan/20/odisha-soa-signs-mous-with-start-ups-specialising-in-robotics-ai-drone-technology-33446.amp",
+      "publishedDateTime": "2023-01-19T18:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "edexlive",
+        "domain": "edexlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-seattle-fintech-meetup-measure-what-matters-dei-in-fintech.md",
       "title": "Seattle Fintech Meetup: “Measure What Matters: DEI in Fintech”",
       "excerpt": "Included.ai and Remitly are excited to co-host a special event focusing on an important topic near to our hearts: diversity, equity, and inclusion in tech. Our theme is “Measure What… Read More",
@@ -882,7 +968,7 @@
       "originalUrl": "https://www.wired.com/story/cheaters-hacked-an-ai-bot-and-beat-the-rocket-league-elite/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1120,91 +1206,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-is-artificial-intelligence-a-net-positive-for-carbon-emissions.md",
-      "title": "Is Artificial Intelligence A Net-Positive For Carbon Emissions?",
-      "excerpt": "Artificial Intelligence is playing an ever-larger role in the global energy industry, but as it grows its carbon footprint is also growing and threatening to undermine its work",
-      "sourceUrl": null,
-      "webUrl": "https://oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A-Net-Positive-For-Carbon-Emissions.html",
-      "originalUrl": "https://oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A-Net-Positive-For-Carbon-Emissions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-01-18_feepyk1js4.jpg",
-          "width": 718,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A-Net-Positive-For-Carbon-Emissions.amp.html",
-      "cdnAmpWebUrl": "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A-Net-Positive-For-Carbon-Emissions.amp.html",
-      "publishedDateTime": "2023-01-18T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crude Oil Prices",
-        "domain": "oilprice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-michigans-atwater-brewery-releases-ipa-created-by-artificial-intelligence.md",
-      "title": "Michigan’s Atwater Brewery releases IPA created by artificial intelligence",
-      "excerpt": "Artificial Intelligence IPA is a 6.5% brew made with a blend of Centennial, Citra, and Amarillo hops, which results in tropical and citrus flavors and aromas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html",
-      "originalUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EJPLGYZV7BETJGYP34T37UYWMQ.jpeg",
-          "width": 3024,
-          "height": 2530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html?outputType=amp",
-      "publishedDateTime": "2023-01-18T11:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MLive",
-        "domain": "mlive.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

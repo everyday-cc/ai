@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-19T21:47:00Z
 originalUrl: "https://www.medpagetoday.com/special-reports/exclusives/102705"
 webUrl: "https://www.medpagetoday.com/special-reports/exclusives/102705"
 type: article
-quality: 21
+quality: 41
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Natural Language Processing
   - AI
   - Facebook AI
+
+images:
+  - url: "https://assets.medpagetoday.net/media/images/102xxx/102705.jpg"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
   - title: "AI and Political Lobbying"
@@ -51,6 +57,6 @@ related:
         height: 530
         isCached: true
 
-secured: "sVVDd2oST1oqx5Q8a69xt18S0rOZ3XyOljU4aM7+FXoBBLuq45J4mzl0k6iNl4sJjrPrE9MQFtN2C3rkLgLXLadLArB+uX8E6KY1MXqan/t+ADghKSlrZ1wZUn2XkTZYShZ1zrV6tUpLqD5Ifp0Rj0a4Z+3fMFrhg+F2KaiyUEQMRl918fVxQzJ0PfDKtP2AdydAc4sto/uYptWYrFsq8Cacje4/gPYiwuu0XVhvKTAU8Esiv2g8ku5gYrG4q8lNeCWXW+IS4n8xmzV9Un+AQ3DrcaqeHebxhAYAN/nzXgjK7h1GD7TIAFxGMwbOLV8jOOC+aNN/22LqMcowHeP+bFxs4xfPsFSbzAXdb6Z//64=;VzlI/tNS7ZzyAco0bjwblQ=="
+secured: "9QsN08nDXSrG2A+djyJ18z74K3JEjsO2t2dHEDabou2R/NrDBrVZFfYOA5Zql9QTdZ9RXdOaD3UuIG7/LAIVlD2fraNjLAuaPXT1HgVwDIjy96SD5j+/XF8AuwwAAPtnDGe2WDRM2quOxXubzedNbPEqgfjbj6MfHiPyCc5+OxL/KTblbND36eOOMiWoGM7ns5VaZig4sy+ZK9N/2KGbn3I1DxSaZJFyYsHOBAs+wOvsqVtEDBjlWFyS4FvpLUESHKIvcy3pHAQCe7QLca0oPDcwbHiyENxEHmOBkxm4AB46sQ8Mt2IHCWgRXWxYPuPrrGj7+PT61waGhx9AshQ+i0apuJt+Vf3NJE1T0UAy/zI=;pvqp4qlomE4vhxk2ewRTAA=="
 ---
 

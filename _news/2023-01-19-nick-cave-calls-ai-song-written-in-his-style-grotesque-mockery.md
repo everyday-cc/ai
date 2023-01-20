@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nick-cave-calls-ai-song-written
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -55,6 +55,22 @@ related:
       name: CNN
       domain: cnn.com
     quality: 46
+  - title: "Are AI-generated songs a ‘grotesque mockery’ of humanity or simply an opportunity to make a new kind of music?"
+    excerpt: "Nick Cave has condemned a song designed and directed by ChatGPT. But new technology should be embraced, not feared"
+    publishedDateTime: 2023-01-20T00:45:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/jan/20/are-ai-generated-songs-a-grotesque-mockery-of-humanity-or-simply-an-opportunity-to-make-a-new-kind-of-music"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jan/20/are-ai-generated-songs-a-grotesque-mockery-of-humanity-or-simply-an-opportunity-to-make-a-new-kind-of-music"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jan/20/are-ai-generated-songs-a-grotesque-mockery-of-humanity-or-simply-an-opportunity-to-make-a-new-kind-of-music"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 37
+    images:
+      - url: "https://i.guim.co.uk/img/media/0948d59fb030eded9708f45aa62c88502b788f86/531_192_4148_2488/master/4148.jpg?width=620&quality=85&auto=format&fit=max&s=37853aa317d016331a77a197bfbd40b3"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "xsU/H4hdHw5IV0ez4tFCKs84HHVkRaht2V3pcvknYQx+6M2Fq1zbPGm1dJLCXMi1krjuzBa5eLNvJIuKbgvErl3bBvuhRZuQ7vnQIVe2uE19D1wT4/fo82ltL5x4wQ9riy84HXMWidfk5uFZaxatoCE4EVe+3aeHracPTeY4LIdGB2loHqH0UlQ5zBUpom3PvpjbJCZ1xpGN4I6wMYtYJDHW1eI0FFR0BDxA+NGznmXUrSnXkNGys8YPU7fZV52iUbv0KgxUgygiQ+SnqL+hruIj3nLe29yN5gt18NvWBxN9r3G6YVD9pWvuDufTuLwagEiv4qoF6cp221YukOJZDxuqWWNkBcPaYeTu+LXuHxk=;48os5Pbv6SG8VqY20WDlEQ=="
 ---

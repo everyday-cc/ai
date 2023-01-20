@@ -2,9 +2,9 @@
 category: news
 title: "Seeq Recognizes its 2022 Reseller and Service Partners of the Year"
 excerpt: "Annual partner awards, honoring excellence in delivering the next generation of process manufacturing improvements, announced at Seeq Global Partner Symposium in Las Vegas. LAS VE"
-publishedDateTime: 2023-01-18T15:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/01/18/9745322.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/01/18/9745322.htm"
+publishedDateTime: 2023-01-18T14:25:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/01/18/9745322.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/01/18/9745322.htm"
 type: article
 quality: 24
 heat: 24
@@ -40,6 +40,6 @@ related:
         height: 313
         isCached: true
 
-secured: "AoTJvZ0uL5tW2uzCP6SJvGD+KW9NYbGZMY3Cq59+1IIUSH61adbJzMLS0tH5BPTHL6BWSQ2BmdljHrWJ+9gHnsaHUEHVHfY1NCIzFcBHoqZUmK+rHa0OjkawnjLXKOYJGo+TRJLsyrynAW8KbbLoPGFPNCBX8rP7RO28PJTHO+LnPCuVRf0kldNL0KOKehZwNXO+Iuor6Y/AeCRj0m1bCq4PjRLiD1DDKHzBWYhxWZwJ3L+gqXjngMC6v+RKhpcsXbsyZRN/3u6ukgXDcVIOXD00xnC9zuJfpL1qUKp84gkmfFtuMd+jOmX9tAh6A4Sxpy16EaYvTpe3L9urzuK60a4hFnfW85fHh14cCtWVoW4=;vVOvhXlGC83mp+yFMhNssQ=="
+secured: "TBQ8QjzN8BhFu5M9Gudwokfbcoz8UKh48Zs/GRQoPmsp3mN+rmlhCFZZAEnQTC1xh8F0bojcsVZfKZ2dEbzc31lsR9dfiE8tX6onDdxLCkeg1irGLn5r2mkKolUgJL4K+md6ZCoQ9Vw5YF841k35YYRcFxwyMyzQamm0oSqiBhnHGuifN4rYGXJHgq+p1kSTK8WmK+9uR2JX/E3BFaSqH17IEhrho5k5GkgMt7RL/MAOvQXQX2/4SUupIn4Du42Mvnrnvzgcq41Lsc7KDEfBQnQhhtBgmCmhIm5QSYLxJLw5i6ltd24Pr+Qz5l3kVZYuESR1oDP/8tT1RPx/qcawnojDhkzZULH59o2wncJ3D40=;fNQsBbLrXaZFjZrgGJYjgA=="
 ---
 

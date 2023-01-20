@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/achieving-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/17/achieving-next-level-value-from-ai-by-focusing-on-the-operational-side-of-machine-learning/amp/"
 type: article
 quality: 94
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Achieving reliable generative AI"
+    excerpt: "Generative AI systems like DALL·E 2 and ChatGPT are fun. Here are some ways we'll be able to make them reliable and truly useful."
+    publishedDateTime: 2023-01-20T02:07:00Z
+    webUrl: "https://venturebeat.com/ai/achieving-reliable-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/achieving-reliable-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/achieving-reliable-generative-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-robot_drawing_AI-image_text-to-image_generative-ai_180822246.jpg?w=1200&strip=all"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "6kLvJhWktJ4RqnZO3UBZvWHpErbYRBAtI4ftn06xsdcGGHzMs/LpmLxPsTxsnWmKuYFD4J9jQap6Vn9wTkGRfcyMW5ewpR4KoPMPrY9lGBR8TtVYzMhUTCX0nEZeWzHsbIDOJil15TaJxaXZhRYVYNDD6xTJq9Yt1pQzwivK3Q4PGi46zuko5JGmIawSQVsrYi6CeIRx/kUmsNhkRvKblAC4y+iHgHPBlXI0NRKDGE1gvfHPYE0ILxezCA0gJ9i/h0Yoptw+Apygy6DMcN9cJ87gjWgjx8vClHUiVBV0g7TmYLoXbEgmCt+gfJvKwhNg8cXYr1ZyS2jSAg4H6vft5fyKN62XFcmC9y1+vMzS+5HLsH9xz8Lfz653KT1Tg6jnIt5qnHEbqMKRJdvyJneg6+uFulmnWN42fGoeslQp/k0AmYxzbJj4Ky8NKlLpt5UKvliNdrbPAIkTHdUcNMpJAOo+pqgpABpZQN0j1TH3j36fznOWLVBSj08KloqU2Ss3w6iNNZ6moT5QqalhYNuqGA==;oWUGOZ4dvFr9q2FR/u1dBw=="
 ---
