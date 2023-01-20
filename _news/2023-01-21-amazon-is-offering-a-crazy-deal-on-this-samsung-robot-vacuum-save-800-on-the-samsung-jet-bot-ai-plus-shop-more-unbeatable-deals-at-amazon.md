@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/20/05114223-78b5-47db-a110-ccf5e23919b3/thumbnail/1200x630/d6f08689398b5c080fcfb1d8809c0605/sasung-jetbot-ai-header.png"
