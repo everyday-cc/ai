@@ -673,20 +673,6 @@ related:
       name: Gulf Times
       domain: gulf-times.com
     quality: 19
-  - title: "Everybody Loves ChatGPT Except For Nick Cave, Who Is Unimpressed With AI-Generated Lyrics Meant To Be Like His"
-    excerpt: "Cave called the ChatGPT-generated song ’bullsh*t’ and explained why it is ’a grotesque mockery of what it is to be human.’"
-    publishedDateTime: 2023-01-16T18:54:00Z
-    webUrl: "https://uproxx.com/indie/nick-cave-hates-chatgpt-lyrics-ai/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 19
-    images:
-      - url: "https://uproxx.com/wp-content/uploads/2023/01/2-nick-1.jpg?w=710"
-        width: 710
-        height: 400
-        isCached: true
   - title: "We Used ChatGPT To Write An Article About... ChatGPT. This Is What Happened"
     excerpt: "Many people are talking about ChatGPT because it is a very advanced computer programme that can understand and respond to human language in a very natural way. It can answer questions, have conversations,"
     publishedDateTime: 2023-01-19T08:49:00Z

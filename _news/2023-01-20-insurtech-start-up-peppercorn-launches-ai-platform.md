@@ -23,17 +23,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "InvesTech startup Octanom Tech launches AI-backed trading solutions platform"
-    excerpt: "The company plans to disrupt the online retail trading space with three similar revolutionary platforms over the next two years in India and in the US.The Hedged app is available on the Google Play Store,"
-    publishedDateTime: 2023-01-16T17:31:00Z
-    webUrl: "https://economictimes.indiatimes.com/markets/stocks/news/investech-startup-octanom-tech-launches-ai-backed-trading-solutions-platform/articleshow/97037616.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 14
-
 secured: "RFeUuPQPxzBNwfh6LGlTt7sIC+ONSKxdbeP4Xoa2RjDbMaTLP/9PUSlIyZptC/WMXbc5CFN1I1+6widQZ/mzAEZdrg4zJc+HsQaK+KTWX5kRyzXfUkqY/S16/6P6MFBxZ2VU5jmvabYNnKC+X71oIzOmjFvEXspKnTiz6ek6cL7j32/rZF7KnBSKtzyrL9U6nQZwki6DfpOqZcCgmOZrivXrF3a9sWwJI1ORa5vTG35wTK3zuxlBWFViMaIe9upay1fMrcpfz7VNSfLS4yRQlaFuvHBtHr1dCZdoHuSC6gZqWi5U93K8fT7g8kU2Z0L1afeyeeCCerbm2UnmG9U/8A6glQ1XJCfeByQnb+16AM8=;TXPzJL/QW1SsjE92+qIXBQ=="
 ---
 

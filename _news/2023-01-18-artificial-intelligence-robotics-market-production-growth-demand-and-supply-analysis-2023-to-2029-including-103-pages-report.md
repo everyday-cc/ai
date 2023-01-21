@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-production-growth-demand-and-supply-analysis-2023-to-2029-including-103-pages-report-2023-01-17"
 type: article
 quality: 73
-heat: 363
+heat: 353
 published: true
 
 provider:
@@ -179,20 +179,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition in Retail Market New Insight Report 2023 with Strategic Decision-Making and Identification of Major Corporations"
-    excerpt: "Global \"Image Recognition in Retail Market\" Analysis and Outlook 2023 | Exclusive Report [ No of Pages 126]. The"
-    publishedDateTime: 2023-01-16T17:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-new-insight-report-2023-with-strategic-decision-making-and-identification-of-major-corporations-2023-01-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

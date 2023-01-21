@@ -34,6 +34,20 @@ related:
       name: CNN
       domain: cnn.com
     quality: 47
+  - title: "The best things about Toronto according to artificial intelligence"
+    excerpt: "What's the best thing about living in Toronto? Depending on who you ask, some might say the city's multiculturalism, thriving food scene, or the"
+    publishedDateTime: 2023-01-21T10:18:00Z
+    webUrl: "https://www.blogto.com/city/2023/01/best-things-about-toronto-according-artificial-intelligence/"
+    type: article
+    provider:
+      name: blogTO
+      domain: blogto.com
+    quality: 39
+    images:
+      - url: "https://media.blogto.com/articles/2023120-best-things-toronto.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "L0k8tqbefdVEkWqsmhB2/imUi3RsSN2av4LexAl/xp6spS3mrpL/cIrTPHrN+SLop44ZWoOTVEl9k67R3E9ZM3MNJvAQIUfj9dEN5pqCzmqKjjJhlC4yM06hQiFf5lok6K670Dg/Ulu6NzrXYtUShdKFFq/EBBr14XzXAZZsdm1kOTnqCBBes3l1Us5BYH4kY2zQKdioEZ9fub9KZe0iRR44ku3NW4smJoYcz7PBtDMQtxZmvQXTLZ4fmY/CwENrHmI9K5+txn8ohSMeYLhW8TSED7bWyWiK8q1wE55GYwYSq5aiTgEx0xIFvQZw1kJCe0hLXh4TMTuz7qamYrUhBfFav4yE7EeWlNLjSo6ABfM=;CkzFsSfWAwel+bKJpMM6cw=="
 ---

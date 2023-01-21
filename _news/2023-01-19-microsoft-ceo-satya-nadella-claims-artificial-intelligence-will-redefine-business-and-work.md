@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claim
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work?amp=1"
 type: article
 quality: 109
-heat: 319
+heat: 309
 published: true
 
 provider:
@@ -264,15 +264,6 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 47
-  - title: "Microsoft’s CPO Teases Future Versions Of AI-Powered Windows"
-    excerpt: "Earlier this month at AMD’s CES 2023 keynote, Microsoft's EVP & Chief Product Officer (CEO), Panos Panay revealed that AI (artificial intelligence) is"
-    publishedDateTime: 2023-01-16T18:44:00Z
-    webUrl: "https://www.techworm.net/2023/01/microsofts-cpo-teases-future-versions-of-ai-powered-windows.html"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 36
   - title: "Microsoft plans to add AI capabilities into every product"
     excerpt: "Microsoft plans to incorporate artificial intelligence products from ChatGPT and Dall-E 2 maker OpenAI in all of its"
     publishedDateTime: 2023-01-17T20:35:00Z

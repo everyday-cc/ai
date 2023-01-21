@@ -190,20 +190,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition in Retail Market New Insight Report 2023 with Strategic Decision-Making and Identification of Major Corporations"
-    excerpt: "Global \"Image Recognition in Retail Market\" Analysis and Outlook 2023 | Exclusive Report [ No of Pages 126]. The"
-    publishedDateTime: 2023-01-16T17:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-new-insight-report-2023-with-strategic-decision-making-and-identification-of-major-corporations-2023-01-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "3D Facial Recognition Market Statistics 2023 : Industry Demand, Prominent Players Strategies, Size, SWOT Analysis and Forecast 2028"
     excerpt: "Rising demand for Banking & Finance, Consumer Electronics, Government & Defense, Healthcare, Commercial Security, Residential, Others will drive the 3D Facial Recognition segment"
     publishedDateTime: 2023-01-19T00:13:00Z

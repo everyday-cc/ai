@@ -272,15 +272,6 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 47
-  - title: "Microsoft’s CPO Teases Future Versions Of AI-Powered Windows"
-    excerpt: "Earlier this month at AMD’s CES 2023 keynote, Microsoft's EVP & Chief Product Officer (CEO), Panos Panay revealed that AI (artificial intelligence) is"
-    publishedDateTime: 2023-01-16T18:44:00Z
-    webUrl: "https://www.techworm.net/2023/01/microsofts-cpo-teases-future-versions-of-ai-powered-windows.html"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 36
   - title: "Satya Nadella says golden age of Artificial Intelligence is here, good for humanity"
     excerpt: "In a session at the ongoing five-day annual meeting of the World Economic Forum, Nadella said that technology will provide more and more ways to bring people together."
     publishedDateTime: 2023-01-19T05:45:00Z

@@ -59,6 +59,22 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Commentary: Artificial intelligence can’t reproduce the wonders of original human creativity"
+    excerpt: "The biggest story of the year — the story we should all be paying attention to — is the increasing power of artificial intelligence. Computer code can write itself, chatbots"
+    publishedDateTime: 2023-01-21T08:00:00Z
+    webUrl: "https://www.yakimaherald.com/opinion/commentary-artificial-intelligence-can-t-reproduce-the-wonders-of-original-human-creativity/article_7587b1c2-96ef-11ed-b879-ef837a5d11ec.html"
+    ampWebUrl: "https://www.yakimaherald.com/opinion/commentary-artificial-intelligence-can-t-reproduce-the-wonders-of-original-human-creativity/article_7587b1c2-96ef-11ed-b879-ef837a5d11ec.amp.html"
+    cdnAmpWebUrl: "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/commentary-artificial-intelligence-can-t-reproduce-the-wonders-of-original-human-creativity/article_7587b1c2-96ef-11ed-b879-ef837a5d11ec.amp.html"
+    type: article
+    provider:
+      name: Yakima Herald-Republic
+      domain: yakimaherald.com
+    quality: 46
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/b/91/b91f8270-96ef-11ed-a539-7bf89a46a19d/63c78198bfc59.image.jpg?resize=1024%2C655"
+        width: 1024
+        height: 655
+        isCached: true
   - title: "How AI is combatting burnout"
     excerpt: "Kintsugi last year raised $20mn Series A funding for the development of its AI tech that can detect depression and anxiety using short audio clips of someone’s speech. Kintsugi is already helping clinicians conduct mental health screenings."
     publishedDateTime: 2023-01-18T17:00:00Z

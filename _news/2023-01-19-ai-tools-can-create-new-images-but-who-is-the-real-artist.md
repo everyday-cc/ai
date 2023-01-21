@@ -1,28 +1,28 @@
 ---
 category: news
 title: "AI tools can create new images, but who is the real artist?"
-excerpt: "Countless artists have taken inspiration from “The Starry Night” since Vincent Van Gogh painted the swirling scene in 1889."
-publishedDateTime: 2023-01-19T13:15:00Z
-originalUrl: "https://www.denverpost.com/2023/01/19/ai-tools-can-create-new-images-but-who-is-the-real-artist-2/"
-webUrl: "https://www.denverpost.com/2023/01/19/ai-tools-can-create-new-images-but-who-is-the-real-artist-2/"
-ampWebUrl: "https://www.denverpost.com/2023/01/19/ai-tools-can-create-new-images-but-who-is-the-real-artist-2/amp/"
-cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2023/01/19/ai-tools-can-create-new-images-but-who-is-the-real-artist-2/amp/"
+excerpt: "Artificial intelligence systems are training themselves on a vast collection of digitized artworks to produce new images that can be conjured in seconds from a smartphone app"
+publishedDateTime: 2023-01-19T09:06:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/ai-tools-create-new-images-real-artist-96532225"
+webUrl: "https://abcnews.go.com/Business/wireStory/ai-tools-create-new-images-real-artist-96532225"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-tools-create-new-images-real-artist-96532225"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-tools-create-new-images-real-artist-96532225"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Denver Post
-  domain: denverpost.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.denverpost.com/wp-content/uploads/2023/01/Artificial_Intelligence_Image_Generators_10313-1.jpg?w=1024&h=682"
-    width: 1024
-    height: 682
+  - url: "https://s.abcnews.com/images/Health/wirestory_1c6d9e0e260e2d135a3e3bf98d5493df_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -68,6 +68,6 @@ related:
         height: 420
         isCached: true
 
-secured: "UQhaKdwZPi5nV584/e7iq9Ky6UDTZdj1GDUatBljFZMk0IPcpce8RjhTX5GT/6/Ab3q8cjiuy2tOveGgU8PnazaFuyYX7L5tNLpW+InDWY8uUy7qt7c9NnH0x9MiPrneho3K16ILDYzzE8vtAGdeKVHgfnVLfe6cEKKtt0DZaiWtb4704F/c0ZyOhAyxfcAN1/sgnSLyMmQc0IZWRPsTgv4rq3PDYbsCCVYEgbSVrG0RbbwDH+Zq+Y6RZOHohMdSB0Apu4nAjs6bgP+r9Ofc8VY0g34yfTyoOsfjyPYkDHr8VHzjh5JrJFvrTQhdRGlnYL+VgdKc4T4Jv87pNHHNVqw7SilPViCgaCVFGhawisMDigVYQ+dGeouIEBxyMasVQ3VxE1Vu0Rthp0P/f+oUVx/4qtu7YQ3+STKnbRuJVvH2zlTemxDMOXhNXjwZBpgI1lReO9f2ZJ1Cz8RWLTtr+jPeBgMpIcPk3jB5EbVICIXVtERG70sgYZcZl0WHis3MOGaAzv5850BYYNQd/0vZ9Q==;9TAo3ZkCC2qSRjl6jUuZ4A=="
+secured: "J6lyBI0Dq6H1LJfSA4xWHoWHwLfFM8nJaAQwCs6US7fbxSOx/4I2UCi9WFPPiwJAl3tIfr/95buXmia51/OVfaMrn04EqwKBbvBJV4iAxQDVB1XtezOfRO6s184YnCgeXGNgqLIioL0UvHdtogfNBQnTwgLGABICgFST+xg7JARyLSp8d3ZuLIAEJazLuCLUviHnuq0ZCj4c+90iHMTCQg8ZhVNj819lzdfv79kpTucKTc6HQV4CQTiBthamT388EPVgP+k18CyRBtVEA1tM5OTVu7KVxId8M3k8ww6fgkFOUgCKZxtbe4FDFtfZekly3syov4FQ10ZWSqtN315imHjOEhy0NFyoAwKLmVPtqtM=;ynBY37XP1sIE9KRcc/KPTg=="
 ---
 

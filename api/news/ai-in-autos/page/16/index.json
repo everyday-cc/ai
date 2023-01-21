@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-10-05-preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise.md",
+      "title": "Preparing For Artificial Intelligence-Enabled IT Services: Machine-Induced Noise",
+      "excerpt": "and how to deploy artificial intelligence (AI) and machine learning (ML) techniques to identify and remove the noise. This article covers machine-induced noise. Before we get into that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621f96c5064da803e2d507d9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/05/preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise/amp/",
+      "publishedDateTime": "2022-10-05T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-gatik-goes-driverless-in-canada-for-grocery-giant-loblaws.md",
       "title": "Gatik Goes Driverless In Canada For Grocery Giant Loblaws",
       "excerpt": "based company's driverless delivery operations. Gautam Narang, CEO and co-founder, Gatik “As of today Gatik is the first and only autonomous trucking company operating in a commercial capacity ...",
@@ -1401,49 +1453,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-you-can-now-take-a-driverless-lyft-in-austin-heres-what-you-need-to-know.md",
-      "title": "You can now take a driverless Lyft in Austin. Here's what you need to know",
-      "excerpt": "Planning on taking a Lyft soon? Your next ride in Austin could be driverless. Ride-hailing company Lyft is now offering riders the option of choosing an autonomous vehicle in some areas of Austin.",
-      "sourceUrl": null,
-      "webUrl": "https://www.statesman.com/story/business/technology/2022/09/30/you-can-now-take-a-driverless-lyft-in-parts-of-austin/69527964007/",
-      "originalUrl": "https://www.statesman.com/story/business/technology/2022/09/30/you-can-now-take-a-driverless-lyft-in-parts-of-austin/69527964007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/07/22/NAAS/aba8586b-d3dd-4843-b7ae-7a3f6191805b-Ford_Argo_AI_4th_Gen_Self-Driving_Vehicle_01.jpg?auto=webp&crop=5598,3149,x0,y39&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Austin American-Statesman",
-        "domain": "statesman.com",
         "images": null,
         "publishers": null,
         "authors": null

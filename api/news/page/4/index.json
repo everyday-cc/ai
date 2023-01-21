@@ -857,50 +857,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-17-msg-risks-government-support-by-targeting-enemies-with-facial-recognition-tech-pols-warn.md",
-      "title": "MSG risks government support by targeting ‘enemies’ with facial recognition tech, pols warn",
-      "excerpt": "Elected officials are warning Madison Square Garden Entertainment better stop using “terrifying” facial recognition software to boot rival attorneys at its venue.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/",
-      "originalUrl": "https://nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/01/msg-facial-recognition-comp-03.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/amp/",
-      "publishedDateTime": "2023-01-16T11:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2023-01-17-study-reveals-machine-learning-can-predict-brain-tumor-progression.md",
       "title": "Study reveals machine learning can predict brain tumor progression",
       "excerpt": "Researchers at the University of Waterloo have developed a computational model to better accurately anticipate the emergence of lethal brain tumours.",
@@ -1229,6 +1185,49 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-machine-learning-predicts-brain-tumor-progression.md",
+      "title": "Machine Learning Predicts Brain Tumor Progression",
+      "excerpt": "Researchers used a deep learning model to turn the MRI data into patient-specific parameter estimates that inform a predictive model for brain tumor growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
+      "originalUrl": "https://www.medindia.net/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/salmonella-for-treatment-of-glioblastoma.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
+      "publishedDateTime": "2023-01-16T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "India introduces face, iris biometrics system to reduce bank fraud"
-    excerpt: "Large private and public banks have been given the green light to conduct face and iris biometric checks for substantial financial transactions."
-    publishedDateTime: 2023-01-16T17:55:00Z
-    webUrl: "https://www.biometricupdate.com/202301/india-introduces-face-iris-biometrics-system-to-reduce-bank-fraud"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/07140653/iris-biometric-scaled.jpg"
-        width: 2048
-        height: 1408
-        isCached: true
   - title: "GBT’s face and ‘body’ biometrics patent granted, imaging invention published"
     excerpt: "A pair of patents from GBT Technologies have advanced with the USPTO. One is for face and body biometrics, one for motion detection and imaging."
     publishedDateTime: 2023-01-16T19:34:00Z

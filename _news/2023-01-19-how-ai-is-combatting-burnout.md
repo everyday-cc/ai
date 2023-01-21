@@ -51,6 +51,22 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Commentary: Artificial intelligence can’t reproduce the wonders of original human creativity"
+    excerpt: "The biggest story of the year — the story we should all be paying attention to — is the increasing power of artificial intelligence. Computer code can write itself, chatbots"
+    publishedDateTime: 2023-01-21T08:00:00Z
+    webUrl: "https://www.yakimaherald.com/opinion/commentary-artificial-intelligence-can-t-reproduce-the-wonders-of-original-human-creativity/article_7587b1c2-96ef-11ed-b879-ef837a5d11ec.html"
+    ampWebUrl: "https://www.yakimaherald.com/opinion/commentary-artificial-intelligence-can-t-reproduce-the-wonders-of-original-human-creativity/article_7587b1c2-96ef-11ed-b879-ef837a5d11ec.amp.html"
+    cdnAmpWebUrl: "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/commentary-artificial-intelligence-can-t-reproduce-the-wonders-of-original-human-creativity/article_7587b1c2-96ef-11ed-b879-ef837a5d11ec.amp.html"
+    type: article
+    provider:
+      name: Yakima Herald-Republic
+      domain: yakimaherald.com
+    quality: 46
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/b/91/b91f8270-96ef-11ed-a539-7bf89a46a19d/63c78198bfc59.image.jpg?resize=1024%2C655"
+        width: 1024
+        height: 655
+        isCached: true
   - title: "What DALL-E reveals about human creativity"
     excerpt: "The often delightful and arresting images created by the latest generation of text-to-image generators, exemplified by DALL-E 2, Midjourney, and Stable Diffusion, have stirred up lots of buzz in both the arts and the AI worlds."
     publishedDateTime: 2023-01-19T18:26:00Z

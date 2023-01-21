@@ -335,50 +335,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-17-msg-risks-government-support-by-targeting-enemies-with-facial-recognition-tech-pols-warn.md",
-      "title": "MSG risks government support by targeting ‘enemies’ with facial recognition tech, pols warn",
-      "excerpt": "Elected officials are warning Madison Square Garden Entertainment better stop using “terrifying” facial recognition software to boot rival attorneys at its venue.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/",
-      "originalUrl": "https://nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/01/msg-facial-recognition-comp-03.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/01/16/pols-warn-msg-to-stop-using-facial-recognition-software-or-risk-losing-sweetheart-deals/amp/",
-      "publishedDateTime": "2023-01-16T11:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2023-01-16-natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028.md",
       "title": "Natural Language Processing (NLP) Market 2023 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028",
       "excerpt": "Pages Report] Rising demand for Consumer Goods Industry will drive the Natural Language Processing (NLP) segment growth over the next five years. Global Market Analysis for N",
@@ -1401,6 +1357,49 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-the-expanding-ease-and-utility-of-text-analytics-and-natural-language-processing.md",
+      "title": "The expanding ease and utility of text analytics and natural language processing",
+      "excerpt": "Statistical model techniques also produce the benefit of accelerating tradi- tional natural language processing (NLP) methods to reduce their time-to-value. Conversely, pairing these conventional methods with their newer statistical counterparts heightens ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=156495",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=156495",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/150767-JH_123.jpg-ORG.jpg",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-08T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
         "images": null,
         "publishers": null,
         "authors": null

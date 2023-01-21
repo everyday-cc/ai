@@ -2,49 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2022-11-04-tag-intelligent-object-recognition.md",
-      "title": "Tag: intelligent object recognition",
-      "excerpt": "ST. PAUL, Minn. – Alula, a provider of smart security and system communications for residential and commercial applications has announced several enhanced features for its Alula Smart Security App and AlulaConnect dealer portal. The features and updates ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.securitysystemsnews.com/tag/intelligent-object-recognition",
-      "originalUrl": "https://www.securitysystemsnews.com/tag/intelligent-object-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.securitysystemsnews.com/images/og-default-image.png",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security Systems News",
-        "domain": "securitysystemsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-02-retail-technology-gains-intelligence-from-computer-vision.md",
       "title": "Retail technology gains intelligence from computer vision",
       "excerpt": "This is where artificial intelligence (AI) and computer vision come into play, enabling cashless checkout and stock management. Cameras and sensors have been used by a number of enterprises in recent years to detect things and ring them up,",
@@ -1398,6 +1355,49 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-targeting-ai-computer-vision-innodisk-launches-new-camera-module-series.md",
+      "title": "Targeting AI & Computer Vision, Innodisk Launches New Camera Module Series",
+      "excerpt": "and are expected to achieve outstanding results in the increasingly prosperous field of AI computer vision applications.\" Innodisk hopes that its latest expansion into the camera market alongside ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/targeting-ai-computer-vision-innodisk-launches-new-camera-module-series",
+      "originalUrl": "https://www.asiaone.com/business/targeting-ai-computer-vision-innodisk-launches-new-camera-module-series",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/pr-newswire_500_4_1128.jpg?h=7de12b8a&itok=RhGXQ4Eq",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T00:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],
