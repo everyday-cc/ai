@@ -52,15 +52,6 @@ related:
         width: 1024
         height: 756
         isCached: true
-  - title: "Facial recognition will transform airport security"
-    excerpt: "He has studied aviation security for more than 25 years, and wrote this for the Chicago Tribune. Imagine using technology that never forgets a face, while improving airport security and shortening lines."
-    publishedDateTime: 2023-01-16T12:00:00Z
-    webUrl: "https://www.bangordailynews.com/2023/01/16/opinion/opinion-contributor/facial-recognition-airport-security/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 51
   - title: "Facial recognition: Can fake data produce real results?"
     excerpt: "Diversifying training datasets with computer-generated faces may help break down bias in the technology, but one expert says using synthetic images is a step too far."
     publishedDateTime: 2023-01-20T21:46:00Z

@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-12-childhood-lead-exposure-tied-to-worse-cognitive-function-in-late-life.md",
+      "title": "Childhood lead exposure tied to worse cognitive function in late life",
+      "excerpt": "Exposure to lead in childhood is associated with worse cognitive functioning in late life, according to a study published in the Nov. 11 issue of Science Advances. Haena Lee, Ph.D., from ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-childhood-exposure-worse-cognitive-function.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-childhood-exposure-worse-cognitive-function.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/childhood-lead-exposur.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-childhood-exposure-worse-cognitive-function.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-childhood-exposure-worse-cognitive-function.amp",
+      "publishedDateTime": "2022-11-11T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-12-how-2022-became-the-year-of-generative-ai.md",
       "title": "How 2022 became the year of generative AI",
       "excerpt": "In 2022, generative AI saw better algorithms and larger models and datasets, which created better images and higher-quality software code.",
@@ -1286,58 +1329,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-openai-will-give-roughly-10-ai-startups-1m-each-and-early-access-to-its-systems.md",
-      "title": "OpenAI will give roughly 10 AI startups $1M each and early access to its systems",
-      "excerpt": "OpenAI's new Converge program will grant roughly ten AI startups $1 million in funding and access to Open AI resources, including AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/02/openai-will-give-roughly-ten-ai-startups-1m-each-and-early-access-to-its-systems/",
-      "originalUrl": "https://techcrunch.com/2022/11/02/openai-will-give-roughly-ten-ai-startups-1m-each-and-early-access-to-its-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?resize=1200,812",
-          "width": 1200,
-          "height": 812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/02/openai-will-give-roughly-ten-ai-startups-1m-each-and-early-access-to-its-systems/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/02/openai-will-give-roughly-ten-ai-startups-1m-each-and-early-access-to-its-systems/amp/",
-      "publishedDateTime": "2022-11-03T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

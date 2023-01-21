@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-10-07-pixel-7-facial-recognition-is-finally-available-but-there-is-a-catch.md",
+      "title": "Pixel 7: facial recognition is finally available but there is a catch",
+      "excerpt": "Pixel 7: facial recognition is finally available but there is a catch. You can finally use Face Unlock using the front-facing camera.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2022/10/07/pixel-7-facial-recognition-is-finally-available-but-there-is-a-catch/",
+      "originalUrl": "https://www.gizchina.com/2022/10/07/pixel-7-facial-recognition-is-finally-available-but-there-is-a-catch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/10/Google-makes-Face-Unlock-official-for-Pixel-7-series-new-fingerprint-sensor-is-included-too.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2022/10/07/pixel-7-facial-recognition-is-finally-available-but-there-is-a-catch/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/10/07/pixel-7-facial-recognition-is-finally-available-but-there-is-a-catch/amp/",
+      "publishedDateTime": "2022-10-07T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-the-pixel-7s-face-unlock-is-only-for-the-lock-screen-and-cant-be-used-to-replace-a-fingerprint.md",
       "title": "The Pixel 7's Face Unlock is only for the lock screen and can't be used to replace a fingerprint",
       "excerpt": "But as Google puts it, this authentication mode really relies on the company's \"advanced machine learning models\" for facial recognition. That said, camera systems have been fooled before and ...",
@@ -1359,50 +1402,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.md",
-      "title": "NetSuite ERP bolsters automation for HR, supply chain, sales and banking",
-      "excerpt": "Appealing to companies that are navigating a global labor shortage and supply-chain problems, NetSuite at its SuiteWorld conference has announced a wide variety of tools across its ERP suite to automate and optimize business processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/408298/netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.html",
-      "originalUrl": "https://www.cio.com/article/408298/netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/09/supply_chain_management_logistics_erp_enterprise_resource_planning_thinkstock_global_world_connections_614318676-100749847-orig-2.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/408298/netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.html/amp/",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/408298/netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.html/amp/",
-      "publishedDateTime": "2022-09-28T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -2,6 +2,346 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2022-11-05-the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most.md",
+      "title": "The people building artificial intelligence are the ones who need AI the most",
+      "excerpt": "There are many interesting use cases for artificial intelligence, from drug discovery to autonomous transportation. But the people seeing the most benefits from AI technologies to date are technologists themselves -- automating their operations and quality assurance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
+      "originalUrl": "https://www.zdnet.com/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/f2eb08abcc537ab2c2cd05be0d550ff349979f8d/2022/06/13/3b1b1376-bf08-4644-9d9f-ce95d7763287/4-ways-to-start-using-artificial-intelligence-ai-in-your-business.jpg?auto=webp&width=768",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most/",
+      "publishedDateTime": "2022-11-04T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI Hardware",
+        "IBM AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-robotics-engineering-week-to-address-critical-development-issues.md",
+      "title": "Robotics Engineering Week to address critical development issues",
+      "excerpt": "Robotics Engineering Week's sessions are focused on critical topics for robotics and automation professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/robotics-engineering-week-to-address-critical-development-issues/",
+      "originalUrl": "https://www.therobotreport.com/robotics-engineering-week-to-address-critical-development-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/11/featured-web-robotics-engineering-week.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures.md",
+      "title": "How code-generating AI (code LLMs) is creating new challenges as it matures",
+      "excerpt": "As code LLMs mature, we’re beginning to discover the challenges they must overcome, including licensing, transparency, security and control.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures/",
+      "originalUrl": "https://venturebeat.com/ai/how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1147087236-e1667580334849.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-code-generating-ai-code-llms-is-creating-new-challenges-as-it-matures/amp/",
+      "publishedDateTime": "2022-11-04T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-robot-with-brain-near-cheltenham-sorting-plastic-waste.md",
+      "title": "Robot with 'brain' near Cheltenham sorting plastic waste",
+      "excerpt": "\"But where we can really see robotic sorters making a difference is in environments which are less well suited for humans, such as the sorting of contaminated waste or working in",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-gloucestershire-63502444?via=indexdotco",
+      "originalUrl": "https://www.bbc.com/news/uk-england-gloucestershire-63502444?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/15380/production/_127521968_2.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-gloucestershire-63502444.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-gloucestershire-63502444.amp",
+      "publishedDateTime": "2022-11-04T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-elon-musk-has-fired-twitters-ethical-ai-team.md",
+      "title": "Elon Musk Has Fired Twitter’s ‘Ethical AI’ Team",
+      "excerpt": "As part of a wave of layoffs, the new CEO disbanded a group working to make Twitter’s algorithms more transparent and fair.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/twitter-ethical-ai-team/",
+      "originalUrl": "https://www.wired.com/story/twitter-ethical-ai-team/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6365367400aff92bacb21cde/master/pass/Musk_EthicalAI_twitter_biz_GettyImages-1395053069.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/twitter-ethical-ai-team/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/twitter-ethical-ai-team/amp",
+      "publishedDateTime": "2022-11-04T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-good-night-oppy-how-a-documentary-captures-the-human-robot-bond.md",
+      "title": "‘Good Night Oppy’: How a documentary captures the human-robot bond",
+      "excerpt": "A new documentary, “Good Night Oppy,” chronicles the familial bond between a pair of Mars rovers and their human “parents” at NASA. Opportunity and Spirit departed Earth in 2003. Upon successfully touching down on the red planet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.csmonitor.com/text_edition/The-Culture/Movies/2022/1104/Good-Night-Oppy-How-a-documentary-captures-the-human-robot-bond",
+      "originalUrl": "https://www.csmonitor.com/text_edition/The-Culture/Movies/2022/1104/Good-Night-Oppy-How-a-documentary-captures-the-human-robot-bond",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Christian Science Monitor",
+        "domain": "csmonitor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-ai-image-generator-dall-e-is-coming-to-your-apps.md",
+      "title": "AI image generator DALL-E is coming to your apps",
+      "excerpt": "OpenAI has announced that its AI image generator can now be integrated into apps and products through its new DALL-E API.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/ai-image-generator-dall-e-3231305/",
+      "originalUrl": "https://www.androidauthority.com/ai-image-generator-dall-e-3231305/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2022/11/twitter-1-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker.md",
       "title": "Transfer learning for TensorFlow object detection models in Amazon SageMaker",
       "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
@@ -803,323 +1143,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-more-than-300-industry-leaders-and-researchers-will-speak-this-month-at-weavesphere-canadas-preeminent-technology-innovation-conference.md",
-      "title": "More than 300 industry leaders and researchers will speak this month at WeaveSphere, Canada’s preeminent technology innovation conference",
-      "excerpt": "Keynote speakers include Dr. William Barry, an artificial intelligence (AI ... Marcel Mitran, IBM Fellow, IBM Master Inventor and the CTO for Cloud Platform for zSystems and LinuxONE, will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswire.ca/news-releases/ibm-canada-announces-robots-ai-avatars-and-more-than-300-industry-leaders-and-researchers-will-speak-this-month-at-weavesphere-canada-s-preeminent-technology-innovation-conference-888336195.html",
-      "originalUrl": "https://www.newswire.ca/news-releases/ibm-canada-announces-robots-ai-avatars-and-more-than-300-industry-leaders-and-researchers-will-speak-this-month-at-weavesphere-canada-s-preeminent-technology-innovation-conference-888336195.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T17:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire",
-        "domain": "newswire.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-abarth-uses-facial-recognition-tech-to-analyze-emotions-of-drivers-and-passengers.md",
-      "title": "Abarth Uses Facial Recognition Tech To Analyze Emotions Of Drivers And Passengers",
-      "excerpt": "Abarth has started trialing facial recognition technology to better understand the emotions that drivers and passengers experience in its cars. The car manufacturer partnered with Loughborough University for the project, sending participants out in an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/",
-      "originalUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2022/11/Abarth-Study-3.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/amp/",
-      "publishedDateTime": "2022-11-03T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-amd-unveils-new-radeon-rx-7900-xtx-gpu-with-rdna-3-to-take-on-nvidia-rtx-4000.md",
-      "title": "AMD unveils new Radeon RX 7900 XTX GPU with RDNA 3 to take on Nvidia RTX 4000",
-      "excerpt": "In addition to powering AMD's PC graphics cards, the company's GPU cores are also found on consoles ... that shares resources between rendering AI and ray tracing to make most effective use ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/hardware/computers-desktops/amd-unveils-new-radeon-rx-7000-gpu-with-rdna-3-to-take-on-nvidia-rtx-4000",
-      "originalUrl": "https://www.windowscentral.com/hardware/computers-desktops/amd-unveils-new-radeon-rx-7000-gpu-with-rdna-3-to-take-on-nvidia-rtx-4000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/eeVCzAfsfXxWK6Gxzp9JHo-1200-80.jpg",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T15:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-destiny-robotics-megi-kavtaradzes-entrepreneurial-adventure-in-the-usa.md",
-      "title": "Destiny Robotics - Megi Kavtaradze's entrepreneurial adventure in the USA",
-      "excerpt": "The goal of Destiny Robotics is to create socially intelligent, human-like robots that can interact with users in-depth. The main robot of the company is named Destiny. It has a natural appearance and a pleasant voice that is welcoming to individuals of all ages and currently,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/ka/business-news/destiny-robotics-megi-kavtaradzes-entrepreneurial/438491",
-      "originalUrl": "https://www.entrepreneur.com/ka/business-news/destiny-robotics-megi-kavtaradzes-entrepreneurial/438491",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1667513097-image-safe-zone-check.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-an-animal-model-of-west-syndrome-exhibits-a-progressive-increase-in-epileptic-spasms-and-learning-and-memory-deficits.md",
-      "title": "An animal model of West syndrome exhibits a progressive increase in epileptic spasms and learning and memory deficits",
-      "excerpt": "Researchers have provided the first demonstration of a progressive increase in epileptic spasms along with learning and memory deficits in an animal model of this disorder.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221103140808.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221103140808.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects-raises-33m.md",
-      "title": "Dataloop automates data management and annotation to accelerate AI projects, raises $33M",
-      "excerpt": "Dataloop, a data-management and labeling company for unstructured AI data, has raised $33M in a series B round of funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects-raises-33m/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects-raises-33m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/Automatic-Annotation-title.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 609,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects-raises-33m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects-raises-33m/amp/",
-      "publishedDateTime": "2022-11-03T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps.md",
-      "title": "OpenAI debuts DALL-E API so devs can integrate its AI artwork into their apps",
-      "excerpt": "OpenAI announced the introduction of an API for its DALL-E image synthesis model that will allow developers to easily integrate its AI image generation technology into their apps. DALL-E, currently available as a standalone commercial service,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/11/openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/11/openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/dalle_openai_corgis_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps/amp/",
-      "publishedDateTime": "2022-11-03T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

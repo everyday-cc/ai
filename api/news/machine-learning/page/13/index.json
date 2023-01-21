@@ -2,6 +2,105 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-10-03-achieve-four-times-higher-ml-inference-throughput-at-three-times-lower-cost-per-inference-with-amazon-ec2-g5-instances-for-nlp-and-cv-pytorch.md",
+      "title": "Achieve four times higher ML inference throughput at three times lower cost per inference with Amazon EC2 G5 instances for NLP and CV PyTorch models",
+      "excerpt": "Amazon Elastic Compute Cloud (Amazon EC2) G5 instances are the first and only instances in the cloud to feature NVIDIA A10G Tensor Core GPUs, which you can use for a wide range of graphics-intensive and machine learning (ML) use cases. With G5 instances, ML customers get high performance and a cost-efficient",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-four-times-higher-ml-inference-throughput-at-three-times-lower-cost-per-inference-with-amazon-ec2-g5-instances-for-nlp-and-cv-pytorch-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-four-times-higher-ml-inference-throughput-at-three-times-lower-cost-per-inference-with-amazon-ec2-g5-instances-for-nlp-and-cv-pytorch-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/03/ec2-g5-instances-four-times-1260x630.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T10:19:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-mlgt-professor-earns-nsf-career-award-for-computer-vision-and-ai-research.md",
+      "title": "ML@GT Professor Earns NSF CAREER Award for Computer Vision and AI Research",
+      "excerpt": "In a self-driving vehicle, cameras are stationed on all sides of the body, while an embedded AI system scans and processes the incoming data stream to continuously inform itself of appropriate actions to take.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
+      "originalUrl": "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2022/Judy%20Hoffman1.jpg",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cc.gatech.edu",
+        "domain": "gatech.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-10-02-self-taught-ai-may-have-a-lot-in-common-with-the-human-brain.md",
       "title": "Self-Taught AI May Have a Lot in Common With the Human Brain",
       "excerpt": "Neural networks can use self-supervised learning to figure out what matters. This process might be what helps humans do the same.",
@@ -1330,92 +1429,6 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-convolutional-neural-networks-trained-algorithm-may-help-diagnose-alveolar-bone-loss-in-periapical-x-rays.md",
-      "title": "Convolutional neural networks trained algorithm may help diagnose alveolar bone loss in periapical X-rays",
-      "excerpt": "A convolutional neural networks trained algorithm on radiographic images showed a diagnostic performance with moderate to good reliability to detect and quantify percentage alveolar bone loss",
-      "sourceUrl": null,
-      "webUrl": "https://medicaldialogues.in/dentistry/news/convolutional-neural-networks-trained-algorithm-may-help-diagnose-alveolar-bone-loss-in-periapical-x-rays-99206",
-      "originalUrl": "https://medicaldialogues.in/dentistry/news/convolutional-neural-networks-trained-algorithm-may-help-diagnose-alveolar-bone-loss-in-periapical-x-rays-99206",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily",
-        "domain": "medicaldialogues.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-health-information-exchange-hie-market-size-2022-share-by-major-companies-profile-competitive-landscape-and-key-regions-2029.md",
-      "title": "Health Information Exchange (HIE) Market Size 2022 | Share, by Major Companies Profile, Competitive Landscape and Key Regions 2029",
-      "excerpt": "Pre and Post Covid-19 is covered and Report Customization is available Global Health Information Exchange (HIE)",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/health-information-exchange-hie-market-size-2022-share-by-major-companies-profile-competitive-landscape-and-key-regions-2029-2022-09-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/health-information-exchange-hie-market-size-2022-share-by-major-companies-profile-competitive-landscape-and-key-regions-2029-2022-09-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

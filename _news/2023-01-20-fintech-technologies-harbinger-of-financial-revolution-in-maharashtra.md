@@ -66,20 +66,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "AI in Fintech Market is expected to represent Significant CAGR of +20% by 2030 |Next It Corp, NetGuardians, Intel"
-    excerpt: "AI in fintech is the use of artificial intelligence for financial data analytics, customer service, supply chain management, trading advice, and much more. For artificial intelligence in banking ..."
-    publishedDateTime: 2023-01-16T11:38:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-is-expected-to-represent-significant-cagr-of-20-by-2030-next-it-corp-netguardians-intel"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 18
-    images:
-      - url: "https://www.market-news.org/wp-content/uploads/2023/01/AI-in-Fintech-2.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "KFintech Drives Digital Transformation and Innovation in the Financial Services Industry with AWS"
     excerpt: "KFin Technologies Limited (KFintech), a leading technology-driven financial services firm, today announced it is using Amazon Web Services (AWS), to help the asset management industry digitally transform and build new products,"
     publishedDateTime: 2023-01-17T00:00:00Z

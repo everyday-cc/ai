@@ -57,15 +57,6 @@ related:
         width: 1024
         height: 756
         isCached: true
-  - title: "Facial recognition will transform airport security"
-    excerpt: "He has studied aviation security for more than 25 years, and wrote this for the Chicago Tribune. Imagine using technology that never forgets a face, while improving airport security and shortening lines."
-    publishedDateTime: 2023-01-16T12:00:00Z
-    webUrl: "https://www.bangordailynews.com/2023/01/16/opinion/opinion-contributor/facial-recognition-airport-security/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 51
   - title: "(Opinion) Sheldon Jacobson: How facial recognition will transform airport security"
     excerpt: "Imagine using technology that never forgets a face, while improving airport security and shortening lines. Such technology exists and may be coming to an airport near you. Every flyer over the past two decades knows that airport security procedures involve a lot of unpacking,"
     publishedDateTime: 2023-01-18T14:00:00Z
@@ -90,6 +81,6 @@ related:
         height: 793
         isCached: true
 
-secured: "CpbGxfSP7tiLc/lDN8vzJWl1IjOxFy5VDQ0lI/J8EFoq/OR0Wmhxp1FjDapfgN6byz3dKDgi8gaEjpuRkJ5QSQCmhBelxcDVV/XBbBqu9QI4YRfYe8RdbQ1gTnFJdYGQeUce7MX8a158VaE2EVyva7E6w+uxJS8eKSc2lbz0kZlqAQOoiSGOdzqkpN+HzZJ89UwzlEaGxmiplXurEWMmAlApI5kgvl/fHtbzjaVVGj3+DAy1Nc1EmTWPdJw3ZreXxDqf2ADWH4GFfsagw2a3qvkPOQt521dmewccSkM2ru5nNxCsZsKWwvOz/0GGI0PkLn87VCGTpUdkKI43j+X4dKTOdDMOub477EG6etP6oP4=;k23L3j3brBV/55acVogLyQ=="
+secured: "5QoWrEAlD3aM7D6A2+w0bH1owRbYP9qzIBOsUdHNlgkPGwSC17FEO5NMjdoKCIT5GZiHnuQAcBQnZ/4IWwbVRQB2RbmLSYnlguy1/LhsJJfyAeapXgOvKefGVT/stgrfORB4D0KcoNr7Zt+mYunsXDGRNlZJTbXc+DjdFTvkoIwfQsbk6D+ffxpTmi6fJ+YpLEfkjJuLZQTebfedsaog4IfPYOxPHUIK9zlM3v/5gtZJZYru0VzLmdp/lLDjlOxRh+9clkLZSaVEvqq+tyEjFAV4RV+m2ncRNmyiQkDaKJDGqB+tH8lqT8UL9rXJ4G9dqSwyPG8v1WyLB29jk4p9EQrfeUuRGMClfLoSkCMo4aFV36zUOVXvwLATcOAZyjdvcQrDeY/R+WyEO9pXEXlJlC3rnX7YRumgr5ES1bXtmTst58B5NAKtOXOwJpNCWjKaZDtglEOAYxQjzr5iblsK2VX6wSHC6V8idOL96JeGsRfoJokte22azed8OIscmLtu2FMKcDgQCEu5bs5sywdAbQ==;LO4DUSVdM1mR4zAgU1oneg=="
 ---
 

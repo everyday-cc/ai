@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-09-india-poised-to-lead-ai-innovation-globally-says-ibm-india-head.md",
+      "title": "India poised to lead AI innovation globally, says IBM India head",
+      "excerpt": "According to IBM’s Global AI Adoption Index 2022, 57% of IT professionals in India report that their organization has actively deployed AI in their business, and over a quarter (27%) indicate ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/12/india-poised-to-lead-ai-innovation-globally-says-i",
+      "originalUrl": "https://yourstory.com/2022/12/india-poised-to-lead-ai-innovation-globally-says-i",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/1/fb6b4900e6db11ea91248f3fa804461d/DataAnnotationDataLabelingTheUltimateBuyersGuide2021-Shaip-1633342380097.jpg?fm=png&auto=format",
+          "width": 850,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-reston-based-octo-to-be-acquired-by-ibm.md",
       "title": "Reston-based Octo to be acquired by IBM",
       "excerpt": "In May, it opened oLabs, a $10 million, 14,000-square-foot research and development lab dedicated to federal customers, including the military, where Octo has worked on artificial intelligence and other projects. Octo is IBM’s eighth acquisition this ...",
@@ -1326,40 +1369,6 @@
         "AI Hardware",
         "IBM AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-more-than-300-industry-leaders-and-researchers-will-speak-this-month-at-weavesphere-canadas-preeminent-technology-innovation-conference.md",
-      "title": "More than 300 industry leaders and researchers will speak this month at WeaveSphere, Canada’s preeminent technology innovation conference",
-      "excerpt": "Keynote speakers include Dr. William Barry, an artificial intelligence (AI ... Marcel Mitran, IBM Fellow, IBM Master Inventor and the CTO for Cloud Platform for zSystems and LinuxONE, will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswire.ca/news-releases/ibm-canada-announces-robots-ai-avatars-and-more-than-300-industry-leaders-and-researchers-will-speak-this-month-at-weavesphere-canada-s-preeminent-technology-innovation-conference-888336195.html",
-      "originalUrl": "https://www.newswire.ca/news-releases/ibm-canada-announces-robots-ai-avatars-and-more-than-300-industry-leaders-and-researchers-will-speak-this-month-at-weavesphere-canada-s-preeminent-technology-innovation-conference-888336195.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T17:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire",
-        "domain": "newswire.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

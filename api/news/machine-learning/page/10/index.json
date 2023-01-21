@@ -2,6 +2,92 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-11-02-researchers-show-how-network-pruning-can-skew-deep-learning-models.md",
+      "title": "Researchers show how network pruning can skew deep learning models",
+      "excerpt": "Computer science researchers have demonstrated that a widely used technique called neural network pruning can adversely affect the performance of deep learning models, detailed what causes these performance problems,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.html",
+      "originalUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/computer-code-3.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-11-network-pruning-skew-deep.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-network-pruning-skew-deep.amp",
+      "publishedDateTime": "2022-11-02T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-02-study-urges-caution-when-comparing-neural-networks-to-the-brain.md",
+      "title": "Study urges caution when comparing neural networks to the brain",
+      "excerpt": "Neural networks, a type of computing system loosely modeled on the organization of the human brain, form the basis of many artificial intelligence systems for applications such as speech recognition, computer vision, and medical image analysis. In the ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/study-urges-caution-wh.jpg",
+          "width": 717,
+          "height": 410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-urges-caution-neural-networks-brain.amp",
+      "publishedDateTime": "2022-11-02T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-new-onestream-research-finds-economic-disruption-continues-to-pose-the-largest-threat-to-business.md",
       "title": "New OneStream Research Finds Economic Disruption Continues to Pose the Largest Threat to Business",
       "excerpt": "This is significantly fewer than predicted both last fall and earlier this year. With AutoML technology poised to reduce the barriers to adoption of machine learning in organizations, half of all financial decision – makers say their organizations plan ...",
@@ -1329,93 +1415,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-a-deep-artificial-neural-network-powered-by-enzymes.md",
-      "title": "A deep artificial neural network powered by enzymes",
-      "excerpt": "To do this, artificial ‘neurons’ powered by enzymes are wired together to form an architecture that mimics the structure of a neural network. The world is facing a shortage of memory capacity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-022-03150-4",
-      "originalUrl": "https://www.nature.com/articles/d41586-022-03150-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-03150-4/d41586-022-03150-4_23610918.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-11-best-machine-learning-stocks-to-buy.md",
-      "title": "11 Best Machine Learning Stocks to Buy",
-      "excerpt": "has one of the strongest machine learning platforms in the world, with its Watson division offering companies a many solutions such as risk compliance, advertising, customer service, financial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/11-best-machine-learning-stocks-to-buy-1077146/",
-      "originalUrl": "https://www.insidermonkey.com/blog/11-best-machine-learning-stocks-to-buy-1077146/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2020/12/14105630/hacking-coding-programming-unsplash.png",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

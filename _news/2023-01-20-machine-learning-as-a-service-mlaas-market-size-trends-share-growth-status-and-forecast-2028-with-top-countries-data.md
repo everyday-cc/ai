@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-se
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-trends-share-growth-status-and-forecast-2028-with-top-countries-data-2023-01-19"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: MarketWatch
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence as a Service (AIaaS) for Government Market Share : Industry Trends, Growth, Size and Segmentation by 2023 to 2028"
+    excerpt: "Artificial Intelligence as a Service (AIaaS) for Government Market Size is projected to Reach Multimillion USD by 2029,"
+    publishedDateTime: 2023-01-20T01:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-aiaas-for-government-market-share-industry-trends-growth-size-and-segmentation-by-2023-to-2028-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GCC Managed Services Market Size: Global Trends, Share, Growth, Opportunity 2023-2033"
     excerpt: "Market Overview  <br />GCC in the Middle East has been relatively looked upon as a region that lagged IT Spending. However, the"
     publishedDateTime: 2023-01-17T12:44:00Z

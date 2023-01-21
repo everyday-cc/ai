@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Predicts Brain Tumor Progression"
-    excerpt: "Researchers used a deep learning model to turn the MRI data into patient-specific parameter estimates that inform a predictive model for brain tumor growth."
-    publishedDateTime: 2023-01-16T11:55:00Z
-    webUrl: "https://www.medindia.net/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 74
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/salmonella-for-treatment-of-glioblastoma.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
   - title: "Study reveals machine learning can predict brain tumor progression"
     excerpt: "Researchers at the University of Waterloo have developed a computational model to better accurately anticipate the emergence of lethal brain tumours."
     publishedDateTime: 2023-01-16T17:55:00Z
@@ -57,6 +41,17 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Deep-Learning Tool Can Predict Lung Cancer Risk Within Six Years"
+    excerpt: "The tool accurately predicts the risk of lung cancer for individuals with or without a significant smoking history."
+    publishedDateTime: 2023-01-18T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/deep-learning-tool-can-predict-lung-cancer-risk-within-six-years"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/deep-learning-tool-can-predict-lung-cancer-risk-within-six-years"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/deep-learning-tool-can-predict-lung-cancer-risk-within-six-years"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 24
   - title: "Transformer-based deep learning for predicting protein properties in the life sciences"
     excerpt: "The recent developments in large-scale machine learning, especially with the recent Transformer models, display much potential for solving computational problems within protein biology and outcompete traditional computational methods in many recent studies and benchmarks."
     publishedDateTime: 2023-01-18T14:10:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidheadlines.com/2023/01/deepmind-sparrow-google-ans
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/01/deepmind-sparrow-google-answer-to-chatgpt.html?amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "GPT-4 | Implications, pros and cons of the next-generation of ChatGPT"
-    excerpt: "A major implication of GPT-4 will be the improvement of natural language processing (NLP) tasks such as language translation, text summarisation, and question answering. While, we cannot ignore the potential downsides to GPT-4 as it could be used to generate fake news or propaganda,"
-    publishedDateTime: 2023-01-16T11:15:00Z
-    webUrl: "https://www.cnbctv18.com/views/gpt-4--implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm"
-    ampWebUrl: "https://www.cnbctv18.com/views/gpt-4--implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/views/gpt-4--implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 44
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/01/AP23006584552936-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
   - title: "GPT-4 | Implications, pros and cons of the next-generation of ChatGPT"
     excerpt: "GPT-4: A major implication of GPT-4 will be the improvement of natural language processing (NLP) tasks such as language translation, text summarisation, and question answering. While, we cannot ignore the potential downsides to GPT-4 as it could be used to generate fake news or propaganda,"
     publishedDateTime: 2023-01-17T04:20:00Z

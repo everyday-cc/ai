@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-30-anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development.md",
+      "title": "Anyscale unveils new tool for building and scaling AI and ML development",
+      "excerpt": "Anyscale Workspaces, available today in early preview, provides users with a cloud-managed developer environment for building and scaling AI in a repeatable approach.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development/",
+      "originalUrl": "https://venturebeat.com/ai/anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development/amp/",
+      "publishedDateTime": "2022-11-29T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-artificial-neural-network-ann-market-is-booming-worldwide-neurala-ward-systems-group-clarifai-ibm.md",
+      "title": "Artificial Neural Network (ANN) Market Is Booming Worldwide – NEURALA, Ward Systems Group, Clarifai, IBM",
+      "excerpt": "The Artificial Neural Network (ANN) Market research report provides all the information related to the industry. It gives the markets outlook by giving authentic data to its client which helps to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-neural-network-ann-market-is-booming-worldwide-neurala-ward-systems-group-clarifai-ibm",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-neural-network-ann-market-is-booming-worldwide-neurala-ward-systems-group-clarifai-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://xherald.com/wp-content/uploads/2022/11/Artificial-Neural-Network-ANN-1024x576.jpeg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T07:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-sparking-ml-powered-innovation-in-the-telecommunications-industry.md",
       "title": "Sparking ML-Powered Innovation In The Telecommunications Industry",
       "excerpt": "Interview with machine learning Chapter Leads at Spark New Zealand on how the telecommunications giant leverages AI at scale and improves model performance amid real-world challenges.",
@@ -1276,102 +1362,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all.md",
-      "title": "Artificial neural networks learn better when they spend time not learning at all",
-      "excerpt": "Ryan Golden , Jean Erik Delanois, et al, (2022, November 18), Artificial neural networks learn better when they spend time not learning at all, PLOS Computational Biology, DOI: 10.1371/journal.pcbi.1010628.",
-      "sourceUrl": null,
-      "webUrl": "https://medicaldialogues.in/mdtv/neurology-neurosurgery/videos/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-102720",
-      "originalUrl": "https://medicaldialogues.in/mdtv/neurology-neurosurgery/videos/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-102720",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medicaldialogues.in/h-upload/2022/11/22/191602-why-sudden-increase-in-melioidosis-cases-in-india-1500-900px.jpg",
-          "width": 1500,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicaldialogues.in/amp/mdtv/neurology-neurosurgery/videos/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-102720",
-      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/neurology-neurosurgery/videos/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-102720",
-      "publishedDateTime": "2022-11-21T19:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily",
-        "domain": "medicaldialogues.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-machine-learning-operations-mlops-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-to-2028.md",
-      "title": "Machine Learning Operations (MLOps) Market : Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022 To 2028",
-      "excerpt": "Nov 21, 2022 (The Expresswire) -- \"Machine Learning Operations (MLOps) Market\" Research Report gives detailed facts with consideration to market size,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-to-2028-2022-11-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-to-2028-2022-11-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T10:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

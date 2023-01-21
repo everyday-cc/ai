@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Forecast 2028 for the Automatic Speech Recognition Market in terms of size, returns, gross margin, and market share"
+    excerpt: "Automatic Speech Recognition Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
+    publishedDateTime: 2023-01-20T02:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-automatic-speech-recognition-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Image Recognition Market Profiled Key Players to Show Impressive Revenue Growth by 2029"
     excerpt: "\" Image Recognition Market \" Research report provides a comprehensive overview of the industry and its current and future market conditions. It contains data on market size, market share, revenue growth,"
     publishedDateTime: 2023-01-17T06:13:00Z

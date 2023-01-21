@@ -10,7 +10,7 @@
       "originalUrl": "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 364,
+      "heat": 374,
       "tags": null,
       "images": [
         {
@@ -147,6 +147,49 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about.md",
+      "title": "Driverless cars: The dark side of autonomous vehicles that no one’s talking about",
+      "excerpt": "There are currently more than 30 million driverless cars in the world. This number is projected to grow exponentially as companies like Tesla pour money into the development of such vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/green/2023/01/16/driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about",
+      "originalUrl": "https://www.euronews.com/green/2023/01/16/driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/07/31/02/02/1000x563_cmsv2_ccec74ce-888e-5f64-b08a-c35082abbc35-7310202.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.euronews.com/green/amp/2023/01/16/driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about",
+      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/green/amp/2023/01/16/driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about",
+      "publishedDateTime": "2023-01-18T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1350,58 +1393,6 @@
         "name": "KVUE",
         "domain": "kvue.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas.md",
-      "title": "Latest Breakthroughs In Artificial Intelligence On Display At CES Trade Show In Las Vegas",
-      "excerpt": "The rate of advancement in artificial intelligence (AI ... We look at fatigue-battling watches, self-driving strollers, and other unique products announced in Las Vegas at the world’s biggest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/01/10/latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/01/10/latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bd8eaea9945e64f3964a43/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/01/10/latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/10/latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas/amp/",
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2023/01/19/9746105.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/01/19/9746105.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -21,15 +21,15 @@ topics:
   - Facebook AI
 
 related:
-  - title: "Retailers Embrace AI Transition to the Cloud with SymphonyAI and Oracle"
-    excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, today announced a collaboration with Oracle (NYSE: ORCL) to offer SymphonyAI solutions … Continue Reading →"
-    publishedDateTime: 2023-01-16T12:07:00Z
-    webUrl: "https://multichannelmerchant.com/press-releases/retailers-embrace-ai-transition-to-the-cloud-with-symphonyai-and-oracle/"
+  - title: "Fluent.ai Announces Collaboration to Offer Embedded Voice Recognition for Cadence Tensilica HiFi 5 DSP-Based True Wireless Stereo Products"
+    excerpt: "Fluent.ai provides offline, noise robust speech recognition that can support any language or accent. The latest software solution allows users to trigger more than 30 TWS actions through 101 natural and flexible voice commands,"
+    publishedDateTime: 2023-01-19T17:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fluentai-announces-collaboration-offer-embedded-voice-recognition-cadence-/2023/01/19/9746105.htm"
     type: article
     provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 19
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Ln7pw5VgcdOgfV81w/d+a0J7vd80Tub7jN8A2LR4i42abZv0uVRUp1yoeMp1PNMAKPSFtOGHIJvXxE+pG442vU7YnQ56fKrWKp3Wvemdyq3YPNOi86WSEvO4p8D6uDPu9/UMWSQHzOwo8lV9PUVB1Za4f+U6FKhXkKQKJ9MrEtgIUbCJmdLMFaMBXOQAOtr3+uYdr+0xCbQD7g6y2q4V2rzUV539oGSq8zVtN/ryMZ8uTEC4tQE26KdLx6Q9ja1bYF6iZwEL/Hr28GtDGL7sr7EE2ijWm324saKfgJmrhYLq6xULP299o1ABCD+tiIvnYDM1IxAtQ5EyCfnuCk7o6Pkurw9w5xMpomIJvoDAuwA=;9K2EbijFTJ1AjRpQ1D5yfw=="
 ---

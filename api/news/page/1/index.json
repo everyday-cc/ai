@@ -103,7 +103,7 @@
       "originalUrl": "https://venturebeat.com/security/chatgpt-secure-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 634,
+      "heat": 644,
       "tags": null,
       "images": [
         {
@@ -249,6 +249,58 @@
       ]
     },
     {
+      "path": "_news/2023-01-21-individuals-barred-from-top-nyc-venues-slam-use-of-facial-recognition-slippery-slope.md",
+      "title": "Individuals barred from top NYC venues slam use of facial recognition: ‘Slippery slope’",
+      "excerpt": "Kelly Conlon, who was kept from seeing the Rockettes, and Sam Davis, who was barred from attending a Rangers game, speak out against MSG Entertainment and James Dolan for their use of facial recognition on 'America's Newsroom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6318967719112",
+      "originalUrl": "https://www.foxnews.com/video/6318967719112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a59fcf2c-07db-48d9-8cb6-3d4e5c54cb91/c444767f-fa42-4280-b081-73c50a1754d4/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-20T08:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-musk-oversaw-staged-tesla-self-driving-video-emails-show.md",
       "title": "Musk oversaw staged Tesla self-driving video, emails show",
       "excerpt": "If there was any doubt that Tesla CEO Elon Musk knew the company's much-watched 2016 self-driving demo was staged, emails obtained by Bloomberg should lay that to rest. \"Just want to be absolutely clear that everyone’s top priority is achieving an amazing Autopilot demo drive,",
@@ -257,7 +309,7 @@
       "originalUrl": "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 364,
+      "heat": 374,
       "tags": null,
       "images": [
         {
@@ -732,6 +784,58 @@
       ]
     },
     {
+      "path": "_news/2023-01-20-machine-learning-as-a-service-mlaas-market-size-trends-share-growth-status-and-forecast-2028-with-top-countries-data.md",
+      "title": "Machine Learning-as-a-Service (MLaaS) Market Size, Trends, Share, Growth Status, and Forecast 2028 with Top Countries Data",
+      "excerpt": "Rising demand for IT and Telecom, Automotive, Healthcare, Aerospace and Defense, Retail, Government, BFSI, Other End Users will drive the Machine Learning-as-a-Service (MLaaS) seg",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-trends-share-growth-status-and-forecast-2028-with-top-countries-data-2023-01-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-trends-share-growth-status-and-forecast-2028-with-top-countries-data-2023-01-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-19T17:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-seattle-fintech-meetup-measure-what-matters-dei-in-fintech.md",
       "title": "Seattle Fintech Meetup: “Measure What Matters: DEI in Fintech”",
       "excerpt": "Included.ai and Remitly are excited to co-host a special event focusing on an important topic near to our hearts: diversity, equity, and inclusion in tech. Our theme is “Measure What… Read More",
@@ -1107,101 +1211,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-soft-robotics-mgripai-uses-simulation-to-train-in-nvidia-isaac-sim.md",
-      "title": "Soft Robotics mGripAI uses simulation to train in NVIDIA Isaac Sim",
-      "excerpt": "Soft Robotics applies NVIDIA Isaac Sim’s synthetic data to food processing automation in efforts to improve safety and increase production.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/soft-robotics-mgripai-uses-simulation-to-train-in-nvidia-isaac-sim/",
-      "originalUrl": "https://www.therobotreport.com/soft-robotics-mgripai-uses-simulation-to-train-in-nvidia-isaac-sim/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/01/soft-robotics-chicken1-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-19T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-9-ways-we-use-ai-in-our-products.md",
-      "title": "9 ways we use AI in our products",
-      "excerpt": "Here are nine ways we use AI today to make our products even more helpful.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/9-ways-we-use-ai-in-our-products/",
-      "originalUrl": "https://blog.google/technology/ai/9-ways-we-use-ai-in-our-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_products_hero_1.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-19T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

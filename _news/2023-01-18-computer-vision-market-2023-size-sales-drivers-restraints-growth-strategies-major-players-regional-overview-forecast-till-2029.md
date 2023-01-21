@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-size-sales-drivers-restraints-growth-strategies-major-players-regional-overview-forecast-till-2029-2023-01-18"
 type: article
 quality: 70
-heat: 170
+heat: 180
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
     excerpt: "Artificial Intelligence in Accounting Market\" Research report provides significant value on the state of the industry."
     publishedDateTime: 2023-01-17T07:58:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-growth-trends-and-industry-forecast-2023-2029-with-top-countries-data-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Forecast 2028 for the Automatic Speech Recognition Market in terms of size, returns, gross margin, and market share"
+    excerpt: "Automatic Speech Recognition Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
+    publishedDateTime: 2023-01-20T02:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-automatic-speech-recognition-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-19"
     type: article
     provider:
       name: MarketWatch

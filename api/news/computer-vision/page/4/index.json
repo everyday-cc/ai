@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-06-mysterious-object-emerges-on-a-florida-beach-setting-off-speculation.md",
+      "title": "Mysterious Object Emerges on a Florida Beach, Setting Off Speculation",
+      "excerpt": "The object appears to be about 80 feet long and made of wood and metal. Send any friend a story As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/12/05/us/mysterious-object-florida-beach.html",
+      "originalUrl": "https://www.nytimes.com/2022/12/05/us/mysterious-object-florida-beach.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/12/05/multimedia/05xp-daytona-beach-02/05xp-daytona-beach-02-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/12/05/us/mysterious-object-florida-beach.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/05/us/mysterious-object-florida-beach.amp.html",
+      "publishedDateTime": "2022-12-05T18:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-05-digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports.md",
       "title": "DigiYatra: Facial recognition technology is now available at these Indian airports",
       "excerpt": "With the assistance of a facial recognition software known as \"DigiYatra,\" you will be able to sail through the process of flying, which will now be paperless and contactless.",
@@ -1314,59 +1366,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-identifying-landmarks-with-amazon-rekognition-custom-labels.md",
-      "title": "Identifying landmarks with Amazon Rekognition Custom Labels",
-      "excerpt": "Amazon Rekognition is a computer vision service that makes it simple to add image and video analysis to your applications using proven, highly scalable, deep learning technology that does not require machine learning (ML) expertise. With Amazon Rekognition, you can identify objects, people, text, scenes,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identifying-landmarks-with-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identifying-landmarks-with-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/09/ML-3632-image001.jpg",
-          "width": 1192,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T13:04:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

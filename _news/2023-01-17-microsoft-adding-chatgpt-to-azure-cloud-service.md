@@ -514,6 +514,20 @@ related:
         width: 1920
         height: 1175
         isCached: true
+  - title: "Adani, a ChatGPT user, claims that the race for AI will become as complex as the chip battle"
+    excerpt: "Adani, a ChatGPT user, claims that the race for AI will become as complex as the chip battle - Gautam Adani, the richest man in Asia, is addicted to ChatGPT, a tool that scours large quantities of"
+    publishedDateTime: 2023-01-21T04:20:00Z
+    webUrl: "https://www.siliconindia.com/news/general/adani-a-chatgpt-user-claims-that-the-race-for-ai-will-become-as-complex-as-the-chip-battle-nid-221054-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 43
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/g95fRIB1.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "An AI rival to ChatGPT passed a university level law and economics exam, and did better than many humans, professor says"
     excerpt: "A professor at George Mason University said the AI's answer to a law and economics exam was \"better than many human responses.\""
     publishedDateTime: 2023-01-19T15:02:00Z
@@ -605,6 +619,20 @@ related:
       - url: "https://www.lawfareblog.com/sites/default/files/Pioneer_Building%2C_San_Francisco_%282019%29_-1.jpg"
         width: 2560
         height: 1286
+        isCached: true
+  - title: "Questions and warnings about AI chatbots in wake of ChatGPT launch"
+    excerpt: "MUNICH: In a matter of seconds after you type in a prompt, ChatGPT shoots back a well-formulated text. You can scarcely tell the difference from those written by humans."
+    publishedDateTime: 2023-01-21T04:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/21/questions-and-warnings-about-ai-chatbots-in-wake-of-chatgpt-launch"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/01/20/1909914.jpeg"
+        width: 1240
+        height: 786
         isCached: true
   - title: "ChatGPT detector could help spot cheaters using AI to write essays"
     excerpt: "A tool called GPTZero can identify whether text was produced by a chatbot, which could help teachers tell if students are getting AI to help with their homework"
@@ -698,15 +726,6 @@ related:
         width: 710
         height: 400
         isCached: true
-  - title: "Portraits to go and prose like Tim Winton: ChatGPT and the rise of AI"
-    excerpt: "AI expert Prof Toby Walsh speaks to Laura Murphy-Oates about the new wave of artificial intelligence and the fear and fascination it has created"
-    publishedDateTime: 2023-01-16T13:00:00Z
-    webUrl: "https://www.theguardian.com/australia-news/audio/2023/jan/17/portraits-to-go-and-prose-like-tim-winton-chatgpt-and-the-rise-of-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
   - title: "Artificial intelligence software ChatGPT’s mock exam answers pass plagiarism checks, but AI detection software available"
     excerpt: "Universities are having to adapt to combat potential plagiarism using artificial intelligence. Dr Popenici also encouraged education institutions to embrace AI. “Let’s use AI to enhance more significant ways to assess what our students learn and what ..."
     publishedDateTime: 2023-01-18T12:03:00Z

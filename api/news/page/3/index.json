@@ -2,6 +2,155 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-18-ai-bill-of-rights-industry-should-police-itself-claims-ml-company.md",
+      "title": "AI Bill of Rights - industry should police itself, claims ML company",
+      "excerpt": "So, in the long tail of the Facebook/Meta and Cambridge Analytica ... downsides when governments directly regulate an industry like AI or machine learning. It’s a very fast-moving area. Research is rapidly developing and it’s impossible or impractical ...",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ai-bill-rights-industry-should-police-itself-claims-ml-company",
+      "originalUrl": "https://diginomica.com/ai-bill-rights-industry-should-police-itself-claims-ml-company",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-11/5E7E9601-C1C5-4EA8-94A0-7E3ECA1A6C2D.jpeg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/ai-bill-rights-industry-should-police-itself-claims-ml-company?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-bill-rights-industry-should-police-itself-claims-ml-company?amp",
+      "publishedDateTime": "2023-01-18T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning",
+        "AI Ethics",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-how-russias-marker-combat-robots-could-impact-ukraine-war.md",
+      "title": "How Russia's 'Marker' Combat Robots Could Impact Ukraine War",
+      "excerpt": "Russian \"Marker\" combat robots are unlikely to be sent into the heavy battles taking place in Ukraine, Newsweek was told after Russian state media announced testing in the country. On Sunday, Dmitry Rogozin,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/russia-marker-combat-robots-ukraine-tests-impact-1774666",
+      "originalUrl": "https://www.newsweek.com/russia-marker-combat-robots-ukraine-tests-impact-1774666",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2180903/comp-russian-unmanned-ground-combat-vehicles.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/russia-marker-combat-robots-ukraine-tests-impact-1774666?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/russia-marker-combat-robots-ukraine-tests-impact-1774666?amp=1",
+      "publishedDateTime": "2023-01-18T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-the-morning-after-getty-images-sues-ai-art-generator.md",
+      "title": "The Morning After: Getty Images sues AI art generator",
+      "excerpt": "Twitter admits it’s intentionally breaking third-party apps, Getty Images sues AI art generator over data-scraping allegations, Samsung’s new 200-megapixel sensor will probably appear in the Galaxy S23 Ultra.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/the-morning-after-getty-images-sues-ai-art-generator-121539563.html",
+      "originalUrl": "https://www.engadget.com/the-morning-after-getty-images-sues-ai-art-generator-121539563.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/a0f17a10-6caf-11ed-adef-6471c8c12f2e",
+          "width": 1536,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/the-morning-after-getty-images-sues-ai-art-generator-121539563.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-getty-images-sues-ai-art-generator-121539563.html",
+      "publishedDateTime": "2023-01-18T04:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-18-deepminds-sparrow-is-googles-answer-to-chatgpt.md",
       "title": "DeepMind's Sparrow is Google's answer to ChatGPT",
       "excerpt": "Ever since the launch of OpenAI’s ChatGPT, Google has been scrambling to build a rival. Now, Google’s subsidiary DeepMind, known for its pioneering work in AI research, has announced plans to launch a new chatbot called Sparrow. The company ...",
@@ -10,7 +159,7 @@
       "originalUrl": "https://www.androidheadlines.com/2023/01/deepmind-sparrow-google-answer-to-chatgpt.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -149,7 +298,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-size-sales-drivers-restraints-growth-strategies-major-players-regional-overview-forecast-till-2029-2023-01-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -1006,7 +1155,7 @@
       "originalUrl": "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1090,160 +1239,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-nick-cave-criticises-ai-attempt-to-write-nick-cave-lyrics-this-song-sucks.md",
-      "title": "Nick Cave criticises AI attempt to write Nick Cave lyrics: 'This song sucks'",
-      "excerpt": "Nick Cave has written a scathing review of an artificial intelligence system that tried to write a song \"in the style of Nick Cave\". The Bad Seeds frontman responded after a fan sent him lyrics written by ChatGPT,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/entertainment-arts-64302944.amp",
-      "originalUrl": "https://www.bbc.com/news/entertainment-arts-64302944.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/17964/production/_128321669_gettyimages-463824907.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/entertainment-arts-64302944.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-64302944.amp",
-      "publishedDateTime": "2023-01-17T03:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-defending-democracy-and-liberty-in-the-face-of-chinas-challenge.md",
-      "title": "Defending Democracy And Liberty In The Face Of China's Challenge",
-      "excerpt": "The newly established House Select Committee on Strategic Competition between the United States and the Chinese Communist Party holds crucial responsibility in addressing the challenges posed by the CCP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/divyanshkaushik/2023/01/17/defending-democracy-and-liberty-in-the-face-of-chinas-challenge/",
-      "originalUrl": "https://www.forbes.com/sites/divyanshkaushik/2023/01/17/defending-democracy-and-liberty-in-the-face-of-chinas-challenge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c215b2b85b7aac67c92cf4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/divyanshkaushik/2023/01/17/defending-democracy-and-liberty-in-the-face-of-chinas-challenge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/divyanshkaushik/2023/01/17/defending-democracy-and-liberty-in-the-face-of-chinas-challenge/amp/",
-      "publishedDateTime": "2023-01-17T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-where-is-the-best-place-to-run-ai.md",
-      "title": "Where Is The Best Place To Run AI?",
-      "excerpt": "Uploading vast amounts of data to the cloud can often introduce very high latency, in many cases surpassing hundreds of milliseconds, which can seriously impair operations to the point of rendering them ineffectual at best and total wastes of time and money at worst.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c15e4efdaea7ad1989b8c5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/amp/",
-      "publishedDateTime": "2023-01-17T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

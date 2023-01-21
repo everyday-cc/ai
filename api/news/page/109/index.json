@@ -2,6 +2,324 @@
   "page": 109,
   "value": [
     {
+      "path": "_news/2022-10-12-many-drivers-treat-their-partially-automated-cars-as-fully-self-driving-study-finds.md",
+      "title": "Many drivers treat their partially automated cars as fully self-driving, study finds",
+      "excerpt": "Drivers of partly automated vehicles often treat them as fully self-driving, according to a new study. The study, conducted by the Insurance Institute for Highway Safety (IIHS), found that 53% of Cadillac Super Cruise users,",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/news/nation-world/national/article267180096.html",
+      "originalUrl": "https://www.miamiherald.com/news/nation-world/national/article267180096.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/news/nation-world/national/article267180096.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article267180096.html",
+      "publishedDateTime": "2022-10-11T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-sophos-cto-joe-levy-on-ai-in-cybersecurity.md",
+      "title": "Sophos CTO Joe Levy on AI in Cybersecurity",
+      "excerpt": "The AI component of cybersecurity is changing fast – and customers often find it confusing. But clearly AI is a needed tool to block cybercriminals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/security/sophos-ai-in-cybersecurity/",
+      "originalUrl": "https://www.eweek.com/security/sophos-ai-in-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/10/eSPEAKS-thumbnail-2.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-softbank-robotics-partners-with-gausium-to-deploy-2-robotic-solutions.md",
+      "title": "SoftBank Robotics partners with Gausium to deploy 2 robotic solutions",
+      "excerpt": "SoftBank Robotics America and Gausium announced a new partnership to deploy indoor automated robots in the US.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/softbank-robotics-partners-with-gausium-to-deploy-2-robotic-solutions/",
+      "originalUrl": "https://www.therobotreport.com/softbank-robotics-partners-with-gausium-to-deploy-2-robotic-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/10/featured-web-SBRA-.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much.md",
+      "title": "Survey: 40-50% Of Us Trust Our ‘Self-Driving’ Vehicles From Tesla And Cadillac Far Too Much",
+      "excerpt": "When Tesla sells a Full Self Driving package for $15,000 US, people seem to trust the name and use it pretty much as such, according to a new survey, even if they only have the less capable Autopilot system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6345e7d45bd4910ac4b5c039/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/amp/",
+      "publishedDateTime": "2022-10-11T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-although-not-alive-i-can-still-create-art-robot-ai-da-tells-uk-lawmakers.md",
+      "title": "'Although not alive, I can still create art,' robot Ai-Da tells UK lawmakers",
+      "excerpt": "LONDON, Oct 11 (Reuters) - A \"robot artist\" called Ai-Da told British lawmakers on ... Disrupted Flying car by California startup Alef attracts early Tesla investor, article with image October ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/although-not-alive-i-can-still-create-art-robot-ai-da-tells-uk-lawmakers-2022-10-11/",
+      "originalUrl": "https://www.reuters.com/technology/although-not-alive-i-can-still-create-art-robot-ai-da-tells-uk-lawmakers-2022-10-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-ai-equal-to-humans-in-text-message-mental-health-trial.md",
+      "title": "AI equal to humans in text-message mental health trial",
+      "excerpt": "UW Medicine researchers have found that algorithms are as good as trained human evaluators at identifying red-flag language in text messages from people with serious mental illness. This opens a promising area of study that could help with psychiatry training and scarcity of care.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/text-message.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.amp",
+      "publishedDateTime": "2022-10-11T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-bigbearai-names-amanda-long-as-ceo.md",
+      "title": "BigBear.ai Names Amanda Long as CEO",
+      "excerpt": "By Stephen Nakrosis BigBear.ai Inc. on Tuesday said Amanda Long has been named chief executive, effective Oct. 12. She succeeds Dr. Reggie Brothers, who",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/bigbear-ai-names-amanda-long-as-ceo-271665521110",
+      "originalUrl": "https://www.marketwatch.com/story/bigbear-ai-names-amanda-long-as-ceo-271665521110",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/bigbear-ai-names-amanda-long-as-ceo-271665521110",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/bigbear-ai-names-amanda-long-as-ceo-271665521110",
+      "publishedDateTime": "2022-10-11T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-12-bigbearai-names-former-ibm-executive-mandy-long-as-chief-executive-officer.md",
       "title": "BigBear.ai Names Former IBM Executive Mandy Long as Chief Executive Officer",
       "excerpt": "Get 7 Days Free Sign In Sign In Topics",
@@ -828,336 +1146,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-orange-county-vision-center-announces-grand-opening-of-new-location.md",
-      "title": "Orange County Vision Center Announces Grand Opening of New Location",
-      "excerpt": "Orange County Vision Center is excited to announce the grand opening of a new location in Garden Grove, CA! The new office is spacious and is equipped with the latest technology. On October 15th, patients can stop by for a tour of the new clinic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/orange-county-vision-center-announces-grand-opening-of-new-location/article_d355ffd6-fe6c-54b3-a451-55e6c8e8bc38.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/orange-county-vision-center-announces-grand-opening-of-new-location/article_d355ffd6-fe6c-54b3-a451-55e6c8e8bc38.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-sight-machine-blueprint-enables-automated-data-labeling-and-comprehensive-analysis-of-all-manufacturing-data.md",
-      "title": "Sight Machine Blueprint Enables Automated Data Labeling and Comprehensive Analysis of All Manufacturing Data",
-      "excerpt": "Developed in collaboration with NVIDIA and Microsoft, Sight Machine Blueprint empowers manufacturers to prepare and leverage 100x more data for actionable analytics insights. SAN",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/10/11/9689965.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/10/11/9689965.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
-          "width": 476,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit.md",
-      "title": "XACT Robotics® Receives FDA Clearance for its ACE Xtend™ Remote Control Unit",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. HINGHAM, Mass., (BUSINESS WIRE) -- XACT Robotics®, developer of the world’s first and only comprehensive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/xact-robotics-receives-fda-clearance-for-its-ace-xtendtm-remote-control-unit-2022-10-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/xact-robotics-receives-fda-clearance-for-its-ace-xtendtm-remote-control-unit-2022-10-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-top-nine-ethical-issues-in-artificial-intelligence.md",
-      "title": "Top Nine Ethical Issues In Artificial Intelligence",
-      "excerpt": "Some of today’s tech giants believe that artificial intelligence (AI) should be more widely utilized. However, there are many ethical and risk assessment issues to be considered before this can become reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/11/top-nine-ethical-issues-in-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/11/top-nine-ethical-issues-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-toyota-and-google-cloud-partner-to-bring-ai-powered-speech-services-to-toyota-and-lexus-vehicles.md",
-      "title": "Toyota and Google Cloud Partner to Bring AI-Powered Speech Services to Toyota and Lexus Vehicles",
-      "excerpt": "Toyota and Google Cloud today announced an expanded partnership that brings together Toyota and Lexus next-generation audio multimedia systems and Google Cloud's AI-based speech services. Customers can now experience the first results of the partnership in the latest generation Toyota Audio Multimedia and Lexus Interface infotainment systems,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/10/11/9689565.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/10/11/9689565.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
-          "width": 476,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-google-says-its-cracked-the-code-to-business-intelligence.md",
-      "title": "Google says it's 'cracked the code' to business intelligence",
-      "excerpt": "At the Google Cloud Next conference, the tech giant is emphasizing its expertise in AI, business intelligence, and supporting an open data ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-says-its-cracked-the-code-to-business-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/google-says-its-cracked-the-code-to-business-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2c15d46c470c4537fefd3a1fdc3e4e449e658cfd/2020/01/23/be6d0341-424e-424a-95d8-da906528f235/datacenterpeopleistock-802301504.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-says-its-cracked-the-code-to-business-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-says-its-cracked-the-code-to-business-intelligence/",
-      "publishedDateTime": "2022-10-11T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems.md",
-      "title": "How Advanced Databases Can Enable Deep Learning To Address Some Of The World's Great Problems",
-      "excerpt": "In order to reach their fullest potential, databases must evolve to meet the needs of more advanced AI algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/11/how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/11/how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634425ffb33ba97e97de06b1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/11/how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/11/how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems/amp/",
-      "publishedDateTime": "2022-10-11T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence as a Service (AIaaS) for Government Market Share : Industry Trends, Growth, Size and Segmentation by 2023 to 2028"
+    excerpt: "Artificial Intelligence as a Service (AIaaS) for Government Market Size is projected to Reach Multimillion USD by 2029,"
+    publishedDateTime: 2023-01-20T01:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-aiaas-for-government-market-share-industry-trends-growth-size-and-segmentation-by-2023-to-2028-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "GYaqoiMn7ukZKGzbqM/Zu6D4Gd5G43aoG/qyoE5ZNRH8vCuDytTN3bX3CRMia+BfHvFPV40HCF9y0W94HdpwiOz0PQM509/ICeZ7UKFgBp7Olrzpx9iAKS9Bg3orZGwhpDGrWRk0K5x0RR8gm43hSGlFxZcnY6ukMdpCe2Qoo/Tl/vnLofHb2Dd9IXjppEO/OQnt9a2twQnSHHbIXRYfI2ZodQZphZlQYOI1Ou/kq0q5FuS1zaS2caJMxHGi8ibKv7G6cFipBUkFO2i4mpm0yFyRkFwpKrdPbF9qWjQcDXVQoH8UxuMP2WRXBd+SCzO4zljW9lMS3+IYdZt/ZqUzfCT/jioDevLKGXcEBs7JJxk=;XX/qHOWAF7eidIWEJ6gw+w=="
 ---

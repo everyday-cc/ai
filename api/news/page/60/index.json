@@ -2,6 +2,326 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2022-11-23-when-and-how-to-introduce-ai-into-your-contact-center.md",
+      "title": "When (And How) To Introduce AI Into Your Contact Center",
+      "excerpt": "Chatbots have a way of turning on the company by alienating customers—unless you do it right. Remember these simple rules.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/23/when-and-how-to-introduce-ai-into-your-contact-center/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/23/when-and-how-to-introduce-ai-into-your-contact-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637cbf6da46c3a084c1e21d8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 734,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/23/when-and-how-to-introduce-ai-into-your-contact-center/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/23/when-and-how-to-introduce-ai-into-your-contact-center/amp/",
+      "publishedDateTime": "2022-11-23T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-nih-funded-study-uses-ai-to-improve-language-for-children-with-cochlear-implants.md",
+      "title": "NIH-funded study uses AI to improve language for children with cochlear implants",
+      "excerpt": "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news",
+      "sourceUrl": null,
+      "webUrl": "https://sciencex.com/wire-news/430637008/nih-funded-study-uses-ai-to-improve-language-for-children-with-c.html",
+      "originalUrl": "https://sciencex.com/wire-news/430637008/nih-funded-study-uses-ai-to-improve-language-for-children-with-c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sciencex.com/wire-news/430637008/nih-funded-study-uses-ai-to-improve-language-for-children-with-c.amp",
+      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/430637008/nih-funded-study-uses-ai-to-improve-language-for-children-with-c.amp",
+      "publishedDateTime": "2022-11-23T01:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sciencex",
+        "domain": "sciencex.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-experts-from-across-the-disciplines-come-together-at-new-center-to-push-the-boundaries-of-smart-robotics-and-ai.md",
+      "title": "Experts from across the disciplines come together at new center to push the boundaries of smart robotics and AI",
+      "excerpt": "How humans and super smart robots will live and work together in the future will be among the key issues being scrutinised by experts at a new centre of excellence for AI and autonomous machines based at The University of Manchester. The Manchester Centre ...",
+      "sourceUrl": null,
+      "webUrl": "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.html",
+      "originalUrl": "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx1.b-cdn.net/csz/news/800/2022/experts-from-across-th.jpg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.amp",
+      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/430637571/experts-from-across-the-disciplines-come-together-at-new-center.amp",
+      "publishedDateTime": "2022-11-23T01:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sciencex",
+        "domain": "sciencex.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-an-optical-chip-that-can-train-machine-learning-hardware.md",
+      "title": "An optical chip that can train machine learning hardware",
+      "excerpt": "A multi-institution research team has developed an optical chip that can train machine learning hardware. Their research is published today in Optica.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-11-optical-chip-machine-hardware.html",
+      "originalUrl": "https://techxplore.com/news/2022-11-optical-chip-machine-hardware.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/teaching-photonic-chip.jpg",
+          "width": 1944,
+          "height": 1944,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-11-optical-chip-machine-hardware.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-optical-chip-machine-hardware.amp",
+      "publishedDateTime": "2022-11-23T01:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-chinas-baidu-says-it-expects-limited-impact-from-us-chip-curbs.md",
+      "title": "China's Baidu says it expects 'limited' impact from U.S. chip curbs",
+      "excerpt": "\"A large portion of our AI Cloud business and even wider AI business does not rely too much on the highly advanced chips,\" said Shen. Baidu also runs a robotaxi business, Apollo Go, which has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/11/23/chinas-baidu-says-it-expects-limited-impact-from-us-chip-curbs.html",
+      "originalUrl": "https://www.cnbc.com/2022/11/23/chinas-baidu-says-it-expects-limited-impact-from-us-chip-curbs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107156082-1669182526947-gettyimages-1242981201-AFP_32HR3QZ.jpeg?v=1669191019",
+          "width": 5813,
+          "height": 3868,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/11/23/chinas-baidu-says-it-expects-limited-impact-from-us-chip-curbs.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/11/23/chinas-baidu-says-it-expects-limited-impact-from-us-chip-curbs.html",
+      "publishedDateTime": "2022-11-23T00:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-james-lee-on-baidus-chip-resiliency.md",
+      "title": "James Lee on Baidu's chip resiliency",
+      "excerpt": "James Lee, analyst at Mizuho Securities, says that Baidu is not reliant on highly advanced semiconductor chips and manufactures its own AI chip for its cloud computing and robotaxi businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2022/11/23/james-lee-on-baidus-chip-resiliency.html",
+      "originalUrl": "https://www.cnbc.com/video/2022/11/23/james-lee-on-baidus-chip-resiliency.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107156088-16691838981669183896-26742912698-1080pnbcnews.jpg?v=1669190221&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-23T00:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-researchers-ai-in-connected-cars-eased-rush-hour-congestion.md",
+      "title": "Researchers: AI in connected cars eased rush hour congestion",
+      "excerpt": "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no apparent reason — no construction or accident. Researchers say the problem is you.",
+      "sourceUrl": null,
+      "webUrl": "https://kesq.com/news/ap-california/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/",
+      "originalUrl": "https://kesq.com/news/ap-california/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kesq.b-cdn.net/2021/06/kesq.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-23T00:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KESQ News",
+        "domain": "kesq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-airtel-payments-bank-replaces-otp-with-face-verification-to-open-accounts.md",
       "title": "Airtel Payments Bank replaces OTP with face verification to open accounts",
       "excerpt": "Why it matters: Facial recognition is not an exact technology. Even the systems used by Delhi police to detect alleged miscreants during riots are often only 80 percent accurate. Moreover ...",
@@ -802,352 +1122,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-aws-to-invest-44-bn-in-hyderabad-data-centre.md",
-      "title": "AWS to invest $4.4 bn in Hyderabad data centre",
-      "excerpt": "Amazon Web Service (AWS) on Tuesday announced an investment of USD 4.4 billion (about Rs 36,300 crore) by 2030 in building in Hyderabad its second data center cluster in India.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
-      "originalUrl": "https://www.thehansindia.com/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2022/11/22/1321759-aws.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
-      "publishedDateTime": "2022-11-22T10:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production.md",
-      "title": "Implementing Amazon Forecast in the retail industry: A journey from POC to production",
-      "excerpt": "Amazon Forecast is a fully managed service that uses statistical and machine learning (ML) algorithms to deliver highly accurate time-series forecasts. Recently, based on Amazon Forecast, we helped one of our retail customers achieve accurate demand forecasting, within 8 weeks. The solution improved",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/22/implementingamazon-forecast-retail-industry.jpg",
-          "width": 1564,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T10:35:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-accelerate-multilingual-workflows-with-a-customizable-translation-solution-built-with-amazon-translate.md",
-      "title": "Accelerate multilingual workflows with a customizable translation solution built with Amazon Translate",
-      "excerpt": "Enterprises often need to communicate effectively to a large base of customers, partners, and stakeholders across several different languages. They need to translate and localize content such as marketing materials, product content assets, operational manuals, and legal documents. Each business unit",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-multilingual-workflows-with-a-customizable-translation-solution-built-with-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-multilingual-workflows-with-a-customizable-translation-solution-built-with-amazon-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/22/accelerate-multilingual-workflows-translate.jpg",
-          "width": 1560,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T10:28:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-unexpected-declines-in-cognitive-performance-after-epilepsy-surgery.md",
-      "title": "Unexpected declines in cognitive performance after epilepsy surgery",
-      "excerpt": "While neuropsychological performance can recover in the long term after successful surgery, on rare occasions, unexpected declines in cognitive performance occur. Researchers at the University of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221122/Unexpected-declines-in-cognitive-performance-after-epilepsy-surgery.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221122/Unexpected-declines-in-cognitive-performance-after-epilepsy-surgery.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Neurology-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T10:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-metas-latest-ai-can-play-diplomacy-better-than-most-humans.md",
-      "title": "Meta's Latest AI Can Play Diplomacy Better Than Most Humans",
-      "excerpt": "CICERO can negotiate, offer advice, share information, and make agreements with other players, but also knows when they are bluffing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/metas-latest-ai-can-play-diplomacy-better-than-most-humans",
-      "originalUrl": "https://www.pcmag.com/news/metas-latest-ai-can-play-diplomacy-better-than-most-humans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03xnvbPFTJ6SQUEglxTgRy5-1.fit_lim.size_1200x630.v1669136459.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T09:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-real-time-analysis-of-customer-sentiment-using-aws.md",
-      "title": "Real-time analysis of customer sentiment using AWS",
-      "excerpt": "Companies that sell products or services online need to constantly monitor customer reviews left on their website after purchasing a product. The company’s marketing and customer service departments analyze these reviews to understand customer sentiment. For example, marketing could use this data to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/real-time-analysis-of-customer-sentiment-using-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/real-time-analysis-of-customer-sentiment-using-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/21/real-time-customer-sentiment.jpg",
-          "width": 1548,
-          "height": 775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T08:20:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-this-manta-ray-inspired-soft-robot-flies-through-the-water.md",
-      "title": "This manta ray-inspired soft robot flies through the water",
-      "excerpt": "with the ability to move 3.74 body lengths per second — a big increase over soft robots that struggle to move a single body length in that time. A second, designed for more control, moves around ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/22/this-manta-ray-inspired-soft-robot-flies-through-the-water/",
-      "originalUrl": "https://techcrunch.com/2022/11/22/this-manta-ray-inspired-soft-robot-flies-through-the-water/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/Jie-Yin-Butterfly-HEADER.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/22/this-manta-ray-inspired-soft-robot-flies-through-the-water/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/22/this-manta-ray-inspired-soft-robot-flies-through-the-water/amp/",
-      "publishedDateTime": "2022-11-22T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,160 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-17-nick-cave-criticises-ai-attempt-to-write-nick-cave-lyrics-this-song-sucks.md",
+      "title": "Nick Cave criticises AI attempt to write Nick Cave lyrics: 'This song sucks'",
+      "excerpt": "Nick Cave has written a scathing review of an artificial intelligence system that tried to write a song \"in the style of Nick Cave\". The Bad Seeds frontman responded after a fan sent him lyrics written by ChatGPT,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/entertainment-arts-64302944.amp",
+      "originalUrl": "https://www.bbc.com/news/entertainment-arts-64302944.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/17964/production/_128321669_gettyimages-463824907.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/entertainment-arts-64302944.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-64302944.amp",
+      "publishedDateTime": "2023-01-17T03:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-defending-democracy-and-liberty-in-the-face-of-chinas-challenge.md",
+      "title": "Defending Democracy And Liberty In The Face Of China's Challenge",
+      "excerpt": "The newly established House Select Committee on Strategic Competition between the United States and the Chinese Communist Party holds crucial responsibility in addressing the challenges posed by the CCP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/divyanshkaushik/2023/01/17/defending-democracy-and-liberty-in-the-face-of-chinas-challenge/",
+      "originalUrl": "https://www.forbes.com/sites/divyanshkaushik/2023/01/17/defending-democracy-and-liberty-in-the-face-of-chinas-challenge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c215b2b85b7aac67c92cf4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 777,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/divyanshkaushik/2023/01/17/defending-democracy-and-liberty-in-the-face-of-chinas-challenge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/divyanshkaushik/2023/01/17/defending-democracy-and-liberty-in-the-face-of-chinas-challenge/amp/",
+      "publishedDateTime": "2023-01-17T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-where-is-the-best-place-to-run-ai.md",
+      "title": "Where Is The Best Place To Run AI?",
+      "excerpt": "Uploading vast amounts of data to the cloud can often introduce very high latency, in many cases surpassing hundreds of milliseconds, which can seriously impair operations to the point of rendering them ineffectual at best and total wastes of time and money at worst.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c15e4efdaea7ad1989b8c5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/amp/",
+      "publishedDateTime": "2023-01-17T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-whats-new-in-azure-data-ai-empowering-retailers-to-streamline-operations-and-accelerate-time-to-value.md",
       "title": "What's new in Azure Data & AI: Empowering retailers to streamline operations and accelerate time to value",
       "excerpt": "Let’s explore what’s new for Azure Data & AI this month.",
@@ -572,7 +726,7 @@
       "originalUrl": "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -648,6 +802,49 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-study-reveals-machine-learning-can-predict-brain-tumor-progression.md",
+      "title": "Study reveals machine learning can predict brain tumor progression",
+      "excerpt": "Researchers at the University of Waterloo have developed a computational model to better accurately anticipate the emergence of lethal brain tumours.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression",
+      "originalUrl": "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_01_2023_17_49_51_9560931.jpg?width=1280",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression?amp",
+      "publishedDateTime": "2023-01-16T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -852,6 +1049,50 @@
       ]
     },
     {
+      "path": "_news/2023-01-16-from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare.md",
+      "title": "From A 'Deranged' Provocateur To IBM's Failed AI Superproject: The Controversial Story Of How Data Has Transformed Healthcare",
+      "excerpt": "Just over a decade ago, artificial intelligence (AI) made one of its showier forays into the public's consciousness when ibm's watson",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105433732/From-A-Deranged-Provocateur-To-IBMs-Failed-AI-Superproject-The-Controversial-Story-Of-How-Data-Has-Transformed-Healthcare",
+      "originalUrl": "https://menafn.com/1105433732/From-A-Deranged-Provocateur-To-IBMs-Failed-AI-Superproject-The-Controversial-Story-Of-How-Data-Has-Transformed-Healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-01/16/TC_44ff2image_story.png",
+          "width": 640,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T04:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-16-machine-learning-predicts-brain-tumor-progression.md",
       "title": "Machine Learning Predicts Brain Tumor Progression",
       "excerpt": "Researchers used a deep learning model to turn the MRI data into patient-specific parameter estimates that inform a predictive model for brain tumor growth.",
@@ -997,248 +1238,6 @@
         "AI",
         "AI in Sales",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-why-we-focus-on-ai-and-to-what-end.md",
-      "title": "Why we focus on AI (and to what end)",
-      "excerpt": "Today we published a paper outlining why we pursue AI. Read on for a preview, or visit ai.google to see the paper in full.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/why-we-focus-on-ai-and-to-what-end/",
-      "originalUrl": "https://blog.google/technology/ai/why-we-focus-on-ai-and-to-what-end/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_narrative_hero.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-16T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-unveiling-the-mystery-of-the-human-brain-for-ai-advancements.md",
-      "title": "Unveiling the Mystery of the Human Brain for AI Advancements",
-      "excerpt": "While machines can learn how to predict words, we have yet to understand how the human brain does it, and Dr LI Jixing’s research aims to uncover the secret",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/presented/news/hong-kong/education/topics/creating-age-friendly-smart-city/article/3206106/unveiling-mystery-human-brain-ai-advancements",
-      "originalUrl": "https://www.scmp.com/presented/news/hong-kong/education/topics/creating-age-friendly-smart-city/article/3206106/unveiling-mystery-human-brain-ai-advancements",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2023/01/10/472A1314_client.jpg?itok=AccVnber",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-16T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-the-10-scariest-future-tech-trends-everyone-must-know-about-right-now.md",
-      "title": "The 10 Scariest Future Tech Trends Everyone Must Know About Right Now",
-      "excerpt": "Is technology in the news keeping you awake at night? Should it be? Here are some of the scariest future tech trends that should be on your radar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/16/the-10-scariest-future-tech-trends-everyone-must-know-about-right-now/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/16/the-10-scariest-future-tech-trends-everyone-must-know-about-right-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c4f26d17dacdb903c92cf2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/16/the-10-scariest-future-tech-trends-everyone-must-know-about-right-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/16/the-10-scariest-future-tech-trends-everyone-must-know-about-right-now/amp/",
-      "publishedDateTime": "2023-01-15T21:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-driverless-cars-may-worsen-congestion-by-85-percent-a-report-claims-amid-2025-rollout.md",
-      "title": "Driverless cars may worsen congestion by 85 percent, a report claims amid 2025 rollout",
-      "excerpt": "It has been claimed in a Government report that driverless cars may worsen congestion by 85 percent. The claim by the Department of Transport comes amid thoughts of such vehicles becoming ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont",
-      "originalUrl": "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/1/590x/Traffic-1721675.jpg?r=1673839653328",
-          "width": 590,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont/amp",
-      "publishedDateTime": "2023-01-15T20:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-advocates-demand-madison-square-garden-stop-using-facial-recognition.md",
-      "title": "Advocates demand Madison Square Garden stop using facial recognition",
-      "excerpt": "Lawmakers and privacy advocates are calling on James Dolan, owner of Madison Square Garden and Radio City Music Hall, to stop surveilling guests for non-security purposes.",
-      "sourceUrl": null,
-      "webUrl": "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/",
-      "originalUrl": "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pix11.com/wp-content/uploads/sites/25/2022/11/AP22318781223165.jpg?w=1280",
-          "width": 1280,
-          "height": 851,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/amp/",
-      "publishedDateTime": "2023-01-15T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pix11",
-        "domain": "pix11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

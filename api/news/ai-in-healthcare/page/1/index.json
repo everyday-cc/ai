@@ -379,6 +379,85 @@
       ]
     },
     {
+      "path": "_news/2023-01-16-from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare.md",
+      "title": "From A 'Deranged' Provocateur To IBM's Failed AI Superproject: The Controversial Story Of How Data Has Transformed Healthcare",
+      "excerpt": "Just over a decade ago, artificial intelligence (AI) made one of its showier forays into the public's consciousness when ibm's watson",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105433732/From-A-Deranged-Provocateur-To-IBMs-Failed-AI-Superproject-The-Controversial-Story-Of-How-Data-Has-Transformed-Healthcare",
+      "originalUrl": "https://menafn.com/1105433732/From-A-Deranged-Provocateur-To-IBMs-Failed-AI-Superproject-The-Controversial-Story-Of-How-Data-Has-Transformed-Healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-01/16/TC_44ff2image_story.png",
+          "width": 640,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T04:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-dhc-talking-therapies-nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt.md",
+      "title": "DHC Talking Therapies - NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)",
+      "excerpt": "We'd also like to use analytics cookies. These collect feedback and send information about how our site is used to services called Adobe Analytics, Qualtrics Feedback, Microsoft Clarity and Google Analytics. We use this information to improve our site.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nhs.uk/services/clinic/dhc-talking-therapies/NNE01/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt",
+      "originalUrl": "https://www.nhs.uk/services/clinic/dhc-talking-therapies/NNE01/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-15T09:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHS Choices",
+        "domain": "www.nhs.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-15-what-jobs-are-available-in-artificial-intelligence-how-to-make-a-career-in-this-ai-boom.md",
       "title": "What Jobs Are Available In Artificial Intelligence? How To Make A Career In This AI Boom",
       "excerpt": "From research to consulting, there will be an array of job opportunities across an even broader array of market sectors where the core skill set requires an expertise in the field of artificial intelligence.",
@@ -1218,93 +1297,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform.md",
-      "title": "Yoomi and Rutgers Partner to Improve Physical Therapy Adherence Through Digital Health Platform",
-      "excerpt": "Yoomi, a digital health company focused on improving the standard of care in physical therapy, announced today it is partnering with Rutgers Robert Wood Johnson Medical School to explore how technology can mobilize patients effectively in physical therapy programs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelbiz.co.uk/press-release/yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform/",
-      "originalUrl": "https://www.channelbiz.co.uk/press-release/yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T00:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel Biz",
-        "domain": "channelbiz.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-applications-of-artificial-intelligence-across-various-industries.md",
-      "title": "Applications of Artificial Intelligence Across Various Industries",
-      "excerpt": "Potential applications of artificial intelligence continue to expand as more people adopt the technology AI usage is particularly prominent in finance, digital spaces (like social media ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/01/06/applications-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/01/06/applications-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63b8687bf803029a04f26064/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/01/06/applications-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/06/applications-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-01-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI",
         "AI in Healthcare"
       ]

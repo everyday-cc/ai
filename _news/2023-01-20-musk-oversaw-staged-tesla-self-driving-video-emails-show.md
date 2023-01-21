@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/amp/"
 type: article
 quality: 104
-heat: 364
+heat: 374
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/01/Tesla-staged-video.png?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Musk Oversaw Video That Exaggerated Tesla’s Self-Driving Capabilities"
+    excerpt: "Elon Musk oversaw the creation of a 2016 video that exaggerated the abilities of Tesla Inc.’s driver-assistance system Autopilot, even dictating the opening text that claimed the company’s car drove itself,"
+    publishedDateTime: 2023-01-19T19:58:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-01-19/elon-musk-directed-tesla-autopilot-video-saying-car-drove-itself-tsla"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiHMJZsdzTDA/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Tesla faked a 2016 video promoting its self-driving technology, according to a senior company engineer's deposition testimony"
     excerpt: "Tesla staged a video showing its self-driving capability, Ashok Elluswamy, director of Autopilot, said in a 2022 deposition."

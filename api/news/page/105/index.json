@@ -2,6 +2,345 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2022-10-15-opinion-a-driverless-vehicle-update.md",
+      "title": "Opinion: A driverless vehicle update",
+      "excerpt": "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
+      "originalUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-14T17:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yazoo Herald",
+        "domain": "yazooherald.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-15-common-ai-language-models-show-bias-against-people-with-disabilities-study.md",
+      "title": "Common AI language models show bias against people with disabilities: study",
+      "excerpt": "New research underscores the implicit bias present in some artificial intelligence language models ... Add Changing America to your Facebook or Twitter feed to stay on top of the news.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/changing-america/respect/diversity-inclusion/3688507-common-ai-language-models-show-bias-against-people-with-disabilities-study/",
+      "originalUrl": "https://thehill.com/changing-america/respect/diversity-inclusion/3688507-common-ai-language-models-show-bias-against-people-with-disabilities-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/10/CA_AI_10142022istock.jpg?w=1280",
+          "width": 1280,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/changing-america/respect/diversity-inclusion/3688507-common-ai-language-models-show-bias-against-people-with-disabilities-study/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/diversity-inclusion/3688507-common-ai-language-models-show-bias-against-people-with-disabilities-study/amp/",
+      "publishedDateTime": "2022-10-14T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-testing-approaches-for-amazon-sagemaker-ml-models.md",
+      "title": "Testing approaches for Amazon SageMaker ML models",
+      "excerpt": "This post was co-written with Tobias Wenzel, Software Engineering Manager for the Intuit Machine Learning Platform. We all appreciate the importance of a high-quality and reliable machine learning (ML) model when using autonomous driving or interacting with Alexa, for examples. ML models also play an",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/testing-approaches-for-sagemaker-ml-models.jpg",
+          "width": 1549,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-14T10:51:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-encode-multi-lingual-text-properties-in-amazon-neptune-to-train-predictive-models.md",
+      "title": "Encode multi-lingual text properties in Amazon Neptune to train predictive models",
+      "excerpt": "Amazon Neptune ML is a machine learning (ML) capability of Amazon Neptune that helps you make accurate and fast predictions on your graph data. Under the hood, Neptune ML uses Graph Neural Networks (GNNs) to simultaneously take advantage of graph structure and node/edge properties to solve the task at",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/encode-multi-lingual-text-properties-in-amazon-neptune-to-train-predictive-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/encode-multi-lingual-text-properties-in-amazon-neptune-to-train-predictive-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/encode-multi-lingual-neptune-to-train-models.jpg",
+          "width": 1551,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-14T10:47:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-herschel-walker-raphael-warnock-face-off-in-a-only-debate-with-senate-control-on-the-line.md",
+      "title": "Herschel Walker, Raphael Warnock face off in a only debate with Senate control on the line",
+      "excerpt": "First-term Democratic Sen. Raphael Warnock of Georgia and Republican challenger Herschel Walker face off Friday night in Savannah in their first and only debate",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/herschel-walker-raphael-warnock-face-off-crucial-debate-senate-control-line",
+      "originalUrl": "https://www.foxnews.com/politics/herschel-walker-raphael-warnock-face-off-crucial-debate-senate-control-line",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23c19001-6ddd-4dbd-8c19-98d654bf9134/1959816a-6bf8-4889-a388-19c8eb918806/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/herschel-walker-raphael-warnock-face-off-crucial-debate-senate-control-line.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-raphael-warnock-face-off-crucial-debate-senate-control-line.amp",
+      "publishedDateTime": "2022-10-14T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-ai-da-the-robot-sums-up-the-flawed-logic-of-lords-debate-on-ai.md",
+      "title": "Ai-Da the robot sums up the flawed logic of Lords debate on AI",
+      "excerpt": "Experts say it is the roboticists we need to hear from – and the people and jobs AI is already affecting",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai",
+      "originalUrl": "https://www.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/708e371594c21a15fe4c8591520c8c9c878992af/0_419_6318_3793/master/6318.jpg?width=620&quality=85&auto=format&fit=max&s=88d568e47047e8316bdc58470930d790",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai",
+      "publishedDateTime": "2022-10-14T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-natural-language-processing-nlp-in-healthcare-market-report-2022-regional-overview-and-analysis-till-2028.md",
+      "title": "Natural Language Processing (NLP) in Healthcare Market Report 2022 Regional Overview and Analysis till 2028",
+      "excerpt": "A novel report on global Natural Language Processing (NLP) in Healthcare market has been recently added to Xcellent",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-report-2022-regional-overview-and-analysis-till-2028-2022-10-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-report-2022-regional-overview-and-analysis-till-2028-2022-10-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-14T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-your-face-is-the-future-of-targeted-marketing-heres-why-businesses-should-use-facial-recognition.md",
       "title": "Your Face is the Future of Targeted Marketing. Here's Why Businesses Should Use Facial Recognition",
       "excerpt": "Facial recognition technology compliant with global data privacy laws can open new doors for targeted marketing campaigns.",
@@ -872,333 +1211,6 @@
         "Google AI",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-enova-announces-date-of-third-quarter-2022-financial-results-conference-call.md",
-      "title": "Enova Announces Date of Third Quarter 2022 Financial Results Conference Call",
-      "excerpt": "Enova will host a conference call to discuss its results at 4 p.m. Central Time / 5 p.m. Eastern Time the same day. The live webcast of the call can be accessed at the Enova International Investor Relations website at  along with the company's earnings press release and supplemental financial information.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/10/13/9692559.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/10/13/9692559.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-microsoft-will-launch-an-ai-graphics-app-powered-by-dalle.md",
-      "title": "Microsoft will launch an AI graphics app powered by DALL•E",
-      "excerpt": "Microsoft will launch an a graphic design applications that is powered by the text-to-image generator software DALLE.",
-      "sourceUrl": null,
-      "webUrl": "https://www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/",
-      "originalUrl": "https://www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.archpaper.com/wp-content/uploads/2022/10/WIN22_lifestyle_BizPros_0011_RGB-1024x683-1.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/?amp=1",
-      "cdnAmpWebUrl": "https://www-archpaper-com.cdn.ampproject.org/c/s/www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/?amp=1",
-      "publishedDateTime": "2022-10-13T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "archpaper",
-        "domain": "archpaper.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower.md",
-      "title": "Cobb Douglas Robot Announces the Launch of Conga: An AI-Powered, Autonomous Robotic Lawn Mower",
-      "excerpt": "With a single click to start, Conga sets users free from the tedious task of lawn mowing. Unlike the first-generation robots, this highly advanced lawn care robot does not require the installation of copper boundary wire or the use of remote control to manually map the areas to be cut.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower-2022-10-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower-2022-10-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-the-snapdragon-ai-journey.md",
-      "title": "The Snapdragon AI Journey",
-      "excerpt": "Qualcomm Technologies, Inc. (QTI) has been researching, developing, and shipping AI acceleration on their Snapdragon processors for the past decade.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63484e1cf003b2ae28de06ab/0x0.png?format=png&width=1200",
-          "width": 628,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/amp/",
-      "publishedDateTime": "2022-10-13T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-heres-why-machine-learning-benefits-biz-developers.md",
-      "title": "Here's Why Machine Learning Benefits Biz Developers",
-      "excerpt": "In a day and age where content creation is a way to drive inbound traffic and help nurture the customer journey, leveraging machine learning helps automate this process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63481c09f7e15d5caade06a9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/amp/",
-      "publishedDateTime": "2022-10-13T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-tatio-ai-based-work-simulations-help-diverse-job-seekers-showcase-their-skills.md",
-      "title": "TaTio AI-based work simulations help diverse job seekers showcase their skills",
-      "excerpt": "TaTio, an Israeli startup, helps companies source job candidates from historically underrepresented groups using AI-based work simulations.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/13/tatio-uses-ai-based-testing-to-get-diverse-candidates-past-the-resume-roadblock/",
-      "originalUrl": "https://techcrunch.com/2022/10/13/tatio-uses-ai-based-testing-to-get-diverse-candidates-past-the-resume-roadblock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-526660996.jpg",
-          "width": 1024,
-          "height": 833,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/13/tatio-uses-ai-based-testing-to-get-diverse-candidates-past-the-resume-roadblock/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/13/tatio-uses-ai-based-testing-to-get-diverse-candidates-past-the-resume-roadblock/amp/",
-      "publishedDateTime": "2022-10-13T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-when-the-ai-goes-haywire-bring-on-the-humans.md",
-      "title": "When the AI goes haywire, bring on the humans",
-      "excerpt": "Surveys found that most organizations are not regularly monitoring AI-based programs after launching them. But human oversight can be crucial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/ai-goes-haywire-bring-humans-rcna52079",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/ai-goes-haywire-bring-humans-rcna52079",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-10/221013-grocery-store-line-2020-ew-1127a-f8562f.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna52079",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna52079",
-      "publishedDateTime": "2022-10-13T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

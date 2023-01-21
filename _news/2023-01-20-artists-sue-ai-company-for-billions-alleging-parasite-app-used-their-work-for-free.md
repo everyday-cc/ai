@@ -3,11 +3,13 @@ category: news
 title: "Artists sue AI company for billions, alleging \"parasite\" app used their work for free"
 excerpt: "Cutting-edge AI can now create millions of artworks almost instantaneously. Artists say the technology is stealing their work."
 publishedDateTime: 2023-01-20T09:00:00Z
-originalUrl: "https://www.cbsnews.com/news/ai-stable-diffusion-stability-ai-lawsuit-artists-sue-image-generators/"
-webUrl: "https://www.cbsnews.com/news/ai-stable-diffusion-stability-ai-lawsuit-artists-sue-image-generators/"
+originalUrl: "https://www.cbsnews.com/detroit/news/ai-stable-diffusion-stability-ai-lawsuit-artists-sue-image-generators/"
+webUrl: "https://www.cbsnews.com/detroit/news/ai-stable-diffusion-stability-ai-lawsuit-artists-sue-image-generators/"
+ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/ai-stable-diffusion-stability-ai-lawsuit-artists-sue-image-generators/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/ai-stable-diffusion-stability-ai-lawsuit-artists-sue-image-generators/"
 type: article
-quality: 10
-heat: 10
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI
 
-secured: "b3Cxy1+Rq93hSdPbDi0eDN9U9kY8feL04J9l7g4Pl1hg3VjE4NoiFw23ZVt80hXvw5O7F/DWPnkwDp5rxSuXB2yV/ML6zDG2wkaZ3UiNJf4St62aRcWi6ALLU3t+I+PfCRp11jh6JjcSXL5S0PWuGlXp6XOlrkQ9vUkrZWjvbqewo9hRf4zNNa99IDFUpV0E0OP4ans7ZpiEa5I5ZzLBOPIpbLSFfxlcacMEjmoHAxP8DxVpuYT89zVaPrA/3oAoikruECGQziRclbkMZ+UBwVJ+GXuKTyKrS9LMokzKFnPIliG7P14FzhQhsKyzCZOOM1AF/raozlhheZJFe8lMtAkzA6bX6kOFP5BhLtUyTfjA3zjJjhTSC99PM9+cKidh3Bn0GpzKpkGROamkD5zmWnhBcIqHtAKO3JDTOndsPlNW95WSP+STYUEJ/zAIA+o+Vsvp1PprPTktBcEUu5gmmaaBg39SVAO4LQ7+O3PS0N+b70lDu3Os/lBA+dfLRsXAiZOfX81gKu5qNdjdRwXH6Q==;DC6jMc9ynH02WZjnnKczgQ=="
+images:
+  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/19/cb61fc5e-4d8e-4756-962d-05c62caea24d/thumbnail/1200x630g2/ae02a9294a01f742a4a56e7971dca0cd/painter-computer-ai1.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "ddKogbEKIaUIl/lcvnacTrylRo0PHp1QzyVNSeHS+LcikzoB4FT6dYYUcVZADRkjGrWmmhw8P0tKHc5gFc7N4osSS+47CUWku6S6H11qi5TVL8OoyPZupKKKc63f+ZZDbUf52VSrKbka+pyrTSHCmO8tu5nRYV+YtisoUXlmThdnLl4Fkc5mwkp9P8IMoSWL+Cu3fj+28F6A8cCaFhPzJ9d8lotSeF3JxYxWOgpxncgVJmAI3RNg/jALFWLi9HzGaIEH2JfrwFuy0hqKFuC2Vb0n+fwTOYySKPeTGfnAokEEnns1+EqGVYv1XyiKfRcdmRP0iqx2bqdkdJvLujnuQEEFBKaxkj5rvLO3MyD2Cz4=;jbEVwSWXip5VeYoaWJZYDg=="
 ---
 

@@ -43,22 +43,6 @@ related:
         width: 1345
         height: 900
         isCached: true
-  - title: "GPT-4 | Implications, pros and cons of the next-generation of ChatGPT"
-    excerpt: "A major implication of GPT-4 will be the improvement of natural language processing (NLP) tasks such as language translation, text summarisation, and question answering. While, we cannot ignore the potential downsides to GPT-4 as it could be used to generate fake news or propaganda,"
-    publishedDateTime: 2023-01-16T11:15:00Z
-    webUrl: "https://www.cnbctv18.com/views/gpt-4--implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm"
-    ampWebUrl: "https://www.cnbctv18.com/views/gpt-4--implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/views/gpt-4--implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 44
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/01/AP23006584552936-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
     publishedDateTime: 2023-01-17T18:30:00Z

@@ -139,6 +139,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Musk Oversaw Video That Exaggerated Tesla’s Self-Driving Capabilities"
+    excerpt: "Elon Musk oversaw the creation of a 2016 video that exaggerated the abilities of Tesla Inc.’s driver-assistance system Autopilot, even dictating the opening text that claimed the company’s car drove itself,"
+    publishedDateTime: 2023-01-19T19:58:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-01-19/elon-musk-directed-tesla-autopilot-video-saying-car-drove-itself-tsla"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiHMJZsdzTDA/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Musk oversaw video exaggerating Tesla’s self-driving capabilities"
     excerpt: "The company’s CEO wrote to Tesla’s Autopilot team after 2 a.m. California time in October 2016 to emphasize the importance of a demonstration drive to promote the system"
     publishedDateTime: 2023-01-19T20:50:00Z

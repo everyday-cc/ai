@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/20/how-an-increa
 webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/20/how-an-increase-in-self-driving-cars-could-harm-the-environment"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,45 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars: The technology, history and future explained"
-    excerpt: "KN explains self-driving cars, the history and technology behind autonomous vehicles and where they are on the road."
-    publishedDateTime: 2023-01-17T10:01:00Z
-    webUrl: "https://www.cbc.ca/kidsnews/post/self-driving-cars-the-technology-history-and-future-explained"
+  - title: "Self-driving cars could nearly double road congestion – report"
+    excerpt: "LONDON: Motorists could be stuck in congestion nearly twice as bad as current levels if self-driving cars become commonplace, a UK government report warns."
+    publishedDateTime: 2023-01-21T03:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/21/self-driving-cars-could-nearly-double-road-congestion---report"
     type: article
     provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 39
-    images:
-      - url: "https://www.cbc.ca/kidsnews/content/_card_resize/KNE_Self-DrivingCars_sitecard.png"
-        width: 860
-        height: 484
-        isCached: true
-  - title: "What do you think about self-driving cars?"
-    excerpt: "CBC Kids News is real news for real kids. Your trusted daily source for the news, pop culture and sports stories that Canadian kids want to know!"
-    publishedDateTime: 2023-01-17T09:54:00Z
-    webUrl: "https://www.cbc.ca/kidsnews/post/what-do-you-think-about-self-driving-cars"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
+      name: The Star
+      domain: thestar.com.my
     quality: 24
     images:
-      - url: "https://www.cbc.ca/kidsnews/content/_card_resize/HaveYourSay_sitecard_3_ALT.png"
-        width: 860
-        height: 484
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/01/20/1909817.jpeg"
+        width: 1240
+        height: 826
         isCached: true
-  - title: "Computers that power self-driving cars could be a big driver of global carbon emissions"
-    excerpt: "Autonomous, or self-driving cars, sometimes still feel like a fixture of the future. Though significant advances have been made, there is still much more w | Technology"
-    publishedDateTime: 2023-01-19T18:00:00Z
-    webUrl: "https://www.labroots.com/trending/technology/24465/computers-power-self-driving-cars-driver-global-carbon-emissions"
-    ampWebUrl: "https://www.labroots.com/trending/technology/24465/computers-power-self-driving-cars-driver-global-carbon-emissions/amp"
-    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/24465/computers-power-self-driving-cars-driver-global-carbon-emissions/amp"
+  - title: "Self-driving cars could nearly double road congestion, says report"
+    excerpt: "LONDON: Motorists could be stuck in congestion nearly twice as bad as current levels if self-driving cars become commonplace, a UK government report warns. The UK's Department for Transport (DfT) traffic projections for England and Wales show delays may rise by up to 85% from 2025 to 2060 in that scenario."
+    publishedDateTime: 2023-01-16T19:48:00Z
+    webUrl: "https://www.carsifu.my/news/self-driving-cars-could-nearly-double-road-congestion-says-report"
     type: article
     provider:
-      name: Labroots
-      domain: labroots.com
-    quality: 16
+      name: CarSifu
+      domain: carsifu.my
+    quality: 4
   - title: "How an increase in self-driving cars could harm the environment"
     excerpt: "PARIS: Self-driving vehicles are expected to go mainstream in the near future, but mass numbers of such vehicles could result in a significant increase in CO2 emissions, mainly due to the energy needed for the computers managing all the hardware and software on board."
     publishedDateTime: 2023-01-19T14:41:00Z
@@ -73,6 +57,15 @@ related:
       name: CarSifu
       domain: carsifu.my
     quality: 4
+  - title: "Self-driving cars could cause congestion to nearly double, warns government report"
+    excerpt: "Road congestion could almost double from current levels if self-driving cars become commonplace, according to a new government report. The Department for Transport’s projections for traffic levels in England and Wales suggest that delays could soar by up to 85% between 2025 and 2060."
+    publishedDateTime: 2023-01-17T13:50:00Z
+    webUrl: "https://www.yorkshirepost.co.uk/lifestyle/cars/self-driving-cars-could-cause-congestion-to-nearly-double-warns-dft-government-autonomous-vehicle-report-3988138"
+    type: article
+    provider:
+      name: The Yorkshire Post
+      domain: yorkshirepost.co.uk
+    quality: 0
 
 secured: "eu10ctA6eLhM+9rNH9U4l9hlagAo2xFq4NhPlLV0JGMKm0FHnI/nMU/9LlNxP25b116lXgw9eN5y0f5DaCq4rDYEspQAHkxq8HeJrnyJp10uvTdPimyyATTYerBwV+edx7RajMNCDFQ6ibNcJAv+PaPq5kesG1Uvr8V4mrM5D22jw8yF8y3T9Rzr1hZv4NV0/98K/BuZsWVEQA0cV0FG32v8s2ImsjtYDuK4I/nT6ALuVsykHgIE8GbX832hIRz0vmA0abPQw3+EbWqZvnRXZVo0vKKPwSojjiGSF7KHjqbSiTOkLcwYyP50F0NX/wRasj6kXVbrXv8NYPNX5Sk4Zs3LAefdzO7slT7CUwCDs9w=;khzPBi3E/ouI0GLCw7U16A=="
 ---

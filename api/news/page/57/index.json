@@ -2,6 +2,308 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2022-11-28-creating-more-explainable-artificial-intelligence-could-enhance-human-work-and-creativity.md",
+      "title": "Creating more explainable artificial intelligence could enhance human work and creativity",
+      "excerpt": "Rudzicz’s work will develop processes that will improve artificial neural networks to increase computer understanding of human language, and Kuzminykh’s research seeks to better understand how humans perceive and interact with conversational agents like chatbots and virtual assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://thevarsity.ca/2022/11/27/creating-more-explainable-artificial-intelligence-could-enhance-human-work-and-creativity/",
+      "originalUrl": "https://thevarsity.ca/2022/11/27/creating-more-explainable-artificial-intelligence-could-enhance-human-work-and-creativity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T09:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Varsity",
+        "domain": "thevarsity.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-27-facial-recognition-can-help-conserve-seals-scientists-say.md",
+      "title": "Facial recognition can help conserve seals, scientists say",
+      "excerpt": "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ...",
+      "sourceUrl": null,
+      "webUrl": "https://buffalonews.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_a322b893-3a01-5a0e-8412-78110503a218.html",
+      "originalUrl": "https://buffalonews.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_a322b893-3a01-5a0e-8412-78110503a218.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T06:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-27-alphabets-deepmind-has-put-a-hiring-freeze-on-new-interns-canceling-one-applicants-interview-with-just-an-hours-notice.md",
+      "title": "Alphabet's DeepMind has put a hiring freeze on new interns, canceling one applicant's interview with just an hour's notice",
+      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. DeepMind has imposed a freeze on hiring for new interns at the Alphabet-owned company. The AI firm told ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/alphabet-deepmind-hiring-freeze-interns-interviews-cancelled-2022-11",
+      "originalUrl": "https://www.businessinsider.com/alphabet-deepmind-hiring-freeze-interns-interviews-cancelled-2022-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62ac3c35f0eaba0019f2fd1c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/alphabet-deepmind-hiring-freeze-interns-interviews-cancelled-2022-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alphabet-deepmind-hiring-freeze-interns-interviews-cancelled-2022-11?amp",
+      "publishedDateTime": "2022-11-27T03:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-27-image-recognition-technology-market-2023-in-depth-insights-and-business-scenario-by-analysts-certification-2028-newst-96-pages-report.md",
+      "title": "Image Recognition Technology Market 2023 In-Depth Insights and Business Scenario, by Analysts Certification 2028 | Newst 96 Pages Report",
+      "excerpt": "Impact on the Image Recognition Technology market, and how it could impact business in the near and distant future. How big is the global Image Recognition Technology market? Who are the Top Image Recognition Technology manufacturer of the Industry?",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-technology-market-2023-in-depth-insights-and-business-scenario-by-analysts-certification-2028-newst-96-pages-report-2022-11-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-technology-market-2023-in-depth-insights-and-business-scenario-by-analysts-certification-2028-newst-96-pages-report-2022-11-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T02:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-27-commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology-must-persist.md",
+      "title": "Commentary: TSA faces ethical limits in use of AI. But work to improve the technology must persist",
+      "excerpt": "Artificial intelligence has become a disruptive force in society. Terms such as machine learning, deep learning and neural networks have become commonplace among mainstream media, eliciting visions of",
+      "sourceUrl": null,
+      "webUrl": "https://www.yakimaherald.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_fd545cca-6b5e-11ed-9ff9-6f01b48b3dcd.html",
+      "originalUrl": "https://www.yakimaherald.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_fd545cca-6b5e-11ed-9ff9-6f01b48b3dcd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/3/11/311406e6-6b5f-11ed-afac-1b658226b053/637e6ae553d68.image.jpg?resize=1024%2C686",
+          "width": 1024,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.yakimaherald.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_fd545cca-6b5e-11ed-9ff9-6f01b48b3dcd.amp.html",
+      "cdnAmpWebUrl": "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_fd545cca-6b5e-11ed-9ff9-6f01b48b3dcd.amp.html",
+      "publishedDateTime": "2022-11-27T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yakima Herald-Republic",
+        "domain": "yakimaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-27-how-bitcoin-and-artificial-intelligence-will-free-your-time.md",
+      "title": "How Bitcoin And Artificial Intelligence Will Free Your Time",
+      "excerpt": "The use of technology will give humans more time to practice mindfulness and do the things they want to do, without having to worry about making ends meet.",
+      "sourceUrl": null,
+      "webUrl": "https://bitcoinmagazine.com/culture/bitcoin-and-artificial-intelligence-frees-your-time",
+      "originalUrl": "https://bitcoinmagazine.com/culture/bitcoin-and-artificial-intelligence-frees-your-time",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bitcoinmagazine.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTkzMjU1NjA1NDIxNjE0NjU5/city-of-the-future.png",
+          "width": 620,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bitcoinmagazine.com/.amp/culture/bitcoin-and-artificial-intelligence-frees-your-time",
+      "cdnAmpWebUrl": "https://bitcoinmagazine-com.cdn.ampproject.org/c/s/bitcoinmagazine.com/.amp/culture/bitcoin-and-artificial-intelligence-frees-your-time",
+      "publishedDateTime": "2022-11-26T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bitcoin Magazine",
+        "domain": "bitcoinmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-27-seal-conservation-efforts-aided-by-new-facial-recognition-technology.md",
+      "title": "Seal conservation efforts aided by new facial recognition technology",
+      "excerpt": "SealNet, automated facial recognition technology using a database of seal faces, was developed by a research team at Colgate University and will assist in conservation efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/",
+      "originalUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/11/harbor-seals-comp.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/amp/",
+      "publishedDateTime": "2022-11-26T13:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-27-ai-in-iot-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028.md",
       "title": "AI in IoT Market Share 2022 Comprehensive Insights, Innovations and Business Outlook till 2028",
       "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"AI in IoT",
@@ -818,290 +1120,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology.md",
-      "title": "New study on deep learning technology for improving MRI image quality published in European Radiology",
-      "excerpt": "SwiftMR™, an AI-powered MRI reconstruction solution from AIRS Medical proved its performance for enhancing the image quality of 3D",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology-1031937873",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology-1031937873",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-15-best-self-driving-car-stocks-to-buy-now.md",
-      "title": "15 Best Self Driving Car Stocks To Buy Now",
-      "excerpt": "In this article, we will discuss the 15 Best Self Driving Car Stocks To Buy Now. You can skip our detailed analysis of the autonomous car industry and go directly to the 5 Best Self Driving Car ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/15-best-self-driving-car-124145938.html",
-      "originalUrl": "https://www.aol.com/news/15-best-self-driving-car-124145938.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028.md",
-      "title": "Automated Machine Learning (AutoML) Market 2023 Expected to Witness the Highest Revenue Growth Over Forecast to 2028",
-      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Automated Machine Learning (AutoML)",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-where-will-baidu-stock-be-in-1-year.md",
-      "title": "Where Will Baidu Stock Be in 1 Year?",
-      "excerpt": "Baidu (NASDAQ: BIDU) posted its third-quarter earnings report on Nov. 22. The Chinese tech giant's revenue rose 2% year over year to 32.54 billion yuan ($4.57 billion), beating analysts' estimates ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/where-will-baidu-stock-be-in-1-year",
-      "originalUrl": "https://www.nasdaq.com/articles/where-will-baidu-stock-be-in-1-year",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T03:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-facebook-parent-meta-taught-ai-to-lie-and-play-diplomacy.md",
-      "title": "Facebook parent Meta taught AI to lie and play diplomacy",
-      "excerpt": "Meta teaches AI to lie in a virtual game to win. (Photo Credits- Reuters) In a recent finding in a research article of the academic journal Science, Meta, which owns Facebook, Instagram and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/life/technology-facebook-parent-meta-taught-ai-to-lie-and-play-diplomacy-2892066/",
-      "originalUrl": "https://www.financialexpress.com/life/technology-facebook-parent-meta-taught-ai-to-lie-and-play-diplomacy-2892066/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T02:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-nvidia-geforce-rtx-4080-gpu-unlocks-16x-performance-for-creators.md",
-      "title": "NVIDIA GeForce RTX 4080 GPU unlocks 1.6x performance for creators",
-      "excerpt": "State-of-the-art AI technology — including AI image generators ... Expand creative possibilities and pick up the GeForce RTX 4080 GPU today from retailers in the region. Get Breaking News ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/business/corporate-news/nvidia-geforce-rtx-4080-gpu-unlocks-16x-performance-for-creators-1.1669372071180",
-      "originalUrl": "https://gulfnews.com/business/corporate-news/nvidia-geforce-rtx-4080-gpu-unlocks-16x-performance-for-creators-1.1669372071180",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2022/11/25/The-new-GeForce-RTX-4080-GPU---GN--1-_184ae53c852_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/business/corporate-news/nvidia-geforce-rtx-4080-gpu-unlocks-16x-performance-for-creators-1.1669372071180",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/corporate-news/nvidia-geforce-rtx-4080-gpu-unlocks-16x-performance-for-creators-1.1669372071180",
-      "publishedDateTime": "2022-11-25T02:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-teslas-full-self-driving-beta-is-now-available-to-everyone-in-north-america.md",
-      "title": "Tesla’s ‘Full Self-Driving’ Beta is now available to everyone in North America",
-      "excerpt": "Tesla’s “Full Self-Driving” Beta, which has been gradually rolling out over the past couple of years, is now available to anyone who’s paid for the feature in North America, CEO Elon Musk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/11/24/23476570/teslas-full-self-driving-beta-release-north-america-safety-score",
-      "originalUrl": "https://www.theverge.com/2022/11/24/23476570/teslas-full-self-driving-beta-release-north-america-safety-score",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T00:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

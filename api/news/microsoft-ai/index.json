@@ -402,6 +402,41 @@
       ]
     },
     {
+      "path": "_news/2023-01-16-dhc-talking-therapies-nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt.md",
+      "title": "DHC Talking Therapies - NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)",
+      "excerpt": "We'd also like to use analytics cookies. These collect feedback and send information about how our site is used to services called Adobe Analytics, Qualtrics Feedback, Microsoft Clarity and Google Analytics. We use this information to improve our site.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nhs.uk/services/clinic/dhc-talking-therapies/NNE01/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt",
+      "originalUrl": "https://www.nhs.uk/services/clinic/dhc-talking-therapies/NNE01/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-15T09:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHS Choices",
+        "domain": "www.nhs.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-14-tech-gets-religion-on-ai-inside-the-vatican-summit-with-islamic-and-jewish-leaders-microsoft-and-ibm.md",
       "title": "Tech gets religion on AI: Inside the Vatican summit with Islamic and Jewish leaders, Microsoft and IBM",
       "excerpt": "It’s unusual for tech executives and religious leaders to get together to discuss their shared interests and goals for the future of humanity and the planet. It’s even more extraordinary… Read More",
@@ -1339,40 +1374,6 @@
       "provider": {
         "name": "Future Market Insights",
         "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-artificial-intelligence-model-predicts-cognitive-diseases-using-brain-age.md",
-      "title": "Artificial Intelligence Model Predicts Cognitive Diseases Using Brain Age",
-      "excerpt": "A novel artificial intelligence (AI) model developed by USC researchers that analyzes magnetic resonance imaging (MRI) brain scans could now be used to reliably catch cognitive loss linked to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/healthwatch/artificial-intelligence-model-predicts-cognitive-diseases-using-brain-age-210016-1.htm",
-      "originalUrl": "https://www.medindia.net/news/healthwatch/artificial-intelligence-model-predicts-cognitive-diseases-using-brain-age-210016-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
         "images": null,
         "publishers": null,
         "authors": null

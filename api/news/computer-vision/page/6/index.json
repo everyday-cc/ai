@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-11-15-cat-pining-after-owner-when-shes-home-alone-breaks-hearts-made-me-cry.md",
+      "title": "Cat Pining After Owner When She's Home Alone Breaks Hearts: 'Made Me Cry'",
+      "excerpt": "A cat named Elie has melted hearts online after a video of her waiting by the door for her owner to come back home went viral on social media. The viral clip shared on TikTok on Sunday by the cat's owner (under the username Eliethehallwaycat) shows Elie following her owner to the door,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/cat-pining-after-owner-when-she-home-alone-breaks-hearts-made-me-cry-1759388",
+      "originalUrl": "https://www.newsweek.com/cat-pining-after-owner-when-she-home-alone-breaks-hearts-made-me-cry-1759388",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2148780/cat-waiting-owner-melts-hearts.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/cat-pining-after-owner-when-she-home-alone-breaks-hearts-made-me-cry-1759388?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cat-pining-after-owner-when-she-home-alone-breaks-hearts-made-me-cry-1759388?amp=1",
+      "publishedDateTime": "2022-11-14T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-congress-returns-after-the-2022-midterm-election-with-a-hectic-year-end-agenda.md",
       "title": "Congress returns after the 2022 midterm election with a hectic year-end agenda",
       "excerpt": "Lawmakers’ packed to-do list includes reaching a government funding agreement, passing an election overhaul bill and codifying federal recognition of same-sex marriage.",
@@ -1233,49 +1285,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-tag-intelligent-object-recognition.md",
-      "title": "Tag: intelligent object recognition",
-      "excerpt": "ST. PAUL, Minn. – Alula, a provider of smart security and system communications for residential and commercial applications has announced several enhanced features for its Alula Smart Security App and AlulaConnect dealer portal. The features and updates ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.securitysystemsnews.com/tag/intelligent-object-recognition",
-      "originalUrl": "https://www.securitysystemsnews.com/tag/intelligent-object-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.securitysystemsnews.com/images/og-default-image.png",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security Systems News",
-        "domain": "securitysystemsnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

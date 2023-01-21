@@ -2,6 +2,331 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-12-13-startup-podium-adds-to-the-growing-list-of-tech-layoffs.md",
+      "title": "Startup Podium Adds To The Growing List Of Tech Layoffs",
+      "excerpt": "Podium - the software designed to help small businesses \"build their online reputation\" - is joining the growing list of tech companies laying off staff. What are the impacts of recent tech layoffs? And how should investors adjust accordingly?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/12/12/startup-podium-adds-to-the-growing-list-of-tech-layoffs/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/12/12/startup-podium-adds-to-the-growing-list-of-tech-layoffs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63975eaad0868b400d3ef9b4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 832,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/12/12/startup-podium-adds-to-the-growing-list-of-tech-layoffs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/12/startup-podium-adds-to-the-growing-list-of-tech-layoffs/amp/",
+      "publishedDateTime": "2022-12-12T08:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-is-ai-a-risk-to-creativity-the-answer-is-not-so-simple.md",
+      "title": "Is AI A Risk To Creativity? The Answer Is Not So Simple",
+      "excerpt": "As AI continues to advance, some may be wondering whether or not AI is a risk or a resource. But the answer isn't so simple.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/science-technology/is-ai-a-risk-to-creativity-the-answer-is-not-so-simple/439525",
+      "originalUrl": "https://www.entrepreneur.com/science-technology/is-ai-a-risk-to-creativity-the-answer-is-not-so-simple/439525",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1670516007-GettyImages-1359993111.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers.md",
+      "title": "Scott Belsky: Adobe VP Talks AI, Creativity And Superpowers",
+      "excerpt": "Creativity is at the heart of the products that Adobe makes, from Photoshop to Lightroom, Fresco to Illustrator. Scott Belsky is the company’s Chief Product Officer and Executive Vice President for Creative Cloud and I talked to him and Gavin Miller,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidphelan/2022/12/12/scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers/",
+      "originalUrl": "https://www.forbes.com/sites/davidphelan/2022/12/12/scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/639759ff390c0523343405cb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidphelan/2022/12/12/scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidphelan/2022/12/12/scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers/amp/",
+      "publishedDateTime": "2022-12-12T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-raven-advances-cutting-edge-precision-and-autonomous-ag-tech-with-two-raven-autonomytm-product-debuts.md",
+      "title": "Raven Advances Cutting-Edge Precision and Autonomous Ag Tech with Two Raven Autonomy(TM) Product Debuts",
+      "excerpt": "“The Driverless Tillage Solution and Driver Assist Harvest Solution developments are proof that we are expanding these autonomous capabilities into all areas of the cash crop cycle, helping farmers capitalize on additional efficiencies and cost savings ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/12/12/raven-advances-cutting-edge-precision-and-autonomous-ag-tech-with-two-raven",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/12/12/raven-advances-cutting-edge-precision-and-autonomous-ag-tech-with-two-raven",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-its-not-just-fun-lensa-ai-portrait-app-raises-ethical-privacy-concerns.md",
+      "title": "'It's not just fun': Lensa AI portrait app raises ethical, privacy concerns",
+      "excerpt": "Magic avatars' are the latest internet craze, but one expert says individuals uploading photos of themselves onto the Lensa AI portrait app may not be aware of the ethical and privacy concerns involved.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctvnews.ca/sci-tech/it-s-not-just-fun-lensa-ai-portrait-app-raises-ethical-privacy-concerns-1.6190874",
+      "originalUrl": "https://www.ctvnews.ca/sci-tech/it-s-not-just-fun-lensa-ai-portrait-app-raises-ethical-privacy-concerns-1.6190874",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/12/12/2582392/_jcr_content/renditions/videothumbnail.1670858793517.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2022/12/12/1_6190874.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2022/12/12/1_6190874.amp.html",
+      "publishedDateTime": "2022-12-12T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-an-ai-stretch-of-the-imagination.md",
+      "title": "An AI-Stretch Of The Imagination",
+      "excerpt": "A key tool to de-risk innovation and democratize data. And the best thing about it, is that while businesses can innovate to the max and offer you better products and services, your privacy remains intact.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61de03f0b6b2eca035a665be/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/",
+      "publishedDateTime": "2022-12-12T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-toggle-ai-introduces-direct-trading-integration-in-partnership-with-interactive-brokers.md",
+      "title": "TOGGLE AI Introduces Direct Trading Integration in Partnership With Interactive Brokers",
+      "excerpt": "TOGGLE AI, the intelligent investing dashboard, introduced today its first direct trading integration in partnership with Interactive Brokers. Interactive Brokers account holders can now execute trades directly on the TOGGLE AI platform,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/technology-science-1b15107c36304fc29d4d2038868f2dac",
+      "originalUrl": "https://apnews.com/article/technology-science-1b15107c36304fc29d4d2038868f2dac",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T05:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-innovations-in-robotics-3d-printing-anomaly-detection-system-iot-based-fusion-welding-ai-based-robotic-exoskeleton-researchandmarketscom.md",
       "title": "Innovations in Robotics, 3D Printing, Anomaly Detection System, IoT Based Fusion Welding, AI Based Robotic Exoskeleton - ResearchAndMarkets.com",
       "excerpt": "The “Innovations in Robotics, 3D Printing, Anomaly Detection System, IoT Based Fusion Welding, AI Based Robotic Exoskeleton” report has been added to ResearchAndMarkets.com’s offering. The Advanced Manufacturing Technology Opportunity Engine for the month of September 2022 captures innovations related to robotics,",
@@ -831,263 +1156,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-driverless-cars-on-cruise-control-are-coming-to-a-street-near-you.md",
-      "title": "Driverless cars on cruise control are coming to a street near you",
-      "excerpt": "Driverless cars have yet to reach the streets of Halifax, but perhaps residents should keep their eyes peeled. Though its cobblestones “might prove to be challenging”, Oliver Cameron, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/driverless-cars-on-cruise-control-are-coming-to-a-street-near-you-0dg8x8h8x",
-      "originalUrl": "https://www.thetimes.co.uk/article/driverless-cars-on-cruise-control-are-coming-to-a-street-near-you-0dg8x8h8x",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F55e9d2c8-7976-11ed-bcd8-855e06175970.jpg?crop=5382%2C3028%2C1307%2C1417&resize=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T16:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-bolstering-the-safety-of-self-driving-cars-with-a-deep-learning-based-object-detection-system.md",
-      "title": "Bolstering the safety of self-driving cars with a deep learning-based object detection system",
-      "excerpt": "Self-driving cars need to implement efficient, effective, and accurate detection systems to provide a safe and reliable experience to its users. To this end, an international research team has now developed an end-to-end neural network that,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/974123",
-      "originalUrl": "https://www.eurekalert.org/news-releases/974123",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-botz-global-x-robotics-artificial-intelligence-thematic-etf.md",
-      "title": "BOTZ Global X Robotics & Artificial Intelligence Thematic ETF",
-      "excerpt": "The chart has 1 X axis displaying Time. Data ranges from 2021-12-09 00:00:00 to 2022-12-12 00:00:00. The chart has 1 Y axis displaying values. Data ranges from -50.35 to 3.4.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/symbol/BOTZ/charting",
-      "originalUrl": "https://seekingalpha.com/symbol/BOTZ/charting",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-deepminds-alphacode-can-outcompete-human-coders.md",
-      "title": "DeepMind's AlphaCode Can Outcompete Human Coders",
-      "excerpt": "DeepMind's AlphaCode model performed well against human coders in a programming competition, with a paper describing its overall performance as similar to that of a \"novice programmer\" with up to a year of training AlphaCode achieved \"approximately human-level performance\" and solved previously unseen natural language problems by forecasting code segments and generating millions of potential solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/267656-deepminds-alphacode-can-outcompete-human-coders/fulltext",
-      "originalUrl": "https://cacm.acm.org/news/267656-deepminds-alphacode-can-outcompete-human-coders/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-lensa-ai-avatar-portraits-are-popping-up-all-over-social-media-but-is-it-a-step-back-for-body-positivity.md",
-      "title": "Lensa AI avatar portraits are popping up all over social media, but is it a step back for body positivity?",
-      "excerpt": "She later adds: “I'm thankful to this silly AI-yourself trend as it gave me tools to try to work on that horrid inner voice.” The Lensa app asks for 10 to 20 selfies in order to generate its ‘magical avatars’, and can also be used to ‘perfect ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.glamourmagazine.co.uk/article/ai-avatars-body-positivity",
-      "originalUrl": "https://www.glamourmagazine.co.uk/article/ai-avatars-body-positivity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GLAMOUR UK",
-        "domain": "glamourmagazine.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-pilot-study-finds-computer-vision-technology-effective-at-determining-proper-mask-wearing-in-a-hospital-setting.md",
-      "title": "Pilot study finds computer vision technology effective at determining proper mask wearing in a hospital setting",
-      "excerpt": "In a survey and study of hospital employee volunteers, researchers found that a low-cost computer vision system was feasible and well received",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/974196",
-      "originalUrl": "https://www.eurekalert.org/news-releases/974196",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge.md",
-      "title": "BrainChip Joins Intel Foundry Services to Advance Neuromorphic AI at the Edge",
-      "excerpt": "BrainChip's Akida TM, enables low-latency and ultra-low power AI inference and on-chip learning. \"We are proud to partner with Intel as part of its IFS Accelerator - IP Alliance,\" said Anil Mankar ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/ac30033830/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/ac30033830/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30033830",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30033830",
-      "publishedDateTime": "2022-12-11T14:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

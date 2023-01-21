@@ -2,6 +2,326 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2022-10-11-aws-announces-general-availability-of-amazon-ec2-trn1-instances-powered-by-aws-designed-trainium-chips.md",
+      "title": "AWS Announces General Availability of Amazon EC2 Trn1 Instances Powered by AWS-Designed Trainium Chips",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances powered by AWS-designed Trainium chips.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/10/10/9689231.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/10/10/9689231.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape.md",
+      "title": "Overcoming cyber security challenges in the evolving fintech landscape",
+      "excerpt": "By Gavin Knapp, Cyber Defence Technical Lead at Bridewell The finance sector is a lucrative target for cyber criminals. Attacking fintech organisations offers numerous avenues for profit through theft,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/",
+      "originalUrl": "https://www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/10/iStock-1326418539.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/",
+      "publishedDateTime": "2022-10-10T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-the-best-robot-vacuums-based-on-rigorous-testing.md",
+      "title": "The Best Robot Vacuums Based On Rigorous Testing",
+      "excerpt": "After weeks of testing, here are the best robot vacuums with the technology and features to make cleaning your floors a breeze.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/10/best-robot-vacuums/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/10/best-robot-vacuums/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633f5e6fd4326a3ec4de06ab/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals.md",
+      "title": "How a flawed biometrics research project exposed AI ethical issues, singled out LGBTQ+ individuals",
+      "excerpt": "Flaws in a facial recognition dataset that was discovered by researchers highlight just some ways in which biometrics tech can cause harm to LGBTQ+ individuals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals/",
+      "originalUrl": "https://venturebeat.com/ai/how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1164656566-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals/amp/",
+      "publishedDateTime": "2022-10-10T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-meeting-global-mental-health-needs-with-technologys-help.md",
+      "title": "Meeting global mental health needs, with technology's help",
+      "excerpt": "The World Health Organization (WHO) estimates that nearly 1 billion people are living with a mental disorder, worldwide. During the global pandemic, the world saw a 25% increase in the prevalence of anxiety and depression. There was even a corresponding spike in searches on Google for mental health resources",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/world-mental-health-day-2022/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-org/world-mental-health-day-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/302-ORG-World_Mental_Health_Day-BW_V4.max-1300x1300.png",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-this-ai-uses-a-scan-of-your-retina-to-predict-your-risk-of-heart-disease.md",
+      "title": "This AI Uses a Scan of Your Retina to Predict Your Risk of Heart Disease",
+      "excerpt": "Heart disease is the number one cause of death among American adults. Conditions like obesity or diabetes increase a person’s risk of developing heart disease, and blood tests or blood pressure measurements can provide a better estimate of how likely someone is to have heart problems.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/10/10/this-ai-uses-a-scan-of-your-retina-to-predict-your-risk-of-heart-disease/",
+      "originalUrl": "https://singularityhub.com/2022/10/10/this-ai-uses-a-scan-of-your-retina-to-predict-your-risk-of-heart-disease/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/10/eye-retina-scan-AI.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/10/10/this-ai-uses-a-scan-of-your-retina-to-predict-your-risk-of-heart-disease/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/10/this-ai-uses-a-scan-of-your-retina-to-predict-your-risk-of-heart-disease/?amp=1",
+      "publishedDateTime": "2022-10-10T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-we-have-always-been-here-nh-recognition-of-native-american-tribes-unlikely.md",
+      "title": "‘We have always been here’ – NH recognition of Native American tribes unlikely",
+      "excerpt": "While other states have processes for tribes that want recognition, such as pursuing legislative avenues and executive orders, New Hampshire lacks even a path for recognizing Native groups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.concordmonitor.com/State-Recognition-Seems-Unlikely-For-New-Hampshire-Native-Americans-48337671",
+      "originalUrl": "https://www.concordmonitor.com/State-Recognition-Seems-Unlikely-For-New-Hampshire-Native-Americans-48337671",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.concordmonitor.com/getattachment/e744fdae-a17e-4242-91dd-a184d1de7e3f/attachment.aspx",
+          "width": 499,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Concord Monitor",
+        "domain": "concordmonitor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-10-openstack-from-austin-to-zed.md",
       "title": "OpenStack from Austin to Zed",
       "excerpt": "OpenStack has come a long way from its first release to its latest as it has matured from a private cloud to a multi-purpose cloud for any and all purposes.",
@@ -869,324 +1189,6 @@
         "AI",
         "Computer Vision",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-deep-learning-chipset-market-highly-favourable-to-the-growth-rate-by-2028.md",
-      "title": "Deep Learning Chipset Market Highly Favourable To The Growth Rate By 2028",
-      "excerpt": "Deep Learning Chipset market trends from 2022 to 2028 The Global Deep Learning Chipset research report 2022-2028 provides",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-highly-favourable-to-the-growth-rate-by-2028-2022-10-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-highly-favourable-to-the-growth-rate-by-2028-2022-10-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-09T23:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-the-5-biggest-artificial-intelligence-ai-trends-in-2023.md",
-      "title": "The 5 Biggest Artificial Intelligence (AI) Trends In 2023",
-      "excerpt": "The Field of artificial intelligence (AI) is emerging and evolving faster than ever. Here, we look at some of the major trends in the field of artificial intelligence and machine learning in 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/10/the-5-biggest-artificial-intelligence-ai-trends-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/10/the-5-biggest-artificial-intelligence-ai-trends-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6343bdc93a68ef0014de06ad/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/10/the-5-biggest-artificial-intelligence-ai-trends-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/10/10/the-5-biggest-artificial-intelligence-ai-trends-in-2023/amp/",
-      "publishedDateTime": "2022-10-09T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali.md",
-      "title": "IIT Mandi start up to launch world's first giant swing backed by AI in Manali",
-      "excerpt": "The swing was built under a startup incubated at Indian Institute of Technology (IIT), Mandi, and is claimed to be a first-of-its-kind in the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zeebiz.com/small-business/news-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali-202286",
-      "originalUrl": "https://www.zeebiz.com/small-business/news-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali-202286",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zeebiz.com/small-business/news-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali-202286/amp",
-      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/small-business/news-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali-202286/amp",
-      "publishedDateTime": "2022-10-09T21:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zee Business",
-        "domain": "zeebiz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-does-the-google-pixel-7-have-face-unlock-yes-but-theres-a-catch.md",
-      "title": "Does the Google Pixel 7 have face unlock? Yes, but there’s a catch",
-      "excerpt": "It’s an open question whether that lower-end camera was enough to drive Google’s facial recognition algorithms. Still, Google probably didn’t want to risk a face unlock feature performing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/does-the-google-pixel-7-have-face-unlock/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/does-the-google-pixel-7-have-face-unlock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-09T21:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-ai-powered-job-recruitment-tools-may-not-improve-hiring-diversity-experts-argue.md",
-      "title": "AI-Powered Job Recruitment Tools May Not Improve Hiring Diversity, Experts Argue",
-      "excerpt": "There is “little accountability for how the products are built or tested,” according to one researcher with The University of Cambridge’s Center for Gender Studies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/madelinehalpert/2022/10/09/ai-powered-job-recruitment-tools-may-not-improve-hiring-diversity-experts-argue/",
-      "originalUrl": "https://www.forbes.com/sites/madelinehalpert/2022/10/09/ai-powered-job-recruitment-tools-may-not-improve-hiring-diversity-experts-argue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634331499bd9d09c0261f5c2/0x0.jpg?format=jpg&crop=3425,1926,x0,y151,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/madelinehalpert/2022/10/09/ai-powered-job-recruitment-tools-may-not-improve-hiring-diversity-experts-argue/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/madelinehalpert/2022/10/09/ai-powered-job-recruitment-tools-may-not-improve-hiring-diversity-experts-argue/amp/",
-      "publishedDateTime": "2022-10-09T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-boston-dynamics-and-five-other-robot-makers-pledge-not-to-weaponize-their-robots.md",
-      "title": "Boston Dynamics and five other robot makers pledge not to weaponize their robots",
-      "excerpt": "Boston Dynamics, Agility Robotics, ANYbotics, Clearpath Robotics, Open Robotics, and Unitree have all signed a pledge to stop robots from being weaponized.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/innovation/robot-makers-pledge-not-to-weaponize-their-robots",
-      "originalUrl": "https://interestingengineering.com/innovation/robot-makers-pledge-not-to-weaponize-their-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-09T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-dubais-rta-to-showcase-driverless-taxis-for-the-first-time-during-gitex.md",
-      "title": "Dubai's RTA to showcase driverless taxis for the first time during Gitex",
-      "excerpt": "Dubai's Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 4..",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022",
-      "originalUrl": "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=7cc4b377-db5c-5fac-9612-25ede4150eb9&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.95339&width=1200&height=675&x=1.0E-5&y=0.02331",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022?amp=1",
-      "publishedDateTime": "2022-10-09T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

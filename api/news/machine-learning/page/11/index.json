@@ -2,6 +2,93 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-10-19-a-deep-artificial-neural-network-powered-by-enzymes.md",
+      "title": "A deep artificial neural network powered by enzymes",
+      "excerpt": "To do this, artificial ‘neurons’ powered by enzymes are wired together to form an architecture that mimics the structure of a neural network. The world is facing a shortage of memory capacity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-022-03150-4",
+      "originalUrl": "https://www.nature.com/articles/d41586-022-03150-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-03150-4/d41586-022-03150-4_23610918.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-11-best-machine-learning-stocks-to-buy.md",
+      "title": "11 Best Machine Learning Stocks to Buy",
+      "excerpt": "has one of the strongest machine learning platforms in the world, with its Watson division offering companies a many solutions such as risk compliance, advertising, customer service, financial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/11-best-machine-learning-stocks-to-buy-1077146/",
+      "originalUrl": "https://www.insidermonkey.com/blog/11-best-machine-learning-stocks-to-buy-1077146/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2020/12/14105630/hacking-coding-programming-unsplash.png",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-realpage-the-worlds-largest-property-management-software-provider-selects-wallaroo-labs-to-scale-machine-learning.md",
       "title": "RealPage, The World’s Largest Property Management Software Provider, Selects Wallaroo Labs To Scale Machine Learning",
       "excerpt": "Today RealPage, the industry leader in SaaS-based Property Management Solutions, announced that they have selected Wallaroo",
@@ -1398,111 +1485,6 @@
         "AI",
         "Google AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-google-aims-for-biglake-data-lake-support-for-all-unstructured-data.md",
-      "title": "Google aims for BigLake data lake support for all unstructured data",
-      "excerpt": "What you need to know about Google Cloud Next data announcements: BigLake support for Apache Iceberg, Hudi and Delta Lake; BigQuery adds unstructured data, Apache Spark and DataStream support; Looker Studio unifies business intelligence products;",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3676074/google-aims-for-biglake-data-lake-support-for-all-unstructured-data.html",
-      "originalUrl": "https://www.infoworld.com/article/3676074/google-aims-for-biglake-data-lake-support-for-all-unstructured-data.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/05/data-lake-100720643-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3676074/google-aims-for-biglake-data-lake-support-for-all-unstructured-data.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3676074/google-aims-for-biglake-data-lake-support-for-all-unstructured-data.amp.html",
-      "publishedDateTime": "2022-10-11T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems.md",
-      "title": "How Advanced Databases Can Enable Deep Learning To Address Some Of The World's Great Problems",
-      "excerpt": "In order to reach their fullest potential, databases must evolve to meet the needs of more advanced AI algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/11/how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/11/how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634425ffb33ba97e97de06b1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/11/how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/11/how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems/amp/",
-      "publishedDateTime": "2022-10-11T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
