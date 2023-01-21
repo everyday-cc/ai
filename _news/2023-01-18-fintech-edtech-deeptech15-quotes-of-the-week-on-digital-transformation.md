@@ -53,15 +53,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Top 10 Fintech and innovation trends to watch in 2023"
-    excerpt: "Driving these innovations are Fintech companies which are contributing significantly to the growth of the local economy, creating new jobs, and stimulating an entrepreneurial ecosystem. Also, they are making the provision of financial services more efficient,"
-    publishedDateTime: 2023-01-16T13:56:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Top-10-Fintech-and-innovation-trends-to-watch-in-2023-1695992"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 4
 
 secured: "H7K+s7oFRCslnrqKbJD/g0RWIpJr/+aChR3earNWwHdpzxK7+ZYL5ES3BA2fr+a/8iNabkJovd0/zQz52dKs2nM3jWVN6393QPCE+7pVaPp3w7xAn8KjZCBhpB+nUcuzpg87MJsdKi36RkX+2C4qYECPEhScPUCIxCdRnlsqGfbTB2Dkp9NJaF73GQAeZTFKoXoc5r9blb0KzPW9845sJOC5zpv2LP+awgPd5TH98VdTv1cON6/nfwDMD8Z2JCI+3Ld0XwgkqXORy1E45h3DKuTTFchvn8NdutNB8WJwUecUi22bpX9jTyK8ujswtnkEUyfaXqg0pHQ0Sm/x/Zd5Y30ZspW3FZOgP4PtvUYbFyoxT7DFMMQxidSe2tOX36i6MQ0u6jXiskzBuzea8wtGkz5G+YNZk+IecUMuFT0zja5hc0WDmWRmZTku/OBQltkNjjJKe373s1tI3/uiIiPR+LOzstQxhht54JTjLeeR/qt55bN332xA4/b+ZKjbQdi2uVzZL10g8WZDlMZTpQJJpg==;m8ehqlHpIqmeTsfhaAPVoQ=="
 ---

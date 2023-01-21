@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/calendar-event/seattle-fintech-meetup-mea
 webUrl: "https://www.geekwire.com/calendar-event/seattle-fintech-meetup-measure-what-matters-dei-in-fintech/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Top 10 Fintech and innovation trends to watch in 2023"
-    excerpt: "Driving these innovations are Fintech companies which are contributing significantly to the growth of the local economy, creating new jobs, and stimulating an entrepreneurial ecosystem. Also, they are making the provision of financial services more efficient,"
-    publishedDateTime: 2023-01-16T13:56:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Top-10-Fintech-and-innovation-trends-to-watch-in-2023-1695992"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 4
 
 secured: "Hx5OPs56MhXssRkHqob3Dlnj6FPNqvYear6q0Nbcbjfr5QjBabVXHNnRGJNI41gh7Sp0yJgWWn+ToDOHlSjy/r03YlL074zV+PILNhY3bTOyBRwEAdr10FVfWCpwyF6uT4KdBPE+fw/sxKETbmZ894kVQm+qIysDpBI5tkM9dbFpLl08aevK9Vvwffd48BxpsKoNJ85vwcH8PujWz66e/KMeVknfPS4p2r8aKaRAb82/k1tEkfdaHjeGC9BIKmTUtWIoukxBxW7q9GTnXwOIk/mlh/H/9lhKZs5iMPXGhe+aDDykiAqp1JogDB7mRe+L9DRBvubuWKUEMrDULLJHW7aQk8hyrfgJBMCGjIsODs0=;JTqRA4VPgdk34ofbCWewTA=="
 ---

@@ -2,6 +2,94 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-01-15-a-mental-health-tech-company-ran-an-ai-experiment-on-real-users-nothings-stopping-apps-from-conducting-more.md",
+      "title": "A mental health tech company ran an AI experiment on real users. Nothing’s stopping apps from conducting more.",
+      "excerpt": "A chat app used for emotional support used a popular chatbot to write answers for humans to select. Controversy followed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/internet/chatgpt-ai-experiment-mental-health-tech-app-koko-rcna65110",
+      "originalUrl": "https://www.nbcnews.com/tech/internet/chatgpt-ai-experiment-mental-health-tech-app-koko-rcna65110",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/220113-AI-Mental-Healthcare-jg-b3b521.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna65110",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna65110",
+      "publishedDateTime": "2023-01-14T11:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-14-where-will-artificial-intelligence-take-us-in-the-future.md",
+      "title": "Where will artificial intelligence take us in the future?",
+      "excerpt": "Israel has become a trailblazer in AI, as it did in hi-tech in previous decades, earning it the venerable title, “Start-up Nation.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/jerusalem-report/article-728305",
+      "originalUrl": "https://www.jpost.com/jerusalem-report/article-728305",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/524652",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/jerusalem-report/article-728305/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jerusalem-report/article-728305/amp",
+      "publishedDateTime": "2023-01-14T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-14-given-a-platform-14-years-ago-by-hudson-miracle-this-hero-pilot-has-used-it-to-promote-airline-safety.md",
       "title": "Given A Platform 14 Years Ago By Hudson Miracle, This Hero Pilot Has Used It To Promote Airline Safety",
       "excerpt": "In Charlotte, where a museum was renamed to honor him, hero pilot Sully Sullenberger said the failure of an FAA safety system provides an opportunity to fix it.",
@@ -1094,101 +1182,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-global-chipmakers-to-invest-over-300m-in-ai-designed-chips-this-year.md",
-      "title": "Global chipmakers to invest over $300m in AI-designed chips this year",
-      "excerpt": "The world’s leading semiconductor companies will likely spend more than $300 million in the development of artificial intelligence (AI) to help design semiconductors faster this year as a global chip shortage continues to put a strain on demand,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20230113000498",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20230113000498",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F01%2F13%2F20230113000455_0.jpg",
-          "width": 630,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20230113000498",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230113000498",
-      "publishedDateTime": "2023-01-12T21:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-chinese-facial-recognition-technology-helping-iran-to-identify-women-breaking-strict-dress-code-report.md",
-      "title": "Chinese facial recognition technology helping Iran to identify women breaking strict dress code: Report",
-      "excerpt": "Iranian authorities may be using new technology to help enforce the country's strict dress code for women, expanding the use of facial recognition technology to issue fines and other penalties for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/chinese-facial-recognition-technology-helping-iran-identify-women-breaking-strict-dress-code-report",
-      "originalUrl": "https://www.foxnews.com/world/chinese-facial-recognition-technology-helping-iran-identify-women-breaking-strict-dress-code-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/370a905d-a444-4f55-bff1-91728b00f571/4d4fc5b2-cc2d-41c8-8f67-50a4b3780f66/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/chinese-facial-recognition-technology-helping-iran-identify-women-breaking-strict-dress-code-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/chinese-facial-recognition-technology-helping-iran-identify-women-breaking-strict-dress-code-report.amp",
-      "publishedDateTime": "2023-01-12T21:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

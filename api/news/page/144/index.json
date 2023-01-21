@@ -2,6 +2,101 @@
   "page": 144,
   "value": [
     {
+      "path": "_news/2022-09-13-uber-inks-partnership-on-food-delivery-to-get-back-in-driverless-game.md",
+      "title": "Uber inks partnership on food delivery to get back in driverless game",
+      "excerpt": "The latter has developed driverless delivery robots, which have already been operating on a limited basis in several cities. The latest partnership will kick off this fall with deliveries in ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3882244-uber-inks-partnership-on-food-delivery-to-get-back-in-driverless-game",
+      "originalUrl": "https://seekingalpha.com/news/3882244-uber-inks-partnership-on-food-delivery-to-get-back-in-driverless-game",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1137962297/image_1137962297.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-is-ai-the-solution-to-hiring-bias-or-the-cause-of-it.md",
+      "title": "Is AI The Solution To Hiring Bias (Or The Cause Of It)?",
+      "excerpt": "If AI can find qualified candidates and automation software can schedule interviews, confirm appointments, and send email and text messages to candidates, what’s left for a recruiter to do? Turns out,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f89f505db3eef289c346955/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/amp/",
+      "publishedDateTime": "2022-09-13T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-heres-the-exclusive-16-slide-pitch-deck-that-startup-alcatraz-ai-used-to-raise-25-million-to-open-doors-with-facial-recognition.md",
       "title": "Here's the exclusive 16-slide pitch deck that startup Alcatraz AI used to raise $25 million to open doors with facial recognition",
       "excerpt": "AI startup Alcatraz AI's funding was led by global VC firm Almaz Capital, and involved several new and existing investors.",
@@ -1048,83 +1143,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-save-the-date-join-aws-at-nvidia-gtc-september-1922.md",
-      "title": "Save the date: Join AWS at NVIDIA GTC, September 19–22",
-      "excerpt": "Register free for NVIDIA GTC to learn from experts on how AI and the evolution of the 3D internet are profoundly impacting industries—and society as a whole. We have prepared several AWS sessions to give you guidance on how to use AWS services powered by NVIDIA technology to meet your goals. Amazon Elastic",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/save-the-date-join-aws-at-nvidia-gtc-september-19-22/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/save-the-date-join-aws-at-nvidia-gtc-september-19-22/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T11:41:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-svkms-nmims-bengaluru-campus-opens-nmat-registration-for-admissions-in-mba-core-program-for-the-ay-2023-25.md",
-      "title": "SVKM's NMIMS Bengaluru Campus opens NMAT registration for admissions in MBA Core Program for the AY 2023-25",
-      "excerpt": "BIE (Bachelor of Industrial Engineering), machine learning, financial services and many more, both modern and traditional forms of electives. Faculty have impeccable credentials both coming from ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1275094&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1275094&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

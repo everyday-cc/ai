@@ -2,6 +2,92 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2022-11-11-microsoft-is-testing-new-ads-in-windows-11.md",
+      "title": "Microsoft is testing new ads in Windows 11",
+      "excerpt": "it's ads appearing in the operating system—said no one other than Microsoft. The Redmond firm appears to be testing a feature in preview builds that shows ads for its services in the flyout menu ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/96601-microsoft-testing-ads-services-windows-11.html",
+      "originalUrl": "https://www.techspot.com/news/96601-microsoft-testing-ads-services-windows-11.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-14-image-5.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-enable-medicine-develops-a-deep-learning-model-that-establishes-a-new-standard-for-predicting-cancer-treatment-outcomes.md",
+      "title": "Enable Medicine Develops a Deep Learning Model that Establishes a New Standard for Predicting Cancer Treatment Outcomes",
+      "excerpt": "Enable Medicine, the platform for indexing and searching biological data, today unveiled a new tool that identifies spatial-cellular signatures associated with cancer outcomes. Published in Nature Biomedical Engineering,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-enable-medicine-develops-deep-learning-model-that-establishes-/2022/11/10/9710935.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-enable-medicine-develops-deep-learning-model-that-establishes-/2022/11/10/9710935.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T10:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-now-anyone-can-hail-a-waymo-robotaxi-in-downtown-phoenix.md",
       "title": "Now anyone can hail a Waymo robotaxi in downtown Phoenix",
       "excerpt": "Waymo has opened up its fully driverless ride-hail service in downtown Phoenix to members of the general public. Previously, the company had only been operating a commercial service with no safety ...",
@@ -1078,110 +1164,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-natural-language-processing-nlp-market-size-overview-by-rising-demands-trends-and-huge-business-opportunities-2022-to-2026.md",
-      "title": "Natural Language Processing (NLP) Market Size Overview by Rising Demands, Trends and Huge Business Opportunities 2022 to 2026",
-      "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Natural Language Processing (NLP) Market\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-overview-by-rising-demands-trends-and-huge-business-opportunities-2022-to-2026-2022-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-overview-by-rising-demands-trends-and-huge-business-opportunities-2022-to-2026-2022-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T20:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-how-covid-19-impacting-artificial-intelligence-ai-chips-market-globally-2022-2026.md",
-      "title": "How COVID-19 Impacting Artificial intelligence (AI) Chips Market Globally 2022-2026?",
-      "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial intelligence (AI) Chips Market\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/how-covid-19-impacting-artificial-intelligence-ai-chips-market-globally-2022-2026-2022-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/how-covid-19-impacting-artificial-intelligence-ai-chips-market-globally-2022-2026-2022-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T20:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

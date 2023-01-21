@@ -52,6 +52,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "AWS Makes it Simpler to Share ML Models and Notebooks with Amazon SageMaker JumpStart"
+    excerpt: "SageMaker JumpStart also provides access to large-scale machine learning models with billions of parameters, which can be used for tasks like article summarization and generating text, images, or ..."
+    publishedDateTime: 2023-01-19T00:00:00Z
+    webUrl: "https://www.infoq.com/news/2022/12/aws-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 64
+    images:
+      - url: "https://res.infoq.com/news/2022/12/aws-sagemaker-jumpstart/en/headerimage/generatedHeaderImage-1671496681710.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "wrsCJGalkaCh5CukjVTl2MUaI8H6CC4dnG0w2YedFI89ZGhvpSOq8m+O7XuttDPoxWhPhqXJPrAWKbZXoUQx8Wzfx7Yk1HSRCEM8ELzKvaI4s1xe6jyagmXDVVyn6iLVms2mIv6C9Qs3a4qy7Wvnqf95aPL9myilETUUqSZ+StRLjnHLAK1vUuEX5Ow2MjCgZosLtCQGOmtHx43oIgZKaYVUj8Bt84ooxxC7RglQB5fVjvfw4iPaD/lTGSu4xAQR/RyozvLAEFYvl8XVxMqn36w1TDU+OMapIhvp9GZHbob9QMr/UIR6ZdLR81Rjjm5mH/QT0w7MifkNNTi40YQgA3n09R1CHqDXJfXscm7Bgdk=;3Dv4+Xb89a2ZMzFm50CGjw=="
 ---

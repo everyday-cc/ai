@@ -2,6 +2,111 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2022-11-17-how-natural-language-processing-helps-promote-inclusivity-in-online-communities.md",
+      "title": "How natural language processing helps promote inclusivity in online communities",
+      "excerpt": "To create safe online communities, companies need better ways to weed out harmful posts. Find out how AI/ML is improving content moderation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-natural-language-processing-helps-promote-inclusivity-in-online-communities/",
+      "originalUrl": "https://venturebeat.com/ai/how-natural-language-processing-helps-promote-inclusivity-in-online-communities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1312425667.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-natural-language-processing-helps-promote-inclusivity-in-online-communities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-natural-language-processing-helps-promote-inclusivity-in-online-communities/amp/",
+      "publishedDateTime": "2022-11-16T10:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer.md",
+      "title": "Microsoft and Nvidia team up to build new Azure-hosted AI supercomputer",
+      "excerpt": "Microsoft and Nvidia have announced a multi-year partnership to build a new AI supercomputer in the Azure cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/",
+      "originalUrl": "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 431,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-655242462.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/amp/",
+      "publishedDateTime": "2022-11-16T09:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-riot-games-and-ubisoft-team-up-on-machine-learning-to-detect-harmful-game-chat.md",
       "title": "Riot Games and Ubisoft team up on machine learning to detect harmful game chat",
       "excerpt": "Ubisoft and Riot Games have teamed up to share machine learning data so they can more easily detect harmful chat in multiplayer games.",
@@ -1005,100 +1110,6 @@
         "name": "Computer Weekly",
         "domain": "computerweekly.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure.md",
-      "title": "Artificial Intelligence Enhanced Smartwatch ECG to Detect Heart Failure",
-      "excerpt": "Smartwatch ECG can effectively detect heart failure in nonclinical environment, revealed a new study in Nature Medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/health-images/smartwatch-health-monitoring-system.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-enhanced-smartwatch-ecg-to-detect-heart-failure-209259-1.htm",
-      "publishedDateTime": "2022-11-15T20:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-israels-ourcrowd-to-launch-ai-business-in-uae.md",
-      "title": "Israel’s OurCrowd to Launch AI Business in U.A.E.",
-      "excerpt": "The venture-capital firm is partnering with Abu Dhabi entity to invest $60 million to expand its operations in the Arab country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/israels-ourcrowd-to-launch-ai-business-in-u-a-e-11668574940",
-      "originalUrl": "https://www.wsj.com/articles/israels-ourcrowd-to-launch-ai-business-in-u-a-e-11668574940",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-667365/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T20:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

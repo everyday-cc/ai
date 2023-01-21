@@ -2,6 +2,91 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-19-natural-language-processing-in-artificial-intelligence-what-it-is-and-why-it-matters.md",
+      "title": "Natural Language Processing in Artificial Intelligence: What It Is and Why It Matters",
+      "excerpt": "F or the past few decades, the idea of Artificial Intelligence (AI) has moved from being the stuff of pure science fiction to something that seems to be inching closer to reality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence:-what-it-is-and-why-it-matters",
+      "originalUrl": "https://www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence:-what-it-is-and-why-it-matters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence%3A-what-it-is-and-why-it-matters?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence%3A-what-it-is-and-why-it-matters?amp",
+      "publishedDateTime": "2023-01-18T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-artificial-intelligence-based-medical-device-market-is-set-to-grow-in-forecast-period-2029.md",
+      "title": "Artificial Intelligence Based Medical Device Market is Set to Grow in forecast period 2029",
+      "excerpt": "Artificial Intelligence Based Medical Device Market Report Insights: (Report Pages: 110) “The Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-is-set-to-grow-in-forecast-period-2029-2023-01-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-is-set-to-grow-in-forecast-period-2029-2023-01-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-18T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-18-ai-bill-of-rights-industry-should-police-itself-claims-ml-company.md",
       "title": "AI Bill of Rights - industry should police itself, claims ML company",
       "excerpt": "So, in the long tail of the Facebook/Meta and Cambridge Analytica ... downsides when governments directly regulate an industry like AI or machine learning. It’s a very fast-moving area. Research is rapidly developing and it’s impossible or impractical ...",
@@ -403,7 +488,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-production-growth-demand-and-supply-analysis-2023-to-2029-including-103-pages-report-2023-01-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 373,
+      "heat": 363,
       "tags": null,
       "images": [
         {
@@ -551,7 +636,7 @@
       "originalUrl": "https://www.marketwatch.com/story/john-chambers-expects-a-tough-2023-but-plenty-of-opportunities-for-ai-cybersecurity-11673995609?mod=home-page",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -749,7 +834,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/set-up-amazon-sagemaker-studio-with-jupyter-lab-3-using-the-aws-cdk/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1143,102 +1228,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-opinion-how-facial-recognition-will-transform-airport-security.md",
-      "title": "Opinion: How facial recognition will transform airport security",
-      "excerpt": "Imagine using technology that never forgets a face, while improving airport security and shortening lines. Such technology exists and may be coming to an airport near you. Every flyer over the past two decades knows that airport security procedures involve a lot of unpacking,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/",
-      "originalUrl": "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/01/OPED-TSA-FACIAL-RECOGNITION-COMMENTARY-TB.jpg?w=1024&h=736",
-          "width": 1024,
-          "height": 735,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/amp/",
-      "publishedDateTime": "2023-01-17T04:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-achieving-next-level-value-from-ai-by-focusing-on-the-operational-side-of-machine-learning.md",
-      "title": "Achieving Next-Level Value From AI By Focusing On The Operational Side Of Machine Learning",
-      "excerpt": "To this list, I would add another reason that I have seen many organizations struggle to achieve value from their AI projects. Companies often have invested heavily in building da",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/achieving-next-level-value-from-ai-by-focusing-on-the-operational-side-of-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/achieving-next-level-value-from-ai-by-focusing-on-the-operational-side-of-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/achieving-next-level-value-from-ai-by-focusing-on-the-operational-side-of-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/17/achieving-next-level-value-from-ai-by-focusing-on-the-operational-side-of-machine-learning/amp/",
-      "publishedDateTime": "2023-01-17T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

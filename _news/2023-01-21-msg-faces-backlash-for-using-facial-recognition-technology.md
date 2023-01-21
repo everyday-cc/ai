@@ -2,11 +2,11 @@
 category: news
 title: "MSG faces backlash for using facial recognition technology"
 excerpt: "Sen. Kristen Gonzalez joined advocates sounding off last weekend, demanding that MSG Entertainment seize the use of the technology on fans."
-publishedDateTime: 2023-01-21T03:55:00Z
-originalUrl: "https://brooklyn.news12.com/msg-faces-backlash-for-using-facial-recognition-technology"
-webUrl: "https://brooklyn.news12.com/msg-faces-backlash-for-using-facial-recognition-technology"
-ampWebUrl: "https://brooklyn.news12.com/amp/msg-faces-backlash-for-using-facial-recognition-technology"
-cdnAmpWebUrl: "https://brooklyn-news12-com.cdn.ampproject.org/c/s/brooklyn.news12.com/amp/msg-faces-backlash-for-using-facial-recognition-technology"
+publishedDateTime: 2023-01-21T06:14:00Z
+originalUrl: "https://bronx.news12.com/msg-faces-backlash-for-using-facial-recognition-technology"
+webUrl: "https://bronx.news12.com/msg-faces-backlash-for-using-facial-recognition-technology"
+ampWebUrl: "https://bronx.news12.com/amp/msg-faces-backlash-for-using-facial-recognition-technology"
+cdnAmpWebUrl: "https://bronx-news12-com.cdn.ampproject.org/c/s/bronx.news12.com/amp/msg-faces-backlash-for-using-facial-recognition-technology"
 type: article
 quality: 59
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 512
         isCached: true
 
-secured: "Gi2XkMHy6+Y9UB0iAwwGHEH1l36Idt2rEJO34GLujza9sHyhVNIBZ/GOARP8ELNk/Y3mCO3+GI9srFGUmNSnnQ5eKhS38gb8JNjRHgkNSFR0SdkLQZmXweIFVkoBTP0q5OFVub3Reguomb/vXqgcIXtS1kgw9NELEw7t57R+u45yu1Nr3mbTiw80sMlOC81mWrO9uPfkT/xv8MUiOvhd7pS83nj8udUz8Lj0kjUDVsg1mMaQfwkNTuLgIGE/216GeaW73EMCO7XI+d8uG5jIYIai6telyxLIpOJBYaA9LPbRW8li6SA5bvS8QhvUtkT1iz4UBLWJN7XO4QTe333Gkd3JNCMdfb00MHWj5FlSQII=;Cj+4NsaVJcsr0gt7OegRug=="
+secured: "kwYeXMsIVdqeIU+B2PfGVDt4gkzMCgTzOvrC65gbpuYLRpYUcYY2WxpH5uwrOB/b6SIekN/LUeJ7uZuh6//8kNZKPWdzNoy4wiDvK+9ZidXaUGbBUMIdFnw0MpfXN10TljaOtKyr/9qCGZ6tTKLcPufzSRDkAsY41eYkjUYQNc95QeSdEjP+3FNJjSwr9kJWv8zoWo3mAO98z5vvxN9dmNUQJEsvwV4Gg9oYccaglbanXjQ0Nq3w0JTISWnoRi8YJCxnLoOBzTAypwpxi3lYv6vdmjDEXClYyr3lJV86/2Yqr/JaFXrZb/LKU32SbZV5LBOXrqa93gamNLsIOVYuRofqu4rLx9v2s+7yN0rpLa0=;YjYNh+MqOeHPOQRbVKTndw=="
 ---
 

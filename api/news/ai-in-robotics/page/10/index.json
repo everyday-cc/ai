@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-10-21-katakems-robot-chef-speeds-up-drug-development-with-reliable-chemistry.md",
+      "title": "Katakem’s ‘robot chef’ speeds up drug development with reliable chemistry",
+      "excerpt": "Katakem, which is developing a robot to automate lab tasks, is among the many startups presenting at the TechCrunch Disrupt Battlefield 200.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/20/katakems-robot-chef-speeds-up-drug-development-with-reliable-chemistry/",
+      "originalUrl": "https://techcrunch.com/2022/10/20/katakems-robot-chef-speeds-up-drug-development-with-reliable-chemistry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/104944205-fd7cda9c-a08e-48ad-a340-bf872e278e80.jpg",
+          "width": 1140,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/20/katakems-robot-chef-speeds-up-drug-development-with-reliable-chemistry/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/20/katakems-robot-chef-speeds-up-drug-development-with-reliable-chemistry/amp/",
+      "publishedDateTime": "2022-10-20T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-generally-intelligent-secures-cash-from-openai-vets-to-build-capable-ai-systems.md",
       "title": "Generally Intelligent secures cash from OpenAI vets to build capable AI systems",
       "excerpt": "Generally Intelligent, a research startup with backing from OpenAI vets, is aiming to develop general-purpose AI systems.",
@@ -1421,51 +1473,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries.md",
-      "title": "A|I: The AI Times – Gatik and Loblaw give Canadians driverless deliveries",
-      "excerpt": "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/",
-      "originalUrl": "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.betakit.com/wp-content/uploads/2022/10/Loblaws-truck.jpeg",
-          "width": 770,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BetaKit",
-        "domain": "betakit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     }
   ],

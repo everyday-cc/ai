@@ -2,6 +2,92 @@
   "page": 151,
   "value": [
     {
+      "path": "_news/2022-09-07-video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026.md",
+      "title": "Video Content Management System Market Analysis, Size, Share, Facts and Figures, Services and Forecast 2026",
+      "excerpt": "The global Video Content Management System Market size expected to grow at a Compound Annual Growth Rate (CAGR) of 14.0% during the forecast period, to reach USD 6.8 billion by 2026 from USD 3.5 billion in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026-2022-09-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026-2022-09-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft.md",
+      "title": "IT services provider Long View is recognized as an industry leader in sustainability by Cisco and Microsoft",
+      "excerpt": "A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\".",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft-1031727161",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft-1031727161",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-taiwanese-president-cites-threat-of-chinese-cognitive-warfare.md",
       "title": "Taiwanese President cites threat of Chinese ‘cognitive warfare’",
       "excerpt": "Taiwanese President Tsai Ing-wen said on September 6 that China is conducting “cognitive warfare” by spreading misinformation in addition to its regular incursions into nearby waters and ...",

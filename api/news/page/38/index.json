@@ -2,6 +2,101 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2022-12-09-the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace.md",
+      "title": "The Final Freedom: The Role Of Artificial Intelligence In The Workplace",
+      "excerpt": "The reality is that AI does something unique in our technological evolution because rather than simply replicate and improve our interactions with the physical world, or accelerate rote tasks through automation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f93379ac3fffcbce128eacc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/amp/",
+      "publishedDateTime": "2022-12-09T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-is-chatgpt-the-next-big-threat-to-googles-dominance-in-the-ai-market.md",
+      "title": "Is ChatGPT the next big threat to Google’s dominance in the AI market?",
+      "excerpt": "With its ability to produce natural language text quickly and accurately ... to say the least. This new powerful language processing technology has the potential to revolutionise the way we interact with computers. But is it really that much of a big ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketingweek.com/ritson-chatgpt-google-ai/",
+      "originalUrl": "https://www.marketingweek.com/ritson-chatgpt-google-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://marketingweek.imgix.net/content/uploads/2022/12/08163116/AI-robots.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T02:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketing Week",
+        "domain": "marketingweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-ai-where-do-ethics-stop-and-regulations-begin.md",
       "title": "AI - where do ethics stop, and regulations begin?",
       "excerpt": "When it comes to artificial intelligence (AI) and its growing impact on our lives ... takes away their agency and doesn't leave them feeling empowered. Our public research shows again and again that people would like to see more regulation, even if ...",
@@ -1021,92 +1116,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-brain-plasticity-study-oxytocin-drives-development-of-neural-connections-in-adult-born-neurons.md",
-      "title": "Brain plasticity study: Oxytocin drives development of neural connections in adult-born neurons",
-      "excerpt": "The researchers discovered that the levels of oxytocin increase in the olfactory bulb, peaking at the time the new neurons incorporate themselves into neural networks. Using viral labeling ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/4-brain.jpg",
-          "width": 1920,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.amp",
-      "publishedDateTime": "2022-12-08T12:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-the-tsa-plans-to-take-facial-recognition-technology-nationwide.md",
-      "title": "The TSA plans to take facial recognition technology nationwide",
-      "excerpt": "The Transportation Security Administration has been testing facial recognition technology as an option for travelers at select U.S. airports for years, touting it as a way to speed up identity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide",
-      "originalUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2022/09/Airport.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide.amp",
-      "publishedDateTime": "2022-12-08T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

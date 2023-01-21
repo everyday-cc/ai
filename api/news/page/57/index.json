@@ -2,6 +2,103 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2022-11-28-using-an-ai-powered-retina-scan-to-detect-kidney-disease.md",
+      "title": "Using An AI-Powered Retina Scan To Detect Kidney Disease",
+      "excerpt": "A South Korean startup, Mediwhale, wants to use artificial intelligence (AI) to diagnose kidney disease through a non-invasive retina scan. Kevin T. Choi, Co-founder and CEO of Mediwhale says the retina is the only organ where blood vessels are directly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2022/11/27/using-an-ai-powered-retina-scan-to-detect-kidney-disease/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/11/27/using-an-ai-powered-retina-scan-to-detect-kidney-disease/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6383a854488fd33f44459796/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2022/11/27/using-an-ai-powered-retina-scan-to-detect-kidney-disease/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/11/27/using-an-ai-powered-retina-scan-to-detect-kidney-disease/amp/",
+      "publishedDateTime": "2022-11-27T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-tsa-faces-ethical-limits-on-ai-but-advancement-work-must-persist.md",
+      "title": "TSA faces ethical limits on AI, but advancement work must persist",
+      "excerpt": "The potential competitive advantage offered by AI is enormous. Yet transitions from the research lab to practice will remain choppy and uncertain, which will help ensure that progress is measured, methodical and slow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stripes.com/opinion/2022-11-27/tsa-artificial-intelligence-8207585.html",
+      "originalUrl": "https://www.stripes.com/opinion/2022-11-27/tsa-artificial-intelligence-8207585.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.stripes.com/incoming/iqzdwc-oped-tsa-artificial-intelligence-commentary-get.jpg/alternates/LANDSCAPE_480/OPED-TSA-ARTIFICIAL-INTELLIGENCE-COMMENTARY-GET.jpg",
+          "width": 480,
+          "height": 299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stars and Stripes",
+        "domain": "stripes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-creating-more-explainable-artificial-intelligence-could-enhance-human-work-and-creativity.md",
       "title": "Creating more explainable artificial intelligence could enhance human work and creativity",
       "excerpt": "Rudzicz’s work will develop processes that will improve artificial neural networks to increase computer understanding of human language, and Kuzminykh’s research seeks to better understand how humans perceive and interact with conversational agents like chatbots and virtual assistants.",
@@ -1044,83 +1141,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-26-shark-prime-day-deal-save-250-off-av2501ae-robot-vacuum-with-xl-hepa-self-empty-base.md",
-      "title": "Shark Prime Day Deal: Save $250 Off AV2501AE Robot Vacuum with XL HEPA Self-Empty Base",
-      "excerpt": "Several Shark robot vacuum cleaners empty themselves. Here’s everything you need to know if you’re trying to figure out which vacuum cleaner is right for you. We’ll start with the AI robot ...",
-      "sourceUrl": null,
-      "webUrl": "https://heavy.com/deals/shark-ai-robot-vacuum-prime-day-deal/",
-      "originalUrl": "https://heavy.com/deals/shark-ai-robot-vacuum-prime-day-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://heavy.com/wp-content/uploads/2021/11/Shark-AV2501AE-AI-Robot-Vacuum-with-XL-HEPA-Self-Empty-Base.jpg?quality=65&strip=all&w=780",
-          "width": 780,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://heavy.com/deals/shark-ai-robot-vacuum-prime-day-deal/amp/",
-      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/deals/shark-ai-robot-vacuum-prime-day-deal/amp/",
-      "publishedDateTime": "2022-11-25T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Heavy.com",
-        "domain": "heavy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-asia-pacific-fintech-as-a-service-market-report-2022-ai-enabled-safety-solutions-a-key-sector-development-researchandmarketscom.md",
-      "title": "Asia Pacific Fintech-as-a-Service Market Report 2022: AI-Enabled Safety Solutions a Key Sector Development - ResearchAndMarkets.com",
-      "excerpt": "The Asia Pacific Fintech-as-a-Service Market is expected to witness market growth of 17.4% CAGR during the forecast period (2022-2028). The debut of ARDEN in May 2022 was announced by Brightwell Payments,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/11/25/9719654.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/11/25/9719654.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

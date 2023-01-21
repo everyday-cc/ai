@@ -2,6 +2,101 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2022-10-05-many-survivors-of-gists-a-rare-cancer-may-experience-cancer-related-cognitive-impairments-after-treatment.md",
+      "title": "Many Survivors of GISTs, a Rare Cancer, May Experience Cancer-Related Cognitive Impairments After Treatment",
+      "excerpt": "Nearly two thirds of patients with GISTs — a rare type of cancer that often begins in the digestive system — indicated that their overall quality of life after treatment had been affected by cancer-related cognitive impairments, also referred to as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.curetoday.com/view/many-survivors-of-gists-a-rare-cancer-may-experience-cancer-related-cognitive-impairments-after-treatment",
+      "originalUrl": "https://www.curetoday.com/view/many-survivors-of-gists-a-rare-cancer-may-experience-cancer-related-cognitive-impairments-after-treatment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.curetoday.com/images/0vv8moc6/curetoday/da0c82662a7f20daa99b51dfdc173efa208ef418-5472x3648.jpg?fit=crop&auto=format",
+          "width": 5472,
+          "height": 3648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-05T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cure Today",
+        "domain": "curetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-renderedai-joins-aws-marketplace.md",
+      "title": "Rendered.ai Joins AWS Marketplace",
+      "excerpt": "First synthetic data platform for computer vision to be offered to Amazon Web Services customers worldwideBELLEVUE, Wash., Oct. 5, 2022",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-aws-marketplace-1031784925",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-aws-marketplace-1031784925",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1914395/2022_9_collage_ID_ffd96ec7f5c2.jpg",
+          "width": 400,
+          "height": 236,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-05T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-whatever-happened-to-those-self-service-passport-kiosks-at-airports.md",
       "title": "Whatever Happened to Those Self-Service Passport Kiosks at Airports?",
       "excerpt": "How often is the new facial recognition system used and how does it work? Around 85 percent of the 221,000 daily visitors arriving from abroad are now verified by face, according to C.B.P. officials.",
@@ -1042,102 +1137,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-tenstorrent-is-changing-the-way-we-think-about-ai-chips.md",
-      "title": "Tenstorrent Is Changing the Way We Think About AI Chips",
-      "excerpt": "“GPUs are essentially at the end of their evolutionary curve,” Ljubisa Bajic, CEO of AI chip startup Tenstorrent told Design News. “[GPUs] have done a great job; they’ve pushed the field to to the point where it is now. But in order to make any ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/tenstorrent-changing-way-we-think-about-ai-chips-0",
-      "originalUrl": "https://www.designnews.com/electronics-test/tenstorrent-changing-way-we-think-about-ai-chips-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Tenstorrent%20Grayskull.png",
-          "width": 278,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights.md",
-      "title": "The White House moves to hold artificial intelligence accountable with AI Bill of Rights",
-      "excerpt": "To address this ever-growing issue, the White House today released a Blueprint for an AI Bill of Rights. This outlines five principles that should guide the design, use and deployment of automated systems to protect Americans in this age of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/",
-      "originalUrl": "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2010/04/bill-of-rights.jpg?w=1200&strip=all",
-          "width": 409,
-          "height": 293,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/amp/",
-      "publishedDateTime": "2022-10-04T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

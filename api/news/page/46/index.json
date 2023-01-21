@@ -2,6 +2,83 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2022-12-06-abb-opens-robotics-mega-factory-in-shanghai.md",
+      "title": "ABB opens robotics mega factory in Shanghai",
+      "excerpt": "ABB opened a new 67,000-square-meter robotics factory in Kangquiao, Shanghai, China last week. The $150 million facility harnesses virtual planning and production management systems to maximize productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/abb-opens-robotics-mega-factory-in-shanghai/",
+      "originalUrl": "https://www.therobotreport.com/abb-opens-robotics-mega-factory-in-shanghai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T11:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker.md",
+      "title": "Foursquare to Power Geospatial Data Visualization in Amazon SageMaker",
+      "excerpt": "Foursquare, the leading independent location technology company, exclusively powers data visualization for the new Amazon SageMaker geospatial capabilities announced last week at Amazon Web ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker/article_05b4e866-819b-5223-b9c6-e076963b7f23.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker/article_05b4e866-819b-5223-b9c6-e076963b7f23.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg",
+          "width": 350,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T10:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-meta-is-expanding-its-use-of-ai-face-scanning-to-verify-users-age-on-facebook-dating.md",
       "title": "Meta is expanding its use of AI face scanning to verify users’ age on Facebook Dating",
       "excerpt": "Facebook is testing ways for people to verify their age when using the platform’s dating app, including using an AI face scanning tool. In a blog post today, Meta announced it would start prompting users on Facebook Dating to verify that they’re over 18 if the platform suspects a user is underage (you must be over 18 to use the dating service).",
@@ -1065,92 +1142,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-04-artificial-intelligence-in-diagnostics-market-2022-comprehensive-study-by-top-key-players-aidoc-medical-alivecor-ge-healthcare.md",
-      "title": "Artificial Intelligence in Diagnostics Market 2022: Comprehensive Study by Top Key Players Aidoc Medical, AliveCor, GE Healthcare",
-      "excerpt": "Artificial intelligence can support providers in a variety of patient care and smart healthcare systems. Artificial intelligence techniques ranging from machine learning to deep learning are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-diagnostics-market-2022-comprehensive-study-by-top-key-players-aidoc-medical-alivecor-ge-healthcare",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-diagnostics-market-2022-comprehensive-study-by-top-key-players-aidoc-medical-alivecor-ge-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Artificial-Intelligence-in-Diagnostics.jpg",
-          "width": 500,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-04T06:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-04-scientists-facial-recognition-could-help-to-save-rare-seals.md",
-      "title": "Scientists: Facial recognition could help to save rare seals",
-      "excerpt": "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/scientists-facial-recognition-could-help-to-save-rare-seals/article_f47a7ea1-28dc-5f08-a6a5-516a0481a04f.html",
-      "originalUrl": "https://www.stltoday.com/scientists-facial-recognition-could-help-to-save-rare-seals/article_f47a7ea1-28dc-5f08-a6a5-516a0481a04f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/bf/bbf50b59-8db2-563a-877b-d7d7c075e0ff/638c7a514be81.image.jpg?crop=792%2C416%2C0%2C56&resize=792%2C416&order=crop%2Cresize",
-          "width": 792,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-04T01:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

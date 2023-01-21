@@ -2,6 +2,113 @@
   "page": 115,
   "value": [
     {
+      "path": "_news/2022-10-06-teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot.md",
+      "title": "Tesla’s Biggest News At AI Day Was The Dojo Supercomputer, Not The Optimus Robot",
+      "excerpt": "Tesla's Dojo supercomputing technology promises to accelerate the development of self-driving cars by an order of magnitude, and it will start coming online early in 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot/",
+      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633eb8c2e2a31b5c346461d8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot/amp/",
+      "publishedDateTime": "2022-10-06T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-google-opens-first-cloud-region-in-africa-following-aws-and-microsoft.md",
+      "title": "Google opens first cloud region in Africa, following AWS and Microsoft",
+      "excerpt": "The tech giant is intending to open a new region in South Africa, taking around two years longer than its competitors to enter the continent",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/cloud/369257/google-opens-first-cloud-region-in-africa-following-aws-microsoft",
+      "originalUrl": "https://www.itpro.co.uk/cloud/369257/google-opens-first-cloud-region-in-africa-following-aws-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1665054335/itpro/2022/October/Cape_Town_South_Africa_GettyImages-1307773280.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-self-driving-cars-keep-causing-traffic-jams-in-san-francisco.md",
       "title": "Self-driving cars keep causing traffic jams in San Francisco",
       "excerpt": "In one Reddit post from earlier this month, two of the company’s cars can be seen blocking traffic near the intersection of Sacramento St and Leavenworth St. Two self-driving cruise cars ...",
@@ -1090,101 +1197,6 @@
         "AI",
         "Google AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-many-survivors-of-gists-a-rare-cancer-may-experience-cancer-related-cognitive-impairments-after-treatment.md",
-      "title": "Many Survivors of GISTs, a Rare Cancer, May Experience Cancer-Related Cognitive Impairments After Treatment",
-      "excerpt": "Nearly two thirds of patients with GISTs — a rare type of cancer that often begins in the digestive system — indicated that their overall quality of life after treatment had been affected by cancer-related cognitive impairments, also referred to as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.curetoday.com/view/many-survivors-of-gists-a-rare-cancer-may-experience-cancer-related-cognitive-impairments-after-treatment",
-      "originalUrl": "https://www.curetoday.com/view/many-survivors-of-gists-a-rare-cancer-may-experience-cancer-related-cognitive-impairments-after-treatment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.curetoday.com/images/0vv8moc6/curetoday/da0c82662a7f20daa99b51dfdc173efa208ef418-5472x3648.jpg?fit=crop&auto=format",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cure Today",
-        "domain": "curetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-renderedai-joins-aws-marketplace.md",
-      "title": "Rendered.ai Joins AWS Marketplace",
-      "excerpt": "First synthetic data platform for computer vision to be offered to Amazon Web Services customers worldwideBELLEVUE, Wash., Oct. 5, 2022",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-aws-marketplace-1031784925",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-aws-marketplace-1031784925",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1914395/2022_9_collage_ID_ffd96ec7f5c2.jpg",
-          "width": 400,
-          "height": 236,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],
