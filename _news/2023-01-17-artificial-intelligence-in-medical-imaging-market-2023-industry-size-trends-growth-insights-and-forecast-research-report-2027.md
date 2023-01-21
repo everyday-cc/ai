@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing (NLP) Market 2023 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028"
-    excerpt: "Pages Report] Rising demand for Consumer Goods Industry will drive the Natural Language Processing (NLP) segment growth over the next five years. Global Market Analysis for N"
-    publishedDateTime: 2023-01-16T09:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028-2023-01-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Robotics Market Production Growth, Demand And Supply Analysis 2023 To 2029 | Including 103 Pages Report"
     excerpt: "In 2023] The Global Artificial Intelligence Robotics Market Size (103 Report Pages) is estimated to be worth USD"
     publishedDateTime: 2023-01-18T01:37:00Z
@@ -65,20 +51,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size 2023 with Presentation Outlook, Horizontal Viewpoint, Global View"
-    excerpt: "Natural Language Processing (NLP) in Healthcare and Life Sciences Marketsize, segment (mainly coveringMajorType (, Statistical NLP, Hybrid based NLP, Rule NLP, ,),End Users (, Healthcare, Life Sciences,"
-    publishedDateTime: 2023-01-17T04:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -112,29 +84,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Delivery Robot Market : New Business Strategies And Forecast By 2028 with Top Countries Data"
-    excerpt: "Rising demand for Food and Beverages, Retail, Healthcare, Postal, Others will drive the Artificial Intelligence Delivery Robot segment growth over the next five years. Global Mark"
-    publishedDateTime: 2023-01-18T00:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-new-business-strategies-and-forecast-by-2028-with-top-countries-data-2023-01-17"
+  - title: "Face Recognition Systems Market : Competitive Landscape and Analysis by Recent Trends 2023 to 2029"
+    excerpt: "A recent research report published by Precision Reports provides an overview of the \"Face Recognition Systems Market\" along with precise insights into potential future scenarios. The report suggests that this industry is expected to experience an annual ..."
+    publishedDateTime: 2023-01-19T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-competitive-landscape-and-analysis-by-recent-trends-2023-to-2029-2023-01-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning-as-a-Service (MLaaS) Market Size, Trends, Share, Growth Status, and Forecast 2028 with Top Countries Data"
-    excerpt: "Rising demand for IT and Telecom, Automotive, Healthcare, Aerospace and Defense, Retail, Government, BFSI, Other End Users will drive the Machine Learning-as-a-Service (MLaaS) seg"
-    publishedDateTime: 2023-01-20T01:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-trends-share-growth-status-and-forecast-2028-with-top-countries-data-2023-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -168,6 +126,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Neural Networks Market Size 2023 Pronounces Its Growth, Size, Shares, and Future Forecasts to 2029"
+    excerpt: "[121 Pages Report]\"Artificial Neural Networks Market\" size is projected to reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during 2023-2029 and generated magnificent revenue. This study provides all the most recent market facts ..."
+    publishedDateTime: 2023-01-18T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2029-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Object Recognition Imaging Systems Market Size 2023, Share, Trends, Growth Analysis, CAGR, Challenges, Drivers, Restraints Forecast to 2029"
     excerpt: "The Global Object Recognition Imaging Systems Market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2029. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-01-20T05:28:00Z
@@ -182,29 +154,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market Profiled Key Players to Show Impressive Revenue Growth by 2029"
-    excerpt: "\" Image Recognition Market \" Research report provides a comprehensive overview of the industry and its current and future market conditions. It contains data on market size, market share, revenue growth,"
-    publishedDateTime: 2023-01-17T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-profiled-key-players-to-show-impressive-revenue-growth-by-2029-2023-01-17"
+  - title: "Artificial Intelligence Market Size in Global Survey 2023 with RISK Analysis by Company Profiles till 2029"
+    excerpt: "Jan 16, 2023 (The Expresswire) -- \"Artificial Intelligence Market\" New Research Insights Report 2023 | New Report Spread Across| 108 Pages |"
+    publishedDateTime: 2023-01-16T14:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-in-global-survey-2023-with-risk-analysis-by-company-profiles-till-2029-2023-01-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition in Retail Market Size 2023 with Over-all Dominated, Share of Everywhere, Ease of Access of Solutions"
-    excerpt: "Pages Insights] In 2023, Image Recognition in Retail Market Size after extensive research on historical and current growth rates, the growth prospects of the global market are well received. This new market report 2023 provides a comprehensive analysis of the global Image Recognition in Retail market."
-    publishedDateTime: 2023-01-18T02:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-with-over-all-dominated-share-of-everywhere-ease-of-access-of-solutions-2023-01-17"
+  - title: "Artificial Intelligence Voice Market by Product and Geography : Forecast and Analysis 2023 to 2029 with Top Countries Data"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence"
+    publishedDateTime: 2023-01-17T03:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-by-product-and-geography-forecast-and-analysis-2023-to-2029-with-top-countries-data-2023-01-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -224,15 +196,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Software Market Size, Share 2023 : Industry Growing Rapidly with Recent Trends, Development, Revenue by 2028"
-    excerpt: "Face Recognition Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at"
-    publishedDateTime: 2023-01-17T04:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-size-share-2023-industry-growing-rapidly-with-recent-trends-development-revenue-by-2028-2023-01-17"
+  - title: "Face Recognition Software Market Size in 2023 Industry Demand, Industry News, Business Growth, Top Key Players Update till 2029"
+    excerpt: "In 2023, Face Recognition Software Market Size 2023 to 2028 Research Report is spread across 106 Pages and provides"
+    publishedDateTime: 2023-01-18T12:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-size-in-2023-industry-demand-industry-news-business-growth-top-key-players-update-till-2029-2023-01-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Image Recognition in Retail Market New Insight Report 2023 with Strategic Decision-Making and Identification of Major Corporations"
+    excerpt: "Global \"Image Recognition in Retail Market\" Analysis and Outlook 2023 | Exclusive Report [ No of Pages 126]. The"
+    publishedDateTime: 2023-01-16T17:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-new-insight-report-2023-with-strategic-decision-making-and-identification-of-major-corporations-2023-01-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -252,10 +238,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Energy Market Size Top manufacturers Entry, Market Share, Growth, Trends, Segmentation and Forecast 2029"
+    excerpt: "In 2023, Artificial Intelligence in Energy Market Size 2023 to 2028 Research Report is spread across 106 Pages and"
+    publishedDateTime: 2023-01-18T12:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-size-top-manufacturers-entry-market-share-growth-trends-segmentation-and-forecast-2029-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Data Science and Machine Learning Service Forecast for 2028, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
     excerpt: "Data Science and Machine Learning Service Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,"
     publishedDateTime: 2023-01-18T23:52:00Z
     webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automatic Speech Recognition Market Dynamics with Top Players, Gross Margin, Regional Demand, Plans and Demand Status Forecast to 2029"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. A recent"
+    publishedDateTime: 2023-01-20T03:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-dynamics-with-top-players-gross-margin-regional-demand-plans-and-demand-status-forecast-to-2029-2023-01-19"
     type: article
     provider:
       name: MarketWatch
@@ -280,24 +294,74 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Software Market Size, Share 2023 : Industry Growing Rapidly with Recent Trends, Development, Revenue by 2028"
-    excerpt: "Face Recognition Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at"
-    publishedDateTime: 2023-01-16T10:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-size-share-2023-industry-growing-rapidly-with-recent-trends-development-revenue-by-2028-2023-01-16"
+  - title: "Legal Tech Artificial Intelligence Market Analysis Report 2023 Along with Statistics Figures, till 2029"
+    excerpt: "As per Market Growth Report, “The Legal Tech Artificial Intelligence market has witnessed growth from USD million to"
+    publishedDateTime: 2023-01-20T17:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+  - title: "Data Science and Machine-Learning Platforms Market 2023 Top Companies & Business Development Report of 122 Pages by 2023 to 2029"
+    excerpt: "Jan (The Expresswire) -- \"Data Science and Machine-Learning Platforms Market\" New Research Insights Report 2023 | New Report Spread Across|"
+    publishedDateTime: 2023-01-17T14:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-2023-top-companies-business-development-report-of-122-pages-by-2023-to-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Size 2023 to Increase at 51.1% CAGR Between Forecast Years 2023 and 2027| 98 Report Pages"
+    excerpt: "Jan (The Expresswire) -- \"Artificial Intelligence Market\" Report New Research Outlook Report 2023 | [In 2021, The global Artificial"
+    publishedDateTime: 2023-01-17T17:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-2023-to-increase-at-511-cagr-between-forecast-years-2023-and-2027-98-report-pages-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+  - title: "Mobile Speech Recognition Software Market Share 2023 with Regional Scope, New Product Innovation, and Expansion Forecast 2029"
+    excerpt: "Global \"Mobile Speech Recognition Software Market\" Analysis and Outlook 2023| Latest Report [ No of Pages 115] In"
+    publishedDateTime: 2023-01-19T17:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-share-2023-with-regional-scope-new-product-innovation-and-expansion-forecast-2029-2023-01-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 22
-  - title: "Self-driving Forklift Market Size 2023 with Regional Scope, Report Coverage, Historic Data, Outlook 2028"
-    excerpt: "Global Self-driving Forklift Market| Outlook 2023-2028 | Number of Tables and Figures | No Pages 91 | Key Players in"
-    publishedDateTime: 2023-01-17T01:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-forklift-market-size-2023-with-regional-scope-report-coverage-historic-data-outlook-2028-2023-01-16"
+  - title: "Artificial Intelligence Consulting Service Market 2023 Top Companies & Business Development Report of 123 Pages by 2023 to 2029"
+    excerpt: "Jan (The Expresswire) -- \"Artificial Intelligence Consulting Service Market\" New Research Insights Report 2023 | New Report Spread Across| 123"
+    publishedDateTime: 2023-01-17T14:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-consulting-service-market-2023-top-companies-business-development-report-of-123-pages-by-2023-to-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+  - title: "Face Recognition Camera Market Size and Outlook 2023 | by Product Classification, Application Areas, Manufactures and Forecast to 2028"
+    excerpt: "Jan 18, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Face Recognition Camera"
+    publishedDateTime: 2023-01-18T05:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-camera-market-size-and-outlook-2023-by-product-classification-application-areas-manufactures-and-forecast-to-2028-2023-01-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 17
+  - title: "Artificial Intelligence Based Medical Device Market is Taking Hike in Revenue Along With Top Key Players Profile and Forecast 2023 To 2029"
+    excerpt: "\"Artificial Intelligence Based Medical Device Market\" Research Report explains how the market growth has been unfolding over the recent past and what would be the future market projections during the anticipated period from 2023 to 2029."
+    publishedDateTime: 2023-01-20T03:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-is-taking-hike-in-revenue-along-with-top-key-players-profile-and-forecast-2023-to-2029-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
   - title: "Speech & Voice Recognition Systems Market : Research Report Provides an In-Depth Insight of Trends 2023 To 2028"
     excerpt: "Pages Report] Rising demand for Internet & Communication Industry will drive the Speech & Voice Recognition Systems segment growth over the next five years. Global Market Anal"
     publishedDateTime: 2023-01-19T01:31:00Z
@@ -307,6 +371,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 14
+  - title: "Graphics Processing Unit (GPU) Market Size Outlook Rising Demand, Share, Trends, Growth, Opportunities And Top Key 2023-2033"
+    excerpt: "Market Overview  <br />The Graphics Processing Unit (GPU) market was valued at USD 20.62 billion and is expected to reach USD 1"
+    publishedDateTime: 2023-01-17T11:30:00Z
+    webUrl: "https://menafn.com/1105437873/Graphics-Processing-Unit-GPU-Market-Size-Outlook-Rising-Demand-Share-Trends-Growth-Opportunities-And-Top-Key-2023-2033"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 12
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?519542"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Research and Markets: FLAP Data Center Market 2022 to 2027: Investment Analysis & Growth Opportunities - ResearchAndMarkets.com"
     excerpt: "The \"FLAP Data Center Market Investment Analysis Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The FLAP data center market is expected to grow at a CAGR"
     publishedDateTime: 2023-01-17T16:37:00Z
@@ -316,6 +394,20 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 0
+  - title: "Pet Accessories Market Set To Reach Valuation Of USD 14.77 Billion By 2029, Size, Share, Demand, Future Growth, Challenges And Competitive Analysis'"
+    excerpt: "By keeping in mind the end user's point of view ... Livestock), Application (Identification & Tracking; Behaviour Monitoring & Control; Facilitation, Safety & Security; Medical Diagnosis & Treatment), End-Use (Commercial; Household), Country (U.S ..."
+    publishedDateTime: 2023-01-19T09:00:00Z
+    webUrl: "https://menafn.com/1105450102/Pet-Accessories-Market-Set-To-Reach-Valuation-Of-USD-1477-Billion-By-2029-Size-Share-Demand-Future-Growth-Challenges-And-Competitive-Analysis"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?219022"
+        width: 311
+        height: 250
+        isCached: true
 
 secured: "FWxgIILfIFs/6nGSSzhZdml4yvdZHCrkh6nlry+WHrAP+3OfUBUODXBB7agsSlmmEBIfIEpZ7+O3EoGEU+C97LYhDtKawbVpxhhT4lET7BhEpdB8rmwTsGOiY9o2FeD+j7GlCy+I5deBkPkEqwcs5noYDteaj0k7jw/4qYaGBnmrqZSe8o0DrmdRpW58ybNvwQ6qVXTTGcoV3VIVO/IY7W3VvgxygY/0jONOP73Ih9kryqEOjXA71PjbotEAup0sa78D6wUkxe0oJrwXHIySrSi531dhuXsa0DpPCDTdtSSTNXYmBd1weBwmZEqY+zklppGVDTzpMFajEf53Ih0RmUV0o6nMzAgj0FnWNVwZga8=;iAXD7SlsPWV8UTTiHoKsHg=="
 ---

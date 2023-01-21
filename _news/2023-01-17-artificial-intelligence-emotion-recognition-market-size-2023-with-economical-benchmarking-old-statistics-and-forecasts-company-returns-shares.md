@@ -28,15 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Door Lock Market Size 2023 with Over-all Dominated, Share of Everywhere, Ease of Access of Solutions"
-    excerpt: "Facial Recognition Door Lock market has witnessed a growth from USD million to USD million from 2017 to 2022. With a"
-    publishedDateTime: 2023-01-18T01:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-size-2023-with-over-all-dominated-share-of-everywhere-ease-of-access-of-solutions-2023-01-17"
+  - title: "AI and Machine Learning Operationalization Software Market is Taking Hike in Revenue Along With Top Key Players Profile and Forecast 2023 To 2028"
+    excerpt: "AI and Machine Learning Operationalization Software Market Size is projected to Reach Multimillion USD by 2029,"
+    publishedDateTime: 2023-01-18T02:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-and-machine-learning-operationalization-software-market-is-taking-hike-in-revenue-along-with-top-key-players-profile-and-forecast-2023-to-2028-2023-01-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Software Market Size, Share 2023 : Industry Growing Rapidly with Recent Trends, Development, Revenue by 2028"
+    excerpt: "Face Recognition Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at"
+    publishedDateTime: 2023-01-17T04:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-size-share-2023-industry-growing-rapidly-with-recent-trends-development-revenue-by-2028-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

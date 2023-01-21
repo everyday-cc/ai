@@ -61,6 +61,20 @@ related:
       name: Bangor Daily News
       domain: bangordailynews.com
     quality: 51
+  - title: "Facial recognition: Can fake data produce real results?"
+    excerpt: "Diversifying training datasets with computer-generated faces may help break down bias in the technology, but one expert says using synthetic images is a step too far."
+    publishedDateTime: 2023-01-20T21:46:00Z
+    webUrl: "https://gcn.com/emerging-tech/2023/01/facial-recognition-can-fake-data-produce-real-results/382050/"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://cdn.gcn.com/media/img/cd/2023/01/20/01202023_levinson_facialrec2-3/860x394.jpg?1674251006"
+        width: 860
+        height: 394
+        isCached: true
   - title: "Opinion: Artificial intelligence can’t reproduce the wonders of original human creativity"
     excerpt: "The biggest story of the year – the story we should all be paying attention to – is the increasing power of artificial intelligence. Computer code can write itself, chatbots can generate academic papers,"
     publishedDateTime: 2023-01-18T10:00:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "I asked ChatGPT how to start a business and it gave me 8 steps that weren't that helpful"
-    excerpt: "While it's very smart, ChatGPT is only a chatbot; I knew it couldn't physically start a business for me. But I wondered if it would at least walk me through the initial steps. So I asked this AI program a series of questions about starting a business."
-    publishedDateTime: 2023-01-16T10:03:00Z
-    webUrl: "https://www.businessinsider.com/chagpt-cant-start-a-business-for-you-startup-steps-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/chagpt-cant-start-a-business-for-you-startup-steps-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chagpt-cant-start-a-business-for-you-startup-steps-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://i.insider.com/63c17f1502cb82001937a144?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "DeepMind's Sparrow is Google's answer to ChatGPT"
     excerpt: "Ever since the launch of OpenAI’s ChatGPT, Google has been scrambling to build a rival. Now, Google’s subsidiary DeepMind, known for its pioneering work in AI research, has announced plans to launch a new chatbot called Sparrow. The company ..."
     publishedDateTime: 2023-01-18T12:38:00Z

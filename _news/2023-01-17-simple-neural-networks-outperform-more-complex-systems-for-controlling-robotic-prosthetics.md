@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperfor
 ampWebUrl: "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.amp"
 type: article
-quality: 49
-heat: 49
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-neural-netw.jpg"
@@ -26,6 +27,6 @@ images:
     height: 478
     isCached: true
 
-secured: "STFmEAp8nUi9KktXVZq3t3Xvn+KD3kV7ytgijQEHXIjCfWSqlyjx+yRuYkufDGzkOn/kgTQH1k9a6wU6Qer2HcsE0GXbIojTUjaDXYuBPKuWaKql3ULUtV2Il/pzjzSw7bDKOkxtjIoy4EHDOXmUA58M1IIotyH1ZAwLzXeWx2wKE7HKWxxJHYx2ivSD+65bRtmblu5tQTrfibomLs/DNkyMrHpPM2JnKHgblkUTBlG5hipV3LYUqWYBg1Lg6LqhsWI3JPCX6siuoCrqxz7FS++7Y0PwxZ0KPlr3n0g1hKIPgZ+dS0LY0eMuJ+M6qvyz/6kUI5lUmIyHOCEI+IJ5bFJf93CNFU4ysSSBWsRheuQ=;8+PAxuFtxFR6NDUtlRh8Cg=="
+secured: "yRrFxHsbjqvL+q6lq9L/5FMeIrf0GNanS5ZAwQC0MItsUshU128F6PiBAk8O3x4jGukalgbL0ZSo9Mv0YZRPk91hdIP1Dwz/t6/XfnKSeSbUdSg7758EusJujYxq/Ki/Ud9fgAD4JViujZGeiACcRs0RH6sAoWCSa6mJMkdeW3khGwUMPI3ceTi9sXIAA8XbPGwkmmUG3mz4tH+mPX7rZ7B/C1P2Rnj4sKdsfz/YMFfztqMvNV4W6/M9S/8sj/nCkGsWqkMY7nvPmlOH9KJZjqb8jjvGW6QY6UCrcSN+Ghp1uuTgLYui+933Y4HTI8E367EE/5w431X2aqdd9K7zAtId/Z+9u3h96jQvMYqqGtO4/lBx8k6Kx9hXMsNafGV5TPphc+YHP72up5fmh4tCH2WTYskgHaFn1ikEx81sOJC3McotM5VwW9HMxHSy4a/ftVbUhM9aeM1VcbXGplj+CYnyf5c3vmcvGPCAFE3aJkPGvZomRdSijnITaYl22w59ZtD3UcyxrmLw8ZtPs2oWcA==;zbLAKPdqlZFy6j/idTTb1w=="
 ---
 

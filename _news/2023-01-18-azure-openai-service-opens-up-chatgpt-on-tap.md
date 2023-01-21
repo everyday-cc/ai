@@ -306,22 +306,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 62
-  - title: "How AI chatbot ChatGPT changes the phishing game"
-    excerpt: "Facebook took ten ... activities that Check Point Research believes is intended to implement and test ChatGPT into the cybercriminals day-to-day criminal operations. Several tools on the market already claim to detect AI-written content, which only ..."
-    publishedDateTime: 2023-01-16T10:03:00Z
-    webUrl: "https://www.csoonline.com/article/3685488/how-ai-chatbot-chatgpt-changes-the-phishing-game.html"
-    ampWebUrl: "https://www.csoonline.com/article/3685488/how-ai-chatbot-chatgpt-changes-the-phishing-game.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3685488/how-ai-chatbot-chatgpt-changes-the-phishing-game.amp.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/01/shutterstock_1901618698-100936241-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Cybercriminals using ChatGPT AI bot to develop malicious tools?"
     excerpt: "According to a report from cyber security firm Check Point Research (CPR), the cybercriminal community has already expressed strong interest in ChatGPT develop malicious code."
     publishedDateTime: 2023-01-16T16:08:00Z

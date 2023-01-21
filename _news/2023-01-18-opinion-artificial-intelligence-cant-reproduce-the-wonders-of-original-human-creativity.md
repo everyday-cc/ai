@@ -74,6 +74,20 @@ related:
       name: The Greeley Tribune
       domain: greeleytribune.com
     quality: 45
+  - title: "Facial recognition: Can fake data produce real results?"
+    excerpt: "Diversifying training datasets with computer-generated faces may help break down bias in the technology, but one expert says using synthetic images is a step too far."
+    publishedDateTime: 2023-01-20T21:46:00Z
+    webUrl: "https://gcn.com/emerging-tech/2023/01/facial-recognition-can-fake-data-produce-real-results/382050/"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://cdn.gcn.com/media/img/cd/2023/01/20/01202023_levinson_facialrec2-3/860x394.jpg?1674251006"
+        width: 860
+        height: 394
+        isCached: true
 
 secured: "jb/7lgi2KnGU7ExR8l4N37MRypcqjdN4BU2w8qe5oX8yLlL0+DURaat0w3Lrho2pESy0W4rbrKaTcF4aXyHyfDXo/+duJrC6Fye1Of0NHL1RZrwN2ECMaOgqbM4msc8pLevyFrdVYupzk7ylFkycQHraWwl0LsDxYT56avNHAE18muKb/yxQy2sXaqlqUstcNMJX+h9mZSMONPztkPJVnlsQlNooekfMziuZNzgsff0bcwBYJhb+wrs+QvgTVs2TIWXZZogTGvCl+j8MpAxY9nqNhlSSHs9bZs87SPMb4U2n4mcWKt+OMD9YS+P7MeS0rNGtKY0Te4otO29RqglWFwvd5D7CEayBBxiYuDkBhnc=;WLyYY2w2kqtLUWFhc8YVqA=="
 ---

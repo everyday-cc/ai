@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Delivery Robot Market : New Business Strategies And Forecast By 2028 with Top Countries Data"
+    excerpt: "Rising demand for Food and Beverages, Retail, Healthcare, Postal, Others will drive the Artificial Intelligence Delivery Robot segment growth over the next five years. Global Mark"
+    publishedDateTime: 2023-01-18T00:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-new-business-strategies-and-forecast-by-2028-with-top-countries-data-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Robot Grippers Market 2023 is Anticipated to Register a High CAGR of During the Forecast Period 2023-2027"
     excerpt: "The global Robot Grippers market size was valued at USD 946.42 million in 2021 and is expected to expand at a CAGR of 14.24% during the forecast period, reaching USD 2103.99 million by 2027.” | Ask For Sample Report Moreover,"
     publishedDateTime: 2023-01-20T04:10:00Z
@@ -66,20 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Neural Networks Market Size 2023 Pronounces Its Growth, Size, Shares, and Future Forecasts to 2029"
-    excerpt: "[121 Pages Report]\"Artificial Neural Networks Market\" size is projected to reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during 2023-2029 and generated magnificent revenue. This study provides all the most recent market facts ..."
-    publishedDateTime: 2023-01-18T00:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2029-2023-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -99,6 +99,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Image Recognition Market Profiled Key Players to Show Impressive Revenue Growth by 2029"
+    excerpt: "\" Image Recognition Market \" Research report provides a comprehensive overview of the industry and its current and future market conditions. It contains data on market size, market share, revenue growth,"
+    publishedDateTime: 2023-01-17T06:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-profiled-key-players-to-show-impressive-revenue-growth-by-2029-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Image Recognition in Retail Market Size 2023 with Over-all Dominated, Share of Everywhere, Ease of Access of Solutions"
+    excerpt: "Pages Insights] In 2023, Image Recognition in Retail Market Size after extensive research on historical and current growth rates, the growth prospects of the global market are well received. This new market report 2023 provides a comprehensive analysis of the global Image Recognition in Retail market."
+    publishedDateTime: 2023-01-18T02:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-with-over-all-dominated-share-of-everywhere-ease-of-access-of-solutions-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing and Recognition Market Size, Outlook, Share, Prominent Players, Growth, and Forecast for 2028"
     excerpt: "Natural Language Processing and Recognition Market Size is projected to Reach Multimillion USD by 2029, In comparison"
     publishedDateTime: 2023-01-20T02:02:00Z
@@ -108,48 +136,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Software Market Size in 2023 Industry Demand, Industry News, Business Growth, Top Key Players Update till 2029"
-    excerpt: "In 2023, Face Recognition Software Market Size 2023 to 2028 Research Report is spread across 106 Pages and provides"
-    publishedDateTime: 2023-01-18T12:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-size-in-2023-industry-demand-industry-news-business-growth-top-key-players-update-till-2029-2023-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition in Retail Market New Insight Report 2023 with Strategic Decision-Making and Identification of Major Corporations"
-    excerpt: "Global \"Image Recognition in Retail Market\" Analysis and Outlook 2023 | Exclusive Report [ No of Pages 126]. The"
-    publishedDateTime: 2023-01-16T17:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-new-insight-report-2023-with-strategic-decision-making-and-identification-of-major-corporations-2023-01-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Energy Market Size Top manufacturers Entry, Market Share, Growth, Trends, Segmentation and Forecast 2029"
-    excerpt: "In 2023, Artificial Intelligence in Energy Market Size 2023 to 2028 Research Report is spread across 106 Pages and"
-    publishedDateTime: 2023-01-18T12:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-size-top-manufacturers-entry-market-share-growth-trends-segmentation-and-forecast-2029-2023-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -169,15 +155,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mobile Speech Recognition Software Market Share 2023 with Regional Scope, New Product Innovation, and Expansion Forecast 2029"
-    excerpt: "Global \"Mobile Speech Recognition Software Market\" Analysis and Outlook 2023| Latest Report [ No of Pages 115] In"
-    publishedDateTime: 2023-01-19T17:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-share-2023-with-regional-scope-new-product-innovation-and-expansion-forecast-2029-2023-01-19"
+  - title: "Self-driving Forklift Market Size 2023 with Regional Scope, Report Coverage, Historic Data, Outlook 2028"
+    excerpt: "Global Self-driving Forklift Market| Outlook 2023-2028 | Number of Tables and Figures | No Pages 91 | Key Players in"
+    publishedDateTime: 2023-01-17T01:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-forklift-market-size-2023-with-regional-scope-report-coverage-historic-data-outlook-2028-2023-01-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 22
+    quality: 17
 
 secured: "RAKqOjxVssD55a3ELLstnEXk6JYsbqO5/jSP6jDxxKcnA5Vm9WsrzwjMVyy0Ho0lqj33O3sODbZ5EBajIaZXTuSVkr3/8FsQEXq3EOqDNvFvf5XgQtZwkrwA1w3vE2x72oIMtpJ8qrLiMlpn39WGLMhUezNyOL9s2gwOe2DFuvOu5o5Fnmu6tTbbDwvLBJINjcc5hPhaSW83qhiqoLpvzoFG0GKGMbV3X1nwgiQ8hHEFeAd5gGsmJHFZs6i72fqRihNUlyoRh0k/79Q+q+tC2X+KVWyPZYhfYnE1sCnRuTHV9dbx+IMKmR4s+2isysa4+f1rdpdFaA+Z8rDFHmKSOtEBDT8wMZ59H1VWostDMbM=;V17v/iOiLqyf85SSwpNQyA=="
 ---

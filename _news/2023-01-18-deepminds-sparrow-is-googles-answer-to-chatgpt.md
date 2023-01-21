@@ -9,8 +9,8 @@ ampWebUrl: "https://www.androidheadlines.com/2023/01/deepmind-sparrow-google-ans
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/01/deepmind-sparrow-google-answer-to-chatgpt.html?amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Android
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "I asked ChatGPT how to start a business and it gave me 8 steps that weren't that helpful"
-    excerpt: "While it's very smart, ChatGPT is only a chatbot; I knew it couldn't physically start a business for me. But I wondered if it would at least walk me through the initial steps. So I asked this AI program a series of questions about starting a business."
-    publishedDateTime: 2023-01-16T10:03:00Z
-    webUrl: "https://www.businessinsider.com/chagpt-cant-start-a-business-for-you-startup-steps-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/chagpt-cant-start-a-business-for-you-startup-steps-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chagpt-cant-start-a-business-for-you-startup-steps-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://i.insider.com/63c17f1502cb82001937a144?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "GPT-4 | Implications, pros and cons of the next-generation of ChatGPT"
     excerpt: "A major implication of GPT-4 will be the improvement of natural language processing (NLP) tasks such as language translation, text summarisation, and question answering. While, we cannot ignore the potential downsides to GPT-4 as it could be used to generate fake news or propaganda,"
     publishedDateTime: 2023-01-16T11:15:00Z

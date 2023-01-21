@@ -22,19 +22,28 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Market Size in Global Survey 2023 with RISK Analysis by Company Profiles till 2029"
-    excerpt: "Jan 16, 2023 (The Expresswire) -- \"Artificial Intelligence Market\" New Research Insights Report 2023 | New Report Spread Across| 108 Pages |"
-    publishedDateTime: 2023-01-16T14:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-in-global-survey-2023-with-risk-analysis-by-company-profiles-till-2029-2023-01-16"
+  - title: "Healthcare AI Market: 2023 Competitive Weakness and Strengths, GAGR Status, and Global Share Forecast To 2029"
+    excerpt: "The report focuses on the Healthcare AI market size, segment size (mainly covering product type, application, and geography), competitor landscape, recent status, and development trends. Furthermore,"
+    publishedDateTime: 2023-01-18T05:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-competitive-weakness-and-strengths-gagr-status-and-global-share-forecast-to-2029-2023-01-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 47
+  - title: "Artificial Intelligence In Healthcare Global Market Opportunities And Strategies To 2031"
+    excerpt: "Where is the largest and fastest growing market for artificial intelligence in healthcare? How does the market relate to the overall economy; demography and other similar markets? What forces will ..."
+    publishedDateTime: 2023-01-16T16:17:00Z
+    webUrl: "https://menafn.com/1105434834/Artificial-Intelligence-In-Healthcare-Global-Market-Opportunities-And-Strategies-To-2031"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 45
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?538056"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "H7yRZNjAfWhMXGuHfPliL2goQZhoLcfUOvp1k6MQ2R9u2s9p6bDerSVKt/8/Volh1YO35EYnrp/Y3ZdqV0+7VO8nO9vaxTI1EYSKLz9BGCjjiygSAd62etCZEkRhSIVwLVYN85CjtnpwMQAN5zXt9CEQJFCx0Vlm82NM03gjDOifvtrr8mmC52YtGNQviLrZ9IL3rLXxUTpUr+kxXp1XEqxtDPQwTV45cfdCLqs0W41uTMM4VKq3HpVq5sUilM3aW1sc418joWyQzkLLV/sVz25oohwe05jpIBDvNJPNB+vW3jvM20+9UfDVnO+/kbpuKdwLQikV+CivEgwrR2qySOlnWr86ABdaKDBRqTW8c7U=;RjXG6x0CJi9qpSHil9k/3g=="

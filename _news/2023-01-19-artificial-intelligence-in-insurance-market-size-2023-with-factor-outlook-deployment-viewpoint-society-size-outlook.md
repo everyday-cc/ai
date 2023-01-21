@@ -28,15 +28,43 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning & Big Data Analytics Education Market Size 2023 with Factor Outlook, Deployment Viewpoint, Society Size Outlook"
-    excerpt: "Pages Insights] In 2023, Machine Learning and Big Data Analytics Education Market Size after extensive research"
-    publishedDateTime: 2023-01-18T02:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-size-2023-with-factor-outlook-deployment-viewpoint-society-size-outlook-2023-01-17"
+  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size 2023 with Presentation Outlook, Horizontal Viewpoint, Global View"
+    excerpt: "Natural Language Processing (NLP) in Healthcare and Life Sciences Marketsize, segment (mainly coveringMajorType (, Statistical NLP, Hybrid based NLP, Rule NLP, ,),End Users (, Healthcare, Life Sciences,"
+    publishedDateTime: 2023-01-17T04:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-01-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 19, 2023 (The Expresswire) -- Natural Language Processing For Healthcare And Life Sciences Market Size is projected to Reach Multimillion USD by 2029, In comparison to ..."
+    publishedDateTime: 2023-01-20T02:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market Size Identification of Industry Development [Potential Resource] Globally and Major Companies With Future"
+    excerpt: "Voice Recognition Marketsize, segment (mainly coveringMajorType (, Hardware, Software, Services, ,),End Users (, Automotive, Healthcare, BFSI, Consumer, Retail, Commercial, Others,), and regions), recent status,"
+    publishedDateTime: 2023-01-17T04:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-identification-of-industry-development-potential-resource-globally-and-major-companies-with-future-2023-01-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

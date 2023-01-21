@@ -282,15 +282,6 @@ related:
       name: The Hindu
       domain: thehindu.com
     quality: 45
-  - title: "Microsoft’s $10bn bet on ChatGPT developer marks new era of AI"
-    excerpt: "The $10bn investment that Microsoft is considering in San Francisco-based research outfit OpenAI looks set to become the defining deal for a new era of artificial intelligence. If the US software giant is right about the far-reaching implications of the technology,"
-    publishedDateTime: 2023-01-16T11:00:00Z
-    webUrl: "https://www.ft.com/content/a6d71785-b994-48d8-8af2-a07d24f661c5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "Cross-site forgery bug would facilitate remote code execution in Microsoft Azure services"
     excerpt: "The bug, reported to Microsoft on Oct. 26 and remediated Dec. 6, is the result of manipulating a series of misconfigurations and security bypasses in Kudu, a back-end source control management (SCM) tool that helps manage and modify web applications and is used by major Microsoft cloud services like Azure Functions,"
     publishedDateTime: 2023-01-19T13:00:00Z

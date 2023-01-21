@@ -314,22 +314,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 62
-  - title: "How AI chatbot ChatGPT changes the phishing game"
-    excerpt: "Facebook took ten ... activities that Check Point Research believes is intended to implement and test ChatGPT into the cybercriminals day-to-day criminal operations. Several tools on the market already claim to detect AI-written content, which only ..."
-    publishedDateTime: 2023-01-16T10:03:00Z
-    webUrl: "https://www.csoonline.com/article/3685488/how-ai-chatbot-chatgpt-changes-the-phishing-game.html"
-    ampWebUrl: "https://www.csoonline.com/article/3685488/how-ai-chatbot-chatgpt-changes-the-phishing-game.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3685488/how-ai-chatbot-chatgpt-changes-the-phishing-game.amp.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/01/shutterstock_1901618698-100936241-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "ChatGPT, a new AI Bot in town: Top 7 things you should know"
     excerpt: "It does have shortcomings since it is AI. However, it tends to warn the user incase it does not have enough knowledge on the subject. While ChatGPT is focussed on human-like text, Google Search's forte is image or voice recognition, language translation ..."
     publishedDateTime: 2023-01-18T12:52:00Z

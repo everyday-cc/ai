@@ -298,22 +298,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 62
-  - title: "How AI chatbot ChatGPT changes the phishing game"
-    excerpt: "Facebook took ten ... activities that Check Point Research believes is intended to implement and test ChatGPT into the cybercriminals day-to-day criminal operations. Several tools on the market already claim to detect AI-written content, which only ..."
-    publishedDateTime: 2023-01-16T10:03:00Z
-    webUrl: "https://www.csoonline.com/article/3685488/how-ai-chatbot-chatgpt-changes-the-phishing-game.html"
-    ampWebUrl: "https://www.csoonline.com/article/3685488/how-ai-chatbot-chatgpt-changes-the-phishing-game.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3685488/how-ai-chatbot-chatgpt-changes-the-phishing-game.amp.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/01/shutterstock_1901618698-100936241-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Cybercriminals using ChatGPT AI bot to develop malicious tools?"
     excerpt: "According to a report from cyber security firm Check Point Research (CPR), the cybercriminal community has already expressed strong interest in ChatGPT develop malicious code."
     publishedDateTime: 2023-01-16T16:08:00Z
@@ -742,6 +726,6 @@ related:
       domain: says.com
     quality: 2
 
-secured: "6nTcLITlDW8n0lzXTHkSeZtoUxS4pL70aDx4SAAvnoV4otlBGeNYp2LrjVW7ylLJ295djKoFzc+EX+1kIBuAGO+WJYhZ3KcKf5dibVGz8JOjOFbn4mMsf2M/qeKLAZ82MpoIU7HcIfFWj/AygvMYu4pcO662D+2LIqag3WwxViW6rG4ORFGJpekTQAkXYGIiuRAHCpHEhT2SiQS+xtO9Od+arhbNsJwc7TX1nKxtCFthVwrJAmBPTXkRmQ4m0TYNd4UmgfeACtmvt6GuJ6YkA4IMPtQwvFywa7JMov8pSkqV/9JNebWwjJBtvlPRgUi0wahXf5GI2R6n3izIMHiJF11CccLgyla/hVbtQ47rlNA=;FFTCsRI0Aw5OirdTsnhXaA=="
+secured: "iIkAIJ0gtYs2Z+cZmlHt7u3X3FoqvW+YI+p3NHc4x3WD142m8WAUDHMVY9DFJbJOOJvQ8OFU8xcjytrsXhWKvrC6Z3WO+6Cp42ShJOuo28Q6C63uts+sqhcYj/YZaFXvcTAjndeXgS3nyeBxTJLMYx45HVtU2Heit13Grpo27boCxFjssHSQyl7QzVgDiK3MGLiciWFC4igWVRJVlRsShALsS5V54InRZPy65UG30EDoCfBobqsppXG8z4m+19qZXt1qkYw61d8bFHvBU/MUxdrab7m9tDLbC2zE+eh0j8tq9b+58QztrP1SlAofS1q6iBqBaViQSOG/ilyivWBWDQHjkdRPEZw9J26/rTYgiaVTpHZcC3RkOY6SUWLCjsL4URW7OMiQ0SCaY2dooCrsze+b+26tu0FSArITqeVbTNCyQ6bBeYXR+mbY/D3QcQQm1NqY26gU6X65YLXm4DI1paSQpo2SOiDlYA9X3jcqSHuMv/NziLYHvocj+j7aMoVQwTB+0pqrGJeXwvUboidGtA==;Pr6b4G7ZJZ/WxMe2Jg8O8w=="
 ---
 
