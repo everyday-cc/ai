@@ -208,6 +208,22 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "Gautam Adani Is Hooked On ChatGPT, Says Race For AI To Get Complex As Chip War"
+    excerpt: "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amounts of information to generate natural-sounding text on virtually anything - from crafting jokes to writing ad copy,"
+    publishedDateTime: 2023-01-20T23:49:00Z
+    webUrl: "https://www.outlookindia.com/business/gautam-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war-news-255242"
+    ampWebUrl: "https://www.outlookindia.com/business/gautam-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war-news-255242/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/gautam-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war-news-255242/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 70
+    images:
+      - url: "https://imgnew.outlookindia.com/public/uploads/articles/2019/10/29/Adani1_20170111_350_630.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Microsoft to Add ChatGPT to Its Cloud-Based Azure OpenAI Service"
     excerpt: "The tech giant has announced that it's now making the Azure OpenAI Service generally available after ... OpenAI tools for their own cloud applications, including the Dall-E AI art generator and the GPT-3.5 language system, Engadget reported."
     publishedDateTime: 2023-01-17T12:25:00Z

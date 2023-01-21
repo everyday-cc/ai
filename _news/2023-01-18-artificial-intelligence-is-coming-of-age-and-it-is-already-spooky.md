@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 706
         isCached: true
-  - title: "How AI is combatting burnout"
-    excerpt: "Kintsugi last year raised $20mn Series A funding for the development of its AI tech that can detect depression and anxiety using short audio clips of someone’s speech. Kintsugi is already helping clinicians conduct mental health screenings."
-    publishedDateTime: 2023-01-18T17:00:00Z
-    webUrl: "https://www.ft.com/content/0ae4f152-dec1-4d8e-9ffb-656c09e7c83b"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
 
 secured: "H5fzG8eSDg8euaIWoov6c8qUo6HzGwHkwt8nKVgK1i7vx7O942JNfqVVzC4wNL9PKpf/GGI+5NeIumlZmvZ3gGKZIYY+vIIkUUgvUsij9ppTijaRtuBPWZepB4xec7LrGuX07uuAVFer7vWM448HY1zARIqtNTYjCGBl1SbbmgWKsBPrLJVLf4l2PmqNaVED1q6gXm54ljt4J1KHpV21PgkiH0Sbhu2jASAPjTCa8q3fhcXzTwaYOKKUbOZtYqHrVoUdYu7lwPzDu7VX8MezplkxmReKtvgQKLSyltQeXc6KT8/8lasIRgqsznDX7vJnK3bGDUOKDackSwQUpPkDEqHV29Mg7OUF3RTipp7DMiY=;doIaNfxEMjX9fCfcG/URvQ=="
 ---

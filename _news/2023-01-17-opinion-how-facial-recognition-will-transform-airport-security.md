@@ -9,7 +9,7 @@ ampWebUrl: "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recogniti
 cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/6/b1/6b106f7e-952b-11ed-b53b-db389e490e67/63c48ac6bc23a.image.jpg?resize=1024%2C756"
         width: 1024
         height: 756
-        isCached: true
-  - title: "Commentary: Facial recognition will transform airport security checkpoints"
-    excerpt: "Imagine using technology that never forgets a face, while improving airport security and shortening lines. Such technology exists and may be coming to an airport near you. Every flyer over"
-    publishedDateTime: 2023-01-16T08:00:00Z
-    webUrl: "https://www.gwinnettdailypost.com/news/world_nation/commentary-facial-recognition-will-transform-airport-security-checkpoints/article_5c1994a2-bba8-5a59-b7a8-ee6755178f9e.html"
-    type: article
-    provider:
-      name: Gwinnett Daily Post
-      domain: gwinnettdailypost.com
-    quality: 69
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/1/54/15493ca8-82c0-555f-a023-6cf4e4602616/63c520b5236c7.image.jpg?crop=1698%2C891%2C0%2C164&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Facial recognition will transform airport security"
     excerpt: "He has studied aviation security for more than 25 years, and wrote this for the Chicago Tribune. Imagine using technology that never forgets a face, while improving airport security and shortening lines."

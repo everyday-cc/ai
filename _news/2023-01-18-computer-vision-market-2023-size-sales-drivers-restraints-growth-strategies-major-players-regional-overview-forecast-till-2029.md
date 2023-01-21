@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-size-sales-drivers-restraints-growth-strategies-major-players-regional-overview-forecast-till-2029-2023-01-18"
 type: article
 quality: 70
-heat: 190
+heat: 180
 published: true
 
 provider:
@@ -137,20 +137,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Oil and Gas Market Size 2023 with strong supplier, Key factors, driving the market growth, Information Forecast 2029"
-    excerpt: "Global Artificial Intelligence in Oil and Gas Market| Outlook 2023-2028 | Number of Tables and Figures | No Pages 114 |"
-    publishedDateTime: 2023-01-16T07:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-size-2023-with-strong-supplier-key-factors-driving-the-market-growth-information-forecast-2029-2023-01-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

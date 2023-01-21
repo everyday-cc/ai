@@ -40,20 +40,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Artificial Intelligence Is ‘For Anybody’"
-    excerpt: "Artificial intelligence, the simulation of human intelligence processes by computer systems, is growing increasingly smarter and more powerful, making it a technology that companies across industries want to get their hands on – including Los Angeles companies."
-    publishedDateTime: 2023-01-16T08:36:00Z
-    webUrl: "https://labusinessjournal.com/featured/artificial-intelligence-is-for-anybody/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 41
-    images:
-      - url: "https://images.labusinessjournal.com/wp-content/uploads/2023/01/PG01_AI_0116_chargers-store-e1673637310201.jpeg"
-        width: 1200
-        height: 633
-        isCached: true
   - title: "Why one company just hired artificial intelligence ‘interns’"
     excerpt: "Kyle Monson, a partner at the marketing firm codeword, talks about his company’s newest interns – artificial intelligence assistants powered by the ChatGPT bot."
     publishedDateTime: 2023-01-17T22:34:00Z

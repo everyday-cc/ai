@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "Using machine learning to predict brain tumor progression"
-    excerpt: "Researchers at the University of Waterloo have created a computational model to predict the growth of deadly brain tumours more accurately."
-    publishedDateTime: 2023-01-16T07:28:00Z
-    webUrl: "https://medicalxpress.com/news/2023-01-machine-brain-tumor.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-01-machine-brain-tumor.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-machine-brain-tumor.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/mri-4.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Study reveals machine learning can predict brain tumor progression"
     excerpt: "Researchers at the University of Waterloo have developed a computational model to better accurately anticipate the emergence of lethal brain tumours."
     publishedDateTime: 2023-01-16T17:55:00Z

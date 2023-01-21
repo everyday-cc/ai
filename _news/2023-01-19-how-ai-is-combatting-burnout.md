@@ -19,33 +19,53 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence is coming of age, and it is already spooky"
-    excerpt: "For the last several years, there has been another woman in my life. My wife is well aware of her rival because she lives with us in our home. Her"
-    publishedDateTime: 2023-01-17T22:51:00Z
-    webUrl: "https://www.gloucestertimes.com/opinion/artificial-intelligence-is-coming-of-age-and-it-is-already-spooky/article_bc196dd6-8c60-11ed-b547-6f657c441252.html"
+  - title: "Artificial Intelligence Is Coming for Human Creativity"
+    excerpt: "The history of psychology is full of claims about unique human cognitive abilities. Many of these claims fell away in the light of research findings on the cognitive capacities of other species. Self-awareness was one such capacity."
+    publishedDateTime: 2023-01-18T16:51:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
     type: article
     provider:
-      name: Gloucester Daily Times
-      domain: gloucestertimes.com
-    quality: 41
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/Is%20AI%20coming%20for%20Creativity%2C%203%2C%20Joseph%20Ayerle.jpg?itok=clf3nLZg"
+        width: 1528
+        height: 800
         isCached: true
-  - title: "CNET's Article-Writing AI Is Already Publishing Very Dumb Errors"
-    excerpt: "The AI bot that CNET is using to churn out personal finance articles has a relatable problem: it keeps making dumb mistakes."
-    publishedDateTime: 2023-01-17T17:07:00Z
-    webUrl: "https://futurism.com/cnet-ai-errors"
+  - title: "Commentary: Artificial intelligence can’t reproduce the wonders of original human creativity"
+    excerpt: "The biggest story of the year — the story we should all be paying attention to — is the increasing power of artificial intelligence. Computer code can write itself, chatbots can generate academic papers,"
+    publishedDateTime: 2023-01-18T10:05:00Z
+    webUrl: "https://www.westhawaiitoday.com/2023/01/18/opinion/national-views/commentary-artificial-intelligence-cant-reproduce-the-wonders-of-original-human-creativity/"
+    ampWebUrl: "https://www.westhawaiitoday.com/2023/01/18/opinion/national-views/commentary-artificial-intelligence-cant-reproduce-the-wonders-of-original-human-creativity/amp/"
+    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2023/01/18/opinion/national-views/commentary-artificial-intelligence-cant-reproduce-the-wonders-of-original-human-creativity/amp/"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 37
+      name: West Hawaii Today
+      domain: westhawaiitoday.com
+    quality: 50
     images:
-      - url: "https://wp-assets.futurism.com/2023/01/cnet-ai-mistake.jpg"
-        width: 1200
-        height: 706
+      - url: "https://www.westhawaiitoday.com/wp-content/uploads/2021/08/og_image_logo.png"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "What DALL-E reveals about human creativity"
+    excerpt: "The often delightful and arresting images created by the latest generation of text-to-image generators, exemplified by DALL-E 2, Midjourney, and Stable Diffusion, have stirred up lots of buzz in both the arts and the AI worlds."
+    publishedDateTime: 2023-01-19T18:26:00Z
+    webUrl: "https://techxplore.com/news/2023-01-dall-e-reveals-human-creativity.html"
+    ampWebUrl: "https://techxplore.com/news/2023-01-dall-e-reveals-human-creativity.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-dall-e-reveals-human-creativity.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/what-dall-e-reveals-ab.jpg"
+        width: 960
+        height: 731
         isCached: true
 
 secured: "fuut5nitLO8mNitKwkWSUDJfnTtjXJPIOp8GMmA79F6dBuaEXxY5pWGe/Qt63bZcsC4cWmuEfPRKpTc7AYnd6dl7Spp1d8dp5gWTt5NT3I642MGwoIOwzZFNvDD+Nw9KwPFO3FlrVOerTLc8QpHqS95OYM/GJE/iWOkBJKsV9dBeXbCqE8SRTTNHr69TmnI4n7h5hcMQuFuudLD8imC1I130BrSmjodYyOFLbeYyji6D0+72YQTbWt2wdH/AfVLNlqGauEB9/BTcYeJEQctRh0nRSvgFWIJ4MFNgoGlq6Z3BcZGzEx+tRt56IU2zSQvtOJ1qgT+y0nyJAgnnSlyZXp5KR/jilG/Bb7MtZiUHVOFkfXAzxYVsphmSnkvamXNe7+6xgXi+BtxLqBvLpR40n5wCOfBDG2KBcT6bI2AmEqjc6gKVWYkxEMgnhB0U7eUwIVNKzBsaf6zUK3PCHSGehK7O6GwpUIQIsP3p3T5wXWN87r2P91Z7NIgjKSGtNw5K6nerQpNmR6o/6cqDKvT8SA==;LzWD5P4VhxByUN79uEboww=="

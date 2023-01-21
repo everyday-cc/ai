@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Sprout Social Acquires Repustate"
-excerpt: "Sentiment analysis and artificial intelligence are key to managing social media at scale and with the addition of Repustate technology, we’re excited to bring an even deeper set of capabilities to our customers,"
-publishedDateTime: 2023-01-19T23:25:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/01/19/9746538.htm"
-webUrl: "https://it.tmcnet.com/news/2023/01/19/9746538.htm"
+excerpt: "Sprout Social, Inc. (“Sprout Social”, the “Company”) (Nasdaq: SPT), an industry-leading provider of social media management software, today announced the acquisition of Repustate, an innovative sentiment analysis and natural language processing company."
+publishedDateTime: 2023-01-19T21:27:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/01/19/9746538.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/01/19/9746538.htm"
 type: article
 quality: 4
 heat: 4
@@ -18,6 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "vTT2UPE14jFKWIYQctJ8kboeFeW0RI/tyOmnlh8BjF3KJK59Yvyd3KpPoHBrI2KMNlhcmwkVWdJ60XloiYZV5iIiSQCDV7+m3+U9HlGgeUVsIB0Hg9Rgsp5kRxrqtHDJoKga6T3way8Hlv12sG0ebZF2Eu+KriHdQXaMJYOMVGef8e2LH9zTXBm//J9ui2xZzlyC4gCwijyixFeYaqyRUxcJDCpVxpsr/VuBfGWQmI9PmjJtPM+q25YAfHzaLoCgrb9IiYeusgAIDunWwi62nuckUZ53YzcUqYBHaFakxtwrQx+rUQBpPLhKm7Mb0ri+8ba+VZz0K3NL0LrwkHdKxl7oJu/S5sgKbtJiRiDAET0=;YJVE3h5u3Tjyu/Ta05aTjQ=="
+secured: "/9RhmwDms8iJgnjowerEGIO6+FSD8eUcALvG7X0svtnfFNUk1fWqr9lYPvDyzMNgXD1UKPcCfJL4LYFQCf7kkRxHXHBGLk+uAhKli0eCvdhLgAeZrMDd17IE7Pcvd6ACcPOu0NSh1rg4jzSNWlgti+KNEAapQHz7B1ICGd+WL7V2seuzbQgcsvkB1OTzY+pCL9erpoN7TRN7wgWRhSmUn7KKWveq9ZFpAKgkahYiAUQ118YJEyZP8heLZN37z4uKyaZExmIryfbd/ct+iEntagpsoVM2/c+nkBlCfptkggdwAIJlQB8usfH+whgxh/WxGqXBulw2dridCv3SG7TbydCmonwr1y9BnkSxPnrJO1k=;wLutg5Vhcte3O+gh+p0dcA=="
 ---
 

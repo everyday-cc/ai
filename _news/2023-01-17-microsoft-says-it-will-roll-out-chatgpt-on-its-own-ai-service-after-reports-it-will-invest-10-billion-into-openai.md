@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Announces general availability of Azure OpenAI Service"
-    excerpt: "Microsoft makes Azure OpenAI Service generally available, which makes the world's most advanced AI, including GPT-3.5, Codex, and DALL•E 2"
-    publishedDateTime: 2023-01-17T15:34:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-announces-general-availability-of-azure-openai-service/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 89
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/01/Microsoft-Announces-general-availability-of-Azure-OpenAI-Service.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "Microsoft brings ChatGPT support to Azure: All the details"
     excerpt: "In the last couple of weeks, it has been suggested that Microsoft will bring ChatGPT tech to a few of its products and services. Now, Microsoft has o"
     publishedDateTime: 2023-01-17T06:53:00Z
@@ -93,20 +77,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "General availability of Azure OpenAI Service expands access to large, advanced AI models with added enterprise benefits"
-    excerpt: "With Azure OpenAI Service now generally available, more businesses can apply for access to the most advanced AI models in the world—including GPT-3.5, Codex, and DALL•E 2—backed by the trusted enterprise-grade capabilities and AI-optimized infrastructure of Microsoft Azure, to create cutting-edge applications."
-    publishedDateTime: 2023-01-16T17:00:02Z
-    webUrl: "https://azure.microsoft.com/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 80
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6218d54-3c27-4c17-bc25-33ce1d1a268e.png"
-        width: 808
-        height: 768
-        isCached: true
   - title: "Microsoft to offer ChatGPT-as-a-service from Azure real soon now"
     excerpt: "Microsoft has promised it will \"soon\" offer the ChatGPT AI chatbot as a service from its Azure cloud. The software giant on Monday announced its existing Azure OpenAI service has opened up to general availability (GA)."
     publishedDateTime: 2023-01-17T03:36:00Z
@@ -136,6 +106,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/microsoft-1.png"
         width: 900
         height: 506
+        isCached: true
+  - title: "Microsoft announces general availability of Azure OpenAI Service"
+    excerpt: "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation"
+    publishedDateTime: 2023-01-17T11:37:00Z
+    webUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 69
+    images:
+      - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
+        width: 788
+        height: 443
         isCached: true
   - title: "Microsoft: Viral chatbot ChatGPT ‘coming soon’ to Azure OpenAI Service"
     excerpt: "The Azure OpenAI Service has been available to a limited number of enterprise customers when it debuted in November 2021. Microsoft: Viral chatbot ChatGPT 'coming soon' to Azure OpenAI Service. Artificial Intelligence,"
@@ -216,20 +200,6 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "Azure OpenAI Service Commercially Launched"
-    excerpt: "Microsoft this week announced that its Azure OpenAI service has reached the 'general availability' commercial-release stage."
-    publishedDateTime: 2023-01-17T00:00:00Z
-    webUrl: "https://redmondmag.com/articles/2023/01/17/azure-openai-service-commercially-launched.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/0917red_F1a_TeamBots.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft Patches 4 SSRF Flaws in Separate Azure Cloud Services"
     excerpt: "Two of the vulnerabilities — in Azure Functions and Azure Digital Twins — required no account authentication for an attacker to exploit them."
     publishedDateTime: 2023-01-17T15:13:00Z
@@ -257,20 +227,6 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/01/17/image/jpeg/2oEtPbucAy3H6yRAT4if6r6Pn0Whj2SrBD0b5AE9.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Microsoft Joins Tech Layoff Circus With 10,000 Jobs Cut in Pivot to AI"
-    excerpt: "Microsoft is planning to lay off 10,000 workers through March, joining a slew of tech companies in cutting down after a pandemic hiring boom, The New York Times reports. The company’s chief executive,"
-    publishedDateTime: 2023-01-18T14:53:00Z
-    webUrl: "https://www.thedailybeast.com/microsoft-joins-tech-layoff-circus-with-10000-jobs-cut-in-pivot-to-ai"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 54
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_4261,w_7575,x_0,y_306/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1674059714/GettyImages-1246327708_ptzqta"
-        width: 1480
-        height: 833
         isCached: true
   - title: "New Microsoft Azure Vulnerability Uncovered — Experts Warn of RCE Attacks"
     excerpt: "Microsoft Azure vulnerability discovered. Could be exploited to completely take control of targeted apps or steal sensitive data."
@@ -331,15 +287,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "The Download: battery recycling, and how AI might revamp Microsoft Office"
-    excerpt: "To Redwood Materials, the rows of cardboard boxes in the parking lot of its new battery recycling site just outside Reno, Nevada, represent both the past and the future of electric vehicles. Far from trash,"
-    publishedDateTime: 2023-01-17T13:11:00Z
-    webUrl: "https://www.technologyreview.com/2023/01/17/1067026/download-battery-recycling-ai-revamp-microsoft-office/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 33
   - title: "Microsoft Azure Services Flaws Could've Exposed Cloud Resources to Unauthorized Access"
     excerpt: "Researchers have discovered severe Server-Side Request Forgery (SSRF) vulnerabilities in 4 Microsoft Azure services."
     publishedDateTime: 2023-01-17T14:44:00Z

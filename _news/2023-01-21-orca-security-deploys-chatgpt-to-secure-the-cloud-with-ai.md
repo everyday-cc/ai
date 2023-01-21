@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/chatgpt-secure-cloud/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/chatgpt-secure-cloud/amp/"
 type: article
 quality: 104
-heat: 634
+heat: 644
 published: true
 
 provider:
@@ -197,6 +197,22 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2022/12/chatbot-1019x573.jpg"
         width: 1019
         height: 573
+        isCached: true
+  - title: "Gautam Adani Is Hooked On ChatGPT, Says Race For AI To Get Complex As Chip War"
+    excerpt: "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amounts of information to generate natural-sounding text on virtually anything - from crafting jokes to writing ad copy,"
+    publishedDateTime: 2023-01-20T23:49:00Z
+    webUrl: "https://www.outlookindia.com/business/gautam-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war-news-255242"
+    ampWebUrl: "https://www.outlookindia.com/business/gautam-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war-news-255242/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/gautam-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war-news-255242/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 70
+    images:
+      - url: "https://imgnew.outlookindia.com/public/uploads/articles/2019/10/29/Adani1_20170111_350_630.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Microsoft is Adding ChatGPT to Its New Azure Open AI Service"
     excerpt: "Microsoft will soon expand access to ChatGPT through its new Azure OpenAI service, which is now generally available to developers."
