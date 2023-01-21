@@ -52,15 +52,6 @@ related:
       name: Labroots
       domain: labroots.com
     quality: 16
-  - title: "Driverless electric hauling trucks in the pipeline at Cripple Creek & Victor Gold Mine"
-    excerpt: "This year, Blake said the Cripple Creek & Victor Gold Mine is focusing on completing a technical design review, which includes identifying areas on the property where a driverless haul truck can ..."
-    publishedDateTime: 2023-01-16T19:07:00Z
-    webUrl: "https://gazette.com/pikespeakcourier/driverless-electric-hauling-trucks-in-the-pipeline-at-cripple-creek-victor-gold-mine/article_b0b1af64-9398-11ed-8783-f3fef408061a.html"
-    type: article
-    provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 11
 
 secured: "DHXMQ0n2M16fnOp5OxH6UirCxHlUbgNs0Z3iokNUNZYqOQyx7kSbasvRS++b8+CLj11i8uoKzBOjqkK/Ug7CE3hqRaPiSU2JUHzgtnrf63SU7R/AlMQOKBJ6rm4RZiOTpG5RuG/OHDhoELRgrIx4NY9qzUmsZUW/oXxN/9Ou67vBTmlTXmc2Ikr//7vIc5E1nuGbpFQg/2/euiUaxGMVH/Bv8ubeF7CGZFC33c4dhyyzw38Gg3tATcItuyO13+ee6e1y5JIL4TAYOOOFfmJbafhS0CfjqU3ICVATUALavdCFFbbZGXPu4uJaXurVgnja9NPXiXdBFmKiYTpWeqOO8pYNxyY310DirLfjlsapw7NE6ryl6OO+AU5MlKUq/hTl/A5McEPbXL6X1Jm/9ROy8A/ydPEu44745MUki+JR56D6w3dU5Mgc/3qQsL3Ocxgwy+5g5qJlD/+3WYx23wl1cs0bvaTK/PXngwK9gT0NUIXGVHMNrd4zdK7KQUtT6Ctu4EMGD23vbnqIHDUnukFbxQ==;tmSDeq3jduoUaa90BUplGg=="
 ---

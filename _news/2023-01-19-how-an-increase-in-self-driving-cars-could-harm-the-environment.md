@@ -47,15 +47,20 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Self-driving cars could nearly double road congestion, says report"
-    excerpt: "LONDON: Motorists could be stuck in congestion nearly twice as bad as current levels if self-driving cars become commonplace, a UK government report warns. The UK's Department for Transport (DfT) traffic projections for England and Wales show delays may rise by up to 85% from 2025 to 2060 in that scenario."
-    publishedDateTime: 2023-01-16T19:48:00Z
-    webUrl: "https://www.carsifu.my/news/self-driving-cars-could-nearly-double-road-congestion-says-report"
+  - title: "Computers in autonomous cars could become huge drivers of carbon emissions, study warns"
+    excerpt: "Researchers call for more efficient hardware to cut emissions from computer operations in self-driving cars. Under one of the modelled scenarios where 95 per cent of the global fleet of vehicles ..."
+    publishedDateTime: 2023-01-18T06:02:00Z
+    webUrl: "https://www.independent.co.uk/tech/self-driving-cars-carbon-emission-b2263481.html"
     type: article
     provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 4
+      name: The Independent
+      domain: independent.co.uk
+    quality: 16
+    images:
+      - url: "https://static.independent.co.uk/2022/06/29/02/China_Self-Driving_Cars_48645.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Self-driving cars could cause congestion to nearly double, warns government report"
     excerpt: "Road congestion could almost double from current levels if self-driving cars become commonplace, according to a new government report. The Department for Transport’s projections for traffic levels in England and Wales suggest that delays could soar by up to 85% between 2025 and 2060."
     publishedDateTime: 2023-01-17T13:50:00Z

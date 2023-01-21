@@ -9,8 +9,8 @@ ampWebUrl: "https://securityboulevard.com/2023/01/ai-and-political-lobbying/amp/
 cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2023/01/ai-and-political-lobbying/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Security Boulevard
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bilateral science funding aims to invest in priorities like AI and machine learning"
-    excerpt: "Australia’s Department of Industry, Science and Resources (DISR) has teamed up with India’s Department of Science and Technology, and the Department of Biotechnology to run round 15 of the grants program."
-    publishedDateTime: 2023-01-16T20:45:00Z
-    webUrl: "https://www.themandarin.com.au/209670-bilateral-science-funding-aims-to-invest-in-priorities-like-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: The Mandarin
-      domain: themandarin.com.au
-    quality: 48
-    images:
-      - url: "https://www.themandarin.com.au/wp-content/uploads/2023/01/Ed-Husic.jpg"
-        width: 795
-        height: 530
-        isCached: true
   - title: "Google's AI is best yet at answering medical and health questions"
     excerpt: "Google has built an AI that can answer medical questions. However, it's not as good as a human doctor and the company says it cannot yet perform safely in the real world"
     publishedDateTime: 2023-01-20T15:27:00Z

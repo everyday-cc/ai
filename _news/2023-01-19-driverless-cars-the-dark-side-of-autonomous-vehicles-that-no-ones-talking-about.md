@@ -9,7 +9,7 @@ ampWebUrl: "https://www.euronews.com/green/amp/2023/01/16/driverless-cars-the-da
 cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/green/amp/2023/01/16/driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: Labroots
       domain: labroots.com
     quality: 16
-  - title: "Driverless electric hauling trucks in the pipeline at Cripple Creek & Victor Gold Mine"
-    excerpt: "This year, Blake said the Cripple Creek & Victor Gold Mine is focusing on completing a technical design review, which includes identifying areas on the property where a driverless haul truck can ..."
-    publishedDateTime: 2023-01-16T19:07:00Z
-    webUrl: "https://gazette.com/pikespeakcourier/driverless-electric-hauling-trucks-in-the-pipeline-at-cripple-creek-victor-gold-mine/article_b0b1af64-9398-11ed-8783-f3fef408061a.html"
-    type: article
-    provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 11
 
 secured: "yxQtJ7YvNgZJRjOhkaE/L9SvENcVIEdpblnOnAWIsHifuC81XxXcbL5VyFtiTVv2pOHGT+cGPwnQ4XIPqwkIj26cZsXGWX8RfCQCXYbbuBNXsvoFsC9iZbC/cuJXj/mK1BP7/GE/PxExoIlsylDkDuY9m3zg/+qTv/IuR0MiSdkTzvYzR1BVflYWbWX0zMQcOBikd7LguLWlDFHH+8XcU0hy0JVIxQ9n2B/2Ww69El2fmrL7TwnLvQOAVqA1qDBKYF/7Qj7exlXODEm694G/NwqybVhjxOvTCYhkzTKUUbjh2RY56k2WYql1eVnECkmAvH8ZLq0mREho1wa5eQAr3fJieRfaNEJhnRpRLQpxUaY=;ka2lv2z0z6jdNhffBRRXbg=="
 ---

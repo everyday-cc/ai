@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-latest-research-report-2023-2029-2023-01-20"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Mobile Speech Recognition Software Professional Market 2023-2029 (New Report): Know Technology Exploding in Popularity |115 Pages Research"
+    excerpt: "A cost-effective Latest “Mobile Speech Recognition Software Professional Market” report that deliver top-notch"
+    publishedDateTime: 2023-01-20T05:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-professional-market-2023-2029-new-report-know-technology-exploding-in-popularity-115-pages-research-2023-01-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Research Task Force Votes to Send Final Report to Congress, President"
     excerpt: "The task force’s report details a plan for the AI research resource initiative, including governance, funding, security and ethics on issues like AI bias."
     publishedDateTime: 2023-01-17T19:16:00Z

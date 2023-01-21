@@ -56,15 +56,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "New Concerns About AI Technology That Can Write Stories, Essays"
-    excerpt: "Many educators are worried students could use the tool to essentially do their homework. New York City schools have already banned access to the technology on school networks and devices, worried that using it \"does not build critical-thinking and problem-solving skills."
-    publishedDateTime: 2023-01-16T19:19:00Z
-    webUrl: "https://www.news9.com/story/63c59fea57666001594ce22d/new-concerns-about-ai-technology-that-can-write-stories-essays"
-    type: article
-    provider:
-      name: News9
-      domain: news9.com
-    quality: 19
 
 secured: "DNH4CuKzTT4zlC7/dBZzu6u6GxGAFApyWVIlfZxYzx9Y2fjQmqL2+Mg8n9EF9VPVN9eiHRJnHkFJ1apM6IgXp9sMZz9VfpN6OElOzgydN4YfQjY1kofu/zMhP6dKiwGpEvKCCSL0mibL8kFqfyG1tMC1X/gPA1pPP+P+ZHw+/AwYeG5D++3m2ZVx7AMR2B9cQDUiFdms5oUPTXCbHRgwizkq88NHD4lCNOSjZ3UT1A4mJ9D59qA80ta3cTUAk3RTRQjd8jlr7NaPseWGMQ9mWiiTg9UUQT2Abx7xXGgphq+XlFbhvgBfKvy3YcK78bANkEKYLIdn5vgAIfoqbolnEBjHo8kkoZvVX5UdJk5tq5M=;58UiU25SkdRXC49APcKlPA=="
 ---
