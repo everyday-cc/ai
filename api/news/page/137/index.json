@@ -2,6 +2,57 @@
   "page": 137,
   "value": [
     {
+      "path": "_news/2022-09-17-ironclads-new-contract-platform-embeds-ai-to-improve-business-workflows.md",
+      "title": "Ironclad’s new contract platform embeds AI to improve business workflows",
+      "excerpt": "Were you unable to attend Transform 2022? Check out all of the summit sessions in our on-demand library now! Watch here. Ironclad yesterday unveiled a new version of its contract platform embedded with an AI layer in an effort to improve business workflows throughout the lifecycle of a contract.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ironclads-new-contract-platform-embeds-ai-to-improve-business-workflows/",
+      "originalUrl": "https://venturebeat.com/ai/ironclads-new-contract-platform-embeds-ai-to-improve-business-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-687981522-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ironclads-new-contract-platform-embeds-ai-to-improve-business-workflows/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ironclads-new-contract-platform-embeds-ai-to-improve-business-workflows/amp/",
+      "publishedDateTime": "2022-09-16T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-17-artificial-intelligence-ai-in-fintech-market-set-to-boom-reaching-usd-2811-billion-by-2028-blueweave-consulting.md",
       "title": "Artificial Intelligence (AI) In Fintech Market Set To Boom Reaching USD 28.11 Billion By 2028 | Blueweave Consulting",
       "excerpt": "New Delhi, Sept. 16, 2022 (GLOBE NEWSWIRE) -- Global Artificial Intelligence (AI) in Fintech Market size is expanding at an impressive growth rate during the forecast period, mainly due to ...",
@@ -1111,40 +1162,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-diet-could-play-a-role-in-cognitive-function-across-diverse-races-and-ethnicities.md",
-      "title": "Diet could play a role in cognitive function across diverse races and ethnicities",
-      "excerpt": "Dietary choices and their consequences may certainly influence cognitive function ... Metabolon offers biochemical profiling services and is developing molecular diagnostic assays detecting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/964717",
-      "originalUrl": "https://www.eurekalert.org/news-releases/964717",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

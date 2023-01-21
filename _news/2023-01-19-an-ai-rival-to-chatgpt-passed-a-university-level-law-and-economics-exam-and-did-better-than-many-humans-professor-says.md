@@ -311,22 +311,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 62
-  - title: "Cybercriminals using ChatGPT AI bot to develop malicious tools?"
-    excerpt: "According to a report from cyber security firm Check Point Research (CPR), the cybercriminal community has already expressed strong interest in ChatGPT develop malicious code."
-    publishedDateTime: 2023-01-16T16:08:00Z
-    webUrl: "https://www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/cybercriminals-using-chatgpt-ai-bot-to-develop-malicious-tools-101673876956902-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/img/2023/01/16/1600x900/OPENAI-CHATGPT-61_1673882783604_1673882783604_1673883055328_1673883055328.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "ChatGPT, a new AI Bot in town: Top 7 things you should know"
     excerpt: "It does have shortcomings since it is AI. However, it tends to warn the user incase it does not have enough knowledge on the subject. While ChatGPT is focussed on human-like text, Google Search's forte is image or voice recognition, language translation ..."
     publishedDateTime: 2023-01-18T12:52:00Z
@@ -398,20 +382,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
-  - title: "DeepMind’s AI chatbot can do things that ChatGPT cannot, CEO claims"
-    excerpt: "Google’s DeepMind has pioneered advances in artificial intelligence since its founding in 2010, with the ultimate goal of creating a human-level AI (Alan Warburton / Better Images of AI / CC ..."
-    publishedDateTime: 2023-01-16T15:59:00Z
-    webUrl: "https://www.independent.co.uk/tech/deepmind-ai-chatbot-chatgpt-openai-b2262862.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 54
-    images:
-      - url: "https://static.independent.co.uk/2022/05/17/10/deepmind%20ai%20artificial%20general%20intelligence.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Microsoft to add ChatGPT to Azure cloud services ‘soon’"
     excerpt: "The two companies have expanded their partnership recently, while there are rumors that Microsoft plans to give more funding to Open AI. Microsoft has expanded access to OpenAI’s software, making it generally available on its Azure cloud service."
     publishedDateTime: 2023-01-17T08:45:00Z
@@ -531,22 +501,6 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/g95fRIB1.jpg"
         width: 570
         height: 367
-        isCached: true
-  - title: "ChatGPT could be used for good, but like many other AI models, it's rife with racist and discriminatory bias"
-    excerpt: "ChatGPT could soon power Microsoft products, despite the potential to spew dangerous content. The AI community is torn on solutions."
-    publishedDateTime: 2023-01-16T16:08:00Z
-    webUrl: "https://www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1"
-    ampWebUrl: "https://www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1?amp"
-    cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/chatgpt-is-like-many-other-ai-models-rife-with-bias-2023-1?amp"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: insider.com
-    quality: 40
-    images:
-      - url: "https://i.insider.com/62e40a4f4b455800188b5eaf?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Microsoft Has Entered the Chat: Azure OpenAI Service Launches, ChatGPT Access Coming Soon"
     excerpt: "Software giant Microsoft has launched general availability of access to OpenAI's advanced AI models, including GPT-3.5, Codex and DALL•E 2, through Azure OpenAI Service, and says ChatGPT access will follow shortly."

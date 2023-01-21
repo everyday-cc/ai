@@ -28,53 +28,37 @@ images:
     isCached: true
 
 related:
-  - title: "Stable Diffusion AI art lawsuit, plus caution from OpenAI, DeepMind | The AI Beat"
-    excerpt: "Stability AI and Midjourney were hit with a copyright infringement lawsuit, while OpenAI and DeepMind are signaling generative AI caution."
-    publishedDateTime: 2023-01-16T16:54:00Z
-    webUrl: "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/"
-    ampWebUrl: "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/"
+  - title: "The Morning After: Getty Images sues AI art generator"
+    excerpt: "Twitter admits it’s intentionally breaking third-party apps, Getty Images sues AI art generator over data-scraping allegations, Samsung’s new 200-megapixel sensor will probably appear in the Galaxy S23 Ultra."
+    publishedDateTime: 2023-01-18T12:48:00Z
+    webUrl: "https://www.engadget.com/the-morning-after-getty-images-sues-ai-art-generator-121539563.html"
+    ampWebUrl: "https://www.engadget.com/amp/the-morning-after-getty-images-sues-ai-art-generator-121539563.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-getty-images-sues-ai-art-generator-121539563.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 99
+      name: YAHOO!Finance
+      domain: engadget.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-16-at-10.28.05-AM-e1673882948444.png?w=1200&strip=all"
-        width: 703
-        height: 436
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-11/a0f17a10-6caf-11ed-adef-6471c8c12f2e"
+        width: 1536
+        height: 768
         isCached: true
-  - title: "Stable Diffusion lawsuit, plus words of caution from OpenAI, DeepMind | The AI Beat"
-    excerpt: "Stability AI and Midjourney were hit with a copyright infringement lawsuit, while OpenAI and DeepMind are signaling generative AI caution."
-    publishedDateTime: 2023-01-16T16:40:00Z
-    webUrl: "https://venturebeat.com/business/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/"
-    ampWebUrl: "https://venturebeat.com/business/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/"
+  - title: "1923 cartoon predicts 2023’s AI art generators"
+    excerpt: "The vintage cartoon carries the caption It depicts a cartoonist standing by his drawing table and making plans for social events while an \"idea dynamo\" generates ideas and a \"cartoon dynamo\" renders the artwork."
+    publishedDateTime: 2023-01-19T16:52:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 98
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-16-at-10.28.05-AM-e1673882948444.png?w=1200&strip=all"
-        width: 703
-        height: 436
-        isCached: true
-  - title: "AI about to hit a level that could cause damage to humanity: DeepMind CEO"
-    excerpt: "Google's DeepMind CEO Demis Hassabis has said AI is \"on the cusp\" of being able to make tools that could be damaging to humans. \"When it comes to very powerful technologies...we need to be careful,\" he said."
-    publishedDateTime: 2023-01-16T17:24:00Z
-    webUrl: "https://inshorts.com/en/news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 73
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/01_jan/16_mon/img_1673888098959_71.jpg?"
-        width: 960
-        height: 720
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/cartoon_dynamo_hero_main-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Getty sues Stable Diffusion, and the future of AI art could be at stake"
     excerpt: "Getty Images, the stock-image powerhouse, is suing Stability AI over its AI art generator in a copyright infringement case that could help decide the future of AI art."
@@ -90,45 +74,65 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "AI art generators targeted in lawsuit for intellectual property theft"
-    excerpt: "A class action lawsuit alleges that the AI art generation engine Stable Diffusion was trained on billions of copyrighted materials without credit, compensation, or consent of content owners."
-    publishedDateTime: 2023-01-16T16:08:00Z
-    webUrl: "https://appleinsider.com/articles/23/01/16/ai-art-generators-targeted-in-lawsuit-for-intellectual-property-theft"
-    ampWebUrl: "https://appleinsider.com/articles/23/01/16/ai-art-generators-targeted-in-lawsuit-for-intellectual-property-theft/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/01/16/ai-art-generators-targeted-in-lawsuit-for-intellectual-property-theft/amp/"
+  - title: "Getty Images targets AI firm for 'copying' photos"
+    excerpt: "Stability AI runs a tool called Stable Diffusion that allows users to generate mash-up images from a few words of text, but the firm uses material it scrapes from the web often without permission. The question of copyright is still in dispute,"
+    publishedDateTime: 2023-01-18T04:47:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/getty-images-targets-ai-firm-for-copying-photos/97078387"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/getty-images-targets-ai-firm-for-copying-photos/97078387"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/getty-images-targets-ai-firm-for-copying-photos/97078387"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-97078387,imgsize-37546,width-1200,height=765,overlay-etbrandequity/digital/getty-images-targets-ai-firm-for-copying-photos.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Getty Images Targets Artificial Intelligence Firm For \"Copying\" Photos"
+    excerpt: "Getty, which distributes stock images and news photos including those of AFP, accused Stability AI of profiting from its pictures and those of its partners."
+    publishedDateTime: 2023-01-18T05:56:00Z
+    webUrl: "https://www.ndtv.com/world-news/getty-images-targets-artificial-intelligence-firm-for-copying-photos-3702069"
+    ampWebUrl: "https://www.ndtv.com/world-news/getty-images-targets-artificial-intelligence-firm-for-copying-photos-3702069/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/getty-images-targets-artificial-intelligence-firm-for-copying-photos-3702069/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
     quality: 57
     images:
-      - url: "https://photos5.appleinsider.com/gallery/52480-104793-cook-xl.jpg"
-        width: 1312
-        height: 738
+      - url: "https://c.ndtvimg.com/2023-01/9mlda3p_stability-ai_625x300_18_January_23.jpg"
+        width: 650
+        height: 400
         isCached: true
-  - title: "Artists file copyright lawsuit against generative AI providers"
-    excerpt: "Three artists have filed a lawsuit that accuses generative artificial intelligence providers Stability AI Ltd., DeviantArt Inc. and Midjourney Inc. of copyright infringement.  The Verge reported the development today."
-    publishedDateTime: 2023-01-16T21:00:00Z
-    webUrl: "https://siliconangle.com/2023/01/16/artists-file-copyright-lawsuit-generative-ai-providers/"
+  - title: "Getty Images sues to determine who owns AI art"
+    excerpt: "Getty Images, the stock-image powerhouse, is suing Stability AI over its AI art generator in a copyright infringement case that could help decide the future of AI art."
+    publishedDateTime: 2023-01-17T18:39:00Z
+    webUrl: "https://www.pcworld.com/article/1475597/getty-sues-stability-ai-and-the-future-of-ai-art-could-be-at-stake.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/image-7.png"
-        width: 718
-        height: 404
-        isCached: true
-  - title: "Google Research and DeepMind develop AI medical chatbot"
-    excerpt: "A new AI-powered medical-specific chatbot developed by Google and DeepMind has shown some potential for clinical applications."
-    publishedDateTime: 2023-01-18T13:35:00Z
-    webUrl: "https://www.digitalhealth.net/2023/01/google-research-and-deepmind-develop-ai-medical-chatbot/"
+      name: PC World
+      domain: pcworld.com
+    quality: 49
+  - title: "Getty Images suing the makers of popular AI art tool for allegedly stealing photos"
+    excerpt: "Getty Images announced a lawsuit against Stability AI, the company behind popular AI art tool Stable Diffusion, alleging the tech company committed copyright infringement."
+    publishedDateTime: 2023-01-17T19:48:00Z
+    webUrl: "https://edition.cnn.com/2023/01/17/tech/getty-images-stability-ai-lawsuit"
     type: article
     provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 34
+      name: CNN
+      domain: cnn.com
+    quality: 41
+  - title: "Getty Images suing artificial intelligence firm Stability AI for 'copying' photos"
+    excerpt: "Stability AI runs a tool called Stable Diffusion that allows users to generate mash-up images from a few words of text, but the firm uses material it scrapes from the web often without permission."
+    publishedDateTime: 2023-01-17T13:45:00Z
+    webUrl: "https://www.newindianexpress.com/business/2023/jan/17/getty-images-suing-artificial-intelligencefirm-stability-ai-for-copying-photos-2538693.html"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 27
 
 secured: "2bEzOb2V8AtNSq25MvfvNHlTAGwUl3wXx9YbWVBN0bMekQ5rofUza+FU0xjgLhc3JbHPhw8OsvdJzRPyukNGV+DOEj0sJv7WIwcAW4RBmRCyI8B/lwTTkkzwVm4Ifh98bXHc+eJqVAUqE2hX27c3N/wDehgQMMtvavkfcRWbTOXkp50B9q4i0L1YUOAweRA48MI+GLeJnGm09MIt9UkjiqXzWdDlYzLz1YG+yjJPbTGT4+WTu/D6GvvUPQ4FyXYEA/UhmSiZ/JnJjkaQPBqsfWQYY3e6vbG1QS0EdzcJbkIClD41TxMzioTXfK2pJQdIg9blxm22cReAuuxwHqxV67N8iRtKiNxtsHtXHGUEKgs=;ZBOCykvwUnYfAswJkWegTQ=="
 ---

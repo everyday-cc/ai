@@ -2,6 +2,49 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-12-01-in-ad-neural-network-dysfunction-due-to-plaque-damage.md",
+      "title": "In AD, neural network dysfunction due to plaque damage",
+      "excerpt": "Researchers have identified a link between amyloid plaques and dysfunctional neuronal conduction in animal models of Alzheimer’s disease (AD). Their study, which was published in the Dec. 1, 2022, issue of Nature, suggests new ways to think about AD, as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bioworld.com/articles/691991-in-ad-neural-network-dysfunction-due-to-plaque-damage",
+      "originalUrl": "https://www.bioworld.com/articles/691991-in-ad-neural-network-dysfunction-due-to-plaque-damage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bioworld.com/ext/resources/BWS/BWS-source/Connections-brain---HERO.png?height=635&t=1669910299&width=1200",
+          "width": 847,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BioWorld",
+        "domain": "bioworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-n-ix-obtains-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization.md",
       "title": "N-iX obtains the Modernization of Web Applications to Microsoft Azure Advanced Specialization",
       "excerpt": "N-iX, a leading European software development company, has earned the Modernization of Web Applications to Microsoft Azure advanced specialization. It is a validation of the company's deep knowledge and extensive experience in migrating and modernizing production web application workloads and managing app services in Azure.",
@@ -1081,49 +1124,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-amazon-to-warn-customers-on-limitations-of-its-ai.md",
-      "title": "Amazon to warn customers on limitations of its AI",
-      "excerpt": "Amazon chose software touching on sensitive demographic issues as a start for its service cards, which Kearns expects to grow in detail over time. One such service is called \"Rekognition.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/amazon-warn-customers-limitations-its-ai-3113256",
-      "originalUrl": "https://www.channelnewsasia.com/business/amazon-warn-customers-limitations-its-ai-3113256",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--ChyNQ6ox--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-30t214432z_2_lynxmpeiat0y5_rtroptp_3_amazon-com-layoffs.jpg?itok=iZxgCCnS",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T17:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-21-college-professors-are-considering-creative-ways-to-stop-students-from-using-ai-to-cheat.md",
+      "title": "College professors are considering creative ways to stop students from using AI to cheat",
+      "excerpt": "Some professors say students are using OpenAI's buzzy chatbot, ChatGPT, to pass off AI-generated content as their own.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-chatgpt-college-professors-students-cheating-2023-1",
+      "originalUrl": "https://www.businessinsider.com/ai-chatgpt-college-professors-students-cheating-2023-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63c6d1284fa0aa0018895a8b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-chatgpt-college-professors-students-cheating-2023-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-chatgpt-college-professors-students-cheating-2023-1?amp",
+      "publishedDateTime": "2023-01-21T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-21-robotics-drug-control-on-senators-mind-this-week-letters.md",
       "title": "Robotics, drug control on senator’s mind this week (Letters)",
       "excerpt": "As usual, the beginning of formal session has been exceptionally busy ahead of our bill filing deadline. All bills filed prior are guaranteed a public hearing, an important step.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -53,7 +104,7 @@
       "originalUrl": "https://venturebeat.com/security/how-ai-and-data-enrichment-can-protect-the-vulnerable-during-a-recession/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -146,7 +197,7 @@
       "originalUrl": "https://venturebeat.com/security/chatgpt-secure-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 644,
+      "heat": 614,
       "tags": null,
       "images": [
         {
@@ -344,6 +395,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-20-ai-tools-can-create-new-images-but-who-is-the-real-artist.md",
+      "title": "AI tools can create new images, but who is the real artist?",
+      "excerpt": "With some generated images traveling on social networks and potentially going viral, they can be challenging to debunk since they can’t be traced back to a specific tool or data source",
+      "sourceUrl": null,
+      "webUrl": "https://www.wcvb.com/article/ai-images-who-is-real-artist/42592783",
+      "originalUrl": "https://www.wcvb.com/article/ai-images-who-is-real-artist/42592783",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap23011863010313-1-1674235508.jpg?crop=1.00xw:0.846xh;0,0.0337xh&resize=1200:*",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wcvb.com/amp/article/ai-images-who-is-real-artist/42592783",
+      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/ai-images-who-is-real-artist/42592783",
+      "publishedDateTime": "2023-01-20T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCVB Channel 5 Boston",
+        "domain": "wcvb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-musk-oversaw-staged-tesla-self-driving-video-emails-show.md",
       "title": "Musk oversaw staged Tesla self-driving video, emails show",
       "excerpt": "If there was any doubt that Tesla CEO Elon Musk knew the company's much-watched 2016 self-driving demo was staged, emails obtained by Bloomberg should lay that to rest. \"Just want to be absolutely clear that everyone’s top priority is achieving an amazing Autopilot demo drive,",
@@ -404,7 +498,7 @@
       "originalUrl": "https://www.consumeraffairs.com/news/how-much-will-ai-impact-life-in-2023-012023.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -447,7 +541,7 @@
       "originalUrl": "https://www.reuters.com/business/google-parent-lay-off-12000-workers-memo-2023-01-20/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -646,7 +740,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/20/the-6-most-important-tech-trendpredictions-for-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -887,7 +981,7 @@
       "originalUrl": "https://www.geekwire.com/calendar-event/seattle-fintech-meetup-measure-what-matters-dei-in-fintech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1116,100 +1210,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-alethea-ai-debuts-generative-ai-on-polygon-blockchain.md",
-      "title": "Alethea AI debuts generative AI on Polygon blockchain",
-      "excerpt": "Alethea AI has teamed up with blockchain company Polygon to bring the power of generative AI to AI character NFTs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/alethea-ai-debuts-generative-ai-on-polygon-blockhain/",
-      "originalUrl": "https://venturebeat.com/games/alethea-ai-debuts-generative-ai-on-polygon-blockhain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/alethea-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/alethea-ai-debuts-generative-ai-on-polygon-blockhain/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/alethea-ai-debuts-generative-ai-on-polygon-blockhain/amp/",
-      "publishedDateTime": "2023-01-19T09:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-hc3-warns-healthcare-of-ais-use-in-malware-development.md",
-      "title": "HC3 Warns Healthcare of AI’s Use in Malware Development",
-      "excerpt": "In its latest brief, HC3 details how artificial intelligence (AI) can be used by threat actors to aid in malware development, forming a serious threat to healthcare cybersecurity.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitsecurity.com/news/hc3-warns-healthcare-of-ais-use-in-malware-development",
-      "originalUrl": "https://healthitsecurity.com/news/hc3-warns-healthcare-of-ais-use-in-malware-development",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitsecurity.com/images/sized/datasecurityGettyImages-1319188207-39a26234983c4eca9381530cb872a66d.jpg",
-          "width": 480,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitsecurity.com/news/amp/hc3-warns-healthcare-of-ais-use-in-malware-development",
-      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/hc3-warns-healthcare-of-ais-use-in-malware-development",
-      "publishedDateTime": "2023-01-19T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Security",
-        "domain": "healthitsecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -90,6 +90,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google Research and DeepMind develop AI medical chatbot"
+    excerpt: "A new AI-powered medical-specific chatbot developed by Google and DeepMind has shown some potential for clinical applications."
+    publishedDateTime: 2023-01-18T13:35:00Z
+    webUrl: "https://www.digitalhealth.net/2023/01/google-research-and-deepmind-develop-ai-medical-chatbot/"
+    type: article
+    provider:
+      name: Digital Health
+      domain: digitalhealth.net
+    quality: 34
   - title: "Health tech startup achieves world-first certification for AI mental health chatbot"
     excerpt: "London headquartered health tech startup, Limbic, has announced that its psychological assessment tool, Limbic Access, has achieved Class IIa UKCA… | London | Medical | Technology | Health & Care | St"
     publishedDateTime: 2023-01-17T07:00:00Z

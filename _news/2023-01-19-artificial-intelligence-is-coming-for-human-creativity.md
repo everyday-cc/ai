@@ -8,8 +8,8 @@ webUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artifici
 ampWebUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
 type: article
-quality: 57
-heat: 87
+quality: 59
+heat: 89
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/Is%20AI%20coming%20for%20Creativity%2C%203%2C%20Joseph%20Ayerle.jpg?itok=clf3nLZg"

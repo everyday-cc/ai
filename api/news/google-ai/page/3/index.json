@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-15-a-conversation-with-thomas-friedman-about-ai.md",
+      "title": "A conversation with Thomas Friedman about AI",
+      "excerpt": "Technology has an unmistakable impact on society — the way we work, learn and play have all changed significantly over the past decade. As SVP of Technology and Society, part of my work at Google is connecting people and ideas to help shape the future of our most ambitious technology and its impact on",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/a-conversation-with-thomas-friedman-about-ai/",
+      "originalUrl": "https://blog.google/technology/ai/a-conversation-with-thomas-friedman-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Artboard_1_copy_2.max-1300x1300.png",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-hear-what-googles-first-responsible-innovation-intern-learned.md",
       "title": "Hear what Google’s first Responsible Innovation intern learned",
       "excerpt": "In 2018, we launched Google’s AI Principles to ensure we’re building AI that not only solves important problems and helps people in their daily lives, but also AI that is ethical, fair and safe. At the same time, we launched a central Responsible Innovation team to ensure the rest of Google is held accountable",
@@ -1437,59 +1489,6 @@
         "AI",
         "Google AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-all-symbols-in-tensorflow-datasets.md",
-      "title": "All symbols in TensorFlow Datasets",
-      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols",
-      "originalUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
       ]
     }
   ],

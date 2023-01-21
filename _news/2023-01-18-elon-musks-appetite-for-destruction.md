@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2023/01/17/magazine/tesla-autopilot-self-dri
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/17/magazine/tesla-autopilot-self-driving-elon-musk.amp.html"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

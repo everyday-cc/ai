@@ -2,6 +2,49 @@
   "page": 135,
   "value": [
     {
+      "path": "_news/2022-09-20-artificial-intelligence-ai-robots-market-top-trends-and-key-players-analysis-report.md",
+      "title": "Artificial Intelligence (AI) Robots Market | Top Trends and Key Players Analysis Report",
+      "excerpt": "AI, or artificial intelligence, in robotics is the integration of AI technology with robots, enabling them to perform repetitive tasks more efficiently without human intervention. Rapid ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-robots-market-top-trends-and-key-players-analysis-report",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-robots-market-top-trends-and-key-players-analysis-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/09/CCC-1-e1663981758586-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-machine-learning-developer-truefoundry-raises-23-mn-in-seed-funding.md",
       "title": "Machine learning developer TrueFoundry raises $2.3 mn in seed funding",
       "excerpt": "TrueFoundry, a machine learning (ML) developer, has raised $2.3 million in seed funding led by Sequoia India and Southeast Asia's Surge. Other investors in the round included Eniac Ventures and Naval Ravikant,",
@@ -1123,58 +1166,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-xiaomi-face-recognition-smart-door-lock-with-3d-structured-light-tech-launched.md",
-      "title": "Xiaomi Face Recognition Smart Door Lock with 3D structured light tech launched",
-      "excerpt": "Xiaomi’s latest smart door lock features 3D structured light facial recognition. The Xiaomi Face Recognition Smart Door Lock, as it is called, is an iteration of the 2021 Xiaomi Smart Door Lock X. Pre-sale of the new smart door lock opens on September 20,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/09/19/xiaomi-face-recognition-smart-door-lock-3d-structured-light-tech-launched/",
-      "originalUrl": "https://www.gizmochina.com/2022/09/19/xiaomi-face-recognition-smart-door-lock-3d-structured-light-tech-launched/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/09/xiaomi-2.png",
-          "width": 525,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/09/19/xiaomi-face-recognition-smart-door-lock-3d-structured-light-tech-launched/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/09/19/xiaomi-face-recognition-smart-door-lock-3d-structured-light-tech-launched/?amp=1",
-      "publishedDateTime": "2022-09-19T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

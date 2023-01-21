@@ -2,6 +2,59 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-01-11-jobs-in-artificial-intelligence-how-to-make-a-career-in-ai.md",
+      "title": "Jobs In Artificial Intelligence - How To Make A Career In AI",
+      "excerpt": "E, Tesla’s Fully Self Driving mode and *ahem* Q.ai, has shown us anything, it’s that artificial intelligence is here to stay.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/01/10/jobs-in-artificial-intelligencehow-to-make-a-career-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/01/10/jobs-in-artificial-intelligencehow-to-make-a-career-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63bda0178157b139798b08d5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/01/10/jobs-in-artificial-intelligencehow-to-make-a-career-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/10/jobs-in-artificial-intelligencehow-to-make-a-career-in-ai/amp/",
+      "publishedDateTime": "2023-01-10T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-the-download-irobot-privacy-scandal-and-ai-that-makes-images.md",
       "title": "The Download: iRobot privacy scandal, and AI that makes images",
       "excerpt": "Roomba testers feel misled after intimate images ended up on Facebook When Greg unboxed a new robot vacuum cleaner ... for free by UK-based startup Stability AI in August, and, crucially, able ...",
@@ -1070,40 +1123,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-nvidia-would-be-working-on-ai-optimized-drivers.md",
-      "title": "NVIDIA would be working on AI-optimized drivers",
-      "excerpt": "NVIDIA is rumored to develop AI-optimized drivers that will boost GPU performance by up to 30%. This could provide a significant free upgrade to its users while also revolutionizing the way NVIDIA",
-      "sourceUrl": null,
-      "webUrl": "https://www.guru3d.com/news-story/nvidia-would-be-working-on-ai-optimized-drivers.html",
-      "originalUrl": "https://www.guru3d.com/news-story/nvidia-would-be-working-on-ai-optimized-drivers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T23:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guru3D.com",
-        "domain": "guru3d.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

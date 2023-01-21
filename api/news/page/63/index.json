@@ -2,6 +2,57 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2022-11-21-the-top-five-ways-ai-is-transforming-business.md",
+      "title": "The Top Five Ways AI Is Transforming Business",
+      "excerpt": "With automated workflow and optimized day-to-day tasks, AI is helping businesses boost productivity in many ways. It reduces the time employees spend performing a task. As a result, they achieve more in less time, enhancing the company’s overall productivity side by side.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/21/the-top-five-ways-ai-is-transforming-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/21/the-top-five-ways-ai-is-transforming-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61b210016811815c378fdd64/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/21/the-top-five-ways-ai-is-transforming-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/11/21/the-top-five-ways-ai-is-transforming-business/amp/",
+      "publishedDateTime": "2022-11-21T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-21-like-human-brains-artificial-neural-networks-need-rest.md",
       "title": "Like Human Brains, Artificial Neural Networks Need Rest",
       "excerpt": "Artificial neural networks that mimic natural neural systems by transmitting data at set times and having periods similar to sleep may avoid catastrophic forgetting.",
@@ -1113,40 +1164,6 @@
         "AI",
         "Facebook AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-20-cogniac-corporation-cogniac-named-a-leader-in-idc-marketscape-worldwide-general-purpose-computer-vision-ai-software-platforms.md",
-      "title": "Cogniac Corporation: Cogniac Named a \"Leader\" in IDC MarketScape: Worldwide General-Purpose Computer Vision AI Software Platforms",
-      "excerpt": "SAN JOSE, Calif., Nov. 30, 2022(\"Cogniac\"), a leader in enterprise-class computer vision software, was identified as a \"Leader\" in the IDC MarketScape report: Worldwide General-Purpose Computer Vision",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-11/57722700-cogniac-corporation-cogniac-named-a-leader-in-idc-marketscape-worldwide-general-purpose-computer-vision-ai-software-platforms-399.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-11/57722700-cogniac-corporation-cogniac-named-a-leader-in-idc-marketscape-worldwide-general-purpose-computer-vision-ai-software-platforms-399.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-20T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

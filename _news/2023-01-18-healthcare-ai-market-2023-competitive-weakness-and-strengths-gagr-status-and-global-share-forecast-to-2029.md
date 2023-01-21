@@ -24,20 +24,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial Intelligence In Healthcare Global Market Opportunities And Strategies To 2031"
-    excerpt: "Where is the largest and fastest growing market for artificial intelligence in healthcare? How does the market relate to the overall economy; demography and other similar markets? What forces will ..."
-    publishedDateTime: 2023-01-16T16:17:00Z
-    webUrl: "https://menafn.com/1105434834/Artificial-Intelligence-In-Healthcare-Global-Market-Opportunities-And-Strategies-To-2031"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?538056"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Artificial Intelligence in Market Share 2023 Comprehensive Insights, Innovations and Business Outlook till 2029"
     excerpt: "Research Reports added a research report on the global “Artificial Intelligence in Market\". The report includes"
     publishedDateTime: 2023-01-17T04:35:00Z

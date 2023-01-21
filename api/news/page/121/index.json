@@ -2,6 +2,49 @@
   "page": 121,
   "value": [
     {
+      "path": "_news/2022-10-01-you-can-now-take-a-driverless-lyft-in-austin-heres-what-you-need-to-know.md",
+      "title": "You can now take a driverless Lyft in Austin. Here's what you need to know",
+      "excerpt": "Planning on taking a Lyft soon? Your next ride in Austin could be driverless. Ride-hailing company Lyft is now offering riders the option of choosing an autonomous vehicle in some areas of Austin.",
+      "sourceUrl": null,
+      "webUrl": "https://www.statesman.com/story/business/technology/2022/09/30/you-can-now-take-a-driverless-lyft-in-parts-of-austin/69527964007/",
+      "originalUrl": "https://www.statesman.com/story/business/technology/2022/09/30/you-can-now-take-a-driverless-lyft-in-parts-of-austin/69527964007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/22/NAAS/aba8586b-d3dd-4843-b7ae-7a3f6191805b-Ford_Argo_AI_4th_Gen_Self-Driving_Vehicle_01.jpg?auto=webp&crop=5598,3149,x0,y39&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Austin American-Statesman",
+        "domain": "statesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-01-new-alzheimers-drug-reduces-cognitive-decline-say-biotech-firms.md",
       "title": "New Alzheimer’s Drug Reduces Cognitive Decline, Say Biotech Firms",
       "excerpt": "The companies said that the drug slowed cognitive decline by 27% in patients treated with the intravenous medication. It’s likely the drug will get the FDA’s approval by the end of the year. This all comes after the recent controversy surrounding ...",
@@ -1142,58 +1185,6 @@
         "Computer Vision",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-artificial-intelligence-in-iot-market-size-sales-cagr-and-competition-data-from-2022-to-2029-102-report-pages.md",
-      "title": "Artificial Intelligence in IoT Market Size, Sales, CAGR And Competition Data from 2022 To 2029 | 102 Report Pages",
-      "excerpt": "Global “ Artificial Intelligence in IoT Market \" Report is a detailed and comprehensive analysis for global Artificial Intelligence in IoT market. Both quantitative and qualitative analyses are presented by manufacturers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-size-sales-cagr-and-competition-data-from-2022-to-2029-102-report-pages-2022-09-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-size-sales-cagr-and-competition-data-from-2022-to-2029-102-report-pages-2022-09-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T17:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

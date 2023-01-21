@@ -2,6 +2,57 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2022-10-30-google-buys-an-ai-avatar-startup-to-take-on-tiktok.md",
+      "title": "Google buys an AI avatar startup to take on TikTok",
+      "excerpt": "Google has quietly acquired a startup that was working on using AI to generate avatars for social media users and brands. According to TechCrunch, the company recently paid about $100 million to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-buys-alter-at-avatar-startup-185313472.html",
+      "originalUrl": "https://www.engadget.com/google-buys-alter-at-avatar-startup-185313472.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/6bf6dc20-57b9-11ed-9bff-f67e87022c36",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-buys-alter-at-avatar-startup-185313472.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-buys-alter-at-avatar-startup-185313472.html",
+      "publishedDateTime": "2022-10-29T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-29-vyommitra-is-the-humanoid-robot-india-is-sending-to-space.md",
       "title": "Vyommitra Is The Humanoid Robot India Is Sending To Space",
       "excerpt": "Yet, when you think of countries with a burgeoning space agency, India is not one that immediately springs to mind. However ... displayed on the vehicle's control panels, flip switches accordingly ...",
@@ -1093,49 +1144,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh.md",
-      "title": "After Argo AI’s collapse, what's next for driverless tech in Pittsburgh?",
-      "excerpt": "Hours after self-driving tech startup Argo AI revealed its decision Wednesday to fold, the autonomous vehicle industry notched a long-sought win in Harrisburg. State lawmakers approved a measure to allow companies to operate the vehicles on roads without a human operator present.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh",
-      "originalUrl": "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/40b3fc9/2147483647/strip/true/crop/4032x2117+0+907/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2F03%2F704d4a554042b24679e0a3048668%2Flocomation-photo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WESA",
-        "domain": "wesa.fm",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

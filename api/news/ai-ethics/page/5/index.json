@@ -2,6 +2,64 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-14-10-years-later-deep-learning-revolution-rages-on-say-ai-pioneers-hinton-lecun-and-li.md",
+      "title": "10 years later, deep learning ‘revolution’ rages on, say AI pioneers Hinton, LeCun and Li",
+      "excerpt": "On the 10th anniversary of key research that led to deep learning breakthroughs, AI luminaries say the 'revolution' will continue.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/",
+      "originalUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1004013312.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/amp/",
+      "publishedDateTime": "2022-09-14T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing",
+        "AI Ethics",
+        "Computer Vision",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-kingdom-of-saudi-arabia-develop-ai-ethics-principles.md",
       "title": "Kingdom of Saudi Arabia develop AI ethics principles",
       "excerpt": "The Saudi Artificial Intelligence Ethics Principles provide a set of practical standards for AI development and implementation in the Kingdom",

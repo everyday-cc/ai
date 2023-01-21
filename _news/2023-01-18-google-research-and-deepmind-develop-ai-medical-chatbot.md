@@ -19,111 +19,95 @@ topics:
   - AI
 
 related:
-  - title: "Stable Diffusion AI art lawsuit, plus caution from OpenAI, DeepMind | The AI Beat"
-    excerpt: "Stability AI and Midjourney were hit with a copyright infringement lawsuit, while OpenAI and DeepMind are signaling generative AI caution."
-    publishedDateTime: 2023-01-16T16:54:00Z
-    webUrl: "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/"
-    ampWebUrl: "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/"
+  - title: "Investigation exposes murkier side of AI chatbot industry"
+    excerpt: "A Time investigation has exposed the murkier side of the AI chatbot industry, highlighting how at least one startup has been using questionable practices."
+    publishedDateTime: 2023-01-19T03:30:00Z
+    webUrl: "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 99
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-16-at-10.28.05-AM-e1673882948444.png?w=1200&strip=all"
-        width: 703
-        height: 436
-        isCached: true
-  - title: "Stable Diffusion lawsuit, plus words of caution from OpenAI, DeepMind | The AI Beat"
-    excerpt: "Stability AI and Midjourney were hit with a copyright infringement lawsuit, while OpenAI and DeepMind are signaling generative AI caution."
-    publishedDateTime: 2023-01-16T16:40:00Z
-    webUrl: "https://venturebeat.com/business/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/"
-    ampWebUrl: "https://venturebeat.com/business/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 98
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-16-at-10.28.05-AM-e1673882948444.png?w=1200&strip=all"
-        width: 703
-        height: 436
-        isCached: true
-  - title: "AI about to hit a level that could cause damage to humanity: DeepMind CEO"
-    excerpt: "Google's DeepMind CEO Demis Hassabis has said AI is \"on the cusp\" of being able to make tools that could be damaging to humans. \"When it comes to very powerful technologies...we need to be careful,\" he said."
-    publishedDateTime: 2023-01-16T17:24:00Z
-    webUrl: "https://inshorts.com/en/news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 73
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/01_jan/16_mon/img_1673888098959_71.jpg?"
-        width: 960
-        height: 720
-        isCached: true
-  - title: "Getty sues Stable Diffusion, and the future of AI art could be at stake"
-    excerpt: "Getty Images, the stock-image powerhouse, is suing Stability AI over its AI art generator in a copyright infringement case that could help decide the future of AI art."
-    publishedDateTime: 2023-01-17T19:40:00Z
-    webUrl: "https://www.pcworld.com/article/1475597/getty-sues-stability-ai-and-the-future-of-ai-art-could-be-at-stake.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 69
-    images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2023/01/1153158881_marilyn_monroe_in_the_style_of_andy_warhol-CMS-primary-2.png?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "AI art generators targeted in lawsuit for intellectual property theft"
-    excerpt: "A class action lawsuit alleges that the AI art generation engine Stable Diffusion was trained on billions of copyrighted materials without credit, compensation, or consent of content owners."
-    publishedDateTime: 2023-01-16T16:08:00Z
-    webUrl: "https://appleinsider.com/articles/23/01/16/ai-art-generators-targeted-in-lawsuit-for-intellectual-property-theft"
-    ampWebUrl: "https://appleinsider.com/articles/23/01/16/ai-art-generators-targeted-in-lawsuit-for-intellectual-property-theft/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/01/16/ai-art-generators-targeted-in-lawsuit-for-intellectual-property-theft/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 57
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/52480-104793-cook-xl.jpg"
-        width: 1312
-        height: 738
-        isCached: true
-  - title: "Getty Images is suing the creators of AI art tool Stable Diffusion for scraping its content"
-    excerpt: "Getty Images claims Stability AI ‘unlawfully’ scraped millions of images from its site. It’s a significant escalation in the developing legal battles between generative AI firms and content creators."
-    publishedDateTime: 2023-01-17T10:30:00Z
-    webUrl: "https://www.theverge.com/2023/1/17/23558516/ai-art-copyright-stable-diffusion-getty-images-lawsuit"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 57
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/3lriwngDiXIMJuTa0zlasdWLb4A=/22x98:1519x1146/1200x628/filters:focal(775x611:776x612)/cdn.vox-cdn.com/uploads/chorus_asset/file/24365786/Screenshot_2023_01_17_at_09.55.27.png"
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/01/ChatGPT-OpenAI-logo.jpg?resize=1200%2C630&p=1"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
-  - title: "Artists file copyright lawsuit against generative AI providers"
-    excerpt: "Three artists have filed a lawsuit that accuses generative artificial intelligence providers Stability AI Ltd., DeviantArt Inc. and Midjourney Inc. of copyright infringement.  The Verge reported the development today."
-    publishedDateTime: 2023-01-16T21:00:00Z
-    webUrl: "https://siliconangle.com/2023/01/16/artists-file-copyright-lawsuit-generative-ai-providers/"
+  - title: "A chatbot that lets you talk with Jesus and Hitler is the latest controversy in the AI gold rush"
+    excerpt: "The Historical Figures app is available in Apple's App Store and lets you chat with notable people from history re-animated by artificial intelligence."
+    publishedDateTime: 2023-01-20T15:59:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/chatgpt-gpt-chat-bot-ai-hitler-historical-figures-open-rcna66531"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna66531"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna66531"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: NBC News
+      domain: nbcnews.com
+    quality: 74
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/image-7.png"
-        width: 718
-        height: 404
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230120-Historical-AI-Chat-jg-aaa290.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "The Rise of AI Orchestration"
+    excerpt: "Most businesses don’t yet understand what AI orchestration is, and fewer recognize its game-changing value. It’s time to do some homework."
+    publishedDateTime: 2023-01-17T22:57:00Z
+    webUrl: "https://www.eweek.com/big-data-and-analytics/ai-orchestration/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2022/11/best-automation-companies.jpg"
+        width: 1400
+        height: 877
+        isCached: true
+  - title: "Are AI Chatbots the Therapists of the Future?"
+    excerpt: "Could artificial intelligence chatbots be the therapists of the future? ChatGPT, a text-generating conversational chatbot made using OpenAI’s powerful third-generation language processing model GPT-3,"
+    publishedDateTime: 2023-01-18T00:47:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 61
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/pexels-liza-summer-6382640.jpg?itok=ESA6C_qh"
+        width: 1528
+        height: 800
+        isCached: true
+  - title: "Haneda Airport Demos AI Chatbot 'Bebot,' a Multilingual Guidance Service"
+    excerpt: "Bebot boasts a high degree of accuracy in answering questions that travelers need, including information on airport facilities and flight information."
+    publishedDateTime: 2023-01-18T22:27:00Z
+    webUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21292923/ai-chatbot-bebot-launches-multilingual-guidance-service-pilot-at-haneda-airport"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 38
+    images:
+      - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2023/01/image.63c86a837801c.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Health tech startup achieves world-first certification for AI mental health chatbot"
+    excerpt: "London headquartered health tech startup, Limbic, has announced that its psychological assessment tool, Limbic Access, has achieved Class IIa UKCA… | London | Medical | Technology | Health & Care | St"
+    publishedDateTime: 2023-01-17T07:00:00Z
+    webUrl: "https://bdaily.co.uk/articles/2023/01/17/health-tech-startup-achieves-world-first-certification-for-ai-mental-health-chatbot"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 31
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/oOPrAVtizCNL9r6WZpjm8olWnnu8nS7vyqpGEW1k.png?w=1200&h=627&fm=jpg&fit=crop-50-50&s=a07e11f599593ea2d1f69b2024323615"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "IqauJZ+cQDOo+j1HtnbbNlG5T2ZyerTu3OL0ZD+iCkm+v1LdGhV+PbjLU0fzEitj+95TDCttLKBIFjX143gB4C4aLSQ1R9SGYo81jMIsO/L/cYErbhwLGYKP/fySyGQBY2R7EheGEhJmcqYGIgOKzVsqeRutUN4686qnGmkuDrfDIpEG9Hl3mX7k3dLgus2OPLSiMOH0+VmoMo21kuU0jyICBRvMe6aVUQh2fVjFTIeOqpGIXxPXnUZhVDkpApPJjiSBvKV+iY7p9oD2M7K0PxYFPutDWYruvV7cSqOWe/sdQPkViVQri15WE2nCP+TQFwNSm5LCOY8lrd1PQuGukYNPATY79Ml3XX0l7bDFiZs1eJlHoZJGogovRKzMWgpE9JCM7s/z9uXf1sO2NDBfLRSc32TAPc398DZW4VnHYHRQlwn4Igxa5kZOOPWPXg5SNNe2HzvThTIxnUnOv+uo0uouqMUEY06GYzhk1maTFC3JQNLzkAWaJZfKX0U/c1AuITAS9BT8iHLCktyFy+XLxQ==;iuK55jkJk3Occ6gQmHXBMg=="

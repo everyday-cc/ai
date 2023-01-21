@@ -771,7 +771,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/01/artists-file-class-action-lawsuit-against-ai-image-generator-companies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -909,7 +909,7 @@
       "originalUrl": "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -940,6 +940,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo.md",
+      "title": "AI about to hit a level that could cause damage to humanity: DeepMind CEO",
+      "excerpt": "Google's DeepMind CEO Demis Hassabis has said AI is \"on the cusp\" of being able to make tools that could be damaging to humans. \"When it comes to very powerful technologies...we need to be careful,\" he said.",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715",
+      "originalUrl": "https://inshorts.com/en/news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/01_jan/16_mon/img_1673888098959_71.jpg?",
+          "width": 960,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715",
+      "publishedDateTime": "2023-01-16T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -1186,49 +1229,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-machine-learning-predicts-brain-tumor-progression.md",
-      "title": "Machine Learning Predicts Brain Tumor Progression",
-      "excerpt": "Researchers used a deep learning model to turn the MRI data into patient-specific parameter estimates that inform a predictive model for brain tumor growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
-      "originalUrl": "https://www.medindia.net/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/salmonella-for-treatment-of-glioblastoma.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
-      "publishedDateTime": "2023-01-16T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

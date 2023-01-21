@@ -2,6 +2,59 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2022-10-31-shift-robotics-used-ai-to-create-the-worlds-fastest-shoes.md",
+      "title": "Shift Robotics Used AI to Create the 'World's Fastest Shoes'",
+      "excerpt": "Reminiscent of those plastic strap-on roller skates kids wear, Moonwalkers use a combination of AI and machine learning to help the wearer move much more swiftly than they can in a typical pair of shoes, and without having to actually run. A brushless DC ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/shift-robotics-used-ai-to-create-the-worlds-fastest-shoes",
+      "originalUrl": "https://www.pcmag.com/news/shift-robotics-used-ai-to-create-the-worlds-fastest-shoes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02ezmmIMIHYAOMO3vQBGmBZ-2.fit_lim.size_1200x630.v1667231348.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-31T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-10-31-artificial-intelligence-ai-robots-market-to-reach-huge-growth-and-tremendous-demand-in-next-coming-years-by-2030.md",
       "title": "Artificial Intelligence (AI) Robots Market to reach Huge Growth and Tremendous Demand in Next Coming years by 2030",
       "excerpt": "Global Artificial Intelligence (AI) Robots Market: research report covers market opportunities, competitive landscape as well as growth analysis and forecast during the projected time. Not only ...",
@@ -1077,57 +1130,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-30-google-buys-an-ai-avatar-startup-to-take-on-tiktok.md",
-      "title": "Google buys an AI avatar startup to take on TikTok",
-      "excerpt": "Google has quietly acquired a startup that was working on using AI to generate avatars for social media users and brands. According to TechCrunch, the company recently paid about $100 million to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-buys-alter-at-avatar-startup-185313472.html",
-      "originalUrl": "https://www.engadget.com/google-buys-alter-at-avatar-startup-185313472.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/6bf6dc20-57b9-11ed-9bff-f67e87022c36",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-buys-alter-at-avatar-startup-185313472.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-buys-alter-at-avatar-startup-185313472.html",
-      "publishedDateTime": "2022-10-29T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

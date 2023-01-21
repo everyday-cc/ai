@@ -2,6 +2,49 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2022-11-30-baidu-to-supply-l2-driver-assisting-anp-30-mid-2023.md",
+      "title": "Baidu to supply L2+ driver-assisting ANP 3.0 mid-2023",
+      "excerpt": "Baidu unveiled its latest progress on unifying L4 and L2+ autonomous driving technology on Apollo Day held on November 29 and announced that it will deliver L2+ driver-assisting product \"ANP 3.0 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20221130VL211/adas-baidu.html",
+      "originalUrl": "https://www.digitimes.com/news/a20221130VL211/adas-baidu.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20221130vl211_files/2_2b.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-artificial-intelligence-will-drive-the-future-of-content-marketing.md",
       "title": "Artificial Intelligence will drive the future of content marketing",
       "excerpt": "Digital Marketing, backed by technological breakthroughs, has come a long way in changing the world around us. As a result, artificial technology, machine learning, and automation are at the heart of every business across",
@@ -1110,40 +1153,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-alzheimers-drug-lecanemab-slows-cognitive-decline-among-patients-in-early-stages-study-finds.md",
-      "title": "Alzheimer's drug lecanemab slows cognitive decline among patients in early stages, study finds",
-      "excerpt": "A study released Tuesday showed a closely-watched Alzheimer's drug slowed cognitive decline among people with early signs of the disease but also carries safety risks for some patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/health/2022/11/29/drug-manufacturers-eisai-and-biogen-recruited-1-795-people-earlier-alzheimers-disease-and-amyloid-be/10751248002/",
-      "originalUrl": "https://www.usatoday.com/story/news/health/2022/11/29/drug-manufacturers-eisai-and-biogen-recruited-1-795-people-earlier-alzheimers-disease-and-amyloid-be/10751248002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T20:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

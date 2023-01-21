@@ -2,6 +2,58 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2022-11-14-exercise-therapy-device-market-with-top-leading-companies-industry-analysis-cagr-value-business-outlook-forecast-to-2029.md",
+      "title": "Exercise Therapy Device Market with Top Leading Companies, Industry Analysis, CAGR Value, Business Outlook Forecast to 2029",
+      "excerpt": "Nov 14, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 104 Pages Report\" Global",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/exercise-therapy-device-market-with-top-leading-companies-industry-analysis-cagr-value-business-outlook-forecast-to-2029-2022-11-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/exercise-therapy-device-market-with-top-leading-companies-industry-analysis-cagr-value-business-outlook-forecast-to-2029-2022-11-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T00:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry.md",
       "title": "Computer vision and beyond: The future of AI in India’s insurance industry",
       "excerpt": "Sandeep Bhargava is Managing Director, APJ, Rackspace Technology. Artificial Intelligence (AI) is transforming the Indian auto insurance industry. Computer vision is now applied to improve claims processes, while data and analytics have the potential to ...",
@@ -1120,57 +1172,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it.md",
-      "title": "This Free Comic Series Is Gorgeous. You'd Never Know AI Drew It",
-      "excerpt": "The Bestiary Chronicles is both a modern fable on the rise of artificial intelligence and a demonstration of how shockingly fast AI is evolving.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/",
-      "originalUrl": "https://www.cnet.com/culture/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/e0fd1ab6f42e20e4794ffe13af3443beba065bfe/hub/2022/11/11/d1211a3a-48a5-4e60-865b-1303693bb8b8/exodus-03-1.jpg?auto=webp",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/",
-      "publishedDateTime": "2022-11-11T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,11 +2,11 @@
 category: news
 title: "MSG faces backlash for using facial recognition technology"
 excerpt: "Sen. Kristen Gonzalez joined advocates sounding off last weekend, demanding that MSG Entertainment seize the use of the technology on fans."
-publishedDateTime: 2023-01-21T06:14:00Z
-originalUrl: "https://bronx.news12.com/msg-faces-backlash-for-using-facial-recognition-technology"
-webUrl: "https://bronx.news12.com/msg-faces-backlash-for-using-facial-recognition-technology"
-ampWebUrl: "https://bronx.news12.com/amp/msg-faces-backlash-for-using-facial-recognition-technology"
-cdnAmpWebUrl: "https://bronx-news12-com.cdn.ampproject.org/c/s/bronx.news12.com/amp/msg-faces-backlash-for-using-facial-recognition-technology"
+publishedDateTime: 2023-01-21T07:14:00Z
+originalUrl: "https://brooklyn.news12.com/msg-faces-backlash-for-using-facial-recognition-technology"
+webUrl: "https://brooklyn.news12.com/msg-faces-backlash-for-using-facial-recognition-technology"
+ampWebUrl: "https://brooklyn.news12.com/amp/msg-faces-backlash-for-using-facial-recognition-technology"
+cdnAmpWebUrl: "https://brooklyn-news12-com.cdn.ampproject.org/c/s/brooklyn.news12.com/amp/msg-faces-backlash-for-using-facial-recognition-technology"
 type: article
 quality: 59
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 512
         isCached: true
 
-secured: "kwYeXMsIVdqeIU+B2PfGVDt4gkzMCgTzOvrC65gbpuYLRpYUcYY2WxpH5uwrOB/b6SIekN/LUeJ7uZuh6//8kNZKPWdzNoy4wiDvK+9ZidXaUGbBUMIdFnw0MpfXN10TljaOtKyr/9qCGZ6tTKLcPufzSRDkAsY41eYkjUYQNc95QeSdEjP+3FNJjSwr9kJWv8zoWo3mAO98z5vvxN9dmNUQJEsvwV4Gg9oYccaglbanXjQ0Nq3w0JTISWnoRi8YJCxnLoOBzTAypwpxi3lYv6vdmjDEXClYyr3lJV86/2Yqr/JaFXrZb/LKU32SbZV5LBOXrqa93gamNLsIOVYuRofqu4rLx9v2s+7yN0rpLa0=;YjYNh+MqOeHPOQRbVKTndw=="
+secured: "Kin+7n645fw4CPyV4cIZEmeV6zth8HDTQIxbpMiixH+lgINtMQyH2IhUlA4LYrfeta+fBh9sb7YIyY4gkbbvZuZ7RfxT5lB7oouworGU3zoNA02PCHH+g3diDE+n/36WPzmMgeA4MCk19Pk4wDa4QV3I5rLo+h1czkMGnusy8H4GO6JFlUQ2TeOJ5fpbjyHdwyztyu+hfX8VEyoVBU72rEm4gwBmyMVgQ/u2YTre/WtTZaHxEpYKUDSTEwgbSq9mgTB8x9+OdwrFnSdlIsUnEQTjASYPk9IOTzSe/U5DmeAYYII7jVwGtSL2spoKcg9+8ebYQH+izlUy1dYjYQtxAYbYu/U5z0H/dQ20r/jWxec=;tsStPOeiTDs81CaGKJNBTQ=="
 ---
 

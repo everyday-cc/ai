@@ -9,7 +9,7 @@ ampWebUrl: "https://www.consumeraffairs.com/amp/news/how-much-will-ai-impact-lif
 cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/how-much-will-ai-impact-life-in-2023-012023.html"
 type: article
 quality: 59
-heat: 79
+heat: 81
 published: true
 
 provider:

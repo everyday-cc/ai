@@ -9,7 +9,7 @@ ampWebUrl: "https://www.masslive.com/westfieldnews/2023/01/robotics-drug-control
 cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html?outputType=amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

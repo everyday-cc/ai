@@ -2,6 +2,49 @@
   "page": 128,
   "value": [
     {
+      "path": "_news/2022-09-26-best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready.md",
+      "title": "Best Laptops To Ignite Your Child’s Creativity - Get Them AI Ready",
+      "excerpt": "Here’s our handpicked three laptops that are powered by the OG of all the processors out there - Intel. Three Intel powered devices that perform like a beast and are considerate of your wallet as well.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready",
+      "originalUrl": "https://in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/best-laptops-copy_uynb.620.jpg",
+          "width": 619,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready?amp=1",
+      "publishedDateTime": "2022-09-26T01:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-a-new-common-sense-test-for-ai-could-lead-to-smarter-machines.md",
       "title": "A new ‘common sense’ test for AI could lead to smarter machines",
       "excerpt": "Teaching AI common sense will be the next breakthrough in the field. But how exactly can we measure something as intangible as common sense?",
@@ -1106,60 +1149,6 @@
       ],
       "topics": [
         "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch.md",
-      "title": "Tesla AI Day Brings Optimus Robot, Self-Driving Car Updates: Here's How to Watch",
-      "excerpt": "Tesla is hiring engineers to build a walking, talking robot called Optimus. Expect Elon Musk to update us on steps toward self-driving cars, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
-      "publishedDateTime": "2022-09-23T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
         "Facebook AI"
       ]
     }

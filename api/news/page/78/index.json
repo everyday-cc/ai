@@ -2,6 +2,58 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2022-11-09-how-ai-is-breaking-out-of-silos-to-drive-gains-in-healthcare-autonomous-vehicles-and-beyond.md",
+      "title": "How AI is breaking out of silos to drive gains in healthcare, autonomous vehicles - and beyond",
+      "excerpt": "Xiao has a vision for how AI will become truly transformative: “Today we live in the age of artificial narrow intelligence. Many of the AI applications are very specifically focused on a particular domain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/brandfeature/tbd-media-group/50-leaders-of-change/how-ai-is-breaking-out-of-silos-to-drive-gains-in-healthcare-autonomous-vehicles-and-beyond",
+      "originalUrl": "https://www.reuters.com/brandfeature/tbd-media-group/50-leaders-of-change/how-ai-is-breaking-out-of-silos-to-drive-gains-in-healthcare-autonomous-vehicles-and-beyond",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.prismic.io/reuterscustomhubs/6b2e60c3-6e1d-467a-8f7f-a661fd68ca2e_tbd-50loc-g42-main-image.jpg?auto=compress,format",
+          "width": 2040,
+          "height": 1093,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T18:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-waymo-can-now-charge-for-fully-driverless-services-in-san-francisco.md",
       "title": "Waymo can now charge for fully driverless services in San Francisco",
       "excerpt": "The California Department of Motor Vehicles approved an amendment to Waymo’s existing deployment permit Wednesday to include driverless, as well as drivered, operations. Now, Waymo will be able ...",
@@ -1113,50 +1165,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-the-pursuit-of-ai-education-past-present-and-future.md",
-      "title": "The pursuit of AI education - past, present, and future",
-      "excerpt": "Meet Sylvia Christie, our education partnerships manager who’s played a leading role in expanding our scholarship programme, which is marking its five-year anniversary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/the-pursuit-of-ai-education-past-present-and-future",
-      "originalUrl": "https://www.deepmind.com/blog/the-pursuit-of-ai-education-past-present-and-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "AI in Education"
       ]
     }
   ],

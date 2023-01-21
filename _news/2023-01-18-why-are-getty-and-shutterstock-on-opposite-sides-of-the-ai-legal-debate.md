@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposit
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/amp/"
 type: article
 quality: 86
-heat: 88
+heat: 86
 published: true
 
 provider:

@@ -1,22 +1,28 @@
 ---
 category: news
-title: "DLR Launches Ground-breaking Robot Control Software"
-excerpt: "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative"
-publishedDateTime: 2023-01-17T19:53:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30449359/dlr-launches-ground-breaking-robot-control-software"
-webUrl: "https://www.benzinga.com/pressreleases/23/01/n30449359/dlr-launches-ground-breaking-robot-control-software"
+title: "DLR Launches Ground-Breaking Robot Control Software'"
+excerpt: "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for ..."
+publishedDateTime: 2023-01-17T21:12:00Z
+originalUrl: "https://menafn.com/1105441789/DLR-Launches-Ground-Breaking-Robot-Control-Software"
+webUrl: "https://menafn.com/1105441789/DLR-Launches-Ground-Breaking-Robot-Control-Software"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?494712"
+    width: 446
+    height: 250
+    isCached: true
 
 related:
   - title: "DLR Launches Ground-Breaking Robot Control Software -- Deep Learning Robotics Ltd."
@@ -29,6 +35,6 @@ related:
       domain: menafn.com
     quality: 45
 
-secured: "AOGPgZb5pEzrcBoJZ5CJH8i8yKqMeekjrW7NDx6L6ti8ZuVlx3EFoxdyN0yci+pYrc3bAXEszPnmDfSFCj2i6zBgCixEx2Z2NENpt70o2I2OSBWFyEzz2g8g7JonrDrpUU8IHx9s2R3R2zcoh18G2Y5zxkB4FpmEJyG+7LsxHnO7Y4qmKBAxWtNP8C/NR/NYnjXXF9csVixRrHuN/vtU5+yRd22DoKJ70KLlL8yR/CUct1b5bs1nbFfv+h/DDWOTzW3XOiHd76TIXItiGN75v9vliaiEo6H4igShDbztskYejfUI1mKDkGy+b2ZPpT1p48oMq4bLCDJplCpEVQykdDLhx4QiaXD59gOMseJhBrI=;j0B/BrYoZv4Eda+PuR99Ag=="
+secured: "s+9Q2oRbioQnBLPuAdBzsAUTcyRoyukKYoI+uTJ09nsjsVBFDTFD3+0H7m9j/GUFyWDGYwvvNQeQ7NFCpwLGrGKXgcXn7krauyui9p0VhcK+VRHzU6FgSomg6h+6Zgn2n29qRy3JMTNsb+OO4lwpWbN2Nlm/cQ9ahtJUSQs6RjhwKpuRav+aHXAcfANYfJ9YnUn5RnQ1X9AXHZB4serO78Jw7AUBrW0cNeAjqUxjWY09GPpuE6dnZQ5jjnaUFF4N/wCUSjQao8aTonCxOL3QWhcy/0SKSXHa+gQ+e6lV0KObiAjOQWK4H3JtIWbT5/H//nbILCYSUthGr3Rj1UDislcHqOeZ8G5QMl+Nm4hAZoc=;wFPyNSLmpXHXtC8uifMVZg=="
 ---
 

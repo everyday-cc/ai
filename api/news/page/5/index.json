@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-16-machine-learning-predicts-brain-tumor-progression.md",
+      "title": "Machine Learning Predicts Brain Tumor Progression",
+      "excerpt": "Researchers used a deep learning model to turn the MRI data into patient-specific parameter estimates that inform a predictive model for brain tumor growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
+      "originalUrl": "https://www.medindia.net/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/salmonella-for-treatment-of-glioblastoma.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
+      "publishedDateTime": "2023-01-16T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-16-i-asked-chatgpt-how-to-start-a-business-and-it-gave-me-8-steps-that-werent-that-helpful.md",
       "title": "I asked ChatGPT how to start a business and it gave me 8 steps that weren't that helpful",
       "excerpt": "While it's very smart, ChatGPT is only a chatbot; I knew it couldn't physically start a business for me. But I wondered if it would at least walk me through the initial steps. So I asked this AI program a series of questions about starting a business.",
@@ -1160,58 +1203,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-15-chinas-ai-implementation-is-edging-ahead-of-the-us.md",
-      "title": "China’s AI Implementation Is Edging Ahead Of The US",
-      "excerpt": "As Kaifu Lee, a keen observer of AI development in China has put it, “we're now in the age of AI implementation.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-implementation-is-edging-ahead-of-the-us/",
-      "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-implementation-is-edging-ahead-of-the-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c3019633134dd0cc964a43/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-implementation-is-edging-ahead-of-the-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-implementation-is-edging-ahead-of-the-us/amp/",
-      "publishedDateTime": "2023-01-14T11:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

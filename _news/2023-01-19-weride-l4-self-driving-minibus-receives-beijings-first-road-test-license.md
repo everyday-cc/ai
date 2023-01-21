@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2023/01/19/weride-self-driving-bus-beijin
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2023/01/19/weride-self-driving-bus-beijing-license/?amp=1"
 type: article
 quality: 88
-heat: 90
+heat: 88
 published: true
 
 provider:

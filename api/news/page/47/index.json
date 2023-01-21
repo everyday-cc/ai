@@ -2,6 +2,58 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2022-12-05-why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right.md",
+      "title": "Why you need an organizational AI ethics committee to do AI right",
+      "excerpt": "How forming an AI ethics committee will educate and engage your teams and customers about ethical dilemmas artificial intelligence can raise.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
+      "originalUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-875599880-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "publishedDateTime": "2022-12-04T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-04-artificial-intelligence-in-diagnostics-market-2022-comprehensive-study-by-top-key-players-aidoc-medical-alivecor-ge-healthcare.md",
       "title": "Artificial Intelligence in Diagnostics Market 2022: Comprehensive Study by Top Key Players Aidoc Medical, AliveCor, GE Healthcare",
       "excerpt": "Artificial intelligence can support providers in a variety of patient care and smart healthcare systems. Artificial intelligence techniques ranging from machine learning to deep learning are ...",
@@ -1141,58 +1193,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-uber-aurora-to-expand-self-driving-truck-ops-in-texas-to-meet-holiday-rush.md",
-      "title": "Uber, Aurora to expand self-driving truck ops in Texas to meet holiday rush",
-      "excerpt": "Dec 2 (Reuters) - Uber Technologies Inc (UBER.N) and self-driving technology company Aurora Innovation Inc (AUR.O) will expand their driverless pilot program in Texas to meet increased delivery demand during the holidays.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/uber-aurora-expand-self-driving-truck-ops-texas-meet-holiday-rush-2022-12-02/",
-      "originalUrl": "https://www.reuters.com/technology/uber-aurora-expand-self-driving-truck-ops-texas-meet-holiday-rush-2022-12-02/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/bycTGC7xoLTOv8iJfBcfS-KEdxU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2WFPB4POLFLXNKTQAM3L4MWT4U.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-02T10:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

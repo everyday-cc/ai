@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-20-alethea-ai-debuts-generative-ai-on-polygon-blockchain.md",
+      "title": "Alethea AI debuts generative AI on Polygon blockchain",
+      "excerpt": "Alethea AI has teamed up with blockchain company Polygon to bring the power of generative AI to AI character NFTs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/alethea-ai-debuts-generative-ai-on-polygon-blockhain/",
+      "originalUrl": "https://venturebeat.com/games/alethea-ai-debuts-generative-ai-on-polygon-blockhain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/alethea-3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/alethea-ai-debuts-generative-ai-on-polygon-blockhain/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/alethea-ai-debuts-generative-ai-on-polygon-blockhain/amp/",
+      "publishedDateTime": "2023-01-19T09:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-hc3-warns-healthcare-of-ais-use-in-malware-development.md",
+      "title": "HC3 Warns Healthcare of AI’s Use in Malware Development",
+      "excerpt": "In its latest brief, HC3 details how artificial intelligence (AI) can be used by threat actors to aid in malware development, forming a serious threat to healthcare cybersecurity.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitsecurity.com/news/hc3-warns-healthcare-of-ais-use-in-malware-development",
+      "originalUrl": "https://healthitsecurity.com/news/hc3-warns-healthcare-of-ais-use-in-malware-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitsecurity.com/images/sized/datasecurityGettyImages-1319188207-39a26234983c4eca9381530cb872a66d.jpg",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitsecurity.com/news/amp/hc3-warns-healthcare-of-ais-use-in-malware-development",
+      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/hc3-warns-healthcare-of-ais-use-in-malware-development",
+      "publishedDateTime": "2023-01-19T09:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Security",
+        "domain": "healthitsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-health-rounds-ai-speeds-mri-exams.md",
       "title": "Health Rounds: AI speeds MRI exams",
       "excerpt": "We also share early data to suggest that plant-based therapy may be helpful for some patients with ulcerative colitis, a debilitating gastrointestinal disease. Artificial intelligence gets MRI done faster Artificial intelligence (AI) allows magnetic resonance imaging (MRI) scans to be done faster with no less accuracy,",
@@ -148,7 +242,7 @@
       "originalUrl": "https://www.zdnet.com/article/nvidia-shows-how-surprisingly-hard-it-is-for-a-robot-to-pick-up-a-chicken-wing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -442,7 +536,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-improves-field-service-quality-and-customer-experience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -473,48 +567,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-ai-tools-can-create-new-images-but-who-is-the-real-artist.md",
-      "title": "AI tools can create new images, but who is the real artist?",
-      "excerpt": "Countless artists have taken inspiration from “The Starry Night” since Vincent Van Gogh painted the swirling scene in 1889.",
-      "sourceUrl": null,
-      "webUrl": "https://www.denverpost.com/2023/01/19/ai-tools-can-create-new-images-but-who-is-the-real-artist-2/",
-      "originalUrl": "https://www.denverpost.com/2023/01/19/ai-tools-can-create-new-images-but-who-is-the-real-artist-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.denverpost.com/wp-content/uploads/2023/01/Artificial_Intelligence_Image_Generators_10313-1.jpg?w=1024&h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.denverpost.com/2023/01/19/ai-tools-can-create-new-images-but-who-is-the-real-artist-2/amp/",
-      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2023/01/19/ai-tools-can-create-new-images-but-who-is-the-real-artist-2/amp/",
-      "publishedDateTime": "2023-01-19T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Denver Post",
-        "domain": "denverpost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -629,7 +681,7 @@
       "originalUrl": "https://www.gizmochina.com/2023/01/19/weride-self-driving-bus-beijing-license/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -733,7 +785,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -773,50 +825,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-is-artificial-intelligence-a-net-positive-for-carbon-emissions.md",
-      "title": "Is Artificial Intelligence A Net-Positive For Carbon Emissions?",
-      "excerpt": "Artificial Intelligence is playing an ever-larger role in the global energy industry, but as it grows its carbon footprint is also growing and threatening to undermine its work",
-      "sourceUrl": null,
-      "webUrl": "https://oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A-Net-Positive-For-Carbon-Emissions.html",
-      "originalUrl": "https://oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A-Net-Positive-For-Carbon-Emissions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-01-18_feepyk1js4.jpg",
-          "width": 718,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A-Net-Positive-For-Carbon-Emissions.amp.html",
-      "cdnAmpWebUrl": "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A-Net-Positive-For-Carbon-Emissions.amp.html",
-      "publishedDateTime": "2023-01-18T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crude Oil Prices",
-        "domain": "oilprice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     },
     {
@@ -973,7 +981,7 @@
       "originalUrl": "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1003,7 +1011,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

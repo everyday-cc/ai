@@ -70,6 +70,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Artists file copyright lawsuit against generative AI providers"
+    excerpt: "Three artists have filed a lawsuit that accuses generative artificial intelligence providers Stability AI Ltd., DeviantArt Inc. and Midjourney Inc. of copyright infringement.  The Verge reported the development today."
+    publishedDateTime: 2023-01-16T21:00:00Z
+    webUrl: "https://siliconangle.com/2023/01/16/artists-file-copyright-lawsuit-generative-ai-providers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/image-7.png"
+        width: 718
+        height: 404
+        isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-01-19T18:45:00Z

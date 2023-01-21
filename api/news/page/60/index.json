@@ -2,6 +2,57 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2022-11-23-ai-and-the-future-of-government-work.md",
+      "title": "AI And The Future Of Government Work",
+      "excerpt": "AI in the workplace has been met with strong opposition as well as support; either way, automation and AI technologies are here to stay.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/23/ai-and-the-future-of-government-work/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/23/ai-and-the-future-of-government-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ff85abc2fdfc402f0f5abfc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/23/ai-and-the-future-of-government-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/23/ai-and-the-future-of-government-work/amp/",
+      "publishedDateTime": "2022-11-23T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-redbrick-ai-raises-46-million-to-accelerate-the-development-of-ai-in-healthcare.md",
       "title": "RedBrick AI raises $4.6 million to accelerate the development of AI in healthcare",
       "excerpt": "(File) RedBrick AI, a Health-tech AI platform, on Wednesday announced that it raised $4.6 million in a seed funding round to accelerate the development and adoption of artificial intelligence ... about 90 percent of all healthcare data AI systems can ...",
@@ -1080,49 +1131,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-metas-new-ai-can-use-deceit-to-conquer-a-board-game-world.md",
-      "title": "Meta’s new AI can use deceit to conquer a board game world",
-      "excerpt": "AI has learned to compete against humans in games like chess and Go. But how does it fare in a game that required communication and planning?",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/meta-ai-bot-diplomacy/",
-      "originalUrl": "https://www.popsci.com/technology/meta-ai-bot-diplomacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2022/11/22/asli-yilmaz-u1PX1Q26Kpo-unsplash-scaled.jpg?auto=webp",
-          "width": 2560,
-          "height": 1596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/meta-ai-bot-diplomacy/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-bot-diplomacy/?amp",
-      "publishedDateTime": "2022-11-22T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

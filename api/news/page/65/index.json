@@ -2,6 +2,58 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2022-11-19-spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech.md",
+      "title": "Spot AI raises $40M to build smarter CCTV security camera tech",
+      "excerpt": "CCTV cameras have a strong Big Brother vibe, but that may be because we don't really know how the footage they pick up ever gets used.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/17/spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech/",
+      "originalUrl": "https://techcrunch.com/2022/11/17/spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/spot-ai.jpg?resize=1200,814",
+          "width": 1200,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/17/spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech/amp/",
+      "publishedDateTime": "2022-11-18T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-11-19-mi-report-michigan-must-boost-investments-grow-workforce-to-lead-in-mobility.md",
       "title": "MI: Report: Michigan must boost investments, grow workforce to lead in mobility",
       "excerpt": "Michigan must support new ways to expand its mobility workforce, invest in rapid transit and put in place a state-level consumer incentive for electric vehicles to bolster its position as a transportation leader.",
@@ -1099,58 +1151,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-alexatm-20b-is-now-available-in-amazon-sagemaker-jumpstart.md",
-      "title": "AlexaTM 20B is now available in Amazon SageMaker JumpStart",
-      "excerpt": "Today, we announce the public availability of Amazon’s state-of-the-art Alexa Teacher Model with 20 billion parameters &nbsp;(AlexaTM 20B) through Amazon SageMaker JumpStart, SageMaker’s machine learning hub. AlexaTM 20B is a multilingual large-scale sequence-to-sequence (seq2seq) language model developed",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/alexatm-20b-is-now-available-in-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/alexatm-20b-is-now-available-in-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/17/alexatm-sagemaker-jumpstart.jpg",
-          "width": 1551,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T15:13:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -59,6 +59,34 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Getty sues Stable Diffusion, and the future of AI art could be at stake"
+    excerpt: "Getty Images, the stock-image powerhouse, is suing Stability AI over its AI art generator in a copyright infringement case that could help decide the future of AI art."
+    publishedDateTime: 2023-01-17T19:40:00Z
+    webUrl: "https://www.pcworld.com/article/1475597/getty-sues-stability-ai-and-the-future-of-ai-art-could-be-at-stake.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 69
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2023/01/1153158881_marilyn_monroe_in_the_style_of_andy_warhol-CMS-primary-2.png?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Getty Images is suing the creators of AI art tool Stable Diffusion for scraping its content"
+    excerpt: "Getty Images claims Stability AI ‘unlawfully’ scraped millions of images from its site. It’s a significant escalation in the developing legal battles between generative AI firms and content creators."
+    publishedDateTime: 2023-01-17T10:30:00Z
+    webUrl: "https://www.theverge.com/2023/1/17/23558516/ai-art-copyright-stable-diffusion-getty-images-lawsuit"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 57
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/3lriwngDiXIMJuTa0zlasdWLb4A=/22x98:1519x1146/1200x628/filters:focal(775x611:776x612)/cdn.vox-cdn.com/uploads/chorus_asset/file/24365786/Screenshot_2023_01_17_at_09.55.27.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Getty Images Targets Artificial Intelligence Firm For \"Copying\" Photos"
     excerpt: "Getty, which distributes stock images and news photos including those of AFP, accused Stability AI of profiting from its pictures and those of its partners."
     publishedDateTime: 2023-01-18T05:56:00Z

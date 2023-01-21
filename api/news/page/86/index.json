@@ -2,6 +2,49 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2022-11-01-aws-opens-lagos-office-increases-commitment-to-africa.md",
+      "title": "AWS opens Lagos office, increases commitment to Africa",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, today announced the opening of its first office in Lagos, Nigeria. The new Lagos office is part of AWS’s support for the growing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0",
+      "originalUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ocdn.eu/pulscms-transforms/1/uQQktkqTURBXy84NWEyODYxYWNhZTUxMDJiY2IyMWQwNmM0NDI0MzAyZS5qcGVnkpUDAMzAzQKrzQGAkwXNBLDNAnY",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0.amp",
+      "cdnAmpWebUrl": "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0.amp",
+      "publishedDateTime": "2022-11-01T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Naija Gist - Latest",
+        "domain": "pulse.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-01-ethics-in-operation-the-business-case-for-responsible-ai.md",
       "title": "Ethics In Operation: The Business Case For Responsible AI",
       "excerpt": "What makes AI so powerful is that it can emulate human thought and behavior to achieve objectives faster and more efficiently than any human could. Of course, with this kind of power, we have to consider responsibility.",
@@ -1095,59 +1138,6 @@
         "AI",
         "AI Ethics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-shift-robotics-used-ai-to-create-the-worlds-fastest-shoes.md",
-      "title": "Shift Robotics Used AI to Create the 'World's Fastest Shoes'",
-      "excerpt": "Reminiscent of those plastic strap-on roller skates kids wear, Moonwalkers use a combination of AI and machine learning to help the wearer move much more swiftly than they can in a typical pair of shoes, and without having to actually run. A brushless DC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/shift-robotics-used-ai-to-create-the-worlds-fastest-shoes",
-      "originalUrl": "https://www.pcmag.com/news/shift-robotics-used-ai-to-create-the-worlds-fastest-shoes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02ezmmIMIHYAOMO3vQBGmBZ-2.fit_lim.size_1200x630.v1667231348.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-31T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "Machine Learning"
       ]
     }
   ],

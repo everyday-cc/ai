@@ -2,6 +2,57 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2022-10-21-databrickss-chris-dagostino-on-ai-and-data-management.md",
+      "title": "Databricks’s Chris D’Agostino on AI and Data Management",
+      "excerpt": "A new survey details major market trends in the data and AI sectors, and reveals how these two technologies closely interoperate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/database/databricks-ai-and-data-management/",
+      "originalUrl": "https://www.eweek.com/database/databricks-ai-and-data-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/10/eSPEAKS-thumbnail-5.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-billiondollarbreaks-d-wave-quantum-inc-nyse-qbts-now-available-in-aws-marketplace.md",
       "title": "BillionDollarBreaks - D-Wave Quantum Inc. (NYSE: QBTS) Now Available in AWS Marketplace",
       "excerpt": "D-Wave Quantum Inc. (NYSE: QBTS), a leader in quantum computing systems, software and services, and the only quantum computing company building both annealing and gate-model quantum computers, has launched in AWS Marketplace.",
@@ -1084,49 +1135,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-the-role-of-motion-control-in-medical-robotics.md",
-      "title": "The Role of Motion Control in Medical Robotics",
-      "excerpt": "Motion control is a critical component of almost all of today’s robotic applications, explains Aleksandar Nacev, PhD, chief technology officer for Promaxo. Nacev is an engineering professional with expertise in magnetic systems engineering. Promaxo’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
-      "originalUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/motion%20control%20webinar%20DT613X.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

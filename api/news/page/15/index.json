@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-01-07-suite-llc-publishes-white-paper-on-reinforcement-learning-for-risk-management.md",
+      "title": "Suite LLC Publishes White Paper on Reinforcement Learning for Risk Management",
+      "excerpt": "With Machine Learning ascendant, Suite LLC has been conducting research into how Reinforcement Learning techniques promise to accelerate the computation of real-time risk management results. Suite LLC",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/ab30315486/suite-llc-publishes-white-paper-on-reinforcement-learning-for-risk-management",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/ab30315486/suite-llc-publishes-white-paper-on-reinforcement-learning-for-risk-management",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30315486",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30315486",
+      "publishedDateTime": "2023-01-06T09:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-07-microsoft-partners-with-india-space-agency-to-work-with-startups.md",
       "title": "Microsoft partners with India space agency to work with startups",
       "excerpt": "Microsoft plans to collaborate with the Indian Space Research Organization (ISRO) to give Indian space tech startups free access to cloud tools.",
@@ -1025,40 +1068,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-articulated-robot-interface-on-imm-control.md",
-      "title": "Articulated robot interface on IMM control",
-      "excerpt": "I ntegrated screens are now available on the Polaris control for either ABB or Fanuc robots. By integrating the robot screens into the control, the user can reportedly set up, adjust, and debug the system quickly, resulting in high system uptimes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.plasticstoday.com/articulated-robot-interface-imm-control",
-      "originalUrl": "https://www.plasticstoday.com/articulated-robot-interface-imm-control",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Plastics Today",
-        "domain": "plasticstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

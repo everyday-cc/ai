@@ -2,6 +2,49 @@
   "page": 123,
   "value": [
     {
+      "path": "_news/2022-09-29-googles-artificial-intelligence-built-an-ai-that-outperforms-any-made-by-humans.md",
+      "title": "Google's Artificial Intelligence Built an AI That Outperforms Any Made by Humans",
+      "excerpt": "In May 2017, researchers at Google Brain announced the creation of AutoML, an artificial intelligence (AI) that's capable of generating its own AIs. More recently, they decided to present AutoML ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/google-artificial-intelligence-built-ai",
+      "originalUrl": "https://futurism.com/google-artificial-intelligence-built-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2017/12/GettyImages-474395892-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/google-artificial-intelligence-built-ai?amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-artificial-intelligence-built-ai?amp",
+      "publishedDateTime": "2022-09-29T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-onemeta-ai-and-world-congress-of-families-will-make-the-conference-available-in-82-languages-to-over-4000-worldwide-participants.md",
       "title": "OneMeta AI and World Congress of Families Will Make the Conference Available in 82 Languages to Over 4,000 Worldwide Participants",
       "excerpt": "SALT LAKE CITY, UT / ACCESSWIRE / September 29, 2022 / OneMeta AI ( (OTC PINK:ONEI). OneMeta AI and its cutting edge AI technology product: Verbum,  will be providing live language interpretation for over 50 International speakers and over 1,",
@@ -1102,50 +1145,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-inside-abu-dhabis-thriving-artificial-intelligence-scene.md",
-      "title": "Inside Abu Dhabi’s Thriving Artificial Intelligence Scene",
-      "excerpt": "Abu Dhabi is becoming a thriving hub for artificial intelligence and an increasingly attractive destination for meetings and events.",
-      "sourceUrl": null,
-      "webUrl": "https://skift.com/2022/09/28/inside-abu-dhabis-thriving-artificial-intelligence-scene/",
-      "originalUrl": "https://skift.com/2022/09/28/inside-abu-dhabis-thriving-artificial-intelligence-scene/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://skift.com/wp-content/uploads/2022/09/MBZUAI-External-shot..jpg",
-          "width": 1797,
-          "height": 1166,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://skift.com/2022/09/28/inside-abu-dhabis-thriving-artificial-intelligence-scene/amp/",
-      "cdnAmpWebUrl": "https://skift-com.cdn.ampproject.org/c/s/skift.com/2022/09/28/inside-abu-dhabis-thriving-artificial-intelligence-scene/amp/",
-      "publishedDateTime": "2022-09-28T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Skift",
-        "domain": "skift.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
       ]
     }
   ],

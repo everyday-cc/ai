@@ -185,21 +185,21 @@
       ]
     },
     {
-      "path": "_news/2023-01-19-is-artificial-intelligence-a-net-positive-for-carbon-emissions.md",
-      "title": "Is Artificial Intelligence A Net-Positive For Carbon Emissions?",
-      "excerpt": "Artificial Intelligence is playing an ever-larger role in the global energy industry, but as it grows its carbon footprint is also growing and threatening to undermine its work",
+      "path": "_news/2023-01-19-artificial-intelligence-is-coming-for-human-creativity.md",
+      "title": "Artificial Intelligence Is Coming for Human Creativity",
+      "excerpt": "The history of psychology is full of claims about unique human cognitive abilities. Many of these claims fell away in the light of research findings on the cognitive capacities of other species. Self-awareness was one such capacity.",
       "sourceUrl": null,
-      "webUrl": "https://oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A-Net-Positive-For-Carbon-Emissions.html",
-      "originalUrl": "https://oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A-Net-Positive-For-Carbon-Emissions.html",
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-01-18_feepyk1js4.jpg",
-          "width": 718,
-          "height": 300,
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/Is%20AI%20coming%20for%20Creativity%2C%203%2C%20Joseph%20Ayerle.jpg?itok=clf3nLZg",
+          "width": 1528,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -207,13 +207,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A-Net-Positive-For-Carbon-Emissions.amp.html",
-      "cdnAmpWebUrl": "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Is-Artificial-Intelligence-A-Net-Positive-For-Carbon-Emissions.amp.html",
-      "publishedDateTime": "2023-01-18T14:00:00-08:00",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp",
+      "publishedDateTime": "2023-01-18T08:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Crude Oil Prices",
-        "domain": "oilprice.com",
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -224,7 +224,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Autos",
         "AI in Healthcare"
       ]
     },

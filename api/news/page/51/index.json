@@ -2,6 +2,49 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2022-12-01-amazon-to-warn-customers-on-limitations-of-its-ai.md",
+      "title": "Amazon to warn customers on limitations of its AI",
+      "excerpt": "Amazon chose software touching on sensitive demographic issues as a start for its service cards, which Kearns expects to grow in detail over time. One such service is called \"Rekognition.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/amazon-warn-customers-limitations-its-ai-3113256",
+      "originalUrl": "https://www.channelnewsasia.com/business/amazon-warn-customers-limitations-its-ai-3113256",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--ChyNQ6ox--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-30t214432z_2_lynxmpeiat0y5_rtroptp_3_amazon-com-layoffs.jpg?itok=iZxgCCnS",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T17:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-ai-bedtime-stories-ibm-cloud-docker-hub-eu-cybersec-legislation-esw-298.md",
       "title": "AI Bedtime Stories, IBM Cloud, Docker Hub, & EU CyberSec Legislation – ESW #298",
       "excerpt": "9. SUPPLY CHAIN: Hell’s Keychain – Supply Chain Attack in IBM Cloud’s Databases for PostgreSQL This just came off embargo this morning, but apparently, Wiz researchers were able to reach ...",
@@ -1083,49 +1126,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-baidu-to-supply-l2-driver-assisting-anp-30-mid-2023.md",
-      "title": "Baidu to supply L2+ driver-assisting ANP 3.0 mid-2023",
-      "excerpt": "Baidu unveiled its latest progress on unifying L4 and L2+ autonomous driving technology on Apollo Day held on November 29 and announced that it will deliver L2+ driver-assisting product \"ANP 3.0 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20221130VL211/adas-baidu.html",
-      "originalUrl": "https://www.digitimes.com/news/a20221130VL211/adas-baidu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20221130vl211_files/2_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

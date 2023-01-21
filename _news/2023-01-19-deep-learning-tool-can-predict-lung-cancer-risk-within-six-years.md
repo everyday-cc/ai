@@ -37,20 +37,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Using Machine Learning to Predict Brain Tumor Progression"
-    excerpt: "Combining machine learning technology with neuroimaging data, clinicians will be better able to fully analyze a patient's glioblastoma brain tumor and predict cancer progression."
-    publishedDateTime: 2023-01-16T16:47:00Z
-    webUrl: "https://neurosciencenews.com/brain-cancer-machine-learning-22266/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 54
-    images:
-      - url: "https://neurosciencenews.com/files/2023/01/machine-learning-brain-tumor-neurosicences-public.jpg"
-        width: 770
-        height: 513
-        isCached: true
   - title: "Transformer-based deep learning for predicting protein properties in the life sciences"
     excerpt: "The recent developments in large-scale machine learning, especially with the recent Transformer models, display much potential for solving computational problems within protein biology and outcompete traditional computational methods in many recent studies and benchmarks."
     publishedDateTime: 2023-01-18T14:10:00Z

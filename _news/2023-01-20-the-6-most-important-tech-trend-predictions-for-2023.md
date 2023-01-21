@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/01/20/the-6-most-impor
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/20/the-6-most-important-tech-trendpredictions-for-2023/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
