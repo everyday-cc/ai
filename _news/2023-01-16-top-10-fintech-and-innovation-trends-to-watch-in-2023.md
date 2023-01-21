@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Top 10 Fintech and innovation trends to watch in 2023"
-excerpt: "Driving these innovations are Fintech companies which are contributing significantly to the growth of the local economy, creating new jobs, and stimulating an entrepreneurial ecosystem. Also, they are making the provision of financial services more efficient,"
-publishedDateTime: 2023-01-16T13:56:00Z
-originalUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Top-10-Fintech-and-innovation-trends-to-watch-in-2023-1695992"
-webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Top-10-Fintech-and-innovation-trends-to-watch-in-2023-1695992"
+excerpt: "Following the increasing levels of automated processes and digitized transformations in financial services, Fintech companies are leveraging AI and Machine learning in handling “Big data” and ..."
+publishedDateTime: 2023-01-16T10:34:00Z
+originalUrl: "https://www.ghanaweb.com/GhanaHomePage/features/Top-10-Fintech-and-innovation-trends-to-watch-in-2023-1695992"
+webUrl: "https://www.ghanaweb.com/GhanaHomePage/features/Top-10-Fintech-and-innovation-trends-to-watch-in-2023-1695992"
 type: article
-quality: 4
-heat: -1
-published: false
 
 provider:
   name: Ghanaweb.com
@@ -18,50 +15,12 @@ topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Seattle Fintech Meetup: “Measure What Matters: DEI in Fintech”"
-    excerpt: "Included.ai and Remitly are excited to co-host a special event focusing on an important topic near to our hearts: diversity, equity, and inclusion in tech. Our theme is “Measure What… Read More"
-    publishedDateTime: 2023-01-20T00:32:00Z
-    webUrl: "https://www.geekwire.com/calendar-event/seattle-fintech-meetup-measure-what-matters-dei-in-fintech/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 54
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/01/Fintech-Meetup-2.png"
-        width: 1828
-        height: 958
-        isCached: true
-  - title: "7 FinTech tweets you should see!"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-01-20T11:46:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/7-fintech-tweets-you-should-see-12/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/tweets.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Fintech, edtech, deeptech–15 quotes of the week on digital transformation"
-    excerpt: "From data to decisions, these quotes from the week of January 9-15 capture tech impacts sweeping across the world!"
-    publishedDateTime: 2023-01-18T02:22:00Z
-    webUrl: "https://yourstory.com/2023/01/fintech-edtech-deeptech-quotes-digital-transformation-entrepreneur"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 23
-    images:
-      - url: "https://images.yourstory.com/cs/2/28b451402d6a11e9aa979329348d4c3e/Digital-1-1673934535223.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
+images:
+  - url: "https://cdn.ghanaweb.com/imagelib/pics/309/30940531.jpg"
+    width: 600
+    height: 546
+    isCached: true
 
-secured: "AINjgAhDh2+PocY7xV6nbOTOEL5p/MBx3znUbocZA22YZ2o4iA+AsCj5B3SH7k//g9kvSEalHnx34toPVOo4j6i9KdhQY2ySbnQw8Qx2kRWG+juLrODI720R/q7v0jkNeZJNQl/YuHb7bYLL6RPbf/2MQINbDZrdP14EAzocAg6NHkfv5XHoEEHfJH1guzfJ53iXXKypeeTk5qN0wpk+qt2W6GPlMNemh4Hy8OnOS9xc1xrPzY0AWp2wrH7TL/7Ga9HAwUUexy3sKY+585rQLSY0vZWI1aL8zcceo5kZCMcr+5jAJ+TVnthkfrfYWJOpQ+sGiDbAuP5YCErjI1KHz4+P22BDmdZOzeeujwBaIkyyso3UWlnIfP5Ef/JtGsNpGEMQiTEu9WaoxiOGJezDhSI54U5QMc9lftZtusY4ym2xLV3KoTTHU75YF+60wzcEyvopzWNj05jAKCG9ZizAayGC+EzgGmIkjbqYPUJ8865iBdRvOc07p/DPsD7QycDBhHtVvPTLjB7HHwtCFfzRtg==;kgUs+C2Nvgq3zkmsJqwD+w=="
+secured: "HPvzBIl4JMCf4atIDqp22Uit+JG+MdKHRmJ3mk9WiId/X/bAevCaz1xeL1dGF+RIfLWU/skaSt56lMU8iAF7CgPOr8PXVg3dBztBzC/bD9nnEUhE9XDUmuDXgzshyJawQs05rM9+eI9iZpwDhfyLVsNMxhbWhoGhm4mY5yN5OQrvOQafFW71e9vYnjXPxJJcjIDDaMPFQbqKTm6wh7XRK6+mFVx7H1ABDH87QxyTyYCh3KHu0ufio8KeasXzSWi3YRrWN5mqA6CY0R6zBfnpk7Aa3w8rUqRpiAymOAWz8y6KDk6LBpD1W8H/xoX8drE6eVVaEqHl9ofUJbTzVs6gS4gb1lr4FpMaEhg/Lh/yD+4=;RQpkQLrnA3vvAQmr1pdWqQ=="
 ---
 

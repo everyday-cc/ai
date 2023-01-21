@@ -25,32 +25,21 @@ images:
 
 related:
   - title: "AI tools can create new images, but who is the real artist?"
-    excerpt: "With some generated images traveling on social networks and potentially going viral, they can be challenging to debunk since they can’t be traced back to a specific tool or data source"
-    publishedDateTime: 2023-01-20T15:38:00Z
-    webUrl: "https://www.wcvb.com/article/ai-images-who-is-real-artist/42592783"
-    ampWebUrl: "https://www.wcvb.com/amp/article/ai-images-who-is-real-artist/42592783"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/ai-images-who-is-real-artist/42592783"
+    excerpt: "Countless artists have taken inspiration from “The Starry Night” since Vincent Van Gogh painted the swirling scene in 1889."
+    publishedDateTime: 2023-01-19T13:15:00Z
+    webUrl: "https://www.denverpost.com/2023/01/19/ai-tools-can-create-new-images-but-who-is-the-real-artist-2/"
+    ampWebUrl: "https://www.denverpost.com/2023/01/19/ai-tools-can-create-new-images-but-who-is-the-real-artist-2/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2023/01/19/ai-tools-can-create-new-images-but-who-is-the-real-artist-2/amp/"
     type: article
     provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
-    quality: 59
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 57
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap23011863010313-1-1674235508.jpg?crop=1.00xw:0.846xh;0,0.0337xh&resize=1200:*"
-        width: 1200
-        height: 677
+      - url: "https://www.denverpost.com/wp-content/uploads/2023/01/Artificial_Intelligence_Image_Generators_10313-1.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Artificial intelligence turns its artistry to creating human proteins"
-    excerpt: "Last spring, an artificial intelligence lab called OpenAI unveiled technology that lets you create digital images simply by describing what you want to see. Called DALL-E, it sparked a wave of ..."
-    publishedDateTime: 2023-01-17T01:21:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 43
 
 secured: "bMoNC3eOltOPk0I/AXgtC90WgzhIL5YPp//GgC45UUrlNacb8jAh+Rz3hkkkn6qAQlPn/i958WZhjhkoVeS+A9wMvt7fM0oX79qdZbct9/CDLFATMPqk43W9H8oruGM/SS+rhXzEegilr4Mpjky++SVTgIl697s+8s8Xtd27038xjGEPfI77dHmM/jqBpj25Sme+dy6O4nIMvNWtGqdp/ZAhR7N0TmPvkZ7JV1yu6b3bx/yXSKMIlC8sqZyzXpGc4tPH//fRzXKKMYOcFsYobvLe3iRpbVokj6fEGl4YUGENnaLB1udokINSflFJbfmPB2ddnp7cYWa1+TSh2UhobZDykxTaVEQTs7yW2eYD1Xw=;NhHpqPG9GByLCUHmpc2A0w=="
 ---

@@ -63,6 +63,17 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Dutton presumes to know what voters want on the Voice. They told him at the election"
+    excerpt: "In recent comments on the proposed constitutional recognition of Indigenous Australians through the Voice, Opposition Leader Peter Dutton and others are deploying negative, wrecking ball tactics of the sort rejected so emphatically by voters at the last federal election."
+    publishedDateTime: 2023-01-21T17:30:00Z
+    webUrl: "https://www.smh.com.au/politics/federal/dutton-presumes-to-know-what-voters-want-on-the-voice-they-told-him-at-the-election-20230118-p5cdld.html"
+    ampWebUrl: "https://amp.smh.com.au/politics/federal/dutton-presumes-to-know-what-voters-want-on-the-voice-they-told-him-at-the-election-20230118-p5cdld.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/dutton-presumes-to-know-what-voters-want-on-the-voice-they-told-him-at-the-election-20230118-p5cdld.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 17
   - title: "Mr Dutton needs to decide where he stands on constitutional recognition and the Voice to Parliament | Samantha Maiden"
     excerpt: "The summer holidays are drawing to a close and the cheat’s guide to this year’s big debate on constitutional recognition and the Voice to Parliament has landed."
     publishedDateTime: 2023-01-17T21:00:00Z

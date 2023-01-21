@@ -19,6 +19,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "9v7enqB++VrkZKdP+SRcS+ciEnL5ZUgTNJMVFJWnDGRC8nm66K5+tJyxF1YAGieEZINYRVcLl9NPJH/2G8+YsPjfDrWW7l1j2Xf1JmLWZIOTwdSygYiMK3pstd+nyYJ3pd4Me3UwFJQSEnSNwUZ9VmR10ZqSpTyucUdyBnCSGpkBfQfeVbr39fyKI1ikGIl/2Qc31GXuicAT2SKHPhtY5OqIoQLspXbbEmpYhbfb+Qjv48Eed4gH03sUPnZpini+cM3EWDZUbl+3zcg1eU2uOedwD3OtesTtNEKfLt0l8g3UCCRGvHwoM6SZ2LyL8Auf6JFqUIuI790Rl/neyNrLwNHJdWebAxr5N55bAlYT3TM=;SvUrWtStHbHhnQtcSrRvaw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1980663/image_5009157_44357444.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "Q+toOk2IhuM8g3vsnVLfwjqk7b+FaoVyWSCcZbbj+d9PZND/II/JbxcCSwsEeXc16NNsTddA6cGHx3GvZRTgbE/PMfN0scOQaeYMHkXPdU6WqQA6pTLcOTdLHn7fiofwLtOBjU++yw60kqiOwipRHmLLoMxbpJaOR78MVGdaPgJZGVZuTTqsU9YJG0tZoqNC1Fv8UoqZUE9b6lbGrWqFh9gGDqeP+0fNTz+xeHXyOgjTp3fCVB0l3H+KZ2D0sgrHlVHWZC8vvUotKanBGgvN0WEYTrjRCWu+ivEeFF367ZD1NEu7I+9EnVUAFVb6+TQFQuhHx0JfT88mXa69s67HL7LQQQ36ySfpxUsElHmNUaw=;QJrynXOzwMGrdJ5eMgb+cQ=="
 ---
 

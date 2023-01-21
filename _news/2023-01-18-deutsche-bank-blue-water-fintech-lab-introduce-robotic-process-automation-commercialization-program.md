@@ -7,7 +7,7 @@ originalUrl: "https://www.crowdfundinsider.com/2023/01/201212-deutsche-bank-blue
 webUrl: "https://www.crowdfundinsider.com/2023/01/201212-deutsche-bank-blue-water-fintech-lab-introduce-robotic-process-automation-commercialization-program/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,31 +23,6 @@ images:
     width: 1280
     height: 960
     isCached: true
-
-related:
-  - title: "KFintech Drives Digital Transformation and Innovation in the Financial Services Industry with AWS"
-    excerpt: "(MENAFN- Adfactors PR ) January 17, 2023, Hyderabad: KFin Technologies Limited (KFintech), a leading technology-driven financial services firm ... including interactive dashboards that use AWS machine learning to automatically look for investment patterns ..."
-    publishedDateTime: 2023-01-18T04:12:00Z
-    webUrl: "https://menafn.com/1105442789/KFintech-Drives-Digital-Transformation-and-Innovation-in-the-Financial-Services-Industry-with-AWS"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/updates/pr/2023-01/17/pr_11781_c1537bf4_image_story.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Amazon Web Services Partners with Waton Securities International, Enabling Digital Transformation of Global Brokerage Firms with FinTech Solutions"
-    excerpt: "As a licensed brokerage firm and a FinTech solution provider ... In addition, Waton has built in automated risk management AI in our Broker Cloud platorm, which helps clients identify, monitor and manage various type of risks, and fulfil regulatory ..."
-    publishedDateTime: 2023-01-20T12:17:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/20/9746697.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "CVm118BmCj8UzNVqegaD0XL9vClaxAAsXvzUmAhcdWyCRnaGDsxLr97wafEri3w+G3ehr0zebXGPjh/YyZmFgzLKPzDD8QUdRAryAO5ZKJ9BlG2I4kyvxXeK3VDu//CGt/AhmQmezDdBT8zSIoUHvG3nrfrwrrVp/X4XSbMbi2Cl3gumqAF0Kd2Gr4d1KWHyVKNKuMCie/f6zbhdKyVOhhILZVClA0KB0fmdRLUvnxddKkrnnN3MB+thEmttSUkHdcF+ZILhrKaxlMURLttiYaXYgOEQsd5+YYqYOH1yNNrPztzuNp+00X1pkIKtpqNqLf++/VTIlpkaqizlzuWfG3N0I7VQNm31a/JhKA7t5PU=;9FWuRm+m7go7LKisj2IovA=="
 ---

@@ -120,6 +120,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "AI chatbot’s MBA exam pass poses test for business schools"
+    excerpt: "Elon Musk has long dismissed the MBA as irrelevant or damaging, but now a company backed by the outspoken tech entrepreneur is threatening to directly undermine the value of the flagship business degree: the artificial intelligence chatbot ChatGPT."
+    publishedDateTime: 2023-01-21T14:00:00Z
+    webUrl: "https://www.ft.com/content/7229ba86-142a-49f6-9821-f55c07536b7c?amp"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "KtKDbPTGkfVfKa82G9nnDIsAStl1ji12bzV9PTCZzqTXWL0xcsupBTC+i2Bn1iI2ubUoj5d4lrbMlx891gAuiGnMH6TOqrshDA8iX7NJSJyon1LgryHmtjJDNsOilqkMS6Fc/4ZJqfngPT2Ih2qq7xxt+QlNJj2fJIUWEpvLfDqWKaupw/0vegx1WAiGa1II1r+ycvlpKwaA4B/NtB/VSDBJFZ9hC/UdI34onP6xd6aHC5C6S6Fh4ytfmkFUwo3xHy2PUOWhoSd05L0Er82VGrd2iWmDvEzVjJkvHF1Bg4QdDW1/3+2k0Bwr5vqHCHOW9K1W1RDBX4zc6CcHy/Cj0qUIeHn3SEaIabQjj7VP8Br+X7PAA78zuB133c+y5pND7wVNrDhZp1Rn3pBtCgeAvvj96fsGGylxuexjidGWE5ysefH3Dtp3xH3Qa+AdUxDOrc0RcMuwLfGFOVyXZR9JGczYefBuqzr9Y5sy3Tc+UUi9ag2AZcIe3W89KpW/3mWH7SD7kuWnMthGnaB0rkbc8w==;UWYmQwBGO9X/P+ZkY0hmmA=="
 ---

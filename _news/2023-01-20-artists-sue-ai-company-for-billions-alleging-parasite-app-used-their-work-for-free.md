@@ -2,11 +2,11 @@
 category: news
 title: "Artists sue AI company for billions, alleging \"parasite\" app used their work for free"
 excerpt: "Cutting-edge AI can now create millions of artworks almost instantaneously. Artists say the technology is stealing their work."
-publishedDateTime: 2023-01-20T09:00:00Z
-originalUrl: "https://www.cbsnews.com/detroit/news/ai-stable-diffusion-stability-ai-lawsuit-artists-sue-image-generators/"
-webUrl: "https://www.cbsnews.com/detroit/news/ai-stable-diffusion-stability-ai-lawsuit-artists-sue-image-generators/"
-ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/ai-stable-diffusion-stability-ai-lawsuit-artists-sue-image-generators/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/ai-stable-diffusion-stability-ai-lawsuit-artists-sue-image-generators/"
+publishedDateTime: 2023-01-20T06:00:00Z
+originalUrl: "https://www.cbsnews.com/sacramento/news/ai-stable-diffusion-stability-ai-lawsuit-artists-sue-image-generators/"
+webUrl: "https://www.cbsnews.com/sacramento/news/ai-stable-diffusion-stability-ai-lawsuit-artists-sue-image-generators/"
+ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/ai-stable-diffusion-stability-ai-lawsuit-artists-sue-image-generators/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/ai-stable-diffusion-stability-ai-lawsuit-artists-sue-image-generators/"
 type: article
 quality: 50
 heat: 50
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "FonfYba1BQFoQDLduoCbZNpxFkrLUoFmNKyUeDarNYqO4HPEpif0hLtdKFu70/h+LJ8UrPMwkVsFUoJ/iEM7UZusxQRp5sXiYGvXWleDYWCylIJhVCN1WpJBUH7Lkm79N3BKQXDspcOBE39CkJzXlJ+bxbqnhBJmJC/IhTjmDqo8uxgt58ECG+VqVDZA9OYp4DssBapy4dF81njgl9M8U094nPqD8g4CzFL90e5xeg6oZazrtawhYVgSeG1ODryXdzJda3jv9UCOKlchFNChqv+9cnk/3dtrADeNOHc54PNfjLIVL2SkonmJnrzmDbeaa/UrRyqteGMmh9aAT1fnjeisS6B8+kqpMrxpMCZFmhRmu4VJUcMyOWLwflDrpQaUc5DnpcwHwJarIrC0PQDAbyPmY+v+ZHKeCEYQ1HwSGN7aCY85cJHX00ivP0KAcpt8AkC61dmE2tBW02hkHgux9a9ZgrM4orxKUrTSfXMUL/h3HcXS+/0AnAXfEbujGz2Kc4XvhVtlncjb2X1mNib6Dw==;KWS4dQPkcUQnyBHCjLDuJg=="
+secured: "akGX/ucOmawJ9s4in5+MtTZFYZBSZOEgtlt5+iPOb9oQ3HlJGf4/6qUHPMpKCScr2h0533VYCnXEVQf6PqZ5GFkpeU4HAHS9UjGc8b6quE9Gd3NTlnWk//Z6uOXUAb2kF3CpsLEK7dJUDGXtDq2NiUtrWD6n7DN7xOkjiiqcgrcyjclls/rrFMg0It2+u68osdLqCGsLXtlYwPAorXcni/N+/kJxK/GcOTjGpPbcXxyHUUh3x3lFjQxU72amN0D2CRbYi7HaciWMjcXXQrwDt58GjxxIBRfRfxszOe6Jf8MES3Kb8EiLKxf5L5QTSqGqvqIy73Ee9V0CoYWONPg5NhsC2+ySLVE/jbKilPjA/mE=;wW/ie8frgxY2dZ/PF3yr5g=="
 ---
 

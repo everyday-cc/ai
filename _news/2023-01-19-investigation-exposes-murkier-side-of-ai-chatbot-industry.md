@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/investigation-exposes-murkie
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/?amp"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -117,6 +117,15 @@ related:
     excerpt: "A professor at the University of Pennsylvania’s Wharton School said ChatGPT earned a ‘B to B-’ on his operations management test © Bloomberg AI chatbot poses test for business schools with pass in MBA"
     publishedDateTime: 2023-01-21T14:00:00Z
     webUrl: "https://www.ft.com/content/7229ba86-142a-49f6-9821-f55c07536b7c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+  - title: "AI chatbot’s MBA exam pass poses test for business schools"
+    excerpt: "Elon Musk has long dismissed the MBA as irrelevant or damaging, but now a company backed by the outspoken tech entrepreneur is threatening to directly undermine the value of the flagship business degree: the artificial intelligence chatbot ChatGPT."
+    publishedDateTime: 2023-01-21T14:00:00Z
+    webUrl: "https://www.ft.com/content/7229ba86-142a-49f6-9821-f55c07536b7c?amp"
     type: article
     provider:
       name: The Financial Times

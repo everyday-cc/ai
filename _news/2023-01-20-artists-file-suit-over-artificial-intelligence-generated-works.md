@@ -24,38 +24,87 @@ images:
     isCached: true
 
 related:
-  - title: "Building an AI governance strategy that works"
-    excerpt: "Any organization that uses or develops AI should focus on their AI governance practices, lest they put their business and customers at risk."
-    publishedDateTime: 2023-01-17T02:07:00Z
-    webUrl: "https://venturebeat.com/ai/building-an-ai-governance-strategy-that-works/"
-    ampWebUrl: "https://venturebeat.com/ai/building-an-ai-governance-strategy-that-works/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/building-an-ai-governance-strategy-that-works/amp/"
+  - title: "How to Spot AI-Generated Art, According to Artists"
+    excerpt: "Creatives disagree about the ethical uses of these tools, but one thing is clear: AI art identification is about to become a whole lot harder."
+    publishedDateTime: 2023-01-21T11:59:00Z
+    webUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/"
+    ampWebUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1037155966.jpg?w=1200&strip=all"
+      - url: "https://media.wired.com/photos/63cb1161c70009d9f70493f1/master/pass/How-To-Spot-AI-Art-Culture-1316701501.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-01-19T18:45:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/01/19/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "The best things about Toronto according to artificial intelligence"
+    excerpt: "What's the best thing about living in Toronto? Depending on who you ask, some might say the city's multiculturalism, thriving food scene, or the"
+    publishedDateTime: 2023-01-21T10:18:00Z
+    webUrl: "https://www.blogto.com/city/2023/01/best-things-about-toronto-according-artificial-intelligence/"
+    type: article
+    provider:
+      name: blogTO
+      domain: blogto.com
+    quality: 39
+    images:
+      - url: "https://media.blogto.com/articles/2023120-best-things-toronto.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70"
         width: 1200
-        height: 659
+        height: 630
         isCached: true
-  - title: "AI can create stunning portraits. What does that mean for the art world?"
-    excerpt: "Amazing artwork is being made using artificial intelligence and image rendering software, but it's raising questions about creativity, copyrights and commerce. NBC News’ Jacob Ward shares his own story of unintentionally buying AI-generated art."
-    publishedDateTime: 2023-01-20T00:17:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/ai-can-create-stunning-portraits-what-does-that-mean-for-the-art-world-160238149972"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo160238149972"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo160238149972"
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-01-21T01:00:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/01/20/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 86
+      name: Law
+      domain: law.com
+    quality: 39
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_01/1674173785367_nn_jwa_ai_art_2301119_1920x1080-lyu5r7.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
+  - title: "AI tools can create new images, but who is the real artist?"
+    excerpt: "Now artificial intelligence systems are doing the same, training themselves on a vast collection of digitized artworks to produce new images you can conjure in seconds from a smartphone app. The images generated by tools such as DALL-E,"
+    publishedDateTime: 2023-01-19T23:11:00Z
+    webUrl: "https://www.chron.com/business/article/AI-tools-can-create-new-images-but-who-is-the-17727671.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/31/14/30/23381565/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "WATCH: How do AI art generators work and should artists fear them?"
+    excerpt: "Visual artists, designers, illustrators and many other creatives have watched the arrival of AI text-to-image generators with a mix of awe and apprehension. This new technology has sparked debate around the role of AI in visual art and issues such as style appropriation."
+    publishedDateTime: 2023-01-20T15:59:00Z
+    webUrl: "https://www.iol.co.za/news/feel-good/watch-how-do-ai-art-generators-work-and-should-artists-fear-them-24aaba97-ce37-4d79-8990-ca4a43be7fb1"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 19
 
 secured: "DNH4CuKzTT4zlC7/dBZzu6u6GxGAFApyWVIlfZxYzx9Y2fjQmqL2+Mg8n9EF9VPVN9eiHRJnHkFJ1apM6IgXp9sMZz9VfpN6OElOzgydN4YfQjY1kofu/zMhP6dKiwGpEvKCCSL0mibL8kFqfyG1tMC1X/gPA1pPP+P+ZHw+/AwYeG5D++3m2ZVx7AMR2B9cQDUiFdms5oUPTXCbHRgwizkq88NHD4lCNOSjZ3UT1A4mJ9D59qA80ta3cTUAk3RTRQjd8jlr7NaPseWGMQ9mWiiTg9UUQT2Abx7xXGgphq+XlFbhvgBfKvy3YcK78bANkEKYLIdn5vgAIfoqbolnEBjHo8kkoZvVX5UdJk5tq5M=;58UiU25SkdRXC49APcKlPA=="
 ---

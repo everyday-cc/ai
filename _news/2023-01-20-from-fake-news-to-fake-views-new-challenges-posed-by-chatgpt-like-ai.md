@@ -69,17 +69,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Microsoft Azure OpenAI service now generally available, with ChatGPT on the way"
-    excerpt: "Microsoft announced the general availability of Azure OpenAI Service, which allows businesses to power their apps with large-scale AI models."
-    publishedDateTime: 2023-01-17T01:52:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-azure-openai-service-now-generally-available-with-chatgpt-on-the-way/"
-    ampWebUrl: "https://venturebeat.com/ai/microsoft-azure-openai-service-now-generally-available-with-chatgpt-on-the-way/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-azure-openai-service-now-generally-available-with-chatgpt-on-the-way/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 95
   - title: "Google's big fear is AI running wild. After ChatGPT, it's too late."
     excerpt: "Google's top executives published a report calling for a responsible release of AI, months after rival AI bot ChatGPT has entered the mainstream."
     publishedDateTime: 2023-01-19T14:17:00Z
@@ -539,20 +528,6 @@ related:
       name: Law
       domain: law.com
     quality: 40
-  - title: "How AI chatbot ChatGPT changes the phishing game"
-    excerpt: "The Microsoft-backed free chatbot is improving fast and can not only write emails, essays but can also code. ChatGPT is also polyglot and that could facilitate and increase exponentially phishing attacks."
-    publishedDateTime: 2023-01-17T01:21:00Z
-    webUrl: "https://www.arnnet.com.au/article/704723/how-ai-chatbot-chatgpt-changes-phishing-game/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_266188678.jpg"
-        width: 473
-        height: 315
-        isCached: true
   - title: "GPT 101: Decoding ChatGPT's Generative AI for Legal Professionals"
     excerpt: "While ChatGPT has caught the attention of many in the legal market, its underlying AI engine is where the real power—and disruption—lies."
     publishedDateTime: 2023-01-19T01:09:00Z

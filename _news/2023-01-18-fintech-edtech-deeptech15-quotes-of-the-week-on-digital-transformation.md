@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "KFintech drives digital transformation in financial services industry with AWS"
+    excerpt: "KFin Technologies Limited (KFintech), a technology-driven financial services ... an exchange filing. The services include interactive dashboards that use AWS machine learning to automatically ..."
+    publishedDateTime: 2023-01-18T06:11:00Z
+    webUrl: "https://www.freepressjournal.in/business/kfintech-drives-digital-transformation-in-financial-services-industry-with-aws"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/kfintech-drives-digital-transformation-in-financial-services-industry-with-aws"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/kfintech-drives-digital-transformation-in-financial-services-industry-with-aws"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 57
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2023-01/fda45f49-3fb5-4804-9d79-6cdef98dd1e5/271811522_467231791450465_3483139141691130993_n.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Seattle Fintech Meetup: “Measure What Matters: DEI in Fintech”"
     excerpt: "Included.ai and Remitly are excited to co-host a special event focusing on an important topic near to our hearts: diversity, equity, and inclusion in tech. Our theme is “Measure What… Read More"
     publishedDateTime: 2023-01-20T00:32:00Z
@@ -55,29 +71,29 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "7 FinTech tweets you should see!"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-01-20T11:46:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/7-fintech-tweets-you-should-see-12/"
+  - title: "KFintech Drives Digital Transformation and Innovation in the Financial Services Industry with AWS"
+    excerpt: "(MENAFN- Adfactors PR ) January 17, 2023, Hyderabad: KFin Technologies Limited (KFintech), a leading technology-driven financial services firm ... including interactive dashboards that use AWS machine learning to automatically look for investment patterns ..."
+    publishedDateTime: 2023-01-18T04:12:00Z
+    webUrl: "https://menafn.com/1105442789/KFintech-Drives-Digital-Transformation-and-Innovation-in-the-Financial-Services-Industry-with-AWS"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
+      name: Mena FN
+      domain: menafn.com
+    quality: 28
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/tweets.jpg"
-        width: 300
-        height: 300
+      - url: "https://menafn.com/updates/pr/2023-01/17/pr_11781_c1537bf4_image_story.jpg"
+        width: 2400
+        height: 1600
         isCached: true
-  - title: "What the banks vs fintech debate gets wrong"
-    excerpt: "This need has led to the emergence of a completely new ecosystem, one that is more diverse and where fintechs and smaller banks take an increasing share of the real-time market. By flipping traditional infrastructure procurement on its head and standardising related operational and security capabilities,"
-    publishedDateTime: 2023-01-17T12:39:00Z
-    webUrl: "https://www.finextra.com/blogposting/23583/what-the-banks-vs-fintech-debate-gets-wrong"
+  - title: "Amazon Web Services Partners with Waton Securities International, Enabling Digital Transformation of Global Brokerage Firms with FinTech Solutions"
+    excerpt: "As a licensed brokerage firm and a FinTech solution provider ... In addition, Waton has built in automated risk management AI in our Broker Cloud platorm, which helps clients identify, monitor and manage various type of risks, and fulfil regulatory ..."
+    publishedDateTime: 2023-01-20T12:17:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/20/9746697.htm"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "H7K+s7oFRCslnrqKbJD/g0RWIpJr/+aChR3earNWwHdpzxK7+ZYL5ES3BA2fr+a/8iNabkJovd0/zQz52dKs2nM3jWVN6393QPCE+7pVaPp3w7xAn8KjZCBhpB+nUcuzpg87MJsdKi36RkX+2C4qYECPEhScPUCIxCdRnlsqGfbTB2Dkp9NJaF73GQAeZTFKoXoc5r9blb0KzPW9845sJOC5zpv2LP+awgPd5TH98VdTv1cON6/nfwDMD8Z2JCI+3Ld0XwgkqXORy1E45h3DKuTTFchvn8NdutNB8WJwUecUi22bpX9jTyK8ujswtnkEUyfaXqg0pHQ0Sm/x/Zd5Y30ZspW3FZOgP4PtvUYbFyoxT7DFMMQxidSe2tOX36i6MQ0u6jXiskzBuzea8wtGkz5G+YNZk+IecUMuFT0zja5hc0WDmWRmZTku/OBQltkNjjJKe373s1tI3/uiIiPR+LOzstQxhht54JTjLeeR/qt55bN332xA4/b+ZKjbQdi2uVzZL10g8WZDlMZTpQJJpg==;m8ehqlHpIqmeTsfhaAPVoQ=="
 ---

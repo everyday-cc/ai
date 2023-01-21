@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-size-sales-drivers-restraints-growth-strategies-major-players-regional-overview-forecast-till-2029-2023-01-18"
 type: article
 quality: 70
-heat: 180
+heat: 170
 published: true
 
 provider:
@@ -170,15 +170,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Forklift Market Size 2023 with Regional Scope, Report Coverage, Historic Data, Outlook 2028"
-    excerpt: "Global Self-driving Forklift Market| Outlook 2023-2028 | Number of Tables and Figures | No Pages 91 | Key Players in"
-    publishedDateTime: 2023-01-17T01:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-forklift-market-size-2023-with-regional-scope-report-coverage-historic-data-outlook-2028-2023-01-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
 
 secured: "bYpRG1VPOtV5LBGsOoYPllUlmJ7rTlnoSXr0sioLvqVoKJNps8lqbA6cLvcBMfaBV/4dwy9tauexLwuHTFgtauNxgLhKSNhMelCLHs/UgPFjFZwdSgSSxfA2B0LEMlyT3PISblSBP759vK/Ch17SWryiIl0fECtv6i8Q5ML6SxhevUqbnOFHmdjh+EWqqRCRwXguMb85DJlr0kAI39oCo9iAuQluQ3InEQSG5iwk3THXkSoghMH5n/gQV7D3cfWuC5tah0wAeP4ppf0k5Jwo5K39rSBlH1WUNqnl1YKnwRrkBRyPKYbi/XcwD4AOgerRcUhcwBnI/bBZTZmNpPynVeik6rB2kNX56C72Madi0YY=;wJPGgo7eRCSu1bWYnP9CVA=="
 ---

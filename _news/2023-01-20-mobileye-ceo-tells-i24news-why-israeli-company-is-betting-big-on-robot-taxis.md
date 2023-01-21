@@ -24,17 +24,6 @@ images:
     height: 483
     isCached: true
 
-related:
-  - title: "S’pore’s top taxi company buys into Israeli self-driving startup"
-    excerpt: "Ottopia offers a system that lets people monitor self-driving vehicles remotely. The move fits ComfortDelGro’s strategy of acquiring autonomous-driving technologies through investment or tie-ups rather than developing them on its own."
-    publishedDateTime: 2023-01-17T02:58:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/01/17/spores-top-taxi-company-buys-into-israeli-self-driving-startup/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 4
-
 secured: "pxQWE0crOMzd7lJsSeHRyscIWC/GPI4oFqcK44EOdaQLrJ4GhEln1UT3TONBGJ+40vy4TfasPQyMWmkEW1SvFKlaR+mAO1tjY+jnVoR6uU2u0D2IfHdxrFwmn54E/zBG4V4jeEctO7q97aao3I8C1/YDlKC2cMi4q3ESpzlLnYfeNIcfnhV2RkOB3pCimyiSSgPXWtlnCvxTkxke/5dmqG8eeyZU/5C3ldq2Q3BtkDol5GqLd7thwlkLbk5u/Po7s6nDEo2fshKk5xVH+oMkHW0XaxFr9HcOzr/LY6vWEhMcj2aK/pV5AKVYFwQUfeGeCKykafWOq10TcKskv8KeE/SvblKwEMHhgDKQqcGpgsE=;pJZ3SdxNI+4hy9YqymqgDQ=="
 ---
 

@@ -169,15 +169,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Forklift Market Size 2023 with Regional Scope, Report Coverage, Historic Data, Outlook 2028"
-    excerpt: "Global Self-driving Forklift Market| Outlook 2023-2028 | Number of Tables and Figures | No Pages 91 | Key Players in"
-    publishedDateTime: 2023-01-17T01:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-forklift-market-size-2023-with-regional-scope-report-coverage-historic-data-outlook-2028-2023-01-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
 
 secured: "/7gmtclH2MF+n56RWOuEakhOQIoNAONZFnZ8NJYC6+XqryW0ml9UA5h0eSJm0wKsaJ/qC2ATJEpwPa2MDlGrJPcUZp6L3SZHSTz0Jdu+8rALltR1vqFTSM4iwYy9rahSb9m+HimPBD6NUyqPvmgMxZ/Hii9ONbKuBIFvYyA+VScLYuTkJoK6JoqQOSNiQj3cSRgOX+/BMAZkCwDkjraFh2xPdfTOMQQt9kgZBYQLsbDwYOJuOy8FmylGaexN7dKY4X88PSwvBTom1oR7b8X+cP0z2A7ZWjNfRN++4Ri9afAE0q5WeMHewdvwXJvSMUZjX8pl10vywwRpL+dgCtLy1d6YBTxZee/ayECQAP9d51E=;XNq83CCAMwrq/HICFxW/1Q=="
 ---

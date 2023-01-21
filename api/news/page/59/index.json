@@ -2,6 +2,57 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-11-25-how-ai-and-crowdsourcing-help-social-scientists-sample-diverse-populations.md",
+      "title": "How AI and crowdsourcing help social scientists sample diverse populations",
+      "excerpt": "Originally designed to assist machine learning engineers, crowdsourcing platforms are gradually changing the way social sciences operate.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/how-ai-and-crowdsourcing-help-social-scientists-sample-diverse-populations/",
+      "originalUrl": "https://venturebeat.com/business/how-ai-and-crowdsourcing-help-social-scientists-sample-diverse-populations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2013/11/crowdsourcing.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/business/how-ai-and-crowdsourcing-help-social-scientists-sample-diverse-populations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/how-ai-and-crowdsourcing-help-social-scientists-sample-diverse-populations/amp/",
+      "publishedDateTime": "2022-11-24T18:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-25-get-up-to-50-off-irobot-roborock-and-eufy-with-these-black-friday-robot-vacuum-deals.md",
       "title": "Get up to 50% off iRobot, Roborock and Eufy with these Black Friday robot vacuum deals",
       "excerpt": "and intuitive control via the app. eufy by Anker, BoostIQ RoboVac 11S: was $229.00, now $125.99 at Amazon (opens in new tab) While this robot vacuum has gotten a slightly better deal back in March ...",
@@ -1174,57 +1225,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-report-72-of-us-workers-want-to-delegate-mundane-tasks-to-ai.md",
-      "title": "Report: 72% of U.S. workers want to delegate mundane tasks to AI",
-      "excerpt": "U.S. employees say they'd like to delegate mundane tasks like invoice management, auditing and simple reporting to AI so they can focus on tasks that help them grow at work.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/72-of-u-s-workers-want-to-delegate-mundane-tasks-to-ai/",
-      "originalUrl": "https://venturebeat.com/ai/72-of-u-s-workers-want-to-delegate-mundane-tasks-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/data-observability-e1655328076213.jpg?fit=800%2C526&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/72-of-u-s-workers-want-to-delegate-mundane-tasks-to-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/72-of-u-s-workers-want-to-delegate-mundane-tasks-to-ai/amp/",
-      "publishedDateTime": "2022-11-23T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/from-illinois-to-india-artificial-int
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/from-illinois-to-india-artificial-intelligence-platform-looks-to-make-digital-healthcare-accessible-to-all-following-clinical-trials-in-india/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 534
     height: 462
     isCached: true
+
+related:
+  - title: "Chief Justice Backs AI-Driven Translation Of Judgments In Indian Languages"
+    excerpt: "Chief Justice of India D Y Chandrachud on Saturday indicated the use of Artificial Intelligence (AI) in giving translated copies of judgements in all Indian languages as he underlined the importance of technology in removing the information barrier."
+    publishedDateTime: 2023-01-21T16:50:00Z
+    webUrl: "https://www.ndtv.com/india-news/chief-justice-of-india-dy-chandrachud-backs-ai-driven-translation-of-judgments-in-indian-languages-3713022"
+    ampWebUrl: "https://www.ndtv.com/india-news/chief-justice-of-india-dy-chandrachud-backs-ai-driven-translation-of-judgments-in-indian-languages-3713022/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/chief-justice-of-india-dy-chandrachud-backs-ai-driven-translation-of-judgments-in-indian-languages-3713022/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 57
+    images:
+      - url: "https://c.ndtvimg.com/2023-01/pntn5qu8_supreme-court-getty_625x300_16_January_23.jpg"
+        width: 650
+        height: 400
+        isCached: true
 
 secured: "gTozq9r5u4VDULfRX9Dh1gPeEWncisUGtxX2Bt3sjrHiFTlgpR427aIHTVDnazPaxMESai5oXIQ8TRKtFIzrLQm1b4ARdZxFDSb5kJslMwzqc6B+5WZabm3Q3fNRc7i2nvpk670LcLqrK9JgYJykKHw7ZtHXPIwt7pbL7Dw1h3vfKkJ5gLWya0m1W/L4liDBayT3UvpfWDnFGjEtRLN5ooCA4jfe6AsbUt5p6mmiec9Ilpelx+sBqfcZyXtWs7Xk0dPA0ccFwX5cjyoHKIY9oumbuiNqsmfCYk37Jb4NvVoVnn/TTlKpZ/Pa0b8ZwlP8pPEMhod482RBPstctILODOIh2S0dVKwKnJFpuIybfTA=;s1v+/fdPs0qFe6q603k38w=="
 ---

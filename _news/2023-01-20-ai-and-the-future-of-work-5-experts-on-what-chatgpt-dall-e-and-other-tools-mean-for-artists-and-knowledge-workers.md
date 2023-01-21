@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Building ChatGPT’s AI content filters devastated workers’ mental health, according to new report"
-    excerpt: "A new report from 'Time' magazine paints a grim picture of labor conditions involved in training AI to avoid harmful and graphic content."
-    publishedDateTime: 2023-01-19T22:00:00Z
-    webUrl: "https://www.popsci.com/technology/chatgpt-sama-content-filter-labor/"
-    ampWebUrl: "https://www.popsci.com/technology/chatgpt-sama-content-filter-labor/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/chatgpt-sama-content-filter-labor/?amp"
+  - title: "AI can create stunning portraits. What does that mean for the art world?"
+    excerpt: "Amazing artwork is being made using artificial intelligence and image rendering software, but it's raising questions about creativity, copyrights and commerce. NBC News’ Jacob Ward shares his own story of unintentionally buying AI-generated art."
+    publishedDateTime: 2023-01-20T00:17:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/ai-can-create-stunning-portraits-what-does-that-mean-for-the-art-world-160238149972"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo160238149972"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo160238149972"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 48
+      name: NBC News
+      domain: nbcnews.com
+    quality: 86
     images:
-      - url: "https://www.popsci.com/uploads/2023/01/19/Depositphotos_3201090_L.jpg?auto=webp"
-        width: 2000
-        height: 1125
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_01/1674173785367_nn_jwa_ai_art_2301119_1920x1080-lyu5r7.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "How startups are using AI for fixing challenges in traditional financial services"
+    excerpt: "Startups using AI are making better data-driven decisions, increasing profits directly by efficient targeting, automating repetitive tasks, and much more to unlock competitive advantages"
+    publishedDateTime: 2023-01-20T02:47:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services-11674182424472.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services/amp-11674182424472.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services/amp-11674182424472.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 54
+    images:
+      - url: "https://images.livemint.com/img/2023/01/20/600x338/AI_1674182789785_1674182790018_1674182790018.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "pWuPVVcwY1/eglp+sg3Z7PC4NNWG3Zuj3x0cFVSU2VNOGTRKAV6KiueyMXxabBZluP8azlDSzrv4mlhuA9Xju783t7Z+G4dvmoME7L2lZEQBf1XXULEWNSxmVe/UcNzpkABkbCzRXICibJFR4DtFKD1azQARbVQBaULh0RJdGFbup+Z5opGN5GVr7k9SeDo4Bpt+M9Xr6ENLWslcORfg+9WDeq95BEtFnjQINJ46o+KQMgmQxFq37mFkZj9gYWAhwhm3lL7XjhMj32Edvaw7quoDdtk+GoQdMqyd9K+QJFDlNgteSx/i1YXBgbMrSUcM3xgqpGUAXHlzdVBFkgGBsrm1Rseh4X1q5ZRg9SedXX4=;ld/Wj8rg/wf1KGhzTt8UVw=="

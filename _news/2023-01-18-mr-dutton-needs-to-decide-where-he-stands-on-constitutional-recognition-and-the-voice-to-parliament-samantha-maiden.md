@@ -69,6 +69,17 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Dutton presumes to know what voters want on the Voice. They told him at the election"
+    excerpt: "In recent comments on the proposed constitutional recognition of Indigenous Australians through the Voice, Opposition Leader Peter Dutton and others are deploying negative, wrecking ball tactics of the sort rejected so emphatically by voters at the last federal election."
+    publishedDateTime: 2023-01-21T17:30:00Z
+    webUrl: "https://www.smh.com.au/politics/federal/dutton-presumes-to-know-what-voters-want-on-the-voice-they-told-him-at-the-election-20230118-p5cdld.html"
+    ampWebUrl: "https://amp.smh.com.au/politics/federal/dutton-presumes-to-know-what-voters-want-on-the-voice-they-told-him-at-the-election-20230118-p5cdld.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/dutton-presumes-to-know-what-voters-want-on-the-voice-they-told-him-at-the-election-20230118-p5cdld.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 17
 
 secured: "k+yxN+BLFe0k+LMD/EL5jYd3p7E60D712EAusCJVpij2034FXU2/OSMTOkvrZ+HmiMmqDRjFvS26rkiEzXImjZaFtS+GXS6JwL8XqFkJu/HdDnaJJFSyQw0xZs9MNmQlTUA+WMtM4JyvKK84PXGP4XyijPcnbHOGmD1XqrLgucZVvjuVauctsF6T4hkRVAi8X2uABMn52J/THJDOXlMAxwCstZPRb11eKKvluqLmXmwJXtwX6WUrLLFBO2HmsXmisVUAo4ONntu3kbRvFAWla36HTdWwvxivhrl99TA/Hvvtubp/f/DxXUnqEMuoY5Ltb+U5njgiyTeXDPSWQDTSnuRpq2rZlfL5rktib888yw2SLkNmYJyyg2jaQbUor8Ric3kbzNyaxaFgf3EiPAuQEwNUNdbyUlAeoCZMa6mLqO99dhbzlxl3u67zZFXpdjwnHf0IwGT4KAi6Zdc62mOFo85kWi4qWn5LqFxUeNrZcFAZptppbxwmVmrdBwBj1Syb02GHMyPpOStN+UhXZY5IOA==;22bfITlt3zu/qDr3iapbwA=="
 ---
