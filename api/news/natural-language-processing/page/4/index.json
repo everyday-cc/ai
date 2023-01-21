@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-25-the-electronic-medical-records-market-sees-a-rising-adoption-of-the-natural-language-processing-techniques-by-the-business-research-company.md",
+      "title": "The Electronic Medical Records Market Sees A Rising Adoption Of The Natural Language Processing Techniques - By The Business Research Company",
+      "excerpt": "LONDON, Nov. 24, 2022 /PRNewswire/ -- The adoption of Natural Language Processing (NLP) is gaining popularity in the electronic medical records market trends. NLP creates machines that can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29852130/the-electronic-medical-records-market-sees-a-rising-adoption-of-the-natural-language-processing-te",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29852130/the-electronic-medical-records-market-sees-a-rising-adoption-of-the-natural-language-processing-te",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29852130",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29852130",
+      "publishedDateTime": "2022-11-24T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-24-natural-language-processing-nlp-in-healthcare-market-overview-2022-to-2030-future-trends-and-forecast-by-3m-linguamatics-amazon-aws.md",
       "title": "Natural Language Processing (NLP) in Healthcare Market Overview 2022 to 2030, Future Trends and Forecast | By -3M, Linguamatics, Amazon AWS",
       "excerpt": "Browse detailed TOC, Tables, Figures, Charts, and Companies mentioned in the Global Natural Language Processing (NLP) in Healthcare Market research report 2022-2030 The Global Natural Language Processing (NLP) in Healthcare Market investigation report is segmented by Types ( Machine Translation,",
@@ -1325,50 +1368,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-parallex-bank-gets-recognition.md",
-      "title": "Parallex Bank gets recognition",
-      "excerpt": "In his acceptance speech, the Managing Director and Chief Executive Officer, Parallex Bank, Mr Olufemi Bakre, described the award as a further testament that the lender is on the right path.",
-      "sourceUrl": null,
-      "webUrl": "https://punchng.com/parallex-bank-gets-recognition-2/",
-      "originalUrl": "https://punchng.com/parallex-bank-gets-recognition-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2022/11/11041857/Parallex-bak.png",
-          "width": 500,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://punchng.com/parallex-bank-gets-recognition-2/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/parallex-bank-gets-recognition-2/?amp",
-      "publishedDateTime": "2022-11-11T00:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

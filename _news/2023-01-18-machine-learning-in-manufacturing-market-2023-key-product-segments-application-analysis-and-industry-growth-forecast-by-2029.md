@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Know About Artificial Intelligence (AI) Software Market [Up-to-date Report] Size, Progressive Long-Term Growth Outlook 2023-2026"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-01-17T05:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/know-about-artificial-intelligence-ai-software-market-up-to-date-report-size-progressive-long-term-growth-outlook-2023-2026-2023-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Systems Market Size, Status, Global outlook 2023 To 2028"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. This research"
     publishedDateTime: 2023-01-19T00:33:00Z

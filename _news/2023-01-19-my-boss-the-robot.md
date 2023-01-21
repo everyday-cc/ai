@@ -2,10 +2,15 @@
 category: news
 title: "My Boss, the Robot?"
 excerpt: "What it will take to AI-proof your management job."
-publishedDateTime: 2023-01-18T16:38:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/to-manage-is-human/202301/my-boss-the-robot"
-webUrl: "https://www.psychologytoday.com/us/blog/to-manage-is-human/202301/my-boss-the-robot"
+publishedDateTime: 2023-01-18T16:29:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/to-manage-is-human/202301/my-boss-the-robot"
+webUrl: "https://www.psychologytoday.com/intl/blog/to-manage-is-human/202301/my-boss-the-robot"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/to-manage-is-human/202301/my-boss-the-robot?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/to-manage-is-human/202301/my-boss-the-robot?amp"
 type: article
+quality: 59
+heat: 69
+published: false
 
 provider:
   name: Psychology Today
@@ -15,6 +20,28 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "8jsqQ9dRHHQhkTOAtv72k0QGpRJyT6Y7pM63ijsKajXT50tEYwAw+l752VV/SoMmTSISb02bHUPTksnSofR4dsLg6BYwKppMxWJh2SG49xuogRxAgIoQsT1P0uJ6PmFtCoc9f2piDAnLFTSsF2O33vEMYx9cKc6CqGM18vaHemB4Ga5i108bSPc1R9tMgAOq2hn7Xh10TVK8enchxW6eI4+zFDN/LvjFhPbQa/s9SMOo//WaK7prPIfTN0xQH+Crxf4C8cWjHIqJ6a8Mgde8OVFdqy7Qja/XQAHHAZizYIC0HeNDTc3jx2xEEjYu88S25B+ooqZxUXVsuaT3u3LrLmVy8rjCOInzFXqi+E3DeUCIN8Nz2bOgtOYm9fQg8ZsW4yAunnuuZQ6seiW21NlgVzFXkB1+dkOTXMmGoExRaXrV8uNeVFRFQsQe9ca+uXNIdQpgUBJQlZ+EAcIVg93KZranWtMrrFmClsixRf65+7m8Y8Ey2UckU8ahmxhXwSi0/MA+DKy7Ub2or4GcY8XRKg==;wab7mqJGNN/hVXv3GNdcig=="
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2023-01/iStock-Leader%20thinking%20small_0.jpg?itok=c8JTCAui"
+    width: 639
+    height: 440
+    isCached: true
+
+related:
+  - title: "Here come the robot doctors"
+    excerpt: "ChatGPT recently passed all three parts of the U.S. Medical Licensing Examination."
+    publishedDateTime: 2023-01-18T10:30:00Z
+    webUrl: "https://www.axios.com/2023/01/18/chatgpt-ai-health-care-doctors"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 39
+    images:
+      - url: "https://images.axios.com/-ecp2e-NdP6_Ttn306rnuQv7BRg=/0x0:1920x1080/1366x768/2023/01/17/1673986436931.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+
+secured: "QnrFAUGpYzXy3m+cfWom54quziPTkvaPVPmJiAnVgR0GOCkg0AuYkatKaNqs8mNnhpDjfiTNOZjvpGnvYhjl+o3nEvrLDTo24VgvhvtSZS0239aqyRGSHt4WP4SLFnqoOKr/v5nkvQ1h4J+a8C3sSMIle2gY3igv/81hdqaVcOeAhDUigilQwFMoKqQ2IHFldCiJVM27FPc46HSsq0mQ4xhUwMaqPjtWlnB09l9KuBShBYlg6Yqcrz1Rrc2cCBmn+jGsCLCK1EMCyNgO6vFZLQqlhg76Zxny7EuX1IY7+ZaVnB5pMcqX5aMIP6l/XgtN/PnMIcaZ5r5m28UxFy+tf6nrLtlq/xfymPbVubuQUj0=;T8UT8v6ItRmzidjnDC/qPQ=="
 ---
 

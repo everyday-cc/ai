@@ -47,22 +47,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Peter Dutton’s push for draft bill before voice referendum risks confusing voters, experts warn"
-    excerpt: "Labor cannot specify exactly how the body would work in future as it would be subject to the government of the day, expert group members say"
-    publishedDateTime: 2023-01-17T06:27:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/jan/17/peter-duttons-push-for-draft-bill-before-voice-referendum-risks-confusing-voters-experts-warn?amp;amp;amp"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/jan/17/peter-duttons-push-for-draft-bill-before-voice-referendum-risks-confusing-voters-experts-warn"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/jan/17/peter-duttons-push-for-draft-bill-before-voice-referendum-risks-confusing-voters-experts-warn"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 32
-    images:
-      - url: "https://i.guim.co.uk/img/media/a83ed2fe59e67c57746121a5d9d1a09998af2538/0_98_5055_3033/master/5055.jpg?width=620&quality=85&auto=format&fit=max&s=f9865656306c67e0cd79543eed851dea"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Dutton presumes to know what voters want on the Voice. They told him at the election"
     excerpt: "In recent comments on the proposed constitutional recognition of Indigenous Australians through the Voice, Opposition Leader Peter Dutton and others are deploying negative, wrecking ball tactics of the sort rejected so emphatically by voters at the last federal election."
     publishedDateTime: 2023-01-21T17:30:00Z

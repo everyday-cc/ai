@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft brings ChatGPT support to Azure: All the details"
-    excerpt: "In the last couple of weeks, it has been suggested that Microsoft will bring ChatGPT tech to a few of its products and services. Now, Microsoft has o"
-    publishedDateTime: 2023-01-17T06:53:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-brings-chatgpt-support-to-azure-all-the-details/articleshow/97049819.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/microsoft-brings-chatgpt-support-to-azure-all-the-details/amp_articleshow/97049819.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/microsoft-brings-chatgpt-support-to-azure-all-the-details/amp_articleshow/97049819.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 89
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-97049819,width-1070,height-580,imgsize-65374,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
-        isCached: true
   - title: "Microsoft Wants To Put Chat GPT-style AI Tools in Every Product"
     excerpt: "Can AI experience cognitive dissonance? Microsoft CEO Satya Nadella told Davos attendees on Tuesday that the tech giant plans to use OpenAI,"
     publishedDateTime: 2023-01-18T02:00:00Z
@@ -62,38 +46,6 @@ related:
     quality: 82
     images:
       - url: "https://i.insider.com/63c666fcbcd21800196b85eb?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "OpenAI’s ChatGPT to be available as an API, coming to Microsoft’s Azure: What it means"
-    excerpt: "OpenAI’s ChatGPT chatbot will soon be available via an API, thus allowing businesses to leverage it for their own use cases. Microsoft is also adding ChatGPT to its Azure OpenAI suite of services."
-    publishedDateTime: 2023-01-17T03:40:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/openais-chatgpt-api-microsoft-azure-api-businesses-8386106/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/openais-chatgpt-api-microsoft-azure-api-businesses-8386106/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/openais-chatgpt-api-microsoft-azure-api-businesses-8386106/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 81
-    images:
-      - url: "https://images.indianexpress.com/2023/01/ChatGPT_AP_1.jpg"
-        width: 1200
-        height: 667
-        isCached: true
-  - title: "Microsoft to offer ChatGPT-as-a-service from Azure real soon now"
-    excerpt: "Microsoft has promised it will \"soon\" offer the ChatGPT AI chatbot as a service from its Azure cloud. The software giant on Monday announced its existing Azure OpenAI service has opened up to general availability (GA)."
-    publishedDateTime: 2023-01-17T03:36:00Z
-    webUrl: "https://www.theregister.com/2023/01/17/azure_openai_chatgpt/"
-    ampWebUrl: "https://www.theregister.com/AMP/2023/01/17/azure_openai_chatgpt/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/01/17/azure_openai_chatgpt/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 74
-    images:
-      - url: "https://regmedia.co.uk/2023/01/17/shutterstock_editorial_only_microsoft_and_openai.jpg"
         width: 1200
         height: 600
         isCached: true
@@ -232,29 +184,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "New Microsoft Azure Vulnerability Uncovered — Experts Warn of RCE Attacks"
-    excerpt: "Microsoft Azure vulnerability discovered. Could be exploited to completely take control of targeted apps or steal sensitive data."
-    publishedDateTime: 2023-01-19T14:20:00Z
-    webUrl: "https://thehackernews.com/2023/01/new-microsoft-azure-vulnerability.html"
-    type: article
-    provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 53
-    images:
-      - url: "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEgeXE12VhXLZAYDxEX5x1goQta8TteHtiO_1r15UBLZSuYCiCD2hrxyBYkHRm_u6PBSWRIZR3l-x4cfGsW5kPmhSReTi6e--JREoPCgfMmLgg09UEN4r5Ewbe4EKFq1BFgDKLI6_icuM1X8tQaXYddXvhUANdBwF1BseQSn0dLD5o1efdp_0Ar-TwZK/s728-rj-e3650/azure.png"
-        width: 728
-        height: 380
-        isCached: true
-  - title: "Four New Microsoft Azure Vulnerabilities Found By Orca Security"
-    excerpt: "Vulnerabilities in four Microsoft Azure services, which posed the risk of leading to the exposure of customer data, were discovered by the research team at cloud security company Orca Security, the researchers disclosed Tuesday."
-    publishedDateTime: 2023-01-17T14:19:00Z
-    webUrl: "https://www.crn.com/news/security/four-new-microsoft-azure-vulnerabilities-found-by-orca-security"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 51
   - title: "Microsoft launches Azure OpenAI, ChatGPT coming ‘soon’"
     excerpt: "Microsoft's Azure OpenAI Service is now available for select partners and customers. The tech giant says it will add OpenAI's popular ChatGPT tool 'soon'."
     publishedDateTime: 2023-01-17T13:12:00Z
@@ -273,15 +202,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 49
-  - title: "Microsoft Azure Services Flaws Could've Exposed Cloud Resources to Unauthorized Access"
-    excerpt: "Researchers have discovered severe Server-Side Request Forgery (SSRF) vulnerabilities in 4 Microsoft Azure services."
-    publishedDateTime: 2023-01-17T14:44:00Z
-    webUrl: "https://thehackernews.com/2023/01/microsoft-azure-services-flaws-couldve.html"
+  - title: "The Download: battery recycling, and how AI might revamp Microsoft Office"
+    excerpt: "To Redwood Materials, the rows of cardboard boxes in the parking lot of its new battery recycling site just outside Reno, Nevada, represent both the past and the future of electric vehicles. Far from trash,"
+    publishedDateTime: 2023-01-17T13:11:00Z
+    webUrl: "https://www.technologyreview.com/2023/01/17/1067026/download-battery-recycling-ai-revamp-microsoft-office/"
     type: article
     provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 26
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 33
   - title: "Cross-site forgery bug would facilitate remote code execution in Microsoft Azure services"
     excerpt: "The bug, reported to Microsoft on Oct. 26 and remediated Dec. 6, is the result of manipulating a series of misconfigurations and security bypasses in Kudu, a back-end source control management (SCM) tool that helps manage and modify web applications and is used by major Microsoft cloud services like Azure Functions,"
     publishedDateTime: 2023-01-19T13:00:00Z

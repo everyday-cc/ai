@@ -41,22 +41,6 @@ related:
         width: 1345
         height: 900
         isCached: true
-  - title: "GPT-4 | Implications, pros and cons of the next-generation of ChatGPT"
-    excerpt: "GPT-4: A major implication of GPT-4 will be the improvement of natural language processing (NLP) tasks such as language translation, text summarisation, and question answering. While, we cannot ignore the potential downsides to GPT-4 as it could be used to generate fake news or propaganda,"
-    publishedDateTime: 2023-01-17T04:20:00Z
-    webUrl: "https://www.cnbctv18.com/views/gpt-4-implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm"
-    ampWebUrl: "https://www.cnbctv18.com/views/gpt-4-implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/views/gpt-4-implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 44
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/01/AP23006584552936-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
     publishedDateTime: 2023-01-17T18:30:00Z
@@ -73,6 +57,15 @@ related:
         width: 880
         height: 542
         isCached: true
+  - title: "ChatGPT Sounds Exactly Like Us. How Is That a Good Thing?"
+    excerpt: "For 70 years, programmers have tried to make computers more like people. Now that they’ve succeeded, we still don’t have the secret to human consciousness."
+    publishedDateTime: 2023-01-18T07:44:00Z
+    webUrl: "https://www.washingtonpost.com/business/chatgpt-sounds-exactly-like-us-how-is-that-a-good-thing/2023/01/18/6aedf446-9736-11ed-a173-61e055ec24ef_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 4
 
 secured: "FGTHr9q7MG76tFeFVPXi031EuIJ/2oALnKBcBINekwFEy/4YkAAIaGHvpuPjlDPdAFMTa7qCWCIXy8eaG8QwVxXFPKLdPiGb2Ac4Vd5l3+VH2xRTp1l3Lpnzm1VAYAM3ENQJaWWUUyLdGNeQrQCrCrqnwHc8H2IygvCqtVWWTMeGRmZJF9XLBjkqd4cuMMU35dlq7NMsBJ0Qd4agX3yU069IjpcwEsxoqvayuuk6YGcJ0rxxdnzseCIV2w9ZJyEv043O0zoynRe4B1lz+XaHVtmo//ye4/F4MygRPiMJwBjSl0Z/YrjwJ96y67W45HrVHXC+IBkfREvfD/KvIjbv9HunrU5MikVrpDbJCot/XeGICp+tqs9Qdi+0G12tco7C0aSyIAeAozvYZK+gQ5/4Y8IKG+iFniMeO+rIophKtohVKtJhJCYegJS1aiaosxU97zrhOJHcI4vpKbDW6kAqBEp1nrE8CoYryFikDhkf/Dl7dV1vLsg19g7fl6CKqyiHBT5oCUBk9yZNcxAC0wSAoQ==;wJM9bWd7YwlFx4bJLlKtTQ=="
 ---

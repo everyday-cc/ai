@@ -2,41 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2022-09-17-structural-reforms-and-economic-growth-a-machine-learning-approach.md",
-      "title": "Structural Reforms and Economic Growth: A Machine Learning Approach",
-      "excerpt": "We overcome these issues by using a machine learning approach (the partial least squares method ... Our findings suggest that structural reforms in the area of product, labor and financial markets as well as the legal system have a significant impact ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.imf.org/en/Publications/WP/Issues/2022/09/15/Structural-Reforms-and-Economic-Growth-A-Machine-Learning-Approach-523396",
-      "originalUrl": "https://www.imf.org/en/Publications/WP/Issues/2022/09/15/Structural-Reforms-and-Economic-Growth-A-Machine-Learning-Approach-523396",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Monetary Fund",
-        "domain": "imf.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-09-17-a-new-holographic-microscope-allows-scientists-to-see-through-the-skull-and-image-the-brain.md",
       "title": "A new holographic microscope allows scientists to see through the skull and image the brain",
       "excerpt": "The new label-free deep-tissue imaging with the wave correction algorithm retrieves the fine neural network of the mouse brain with the intact skull by focusing the light and filtering out ...",
@@ -1320,6 +1285,49 @@
         "AI",
         "Machine Learning",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-opswat-launches-neuralyzer-a-new-ai-powered-product-for-industrial-asset-and-ot-network-visibility-to-enhance-critical-infrastructure-protection.md",
+      "title": "OPSWAT Launches Neuralyzer, A New AI-Powered Product for Industrial Asset and OT Network Visibility to Enhance Critical Infrastructure Protection",
+      "excerpt": "OPSWAT, a leading provider of critical infrastructure protection (CIP) cybersecurity solutions, announced today the launch of OPSWAT Neuralyzer, a new neural network cybersecurity product that enables OT personnel to protect their critical environments and supply chain through asset discovery,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-49c1eddd64489bfcd39d02333dba0bca",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-49c1eddd64489bfcd39d02333dba0bca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

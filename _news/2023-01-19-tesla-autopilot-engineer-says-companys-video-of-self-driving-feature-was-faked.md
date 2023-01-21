@@ -427,6 +427,15 @@ related:
       name: https//carbuzz
       domain: carbuzz.com
     quality: 19
+  - title: "Musk Led Effort to Exaggerate Tesla’s Self-Driving Capabilities, Documents Reveal"
+    excerpt: "Tesla CEO Elon Musk personally dictated language used in a company video which, critics charge, overstated the capabilities the capabilities of the company’s Autopilot driver-assistance system. The re"
+    publishedDateTime: 2023-01-20T19:03:00Z
+    webUrl: "https://www.thedetroitbureau.com/2023/01/musk-led-effort-to-exaggerate-teslas-self-driving-capabilities-documents-reveal/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 14
 
 secured: "Bl4pnRv9RjaD0DM79QD2ipyxD0+53QFiUYl1PmGt46mOnq4rOMS3GdG2y07wwOJGjN6P5W/1iZLTI8Q4/epDneibgjhB8i3yP5kWGscSLCuh36wvEUbKzyE+rdZgMNQPBFG9U05Bfit3ZJEikIyYJpWMVua1y0D61B5dlxcJHyBGK29R/vE2Ef9aHX4Ytae49xsklQ69Ff9Tff2yRw5fO71u+/YHFjVOurkaaDMb6CZK54XRVU/FamHB6uLKCdDSA/HVCsQysLqVwsiftEe3XU92ci+cNftV6J4y2PnkktTfa+TKHfFub4Ky5RsNm88Nw+Wkvj3/AfJjx74KzxDwDwGjviX8zREvl9OaeltJ3DmNiIH4N9je+ivPBdTVjmNVFBA63XjWp8Sp6/avSXdM9X++pwffpk+FR+SOZnsVAL2WKCkkV2mOmjTpu+jlYO9iCDy66yBYcX9IeDGLQ4Qy2clxj708CXjDa2aeL3YHCz614pc9F3g0k+tWl+iaVkhwf+ckU0Z0BVAc9An9abGnBQ==;O0tubmiw0ic/+RT/CXHb+A=="
 ---

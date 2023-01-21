@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/273407545/ai-tools-can-create-
 webUrl: "https://www.bignewsnetwork.com/news/273407545/ai-tools-can-create-new-images-but-who-is-the-real-artist"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 630
     height: 420
     isCached: true
-
-related:
-  - title: "AI tools can create new images, but who is the real artist?"
-    excerpt: "Countless artists have taken inspiration from “The Starry Night” since Vincent Van Gogh painted the swirling scene in 1889."
-    publishedDateTime: 2023-01-19T13:15:00Z
-    webUrl: "https://www.denverpost.com/2023/01/19/ai-tools-can-create-new-images-but-who-is-the-real-artist-2/"
-    ampWebUrl: "https://www.denverpost.com/2023/01/19/ai-tools-can-create-new-images-but-who-is-the-real-artist-2/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2023/01/19/ai-tools-can-create-new-images-but-who-is-the-real-artist-2/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 57
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2023/01/Artificial_Intelligence_Image_Generators_10313-1.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "bMoNC3eOltOPk0I/AXgtC90WgzhIL5YPp//GgC45UUrlNacb8jAh+Rz3hkkkn6qAQlPn/i958WZhjhkoVeS+A9wMvt7fM0oX79qdZbct9/CDLFATMPqk43W9H8oruGM/SS+rhXzEegilr4Mpjky++SVTgIl697s+8s8Xtd27038xjGEPfI77dHmM/jqBpj25Sme+dy6O4nIMvNWtGqdp/ZAhR7N0TmPvkZ7JV1yu6b3bx/yXSKMIlC8sqZyzXpGc4tPH//fRzXKKMYOcFsYobvLe3iRpbVokj6fEGl4YUGENnaLB1udokINSflFJbfmPB2ddnp7cYWa1+TSh2UhobZDykxTaVEQTs7yW2eYD1Xw=;NhHpqPG9GByLCUHmpc2A0w=="
 ---

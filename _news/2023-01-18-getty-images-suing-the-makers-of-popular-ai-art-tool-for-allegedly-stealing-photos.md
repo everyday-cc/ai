@@ -38,38 +38,6 @@ related:
         width: 1536
         height: 768
         isCached: true
-  - title: "1923 cartoon predicts 2023’s AI art generators"
-    excerpt: "The vintage cartoon carries the caption It depicts a cartoonist standing by his drawing table and making plans for social events while an \"idea dynamo\" generates ideas and a \"cartoon dynamo\" renders the artwork."
-    publishedDateTime: 2023-01-19T16:52:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/cartoon_dynamo_hero_main-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "AI art generators face separate copyright lawsuits from Getty Images and a group of artists"
-    excerpt: "Three artists have launched a class action against the companies behind Stable Diffusion, Midjourney, and DreamUp."
-    publishedDateTime: 2023-01-19T10:29:00Z
-    webUrl: "https://www.businessinsider.com/ai-art-artists-getty-images-lawsuits-stable-diffusion-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/ai-art-artists-getty-images-lawsuits-stable-diffusion-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-art-artists-getty-images-lawsuits-stable-diffusion-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://i.insider.com/63c82647eee94d001a78ce29?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Getty sues Stable Diffusion, and the future of AI art could be at stake"
     excerpt: "Getty Images, the stock-image powerhouse, is suing Stability AI over its AI art generator in a copyright infringement case that could help decide the future of AI art."
     publishedDateTime: 2023-01-17T19:40:00Z
@@ -129,20 +97,6 @@ related:
       - url: "https://c.ndtvimg.com/2023-01/9mlda3p_stability-ai_625x300_18_January_23.jpg"
         width: 650
         height: 400
-        isCached: true
-  - title: "Getty Images Has Started Legal Proceedings Against an AI Generative Art Company For Copyright Infringement"
-    excerpt: "Getty announced in a press release on Tuesday that it began legal proceedings against AI company Stability AI for intellectual property infringement."
-    publishedDateTime: 2023-01-18T17:33:00Z
-    webUrl: "https://www.entrepreneur.com/business-news/getty-images-to-ai-companies-stop-illegally-using-our/443216"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 51
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1674066815-SOPAImagesContributor.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Getty Images sues to determine who owns AI art"
     excerpt: "Getty Images, the stock-image powerhouse, is suing Stability AI over its AI art generator in a copyright infringement case that could help decide the future of AI art."

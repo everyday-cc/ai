@@ -5,7 +5,12 @@ excerpt: "With some generated images traveling on social networks and potentiall
 publishedDateTime: 2023-01-20T15:38:00Z
 originalUrl: "https://www.wcvb.com/article/ai-images-who-is-real-artist/42592783"
 webUrl: "https://www.wcvb.com/article/ai-images-who-is-real-artist/42592783"
+ampWebUrl: "https://www.wcvb.com/amp/article/ai-images-who-is-real-artist/42592783"
+cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/ai-images-who-is-real-artist/42592783"
 type: article
+quality: 59
+heat: -1
+published: false
 
 provider:
   name: WCVB Channel 5 Boston
@@ -15,6 +20,60 @@ topics:
   - AI Ethics
   - AI
 
-secured: "jW3EEU4FAxuEInWtIwWSh2scMlqC+qEvrQ1GjaunLhGUDZCUDDKHDdCUCmMgdvSyMrX7ZPcot7J/tB94rzrdyLCajLUgfMgAGeMEkTrYR55ynbS3BAYt8h/heWsHE7UFpvZR3wdVNy4UFksGW5UivoP5SEDfpJ14TGjA+Ox+KYp26COWO/mLYPdgKAK3wZf5Zurr8e9/xVnTFOE+fZTulkBfb6IZlsW5xDE4++ZQjLTMPAVg0BrFtku6i8bJ5p/UUsjMwLbOHxjUPZkAjrTlyFX2tFa9j/E+ARMHPQG6YpeJupYQLr/EyxXMU5nm4U+6i3D1ipX/64Js21UUkK663h46n1OYBqOMMG0H2bpLuhzDn8BebD6GnBPaTUY8mTzlg9xEiIeN19iHYdXwf2ZBjuhXxu/FtvtEsG4awAmTNWbZen5wOKKNWpRaqc754DIE0qmeLwdHKUpqejS4FN7Aj+BdzsDfUaR7eEwUTyEiho8NuD7AkmQ5f9Yb4OdOozWUdiM3RD25wzmmz2uaXJrj1g==;P7ToI4bLPzdJlYcUW97U0Q=="
+images:
+  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap23011863010313-1-1674235508.jpg?crop=1.00xw:0.846xh;0,0.0337xh&resize=1200:*"
+    width: 1200
+    height: 677
+    isCached: true
+
+related:
+  - title: "AI can create stunning portraits. What does that mean for the art world?"
+    excerpt: "Amazing artwork is being made using artificial intelligence and image rendering software, but it's raising questions about creativity, copyrights and commerce. NBC News’ Jacob Ward shares his own story of unintentionally buying AI-generated art."
+    publishedDateTime: 2023-01-20T00:17:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/ai-can-create-stunning-portraits-what-does-that-mean-for-the-art-world-160238149972"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo160238149972"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo160238149972"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 86
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_01/1674173785367_nn_jwa_ai_art_2301119_1920x1080-lyu5r7.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "How startups are using AI for fixing challenges in traditional financial services"
+    excerpt: "Startups using AI are making better data-driven decisions, increasing profits directly by efficient targeting, automating repetitive tasks, and much more to unlock competitive advantages"
+    publishedDateTime: 2023-01-20T02:47:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services-11674182424472.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services/amp-11674182424472.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services/amp-11674182424472.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 54
+    images:
+      - url: "https://images.livemint.com/img/2023/01/20/600x338/AI_1674182789785_1674182790018_1674182790018.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "AI and the future of work: 5 experts on what ChatGPT, DALL-E and other tools mean for artists and knowledge workers"
+    excerpt: "Artificial intelligence researchers discuss how large language models are likely to affect these professionals, and how issues like misinformation to plagiarism could play out."
+    publishedDateTime: 2023-01-19T16:01:00Z
+    webUrl: "https://technical.ly/software-development/ai-future-work-chatgpt-dall-e/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 17
+    images:
+      - url: "https://technical.ly/wp-content/uploads/2023/01/AI-robots-knowledge-work-file-20230106-23-9vo8lt.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+
+secured: "HasXbM8kjsVo6of0ydD4rklN+pSMmFn43nlvOl2p0L5lvcgPHnrkltPpYowCe1dvcYBdBfbpid0k5PQvoO9twTe3XHkaKLsjQvW20S4WWitimDcFvzKV9AXCYCCKYQQy7vESJW8K9sxEHhokGiZsezdzHMJwl+eIcl27sxXaVtzZ2qHjwNMJ6VX512Pdy7AOHvuhbrT7+352cBeJlEc3WDUNecESOkqFJn/xKI3T5C83G+CrM/QybEB6zuIS28z5b1LZciEOYigW6SQ9W0/fkmTx+/tKX7r5A4Gp9G/ObhpGVqEckHX8es67FgMl+i3sB0R4bWCbgQaQj4Czdh1E4mXP6NyprjigWqgA9v7YwsY=;0vfe6rpb9L3D3qv+YLdffw=="
 ---
 

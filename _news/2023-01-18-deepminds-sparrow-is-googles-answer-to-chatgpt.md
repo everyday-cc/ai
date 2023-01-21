@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "GPT-4 | Implications, pros and cons of the next-generation of ChatGPT"
-    excerpt: "GPT-4: A major implication of GPT-4 will be the improvement of natural language processing (NLP) tasks such as language translation, text summarisation, and question answering. While, we cannot ignore the potential downsides to GPT-4 as it could be used to generate fake news or propaganda,"
-    publishedDateTime: 2023-01-17T04:20:00Z
-    webUrl: "https://www.cnbctv18.com/views/gpt-4-implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm"
-    ampWebUrl: "https://www.cnbctv18.com/views/gpt-4-implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/views/gpt-4-implications-pros-and-cons-of-the-next-generation-of-chatgpt-15680311.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 44
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/01/AP23006584552936-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
   - title: "This 22-year-old is trying to save us from ChatGPT before it changes writing forever"
     excerpt: "While many Americans were nursing hangovers on New Year's Day, 22-year-old Edward Tian was working feverishly on a new app to combat misuse of a powerful, new artificial intelligence tool called ChatGPT."
     publishedDateTime: 2023-01-17T18:30:00Z
@@ -73,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ChatGPT Sounds Exactly Like Us. How Is That a Good Thing?"
+    excerpt: "For 70 years, programmers have tried to make computers more like people. Now that they’ve succeeded, we still don’t have the secret to human consciousness."
+    publishedDateTime: 2023-01-18T07:44:00Z
+    webUrl: "https://www.washingtonpost.com/business/chatgpt-sounds-exactly-like-us-how-is-that-a-good-thing/2023/01/18/6aedf446-9736-11ed-a173-61e055ec24ef_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 4
 
 secured: "N390iH8PrHrStn0uFNZGsIliHQAoT2xurwdOO13QQBPXamRTGJvWczeQaJEIOdRG3D+nZeGRdhm7KS1fYM00PQSFpqNeJdVeBRPI/SgMluKJxuof1oT8q71DzlCY79vmYKvR+EvU6hsDTzVBDLAXc8Aq6GQVlOm2j6CnilZuKMmryUf2LJzILHuBqNzzKKXLQc3iCdT8xJnE3Kjz2c4OwBT1AsZze+tcTWHTSdB9rh0idA2aBpVhfXUoRCn+ITlTiWDWytAYV6OdSttn0hgk7OaRfrSahLJt0T8pqmMUDtYNsQkx/GB76dvo7J7RNwxYIPnh6vD10S1kCUp8LAPiQoM8v/zJQv+rPBzsz3kzUx9naAY2Ww4NUzvsUR7WvitpV292CiofTOggQEv9qRJn8cj+1UB037xbGBMPvuIAXUxVrXu/lkiOmkapM3JZSinRL2wNfOzFEXvZgu9yEhvQVJ0Ioz0FcQ43UKQ3Tg7Q+JpsHs9c5j5lIs4dg4t5CWquPU8siY/gDiNvadl2bzS6SQ==;EhY/xvIyhnxHi5PPKHMaPw=="
 ---

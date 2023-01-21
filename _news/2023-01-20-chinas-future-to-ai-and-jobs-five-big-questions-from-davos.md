@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/business/2023/jan/20/davos-questions-wef
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/jan/20/davos-questions-wef-china-future-ai-jobs"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "3. Davos frets over AI and white collar jobs"
+    excerpt: "The latest artificial intelligence systems dominated the tech conversation in Davos with a mix of excitement and concern."
+    publishedDateTime: 2023-01-21T19:34:00Z
+    webUrl: "https://www.axios.com/2023/01/21/davos-artificial-intelligence-white-collar-jobs"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
 
 secured: "8koxaAHdY7EJTa5hCwsHWSnGbuF4tVw3nJ7cGZHzkUz4XT8bgFirTHqJT4HzT77l9cyA59l2V8lpMp+vNp9C9Qpsd7s6krpMc5ILhvUd616H2lRHTwdq7+/KYCB0pRRdvz0ZPrcl88g/QAJcHwdckPL97IQnQMMoyfEF6KXVvj4sIdRnTLd7rPGvs4ZWjUHfqB3nTaaUH5U8oGH6FvhMcNJJBMFzmCTmfj+PJHVFuywL9Im3l0jAPzISRdpkk3hHmOxZ4esRkI83ZbiOgwBP+3gBZndzW1/LjiefbeSN3WA2wu+nQ6WPmp0Wzhbk1O0UN6wt0VFd6RUR6KXZpNOX/fXWxw7HIcY2ds1p57/4tfi2h9crGBhBZrWP/OO564SFxzWPMB0ofLiJdFtDNRRmeilWRVhMod2L2z5TnBWSLUExvB/iFPl5kRD+NkUcsKVmZ7RSSBz9VSJ75mL4jNK33+Oczcky6jtsr/nW1206gVguZ4vcxPRxiviAxIyB885FLSn9HnBwLC8DvE2c9Y/UXA==;09gNKKzJNO+lTA9MPcFypQ=="
 ---

@@ -2,6 +2,113 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-30-ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable.md",
+      "title": "AI Is Powerless Without HI: Why Human Intelligence Is Irreplaceable",
+      "excerpt": "Companies are, by and large, in the early stages of becoming truly digital. Digitization includes fully adopting artificial intelligence (AI) and machine learning, investing in tech, and converting all existing information into digital formats. Over the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c43e64efebb056e142918d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/amp/",
+      "publishedDateTime": "2022-11-30T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-effective-altruism-is-pushing-a-dangerous-brand-of-ai-safety.md",
+      "title": "Effective Altruism Is Pushing a Dangerous Brand of ‘AI Safety’",
+      "excerpt": "EA is defined by the Center for Effective Altruism as “an intellectual project, using evidence and reason to figure out how to benefit others as much as possible.” And “evid",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried/",
+      "originalUrl": "https://www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6386b09e5d55ecbfa48785f3/master/pass/effective-altruism-dangerous-ai.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried/amp",
+      "publishedDateTime": "2022-11-30T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-artificial-intelligence-for-healthcare-applications-market-report-covers-research-with-future-trends-2022-2027-intel-google-general-vision.md",
       "title": "Artificial Intelligence for Healthcare Applications Market Report Covers Research with Future Trends 2022-2027 | Intel, Google, General Vision",
       "excerpt": "A common use of artificial intelligence in healthcare involves NLP applications that can understand and classify clinical documentation. NLP systems can analyze unstructured clinical notes on ...",
@@ -1288,104 +1395,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-how-artificial-intelligence-is-helping-improve-medical-processes.md",
-      "title": "How Artificial Intelligence Is Helping Improve Medical Processes",
-      "excerpt": "Every health center should consider the use of AI for the benefit of its processes so it can adapt to the modern world and its accelerated pace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637b9754ce792833b41a9f16/0x0.jpg?format=jpg&crop=5700,3207,x0,y206,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/22/how-artificial-intelligence-is-helping-improve-medical-processes/amp/",
-      "publishedDateTime": "2022-11-22T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-can-an-artificial-intelligence-be-considered-an-artist.md",
-      "title": "Can an artificial intelligence be considered an artist?",
-      "excerpt": "In the majority of fiction that concerns artificial intelligence (AI), it replaces us in almost every industry. Often, only the artistic fields are left untouched. Usually, a robot or AI showing capabilities to create a work is seen as a completion ...",
-      "sourceUrl": null,
-      "webUrl": "https://cursus.edu/en/25914/can-an-artificial-intelligence-be-considered-an-artist",
-      "originalUrl": "https://cursus.edu/en/25914/can-an-artificial-intelligence-be-considered-an-artist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cursus.edu/storage/thumbnails/7ZVqQtw5b8GmadzNNUhf0iyrebl1wUruX356Ujkh.jpeg",
-          "width": 900,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T21:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cursus.edu",
-        "domain": "cursus.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
         "AI in Healthcare"
       ]
     }

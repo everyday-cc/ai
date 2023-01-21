@@ -2,6 +2,119 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-11-30-artificial-intelligence-in-fmcg-and-retail-market-size-in-2022-business-statistics-with-top-countries-data-ibmmicrosoftnvidiaamazon-web.md",
+      "title": "Artificial Intelligence in FMCG and Retail Market Size In 2022 Business Statistics with Top Countries Data | IBM,Microsoft,Nvidia,Amazon Web Services",
+      "excerpt": "A qualitative report published by Market intelligence data research on “Artificial Intelligence in FMCG and Retail Market” this research report offers an in-depth examination of the current ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fmcg-and-retail-market-size-in-2022-business-statistics-with-top-countries-data-ibmmicrosoftnvidiaamazon-web-services",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fmcg-and-retail-market-size-in-2022-business-statistics-with-top-countries-data-ibmmicrosoftnvidiaamazon-web-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T02:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-study-shows-alzheimers-drug-moderately-slowed-cognitive-decline.md",
+      "title": "Study shows Alzheimer’s drug ‘moderately’ slowed cognitive decline",
+      "excerpt": "An experimental drug from Biogen and its Japanese partner, Eisai, led to “moderately less” cognitive decline in patients with early symptoms of Alzheimer’s disease, but caused side effects ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2022/11/29/business/alzheimers-drug/",
+      "originalUrl": "https://www.bostonglobe.com/2022/11/29/business/alzheimers-drug/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Fp_9Aexwb7QP08vZDSg9ZptDq_A=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/HIJPRU7MVIVDGB44MKAEESRRQI.jpg",
+          "width": 506,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T23:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-alzheimers-drug-lecanemab-slows-cognitive-decline-among-patients-in-early-stages-study-finds.md",
+      "title": "Alzheimer's drug lecanemab slows cognitive decline among patients in early stages, study finds",
+      "excerpt": "A study released Tuesday showed a closely-watched Alzheimer's drug slowed cognitive decline among people with early signs of the disease but also carries safety risks for some patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/health/2022/11/29/drug-manufacturers-eisai-and-biogen-recruited-1-795-people-earlier-alzheimers-disease-and-amyloid-be/10751248002/",
+      "originalUrl": "https://www.usatoday.com/story/news/health/2022/11/29/drug-manufacturers-eisai-and-biogen-recruited-1-795-people-earlier-alzheimers-disease-and-amyloid-be/10751248002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T20:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-study-links-mait-cells-to-cognitive-function.md",
       "title": "Study links MAIT cells to cognitive function",
       "excerpt": "MAIT cells, which were discovered in the 1990s, were already known to be the most abundant innate-like T cells in humans and to be particularly numerous in the liver and skin. The Rutgers study ...",
@@ -1205,154 +1318,6 @@
       "provider": {
         "name": "The Tribune",
         "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-robustel-5g-iot-edge-computing-gateway-certified-by-microsoft-azure-and-amazon-web-services-aws.md",
-      "title": "Robustel 5G IoT EDGE Computing Gateway certified by Microsoft Azure and Amazon Web Services (AWS)",
-      "excerpt": "Robustel's latest IoT device the EG5120 5G Edge Computing Gateway is now listed in the Microsoft Azure certified device catalogue and also Amazon Web Services (AWS) IoT Greengrass. The EG5120 helps to seamlessly extend Azure & AWS based IoT cloud services and intelligence to the network edge,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/robustel-5g-iot-edge-computing-gateway-certified-by-microsoft-azure-and-amazon-web-services-aws-1031927105",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/robustel-5g-iot-edge-computing-gateway-certified-by-microsoft-azure-and-amazon-web-services-aws-1031927105",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1951114/EG5120_5G_Edge_Computing_Gateway.jpg",
-          "width": 400,
-          "height": 222,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-20T16:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-20-nvidia-scores-a-huge-win-microsoft-will-be-first-public-cloud-to-adopt-its-ai-stack.md",
-      "title": "Nvidia Scores a Huge Win -- Microsoft Will Be First Public Cloud to Adopt Its AI Stack",
-      "excerpt": "Microsoft Azure and its other cloud computing segments ... Thus, getting distribution of its hardware and AI software via public clouds like Microsoft and Oracle is a big deal for Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/11/20/nvidia-scores-a-huge-win-microsoft-adopts-ai-stack/",
-      "originalUrl": "https://www.fool.com/investing/2022/11/20/nvidia-scores-a-huge-win-microsoft-adopts-ai-stack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/709990/semiconductors-design-chips-ai.jpg",
-          "width": 5120,
-          "height": 2880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-20T07:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-20-nvidia-microsoft-to-create-artificial-intelligence-supercomputer.md",
-      "title": "Nvidia, Microsoft to create artificial intelligence supercomputer",
-      "excerpt": "A \"multi-year collaboration\" between Nvidia and Microsoft is underway to create \"one of the most powerful AI supercomputers in the world,\" which will be",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211",
-      "originalUrl": "https://www.albawaba.com/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2022-11/shutterstock_1819606709.jpg?itok=ER5-7BLd",
-          "width": 5120,
-          "height": 2880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211",
-      "publishedDateTime": "2022-11-19T21:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -79,22 +79,6 @@ related:
         width: 553
         height: 276
         isCached: true
-  - title: "Microsoft to add OpenAI's bot ChatGPT to Azure cloud services soon"
-    excerpt: "The service gives Microsoft's cloud customers access to various OpenAI tools like the GPT-3.5 language system that ChatGPT is based on, as well as the Dall-E model for generating images from text"
-    publishedDateTime: 2023-01-17T04:07:00Z
-    webUrl: "https://www.business-standard.com/article/technology/microsoft-to-add-openai-s-bot-chatgpt-to-azure-cloud-services-soon-123011700182_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-to-add-openai-s-bot-chatgpt-to-azure-cloud-services-soon-123011700182_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-to-add-openai-s-bot-chatgpt-to-azure-cloud-services-soon-123011700182_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 91
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-01/17/full/1673928031-5369.jpg"
-        width: 620
-        height: 464
-        isCached: true
   - title: "ChatGPT AI Threat Pulls Google Co-Founders Back Into Action, Report Says"
     excerpt: "Sergey Brin and Larry Page are helping the company respond to an impressive technology that is a direct threat to Google's search business."
     publishedDateTime: 2023-01-20T17:01:00Z
@@ -597,15 +581,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Microsoft adding ChatGPT to Azure cloud service"
-    excerpt: "OpenAI is already working on a successor GPT-4 model for its natural language processing. Still, concern about its accuracy — which Altman himself has said is not good enough for the bot to be relied on — has prompted caution about its premature use ..."
-    publishedDateTime: 2023-01-17T04:57:00Z
-    webUrl: "https://mybroadband.co.za/news/cloud-hosting/476603-microsoft-adding-chatgpt-to-azure-cloud-service.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 36
   - title: "Azure OpenAI Service Opens Up, ChatGPT On Tap"
     excerpt: "The general availability of Azure OpenAI Service was announced yesterday (Jan. 16) by company CEO Satya Nadella in a tweet, followed up 16 minutes later by a companion announcement from OpenAI that said: \"We've learned a lot from the ChatGPT research preview and have been making important updates based on user feedback."
     publishedDateTime: 2023-01-17T20:01:00Z
@@ -642,20 +617,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 30
-  - title: "Will ChatGPT Take Your Job?"
-    excerpt: "Machine learning and artificial intelligence are still in their infancy ... OpenAI ChatGPT is now an AWS Certified Cloud Practitioner! There’s also the fact that Stack Overflow banned ChatGPT after it was used to answer questions — incorrectly."
-    publishedDateTime: 2023-01-17T04:14:00Z
-    webUrl: "https://www.searchenginejournal.com/will-chatgpt-take-your-job/476189/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 24
-    images:
-      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2023/01/human-vs-chatgpt-job-63bfe8e97c592-sej.png"
-        width: 1600
-        height: 840
-        isCached: true
   - title: "Artificial intelligence software ChatGPT’s mock exam answers pass plagiarism checks, but AI detection software available"
     excerpt: "Universities are having to adapt to combat potential plagiarism using artificial intelligence. Dr Popenici also encouraged education institutions to embrace AI. “Let’s use AI to enhance more significant ways to assess what our students learn and what ..."
     publishedDateTime: 2023-01-18T12:03:00Z

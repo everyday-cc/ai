@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo160238149972"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo160238149972"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI tools can create new images, but who is the real artist?"
+    excerpt: "With some generated images traveling on social networks and potentially going viral, they can be challenging to debunk since they can’t be traced back to a specific tool or data source"
+    publishedDateTime: 2023-01-20T15:38:00Z
+    webUrl: "https://www.wcvb.com/article/ai-images-who-is-real-artist/42592783"
+    ampWebUrl: "https://www.wcvb.com/amp/article/ai-images-who-is-real-artist/42592783"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/ai-images-who-is-real-artist/42592783"
+    type: article
+    provider:
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
+    quality: 59
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap23011863010313-1-1674235508.jpg?crop=1.00xw:0.846xh;0,0.0337xh&resize=1200:*"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "How startups are using AI for fixing challenges in traditional financial services"
     excerpt: "Startups using AI are making better data-driven decisions, increasing profits directly by efficient targeting, automating repetitive tasks, and much more to unlock competitive advantages"
     publishedDateTime: 2023-01-20T02:47:00Z

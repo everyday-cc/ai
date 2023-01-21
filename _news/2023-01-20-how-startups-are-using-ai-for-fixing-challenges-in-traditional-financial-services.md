@@ -43,6 +43,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI tools can create new images, but who is the real artist?"
+    excerpt: "With some generated images traveling on social networks and potentially going viral, they can be challenging to debunk since they can’t be traced back to a specific tool or data source"
+    publishedDateTime: 2023-01-20T15:38:00Z
+    webUrl: "https://www.wcvb.com/article/ai-images-who-is-real-artist/42592783"
+    ampWebUrl: "https://www.wcvb.com/amp/article/ai-images-who-is-real-artist/42592783"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/ai-images-who-is-real-artist/42592783"
+    type: article
+    provider:
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
+    quality: 59
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap23011863010313-1-1674235508.jpg?crop=1.00xw:0.846xh;0,0.0337xh&resize=1200:*"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "AI and the future of work: 5 experts on what ChatGPT, DALL-E and other tools mean for artists and knowledge workers"
     excerpt: "Artificial intelligence researchers discuss how large language models are likely to affect these professionals, and how issues like misinformation to plagiarism could play out."
     publishedDateTime: 2023-01-19T16:01:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/davos-2023-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/davos-2023-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-123012000936_1.html"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Davos 2023: CEOs buzz about ChatGPT-style AI at World Economic Forum"
-    excerpt: "Generative artificial intelligence, tech that can invent virtually any content someone can think up and type into a text box, is garnering not just venture investment in Silicon Valley but interest in Davos at the World Economic Forum's annual meeting this week."
-    publishedDateTime: 2023-01-17T03:04:00Z
-    webUrl: "https://www.reuters.com/technology/davos-2023-ceos-buzz-about-chatgpt-style-ai-world-economic-forum-2023-01-17/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/sEg8tNlt3IswcvMoqGVLo-jexXE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/S6XYZQMD2ZOTLJN56RZ27Q7V4Q.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "The Davos Chats 2023: From New Geopolitical Couplings To AI — Gautam Adani Writes"
     excerpt: "Onshoring, self-reliance, energy independence, and building resilience in supply chains is as mandatory as is local job creation, writes Gautam Adani in The Davos Chats – 2023."
     publishedDateTime: 2023-01-20T12:49:00Z

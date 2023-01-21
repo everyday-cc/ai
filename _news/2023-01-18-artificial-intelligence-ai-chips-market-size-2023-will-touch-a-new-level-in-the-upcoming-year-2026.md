@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-17"
 type: article
 quality: 84
-heat: 244
+heat: 234
 published: true
 
 provider:
@@ -80,20 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Know About Artificial Intelligence (AI) Software Market [Up-to-date Report] Size, Progressive Long-Term Growth Outlook 2023-2026"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-01-17T05:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/know-about-artificial-intelligence-ai-software-market-up-to-date-report-size-progressive-long-term-growth-outlook-2023-2026-2023-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

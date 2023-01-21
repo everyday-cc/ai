@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Innodata Secures Major AI Computer Vision Win 1"
+    excerpt: "Innodata Selected by Leading Cloud Platform to Provide Large-Scale Data Collection for AI Computer Vision Initiative NEW YORK, NY / ACCESSWIRE / January 17, 2023 / Innodata Inc. (NASDAQ ..."
+    publishedDateTime: 2023-01-17T13:37:00Z
+    webUrl: "https://www.lse.co.uk/rns/innodata-secures-major-ai-computer-vision-win-1-9qm3jxb87dxnj7g.html"
+    type: article
+    provider:
+      name: London South East
+      domain: lse.co.uk
+    quality: 54
+    images:
+      - url: "https://static.lse.co.uk/images/logo-og.jpg"
+        width: 600
+        height: 346
+        isCached: true
   - title: "Innodata Selected by Leading Cloud Platform to Provide Large-Scale Data Collection for AI Computer Vision Initiative"
     excerpt: "NEW YORK, NY / ACCESSWIRE / January 17, 2023 / Innodata Inc. (NASDAQ:INOD), a leading data engineering company, today announced it has been selected by a leading cloud infrastructure and platform services company to provide large-scale data collection for a new AI computer vision initiative."
     publishedDateTime: 2023-01-17T14:03:00Z

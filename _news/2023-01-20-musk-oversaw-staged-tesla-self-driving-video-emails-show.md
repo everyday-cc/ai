@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/amp/"
 type: article
 quality: 104
-heat: 394
+heat: 404
 published: true
 
 provider:
@@ -432,6 +432,15 @@ related:
       name: The Daily Dot
       domain: dailydot.com
     quality: 15
+  - title: "Musk Led Effort to Exaggerate Tesla’s Self-Driving Capabilities, Documents Reveal"
+    excerpt: "Tesla CEO Elon Musk personally dictated language used in a company video which, critics charge, overstated the capabilities the capabilities of the company’s Autopilot driver-assistance system. The re"
+    publishedDateTime: 2023-01-20T19:03:00Z
+    webUrl: "https://www.thedetroitbureau.com/2023/01/musk-led-effort-to-exaggerate-teslas-self-driving-capabilities-documents-reveal/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 14
 
 secured: "e1DgUHdbDrmnAp0yGw40H+THY/GlgwwXyMqbCqCycpXyZYIog/2JqiooGpKZDXS6hL4j+Xi3Y8e9HJbAXhDU7QaVV3C2aJeEPNlFL3ZZcyJKdvHm3EInb5l5ILfXgbWvL8phW+aPzKGWYAmqdptkf9yW+q9EP5OexCX030Yq/u0U2E15RZGxwftYl2sd8rhV6SasLzF6monMtgyebrPNJcVyrArwiqHMg5gnanwlnC6keYpx6ePBQ60asz/EK96VCV2GDVLdfNfD6hOdPqtm5KZpKKoWoGQcuQJr6EsEh+ugiYRV9wX7eBSe1UkNPmEA8+lTdVKvVOb+ZBYxpRjdfrroNEkvHgCc/n6Q5dSXdzELqnBQJXR4dj7kegrmW75OYTmlXo9Q+iIXsSD/nLf8rc6n8VyHpDDpz2rMS/t+BQDut1J/qr9mTIJG3Ik9oTPXyrp+1NroljavOgyLf60Y9XdZ2KgNz3FTiOAFYurPkzWA4ofJhh/7q18vdhhUBhlXhhQe1U3PavFctBs9puRKvA==;bpUeJPyH6KApQz1wI5H1Tg=="
 ---

@@ -428,6 +428,15 @@ related:
       name: The Daily Dot
       domain: dailydot.com
     quality: 15
+  - title: "Musk Led Effort to Exaggerate Tesla’s Self-Driving Capabilities, Documents Reveal"
+    excerpt: "Tesla CEO Elon Musk personally dictated language used in a company video which, critics charge, overstated the capabilities the capabilities of the company’s Autopilot driver-assistance system. The re"
+    publishedDateTime: 2023-01-20T19:03:00Z
+    webUrl: "https://www.thedetroitbureau.com/2023/01/musk-led-effort-to-exaggerate-teslas-self-driving-capabilities-documents-reveal/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 14
 
 secured: "n8NMTUROppTBd4ft4g4LcE9+ywdElfSsj84nJW3sV65fExAvqJcfWisn2Vl3VpOkKb1DQAcHa3RqNhpW832NFOWqLA3uopOA6ztYQketCtrzLlgjNoplOqb2DO0Mvfv7epijn+Ibw7aZZMQ9iLx4/85/Pvyvino4uAPj8zp9Rc2nIc012zxDa7jMLqb1No1HUwQn6jMrU7Cl9osdS3yeRiZKWXgDArrygeSJmvFk8NzNBPlO25c2vgudMek1CijxXBxjTxQaiBrKxbhhGB3P9YJjIAYIoXag7dmebsdJ/0MHCzoDC4fEVoKIOf1uWRLPr4RMci3CuCM44sIwMW9GIAWswnRTat/dNAI9DAEa1as=;JJ0A4ZRRzpEfAfqif5G4DA=="
 ---

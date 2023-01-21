@@ -71,22 +71,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft will 'soon' add ChatGPT to Azure OpenAI Service: CEO Satya Nadella"
-    excerpt: "The software giant also announced the ‘general availability’ of its Azure OpenAI Service that gives customers access to various AI tools for use in their own applications."
-    publishedDateTime: 2023-01-17T03:26:00Z
-    webUrl: "https://www.livemint.com/companies/news/microsoft-will-soon-add-chatgpt-to-azure-openai-service-ceo-satya-nadella-11673924503723.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/microsoft-will-soon-add-chatgpt-to-azure-openai-service-ceo-satya-nadella/amp-11673924503723.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/microsoft-will-soon-add-chatgpt-to-azure-openai-service-ceo-satya-nadella/amp-11673924503723.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 86
-    images:
-      - url: "https://images.livemint.com/img/2023/01/17/600x338/MICROSOFT-OPENAI--0_1673924833065_1673924833065_1673924873398_1673924873398.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Microsoft Is Playing the Long Game in Artificial Intelligence"
     excerpt: "The company's cloud resources, business customers, and large amount of data resources make it a perfect partner to improve the artificial intelligence models and create a business model for it. Travis Hoium covers why Microsoft isn't doing this for ..."
     publishedDateTime: 2023-01-17T12:48:00Z
@@ -131,22 +115,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Microsoft CEO Satya Nadella says ChatGPT is coming to Azure OpenAI Service, here’s what it means"
-    excerpt: "Satya Nadella announced via a LinkedIn post that ChatGPT is soon coming to Microsoft’s Azure OpenAI Service This means that users will soon be able to access ChatGPT via Microsoft’s cloud Those using Azure already have access to various AI-based models By Divyanshi Sharma: Amidst all the rumours of Microsoft planning to bring ChatGPT to its various platforms,"
-    publishedDateTime: 2023-01-17T05:31:00Z
-    webUrl: "https://www.indiatoday.in/technology/news/story/microsoft-ceo-satya-nadella-says-chatgpt-is-coming-to-azure-openai-service-heres-what-it-means-2322534-2023-01-17"
-    ampWebUrl: "https://www.indiatoday.in/amp/technology/news/story/microsoft-ceo-satya-nadella-says-chatgpt-is-coming-to-azure-openai-service-heres-what-it-means-2322534-2023-01-17"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/microsoft-ceo-satya-nadella-says-chatgpt-is-coming-to-azure-openai-service-heres-what-it-means-2322534-2023-01-17"
-    type: article
-    provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 76
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202301/rtx2qkyg-sixteen_nine.jpg?VersionId=HLQuLPIaQseQSx4CWcYXSIBC.Jgi670b"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Golden Age Of Artificial Intelligence Underway: Microsoft Chief Nadella"
     excerpt: "An Indian farmer recently used a ChatGPT interface to access an opaque government programme via the internet despite knowing only a local dialect, Microsoft chief Satya Nadella said on Wednesday to underline that the world is entering a golden age of artificial intelligence."
     publishedDateTime: 2023-01-18T22:26:00Z
@@ -162,20 +130,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/utanwltgki3qr9tw_1674080761.jpeg"
         width: 768
         height: 439
-        isCached: true
-  - title: "Microsoft Announces Azure OpenAI Service for All"
-    excerpt: "Microsoft today announced the general availability of its cloud-based Azure OpenAI service so that common people can use its AI tools like GPT-3.5, Codex, and DALL•E 2 to enhance their work. It also said customers could access OpenAI’s flagship AI chatbot ChatGPT through Azure."
-    publishedDateTime: 2023-01-17T05:19:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-announces-azure-openai-service-for-all/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 69
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Microsoft-banner.jpeg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Microsoft to add ChatGPT to its Azure OpenAI service"
     excerpt: "One company that thinks it should is Microsoft, which has announced that it will feature in its Azure Open Ai service “soon”. Along with working closer with ChatGPT’s creators, OpenAI, Microsoft is also said to be readying a sizeable investment into ..."

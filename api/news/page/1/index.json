@@ -105,7 +105,7 @@
       "originalUrl": "https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -144,7 +144,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -394,7 +395,7 @@
       "originalUrl": "https://venturebeat.com/security/chatgpt-secure-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 594,
+      "heat": 564,
       "tags": null,
       "images": [
         {
@@ -600,7 +601,7 @@
       "originalUrl": "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 394,
+      "heat": 404,
       "tags": null,
       "images": [
         {
@@ -1032,15 +1033,15 @@
       ]
     },
     {
-      "path": "_news/2023-01-20-machine-learning-as-a-service-mlaas-market-size-trends-share-growth-status-and-forecast-2028-with-top-countries-data.md",
-      "title": "Machine Learning-as-a-Service (MLaaS) Market Size, Trends, Share, Growth Status, and Forecast 2028 with Top Countries Data",
-      "excerpt": "Rising demand for IT and Telecom, Automotive, Healthcare, Aerospace and Defense, Retail, Government, BFSI, Other End Users will drive the Machine Learning-as-a-Service (MLaaS) seg",
+      "path": "_news/2023-01-20-natural-language-processing-for-healthcare-and-life-sciences-market-outlook-2023-and-forecast-to-2028-with-top-countries-data.md",
+      "title": "Natural Language Processing For Healthcare And Life Sciences Market Outlook 2023 and Forecast to 2028 with Top Countries Data",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jan 19, 2023 (The Expresswire) -- Natural Language Processing For Healthcare And Life Sciences Market Size is projected to Reach Multimillion USD by 2029, In comparison to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-trends-share-growth-status-and-forecast-2028-with-top-countries-data-2023-01-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-trends-share-growth-status-and-forecast-2028-with-top-countries-data-2023-01-19",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-01-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-01-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1056,7 +1057,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-19T17:32:00-08:00",
+      "publishedDateTime": "2023-01-19T18:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -1079,8 +1080,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1092,7 +1094,7 @@
       "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-can-create-stunning-portraits-what-does-that-mean-for-the-art-world-160238149972",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {

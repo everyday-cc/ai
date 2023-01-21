@@ -154,20 +154,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Voice Market by Product and Geography : Forecast and Analysis 2023 to 2029 with Top Countries Data"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence"
-    publishedDateTime: 2023-01-17T03:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-by-product-and-geography-forecast-and-analysis-2023-to-2029-with-top-countries-data-2023-01-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Software Market Size in 2023 Industry Demand, Industry News, Business Growth, Top Key Players Update till 2029"
     excerpt: "In 2023, Face Recognition Software Market Size 2023 to 2028 Research Report is spread across 106 Pages and provides"
     publishedDateTime: 2023-01-18T12:08:00Z
@@ -191,20 +177,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Medical Imaging Market 2023 Industry Size, Trends, Growth, Insights and Forecast Research Report 2027"
-    excerpt: "Global Artificial Intelligence In Medical Imaging Market New Research Report 2023|[The Global Artificial Intelligence"
-    publishedDateTime: 2023-01-17T04:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-2023-industry-size-trends-growth-insights-and-forecast-research-report-2027-2023-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

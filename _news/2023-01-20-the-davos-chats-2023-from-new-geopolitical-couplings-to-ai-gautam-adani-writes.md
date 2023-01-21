@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Davos 2023: CEOs buzz about ChatGPT-style AI at World Economic Forum"
-    excerpt: "Generative artificial intelligence, tech that can invent virtually any content someone can think up and type into a text box, is garnering not just venture investment in Silicon Valley but interest in Davos at the World Economic Forum's annual meeting this week."
-    publishedDateTime: 2023-01-17T03:04:00Z
-    webUrl: "https://www.reuters.com/technology/davos-2023-ceos-buzz-about-chatgpt-style-ai-world-economic-forum-2023-01-17/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/sEg8tNlt3IswcvMoqGVLo-jexXE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/S6XYZQMD2ZOTLJN56RZ27Q7V4Q.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Davos 2023: Adani is hooked on ChatGPT, says race for AI to get complex"
     excerpt: "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amounts of information to generate natural-sounding t"
     publishedDateTime: 2023-01-20T14:52:00Z

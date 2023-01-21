@@ -166,7 +166,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-size-sales-drivers-restraints-growth-strategies-major-players-regional-overview-forecast-till-2029-2023-01-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -252,6 +252,49 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-innodata-secures-major-ai-computer-vision-win-1.md",
+      "title": "Innodata Secures Major AI Computer Vision Win 1",
+      "excerpt": "Innodata Selected by Leading Cloud Platform to Provide Large-Scale Data Collection for AI Computer Vision Initiative NEW YORK, NY / ACCESSWIRE / January 17, 2023 / Innodata Inc. (NASDAQ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.lse.co.uk/rns/innodata-secures-major-ai-computer-vision-win-1-9qm3jxb87dxnj7g.html",
+      "originalUrl": "https://www.lse.co.uk/rns/innodata-secures-major-ai-computer-vision-win-1-9qm3jxb87dxnj7g.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.lse.co.uk/images/logo-og.jpg",
+          "width": 600,
+          "height": 346,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "London South East",
+        "domain": "lse.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1360,58 +1403,6 @@
         "name": "T&D",
         "domain": "tdworld.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-08-innocent-black-man-jailed-after-facial-recognition-got-it-wrong-his-lawyer-says.md",
-      "title": "Innocent Black Man Jailed After Facial Recognition Got It Wrong, His Lawyer Says",
-      "excerpt": "He was locked up for nearly a week. A facial recognition tool identified Reid as a suspect in the theft of the luxury purses, and that was all the cops needed to put him in jail, according to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/facial-recognition-randall-reid-black-man-error-jail-1849944231",
-      "originalUrl": "https://gizmodo.com/facial-recognition-randall-reid-black-man-error-jail-1849944231",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/25a6c8e0f24c0d1114215b09de0fbb1b.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-07T22:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
