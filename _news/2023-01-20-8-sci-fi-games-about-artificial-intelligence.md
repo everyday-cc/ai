@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-20T15:42:00Z
 originalUrl: "https://gamerant.com/sci-fi-games-artificial-intelligence/"
 webUrl: "https://gamerant.com/sci-fi-games-artificial-intelligence/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/collage-maker-13-jan-2023-07-57-am.jpg"

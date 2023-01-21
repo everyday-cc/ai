@@ -109,6 +109,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "AI chatbot poses test for business schools with pass in MBA course exam"
+    excerpt: "A professor at the University of Pennsylvania’s Wharton School said ChatGPT earned a ‘B to B-’ on his operations management test © Bloomberg AI chatbot poses test for business schools with pass in MBA"
+    publishedDateTime: 2023-01-21T14:00:00Z
+    webUrl: "https://www.ft.com/content/7229ba86-142a-49f6-9821-f55c07536b7c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "fMUFk7Cg0Ltcser3DaQ1ar+IkaXIHsYZ5MaWmZnBhDyXdF/iFybVjREOhxmD1yG2Zrmpz64XdA8EFMty2zIBCU/uDPD4zhStffwUh0NPRuD8tLT1vLC/IpV9E3g814mc+IFINIsSwc1lzHcWw4TFbZUbxtsrm+E01Fy0hzPfGt6KPWPeMIN6wjlJ2AN6I8To+gE049J7y4gundDcNz3RjfoWqcNhRHc1Stzd9I0Ca6jYErv2NAbSOwOx6g5WzcjAa8m6CcpltSZ69md/TB3kqyQIZuCgwvpd0l9jCDdoDk/DxQ9R1/CSwRVdvgmjVn2kYfD22OyNQdpKezifbSpwi7InONPi4MFJUXeOReaHU3o=;s0rWQfsx/u/5Oiml1TQfnw=="
 ---

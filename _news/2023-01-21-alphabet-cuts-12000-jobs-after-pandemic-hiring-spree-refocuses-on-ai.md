@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Alphabet cuts 12,000 jobs after pandemic hiring spree, refocuses on AI"
-excerpt: "The logo of Google LLC is seen at the Google Store Chelsea in New York City, U.S., January 20, 2023. REUTERS/Shannon Stapleton"
+excerpt: "The job cuts affect 6% of the Google parent's workforce, and follow thousands of layoffs at tech giants who are downsizing after a pandemic-led hiring spree left them flabby in a weak economy."
 publishedDateTime: 2023-01-20T22:36:00Z
-originalUrl: "https://www.reuters.com/news/picture/alphabet-cuts-12000-jobs-after-pandemic-idUSKBN2TZ0MF"
-webUrl: "https://www.reuters.com/news/picture/alphabet-cuts-12000-jobs-after-pandemic-idUSKBN2TZ0MF"
+originalUrl: "https://www.reuters.com/business/google-parent-lay-off-12000-workers-memo-2023-01-20/?ref=upstract.com"
+webUrl: "https://www.reuters.com/business/google-parent-lay-off-12000-workers-memo-2023-01-20/?ref=upstract.com"
 type: article
 quality: 67
 heat: -1
@@ -22,9 +22,9 @@ topics:
   - AI
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20230120&t=2&i=1620797733&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEJ0J0QN"
-    width: 810
-    height: 539
+  - url: "https://www.reuters.com/resizer/Q3iJJb7IoCdD6kuJVHk-u52TR-o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T7BK7B5C6ZNHLGXRI3ZDYDHCGY.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -51,6 +51,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Tech layoffs 2023: Alphabet slays 12,00 jobs, invests in AI"
+    excerpt: "Google's parent Alphabet has cut 12,000 of its workforce as it faces \"a different economic reality\", it said in a staff memo."
+    publishedDateTime: 2023-01-21T15:51:00Z
+    webUrl: "https://interestingengineering.com/culture/googles-alphabet-slays-1200-jobs"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/01/21/image/jpeg/ejQBjb0IByVHNPRqPoRFFhpqCweCebn73wJDQnWR.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google parent Alphabet to axe 12,000 jobs worldwide"
     excerpt: "Google’s parent company has announced it will axe 12,000 staff, pushing total tech job losses above 200,000 since the start of last year, as industry bosses concede they overextended during the pandemic’s digital boom."
     publishedDateTime: 2023-01-20T13:39:00Z
@@ -61,6 +75,6 @@ related:
       domain: ft.com
     quality: 4
 
-secured: "Jxkj/JhUQyTDnblM7Z1lTvk3h4uFYcEN/tFEiwgSUQzdqJWDIKVgTEtkbCM1mzIo1Ua17o9wHe4e0S4N6ZduR+zM49vBDR9eFUVAfb58ML0WEjP0AswTG5Y7zDNLnaqJXg3uVYJUArCwYVj0ZGILcHrWExAIo6RGsP5YlIf9cGe3u49AXNJmczG4QXxVJpRUZprBWR9Z13C1DoIx3lh1gEqtPC4mz2DGosRCHOxcKkMV2IgKZiShm5puWmNOmjg9AbsGrHD2ojykDRnJmT9InKjD231a8xolg2MR6qGL34Ei3Rey3X37j16WYsEPg/Fgig98xqH5csiArvDOe5Pu06CgsN97hbFM/U/TYpV24NVibZU3Y7tewyiZcgt4hK3An9Lx3JAP3bVA3MCgCZi2eQZvJ/ltEHz4vowwWuhbiC3rFOnm3sxqKUbe12XOlwksk2LmrbPgm7M+Lw8RAkuH4WUYc/rJZJIWycJfGlAYBE6CtMPYWOWNMTMlnacaalAZwuy2qu4aO6N1w+GURlPKmw==;o59Wa88mnvS/JT+bgBC7Dw=="
+secured: "Wae0i4DuZYYr0aLoqdxDG/+n9FGx0043ULvAqRk8jEzXKwm4O84unioiwnPepsIgRfw0yJ6kjrKq05aSeqVp63BADxiJ1QQZUIxrEu0X//rSuk/MSUdXl7RnxJU37UgRwy/OokUQOWznY0a7jLeXRfOch0gxpXVYtqoI7bVPytf1vIjZzJ3jtf6DPe0Cl0XwJLMAdIIG8iXXWYbL9HiCC59mPcl060E1ZLr/iZrD6/+qE1jf7t/qSLgnt/W+5Et0nV9vQc8pWPvuUuDMeq3s7KgPuJBWzF4Gp7g6Hh//sfmoIOuA2JPeSDfJNckIsxheoPG3FbOIy+xJmEZimgrt3N4G/3xeTb9RYSQfbWfVaJs=;QW5VH1b3C+YMIeH6i3ucmA=="
 ---
 

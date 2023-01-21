@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1105442789/KFintech-Drives-Digital-Transformati
 webUrl: "https://menafn.com/1105442789/KFintech-Drives-Digital-Transformation-and-Innovation-in-the-Financial-Services-Industry-with-AWS"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -26,56 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Reimagining fintech : Banking-as-a-service, embedded finance can unlock new value chains"
-    excerpt: "At a macro level, the banking and financial services industry are in the midst of a technology-led transformation phase."
-    publishedDateTime: 2023-01-16T21:40:00Z
-    webUrl: "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/"
-    ampWebUrl: "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/lite/"
+  - title: "Deutsche Bank, Blue Water Fintech Lab Introduce Robotic Process Automation Commercialization Program"
+    excerpt: "Deutsche Bank and its Blue Water Fintech Lab recently launched a Robotic Process Automation (RPA) commercialization program."
+    publishedDateTime: 2023-01-17T17:26:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/01/201212-deutsche-bank-blue-water-fintech-lab-introduce-robotic-process-automation-commercialization-program/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 80
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 24
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/01/banking1.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/01/Robot-AI.jpg"
+        width: 1280
+        height: 960
         isCached: true
-  - title: "Fintech technologies: Harbinger of financial revolution in Maharashtra"
-    excerpt: "Finance Technology, or FinTech, as it is called has brought about a whirlwind change in the working of the ﬁnancial industry sector. It is one of the fastest and most adopted techs globally. Finance"
-    publishedDateTime: 2023-01-20T10:38:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-technologies-harbinger-of-financial-revolution-in-maharashtra/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-technologies-harbinger-of-financial-revolution-in-maharashtra/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/fintech-technologies-harbinger-of-financial-revolution-in-maharashtra/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
-  - title: "What the banks vs fintech debate gets wrong"
-    excerpt: "This need has led to the emergence of a completely new ecosystem, one that is more diverse and where fintechs and smaller banks take an increasing share of the real-time market. By flipping traditional infrastructure procurement on its head and standardising related operational and security capabilities,"
-    publishedDateTime: 2023-01-17T12:39:00Z
-    webUrl: "https://www.finextra.com/blogposting/23583/what-the-banks-vs-fintech-debate-gets-wrong"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-  - title: "KFintech Drives Digital Transformation and Innovation in the Financial Services Industry with AWS"
-    excerpt: "KFin Technologies Limited (KFintech), a leading technology-driven financial services firm, today announced it is using Amazon Web Services (AWS), to help the asset management industry digitally transform and build new products,"
-    publishedDateTime: 2023-01-17T00:00:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/17/9744752.htm"
+  - title: "Amazon Web Services Partners with Waton Securities International, Enabling Digital Transformation of Global Brokerage Firms with FinTech Solutions"
+    excerpt: "As a licensed brokerage firm and a FinTech solution provider ... In addition, Waton has built in automated risk management AI in our Broker Cloud platorm, which helps clients identify, monitor and manage various type of risks, and fulfil regulatory ..."
+    publishedDateTime: 2023-01-20T12:17:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/20/9746697.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 8
+    quality: 0
 
 secured: "y/scoNXx0Y5STJzqXOHdXjXLIG/IVZOv3KSLy5C/UYr1W/++J/Wh9wssfrlnFJiF3Yi1pPbMlAz3HhfMqqnN8vfpal6704UqWRhq26QKbyRnKE/tfy7wAShdhvf1bi7pLnWO8NX0HoU9mBmVk8hin75rh/srdeQNa5LoxJeyRnPTcncAAYWTLBCzA6foE+Kudbca53xhAugCVzCjbqHXd1vf++cSn+FG6hJUJhXu0DcesiwzEdLwIFSzfzBZBtJhPWfRemnHSL8IjGJKatTCEgH4Y5oco9B0gqaMPcJFeSwM73UX5VXeEXXhhIvT+kHZF2zgR261bCXCjURDnSxu8hdBj/PJNTUyW/TlJuRYsNM=;6iW0G0kHYhaPorsmAGgZPw=="
 ---

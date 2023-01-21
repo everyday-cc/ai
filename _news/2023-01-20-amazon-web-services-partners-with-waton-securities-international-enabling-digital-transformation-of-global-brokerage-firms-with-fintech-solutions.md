@@ -20,6 +20,20 @@ topics:
   - AWS AI
 
 related:
+  - title: "KFintech Drives Digital Transformation and Innovation in the Financial Services Industry with AWS"
+    excerpt: "(MENAFN- Adfactors PR ) January 17, 2023, Hyderabad: KFin Technologies Limited (KFintech), a leading technology-driven financial services firm ... including interactive dashboards that use AWS machine learning to automatically look for investment patterns ..."
+    publishedDateTime: 2023-01-18T04:12:00Z
+    webUrl: "https://menafn.com/1105442789/KFintech-Drives-Digital-Transformation-and-Innovation-in-the-Financial-Services-Industry-with-AWS"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 28
+    images:
+      - url: "https://menafn.com/updates/pr/2023-01/17/pr_11781_c1537bf4_image_story.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Deutsche Bank, Blue Water Fintech Lab Introduce Robotic Process Automation Commercialization Program"
     excerpt: "Deutsche Bank and its Blue Water Fintech Lab recently launched a Robotic Process Automation (RPA) commercialization program."
     publishedDateTime: 2023-01-17T17:26:00Z

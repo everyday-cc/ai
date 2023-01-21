@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: Wired
@@ -30,61 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "Artists file class-action lawsuit against AI image generator companies"
-    excerpt: "Some artists have begun waging a legal fight against the alleged theft of billions of copyrighted images used to train AI art generators and reproduce unique styles without compensating artists or asking for consent."
-    publishedDateTime: 2023-01-16T23:36:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/01/artists-file-class-action-lawsuit-against-ai-image-generator-companies/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/01/artists-file-class-action-lawsuit-against-ai-image-generator-companies/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/artists-file-class-action-lawsuit-against-ai-image-generator-companies/amp/"
+  - title: "AI tools can create new images, but who is the real artist?"
+    excerpt: "Artificial intelligence systems are training themselves on a vast collection of digitized artworks to produce new images that can be conjured in seconds from a smartphone app"
+    publishedDateTime: 2023-01-19T09:06:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ai-tools-create-new-images-real-artist-96532225"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-tools-create-new-images-real-artist-96532225"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-tools-create-new-images-real-artist-96532225"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/ai_lawsuit_hero-800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://s.abcnews.com/images/Health/wirestory_1c6d9e0e260e2d135a3e3bf98d5493df_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "AI art generators face separate copyright lawsuits from Getty Images and a group of artists"
-    excerpt: "Three artists have launched a class action against the companies behind Stable Diffusion, Midjourney, and DreamUp."
-    publishedDateTime: 2023-01-19T10:29:00Z
-    webUrl: "https://www.businessinsider.com/ai-art-artists-getty-images-lawsuits-stable-diffusion-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/ai-art-artists-getty-images-lawsuits-stable-diffusion-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-art-artists-getty-images-lawsuits-stable-diffusion-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://i.insider.com/63c82647eee94d001a78ce29?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Getty Images Has Started Legal Proceedings Against an AI Generative Art Company For Copyright Infringement"
-    excerpt: "Getty announced in a press release on Tuesday that it began legal proceedings against AI company Stability AI for intellectual property infringement."
-    publishedDateTime: 2023-01-18T17:33:00Z
-    webUrl: "https://www.entrepreneur.com/business-news/getty-images-to-ai-companies-stop-illegally-using-our/443216"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 51
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1674066815-SOPAImagesContributor.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Lawsuits accuse AI content creators of misusing copyrighted work"
-    excerpt: "A group of visual artists has sued artificial intelligence companies Stability AI Ltd, Midjourney Inc, and DeviantArt Inc for copyright infringement, adding to a fast-emerging line of intellectual property disputes over AI-generated work."
-    publishedDateTime: 2023-01-17T19:05:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/lawsuits-accuse-ai-content-creators-misusing-copyrighted-work-2023-01-17/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-01-19T18:45:00Z
@@ -98,6 +59,20 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
         width: 767
         height: 633
+        isCached: true
+  - title: "The best things about Toronto according to artificial intelligence"
+    excerpt: "What's the best thing about living in Toronto? Depending on who you ask, some might say the city's multiculturalism, thriving food scene, or the"
+    publishedDateTime: 2023-01-21T10:18:00Z
+    webUrl: "https://www.blogto.com/city/2023/01/best-things-about-toronto-according-artificial-intelligence/"
+    type: article
+    provider:
+      name: blogTO
+      domain: blogto.com
+    quality: 39
+    images:
+      - url: "https://media.blogto.com/articles/2023120-best-things-toronto.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
@@ -113,20 +88,15 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Art community fights for integrity as AI presents artificial images"
-    excerpt: "Artificial intelligence is adding art to its growing résumé. But artists and computer experts are starting to push back against companies that allow AI to create art from original works, citing copyright infringement and the possibility of misinformation."
-    publishedDateTime: 2023-01-20T15:44:00Z
-    webUrl: "https://www.csmonitor.com/The-Culture/Arts/2023/0120/Art-community-fights-for-integrity-as-AI-presents-artificial-images"
+  - title: "WATCH: How do AI art generators work and should artists fear them?"
+    excerpt: "Visual artists, designers, illustrators and many other creatives have watched the arrival of AI text-to-image generators with a mix of awe and apprehension. This new technology has sparked debate around the role of AI in visual art and issues such as style appropriation."
+    publishedDateTime: 2023-01-20T15:59:00Z
+    webUrl: "https://www.iol.co.za/news/feel-good/watch-how-do-ai-art-generators-work-and-should-artists-fear-them-24aaba97-ce37-4d79-8990-ca4a43be7fb1"
     type: article
     provider:
-      name: Christian Science Monitor
-      domain: csmonitor.com
-    quality: 37
-    images:
-      - url: "https://images.csmonitor.com/csm/2023/01/1150225_2_0120-art_standard.jpg?alias=standard_900x600"
-        width: 900
-        height: 600
-        isCached: true
+      name: Independent Online
+      domain: iol.co.za
+    quality: 19
 
 secured: "KSYuzGrSPrlxK6xgDOKsUDxpwvcgKM+SPkZxPhEH+rtpwHKVHv5mlqwSR/IRFm82lqmq7+dTAhPfi6srJufCqcSolCNpaUKKZ4Rjj/hM3eQa5cqZ16rnbUIAlzOyIOeaU4qV8viQfFeG3dytlsswy0tH3n8PR1Z/rzSLhj0CqLg0lUnrFoGZhiJn/A5T7mD+UrGOi9RGeJX0d9dsOEB/PzxJq9DweM3DzSLvbv/GgZPGoHmg7sosl3oJ1SZGncRuHVxXcbhSSAVVbQsrnNuTGVLC07pK7j7aq7jAGeVywFCnLnlNRw/Oh8/IA/+b8znB2W2aGradc1BZRHjC8mI/7LhieeezlVBJxTDB01dtezo=;mGfJkeTh8UwbaVzCsyYUgQ=="
 ---

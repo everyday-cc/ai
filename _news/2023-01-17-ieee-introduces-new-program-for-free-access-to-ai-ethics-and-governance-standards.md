@@ -24,6 +24,17 @@ images:
     height: 315
     isCached: true
 
-secured: "XbrMPU0xfbdEi2Zb/+C0eGXOjTRZ/i6HjjR/NR0tiSPCOekJriGCZ798B7q8tkSG4kd6ks+liv7ifhH3okaZRlWHMHQmH58Rc/HrtXljf1OcLVRfG5Ux/hA/kI3T+Ugs8uXh8WvvK4udTGKJmM0Rnb1Oss+dzV934j2xC8UWsu6GjRehy2oJ/y0aZPG4SumiSfZ8bMww1pJSOlgXQJEdHVcZPQizUxMA7wjK8DkbLcoPga2zBEgsiolEQdFljzFMoodGoqRu5xu8jH4sWpA6M5jPDA5bLIim8PAESnBqpbVmgx2ZzhoVZZzFKoC2yRmbbyezd7zN0aZeYm5Hdp+5gft9g6Y1DtTAdV8zsebe/s8=;S87r2QqepMonAW386iMfSA=="
+related:
+  - title: "IEEE Introduces New Program for Free Access to AI Ethics and Governance Standards"
+    excerpt: "By making available vital building blocks, the IEEE GET Program for AI Ethics and Governance Standards will help contribute to creating AI systems which are more trustworthy and further the goal ..."
+    publishedDateTime: 2023-01-17T16:51:00Z
+    webUrl: "https://www.businesswireindia.com/ieee-introduces-new-program-for-free-access-to-ai-ethics-and-governance-standards-82585.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 29
+
+secured: "WkwJuIiMDNH3uQYh7h4ue1Cxc8jvEC3QXgQcg2bNX+K3gT///pf53U4ltHLL/9QggT9SBWMzDjMX6Mbo1ePPjenbEa6INdIE3iiEBMnutyp60dArJwRja0ZdV9pCsvJsa1WACSjNDVO/W/W1JNkgeSfo8auVNKQbT4ltL0+UITyK0XxfmwiZMFet8mmT5fe5PFpygD7vSsD1dtuA0+K2AgdoPDVBFwdFt54uavZh/Kf1weFXuYUSNJdnoxDeEOukpfAYGo2VRKNyh8AolhfmIWUnxEHTt55KFvtKLl+/ScUudnh5od8qvbXB4frkc+CsFGNj/KX6uLlgtuWRwSbPOgmRVYBGqepEpl/VqMd/ZVs=;cmIrmSN7UJs9Ee+k9Czztg=="
 ---
 

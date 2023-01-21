@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Framework Science Revolutionizes Hiring Process with Cost-Effective, AI-Powered Staff Augmentation Services and Fintech"
-excerpt: "Using cutting-edge AI technology and a focus on fintech, Framework Science can build and manage teams faster and cost-effectively than any other company in the industry. One of the significant ..."
-publishedDateTime: 2023-01-12T20:33:00Z
-originalUrl: "https://fox59.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
-webUrl: "https://fox59.com/business/press-releases/ein-presswire/610563181/framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech/"
+excerpt: "Our focus on cost-effectiveness, AI-powered processes, and fintech payments set us apart from other providers.”— Jesus Romero SAN FRANCISCO, CALIFORNIA, UNITED STATES, January 12, 2023/ EINPresswire.com / -- Framework Science Revolutionizes Hiring Process with Cost-Effective,"
+publishedDateTime: 2023-01-12T20:01:00Z
+originalUrl: "https://apnews.com/article/mexico-ein-presswire-newsmatics-business-6b2dbec690e258cbae8c4b14731138db"
+webUrl: "https://apnews.com/article/mexico-ein-presswire-newsmatics-business-6b2dbec690e258cbae8c4b14731138db"
 type: article
 
 provider:
-  name: FOX59 News
-  domain: fox59.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "W00IEgh58Dk77tiWKz5wxYLVIy1eUoLMwBoStMUcoG/awoTYSxcNWwXR3v5oAnppkS/hFrVjmZq3nmOFo1/8sdcHVb/w0zvYRaCiaL+MkxbHGmqg35trDUjzATQc3t6eOS1Vtofquy8K1ZJHvx0UAsNKI5ZJzhMJLVBb4GZMvq8pwWvLTlx92UtAM1BxqF5G4J7ZbVgZNavYYeAfcXjQ881SX38/NhZnFAlOtGFjLP5yHqKnwOK1ODJfXwH3w8cPa4NsL34TcVpGrpxNKNNYA3T4cImto1b8JcvWBPo4ypSeYzLDDooqvBFZmjSa3UL/7Czi2xCSM7RBp91rD9iTowsFtiCCo2GPUy/6gChKeCE=;kjo6+dTDSvxe+uzoIngGww=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "MVkR0Q1MfKSZCnZ2dBkTjTgLoU6PE7VFDqpZ4WW+4n4Y8Q/qutaIxVCQhfJv/g0jVii1tkJaIaKc6q0mWcFdUu0GMzof4J3X8fZqmcOCpDGIjFEc5njw/RB5tB76LImC/vAhkDn+HivvIODKvYsE0sh3qVN6fUub9m1q8MqG3QEAQXc8ruyEh4pP/NlbJfanl7PqEHwhVeubMofzFW8uIOYklEMinQd2jgdXA6GvN3JB8/VIY/aepf+LPhPyr5hC4vjUipARk8L6EmldkyVEd77Selh4q2SEi0nfk2xkUipAFy02oaQN+lgP1pylhNERBFKARg115aaG2MaIyAyJpJNbd8lcmvTUYLCgFVTk5IY=;v2PopEzht9YOicZkqfFjsg=="
 ---
 

@@ -354,6 +354,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Musk Personally Oversaw Tesla's Staged Self-Driving Video"
+    excerpt: "Tesla CEO Elon Musk personally oversaw the 2016 video that exaggerated Autopilot's self-driving capabilities which is now the subject of a wrongful death lawsuit. The update comes from Bloomberg which claims it's viewed internal Tesla emails attesting to Musk's direct involvement in the video's production."
+    publishedDateTime: 2023-01-21T15:35:00Z
+    webUrl: "https://carbuzz.com/news/musk-personally-oversaw-teslas-staged-self-driving-video"
+    type: article
+    provider:
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 39
+    images:
+      - url: "http://cdn.carbuzz.com/gallery-images/900x600/1096000/100/1096116.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Musk Oversaw Video That Exaggerated Tesla’s Self-Driving, Emails Show"
     excerpt: "Elon Musk oversaw the creation of a 2016 video that exaggerated the abilities of Tesla Inc.’s driver-assistance system Autopilot, even dictating the opening text that claimed the company’s car drove itself."
     publishedDateTime: 2023-01-19T19:58:00Z

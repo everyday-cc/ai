@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-improves-field-service-q
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-improves-field-service-quality-and-customer-experience/"
 type: article
 quality: 87
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Artificial Intelligence Will Impact Customer Service: 5 Benefits AI Has To Offer"
+    excerpt: "How artificial intelligence will impact customer service: 5 Benefits AI has to offer . January 20, 2023 by mark allinson leave a comment . Whe"
+    publishedDateTime: 2023-01-21T13:37:00Z
+    webUrl: "https://menafn.com/1105459293/How-Artificial-Intelligence-Will-Impact-Customer-Service-5-Benefits-AI-Has-To-Offer"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 25
 
 secured: "YDRAW8COjgvT7ZZYAIDze9JmhaWS8BCO35pA/IOyBm8gGAug778IlqqWcAfOUBuQOsXGUxyU1Kr5de8YGgriOlhwXrth6homIImzYRB5cLcJvm2Y20R0tPXkSdjXsZ3trY00pno7GBmesyeW3rMVxai2LZUTEf8hLVUCknJnFDXUVW5LhtYqmqB827x/h6Nw5MajjsSB9YdVESwunNGGKU/dJWqZ/HOj/PhtVzK5i3PC0DiKCPTaEHWym0Ik5COzCLFhxDe04GvBe27CupTXHsVI1Y2SItZpHuL0ApssIiGfZhQFJplc0Nh5gKgG1HOJC5ccA1ydo2e4wpVHYzcK94bHiQhJXqsbmbHhe/0yElvqjVWhFXKmfoT33egaF24xZ5t6cAwJ4horFt8maGXvIcUD2JVbF4BO7xwFNILW36iDuQwJV6V/aW6lV3SngG22gEPvyR7NWJWMZoiUqclaHx4hHH9vEIGPYESssDL2iJZ9FHDleiDH/RUGRUUD6wSSkMWfOWPR0K7udU6fEdL+pA==;GIL+c861O6p2KisVUZDFGA=="
 ---

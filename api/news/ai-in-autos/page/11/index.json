@@ -2,6 +2,187 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-11-09-uae-launches-first-driverless-100-electric-vehicle.md",
+      "title": "UAE Launches First Driverless, 100% Electric Vehicle",
+      "excerpt": "The driverless and 100% electric shuttle is ... and Best Use of Automation categories at the prestigious 2021 Artificial Intelligence (AI) and Machine Learning Awards in the UK.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105154370/UAE-Launches-First-Driverless-100-Electric-Vehicle",
+      "originalUrl": "https://menafn.com/1105154370/UAE-Launches-First-Driverless-100-Electric-Vehicle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-enterprise-artificial-intelligence-market-share-size-competitive-strategies-and-forecast-2022-2028.md",
+      "title": "Enterprise Artificial Intelligence Market Share, Size, Competitive Strategies and Forecast 2022 – 2028",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Nov 08, 2022 (Heraldkeepers) -- The global Enterprise Artificial Intelligence market is segregated on the basis of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-share-size-competitive-strategies-and-forecast-2022-2028-2022-11-08?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-share-size-competitive-strategies-and-forecast-2022-2028-2022-11-08?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T20:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-waymo-can-now-charge-for-fully-driverless-services-in-san-francisco.md",
+      "title": "Waymo can now charge for fully driverless services in San Francisco",
+      "excerpt": "The California Department of Motor Vehicles approved an amendment to Waymo’s existing deployment permit Wednesday to include driverless, as well as drivered, operations. Now, Waymo will be able ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/",
+      "originalUrl": "https://techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/IPACE_3.jpeg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/amp/",
+      "publishedDateTime": "2022-11-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-artificial-intelligence-ai-takes-a-role-in-uspto-patent-searches.md",
+      "title": "Artificial Intelligence (AI) Takes a Role in USPTO Patent Searches",
+      "excerpt": "In 2021 the U.S. Patent and Trademark Office (USPTO) developed an Artificial Intelligence (AI) based prototype search system for use by examiners during examination of patent applications. A",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches",
+      "originalUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-ai-takes-role-uspto-patent-searches?amp",
+      "publishedDateTime": "2022-11-08T15:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-in-the-age-of-artificial-intelligence-human-skills-are-needed-more-than-ever.md",
       "title": "In the age of artificial intelligence, human skills are needed more than ever",
       "excerpt": "Alan Turing, widely considered to be the father of theoretical computer science and artificial intelligence, reportedly said that “once the machine thinking method had started, it would not take ...",
@@ -1168,208 +1349,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-waymos-self-driving-cars-are-now-taking-riders-to-the-phoenix-airport.md",
-      "title": "Waymo's Self-Driving Cars Are Now Taking Riders To The Phoenix Airport",
-      "excerpt": "Waymo, the company that specializes in self-driving car tech and that first existed as an ambitious Google project, has announced yet another major milestone in the world of autonomous driving: paid airport trips. As of November 1, 2022, some people have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1081772/waymos-self-driving-cars-are-now-taking-riders-to-the-phoenix-airport/",
-      "originalUrl": "https://www.slashgear.com/1081772/waymos-self-driving-cars-are-now-taking-riders-to-the-phoenix-airport/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/waymos-self-driving-cars-are-now-taking-riders-to-the-phoenix-airport/l-intro-1667350825.jpg",
-          "width": 1600,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T18:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-argo-ai-a-self-driving-tech-company-with-offices-in-austin-is-shutting-down-operations.md",
-      "title": "Argo AI, a self-driving tech company with offices in Austin, is shutting down operations",
-      "excerpt": "Argo AI, a company that had been testing autonomous vehicles in Austin, is shutting down. According to a report by KVUE's news partners at the Austin American-Stateman, the company is being absorbed by two of its biggest supporters,",
-      "sourceUrl": null,
-      "webUrl": "https://www.kvue.com/article/news/local/argo-ai-self-driving-austin-shut-down/269-b2655e2f-c1b1-4472-943b-448760c9338d",
-      "originalUrl": "https://www.kvue.com/article/news/local/argo-ai-self-driving-austin-shut-down/269-b2655e2f-c1b1-4472-943b-448760c9338d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.kvue.com/assets/KVUE/images/b0f511de-1e3e-488c-8d76-b76f56eecd46/b0f511de-1e3e-488c-8d76-b76f56eecd46_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kvue.com/amp/article/news/local/argo-ai-self-driving-austin-shut-down/269-b2655e2f-c1b1-4472-943b-448760c9338d",
-      "cdnAmpWebUrl": "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/local/argo-ai-self-driving-austin-shut-down/269-b2655e2f-c1b1-4472-943b-448760c9338d",
-      "publishedDateTime": "2022-11-01T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KVUE",
-        "domain": "kvue.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-self-driving-truck-firm-tusimple-face-probes-over-china-ties.md",
-      "title": "Self-Driving Truck Firm TuSimple Face Probes Over China Ties",
-      "excerpt": "U.S. government regulators are investigating whether self-driving trucking company, TuSimple, defrauded investors by sharing its technology with a Chinese startup, according to people familiar with the matter. The company has fired its CEO as part of its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/series/tech-news-briefing/self-driving-truck-firm-tusimple-face-probes-over-china-ties/526B2B6E-7E36-4E62-9DBB-A0671A3B5C1C",
-      "originalUrl": "https://www.wsj.com/video/series/tech-news-briefing/self-driving-truck-firm-tusimple-face-probes-over-china-ties/526B2B6E-7E36-4E62-9DBB-A0671A3B5C1C",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://images.wsj.net/im-656515?width=1280&height=720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-ai-is-running-out-of-computing-power-ibm-says-the-answer-is-this-new-chip.md",
-      "title": "AI is running out of computing power. IBM says the answer is this new chip",
-      "excerpt": "The hype suggests that artificial intelligence (AI) is already everywhere, but in reality the technology that drives it is still developing. Many AI applications are powered with chips that weren't designed for AI – instead, they rely on general-purpose ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-is-running-out-of-computing-power-ibm-says-the-answer-is-this-new-chip/",
-      "originalUrl": "https://www.zdnet.com/article/ai-is-running-out-of-computing-power-ibm-says-the-answer-is-this-new-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/df1c7593bb82d966aaa309915488b64e46238ce9/2022/10/28/85cb2f88-0b6a-4419-accd-78eca77bf320/ibmaiu.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-is-running-out-of-computing-power-ibm-says-the-answer-is-this-new-chip/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-running-out-of-computing-power-ibm-says-the-answer-is-this-new-chip/",
-      "publishedDateTime": "2022-11-01T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos",
-        "AI in Healthcare",
-        "IBM AI"
       ]
     }
   ],

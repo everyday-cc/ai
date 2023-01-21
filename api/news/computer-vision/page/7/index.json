@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-04-an-animal-model-of-west-syndrome-exhibits-a-progressive-increase-in-epileptic-spasms-and-learning-and-memory-deficits.md",
+      "title": "An animal model of West syndrome exhibits a progressive increase in epileptic spasms and learning and memory deficits",
+      "excerpt": "Researchers have provided the first demonstration of a progressive increase in epileptic spasms along with learning and memory deficits in an animal model of this disorder.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221103140808.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221103140808.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-tag-intelligent-object-recognition.md",
+      "title": "Tag: intelligent object recognition",
+      "excerpt": "ST. PAUL, Minn. – Alula, a provider of smart security and system communications for residential and commercial applications has announced several enhanced features for its Alula Smart Security App and AlulaConnect dealer portal. The features and updates ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.securitysystemsnews.com/tag/intelligent-object-recognition",
+      "originalUrl": "https://www.securitysystemsnews.com/tag/intelligent-object-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.securitysystemsnews.com/images/og-default-image.png",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security Systems News",
+        "domain": "securitysystemsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-retail-technology-gains-intelligence-from-computer-vision.md",
       "title": "Retail technology gains intelligence from computer vision",
       "excerpt": "This is where artificial intelligence (AI) and computer vision come into play, enabling cashless checkout and stock management. Cameras and sensors have been used by a number of enterprises in recent years to detect things and ring them up,",
@@ -1291,102 +1377,6 @@
       "provider": {
         "name": "Barron's",
         "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-texas-ag-sues-google-for-over-facial-and-voice-data-collection.md",
-      "title": "Texas AG sues Google for over facial and voice data collection",
-      "excerpt": "The complaint underscores the role of individual states in protecting users' information on the internet in the absence of a federal privacy law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
-      "originalUrl": "https://www.cnbc.com/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107051880-16510024222022-04-26t170649z_1339263067_rc24vt9ijs8a_rtrmadp_0_usa-court-immigration.jpeg?v=1666280902",
-          "width": 3500,
-          "height": 2334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
-      "publishedDateTime": "2022-10-20T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-targeting-ai-computer-vision-innodisk-launches-new-camera-module-series.md",
-      "title": "Targeting AI & Computer Vision, Innodisk Launches New Camera Module Series",
-      "excerpt": "and are expected to achieve outstanding results in the increasingly prosperous field of AI computer vision applications.\" Innodisk hopes that its latest expansion into the camera market alongside ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/targeting-ai-computer-vision-innodisk-launches-new-camera-module-series",
-      "originalUrl": "https://www.asiaone.com/business/targeting-ai-computer-vision-innodisk-launches-new-camera-module-series",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/pr-newswire_500_4_1128.jpg?h=7de12b8a&itok=RhGXQ4Eq",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
         "images": null,
         "publishers": null,
         "authors": null

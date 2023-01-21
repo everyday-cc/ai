@@ -26,47 +26,73 @@ images:
     isCached: true
 
 related:
-  - title: "AI tools can create new images, but who is the real artist?"
-    excerpt: "With some generated images traveling on social networks and potentially going viral, they can be challenging to debunk since they can’t be traced back to a specific tool or data source"
-    publishedDateTime: 2023-01-20T15:38:00Z
-    webUrl: "https://www.wcvb.com/article/ai-images-who-is-real-artist/42592783"
-    ampWebUrl: "https://www.wcvb.com/amp/article/ai-images-who-is-real-artist/42592783"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/ai-images-who-is-real-artist/42592783"
+  - title: "How to Spot AI-Generated Art, According to Artists"
+    excerpt: "Creatives disagree about the ethical uses of these tools, but one thing is clear: AI art identification is about to become a whole lot harder."
+    publishedDateTime: 2023-01-21T11:59:00Z
+    webUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/"
+    ampWebUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
     type: article
     provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
-    quality: 59
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap23011863010313-1-1674235508.jpg?crop=1.00xw:0.846xh;0,0.0337xh&resize=1200:*"
+      - url: "https://media.wired.com/photos/63cb1161c70009d9f70493f1/master/pass/How-To-Spot-AI-Art-Culture-1316701501.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-01-19T18:45:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/01/19/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "The best things about Toronto according to artificial intelligence"
+    excerpt: "What's the best thing about living in Toronto? Depending on who you ask, some might say the city's multiculturalism, thriving food scene, or the"
+    publishedDateTime: 2023-01-21T10:18:00Z
+    webUrl: "https://www.blogto.com/city/2023/01/best-things-about-toronto-according-artificial-intelligence/"
+    type: article
+    provider:
+      name: blogTO
+      domain: blogto.com
+    quality: 39
+    images:
+      - url: "https://media.blogto.com/articles/2023120-best-things-toronto.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70"
         width: 1200
-        height: 677
+        height: 630
         isCached: true
-  - title: "Artificial intelligence turns its artistry to creating human proteins"
-    excerpt: "Last spring, an artificial intelligence lab called OpenAI unveiled technology that lets you create digital images simply by describing what you want to see. Called DALL-E, it sparked a wave of ..."
-    publishedDateTime: 2023-01-17T01:21:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/artificial-intelligence-intelligence-turns-its-artistry-to-creating-human-proteins/?amp=1"
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-01-21T01:00:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/01/20/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 43
-  - title: "AI Tools Can Create New Images, But Who Is the Real Artist"
-    excerpt: "Countless artists have taken inspiration from The Starry Night since Vincent Van Gogh painted the swirling scene in 1889 Now artificial inte"
-    publishedDateTime: 2023-01-21T08:47:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273407545/ai-tools-can-create-new-images-but-who-is-the-real-artist"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
+      name: Law
+      domain: law.com
+    quality: 39
     images:
-      - url: "https://cdn.bignewsnetwork.com/voa1674288420.jpg"
-        width: 630
-        height: 420
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
+  - title: "WATCH: How do AI art generators work and should artists fear them?"
+    excerpt: "Visual artists, designers, illustrators and many other creatives have watched the arrival of AI text-to-image generators with a mix of awe and apprehension. This new technology has sparked debate around the role of AI in visual art and issues such as style appropriation."
+    publishedDateTime: 2023-01-20T15:59:00Z
+    webUrl: "https://www.iol.co.za/news/feel-good/watch-how-do-ai-art-generators-work-and-should-artists-fear-them-24aaba97-ce37-4d79-8990-ca4a43be7fb1"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 19
 
 secured: "BB2jOrNDofcvygZCnHZ5qSiXv1ZwUAHS/wLJ5oK18GpZNWqb/gMrLWtX6xwtutK7d++hXpsoVHO451UlnEN4qnSMSiVZV6i2JAcC9HGnvZv8b/ABm3vReD9+yjWMR2fkb81KFuVM82wbUmRURu37E3SA95dS6fCrKsrorAADw+XCUScXQW44e6avM6Pg8ZIj5TT+k003cfzpBlVlsa9NWOD1wrqWTmVj0EQyBNwDts8E3sOoqkbqgdSPiYcD2mRsAcCCdr2t3IQLKcDMUOQzkbXLZidaA4tFyPDCKB56VGDwgjXGtnNhMY+noUv2h5CBMx34zFmu0xRFoGpPP2ec7IbFdWt6PY+T5qb3sQuUNeIU7jzWwCJkHaaqpAcdg4fknjzN8IxUZz2hoFPyFCUa1eKofs7sYEpkeJYz8Jnz8RWaMspkY+MDUPgaoV/n2qaV3IhOirvGiZ35Wlq3UX2SOSVBacY9j3RpKI84SgVtMeFylOMa5hPS3bAJosP09rVzRKJzk/pCU504+YvusM2aew==;1jZzeKfqW+oTH85wnrRBGw=="
 ---

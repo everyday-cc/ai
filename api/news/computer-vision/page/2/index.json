@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-08-controversy-illuminates-rise-of-facial-recognition-in-private-sector.md",
+      "title": "Controversy illuminates rise of facial recognition in private sector",
+      "excerpt": "That controversy is over technology -- specifically, facial recognition software. When Kelly Conlon, a lawyer, tried to join her daughter's Girl Scout troop at a Rockettes performance the weekend ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/controversy-illuminates-rise-facial-recognition-private-sector/story?id=96116545",
+      "originalUrl": "https://abcnews.go.com/Business/controversy-illuminates-rise-facial-recognition-private-sector/story?id=96116545",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Business/radio-gty-er-230105_1672951120625_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/controversy-illuminates-rise-facial-recognition-private-sector/story?id=96116545",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/controversy-illuminates-rise-facial-recognition-private-sector/story?id=96116545",
+      "publishedDateTime": "2023-01-07T17:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-07-facial-recognitions-alarming-pitfalls.md",
       "title": "Facial recognition's alarming pitfalls",
       "excerpt": "Facial recognition also lets you unlock smartphones and tablets without a password. Driving the news: A Black man was recently jailed for almost a week in Georgia after a facial recognition system incorrectly matched his face with a suspect in a New Orleans robbery,",
@@ -397,6 +440,50 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-facial-recognition-using-ai-with-aws.md",
+      "title": "Facial Recognition using AI with AWS",
+      "excerpt": "Amazon Rekognition is a cloud-based software as a service (SaaS) computer vision platform that was launched in 2016. It has been sold to and used by several United States government agencies as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/blogposting/23494",
+      "originalUrl": "https://www.finextra.com/blogposting/23494",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/visible_pictures/0fca5d20-d19f-4a5d-835e-53f3224e94a3.png",
+          "width": 500,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1196,103 +1283,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics.md",
-      "title": "eYs3D Hits CES with Computer Vision and AI for Medical, AIoT, Industrial and Retail Robotics",
-      "excerpt": "Intelligent Heterogeneous Integration Gives Machines Brains, Eyes and SensesTAIPEI, TAIWAN / ACCESSWIRE / December 15, 2022 / eYs3D, a silicon-plus-AI computer vision solutions company, will showcase",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/ac30100933/eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/ac30100933/eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30100933",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30100933",
-      "publishedDateTime": "2022-12-15T12:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-the-future-of-retail-four-ways-for-the-industry-to-utilize-ai.md",
-      "title": "The Future Of Retail: Four Ways For The Industry To Utilize AI",
-      "excerpt": "It’s only a matter of time before AI-powered checkouts, improved planograms and enhanced in-store engagement will be widely adopted to enhance the shopping experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-future-of-retail-four-ways-for-the-industry-to-utilize-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-future-of-retail-four-ways-for-the-industry-to-utilize-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63987a772c2281472c7ab5e5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-future-of-retail-four-ways-for-the-industry-to-utilize-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-future-of-retail-four-ways-for-the-industry-to-utilize-ai/amp/",
-      "publishedDateTime": "2022-12-14T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

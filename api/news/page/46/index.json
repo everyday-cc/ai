@@ -2,6 +2,473 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2022-12-06-apples-first-car-effort-might-not-be-self-driving-after-all.md",
+      "title": "Apple’s first car effort might not be self-driving after all",
+      "excerpt": "Last year, reports indicated that Apple would debut a fully self-driving car in 2025, but now, the vehicle is delayed until 2026 and will not be autonomous. Apple sought to build the first ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/06/apples-first-car-delayed-until-2026-wont-be-self-driving/",
+      "originalUrl": "https://techcrunch.com/2022/12/06/apples-first-car-delayed-until-2026-wont-be-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2015/02/apple-car.png?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/06/apples-first-car-delayed-until-2026-wont-be-self-driving/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/apples-first-car-delayed-until-2026-wont-be-self-driving/amp/",
+      "publishedDateTime": "2022-12-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-global-robot-control-cabinet-market-size-and-market-scenario-2022-by-marketing-channel-distributors-customers-and-forecast-to-2028.md",
+      "title": "Global Robot Control Cabinet Market Size and Market Scenario 2022 by Marketing Channel, Distributors, Customers and Forecast to 2028",
+      "excerpt": "The Global “Robot Control Cabinet Market” research report give detailed expansion of the main growth drivers, market size estimates and forecasts. The report looks at current scenarios ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-robot-control-cabinet-market-size-and-market-scenario-2022-by-marketing-channel-distributors-customers-and-forecast-to-2028-2022-12-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-robot-control-cabinet-market-size-and-market-scenario-2022-by-marketing-channel-distributors-customers-and-forecast-to-2028-2022-12-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app-winner-of-5th-annual-call-for-code.md",
+      "title": "IBM and David Clark Cause Aim to Reduce Food Waste; Name AI-Powered Gardening App Winner of 5th Annual Call for Code",
+      "excerpt": "Today, Call for Code founding partner IBM (NYSE: IBM), creator, David Clark Cause, charitable partner United Nations Human Rights, and program affiliate, the Linux Foundation announced the winner of the fifth annual Call for Code Global Challenge,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/12/06/9725673.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/12/06/9725673.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1962901/IBM_GardenMate_Team.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-too-much-sodium-not-enough-potassium-may-lead-to-cognitive-decline.md",
+      "title": "Too much sodium, not enough potassium may lead to cognitive decline",
+      "excerpt": "Share on Pinterest A recent study shows that consuming high levels of sodium is associated with cognitive decline while a diet high in potassium is linked to improved cognitive function.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medicalnewstoday.com/articles/too-much-sodium-not-enough-potassium-may-lead-to-cognitive-decline",
+      "originalUrl": "https://www.medicalnewstoday.com/articles/too-much-sodium-not-enough-potassium-may-lead-to-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical News Today",
+        "domain": "medicalnewstoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-ai-simulants-could-save-time-and-money-on-new-medications.md",
+      "title": "AI ‘Simulants’ Could Save Time and Money on New Medications",
+      "excerpt": "Clinical trials “are really difficult, they’re time-consuming, and they're extremely expensive,” says Naheed Kurji, chair of the Alliance for Artificial Intelligence in Healthcare board ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.webmd.com/a-to-z-guides/news/20221130/ai-simulants-could-save-time-and-money-on-new-medications",
+      "originalUrl": "https://www.webmd.com/a-to-z-guides/news/20221130/ai-simulants-could-save-time-and-money-on-new-medications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/advancements_for_treatments_of_ra_slideshow/1800ss_getty_rf_artificial_intelligence_concept.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T15:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WebMD",
+        "domain": "webmd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-the-newest-nfl-star-could-be-a-data-scientist-using-ml-and-ai-to-keep-players-safe.md",
+      "title": "The newest NFL star could be a data scientist: Using ML and AI to keep players safe",
+      "excerpt": "In an innovative partnership between the NFL and AWS, data scientists on Kaggle are being commissioned to identify player contact, incentivized by a $50,000 prize.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/",
+      "originalUrl": "https://www.zdnet.com/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7b8eab768146a43a8ec7235e8116f15e0f9dfc84/2022/12/05/ad61d4d4-9461-4f68-b1fa-8623791362e4/digitalath2.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/",
+      "publishedDateTime": "2022-12-05T15:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-no-linux-no-problem-just-get-ai-to-hallucinate-it-for-you.md",
+      "title": "No Linux? No problem. Just get AI to hallucinate it for you",
+      "excerpt": "The simulated rabbit hole goes deep, and ChatGPT can even hallucinate new Linux commands. In a prompting maneuver similar to conjuring up an AI-hallucinated Linux shell, someone named gfodor on Twitter discovered that OpenGPT could simulate calling a vintage dial-up BBS,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/12/openais-new-chatbot-can-hallucinate-a-linux-shell-or-calling-a-bbs/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/12/openais-new-chatbot-can-hallucinate-a-linux-shell-or-calling-a-bbs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ai_terminal_hero_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/12/openais-new-chatbot-can-hallucinate-a-linux-shell-or-calling-a-bbs/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/openais-new-chatbot-can-hallucinate-a-linux-shell-or-calling-a-bbs/amp/",
+      "publishedDateTime": "2022-12-05T14:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-how-are-hearing-aids-and-dementia-related-a-new-study-explains.md",
+      "title": "How are hearing aids and dementia related? A new study explains",
+      "excerpt": "Hearing aids might be an important tool in the effort to prevent cognitive decline and dementia, according to a new study. Research has established that hearing loss in an important risk factor in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/12/05/health/hearing-loss-dementia-study-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2022/12/05/health/hearing-loss-dementia-study-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221205095708-hearing-loss-dementia-wellness-stock-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/12/05/health/hearing-loss-dementia-study-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/05/health/hearing-loss-dementia-study-wellness/index.html",
+      "publishedDateTime": "2022-12-05T14:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-use-it-or-lose-it-hearing-aids-linked-to-cognitive-benefit.md",
+      "title": "Use It, or Lose It: Hearing Aids Linked to Cognitive Benefit",
+      "excerpt": "Opens in a new tab or window Restoring hearing loss with hearing aids or cochlear implants was linked with less long-term cognitive decline and even some gain, a systematic review and meta ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/geriatrics/dementia/102061",
+      "originalUrl": "https://www.medpagetoday.com/geriatrics/dementia/102061",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/102xxx/102061.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T13:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-why-dubai-has-turned-a-magnate-for-indias-tech-talent.md",
+      "title": "Why Dubai has turned a magnate for India's tech talent",
+      "excerpt": "An ongoing digital transformation is adding to Dubai's attractions as a tech hub. What can India learn from it?",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/industry/infrastructure/dubais-tech-pitch-to-the-world-11670260716327.html",
+      "originalUrl": "https://www.livemint.com/industry/infrastructure/dubais-tech-pitch-to-the-world-11670260716327.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/12/05/600x338/EMIRATES-TECHNOLOGY--_1670260857066_1670260857256_1670260857256.JPG",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/industry/infrastructure/dubais-tech-pitch-to-the-world/amp-11670260716327.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infrastructure/dubais-tech-pitch-to-the-world/amp-11670260716327.html",
+      "publishedDateTime": "2022-12-05T13:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-amazons-new-chip-moves-aws-into-high-performance-computing.md",
       "title": "Amazon’s new chip moves AWS into high-performance computing",
       "excerpt": "Peter DeSantis, a senior vice president who oversees most of AWS’s engineering teams, said in an interview that the product is a springboard for making what the industry calls high-performance ...",
@@ -678,453 +1145,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence.md",
-      "title": "The Future Is Now: Transforming PCB Manufacturing Using Artificial Intelligence",
-      "excerpt": "Manufacturers are exploring ways to increase the efficiencies by which essential electronic components are produced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62a797a880eca7dbef9036cc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-12-05T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-ncsoft-leads-ai-powered-ethical-management.md",
-      "title": "NCSoft leads AI-powered ethical management",
-      "excerpt": "NCSoft, a local video game developer, is accelerating efforts to establish ethical management of artificial intelligence (AI) data, a principle defined by privacy, unbiasedness and transparency, the firm said Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://koreatimes.co.kr/www/nation/2022/12/419_340853.html",
-      "originalUrl": "https://koreatimes.co.kr/www/nation/2022/12/419_340853.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202211/7220eb5952ec45e790b30602b134566e.jpg",
-          "width": 980,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=340853",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=340853",
-      "publishedDateTime": "2022-12-05T04:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-top-six-trends-and-recommendations-for-ai-and-ml-in-2023.md",
-      "title": "Top Six Trends (And Recommendations) For AI And ML In 2023",
-      "excerpt": "Manasi Vartak is founder and CEO of Verta, a Palo Alto-based provider of solutions for Operational AI and ML Model Management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-trends-and-recommendations-for-ai-and-ml-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-trends-and-recommendations-for-ai-and-ml-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-05T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-world-cup-2022-can-you-outguess-our-ai-predictor-robot.md",
-      "title": "World Cup 2022: Can you outguess our AI predictor robot?",
-      "excerpt": "Al Jazeera’s AI robot has made up for a shaky start and has correctly predicted the outcome of all four knockout games.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aljazeera.com/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
-      "originalUrl": "https://www.aljazeera.com/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aljazeera.com/wp-content/uploads/2022/12/INTERACTIVE-Kashef-prediction-scorecard-December-5.jpg?resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aljazeera.com/amp/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
-      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
-      "publishedDateTime": "2022-12-05T03:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports.md",
-      "title": "DigiYatra: Facial recognition technology is now available at these Indian airports",
-      "excerpt": "With the assistance of a facial recognition software known as \"DigiYatra,\" you will be able to sail through the process of flying, which will now be paperless and contactless.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/articleshow/96000093.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/articleshow/96000093.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-53688,msid-96000068/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/amp_articleshow/96000093.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/amp_articleshow/96000093.cms",
-      "publishedDateTime": "2022-12-05T01:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-medical-studies-get-tech-edge-with-ai-machine-learning-remote-care.md",
-      "title": "Medical studies get tech edge with AI, machine learning, remote care",
-      "excerpt": "New-age technologies like Artificial Intelligence (AI) and Machine Learning (ML) have taken diagnosis, treatment, post-operative care, remote patient care and palliative care to a whole new level. Exp",
-      "sourceUrl": null,
-      "webUrl": "https://health.economictimes.indiatimes.com/news/education/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/95993114",
-      "originalUrl": "https://health.economictimes.indiatimes.com/news/education/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/95993114",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-95993114,imgsize-87468,width-1200,height-628,overlay-ethealthworld/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/education/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/95993114",
-      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/education/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/95993114",
-      "publishedDateTime": "2022-12-04T21:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "health.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-aws-reinvent-2022-round-up-data-management-ai-compute-take-centre-stage.md",
-      "title": "AWS re:Invent 2022 round-up: Data management, AI, compute take centre stage",
-      "excerpt": "AI features added to multiple services To help enterprises get more of a return on their data, AWS added new artificial intelligence (AI) features to a range of other services, including Textract, Transcribe, Kendra, CodeWhisperer, and HealthLake.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round-up-data-management-ai-compute-take-centre-stage/",
-      "originalUrl": "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round-up-data-management-ai-compute-take-centre-stage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/adam_selipsky_aws_6.jpg",
-          "width": 504,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-04T19:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud.md",
-      "title": "Cerebras Announces Pay-As-You-Go AI Training On Cirrascale Cloud",
-      "excerpt": "Company claims it can train AI 8X faster than AWS at half the cost for large models. Cerebras is not your typical AI chip company. And thats a good thing. We already have a lot of knock-offs taking on NVIDIA, and they all seem to do a good job of knocking ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/638e4946cfebecc8ea93c5c7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/amp/",
-      "publishedDateTime": "2022-12-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-cuttlefish-passed-a-cognitive-test-designed-for-humans.md",
-      "title": "Cuttlefish passed a cognitive test designed for humans",
-      "excerpt": "This discovery, the researchers say, is an example of advanced self-control and shows that the creatures perform better in cognitive tasks. It has also been hypothesized that these positive ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
-      "originalUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2022/12/AdobeStock_159088227.jpeg?quality=82&strip=all",
-          "width": 2400,
-          "height": 1596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-artificial-intelligence-and-heart-care-pt-1.md",
-      "title": "Artificial intelligence and heart care — Pt 1",
-      "excerpt": "ARTIFICIAL intelligence (AI ... systems, and convolutional neural networks. In medical imaging, and more particularly cardiovascular imaging, AI has become very instrumental in efficiently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/",
-      "originalUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imengine.public.prod.jam.navigacloud.com/?uuid=bed7186e-bbf9-52e7-a219-69c1352aa6fb&function=fit&type=preview",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/amp/",
-      "cdnAmpWebUrl": "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/amp/",
-      "publishedDateTime": "2022-12-04T10:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jamaica Observer",
-        "domain": "jamaicaobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

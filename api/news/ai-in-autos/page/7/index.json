@@ -2,6 +2,200 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-02-stop-your-public-cloud-ai-projects-from-dripping-you-dry.md",
+      "title": "Stop your public-cloud AI projects from dripping you dry",
+      "excerpt": "The public cloud helped bring AI into the mainstream, but that doesn't mean every AI application should run there. Here's how to decide.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/",
+      "originalUrl": "https://venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1225889323.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/amp/",
+      "publishedDateTime": "2022-12-01T17:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-artificial-intelligence-in-education-market-research-2022-growth-trends-outlook-and-future-scope-analysis-2030.md",
+      "title": "Artificial Intelligence in Education Market Research 2022 – Growth, Trends, Outlook and Future Scope Analysis 2030",
+      "excerpt": "Dec 02, 2022 (Heraldkeepers) -- The global Artificial Intelligence in Education market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-research-2022-growth-trends-outlook-and-future-scope-analysis-2030-2022-12-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-research-2022-growth-trends-outlook-and-future-scope-analysis-2030-2022-12-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Education",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-gms-cruise-seeking-to-test-driverless-origin-robotaxi-on-san-francisco-streets.md",
+      "title": "GM’s Cruise Seeking To Test Driverless Origin Robotaxi On San Francisco Streets",
+      "excerpt": "GM’s autonomous vehicle technology division, Cruise, is moving to test the Cruise Origin robotaxi on the streets of San Francisco without a steering wheel or manual controls. Per a recent report ...",
+      "sourceUrl": null,
+      "webUrl": "https://gmauthority.com/blog/2022/12/gms-cruise-seeking-to-test-driverless-origin-robotaxi-on-san-francisco-streets/",
+      "originalUrl": "https://gmauthority.com/blog/2022/12/gms-cruise-seeking-to-test-driverless-origin-robotaxi-on-san-francisco-streets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T14:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GM Authority",
+        "domain": "gmauthority.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-ai-will-thrive-in-3-key-areas-in-2023-despite-economic-conditions.md",
+      "title": "AI will thrive in 3 key areas in 2023, despite economic conditions",
+      "excerpt": "In 2023, experts predict that AI innovation will continue, focusing on human-centric, data-driven and generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-will-thrive-in-3-areas-despite-economic-conditions-experts-say/",
+      "originalUrl": "https://venturebeat.com/ai/ai-will-thrive-in-3-areas-despite-economic-conditions-experts-say/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1176838131.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-will-thrive-in-3-areas-despite-economic-conditions-experts-say/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-will-thrive-in-3-areas-despite-economic-conditions-experts-say/amp/",
+      "publishedDateTime": "2022-12-01T11:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-ai-could-have-20-chance-of-sentience-in-10-years-says-philosopher-david-chalmers.md",
       "title": "AI could have 20% chance of sentience in 10 years, says philosopher David Chalmers",
       "excerpt": "AI programs that combine sensing and action and world models might achieve fish-level intelligence, says the NeurIPS 2022 keynote speaker.",
@@ -1191,202 +1385,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Security",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-new-artificial-intelligence-could-help-humans-actually-talk-to-animals.md",
-      "title": "New Artificial Intelligence Could Help Humans Actually Talk To Animals",
-      "excerpt": "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/",
-      "originalUrl": "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsy",
-        "domain": "newsy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity.md",
-      "title": "Where CISOs rely on AI and machine learning to strengthen cybersecurity",
-      "excerpt": "However, artificial intelligence (AI) and machine learning (ML) are proving effective in strengthening cybersecurity by scaling data analysis volume while increasing response speeds and securing digital transformation projects under construction. “",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/",
-      "originalUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1401124210-Thinkhubstudio-e1669658425465.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/amp/",
-      "publishedDateTime": "2022-11-28T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-teslas-full-self-driving-beta-is-now-open-to-everyone-who-paid-for-it.md",
-      "title": "Tesla’s Full Self-Driving Beta Is Now Open to Everyone Who Paid for It",
-      "excerpt": "Tesla CEO Elon Musk reveals that Full Self-Driving Beta is available to Tesla owners who request it, ending an earlier period of smaller scale testing on public roads. The company's so-called Full ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoweek.com/news/green-cars/a42083804/tesla-full-self-driving-beta-wide-release/",
-      "originalUrl": "https://www.autoweek.com/news/green-cars/a42083804/tesla-full-self-driving-beta-wide-release/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tesla-4-1669643127.jpg?crop=1.00xw:0.896xh;0,0.104xh&resize=1200:*",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoweek",
-        "domain": "autoweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-how-ai-adoption-has-yet-to-reveal-its-real-potential.md",
-      "title": "How AI adoption has yet to reveal its real potential",
-      "excerpt": "New book, Power and Prediction, says the power of AI is evident now, but widespread AI adoption has yet to come.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1321461813-e1669649385546.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/amp/",
-      "publishedDateTime": "2022-11-28T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning",
         "AI in Autos"
       ]
     }

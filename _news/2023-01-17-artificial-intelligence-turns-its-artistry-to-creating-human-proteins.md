@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "AI tools can create new images, but who is the real artist?"
-    excerpt: "Artificial intelligence systems are training themselves on a vast collection of digitized artworks to produce new images that can be conjured in seconds from a smartphone app"
-    publishedDateTime: 2023-01-19T09:06:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ai-tools-create-new-images-real-artist-96532225"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-tools-create-new-images-real-artist-96532225"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-tools-create-new-images-real-artist-96532225"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/Health/wirestory_1c6d9e0e260e2d135a3e3bf98d5493df_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "AI Tools Can Create New Images, But Who Is the Real Artist"
     excerpt: "Countless artists have taken inspiration from The Starry Night since Vincent Van Gogh painted the swirling scene in 1889 Now artificial inte"
     publishedDateTime: 2023-01-21T08:47:00Z

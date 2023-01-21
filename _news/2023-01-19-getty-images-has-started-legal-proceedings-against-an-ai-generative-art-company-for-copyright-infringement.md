@@ -29,37 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "Artists file class-action lawsuit against AI image generator companies"
-    excerpt: "Some artists have begun waging a legal fight against the alleged theft of billions of copyrighted images used to train AI art generators and reproduce unique styles without compensating artists or asking for consent."
-    publishedDateTime: 2023-01-16T23:36:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/01/artists-file-class-action-lawsuit-against-ai-image-generator-companies/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/01/artists-file-class-action-lawsuit-against-ai-image-generator-companies/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/artists-file-class-action-lawsuit-against-ai-image-generator-companies/amp/"
+  - title: "The Morning After: Getty Images sues AI art generator"
+    excerpt: "Twitter admits it’s intentionally breaking third-party apps, Getty Images sues AI art generator over data-scraping allegations, Samsung’s new 200-megapixel sensor will probably appear in the Galaxy S23 Ultra."
+    publishedDateTime: 2023-01-18T12:48:00Z
+    webUrl: "https://www.engadget.com/the-morning-after-getty-images-sues-ai-art-generator-121539563.html"
+    ampWebUrl: "https://www.engadget.com/amp/the-morning-after-getty-images-sues-ai-art-generator-121539563.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-getty-images-sues-ai-art-generator-121539563.html"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-11/a0f17a10-6caf-11ed-adef-6471c8c12f2e"
+        width: 1536
+        height: 768
+        isCached: true
+  - title: "1923 cartoon predicts 2023’s AI art generators"
+    excerpt: "The vintage cartoon carries the caption It depicts a cartoonist standing by his drawing table and making plans for social events while an \"idea dynamo\" generates ideas and a \"cartoon dynamo\" renders the artwork."
+    publishedDateTime: 2023-01-19T16:52:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/amp/"
     type: article
     provider:
       name: Ars Technica
       domain: arstechnica.com
     quality: 87
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/ai_lawsuit_hero-800x450.jpg"
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/cartoon_dynamo_hero_main-800x450.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "How to Spot AI-Generated Art, According to Artists"
-    excerpt: "Creatives disagree about the ethical uses of these tools, but one thing is clear: AI art identification is about to become a whole lot harder."
-    publishedDateTime: 2023-01-21T11:59:00Z
-    webUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/"
-    ampWebUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: "https://media.wired.com/photos/63cb1161c70009d9f70493f1/master/pass/How-To-Spot-AI-Art-Culture-1316701501.jpg"
-        width: 2400
-        height: 1600
         isCached: true
   - title: "AI art generators face separate copyright lawsuits from Getty Images and a group of artists"
     excerpt: "Three artists have launched a class action against the companies behind Stable Diffusion, Midjourney, and DreamUp."
@@ -77,57 +77,93 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Lawsuits accuse AI content creators of misusing copyrighted work"
-    excerpt: "A group of visual artists has sued artificial intelligence companies Stability AI Ltd, Midjourney Inc, and DeviantArt Inc for copyright infringement, adding to a fast-emerging line of intellectual property disputes over AI-generated work."
-    publishedDateTime: 2023-01-17T19:05:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/lawsuits-accuse-ai-content-creators-misusing-copyrighted-work-2023-01-17/"
+  - title: "Getty sues Stable Diffusion, and the future of AI art could be at stake"
+    excerpt: "Getty Images, the stock-image powerhouse, is suing Stability AI over its AI art generator in a copyright infringement case that could help decide the future of AI art."
+    publishedDateTime: 2023-01-17T19:40:00Z
+    webUrl: "https://www.pcworld.com/article/1475597/getty-sues-stability-ai-and-the-future-of-ai-art-could-be-at-stake.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-01-19T18:45:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/01/19/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
+      name: PC World
+      domain: pcworld.com
+    quality: 69
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://www.pcworld.com/wp-content/uploads/2023/01/1153158881_marilyn_monroe_in_the_style_of_andy_warhol-CMS-primary-2.png?w=1024"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-01-21T01:00:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/01/20/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+  - title: "Getty Images targets AI firm for 'copying' photos"
+    excerpt: "Stability AI runs a tool called Stable Diffusion that allows users to generate mash-up images from a few words of text, but the firm uses material it scrapes from the web often without permission. The question of copyright is still in dispute,"
+    publishedDateTime: 2023-01-18T04:47:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/getty-images-targets-ai-firm-for-copying-photos/97078387"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/getty-images-targets-ai-firm-for-copying-photos/97078387"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/getty-images-targets-ai-firm-for-copying-photos/97078387"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 39
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://etimg.etb2bimg.com/thumb/msid-97078387,imgsize-37546,width-1200,height=765,overlay-etbrandequity/digital/getty-images-targets-ai-firm-for-copying-photos.jpg"
+        width: 1200
+        height: 765
         isCached: true
-  - title: "Art community fights for integrity as AI presents artificial images"
-    excerpt: "Artificial intelligence is adding art to its growing résumé. But artists and computer experts are starting to push back against companies that allow AI to create art from original works, citing copyright infringement and the possibility of misinformation."
-    publishedDateTime: 2023-01-20T15:44:00Z
-    webUrl: "https://www.csmonitor.com/The-Culture/Arts/2023/0120/Art-community-fights-for-integrity-as-AI-presents-artificial-images"
+  - title: "Getty Images is suing the creators of AI art tool Stable Diffusion for scraping its content"
+    excerpt: "Getty Images claims Stability AI ‘unlawfully’ scraped millions of images from its site. It’s a significant escalation in the developing legal battles between generative AI firms and content creators."
+    publishedDateTime: 2023-01-17T10:30:00Z
+    webUrl: "https://www.theverge.com/2023/1/17/23558516/ai-art-copyright-stable-diffusion-getty-images-lawsuit"
     type: article
     provider:
-      name: Christian Science Monitor
-      domain: csmonitor.com
-    quality: 37
+      name: The Verge
+      domain: theverge.com
+    quality: 57
     images:
-      - url: "https://images.csmonitor.com/csm/2023/01/1150225_2_0120-art_standard.jpg?alias=standard_900x600"
-        width: 900
-        height: 600
+      - url: "https://cdn.vox-cdn.com/thumbor/3lriwngDiXIMJuTa0zlasdWLb4A=/22x98:1519x1146/1200x628/filters:focal(775x611:776x612)/cdn.vox-cdn.com/uploads/chorus_asset/file/24365786/Screenshot_2023_01_17_at_09.55.27.png"
+        width: 1200
+        height: 628
         isCached: true
+  - title: "Getty Images Targets Artificial Intelligence Firm For \"Copying\" Photos"
+    excerpt: "Getty, which distributes stock images and news photos including those of AFP, accused Stability AI of profiting from its pictures and those of its partners."
+    publishedDateTime: 2023-01-18T05:56:00Z
+    webUrl: "https://www.ndtv.com/world-news/getty-images-targets-artificial-intelligence-firm-for-copying-photos-3702069"
+    ampWebUrl: "https://www.ndtv.com/world-news/getty-images-targets-artificial-intelligence-firm-for-copying-photos-3702069/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/getty-images-targets-artificial-intelligence-firm-for-copying-photos-3702069/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 57
+    images:
+      - url: "https://c.ndtvimg.com/2023-01/9mlda3p_stability-ai_625x300_18_January_23.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "Getty Images sues to determine who owns AI art"
+    excerpt: "Getty Images, the stock-image powerhouse, is suing Stability AI over its AI art generator in a copyright infringement case that could help decide the future of AI art."
+    publishedDateTime: 2023-01-17T18:39:00Z
+    webUrl: "https://www.pcworld.com/article/1475597/getty-sues-stability-ai-and-the-future-of-ai-art-could-be-at-stake.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 49
+  - title: "Getty Images suing the makers of popular AI art tool for allegedly stealing photos"
+    excerpt: "Getty Images announced a lawsuit against Stability AI, the company behind popular AI art tool Stable Diffusion, alleging the tech company committed copyright infringement."
+    publishedDateTime: 2023-01-17T19:48:00Z
+    webUrl: "https://edition.cnn.com/2023/01/17/tech/getty-images-stability-ai-lawsuit"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 41
+  - title: "Getty Images suing artificial intelligence firm Stability AI for 'copying' photos"
+    excerpt: "Stability AI runs a tool called Stable Diffusion that allows users to generate mash-up images from a few words of text, but the firm uses material it scrapes from the web often without permission."
+    publishedDateTime: 2023-01-17T13:45:00Z
+    webUrl: "https://www.newindianexpress.com/business/2023/jan/17/getty-images-suing-artificial-intelligencefirm-stability-ai-for-copying-photos-2538693.html"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 27
 
 secured: "YN3lH3JCJheyKC3+kxi//u3DRAYGY+xeJaPD6ZAptxJ83cZPvmbH6ZmvfmRTgac0CrCa37rAJMH21wmfWQKCdP/s2/lRAm5kTLWV8WTuZUqLvmbivPtvVIyKVFVmY/FLfvGzHH07bkgOP1d1etkisWOOO8KEzwo2G3SR1/uWIo0Ugn+5lZefUZ8a+8ttuVAp4INmg8IOYLuvkJCXmdri4FFIMNnejChlFBYa2MRQS71eN590SjPD59m0lQkalwBCVtkglcXo0D8aaGFy6zPuW1MQHrWHJgRgSeA9Ve30o1Hcz77TB6ESiMZHf5o0rJNXXJWbGiWkoI9/A+UmULLSP342H6oFqRVWt3p5IgO4Gg8Usi/BDDNY+tRjzsqJi7i2j3pxRFIxXryELeU6ghNJbITMuxiyvLgWoGZU0PxJlmMpDNoTld62VnoyX86hhdABDuiN3JMK1v+HpF25cvF1VdjROq7HiOsuZOUYXyJO/xiA2b5r1FpEOEflHS8/ePQkOBjw5JCF1O1zkh6H4/f6OA==;7kgEYNa3y+SOS7/mrhYkmg=="
 ---

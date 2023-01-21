@@ -2,6 +2,84 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-09-19-even-smartest-ai-models-dont-match-human-visual-processing-study.md",
+      "title": "Even smartest AI models don't match human visual processing: Study",
+      "excerpt": "Deep convolutional neural networks (DCNNs) do not see objects the way humans do -- using configural shape perception -- and that could be dangerous in real-world",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/articleshow/94293780.cms",
+      "originalUrl": "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/articleshow/94293780.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/94294619.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms",
+      "publishedDateTime": "2022-09-18T21:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-09-18-floating-shoe-display-and-its-optical-flow-with-computer-vision.md",
+      "title": "Floating Shoe Display And Its Optical Flow With Computer Vision",
+      "excerpt": "Digitalzakka brings a revolutionary and Jaw-Dropping Floating Shoe Display, innovatively designed by using the latest technology. Technology has done wonders in almost all businesses and has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/ab28907281/floating-shoe-display-and-its-optical-flow-with-computer-vision",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/ab28907281/floating-shoe-display-and-its-optical-flow-with-computer-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28907281",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28907281",
+      "publishedDateTime": "2022-09-17T22:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-17-the-creepy-problem-killing-ai-projects.md",
       "title": "The Creepy Problem Killing AI Projects",
       "excerpt": "But once you get into animatronics or the Sophia robot where they are trying to look and act human, they start to fall into the uncanny valley where many people find them to be creepy and are uncomfortable around them.",

@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Artificial Intelligence Will Impact Customer Service: 5 Benefits AI Has To Offer"
+    excerpt: "How artificial intelligence will impact customer service: 5 Benefits AI has to offer . January 20, 2023 by mark allinson leave a comment . Whe"
+    publishedDateTime: 2023-01-21T13:37:00Z
+    webUrl: "https://menafn.com/1105459293/How-Artificial-Intelligence-Will-Impact-Customer-Service-5-Benefits-AI-Has-To-Offer"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 25
 
 secured: "+fFrywuYhFPLC7v3RBLxZ2tyWbhFn0V6hSNgN9m/1JkoO/HAa8U6uqJC06GUSYkSGDyq6fj17JmrnVS/9KuJr3L+dbjifxzEBs2bKhrbUSCqdtmgzx93Uxk/AbjSCc6HhDbmu+FczF4ZbezCiVQRYpvvBzU0YRh9c9BrdAlPmQPJ9M6DLjKLYbP9Tylv12M8FEhwVyC4wQ7utsSl81rpc6JwxpzOcmTC9II2OVNwphFKMxN7yMd2nkxWBKHCKhz641Lrlojqc2RU75/vSE1lLoxAKhqByKcYB4JFkEaD5pQAudLvqU79esdPV5ZzUha+xIlLPCj+PzMB7d3jwDaYTmQDjjlCL2KeavJRPK5EuFQp90HPrqsSXQs4aTnN7UuJ+KDK6FisdFnonHlqgWmieVd3af9DCCkPNwOOOTxlngTsJfqmg1dfNcA/C0nfSsXDFlc7VIqwd+hgjQ7D4jIzgb+JU/di01fsHd5HUvEkHFesiGSFjNtgo5+uLRDT4Sm3R2x2B9oPC7ajavGHH4wQBQ==;V0atGJfaDaer5115+8msNg=="
 ---

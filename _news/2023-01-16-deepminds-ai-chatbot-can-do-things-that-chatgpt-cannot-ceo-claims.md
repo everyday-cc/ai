@@ -15,6 +15,12 @@ topics:
   - Google AI
   - AI
 
-secured: "s6f1YQxT9WeQ71bRQIp/Oilb66q8oGfseDmIfn9gJ8F50ekQMI4UNVtHiHdOPf0Fbv2cwNRaJ6FR1nDKKjGyk/J1V84lA+A+GxTQGWIj7KtkUBxVqBzEDq9VZ+yCoJx59hF7cYbR1g7ThjuH4gF2tuiguyKjx6vsvyFrYwtpHRGoniojt4QcQWe46NjmWgqir2AK4hQ2N4ofYDGS936f+3h81ibVIn+tf5yUn6c0AaUjJ725t9YBHfqB14soXfRncOl5k6EF+ICkisxv/M/tP8+S/3tlbiH8WBpNwjXrM2CIWLTEQ6gG92FvEwsnCoca1jBsbINe4A/9Oy0EpQZOvPQXjYDVs4/Pw5IugtOqb68=;cIluR8otFczRQND/5e3Nzw=="
+images:
+  - url: "https://static.independent.co.uk/2022/05/17/10/deepmind%20ai%20artificial%20general%20intelligence.jpg?quality=75&width=1200&auto=webp"
+    width: 1200
+    height: 900
+    isCached: true
+
+secured: "MBGf5QgEAC01rZw6ZupRc0/wbdHq+0YTyQr1VzP43YGqozncLVpKzuXQsJl8I7eVOLRxcBgKIFMZoQbRUAoj66BoANmLECxzSz62oZ76gF4MxyqlPFm1m4by88aCzrBuqfghScd6RdJbjLV2mEwPDvaFWrAfOP5jcRpfxojwpcfL4ppAauU8KZngp5Ka4GgpigaXfvKOHRYkrxjxQqWwJMmmMTHQrzUWRNNPPo7D8eV+0YW54cV4cZhAK1uJN4wskOCbLVyGbnnpb/Khz70PuApKaGshBh3CjCrHTDNhYmmSBsusUp0fQsT8lkwhzW+JLRfGYp5q339zvx6KGHb+1tLnZmT4F2YCaoVlXT870jM=;zK9uyvlx++zKNhujR20ojQ=="
 ---
 

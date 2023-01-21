@@ -2,6 +2,490 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2022-10-13-nvidia-not-cutting-it-google-and-amazons-latest-ai-chips-have-arrived.md",
+      "title": "Nvidia not cutting it? Google and Amazon’s latest AI chips have arrived",
+      "excerpt": "Kicking things off with Amazon, the cloud provider's Trainium chips are now generally available on AWS. First previewed at AWS re:Invent last year, Amazon's Trainium-powered Trn1n instances are designed to train large machine-learning models,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/10/11/google_amazon_ai_chips_nvidia/?td=rt-9cp",
+      "originalUrl": "https://www.theregister.com/2022/10/11/google_amazon_ai_chips_nvidia/?td=rt-9cp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/01/12/shutterstock_ai_chip.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/10/11/google_amazon_ai_chips_nvidia/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/10/11/google_amazon_ai_chips_nvidia/",
+      "publishedDateTime": "2022-10-12T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-microsoft-ignite-22-focuses-on-employee-engagement-developer-innovation-among-others.md",
+      "title": "Microsoft Ignite ‘22 focuses on employee engagement, developer innovation, among others",
+      "excerpt": "Satya Nadella laid out the five core imperatives that Microsoft is focused on, and then provided updates for each of them.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/microsoft/microsoft-ignite-22-microsoft-focuses-on-employee-engagement-developer-innovation-among-others/",
+      "originalUrl": "https://sdtimes.com/microsoft/microsoft-ignite-22-microsoft-focuses-on-employee-engagement-developer-innovation-among-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-12-at-2.03.39-PM.jpg",
+          "width": 969,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-robot-artist-ai-da-reset-while-speaking-to-uk-politicians.md",
+      "title": "Robot artist Ai-Da reset while speaking to UK politicians",
+      "excerpt": "Ai-Da, the world's first ultra-realistic humanoid robot artist, answered questions from UK lawmakers during a session hosted by the House of Lords Communications and Digital Committee, according to Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn/video/playlists/stories-worth-watching/",
+      "originalUrl": "https://edition.cnn.com/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn/video/playlists/stories-worth-watching/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221012154424-robot-ai-da-uk-parliament-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn",
+      "publishedDateTime": "2022-10-12T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-helping-the-body-and-brain-welcome-bionic-limbs-and-implants.md",
+      "title": "Helping the body and brain welcome bionic limbs and implants",
+      "excerpt": "Not that long ago, the concept of the bionic human seemed far-fetched, but wearable robotic suits, brain-controlled extra limbs and mind-operated wheelchairs are now under active development.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-10-body-brain-bionic-limbs-implants.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-body-brain-bionic-limbs-implants.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/helping-the-body-and-b.jpg",
+          "width": 2880,
+          "height": 1859,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-10-body-brain-bionic-limbs-implants.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-body-brain-bionic-limbs-implants.amp",
+      "publishedDateTime": "2022-10-12T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-pixel-7-pro-review-googles-best-flagship-phone-gets-better.md",
+      "title": "Pixel 7 Pro Review: Google's Best Flagship Phone Gets Better",
+      "excerpt": "The $899 Pixel 7 Pro may feel familiar to the 6 Pro, but it's still fantastic. Google's $899 (£849, AU$1,299) Pixel 7 Pro only has a few changes from last year's Pixel 6 Pro, but that's because a complete overhaul isn't something the company needed to do this time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/pixel-7-pro-review-googles-best-flagship-phone-gets-better/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/pixel-7-pro-review-googles-best-flagship-phone-gets-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/4cf905eed562580af9097870448c30b2b61a6a13/hub/2022/10/11/045aec54-0c3c-463d-8416-a49cae733942/pixel-7-pro-watch-lanxon-promo-11.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/pixel-7-pro-review-googles-best-flagship-phone-gets-better/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/pixel-7-pro-review-googles-best-flagship-phone-gets-better/",
+      "publishedDateTime": "2022-10-12T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-fake-joe-rogan-and-steve-jobs-ai-powered-interview-freaks-out-the-internet.md",
+      "title": "Fake Joe Rogan and Steve Jobs AI-Powered Interview Freaks Out the Internet",
+      "excerpt": "A recent episode of podcast.ai pairs Jobs with Joe Rogan, whose own podcast The Joe Rogan Experience has been a runaway success. \"Hello, freak b**ches,\" the fake Rogan said in opening. \"Welcome to another episode of The Bro Jogan Experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275",
+      "originalUrl": "https://www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2132825/steve-jobs-joe-rogan-split-photo.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275?amp=1",
+      "publishedDateTime": "2022-10-12T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-movr-announces-partnership-with-xtra-a-computer-vision-technology-for-health-and-wellness-providers.md",
+      "title": "movr announces partnership with XTRA, a computer vision technology for health and wellness providers",
+      "excerpt": "VANCOUVER, BC, Oct. 12, 2022 /PRNewswire/ - movr (), a movement health company, announced its partnership with XTRA (), a computer vision technology for health and wellness providers. XTRA's video ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20221012va99359/movr-announces-partnership-with-xtra-a-computer-vision-technology-for-health-and-wellness-providers",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20221012va99359/movr-announces-partnership-with-xtra-a-computer-vision-technology-for-health-and-wellness-providers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-microsoft-expands-azure-openai-service-with-dall-e-2-in-preview.md",
+      "title": "Microsoft expands Azure OpenAI Service with DALL-E 2 in preview",
+      "excerpt": "When Azure OpenAI Service launched in 2021, the service — a part of Azure Cognitive Services — provided ... in May with fine-tuning features, Microsoft is today introducing invite-only access ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/12/microsoft-expands-azure-openai-service-with-dall-e-2-in-preview/",
+      "originalUrl": "https://techcrunch.com/2022/10/12/microsoft-expands-azure-openai-service-with-dall-e-2-in-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1207074418.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/12/microsoft-expands-azure-openai-service-with-dall-e-2-in-preview/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/12/microsoft-expands-azure-openai-service-with-dall-e-2-in-preview/amp/",
+      "publishedDateTime": "2022-10-12T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-dall-e-2-coming-to-microsofts-azure-ai-by-invitation.md",
+      "title": "DALL-E 2 coming to Microsoft’s Azure AI, by invitation",
+      "excerpt": "DALL-E 2 is coming to Microsoft’s Azure OpenAI Service by invitation, allowing select Azure AI customers to generate custom images using text or images.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/dall-e-2-coming-to-microsofts-azure-ai-by-invitation/",
+      "originalUrl": "https://venturebeat.com/ai/dall-e-2-coming-to-microsofts-azure-ai-by-invitation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 449,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Mattel-DALL∙E-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/dall-e-2-coming-to-microsofts-azure-ai-by-invitation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/dall-e-2-coming-to-microsofts-azure-ai-by-invitation/amp/",
+      "publishedDateTime": "2022-10-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-how-ai-is-helping-african-communities-and-businesses.md",
+      "title": "How  AI is helping African communities and businesses",
+      "excerpt": "Editor’s note: Last week Google hosted the annual Google For Africa eventas part of our commitment to make the internet more useful in Africa, and to support the communities and businesses that will power Africa’s economic growth. This commitment includes our investment in research. Since announcing",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/around-the-globe/google-africa/how-ai-is-helping-african-communities-and-businesses/",
+      "originalUrl": "https://blog.google/around-the-globe/google-africa/how-ai-is-helping-african-communities-and-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/18.05.22-Day3-EngagingTheGhanaianCommunity.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 867,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-12-metalenz-ships-millions-of-its-tiny-cameras-and-powers-up-with-30m-b-round.md",
       "title": "Metalenz ships millions of its tiny cameras and powers up with $30M B round",
       "excerpt": "Metalenz is changing the way cameras work with a tiny device that captures useful 3D images, and it's selling a whole lot of them too.",
@@ -724,430 +1208,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches.md",
-      "title": "Vectara’s AI-based neural search-as-a-service challenges keyword-based searches",
-      "excerpt": "Vectara, formerly ZIR AI, has emerged from stealth with $20M in seed funding, offering AI-based neural search-as-a-service technology.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/",
-      "originalUrl": "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-search_search-engine_connected_network_1400992296-e1665532643283.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/amp/",
-      "publishedDateTime": "2022-10-12T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-regulatory-and-legacy-system-contraints-hampering-machine-learning-deployment.md",
-      "title": "Regulatory and legacy system contraints hampering machine learning deployment",
-      "excerpt": "UK financial firms blame a lack of regulatory clarity and legacy systems for constraining deeper deployment of machine learning technology, according to a survey conducted by the Bank of England.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/newsarticle/41125/regulatory-and-legacy-system-contraints-hampering-machine-learning-deployment",
-      "originalUrl": "https://www.finextra.com/newsarticle/41125/regulatory-and-legacy-system-contraints-hampering-machine-learning-deployment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/top_pics/xl/robo-ai.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-can-artificial-intelligence-help-identify-best-treatments-for-cancers-lsu-researchers-say-yes.md",
-      "title": "Can artificial intelligence help identify best treatments for cancers? LSU researchers say yes",
-      "excerpt": "A team of LSU researchers has developed a way to determine which drug therapies work best against an individual's unique type of cancer, possibly providing a way to find cures",
-      "sourceUrl": null,
-      "webUrl": "https://www.theadvocate.com/baton_rouge/news/education/article_76e1fb2c-3e9d-11ed-9210-8784fc7eaa99.html",
-      "originalUrl": "https://www.theadvocate.com/baton_rouge/news/education/article_76e1fb2c-3e9d-11ed-9210-8784fc7eaa99.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/c/06/c06b7424-44c6-11ed-ab1d-9b7bc78c5670/633daa3a94e74.image.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theadvocate.com/baton_rouge/news/education/article_76e1fb2c-3e9d-11ed-9210-8784fc7eaa99.amp.html",
-      "cdnAmpWebUrl": "https://www-theadvocate-com.cdn.ampproject.org/c/s/www.theadvocate.com/baton_rouge/news/education/article_76e1fb2c-3e9d-11ed-9210-8784fc7eaa99.amp.html",
-      "publishedDateTime": "2022-10-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Advocate",
-        "domain": "theadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-its-like-molecular-speed-dating-lsu-using-artificial-intelligence-in-cancer-treatments.md",
-      "title": "It's like molecular speed dating: LSU using artificial intelligence in cancer treatments",
-      "excerpt": "A team of LSU researchers has developed a way to determine which drug therapies work best against an individual's unique type of cancer, possibly providing a way to find cures",
-      "sourceUrl": null,
-      "webUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.html",
-      "originalUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/5/fc/5fc540e3-9765-5462-86ed-1865ed2efa75/63460726c216f.image.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.amp.html",
-      "cdnAmpWebUrl": "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.amp.html",
-      "publishedDateTime": "2022-10-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NOLA.com",
-        "domain": "nola.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-neural-circuit-that-control-alcohol-abuse-in-mice-identified.md",
-      "title": "Neural Circuit That Control Alcohol Abuse in Mice Identified",
-      "excerpt": "Would you like to receive further email communication from Technology Networks? - Select - Yes No “Alcohol dependence ... Reference: Belmer A, Depoortere R, Beecher K, Newman-Tancredi A, Bartlett SE. Neural serotonergic circuits for controlling long ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/neuroscience/news/neural-circuit-that-control-alcohol-abuse-in-mice-identified-366489",
-      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/neural-circuit-that-control-alcohol-abuse-in-mice-identified-366489",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/366489/neural-circuit-that-control-alcohol-abuse-in-mice-identified-366489-640x360.jpg?cb=20221012",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-seagate-launches-lyve-cloud-analytics-platform-to-optimize-machine-learning-operations-and-accelerate-innovation.md",
-      "title": "Seagate Launches Lyve Cloud Analytics Platform to Optimize Machine Learning Operations and Accelerate Innovation",
-      "excerpt": "These challenges pose even larger roadblocks for data-intensive industries where enterprises rely heavily on the vast amount of collected data to train their data analytics, AI, and machine learning systems ... professional services that can dramatically ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/seagate-launches-lyve-cloud-analytics-platform-to-optimize-machine-learning-operations-and-accelerate-innovation/",
-      "originalUrl": "https://www.01net.it/seagate-launches-lyve-cloud-analytics-platform-to-optimize-machine-learning-operations-and-accelerate-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-how-can-banks-supercharge-credit-operations-with-ai.md",
-      "title": "How can banks supercharge credit operations with AI?",
-      "excerpt": "Financial services aren’t just complex businesses, they’re incredibly rigid too. Just ask a bank. Most banks spend decades trying to move their net interest margin up a couple basis points. This isn’t for the",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-can-banks-supercharge-credit-operations-with-ai/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-can-banks-supercharge-credit-operations-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/05/Rajat-Deshpande-Finbox.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-can-banks-supercharge-credit-operations-with-ai/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-can-banks-supercharge-credit-operations-with-ai/",
-      "publishedDateTime": "2022-10-12T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-china-is-setting-the-rules-for-driverless-cars.md",
-      "title": "China is setting the rules for driverless cars",
-      "excerpt": "To get riders comfortable in driverless vehicles you need comprehensive regulation. China serves as an example",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/opinion/china-is-setting-the-rules-for-driverless-cars-9315641.html",
-      "originalUrl": "https://www.moneycontrol.com/news/opinion/china-is-setting-the-rules-for-driverless-cars-9315641.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2018/07/driverless_car_artificial_intelligence_smart_car.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/china-is-setting-the-rules-for-driverless-cars-9315641.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/china-is-setting-the-rules-for-driverless-cars-9315641.html/amp",
-      "publishedDateTime": "2022-10-11T23:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-drivers-shouldnt-use-driver-assistance-tech-like-autopilot-group-warns.md",
-      "title": "Drivers shouldn't use driver-assistance tech like autopilot, group warns",
-      "excerpt": "Yet drivers who use partial automation on a regular basis often operate their vehicles as if they were fully self-driving, the group said. Those with Cadillac Super Cruise, Nissan/Infiniti ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/tesla-gm-nissan-self-driving-vehicles-iihs/",
-      "originalUrl": "https://www.cbsnews.com/news/tesla-gm-nissan-self-driving-vehicles-iihs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-china-sets-the-rules-of-the-road.md",
-      "title": "China Sets the Rules of the Road",
-      "excerpt": "Even as autonomous-vehicle technology gets better, the thought of being in a driverless car is as scary as a few years ago. The news around faulty experiments makes that worse. Big, bold plans of inte",
-      "sourceUrl": null,
-      "webUrl": "https://english.aawsat.com/home/article/3926231/anjani-trivedi/china-sets-rules-road",
-      "originalUrl": "https://english.aawsat.com/home/article/3926231/anjani-trivedi/china-sets-rules-road",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.aawsat.com/sites/default/files/styles/large/public/2020/03/12/anjani-trivedi-copy-2.jpg?itok=mMJSEumv",
-          "width": 480,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "الشرق الأوسط",
-        "domain": "aawsat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

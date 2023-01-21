@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The best things about Toronto according to artificial intelligence"
-    excerpt: "What's the best thing about living in Toronto? Depending on who you ask, some might say the city's multiculturalism, thriving food scene, or the"
-    publishedDateTime: 2023-01-21T10:18:00Z
-    webUrl: "https://www.blogto.com/city/2023/01/best-things-about-toronto-according-artificial-intelligence/"
-    type: article
-    provider:
-      name: blogTO
-      domain: blogto.com
-    quality: 39
-    images:
-      - url: "https://media.blogto.com/articles/2023120-best-things-toronto.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "4xLRitEXA+qIy1nTQhRkIXhMvkWUG5dYKj163H6PmiseewiiU7SNRSKEr9pA3nlqusWIlw/K0o/Iq/BGJTUe/4RXo30fYTXnD27GQFycweYhzmdXzaQGylGboD2Hzh29+SvGh8A9AzuVaxY0K8xXLwMlsjt67LKKwG/mOrf+LK6tAcFLElmHVFORq3HWg37emog30OmvNMI+k+inFQYjHG0Ms5lO33UpBpTN45lwC9nKGlIsCReLgFTRrHhSD6ouuLbI+wqAWG1IK5FVHOrYrOp9F36YtAJoBXpnIhP+ptaBZf8qQRS6goS2x5g2Fhsv5xWT5BVG+/0mTY2m13zGa2nm24vcrU4YXrACLrCrDqYUNNF5e93pden3dPGWYMfRb61vV+rbOfOnVekJNrNKxdsBbtNG9KbF2fRhIirA0ecyhntupBc6r4vGkkQ74YOTSNBkDN7L7HdH46J46OGx2sLzgZUN6piyvBn9SZZQiLq7PDRsa0jHw/PhRUmQyZ6kpilcRltX3S6LvRu5vsxACw==;vsiYuyjSFpETdINpCQNzpQ=="
 ---

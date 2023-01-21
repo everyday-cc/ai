@@ -2,6 +2,40 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-10-20-a-new-type-of-material-called-a-mechanical-neural-network-can-learn-and-change-its-physical-properties-to-create-adaptable-strong-structures.md",
+      "title": "A New Type Of Material Called A Mechanical Neural Network Can Learn And Change Its Physical Properties To Create Adaptable, Strong Structures",
+      "excerpt": "The is a short take about interesting academic work. The big idea A new type of material can learn and improve its ability to deal with u",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105049442/A-New-Type-Of-Material-Called-A-Mechanical-Neural-Network-Can-Learn-And-Change-Its-Physical-Properties-To-Create-Adaptable-Strong-Structures",
+      "originalUrl": "https://menafn.com/1105049442/A-New-Type-Of-Material-Called-A-Mechanical-Neural-Network-Can-Learn-And-Change-Its-Physical-Properties-To-Create-Adaptable-Strong-Structures",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T20:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-a-deep-artificial-neural-network-powered-by-enzymes.md",
       "title": "A deep artificial neural network powered by enzymes",
       "excerpt": "To do this, artificial ‘neurons’ powered by enzymes are wired together to form an architecture that mimics the structure of a neural network. The world is facing a shortage of memory capacity.",
@@ -1441,50 +1475,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-how-were-using-machine-learning-to-understand-proteins.md",
-      "title": "How we’re using machine learning to understand proteins",
-      "excerpt": "When most people think of proteins, their mind typically goes to protein-rich foods such as steak or tofu. But proteins are so much more. They’re essential to how living things operate and thrive, and studying them can help improve lives. For example, insulin treatments are life-changing for people with",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/machine-learning-to-understand-proteins/",
-      "originalUrl": "https://blog.google/technology/health/machine-learning-to-understand-proteins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
       ]
     }
   ],

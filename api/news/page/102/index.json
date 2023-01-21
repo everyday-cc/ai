@@ -2,6 +2,480 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2022-10-19-new-research-paves-way-for-innovative-theory-of-cognitive-processing.md",
+      "title": "New research paves way for innovative theory of cognitive processing",
+      "excerpt": "\"We currently do not understand how neurons and glia work together, or how glial dysfunction contributes to cognitive deficits.\" Glial cells are abundant throughout the brain and play several ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/10/221019111400.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/10/221019111400.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-rivian-hires-former-waymo-exec-for-new-autonomy-ai-role.md",
+      "title": "Rivian hires former Waymo exec for new autonomy, AI role",
+      "excerpt": "Rivian has hired former Waymo executive James Philbin to lead autonomy and AI at the automaker, a new role that signals the company’s interest in automated driving technology. Philbin was ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/",
+      "originalUrl": "https://techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/IMG_2291.jpeg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/amp/",
+      "publishedDateTime": "2022-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-swap-robotics-is-paving-the-way-for-electric-solar-vegetation-cuts-and-sidewalk-snow-plowing.md",
+      "title": "Swap Robotics is paving the way for electric solar vegetation cuts and sidewalk snow plowing",
+      "excerpt": "Swap Robotics, a company that manufactures electric grass-cutting and snow removal robots, presented today at TechCrunch Disrupt Startup Battlefield to detail how it’s making sustainable outdoor ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/",
+      "originalUrl": "https://techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/swap-robotics.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/amp/",
+      "publishedDateTime": "2022-10-18T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-105m.md",
+      "title": "Keebo AI optimizes data warehouses with automated ‘learning’ platform, raises $10.5M",
+      "excerpt": "Keebo AI, which helps enterprises optimize their data warehouses, today announced it has raised $10.5 million in series A funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1176050900-e1666115841626.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/amp/",
+      "publishedDateTime": "2022-10-18T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-gpu-database-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2022-2028.md",
+      "title": "GPU Database Market : An Exclusive Study On Upcoming Trends And Growth Opportunities from 2022-2028",
+      "excerpt": "H2o.Ai, Fastdata.Io, Fuzzy Logix, Graphistry, Anac At last, all parts of the GPU Database Market are quantitatively also subjectively valued to think about the Global just as regional market equally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-database-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2022-2028-2022-10-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-database-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2022-2028-2022-10-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-11-new-deaths-tied-to-semi-autonomous-driving-systems.md",
+      "title": "11 new deaths tied to semi-autonomous driving systems",
+      "excerpt": "NHTSA has added 11 new deaths to a growing list of fatalities tied to the use of semi-automated driving systems that have occurred this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems",
+      "originalUrl": "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/1200/675/traffic.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems.amp",
+      "publishedDateTime": "2022-10-18T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-announcing-the-techcrunch-startup-battlefield-20-companies-on-the-disrupt-stage.md",
+      "title": "Announcing the TechCrunch Startup Battlefield 20 companies on the Disrupt Stage",
+      "excerpt": "Disrupt runs Tuesday through Thursday, October 18-20 in San Francisco.. The agenda is packed full of the heavyweights of the industry hashing it out on stage stage with TechCrunch Editors. Newsmakers,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/18/announcing-the-techcrunch-startup-battlefield-20-companies-on-the-disrupt-stage/",
+      "originalUrl": "https://techcrunch.com/2022/10/18/announcing-the-techcrunch-startup-battlefield-20-companies-on-the-disrupt-stage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/bf200_122x628_header.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/18/announcing-the-techcrunch-startup-battlefield-20-companies-on-the-disrupt-stage/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/announcing-the-techcrunch-startup-battlefield-20-companies-on-the-disrupt-stage/amp/",
+      "publishedDateTime": "2022-10-18T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-supermicro-extends-server-solutions-to-include-ocp-technologies.md",
+      "title": "Supermicro Extends Server Solutions to Include OCP Technologies",
+      "excerpt": "“Supermicro continues its commitment to deliver best-of-breed solutions like our 8U 8-GPU AI training system while integrating key open technologies that unlock innovation and flexibility for our customers,” stated Charles Liang, president, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2022/10/supermicro-extends-server-solutions-to-include-ocp-technologies/",
+      "originalUrl": "https://insidehpc.com/2022/10/supermicro-extends-server-solutions-to-include-ocp-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2018/07/network-2402637_640.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-aero-gpx-is-an-f-zero-like-racer-on-kickstarter-with-a-breakneck-demo-to-try.md",
+      "title": "Aero GPX Is an F-Zero-Like Racer on Kickstarter with a Breakneck Demo to Try",
+      "excerpt": "Solo developer Aaron McDevitt has launched a Kickstarter for Aero GPX, a cel-shaded anti-gravity racing game that takes after Nintendo’s futuristic F-Zero series. Its inspiration is clear from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.escapistmagazine.com/aero-gpx-f-zero-racer-kickstarter-demo/",
+      "originalUrl": "https://www.escapistmagazine.com/aero-gpx-f-zero-racer-kickstarter-demo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.escapistmagazine.com/wp-content/uploads/2022/10/aero-gpx-kickstarter.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Escapist",
+        "domain": "escapistmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-revolutionizing-the-food-industry-and-beyond-through-robots-with-a-human-touch.md",
+      "title": "Revolutionizing the food industry and beyond – through robots with a human touch",
+      "excerpt": "Enter thtRobotics – a Finnish-Norwegian startup revolutionizing the food packaging ... “We see true potential in this company. Not only is the robot gripper one-of-a-kind, but combined with their AI-software, it delivers a complete package that has ...",
+      "sourceUrl": null,
+      "webUrl": "https://arcticstartup.com/voima-ventures-invests-in-thtrobotics/",
+      "originalUrl": "https://arcticstartup.com/voima-ventures-invests-in-thtrobotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://arcticstartup.com/wp-content/uploads/2022/10/voima-ventures-invests-in-thtrobotics-1024x577.png",
+          "width": 1024,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ArcticStartup",
+        "domain": "arcticstartup.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-deep-learning-in-healthcare-market-is-dazzling-worldwide-micron-technology-aws-mythic.md",
       "title": "Deep Learning in Healthcare Market Is Dazzling Worldwide | Micron Technology, AWS, Mythic",
       "excerpt": "The Deep Learning in Healthcare – Market Development Outlook Study has been added to HTF MI repository. The study",
@@ -726,472 +1200,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-cujo-ai-launches-explorer-first-ai-powered-device-intelligence-as-a-service.md",
-      "title": "CUJO AI Launches Explorer, First AI-powered Device Intelligence as a Service",
-      "excerpt": "CUJO AI, a global leader in cybersecurity and network intelligence solutions for network service providers (NSPs), today announced that Explorer, the AI-powered network intelligence solution, is available as a stand-alone Device Intelligence as a Service,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/10/18/9694211.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/10/18/9694211.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand.md",
-      "title": "Amazon to invest $5 bn to boost cloud infrastructure in Thailand",
-      "excerpt": "AWS’ cloud platform offers more than 200 services, including storage, robotics and artificial intelligence. AWS last month opened its first cloud data center in UAE and announced plans to setup ...",
-      "sourceUrl": null,
-      "webUrl": "https://infotechlead.com/cloud/amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand-75068",
-      "originalUrl": "https://infotechlead.com/cloud/amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand-75068",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://infotechlead.com/wp-content/uploads/2017/09/AWS-event-for-CIOs.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "infotechlead",
-        "domain": "infotechlead.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-2bcloud-expands-us-operations.md",
-      "title": "2bcloud Expands U.S. Operations",
-      "excerpt": "NEW YORK, (BUSINESS WIRE) -- 2bcloud, a leading multi-cloud cost optimization managed service provider for cloud natives from early stage to unicorns,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2bcloud-expands-us-operations-2022-10-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/2bcloud-expands-us-operations-2022-10-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-machine-learning-101-how-merchants-use-machines-to-fight-fraud.md",
-      "title": "Machine Learning 101: How Merchants Use Machines To Fight Fraud",
-      "excerpt": "As fraudsters and fraud mitigation strategies evolve, so too does a business leader's relationship with machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634d8fec5aed33b6bbc9a291/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/amp/",
-      "publishedDateTime": "2022-10-18T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-cove-barrel-racer-qualifies-for-rodeo-championships-in-las-vegas.md",
-      "title": "Cove barrel racer qualifies for rodeo championships in Las Vegas",
-      "excerpt": "COVE — In the West, the love of a girl and her horse is a well-known story. For Hayden Johnson, 9, a barrel racer from Cove, that love for horses is taking her to the Vegas Tuffest Jr. World ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.lagrandeobserver.com/news/local/cove-barrel-racer-qualifies-for-rodeo-championships-in-las-vegas/article_673e46c2-4e4b-11ed-a92b-5fc4a7632d1c.html",
-      "originalUrl": "https://www.lagrandeobserver.com/news/local/cove-barrel-racer-qualifies-for-rodeo-championships-in-las-vegas/article_673e46c2-4e4b-11ed-a92b-5fc4a7632d1c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/lagrandeobserver.com/content/tncms/assets/v3/editorial/8/dd/8dd743f6-4973-11ed-8521-2fc10b9b4f55/634582a12f5c9.image.jpg?crop=1703%2C894%2C0%2C161&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "La Grande Observer",
-        "domain": "lagrandeobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-kubiya-gives-developers-a-hand-with-conversational-ai-platform.md",
-      "title": "Kubiya gives developers a hand with conversational AI platform",
-      "excerpt": "Kubiya, a self-serve platform that uses conversational AI to execute devops, launched out of stealth today with $6 million in seed funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/",
-      "originalUrl": "https://venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1367728606-e1645809619993.jpg?fit=800%2C547&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/amp/",
-      "publishedDateTime": "2022-10-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-how-ai-can-help-farmers-feed-the-world.md",
-      "title": "How AI Can Help Farmers Feed The World",
-      "excerpt": "Climate change, unpredictable weather patterns, record heat waves, droughts and more have made producing enough food for the planet a challenge. As many as 800 million people go hungry each night—roughly 10% of the global population.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/how-ai-can-help-farmers-feed-the-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/how-ai-can-help-farmers-feed-the-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634d591a924b6eb431b5c039/0x0.jpg?format=jpg&crop=2650,1490,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/how-ai-can-help-farmers-feed-the-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/18/how-ai-can-help-farmers-feed-the-world/amp/",
-      "publishedDateTime": "2022-10-18T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-aws-announces-that-it-will-launch-an-infrastructure-region-in-thailand.md",
-      "title": "AWS announces that it will launch an infrastructure Region in Thailand",
-      "excerpt": "Amazon Web Services (AWS) has announced plans to open an infrastructure Region in Thailand. The new AWS Asia Pacific (Bangkok) Region will consist of three Availability Zones, adding to the existing 87 Availability Zones across 27 geographic regions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.continuitycentral.com/index.php/news/new-products-and-services/7806-aws-announces-that-it-will-launch-an-infrastructure-region-in-thailand",
-      "originalUrl": "https://www.continuitycentral.com/index.php/news/new-products-and-services/7806-aws-announces-that-it-will-launch-an-infrastructure-region-in-thailand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.continuitycentral.com/images/fblogo.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T03:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "continuitycentral.com",
-        "domain": "continuitycentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-nsw-clubs-to-roll-out-facial-recognition-tech.md",
-      "title": "NSW clubs to roll out facial recognition tech",
-      "excerpt": "Facial recognition cameras will be used to identify problem gamblers in clubs and pubs across NSW. The Australian Hotels Association NSW and ClubsNSW are developing a state-of-the-art system to be rolled out across all clubs and hotels next year.",
-      "sourceUrl": null,
-      "webUrl": "https://thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/",
-      "originalUrl": "https://thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thenewdaily.com.au/wp-content/uploads/2022/10/1666127796-GettyImages-162316362.jpg?resize=960,600",
-          "width": 960,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/amp/",
-      "publishedDateTime": "2022-10-18T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thenewdaily",
-        "domain": "thenewdaily.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-has-there-been-a-second-ai-big-bang.md",
-      "title": "Has There Been A Second AI Big Bang?",
-      "excerpt": "Aleksa Gordic explains how the latest AI models work, and explores whether the arrival of Transformers amounts to a second Big Bang in AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63495cb7caf4d92519b5c039/0x0.jpg?format=jpg&width=1200",
-          "width": 935,
-          "height": 1021,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/amp/",
-      "publishedDateTime": "2022-10-18T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

@@ -27,35 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Reimagining fintech : Banking-as-a-service, embedded finance can unlock new value chains"
-    excerpt: "At a macro level, the banking and financial services industry are in the midst of a technology-led transformation phase."
-    publishedDateTime: 2023-01-16T21:40:00Z
-    webUrl: "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/"
-    ampWebUrl: "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/lite/"
+  - title: "Seattle Fintech Meetup: “Measure What Matters: DEI in Fintech”"
+    excerpt: "Included.ai and Remitly are excited to co-host a special event focusing on an important topic near to our hearts: diversity, equity, and inclusion in tech. Our theme is “Measure What… Read More"
+    publishedDateTime: 2023-01-20T00:32:00Z
+    webUrl: "https://www.geekwire.com/calendar-event/seattle-fintech-meetup-measure-what-matters-dei-in-fintech/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 80
+      name: GeekWire
+      domain: geekwire.com
+    quality: 54
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/01/banking1.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/01/Fintech-Meetup-2.png"
+        width: 1828
+        height: 958
         isCached: true
-  - title: "KFintech Drives Digital Transformation and Innovation in the Financial Services Industry with AWS"
-    excerpt: "(MENAFN- Adfactors PR ) January 17, 2023, Hyderabad: KFin Technologies Limited (KFintech), a leading technology-driven financial services firm ... including interactive dashboards that use AWS machine learning to automatically look for investment patterns ..."
-    publishedDateTime: 2023-01-18T04:12:00Z
-    webUrl: "https://menafn.com/1105442789/KFintech-Drives-Digital-Transformation-and-Innovation-in-the-Financial-Services-Industry-with-AWS"
+  - title: "7 FinTech tweets you should see!"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-01-20T11:46:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/7-fintech-tweets-you-should-see-12/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 28
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
     images:
-      - url: "https://menafn.com/updates/pr/2023-01/17/pr_11781_c1537bf4_image_story.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/tweets.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Fintech, edtech, deeptech–15 quotes of the week on digital transformation"
+    excerpt: "From data to decisions, these quotes from the week of January 9-15 capture tech impacts sweeping across the world!"
+    publishedDateTime: 2023-01-18T02:22:00Z
+    webUrl: "https://yourstory.com/2023/01/fintech-edtech-deeptech-quotes-digital-transformation-entrepreneur"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 23
+    images:
+      - url: "https://images.yourstory.com/cs/2/28b451402d6a11e9aa979329348d4c3e/Digital-1-1673934535223.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
         isCached: true
   - title: "What the banks vs fintech debate gets wrong"
     excerpt: "This need has led to the emergence of a completely new ecosystem, one that is more diverse and where fintechs and smaller banks take an increasing share of the real-time market. By flipping traditional infrastructure procurement on its head and standardising related operational and security capabilities,"
@@ -66,15 +78,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "KFintech Drives Digital Transformation and Innovation in the Financial Services Industry with AWS"
-    excerpt: "KFin Technologies Limited (KFintech), a leading technology-driven financial services firm, today announced it is using Amazon Web Services (AWS), to help the asset management industry digitally transform and build new products,"
-    publishedDateTime: 2023-01-17T00:00:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/17/9744752.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
 
 secured: "WXAhxSzmvtMVXwlVRKwXXxzNXe/jPlU9dDVcIjUsBlbHp/9cyKgjbKc6yBbsbGL+5biM43PKLFJP6xdSaMBeb0+wRCFoVW7ZcNfvHFPZOwj7u+GGbpHmSlvl12qbpzzIWBGiHyEPHEqFInzAtNWm0Z62sDhP047Ftfoh6tkjZHuQDZtZCC2mUyiRfhObFTr5MYAII0u/YZb10pwIQyDe3DaIyfznvp+5gdxNDvOj9NWZtjeAP9fTWv8nxP+Z45GCm8nKRap1lxYG/Iz22G6cQ+3Q3FV/LSKnU4Xzfk3zb+ZlUCk3VDUbmPwVaRlBcs8ul2a4jeCeAJeyCUX2WkGr2+yxkKxouTwJRCN3jHpRasg=;AbTdFEnXjoYHbY5dAAoF9w=="
 ---

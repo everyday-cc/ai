@@ -18,15 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "WATCH: How do AI art generators work and should artists fear them?"
-    excerpt: "Visual artists, designers, illustrators and many other creatives have watched the arrival of AI text-to-image generators with a mix of awe and apprehension. This new technology has sparked debate around the role of AI in visual art and issues such as style appropriation."
-    publishedDateTime: 2023-01-20T15:59:00Z
-    webUrl: "https://www.iol.co.za/news/feel-good/watch-how-do-ai-art-generators-work-and-should-artists-fear-them-24aaba97-ce37-4d79-8990-ca4a43be7fb1"
+  - title: "How generative AI will supercharge productivity"
+    excerpt: "Imagine software programmers using an AI assistant to write code in their company’s style to four times their output. This is beginning to happen today. Enhanced productivity is now possible with generative tech,"
+    publishedDateTime: 2023-01-20T04:00:00Z
+    webUrl: "https://www.fastcompany.com/90836481/how-generative-ai-will-supercharge-productivity"
     type: article
     provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 19
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "MuOu4nm9LebH/Nib7YMFWxms6trODFdcYf3AWdtAaHnKiQT2L0ngNBHkEdvA8BRoireohp3H0zJjkz8FZ9Mnw7DFl/f+tD72gmdoxl5QvEYjJf8R6jR5oopi71yBz4X3YJnp5e1lGxS3VccK3rT1QziQXzVphO/AUAuR3gvde0U/xQW/19oL1R1PZRtFSIGWQhNZ+7IbhOvUxv+hR2fn/BtwfN/Csz/IsMXAViNiXy9C7E3DQ9kueE+Ogvmxp8ePMXA2wpowwyjDdPXguEbWCy0V0Ww+IFyjH2ZFW9ai2rJnK+2iNRtQYflGHOJMy6kAyj+eXhn+CGCsGSBD6PHppjL5GT00HYnAeyDh/VtvMkPUHJDN/Sqfz3yuS4vBiJzdjytQpHgeBnC/syM+2oLSGKM2zG60n//jKIQeJnk0yIxrH322KovrNRca68SxJbdHzkeup613iNBnHZFKaBU8llMoq/MAlX5aDDwetAacKLpce/Yj5OJqiPXBPjU0Emf51w9HTE+eNtCAkdx2akpMPA==;eunG9Yx/z6bop1Eh13B5zg=="
 ---

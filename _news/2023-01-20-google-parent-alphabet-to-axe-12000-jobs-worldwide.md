@@ -34,18 +34,18 @@ related:
         height: 628
         isCached: true
   - title: "Alphabet cuts 12,000 jobs after pandemic hiring spree, refocuses on AI"
-    excerpt: "The logo of Google LLC is seen at the Google Store Chelsea in New York City, U.S., January 20, 2023. REUTERS/Shannon Stapleton"
+    excerpt: "The job cuts affect 6% of the Google parent's workforce, and follow thousands of layoffs at tech giants who are downsizing after a pandemic-led hiring spree left them flabby in a weak economy."
     publishedDateTime: 2023-01-20T22:36:00Z
-    webUrl: "https://www.reuters.com/news/picture/alphabet-cuts-12000-jobs-after-pandemic-idUSKBN2TZ0MF"
+    webUrl: "https://www.reuters.com/business/google-parent-lay-off-12000-workers-memo-2023-01-20/?ref=upstract.com"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 67
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20230120&t=2&i=1620797733&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEJ0J0QN"
-        width: 810
-        height: 539
+      - url: "https://www.reuters.com/resizer/Q3iJJb7IoCdD6kuJVHk-u52TR-o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T7BK7B5C6ZNHLGXRI3ZDYDHCGY.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Google parent to lay off 12,000 workers as AI focus intensifies"
     excerpt: "Google's parent Alphabet Inc is cutting about 12,000 jobs, or 6% of its workforce, it said in a staff memo Friday, as the technology sector reels from layoffs and companies stake their futures on artificial intelligence (AI)."
@@ -56,6 +56,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Tech layoffs 2023: Alphabet slays 12,00 jobs, invests in AI"
+    excerpt: "Google's parent Alphabet has cut 12,000 of its workforce as it faces \"a different economic reality\", it said in a staff memo."
+    publishedDateTime: 2023-01-21T15:51:00Z
+    webUrl: "https://interestingengineering.com/culture/googles-alphabet-slays-1200-jobs"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/01/21/image/jpeg/ejQBjb0IByVHNPRqPoRFFhpqCweCebn73wJDQnWR.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "M/4tHwRYVdT2q85F83Zrx23TEeFEZSv7AITEIXOyneJemGF1jUHk1IQHNXToad2Gn/5ibi+u6Qbp0J+wI+r53ZghAXYTq4WtrtSWFj88pi81hNPzhaosgFpYwe1Y0JKikthhu7ZGVg6GTkFVU+9AcLExBqOwVv4DlZBmeKmVX7NP6B2ld6kjSDLu23z/++TcR9Xm5zcYBv5wj5P5aDtlBEEuO90bVNdpUlZLIvxrDC/LSsjxkI6xZ6BRGQUHqetVeRmgSwp79i9m/KAqz+R/+W/Inlro6rku+ON95mmTTQf3QO0Qg7Z/Psw8fK2afxPDTpRfKWaHdU44UQRAmt+Un1JmiGQ/BuGdf2DG4fIOqU3RIRAmY2aNI+lo9L8PY1J/6shug/KCNPsBIid/3NsV5UzhrXnxUEQjX2p44WRa1vDTW7ZC2NPDvyurAJ5/vabBKNvsWEhLb7zbt4QRDiD15/PIxbTpQ9Kwfor9/0ZyXQOz++TlqTRib0qpUImtTbcTYrHeQzbh52YdLKjnO6i1uA==;hyTm/5Po6e5PCY+/y30ycQ=="
 ---

@@ -373,6 +373,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Why UK SME’s could be saving time and money by using AI tools like ChatGPT"
+    excerpt: "SMEs need to find new and innovative ways to engage with customers and improve their bottom line. One solution to achieve these goals is the use of ChatGPT"
+    publishedDateTime: 2023-01-21T14:53:00Z
+    webUrl: "https://bmmagazine.co.uk/in-business/advice/why-uk-smes-could-be-saving-time-and-money-by-using-ai-tools-like-chatgpt/"
+    ampWebUrl: "https://bmmagazine.co.uk/in-business/advice/why-uk-smes-could-be-saving-time-and-money-by-using-ai-tools-like-chatgpt/?amp"
+    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/in-business/advice/why-uk-smes-could-be-saving-time-and-money-by-using-ai-tools-like-chatgpt/?amp"
+    type: article
+    provider:
+      name: Business Matters
+      domain: bmmagazine.co.uk
+    quality: 57
+    images:
+      - url: "https://bmmagazine.co.uk/wp-content/uploads/2023/01/shutterstock_2237752713-1-scaled.jpg"
+        width: 850
+        height: 567
+        isCached: true
   - title: "How to Invest in ChatGPT? You Can’t. Here Are 3 AI Stock Alternatives."
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips How to invest in ChatGPT is a difficult problem to solve, but if you’re"
     publishedDateTime: 2023-01-18T11:15:00Z
@@ -633,6 +649,15 @@ related:
       name: Hindustan Times Tech
       domain: hindustantimes.com
     quality: 34
+  - title: "Adani is hooked on ChatGPT, says the race for AI to get as complex as chip war"
+    excerpt: "Adani, whose conglomerate has in recent years diversified from mines, ports and power plants into airports, data centres and defence, penned musing from his visit to Davos to attend the World Economic Forum meeting."
+    publishedDateTime: 2023-01-20T12:51:00Z
+    webUrl: "https://yourstory.com/2023/01/adani-hooked-on-chatgpt-says-ai-world-economic-forum"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 30
   - title: "Those Schools Banning Access To Generative AI ChatGPT Are Not Going To Move The Needle And Are Missing The Boat, Says AI Ethics And AI Law"
     excerpt: "Some rather high-profile bans have been announced regarding the use of generative AI such as ChatGPT. We need to closely examine these bans and decide whether they make any sense. Here's the scoop."
     publishedDateTime: 2023-01-20T13:00:00Z

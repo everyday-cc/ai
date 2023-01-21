@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/investigation-exposes-murkie
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/?amp"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -113,6 +113,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "AI chatbot poses test for business schools with pass in MBA course exam"
+    excerpt: "A professor at the University of Pennsylvania’s Wharton School said ChatGPT earned a ‘B to B-’ on his operations management test © Bloomberg AI chatbot poses test for business schools with pass in MBA"
+    publishedDateTime: 2023-01-21T14:00:00Z
+    webUrl: "https://www.ft.com/content/7229ba86-142a-49f6-9821-f55c07536b7c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "4FsMOZzvwV3b3m0W9UYiGOt8Pji84nBZVXiHJVdqdFGc4jRfRptDq1Z6qRC13jjdEAiHzwMcm88nHQ9YymcwYiCv3Kel+l+Qp91ify1pLv7ZAu3ZwbcTXWPwVlAfmTAPclJxXIbjNDDeT2Xo+bktxjEieoof8QUZCCNd4aiKrcZzI8KWtLJ6oDvIPu+izjQZcFflVfA4GuRLPgTr89nc1RbHfQY0nEZy03VdpCQXCgikDK1AHL9hKl+YC5cE05zxV4/jCgKrtvbMVdrhevg7CMNVAINu+I2A/0VbULGdGay1Uh5Fdq6jimhitASNZZCCHLoIijFSYc3hbjPXLmY+Ix0t5pcjGzojOHjxsiPwbBjRyZSEKl8pzm8tOhhZFxv2HBdwGyF5cDu15C7clB26tF+69ZIC9TB+hIJu84OzwZ7rGaDqtMullXknV3hHJKnPX1GlDB9bjRUhXHmF667HUVOvaWqCL2Q+iN2Iq3UFgThFzULSimz10qu3uk3Dw2jqcXkVtrYoMMM2ViAZfKfs5g==;+uh2i2p2yteoNS1sa4YfdA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/start-ups/how-startups-are-using-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services/amp-11674182424472.html"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Art community fights for integrity as AI presents artificial images"
+    excerpt: "Artificial intelligence is adding art to its growing résumé. But artists and computer experts are starting to push back against companies that allow AI to create art from original works, citing copyright infringement and the possibility of misinformation."
+    publishedDateTime: 2023-01-20T15:44:00Z
+    webUrl: "https://www.csmonitor.com/The-Culture/Arts/2023/0120/Art-community-fights-for-integrity-as-AI-presents-artificial-images"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 37
+    images:
+      - url: "https://images.csmonitor.com/csm/2023/01/1150225_2_0120-art_standard.jpg?alias=standard_900x600"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Here’s how quantum computing can enhance financial services"
     excerpt: "Quantum computing has the potential to revolutionize the financial services industry in a number of ways. One of the most promising applications is in the area of risk analysis and portfolio optimization."
     publishedDateTime: 2023-01-18T00:02:00Z

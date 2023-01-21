@@ -2,6 +2,202 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-29-new-artificial-intelligence-could-help-humans-actually-talk-to-animals.md",
+      "title": "New Artificial Intelligence Could Help Humans Actually Talk To Animals",
+      "excerpt": "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/",
+      "originalUrl": "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsy",
+        "domain": "newsy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity.md",
+      "title": "Where CISOs rely on AI and machine learning to strengthen cybersecurity",
+      "excerpt": "However, artificial intelligence (AI) and machine learning (ML) are proving effective in strengthening cybersecurity by scaling data analysis volume while increasing response speeds and securing digital transformation projects under construction. “",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/",
+      "originalUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1401124210-Thinkhubstudio-e1669658425465.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/amp/",
+      "publishedDateTime": "2022-11-28T14:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-teslas-full-self-driving-beta-is-now-open-to-everyone-who-paid-for-it.md",
+      "title": "Tesla’s Full Self-Driving Beta Is Now Open to Everyone Who Paid for It",
+      "excerpt": "Tesla CEO Elon Musk reveals that Full Self-Driving Beta is available to Tesla owners who request it, ending an earlier period of smaller scale testing on public roads. The company's so-called Full ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoweek.com/news/green-cars/a42083804/tesla-full-self-driving-beta-wide-release/",
+      "originalUrl": "https://www.autoweek.com/news/green-cars/a42083804/tesla-full-self-driving-beta-wide-release/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tesla-4-1669643127.jpg?crop=1.00xw:0.896xh;0,0.104xh&resize=1200:*",
+          "width": 1200,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "autoweek",
+        "domain": "autoweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-how-ai-adoption-has-yet-to-reveal-its-real-potential.md",
+      "title": "How AI adoption has yet to reveal its real potential",
+      "excerpt": "New book, Power and Prediction, says the power of AI is evident now, but widespread AI adoption has yet to come.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/",
+      "originalUrl": "https://venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1321461813-e1669649385546.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/amp/",
+      "publishedDateTime": "2022-11-28T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-has-amd-replaced-nvidia-as-a-top-semiconductor-company.md",
       "title": "Has AMD Replaced Nvidia as a Top Semiconductor Company?",
       "excerpt": "Whether the GPUs are used for gaming, data centers, artificial intelligence, self-driving cars, or crypto mining, Nvidia's products are as good as it gets. AMD produces GPUs but also makes ...",
@@ -1172,190 +1368,6 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-baidu-beats-revenue-expectations-despite-continued-covid-worries.md",
-      "title": "Baidu Beats Revenue Expectations Despite Continued Covid Worries",
-      "excerpt": "Baidu on Tuesday became the latest Chinese technology company to report a return to annual growth, as it beat expectations for its third-quarter revenue. Baidu (ticker: BIDU)—often referred to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/baidu-beats-revenue-covid-china-51669111455",
-      "originalUrl": "https://www.barrons.com/articles/baidu-beats-revenue-covid-china-51669111455",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-317647/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/baidu-beats-revenue-covid-china-51669111455",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-beats-revenue-covid-china-51669111455",
-      "publishedDateTime": "2022-11-22T02:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-chinas-baidu-beats-q3-revenue-estimates-as-ad-sales-recover.md",
-      "title": "China's Baidu beats Q3 revenue estimates as ad sales recover",
-      "excerpt": "Baidu Core's non-online marketing revenue, an area including cloud and other AI businesses, grew by 25 per cent year on year to 6.5 billion yuan. The company has been focusing on self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/chinas-baidu-beats-q3-revenue-estimates-ad-sales-recover-3092551",
-      "originalUrl": "https://www.channelnewsasia.com/business/chinas-baidu-beats-q3-revenue-estimates-ad-sales-recover-3092551",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--lD1uZzJ0--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-22t090727z_1_lynxmpeial09f_rtroptp_3_china-tech.jpg?itok=VYk1kTUw",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T01:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-innovation-showdown-crypto-and-meta-vs-industry-40.md",
-      "title": "Innovation Showdown: Crypto And Meta Vs. Industry 4.0",
-      "excerpt": "Digital-industrial applications did not completely escape the hype, of course, and have triggered their share of disappointments. The reality of self-driving cars, for example, lags far behind the promise of a fully driver-less future — a future that ten years ago might have sounded almost within reach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/",
-      "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637bebf143f2b4ffba1a9f12/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/amp/",
-      "publishedDateTime": "2022-11-21T23:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-can-an-artificial-intelligence-be-considered-an-artist.md",
-      "title": "Can an artificial intelligence be considered an artist?",
-      "excerpt": "In the majority of fiction that concerns artificial intelligence (AI), it replaces us in almost every industry. Often, only the artistic fields are left untouched. Usually, a robot or AI showing capabilities to create a work is seen as a completion ...",
-      "sourceUrl": null,
-      "webUrl": "https://cursus.edu/en/25914/can-an-artificial-intelligence-be-considered-an-artist",
-      "originalUrl": "https://cursus.edu/en/25914/can-an-artificial-intelligence-be-considered-an-artist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cursus.edu/storage/thumbnails/7ZVqQtw5b8GmadzNNUhf0iyrebl1wUruX356Ujkh.jpeg",
-          "width": 900,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T21:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cursus.edu",
-        "domain": "cursus.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
         "AI in Healthcare"
       ]
     }

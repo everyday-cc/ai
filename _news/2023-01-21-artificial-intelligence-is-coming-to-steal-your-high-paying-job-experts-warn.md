@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-21T14:58:00Z
 originalUrl: "https://futurism.com/the-byte/artificial-intelligence-steal-job"
 webUrl: "https://futurism.com/the-byte/artificial-intelligence-steal-job"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Futurism

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/amp/"
 type: article
 quality: 104
-heat: 384
+heat: 394
 published: true
 
 provider:
@@ -353,6 +353,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/7c/37c9fd77-0ec1-553b-bc13-e3827518db0f/63c8200c3b33e.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Musk Personally Oversaw Tesla's Staged Self-Driving Video"
+    excerpt: "Tesla CEO Elon Musk personally oversaw the 2016 video that exaggerated Autopilot's self-driving capabilities which is now the subject of a wrongful death lawsuit. The update comes from Bloomberg which claims it's viewed internal Tesla emails attesting to Musk's direct involvement in the video's production."
+    publishedDateTime: 2023-01-21T15:35:00Z
+    webUrl: "https://carbuzz.com/news/musk-personally-oversaw-teslas-staged-self-driving-video"
+    type: article
+    provider:
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 39
+    images:
+      - url: "http://cdn.carbuzz.com/gallery-images/900x600/1096000/100/1096116.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Musk Oversaw Video That Exaggerated Tesla’s Self-Driving, Emails Show"
     excerpt: "Elon Musk oversaw the creation of a 2016 video that exaggerated the abilities of Tesla Inc.’s driver-assistance system Autopilot, even dictating the opening text that claimed the company’s car drove itself."

@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-18T10:02:00Z
 originalUrl: "https://www.govconwire.com/2023/01/the-future-of-artificial-intelligence-a-look-inside-the-dods-newest-ai-office/"
 webUrl: "https://www.govconwire.com/2023/01/the-future-of-artificial-intelligence-a-look-inside-the-dods-newest-ai-office/"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.govconwire.com/wp-content/uploads/2023/01/00P4y000017tF6jEAE.png"

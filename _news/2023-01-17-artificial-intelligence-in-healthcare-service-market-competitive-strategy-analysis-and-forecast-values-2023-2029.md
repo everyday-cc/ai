@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-17T06:24:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-competitive-strategy-analysis-and-forecast-values-2023-2029-2023-01-17"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-competitive-strategy-analysis-and-forecast-values-2023-2029-2023-01-17"
 type: article
-quality: 62
+quality: 64
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

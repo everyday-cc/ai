@@ -25,29 +25,75 @@ images:
     isCached: true
 
 related:
-  - title: "Teachers are adapting to concerns about a powerful new AI tool"
-    excerpt: "When Kristen Asplin heard about a powerful new AI chatbot tool called ChatGPT going viral online recently with its ability to write frighteningly good essays in seconds, she worried about how her students could use it to cheat."
-    publishedDateTime: 2023-01-19T12:29:00Z
-    webUrl: "https://www.cnn.com/2023/01/19/tech/chatgpt-teachers-adjusting/index.html"
+  - title: "How to Spot AI-Generated Art, According to Artists"
+    excerpt: "Creatives disagree about the ethical uses of these tools, but one thing is clear: AI art identification is about to become a whole lot harder."
+    publishedDateTime: 2023-01-21T11:59:00Z
+    webUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/"
+    ampWebUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
-  - title: "WHAT OTHERS ARE SAYING: Online AI tool isn't foolproof yet"
-    excerpt: "A lot of well-deserved concern is spreading across academia over students’ use of ChatGPT to write their class essays and do their homework. The OpenAI.com program is so sophisticated that"
-    publishedDateTime: 2023-01-19T20:15:00Z
-    webUrl: "https://herald-review.com/opinion/editorial/what-others-are-saying-online-ai-tool-isnt-foolproof-yet/article_412c4ace-9775-11ed-bbd1-a3c96f4c4cd0.html"
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/63cb1161c70009d9f70493f1/master/pass/How-To-Spot-AI-Art-Culture-1316701501.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "AI tools can create new images, but who is the real artist?"
+    excerpt: "Artificial intelligence systems are training themselves on a vast collection of digitized artworks to produce new images that can be conjured in seconds from a smartphone app"
+    publishedDateTime: 2023-01-19T09:06:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ai-tools-create-new-images-real-artist-96532225"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-tools-create-new-images-real-artist-96532225"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-tools-create-new-images-real-artist-96532225"
     type: article
     provider:
-      name: Herald & Review
-      domain: herald-review.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/Health/wirestory_1c6d9e0e260e2d135a3e3bf98d5493df_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-01-19T18:45:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/01/19/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/herald-review.com/content/tncms/assets/v3/editorial/6/72/6723c032-1631-5c3c-a0e0-0a1c35a48881/639754bc27334.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-01-21T01:00:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/01/20/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "WATCH: How do AI art generators work and should artists fear them?"
+    excerpt: "Visual artists, designers, illustrators and many other creatives have watched the arrival of AI text-to-image generators with a mix of awe and apprehension. This new technology has sparked debate around the role of AI in visual art and issues such as style appropriation."
+    publishedDateTime: 2023-01-20T15:59:00Z
+    webUrl: "https://www.iol.co.za/news/feel-good/watch-how-do-ai-art-generators-work-and-should-artists-fear-them-24aaba97-ce37-4d79-8990-ca4a43be7fb1"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 19
 
 secured: "CEkHDK63ZXQFxdK2pcDTuvGeqaH0tEZGq5nD9xAsEXXGkeOYQ6t9I3I+AjH+lJ/WQg0dkAi07vaFguGkQ5W1dftrtld5OBjy5howFlGmDhjjQSSytI1uztKpuw3iRfkmgFb7wvZvnB9+6o5XX6w6BPPv6ujKhYQoX2oCWBAu6Zj1OXyYLGCD2t1dVCmZsn3Bxh9mRzTLRgh/ruJtDtK6vOMZRXaWMKvKxI3NYF69SPwT8f8rOKprfuOopEKPuiorAApFcZfHEI0ujlnkbu26ShmfZSQvq5vL8Ae2iXp4ryeJtewbPTqpGdzYapfkFv/jPDtqB691+3fVr5Ok3vCnvVAXPxmdVKw62aAh5Vk/cns=;rkVccQTn21/NvEYpLCCq7w=="
 ---

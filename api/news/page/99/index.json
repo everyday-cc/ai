@@ -2,6 +2,455 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2022-10-20-generally-intelligent-secures-cash-from-openai-vets-to-build-capable-ai-systems.md",
+      "title": "Generally Intelligent secures cash from OpenAI vets to build capable AI systems",
+      "excerpt": "Generally Intelligent, a research startup with backing from OpenAI vets, is aiming to develop general-purpose AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/20/generally-intelligent-secures-cash-from-openai-vets-to-build-capable-ai-systems/",
+      "originalUrl": "https://techcrunch.com/2022/10/20/generally-intelligent-secures-cash-from-openai-vets-to-build-capable-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/20/generally-intelligent-secures-cash-from-openai-vets-to-build-capable-ai-systems/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/20/generally-intelligent-secures-cash-from-openai-vets-to-build-capable-ai-systems/amp/",
+      "publishedDateTime": "2022-10-20T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-fetterman-is-ready-for-full-duty-and-speaks-with-no-cognitive-deficits-his-doctor-says.md",
+      "title": "Fetterman is ready for 'full duty' and speaks with no 'cognitive deficits,' his doctor says",
+      "excerpt": "A new report from his campaign is the first major post-stroke update in months. Pennsylvania Senate candidate John Fetterman's health \"has continued to improve\" and he is speaking \"without ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/fetterman-ready-full-duty-speaks-cognitive-deficits-doctor/story?id=91739404",
+      "originalUrl": "https://abcnews.go.com/Politics/fetterman-ready-full-duty-speaks-cognitive-deficits-doctor/story?id=91739404",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/fetterman-file-gty-ml-221019_1666195068491_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/fetterman-ready-full-duty-speaks-cognitive-deficits-doctor/story?id=91739404",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fetterman-ready-full-duty-speaks-cognitive-deficits-doctor/story?id=91739404",
+      "publishedDateTime": "2022-10-20T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-france-slaps-fine-on-face-recognition-firm-clearview-ai.md",
+      "title": "France Slaps Fine On Face Recognition Firm Clearview AI",
+      "excerpt": "France on Thursday slapped a 20-million-euro fine on US firm Clearview AI for breaching privacy laws, as pressure mounts on the controversial facial-recognition platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/france-slaps-fine-on-face-recognition-firm-clearview-ai-01666267807",
+      "originalUrl": "https://www.barrons.com/news/france-slaps-fine-on-face-recognition-firm-clearview-ai-01666267807",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/france-slaps-fine-on-face-recognition-firm-clearview-ai-01666267807",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/france-slaps-fine-on-face-recognition-firm-clearview-ai-01666267807",
+      "publishedDateTime": "2022-10-20T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-mechanical-neural-network-could-enable-smart-aircraft-wings-that-morph.md",
+      "title": "Mechanical neural network could enable smart aircraft wings that morph",
+      "excerpt": "The basis of modern AI research is the artificial neural network (ANN), which mimics the structure of the human brain by creating large grids of artificial neurons connected by synapses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2342654-mechanical-neural-network-could-enable-smart-aircraft-wings-that-morph/",
+      "originalUrl": "https://www.newscientist.com/article/2342654-mechanical-neural-network-could-enable-smart-aircraft-wings-that-morph/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2022/10/19141859/SEI_130165361.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-metas-ai-translator-can-translate-unwritten-languages.md",
+      "title": "Meta's AI translator can translate unwritten languages",
+      "excerpt": "Meta has announced an AI -powered speech-to-speech translation system for unwritten languages. As part of Meta's Universal Speech Translator (UST) project, the company has built a translation system for Hokkien,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/metas-ai-translator-can-translate-unwritten-languages-766157",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/metas-ai-translator-can-translate-unwritten-languages-766157",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2022/10/20/1317169-meta.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-texas-sues-google-for-collecting-biometric-data-without-consent.md",
+      "title": "Texas Sues Google for Collecting Biometric Data Without Consent",
+      "excerpt": "By Kashmir Hill and David McCabe The Texas attorney general filed a privacy lawsuit against Google on Thursday, accusing the internet company of collecting Texans’ facial and voice recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/10/20/technology/texas-google-privacy-lawsuit.html",
+      "originalUrl": "https://www.nytimes.com/2022/10/20/technology/texas-google-privacy-lawsuit.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/20/business/20google-texas-1/merlin_214779276_828ad650-e825-45b8-83f1-225e4f17a5f0-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/10/20/technology/texas-google-privacy-lawsuit.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/20/technology/texas-google-privacy-lawsuit.amp.html",
+      "publishedDateTime": "2022-10-20T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-metas-new-ai-powered-translator-can-interpret-a-spoken-only-language-in-real-time.md",
+      "title": "Meta's New AI-Powered Translator Can Interpret A Spoken-Only Language In Real Time",
+      "excerpt": "Meta Platforms Inc. META has built the first AI speech-to-speech translation system, focusing on unwritten languages. What Happened: On Wednesday, Meta announced the first AI-powered speech-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/22/10/29336004/metas-new-ai-powered-translator-can-interpret-a-spoken-only-language-in-real-time",
+      "originalUrl": "https://www.benzinga.com/news/22/10/29336004/metas-new-ai-powered-translator-can-interpret-a-spoken-only-language-in-real-time",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2022/10/20/shutterstock_2113535186.jpg?width=1200&height=800&fit=crop",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29336004",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29336004",
+      "publishedDateTime": "2022-10-20T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-texas-ag-sues-google-for-over-facial-and-voice-data-collection.md",
+      "title": "Texas AG sues Google for over facial and voice data collection",
+      "excerpt": "The complaint underscores the role of individual states in protecting users' information on the internet in the absence of a federal privacy law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
+      "originalUrl": "https://www.cnbc.com/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107051880-16510024222022-04-26t170649z_1339263067_rc24vt9ijs8a_rtrmadp_0_usa-court-immigration.jpeg?v=1666280902",
+          "width": 3500,
+          "height": 2334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
+      "publishedDateTime": "2022-10-20T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-waymo-one-brings-self-driving-ride-service-to-los-angeles.md",
+      "title": "Waymo One Brings Self-Driving Ride Service to Los Angeles",
+      "excerpt": "Waymo One is a commercial ride-hailing service like no other. Its driverless vehicles have been shuffling passengers around the Phoenix and San Francisco areas, and soon it'll expand to one of the largest metropolitan areas in the US.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/waymo-one-self-driving-ride-hailing-los-angeles/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/waymo-one-self-driving-ride-hailing-los-angeles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/3017a8e81aefb1d88583a0952d389f56c3f3beec/hub/2022/10/20/5dd1c780-0c5e-4b64-aa75-a7db9f282339/waymo-one-ogi.jpg?auto=webp",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-one-self-driving-ride-hailing-los-angeles/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-one-self-driving-ride-hailing-los-angeles/",
+      "publishedDateTime": "2022-10-20T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-silver-alert-issued-for-valley-man-with-cognitive-difficulties.md",
+      "title": "Silver Alert issued for Valley man with cognitive difficulties",
+      "excerpt": "PHOENIX – A Silver Alert was issued Thursday morning for a missing Valley man who has cognitive problems, authorities said. Emidio Espericueta Gurrola, 77, was last seen near 11th Street and ...",
+      "sourceUrl": null,
+      "webUrl": "https://ktar.com/story/5300333/silver-alert-issued-for-valley-man-with-cognitive-difficulties/",
+      "originalUrl": "https://ktar.com/story/5300333/silver-alert-issued-for-valley-man-with-cognitive-difficulties/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTAR News",
+        "domain": "ktar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-how-ai-can-improve-pharmaceutical-commercial-operations.md",
       "title": "How AI Can Improve Pharmaceutical Commercial Operations",
       "excerpt": "While AI can uncover precious insights, for companies that have not worked with AI previously, this can mean a complete reorganization of their data foundation.",
@@ -715,482 +1164,6 @@
         "AI",
         "AI in Sales",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai.md",
-      "title": "Contracts 365 Announces New Contract Management Innovations Powered by Microsoft Azure AI",
-      "excerpt": "Today's next-generation Contract Lifecycle Management solutions require innovation for both the technology and user experience. The integration between Contracts 365 and Azure AI services like Azure Form Recognizer will deliver innovative and practical value to the contract management community.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai-2022-10-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai-2022-10-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-a-new-type-of-material-called-a-mechanical-neural-network-can-learn-and-change-its-physical-properties-to-create-adaptable-strong-structures.md",
-      "title": "A New Type Of Material Called A Mechanical Neural Network Can Learn And Change Its Physical Properties To Create Adaptable, Strong Structures",
-      "excerpt": "The is a short take about interesting academic work. The big idea A new type of material can learn and improve its ability to deal with u",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105049442/A-New-Type-Of-Material-Called-A-Mechanical-Neural-Network-Can-Learn-And-Change-Its-Physical-Properties-To-Create-Adaptable-Strong-Structures",
-      "originalUrl": "https://menafn.com/1105049442/A-New-Type-Of-Material-Called-A-Mechanical-Neural-Network-Can-Learn-And-Change-Its-Physical-Properties-To-Create-Adaptable-Strong-Structures",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-metas-ai-translator-can-interpret-unwritten-languages.md",
-      "title": "Meta's AI translator can interpret unwritten languages",
-      "excerpt": "but one that Meta has reportedly addressed with its latest open-source language AI advancement. As part of Meta’s Universal Speech Translator (UST) program which is working to develop real-time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/metas-ai-translator-can-interpret-unwritten-languages-150001511.html",
-      "originalUrl": "https://www.aol.com/news/metas-ai-translator-can-interpret-unwritten-languages-150001511.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/.NCBpPmk4OgpgCNqtbHWlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/e182b1b0-4efb-11ed-bff7-30a6eacb6c7e",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-digital-transformation-with-google-cloud.md",
-      "title": "Digital transformation with Google Cloud",
-      "excerpt": "We’ve partnered with Google Cloud over the last few years to apply our AI research for making a positive impact on core solutions used by their customers. Here, we introduce a few of these projects, including optimising document understanding, enhancing the value of wind energy, and offering easier use",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/digital-transformation-with-google-cloud",
-      "originalUrl": "https://www.deepmind.com/blog/digital-transformation-with-google-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/634fe232f87e0b7020f1c153_DM_GC_Hero.jpg",
-          "width": 3578,
-          "height": 1980,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-meta-ai-translator-can-figure-out-unwritten-languages.md",
-      "title": "Meta AI Translator Can Figure Out Unwritten Languages",
-      "excerpt": "Meta announced what it's calling the \"first AI-powered speech translation system for an unwritten language\" Wednesday, according to a blog post from the tech company. The system successfully translated the Taiwanese language Hokkien,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/meta-ai-translator-can-figure-out-unwritten-languages/",
-      "originalUrl": "https://www.cnet.com/tech/meta-ai-translator-can-figure-out-unwritten-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 299,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/7382493dce2d59cbbaf93757c5d4fda70ff56773/hub/2022/05/18/cb1d6bd0-d2ba-4f1b-a36a-d3a50a5ffeff/meta-logo-europe-2022-002.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/meta-ai-translator-can-figure-out-unwritten-languages/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-ai-translator-can-figure-out-unwritten-languages/",
-      "publishedDateTime": "2022-10-19T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-aftermath-islands-metaverse-replaces-usernames-and-passwords-with-blockchain-based-face-recognition.md",
-      "title": "Aftermath Islands Metaverse replaces usernames and passwords with blockchain-based face recognition",
-      "excerpt": "Aftermath Islands Metaverse launched its Liquid Avatar app to replace usernames and passwords with proof of humanity. That means that you will be able to sign into its metaverse apps by using verified face recognition on your smartphone instead of using a normal login.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/aftermath-islands-metaverse-replaces-usernames-and-passwords-with-blockchain-based-face-recognition/",
-      "originalUrl": "https://venturebeat.com/games/aftermath-islands-metaverse-replaces-usernames-and-passwords-with-blockchain-based-face-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Aftermath-Islands-Image-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-self-driving-bus-market-likely-to-enjoy-promising-growth-by-2028.md",
-      "title": "Self driving Bus Market Likely to Enjoy Promising Growth by 2028",
-      "excerpt": "India, Maharashtra, Pune The Latest research study released by HTF MI \"Self-driving Bus Market\" with 100+ pages of",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-bus-market-likely-to-enjoy-promising-growth-by-2028-2022-10-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-bus-market-likely-to-enjoy-promising-growth-by-2028-2022-10-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-5g-will-advance-payments-and-mobile-commerce.md",
-      "title": "5G will advance payments and mobile commerce",
-      "excerpt": "G technology could bring about positive changes to the retail industry, as retailers seek to maintain their digital transformation efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/10-19-2022-5g-will-advance-payments-and-mobile-commerce",
-      "originalUrl": "https://www.businessinsider.com/10-19-2022-5g-will-advance-payments-and-mobile-commerce",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f45112889aff80028ab7b48?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/10-19-2022-5g-will-advance-payments-and-mobile-commerce?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-19-2022-5g-will-advance-payments-and-mobile-commerce?amp",
-      "publishedDateTime": "2022-10-19T15:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-study-finds-that-artificial-intelligence-can-determine-race-from-medical-images.md",
-      "title": "Study finds that artificial intelligence can determine race from medical images",
-      "excerpt": "Artificial intelligence (AI) is used in a wide variety of health care settings, from analyzing medical images to assisting with surgical procedures. While AI can sometimes outperform trained clinicians,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/study-finds-that-artif.jpg",
-          "width": 2880,
-          "height": 1338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp",
-      "publishedDateTime": "2022-10-19T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-nvidia-geforce-rtx-3090-vs-3080-vs-3070-vs-3060-which-gpu-should-you-buy.md",
-      "title": "Nvidia GeForce RTX 3090 vs 3080 vs 3070 vs 3060: Which GPU should you buy?",
-      "excerpt": "they all make use of Nvidia DLSS (sort of an AI upscaler for games). Nvidia FreeStyle, ShadowPlay, Highlights, G-Sync and GPU boost work on all of the 30-series cards. They’re all VR-ready ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/news/nvidia-geforce-rtx-comparison",
-      "originalUrl": "https://www.tomsguide.com/news/nvidia-geforce-rtx-comparison",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/AnqrCABaVYriMJBAtyYQrU-1200-80.jpg",
-          "width": 951,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-22-ai-and-machine-learning-potential-advantages.md",
+      "title": "AI and Machine Learning potential advantages",
+      "excerpt": "AI and Machine Learning are helping businesses to remain competitive in their respective industries FREMONT, CA: As we progress into",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioapplications.com/news/ai-and-machine-learning-potential-advantages-nid-10347.html",
+      "originalUrl": "https://www.cioapplications.com/news/ai-and-machine-learning-potential-advantages-nid-10347.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioapplications.com/newstransfer/upload/khmjzc2io450-308.jpg",
+          "width": 450,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T01:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO Applications",
+        "domain": "cioapplications.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all.md",
       "title": "Artificial neural networks learn better when they spend time not learning at all",
       "excerpt": "Ryan Golden , Jean Erik Delanois, et al, (2022, November 18), Artificial neural networks learn better when they spend time not learning at all, PLOS Computational Biology, DOI: 10.1371/journal.pcbi.1010628.",
@@ -1296,40 +1339,6 @@
       "provider": {
         "name": "MIT Technology Review",
         "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-machine-learning-can-help-predict-patient-response-to-cancer-immunotherapy.md",
-      "title": "Machine learning can help predict patient response to cancer immunotherapy",
-      "excerpt": "In a small study, they successfully trained a machine learning algorithm to predict, in hindsight, which patients with melanoma would respond to treatment and which would not respond. The open-source program, DeepTCR, proved valuable as a predictive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/971463",
-      "originalUrl": "https://www.eurekalert.org/news-releases/971463",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T07:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
