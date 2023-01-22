@@ -70,20 +70,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 68
-  - title: "ChatGPT capabilities will be part of Microsoft’s Azure OpenAI Service soon"
-    excerpt: "Last year, during Build 2022, Microsoft enhanced its Azure Cognitive Services with Azure OpenAI Service. The enhancement was designed to assist developers in"
-    publishedDateTime: 2023-01-17T14:16:00Z
-    webUrl: "https://www.onmsft.com/news/chatgpt-coming-to-azure-openai-service-soon/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 67
-    images:
-      - url: "https://www.onmsft.com/cdn-cgi/image/width=1024,height=768,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2021/01/Azure-cloud-cropped.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Microsoft Patches 4 SSRF Flaws in Separate Azure Cloud Services"
     excerpt: "Two of the vulnerabilities — in Azure Functions and Azure Digital Twins — required no account authentication for an attacker to exploit them."
     publishedDateTime: 2023-01-17T15:13:00Z
@@ -98,15 +84,6 @@ related:
         width: 1000
         height: 703
         isCached: true
-  - title: "Microsoft launches Azure OpenAI, ChatGPT coming ‘soon’"
-    excerpt: "Microsoft's Azure OpenAI Service is now available for select partners and customers. The tech giant says it will add OpenAI's popular ChatGPT tool 'soon'."
-    publishedDateTime: 2023-01-17T13:12:00Z
-    webUrl: "https://www.techzine.eu/news/applications/99948/microsoft-launches-azure-openai-chatgpt-coming-soon/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 49
   - title: "Microsoft announces general availability of Azure OpenAI Service"
     excerpt: "Large language models are quickly becoming an essential platform for people to innovate, apply AI to solve big problems, and imagine what’s possible. By Eric Boyd, corporate vice-president: AI platform at Microsoft Today,"
     publishedDateTime: 2023-01-18T08:48:00Z
@@ -116,15 +93,6 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 49
-  - title: "The Download: battery recycling, and how AI might revamp Microsoft Office"
-    excerpt: "To Redwood Materials, the rows of cardboard boxes in the parking lot of its new battery recycling site just outside Reno, Nevada, represent both the past and the future of electric vehicles. Far from trash,"
-    publishedDateTime: 2023-01-17T13:11:00Z
-    webUrl: "https://www.technologyreview.com/2023/01/17/1067026/download-battery-recycling-ai-revamp-microsoft-office/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 33
 
 secured: "sosOkWe4AWl/KNxiRcChd0p+3fFloOhSqFT1qzOsZQtxGjCK4o0wEaE5hNWAaWMPYSqCxsw4dWVad2ooV7dAUkghiy17O6em2X8i7tzG7f3DgUPH5Ip1oBC/f6ef6VzQqEHkYqYmQYFVWPwVwC+eak5KeF5EVaJzG+HLtfZf4TO3t/xnONAYiZdoL3/n2pcxzTRzl+biTTfUF1qxd3oma7EOGQ2HUDdkt3Erj+pKTA0BICVaAm5/rZOgz2vq05KTHXSdpCtl/cYqcNrnus7GCwDq2Wc8I5f+D4BrRssZ3BCnn4zrAJgA7xayrQg/kQ9rU1B5DddI/TYMNBW3amEhbJ1/0+gPfSX3nUmd8xjBT/dgVZ1CXyQyNtTAqcSxwTkNRZRBgP7WyCiSFad+52tJ1COX+byFUa2gtz181r/wUQO8UQTuVOb8cpeHyzLEbKj74OCj5DXUxUPvQlE4wGD3F2VMsCV3+pl/x4kh71S0TEAj10afKq0VR/LlVBntVDmvC3Se29SlxP+MReLgP4bbTw==;emRqAEW1GmBR1AK99QKdUA=="
 ---

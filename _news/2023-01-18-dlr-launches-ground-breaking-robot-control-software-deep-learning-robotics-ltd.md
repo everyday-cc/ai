@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1105441473/DLR-Launches-Ground-Breaking-Robot-C
 webUrl: "https://menafn.com/1105441473/DLR-Launches-Ground-Breaking-Robot-Control-Software-Deep-Learning-Robotics-Ltd"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,20 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "DLR launches robot control software"
+    excerpt: "Deep Learning Robotics has launched robot control software. The software allows users to teach robots tasks by simply demonstrating them."
+    publishedDateTime: 2023-01-21T02:21:00Z
+    webUrl: "https://www.therobotreport.com/dlr-launches-robot-control-software/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 69
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2023/01/DLR-controller-featured.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "DLR Launches Ground-Breaking Robot Control Software'"
     excerpt: "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for ..."
     publishedDateTime: 2023-01-17T21:12:00Z
@@ -30,8 +44,8 @@ related:
       domain: menafn.com
     quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?373904"
-        width: 375
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?154579"
+        width: 333
         height: 250
         isCached: true
 

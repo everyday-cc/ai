@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4570469-digital-transformations-m
 webUrl: "https://seekingalpha.com/article/4570469-digital-transformations-may-solve-real-world-problems"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 750
     height: 563
     isCached: true
+
+related:
+  - title: "Digital Transformations May Solve Real-World Problems"
+    excerpt: "While it is important to gather and analyze all possible statistics, we think it’s also essential to think about the problems in the real world that the services of these companies may help solve. If the solutions have value,"
+    publishedDateTime: 2023-01-21T14:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/digital-transformations-may-solve-real-world-problems"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 36
 
 secured: "0Cvme+67p5uXEFc6g/D/58NIc22bWPsJLuS1R4iQxqCt9bsdaqfmj4HV8oqfXkY8jg306jiQin4+8Fk3DyFUmoKa97OXCnRTjf5VeyAU7pPW9qbRd6+8HLIvwN7uE8PJLtr0rXC9KtpXkjQc7dAA0spNpRZnibuRAsmiB8PoAWIPq1LadM3Z8ox5xf8ZH8/Qx/jbWRNWfD/l+gibTQft9useKXc+3GyGAXdDhwoDWNoS9nGbGdTDzmT7+mSnILlEvVbtGgOjNn9aMlvnK5XgEofjDuK/kgSbtkrNKj2nMHcOcaYq6Y3YTr7TV6sNdi/CWLJBRfRBwvfcUZcQvje2is4AtRZClz9N3zh6sFej7CR5fcmtMP0QNkuiRjw8t+QXAv8hSYLd/ApxHu3coui8J9LoSvh8zBeZ2HSw/ByCuTu++v/XoeFtAyFyO6EDhnDpIH6w9eNurS8NTxevzDL56ig/WrRihI3eaHnG1YzKRJD3OSePoV94saUBNvBxSbWizYlVDNxxprm3fbZr9q8ZzQ==;7feue9e7OzYOBVBor0TRVA=="
 ---

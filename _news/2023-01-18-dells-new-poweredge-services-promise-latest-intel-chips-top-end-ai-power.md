@@ -7,8 +7,8 @@ originalUrl: "https://www.techradar.com/news/dells-new-poweredge-services-promis
 webUrl: "https://www.techradar.com/news/dells-new-poweredge-services-promise-latest-intel-chips-top-end-ai-power"
 type: article
 quality: 82
-heat: -1
-published: false
+heat: 92
+published: true
 
 provider:
   name: TechRadar
@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Dell integrates more AI power into updated server portfolio"
-    excerpt: "Today's Dell PowerEdge event introduced a new server lineup with hardware for general purpose workloads and purpose-built systems for AI/ML."
-    publishedDateTime: 2023-01-17T15:00:00Z
-    webUrl: "https://venturebeat.com/ai/dell-integrates-more-ai-power-into-updated-server-portfolio/"
-    ampWebUrl: "https://venturebeat.com/ai/dell-integrates-more-ai-power-into-updated-server-portfolio/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/dell-integrates-more-ai-power-into-updated-server-portfolio/amp/"
+  - title: "Dell’s New PowerEdge Servers Built for AI, Security, Sustainability"
+    excerpt: "Dell Technologies has unveiled 13 servers built around the newest chips from Intel to give customers more computing power across their networks while using less energy than previous models."
+    publishedDateTime: 2023-01-17T21:03:00Z
+    webUrl: "https://www.crn.com/news/data-center/dell-s-new-poweredge-servers-built-for-ai-security-sustainability"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: CRN
+      domain: crn.com
+    quality: 56
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/01/VB_Dell_poweredge_R760_011723-e1673966368373.jpg?w=1200&strip=all"
-        width: 1200
-        height: 726
+      - url: "https://www.crn.com/resources/027d-1717f609ca4a-b3fe2d6ab08f-1000/dell-poweredge-server-family.jpeg"
+        width: 611
+        height: 457
         isCached: true
 
 secured: "EAIFwQxsSmBEf2MnpYeBniRCQCLEEgBvyMvIkSMtV93JUaAqwljAC8IG0mInuPFZ7R8MgHZvmgjpZsCMAc+LJgrRXzIquKgrw5CeCBUp/oxoey7VYAl+3xWQO7rxnBDHJRtra8L959zet7F6uRfGVJxyf97vFf+5tEs01Ty1Ve1UEWAZ1Z5tTFyU1Dg9fRAXTN75iSzXt9CkcBm+CyfCL0rOQsN59yfC6ge5HggW/YxXfUur1ZzhLzXnCb059x056/oafCboviQiqY8ZIfn7MSPxfVKCmmg3ad4MhIpwhiLDO4VsxUULmorhsnQKPk1+puKD5wZA4GXFFsDiCjfG5QcmIaMj4c7YXQUBwSXwC3MNw2ypvWeqAMaQ72viBXjfND+lMzm2Ww2ZuOL5pMZf6xejK17D4rJvSPOwiOT2Rg4m7xOe9DWTYs9Yysg7n+lhpgxIPKU9FMzkoNyx+ZQHEsIDwXFH+vywOHEh+u/wGWULeKKB039GOXSHzftdXdyAII5Dz2xVG2y+Rb5ECDQLlw==;IUZi9lC+9uUcm7L+EE10DQ=="

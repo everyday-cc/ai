@@ -456,20 +456,6 @@ related:
         width: 1240
         height: 786
         isCached: true
-  - title: "ChatGPT detector could help spot cheaters using AI to write essays"
-    excerpt: "A tool called GPTZero can identify whether text was produced by a chatbot, which could help teachers tell if students are getting AI to help with their homework"
-    publishedDateTime: 2023-01-17T14:29:00Z
-    webUrl: "https://www.newscientist.com/article/2355035-chatgpt-detector-could-help-spot-cheaters-using-ai-to-write-essays/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/01/16165748/SEI_140499394.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Azure OpenAI Service Opens Up, ChatGPT On Tap"
     excerpt: "The general availability of Azure OpenAI Service was announced yesterday (Jan. 16) by company CEO Satya Nadella in a tweet, followed up 16 minutes later by a companion announcement from OpenAI that said: \"We've learned a lot from the ChatGPT research preview and have been making important updates based on user feedback."
     publishedDateTime: 2023-01-17T20:01:00Z

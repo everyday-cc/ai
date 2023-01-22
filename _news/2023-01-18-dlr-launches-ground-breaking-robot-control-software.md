@@ -19,12 +19,26 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?373904"
-    width: 375
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?154579"
+    width: 333
     height: 250
     isCached: true
 
 related:
+  - title: "DLR launches robot control software"
+    excerpt: "Deep Learning Robotics has launched robot control software. The software allows users to teach robots tasks by simply demonstrating them."
+    publishedDateTime: 2023-01-21T02:21:00Z
+    webUrl: "https://www.therobotreport.com/dlr-launches-robot-control-software/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 69
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2023/01/DLR-controller-featured.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "DLR Launches Ground-Breaking Robot Control Software -- Deep Learning Robotics Ltd."
     excerpt: "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for the first time at DLR's CES booth in Las Vegas last week- allows users to teach robots tasks in the most natural and intuitive way possible - by simply demonstrating the task."
     publishedDateTime: 2023-01-17T19:35:00Z
@@ -35,6 +49,6 @@ related:
       domain: menafn.com
     quality: 45
 
-secured: "CsxqZ9B0xFUu7MyXht/g9TcFGKwFcrtfu6jbU78xdd6BMffR4rEJ/NJ1flMkZ1gHXokCnwUPdf4qBSGGeCuv/ayKdf8QOEsKjzHUgntyhT+uAiE18UqaWd6NnaSMjdkEhZBHQXT3Y38pe/Il8nc6Xk6WQ1ReXF6OhoXwo7O3bGAXswdvm3QVt9+UkWqjelhOaw/uMNKEyVWLt+YOqIdauPhYlJFlEO1OKH1LXRC99nAMr1lMz4Amw9iw1jxVjj5F5FEgnuo+R0wR7z2+trs8CwJAPzAnhYxb7gwAbVdOLVxQqgftTmK6j67yY6IzW4jqcQW5R0Al/BBn9QncbpdhWLGI8z4Hza8jts8gSV8Vz2A=;R9uOV/vjjbyYgZtvMB9Q9Q=="
+secured: "ayz2Y08np5UTChySV40rEh5CMdAl47QMFikEEikVvcO6i0Bi4QS+IFYWsLbYiMbITrzBqi1Uo0LAOjPL0PPiHqwfKqXQlbun/xEVciec2pUeOnDAM/jyZ0eV97w4juXbk0RV8HVikQLzd+LFu3y5Qr/a5oSNSJtQOP7lOf12rSSGZV8b99AeIO8kwOcfb1XIzvJo6m0RkURmSsbXMW1rVlLVvDHZ7YpMgxIWypWfoibcDeeMO1dFMHTsJgNb+LbuXimBCOJQJdOSZdyiUJV4fPZBf9lsJwPmGph1RS6IWEe50KOVPpv2DnAQFFq94i9AqZ9mciwklFrgw5HkbEW8NumD97q/4BPzTgogaYPMIIQ=;7c6VsfjWqZoLTmkiJGkzZw=="
 ---
 

@@ -446,20 +446,6 @@ related:
         width: 1240
         height: 786
         isCached: true
-  - title: "ChatGPT detector could help spot cheaters using AI to write essays"
-    excerpt: "A tool called GPTZero can identify whether text was produced by a chatbot, which could help teachers tell if students are getting AI to help with their homework"
-    publishedDateTime: 2023-01-17T14:29:00Z
-    webUrl: "https://www.newscientist.com/article/2355035-chatgpt-detector-could-help-spot-cheaters-using-ai-to-write-essays/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/01/16165748/SEI_140499394.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI research tool aims to supplement flawed ChatGPT"
     excerpt: "It started out as a side project during his university studies, but Kieran Lindsay believes his automated Minerva research assistant could be a game-changer for academics struggling to keep up with the flood of publications – and an important step towards explainable AI."
     publishedDateTime: 2023-01-19T03:36:00Z

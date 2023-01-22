@@ -98,20 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Food & Beverages Market 2023 Size, Share, Trend, Revenue, Key Players with LATEST RESEARCH REPORT till 2029"
-    excerpt: "Jan (The Expresswire) -- \"Artificial Intelligence (AI) in Food and Beverages Market\" Research Insights Report 2023 | Latest Report Spread"
-    publishedDateTime: 2023-01-17T14:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-beverages-market-2023-size-share-trend-revenue-key-players-with-latest-research-report-till-2029-2023-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Of Things (AIoT) Solutions Market Size Related To Time And Cost Is Expected To Grow The Industry In Upcoming Years To 2029"
     excerpt: "In 2023] The Global Artificial Intelligence Of Things (AIoT) Solutions Market Size (112 Report Pages) is estimated to"
     publishedDateTime: 2023-01-18T01:37:00Z

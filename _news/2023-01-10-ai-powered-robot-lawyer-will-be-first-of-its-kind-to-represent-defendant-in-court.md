@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI-powered \"robot\" lawyer will be first of its kind to represent defendant in court"
-excerpt: "A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month. Joshua Browder, CEO of DoNotPay, said the company ..."
-publishedDateTime: 2023-01-09T17:39:00Z
-originalUrl: "https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case/"
-webUrl: "https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/ai-powered-robot-lawyer-takes-its-first-court-case/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-powered-robot-lawyer-takes-its-first-court-case/"
+excerpt: "Spotlight on artificial intelligence's ChatGPT at CES 2023 tech show 07:26 A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month."
+publishedDateTime: 2023-01-09T18:38:00Z
+originalUrl: "https://www.cbsnews.com/sacramento/news/ai-powered-robot-lawyer-takes-its-first-court-case/?intcid=CNM-00-10abd1h"
+webUrl: "https://www.cbsnews.com/sacramento/news/ai-powered-robot-lawyer-takes-its-first-court-case/?intcid=CNM-00-10abd1h"
+ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/ai-powered-robot-lawyer-takes-its-first-court-case/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/ai-powered-robot-lawyer-takes-its-first-court-case/"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "wK0oXlQaoEAm/V9hOPMrTbmOzlkHlfK/pLenbtrlV4wAWrq/EtEGidHpDEdfiRIQEapzVFbuk6AqYtsdlg3EyhJPiGPAwxMB2+Oma0egEKuyhF++C6bTnARk7uKp/BRtj+AqFifAvzUm5S5RvMHJZfYjX539Z/KkMvoRvCu+O5YYC8+qELKh6O9biy1CH7YkiIpk9KwqfYtekETe4eEfbmVz4f8hUvDQyWU7wMoyj4ZT8Ab51vIGP4RgqGyaxTAHY0xrueUQZ0lPEha+te+V9sR4q6smYKhhnh2mgo8XUvnuQC5u5qK07TEav2GxHB+/w03ujsIsfeMxiv9bdLlnBKfG/Ls0iYnQDONtSjYMFa0=;n7Jy06EY9+OpKRyKJ9wcxg=="
+secured: "/N43nRI2Iml+nZpY8gE4ITEDngJDnL8PhHu1L5Dofy+A9aju9y3Afm0T/i3tAXvu+kSt74Bfc/lGt4lsOo2n7xRGVc1E7XLXQt1SvXg0M7iXHB7ljQXzBCsBPfe5tmqUNQ3SaHVVwwP/zpAexanVEfFJMr1SOm2HVc2iif/4lqf16tgsLUzOOC3gsRoTx1nb8GnkMvwFlrgF7+1OmvFKYnXDaQ6iaRUlE8lnJ6GcjYw7Ed/1ABoZcuza3pA0btPecl2OrBZ9Icum+t8PLlz8RYCeSs1fK2z2JRe9nfw03Aj20VOol1taIDidZwuKPTc5rs5D5/10d+OhjOLRDY7Hqnyga/tbMiHfA5dhlMzChEY=;X3bstuwPnXZnzvcbtK78IA=="
 ---
 

@@ -24,17 +24,6 @@ images:
     height: 282
     isCached: true
 
-related:
-  - title: "Vésale Bioscience Receives €1.8M to Develop Phage Therapy Diagnostic Platform"
-    excerpt: "The company's platform uses artificial intelligence to determine suitable bacteriophages for treating a bacterial infection."
-    publishedDateTime: 2023-01-17T14:40:00Z
-    webUrl: "https://www.360dx.com/business-news/vesale-bioscience-receives-eu18m-develop-phage-therapy-diagnostic-platform"
-    type: article
-    provider:
-      name: 360dx
-      domain: 360dx.com
-    quality: 16
-
 secured: "aTg4EUIfLSzr3OwogtsB7pGEELHybwRLc7FTKxv3fVgh3AHLlcKFXCldmLHuD3OxkXXYhl4lhKaFzpVBYeujdNrBfTPIuBxLML/A2FyW54fLa+g2iHX4cJTxoR2/ibcV0M2xkJ6DMQ/TqCffRPltoXGstG1ggBfcNuCbhGVCtaHjziEB3YzXNosniqeZdAb90mWuUjyv2JW8cqcHjr7Ft1sOgH05FpaeILh6zrmcSwmvDmFOV1UaXIOOAm1Qnk1095SFwPuuMn3WHDhdsCnkCuRWLRAkTy7LJHAHCAucoyPeqrTvdK3gNUZ13LzGZD+DTXdTq8BHelwHMhHrayHHwtvpCq/E2gcItFor0M2fzTXGZvjWq7ze0Jn8etLCYRQM9ZMQASvDQXHqb9YgeG51kNZBfWq1kuzxGBUAWhqZ8Y9sya7qULUMncTgjiNwnuEBJF3bbI09kEG7TGGZO1uByud0Zj7wMvYfNR+/CEiBZZ0TU84BaoQGTwZEHx0k/qh6xBSIgQPR6Dm2DfD58AqzOw==;2Ds3P2x2QVDjTqYLnU8X5A=="
 ---
 

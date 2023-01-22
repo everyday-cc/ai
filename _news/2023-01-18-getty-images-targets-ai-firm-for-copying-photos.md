@@ -91,15 +91,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 41
-  - title: "Getty Images suing artificial intelligence firm Stability AI for 'copying' photos"
-    excerpt: "Stability AI runs a tool called Stable Diffusion that allows users to generate mash-up images from a few words of text, but the firm uses material it scrapes from the web often without permission."
-    publishedDateTime: 2023-01-17T13:45:00Z
-    webUrl: "https://www.newindianexpress.com/business/2023/jan/17/getty-images-suing-artificial-intelligencefirm-stability-ai-for-copying-photos-2538693.html"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 27
 
 secured: "PQ1rzw+aHQNoYh2N7xZWuM8Kg1h87JwuFM1OapXeDQO238NqICYEaiYsMFFdid7auffGGiiQ/U4/2uiF52IXkbgsDuwhSHMM/zgvaOrBtQtqT19bFHXyf7U9yjSzPqSxoc4/OwVAADw1vwkP6/XBLyJeETbss2Q6/ULTaN9iC96NGeJwSqvr+ET7RJrfSfSSY3fPjKUm1qQL16oUIqpeb0aKOjhJESex+Ivc4PmvdG++wx3pxBT9nL1XLb+g6rb/giFkab7Jf7APwS7FrLeWdt6o9I89n37Pv41scovspO76AOEHpXX49cy+9PIV+acmYz0XRZLAC1sg6nPdiU56XsSqOOuyIoBuw0UGpKHbcvY=;E9fTFc6/Iz/XjeAGHstQ+Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-17"
 type: article
 quality: 84
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -80,20 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Food & Beverages Market 2023 Size, Share, Trend, Revenue, Key Players with LATEST RESEARCH REPORT till 2029"
-    excerpt: "Jan (The Expresswire) -- \"Artificial Intelligence (AI) in Food and Beverages Market\" Research Insights Report 2023 | Latest Report Spread"
-    publishedDateTime: 2023-01-17T14:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-beverages-market-2023-size-share-trend-revenue-key-players-with-latest-research-report-till-2029-2023-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

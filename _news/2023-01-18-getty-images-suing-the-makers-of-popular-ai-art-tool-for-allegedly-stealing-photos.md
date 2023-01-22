@@ -93,15 +93,6 @@ related:
       name: PC World
       domain: pcworld.com
     quality: 49
-  - title: "Getty Images suing artificial intelligence firm Stability AI for 'copying' photos"
-    excerpt: "Stability AI runs a tool called Stable Diffusion that allows users to generate mash-up images from a few words of text, but the firm uses material it scrapes from the web often without permission."
-    publishedDateTime: 2023-01-17T13:45:00Z
-    webUrl: "https://www.newindianexpress.com/business/2023/jan/17/getty-images-suing-artificial-intelligencefirm-stability-ai-for-copying-photos-2538693.html"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 27
 
 secured: "TNzRDmCQC4rHA+x7qbYdeUU0AnNkD4f/PLIk7F6ic4w/EAfjZgiFC/Fta2tRnk9JweywnHouQWwbhp92J0DQKD56Ub/Y2a6LwbdkO5hPlRxTsnzJnVw5pNN+Wwdc2tAjfMsTAuQAkhv6TdL1dXcuHltpEZbVLiaKGNTse9gm7nlECfEJ/vmaXLOzOWpFpxUqPfXJ8T68X4fNXof7gB93b54KOgpG18OAzqGsZuEuVkbGBeTi/QMrYzSvMyyUxv/FgQBXMAvcKpYnfgVu9JuXmgTVuLLQEzMJlt9c7aHz4ddr6NHgxbVi0pIePOIOvBwkm7CbICrxKNNOIteJnQq2ShQIJ49XEJ7vcEIcvFEAsMvRfVmCdM4v2r/vcZqUCt+C52gBRh3APNm+VyuiHCyaLVj6au5pL70SZdtWQW6jNva9OBA16U4dFD+Lkvu7dCVOl1lCJPnXkqEkDBaddY+7tHe+Z6MhY/VsoTpM8rzjXdtZB/gwyTXzjv1p1MfabxKJT01yKJPbKSw9yOqJaxVKSw==;IL4hogiBBBFhEdahEWJFLw=="
 ---

@@ -76,15 +76,6 @@ related:
       name: CarSifu
       domain: carsifu.my
     quality: 4
-  - title: "Self-driving cars could cause congestion to nearly double, warns government report"
-    excerpt: "Road congestion could almost double from current levels if self-driving cars become commonplace, according to a new government report. The Department for Transport’s projections for traffic levels in England and Wales suggest that delays could soar by up to 85% between 2025 and 2060."
-    publishedDateTime: 2023-01-17T13:50:00Z
-    webUrl: "https://www.yorkshirepost.co.uk/lifestyle/cars/self-driving-cars-could-cause-congestion-to-nearly-double-warns-dft-government-autonomous-vehicle-report-3988138"
-    type: article
-    provider:
-      name: The Yorkshire Post
-      domain: yorkshirepost.co.uk
-    quality: 0
 
 secured: "9FtTx9G2aens+57NtinA1MzzATgHSYF1afJDh8hmgIkU1ETirejBW7SU4qeKHiVvMiLqZPoFYxLogQIim3bPi/7QEHR6byq5CERbkNmTpS/C+MUVHzyPgsilIKC20fR/iv+5XGiaY3GNf6Eguulbn/Rc/4gZEJcofW8dTd9NBxMO0g9ySUMwLARw81utRNE7dTOHB30HOs/0UUP+hcvBNj3OPdj4ZiAMlkOTXHzuOxoKt9X00PmRBwyPkSVFxT5YuQl49uSbTPkGt64ILzcLup6tuOhb5tbG2sVIJlMLQ9XRrWI1q6p1bm35h8x1b91j1g+Jt4SmeyG8MMovKqUvAZ/psF1c9+2vRkeY5OrvZk8=;oG8fmu+rIbsfihwBXsCVUA=="
 ---

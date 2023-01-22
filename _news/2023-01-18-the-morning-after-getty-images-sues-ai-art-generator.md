@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/the-morning-after-getty-images-sues-ai-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-getty-images-sues-ai-art-generator-121539563.html"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -94,15 +94,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 41
-  - title: "Getty Images suing artificial intelligence firm Stability AI for 'copying' photos"
-    excerpt: "Stability AI runs a tool called Stable Diffusion that allows users to generate mash-up images from a few words of text, but the firm uses material it scrapes from the web often without permission."
-    publishedDateTime: 2023-01-17T13:45:00Z
-    webUrl: "https://www.newindianexpress.com/business/2023/jan/17/getty-images-suing-artificial-intelligencefirm-stability-ai-for-copying-photos-2538693.html"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 27
 
 secured: "LqqwUwZfPzv6griQGHC4yILhD9xSptYmB6lreA99W1NuQqtQonbcWIZKCv5xM1Kgol1TwufJq6bgRehgtGMQwJYnBQqXnkNKMEw2Tsl6dHw6SrK1AzhWjHtd3CwhNiGqAU3htaev0QMmLSE3x3XqA7oNJ8j1bW4HZSytG75ANQMmutAbUF2FuBgQydgI6Fe4PN/DZ+bWsH4wzgu+zjAI5EZWe58xDfCnOc4S0+1s6IwSuoUQ2TxzKdVHMG4OloYSRbFX9fRk9hZGraFyv+e/Pp06GPNqngkB3QlxsplIAZLASPr6+pccGKa9r4t3Dwz5HX/pkWdlg3NELU1xcutOd1K/EFmd/ISrZRul1HwPIiwBq7JkMljEn4aTexxx9Q+MyJaduiJveH911bdbFPLRq5JWmZNz1KQCxePjslS1DkvMGrttKzQ/T9R7Slp9dErSZqmgrjJDiwJZaY1tQrrMMaSukYq+9n80yVFMRqqYT33pmmBpvaxZ/HYGLZqXWNsO44Zcpyz0gDCMwQaV8Ca3bg==;0wsONDDWbIQLZsjdklWYSg=="
 ---
