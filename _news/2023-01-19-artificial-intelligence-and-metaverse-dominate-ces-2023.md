@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.medindia.net/images/common/news/950_400/metaverse-headsets-and-smart-devices.jpg"
