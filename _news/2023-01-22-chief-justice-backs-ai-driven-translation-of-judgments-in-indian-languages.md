@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ndtv.com/india-news/chief-justice-of-india-dy-chandrachu
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/chief-justice-of-india-dy-chandrachud-backs-ai-driven-translation-of-judgments-in-indian-languages-3713022/amp/1"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: NDTV
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "PM Modi Lauds CJI's Call For SC Judgements To Be Translated In Regional Languages"
+    excerpt: "PM Modi said the central government is undertaking efforts to encourage Indian languages after CJI's call for use of AI to translate Supreme Court judgments."
+    publishedDateTime: 2023-01-22T16:56:00Z
+    webUrl: "https://www.republicworld.com/india-news/general-news/pm-modi-lauds-cjis-call-for-sc-judgements-to-be-translated-in-regional-languages-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/pm-modi-lauds-cjis-call-for-sc-judgements-to-be-translated-in-regional-languages-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/pm-modi-lauds-cjis-call-for-sc-judgements-to-be-translated-in-regional-languages-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 54
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ocqzhpkcil0tojai_1674390438.jpeg"
+        width: 768
+        height: 439
+        isCached: true
   - title: "From Illinois to India: Artificial Intelligence platform looks to make digital healthcare accessible to all following clinical trials in India"
     excerpt: "An Illinois-based Artificial Intelligence (AI) platform that offers actionable medical advice through biometric monitoring is looking to make digital healthcare accessible to all as it conducts cuttin"
     publishedDateTime: 2023-01-19T18:34:00Z

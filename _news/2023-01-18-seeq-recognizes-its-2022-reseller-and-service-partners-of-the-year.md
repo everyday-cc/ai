@@ -2,12 +2,12 @@
 category: news
 title: "Seeq Recognizes its 2022 Reseller and Service Partners of the Year"
 excerpt: "Annual partner awards, honoring excellence in delivering the next generation of process manufacturing improvements, announced at Seeq Global Partner Symposium in Las Vegas. LAS VE"
-publishedDateTime: 2023-01-18T14:25:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/01/18/9745322.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/01/18/9745322.htm"
+publishedDateTime: 2023-01-18T15:43:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/01/18/9745322.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/01/18/9745322.htm"
 type: article
-quality: 4
-heat: -1
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1985743/SEEQ_PARTNER_OF_THE_YEAR.jpg"
+    width: 343
+    height: 400
+    isCached: true
 
 related:
   - title: "Seeq Recognizes Its 2022 Reseller and Service Partners of the Year"
@@ -34,6 +40,6 @@ related:
         height: 313
         isCached: true
 
-secured: "9qSAVZ5NUlLFOvTglHhDOBZOh0doujiBJ4CPYrg4XX6MK7SJ8fYgZk76EJQZDy4Mw9zxestINZifgsRmtwpfmN0QBJZ8LxDYG0LxPVxa7CaKLuNnGg5akL39hR58GeiczrXj3P9aqNnTTYURi27mielHPYh25QR4haLN//3bk8Lw1O7cfGWXNJitVb6e/qeGpqI/7ZJVdS5tFItzd/SkPAgZSIlmdBtTANKr6uusaRf/Wc3gyPOEZtS7b0Sx59PkQ0l3AE9l3AtNbnuBV/4l6jLQsB+MV1H7Lm18gsvNeLLFH6oRvsWL90r7J6IyZsvGt+/NQFX69vy+hWXKH22EHRqDsvKKg5v6Dx2K9aACB6giC3LWZj72VwCR/QUVeyJg2oDfgGWCQRr0Zo4WafQvXP93jzlNX7zwwpUCVFGRKa1HIU+cY3sBz7HnvJLAWtV+DnvtGPQSzMYdNbb2ghmT8lyzQg9lfxuUNTRQEKVKDEBPiS7CN7ABDetVH3CcKiIiVIb0FoixnuJMMiJ7NZ7yNQ==;VmWG0CSiFiDyUI1R/soRDw=="
+secured: "8zfsJJD+m2R6iU7u28zX792vLaa5tOgyw2DI4G8Ewl5LXbX1vTlv/W2oWJyV5Jbfw4rwVKfeD1yy3Y1FSEsxvf7x+yGl9RV3sCk11roth4pZECzOjoELOaktoVk1b32a8V4jT7/EJWaq/pIpJbATS1wG6Ro+eM1XOxZ1ZU4hISBxwP2fGvJWU6rfOo+4A4wTRPSvtfC3YaiW+VTIFX+1ONk9QVtfQcoLpT5Hc7gqlCKHOisbfFYrqVNXrnQgXCAOjl6xju3Yp2wr9nNqIY+h1eom0btCm2ZD/29T8n7V+6/ELiJOtfen3Vr9g9NpPe53xmdwRJTZHKKc+52Vxx/S7U/h8Wo5TORbOVNPnEmEY9o=;6CdGXkA4MyaVBIL0ffajlA=="
 ---
 

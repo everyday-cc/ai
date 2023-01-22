@@ -9,8 +9,8 @@ ampWebUrl: "https://www.androidheadlines.com/2023/01/deepmind-sparrow-google-ans
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/01/deepmind-sparrow-google-answer-to-chatgpt.html?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Android
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chatgpt Could Be A Game-Changer For Marketers, But It Won't Replace Humans Any Time Soon"
+    excerpt: "The recent release of the ChatGPT chatbot in November 2022 has generated significant public interest . In essence, ChatGPT is an AI-powered chatb"
+    publishedDateTime: 2023-01-22T18:26:00Z
+    webUrl: "https://menafn.com/1105462407/Chatgpt-Could-Be-A-Game-Changer-For-Marketers-But-It-Wont-Replace-Humans-Any-Time-Soon"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 15
+    images:
+      - url: "https://menafn.com/updates/pr/2023-01/22/TC_06612image_story.jpg"
+        width: 1250
+        height: 703
+        isCached: true
   - title: "ChatGPT Sounds Exactly Like Us. How Is That a Good Thing?"
     excerpt: "For 70 years, programmers have tried to make computers more like people. Now that they’ve succeeded, we still don’t have the secret to human consciousness."
     publishedDateTime: 2023-01-18T07:44:00Z

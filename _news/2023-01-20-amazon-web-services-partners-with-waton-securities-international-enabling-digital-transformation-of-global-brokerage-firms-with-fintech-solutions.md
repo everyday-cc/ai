@@ -80,20 +80,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Fintech, edtech, deeptech–15 quotes of the week on digital transformation"
-    excerpt: "From data to decisions, these quotes from the week of January 9-15 capture tech impacts sweeping across the world!"
-    publishedDateTime: 2023-01-18T02:22:00Z
-    webUrl: "https://yourstory.com/2023/01/fintech-edtech-deeptech-quotes-digital-transformation-entrepreneur"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 23
-    images:
-      - url: "https://images.yourstory.com/cs/2/28b451402d6a11e9aa979329348d4c3e/Digital-1-1673934535223.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "pmOCnMh+3cFZUQPjeGNriMXRh02C4tSypb7bNJOARQAWJvqW8QlB/cVm5+sZu3qfuNcVRyXj4HYPNznVyeEXVXMKoxAWz5R3dbcbx1paZoIY4U+sQz4ApDGjIxE5EgE8UKutlssE4EY6KPpjXVhYLDO6Par0byLvpRBPgP/Ii3qSzIWukr7driepCqLDkLoDSo/44Dl9mWCdEptHmL90vZmd7XEMeMo40ALLjJ2wXsFCKfwWvBxes/YpC7roQE38z5lXDeQbmXIbOETigLvcNUV8gCKFR7DSbBiW8C8XBKQ+v3E6tzNGJ3/o8nK0mqMb4mxrAZz/Tkpurl3JXYMcs0gMA+PsU2/O+3QtRHi/wd0=;vGS6YR1MtCMwCdnpX0STXQ=="
 ---

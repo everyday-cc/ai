@@ -119,6 +119,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Musk oversaw falsified video of Tesla 'self-driving' capabilities"
+    excerpt: "In an October 19 call with reporters and in a blog post, Tesla said that all its cars from that day forward would ship with the hardware necessary for full self-driving capability. “Just want to be absolutely clear that everyone’s top priority is ..."
+    publishedDateTime: 2023-01-22T18:48:00Z
+    webUrl: "https://driving.ca/auto-news/industry/musk-oversaw-falsified-video-of-tesla-self-driving-capabilities"
+    ampWebUrl: "https://driving.ca/auto-news/industry/musk-oversaw-falsified-video-of-tesla-self-driving-capabilities/wcm/1f7124fa-fc10-4006-8be7-0fef12fde9bf/amp/"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/industry/musk-oversaw-falsified-video-of-tesla-self-driving-capabilities/wcm/1f7124fa-fc10-4006-8be7-0fef12fde9bf/amp/"
+    type: article
+    provider:
+      name: blogs.driving.ca
+      domain: driving.ca
+    quality: 59
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2021/09/Tesla-Autopilot-hands-free-autonomous-self-driving-2.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
   - title: "Elon Musk oversaw video that exaggerated Tesla's self-driving capabilities"
     excerpt: "Just want to be absolutely clear that everyone’s top priority is achieving an amazing Autopilot demo drive,” Musk said in the email. “Since this is a demo, it is fine to hardcode some of it, since we will backfill with production code later in an OTA update,"
     publishedDateTime: 2023-01-20T08:10:00Z

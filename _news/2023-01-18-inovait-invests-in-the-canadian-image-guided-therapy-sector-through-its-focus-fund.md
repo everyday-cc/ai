@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Arrayus Technologies Awarded Funding to Advance Focused Ultrasound Therapy through AI"
-    excerpt: "CNW/ - Arrayus Technologies Inc., an innovator in focused ultrasound therapy for oncology, announced today it has been awarded funding of up to $1.9 million from INOVAIT and the Government of"
-    publishedDateTime: 2023-01-18T14:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/n30464658/arrayus-technologies-awarded-funding-to-advance-focused-ultrasound-therapy-through-ai"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 27
   - title: "Government of Canada announces the recipients of support from INOVAIT's Focus Fund"
     excerpt: "Funding to support new innovative medical solutions that will better equip Canada's medical system and bring important benefits to Canadians TORONTO, /CNW/ - The pandemic has shown how important it is"
     publishedDateTime: 2023-01-18T14:40:00Z

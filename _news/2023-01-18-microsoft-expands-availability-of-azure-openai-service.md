@@ -7,8 +7,8 @@ originalUrl: "https://www.scmagazine.com/news/emerging-technology/microsoft-expa
 webUrl: "https://www.scmagazine.com/news/emerging-technology/microsoft-expands-availability-of-azure-openai-service"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: SC Media
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Wants To Put Chat GPT-style AI Tools in Every Product"
-    excerpt: "Can AI experience cognitive dissonance? Microsoft CEO Satya Nadella told Davos attendees on Tuesday that the tech giant plans to use OpenAI,"
-    publishedDateTime: 2023-01-18T02:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/01/17/microsoft-wants-to-put-chat-gpt-style-ai-tools-in/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/716949/featured-daily-upside-image.jpg"
-        width: 2000
-        height: 1600
-        isCached: true
   - title: "Microsoft Joins Tech Layoff Circus With 10,000 Jobs Cut in Pivot to AI"
     excerpt: "Microsoft is planning to lay off 10,000 workers through March, joining a slew of tech companies in cutting down after a pandemic hiring boom, The New York Times reports. The company’s chief executive,"
     publishedDateTime: 2023-01-18T14:53:00Z
@@ -53,6 +39,20 @@ related:
         width: 1480
         height: 833
         isCached: true
+  - title: "New Microsoft Azure Vulnerability Uncovered — Experts Warn of RCE Attacks"
+    excerpt: "Microsoft Azure vulnerability discovered. Could be exploited to completely take control of targeted apps or steal sensitive data."
+    publishedDateTime: 2023-01-19T14:20:00Z
+    webUrl: "https://thehackernews.com/2023/01/new-microsoft-azure-vulnerability.html"
+    type: article
+    provider:
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 53
+    images:
+      - url: "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEgeXE12VhXLZAYDxEX5x1goQta8TteHtiO_1r15UBLZSuYCiCD2hrxyBYkHRm_u6PBSWRIZR3l-x4cfGsW5kPmhSReTi6e--JREoPCgfMmLgg09UEN4r5Ewbe4EKFq1BFgDKLI6_icuM1X8tQaXYddXvhUANdBwF1BseQSn0dLD5o1efdp_0Ar-TwZK/s728-rj-e3650/azure.png"
+        width: 728
+        height: 380
+        isCached: true
   - title: "Microsoft announces general availability of Azure OpenAI Service"
     excerpt: "Large language models are quickly becoming an essential platform for people to innovate, apply AI to solve big problems, and imagine what’s possible. By Eric Boyd, corporate vice-president: AI platform at Microsoft Today,"
     publishedDateTime: 2023-01-18T08:48:00Z
@@ -62,6 +62,20 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 49
+  - title: "OpenAI Co-Founder Sam Altman Doesn't See Artificial Intelligence Ending Google, Discusses Microsoft Partnership And More"
+    excerpt: "OpenAI co-founder Sam Altman shares thoughts on what could be ahead for artificial intelligence. One of the hottest topics of 2023 is likely to be artificial intelligence and the company OpenAI ..."
+    publishedDateTime: 2023-01-20T16:03:00Z
+    webUrl: "https://www.benzinga.com/news/23/01/30491171/openai-co-founder-sam-altman-doesnt-see-artificial-intelligence-ending-google-discusses-microsoft-pa"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 46
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/01/20/samaltman.thegrove.flickr.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Cross-site forgery bug would facilitate remote code execution in Microsoft Azure services"
     excerpt: "The bug, reported to Microsoft on Oct. 26 and remediated Dec. 6, is the result of manipulating a series of misconfigurations and security bypasses in Kudu, a back-end source control management (SCM) tool that helps manage and modify web applications and is used by major Microsoft cloud services like Azure Functions,"
     publishedDateTime: 2023-01-19T13:00:00Z

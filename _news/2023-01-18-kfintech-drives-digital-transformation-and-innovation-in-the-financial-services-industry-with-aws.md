@@ -72,20 +72,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "Fintech, edtech, deeptech–15 quotes of the week on digital transformation"
-    excerpt: "From data to decisions, these quotes from the week of January 9-15 capture tech impacts sweeping across the world!"
-    publishedDateTime: 2023-01-18T02:22:00Z
-    webUrl: "https://yourstory.com/2023/01/fintech-edtech-deeptech-quotes-digital-transformation-entrepreneur"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 23
-    images:
-      - url: "https://images.yourstory.com/cs/2/28b451402d6a11e9aa979329348d4c3e/Digital-1-1673934535223.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Amazon Web Services Partners with Waton Securities International, Enabling Digital Transformation of Global Brokerage Firms with FinTech Solutions"
     excerpt: "As a licensed brokerage firm and a FinTech solution provider ... In addition, Waton has built in automated risk management AI in our Broker Cloud platorm, which helps clients identify, monitor and manage various type of risks, and fulfil regulatory ..."
     publishedDateTime: 2023-01-20T12:17:00Z

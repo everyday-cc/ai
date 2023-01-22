@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/01/21/selling-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/01/21/selling-artificial-intelligence-to-the-business-keep-it-clear-keep-it-simple/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 801
     isCached: true
-
-related:
-  - title: "AI For Business: Why Companies Should Adapt Now"
-    excerpt: "Microsoft planned to invest $10 billion in OpenAI, the creator of the trending AI tool ChatGPT. Now, it offers general availability of the Azure OpenAI service to"
-    publishedDateTime: 2023-01-18T01:43:00Z
-    webUrl: "https://technology.inquirer.net/120853/how-to-use-ai-for-business/"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 19
 
 secured: "XWelj9ZrCQ66Pi0Qyf7NsB1LFhoLu6WxbiSWsw5Ma9aVT0WHhmycU1iJxBC0P0gzlvysao5q+sVM+hRuRIcIkBcckOyicah/myAZHmZ/r8ZMBDbRcAGh6m5XpMM/3ITk3KkqbvUUMwdNwMCZXhHAkFSV1l8fkHLaQIpVk5xrKhW//EtrZUJ9qtXX36eT3jqIujEgE9dx82YN8zr1/nIdtH9J0wP7BRiUDhzLwdWwXZYiJxpmiYNUHaRnBq1FZSNRzIEwHlHv4e0DSdZAlKmwGNDWRqMgxPg/34YGQXKa6RqLdyDBkQIvf3IwKyyXvOzMVSAkrEUHhy6YUDkQaaQXpf2758NbjqbmGcJ2pRGxKpAft5TIAtQo81zdMPjrY6+Z/Z4TCitP0a+9o4MMZ6+HnEZMMxHL76P+ICl5KmAKqbqoqmGI3DunyOhPfo1TmQgSVXvuRHnhwsXixRAnw+NFIbB+Y5dpSBdaptryXW1PVVcCtxHUZk0+afj16cZw9dgV2fBqVUsIhQQJkXsOk9e31g==;xe6V/1VcerKAVWKfvIfPlA=="
 ---

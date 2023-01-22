@@ -42,20 +42,6 @@ related:
         width: 1280
         height: 723
         isCached: true
-  - title: "Reconstructing MRI scans with AI promises to expand MRI access to more patients"
-    excerpt: "Artificial intelligence (AI) can reconstruct coarsely-sampled, rapid magnetic resonance imaging (MRI) scans into high-quality images with similar diagnostic value as those generated through traditional MRI,"
-    publishedDateTime: 2023-01-18T02:40:00Z
-    webUrl: "https://www.news-medical.net/news/20230117/Reconstructing-MRI-scans-with-AI-promises-to-expand-MRI-access-to-more-patients.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 35
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Magnetic_Resonance_Imaging-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "5vt78ibwVwqytlSq36xFS1j6UBGJBh9mv7xU4/F6no9BIHa0P+47SNwGP14hP1hV0h7Qo8nfI9mwZyeObtldsqduQNHyF2treiyr67FrsSvtpU+P5xuomETKiQb2PiIYaV//UzJrvAMMC2Qiw4q4lh8BXoOlW3OqjLht8K3Kj0gxGsyQmmHgBySe2T2Qyt0FUD2XYHRiBU3smsFWuao4i9MFKRQXAiHUy6mZ3R2Efe7szrpgba7JMJLhEhNY9GEM17ZInOaA6S7ASSZBdBgY02GJ5hNZodHV6DYLNXffBMdJ5eEvDEYToMcaAMBdtTSyQELMDbPc0Qjhf3WNwhFEd0G4C/TGUxVxx8QFbIahdOE77XTNM8jzvpX/+HbR4J6Mpn78/wm/d0rK4ZimLd68M/eTX83fsJNFg/PTRlmz1TwjnvS0SVKF24SQD5SIcUy5Shq5lvsUWx/Neb65wvKv3jVxa4nMfny46YU+AWzuGTtLGpG2Nyx04JrEcJ9JIkltLKB71aMjo9t3BzlbNQWM+g==;PvQY5TY4YOBVnV6HZz/Sqw=="
 ---

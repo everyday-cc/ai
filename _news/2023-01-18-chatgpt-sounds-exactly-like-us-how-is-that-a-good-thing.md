@@ -35,6 +35,20 @@ related:
         width: 1345
         height: 900
         isCached: true
+  - title: "Chatgpt Could Be A Game-Changer For Marketers, But It Won't Replace Humans Any Time Soon"
+    excerpt: "The recent release of the ChatGPT chatbot in November 2022 has generated significant public interest . In essence, ChatGPT is an AI-powered chatb"
+    publishedDateTime: 2023-01-22T18:26:00Z
+    webUrl: "https://menafn.com/1105462407/Chatgpt-Could-Be-A-Game-Changer-For-Marketers-But-It-Wont-Replace-Humans-Any-Time-Soon"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 15
+    images:
+      - url: "https://menafn.com/updates/pr/2023-01/22/TC_06612image_story.jpg"
+        width: 1250
+        height: 703
+        isCached: true
 
 secured: "aZ9wbLCHCDDridIXe9q23yobY5n5y7seqkqiFNI4qggf9LI1Hk73rtyu5GKcbwh3jgArwVjmTwLzyZF5RV/LQdizrFEhwQ9gBSePhv7GEyQmzT8b81YA18tEDZ0SN/KWP7efoakxJ1L6LSOSXmFe9Xxs9972fPr2gsTkRJW9Z0mAIiy8YuA1yRj5g2vlBKyeFSVJ6mX7fjHVttQFNBOlTagKzAy9ryxOJePHaZA3liAcc+hkj4VAJ+TOP2E+LNa/BDC35uqtMM/7eP4OVz4yVxdHKr0cjTzkr/KMq0Tw63a89qcnbbVjbz27Mz7sTfTGi+bb6F8bY+45N4rkmBekgRWWQpthZSjh9sIxY3qLVI0=;3ggsCC9RpQB5wI8FLnaVyQ=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-20T11:09:00Z
 originalUrl: "https://www.palmbeachpost.com/story/news/education/2023/01/20/artificial-intelligence-is-coming-to-palm-beach-state-college-west/69813708007/"
 webUrl: "https://www.palmbeachpost.com/story/news/education/2023/01/20/artificial-intelligence-is-coming-to-palm-beach-state-college-west/69813708007/"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Finance
+  - AI in Autos
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2023/01/17/NPPP/414b648c-b81b-4c90-a923-cce8456bb0b8-011823_WPB_Artificial_Intelligence_0205.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"

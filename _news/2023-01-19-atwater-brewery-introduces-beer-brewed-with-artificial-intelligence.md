@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-19T15:30:00Z
 originalUrl: "https://www.wxyz.com/news/atwater-brewery-introduces-beer-brewed-with-artificial-intelligence"
 webUrl: "https://www.wxyz.com/news/atwater-brewery-introduces-beer-brewed-with-artificial-intelligence"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://ewscripps.brightspotcdn.com/dims4/default/35f0a64/2147483647/strip/true/crop/601x316+0+100/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fe4%2Ff8%2Fa26c20414a1eb6444b76f496c664%2Fscreen-shot-2023-01-19-at-12.29.27%20PM.png"

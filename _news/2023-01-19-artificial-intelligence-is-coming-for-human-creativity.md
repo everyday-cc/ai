@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Artificial Intelligence Is Coming for Human Creativity"
-excerpt: "The history of psychology is full of claims about unique human cognitive abilities. Many of these claims fell away in the light of research findings on the cognitive capacities of other species. Self-awareness was one such capacity."
-publishedDateTime: 2023-01-18T16:51:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
-webUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
+excerpt: "Second, the development of artificial intelligence poses a challenge to our claims to creative uniqueness. With the defeat of Garry Kasparov by Big Blue in 1997, many people lost interest in chess ..."
+publishedDateTime: 2023-01-19T07:14:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
 type: article
 quality: 59
 heat: 99
@@ -17,8 +17,8 @@ provider:
   domain: psychologytoday.com
 
 topics:
+  - AI in Autos
   - AI
-  - AI in Healthcare
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/Is%20AI%20coming%20for%20Creativity%2C%203%2C%20Joseph%20Ayerle.jpg?itok=clf3nLZg"
@@ -85,6 +85,6 @@ related:
       domain: ft.com
     quality: 19
 
-secured: "a6IyYpNnf+NAdjqQYU/HRXDb9YgDMaTy5UZdYCdT+AMXEvJJcGrR+h4y+iim23Clzq6dUCwRiDwH8/Iav6VoKcMtE+/2SAClqnCDVQEg5MQNpjHZzTe8GH82FT92S5mDg+NWeltkGQ4vy1ca+SfGBOe/Eaq6maxtVcH0V+1sugAetCoptZDeTU+R4Ln7rpoXXc0142xpU7ik5HVINSBsCcD+CEACq4z094wdpRfnQZ6M/uZe4bCpKEzDwLd9W47FhBh0lsteC2qtTXQJBdUTIVO1TVLaNHcmW94Wudh/Gj/JOadGqj0mWqGkT1upVKuPmfDgRPc1oJJrWZDjO9JRfdfeIOTlwjiv7Are9cRxq/jeVB0y5H3J5smYGrwNu40XPbnd1AnEyfg43/iEiplsm4tgOnEbRuRvK4cF0r8pqp6BVT2tgzQAUywxzNIvMZJV9BrEENoMpDTlsM9adehjxxGyNwGbpKFXzmLb9+NCtnNiSUsbeiPAGA1xqLAFOYKzlEw3US5ND7uxxMatyyL7FA==;CjUM/Y1Xe5CfR2rahvV8lw=="
+secured: "9dhcBfHHzlS+VDb0m9jD/cFtPXi9BC5ii/TKcNO/wOI/scvDYPx3paU0++gQUz3itb7h6GWTP+c2jh/OWZ6nuxhUd5fWt6VzzIyH7dxROrhcS7ePmUFmy02Dr/TNyhICg0/vIaHuAaauQb2yKYbFDtTNfRPK1RG9Fp1Bg9Qh7H0CBTywhdhbQYByPfwALWMIok5vBFOsmV8uGVCmtYq/YhOngwSgKmlX/guiMwrA4GvJIXv7e/xgn7oZIusiWX/fwNJ+ylAabrNNMxaB1xvr3+HGh5BxlJYnVPBAbwFy5oyggS+yzJsHuhxeQ/P8MqYJaEMGzTrhfFkFGoaPsq/OFyK7PUQAYfiWGvtnYvEOfec=;zHHFxzvz0qPugCu/2ouZdw=="
 ---
 

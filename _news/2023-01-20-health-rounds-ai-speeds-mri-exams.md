@@ -9,8 +9,8 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2325275-health-round
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2325275-health-rounds-ai-speeds-mri-exams?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: devdiscourse
@@ -42,20 +42,6 @@ related:
       - url: "https://healthitanalytics.com/images/sized/2022-03-14-GettyImages-1033717120-e4b00c1efb9503a805928b101c78b499.jpg"
         width: 480
         height: 278
-        isCached: true
-  - title: "Reconstructing MRI scans with AI promises to expand MRI access to more patients"
-    excerpt: "Artificial intelligence (AI) can reconstruct coarsely-sampled, rapid magnetic resonance imaging (MRI) scans into high-quality images with similar diagnostic value as those generated through traditional MRI,"
-    publishedDateTime: 2023-01-18T02:40:00Z
-    webUrl: "https://www.news-medical.net/news/20230117/Reconstructing-MRI-scans-with-AI-promises-to-expand-MRI-access-to-more-patients.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 35
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Magnetic_Resonance_Imaging-620x480.jpg"
-        width: 620
-        height: 480
         isCached: true
 
 secured: "D9cjjstjIMhtTlb9j1Ti9EvFUGjMc/e1F9DTCYU7kO/ZOtSr8fdyvfnleHmK7KhnMNZmRj2zzk/4afMwrnMHY17VrqW7pQAVJ6gqU/AkkcPt3VF8mJQxgl9x7Pxn3/lRZfwdPRAdiZuLBnc2RSle86IFOYdUerXWStaieOHmsyIFDokfHpX8P01l4VH4V7HOM4KH/YgnkyX5Y9NVXQ9kW1NtBjWykmL5/XXnoM03YO9t6ZBzaBM1fcQXkephSZGNsbb20KMBkJD6cCopUnkjko+RqIk/PPsbFUCh/oNGcxg8ocYMybmqzqpJ1vUxQCd+MoUcbAaqySRrJW0MSRC0peIp6LGN1oWiLtUNY3Tu/io=;+COejIVLUIUKAQpk0nhSmg=="

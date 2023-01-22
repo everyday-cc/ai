@@ -29,160 +29,75 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence (AI) Chips Market Size 2023 Will Touch A New Level In The Upcoming Year 2026"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-01-18T01:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-17"
+  - title: "Legal Tech Artificial Intelligence Market Latest Research Report 2023-2029"
+    excerpt: "As per Market Growth Report, “The Men Eye-Cream market has witnessed growth from USD million to USD million from 2017"
+    publishedDateTime: 2023-01-20T04:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-latest-research-report-2023-2029-2023-01-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Medical Market : Reliable Business Data Analysis and Forecast by 2029 with Top Countries Data"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. A recent"
-    publishedDateTime: 2023-01-18T04:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-2023-01-18"
+  - title: "Artificial Intelligence In RegTech Market : Industry Analysis 2023 To 2028 based on Sales, Revenue, Size and Share"
+    excerpt: "Artificial Intelligence In RegTech Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-20T02:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-industry-analysis-2023-to-2028-based-on-sales-revenue-size-and-share-2023-01-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in BFSI Market 2023 Report Offers Key Futuristic Top Trends And Competitive Landscape By 2029"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. This review"
-    publishedDateTime: 2023-01-18T04:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-2023-report-offers-key-futuristic-top-trends-and-competitive-landscape-by-2029-2023-01-18"
+  - title: "Mobile Speech Recognition Software Professional Market 2023-2029 (New Report): Know Technology Exploding in Popularity |115 Pages Research"
+    excerpt: "A cost-effective Latest “Mobile Speech Recognition Software Professional Market” report that deliver top-notch"
+    publishedDateTime: 2023-01-20T05:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-professional-market-2023-2029-new-report-know-technology-exploding-in-popularity-115-pages-research-2023-01-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Systems Market Size, Status, Global outlook 2023 To 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. This research"
-    publishedDateTime: 2023-01-19T00:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-systems-market-size-status-global-outlook-2023-to-2028-2023-01-18"
+  - title: "Legal Tech Artificial Intelligence Market Analysis Report 2023 Along with Statistics Figures, till 2029"
+    excerpt: "As per Market Growth Report, “The Legal Tech Artificial Intelligence market has witnessed growth from USD million to"
+    publishedDateTime: 2023-01-20T17:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-01-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Construction Forecast for 2028, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
-    excerpt: "Artificial Intelligence (AI) in Construction Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,"
-    publishedDateTime: 2023-01-19T00:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand-2023-01-18"
+    quality: 31
+  - title: "Artificial Intelligence Based Medical Device Market is Taking Hike in Revenue Along With Top Key Players Profile and Forecast 2023 To 2029"
+    excerpt: "\"Artificial Intelligence Based Medical Device Market\" Research Report explains how the market growth has been unfolding over the recent past and what would be the future market projections during the anticipated period from 2023 to 2029."
+    publishedDateTime: 2023-01-20T03:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-is-taking-hike-in-revenue-along-with-top-key-players-profile-and-forecast-2023-to-2029-2023-01-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Of Things (AIoT) Solutions Market Size Related To Time And Cost Is Expected To Grow The Industry In Upcoming Years To 2029"
-    excerpt: "In 2023] The Global Artificial Intelligence Of Things (AIoT) Solutions Market Size (112 Report Pages) is estimated to"
-    publishedDateTime: 2023-01-18T01:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-related-to-time-and-cost-is-expected-to-grow-the-industry-in-upcoming-years-to-2029-2023-01-17"
+    quality: 15
+  - title: "Speech & Voice Recognition Systems Market : Research Report Provides an In-Depth Insight of Trends 2023 To 2028"
+    excerpt: "Pages Report] Rising demand for Internet & Communication Industry will drive the Speech & Voice Recognition Systems segment growth over the next five years. Global Market Anal"
+    publishedDateTime: 2023-01-19T01:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-research-report-provides-an-in-depth-insight-of-trends-2023-to-2028-2023-01-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Video Analytics and Artificial Intelligence Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2029"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-01-20T01:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-analytics-and-artificial-intelligence-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2029-2023-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Agriculture Market 2023 (New Report): Size is set to Grow at an Outstanding Pace in the Upcoming Years till 2029"
-    excerpt: "AI in Agriculture Market Share report provides overview of market ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Solar EVA Sheets Market Share, Size Global Growth Analysis, Gross Margin ..."
-    publishedDateTime: 2023-01-19T10:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-agriculture-market-2023-new-report-size-is-set-to-grow-at-an-outstanding-pace-in-the-upcoming-years-till-2029-2023-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning in Manufacturing Market 2023 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2029"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Machine Learning"
-    publishedDateTime: 2023-01-18T04:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-2023-key-product-segments-application-analysis-and-industry-growth-forecast-by-2029-2023-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud AI in Fintech Market : Analysis by Size, Share Trends, Future Growth, Emerging Trends, Qualitative Outlook and Global Forecast to 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Cloud AI in Fintech"
-    publishedDateTime: 2023-01-19T01:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-analysis-by-size-share-trends-future-growth-emerging-trends-qualitative-outlook-and-global-forecast-to-2028-2023-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial General Intelligence (AGI) Market Size, Outlook, Share, Prominent Players, Growth, and Forecast 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial General Intelligence (AGI) Industry. \" Artificial General Intelligence (AGI) Market \" Insights 2023 - By Applications (Predictive 3D Design,"
-    publishedDateTime: 2023-01-20T03:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-general-intelligence-agi-market-size-outlook-share-prominent-players-growth-and-forecast-2028-2023-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 14
 
 secured: "cOuuICf8t7GtYMm/QoVef1t0H/yu6jH7/DJDK71MVc2SPchpONGo/fy/gxzmLuAHN7efGGFmg1z4dpHDCe3XkhgkkrNwt1uDNzInQ+ioM9j3DKbIclDoxu8Zo/9X4gMkpKg7IH8/PDCytqS53ZLrL321CpqctOMKSRoKlYV89qZOJvCWnJK+ydn2YM3MhrHhX5zFqLM5pLrMk8jTDMKWiBjpXyQt6xQotAgl5nhFYjVVhZyR6zlefK92zgXG7+68qvX6RTcEDjvmT/xw418HXQ9hfCWDtI1rsDKOEsuBG3xCHTeyLn9BLUmRefmhJfYM+Ax2no5HTk0gklpm6KFoIt0PuG7lH15nwC/dmPS3lY0=;wH6SmrFW0lFm3Ju4srlzVw=="
 ---
