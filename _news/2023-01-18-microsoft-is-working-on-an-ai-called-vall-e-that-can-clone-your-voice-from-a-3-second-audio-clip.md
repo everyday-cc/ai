@@ -140,20 +140,6 @@ related:
         width: 1070
         height: 580
         isCached: true
-  - title: "Microsoft & OpenAI Bring AI Models to Developers Worldwide"
-    excerpt: "Microsoft announces the general availability of its Azure OpenAI service, allowing developers to utilie technology like ChatGPT."
-    publishedDateTime: 2023-01-17T17:00:00Z
-    webUrl: "https://www.searchenginejournal.com/microsoft-openai-bring-ai-models-to-developers-worldwide/476633/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 54
-    images:
-      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2023/01/microsoft-azure-openai-63c6d3030e5f1-sej.png"
-        width: 1600
-        height: 840
-        isCached: true
   - title: "Microsoft plans to add AI capabilities into every product"
     excerpt: "Microsoft plans to incorporate artificial intelligence products from ChatGPT and Dall-E 2 maker OpenAI in all of its"
     publishedDateTime: 2023-01-17T20:35:00Z

@@ -2,6 +2,49 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2022-12-02-is-the-gtx-1650-the-best-budget-gpu.md",
+      "title": "Is the GTX 1650 the best budget GPU?",
+      "excerpt": "Do I need a powerful GPU for Minecraft? One fact you should understand about Minecraft is that the CPU is actually the most important piece of hardware, if you don't want to spend a lot of money ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cclonline.com/article/2138/Guide/CCL-Gaming-PCs/Is-the-GTX-1650-the-best-budget-GPU-/",
+      "originalUrl": "https://www.cclonline.com/article/2138/Guide/CCL-Gaming-PCs/Is-the-GTX-1650-the-best-budget-GPU-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cclonline.com/images/articles/2138_is-the-gtx-1650-the-best-budget-gpu-th.png",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cclonline",
+        "domain": "cclonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-new-orleans-reverses-facial-recognition-ban-to-help-police-fight-crime-privacy-experts-are-wary.md",
       "title": "New Orleans reverses facial recognition ban to help police fight crime; privacy experts are wary",
       "excerpt": "The City of New Orleans has ended a ban on the use of facial recognition technology by police amid a surge in violent crime. Critics of the move have questions.",
@@ -1079,49 +1122,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-vmware-cloud-on-aws-expands-to-africa.md",
-      "title": "VMware Cloud on AWS Expands to Africa",
-      "excerpt": "VMware today announced VMware Cloud on AWS is now available in the AWS Africa (Cape Town) Region. With VMware Cloud on AWS, customers across Africa can run workloads across VMware vSphere-based hybrid cloud environments with optimised access to Amazon Web Services.",
-      "sourceUrl": null,
-      "webUrl": "https://africabusinesscommunities.com/tech/tech-news/vmware-cloud-on-aws-expands-to-africa/",
-      "originalUrl": "https://africabusinesscommunities.com/tech/tech-news/vmware-cloud-on-aws-expands-to-africa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://adserver.20nine.nl/www/delivery/avw.php?zoneid=85&n=238f97b",
-          "width": 336,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T19:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "africabusinesscommunities.com",
-        "domain": "africabusinesscommunities.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -289,15 +289,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 14
-  - title: "Research and Markets: FLAP Data Center Market 2022 to 2027: Investment Analysis & Growth Opportunities - ResearchAndMarkets.com"
-    excerpt: "The \"FLAP Data Center Market Investment Analysis Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The FLAP data center market is expected to grow at a CAGR"
-    publishedDateTime: 2023-01-17T16:37:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-01/58080017-research-and-markets-flap-data-center-market-2022-to-2027-investment-analysis-growth-opportunities-researchandmarkets-com-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "u2d8JOnenfL4W5f2qrlreTLlD9iEWnLGmlGVkU2IId4N88QN6fQzSfNbn3SLHVI7e1ZS0sKLqGrDqA/dCubE3bth7NmgGtWmEwupCpAogZj26KD+5JB9leG5+B7ereA9SS3176lXYfYozUcOK/obqrydltTPc1ktToHJeh8YYs2lkyTwpqvzvHX4hvP8dUnPeUoIOVn5bgtNN3q07aNxdbf0YYWUggM/UpMmTrNM7leOIPS+Y3p5Zq8sH/XtIe+lmfUJP08WNvpG9SEZliwl1D6gZQT6po1eUFeXCKUDZzj7zBoRkBhAcjaOZy9GVm78xvwgWghXh7rDO6BVVwnccj9E5Sqgtp5G72Bg9h+HfgM=;b5FFF0Kkw1pBE5d/OevWUQ=="
 ---

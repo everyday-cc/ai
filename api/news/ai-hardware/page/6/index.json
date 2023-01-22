@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-11-19-geforce-rtx-4080-gpu-and-davinci-resolve-a-real-boost-in-real-world-performance.md",
+      "title": "GeForce RTX 4080 GPU and DaVinci Resolve: a real boost in real world performance",
+      "excerpt": "If you want to see some real world performance examples of the new GeForce RTX 4080 GPU, the short video from filmmaker Casey Faris using it with DaVinci Resolve is a good suggestion. Here is something for all those who want to get some suggestions about their next graphics",
+      "sourceUrl": null,
+      "webUrl": "https://www.provideocoalition.com/geforce-rtx-4080-gpu-and-davinci-resolve-a-real-boost-in-real-world-performance/",
+      "originalUrl": "https://www.provideocoalition.com/geforce-rtx-4080-gpu-and-davinci-resolve-a-real-boost-in-real-world-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-19T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "provideocoalition.com",
+        "domain": "provideocoalition.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-19-meta-takes-new-ai-system-offline-because-twitter-users-are-mean.md",
       "title": "Meta takes new AI system offline because Twitter users are mean",
       "excerpt": "Meta's Chief of AI wasn't shy about engaging on Twitter after outrage from users caused the company to pull its brand new \"Galactical\" AI.",
@@ -1390,40 +1424,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-coreweave-among-first-cloud-providers-to-offer-nvidia-hgx-h100-supercomputers-set-to-transform-ai-landscape.md",
-      "title": "CoreWeave Among First Cloud Providers to Offer NVIDIA HGX H100 Supercomputers Set to Transform AI Landscape",
-      "excerpt": "CoreWeave, a specialized cloud provider built for large-scale GPU-accelerated workloads, today announced it is among the first to offer cloud instances with NVIDIA HGX H100 supercomputing. CoreWeave,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/07/9707181.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/07/9707181.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,40 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2022-11-21-artificial-intelligence-as-a-service-market-worth-960647-million-by-2030-grand-view-research-inc.md",
+      "title": "Artificial Intelligence As A Service Market Worth $96,064.7 Million By 2030: Grand View Research, Inc.",
+      "excerpt": "Artificial intelligence as a service (AIaaS ... IoT solutions in industries such as manufacturing, retail analytics, self-driving cars, and others. This is projected to fuel the market for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-11/57640709-artificial-intelligence-as-a-service-market-worth-dollar-96-064-7-million-by-2030-grand-view-research-inc-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-11/57640709-artificial-intelligence-as-a-service-market-worth-dollar-96-064-7-million-by-2030-grand-view-research-inc-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-21T04:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-21-black-sesame-technologies-and-zte-join-forces-for-self-driving-cars.md",
       "title": "Black Sesame Technologies and ZTE Join Forces for Self-Driving Cars",
       "excerpt": "Black Sesame Technologies and ZTE Join forces for self-driving car technologies. This made BST the first driving chip partner of ZTE",
@@ -1101,58 +1135,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-20-nvidia-scores-a-huge-win-microsoft-will-be-first-public-cloud-to-adopt-its-ai-stack.md",
-      "title": "Nvidia Scores a Huge Win -- Microsoft Will Be First Public Cloud to Adopt Its AI Stack",
-      "excerpt": "Microsoft Azure and its other cloud computing segments ... Thus, getting distribution of its hardware and AI software via public clouds like Microsoft and Oracle is a big deal for Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/11/20/nvidia-scores-a-huge-win-microsoft-adopts-ai-stack/",
-      "originalUrl": "https://www.fool.com/investing/2022/11/20/nvidia-scores-a-huge-win-microsoft-adopts-ai-stack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/709990/semiconductors-design-chips-ai.jpg",
-          "width": 5120,
-          "height": 2880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-20T07:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

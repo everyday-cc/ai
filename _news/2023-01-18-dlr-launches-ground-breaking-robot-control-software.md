@@ -19,8 +19,8 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?154579"
-    width: 333
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?34324"
+    width: 375
     height: 250
     isCached: true
 
@@ -49,6 +49,6 @@ related:
       domain: menafn.com
     quality: 45
 
-secured: "ayz2Y08np5UTChySV40rEh5CMdAl47QMFikEEikVvcO6i0Bi4QS+IFYWsLbYiMbITrzBqi1Uo0LAOjPL0PPiHqwfKqXQlbun/xEVciec2pUeOnDAM/jyZ0eV97w4juXbk0RV8HVikQLzd+LFu3y5Qr/a5oSNSJtQOP7lOf12rSSGZV8b99AeIO8kwOcfb1XIzvJo6m0RkURmSsbXMW1rVlLVvDHZ7YpMgxIWypWfoibcDeeMO1dFMHTsJgNb+LbuXimBCOJQJdOSZdyiUJV4fPZBf9lsJwPmGph1RS6IWEe50KOVPpv2DnAQFFq94i9AqZ9mciwklFrgw5HkbEW8NumD97q/4BPzTgogaYPMIIQ=;7c6VsfjWqZoLTmkiJGkzZw=="
+secured: "qxHSt49MdZ/BWdYf6+fj95HC4ZlCTCmdWguIpJ7r+lqg50WZIfNld1sFTom4u+/Pzej4pr3NnuAd1xwByTr9i8GwjWD2pI+p5doBmen1M4KebWi1PcUDv/5LogAS9PofQHQGqfzO4Q2eI6jSdXwPCL+awkMlwX+CyMYNByoPpYxxxckEIuUE/+umqZKObIScWHC3mKXOzwKU/afZ331fz9zPShq7uNVhF60oM+tJZc543pJc9ZuJOcxC9m37Q0bpyvBzYZqrIe5VLpMlp9jE1Ihi+m6BRVVh9hzX+SKRcoCMt+3ldEEBSrkjLzqpfRUkLt/Q08cKiQM9KW0YCyzFvassrnDeOKiqueiTC+JRzhc=;POw/6d8k5L5Qqw67dsY0Og=="
 ---
 

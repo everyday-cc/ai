@@ -2,6 +2,49 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2022-10-19-aero-gpx-is-an-f-zero-like-racer-on-kickstarter-with-a-breakneck-demo-to-try.md",
+      "title": "Aero GPX Is an F-Zero-Like Racer on Kickstarter with a Breakneck Demo to Try",
+      "excerpt": "Solo developer Aaron McDevitt has launched a Kickstarter for Aero GPX, a cel-shaded anti-gravity racing game that takes after Nintendo’s futuristic F-Zero series. Its inspiration is clear from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.escapistmagazine.com/aero-gpx-f-zero-racer-kickstarter-demo/",
+      "originalUrl": "https://www.escapistmagazine.com/aero-gpx-f-zero-racer-kickstarter-demo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.escapistmagazine.com/wp-content/uploads/2022/10/aero-gpx-kickstarter.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Escapist",
+        "domain": "escapistmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-revolutionizing-the-food-industry-and-beyond-through-robots-with-a-human-touch.md",
       "title": "Revolutionizing the food industry and beyond – through robots with a human touch",
       "excerpt": "Enter thtRobotics – a Finnish-Norwegian startup revolutionizing the food packaging ... “We see true potential in this company. Not only is the robot gripper one-of-a-kind, but combined with their AI-software, it delivers a complete package that has ...",
@@ -1138,49 +1181,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-nsw-clubs-to-roll-out-facial-recognition-tech.md",
-      "title": "NSW clubs to roll out facial recognition tech",
-      "excerpt": "Facial recognition cameras will be used to identify problem gamblers in clubs and pubs across NSW. The Australian Hotels Association NSW and ClubsNSW are developing a state-of-the-art system to be rolled out across all clubs and hotels next year.",
-      "sourceUrl": null,
-      "webUrl": "https://thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/",
-      "originalUrl": "https://thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thenewdaily.com.au/wp-content/uploads/2022/10/1666127796-GettyImages-162316362.jpg?resize=960,600",
-          "width": 960,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/amp/",
-      "publishedDateTime": "2022-10-18T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thenewdaily",
-        "domain": "thenewdaily.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

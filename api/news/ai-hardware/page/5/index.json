@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-12-02-gpu-tariff-exemption-expires-december-31-possibly-increasing-graphics-card-prices.md",
+      "title": "GPU tariff exemption expires December 31, possibly increasing graphics card prices",
+      "excerpt": "The decision followed the urging of manufacturers like Nvidia, Zotec, and HP, who cited the lack of non-Chinese GPU manufacturing. The effect of the GPU tariff exemption was blunted by massive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/96829-gpu-tariff-exemption-expires-december-31-possibly-increasing.html",
+      "originalUrl": "https://www.techspot.com/news/96829-gpu-tariff-exemption-expires-december-31-possibly-increasing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/articles-info/2465/images/2022-05-18-image-3.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T19:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-we-will-see-a-completely-new-type-of-computer-says-ai-pioneer-geoff-hinton.md",
       "title": "We will see a completely new type of computer, says AI pioneer Geoff Hinton",
       "excerpt": "Analog computers marrying AI software closely to hardware will put GPT-3 in your toaster for $1 running on a few watts of power.",
@@ -1368,40 +1420,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-19-geforce-rtx-4080-gpu-and-davinci-resolve-a-real-boost-in-real-world-performance.md",
-      "title": "GeForce RTX 4080 GPU and DaVinci Resolve: a real boost in real world performance",
-      "excerpt": "If you want to see some real world performance examples of the new GeForce RTX 4080 GPU, the short video from filmmaker Casey Faris using it with DaVinci Resolve is a good suggestion. Here is something for all those who want to get some suggestions about their next graphics",
-      "sourceUrl": null,
-      "webUrl": "https://www.provideocoalition.com/geforce-rtx-4080-gpu-and-davinci-resolve-a-real-boost-in-real-world-performance/",
-      "originalUrl": "https://www.provideocoalition.com/geforce-rtx-4080-gpu-and-davinci-resolve-a-real-boost-in-real-world-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-19T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "provideocoalition.com",
-        "domain": "provideocoalition.com",
         "images": null,
         "publishers": null,
         "authors": null

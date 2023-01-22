@@ -425,7 +425,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-production-growth-demand-and-supply-analysis-2023-to-2029-including-103-pages-report-2023-01-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 293,
+      "heat": 283,
       "tags": null,
       "images": [
         {
@@ -471,20 +471,20 @@
     },
     {
       "path": "_news/2023-01-17-simple-neural-networks-outperform-more-complex-systems-for-controlling-robotic-prosthetics.md",
-      "title": "Simple Neural Networks Outperform More Complex Systems for Controlling Robotic Prosthetics",
-      "excerpt": "Feed-forward neural networks improve speed and provide more accurate control of brain-controlled prosthetic hands and fingers.",
+      "title": "Simple neural networks outperform more complex systems for controlling robotic prosthetics",
+      "excerpt": "Artificial neural networks that are inspired by natural nerve circuits in the human body give primates faster, more accurate control of brain-controlled prosthetic hands and fingers, researchers at the University of Michigan have shown.",
       "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/neural-network-robotic-prosthetics-22270/",
-      "originalUrl": "https://neurosciencenews.com/neural-network-robotic-prosthetics-22270/",
+      "webUrl": "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://neurosciencenews.com/files/2023/01/neuroprosthetics-neural-networks-neurosicnes.jpg",
-          "width": 770,
-          "height": 513,
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/artificial-neural-netw.jpg",
+          "width": 850,
+          "height": 478,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -492,13 +492,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T06:53:00-08:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.amp",
+      "publishedDateTime": "2023-01-17T07:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

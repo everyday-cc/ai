@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nick-cave-calls-ai-song-written
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery/"
 type: article
 quality: 87
-heat: 117
+heat: 97
 published: true
 
 provider:
@@ -30,31 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘A grotesque mockery’: Nick Cave slates attempt by AI to emulate his songs"
-    excerpt: "Nick Cave has reacted furiously to an attempt to emulate his songs with AI, labeling it a \"grotesque mockery of what it is to be human.\""
-    publishedDateTime: 2023-01-17T16:30:00Z
-    webUrl: "https://edition.cnn.com/2023/01/17/entertainment/nick-cave-ai-scli-intl/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/01/17/entertainment/nick-cave-ai-scli-intl/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/01/17/entertainment/nick-cave-ai-scli-intl/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 85
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230117133057-nick-cave-file-2022-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "‘A grotesque mockery’: Nick Cave slams attempt by AI to emulate his songs"
-    excerpt: "Nick Cave has reacted furiously to an attempt to emulate his songs with AI, labeling it a \"grotesque mockery of what it is to be human.\""
-    publishedDateTime: 2023-01-17T16:30:00Z
-    webUrl: "https://edition.cnn.com/2023/01/17/entertainment/nick-cave-ai-scli-intl/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 46
   - title: "Are AI-generated songs a ‘grotesque mockery’ of humanity or simply an opportunity to make a new kind of music?"
     excerpt: "Nick Cave has condemned a song designed and directed by ChatGPT. But new technology should be embraced, not feared"
     publishedDateTime: 2023-01-20T00:45:00Z

@@ -2,6 +2,49 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2022-11-11-cognitive-function-at-older-ages-linked-to-childhood-lead-exposure.md",
+      "title": "Cognitive Function at Older Ages Linked to Childhood Lead Exposure",
+      "excerpt": "Older adults who lived as children in cities with lead pipes and acidic or alkaline water that would leach it had lower cognitive functioning at age 72 than others (β -0.408, P<0.01), reported ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/neurology/dementia/101689",
+      "originalUrl": "https://www.medpagetoday.com/neurology/dementia/101689",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/101xxx/101689.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T15:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-openai-leads-235m-round-in-mem-an-ai-powered-note-taking-app.md",
       "title": "OpenAI leads $23.5M round in Mem, an AI-powered note-taking app",
       "excerpt": "Mem, an AI-powered note-taking app, has raised capital from OpenAI's startup fund -- one of the first companies to do so.",
@@ -1130,58 +1173,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-artificial-intelligence-ai-in-healthcare-market-2022-size-share-industry-analysis-growth-and-forecast-2028.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market 2022 : Size, Share, Industry Analysis, Growth And Forecast 2028",
-      "excerpt": "Nov 10, 2022 (The Expresswire) -- \"Artificial Intelligence (AI) in Healthcare Market\" research provides significant and in-depth information on the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2022-size-share-industry-analysis-growth-and-forecast-2028-2022-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2022-size-share-industry-analysis-growth-and-forecast-2028-2022-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T23:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

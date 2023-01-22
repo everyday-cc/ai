@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-09-21-nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing.md",
+      "title": "Nvidia unveils new gaming chip with AI features, taps TSMC for manufacturing",
+      "excerpt": "Nvidia Corp on Tuesday (Sept 20) announced new flagship chips for video gamers that use artificial intelligence (AI) to enhance graphics, saying it has tapped Taiwan Semiconductor Manufacturing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/digital/nvidia-unveils-new-gaming-chip-ai-features-taps-tsmc-manufacturing",
+      "originalUrl": "https://www.asiaone.com/digital/nvidia-unveils-new-gaming-chip-ai-features-taps-tsmc-manufacturing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2022/20220920_nvidia_reuters.jpg?h=21a04224&itok=nv6kzfGz",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles.md",
       "title": "Nvidia unveils Drive Thor, one chip to rule all software-defined vehicles",
       "excerpt": "Nvidia revealed a next-generation automotive-grade chip that will unify a wide-range of in-car technology and go into production in 2025.",
@@ -1430,59 +1473,6 @@
         "AI",
         "Computer Vision",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance.md",
-      "title": "IBM upgrades Linux mainframe, boosting availability and AI performance",
-      "excerpt": "Latest IBM mainframe update for Linux provides more power and resilience for mission-critical enterprise workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/IBM_linuxone_emperor_4_data_center_091222-e1663022887839.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/amp/",
-      "publishedDateTime": "2022-09-12T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

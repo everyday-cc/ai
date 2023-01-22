@@ -2,6 +2,49 @@
   "page": 132,
   "value": [
     {
+      "path": "_news/2022-09-22-voxel51-raises-125m-to-enhance-computer-vision-model-accuracy.md",
+      "title": "Voxel51 raises $12.5M to enhance computer vision model accuracy",
+      "excerpt": "Voxel51 cofounder and CEO Jason Corso is a professor at the University of Michigan in Ann Arbor, where he came up with the idea for the company. Corso studies the intersection of video and natural language,",
+      "sourceUrl": null,
+      "webUrl": "https://bestgamingpro.com/voxel51-raises-12-5m-to-enhance-computer-vision-model-accuracy/",
+      "originalUrl": "https://bestgamingpro.com/voxel51-raises-12-5m-to-enhance-computer-vision-model-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bestgamingpro.com/wp-content/uploads/2022/09/Improving-accuracy-of-computer-vision-models-Voxel51-raises-12.5M.png",
+          "width": 600,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bestgamingpro",
+        "domain": "bestgamingpro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-humanitys-fight-against-covid-the-promise-of-artificial-intelligence.md",
       "title": "Humanity’s fight against Covid: The promise of artificial intelligence",
       "excerpt": "Few know that Coronavirus and its allied disease Covid-19 was first discovered by a data-mining program. HealthMap, a website run by Boston Children's Hospital, raised an alarm about multiple cases of pneumonia in Wuhan,",
@@ -1128,60 +1171,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-run-machine-learning-enablement-events-at-scale-using-aws-deepracer-multi-user-account-mode.md",
-      "title": "Run machine learning enablement events at scale using AWS DeepRacer multi-user account mode",
-      "excerpt": "This post was co-written by Marius Cealera, Senior Partner Solutions Architect at AWS, Zdenko Estok, Cloud Architect at Accenture and Sakar Selimcan, Cloud Architect at Accenture. Machine learning (ML) is a high-stakes business priority, with companies spending $306 billion on ML applications in the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-machine-learning-enablement-events-at-scale-using-aws-deepracer-multi-user-account-mode/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-machine-learning-enablement-events-at-scale-using-aws-deepracer-multi-user-account-mode/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/29/dr1-831x630.png",
-          "width": 831,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T09:19:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

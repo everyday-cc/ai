@@ -2,6 +2,58 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2022-11-02-beyond-dashboards-the-future-of-analytics-and-business-intelligence.md",
+      "title": "Beyond Dashboards: The Future Of Analytics And Business Intelligence?",
+      "excerpt": "We have become accustomed to dashboards and data reports in our modern, data-driven businesses. However, the question is whether there are better ways to connect people with the insights they need.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6362212a73ae471fe027c5a2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/amp/",
+      "publishedDateTime": "2022-11-02T00:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-retail-technology-gains-intelligence-from-computer-vision.md",
       "title": "Retail technology gains intelligence from computer vision",
       "excerpt": "This is where artificial intelligence (AI) and computer vision come into play, enabling cashless checkout and stock management. Cameras and sensors have been used by a number of enterprises in recent years to detect things and ring them up,",
@@ -1126,58 +1178,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis.md",
-      "title": "SOPHiA GENETICS Partners with Microsoft to Accelerate Multimodal Health Data Analysis",
-      "excerpt": "The agreement is to expand and reinforce data-driven medicine through the SOPHiA DDM™ health data analysis platform available with Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis-1031858654",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis-1031858654",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1935064/SG_Microsoft_Partnership.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

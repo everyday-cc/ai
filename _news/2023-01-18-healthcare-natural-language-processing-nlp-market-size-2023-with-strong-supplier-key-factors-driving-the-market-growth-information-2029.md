@@ -280,15 +280,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 14
-  - title: "Research and Markets: FLAP Data Center Market 2022 to 2027: Investment Analysis & Growth Opportunities - ResearchAndMarkets.com"
-    excerpt: "The \"FLAP Data Center Market Investment Analysis Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The FLAP data center market is expected to grow at a CAGR"
-    publishedDateTime: 2023-01-17T16:37:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-01/58080017-research-and-markets-flap-data-center-market-2022-to-2027-investment-analysis-growth-opportunities-researchandmarkets-com-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
   - title: "Pet Accessories Market Set To Reach Valuation Of USD 14.77 Billion By 2029, Size, Share, Demand, Future Growth, Challenges And Competitive Analysis'"
     excerpt: "By keeping in mind the end user's point of view ... Livestock), Application (Identification & Tracking; Behaviour Monitoring & Control; Facilitation, Safety & Security; Medical Diagnosis & Treatment), End-Use (Commercial; Household), Country (U.S ..."
     publishedDateTime: 2023-01-19T09:00:00Z

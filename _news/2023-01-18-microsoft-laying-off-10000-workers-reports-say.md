@@ -136,20 +136,6 @@ related:
         width: 1070
         height: 580
         isCached: true
-  - title: "Microsoft & OpenAI Bring AI Models to Developers Worldwide"
-    excerpt: "Microsoft announces the general availability of its Azure OpenAI service, allowing developers to utilie technology like ChatGPT."
-    publishedDateTime: 2023-01-17T17:00:00Z
-    webUrl: "https://www.searchenginejournal.com/microsoft-openai-bring-ai-models-to-developers-worldwide/476633/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 54
-    images:
-      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2023/01/microsoft-azure-openai-63c6d3030e5f1-sej.png"
-        width: 1600
-        height: 840
-        isCached: true
   - title: "Microsoft is working on an AI called VALL-E that can clone your voice from a 3-second audio clip"
     excerpt: "The tech giant's new AI project comes after its plans to invest $10 billion in OpenAI's ChatGPT. VALL-E is a text-to-speech AI tool that can mimic voices."
     publishedDateTime: 2023-01-18T14:36:00Z

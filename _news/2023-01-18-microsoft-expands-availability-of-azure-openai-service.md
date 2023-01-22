@@ -62,19 +62,19 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 68
-  - title: "Microsoft Patches 4 SSRF Flaws in Separate Azure Cloud Services"
-    excerpt: "Two of the vulnerabilities — in Azure Functions and Azure Digital Twins — required no account authentication for an attacker to exploit them."
-    publishedDateTime: 2023-01-17T15:13:00Z
-    webUrl: "https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-four-ssrf-flaws-in-separate-azure-cloud-services"
+  - title: "Microsoft Joins Tech Layoff Circus With 10,000 Jobs Cut in Pivot to AI"
+    excerpt: "Microsoft is planning to lay off 10,000 workers through March, joining a slew of tech companies in cutting down after a pandemic hiring boom, The New York Times reports. The company’s chief executive,"
+    publishedDateTime: 2023-01-18T14:53:00Z
+    webUrl: "https://www.thedailybeast.com/microsoft-joins-tech-layoff-circus-with-10000-jobs-cut-in-pivot-to-ai"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
+      name: The Daily Beast
+      domain: thedailybeast.com
     quality: 54
     images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc3971b0cadba779c/63517ee229eafd0f926dd465/azure_Budrul_Chukrut_shutterstock.jpg"
-        width: 1000
-        height: 703
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_4261,w_7575,x_0,y_306/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1674059714/GettyImages-1246327708_ptzqta"
+        width: 1480
+        height: 833
         isCached: true
   - title: "Microsoft announces general availability of Azure OpenAI Service"
     excerpt: "Large language models are quickly becoming an essential platform for people to innovate, apply AI to solve big problems, and imagine what’s possible. By Eric Boyd, corporate vice-president: AI platform at Microsoft Today,"

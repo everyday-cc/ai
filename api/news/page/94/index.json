@@ -2,6 +2,49 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2022-10-26-ibm-expands-embeddable-ai-portfolio-with-plug-and-play-watson-libraries.md",
+      "title": "IBM expands embeddable AI portfolio with plug-and-play Watson libraries",
+      "excerpt": "The new offerings announced today provide customers with access to the same AI libraries that IBM uses to power its own IBM Watson products. In other words, they enable developers to build extremely sophisticated AI capabilities directly into their ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/10/25/ibm-expands-embeddable-ai-portfolio-plug-play-watson-libraries/",
+      "originalUrl": "https://siliconangle.com/2022/10/25/ibm-expands-embeddable-ai-portfolio-plug-play-watson-libraries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/watson.jpg",
+          "width": 830,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-shutterstock-to-offer-ai-generated-art-while-compensating-human-artists.md",
       "title": "Shutterstock to Offer AI-Generated Art While Compensating Human Artists",
       "excerpt": "The stock image provider is embracing OpenAI's DAll-E 2 program, but will also launch a fund to pay artists for contributing to the AI art generation.",
@@ -1087,49 +1130,6 @@
         "AI in Autos",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.md",
-      "title": "SAS Data Ethics Director Reggie Townsend on Building Ethical AI and Why It Matters",
-      "excerpt": "What is ethical artificial intelligence (AI), why is it vital to the future of technology, and how can CIO’s and business leaders help foster it? We spoke to Reggie Townsend, Data Ethics Practice Director at analytics software company SAS,",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.html",
-      "originalUrl": "https://www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2022/10/reggie-townsend-100933805-medium.jpg?auto=webp&quality=85,70",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.amp.html",
-      "publishedDateTime": "2022-10-24T23:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

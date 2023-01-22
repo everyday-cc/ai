@@ -7,7 +7,7 @@ originalUrl: "https://www.theatlantic.com/newsletters/archive/2023/01/ai-is-not-
 webUrl: "https://www.theatlantic.com/newsletters/archive/2023/01/ai-is-not-the-new-crypto/672746/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Best AI Crypto Coins to Buy – Invest in Artificial Intelligence"
-    excerpt: "With OpenAI's ChatGPT, generative AI, and other machine-learning technologies attracting billions in investment, AI cryptos are trending."
-    publishedDateTime: 2023-01-17T16:10:00Z
-    webUrl: "https://insidebitcoins.com/buy-cryptocurrency/best-ai-crypto-coins"
-    type: article
-    provider:
-      name: Inside Bitcoins
-      domain: insidebitcoins.com
-    quality: 56
-    images:
-      - url: "https://insidebitcoins.com/wp-content/uploads/2023/01/ai-crypto-coins-to-buy.png"
-        width: 384
-        height: 384
-        isCached: true
   - title: "Bit Index AI Review - Scam Or Legit Crypto Trading Platform?"
     excerpt: "AM Eastern Standard Time bit index ai is a cryptocurrency trading platform that claims to provide access to top coins like Bitcoin, Ethereum, and more. Our Bit Index AI review will study this trading platform's available features,"
     publishedDateTime: 2023-01-21T00:49:00Z

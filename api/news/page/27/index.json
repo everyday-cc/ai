@@ -2,6 +2,49 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2022-12-20-stop-tinkering-with-ai.md",
+      "title": "Stop Tinkering with AI",
+      "excerpt": "AI initiatives at many organizations are too ... can), you may have to partner with a company such as Microsoft Azure, Amazon Web Services (AWS), or Google Cloud. Capital One, which has been ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2023/01/stop-tinkering-with-ai",
+      "originalUrl": "https://hbr.org/2023/01/stop-tinkering-with-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2022/11/R2301J_DOUCETTE-scaled.jpg",
+          "width": 2560,
+          "height": 1439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-19T11:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-19-automatically-retrain-neural-networks-with-renate.md",
       "title": "Automatically retrain neural networks with Renate",
       "excerpt": "Today we announce the general availability of Renate, an open-source Python library for automatic model retraining. The library provides continual learning algorithms able to incrementally train a neural network as more data becomes available. By open-sourcing Renate, we would like to create a venue",
@@ -1127,57 +1170,6 @@
         "AI",
         "AI in Healthcare",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-18-ai-art-death-of-creative-industry-or-its-savior.md",
-      "title": "AI art: Death of creative industry, or its savior?",
-      "excerpt": "The next stage of evolution for AI art will leverage the entirety of inspiration on tap — rather than just creative auto filling.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-art-death-of-creative-industry-or-its-savior/",
-      "originalUrl": "https://venturebeat.com/ai/ai-art-death-of-creative-industry-or-its-savior/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/halfway.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-art-death-of-creative-industry-or-its-savior/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-art-death-of-creative-industry-or-its-savior/amp/",
-      "publishedDateTime": "2022-12-17T17:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

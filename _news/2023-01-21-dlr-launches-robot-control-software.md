@@ -44,11 +44,11 @@ related:
       domain: menafn.com
     quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?154579"
-        width: 333
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?34324"
+        width: 375
         height: 250
         isCached: true
 
-secured: "tS5DaEiZj5L9dLnekrNoeOGVHNVaaH+wxOn9qCLsPYEuJVdAvWk+5LbVC2/5IWiIryoO78aOaV7NgIvlepWJ6ywhH4zCYvdaWtAoYd45BATA2ciN7nyqERyIZXGX4VtcHYJM6M708kvAOFfuPnyAZ6dqMIj4yYyvoykF4MTSc5n/WW0o0Kt4R+JILqzExgMWigBK9iZFGKk8Ow8WZk2OmDFa9GF+1Ksiap6gh5CuZB950O0WZ5mRu7JeUlAF9FPtvQgMJN6JZWtqNNMnyZMCJgCdsSiVHBd7p8kxOsqIjrY62ZIyDugxlwnZcfR8qBcdrvO7VinGccqH8x/zBwJAzeMvy5aaBLb0WlSl5axi5C8=;AAqKbD75txNOpVoMXW1jHw=="
+secured: "pf1lFSl4IlvG76HqZiCQa9hYMs5eHuCKH1b6K5ox6AGdQSeT9uKwARyX4hNPqp4u+tHen0f/Gv3z1nvzo51RmnhzMtCMZxoguJeDeGYSYF5cLhH2yXXSJzaIqL/jW+b27YP6K8SddnFl791729EXNHSoOf9Qqqp1NlSsba3a00Ibeu0WyLaZz38XCiMRj7yGXCz2LaP+UNbv8ClnlDFByUC/IUhmSyG5jVi/5YQ1/jRr6dxWOA6DKuzPPM0e6of+mFjsSvUYaxB7hWK8aZmSRlfuuZhUJpWyYpfTTX0CthR6S8+vnxujwlhJmxvZgE4XwtYMM9bHQIBWj5zsHweeFQ9RvdjP+Mb0o0WKs5lLT0WS2dXEdhCNyveepS0URnYKfZaKGQAxrOAgdkHkqzN+zq9OHyoAbKMOXCnwtQYfZD073lXeeenZsmSIFYhMlfOXxZq6bVoPKsjp7U4MbmkTOj0Bu8plM9GLYvnDBk5IiJd9YciZBHorrYBwOUwEf2E47O0H/RqrQGPzdhhlcDOb1A==;hoIAIj5RC5gZkJlpDm6QlA=="
 ---
 

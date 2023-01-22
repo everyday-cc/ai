@@ -2,6 +2,49 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2022-10-18-nsw-clubs-to-roll-out-facial-recognition-tech.md",
+      "title": "NSW clubs to roll out facial recognition tech",
+      "excerpt": "Facial recognition cameras will be used to identify problem gamblers in clubs and pubs across NSW. The Australian Hotels Association NSW and ClubsNSW are developing a state-of-the-art system to be rolled out across all clubs and hotels next year.",
+      "sourceUrl": null,
+      "webUrl": "https://thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/",
+      "originalUrl": "https://thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thenewdaily.com.au/wp-content/uploads/2022/10/1666127796-GettyImages-162316362.jpg?resize=960,600",
+          "width": 960,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/amp/",
+      "publishedDateTime": "2022-10-18T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thenewdaily",
+        "domain": "thenewdaily.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-has-there-been-a-second-ai-big-bang.md",
       "title": "Has There Been A Second AI Big Bang?",
       "excerpt": "Aleksa Gordic explains how the latest AI models work, and explores whether the arrival of Transformers amounts to a second Big Bang in AI",
@@ -1051,58 +1094,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-the-chip-war-with-china-is-just-getting-started.md",
-      "title": "The Chip War With China Is Just Getting Started",
-      "excerpt": "Our overreliance on foreign sources for microchips, even from trusted allies such as Taiwan, Japan, and South Korea, is only part of a broader issue: America’s overreliance on global supply chains that are all too vulnerable to disruption,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/",
-      "originalUrl": "https://www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634d644194ab28271ead84e5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/amp/",
-      "publishedDateTime": "2022-10-17T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

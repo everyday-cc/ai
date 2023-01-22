@@ -2,6 +2,49 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2022-12-01-vmware-cloud-on-aws-expands-to-africa.md",
+      "title": "VMware Cloud on AWS Expands to Africa",
+      "excerpt": "VMware today announced VMware Cloud on AWS is now available in the AWS Africa (Cape Town) Region. With VMware Cloud on AWS, customers across Africa can run workloads across VMware vSphere-based hybrid cloud environments with optimised access to Amazon Web Services.",
+      "sourceUrl": null,
+      "webUrl": "https://africabusinesscommunities.com/tech/tech-news/vmware-cloud-on-aws-expands-to-africa/",
+      "originalUrl": "https://africabusinesscommunities.com/tech/tech-news/vmware-cloud-on-aws-expands-to-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://adserver.20nine.nl/www/delivery/avw.php?zoneid=85&n=238f97b",
+          "width": 336,
+          "height": 280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "africabusinesscommunities.com",
+        "domain": "africabusinesscommunities.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-honda-to-develop-advanced-level-3-self-driving-technology-by-2029.md",
       "title": "Honda to develop advanced level 3 self-driving technology by 2029",
       "excerpt": "TOKYO, Dec 1 (Reuters) - Honda (7267.T) said it would develop technology enabling its level 3 self-driving capability to function at any speed below legal limits on highways by the second half of ...",
@@ -1084,58 +1127,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-the-era-of-evolution-for-conversational-ai.md",
-      "title": "The Era of Evolution for Conversational AI",
-      "excerpt": "Conversation AI-powered digital avatars would act as personal shopping assistants or stylists for customers, assisting them in a quick, seamless virtual shopping journey, owing to the lower latency of",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/technology/the-era-of-evolution-for-conversational-ai/440181",
-      "originalUrl": "https://www.entrepreneur.com/en-in/technology/the-era-of-evolution-for-conversational-ai/440181",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1669870136-Myproject-1155.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

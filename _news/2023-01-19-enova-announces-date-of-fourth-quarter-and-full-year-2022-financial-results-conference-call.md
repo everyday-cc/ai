@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2023/01/18/9745648.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/01/18/9745648.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Yobi, the Customer Communication App Connecting Multiple Channels, Announces Advanced New AI Features for a Supercharged Experience"
+    excerpt: "Yobi, the customer communication app for businesses designed to enhance customer relationship management (CRM) by unifying multiple communication channels, announced two new AI-powered features today."
+    publishedDateTime: 2023-01-18T14:25:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/18/9745276.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "e8uAkpLdhvdNxr1hNkyZgt8dsgoufdkicz9gL/BDBhdLxTDFAYr3kbhul+Sq5Asb7soonkDAIEWjeKkYMejkhTBo0sXgYlpbIvvScSMG0r8rMQCFuzSIEjTvZlLJ4ccWqRisGwNnspUJ+JsYuheL65nnB1fJMnBZTUbdFlEQLYJPJfrs/EHgho6FMRd7RoDBi9heEnA/5ZGqI/xlZkrXfzrfcvYfw7sEBGSp4MyP7yJrYkl5RU6TfAhYYrSu6v/v8q9nbhunWTCYIGiZC4/uWI+0iq7qNEZ06K0cCcUulI42BAxFTM22BmbL7oslZnMiliD0t2mk4rWqueTNasdtZdMXcIe6GWsDMIBRWrM3d0E=;r+vIdkBB+7qUdlaeKU1Wmw=="
 ---

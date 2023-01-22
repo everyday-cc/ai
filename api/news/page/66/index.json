@@ -2,6 +2,58 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2022-11-19-amazon-looks-to-sparrow-to-carry-its-robotics-ambitions.md",
+      "title": "Amazon Looks to Sparrow to Carry its Robotics Ambitions",
+      "excerpt": "But the robotic device, known as Sparrow, is outfitted with suction cups and artificial intelligence software rather than the ... the most physically challenging and repetitive tasks over to robots. Warehouse workers pick items up, sort them and put ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/amazon-looks-to-sparrow-to-carry-its-robotics-ambitions-11668797969",
+      "originalUrl": "https://www.wsj.com/articles/amazon-looks-to-sparrow-to-carry-its-robotics-ambitions-11668797969",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-669457/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/amazon-looks-to-sparrow-to-carry-its-robotics-ambitions-11668797969",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-looks-to-sparrow-to-carry-its-robotics-ambitions-11668797969",
+      "publishedDateTime": "2022-11-18T09:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-19-microsoft-and-nvidia-extend-partnership-to-build-ai-supercomputer-in-the-cloud.md",
       "title": "Microsoft and Nvidia extend partnership to build AI supercomputer in the cloud",
       "excerpt": "Nidhi Chappell, partner/GM, specialized compute at Microsoft, explained to VentureBeat that Azure AI-optimized virtual machine (VM) offerings, like the current generation of the NDm A100 v4 VM series, start with a single virtual machine (VM) and eight ...",
@@ -1116,49 +1168,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-crime-and-public-safety.md",
-      "title": "Crime and Public Safety",
-      "excerpt": "The case in Aurora is one of hundreds of times Colorado law enforcement in the past few years have accessed facial recognition software through the DMV or by using a program more than 80 Colorado ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.denverpost.com/2020/09/27/facial-recognition-colorado-police/",
-      "originalUrl": "https://www.denverpost.com/2020/09/27/facial-recognition-colorado-police/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.denverpost.com/wp-content/uploads/2020/07/TDP-L-J_ELIJAHRALLY_RE_18.jpg?w=1024&h=683",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.denverpost.com/2020/09/27/facial-recognition-colorado-police/amp/",
-      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/27/facial-recognition-colorado-police/amp/",
-      "publishedDateTime": "2022-11-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Denver Post",
-        "domain": "denverpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

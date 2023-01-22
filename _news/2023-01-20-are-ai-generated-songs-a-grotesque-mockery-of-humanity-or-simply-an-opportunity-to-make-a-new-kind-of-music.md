@@ -46,31 +46,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "‘A grotesque mockery’: Nick Cave slates attempt by AI to emulate his songs"
-    excerpt: "Nick Cave has reacted furiously to an attempt to emulate his songs with AI, labeling it a \"grotesque mockery of what it is to be human.\""
-    publishedDateTime: 2023-01-17T16:30:00Z
-    webUrl: "https://edition.cnn.com/2023/01/17/entertainment/nick-cave-ai-scli-intl/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/01/17/entertainment/nick-cave-ai-scli-intl/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/01/17/entertainment/nick-cave-ai-scli-intl/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 85
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230117133057-nick-cave-file-2022-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "‘A grotesque mockery’: Nick Cave slams attempt by AI to emulate his songs"
-    excerpt: "Nick Cave has reacted furiously to an attempt to emulate his songs with AI, labeling it a \"grotesque mockery of what it is to be human.\""
-    publishedDateTime: 2023-01-17T16:30:00Z
-    webUrl: "https://edition.cnn.com/2023/01/17/entertainment/nick-cave-ai-scli-intl/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 46
 
 secured: "fk9iDrtmIfF7AAUVE7zG6Af0zTxj6to1TfzcfPqj9Tas7ecNUghE2AV75ftAP1B8flQDf9ITEdJYVYIM6lwAH92G9hhV8mr1CEAXlaRsrVuj8whfMGOkVR4ZMWzt/7hdBemM4l+CKt6HLpbBNcjqic4ofp94FUnVVp9FqZYe+zzVRva+vdQrpNonqYVazs5+omDSY6O5P6XGCwVB/DLYxGhxjickdLZCKCjh8jCASuxOIBVnJLG+AH2nzY/EQGBRu6EdB0QLmXE3iIxTm154/aps7hwGjc3ouq00HwlzkcvDVqx+mQL5I7m9uF/QNS6nPRfZaS5NlxBrrZMtleE41lkQYSlapeiP+wZX1++m/Wdl04z5vS0/F8wm+Y3spBWpQr5uIM47anbaGhZb6a/+8o5n2mdBpfThpr+CmOSTlQO33Wggo5ojdUZ9OCy2kKdy+aZPV9QJT8d7sd3odWnDDbjh4GTV0Se0o8+D9tAGtDk6NNMZB5zhYOIibC+GhmdzXdkIkjJII9FaigDFcVVG+Q==;UBYz4GfkDkHnyKnzsGWaVQ=="
 ---

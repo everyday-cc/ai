@@ -2,6 +2,49 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2022-11-15-elon-musks-new-brain-interface-technology.md",
+      "title": "Elon Musk's New Brain Interface Technology",
+      "excerpt": "Elon Musk has been in the news for having purchased Twitter. However, he also owns another company. I am not referring to Tesla or SpaceX. It is potentially more revolutionary than either of these. This other company,",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-11/neuralink.jpg?itok=oTasHUsX",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology?amp",
+      "publishedDateTime": "2022-11-14T19:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones.md",
       "title": "In Apple's shadow, Google takes new route to face recognition on Pixel phones",
       "excerpt": "(Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short hiatus due to challenges on cost and performance, according to three former employees at the ...",
@@ -1086,49 +1129,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients.md",
-      "title": "Infosys BPM opens AI, automation unit in Poland for global clients",
-      "excerpt": "Infosys BPM, the business process management arm of the Indian IT services firm, on Monday launched a unit for artificial intelligence (AI) and automation in Poland's Lodz city to assist global clients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-04/13/full/1649873871-5587.jpg?im=Resize,width=480",
-          "width": 480,
-          "height": 359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/infosys-bpm-opens-ai-automation-unit-in-poland-for-global-clients-122111400793_1.html",
-      "publishedDateTime": "2022-11-14T02:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }
