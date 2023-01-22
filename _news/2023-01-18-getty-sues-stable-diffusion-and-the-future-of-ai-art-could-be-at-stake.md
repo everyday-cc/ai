@@ -77,15 +77,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Getty Images sues to determine who owns AI art"
-    excerpt: "Getty Images, the stock-image powerhouse, is suing Stability AI over its AI art generator in a copyright infringement case that could help decide the future of AI art."
-    publishedDateTime: 2023-01-17T18:39:00Z
-    webUrl: "https://www.pcworld.com/article/1475597/getty-sues-stability-ai-and-the-future-of-ai-art-could-be-at-stake.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 49
   - title: "Getty Images suing the makers of popular AI art tool for allegedly stealing photos"
     excerpt: "Getty Images announced a lawsuit against Stability AI, the company behind popular AI art tool Stable Diffusion, alleging the tech company committed copyright infringement."
     publishedDateTime: 2023-01-17T19:48:00Z

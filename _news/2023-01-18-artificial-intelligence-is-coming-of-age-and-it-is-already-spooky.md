@@ -25,22 +25,6 @@ images:
     height: 315
     isCached: true
 
-related:
-  - title: "CNET's Article-Writing AI Is Already Publishing Very Dumb Errors"
-    excerpt: "The AI bot that CNET is using to churn out personal finance articles has a relatable problem: it keeps making dumb mistakes."
-    publishedDateTime: 2023-01-17T17:07:00Z
-    webUrl: "https://futurism.com/cnet-ai-errors"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 37
-    images:
-      - url: "https://wp-assets.futurism.com/2023/01/cnet-ai-mistake.jpg"
-        width: 1200
-        height: 706
-        isCached: true
-
 secured: "H5fzG8eSDg8euaIWoov6c8qUo6HzGwHkwt8nKVgK1i7vx7O942JNfqVVzC4wNL9PKpf/GGI+5NeIumlZmvZ3gGKZIYY+vIIkUUgvUsij9ppTijaRtuBPWZepB4xec7LrGuX07uuAVFer7vWM448HY1zARIqtNTYjCGBl1SbbmgWKsBPrLJVLf4l2PmqNaVED1q6gXm54ljt4J1KHpV21PgkiH0Sbhu2jASAPjTCa8q3fhcXzTwaYOKKUbOZtYqHrVoUdYu7lwPzDu7VX8MezplkxmReKtvgQKLSyltQeXc6KT8/8lasIRgqsznDX7vJnK3bGDUOKDackSwQUpPkDEqHV29Mg7OUF3RTipp7DMiY=;doIaNfxEMjX9fCfcG/URvQ=="
 ---
 

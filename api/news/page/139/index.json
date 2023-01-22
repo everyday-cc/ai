@@ -2,6 +2,91 @@
   "page": 139,
   "value": [
     {
+      "path": "_news/2022-09-16-daniel-ek-poured-100m-into-helsing-ai-last-year-the-startup-just-partnered-with-a-european-arms-manufacturer.md",
+      "title": "Daniel Ek poured €100m into Helsing AI last year. The startup just partnered with a European arms manufacturer",
+      "excerpt": "Spotify Founder Daniel Ek pledged a personal commitment of €1 billion over the next decade to invest in European technology companies. Ek referred to these companies – operating in fields from machine learning to biotechnology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.musicbusinessworldwide.com/daniel-ek-poured-e100m-into-helsing-ai-last-year-the-startup-just-partnered-with-a-european-arms-manufacturer1/",
+      "originalUrl": "https://www.musicbusinessworldwide.com/daniel-ek-poured-e100m-into-helsing-ai-last-year-the-startup-just-partnered-with-a-european-arms-manufacturer1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.musicbusinessworldwide.com/files/2021/02/Screenshot-2021-02-24-at-21.08.50.jpg",
+          "width": 1139,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Spotify",
+        "domain": "musicbusinessworldwide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-figure-3-a-neural-network-in-the-brain-of-a-living-mouse-was-observed-without-removing-the-skull-image.md",
+      "title": "Figure 3. A neural network in the brain of a living mouse was observed without removing the skull (IMAGE)",
+      "excerpt": "(A). The brain’s neural network was successfully imaged using a light source in the visible wavelength region. Only the skin of a living mouse was removed and the skull was left intact. (B) Using the previous technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/multimedia/949800",
+      "originalUrl": "https://www.eurekalert.org/multimedia/949800",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a405a709-a4b1-4992-8e63-f12bba86fbe1/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-artificial-intelligence-can-now-optimize-molecular-structure-for-batteries.md",
       "title": "Artificial Intelligence Can Now Optimize Molecular Structure For Batteries",
       "excerpt": "Researchers develop a molecular optimization framework to identify promising organic radicals for aqueous redox flow batteries.",
@@ -1015,102 +1100,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-nala-robotics-and-saudi-excellence-co-to-establish-first-ai-based-robotic-cloud-kitchen-and-rd-center-in-saudi-arabia.md",
-      "title": "Nala Robotics and Saudi Excellence Co. to Establish First AI-Based Robotic Cloud Kitchen and R&D Center in Saudi Arabia",
-      "excerpt": "NAPERVILLE, Ill. and RIYADH, Saudi Arabia, Sept. 15, 2022 /PRNewswire/ -- Nala Robotics, a U.S.-based AI robotics company disrupting the culinary",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nala-robotics-and-saudi-excellence-co-to-establish-first-ai-based-robotic-cloud-kitchen-and-r-d-center-in-saudi-arabia-1031746917",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nala-robotics-and-saudi-excellence-co-to-establish-first-ai-based-robotic-cloud-kitchen-and-r-d-center-in-saudi-arabia-1031746917",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1900242/20220915_112904.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-upstart-claims-its-chips-beat-nvidias-a100-on-ai-oomph.md",
-      "title": "Upstart claims its chips beat Nvidia's A100 on AI oomph",
-      "excerpt": "SambaNova says its latest chips can best Nvidia's A100 silicon by a wide margin, at least when it comes to machine learning workloads. The Palo Alto-based AI startup this week revealed its DataScale systems and Cardinal SN30 accelerator,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/09/15/sambanova_ai_chip_nvidia/",
-      "originalUrl": "https://www.theregister.com/2022/09/15/sambanova_ai_chip_nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2018/09/05/shutterstock_187864790.jpg",
-          "width": 648,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/09/15/sambanova_ai_chip_nvidia/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/09/15/sambanova_ai_chip_nvidia/",
-      "publishedDateTime": "2022-09-15T13:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is giving a boost to recruiting for the jobs that are toughest to fill"
-    excerpt: "As employers struggle to fill vacant jobs, artificial intelligence (AI)-powered recruiting and human resources tools can help."
-    publishedDateTime: 2023-01-18T13:30:00Z
-    webUrl: "https://venturebeat.com/ai/how-ai-is-giving-a-boost-to-recruiting-for-the-jobs-that-are-toughest-to-fill/"
+  - title: "This AI writing app now fixes your lousy spelling mistakes"
+    excerpt: "Artificial intelligence is being used to cast its all-seeing eye over the written word with DeepL’s latest free writing app Write. Pitched as a rival to Grammarly, the AI writing tool is able to correct spelling and grammar mistakes,"
+    publishedDateTime: 2023-01-18T17:59:00Z
+    webUrl: "https://www.techradar.com/news/this-ai-writing-app-now-fixes-your-lousy-spelling-mistakes"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/fsh9XUg46KKeaptBBcvaqb-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "s983MizPHtw+IctBGdvQQDJTGoBPmMCd2pe6oL54gJMpDMd6GG5ZpHcpy7o52yJfHHseZpWEiOnQ2hbfnyDdv6xkchWpUkMxCQ187Hd7dIye1rqN+n41a8gDRfYQDcoqDzC94YIiA+h2gdM9VLaDq+gRvlJHLbLm/9TnMWmg6U6SX4rqN5qLfktQ6BMFnneFtGX4pngo53AkGDtRY7vwpDfYOaCmpA0aIKGQBcrGfiKXX3SWi9t8OcB7g4RoS0NinuoH6GLnqd/BQgy/aAhOoklqUgtDFrsQLkEwP+K0OBAVV7RAZ20KoFod8wK6y4EiIWMMepfZ21D9MdzmWeGHNav6f9KlPndBmP5bWFX3iQao5Hra86r5biBF6/6jvxNX69Ztf7cM2JyvbTYQWSH+P9G3ziAjSxhHLrSqyW0gL60xxscIZIOx61BPs7IWdVZDxawI+/P/RLGKzxeAq0hSr797/owdiDNIQ6qFKtNhu091O6p/NYOrxKsLCwCNWO0S4SQCXrvrj2w9Q52eUqH5xA==;rMJAFr35Syp0Dj+fesYQjQ=="
 ---

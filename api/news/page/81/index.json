@@ -2,6 +2,92 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2022-11-07-coreweave-among-first-cloud-providers-to-offer-nvidia-hgx-h100-supercomputers-set-to-transform-ai-landscape.md",
+      "title": "CoreWeave Among First Cloud Providers to Offer NVIDIA HGX H100 Supercomputers Set to Transform AI Landscape",
+      "excerpt": "CoreWeave, a specialized cloud provider built for large-scale GPU-accelerated workloads, today announced it is among the first to offer cloud instances with NVIDIA HGX H100 supercomputing. CoreWeave,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/11/07/9707181.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/11/07/9707181.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-07-clearview-stole-my-face-and-the-eu-cant-do-anything-about-it.md",
+      "title": "Clearview Stole My Face and the EU Can’t Do Anything About It",
+      "excerpt": "By uploading a single photo, Clearview’s clients, which include law enforcement agencies, can use the company’s facial recognition technology to unearth other online photos featuring the same face. Marx wanted to know if the company had any photos of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/clearview-face-search-engine-gdpr/",
+      "originalUrl": "https://www.wired.com/story/clearview-face-search-engine-gdpr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6365c2f63505151fbc0b014e/master/pass/Clearview-Stole-My-Face-Business-148340936.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/clearview-face-search-engine-gdpr/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/clearview-face-search-engine-gdpr/amp",
+      "publishedDateTime": "2022-11-07T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-how-ai-solutions-can-defend-against-cyberattacks.md",
       "title": "How AI Solutions Can Defend Against Cyberattacks",
       "excerpt": "In order to combat these cyberthreats, AI solutions can utilize machine learning and recurrent neural networks.",
@@ -1053,100 +1139,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-content-curation-ai-ethics-other-teams-fired-by-twitter-under-new-owner-elon-musk.md",
-      "title": "Content curation, AI ethics, other teams fired by Twitter under new owner Elon Musk",
-      "excerpt": "Elon Musk has axed entire departments at Twitter in his exercise to deeply trim its workforce by half and human rights, accessibility, AI ethics and curation and communications teams were hit the hardest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.in/content-curation-ai-ethics-other-teams-fired-by-twitter-under-new-owner-elon-musk-853806",
-      "originalUrl": "https://www.ibtimes.co.in/content-curation-ai-ethics-other-teams-fired-by-twitter-under-new-owner-elon-musk-853806",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data1.ibtimes.co.in/en/full/777770/musk-begins-laying-off-twitter-employees-shuts-offices-temporarily.jpg?w=570&h=320",
-          "width": 570,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.co.in/content-curation-ai-ethics-other-teams-fired-by-twitter-under-new-owner-elon-musk-853806",
-      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/content-curation-ai-ethics-other-teams-fired-by-twitter-under-new-owner-elon-musk-853806",
-      "publishedDateTime": "2022-11-04T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes India",
-        "domain": "ibtimes.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-how-ai-can-help-the-public-health-sector-face-future-crises.md",
-      "title": "How AI can help the public health sector face future crises",
-      "excerpt": "AI and ML identify disease and conditions in near real time. They could soon enable population-wide disease reduction and healthcare equity.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/",
-      "originalUrl": "https://venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1296963883-Thinkhubstudio.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 588,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/how-ai-can-help-the-public-health-sector-face-future-crises/amp/",
-      "publishedDateTime": "2022-11-04T20:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

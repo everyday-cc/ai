@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-neural-netw.jpg"
@@ -23,6 +24,6 @@ images:
     height: 478
     isCached: true
 
-secured: "rKTLfnblpCwLINWcQh+RAjX7mC9qJq97HGLun9TNf0jP/E34d8ZzABcWscnpK1Tx0811vWte/LPYoHAMrB9p14UZCzJWDH1DIsn/SGbeWA7ObJ+pMcuV8garY8TtjDDMFYPlXt6AhX2nBMBvToZfHD5GO1RGa77oM6Z57YffS31fHLRi/WNg5ntsR5qqqtdlM0/QCn/KDfPtzvg4biynDP9ZLmclJ7wVdGWla/7PDk0+Kmif7g22UDb5iF7Dgx3TKwkcZLgOy1Ga/iDre65K9ELAZdM+H3Wp3XZnBT+o9y9vwYEstDcsTk70ICIfz1ZXnf2VBj6bozfTa2+S20ps5m+2XLWfK5ufBVWDilt0EvM=;jfLfViR0C9NDIrNnj03Gew=="
+secured: "No49B4j7/pMrypunTe4kCTxvAw7/OB9LyeqFeornjUEpcocsCvuCe+km+1wHQt8hhnkREJOxKzWGH/w+vMgemSzqmIXtJcYOQEQjFHAO5jXGX7HeJApbzEy2vipp7RPf1YST1L1yMemjUGJ6zk05eUOqkANa9pcLrGlouu0RCGjk3NkyxVfnvrCf8dva+oEufo2M53c49B9DgtJYQs2ip5rCetUcMDs+UjgGP52exNX4ic/dhS3yvE+ZgOYHATMZqj7tLei1JxswT2J6fjfSSbmRTv9oVL/28Rin78R4O2+TnJnBmHlg7h0pOvgMx8bDmrJKPTyFI+qxVDzMhMDI5Z6a/AhB5ldCrWYB/IZ8hbeN3/kxES9hxFLJUXL00iN8swXmzg11GuMmzCsNVa3MupnDPkxNF8PFlczN6qnAeXYlFZyFpA231/jm71WfEC1M3GVO/qY8lyV+hlflNLM2Xmd/WoV+lWAOtZPW6P3uxf7OGb+GRI/VTZhF9XVA/fzVFFuC1lkmwzg+Xh+af5TmZg==;68zoj0q7ps3EocTbtzleSQ=="
 ---
 

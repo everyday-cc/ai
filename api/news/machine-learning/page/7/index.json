@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-30-brain-mri-data-machine-learning-models-might-help-in-diagnosing-adhd.md",
+      "title": "Brain MRI Data & Machine Learning Models Might Help In Diagnosing ADHD",
+      "excerpt": "In a new study, researchers made a breakthrough by potentially finding a far more robust mechanism through which ADHD diagnosis via brain MRI scans might become a reality in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anuradhavaranasi/2022/11/29/brain-mri-data--machine-learning-models-might-help-in-diagnosing-adhd/",
+      "originalUrl": "https://www.forbes.com/sites/anuradhavaranasi/2022/11/29/brain-mri-data--machine-learning-models-might-help-in-diagnosing-adhd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6384bb904b07cd85744597a0/0x0.jpg?format=jpg&width=1200",
+          "width": 1114,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anuradhavaranasi/2022/11/29/brain-mri-data--machine-learning-models-might-help-in-diagnosing-adhd/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anuradhavaranasi/2022/11/29/brain-mri-data--machine-learning-models-might-help-in-diagnosing-adhd/amp/",
+      "publishedDateTime": "2022-11-29T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-research-assistant-or-research-associate-in-computer-vision-and-machine-learning.md",
       "title": "Research Assistant or Research Associate in Computer Vision and Machine Learning",
       "excerpt": "Apply(This will open in a new window from which you will be automatically redirected to an external site after 5 seconds)",
@@ -1311,58 +1363,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-why-ai-needs-a-steady-diet-of-synthetic-data.md",
-      "title": "Why AI needs a steady diet of synthetic data",
-      "excerpt": "Experts say AI itself is starving — and needs to change its diet. One company says synthetic data is the answer.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-ai-needs-a-steady-diet-of-synthetic-data/",
-      "originalUrl": "https://venturebeat.com/ai/why-ai-needs-a-steady-diet-of-synthetic-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/Pic-3.png?fit=800%2C449&strip=all",
-          "width": 799,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-ai-needs-a-steady-diet-of-synthetic-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-needs-a-steady-diet-of-synthetic-data/amp/",
-      "publishedDateTime": "2022-11-22T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,26 +2,26 @@
 category: news
 title: "Revisiting the idea of whether AI might help those dealing with isolation, depression"
 excerpt: "The need for mental health care far exceeds the supply of therapists. Could AI technology help bridge the gap ethically and safely?"
-publishedDateTime: 2023-01-19T10:10:00Z
-originalUrl: "https://www.kunc.org/2023-01-19/revisiting-the-idea-of-whether-ai-might-help-those-dealing-with-isolation-depression"
-webUrl: "https://www.kunc.org/2023-01-19/revisiting-the-idea-of-whether-ai-might-help-those-dealing-with-isolation-depression"
-ampWebUrl: "https://www.kunc.org/2023-01-19/revisiting-the-idea-of-whether-ai-might-help-those-dealing-with-isolation-depression?_amp=true"
-cdnAmpWebUrl: "https://www-kunc-org.cdn.ampproject.org/c/s/www.kunc.org/2023-01-19/revisiting-the-idea-of-whether-ai-might-help-those-dealing-with-isolation-depression?_amp=true"
+publishedDateTime: 2023-01-19T14:10:00Z
+originalUrl: "https://health.wusf.usf.edu/npr-health/npr-health/2023-01-19/revisiting-the-idea-of-whether-ai-might-help-those-dealing-with-isolation-depression"
+webUrl: "https://health.wusf.usf.edu/npr-health/npr-health/2023-01-19/revisiting-the-idea-of-whether-ai-might-help-those-dealing-with-isolation-depression"
+ampWebUrl: "https://health.wusf.usf.edu/npr-health/npr-health/2023-01-19/revisiting-the-idea-of-whether-ai-might-help-those-dealing-with-isolation-depression?_amp=true"
+cdnAmpWebUrl: "https://health-wusf-usf-edu.cdn.ampproject.org/c/s/health.wusf.usf.edu/npr-health/npr-health/2023-01-19/revisiting-the-idea-of-whether-ai-might-help-those-dealing-with-isolation-depression?_amp=true"
 type: article
 quality: 52
 heat: 62
 published: false
 
 provider:
-  name: KUNC
-  domain: kunc.org
+  name: health.wusf.usf.edu
+  domain: usf.edu
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/e8ae7e8/2147483647/strip/true/crop/3000x1688+0+157/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F18%2Fdance-20_custom-0cb3a0fb67d278bc7e48b5c4fce9abf8f4b3563e.jpg"
+  - url: "https://npr.brightspotcdn.com/dims4/default/22e4b38/2147483647/strip/true/crop/386x217+0+52/resize/480x270!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2F2e%2F84%2Fa5ba431d495d996e6d65cc727eac%2Ffmpeawwxkaawjkt.jpg"
     width: 480
     height: 270
     isCached: true
@@ -37,6 +37,6 @@ related:
       domain: forbes.com
     quality: 49
 
-secured: "1luyIsTfhtcEVbzDtiIDRa1cjelSwy6ymLIuDKhzIWhhh+JAQAAEwPbdByo4nxf6HMa6SKTyRgnRETjKOAAloppOc1QdR4lrvhNy4WPaNoL+DMULn2QVGXCNZ4Ar23LwCUGtgdXaIrYopDlpV7fqb9hfuQPjSw0o9dPWr+VRXLxrMfdzm1iejbjJyQwoheqtEH9sarsBroWE3SRVCr2iNAOm1m2+FdRMIRY8IIgmRLYluJ/DofOq90MxaiL4GUKIrCJoc5pXFiP2OyWvWArBKlTCAQnz0VxpLe6Vk3s+eVsdNfcLACuWRYBgLLO7/d404gSlrEUFVq5wSb8LvzkabqSbhOkdUnq5uIcEgJggk1c=;3/k7rfFNWv7myw1ouSkHJA=="
+secured: "X3Xr6d14edy0oR1qZwUxFOKH4FAI5IAaVweA1pHrTQZ0EvikXDKdccIK9W98Ng4WndGmuecDZguWdedRtgja6AZqyw7CXokWLFQQA921mGdsm4yQKre4fUHWExMgLBBB8VG3IPnjojTIDYbEuRsO12j1f0fnMdA5lHqvz/T1uNCrzzVvYoipFPsr7QDqwK7pni5sOBlwdha4meyKE0I2gdQZXXxCpxCyZNDb05IH7rPUrLE2eWg7ruXMYEtvIrCxsrzDV6zLH67BJfmQaZS/pilJsRph6bcliJJF5EfbWHa1Xtb8e0WYSUMitQrKZ90iqiXxt0pIeqiztu6/2FUgCo9V2mKbYhcpoKzkTOsMm+A=;7m7+776lMzglGMHf9ssK7Q=="
 ---
 

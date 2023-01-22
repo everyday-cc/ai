@@ -179,22 +179,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Tesla video promoting self-driving was staged, senior engineer testifies"
-    excerpt: "Video from 2016 was promoted by Elon Musk as evidence that ‘Tesla drives itself’"
-    publishedDateTime: 2023-01-17T17:44:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jan/17/tesla-self-driving-video-staged-testimony-senior-engineer"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jan/17/tesla-self-driving-video-staged-testimony-senior-engineer"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jan/17/tesla-self-driving-video-staged-testimony-senior-engineer"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 58
-    images:
-      - url: "https://i.guim.co.uk/img/media/56c916f99dd962472fe7082b84f3cd41ceacf303/0_112_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=f1bdacc32bb58b45ef85f0b20bafe659"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Tesla hits a new bump, accused of staging self-driving promotional video"
     excerpt: "A senior Tesla engineer has testified that the 2016 video released by the carmaker to showcase its EVs' self-driving technology was staged."
     publishedDateTime: 2023-01-19T17:59:00Z
@@ -257,15 +241,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Tesla Staged Self-Driving Video, Engineer Reportedly Says—In Latest Blow To Autopilot Claims"
-    excerpt: "The video ends with a Tesla apparently parallel parking itself, but the car actually crashed into a fence without driver assistance, a Tesla senior engineer said in a deposition obtained by Reuters."
-    publishedDateTime: 2023-01-17T18:48:00Z
-    webUrl: "https://www.forbes.com/sites/nicholasreimann/2023/01/17/tesla-staged-self-driving-video-engineer-reportedly-says-in-latest-blow-to-autopilot-claims/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 53
   - title: "Tesla’s 2016 video promoting self-driving technology ‘staged’ company’s engineer claims"
     excerpt: "Tesla’s 2016 video promoting the company’s self-driving technology was staged to show features that its systems did not have, a senior engineer has claimed. The video, now archived on Tesla ..."
     publishedDateTime: 2023-01-18T07:02:00Z
@@ -307,20 +282,6 @@ related:
       - url: "https://www.nydailynews.com/resizer/7BE6f552D40eaOwZBam0ZraxKMA=/1200x630/filters:format(jpg):quality(70):focal(1783x818:1793x828)/cloudfront-us-east-1.images.arcpublishing.com/tronc/ATCG7YYTEVFDLPSZPQQ4IRCN2M.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Tesla engineer testifies that 2016 self-driving footage was faked"
-    excerpt: "A senior Tesla (TSLA) engineer admitted that a 2016 video promoting the automaker’s autonomous driving technology was staged."
-    publishedDateTime: 2023-01-17T17:13:00Z
-    webUrl: "https://seekingalpha.com/news/3925123-tesla-engineer-testifies-that-2016-self-driving-footage-was-faked"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/638420806/image_638420806.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
         isCached: true
   - title: "Tesla video promoting self-driving was staged, engineer testifies"
     excerpt: "A 2016 video that Tesla used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior engineer."

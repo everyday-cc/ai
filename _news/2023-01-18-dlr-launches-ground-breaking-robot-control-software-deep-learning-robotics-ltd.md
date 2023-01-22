@@ -34,20 +34,15 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "DLR Launches Ground-Breaking Robot Control Software'"
-    excerpt: "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for ..."
-    publishedDateTime: 2023-01-17T21:12:00Z
-    webUrl: "https://menafn.com/1105441789/DLR-Launches-Ground-Breaking-Robot-Control-Software"
+  - title: "DLR Launches Ground-breaking Robot Control Software"
+    excerpt: "BINYAMINA, Israel, Jan. 17, 2023 /PRNewswire/ -- Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control ..."
+    publishedDateTime: 2023-01-17T19:53:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/n30449359/dlr-launches-ground-breaking-robot-control-software"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?34324"
-        width: 375
-        height: 250
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "MBmNOf5NfA5ffl//ClviTGZKCZqFIugiHf2kr++NgMKNwSStnY1z3dzYnon92wUR3C3yHnbCwKou8D2lh3lx7sAq5gSgAHaU474gdB9Qmt6bn/7OPje2WXPmzOxgAjP6vi7RawtboyXlHFoMof9q5z25VzkjV/YihP1yuTymFCiy6oktCuTbiT6myXe/4SRM5fxP5ssKdbE+gP1d8toyS+MhKCc2xHpM+XrX++jF7TSXKLmemt6vTOB1sNXvC0kMdRBbyD+uKeatAgXQYAzOPyY4EeTxFHEc676q3+Y9KpL0Bd95Xs7B+1L1asQbarBRTvXrskgdVVeBoRdd+MFmqanP7DPQQTL9uPxgUNA4gng=;lWB20M/my4FQDUwi3wDIDg=="
 ---

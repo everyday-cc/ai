@@ -38,20 +38,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 84
-  - title: "Churn prediction using multimodality of text and tabular features with Amazon SageMaker Jumpstart"
-    excerpt: "Amazon SageMaker JumpStart&nbsp;is the Machine Learning (ML) hub of SageMaker providing pre-trained, publicly available models for a wide range of problem types to help you get started with machine learning. Understanding customer behavior is top of mind for every business today. Gaining insights into"
-    publishedDateTime: 2023-01-17T18:49:12Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/churn-prediction-using-multimodality-of-text-and-tabular-features-with-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 76
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/17/churn-prediction-multi-modality.jpg"
-        width: 1563
-        height: 781
-        isCached: true
   - title: "AWS Makes it Simpler to Share ML Models and Notebooks with Amazon SageMaker JumpStart"
     excerpt: "SageMaker JumpStart also provides access to large-scale machine learning models with billions of parameters, which can be used for tasks like article summarization and generating text, images, or ..."
     publishedDateTime: 2023-01-19T00:00:00Z

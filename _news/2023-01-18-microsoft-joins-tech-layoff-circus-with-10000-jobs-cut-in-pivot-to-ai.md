@@ -67,15 +67,6 @@ related:
         width: 1500
         height: 900
         isCached: true
-  - title: "ChatGPT coming to Azure: New integration shows how Microsoft will leverage OpenAI partnership"
-    excerpt: "Having trouble reliably accessing OpenAI’s ChatGPT? Microsoft has a solution. The tech giant says it will soon make the generative AI chat technology available as part of its Azure OpenAI… Read More"
-    publishedDateTime: 2023-01-17T18:32:00Z
-    webUrl: "https://www.geekwire.com/2023/chatgpt-coming-to-azure-new-integration-shows-how-microsoft-will-leverage-openai-partnership/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 68
   - title: "Microsoft announces general availability of Azure OpenAI Service"
     excerpt: "Large language models are quickly becoming an essential platform for people to innovate, apply AI to solve big problems, and imagine what’s possible. By Eric Boyd, corporate vice-president: AI platform at Microsoft Today,"
     publishedDateTime: 2023-01-18T08:48:00Z

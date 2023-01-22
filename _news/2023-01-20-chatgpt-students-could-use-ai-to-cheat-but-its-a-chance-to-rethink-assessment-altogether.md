@@ -90,22 +90,6 @@ related:
         width: 553
         height: 276
         isCached: true
-  - title: "Microsoft May Add ChatGPT To Azure Cloud Services ‘Soon’: Report"
-    excerpt: "Microsoft has said it will add OpenAI’s artificial intelligence (AI) chatbot ChatGPT to its cloud-based Azure service “soon”."
-    publishedDateTime: 2023-01-17T18:43:00Z
-    webUrl: "https://news.abplive.com/technology/microsoft-chatgpt-openai-azure-cloud-services-details-1576356"
-    ampWebUrl: "https://news.abplive.com/technology/microsoft-chatgpt-openai-azure-cloud-services-details-1576356/amp"
-    cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/technology/microsoft-chatgpt-openai-azure-cloud-services-details-1576356/amp"
-    type: article
-    provider:
-      name: news.abplive
-      domain: abplive.com
-    quality: 74
-    images:
-      - url: "https://feeds.abplive.com/onecms/images/uploaded-images/2023/01/17/2fe50d465ef475dff9c77c88d4b615261673979897891295_original.png"
-        width: 720
-        height: 540
-        isCached: true
   - title: "Adani is hooked on ChatGPT, says race for AI to get complex as chip war"
     excerpt: "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amounts of information to generate natural-sounding text on virtually anything - from crafting jokes to writing ad copy,"
     publishedDateTime: 2023-01-20T11:35:00Z
@@ -153,20 +137,6 @@ related:
       - url: "https://imgnew.outlookindia.com/public/uploads/articles/2019/10/29/Adani1_20170111_350_630.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Microsoft Announces GA of Azure OpenAI Service, ChatGPT on Way"
-    excerpt: "Microsoft has announced the general availability of Azure OpenAI Service, the result of a partnership with OpenAI whose ChatGPT generative AI application has created a sensation since its lat November launch that generated 1 million-plus downloads in its first week."
-    publishedDateTime: 2023-01-17T17:07:00Z
-    webUrl: "https://insidehpc.com/2023/01/microsoft-announces-ga-of-azure-openai-service-chatgpt-on-way/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 69
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/01/Eric-Boyd-Microsoft-0123.jpg"
-        width: 300
-        height: 300
         isCached: true
   - title: "Microsoft rolling out Azure OpenAI service with access to ChatGPT soon"
     excerpt: "American tech giant Microsoft is all set to roll out Azure OpenAI service this week which will allow businesses to integrate tools like DALL-E into their own c"
@@ -276,20 +246,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
-  - title: "ChatGPT coming soon to Azure OpenAI service — with guardrails"
-    excerpt: "Microsoft on Monday announced the general availability of Azure OpenAI Service as part of its ongoing partnership with OpenAI. Businesses will soon have access to Chat"
-    publishedDateTime: 2023-01-17T18:49:00Z
-    webUrl: "https://www.ciodive.com/news/Microsoft-OpenAI-ChatGPT-Azure/640523/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 54
-    images:
-      - url: "https://www.ciodive.com/imgproxy/gAriKtGQYhK2XyclUlYaZMu9mPmhu5i-0UQsi3pM8aI/crop:6440:3481/g:nowe:0:811/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk2NzIxMDg1Ni5qcGc.jpg"
-        width: 770
-        height: 364
-        isCached: true
   - title: "Microsoft Azure will be adding ChatGPT to its cloud services soon"
     excerpt: "Microsoft announced the broad availability of its Azure OpenAI Service and customers will also be able to access ChatGPT."
     publishedDateTime: 2023-01-19T00:15:00Z
@@ -343,15 +299,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 49
-  - title: "Nick Cave really doesn't like AI bot ChatGPT"
-    excerpt: "Cave has a famously close relationship with his fans, one of whom sent a song \"written\" by ChatGPT \"in the style of Nick Cave.\" The whole blog from Cave is worth reading, but among some wonderful and wise observations,"
-    publishedDateTime: 2023-01-17T18:01:00Z
-    webUrl: "https://mashable.com/article/nick-cave-chatgpt"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 47
   - title: "Adani, a ChatGPT user, claims that the race for AI will become as complex as the chip battle"
     excerpt: "Adani, a ChatGPT user, claims that the race for AI will become as complex as the chip battle - Gautam Adani, the richest man in Asia, is addicted to ChatGPT, a tool that scours large quantities of"
     publishedDateTime: 2023-01-21T04:20:00Z

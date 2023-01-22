@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/01/17/microsoft-wants-to-put-c
 webUrl: "https://www.fool.com/investing/2023/01/17/microsoft-wants-to-put-chat-gpt-style-ai-tools-in/"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1500
         height: 900
         isCached: true
-  - title: "ChatGPT coming to Azure: New integration shows how Microsoft will leverage OpenAI partnership"
-    excerpt: "Having trouble reliably accessing OpenAI’s ChatGPT? Microsoft has a solution. The tech giant says it will soon make the generative AI chat technology available as part of its Azure OpenAI… Read More"
-    publishedDateTime: 2023-01-17T18:32:00Z
-    webUrl: "https://www.geekwire.com/2023/chatgpt-coming-to-azure-new-integration-shows-how-microsoft-will-leverage-openai-partnership/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 68
   - title: "Microsoft Joins Tech Layoff Circus With 10,000 Jobs Cut in Pivot to AI"
     excerpt: "Microsoft is planning to lay off 10,000 workers through March, joining a slew of tech companies in cutting down after a pandemic hiring boom, The New York Times reports. The company’s chief executive,"
     publishedDateTime: 2023-01-18T14:53:00Z

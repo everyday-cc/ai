@@ -49,20 +49,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Churn prediction using multimodality of text and tabular features with Amazon SageMaker Jumpstart"
-    excerpt: "Amazon SageMaker JumpStart&nbsp;is the Machine Learning (ML) hub of SageMaker providing pre-trained, publicly available models for a wide range of problem types to help you get started with machine learning. Understanding customer behavior is top of mind for every business today. Gaining insights into"
-    publishedDateTime: 2023-01-17T18:49:12Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/churn-prediction-using-multimodality-of-text-and-tabular-features-with-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 76
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/17/churn-prediction-multi-modality.jpg"
-        width: 1563
-        height: 781
-        isCached: true
 
 secured: "2a5JzcuB/Q258JAJxh8/3fiBlsUnlF6dRut6/uFNAsEzhZzeB2oORiSVBS3VdtqnqHrZWxTgf+OuwCSgl3DwCSG27PCGCy90esID/WezXlas+TUnQn5kLrRQwPtsVf5bIQub5Tcm0AaSAgl5OBq3j7eYTofItZ9l99cGeqZCSUtTNVxy21fS+BRQPihR5i0spuBTvjCYvmsKJdshaza5epdOd96mhZsC083yfDDFxciLNkucfmwJwGgRCgrBh9rQvQ+V2jusSKKOCkrN1efFA/tHBNBE4n28AS2jr9GiqJCv62VQpkkZO1gFHhxXtRPkD2YnRlmsKf5vglbeVDDqN5pArb8NPc3EGP44+xCdyZE=;8EFnmkAmVKZBoFP+C6GuNw=="
 ---
