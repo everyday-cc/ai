@@ -77,20 +77,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft Is Playing the Long Game in Artificial Intelligence"
-    excerpt: "The company's cloud resources, business customers, and large amount of data resources make it a perfect partner to improve the artificial intelligence models and create a business model for it. Travis Hoium covers why Microsoft isn't doing this for ..."
-    publishedDateTime: 2023-01-17T12:48:00Z
-    webUrl: "https://www.fool.com/investing/2023/01/17/microsoft-is-playing-the-long-game-in-artificial-i/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/716716/microsoft-openai.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Golden Age Of Artificial Intelligence Underway: Microsoft Chief Nadella"
     excerpt: "An Indian farmer recently used a ChatGPT interface to access an opaque government programme via the internet despite knowing only a local dialect, Microsoft chief Satya Nadella said on Wednesday to underline that the world is entering a golden age of artificial intelligence."
     publishedDateTime: 2023-01-18T22:26:00Z
@@ -159,20 +145,6 @@ related:
       - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2023/01/microsoft-azure-openai-63c6d3030e5f1-sej.png"
         width: 1600
         height: 840
-        isCached: true
-  - title: "AI tools will be built into all Microsoft products, says CEO Satya Nadella"
-    excerpt: "Microsoft announced the general availability of Azure OpenAI Service as part of its partnership with OpenAI. More businesses can now apply for access to GPT-3.5, Codex, DALL-E 2, and other AI models."
-    publishedDateTime: 2023-01-17T12:28:00Z
-    webUrl: "https://www.windowscentral.com/microsoft/ai-tools-will-be-built-into-all-microsoft-products-says-ceo-satya-nadella"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 52
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/tWExjNvfviRukeJYqaPT8K-1200-80.jpg"
-        width: 810
-        height: 456
         isCached: true
   - title: "Microsoft is working on an AI called VALL-E that can clone your voice from a 3-second audio clip"
     excerpt: "The tech giant's new AI project comes after its plans to invest $10 billion in OpenAI's ChatGPT. VALL-E is a text-to-speech AI tool that can mimic voices."

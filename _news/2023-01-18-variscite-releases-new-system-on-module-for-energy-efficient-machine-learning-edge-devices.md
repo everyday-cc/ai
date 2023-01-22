@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2023/01/17/9744585.htm"
 webUrl: "https://it.tmcnet.com/news/2023/01/17/9744585.htm"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Variscite Accelerates Edge Device Machine Learning With New System On Module – VAR-SOM-MX93"
-    excerpt: "Variscite, a leading worldwide System on Module (SoM) designer, developer and manufacturer, today announced a new,"
-    publishedDateTime: 2023-01-17T11:42:00Z
-    webUrl: "https://www.electronicsforu.com/press-releases/variscite-accelerates-edge-device-machine-learning-with-new-system-on-module-var-som-mx93"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 29
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/01/VAR-SOM-MX93-Image.jpg"
-        width: 1056
-        height: 518
-        isCached: true
 
 secured: "QloBCqLXEkh8HiFmyYFIW3o+nz05gEvobpJl05AIli1beYBjANDzX7wSoZQ+8itbFJ4cEXp5a8ZkZ78IfzavNVNnxY+qRaBkeQJ0BWdjknuIz3N75pdRIqPK7RFzATiaiEaYmPZJnsxfYDG4f+/d+sZgxRciIpy0PvOe6Ts0bNw+OaHlPIbGZvZqHtVBkQf0Hg0nvxr3yao3LuF6i6yVj10mgPYgBrx0f9TDB2kWVhfmoducOGn2i4pjDxicPKyBFNHLWdDBByEBR1h/AGXkhrnStCeBfpate7dBOYqmSubQM+kbeEjj3/2rom1TQAQ6GdwsWo++RXvQXZMJwMCK1VN1+7flsFh82j2lHioQEeU=;pw453ZRGfFK5s/4PdKTLIg=="
 ---

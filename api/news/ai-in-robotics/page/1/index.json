@@ -382,7 +382,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-production-growth-demand-and-supply-analysis-2023-to-2029-including-103-pages-report-2023-01-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 323,
+      "heat": 313,
       "tags": null,
       "images": [
         {
@@ -1225,10 +1225,10 @@
     {
       "path": "_news/2023-01-10-ai-powered-robot-lawyer-will-be-first-of-its-kind-to-represent-defendant-in-court.md",
       "title": "AI-powered \"robot\" lawyer will be first of its kind to represent defendant in court",
-      "excerpt": "Spotlight on artificial intelligence's ChatGPT at CES 2023 tech show 07:26 A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month.",
+      "excerpt": "A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month. Joshua Browder, CEO of DoNotPay, said the company ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/sacramento/news/ai-powered-robot-lawyer-takes-its-first-court-case/?intcid=CNM-00-10abd1h",
-      "originalUrl": "https://www.cbsnews.com/sacramento/news/ai-powered-robot-lawyer-takes-its-first-court-case/?intcid=CNM-00-10abd1h",
+      "webUrl": "https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
+      "originalUrl": "https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1245,9 +1245,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/sacramento/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
-      "publishedDateTime": "2023-01-09T10:38:00-08:00",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
+      "publishedDateTime": "2023-01-09T09:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CBS News",

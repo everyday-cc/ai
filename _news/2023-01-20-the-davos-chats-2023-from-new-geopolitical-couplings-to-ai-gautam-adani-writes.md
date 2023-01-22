@@ -35,6 +35,20 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Davos 2023: Meta sees promise in generative AI, including for Instagram filters"
+    excerpt: "Generative artificial intelligence, the umbrella technology behind the popular chatbot ChatGPT, has interesting applications for social media, the chief product officer for Facebook parent Meta Platforms Inc told"
+    publishedDateTime: 2023-01-22T04:43:00Z
+    webUrl: "https://www.asiaone.com/digital/davos-2023-meta-sees-promise-generative-ai-including-instagram-filters"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 35
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jan2023/22012023_dog_meta%20ai.jpg?itok=DSsTD0jE"
+        width: 800
+        height: 567
+        isCached: true
 
 secured: "UNoF0fH7hz9nH0o/rQLgz2sjz+wx1j9OTVIvEPAFePsZ9SYyH1zSaMvWTFybF2LrDmqsbnXhROTSjDrfl6npvtFS+E5Y596fQ1Lh+TbL3Qp7VWQ0cSyCe0Xz0mh6CAyJrQCb42U0LLIRwZL8se1kbVnDGlNS4TR2bQjOXHJmRvm2Sxj5i4YZ/TYv4m53gNCKd8a48q0WOlfpPc+xqWzd+cAKDOf3ddT1xdIM+d1WVZwUTlGXZvfqTLW6JEo+v51SufpAAY9jFEgBXCqdFbVRvHcfyqzbVvD2Z97abmL6wwme3FUjNhFh+ws1pn4U7vD3PNLTV2zf7yGjaSF107S7orpMLfP2YEQrrfHQvUM2j20xnHIa/oPhsjpaHpO5n7iZiRyRQMjeIy0Lni80hgX0ZpDLWIK+fKLVoPS4knl0XhUPGPI67ICdoxH/CdRn5YkSjwvRyGBTm9jGgrY6FhQjKdTTp1uEeXgkwU8qQm3FHRbpcdOaFKDoovKItDsGKl99J29dQfkLwdK/gmCKlhSBPw==;A4zztcTynEq+DK0UmCAnLg=="
 ---

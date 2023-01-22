@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/davos-2023-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/davos-2023-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-123012000936_1.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Business Standard
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Davos 2023: Meta sees promise in generative AI, including for Instagram filters"
+    excerpt: "Generative artificial intelligence, the umbrella technology behind the popular chatbot ChatGPT, has interesting applications for social media, the chief product officer for Facebook parent Meta Platforms Inc told"
+    publishedDateTime: 2023-01-22T04:43:00Z
+    webUrl: "https://www.asiaone.com/digital/davos-2023-meta-sees-promise-generative-ai-including-instagram-filters"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 35
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jan2023/22012023_dog_meta%20ai.jpg?itok=DSsTD0jE"
+        width: 800
+        height: 567
+        isCached: true
   - title: "The Davos Chats 2023: From New Geopolitical Couplings To AI — Gautam Adani Writes"
     excerpt: "Onshoring, self-reliance, energy independence, and building resilience in supply chains is as mandatory as is local job creation, writes Gautam Adani in The Davos Chats – 2023."
     publishedDateTime: 2023-01-20T12:49:00Z

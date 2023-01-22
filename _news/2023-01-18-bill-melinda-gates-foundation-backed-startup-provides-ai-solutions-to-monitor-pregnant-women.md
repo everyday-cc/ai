@@ -25,17 +25,6 @@ images:
     height: 881
     isCached: true
 
-related:
-  - title: "Fintech Firm Divilo Selects ThetaRay AI Solution to Monitor Payments for Financial Crime"
-    excerpt: "Divilo, a Fintech providing B2B financial services, teams up with ThetaRay, a leading provider of AI-powered transaction monitoring tech."
-    publishedDateTime: 2023-01-17T12:28:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/01/201064-fintech-firm-divilo-selects-thetaray-ai-solution-to-monitor-payments-for-financial-crime/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 10
-
 secured: "IZmIbfLxf6fmnzVqHiikAwiWmI3kvzYPktAKXsaahaKKylt58KBiyXONj+T5csQ08JLIDyriGGos3LrpN5kzuqFRdJeRF+/8DRNLbHZewI6KkI7Dm+agdyVyobJIJ1tJXI465/z9wqN+rOfPERjYGnNufm0NBxC94MINlNJgFrLG4d1OuHH0g0JAFBEiIESMU9nFKQVC6A0c2FKANFak8TNJN+MIbETQ8HEePruJSkemj9P7dO1aPZpgenw0Ee/Y+rmXqsF+xMy+jkIrOzdTOy12V/2adr/mzXv1jVuQPstX+1JURQlJ2Aq5KMHrsZGx3jmU+DDa8e9QVdIotjGQ5OFeli5gR5NP/AXgLZA8ugQ=;kdSdo8hDT3rUzyZTfihOrQ=="
 ---
 

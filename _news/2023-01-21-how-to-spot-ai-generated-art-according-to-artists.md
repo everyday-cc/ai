@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/cartoon_dynamo_hero_main-800x450.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Achieving reliable generative AI"
+    excerpt: "Generative AI systems like DALL·E 2 and ChatGPT are fun. Here are some ways we'll be able to make them reliable and truly useful."
+    publishedDateTime: 2023-01-20T02:07:00Z
+    webUrl: "https://venturebeat.com/ai/achieving-reliable-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/achieving-reliable-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/achieving-reliable-generative-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-robot_drawing_AI-image_text-to-image_generative-ai_180822246.jpg?w=1200&strip=all"
+        width: 1200
+        height: 900
         isCached: true
   - title: "AI art generators face separate copyright lawsuits from Getty Images and a group of artists"
     excerpt: "Three artists have launched a class action against the companies behind Stable Diffusion, Midjourney, and DreamUp."

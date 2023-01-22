@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Masdar City Free Zone and Amazon Web Services collaborate to accelerate growth of UAE start-ups"
-    excerpt: "Masdar City Free Zone start-ups will gain access to Amazon Web Services Activate as well as technical support to help build and scale their companies"
-    publishedDateTime: 2023-01-17T11:27:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/masdar-city-free-zone-and-amazon-web-services-collaborate-to-accelerate-growth-of-uae-start-ups-tf6150u1"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/masdar-city-free-zone-and-amazon-web-services-collaborate-to-accelerate-growth-of-uae-start-ups-tf6150u1?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/masdar-city-free-zone-and-amazon-web-services-collaborate-to-accelerate-growth-of-uae-start-ups-tf6150u1?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 27
   - title: "AWS And Masdar City Free Zone Collaborate To Accelerate Growth Of UAE Startups"
     excerpt: "AWS and Masdar City Free Zone Collaborate to Accelerate Growth of UAE Startups . Masdar City Free Zone start-ups will gain access to AWS Activate and ac"
     publishedDateTime: 2023-01-19T13:59:00Z

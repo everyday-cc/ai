@@ -62,6 +62,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Achieving reliable generative AI"
+    excerpt: "Generative AI systems like DALL·E 2 and ChatGPT are fun. Here are some ways we'll be able to make them reliable and truly useful."
+    publishedDateTime: 2023-01-20T02:07:00Z
+    webUrl: "https://venturebeat.com/ai/achieving-reliable-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/achieving-reliable-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/achieving-reliable-generative-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-robot_drawing_AI-image_text-to-image_generative-ai_180822246.jpg?w=1200&strip=all"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Getty Images Has Started Legal Proceedings Against an AI Generative Art Company For Copyright Infringement"
     excerpt: "Getty announced in a press release on Tuesday that it began legal proceedings against AI company Stability AI for intellectual property infringement."
     publishedDateTime: 2023-01-18T17:33:00Z

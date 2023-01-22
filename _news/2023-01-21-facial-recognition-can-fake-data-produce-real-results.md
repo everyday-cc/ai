@@ -25,44 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: How facial recognition will transform airport security"
-    excerpt: "Imagine using technology that never forgets a face, while improving airport security and shortening lines. Such technology exists and may be coming to an airport near you. Every flyer over the past two decades knows that airport security procedures involve a lot of unpacking,"
-    publishedDateTime: 2023-01-17T12:49:00Z
-    webUrl: "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/"
-    ampWebUrl: "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/amp/"
+  - title: "Individuals barred from top NYC venues slam use of facial recognition: ‘Slippery slope’"
+    excerpt: "Kelly Conlon, who was kept from seeing the Rockettes, and Sam Davis, who was barred from attending a Rangers game, speak out against MSG Entertainment and James Dolan for their use of facial recognition on 'America's Newsroom."
+    publishedDateTime: 2023-01-20T16:50:00Z
+    webUrl: "https://www.foxnews.com/video/6318967719112"
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 91
+      name: Fox News
+      domain: foxnews.com
+    quality: 61
     images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/01/OPED-TSA-FACIAL-RECOGNITION-COMMENTARY-TB.jpg?w=1024&h=736"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a59fcf2c-07db-48d9-8cb6-3d4e5c54cb91/c444767f-fa42-4280-b081-73c50a1754d4/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
         width: 1024
-        height: 735
+        height: 512
         isCached: true
-  - title: "(Opinion) Sheldon Jacobson: How facial recognition will transform airport security"
-    excerpt: "Imagine using technology that never forgets a face, while improving airport security and shortening lines. Such technology exists and may be coming to an airport near you. Every flyer over the past two decades knows that airport security procedures involve a lot of unpacking,"
-    publishedDateTime: 2023-01-18T14:00:00Z
-    webUrl: "https://www.greeleytribune.com/2023/01/18/opinion-how-facial-recognition-will-transform-airport-security-checkposts/"
+  - title: "MSG faces backlash for using facial recognition technology"
+    excerpt: "Sen. Kristen Gonzalez joined advocates sounding off last weekend, demanding that MSG Entertainment seize the use of the technology on fans."
+    publishedDateTime: 2023-01-21T07:14:00Z
+    webUrl: "https://brooklyn.news12.com/msg-faces-backlash-for-using-facial-recognition-technology"
+    ampWebUrl: "https://brooklyn.news12.com/amp/msg-faces-backlash-for-using-facial-recognition-technology"
+    cdnAmpWebUrl: "https://brooklyn-news12-com.cdn.ampproject.org/c/s/brooklyn.news12.com/amp/msg-faces-backlash-for-using-facial-recognition-technology"
     type: article
     provider:
-      name: The Greeley Tribune
-      domain: greeleytribune.com
-    quality: 45
-  - title: "Opinion: Artificial intelligence can’t reproduce the wonders of original human creativity"
-    excerpt: "The biggest story of the year – the story we should all be paying attention to – is the increasing power of artificial intelligence. Computer code can write itself, chatbots can generate academic papers,"
-    publishedDateTime: 2023-01-18T10:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/18/opinion-artificial-intelligence-cant-reproduce-the-wonders-of-original-human-creativity"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 28
+      name: News 12 Networks
+      domain: news12.com
+    quality: 59
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/01/18/1906846.jpg"
-        width: 1240
-        height: 793
+      - url: "https://images.ctfassets.net/3kqcuzntcg31/6MoUTJYfbgBxQxVY46j4WD/a5ea15e7a69faaa364b96a99ef9d8b77/3b96f50a-c2f9-4d18-afe0-ff8ec91a49a6.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "5QoWrEAlD3aM7D6A2+w0bH1owRbYP9qzIBOsUdHNlgkPGwSC17FEO5NMjdoKCIT5GZiHnuQAcBQnZ/4IWwbVRQB2RbmLSYnlguy1/LhsJJfyAeapXgOvKefGVT/stgrfORB4D0KcoNr7Zt+mYunsXDGRNlZJTbXc+DjdFTvkoIwfQsbk6D+ffxpTmi6fJ+YpLEfkjJuLZQTebfedsaog4IfPYOxPHUIK9zlM3v/5gtZJZYru0VzLmdp/lLDjlOxRh+9clkLZSaVEvqq+tyEjFAV4RV+m2ncRNmyiQkDaKJDGqB+tH8lqT8UL9rXJ4G9dqSwyPG8v1WyLB29jk4p9EQrfeUuRGMClfLoSkCMo4aFV36zUOVXvwLATcOAZyjdvcQrDeY/R+WyEO9pXEXlJlC3rnX7YRumgr5ES1bXtmTst58B5NAKtOXOwJpNCWjKaZDtglEOAYxQjzr5iblsK2VX6wSHC6V8idOL96JeGsRfoJokte22azed8OIscmLtu2FMKcDgQCEu5bs5sywdAbQ==;LO4DUSVdM1mR4zAgU1oneg=="

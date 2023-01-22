@@ -301,20 +301,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 15
-  - title: "Graphics Processing Unit (GPU) Market Size Outlook Rising Demand, Share, Trends, Growth, Opportunities And Top Key 2023-2033"
-    excerpt: "Market Overview  <br />The Graphics Processing Unit (GPU) market was valued at USD 20.62 billion and is expected to reach USD 1"
-    publishedDateTime: 2023-01-17T11:30:00Z
-    webUrl: "https://menafn.com/1105437873/Graphics-Processing-Unit-GPU-Market-Size-Outlook-Rising-Demand-Share-Trends-Growth-Opportunities-And-Top-Key-2023-2033"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 12
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?519542"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Research and Markets: FLAP Data Center Market 2022 to 2027: Investment Analysis & Growth Opportunities - ResearchAndMarkets.com"
     excerpt: "The \"FLAP Data Center Market Investment Analysis Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The FLAP data center market is expected to grow at a CAGR"
     publishedDateTime: 2023-01-17T16:37:00Z

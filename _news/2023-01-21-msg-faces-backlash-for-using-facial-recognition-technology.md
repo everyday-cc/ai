@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Facial recognition: Can fake data produce real results?"
+    excerpt: "Diversifying training datasets with computer-generated faces may help break down bias in the technology, but one expert says using synthetic images is a step too far."
+    publishedDateTime: 2023-01-20T21:46:00Z
+    webUrl: "https://gcn.com/emerging-tech/2023/01/facial-recognition-can-fake-data-produce-real-results/382050/"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://cdn.gcn.com/media/img/cd/2023/01/20/01202023_levinson_facialrec2-3/860x394.jpg?1674251006"
+        width: 860
+        height: 394
+        isCached: true
 
 secured: "QvTOdOc+BGK0KxTYfj/cIy2j3DXCuuxfcgtS8NA6PaKyWKE9rYXoK3bUySvjjndkE7UlsE2p6MEz3eEL6InA70Ljn1kgk5OnWB15gtwtZ2NVL4XW1BWBbnfY/sIDTx9TL/APEARsX3egQACbnVpMveuMI3v8wUuPIrjQOA5lMOZTxZ5gsg7DpBdDCKXl69GjDg2t5Y7qNG7VJVGe2yHjm4g5TMMT3+qI7riM1et4p3nDm7Apu5l2P4hVeIngfuCA8Mql2f7PgylbUSSLf/NyPA/GH+e9u2jKTwIHpEK56Hy5Cnj65xyfpSx6aKfPvr4KfLude/Yoyhot5Nlnf/fV7e3Z2aR7tD8QPvDSfEHyZiDcKI3w/MuFAasxaFAABL9SdfNzYFqJw+fEJXTp8DNmqc35hwm2tz7gd7ZvPmOfFUGccKQbGu0iX3i6GAGoZ99moLcMSytHpbCnzrN5ciwQSnjTiZnSs2gbVdbunWN0t097i4Q+G3AfWmJG1/Z5Dk0xVeizkfith257R1bo2mg7LA==;vto0ZgYlk77C+TbvWC4uwQ=="
 ---

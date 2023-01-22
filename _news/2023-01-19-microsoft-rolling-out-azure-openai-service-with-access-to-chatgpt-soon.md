@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Microsoft adds ChatGPT to Azure OpenAI to support cloud services"
-    excerpt: "The latest integration of ChatGPT within Microsoft products builds on long-standing ties between the two firms"
-    publishedDateTime: 2023-01-17T12:04:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/cloud-computing/369875/microsoft-adds-chatgpt-to-azure-openai-support-cloud-services"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 99
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1673953350/itpro/ChatGPT_Microsoft_GettyImages-1246126800.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Google's big fear is AI running wild. After ChatGPT, it's too late."
     excerpt: "Google's top executives published a report calling for a responsible release of AI, months after rival AI bot ChatGPT has entered the mainstream."
     publishedDateTime: 2023-01-19T14:17:00Z
@@ -161,20 +147,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Microsoft to Add ChatGPT to Its Cloud-Based Azure OpenAI Service"
-    excerpt: "The tech giant has announced that it's now making the Azure OpenAI Service generally available after ... OpenAI tools for their own cloud applications, including the Dall-E AI art generator and the GPT-3.5 language system, Engadget reported."
-    publishedDateTime: 2023-01-17T12:25:00Z
-    webUrl: "https://www.tasnimnews.com/en/news/2023/01/17/2838506/microsoft-to-add-chatgpt-to-its-cloud-based-azure-openai-service"
-    type: article
-    provider:
-      name: Tasnim News Agency
-      domain: tasnimnews.com
-    quality: 69
-    images:
-      - url: "https://www.tasnimnews.com/Static/img/tasnim-main-logo.jpg"
-        width: 487
-        height: 423
-        isCached: true
   - title: "Microsoft Announces GA of Azure OpenAI Service, ChatGPT on Way"
     excerpt: "Microsoft has announced the general availability of Azure OpenAI Service, the result of a partnership with OpenAI whose ChatGPT generative AI application has created a sensation since its lat November launch that generated 1 million-plus downloads in its first week."
     publishedDateTime: 2023-01-17T17:07:00Z
@@ -217,15 +189,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft: We're bringing ChatGPT to the Azure cloud-computing service"
-    excerpt: "Microsoft has announced general availability of its Azure OpenAI Service, an offering related to its $1 billion investment in OpenAI, the maker of ChatGPT. That means more businesses can apply to use OpenAI's Azure-hosted and trained large language models (LLMs),"
-    publishedDateTime: 2023-01-17T12:49:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-were-bringing-chatgpt-to-the-azure-openai-cloud-computing-service/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
   - title: "Azure OpenAI and ChatGPT services are now available to enterprise customers"
     excerpt: "In a nutshell: Microsoft is opening access to machine learning-based models for Azure customers, giving businesses and enterprises the chance to employ the world's most advanced (and talked about) AI services created by OpenAI research laboratories."
     publishedDateTime: 2023-01-19T19:55:00Z
@@ -280,22 +243,6 @@ related:
       - url: "https://i.insider.com/63c0772f1f388b00195f4423?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Nick Cave says ChatGPT's AI attempt to write Nick Cave lyrics 'sucks'"
-    excerpt: "Nick Cave has written a scathing review of an artificial intelligence system that tried to write a song \"in the style of Nick Cave\". The Bad Seeds frontman responded after a fan sent him lyrics written by ChatGPT,"
-    publishedDateTime: 2023-01-17T11:47:00Z
-    webUrl: "https://bbc.co.uk/news/entertainment-arts-64302944.amp"
-    ampWebUrl: "https://bbc.co.uk/news/entertainment-arts-64302944.amp"
-    cdnAmpWebUrl: "https://bbc-co-uk.cdn.ampproject.org/c/s/bbc.co.uk/news/entertainment-arts-64302944.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17964/production/_128321669_gettyimages-463824907.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Why UK SME’s could be saving time and money by using AI tools like ChatGPT"
     excerpt: "SMEs need to find new and innovative ways to engage with customers and improve their bottom line. One solution to achieve these goals is the use of ChatGPT"

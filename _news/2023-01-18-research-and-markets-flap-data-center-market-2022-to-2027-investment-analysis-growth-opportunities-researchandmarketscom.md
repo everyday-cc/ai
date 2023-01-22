@@ -306,20 +306,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 14
-  - title: "Graphics Processing Unit (GPU) Market Size Outlook Rising Demand, Share, Trends, Growth, Opportunities And Top Key 2023-2033"
-    excerpt: "Market Overview  <br />The Graphics Processing Unit (GPU) market was valued at USD 20.62 billion and is expected to reach USD 1"
-    publishedDateTime: 2023-01-17T11:30:00Z
-    webUrl: "https://menafn.com/1105437873/Graphics-Processing-Unit-GPU-Market-Size-Outlook-Rising-Demand-Share-Trends-Growth-Opportunities-And-Top-Key-2023-2033"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 12
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?519542"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Pet Accessories Market Set To Reach Valuation Of USD 14.77 Billion By 2029, Size, Share, Demand, Future Growth, Challenges And Competitive Analysis'"
     excerpt: "By keeping in mind the end user's point of view ... Livestock), Application (Identification & Tracking; Behaviour Monitoring & Control; Facilitation, Safety & Security; Medical Diagnosis & Treatment), End-Use (Commercial; Household), Country (U.S ..."
     publishedDateTime: 2023-01-19T09:00:00Z

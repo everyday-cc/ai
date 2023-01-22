@@ -40,36 +40,6 @@ related:
         width: 2000
         height: 1600
         isCached: true
-  - title: "Microsoft says it will roll out ChatGPT on its own AI service after reports it will invest $10 billion into OpenAI"
-    excerpt: "Microsoft said Azure OpenAI is now generally available for everyone to use and it plans to make ChatGPT available through the service."
-    publishedDateTime: 2023-01-17T11:48:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-microsoft-accessible-on-its-platforms-soon-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-microsoft-accessible-on-its-platforms-soon-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-microsoft-accessible-on-its-platforms-soon-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 82
-    images:
-      - url: "https://i.insider.com/63c666fcbcd21800196b85eb?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Microsoft announces general availability of Azure OpenAI Service"
-    excerpt: "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation"
-    publishedDateTime: 2023-01-17T11:37:00Z
-    webUrl: "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 69
-    images:
-      - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
-        width: 788
-        height: 443
-        isCached: true
   - title: "Microsoft expands availability of Azure OpenAI Service"
     excerpt: "Microsoft announced that it’s expanding the general availability of Azure OpenAI, which allows more businesses to apply for access to AI models such as GPT-3.5, Codex and DALL•E 2."
     publishedDateTime: 2023-01-18T13:03:00Z
@@ -107,20 +77,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft's Azure OpenAI Service expands to general availability, will add ChatGPT soon"
-    excerpt: "Microsoft plans to add chatbot ChatGPT to its Azure cloud computing service. The company said that the Azure OpenAI Service, a program offering access to OpenAI's technology, was now entering general availability."
-    publishedDateTime: 2023-01-17T12:01:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsofts-azure-openai-service-expands-to-general-availability-will-add-chatgpt-soon/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 61
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/116_OpenAI_DALLE_2_-_An_impressio.2e16d0ba.fill-1200x630.png"
-        width: 1024
-        height: 538
-        isCached: true
   - title: "Microsoft Patches 4 SSRF Flaws in Separate Azure Cloud Services"
     excerpt: "Two of the vulnerabilities — in Azure Functions and Azure Digital Twins — required no account authentication for an attacker to exploit them."
     publishedDateTime: 2023-01-17T15:13:00Z
@@ -134,20 +90,6 @@ related:
       - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc3971b0cadba779c/63517ee229eafd0f926dd465/azure_Budrul_Chukrut_shutterstock.jpg"
         width: 1000
         height: 703
-        isCached: true
-  - title: "Microsoft to offer ChatGPT at industrial scale via its Azure services"
-    excerpt: "Microsoft's Azure OpenAI service promises the world's most advanced AI model with industrial-grade uptime and computing infrastructure."
-    publishedDateTime: 2023-01-17T12:58:00Z
-    webUrl: "https://interestingengineering.com/innovation/chatgpt-microsofts-azure-openai-services"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/01/17/image/jpeg/2oEtPbucAy3H6yRAT4if6r6Pn0Whj2SrBD0b5AE9.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Microsoft launches Azure OpenAI, ChatGPT coming ‘soon’"
     excerpt: "Microsoft's Azure OpenAI Service is now available for select partners and customers. The tech giant says it will add OpenAI's popular ChatGPT tool 'soon'."

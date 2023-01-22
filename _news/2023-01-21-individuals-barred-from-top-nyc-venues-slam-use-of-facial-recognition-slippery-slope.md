@@ -7,7 +7,7 @@ originalUrl: "https://www.foxnews.com/video/6318967719112"
 webUrl: "https://www.foxnews.com/video/6318967719112"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://images.ctfassets.net/3kqcuzntcg31/6MoUTJYfbgBxQxVY46j4WD/a5ea15e7a69faaa364b96a99ef9d8b77/3b96f50a-c2f9-4d18-afe0-ff8ec91a49a6.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Facial recognition: Can fake data produce real results?"
+    excerpt: "Diversifying training datasets with computer-generated faces may help break down bias in the technology, but one expert says using synthetic images is a step too far."
+    publishedDateTime: 2023-01-20T21:46:00Z
+    webUrl: "https://gcn.com/emerging-tech/2023/01/facial-recognition-can-fake-data-produce-real-results/382050/"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://cdn.gcn.com/media/img/cd/2023/01/20/01202023_levinson_facialrec2-3/860x394.jpg?1674251006"
+        width: 860
+        height: 394
         isCached: true
 
 secured: "IJf2OtRB4d7oWygVJcDTd5DjHxVYT+DggUFOWpNll43EctDfpH4t9ZWbrmVBYgRke7p3194rTA7VNKHFJuZYn/LzPD9ScTYHk36Csd6EdSYRO0eon5LfhlkVZHMc9R4AiS4sH+P8NvPC7qy4e2d2m3ZUKcGK/vdt2ArLqpV2r1ERePPm7rJMmjBoE8Sesb15DgFjsKt+dP0eobtsdo+LUgKq8WwN7oavoP48zOJ+M3XooaGg5xcbK2JA9bHooWnXM60g6ZRWT7ncxkr+yUalDWfPjG10P4EYX92Pt85ng9g6MlMsoxeUTVucWmEeVvsRIE85sOG9fGJZ/UUY/cEvHT0MBXsy6o4fKPRDNEZIjDflJF/xe8yHoR0JFRvO+3vvSkHWUmBg2q8cqRVHNMmeFaURT9Vo1qvhK6Z0TDCI3khtrjFbDqyVYzPuIu93kwdY6TPFoWyYiaTndLn/I4HC04o8o5+96Q06fQT5VKEHdAFc8TT5BPmHUkIyj1EoKM6akSQWZPNiHYjt7Lxtdc3Smw==;Yirh3BVlRNfhGSAqTbsC6A=="
