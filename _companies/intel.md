@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "IntelAI"
   url: "https://twitter.com/IntelAI"
-  followers: 27182
+  followers: 27181
 
 size: 10,001+ employees
 yearFounded: 1968
