@@ -9,8 +9,8 @@ ampWebUrl: "https://www.euronews.com/green/amp/2023/01/16/driverless-cars-the-da
 cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/green/amp/2023/01/16/driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Euronews
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars: The technology, history and future explained"
-    excerpt: "KN explains self-driving cars, the history and technology behind autonomous vehicles and where they are on the road."
-    publishedDateTime: 2023-01-17T10:01:00Z
-    webUrl: "https://www.cbc.ca/kidsnews/post/self-driving-cars-the-technology-history-and-future-explained"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 39
-    images:
-      - url: "https://www.cbc.ca/kidsnews/content/_card_resize/KNE_Self-DrivingCars_sitecard.png"
-        width: 860
-        height: 484
-        isCached: true
   - title: "Computers that power self-driving cars could be a big driver of global carbon emissions"
     excerpt: "Autonomous, or self-driving cars, sometimes still feel like a fixture of the future. Though significant advances have been made, there is still much more w | Technology"
     publishedDateTime: 2023-01-19T18:00:00Z

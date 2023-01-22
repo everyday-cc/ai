@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Human-Like Perception for Self-Driving Cars"
+    excerpt: "This ability is still lacking in the current algorithms that enable robots and self-driving vehicles to perceive their ... which is evaluated with the help of artificial intelligence. In this way, the vehicles are trained to identify other road users ..."
+    publishedDateTime: 2023-01-20T07:13:00Z
+    webUrl: "https://www.elektroniknet.de/international/human-like-perception-for-self-driving-cars.201546.html"
+    type: article
+    provider:
+      name: Elektronik Net
+      domain: elektroniknet.de
+    quality: 24
+    images:
+      - url: "https://cdn.weka-fachmedien.de/thumbs/media_uploads/images/1674120398-339-worjuklbi.jpg.600x315.png"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Self-driving cars could nearly double road congestion – report"
     excerpt: "LONDON: Motorists could be stuck in congestion nearly twice as bad as current levels if self-driving cars become commonplace, a UK government report warns."
     publishedDateTime: 2023-01-21T03:00:00Z

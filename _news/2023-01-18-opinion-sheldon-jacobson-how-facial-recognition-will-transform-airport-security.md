@@ -36,22 +36,6 @@ related:
         width: 1024
         height: 735
         isCached: true
-  - title: "Commentary: Facial recognition will transform airport security checkpoints"
-    excerpt: "The biggest criticism of facial recognition technology is the perceived invasion of privacy and the security of photos taken at checkpoints. Yet the photos being used to match your identity, like when applying for a passport or participating in the Global ..."
-    publishedDateTime: 2023-01-17T09:12:00Z
-    webUrl: "https://www.yakimaherald.com/opinion/commentary-facial-recognition-will-transform-airport-security-checkpoints/article_2b022e7c-952b-11ed-b00b-5bb3f6281b9d.html"
-    ampWebUrl: "https://www.yakimaherald.com/opinion/commentary-facial-recognition-will-transform-airport-security-checkpoints/article_2b022e7c-952b-11ed-b00b-5bb3f6281b9d.amp.html"
-    cdnAmpWebUrl: "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/commentary-facial-recognition-will-transform-airport-security-checkpoints/article_2b022e7c-952b-11ed-b00b-5bb3f6281b9d.amp.html"
-    type: article
-    provider:
-      name: Yakima Herald-Republic
-      domain: yakimaherald.com
-    quality: 89
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/6/b1/6b106f7e-952b-11ed-b53b-db389e490e67/63c48ac6bc23a.image.jpg?resize=1024%2C756"
-        width: 1024
-        height: 756
-        isCached: true
   - title: "Facial recognition: Can fake data produce real results?"
     excerpt: "Diversifying training datasets with computer-generated faces may help break down bias in the technology, but one expert says using synthetic images is a step too far."
     publishedDateTime: 2023-01-20T21:46:00Z

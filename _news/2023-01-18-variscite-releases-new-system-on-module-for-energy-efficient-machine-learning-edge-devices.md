@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Variscite releases SoM for accelerated machine learning on edge devices"
-    excerpt: "Variscite, a System on Module (SoM) designer, developer and manufacturer, has unveiled a new, SoM for efficient machine learning on edge devices. The VAR-SOM-MX93 is based on NXP’s i.MX 93 processor, the industry’s first implementation of the Arm ..."
-    publishedDateTime: 2023-01-17T09:29:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/variscite-releases-som-for-accelerated-machine-learning-on-edge-devices"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 39
-    images:
-      - url: "https://www.newelectronics.co.uk/media/1mmhjkt2/var-som-mx93-image.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Variscite Accelerates Edge Device Machine Learning With New System On Module – VAR-SOM-MX93"
     excerpt: "Variscite, a leading worldwide System on Module (SoM) designer, developer and manufacturer, today announced a new,"
     publishedDateTime: 2023-01-17T11:42:00Z

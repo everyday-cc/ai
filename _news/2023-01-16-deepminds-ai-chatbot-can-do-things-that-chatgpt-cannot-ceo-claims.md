@@ -2,9 +2,9 @@
 category: news
 title: "DeepMind’s AI chatbot can do things that ChatGPT cannot, CEO claims"
 excerpt: "Google’s DeepMind has pioneered advances in artificial intelligence since its founding in 2010, with the ultimate goal of creating a human-level AI (Alan Warburton / Better Images of AI / CC ..."
-publishedDateTime: 2023-01-16T15:59:00Z
-originalUrl: "https://www.independent.co.uk/tech/deepmind-ai-chatbot-chatgpt-openai-b2262862.html"
-webUrl: "https://www.independent.co.uk/tech/deepmind-ai-chatbot-chatgpt-openai-b2262862.html"
+publishedDateTime: 2023-01-16T15:35:00Z
+originalUrl: "https://www.independent.co.uk/tech/deepmind-ai-chatbot-chatgpt-openai-b2262862.html?amp;amp;amp;amp"
+webUrl: "https://www.independent.co.uk/tech/deepmind-ai-chatbot-chatgpt-openai-b2262862.html?amp;amp;amp;amp"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 900
     isCached: true
 
-secured: "PHGhcbbmoQ71X3bKVhs1eTv92BOS0HZbYUL/iqo1+V3fTnMH0bbMJjU540sa5HXOyd0PO+5nQl3gtY8ah/GJzuqsm6mGvr/AJTlUYwSeVeo/pc/nmLU83ye5YVA7GybJ9tWefzgEh+rthDWrtzvFmtG7kcqkaHMcLfCuVNlHECMJyaGXPZHr8Dhq10PTkr28SZsLC7+ckrOxaVaZM/nnBVZros8hjdSBowrd21zlQSlW2k80WxvJxnjBpdtW6mQ3zI/yfPWkYUE3n0Gtv/rO8hWdcSijjEBRTlW/wKXDlU1a4xpd0kndtHa702n5TTIav/B+n2RUrm/vBIGbUnDr4ocwmu1HRM0wPAPke9w5reo=;g3zscadDfekXbJKQA8WwOA=="
+secured: "NGr+V9LEJR733bkLjZ1IAMo+cvKszONLpklq2oJTblK1wz2rtcMbs66QlfDSOZZ3iX2KjywUMRAKnBkJx+TTWEz5B3+FCzx+O0OwMhqHADlMZxpDMVn5TBAJyR1MA0id05Kmmx87pYb0W6t56nXixKBCO0p4ruUT/QTMyIiQXp+FodCeA8usuXsRekGxO7uKzw7YcF1UbNxWgCxqaHUC4wrv9HJXVOmD9wy3jvOeC0bcehDJcrHqqr/ZwGyyu02t2XK3wtRQvHzS+T84mS1ak78drxPcWhuoamSWaQ6ID7PDeGebsEfMeK/2/ediwcHFBQH2V60UtA6W9dLYNVU8fQgWoKAzz2piVnJSoC1NNJU=;UENejzCVD5OCSVXUaXPGOw=="
 ---
 

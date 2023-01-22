@@ -108,20 +108,6 @@ related:
         width: 768
         height: 439
         isCached: true
-  - title: "Microsoft to add ChatGPT to its Azure OpenAI service"
-    excerpt: "One company that thinks it should is Microsoft, which has announced that it will feature in its Azure Open Ai service “soon”. Along with working closer with ChatGPT’s creators, OpenAI, Microsoft is also said to be readying a sizeable investment into ..."
-    publishedDateTime: 2023-01-17T09:26:00Z
-    webUrl: "https://htxt.co.za/2023/01/17/microsoft-to-add-chatgpt-to-its-azure-openai-service/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 69
-    images:
-      - url: "https://secure.gravatar.com/avatar/e85cb8c57c0a1dc75fe35470c3cc8eb8?s=300&d=mm&r=g"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Golden age of Artificial Intelligence is here, says Microsoft boss Satya Nadella"
     excerpt: "The cutting-edge chatbot ChatGPT is capturing the world's imagination. The new artificial intelligence site amassed 1 million users in just five days after its recent launch. It is but one of a dozen AI-driven so-called apps that are expected to transform human productivity and the future of work."
     publishedDateTime: 2023-01-19T05:35:00Z

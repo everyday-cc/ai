@@ -57,20 +57,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Microsoft launches Azure OpenAI service with ChatGPT coming soon"
-    excerpt: "The Azure OpenAI service features a number of AI models made by OpenAI including GPT-3.5, Codex, and DALL-E, so businesses and developers can utilize these systems in their own apps and workloads. Microsoft essentially packages up GPT-3."
-    publishedDateTime: 2023-01-17T10:38:00Z
-    webUrl: "https://www.theverge.com/2023/1/17/23558530/microsoft-azure-openai-chatgpt-service-launch"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 99
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/LFGIPvFaU7mprr1tUwGRwuNLbOk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24038602/acastro_STK109_microsoft.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Google's big fear is AI running wild. After ChatGPT, it's too late."
     excerpt: "Google's top executives published a report calling for a responsible release of AI, months after rival AI bot ChatGPT has entered the mainstream."
     publishedDateTime: 2023-01-19T14:17:00Z
@@ -119,22 +105,6 @@ related:
         width: 553
         height: 276
         isCached: true
-  - title: "Microsoft looks to ‘democratise’ AI with viral bot ChatGPT"
-    excerpt: "Software giant Microsoft has announced the general availability of Azure OpenAI Service in a move it says aims at “democratising artificial intelligence (AI)” in its ongoing partnership with start-up OpenAI, the company behind viral bot ChatGPT."
-    publishedDateTime: 2023-01-17T09:37:00Z
-    webUrl: "https://www.itweb.co.za/content/G98YdMLGdbP7X2PD"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/G98YdMLGdbP7X2PD"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98YdMLGdbP7X2PD"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 74
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/01/chatgpt-writing-2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft May Add ChatGPT To Azure Cloud Services ‘Soon’: Report"
     excerpt: "Microsoft has said it will add OpenAI’s artificial intelligence (AI) chatbot ChatGPT to its cloud-based Azure service “soon”."
     publishedDateTime: 2023-01-17T18:43:00Z
@@ -182,20 +152,6 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2022/12/chatbot-1019x573.jpg"
         width: 1019
         height: 573
-        isCached: true
-  - title: "Microsoft is Adding ChatGPT to Its New Azure Open AI Service"
-    excerpt: "Microsoft will soon expand access to ChatGPT through its new Azure OpenAI service, which is now generally available to developers."
-    publishedDateTime: 2023-01-17T10:30:00Z
-    webUrl: "https://www.thurrott.com/cloud/278435/microsoft-is-adding-chatgpt-to-its-new-azure-open-ai-service"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 69
-    images:
-      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/01/Microsoft-Azure-OpenAI.jpg"
-        width: 1066
-        height: 600
         isCached: true
   - title: "Microsoft to Add ChatGPT to Its Cloud-Based Azure OpenAI Service"
     excerpt: "The tech giant has announced that it's now making the Azure OpenAI Service generally available after ... OpenAI tools for their own cloud applications, including the Dall-E AI art generator and the GPT-3.5 language system, Engadget reported."
