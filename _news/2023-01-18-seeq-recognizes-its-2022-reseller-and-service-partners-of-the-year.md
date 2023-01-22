@@ -2,13 +2,10 @@
 category: news
 title: "Seeq Recognizes its 2022 Reseller and Service Partners of the Year"
 excerpt: "Annual partner awards, honoring excellence in delivering the next generation of process manufacturing improvements, announced at Seeq Global Partner Symposium in Las Vegas. LAS VE"
-publishedDateTime: 2023-01-18T15:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/01/18/9745322.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/01/18/9745322.htm"
+publishedDateTime: 2023-01-18T14:25:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/01/18/9745322.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/01/18/9745322.htm"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: TMCnet
@@ -18,28 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1985743/SEEQ_PARTNER_OF_THE_YEAR.jpg"
-    width: 343
-    height: 400
-    isCached: true
-
-related:
-  - title: "Seeq Recognizes Its 2022 Reseller and Service Partners of the Year"
-    excerpt: "Annual partner awards, honoring excellence in delivering the next generation of process manufacturing improvements, were announced at Seeq Global Partner Symposium in Las Vegas."
-    publishedDateTime: 2023-01-18T18:17:00Z
-    webUrl: "https://www.automation.com/en-us/articles/january-2023/seeq-recognizes-2022-reseller-service-parts-year"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 24
-    images:
-      - url: "https://www.automation.com/getmedia/50452299-0455-42f9-bf78-9afd0ca53436/Seeq-news-Jan-18-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
-
-secured: "N269upziqb1FeeVJqcNwmfpVj1LSYX1G8RfVTZouHBzGhBkPwISjT5SqOUDyocG9GOpYwQzUgXLJs1DIddcxYwAJTVCSHckNWoYSDW1BkdBWIgFB4WfbuvOioe4ERgvE62CN1Nlo/eua4EJpvFNfZJ86lAtdY++OCDKACyI7pdve0mP39q+Axz51XkQJ8vb4IzAwk5TBEaUkoanzzMa1dQJxEYjPcUwJpioiLjGOwx6U5ojVAxwg9fu6d4hHutmNJ4PPsAN7ZnPirCPdR6PKsytAV+uMDdBqszDKfQfT/RoFLxPh68n3woHL7p2O/G3sbWWyYufpMuyISlR+fR3cqdPGt/UVv24YZZnkIfPkxAw=;Bqwpb8+8LbfbMvAOB8hxnw=="
+secured: "9qSAVZ5NUlLFOvTglHhDOBZOh0doujiBJ4CPYrg4XX6MK7SJ8fYgZk76EJQZDy4Mw9zxestINZifgsRmtwpfmN0QBJZ8LxDYG0LxPVxa7CaKLuNnGg5akL39hR58GeiczrXj3P9aqNnTTYURi27mielHPYh25QR4haLN//3bk8Lw1O7cfGWXNJitVb6e/qeGpqI/7ZJVdS5tFItzd/SkPAgZSIlmdBtTANKr6uusaRf/Wc3gyPOEZtS7b0Sx59PkQ0l3AE9l3AtNbnuBV/4l6jLQsB+MV1H7Lm18gsvNeLLFH6oRvsWL90r7J6IyZsvGt+/NQFX69vy+hWXKH22EHRqDsvKKg5v6Dx2K9aACB6giC3LWZj72VwCR/QUVeyJg2oDfgGWCQRr0Zo4WafQvXP93jzlNX7zwwpUCVFGRKa1HIU+cY3sBz7HnvJLAWtV+DnvtGPQSzMYdNbb2ghmT8lyzQg9lfxuUNTRQEKVKDEBPiS7CN7ABDetVH3CcKiIiVIb0FoixnuJMMiJ7NZ7yNQ==;VmWG0CSiFiDyUI1R/soRDw=="
 ---
 

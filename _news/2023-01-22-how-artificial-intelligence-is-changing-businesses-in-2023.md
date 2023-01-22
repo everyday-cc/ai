@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - Natural Language Processing
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/01/uuuuuuuuuuuuuuuuuuuuuuu.png"
@@ -69,6 +71,6 @@ related:
         height: 600
         isCached: true
 
-secured: "BhRwMTK+QaQXT+MOCCQkBDNfA1e8THnmaFjebK/rRqrdBF41YxNtyCz5kPp7WxHjw1tCff7uKpwDrIUzFW42FByQ2OkrlZAvxLMEpG4c4qDFwGESNbonJDkMM8aMuVvwyYY/54G4qXKsjVyky07rqWlzPBLGYxPWatXmjm/khzEe6V9zqU5omx+g1RjdFi/yQeEImvmRo2PheNULITB4N0kOByipR6vWjJ4yMo+K82VIaka8nmLsQBwilRidRAw0PAEjbzGcweFBZF8KPC+Zfn318Q8uT02UGTX8n1RDV592kiqP3DuMy5UQSBEcfBrTvyT3SngVljklK68GAitZ78EW0iGXzkUgBCGJWoRNHh8=;VqA+Xbe0nfqaifm1g3wHFQ=="
+secured: "MYCMACZw34ezBjs6/qkavaeAJ4aMuTUVOZUgMZrnT2VayfyP8r1LqR2JacqEE2/fM4DBorgx8JcJNePFwt71oNhMvT7yN6mG8wrFcC2rc5xT32Ey3eLwhE5PO2pUP5VrrqcBnXb+QpNQ4OlxhMwcuxYFgxzTH8pXtmNz0V3kC11u5X22/aWBfjjxZuhTn0SOEZNje3cjuPaLzdB9uJjQN+DbEVTJhu0FdwRz3gen+pBS9TTwUjSXF/2ubPqVWhJZZPUS0avASIrygpsAYY/19Hc5TK19k2IsST3xINuL9kixzz5B3m/6t8N45wit1VOTayjxNJIEJODhU6Rt4B0trxtxFj7Oa1DJ3+WiJSzaOp9aukDxl/DQvCkqeXUDHYZ3qL72spJBwnpzBzltxjep8v6n2YvwTvqkb0zJIXkePmjjtIMXqKFD7Y0PUt86RnFYBLJnuLjJWowJOPRSPb/29DMrt3NILF8+FdIUi0ilm+Hsj+8AyjKpC592QbS3emt/kuqjEmirCWl75XYd8qS7qw==;NHek5IpkRxoiZto9zK3FtQ=="
 ---
 

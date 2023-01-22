@@ -2,30 +2,19 @@
 category: news
 title: "Deepfake AI-generated people will be among us by 2024 & they would impossible to detect, warns ex-White House chief"
 excerpt: "DEEPFAKE AI-generated people will be among us by 2024 and will be nearly impossible to detect, a former White House official has warned. Pictures created by artificial intelligence, increasingly"
-publishedDateTime: 2023-01-22T07:48:00Z
-originalUrl: "https://www.thesun.co.uk/tech/21086316/deepfake-ai-generated-people-impossible-detect/"
-webUrl: "https://www.thesun.co.uk/tech/21086316/deepfake-ai-generated-people-impossible-detect/"
-ampWebUrl: "https://www.thesun.co.uk/tech/21086316/deepfake-ai-generated-people-impossible-detect/amp/"
-cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21086316/deepfake-ai-generated-people-impossible-detect/amp/"
+publishedDateTime: 2023-01-22T07:47:00Z
+originalUrl: "https://www.thesun.ie/tech/10095113/deepfake-ai-generated-people-impossible-detect/"
+webUrl: "https://www.thesun.ie/tech/10095113/deepfake-ai-generated-people-impossible-detect/"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
-  name: The Sun
-  domain: thesun.co.uk
+  name: Irish Sun
+  domain: thesun.ie
 
 topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://www.thesun.co.uk/wp-content/uploads/2023/01/KH-COMP-FAKE-PEOPLE-v2.jpg?strip=all&quality=100&w=1500&h=1000&crop=1"
-    width: 1500
-    height: 1000
-    isCached: true
-
-secured: "HN5Zp7PAYMxY61xTPLDE04gw7k+bUJ8i7PtnErcQRPoqYtWf4YcAgEs+I6irTHccOFXxH9WlWLNnQP2wwFC1UV6Ijrjj6R25uEYu5yveLWBXmA0RPLY18VVnB6HrU2K5BU4wBskLREJDW3E03ttKeq1Og2CBfMSw8alu7aOH07m0wyHHnnM5CQWyAHK5HsnE+eMaPEAuLgdZkkzdtatA5rQSanLyRghu8kA8iw8t94u804fIM7DWqF0VfrhoGWbAZJDTFTUIJBKLMBsrZU7M4Gt0IqIqInzY3Yw7wmCCP7Qp3fl91HuY4+30GYFeBCyFFLdKvI8fGf8sXc1043nUY4bAKvKpBoGa43b99YP+cvOCOp6hOycAvhdEbG/7SXbCfFH+KDyH/N4A9CY4rXXmWkGTOT5JJLZMHh/C+76r8kMern5m4sisEKu632JCMmpZN2auFco/moMGU0J7yL7uTieSawSDQMk36qiDkP0kc3kuICjtIG0w67hut/lcdLTE9SqDgMcYQ8ouTg3lzbb0/A==;s5Ebo20faVUNUW33pkR9+A=="
+secured: "39Db2eS2lRdrBaDGaqSMr1dPjHc2pXaMgB4JVH/pFyuGV2Y0qdbs2TUUfSeGlQCV8b1+kDRXSk0BtS1p/BwrjMrTUnl2heFe/lV7x3/M9tkyWEmajRngdipsfChOv4/hgOP/Bl0kL2CpWbMeWB69s22eFucZyRepuUZIXvVSL5hcL1ehprJM4j08ubOd92isQ4tGDBSjShU0xOtKUIEsyjC4nOiXFW8ZpUdebYsMQSgz2KvG+2d02srNFZope2eDIs6gRr1CNKJY1DmaZ0O+yYke55IBNC0IJ2Z3j6bVA4uI+Zgu8oqtnrsY9DrB/sbLCYwm2LGYNNSW8AXus6yUJBgwhimwUtVlC/gUR9myh9xcddoA9IHf4nK3oeX7fu9TyipOj6wfCOvvwzaJzpOGLcljWSHo+EF10Zprrd0qqiiiXLscgViWBUlcRjBlgbEPYX7FDYSi4IwdZos18sUbxs5bBluYHiA9YzNWIC0EL9UbzaAfWX3pbVYZ4UEUpDe75ZlYOTo01TdhS08oIeTXrQ==;G0cvpBfuEYijHMH8inD6RA=="
 ---
 
