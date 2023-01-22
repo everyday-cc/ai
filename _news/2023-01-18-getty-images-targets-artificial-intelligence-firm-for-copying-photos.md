@@ -42,20 +42,6 @@ related:
         width: 1536
         height: 768
         isCached: true
-  - title: "Getty sues Stable Diffusion, and the future of AI art could be at stake"
-    excerpt: "Getty Images, the stock-image powerhouse, is suing Stability AI over its AI art generator in a copyright infringement case that could help decide the future of AI art."
-    publishedDateTime: 2023-01-17T19:40:00Z
-    webUrl: "https://www.pcworld.com/article/1475597/getty-sues-stability-ai-and-the-future-of-ai-art-could-be-at-stake.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 69
-    images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2023/01/1153158881_marilyn_monroe_in_the_style_of_andy_warhol-CMS-primary-2.png?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Getty Images targets AI firm for 'copying' photos"
     excerpt: "Stability AI runs a tool called Stable Diffusion that allows users to generate mash-up images from a few words of text, but the firm uses material it scrapes from the web often without permission. The question of copyright is still in dispute,"
     publishedDateTime: 2023-01-18T04:47:00Z
@@ -72,15 +58,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Getty Images suing the makers of popular AI art tool for allegedly stealing photos"
-    excerpt: "Getty Images announced a lawsuit against Stability AI, the company behind popular AI art tool Stable Diffusion, alleging the tech company committed copyright infringement."
-    publishedDateTime: 2023-01-17T19:48:00Z
-    webUrl: "https://edition.cnn.com/2023/01/17/tech/getty-images-stability-ai-lawsuit"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 41
 
 secured: "RUXkDg58Uzw56IlykQsDZltjbpDfM3bclxoFMsqeWGlSng2YYocx2mK31Y31xmsO2gTMHUSkKTt3OC1a1ov35warkEfxMFq4zG4YRTJYXTbnNgIdbKsp3sPfxYp50/xOkPKYBNGkwkcD0S+WubDfEuZl8SrbBnQbCOpraHmXkOSn2WuuPuuCDqvI45vgGiYSHcXb+dUD2SDuYPdXweW6KUdccUYmJ2OhN/3vKOnvuIuDyUtzH8lk01v93VF8PEwGU7LiYovRUKGXAkoCS6MrTA/T1hddY5tQJsfNJYr8lb+xzuyep039v02AiheKEctjQJhj78qNoh3JpvXj5L0uutXHjYoU11jX77nSCJNqCyI=;8Fvv00Dh/01NHA3ZwOSMvA=="
 ---

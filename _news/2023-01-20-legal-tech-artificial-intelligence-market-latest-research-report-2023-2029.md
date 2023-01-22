@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-latest-research-report-2023-2029-2023-01-20"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Research Task Force Votes to Send Final Report to Congress, President"
-    excerpt: "The task force’s report details a plan for the AI research resource initiative, including governance, funding, security and ethics on issues like AI bias."
-    publishedDateTime: 2023-01-17T19:16:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2023/01/ai-research-task-force-votes-send-final-report-congress-president/381851/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 18
 
 secured: "ECQH1AhNlpj8aZW8dX+zvnGoFTN34rzBor6MsjhISlCBL6UsyJ1ktTrTz8FS5swxkt7/Zo5fKbpASOzSQczoOIJbXTmkPstwuD4ZSo9iwUqezxvlBw1IUcKGpI8rhfnyA4uq2SkIwHIMhUyWhLZ12VJYNEKwJMY6OCYcxK3vP5Pu1rK1tSZG0kce9xEjGL4urh4D1KIxS55+10MGO9y6Ay30BzrntK1jyAOIvCg9OfZEN+VZ0DMBUIpau2yYtg5fLNGrqBckI4CtU0/Z45mn4Ma+xbjuBWRBO8/IefvS8Q6fB41uWu535nYC/+JxzSa8Q8Cg21mNkJoiLSXnFS5gnIFYYtCP3OZlkCrNEnSnDz8=;jWcYslohPI3kjhgqgsvUQg=="
 ---

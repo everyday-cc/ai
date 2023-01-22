@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Set up Amazon SageMaker Studio with Jupyter Lab 3 using the AWS CDK"
-    excerpt: "Amazon SageMaker Studio is a fully integrated development environment (IDE) for machine learning (ML) partly based on&nbsp;JupyterLab 3. Studio provides a web-based interface to interactively perform ML development tasks required to prepare data and build, train, and deploy ML models. In Studio, you"
-    publishedDateTime: 2023-01-17T20:36:05Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/set-up-amazon-sagemaker-studio-with-jupyter-lab-3-using-the-aws-cdk/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
   - title: "­­How CCC Intelligent Solutions created a custom approach for hosting complex AI models using Amazon SageMaker"
     excerpt: "This post is co-written by Christopher Diaz, Sam Kinard, Jaime Hidalgo and Daniel Suarez&nbsp; from CCC Intelligent Solutions. In this post, we discuss how CCC Intelligent Solutions (CCC) combined Amazon SageMaker with other AWS services to create a custom solution capable of hosting the types of complex"
     publishedDateTime: 2023-01-20T18:28:02Z

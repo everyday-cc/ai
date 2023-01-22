@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Lil Yachty Shared The Release Date And Creepy Cover Art For ‘Let’s Start Here,’ His Much-Anticipated New Album"
-    excerpt: "At long last, Lil Yachty has finally shared the release date for his long-anticipated fifth studio album. Today, the “Poland” rapper revealed that his new album, called Let’s Start Here will release later this month."
-    publishedDateTime: 2023-01-17T20:18:00Z
-    webUrl: "https://uproxx.com/music/lil-yachty-lets-start-here-new-album/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 0
 
 secured: "BIPfgxOEveOhjd6XXx3MFx4r7H+CgeWrthWMIQjSNJlfbd7mRWeeqSKrrxmOPFdTNU/T0TYizBiVvdkIsiGey4v95BQzngcbosJRRJ3O1BZzhKMiS2BQ1AD1n0IyaiF0DvDIGWsDPa2+uRK9gU2ScLmXbid40gm9RedyCpkNNCvxE7zShreAaR0AjQtbZhWei7L2jXqPs7PqtY73AooMlBRYOB/MRMshLHvCUrNPkPc/r+mK3ignchgCATY+L8NhD6HGbWQRhLMwN6/a++aVmX2IkRfNXtHk6g81MMj9bn417ulzfzJssRHuHChBa6vXbodlJ1LJ/8mxDmQtefsJYrJ6xlfB1atQF/IEXd335NolGqysjpKSzfMJKHiqpAlNtkwv/vEPdP8gkG7sAkocaXUeamVWducQyKau/8BEuqnna9MrKmY6aIxbvKecArXwGkuSzebB487STenKfG4ARfRefUHdqSbRK/SN7JG6o0/zENV4J2DRyQFHnNeikxqZ3sfhK4S/7/kP9I7CgSPpfw==;/6pqLcfkt2zGAoWr0a2jBA=="
 ---

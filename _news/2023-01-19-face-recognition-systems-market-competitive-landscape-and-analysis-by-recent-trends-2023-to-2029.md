@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Robots Market Research Report 2022 by Product Type, Application, Region And Global Forecast to 2030"
+    excerpt: "Jan 19, 2023 (Heraldkeepers) -- The Artificial Intelligence (AI) Robots Market is segmented on the Basis of Offering Type, Robot Type, Application Type and Regional Analysis. By Offering Type this ..."
+    publishedDateTime: 2023-01-19T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-report-2022-by-product-type-application-region-and-global-forecast-to-2030-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Microscopy Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
     excerpt: "Pages Report] Rising demand for Machinery & Equipment Industry will drive the Artificial Intelligence Microscopy segment growth over the next five years. Global Market Analys"
     publishedDateTime: 2023-01-18T02:11:00Z

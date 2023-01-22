@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Research Task Force Votes to Send Final Report to Congress, President"
-    excerpt: "The task force’s report details a plan for the AI research resource initiative, including governance, funding, security and ethics on issues like AI bias."
-    publishedDateTime: 2023-01-17T19:16:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2023/01/ai-research-task-force-votes-send-final-report-congress-president/381851/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 18
 
 secured: "ag67e1NJofGguqgHsDz7Gup9FzjBi9KK0i2kobXKXeD/t1y/0BKSFdWiGk7Uj51WkKILmTsloFBAI44IYbHiQnUY9Jk7Jbt6BCrZj2+dbM+/79D+jT7Zzh5x4IJZ1XZyUbCeH0v2Odn7+D04i8OpY7fvON6Rl3tblHz15AMeneua6xYoLmY48IxAjRAfgKg9h6hFiYPt33eMlm4LyrYbVWUfzxdhgZEKfUDAzglUVviso/FrKDPAP1maZ87kssnC8ZzsaFlOzLnnWnM8nH9WHE5j1CD8Mm9G35UVQBsJScl7Mj1Zqzfv4M5Q6v5/hxQF7lO/A/rKFdykmkCmzOZCsDXifYxsLzvMojE5SiP8gzk=;F8Xv5rleADXA0sE/sbKsmg=="
 ---

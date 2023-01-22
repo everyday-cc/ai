@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/the-morning-after-getty-images-sues-ai-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-getty-images-sues-ai-art-generator-121539563.html"
 type: article
 quality: 87
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Getty sues Stable Diffusion, and the future of AI art could be at stake"
-    excerpt: "Getty Images, the stock-image powerhouse, is suing Stability AI over its AI art generator in a copyright infringement case that could help decide the future of AI art."
-    publishedDateTime: 2023-01-17T19:40:00Z
-    webUrl: "https://www.pcworld.com/article/1475597/getty-sues-stability-ai-and-the-future-of-ai-art-could-be-at-stake.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 69
-    images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2023/01/1153158881_marilyn_monroe_in_the_style_of_andy_warhol-CMS-primary-2.png?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Getty Images targets AI firm for 'copying' photos"
     excerpt: "Stability AI runs a tool called Stable Diffusion that allows users to generate mash-up images from a few words of text, but the firm uses material it scrapes from the web often without permission. The question of copyright is still in dispute,"
     publishedDateTime: 2023-01-18T04:47:00Z
@@ -76,15 +62,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Getty Images suing the makers of popular AI art tool for allegedly stealing photos"
-    excerpt: "Getty Images announced a lawsuit against Stability AI, the company behind popular AI art tool Stable Diffusion, alleging the tech company committed copyright infringement."
-    publishedDateTime: 2023-01-17T19:48:00Z
-    webUrl: "https://edition.cnn.com/2023/01/17/tech/getty-images-stability-ai-lawsuit"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 41
 
 secured: "LqqwUwZfPzv6griQGHC4yILhD9xSptYmB6lreA99W1NuQqtQonbcWIZKCv5xM1Kgol1TwufJq6bgRehgtGMQwJYnBQqXnkNKMEw2Tsl6dHw6SrK1AzhWjHtd3CwhNiGqAU3htaev0QMmLSE3x3XqA7oNJ8j1bW4HZSytG75ANQMmutAbUF2FuBgQydgI6Fe4PN/DZ+bWsH4wzgu+zjAI5EZWe58xDfCnOc4S0+1s6IwSuoUQ2TxzKdVHMG4OloYSRbFX9fRk9hZGraFyv+e/Pp06GPNqngkB3QlxsplIAZLASPr6+pccGKa9r4t3Dwz5HX/pkWdlg3NELU1xcutOd1K/EFmd/ISrZRul1HwPIiwBq7JkMljEn4aTexxx9Q+MyJaduiJveH911bdbFPLRq5JWmZNz1KQCxePjslS1DkvMGrttKzQ/T9R7Slp9dErSZqmgrjJDiwJZaY1tQrrMMaSukYq+9n80yVFMRqqYT33pmmBpvaxZ/HYGLZqXWNsO44Zcpyz0gDCMwQaV8Ca3bg==;0wsONDDWbIQLZsjdklWYSg=="
 ---

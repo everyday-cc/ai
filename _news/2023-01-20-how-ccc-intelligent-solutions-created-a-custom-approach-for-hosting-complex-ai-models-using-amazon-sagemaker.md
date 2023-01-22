@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-ccc-intelligent-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-ccc-intelligent-solutions-created-a-custom-approach-for-hosting-complex-ai-models-using-amazon-sagemaker/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: AWS
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Set up Amazon SageMaker Studio with Jupyter Lab 3 using the AWS CDK"
-    excerpt: "Amazon SageMaker Studio is a fully integrated development environment (IDE) for machine learning (ML) partly based on&nbsp;JupyterLab 3. Studio provides a web-based interface to interactively perform ML development tasks required to prepare data and build, train, and deploy ML models. In Studio, you"
-    publishedDateTime: 2023-01-17T20:36:05Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/set-up-amazon-sagemaker-studio-with-jupyter-lab-3-using-the-aws-cdk/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
   - title: "AWS Makes it Simpler to Share ML Models and Notebooks with Amazon SageMaker JumpStart"
     excerpt: "SageMaker JumpStart also provides access to large-scale machine learning models with billions of parameters, which can be used for tasks like article summarization and generating text, images, or ..."
     publishedDateTime: 2023-01-19T00:00:00Z

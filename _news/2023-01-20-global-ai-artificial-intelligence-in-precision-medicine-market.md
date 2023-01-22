@@ -18,17 +18,6 @@ topics:
   - AI
   - AI in Healthcare
 
-related:
-  - title: "Citizen Services AI Market Size Hits $41.0 Billion by 2027, growing at a CAGR of 44.5%: Report by MarketsandMarkets™"
-    excerpt: "The global Citizen Services AI Market size is projected to grow from USD 6.5 Billion in 2022 to USD 41.0 Billion by 2027, at a CAGR of 44.5% during the forecast period,"
-    publishedDateTime: 2023-01-20T12:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30501393/citizen-services-ai-market-size-hits-41-0-billion-by-2027-growing-at-a-cagr-of-44-5-report-by-mark"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
-
 secured: "U5x5zJsug/Vwd9ROEHma0h1/xvkj7qXH2Rg3ih+dvT7vFGXefaFV3qfN7QY+DwDMVu4LRR4DOokhVxh5DvB+sxjPbbalyXrv9NUDsa1fyVsTbf5BVZejMd6748NcH/EXBdjCUeEJ0NT/2JIXZ2nLN4tpqSlMo8V3w7HH/oYN1JYFeWtw3S9CR5Lm72u//6pDBaTQSH6NXY4Jv1SMKFym/xGLKChQK+joTTJbnPoy8A7/3a6AWaC0VMOAlkeC/7kKoShev0M4BX1iVmfV/e74my0rDnXDJgiQIqmXcWAitW5tf1JCJ9tFXRA/s+xs6UNLCoXvUyWEOkPAVPP/jJMYjq/DFzdSTC6+8p1T6Zv1wlVn3IgvimzW0unnYEJJJPPRpZ2pT9NZ3FPl2xX96h382O+8dAdS0phEM1NA+YloIRfzz6lmjCQlUcAOp93ivuVHvH8jhHOV6EAbd0Zu6PwAmQASlepwt123N6t0fgmJSg9M25dT2LTUvaIKgKqaq6twjomzGy5ygoXF9aDtQVIPAg==;DoLkT6ZvkQgel8Ulbz91mg=="
 ---
 

@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Global (AI) Artificial Intelligence in Precision Medicine Market"
-    excerpt: "According to the research report, the global (AI) artificial intelligence in precision medicine market size & share was valued at USD 1.26 Billion in 2022 and is expected to reach USD 26.24 Billion by 2032,"
-    publishedDateTime: 2023-01-20T14:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-ai-artificial-intelligence-precision-medicine-market-size-/2023/01/20/9746711.htm"
+  - title: "Artificial Intelligence In Robotics Market Size Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts 2023-2033"
+    excerpt: "The Artificial Intelligence in Robotics market is expected to register a CAGR of 28% during the forecast period. Artificial intelligence (AI) and robotics prove to be a powerful combination for ..."
+    publishedDateTime: 2023-01-18T10:10:00Z
+    webUrl: "https://menafn.com/1105444556/Artificial-Intelligence-In-Robotics-Market-Size-Opportunities-Size-Share-Emerging-Trends-Technological-Innovation-And-Forecasts-2023-2033"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Mena FN
+      domain: menafn.com
     quality: 34
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?411393"
+        width: 376
+        height: 250
+        isCached: true
 
 secured: "7EZriGtJCPQ/2dtE+LeISE5jqQO2IR1Q07BRi3GtEjpuvMYeRYjZyhkwht5KqWoaAyUDbewXHL72nwWu7onhaKGOhCI5WS4/Ssz67ERtxdEc244OFqzC1CLpQw0A5gqJqxLR97fuEbgLulfqCQ8+iLa5Bt0FTr7HsCDpTpePPJQD8pLyteO7ACRWYj8xN2L80pCLy5tE3TPTMmgMdsD2Rhs/pzYQnojBdPid7wzizGNA+dkWmc+SkbLJZdPQ93tC6G2IwWG6gwB8zjRlBzUd1YMkBUEhlhNdGZiSIhHRAkFvOQRoIfhrNeK3pv/8VGOPqsTQGAz4YospgdXaZDVJM+ak50p8ZpkkMkNzSUJ/nlA=;UZJ8yYKUXsZq91me/DXqzA=="
 ---

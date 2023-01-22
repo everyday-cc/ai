@@ -40,20 +40,6 @@ related:
         width: 708
         height: 419
         isCached: true
-  - title: "A Robot Able to “Smell” Using a Biological Sensor"
-    excerpt: "A new biological sensor sends electrical information in response to the presence of an odor which the robot is able to detect and interpret."
-    publishedDateTime: 2023-01-17T20:29:00Z
-    webUrl: "https://neurosciencenews.com/olfactory-sensor-robot-22283/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 39
-    images:
-      - url: "https://neurosciencenews.com/files/2023/01/robotic-olfaction-neurosicences-public.jpg"
-        width: 778
-        height: 520
-        isCached: true
   - title: "Scientists use locust antennae to give robot a sense of smell"
     excerpt: "Scientists at Tel Aviv University in Isreal have created a robot that can recognise smells with 10,000 times more sensitivity than specialised devices, Neuroscience News reports. The robot features a biological sensor comprising the antennae from a desert locust,"
     publishedDateTime: 2023-01-18T08:21:00Z

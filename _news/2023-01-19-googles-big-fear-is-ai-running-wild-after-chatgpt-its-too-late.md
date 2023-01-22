@@ -49,6 +49,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Google may soon demo an AI Search chatbot amid pressure from ChatGPT"
+    excerpt: "Over the last few years, there has been a backlash against Google's handling of AI ethics. Timnit Gebru and Margaret Mitchell, two leading AI ethics researchers, said Google fired them."
+    publishedDateTime: 2023-01-20T17:46:00Z
+    webUrl: "https://www.engadget.com/google-chatgpt-ai-chatbot-search-170007802.html"
+    ampWebUrl: "https://www.engadget.com/amp/google-chatgpt-ai-chatbot-search-170007802.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-chatgpt-ai-chatbot-search-170007802.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-07/71050020-0291-11ed-bf8f-4da75368fe14"
+        width: 5500
+        height: 3667
+        isCached: true
   - title: "ChatGPT AI Threat Pulls Google Co-Founders Back Into Action, Report Says"
     excerpt: "Sergey Brin and Larry Page are helping the company respond to an impressive technology that is a direct threat to Google's search business."
     publishedDateTime: 2023-01-20T17:01:00Z
@@ -410,24 +426,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Azure OpenAI Service Opens Up, ChatGPT On Tap"
-    excerpt: "The general availability of Azure OpenAI Service was announced yesterday (Jan. 16) by company CEO Satya Nadella in a tweet, followed up 16 minutes later by a companion announcement from OpenAI that said: \"We've learned a lot from the ChatGPT research preview and have been making important updates based on user feedback."
-    publishedDateTime: 2023-01-17T20:01:00Z
-    webUrl: "https://virtualizationreview.com/articles/2023/01/17/openai-ga.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 34
-  - title: "Microsoft to Add ChatGPT to Azure Cloud Services ‘Soon’"
-    excerpt: "Microsoft, in talks for further investment in OpenAI, is widely releasing Azure service based on earlier partnership"
-    publishedDateTime: 2023-01-17T20:29:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-to-add-chatgpt-to-azure-cloud-services-soon-71673942043773.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 34
   - title: "Adani is hooked on ChatGPT, says the race for AI to get as complex as chip war"
     excerpt: "Adani, whose conglomerate has in recent years diversified from mines, ports and power plants into airports, data centres and defence, penned musing from his visit to Davos to attend the World Economic Forum meeting."
     publishedDateTime: 2023-01-20T12:51:00Z

@@ -150,15 +150,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "Microsoft plans to add AI capabilities into every product"
-    excerpt: "Microsoft plans to incorporate artificial intelligence products from ChatGPT and Dall-E 2 maker OpenAI in all of its"
-    publishedDateTime: 2023-01-17T20:35:00Z
-    webUrl: "https://www.gamesindustry.biz/microsoft-plans-to-add-ai-capabilities-into-every-product"
-    type: article
-    provider:
-      name: GamesIndustry
-      domain: gamesindustry.biz
-    quality: 34
   - title: "Microsoft laying off 10,000 workers, reports say"
     excerpt: "Microsoft Corp. (Nasdaq: MSFT) is laying off 10,000 employees starting Wednesday, according to multiple news reports, making it the latest tech giant to do so amid a worsening economic climate."
     publishedDateTime: 2023-01-18T14:08:00Z

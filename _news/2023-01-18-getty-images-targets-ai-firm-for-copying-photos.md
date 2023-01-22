@@ -43,20 +43,6 @@ related:
         width: 1536
         height: 768
         isCached: true
-  - title: "Getty sues Stable Diffusion, and the future of AI art could be at stake"
-    excerpt: "Getty Images, the stock-image powerhouse, is suing Stability AI over its AI art generator in a copyright infringement case that could help decide the future of AI art."
-    publishedDateTime: 2023-01-17T19:40:00Z
-    webUrl: "https://www.pcworld.com/article/1475597/getty-sues-stability-ai-and-the-future-of-ai-art-could-be-at-stake.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 69
-    images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2023/01/1153158881_marilyn_monroe_in_the_style_of_andy_warhol-CMS-primary-2.png?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Getty Images Targets Artificial Intelligence Firm For \"Copying\" Photos"
     excerpt: "Getty, which distributes stock images and news photos including those of AFP, accused Stability AI of profiting from its pictures and those of its partners."
     publishedDateTime: 2023-01-18T05:56:00Z
@@ -73,15 +59,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Getty Images suing the makers of popular AI art tool for allegedly stealing photos"
-    excerpt: "Getty Images announced a lawsuit against Stability AI, the company behind popular AI art tool Stable Diffusion, alleging the tech company committed copyright infringement."
-    publishedDateTime: 2023-01-17T19:48:00Z
-    webUrl: "https://edition.cnn.com/2023/01/17/tech/getty-images-stability-ai-lawsuit"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 41
 
 secured: "PQ1rzw+aHQNoYh2N7xZWuM8Kg1h87JwuFM1OapXeDQO238NqICYEaiYsMFFdid7auffGGiiQ/U4/2uiF52IXkbgsDuwhSHMM/zgvaOrBtQtqT19bFHXyf7U9yjSzPqSxoc4/OwVAADw1vwkP6/XBLyJeETbss2Q6/ULTaN9iC96NGeJwSqvr+ET7RJrfSfSSY3fPjKUm1qQL16oUIqpeb0aKOjhJESex+Ivc4PmvdG++wx3pxBT9nL1XLb+g6rb/giFkab7Jf7APwS7FrLeWdt6o9I89n37Pv41scovspO76AOEHpXX49cy+9PIV+acmYz0XRZLAC1sg6nPdiU56XsSqOOuyIoBuw0UGpKHbcvY=;E9fTFc6/Iz/XjeAGHstQ+Q=="
 ---

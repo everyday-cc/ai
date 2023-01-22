@@ -1,23 +1,23 @@
 ---
 category: news
 title: "ClearML Releases New Reports Feature to Share Real-Time Results of Machine Learning Projects and Ignite ML Collaboration Across the Enterprise"
-excerpt: "ClearML, the leading open source, end-to-end MLOps platform, today announced it has released a new Reports feature that is now generally available. This new feature"
-publishedDateTime: 2023-01-19T16:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/01/g30487919/clearml-releases-new-reports-feature-to-share-real-time-results-of-machine-learning-projects-and-i"
-webUrl: "https://www.benzinga.com/pressreleases/23/01/g30487919/clearml-releases-new-reports-feature-to-share-real-time-results-of-machine-learning-projects-and-i"
+excerpt: "ClearML users can now easily create, collaborate on, and share reports, as well as graphs and charts, in order to summarize and explain experiments and how model versions improve, analyze results, show experiment comparisons,"
+publishedDateTime: 2023-01-19T17:11:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/01/19/9746402.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/01/19/9746402.htm"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "ZIZqvF0Qk/tmnWCccrak+//J/xi7qJizfzOsxC0tIjMDNWpgZkHWwAXmTmM4itoxfygiQS8RbI5z3xh+ZF7kpruBkKmF6DBghc8pH6sbyMybn8nPhCjWqK7j+dVQUmqp0bBGDYYpRCp5xvY15FAfCeZN41lkvMiHAlai5Uru1jplj2gWDKmFcpCtaXm9HCPFScKzFFz0UasW/XGZrg6lDhS2w39TyuLkGZvCGImAqJkdhFSS96SOiBsLBMJ+0+YUKCymiuwZ63GEthUDcfhcTXl7Mv6Rzd+7OTjNWQHvrkhag0RVs7wfuO+ky0EZazjzdRX/fJ6oJfvd3hBea2P9rysK+RH83YzR2rxUZYft6/s=;Rdt6m6IPoG/Yvm74lyQWqQ=="
+secured: "mLr/4+VZB3FGqc+y6jj5w2yen9+z7LYy3PPwFwpwRSJL0uMAlOcDbNIfrNkSZyCkU47m5r3q/sqk0I8E31a6Wl5ZxPlKhPm1ZA8Mn7JJaUynaHfpdnfYZMe5Dbm0mVbeH+Z4xtXNCVOpNiquHMCj35ozv8RBxxfpnd5NmaLfsi0mXPITlTHSwy/z2jdwiGgk1tZLI1P64ZjV+DU9hToVYGMFadTQQah5lXQNHRgvOQW05tSJrAuxNd+EyqHpg8RbJarFF8Cy8UtY/D2RgoQyptWmtMs9+ON7KQfcfT7A6hmNn7+zrg0tuFKBz+KleVqvaVqTo00asUqYzQzHNy6A1aXfZt6gqQCEXMaP2lrKrNE=;p1X22/IF4nI0t9zqKBFYgw=="
 ---
 

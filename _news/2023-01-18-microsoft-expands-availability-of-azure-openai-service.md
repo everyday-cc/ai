@@ -39,20 +39,6 @@ related:
         width: 2000
         height: 1600
         isCached: true
-  - title: "Microsoft makes Azure OpenAI Service generally available"
-    excerpt: "Microsoft Corp. Monday announced the general availability of its Azure OpenAI Service, which provides access to artificial intelligence models developed by OpenAI LLC. The service is one of several Microsoft offerings that incorporate OpenAI technology."
-    publishedDateTime: 2023-01-17T20:38:00Z
-    webUrl: "https://siliconangle.com/2023/01/17/microsoft-makes-azure-openai-service-generally-available/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 71
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/microsoft-1.png"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Microsoft Joins Tech Layoff Circus With 10,000 Jobs Cut in Pivot to AI"
     excerpt: "Microsoft is planning to lay off 10,000 workers through March, joining a slew of tech companies in cutting down after a pandemic hiring boom, The New York Times reports. The company’s chief executive,"
     publishedDateTime: 2023-01-18T14:53:00Z

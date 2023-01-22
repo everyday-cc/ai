@@ -58,31 +58,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "NY leaders call on Madison Square Garden to stop using facial recognition tech: 'Sets a dangerous precedent'"
-    excerpt: "While New York lawmakers are calling on Madison Square Garden to cease the use of facial recognition tech on fans, the company said it does not retain images of most individuals."
-    publishedDateTime: 2023-01-17T20:19:00Z
-    webUrl: "https://www.foxbusiness.com/technology/ny-lawmakers-call-on-madison-square-garden-to-stop-using-facial-recognition-software-thats-been-used-to-boot"
-    ampWebUrl: "https://www.foxbusiness.com/technology/ny-lawmakers-call-on-madison-square-garden-to-stop-using-facial-recognition-software-thats-been-used-to-boot.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ny-lawmakers-call-on-madison-square-garden-to-stop-using-facial-recognition-software-thats-been-used-to-boot.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 42
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f10f4340-42c7-4392-896f-74dc0661b6a9/bfd9c01d-d211-4649-99dc-e9d1fe3285eb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "New York Legislators to Madison Square Garden: TKTK Facial Recognition"
-    excerpt: "It is absolutely time for the city and the state to reconsider any and all permits, licenses, and benefits provided to MSG in the face of their continued malfeasance,” one New York"
-    publishedDateTime: 2023-01-17T20:46:00Z
-    webUrl: "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scaning-1234662270/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 21
 
 secured: "FaGRVC5j3otcJvmoNP1JyY5URj6EMoT0ie5pBWvdkxHUp2bOnsIOJWTkW6Nw3LQY5kW7cDlZqC/Psfmj81CSSgj/PLQwghLsI0wXdNs6xnFujdDFcwM2ljhqtyYnKrqe109rNYzLALrvdkslm7oYO/h4gOJkx+JwLOy8PuMQ45Dg7IS7gvASByrJpJPQCw/g0Vm0Kp55fH0nL5ErdVQb3OeW9VbrcJxsBz0wmuGdJrCJwqp2ThHkRULvY+QuKcQ7giKgtk8/hYl16/9gnvU2nIPTAk5udo6h2a0YttpY0lPqPtD3KE3nMfzypolP6vTP5KAxlojw5SZCtWwh2E1CnzKCxbT5iqeKmhZiiGlTF3zJC1V3m7r6iz8aCGjrMmojZQdMwFP3Bsx0neyO9VVOsbZ6KCDm/1l45JfY2M38S7TpyXK523mcy+ATPvlpycYfSxW64DBJkt7sZYu2HwZo82uEHQuJMhTF1cwCrT5OsUweFgJleOU14YcON8vszA9xjanpMxDUj0Ml99fac7fjJg==;UORQp7ZsvhtSb+y/sMEaCg=="
 ---

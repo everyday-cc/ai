@@ -37,20 +37,6 @@ related:
         width: 708
         height: 419
         isCached: true
-  - title: "A Robot Able to “Smell” Using a Biological Sensor"
-    excerpt: "A new biological sensor sends electrical information in response to the presence of an odor which the robot is able to detect and interpret."
-    publishedDateTime: 2023-01-17T20:29:00Z
-    webUrl: "https://neurosciencenews.com/olfactory-sensor-robot-22283/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 39
-    images:
-      - url: "https://neurosciencenews.com/files/2023/01/robotic-olfaction-neurosicences-public.jpg"
-        width: 778
-        height: 520
-        isCached: true
   - title: "How Artificial Intelligence Found the Words To Kill Cancer Cells"
     excerpt: "A predictive model has been developed that enables researchers to encode instructions for cells to execute. Scientists at the University of California, San Francisco (UCSF) and IBM Research have created a virtual library of thousands of \"command sentences\" for cells using machine learning."
     publishedDateTime: 2023-01-19T00:09:00Z

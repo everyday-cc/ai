@@ -55,6 +55,20 @@ related:
         width: 770
         height: 400
         isCached: true
+  - title: "How Artificial Intelligence Is Changing Businesses In 2023"
+    excerpt: "As businesses continue to embrace the digital revolution, Artificial Intelligence (AI) has become an integral part of their operations. From customer service to marketing, AI is being used to automate processes,"
+    publishedDateTime: 2023-01-22T11:07:00Z
+    webUrl: "https://techbullion.com/how-artificial-intelligence-is-changing-businesses-in-2023/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 37
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/01/uuuuuuuuuuuuuuuuuuuuuuu.png"
+        width: 671
+        height: 418
+        isCached: true
 
 secured: "pzPuRw3u+m+fRYW1+n8StCTySlpN/0/io+nQLbqaXXf0qMVCbhTrgC0bwcTX7pDHYO8L8dG2roObdnxDgJrtdPVvBTdnEEQGd3l1CeBZDuNtyYEoIeQWWmn4BDg8HEACuihraCljNm0SjMseowLWp7Ejz9WjvKmF/r97XP10AdqaB6PCxBhzuMKfu+LX1zWxfVmNc1DzJHw3BjPSIxvDv9hLPEegOlrwmwLioXVXz3hUSjzCJnFuZYUOFo7AJ0wC/M1E+6rqn47yJ7MAVGMhuwQF9SJw32zPmATTmyCyLqMnXN/Qwllyb3BnhAAzB7C4L4tb7UFjtTGEC4e/bYoX7eRLPzGVlkJh1GG2LnSxOcv6eXydoAH43YNRI3KH3FKNQq+wSdYzuSEqlNTlQ5In/blfBEtL8ATn+8pMV/cPAabO3wMNdX1PRp7aL82SUDhifij3W6VQxTS3PBzVAIRUqN1sGLNYCvzzK0B8VyWf9QMz7bb+biHbSLXOmphoi+xwlfpj+4TRkObH5wGfuLz/rg==;p2M11SFK/myfbiC2iQAVhg=="
 ---

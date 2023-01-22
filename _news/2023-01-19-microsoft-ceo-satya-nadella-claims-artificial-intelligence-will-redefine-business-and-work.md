@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claim
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work?amp=1"
 type: article
 quality: 109
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -137,15 +137,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "Microsoft plans to add AI capabilities into every product"
-    excerpt: "Microsoft plans to incorporate artificial intelligence products from ChatGPT and Dall-E 2 maker OpenAI in all of its"
-    publishedDateTime: 2023-01-17T20:35:00Z
-    webUrl: "https://www.gamesindustry.biz/microsoft-plans-to-add-ai-capabilities-into-every-product"
-    type: article
-    provider:
-      name: GamesIndustry
-      domain: gamesindustry.biz
-    quality: 34
   - title: "Satya Nadella says golden age of Artificial Intelligence is here, good for humanity"
     excerpt: "In a session at the ongoing five-day annual meeting of the World Economic Forum, Nadella said that technology will provide more and more ways to bring people together."
     publishedDateTime: 2023-01-19T05:45:00Z

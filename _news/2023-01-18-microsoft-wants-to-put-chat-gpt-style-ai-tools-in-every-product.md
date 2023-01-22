@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/01/17/microsoft-wants-to-put-c
 webUrl: "https://www.fool.com/investing/2023/01/17/microsoft-wants-to-put-chat-gpt-style-ai-tools-in/"
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft makes Azure OpenAI Service generally available"
-    excerpt: "Microsoft Corp. Monday announced the general availability of its Azure OpenAI Service, which provides access to artificial intelligence models developed by OpenAI LLC. The service is one of several Microsoft offerings that incorporate OpenAI technology."
-    publishedDateTime: 2023-01-17T20:38:00Z
-    webUrl: "https://siliconangle.com/2023/01/17/microsoft-makes-azure-openai-service-generally-available/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 71
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/microsoft-1.png"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Microsoft expands availability of Azure OpenAI Service"
     excerpt: "Microsoft announced that it’s expanding the general availability of Azure OpenAI, which allows more businesses to apply for access to AI models such as GPT-3.5, Codex and DALL•E 2."
     publishedDateTime: 2023-01-18T13:03:00Z
