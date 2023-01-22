@@ -9,7 +9,7 @@ ampWebUrl: "https://oilprice.com/Energy/Energy-General/Scientists-Tap-Artificial
 cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Scientists-Tap-Artificial-Intelligence-To-Revolutionize-Battery-Chemistry.amp.html"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 718
     height: 300
     isCached: true
-
-related:
-  - title: "The AI revolution is here"
-    excerpt: "Could ChatGPT be used to give financial advice? InvestmentNews fed the algorithm questions to see how the AI would stack up."
-    publishedDateTime: 2023-01-17T21:57:00Z
-    webUrl: "https://www.investmentnews.com/the-ai-revolution-is-here-chatgpt-232769"
-    type: article
-    provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 39
-    images:
-      - url: "https://s32566.pcdn.co/wp-content/uploads/2023/01/AI-tech.jpg.optimal.jpg"
-        width: 851
-        height: 567
-        isCached: true
 
 secured: "7CeEME8Z06jkphjd6YRubFHCZDsex3p2LOyAqY+zkLdqzv1vTBd6G7LzA1M3eDmZoT9DIahofQ7RPL52LD7LPp3ca5Og63j692PQpiikto8ZwY5ZkrnOTPClJuoLW9HIQKk9HI1mbOpzQ6X3xN8kR9ojBZzLr69O0iLugb0xskb4lAAuo95Y3eFFe5gT4mVg8O5u6NO6o8fBqLaSId07iDHhMcZv5fqHYz2XWmqK9ZPdZZfSBh8dO0RZXOdO7xxpSOd52Jz1QapBBc7ioqVukaSzeac+zD4RSJ9V9mUifDpa1DrvfCl47iO/mshbKtP7ftbgqjrALDC5vLv1i2zqVYSKf8dfIb+j+7EPHgx88X+RmDZvr9jcsCTCM5CNSp0jvp0KVinvXTSj/L86D4iAFGk/8NWyTVLfkR0BfvtmuOTaJeZHaGO+mlau23ashGLYyjAusMZ3hEed19SlS1vbmp927FdWirwuE4xqtr9IuGdz8E2Zva/wBB6tljFA7KMkuC7lXvUe7OaAuuPSv2Hdzw==;kuDdGlpeEEUXLKsXq89QeQ=="
 ---

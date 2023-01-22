@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/politics/young-libs-raise-mixed-views-on-voice
 webUrl: "https://www.afr.com/politics/young-libs-raise-mixed-views-on-voice-referendum-20230122-p5cek0"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "PM defends voice referendum process"
-    excerpt: "Prime Minister Anthony Albanese has rejected talk the government could legislate an Indigenous voice to parliament 'anyway' if this year's referendum fails."
-    publishedDateTime: 2023-01-17T22:00:00Z
-    webUrl: "https://www.perthnow.com.au/news/indigenous-australians/pm-defends-voice-referendum-process-c-9481552"
-    ampWebUrl: "https://www.perthnow.com.au/news/indigenous-australians/pm-defends-voice-referendum-process-c-9481552.amp"
-    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/news/indigenous-australians/pm-defends-voice-referendum-process-c-9481552.amp"
-    type: article
-    provider:
-      name: Perth Now
-      domain: perthnow.com.au
-    quality: 44
-    images:
-      - url: "https://images.perthnow.com.au/publication/C-9481552/04280efd07755fe27c67849bfa4c45037df44ce2-16x9-x0y0w1280h720.jpg?imwidth=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "G9PphS0WY4ZgWjY3L7BbrK64IR6v0CDYNMVnTpykciG5UIrRRre5SmOOxcNflHnySu/eXuWkjSKUc5mj5pvi/ZDjTeaDNMcm8Snv8jjzc3KHdoXBrVmfORPlv1ljQb2ogX6Zr5Jl0VKE77kwmqBe6FYz1GUz8d7qSCAZJJRwJ1dp52Gz3pTqxVZms9lYgrtAGofzOMZRx3vbn2Jheqef6zDZqFpc3nBcmX2FYYfYPGA1XGlcD0Cc4tZWYrme0pAc5Y8yuqmmzPXfaUsT9fE7+QXTtayYx4yJhW0vq/cFBuyzKdbe1XsSjqhV5vsSG5lYv498qOhZtvST/qaSpLbcUJ4ZB1t8xfgN0o2+gKYIKsQ=;6++N7rxKgwQLgDj+1eTtTA=="
 ---

@@ -26,18 +26,20 @@ images:
 
 related:
   - title: "FBI chief says he's 'deeply concerned' by China's AI program"
-    excerpt: "FBI Director Christopher Wray says he's “deeply concerned” about the Chinese government’s artificial intelligence program, asserting that it was “not constrained by the rule of law.” Speaking Thursday"
-    publishedDateTime: 2023-01-19T22:50:00Z
-    webUrl: "https://omaha.com/lifestyles/article_e9500932-b937-55f7-8e9e-45eae32c80d8.html"
+    excerpt: "FBI Director Christopher Wray says he's “deeply concerned” about the Chinese government’s artificial intelligence program, asserting that it was “not constrained by the rule of law.”"
+    publishedDateTime: 2023-01-20T00:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/fbi-chief-deeply-concerned-chinas-ai-program-96537139"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/fbi-chief-deeply-concerned-chinas-ai-program-96537139"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/fbi-chief-deeply-concerned-chinas-ai-program-96537139"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 39
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/8/cf/8cf3f26d-8493-5212-bd4c-39debc72b726/63c97ab616712.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/Politics/wirestory_3c30625e842b08a834e715230d584847_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "FBI chief says he’s ‘deeply concerned’ by China’s artificial intelligence program"
     excerpt: "FBI Director Christopher Wray said Thursday that he was “deeply concerned” about the Chinese government’s artificial intelligence program, asserting that it was “not constrained by the rule of law.”"

@@ -2,9 +2,9 @@
 category: news
 title: "Baidu-backed Chinese startup to push self-driving sweeping vehicles"
 excerpt: "BEIJING -- Chinese self-driving sweeping vehicle startup Yunchuang Zhixing has raised funds in a pre-Series A+ round led solely by Baidu Ventures, a unit of Chinese tech group Baidu. The company ..."
-publishedDateTime: 2023-01-15T05:20:00Z
-originalUrl: "https://asia.nikkei.com/cms/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles"
-webUrl: "https://asia.nikkei.com/cms/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles"
+publishedDateTime: 2023-01-15T13:36:00Z
+originalUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles"
+webUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "iSJPSe+TAAsT/R6d4cBfGzQtIDP6hjgj/ZTyTGDT9n4bEyPs6DU+KPYIDPX1n+FRS9fu+zNHvLw6k5PUvvePwY5E/MvJiSHdgcU6U1TAQ6gA6G2YgdvazvICyI22pM69GrzN95jV5QEq2Kz/PzbJnTSzvRqupkPb+AX0HR3xNn8/6p23LUyJXCGAxyRNTDixcVXQ4n1ggCGkBMrOGXjaHM45ZK4JqSqqfbK54cCRFgviCc4A/TbvhGbpTSrHY+b+eDIBI9JHci96APwAYo8NudZuvfpXV7oWbf3QAcqVtirxZq+Dl1nuS7XszMJlDmG90hU9PtVS/R8SgYNe09IxznlwYtDhVoVyYYANZ653RDY=;/E6UWE7AXoKZpmEQ0tC37Q=="
+images:
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F5%252F8%252F4%252F43794852-1-eng-GB%252Fphoto_SXM2022121900006555.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
+    width: 1260
+    height: 630
+    isCached: true
+
+secured: "zdC+2LwD2FvwObzfEYXZSvkabWdNFEnrBw7cZdM1bWrGlh8MeCfz3kwYgif6JWseoisre5P2QiQCZFmV0zXoJ/aWEhAbQwIys5KcqlbA7Wj/hE6oEZw1o6oPX2SiJHFXWREsKZaKQHIOFBqc4fixYmOLCh9VtHL673EaAZQEAa/xyJk8F7rsInOOUm78+GYoWQ7Cjvf08xQEKnUnuWHc7ftMxglBodK9ktI5RBcTxVc86L/XK7B8tyU7PIE5bFENIk+LDWCDZXx1SlYSJsYeDZgfwTZZa/GgosY3VgKbsE8OIuxwmGtOVg3TUbcb72B0Sw+/+ILCzrM+TmGYxnCak0ClApuqmK271nur8BAcvWQ=;7HXkMK3mOxAqw+B/rtDC/g=="
 ---
 

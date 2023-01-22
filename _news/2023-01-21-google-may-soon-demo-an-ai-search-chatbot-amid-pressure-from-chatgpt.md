@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Generative AI ChatGPT Is Going To Be Everywhere Once The API Portal Gets Soon Opened, Stupefying AI Ethics And AI Law"
+    excerpt: "Generative AI ChatGPT is already in the news and will likely garner added attention once the API portal access is opened, leading to either a boon in new uses or a bust in terms of adverse consequences."
+    publishedDateTime: 2023-01-22T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/22/generative-ai-chatgpt-is-going-to-be-everywhere-once-the-api-portal-gets-soon-opened-stupefying-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/22/generative-ai-chatgpt-is-going-to-be-everywhere-once-the-api-portal-gets-soon-opened-stupefying-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/22/generative-ai-chatgpt-is-going-to-be-everywhere-once-the-api-portal-gets-soon-opened-stupefying-ai-ethics-and-ai-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63cc9ea2aeaaf7f509922d82/0x0.jpg?format=jpg&crop=2250,1265,x212,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google isn't just afraid of competition from ChatGPT — the giant is scared ChatGPT will kill AI"
     excerpt: "ChatGPT. If ChatGPT runs rampant, the search giant fears it could ruin AI adoption for everyone."
     publishedDateTime: 2023-01-20T11:39:00Z
@@ -334,6 +350,15 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "I spent an hour with a new, ChatGPT-inspired AI chatbot, and I may die laughing"
+    excerpt: "So I ruminated deeply upon how to create my own chatbot excitement. The Tweet that launched a thousand questions. Well, a few. Fortun"
+    publishedDateTime: 2023-01-22T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/i-spent-an-hour-with-a-new-chatgpt-inspired-ai-chatbot-and-i-may-die-laughing/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 43
   - title: "An AI rival to ChatGPT passed a university level law and economics exam, and did better than many humans, professor says"
     excerpt: "A professor at George Mason University said the AI's answer to a law and economics exam was \"better than many human responses.\""
     publishedDateTime: 2023-01-19T15:02:00Z

@@ -37,6 +37,29 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Is GM-Backed Driverless Car Really Road-Ready?"
+    excerpt: "Cruise first entered the market in September with operators and started driverless rides for \"friends and family of Cruisers\" in mid-December, according to Megan Prichard, the company's vice ..."
+    publishedDateTime: 2023-01-19T06:53:00Z
+    webUrl: "https://www.austinchronicle.com/news/2023-01-20/is-gm-backed-driverless-car-really-road-ready/"
+    type: article
+    provider:
+      name: The Austin Chronicle
+      domain: austinchronicle.com
+    quality: 39
+    images:
+      - url: "https://www.austinchronicle.com/imager/b/original/2996041/5435/pols_feature26.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "After his driverless car, Zimbabwe’s William Sachiti is changing the world one tech innovation at a time"
+    excerpt: "William Sachiti is a Zimbabwean UK-based serial entrepreneur and founder of Academy of Robotics. The idea came when he struggled to find the right locations for the books he needed in a library while studying at Aberystwyth University in Wales."
+    publishedDateTime: 2023-01-22T13:46:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/africa/After-his-driverless-car-Zimbabwe-s-William-Sachiti-is-changing-the-world-one-tech-innovation-at-a-time-1699679"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 2
 
 secured: "y9Lq9Smnx4jWtIGtOy3QKL+b/6rRwfSREzRh1E2hXLt4t+4odxZ0pdaXLnW0WDI+vW2+xPEkqCtrbom27NkylQGDLpgBIAwd429NX4HfxFHdjvQoz3zAgZgMDvFCyB9YV0pBnvONu49pEd5K92nyK/H7e+mGGKnfxKAa4yzQYGS9qkZAWyf+XLXjrhD5bWQyrCR/GeD+fQvh2lu3uqe5+c66N5cMj+a98Tim2pocIOTLZQEBBWOR0AvJbrEI9PPCZVDAeUONGiiADSOHdo95vdkEr+K4GmMlqf7RCDuhSQYnbbB9jvA95uwSOW0niPrsXfd1sk554bvRXZJ4AYEqq+0N/ebIoNqylymwbzOh3pk=;VJEWphiOdtI8jikLVh+S7w=="
 ---

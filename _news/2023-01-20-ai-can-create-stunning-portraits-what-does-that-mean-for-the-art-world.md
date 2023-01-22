@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo160238149972"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo160238149972"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://technical.ly/wp-content/uploads/2023/01/AI-robots-knowledge-work-file-20230106-23-9vo8lt.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "AI and The Future of Work: 5 experts on what ChatGPT, DALL-E and other AI tools mean for artists and knowledge workers"
+    excerpt: "By Lynne Parker, University of Tennessee; Casey Greene, University of Colorado Anschutz Medical Campus; Daniel Acuña, University of Colorado Boulder; Kentaro Toyama, University of Michigan, & Mark Finlayson,"
+    publishedDateTime: 2023-01-22T16:02:00Z
+    webUrl: "https://businessmirror.com.ph/2023/01/23/ai-and-the-future-of-work-5-experts-on-what-chatgpt-dall-e-and-other-ai-tools-mean-for-artists-and-knowledge-workers/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 15
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/01/explainer01-012323.jpg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "qBTSze3S8ZhTPdR5luyZQDLWthtLLwDdtqqyrw6MN97YLhrrI0gAWu3IEDoXM0GE2UC+uGZAJHa789r0XQiUX01BOcOtnCLB0vxs0AoI45F/FHMKWBT4HAHf6jj6X+DNQZVvg5V7QhQJ2HMcN6vbXLRx+g0q14QHmQ+62lsYXkVwI2hOHfRO9YyWqJpfT/5q1F/bPf5+HgAWerY10liztUnsjq/e0N1HSz5sCGA3gMsZ9yFi0+2ZTXg472MhKYAykl/6pnrlaaEiBHLgitblL94CbgJ1U7ZAuSawtfoMeKmDWZxTHN9FjwvJXGhP8fvHt6oQg+dA/hrOcyj7QsUxODa1iff0WnZuO20YfZnA//6yHimKDDi2D4ARNOGUntj6ssdMZT2s+Hf7Jsv39+meyJHZinCMFJkGXsM6UECRjDcj7tIVxEEpjUruqJyULRJfpwbkgxLVB3hRwRuu2Yuu12aUTsLx4Gy2UDbC8w4c57mSqxbAi1Ualvcopv1fyVo/ez/RzaLMFd8drS8vMxhogw==;YXF2wtO9PHXuAKgGCihLyg=="

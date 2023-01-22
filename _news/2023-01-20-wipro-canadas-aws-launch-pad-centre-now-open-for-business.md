@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-20T02:34:00Z
 originalUrl: "https://thestarphoenix.com/technology/wipro-canadas-aws-launch-pad-centre-now-open-for-business"
 webUrl: "https://thestarphoenix.com/technology/wipro-canadas-aws-launch-pad-centre-now-open-for-business"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The StarPhoenix

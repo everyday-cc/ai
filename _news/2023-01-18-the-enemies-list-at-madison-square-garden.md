@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recogni
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.amp.html"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "New York Legislators Protest Madison Square Garden Over Facial Recognition"
-    excerpt: "It is absolutely time for the city and the state to reconsider any and all permits, licenses, and benefits provided to MSG in the face of their continued malfeasance,” one New York"
-    publishedDateTime: 2023-01-17T21:22:00Z
-    webUrl: "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/"
-    ampWebUrl: "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/amp/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 59
-    images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2023/01/MSG.jpg?w=1600&h=900&crop=1"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Company’s ‘enemies list’ enforced with facial recognition prompts legal challenge, debate"
     excerpt: "Madison Square Garden’s use of facial recognition to enforce an enemies list has sparked a legal battle and growing scrutiny of the deployment."
     publishedDateTime: 2023-01-20T20:16:00Z

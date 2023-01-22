@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-22T11:07:00Z
 originalUrl: "https://techbullion.com/how-artificial-intelligence-is-changing-businesses-in-2023/"
 webUrl: "https://techbullion.com/how-artificial-intelligence-is-changing-businesses-in-2023/"
 type: article
-quality: 37
+quality: 41
 heat: -1
 published: false
 

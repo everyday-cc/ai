@@ -15,6 +15,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "k4XuOc9Vhamf/DPSueIn3+WZBb9rSR/jHpYaot60anTVchBCrC6ITBRAFGNJZDgYgscOL5d8v/KhNW1iJX/rZLvunhVKNnngQPqNEyDlj6Gdt4upAMC4k+/ujRQwualdRgLNFm7Uzt3uaZCG9+xX0QxBRMFYFGAogI8fjK0Q9pSbBhQ64bWfXsomIDhspTGtvBDIXTiFSpvQtzqF5Uwnx+fvp6hwebRamb7g7e2g3LOXXHnxW+0XtW8TWYySztEZht0l7MlvStY2cLly6kqJXKCu1s+QmIuf/cA41YjKcH+nloPx8ivbTDgJO4/X9OWoMWnPnwZslzE8aWEf91Lgl8vEaGM8L52B7WR31v+fW9k=;OWYLalm2mJfEOsPizKjbWg=="
+images:
+  - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
+    width: 788
+    height: 443
+    isCached: true
+
+secured: "A1vsHegQT5fDvaMLVyxeC2x7sROHJWavgM/+MRjl/t3tmxRxtfpF3n41E0/mkpKOevv12Bxa5h0AiEN0Xtse7PTvIILkPdbOo8hmHM07AfBTA94egdprhv37/txTfC3leJcxvziDulbvTXVS2kHQNDbAr77m1xEeQhruAuD9bkwJg+dyle+DX+cuvTYywVqQaekiOTnXm1NJ+G3qTXmU8xsESyNrvBAl1lClNwXmNmTAkvtD7a4jyt2IFTIZ9CDDKxyNvBi40KLlvN8rTjbiNXjiMXYc2WCMakPK9Usy8TByiZvQt1QEXDhpQyDoADfyqeQIQks6ZhQUpDl1n80344o4/pelqVZ+gNwinHzx2qA=;CXMX1t7bJSliykMhqAmvoQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://neurosciencenews.com/wtc-dust-alzheimers-22286/"
 webUrl: "https://neurosciencenews.com/wtc-dust-alzheimers-22286/"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exposure to World Trade Center dust exacerbates cognitive impairment in an animal model of Alzheimer's"
-    excerpt: "Mice exposed to World Trade Center dust exhibit a significant impairment in spatial recognition and short- and long-term memory, as well as changes in genes related to immune-inflammatory responses and blood-brain barrier disruption,"
-    publishedDateTime: 2023-01-17T22:15:00Z
-    webUrl: "https://medicalxpress.com/news/2023-01-exposure-world-center-exacerbates-cognitive.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-01-exposure-world-center-exacerbates-cognitive.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-exposure-world-center-exacerbates-cognitive.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 43
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/exposure-to-world-trad.jpg"
-        width: 1520
-        height: 948
-        isCached: true
   - title: "Exposure to World Trade Center particulate matter accelerates cognitive deterioration in mice model of Alzheimer's"
     excerpt: "Mice exposed to World Trade Center dust exhibit a significant impairment in spatial recognition and short- and long-term memory, as well as changes in genes related to immune-inflammatory responses and blood-brain barrier disruption,"
     publishedDateTime: 2023-01-18T04:44:00Z

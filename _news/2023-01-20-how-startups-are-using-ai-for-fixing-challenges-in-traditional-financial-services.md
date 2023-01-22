@@ -73,6 +73,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "AI and The Future of Work: 5 experts on what ChatGPT, DALL-E and other AI tools mean for artists and knowledge workers"
+    excerpt: "By Lynne Parker, University of Tennessee; Casey Greene, University of Colorado Anschutz Medical Campus; Daniel Acuña, University of Colorado Boulder; Kentaro Toyama, University of Michigan, & Mark Finlayson,"
+    publishedDateTime: 2023-01-22T16:02:00Z
+    webUrl: "https://businessmirror.com.ph/2023/01/23/ai-and-the-future-of-work-5-experts-on-what-chatgpt-dall-e-and-other-ai-tools-mean-for-artists-and-knowledge-workers/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 15
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/01/explainer01-012323.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "n8jcZNVov7G/c+1hFmDgjtGrPqeRLQGjVmnpeBUT5fMo0zX+DjG+ffTR0DRLkH2uiocfyv0PY/AMNl8Cqj20rEkpsRkL0UGWpkcCmCLasYoRrmFlqW6sFofxc2T1QoM9KEC301vl+lQTc3bdKzDZjWuTxSbzZiZY3iAfJrbVbbVROzxZ1jCrBuVrGV73KduXNfNHXJ3M2668LpB2izVOAPf164fHue3rHn/N1t3ERwDiGpIwUxk1BkqpZNK2dEd6yjO04FbSYnZPzbNeYnvgJRXWDecgE5kU5tVXwCKCp9rgeR4j6MLFMJ5pyfds2k/Wyk725FnNMmuUr4Na7jKAt19dpw379JJqEWEocxOMEGQLuwfgUndc9DB3QUw2mD8hCBAmTCNrqvuqEYR0V63anHOXZgSq/vSkR84/hivvK5OIMQhl+NqxQfR89oRnCeqsWDt/POsCFsNO5tfc5IV6HHmL/OI1YlRTEVFdq4NH5cJxQ7ce1KrseE0zdRhDxnbl4fQX6bTCsAis0TVg96A0bA==;hvnLmy5eGAClVp+1d7Lubg=="
 ---

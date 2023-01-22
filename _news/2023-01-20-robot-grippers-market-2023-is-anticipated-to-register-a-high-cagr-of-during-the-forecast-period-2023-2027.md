@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Delivery Robot Market : New Business Strategies And Forecast By 2028 with Top Countries Data"
-    excerpt: "Rising demand for Food and Beverages, Retail, Healthcare, Postal, Others will drive the Artificial Intelligence Delivery Robot segment growth over the next five years. Global Mark"
-    publishedDateTime: 2023-01-18T00:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-new-business-strategies-and-forecast-by-2028-with-top-countries-data-2023-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Forecast 2028 for the Automatic Speech Recognition Market in terms of size, returns, gross margin, and market share"
     excerpt: "Automatic Speech Recognition Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
     publishedDateTime: 2023-01-20T02:36:00Z
@@ -117,20 +103,6 @@ related:
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. The analytical"
     publishedDateTime: 2023-01-18T02:52:00Z
     webUrl: "https://www.marketwatch.com/press-release/automatic-content-recognition-acr-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2029-2023-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Forecast 2028 for the Automatic Content Recognition (ACR) Market in terms of size, returns, gross margin, and market share"
-    excerpt: "The major players covered in the Automatic Content Recognition (ACR) market report are: Get a sample copy of the Automatic Content Recognition (ACR) Market report 2023 Automatic Content Recognition (ACR) Marketsize,"
-    publishedDateTime: 2023-01-18T00:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-automatic-content-recognition-acr-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-17"
     type: article
     provider:
       name: MarketWatch

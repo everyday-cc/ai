@@ -40,20 +40,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Why one company just hired artificial intelligence ‘interns’"
-    excerpt: "Kyle Monson, a partner at the marketing firm codeword, talks about his company’s newest interns – artificial intelligence assistants powered by the ChatGPT bot."
-    publishedDateTime: 2023-01-17T22:34:00Z
-    webUrl: "https://abcnews.go.com/US/video/company-hired-artificial-intelligence-interns-96489810"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 37
-    images:
-      - url: "https://s.abcnews.com/images/US/230117_abcnl_update_3P_interns_hpMain_16x9_608.jpg"
-        width: 608
-        height: 342
-        isCached: true
 
 secured: "w5FrCQcGJQux/wOcVDW3W/BIPD4r8uJKFhfxQGEHiZ04cliyjqfgn1CRNsvpStWaX4c5/l0amJQlkzU1aiD0dROO5EezxxVROsSFymXMSSvHA1JonKT43UXrv4h2pJNTNoK3ygA/8vuKdlzvA7hf82ptkXdr9RXjnC1Krn2//QmaXQdrcAYdqnbe9d+akltO6xYhOS2WmvRZ5QODVgHO+RGRGDyX1NcUqpqfoH5NPZfRRW8y35h+yqoLaypSjaqiEt0dMVUrbrNSH553sspZJp/jW9GW5OxZjoaqG8MNyWnt7DOGlNVd3xm4P+gzbiZ2TBpYtBC0fOfpcXtoNJoLS6s4t1w9eeNmf+ClN+skDiK5av2ReCbgMDpkXjsvRIkAO9unl69TEw0g7lDfh5iVnGrZbreDv/hX+RYJQENRel+o7DV0yxccI279VJyNz473VITnj6To9bHr0RgfeeKHZo/VDNFG0C6zU9xZUbb1uqZOSEICR6pSCMnOeVquHTPRYeDObpAClkNfL+gUCNdJdg==;jx6EmXIi1ftfFZo8KZW0ig=="
 ---

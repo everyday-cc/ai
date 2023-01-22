@@ -42,22 +42,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "New York Legislators Protest Madison Square Garden Over Facial Recognition"
-    excerpt: "It is absolutely time for the city and the state to reconsider any and all permits, licenses, and benefits provided to MSG in the face of their continued malfeasance,” one New York"
-    publishedDateTime: 2023-01-17T21:22:00Z
-    webUrl: "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/"
-    ampWebUrl: "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scanning-1234662270/amp/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 59
-    images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2023/01/MSG.jpg?w=1600&h=900&crop=1"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "FaGRVC5j3otcJvmoNP1JyY5URj6EMoT0ie5pBWvdkxHUp2bOnsIOJWTkW6Nw3LQY5kW7cDlZqC/Psfmj81CSSgj/PLQwghLsI0wXdNs6xnFujdDFcwM2ljhqtyYnKrqe109rNYzLALrvdkslm7oYO/h4gOJkx+JwLOy8PuMQ45Dg7IS7gvASByrJpJPQCw/g0Vm0Kp55fH0nL5ErdVQb3OeW9VbrcJxsBz0wmuGdJrCJwqp2ThHkRULvY+QuKcQ7giKgtk8/hYl16/9gnvU2nIPTAk5udo6h2a0YttpY0lPqPtD3KE3nMfzypolP6vTP5KAxlojw5SZCtWwh2E1CnzKCxbT5iqeKmhZiiGlTF3zJC1V3m7r6iz8aCGjrMmojZQdMwFP3Bsx0neyO9VVOsbZ6KCDm/1l45JfY2M38S7TpyXK523mcy+ATPvlpycYfSxW64DBJkt7sZYu2HwZo82uEHQuJMhTF1cwCrT5OsUweFgJleOU14YcON8vszA9xjanpMxDUj0Ml99fac7fjJg==;UORQp7ZsvhtSb+y/sMEaCg=="
 ---

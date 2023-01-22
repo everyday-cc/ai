@@ -63,7 +63,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 37
+    quality: 41
     images:
       - url: "https://techbullion.com/wp-content/uploads/2023/01/uuuuuuuuuuuuuuuuuuuuuuu.png"
         width: 671

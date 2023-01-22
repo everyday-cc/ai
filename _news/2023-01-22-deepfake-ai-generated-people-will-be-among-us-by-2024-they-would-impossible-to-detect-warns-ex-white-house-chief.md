@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-22T07:47:00Z
 originalUrl: "https://www.thesun.ie/tech/10095113/deepfake-ai-generated-people-impossible-detect/"
 webUrl: "https://www.thesun.ie/tech/10095113/deepfake-ai-generated-people-impossible-detect/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Irish Sun

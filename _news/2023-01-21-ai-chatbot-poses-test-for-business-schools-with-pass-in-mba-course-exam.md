@@ -50,36 +50,6 @@ related:
         width: 2500
         height: 1250
         isCached: true
-  - title: "The Rise of AI Orchestration"
-    excerpt: "Most businesses don’t yet understand what AI orchestration is, and fewer recognize its game-changing value. It’s time to do some homework."
-    publishedDateTime: 2023-01-17T22:57:00Z
-    webUrl: "https://www.eweek.com/big-data-and-analytics/ai-orchestration/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2022/11/best-automation-companies.jpg"
-        width: 1400
-        height: 877
-        isCached: true
-  - title: "Are AI Chatbots the Therapists of the Future?"
-    excerpt: "Could artificial intelligence chatbots be the therapists of the future? ChatGPT, a text-generating conversational chatbot made using OpenAI’s powerful third-generation language processing model GPT-3,"
-    publishedDateTime: 2023-01-18T00:47:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/urban-survival/202301/are-ai-chatbots-the-therapists-of-the-future?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 61
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/pexels-liza-summer-6382640.jpg?itok=ESA6C_qh"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "Haneda Airport Demos AI Chatbot 'Bebot,' a Multilingual Guidance Service"
     excerpt: "Bebot boasts a high degree of accuracy in answering questions that travelers need, including information on airport facilities and flight information."
     publishedDateTime: 2023-01-18T22:27:00Z

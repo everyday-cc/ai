@@ -1,27 +1,28 @@
 ---
 category: news
 title: "FBI chief says he's 'deeply concerned' by China's AI program"
-excerpt: "FBI Director Christopher Wray says he's “deeply concerned” about the Chinese government’s artificial intelligence program, asserting that it was “not constrained by the rule of law.” Speaking Thursday"
-publishedDateTime: 2023-01-19T22:50:00Z
-originalUrl: "https://omaha.com/lifestyles/article_e9500932-b937-55f7-8e9e-45eae32c80d8.html"
-webUrl: "https://omaha.com/lifestyles/article_e9500932-b937-55f7-8e9e-45eae32c80d8.html"
+excerpt: "FBI Director Christopher Wray says he's “deeply concerned” about the Chinese government’s artificial intelligence program, asserting that it was “not constrained by the rule of law.”"
+publishedDateTime: 2023-01-20T00:23:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/fbi-chief-deeply-concerned-chinas-ai-program-96537139"
+webUrl: "https://abcnews.go.com/Politics/wireStory/fbi-chief-deeply-concerned-chinas-ai-program-96537139"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/fbi-chief-deeply-concerned-chinas-ai-program-96537139"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/fbi-chief-deeply-concerned-chinas-ai-program-96537139"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 57
+heat: 77
+published: true
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/8/cf/8cf3f26d-8493-5212-bd4c-39debc72b726/63c97ab616712.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/Politics/wirestory_3c30625e842b08a834e715230d584847_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -49,6 +50,6 @@ related:
       domain: washingtontimes.com
     quality: 12
 
-secured: "OagMzr2RJDUZgzTpui9+dK8Xwv2bALUA7eaqo6E4bOb9xkmWtBx1NeV5Uf4Jic6t1oow4aW0mJIDnAtmLijGq2Wtv0zpPjyXp6lu/U1CO/ISDT4n2uCmLgsaTrsA80VkMvQVFlvyasSpxVryz/YncsLptoNq0lu/c2t4GjMQUdDa/3n2snr3IjM0SAKWFnsKqdUfnmYZRyKAZNg18473xF8poh1FRhxoRN04/8KobAe4k3bskS3mz9bCWZztt8MisISjoZ8QFGVx6bNDwi6UTxSp/SysMInpyE6Yyr3lg7gvLXUAhINpCRFsfd1cNv0NB5oMrlq1D+SMg7vUvDkaYIqhodNrfuEjrA4RcCftD90jnyPpHwAFa0pPLo+DepTCKNsxNpS277oxRc/8kMWeNFiFfOnzoAzGTeXEVfbT+fWPKdb1ew3fuQ9PaAYL7KHaoW8Ayfelhr9ZAXMN9PP9xm1zoMgiOkjrbMKGBRTSrWvNEupOYnNdGvn/Rjxw8W6k7qgkkfkR8HngoZtfN75AYw==;p7z4GXHD8TaJnkCDylhSLw=="
+secured: "gz7HCzJZFcRh75b/bCYItY3Pwf3l9IoJLpEzbgpPY+CLwQMJMYz1AXebHXjF7i8iS4fbgISPthcz5EESWFDGtnzgwIK5CCzijnshl4unTXo1rlWZ2f2o/r4feB7Wlbh+gOmSdqV968WLDmfrp6nV60iapsrm3csx08RGqQfX5R5O4kyqUNlegnDjG3Y5FCg3dPAU+TSyo5Z3qH+h8a70TQHKlHA+3L/A4XVYvkbvBXqIkaJ6+bS+iJtg1f/PZAx5uG97ku4fknmVtUWs00RkWqvhKl8evSUQ4Fhl/4O6pJdUUy4Ua8r846AWgGQPWpPUwy75qaLl6nmTtPcjE5gBBWA4Vz3knBJeWV0sjTi6JtQ=;//W0D7VoJTQUNSJZKp2JOw=="
 ---
 

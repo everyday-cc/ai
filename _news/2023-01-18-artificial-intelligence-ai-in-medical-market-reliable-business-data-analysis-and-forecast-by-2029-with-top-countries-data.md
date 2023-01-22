@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chips Market Size 2023 With End-user Industries, Segments Covered in the Report"
-    excerpt: "Browse Market Size, charts, tables and figures extent in-depth TOC with 118 Report Pages on Artificial Intelligence (AI) Chips Market by Application (Electronics , Automotive , Consumer Goods ), by Type (GPU , ASIC , FPGA , CPU ) Business Outlook ..."
-    publishedDateTime: 2023-01-18T00:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-with-end-user-industries-segments-covered-in-the-report-2023-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in BFSI Market 2023 Report Offers Key Futuristic Top Trends And Competitive Landscape By 2029"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. This review"
     publishedDateTime: 2023-01-18T04:25:00Z

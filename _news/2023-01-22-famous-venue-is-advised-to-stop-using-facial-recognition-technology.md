@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-22T13:36:00Z
 originalUrl: "https://menafn.com/1105462269/Famous-venue-is-advised-to-stop-using-facial-recognition-technology"
 webUrl: "https://menafn.com/1105462269/Famous-venue-is-advised-to-stop-using-facial-recognition-technology"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Mena FN

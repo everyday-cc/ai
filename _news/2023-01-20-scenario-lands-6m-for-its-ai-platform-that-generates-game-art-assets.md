@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platf
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

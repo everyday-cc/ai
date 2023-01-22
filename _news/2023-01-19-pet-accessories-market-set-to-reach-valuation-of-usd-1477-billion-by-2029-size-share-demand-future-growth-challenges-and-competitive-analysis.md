@@ -123,20 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Neural Networks Market Size 2023 Pronounces Its Growth, Size, Shares, and Future Forecasts to 2029"
-    excerpt: "[121 Pages Report]\"Artificial Neural Networks Market\" size is projected to reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during 2023-2029 and generated magnificent revenue. This study provides all the most recent market facts ..."
-    publishedDateTime: 2023-01-18T00:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2029-2023-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Object Recognition Imaging Systems Market Size 2023, Share, Trends, Growth Analysis, CAGR, Challenges, Drivers, Restraints Forecast to 2029"
     excerpt: "The Global Object Recognition Imaging Systems Market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2029. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2023-01-20T05:28:00Z

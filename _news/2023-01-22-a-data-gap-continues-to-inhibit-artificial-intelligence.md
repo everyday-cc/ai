@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-22T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/joemckendrick/2023/01/22/a-data-gap-continues-to-inhibit-artificial-intelligence/"
 webUrl: "https://www.forbes.com/sites/joemckendrick/2023/01/22/a-data-gap-continues-to-inhibit-artificial-intelligence/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

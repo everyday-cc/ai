@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-22T08:45:00Z
 originalUrl: "https://indianexpress.com/article/technology/gpt-3-like-llm-large-language-models-ernie-bloom-megatron-8396267/"
 webUrl: "https://indianexpress.com/article/technology/gpt-3-like-llm-large-language-models-ernie-bloom-megatron-8396267/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: The Indian Express
