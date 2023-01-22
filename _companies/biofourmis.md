@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 64
+heat: 77
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "J7+qEY/ieScj9TcwZPWOXGcItAV0gFlZ5co6xz+PSItmWdv9mVVu1c1L0lUt05CwkQcYauNR/9VyP/oYnsTXiz8nN4zB/t0Gpv5JaI5qGPiQDgq1zHwxdUEcnWpwOnDBBJR/YZvfXdKFf/HjbTyeDGPFedZe8gC3PqJxBguz1NE+nxBGtTSaFoVZ1pJ/BVyWDWadhgNVSXdXkugebb0dLLo2lVzRZhsBydvfcT19wuH516ZuFg/ZROgLBjrq2CO9RVU2r5mnMpUJmfmGI4KmlBfLxuowQvt+SphJk7IMddAlYUo30MxLGG9mPzACt2w8gZi8D/gHjs6jMrKiaW3LHOniYlw6PhGkKCUdzTbOUL//qQhrF5qU6hWKJqN9TdRPLJ3hLLB3GJB/AdKgeaPPlDbdS6f4KNKfldo2sUQAo0M=;G+uirB+ZR3t4E9ewB9cCMw=="
+secured: "3QSjWYaQzatO1Vvf6mHCWWbwBoeSM17RRYiRexBBcSzKjom4c/qk/n+rZcIcBE3i74Qd/6pG0CoDV2RRxQhm2Mqrc9TqeTdMzzfJsH4Wgl6YU1ynsM2jlg+C7GIFX9OB8/esAm7QYT1ULl2Usv/zJhy/PGVGt8pTX5uz+/u2qyhyDWoE/DAWtLzTAyIu5MbbmP8HKgtZ14X/PhNGPE2hD5bE0hOA1ZYObpO7qDShHE4JDSnB4dPGUKwYS0X9Nq8rW4KY3CkzDa0cnTkbOE0ZQoLu8NqBtvev9p1p5AVfNPCewVAOxa4/39FPkHtS0NUApJ2FCpnhJ5s/jOtX/RLm09GHePT/wSbiD2Z6l9+ajL/5OTfYwqeHOPLh+CF0S3pqgV8lpdA2RYqFHLJTW11AHj4P/T7wWnfb/jv8mBLdRKs=;3aUEux/14m0rs3pSpTNg6Q=="
 ---
 

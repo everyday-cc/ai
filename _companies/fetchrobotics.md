@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "fetchrobotics"
   url: "https://twitter.com/fetchrobotics"
-  followers: 8782
+  followers: 8784
 
 size: 51-200 employees
 yearFounded: 2014
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "4kqj8l2VaY9Ta5aR9GwLj/mJCo+rXBRf5DYPibJOJh5pu1YSr/BBU5j/XGh0jxlqAcfOXXAxG7KxbQiw+BDVbdX5A2fiX053nd/g+nHeLiLW7tlCdOlWppnUVjGS3Zv8f2ZktO7oSKTjsnlJs1mPQeo54cDjES1/Lj0u8w0O75CLXC36w653fBiotRCIBwMpZcANpkYk/JV9XhRnrz0Q6zuwsYkTCuOzdylzyccMN3yIX1j3l2046KlCoo9Z1f7y5FOIN67JFHEF082J0QgVhceRwvgQf4BqCr1nnoxa7kFQABdvajm8N9F4+H4EuYrwdjWuIchNI+FNlN7lloY/dE0CCLOwyGeL+VY2Av7x0yGlUtYdtzSj3KsDqaGUId5Lmzx4CVUgrsBODUciWGd9XQKjffnhxWK0ycLkpQmCheE=;hkrJ/+sXumMk5MUpGOjJwA=="
+secured: "fQa8b2UKze8WbaNLCDmHbxQiFfW27Oa53EucUqur0Hl+x7qKIw+KLBW8qztk8r2aF4rsS81CJyWusMVlAa7cptBnHoQ0AnVFcJ58s2ME2jFuFhpTnjaCGCZaFPx39G20moh+T+lQIVzt34FKSsiHsNWiuN4rPaXsS/g7k6ve0oFhFj2YR2sdyS27ClzJFuQ+sFcgjE4dDqfXXJeVlTTpLKzrw/oPEdLiBQFjNmML4BvxLXeMPiZk3tPwK9MR8qpEtRHc8fcUWlasADtKfr638vriG2fASHEkezauErEA4oa/d9p7Z84FwH+EVP7ouO1SYGrpcZ2XBCqcAt7rEhEmk/QafU1tIDZq8cx5ZYcCw3VtVq3nHowLBrYxOxzC7fw3CCQ/MO6NYWXRwIh0gT6IP86xixiGz1B72w6QmQIeRe4=;jc35mxh5jg0PgpYUypYGEg=="
 ---
 

@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "gong_io"
   url: "https://twitter.com/gong_io"
-  followers: 7510
+  followers: 7512
 
 size: 201-500 employees
 yearFounded: 2015
@@ -42,6 +42,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=PGaBhUPCcxU"
 
-secured: "EUlQrmOJ+MxhzxiEj6wywwZb6oVB0Wpm2LtkhmctoTLBzqNgyHDVBWWE2u1j+NpTwuSLJQ+vWSC0O6jVpocU+UiOGO2T+3S43u7raDskE01JGz+awv/Ce9RIdWR+ggVSNDqMIfUPZmdI/GTHdXFwI6xzl5c5w5wxoc2N7z7x98hZWsZOElJPC53CdnvAGUkASpvI5qFk+5Z7M9HCxLZzrUoLQWcAK7K66B1kAd7SfHjhZCVv2pRFu0ltAcPVIqKWm30hv/uqvi/ukQ+vOxRABQ9YXC/RxWhFrZvmQFiErNn0w9XBDmTEc7LgcgDOU6MYWlTjcTNKAV5EQsjEyjqfgH6L86ledNeBALz8pmklQXETELmUOVp4Huef0UXbhwjTaVoqHEvTyEAjM0I26+sdGfMy30AdX+BTHw6G3bwUn9Q=;P7zQGX6Kv/WLyv4BAab2BQ=="
+secured: "7MnBoAH5e6G6vIRM7hW+UA+aHQb+ZWBlfqQU4dY6XyclpHbS4jwNNoFo0/4CKdwOrxvZH/FLwiO8yU28lZqHcUHM06wJ2i28ZFPVICvYXbNu9Pb6FhYHgff2WXk6zyK9Wx0AbcxRcylfX7F9YtA8XKwALwapz4VL5NCCxiOtYn78zZ+/hRDcoElDAcHOmt2DSDG9iNtv4L1B4NvHZ/6jPp3cHc0uO2uX0dprmb1Cr8s2cfelWG0gsLSbrH2QrB0MiJuLy6z8X1mSmVRZm0b0vMsRYVURW+ySd8zAqi72NjDhGbM7Nqkux2sGV1LCB5sBpItXpe57Vt+7zXYP7/xLq1hyLvJpAE4LI4+876UUd6iZWMHb0/eJVeC7l+d4pLPCCL9AKUw2xhEYoNrt5lj17F9G+Ysy9ZgTX9rvGDOcLMQ=;jlHgJQWzivlKrKslBVAp5w=="
 ---
 

@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 593
+heat: 605
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 19135106
+  followers: 19136044
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "BSdmrIZRCjXdeNGj1fZQVv2i6Z+8JLQYxiy8TikRMYPmgvgiJxKLsxGUNEqa3HVB2zTC+sytHq6cWRnmHYCRwOoSurAZ+wPbkWwom1brgUHm6J4pLlHG5CkF1sweRUvYQ4ChEI3mdwtiX4ft8UArTRidM36QcG6QXhXsT3p0CPAa7K4li5kup/Ct5Pr0CaUYW2nPamLWv4/rOj2wvzHeXuztrR7z3uRm/SA+6Zt3kLYRqz9AHqTAhcvNmZ9kU19FKpCpViyqFNRcKNE62JfdxUUobz2Yfmc2BiPthqcuM23hNgZQ3piP10AASVXJhS0uXG9Jpw2FkXL3Rd+dEN8aHPs8eQsF1OZTIEdg6nKrIx0XzaD+XH2NsjnP0UnzKuvn1Jt4RMUz0/5tfX9T8/cu4vlFKg133HraRX9UPVzXT2Y=;XsMgQ35CqKJpms+XuOadMA=="
+secured: "1ttSo0EkrXiL3wwHBkI4zYeyZAr7St4h3PIp1pDQ55+RgZXULxCjLST61ULXSXy07Vwu7AP+qo6WZq7FTwqEawsdtyuOH6ag5RhkdOBf6AvE5fYM/JHVXH8GLHCOM8SBxF9wtvdlvW6BQlsz9VRmAS9uXJWeLtHC8mkl/DQZcLoIKZ7XXPdyMZSNAg0lxAhNCfV8L4/pPI4TSNuOCR6hOlNZzvrxsapBv0GZvMLgAcym5tZYeEx8JnHAnLmEN3dpKKJQzGXujd89zqUFsAyx+Ub0iYBp3kLiHCN4tO0LBz3PlwaKzkWMSWmYi1ypsqImrAKb2r3cSZBiRnQll8U0wwoGSMypk2JJGlYaKdxoPOY43FCs1r8VJ+XpynqVDpLcJi6GA1hQ28gUXJigZVnHFwtuEq1+exNBtX0URG6fwzA=;D9LDJoyRv4CNnBUBtjLS4A=="
 ---
 
