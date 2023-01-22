@@ -8,8 +8,8 @@ webUrl: "https://www.medindia.net/news/healthinfocus/artificial-intelligence-and
 ampWebUrl: "https://www.medindia.net/amp/news/healthinfocus/artificial-intelligence-and-metaverse-dominate-ces-2023-210136-1.htm"
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/healthinfocus/artificial-intelligence-and-metaverse-dominate-ces-2023-210136-1.htm"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:

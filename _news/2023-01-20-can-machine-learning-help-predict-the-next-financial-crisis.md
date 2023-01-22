@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-20T07:00:00Z
 originalUrl: "https://www.businesstimes.com.sg/wealth/wealth-investing/can-machine-learning-help-predict-next-financial-crisis"
 webUrl: "https://www.businesstimes.com.sg/wealth/wealth-investing/can-machine-learning-help-predict-next-financial-crisis"
 type: article
-quality: 19
-heat: 19
+quality: 21
+heat: 21
 published: false
 
 provider:

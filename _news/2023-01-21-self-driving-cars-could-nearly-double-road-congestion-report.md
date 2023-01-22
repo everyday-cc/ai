@@ -53,20 +53,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Computers in autonomous cars could become huge drivers of carbon emissions, study warns"
-    excerpt: "Researchers call for more efficient hardware to cut emissions from computer operations in self-driving cars. Under one of the modelled scenarios where 95 per cent of the global fleet of vehicles ..."
-    publishedDateTime: 2023-01-18T06:02:00Z
-    webUrl: "https://www.independent.co.uk/tech/self-driving-cars-carbon-emission-b2263481.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 16
-    images:
-      - url: "https://static.independent.co.uk/2022/06/29/02/China_Self-Driving_Cars_48645.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How an increase in self-driving cars could harm the environment"
     excerpt: "PARIS: Self-driving vehicles are expected to go mainstream in the near future, but mass numbers of such vehicles could result in a significant increase in CO2 emissions, mainly due to the energy needed for the computers managing all the hardware and software on board."
     publishedDateTime: 2023-01-19T14:41:00Z

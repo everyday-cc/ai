@@ -126,20 +126,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI-assisted Diagnosis Market Size 2023, Share, Global Trend | Market Analysis, Growth, Opportunities and Forecast 2026"
-    excerpt: "New Report Publish on Global AI-assisted Diagnosis Market 2023 Research Report provides Size, Share, Growth, Developments, New Technology, Trends and Forecasts 2028. Also, AI-assisted Diagnosis Market Report provides an in-depth analysis of the market situation of the Top AI-assisted Diagnosis Manufacturers with the best facts and figures,"
-    publishedDateTime: 2023-01-18T04:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-assisted-diagnosis-market-size-2023-share-global-trend-market-analysis-growth-opportunities-and-forecast-2026-2023-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Agriculture Market 2023 (New Report): Size is set to Grow at an Outstanding Pace in the Upcoming Years till 2029"
     excerpt: "AI in Agriculture Market Share report provides overview of market ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Solar EVA Sheets Market Share, Size Global Growth Analysis, Gross Margin ..."
     publishedDateTime: 2023-01-19T10:58:00Z

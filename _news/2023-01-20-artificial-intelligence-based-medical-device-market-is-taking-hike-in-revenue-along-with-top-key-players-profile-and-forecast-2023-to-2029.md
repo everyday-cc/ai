@@ -88,6 +88,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
+  - title: "Artificial Intelligence Global Market Report 2022: Increased Adoption of AI Technology in Healthcare Boosts Growth - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence Market by Component ... aerospace and defense, automotive, healthcare IT & telecom, manufacturing, education, retail & e-commerce, energy & utilities, media ..."
+    publishedDateTime: 2023-01-18T20:41:00Z
+    webUrl: "https://www.eagletribune.com/region/artificial-intelligence-global-market-report-2022-increased-adoption-of-ai-technology-in-healthcare-boosts-growth/article_c20fe850-b636-5bd0-9962-615da3af202b.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 15
   - title: "Speech & Voice Recognition Systems Market : Research Report Provides an In-Depth Insight of Trends 2023 To 2028"
     excerpt: "Pages Report] Rising demand for Internet & Communication Industry will drive the Speech & Voice Recognition Systems segment growth over the next five years. Global Market Anal"
     publishedDateTime: 2023-01-19T01:31:00Z

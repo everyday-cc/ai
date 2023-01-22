@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-18T23:45:00Z
 originalUrl: "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html"
 webUrl: "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: CIO

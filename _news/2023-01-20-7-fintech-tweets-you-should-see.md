@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/7-fintech-tweets-you-should-
 webUrl: "https://ibsintelligence.com/ibsi-news/7-fintech-tweets-you-should-see-12/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 300
     height: 300
     isCached: true
+
+related:
+  - title: "Seattle Fintech Meetup: “Measure What Matters: DEI in Fintech”"
+    excerpt: "Included.ai and Remitly are excited to co-host a special event focusing on an important topic near to our hearts: diversity, equity, and inclusion in tech. Our theme is “Measure What… Read More"
+    publishedDateTime: 2023-01-20T00:32:00Z
+    webUrl: "https://www.geekwire.com/calendar-event/seattle-fintech-meetup-measure-what-matters-dei-in-fintech/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 54
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/01/Fintech-Meetup-2.png"
+        width: 1828
+        height: 958
+        isCached: true
+  - title: "Fintech technologies: Harbinger of financial revolution in Maharashtra"
+    excerpt: "Finance Technology, or FinTech, as it is called has brought about a whirlwind change in the working of the ﬁnancial industry sector. It is one of the fastest and most adopted techs globally. Finance"
+    publishedDateTime: 2023-01-20T10:38:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-technologies-harbinger-of-financial-revolution-in-maharashtra/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-technologies-harbinger-of-financial-revolution-in-maharashtra/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/fintech-technologies-harbinger-of-financial-revolution-in-maharashtra/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
 
 secured: "LZy50m7SXofwu9MdYdJ+cl9qg9jF8gmDkr1hlKIWB6jYB7Yyr9wl2ZJ35Mc9LLjp/S6rnhIOBPyxNeAyP1vNoauXl7a2aVZzvVGUx8fua27OTjeReokbnpHuKd3Wr7NsjWTPbVgBeMgazLISCmMzgCoDTdpeQJ9QxyEcFvqleHD8MMFG2iGbTFbcS0xJ2j1AlRfKMFHv+YH2GpK0yqrhxW7jv6quzU9tRvOQFTF07U1nte63aQPAGLRhBJQGE93Syo2EgI17NpahFG8mLLJRI47XNsboeS6C/AnBiFr5pNBDYgXEturYbMWoVPwgGNiIQaTVP6j+kFlKgMfV1fuUkvZMNBUp0R27Jy+YNJyAKsDsjHMjtYaP82Kq9WdRPGTbErletWUIrbvI2f2l6BlT6bG/rUlhqEX1fXhpJUNlNkOK+YXy7Z35XSX4s3U1aOK11Gz7Oilwqr9z1G5UYQnUlSQgPIMdXRnC9LFo0drzOumzntRnwx/LRC1WD5Vpe6yXy6cOQv24j1idAHRywhvBXw==;La1Y41F/R4Xo7FVSJDdcOA=="
 ---

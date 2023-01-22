@@ -1,7 +1,7 @@
 ---
 category: news
 title: "DLR Launches Ground-breaking Robot Control Software"
-excerpt: "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative"
+excerpt: "BINYAMINA, Israel, Jan. 17, 2023 /PRNewswire/ -- Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control ..."
 publishedDateTime: 2023-01-17T19:53:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30449359/dlr-launches-ground-breaking-robot-control-software"
 webUrl: "https://www.benzinga.com/pressreleases/23/01/n30449359/dlr-launches-ground-breaking-robot-control-software"
@@ -15,6 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "SHYbW4aQ4j1NfG6ZBiY37CYLMhnGeUFUaTw1z4qVpTeZuHPUe2U2V9YdTn3HuWMyPLEcm2kZcGCH3N1z8Wb7ELon4EAOwqV9Tg4hQ8EUimV69ZoC4iO+ZHMzx5uUg9yPFENcbAIq9goCgTl5/jbqyz09Db8Apb3DjyTR5WuOL/pa3V6bSkrr0GtrSfSU4HyvbVfpF2jSD+gPCQTCrry4KnFDUVU/Mvb9nQSVRaL9PKggpUMmhLaYJBdwIvxEcA6cWVYyIjAIc5Ei2vWKBcMQRCBuV6K13Hf9HOyq2fqADuzzFH1qc1i+tw+3eS57sU5AO9KB0dRAzuZZJmsbhJKW2DaOHUAz4Z3NDi6oSUOFcA0=;lo2dVupJ0uoa0pCIhJ8rIw=="
+secured: "k0PHMIJqzVvZg7H+OaWuGRmxpWqlXKcPUpQniLjjTcIk7deaItyahNjvYB35j458xJjJ6A11mB68NfbLc0qJHMBCFR7hBf7JIQTEywxuLEv7P95+O6v5Qd2IsoN/svlsnqh5TTwKFZGr28TSa9prviNVBLT8AkoWjmGrWI0NWpv+4Z/7ZlnKHAEkvmDOcZxHvmKrHGZi+HxG3Nj3OnbRo5RZ8nI/y6AtDam/Upi7caLHnYyvXiWwL40LJhkvgaHJYozIV7sQTEBRNQpRCCSKezcmvP5TzilnmltD1CBaDZYrGqXgXvsAK7Im3CTbff3wNTS6JPOe1Xz/sQZOMZbh+chVFQCqHpgk4Wi4hFstThQ=;1DOkYuBtdVFMAiQuvWd95A=="
 ---
 

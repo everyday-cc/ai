@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 400
         height: 256
         isCached: true
+  - title: "Therapy by chatbot? The promise and challenges in using AI for mental health"
+    excerpt: "director of MIT's Affective Computing Research Group. \"We know we can elicit the feeling that the AI cares for you,\" she says. But, because all AI systems actually do is respond based on a series ..."
+    publishedDateTime: 2023-01-19T20:14:00Z
+    webUrl: "https://www.mprnews.org/story/2023/01/19/therapy-by-chatbot-the-promise-and-challenges-in-using-ai-for-mental-health"
+    type: article
+    provider:
+      name: MPR News
+      domain: mprnews.org
+    quality: 33
 
 secured: "7aiLnHWUEaYTvPViCXT8TZ4q7BAXLqxEBhzq7cdRLUoYTFOkl3nPOA125kWP74eDy3jkEKWVLLvQI0pmMpigmq+LNMR3Y53XImbRthb1BeYb3VjteRR2s9JU+ZnIG4QI0Bn5CyeA72aqmzs0Hh7nGPJQWWGrSm7Msex3xNu5rWeDBoyw9PCehBoM3oB0aWi4zhySQVmOzZuHMnPJudE4kU2OBBYNe5pkjjqWPUPBtM9J+dcGLwoMj4kr7TnlEuYld5feAOPBNbWrYN8QEfIKF3HltqDWeGTZvb6w63kh9+pL+GnATicn1EB40T3ZtRGaR6bQXBSh+QCLmmu07/Nme8Y0cd5gB+UAOleMHYBZvYMMWvZSUyMlrza9f+R/32/IfVpzY2vx49xixbqvWLCOAXrb0w0gMQjRu4tPDORHWmqyLWPcTCSGBq/EYJ69L3P1NpwZqE2fdBUTa2IjqQEcvn5bYhivk3EeH6VyjC565Cb+DvX9x68mRHQK74RbRfbxKSJ5QYT2wqEO0gl58vxfiw==;mwtduMlZ/oSCq+1mmF1RmQ=="
 ---

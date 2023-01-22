@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-latest-research-report-2023-2029-2023-01-20"
 type: article
 quality: 65
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
+  - title: "Artificial Intelligence Global Market Report 2022: Increased Adoption of AI Technology in Healthcare Boosts Growth - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence Market by Component ... aerospace and defense, automotive, healthcare IT & telecom, manufacturing, education, retail & e-commerce, energy & utilities, media ..."
+    publishedDateTime: 2023-01-18T20:41:00Z
+    webUrl: "https://www.eagletribune.com/region/artificial-intelligence-global-market-report-2022-increased-adoption-of-ai-technology-in-healthcare-boosts-growth/article_c20fe850-b636-5bd0-9962-615da3af202b.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 15
   - title: "Artificial Intelligence Based Medical Device Market is Taking Hike in Revenue Along With Top Key Players Profile and Forecast 2023 To 2029"
     excerpt: "\"Artificial Intelligence Based Medical Device Market\" Research Report explains how the market growth has been unfolding over the recent past and what would be the future market projections during the anticipated period from 2023 to 2029."
     publishedDateTime: 2023-01-20T03:32:00Z

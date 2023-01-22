@@ -29,6 +29,48 @@ images:
     isCached: true
 
 related:
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 19, 2023 (The Expresswire) -- Natural Language Processing For Healthcare And Life Sciences Market Size is projected to Reach Multimillion USD by 2029, In comparison to ..."
+    publishedDateTime: 2023-01-20T02:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning-as-a-Service (MLaaS) Market Size, Trends, Share, Growth Status, and Forecast 2028 with Top Countries Data"
+    excerpt: "Rising demand for IT and Telecom, Automotive, Healthcare, Aerospace and Defense, Retail, Government, BFSI, Other End Users will drive the Machine Learning-as-a-Service (MLaaS) seg"
+    publishedDateTime: 2023-01-20T01:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-trends-share-growth-status-and-forecast-2028-with-top-countries-data-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Systems Market : Competitive Landscape and Analysis by Recent Trends 2023 to 2029"
+    excerpt: "A recent research report published by Precision Reports provides an overview of the \"Face Recognition Systems Market\" along with precise insights into potential future scenarios. The report suggests that this industry is expected to experience an annual ..."
+    publishedDateTime: 2023-01-19T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-competitive-landscape-and-analysis-by-recent-trends-2023-to-2029-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Systems Market Size, Status, Global outlook 2023 To 2028"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. This research"
     publishedDateTime: 2023-01-19T00:33:00Z
@@ -43,15 +85,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare AI Market: 2023 Competitive Weakness and Strengths, GAGR Status, and Global Share Forecast To 2029"
-    excerpt: "The report focuses on the Healthcare AI market size, segment size (mainly covering product type, application, and geography), competitor landscape, recent status, and development trends. Furthermore,"
-    publishedDateTime: 2023-01-18T05:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-competitive-weakness-and-strengths-gagr-status-and-global-share-forecast-to-2029-2023-01-18"
+  - title: "Artificial Intelligence as a Service (AIaaS) for Government Market Share : Industry Trends, Growth, Size and Segmentation by 2023 to 2028"
+    excerpt: "Artificial Intelligence as a Service (AIaaS) for Government Market Size is projected to Reach Multimillion USD by 2029,"
+    publishedDateTime: 2023-01-20T01:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-aiaas-for-government-market-share-industry-trends-growth-size-and-segmentation-by-2023-to-2028-2023-01-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Call Center AI Market is to grow at 13.5% During the Forecast Period 2022 to 2032"
+    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
+    publishedDateTime: 2023-01-19T14:59:00Z
+    webUrl: "https://www.fmiblog.com/2023/01/19/call-center-ai-market-is-to-grow-at-13-5-during-the-forecast-period-2022-to-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 14
 
 secured: "oq7cXtl04KOkKCI+ogBS0evu7sezVW3RAPOlaX0yCWCEIyObbQ9i2VdcwSJDXZ+nRM408ujtYq6TF6fzw5pZ5ZoGUaZxA1rNO+zYHFtdNKZc5BcyKMYycy8kEYb2V3NAMDrmLQiym1RuJyZ9qqyNL3DpIstFYDMA+4Mvk/TPdRXAChxgzbi0YAuYpb74mf120Dfi38b/bsXKJnD9radH+O8R3MoWdPEhqlse7kLuMRATLQ+QVv6p/O/OpmdTEWn6pzARmVzDCuWVz+qo4rpMfkI+rQGXtWgBwrVJTnWZpXluMMkVxEhZ4wQ5BddyMKMu3Xw/rQTz5NafLADfXp1+m02DjBBBlmaB0RHNVuNAgLY=;VmSLfh02SGiNiZcabvJFIg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/amp/"
 type: article
 quality: 104
-heat: 304
+heat: 294
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://i.insider.com/63c7fef7eee94d001a78c743?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Engineer: Tesla Self-Driving Demo Video Was Staged"
-    excerpt: "Tesla video promoting and demonstrating self-driving technology was staged, according to testimony by a senior engineer."
-    publishedDateTime: 2023-01-18T06:26:00Z
-    webUrl: "https://www.entrepreneur.com/business-news/tesla-self-driving-demo-video-was-staged-says-engineer/443155"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1674018403-GettyImages-492682162-tesla-fsd.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Musk Oversaw Video That Exaggerated Tesla’s Self-Driving Capabilities"
     excerpt: "Elon Musk oversaw the creation of a 2016 video that exaggerated the abilities of Tesla Inc.’s driver-assistance system Autopilot, even dictating the opening text that claimed the company’s car drove itself,"

@@ -15,6 +15,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "gjyqCBsvJ+c4BderJO6v4F5IW73yMlaCHt0YOWmwvQUvmsdcIXtxF9M4QPEEraPGp08wFuV47KA38vOgHXhPW/yeKB48FPh+H3sNoC3RWVcUhvTff6bX+ZFPbn2N3ME+FcndkpQkL0zuny/9SKPFb/yK8YM+iy4jNZb4UwArrDvTK8pHvV9pWrnp4TLXSa56JLo/90KLM8cFQrtDo9pRHgB8nn2wrqHT8mGIASuGmxnFdJch6dIvZIviHEBZfWMgC0bfKge8M/TwzD3iHzwymzuczNpYLFr0QsAq4SRDU5ItRBvNDclW+x2FNV9s50+Izu5xs9z1mYwoQAsj32SkVeJ8M5w61b3cWqi58XufooE=;LgliOi74F7ejVHpVKZ5MKg=="
+images:
+  - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg"
+    width: 788
+    height: 443
+    isCached: true
+
+secured: "X7UR0rmfUAUtbn/UkpdnjVi/jE75jcwg/lYFALoUlRp9fZBAcYi9cRhZoDWezsMX79mcD0GwJtRMm32X97MuPJcVueKWCHxvHe/7teH7d4/J6DGENxAniPVV+MShWf8IIONlGp3RcKCGfJ8Jdn0/2t5N6TEvhk2FFeK9dOqGDEDvGl46zq5TqZ+KE0rBNUszQeLmN+yzU9OPFf3lO238U+g9QoUcP5qjGxaZ5Fdgzfo0eW2HnBlBIi95fht6e/JOUAjCrRxxlS/10EhG2RQZGZ66W9hjgVhDCyY2gdS6O4DXlyR482qBwhJijs16Vao9+4j9/v8WiMilb7Rm5xpFZWykjXlJa+pH3XsiMf6EZ4Y=;FoZIpUVX1ukouYTZIHmayg=="
 ---
 

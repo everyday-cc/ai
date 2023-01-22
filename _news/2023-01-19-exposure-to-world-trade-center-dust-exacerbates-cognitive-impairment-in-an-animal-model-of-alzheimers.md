@@ -24,22 +24,6 @@ images:
     height: 502
     isCached: true
 
-related:
-  - title: "Exposure to World Trade Center particulate matter accelerates cognitive deterioration in mice model of Alzheimer's"
-    excerpt: "Mice exposed to World Trade Center dust exhibit a significant impairment in spatial recognition and short- and long-term memory, as well as changes in genes related to immune-inflammatory responses and blood-brain barrier disruption,"
-    publishedDateTime: 2023-01-18T04:44:00Z
-    webUrl: "https://www.news-medical.net/news/20230117/Exposure-to-World-Trade-Center-particulate-matter-accelerates-cognitive-deterioration-in-mice-model-of-Alzheimers.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 2
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/2/Alzheimers_amyloid_plaque_-_Juan_Gaertner_9638f1223d534b518a192c8478871d65-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-
 secured: "90BMXXelU1wEovekgOzGflDRqGNzaWL7HZFhxPIrlexnifh2y1MwlCU1WbaloZljZJoe7RWIWeliWN9/HG7EtHLi4etTNt9BlNhC6IkaH3tPR6OW+Q+UclGFPacOYS2Qz++bnJNSoibaoRvvKSSXN/3Dv0WL9194DOJFDJgrU26HgS+1gY480dDcDfEzYPKmnci5nk9Gtna2xAc6M9sdEFsf5IZTzMu+5IrtmHEpdw52+BMhsC8xF2Mp9zgiSMQHh+FiLz5faAp7uSYuMiiXc8Z1XNBP9LM5FZnQWyKYqU1oxRIgYIyMvMwhOL7gp1oAJyXKg3BPL4dKG6tPJPHL05JqQ5Db1BZ1GItTLuSf6Bl2Y7pkKJOMZTrYprRbxgymhER5zvYteBkiP2TU3Pk3RzLjXUGSHTvszpQCGfb6wJfbQ5LnKpxQsgSTEGSSqthFBT2IC7zJgYXz+ZhoqoA83P00iHQJ2qxrFOIX7fsXED+gvSAnRI1Nht15Qzus+H/G2Xh7ZZyGLPFNj4ub+4I75Q==;LFbnx1HtWUxUzjSI1OYMsw=="
 ---
 

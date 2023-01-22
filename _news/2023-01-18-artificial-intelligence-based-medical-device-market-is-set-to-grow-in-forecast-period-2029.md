@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-is-set-to-grow-in-forecast-period-2029-2023-01-18"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 57
+published: false
 
 provider:
   name: MarketWatch
@@ -26,31 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Global Edge Artificial Intelligence Chips Market | Compound Annual Growth Rate (CAGR) is 17.67% | Forecast Period 2023-2027"
-    excerpt: "Global Edge Artificial Intelligence Chips Market (2023-2027) New Research Report | Market is Segmented By Various"
-    publishedDateTime: 2023-01-18T03:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-chips-market-compound-annual-growth-rate-cagr-is-1767-forecast-period-2023-2027-2023-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Call Center AI Market is to grow at 13.5% During the Forecast Period 2022 to 2032"
-    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
-    publishedDateTime: 2023-01-19T14:59:00Z
-    webUrl: "https://www.fmiblog.com/2023/01/19/call-center-ai-market-is-to-grow-at-13-5-during-the-forecast-period-2022-to-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 14
 
 secured: "WjwEHEBXGp0tTM8owBGP3MPKjUharCQyTRa4EVhLB5mpI3DQXHUXh9QKYfl5SdpiCTTu5sC9nOifVF1RVL3dGS3UIl7sQ33wNRaDSfAGuBCwir4IUR9deIm+b8ODPrQGm0CK4RfMxmScuiPR86fNBBi3X14jAV7SNHAkJjRLScW67goaazCSfSzVShCuSTuMvWfbYXAgllEsyIreUDI9CeL4PldmQN6pJLJKf0k/3QaWTrn9B7tduGFNjvfs6PXRvniv0lKu4kdNiRqrKdMpIv0cNqS2P8alWrse31ypF3skCyLgEFUXVOzwU8AVlDL1Ri7LQP8LwGhk0w6LzHG/wO1Hu7xktPgNrJiYuT3Bbdc=;OWr23CEtxS9nnXK3f54eOw=="
 ---

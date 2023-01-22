@@ -77,20 +77,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Engineer: Tesla Self-Driving Demo Video Was Staged"
-    excerpt: "Tesla video promoting and demonstrating self-driving technology was staged, according to testimony by a senior engineer."
-    publishedDateTime: 2023-01-18T06:26:00Z
-    webUrl: "https://www.entrepreneur.com/business-news/tesla-self-driving-demo-video-was-staged-says-engineer/443155"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1674018403-GettyImages-492682162-tesla-fsd.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Musk oversaw video exaggerating Tesla’s self-driving capabilities"
     excerpt: "The company’s CEO wrote to Tesla’s Autopilot team after 2 a.m. California time in October 2016 to emphasize the importance of a demonstration drive to promote the system"
     publishedDateTime: 2023-01-19T20:50:00Z
