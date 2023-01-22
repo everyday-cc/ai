@@ -95,22 +95,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "ChatGPT Is Coming Soon To Azure OpenAI Service, Says Microsoft Chief Satya Nadella"
-    excerpt: "Microsoft has allowed its cloud-computing users to preview tech by OpenAI, a startup that it is backing. The preview has been done through a program that Microsoft calls the Azure OpenAI service."
-    publishedDateTime: 2023-01-17T08:29:00Z
-    webUrl: "https://www.ndtv.com/business/chatgpt-is-coming-soon-to-azure-openai-service-says-microsoft-chief-satya-nadella-3698997"
-    ampWebUrl: "https://www.ndtv.com/business/chatgpt-is-coming-soon-to-azure-openai-service-says-microsoft-chief-satya-nadella-3698997/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/chatgpt-is-coming-soon-to-azure-openai-service-says-microsoft-chief-satya-nadella-3698997/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 83
-    images:
-      - url: "https://c.ndtvimg.com/2023-01/6uld4jdg_chatgpt-getty_625x300_17_January_23.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Golden Age Of Artificial Intelligence Underway: Microsoft Chief Nadella"
     excerpt: "An Indian farmer recently used a ChatGPT interface to access an opaque government programme via the internet despite knowing only a local dialect, Microsoft chief Satya Nadella said on Wednesday to underline that the world is entering a golden age of artificial intelligence."
     publishedDateTime: 2023-01-18T22:26:00Z
@@ -217,15 +201,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "ChatGPT is coming soon to Azure OpenAI Service: Microsoft CEO Satya Nadella"
-    excerpt: "Microsoft has allowed its cloud-computing users to preview tech by OpenAI a startup that it is backing. The preview has been done through a program that Microsoft calls the Azure OpenAI service."
-    publishedDateTime: 2023-01-17T07:25:00Z
-    webUrl: "https://www.devdiscourse.com/article/business/2321914-chatgpt-is-coming-soon-to-azure-openai-service-microsoft-ceo-satya-nadella"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 47
   - title: "Satya Nadella says golden age of Artificial Intelligence is here, good for humanity"
     excerpt: "In a session at the ongoing five-day annual meeting of the World Economic Forum, Nadella said that technology will provide more and more ways to bring people together."
     publishedDateTime: 2023-01-19T05:45:00Z

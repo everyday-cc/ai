@@ -370,20 +370,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
-  - title: "Microsoft to add ChatGPT to Azure cloud services ‘soon’"
-    excerpt: "The two companies have expanded their partnership recently, while there are rumors that Microsoft plans to give more funding to Open AI. Microsoft has expanded access to OpenAI’s software, making it generally available on its Azure cloud service."
-    publishedDateTime: 2023-01-17T08:45:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/microsoft-chatgpt-openai-azure-cloud"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/01/AdobeStock_377722570_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "ChatGPT coming soon to Azure OpenAI service — with guardrails"
     excerpt: "Microsoft on Monday announced the general availability of Azure OpenAI Service as part of its ongoing partnership with OpenAI. Businesses will soon have access to Chat"
     publishedDateTime: 2023-01-17T18:49:00Z

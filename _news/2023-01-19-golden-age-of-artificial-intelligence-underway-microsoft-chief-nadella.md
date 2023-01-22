@@ -103,22 +103,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "ChatGPT Is Coming Soon To Azure OpenAI Service, Says Microsoft Chief Satya Nadella"
-    excerpt: "Microsoft has allowed its cloud-computing users to preview tech by OpenAI, a startup that it is backing. The preview has been done through a program that Microsoft calls the Azure OpenAI service."
-    publishedDateTime: 2023-01-17T08:29:00Z
-    webUrl: "https://www.ndtv.com/business/chatgpt-is-coming-soon-to-azure-openai-service-says-microsoft-chief-satya-nadella-3698997"
-    ampWebUrl: "https://www.ndtv.com/business/chatgpt-is-coming-soon-to-azure-openai-service-says-microsoft-chief-satya-nadella-3698997/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/chatgpt-is-coming-soon-to-azure-openai-service-says-microsoft-chief-satya-nadella-3698997/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 83
-    images:
-      - url: "https://c.ndtvimg.com/2023-01/6uld4jdg_chatgpt-getty_625x300_17_January_23.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Microsoft to add ChatGPT to its Azure OpenAI service"
     excerpt: "One company that thinks it should is Microsoft, which has announced that it will feature in its Azure Open Ai service “soon”. Along with working closer with ChatGPT’s creators, OpenAI, Microsoft is also said to be readying a sizeable investment into ..."
     publishedDateTime: 2023-01-17T09:26:00Z
@@ -209,15 +193,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "ChatGPT is coming soon to Azure OpenAI Service: Microsoft CEO Satya Nadella"
-    excerpt: "Microsoft has allowed its cloud-computing users to preview tech by OpenAI a startup that it is backing. The preview has been done through a program that Microsoft calls the Azure OpenAI service."
-    publishedDateTime: 2023-01-17T07:25:00Z
-    webUrl: "https://www.devdiscourse.com/article/business/2321914-chatgpt-is-coming-soon-to-azure-openai-service-microsoft-ceo-satya-nadella"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 47
   - title: "Microsoft plans to add AI capabilities into every product"
     excerpt: "Microsoft plans to incorporate artificial intelligence products from ChatGPT and Dall-E 2 maker OpenAI in all of its"
     publishedDateTime: 2023-01-17T20:35:00Z

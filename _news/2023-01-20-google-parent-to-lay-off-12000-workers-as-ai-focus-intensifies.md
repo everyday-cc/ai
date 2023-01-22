@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/google-parent-lay-off-12000-worke
 webUrl: "https://www.reuters.com/business/google-parent-lay-off-12000-workers-memo-2023-01-20/"
 type: article
 quality: 67
-heat: 109
+heat: 107
 published: true
 
 provider:

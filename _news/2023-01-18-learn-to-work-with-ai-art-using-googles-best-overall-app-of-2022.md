@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/science-technology/learn-to-work-with
 webUrl: "https://www.entrepreneur.com/science-technology/learn-to-work-with-ai-art-using-googles-best-overall-app/442934"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
   - Facebook AI
-
-related:
-  - title: "7 ways Google is using AI to help solve society's challenges"
-    excerpt: "Google is using AI to help people facing disease and natural disasters, and to provide new opportunities for underserved communities."
-    publishedDateTime: 2023-01-17T08:00:00Z
-    webUrl: "https://blog.google/technology/ai/7-ways-google-is-using-ai-to-help-solve-societys-challenges/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 89
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Davos_AI_hero.max-1300x1300.jpg"
-        width: 1300
-        height: 541
-        isCached: true
 
 secured: "OtRS8wmWYr2oKdKJWGCStMEW5D0T3DcE/H7T74oCsxiKX+wQ5Mcxa92t0lUKo8Ck4WPAeCdXTpGlmWxYtu2Efamkkf0RBZ9p7lpgL1FF76dUR5NXRWLMeQzS7I+uhYyhK3S3BOiRZTLTSvAj1y9Lk8FNw8gUCPzakJ5EZNllyfxlQRrJCQiIf83hSvqHRFHfaOp4CRxuWAkx2E2svB0wXtTHT+tlBC+kNPzfsYoZo3eJ8bom+jd9iXKs7nU+KoxkWahNBc8SAmId8b3momFHQm7U2ewz/ulze7tDf/6H+HavaDaIzcfnMZY1g1fU4b4CzNGLTbOMmGrKKg/CRsutQeppjSQ4HivFlLsc4yBduzLHRM18HFJf0WxXJxZV8yrXS8umdEiRrTBf6JZTfKJPX7XFqVsrZKuAOJU1TtYM/zgcehB6OJiiS5AHem9/ipkSwugHBTW6PHNk6c46bmiRZgw6vIKOpXIJryHhx4mPnW/v6uQ28XKjDxs3pAIOus0O2nzJ3hNOUDWagxQY3uGRQQ==;axnPwWLdicPpQ93BpJmCwQ=="
 ---

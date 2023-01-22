@@ -77,20 +77,6 @@ related:
         width: 788
         height: 443
         isCached: true
-  - title: "Microsoft: Viral chatbot ChatGPT ‘coming soon’ to Azure OpenAI Service"
-    excerpt: "The Azure OpenAI Service has been available to a limited number of enterprise customers when it debuted in November 2021. Microsoft: Viral chatbot ChatGPT 'coming soon' to Azure OpenAI Service. Artificial Intelligence,"
-    publishedDateTime: 2023-01-17T07:28:00Z
-    webUrl: "https://www.itp.net/emergent-tech/microsoft-viral-chatbot-chatgpt-coming-soon-to-azure-openai-service"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 69
-    images:
-      - url: "https://www.itp.net/cloud/2023/01/17/Microsoft_buildings_EU-1.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Microsoft expands availability of Azure OpenAI Service"
     excerpt: "Microsoft announced that it’s expanding the general availability of Azure OpenAI, which allows more businesses to apply for access to AI models such as GPT-3.5, Codex and DALL•E 2."
     publishedDateTime: 2023-01-18T13:03:00Z
@@ -127,20 +113,6 @@ related:
       - url: "https://www.onmsft.com/cdn-cgi/image/width=1024,height=768,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2021/01/Azure-cloud-cropped.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Microsoft Azure Openai Service Now Generally Available, Chatgpt Coming Soon"
-    excerpt: "Microsoft has announced the general availability of the Azure OpenAI service, which enables enterprises to power the"
-    publishedDateTime: 2023-01-17T08:05:00Z
-    webUrl: "https://menafn.com/1105437538/Microsoft-Azure-Openai-Service-Now-Generally-Available-Chatgpt-Coming-Soon"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 67
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?993770"
-        width: 462
-        height: 250
         isCached: true
   - title: "Microsoft's Azure OpenAI Service expands to general availability, will add ChatGPT soon"
     excerpt: "Microsoft plans to add chatbot ChatGPT to its Azure cloud computing service. The company said that the Azure OpenAI Service, a program offering access to OpenAI's technology, was now entering general availability."
@@ -193,15 +165,6 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 49
-  - title: "Microsoft makes Azure with OpenAI’s Chat GPT available for enterprise customers"
-    excerpt: "Microsoft announced it will make Azure’s cloud service with OpenAI’s ChatGPT accessible for its enterprise customers"
-    publishedDateTime: 2023-01-17T07:25:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-makes-azure-with-openais-chat-gpt-available-for-enterprise-customers/article66387033.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 45
   - title: "The Download: battery recycling, and how AI might revamp Microsoft Office"
     excerpt: "To Redwood Materials, the rows of cardboard boxes in the parking lot of its new battery recycling site just outside Reno, Nevada, represent both the past and the future of electric vehicles. Far from trash,"
     publishedDateTime: 2023-01-17T13:11:00Z

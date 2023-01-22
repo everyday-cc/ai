@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/ai/9-ways-we-use-ai-in-our-products
 webUrl: "https://blog.google/technology/ai/9-ways-we-use-ai-in-our-products/"
 type: article
 quality: 89
-heat: 93
+heat: 89
 published: true
 
 provider:

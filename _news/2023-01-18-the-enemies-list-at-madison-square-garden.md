@@ -1,41 +1,36 @@
 ---
 category: news
-title: "New York Legislators to Madison Square Garden: TKTK Facial Recognition"
-excerpt: "It is absolutely time for the city and the state to reconsider any and all permits, licenses, and benefits provided to MSG in the face of their continued malfeasance,” one New York"
-publishedDateTime: 2023-01-17T20:46:00Z
-originalUrl: "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scaning-1234662270/"
-webUrl: "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scaning-1234662270/"
+title: "The ‘Enemies List’ at Madison Square Garden"
+excerpt: "This is “The Daily.” [THEME MUSIC] Today, with little warning or regulation, more and more companies have begun using facial recognition technology on their customers, they say as a security ..."
+publishedDateTime: 2023-01-18T13:52:00Z
+originalUrl: "https://www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.html"
+webUrl: "https://www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.html"
+ampWebUrl: "https://www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.amp.html"
 type: article
-quality: 21
-heat: -1
-published: false
+quality: 74
+heat: 114
+published: true
 
 provider:
-  name: Rolling Stone
-  domain: rollingstone.com
+  name: The New York Times
+  domain: nytimes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
+
+images:
+  - url: "https://static01.nyt.com/images/2023/01/19/multimedia/18daily-1/13Daily-MSG-audio-app-zcgv-facebookJumbo.jpg"
+    width: 1050
+    height: 550
+    isCached: true
 
 related:
-  - title: "The ‘Enemies List’ at Madison Square Garden"
-    excerpt: "This is “The Daily.” [THEME MUSIC] Today, with little warning or regulation, more and more companies have begun using facial recognition technology on their customers, they say as a security ..."
-    publishedDateTime: 2023-01-18T13:52:00Z
-    webUrl: "https://www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.html"
-    ampWebUrl: "https://www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.amp.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: "https://static01.nyt.com/images/2023/01/19/multimedia/18daily-1/13Daily-MSG-audio-app-zcgv-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "New York Legislators Protest Madison Square Garden Over Facial Recognition"
     excerpt: "It is absolutely time for the city and the state to reconsider any and all permits, licenses, and benefits provided to MSG in the face of their continued malfeasance,” one New York"
     publishedDateTime: 2023-01-17T21:22:00Z
@@ -82,7 +77,16 @@ related:
         width: 2048
         height: 1259
         isCached: true
+  - title: "New York Legislators to Madison Square Garden: TKTK Facial Recognition"
+    excerpt: "It is absolutely time for the city and the state to reconsider any and all permits, licenses, and benefits provided to MSG in the face of their continued malfeasance,” one New York"
+    publishedDateTime: 2023-01-17T20:46:00Z
+    webUrl: "https://www.rollingstone.com/music/music-news/new-york-senate-madison-square-garden-face-scaning-1234662270/"
+    type: article
+    provider:
+      name: Rolling Stone
+      domain: rollingstone.com
+    quality: 21
 
-secured: "cbUr1ibY7EhI4FwsCfhIUrCochUxsD6szF9N2JfwJhyGrYf+wWrk45Mvz0mhztDy7azTOhGe1HuPYNMl6yV50gPoOwB82dhkeiI7sAyQ4Ce5wSYKypL/L0aYVWIQsH+zCcVn+VyKl31g7FaE8iF/6x94Evc7gE5+i8JIP99LKGQVE9nkR90LnvSUK2Bm1P4YP0GCJKsYE+6ACripCyenswex1JqBvvPTRd+EQXck+THqg2wfbBUcyZDH9hbi7sIvm7GHcs2P/Q4p1rzQbKGL69LO73g/uflYExlzYCRZ5q+F67BkHTRU6VpTa8llcs8d4wmDZV03hgzoSJeM25JwUblVB5qF4Qm8pP9xO0lj1+XOnp98qVsTnyWhcTjVKQpQREVnxg6o+5H9wjJUmbWL7iCQDcP5Xi0Frm6u++eoo5Vdko/zykBADavP7tsy/TEi7I/t0zW0Hbr+hrbJbTNWjjVDdVNlBjuJ76L+WdSpzXT5Les8j3efjVqpliuRGyH+TAO2zh9hWI+ILlD1Rj70KQ==;OderfnkILmdPj/YtlcESmQ=="
+secured: "5/60e+ehX38WMHYtLxsuIJ4uk+qVaVruaqbAY6jP8TsFvjGXTUyt07ER9x5CHkya+50KEXPNNEGySk8RbktA7+AQbHFeRUNWdQwp+eCQDzPro7vWunfCggeEefdP7jHQttiP15Dz3tX+bL4Z1xD72ZeuuMgdvqwetxcSjv1SkFNtAKif8CSVgcuj1ru1elK0sA+9QS/L4QlK9KvSGECSMg3O2JXOh007g1Ha2PoKbqHh1PonNUAcSFizijOejnDXeh/gEq1oAOCxSkBq8BzqI2o1Aygo9QhiOCvoKOfpZYIQ4wDAeAQhgpv4h/HbwSz/f1BnJIMa5FJ+OBzTFMafIyDB/yq/euwKANT8qyV3sXo=;9nRVLWmFROb0++WV85D8pw=="
 ---
 

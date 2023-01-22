@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Accounting Market Growth, Trends and Industry Forecast 2023-2029 with Top Countries Data"
-    excerpt: "Artificial Intelligence in Accounting Market\" Research report provides significant value on the state of the industry."
-    publishedDateTime: 2023-01-17T07:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-growth-trends-and-industry-forecast-2023-2029-with-top-countries-data-2023-01-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Forecast 2028 for the Automatic Speech Recognition Market in terms of size, returns, gross margin, and market share"
     excerpt: "Automatic Speech Recognition Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
     publishedDateTime: 2023-01-20T02:36:00Z
