@@ -30,6 +30,17 @@ images:
     height: 372
     isCached: true
 
+related:
+  - title: "Coalition ‘games on Indigenous voice will blow it up’, says Noel Pearson"
+    excerpt: "Noel Pearson﻿ has warned Australia will end up with “a completely useless” Indigenous advisory body if federal parliament legislates a voice after a failed referendum and says the Liberal Party will “detonate” a historic opportunity if it does not provide its support."
+    publishedDateTime: 2023-01-23T10:56:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/coalition-games-on-indigenous-voice-will-blow-it-up-says-noel-pearson/news-story/3d8b5074d2dea0e8105c2ba37ad1cf72"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 3
+
 secured: "KEPSQ16z30nfMeddZT6gu7NUkHVh592mZLPv1VXD7UV1Wscf6MLE768tj+ZrzVSN2BStzlHew+04Trc887kqiIYAe8WYjn9IqHhEuOJhzjrXO4IXp3VzJQvXMGYf2fvFcwzuHkAa/QtSgsjELTMkOiw9jhYA3HKX8PlZTFoJ9B6z1Vl15A0fHX01r3U5Fa1VQFIHw69yHRwo8RO2dpM/UbEtm+ya0FTfECxHOa+YMyQbCofxq71S0JzMDcamoujqPRm63uuWP/ilFe3ueYkif9RUkmS9f58zwrXgofCpkKF4sACjiOn6JkRrA3+9sHeWLaQKyt2yW8Q48xqOVIs3Vyd6PRvkeao2cssfU2DOseu/U0CYGyADh9rz4WL5qAvygtI0izi9+XQjVQYNUrQzvGLxp2Kb+CU02F56WpoMh6pUHuysncwAI+Ag+rdg6WCHITBBIrb4G0K17/S2LWXHULqs3BI5X1vsdq5Ollw7efoeoVdHtroXHweIkqbur5tRk5p6hmqmfowbA0lWARxJDQ==;iYVWH6u+Qnjap7d5/ElueA=="
 ---
 

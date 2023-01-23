@@ -170,15 +170,6 @@ related:
       name: https//carbuzz
       domain: carbuzz.com
     quality: 19
-  - title: "Tesla autopilot engineer says company’s video of self-driving feature was faked"
-    excerpt: "A senior engineer at Tesla has alleged that a 2016 video promoting the automaker's self-driving technology was staged."
-    publishedDateTime: 2023-01-18T18:17:00Z
-    webUrl: "https://www.dailydot.com/debug/tesla-engineer-self-driving-video-staged/"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 15
 
 secured: "oEQEvR0DFBdsB4X0yGbmm65jrAPib6NLwRbUwItPcvGp3DTUWBoI2NA47xysX9e0AQcMKlgpUOqk3bkRoqgDqykB8k3Sxz8+6VD17/y6AVFzrif+x8xKAtuRS+JVvzjM7eZ7Sh3WNqVTrLxgCMHi8lm8qay10oWaAjS5mbs+doUoYAL2DRPwbdhYXag4HZhjE2SZoyaUUFxpMIqrW9sv5MYRdTc5nZopCmL+tD8myqR3SO05kemxxTqsF52JGTodDx7Xeman+zMNn3VBngEH91r4CTIjmhqecW9USJpQtZXrMC/xfz5DvYzTlYaqnVUoVadzHnP9ypJ87ymntK02HIlB5BApMbX8pMeCbxCsAzjzGE36pwL7ZFSTKpehi+Zwpa6gfE2U3DTz3wlBy72KHuO3lOHTNivZJZCFI1HhSulC2hqAAt+zLsL9Z9l97ZoI3U3oA/LXIWLSAUzsOtgJ08XQ/UwbOmTtaMYjXBY5JgBEjg0IJX7sfczyLsE7PSHlUbKG1oczjjVd/fP0UMgSnw==;xEFK5/6WnlRyaFKSOcfSkA=="
 ---

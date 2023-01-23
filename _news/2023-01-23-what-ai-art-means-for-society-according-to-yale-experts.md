@@ -90,20 +90,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Getty Images Has Started Legal Proceedings Against an AI Generative Art Company For Copyright Infringement"
-    excerpt: "Getty announced in a press release on Tuesday that it began legal proceedings against AI company Stability AI for intellectual property infringement."
-    publishedDateTime: 2023-01-18T17:33:00Z
-    webUrl: "https://www.entrepreneur.com/business-news/getty-images-to-ai-companies-stop-illegally-using-our/443216"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 51
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1674066815-SOPAImagesContributor.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-01-19T18:45:00Z
@@ -179,6 +165,6 @@ related:
       domain: abcnews.go.com
     quality: 17
 
-secured: "usI1k+iJhEypGceOxki3FaMAmULPN71yMGoxlIFQbfz5TQufW4Tgo+FeX0o25oaAEz4ROgh3mnirDYKU1AZLUmP5AX6qs0fvmelLjq2sinUPceovC/Y32le4QZkD55Pqnvyem5edzasAkeItrSk+cK2YP1IuXQKHfOwY6tlOoEWfj13uCDdLeQxFCTtGs6HNrcaTH8bqJLx0MtcI3sEWRVTUEqbiQL/4Vj7dQ41mDRgYJW8m0ENH3z7RU5vwYHKjE7g4orxsNEGoKsmHa3T0FBEVhaEWI/jVSZyoKYIeUM7I+9SE55iHFHrcrBJ8TcyqwefsZFUUprj+VbiT5L6gjfSeNg6xXc5y/YCVghskohk=;W/3OHwF1uuw4eCahiI764w=="
+secured: "2rvykE9Lzt0L59AarXg6CKe7L/bhX2dwq61QLHhEjCyu26QnAGd2c+06+kuU7dizZSawGln0vj+Q25BDDyWree32jxbsbI91cLwVyrHfzxDoapby+eNtMu1zT46x7YQMF9vomOZ99093/n9sJhtkGxkuZo7avZpioCsFJImfnlcEum95o27pauFkBpvLv1pr7c9wROxw+uNNMbfE/aW0loR5JTQoOgxOBsLIgVBm9uX8iE+AUJKqmWeLC/7sLcPftqD2a2ktncOWLHyz2mHKeC2GQP/MOFxUzh9xP8QGJL9u60oEQe/MCmdtXCRymdAAcIIyZaRCxTW/b/OoFHomiqVmcw+JjSA67wgejmANeQzx5lmnlFEO02oD9XMUn+Imx6gJo1n5PIOvqTEkZ8OmaXFPtmt1qqDyLnZ6vaIAmVBKrzvLNEN3FUNHZdJxFE/CL1btO9C1XFi8qFncxtsURwce9UF/qvIOyszQFGJo4oZHLkgoEppl/DjsJuNNUORUpSDc0ShzPBTlU9GDGocSpA==;l/KcbaxW68s6wB8+6CbinA=="
 ---
 

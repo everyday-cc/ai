@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/chatgpt-secure-cloud/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/chatgpt-secure-cloud/amp/"
 type: article
 quality: 104
-heat: 384
+heat: 394
 published: true
 
 provider:
@@ -230,6 +230,22 @@ related:
         width: 1536
         height: 1024
         isCached: true
+  - title: "Inside the mind of ChatGPT: How artificial intelligence is changing the way we learn"
+    excerpt: "The future is here, and it can do your homework. Artificial intelligence, like the popular ChatGPT app, is ripe for exploitation by students, experts say."
+    publishedDateTime: 2023-01-23T08:00:00Z
+    webUrl: "https://globalnews.ca/news/9421360/artificial-intelligence-chatgpt-app-student-homework/"
+    ampWebUrl: "https://globalnews.ca/news/9421360/artificial-intelligence-chatgpt-app-student-homework/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9421360/artificial-intelligence-chatgpt-app-student-homework/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 52
+    images:
+      - url: "https://globalnews.ca/wp-content/uploads/2023/01/2023011218018-63c092ef3d9a87578edb1e3ajpeg-1.jpg?quality=85&#038;strip=all"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Nearly a Third of White-Collar Workers Have Tried ChatGPT or Other AI Programs, According to a New Survey"
     excerpt: "Many are using the technology to draft emails, generate ideas, write and troubleshoot bits of code and summarize research or meeting notes"
     publishedDateTime: 2023-01-20T02:59:00Z
@@ -317,20 +333,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "What generative AI like ChatGPT gets right — and wrong"
-    excerpt: "People have used it to write sonnets, essays and even computer code — usually followed by some statement akin to “Wow, this is incredible.” Where generative AI can shine is more general tasks that may not end up the way you thought — writing form emails,"
-    publishedDateTime: 2023-01-18T17:09:00Z
-    webUrl: "https://www.grid.news/story/technology/2023/01/18/what-generative-ai-like-chatgpt-gets-right-and-wrong/"
-    type: article
-    provider:
-      name: grid
-      domain: grid.news
-    quality: 39
-    images:
-      - url: "https://www.grid.news/resizer/4_o-cnZ1toWsKZMVtTtZUrBHr9w=/1200x630/filters:format(jpg):quality(100)/cloudfront-us-east-1.images.arcpublishing.com/thesummit/YRSXDSDSRZH7JNBNZMIO66QBHA.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "From Fake News to Fake Views: New Challenges Posed by ChatGPT-Like AI"
     excerpt: "An infinite supply of plausible opinions from fake, AI-powered pundits threatens to crowd out genuine discourse."
     publishedDateTime: 2023-01-20T12:16:00Z
@@ -358,6 +360,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2023/01/20/1909914.jpeg"
         width: 1240
         height: 786
+        isCached: true
+  - title: "Google Sparrow: an AI to compete with ChatGPT"
+    excerpt: "In response to the danger posed by ChatGPT, Google is preparing its response with its own artificial intelligence. Created by DeepMind and called Sparrow, it must provide reliable and sourced answers while respecting certain limits."
+    publishedDateTime: 2023-01-23T09:44:00Z
+    webUrl: "https://ccm.net/apps-sites/apps/10537-google-sparrow-an-ai-to-compete-with-chatgpt/"
+    type: article
+    provider:
+      name: CCM
+      domain: ccm.net
+    quality: 39
+    images:
+      - url: "https://img-19.ccm.net/qwqEGEzCpLozPL_ebL4CAn17Nr8=/1500x/smart/ef073b86da5c481a9f72a8a07969c7fd/ccmcms-enccm/39469876.jpg"
+        width: 1500
+        height: 1326
         isCached: true
   - title: "AI research tool aims to supplement flawed ChatGPT"
     excerpt: "It started out as a side project during his university studies, but Kieran Lindsay believes his automated Minerva research assistant could be a game-changer for academics struggling to keep up with the flood of publications – and an important step towards explainable AI."

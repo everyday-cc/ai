@@ -196,6 +196,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Forecast 2028 for the Artificial Intelligence based Personalization Market in terms of size, returns, gross margin, and market share"
+    excerpt: "Artificial Intelligence based Personalization Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,"
+    publishedDateTime: 2023-01-23T04:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-artificial-intelligence-based-personalization-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive Media Market 2022 Industry Size, Share, Trends, Opportunities, Growth Analysis and Forecast to 2030"
     excerpt: "The global Cognitive Media Market report covers detailed study with the underlying influencing factors for the variations in the industry growth trends. The report scope includes market analysis on regional as well as country level."
     publishedDateTime: 2023-01-19T13:00:00Z

@@ -88,20 +88,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Getty Images Has Started Legal Proceedings Against an AI Generative Art Company For Copyright Infringement"
-    excerpt: "Getty announced in a press release on Tuesday that it began legal proceedings against AI company Stability AI for intellectual property infringement."
-    publishedDateTime: 2023-01-18T17:33:00Z
-    webUrl: "https://www.entrepreneur.com/business-news/getty-images-to-ai-companies-stop-illegally-using-our/443216"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 51
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1674066815-SOPAImagesContributor.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "What AI art means for society, according to Yale experts"
     excerpt: "Will AI art elevate human creativity? Will AI be a tool or a replacement for artists? Is AI art, art? Yale experts weigh in."
     publishedDateTime: 2023-01-23T07:02:00Z

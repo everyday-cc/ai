@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-release
 cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html?outputType=amp"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Michigan’s Atwater Brewery releases IPA designed by artificial intelligence"
-    excerpt: "Artificial Intelligence IPA is a 6.5% brew made with a blend of Centennial, Citra, and Amarillo hops, which results in tropical and citrus flavors and aromas."
-    publishedDateTime: 2023-01-18T17:55:00Z
-    webUrl: "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html"
-    ampWebUrl: "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 55
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EJPLGYZV7BETJGYP34T37UYWMQ.jpeg"
-        width: 3024
-        height: 2530
-        isCached: true
   - title: "Michigan teachers wary of new artificial intelligence software"
     excerpt: "ChatGPT has been around since November and has taken the internet by storm, but is raising questions in Michigan classrooms."
     publishedDateTime: 2023-01-23T03:02:00Z

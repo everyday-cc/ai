@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/amp/"
 type: article
 quality: 104
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -166,15 +166,6 @@ related:
       name: https//carbuzz
       domain: carbuzz.com
     quality: 19
-  - title: "Tesla autopilot engineer says company’s video of self-driving feature was faked"
-    excerpt: "A senior engineer at Tesla has alleged that a 2016 video promoting the automaker's self-driving technology was staged."
-    publishedDateTime: 2023-01-18T18:17:00Z
-    webUrl: "https://www.dailydot.com/debug/tesla-engineer-self-driving-video-staged/"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 15
   - title: "Musk Led Effort to Exaggerate Tesla’s Self-Driving Capabilities, Documents Reveal"
     excerpt: "Tesla CEO Elon Musk personally dictated language used in a company video which, critics charge, overstated the capabilities the capabilities of the company’s Autopilot driver-assistance system. The re"
     publishedDateTime: 2023-01-20T19:03:00Z

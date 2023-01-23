@@ -40,6 +40,22 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Microsoft Integrates OpenAI AI tools in Workplace Emails and Spreadsheets"
+    excerpt: "With Azure OpenAI Service now generally available, more businesses can apply for access to the most advanced AI models in the world,” the announcement states. This allows companies to integrate AI capabilities into their products and services to improve efficiency and automate their processes."
+    publishedDateTime: 2023-01-23T09:52:00Z
+    webUrl: "https://www.gizmochina.com/2023/01/23/microsoft-integrates-openai-ai-tools-to-its-products/"
+    ampWebUrl: "https://www.gizmochina.com/2023/01/23/microsoft-integrates-openai-ai-tools-to-its-products/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2023/01/23/microsoft-integrates-openai-ai-tools-to-its-products/?amp=1"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 103
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/01/microsoft-integrates-openai-ai-tools-to-its-products.jpeg"
+        width: 1067
+        height: 600
+        isCached: true
   - title: "Microsoft rolling out Azure Open AI service with access to Chat GPT soon"
     excerpt: "American tech giant Microsoft is all set to roll out Azure Open AI service this week, which will allow businesses to integrate tools like DALL-E into their own cloud apps. According to The Verge, an American technology news website,"
     publishedDateTime: 2023-01-19T11:49:00Z

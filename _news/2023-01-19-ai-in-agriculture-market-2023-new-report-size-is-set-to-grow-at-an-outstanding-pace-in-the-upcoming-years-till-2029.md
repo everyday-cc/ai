@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-agriculture-market
 webUrl: "https://www.marketwatch.com/press-release/ai-in-agriculture-market-2023-new-report-size-is-set-to-grow-at-an-outstanding-pace-in-the-upcoming-years-till-2029-2023-01-19"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Data Science and Machine Learning Service Market Analysis Report 2023 Along with Statistics Figures, till 2029"
+    excerpt: "As per latest research on Data Science and Machine Learning Service Market (Report spread across 102 Pages), the growth"
+    publishedDateTime: 2023-01-23T03:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-01-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech Recognition Software Market 2023 (New Report): Size is set to Grow at an Outstanding Pace in the Upcoming Years till 2029"
     excerpt: "Global Speech Recognition Software Market Research Report 2023 is spread across 120 pages and provides Size, Share, Growth, and Forecast with exclusive vital statistics, data, information, trends, and competitive landscape details in this niche sector."
     publishedDateTime: 2023-01-19T07:36:00Z
@@ -42,29 +56,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mobile Speech Recognition Software Professional Market 2023-2029 (New Report): Know Technology Exploding in Popularity |115 Pages Research"
-    excerpt: "A cost-effective Latest “Mobile Speech Recognition Software Professional Market” report that deliver top-notch"
-    publishedDateTime: 2023-01-20T05:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-professional-market-2023-2029-new-report-know-technology-exploding-in-popularity-115-pages-research-2023-01-20"
+  - title: "Global Data Science and Machine-Learning Platforms Market (New Report-2023) Outlook and Forecast to 2029 with Top Competitors Data"
+    excerpt: "Global Data Science and Machine-Learning Platforms MarketNEW REPORT 2023 presents an exclusive overview of the"
+    publishedDateTime: 2023-01-23T06:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-platforms-market-new-report-2023-outlook-and-forecast-to-2029-with-top-competitors-data-2023-01-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech Recognition Software Market 2023 [New Report]: to Eyewitness Huge Growth by Forecast 2025 | Involved Top Key Players and Emerging Trends"
-    excerpt: "A cost-effective Latest “ Speech Recognition Software Market ” report that deliver top-notch insights into the Industrialmarket. The report also applies both primary and secondary research methodologies to identify new opportunities for development for the Industrial Speech Recognition Software market during the estimated forecast period,"
-    publishedDateTime: 2023-01-20T05:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-2023-new-report-to-eyewitness-huge-growth-by-forecast-2025-involved-top-key-players-and-emerging-trends-2023-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
+    quality: 24
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

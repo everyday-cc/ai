@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Agriculture Market 2023 (New Report): Size is set to Grow at an Outstanding Pace in the Upcoming Years till 2029"
-    excerpt: "AI in Agriculture Market Share report provides overview of market ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Solar EVA Sheets Market Share, Size Global Growth Analysis, Gross Margin ..."
-    publishedDateTime: 2023-01-19T10:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-agriculture-market-2023-new-report-size-is-set-to-grow-at-an-outstanding-pace-in-the-upcoming-years-till-2029-2023-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech Recognition Software Market 2023 (New Report): Size is set to Grow at an Outstanding Pace in the Upcoming Years till 2029"
-    excerpt: "Global Speech Recognition Software Market Research Report 2023 is spread across 120 pages and provides Size, Share, Growth, and Forecast with exclusive vital statistics, data, information, trends, and competitive landscape details in this niche sector."
-    publishedDateTime: 2023-01-19T07:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-2023-new-report-size-is-set-to-grow-at-an-outstanding-pace-in-the-upcoming-years-till-2029-2023-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Mobile Speech Recognition Software Professional Market 2023-2029 (New Report): Know Technology Exploding in Popularity |115 Pages Research"
     excerpt: "A cost-effective Latest “Mobile Speech Recognition Software Professional Market” report that deliver top-notch"
     publishedDateTime: 2023-01-20T05:59:00Z
@@ -71,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Global Market Report 2022: Increased Adoption of AI Technology in Healthcare Boosts Growth - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence Market by Component ... aerospace and defense, automotive, healthcare IT & telecom, manufacturing, education, retail & e-commerce, energy & utilities, media ..."
+    publishedDateTime: 2023-01-18T20:41:00Z
+    webUrl: "https://www.eagletribune.com/region/artificial-intelligence-global-market-report-2022-increased-adoption-of-ai-technology-in-healthcare-boosts-growth/article_c20fe850-b636-5bd0-9962-615da3af202b.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 15
 
 secured: "tXyv7c2iR1QKV9z/1IgpwJsYQxfs647JjDjq1dC0QIMVj39OWFL/rEmY6m5/Wb9kpM46qhWbE52y23R69gV8uaNth4BEx/9zsWKcJGDiLxPIxngE6dsqeKmDTg9j/8/yabIVdNsswofdpfu/D8eTGeEzDb1lt6pujrKG7eSEgpSOOpEuB1ZG+3gDy9E4xlPPmaQvV01/YWnYzu4b39bCodMNtMfNAmceJs3b03u0X978qP+t1ijH6jfY7aAvOEq29/iqB0LDjsx31CyGcrkf2nRivbF93TqCuwpStAcXPDzO5pMENprKE5rOELO923OvhkieC8eFtC/IkLZL2NkSg5Np8MTpXUKhI+9tHQwpig8=;KPDKHiDcjvTJ/+mQG7wnJw=="
 ---

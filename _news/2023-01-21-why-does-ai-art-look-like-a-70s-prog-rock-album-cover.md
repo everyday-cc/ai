@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/generative-ai-style-movement-throwback/"
 ampWebUrl: "https://www.wired.com/story/generative-ai-style-movement-throwback/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-style-movement-throwback/amp"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/63c8932c1628debb3e3ed5fe/master/pass/collage-02.jpg"

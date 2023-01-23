@@ -7,7 +7,7 @@ originalUrl: "https://scitechdaily.com/how-artificial-intelligence-found-the-wor
 webUrl: "https://scitechdaily.com/how-artificial-intelligence-found-the-words-to-kill-cancer-cells/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,31 @@ images:
     width: 2000
     height: 1333
     isCached: true
+
+related:
+  - title: "How AI Will Change Writing Forever"
+    excerpt: "From universities to newsrooms, the introduction of ChatGPT and other AI bots will transform writing across our society."
+    publishedDateTime: 2023-01-20T16:09:00Z
+    webUrl: "https://observer.com/2023/01/how-ai-will-change-writing-forever/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 39
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2023/01/GettyImages-1140613459.jpg?quality=80&#038;strip"
+        width: 7200
+        height: 4229
+        isCached: true
+  - title: "How generative AI will supercharge productivity"
+    excerpt: "Imagine software programmers using an AI assistant to write code in their company’s style to four times their output. This is beginning to happen today. Enhanced productivity is now possible with generative tech,"
+    publishedDateTime: 2023-01-20T04:00:00Z
+    webUrl: "https://www.fastcompany.com/90836481/how-generative-ai-will-supercharge-productivity"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "0sFBqaYZLKUHwMFk9NSfC7DAIldlWTtHO93awyGQYJIB4jqOMcOM+SZFv7jwvbT37qmNyjTcspYwJx8/3F4RpN5zF4NgAtylF1MapMe1JGsLq9YwmUIG1w+xxVIxgFzUbMB8Thkvx+kIgMb7ycSUFSuMKGrtflskbHu2LK35xhOFLsCrFbekhM/wvuOAHnwf1IihygWaUY8DFEWNudb8PXiZkb/824UrXzU+ObSxsliHdoCMe7etaAZQb4z57k9bZ8PI4UNAslPcx/QouxjJleIJlWaN0TYAGDrm/ZppOUmAYbiiAAmuHcx/wk4xnLsTPOqLp2G26RlC2SW0JB0iWG2NUqO9CI4ubYtnoxW8UfsVCQ08TVkOqLuEfloiC8fUuYs51k4+eLAaY3AQe2EsO4+VLqFDeKZYnjdhfcjfGtXee13b2fHeKSB2OK5qdcHRm+KxHplPqnV7T2zKdkfVrQYjS7PtAwF/lrqZc34hu9/pE/+lCiEDgseTAQdMG34OCg/GQJx911TfO5rR2FVrdA==;u7Cn/aQGNhn6VyAbAFyMcA=="
 ---

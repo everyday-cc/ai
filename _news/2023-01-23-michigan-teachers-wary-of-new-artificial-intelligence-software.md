@@ -40,22 +40,6 @@ related:
         width: 3024
         height: 2530
         isCached: true
-  - title: "Michigan’s Atwater Brewery releases IPA designed by artificial intelligence"
-    excerpt: "Artificial Intelligence IPA is a 6.5% brew made with a blend of Centennial, Citra, and Amarillo hops, which results in tropical and citrus flavors and aromas."
-    publishedDateTime: 2023-01-18T17:55:00Z
-    webUrl: "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html"
-    ampWebUrl: "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 55
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EJPLGYZV7BETJGYP34T37UYWMQ.jpeg"
-        width: 3024
-        height: 2530
-        isCached: true
   - title: "Michigan brewery to tap kegs on beer designed by artificial intelligence"
     excerpt: "A Michigan brewery is using some of the most advanced forms of technology available to develop a new brew: a recipe designed using artificial intelligence. Atwater Brewery, which operates three taphouses across the state,"
     publishedDateTime: 2023-01-19T13:23:00Z

@@ -3,18 +3,18 @@ category: news
 title: "AI tools can create new images, but who is the real artist?"
 excerpt: "With some generated images traveling on social networks and potentially going viral, they can be challenging to debunk since they can’t be traced back to a specific tool or data source"
 publishedDateTime: 2023-01-20T15:38:00Z
-originalUrl: "https://www.kcci.com/article/ai-images-who-is-real-artist/42592783"
-webUrl: "https://www.kcci.com/article/ai-images-who-is-real-artist/42592783"
-ampWebUrl: "https://www.kcci.com/amp/article/ai-images-who-is-real-artist/42592783"
-cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/ai-images-who-is-real-artist/42592783"
+originalUrl: "https://www.wcvb.com/article/ai-images-who-is-real-artist/42592783"
+webUrl: "https://www.wcvb.com/article/ai-images-who-is-real-artist/42592783"
+ampWebUrl: "https://www.wcvb.com/amp/article/ai-images-who-is-real-artist/42592783"
+cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/ai-images-who-is-real-artist/42592783"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KCCI Des Moines
-  domain: kcci.com
+  name: WCVB Channel 5 Boston
+  domain: wcvb.com
 
 topics:
   - AI Ethics
@@ -88,6 +88,6 @@ related:
         height: 480
         isCached: true
 
-secured: "SHgkXBCxWEqMjkeT8M3s5TuEbTMU0YHwUc98cxAa6WMwPeEedU0Z0YJNr2e+NQ39eDVxVUnrzqhckbIlfI3erMLBGjH+QyPQ/urKdPkF6J+FiGb+Y8qiPnjRN7SZ0sPi8lfd0kM84epCuYZw13DwRKFaBvaUbOHWpx6A3XNfqsmyTh4yI/mBp1RjYRAdnpGg7GZjLEDcbUlSMCnPv9etnQVTqb4RLHxoXJD4rFO/8+M1xFCFI3d/GcVvZW6FBIuP4OB/R1YGrkZZ/ROfkVjgMTVqjug2VAiqp3CZ5FlgIdpx57SbegekRQqBArS33JRXFZaIJ0NwIbRnLCYQKClGlCG5jrZ/+qXeafZEpab3/xw=;5LSAgd81Jlq923a5FoN6jg=="
+secured: "Y7vse5UWlJRPJ/QdKchaNu3/eZBBhSETM7s9Wk3dB+n9ZF12Q8Bpu9wTF0jmHeedJLlzQG/m3DbDv/u2QgVA75fiSW2wY3z97lUkla3ol48XQE0Vt4asUd2Vz2c6rgGf4inS3OXFS+D4eS92+RAXEkOYWzRVkaVkc5V4suGk2tV0M/LEJASJcimHNOEEY54+dxME7yuQWFMv/nddJo25i5fG+/5w1fPLkfI7ypYDWkKp9c8YXkWlknA6ZkTo/GeMsW0iJmWjyZszHd/h0ROFvIqkngCeay9tJ57+ADujloaXFdBwDQVpCYRRYfpUTJyXYVb/H/LpGaOUaO3VIKbmtSdzRByhB2ap4UcBit1M3KU=;pVUdF/SRZHfT/YFbSP00gw=="
 ---
 
