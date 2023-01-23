@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "standardAI"
   url: "https://twitter.com/standardAI"
-  followers: 2808
+  followers: 2809
 
 size: 51-200 employees
 yearFounded: 2017
