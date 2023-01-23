@@ -57,6 +57,22 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Microsoft extends AI partnership with ChatGPT and Dall-E maker OpenAI"
+    excerpt: "OpenAI is the creator of popular image generation tool Dall-E and the chatbot ChatGPT. Microsoft invested $1bn (£808m) in the company, founded by Elon Musk and tech investor Sam Altman in 2019. The Windows and Xbox maker plans up to 10,"
+    publishedDateTime: 2023-01-23T17:43:00Z
+    webUrl: "https://www.bbc.com/news/technology-64374283"
+    ampWebUrl: "https://www.bbc.com/news/technology-64374283.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-64374283.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 104
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/8C9E/production/_128389953_gettyimages-1176203598.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Microsoft invests billions in ChatGPT-maker OpenAI"
     excerpt: "The partnership positions Microsoft to sharpen its competition with Google in commercializing new AI breakthroughs that could transform numerous professions."
     publishedDateTime: 2023-01-23T16:48:00Z
@@ -89,6 +105,22 @@ related:
         width: 1067
         height: 600
         isCached: true
+  - title: "OpenAI and Microsoft reaffirm shared quest for powerful AI with new investment"
+    excerpt: "OpenAI has been behind several key technologies that made 2022 the year that generative AI went mainstream, including DALL-E image synthesis, the ChatGPT chat bot (powered by GPT-3 ), and GitHub Copilot for programming assistance."
+    publishedDateTime: 2023-01-23T17:49:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/01/openai-and-microsoft-reaffirm-shared-quest-for-powerful-ai-with-new-investment/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/01/openai-and-microsoft-reaffirm-shared-quest-for-powerful-ai-with-new-investment/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/openai-and-microsoft-reaffirm-shared-quest-for-powerful-ai-with-new-investment/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 100
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/microsoft_openai_hero_1-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "From Teams to PowerPoint: 10 ways Azure AI enhances the Microsoft Apps we use everyday"
     excerpt: "Azure AI is driving innovation and improving experiences for employees, users, and customers in a variety of ways, from increasing workday productivity to promoting inclusion and accessibility. The…"
     publishedDateTime: 2023-01-23T08:00:35Z
@@ -113,6 +145,22 @@ related:
       - url: "https://static.toiimg.com/photo/msid-97134538/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Microsoft announces major investment in artificial intelligence startup OpenAI"
+    excerpt: "Microsoft says it is making a “multiyear, multibillion dollar investment” in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can generate readable text, images and computer code."
+    publishedDateTime: 2023-01-23T16:45:00Z
+    webUrl: "https://www.pbs.org/newshour/science/microsoft-announces-major-investment-in-artificial-intelligence-startup-openai"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/science/microsoft-announces-major-investment-in-artificial-intelligence-startup-openai"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/science/microsoft-announces-major-investment-in-artificial-intelligence-startup-openai"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 85
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/12/hackattack1-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Microsoft invests billions in ChatGPT-maker OpenAI"
     excerpt: "Microsoft says it is making a \"multiyear, multibillion dollar investment\" in the artificial intelligence startup OpenAI, maker of ChatGPT"
@@ -145,6 +193,22 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Microsoft to invest billions in maker of viral AI ChatGPT"
+    excerpt: "Microsoft says it is making a “multiyear, multibillion dollar investment” in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can write readable text and generate new images."
+    publishedDateTime: 2023-01-23T17:14:00Z
+    webUrl: "https://www.oregonlive.com/business/2023/01/microsoft-to-invest-billions-in-maker-of-viral-ai-chatgpt.html"
+    ampWebUrl: "https://www.oregonlive.com/business/2023/01/microsoft-to-invest-billions-in-maker-of-viral-ai-chatgpt.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/business/2023/01/microsoft-to-invest-billions-in-maker-of-viral-ai-chatgpt.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VNDWT2UXERGS5D6XYF6MMB2LG4.jpg"
+        width: 4121
+        height: 2747
         isCached: true
   - title: "Golden age of Artificial Intelligence is here, says Microsoft boss Satya Nadella"
     excerpt: "The cutting-edge chatbot ChatGPT is capturing the world's imagination. The new artificial intelligence site amassed 1 million users in just five days after its recent launch. It is but one of a dozen AI-driven so-called apps that are expected to transform human productivity and the future of work."
@@ -292,6 +356,6 @@ related:
       domain: scmagazine.com
     quality: 25
 
-secured: "fte1pcKdWFTWGY8/nSQS46doAuN5DfaDZBXKrC5qv3Yn5zCksHceKQiSIrVYRsP6YQ7AkfkzuvT7k2l4+UXgvFZY7CQS7Q74C1miP2T0j1ZjvIGo+U8zmmU3jJARBhCGU43uzWvLfOo/I15rRkXCvF/KPFIr3ciqrb1PZ50Km2VnDi29mBzKeYUAoR9Wrg33zGuvkUxYqRGpaHWq0psiUJsstLs+IafUkqwKsDfEwKTAZA3A7mIpIXrF4qsbFgW033AtXddJycDe8o7k1VznyysEN0UJKn54y7PLr/1rSP5J232Vub9tcjm2twpnLGzVgCLgvQbNzJqdUcgmyL4l6troD/UizZrTHVlMQE1erpw=;urTh9Yh2ncjLgeSKXZQ95g=="
+secured: "noCTDZE4gejujU9RfnELzgv7AhKaVHlzXsdBc+/20NFDIDSLJlxtnP5Veb4S4ksEAAKt27XnvCfwUKxdnMyFRKxfDRHtt8fdVFgzcmjlLZfcHN0oo0r8UiZVrEbRzq5jPGG2d8lJAap1autUBGsrShsWUAapgvoNUUauEVQYFKPW5Fz6no1nH5IGd/krs48RSQtDInHrLZS9wC0yvxd/1a76ypNzikwZ9kCETT+B4hFHMik7Tn0k8uTP65xEpMu5oxtaRfZ8oXjjBooh3SVK8z1EN6dw6dd4DoCMyZ6AfgMs90PpiBXMOovaC4ooZpYVtkbzmJPxlqZYv9SP032WA01kT31l8X8wc3OeVFRtcd410ePAhmtyS1SZp/ual6SwT88v/dF/Uzt7PoalWUpIAVhz7i8vZxr+yAG6WVX70XQ0xxS285koKPbHSGqQA6yWof67RQJDogyxxnvy5/aQS9B+w6jyMGPeI9alvWmiLaT9/Dmp8HsN2gnFaxD2yE6kkP4xkAlh8wHxfJ7S/qvqcA==;LDoyC94alczNI8CwAYCVNg=="
 ---
 

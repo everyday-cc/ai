@@ -58,15 +58,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "AI Is Improving Faster Than Most Humans Realize"
-    excerpt: "Technologies such as ChatGPT will profoundly change the economy, but they are getting better so quickly that it’s impossible to say how."
-    publishedDateTime: 2023-01-23T13:29:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-01-23/chatgpt-is-only-going-to-get-better-and-we-better-get-used-to-it"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "What DALL-E reveals about human creativity"
     excerpt: "The often delightful and arresting images created by the latest generation of text-to-image generators, exemplified by DALL-E 2, Midjourney, and Stable Diffusion, have stirred up lots of buzz in both the arts and the AI worlds."
     publishedDateTime: 2023-01-19T18:26:00Z
@@ -82,6 +73,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2023/what-dall-e-reveals-ab.jpg"
         width: 960
         height: 731
+        isCached: true
+  - title: "AI Is Improving Faster Than Most Humans Realize"
+    excerpt: "Technologies such as ChatGPT will profoundly change the economy, but they are getting better so quickly that it’s impossible to say how."
+    publishedDateTime: 2023-01-23T07:44:00Z
+    webUrl: "https://www.washingtonpost.com/business/ai-is-improving-faster-than-most-humans-realize/2023/01/23/43972ea2-9b24-11ed-93e0-38551e88239c_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IIRW4WU3EQI63E7AHBKR5CBDTQ.jpg&w=1440"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "5sZbmpu3w08hgRjoa/vQAlOaAJaV8e3MGeiXK1Vs9JS3eKtAlkRWVZtCt6+89Wwo+gBhLS6I8UXLXdfkcpUvLi03cbEWTCHaWmX42saKYD/21bCzfxPULEsKjMjds/OGDlgoDy1AAfbMNNj1ConwYQWcGQ5gDkJu1JADW/Ojz4J8L+ddKHbEvapBlPurN1IajBthMEG1/MjDj4jBA1xNJnQdmAZA59+iESxizTxZTq21SLPhdEeE+scF1M9dtAaUJvGEhwGFxPnKPBK0xZxGXt4+7J/zfqEfaZnI6aEAl7zJW95ksyAbMrc+0QZzsqXSLtWfKMcCqTVZK+wzaipsnx6cebZxLQ3/c+ku8ffdnCRbjCZ4aYpbyQUn8MLg2e532BBmt4reYT9FEQyQsfKax0bbYQkv2ivhUYdbfqhzUfK2eP/KQxC2GK2Myp4M8PuGb6vaVEnMpoS3MBI2r5nMWcSFEdMear1PqZxgLZG+tz6D9SUFd1X2JSEGObncMGpdfdqLbVszFdUufuZeiL8glA==;bW+aPXp8AfJGioEaPMIPyg=="

@@ -49,6 +49,15 @@ related:
       name: The Stanford Daily
       domain: stanforddaily.com
     quality: 3
+  - title: "ChatGPT could be a game-changer for marketers, but it won’t replace humans any time soon"
+    excerpt: "This article was originally published on The Conversation, an independent and nonprofit source of news, analysis and commentary from academic experts. Disclosure information is available on the"
+    publishedDateTime: 2023-01-23T17:49:00Z
+    webUrl: "https://www.winnipegfreepress.com/uncategorized/2023/01/23/chatgpt-could-be-a-game-changer-for-marketers-but-it-wont-replace-humans-any-time-soon"
+    type: article
+    provider:
+      name: Winnipeg Free Press
+      domain: winnipegfreepress.com
+    quality: 0
 
 secured: "eb0v8AEEYeZ9JW/8aZ4+i6aAlePRuigw+OoJa18PqvBhYaWT3NS2BzIfEyqb/7CGw3r7j5st9EhZocVmmRGiQL2i4Md4B8gRhUWpR1LA6rw5vpZBxYGYrRyKh8JI9B55gW5QNm4wF71qJJPkIkPvWAEqHWenADC0VUoQYU7C7JaAkr9L8hWfXckly7YSFbL4FeHSW2CNQD2/flNCqnpH0ehobzMnpXwOYfWXsdLczU10RDanzqF0maSyFgNl2Ncw9O4M4ztB9oseJ981PxOpQbozFK2DiTZSBWsuYIgSs/I1csbKs6HtTkGwPpNwJ4VtFZ3E/8cAIBhuovMnOdVlyjSfGej6t9HLvSmAugzuoE1vzRXXDAxg+48iOJxCGCw2CBZG1t8PQ5LZtNGN/jfjd6wW02C+iNeLNbbOwKTOhMe3CsgjfdA2t8eEDLDuppFp2lgYhzM6N3M2IAW+LkuUXLEfnJDBHs+nB4/Ri8Fx16tQLxJer67FbCdRk+XI9/M+9eCKb4MQGEfkDM/s7Mg6Vw==;X92HTzIfJwOEIGYke34YHg=="
 ---

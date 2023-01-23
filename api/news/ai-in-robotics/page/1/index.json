@@ -141,58 +141,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-20-robot-grippers-market-2023-is-anticipated-to-register-a-high-cagr-of-during-the-forecast-period-2023-2027.md",
-      "title": "Robot Grippers Market 2023 is Anticipated to Register a High CAGR of During the Forecast Period 2023-2027",
-      "excerpt": "The global Robot Grippers market size was valued at USD 946.42 million in 2021 and is expected to expand at a CAGR of 14.24% during the forecast period, reaching USD 2103.99 million by 2027.” | Ask For Sample Report Moreover,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/robot-grippers-market-2023-is-anticipated-to-register-a-high-cagr-of-during-the-forecast-period-2023-2027-2023-01-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/robot-grippers-market-2023-is-anticipated-to-register-a-high-cagr-of-during-the-forecast-period-2023-2027-2023-01-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-19T20:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-20-odisha-soa-signs-mous-with-start-ups-specialising-in-robotics-ai-drone-technology.md",
       "title": "Odisha: SOA signs MoUs with start-ups specialising in robotics, AI, drone technology",
       "excerpt": "The signatories to the MoU were Prof Pradipta Kumar Nanda, Pro-Vice-Chancellor, SOA and Subhajit Nayak and Dhrutidhar Behera",
@@ -265,6 +213,49 @@
       "provider": {
         "name": "Government Technology",
         "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-watch-boston-dynamics-humanoid-robot-atlas-shows-off-impressive-new-skills.md",
+      "title": "Watch: Boston Dynamics’ humanoid robot, Atlas, shows off impressive new skills",
+      "excerpt": "This is the future of robotics.” On its website, Boston Dynamics states, \"Atlas’ advanced control system and state-of-the-art hardware give the robot the power and balance to demonstrate human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/boston-dynamics-humanoid-robot-atlas-shows-off-impressive-skills-take-a-look-9897001.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/boston-dynamics-humanoid-robot-atlas-shows-off-impressive-skills-take-a-look-9897001.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/01/boston1-762x435.png",
+          "width": 762,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/boston-dynamics-humanoid-robot-atlas-shows-off-impressive-skills-take-a-look-9897001.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/boston-dynamics-humanoid-robot-atlas-shows-off-impressive-skills-take-a-look-9897001.html/amp",
+      "publishedDateTime": "2023-01-19T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
         "images": null,
         "publishers": null,
         "authors": null

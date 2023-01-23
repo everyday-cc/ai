@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Watch: Boston Dynamics’ humanoid robot, Atlas, shows off impressive new skills"
+    excerpt: "This is the future of robotics.” On its website, Boston Dynamics states, \"Atlas’ advanced control system and state-of-the-art hardware give the robot the power and balance to demonstrate human ..."
+    publishedDateTime: 2023-01-19T19:03:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/boston-dynamics-humanoid-robot-atlas-shows-off-impressive-skills-take-a-look-9897001.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/boston-dynamics-humanoid-robot-atlas-shows-off-impressive-skills-take-a-look-9897001.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/boston-dynamics-humanoid-robot-atlas-shows-off-impressive-skills-take-a-look-9897001.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 55
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/01/boston1-762x435.png"
+        width: 762
+        height: 435
+        isCached: true
   - title: "Boston Dynamics just dropped a new video. Look what its humanoid robot can do now"
     excerpt: "Atlas just got a massive upgrade – some grippers. Now, the robot can toss and grab things, in addition to excelling in parkour."
     publishedDateTime: 2023-01-19T19:38:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/boston-dynamics-just-dropped-a-new-v
 webUrl: "https://www.zdnet.com/article/boston-dynamics-just-dropped-a-new-video-look-what-its-humanoid-robot-can-do-now/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Watch: Boston Dynamics’ humanoid robot, Atlas, shows off impressive new skills"
+    excerpt: "This is the future of robotics.” On its website, Boston Dynamics states, \"Atlas’ advanced control system and state-of-the-art hardware give the robot the power and balance to demonstrate human ..."
+    publishedDateTime: 2023-01-19T19:03:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/boston-dynamics-humanoid-robot-atlas-shows-off-impressive-skills-take-a-look-9897001.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/boston-dynamics-humanoid-robot-atlas-shows-off-impressive-skills-take-a-look-9897001.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/boston-dynamics-humanoid-robot-atlas-shows-off-impressive-skills-take-a-look-9897001.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 55
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/01/boston1-762x435.png"
+        width: 762
+        height: 435
+        isCached: true
   - title: "Boston Dynamics’ Atlas robot can now grab and throw objects"
     excerpt: "Boston Dynamics has shown off its Atlas robot once again, and this time it can be seen grabbing, throwing, and backflipping through a simulated construction site."
     publishedDateTime: 2023-01-19T10:49:00Z

@@ -332,25 +332,11 @@ related:
     provider:
       name: RCR Wireless News
       domain: rcrwireless.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2023/01/155772243_m-1068x580.jpg?lossy=1&strip=1&webp=1"
         width: 1068
         height: 580
-        isCached: true
-  - title: "GPT 101: Decoding ChatGPT's Generative AI for Legal Professionals"
-    excerpt: "While ChatGPT has caught the attention of many in the legal market, its underlying AI engine is where the real power—and disruption—lies."
-    publishedDateTime: 2023-01-19T01:09:00Z
-    webUrl: "https://www.law.com/therecorder/2023/01/18/gpt-101-decoding-chatgpts-generative-ai-for-legal-professionals/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Big-data-technology-767x633-2.jpg"
-        width: 767
-        height: 633
         isCached: true
   - title: "From Fake News to Fake Views: New Challenges Posed by ChatGPT-Like AI"
     excerpt: "An infinite supply of plausible opinions from fake, AI-powered pundits threatens to crowd out genuine discourse."

@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-23T15:30:00Z
 originalUrl: "https://www.rcrwireless.com/20230123/ai-ml/kagan-questions-concerns-on-chatgpt-and-artificial-intelligence"
 webUrl: "https://www.rcrwireless.com/20230123/ai-ml/kagan-questions-concerns-on-chatgpt-and-artificial-intelligence"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI
   - AI Ethics
   - AI in Healthcare
+  - IBM AI
 
 images:
   - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2023/01/155772243_m-1068x580.jpg?lossy=1&strip=1&webp=1"
@@ -337,20 +338,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
-  - title: "GPT 101: Decoding ChatGPT's Generative AI for Legal Professionals"
-    excerpt: "While ChatGPT has caught the attention of many in the legal market, its underlying AI engine is where the real power—and disruption—lies."
-    publishedDateTime: 2023-01-19T01:09:00Z
-    webUrl: "https://www.law.com/therecorder/2023/01/18/gpt-101-decoding-chatgpts-generative-ai-for-legal-professionals/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Big-data-technology-767x633-2.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "From Fake News to Fake Views: New Challenges Posed by ChatGPT-Like AI"
     excerpt: "An infinite supply of plausible opinions from fake, AI-powered pundits threatens to crowd out genuine discourse."
     publishedDateTime: 2023-01-20T12:16:00Z
@@ -458,6 +445,6 @@ related:
       domain: says.com
     quality: 2
 
-secured: "dek/Cgv7THQpvBQ7nrnLiUOBldZ4mcL+Vqs6qXSHrGJdwn0fUIrtJ7qRf0Udt/Ufk4FN/oKHIZNgafVgVlvQEncy9RrfBnu4GTgZCi0I3OLj0ecWYWnd4TwF1jJdUbp7twKiGNpo0tQ2i9AHdfIoGiUconjHb8SI6EhFW8qhQhccyuHCTHE3dJWDuO1lqbnlN72PUiCMomfU+/xeCamw/3ds/z8RNPg+hNAGNBauOvxESDlzENWc0QgL1lwK6X9WGsxPAlQatPFLKD1RfY+V83MmlCQBon2GVv10EmGE6kLU+EwIJEYLM7/cnXX8of78dSlyGh+Fo8aHcsKGyUC85iQdQ/686JxcMIdLuuetjzo=;Zzxr1gJewPNbRFMbSbcHRA=="
+secured: "XPNq4Qfj1rMNc+W5VX+br2aueBQhLulGhpvQ55Dj6MJzQxn6jHvfR6Iysbdcw0pOlvEkaWwcU2wdfGbn84kIW3GDm5ZOTOh6vXLm4/4KZFGmoJeBKyuQazB7bnkOt920xeCdgTNp/VQwd0AUeSPvHxDUkbhWQv1oEanXVUPtKfXxfT3CjOgxqt8l93mSpe+6nnm3b98SDWCTtQYE2c9FpTvyeVynV7ABAaHihcpHCUFqfA3HnFpsO+4WNoQvAld+tV9lciKPPp+RXdt/L1iWb2HJNj4corqt8yribWnSpEDbw7y+VTB2s3FF26ir2eYuAnggMy2K/Lx45fjhUSciTuRZ9YaG5SZTMkIIBK/bAgvkRsftxrypkEGP74RJ75n5Q9q5zFxYJsTealpaBdTh3u7v6IIRa5FYgFBljbZaKOrt//rNdm/b5vJfD6wbkqW1d4C+yIVw5P9x/p+Q1lEOQULGkZwzhQPi7kOzuhr3AylpSDy3GBxyo0zbbedQfjL+qN46LrFH5PuymYYXg7FTrA==;u1p1d9yK7d8IHFWTY3+kWQ=="
 ---
 

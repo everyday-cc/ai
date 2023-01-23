@@ -323,6 +323,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 43
+  - title: "Kagan: Questions, concerns on ChatGPT and Artificial Intelligence"
+    excerpt: "Will ChatGPT lead in the AI space going forward or it is just one step that will be replaced by another more advanced technology?"
+    publishedDateTime: 2023-01-23T15:30:00Z
+    webUrl: "https://www.rcrwireless.com/20230123/ai-ml/kagan-questions-concerns-on-chatgpt-and-artificial-intelligence"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 43
+    images:
+      - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2023/01/155772243_m-1068x580.jpg?lossy=1&strip=1&webp=1"
+        width: 1068
+        height: 580
+        isCached: true
   - title: "An AI rival to ChatGPT passed a university level law and economics exam, and did better than many humans, professor says"
     excerpt: "A professor at George Mason University said the AI's answer to a law and economics exam was \"better than many human responses.\""
     publishedDateTime: 2023-01-19T15:02:00Z
@@ -334,34 +348,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
-  - title: "Kagan: Questions, concerns on ChatGPT and Artificial Intelligence"
-    excerpt: "Will ChatGPT lead in the AI space going forward or it is just one step that will be replaced by another more advanced technology?"
-    publishedDateTime: 2023-01-23T15:30:00Z
-    webUrl: "https://www.rcrwireless.com/20230123/ai-ml/kagan-questions-concerns-on-chatgpt-and-artificial-intelligence"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 41
-    images:
-      - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2023/01/155772243_m-1068x580.jpg?lossy=1&strip=1&webp=1"
-        width: 1068
-        height: 580
-        isCached: true
-  - title: "GPT 101: Decoding ChatGPT's Generative AI for Legal Professionals"
-    excerpt: "While ChatGPT has caught the attention of many in the legal market, its underlying AI engine is where the real power—and disruption—lies."
-    publishedDateTime: 2023-01-19T01:09:00Z
-    webUrl: "https://www.law.com/therecorder/2023/01/18/gpt-101-decoding-chatgpts-generative-ai-for-legal-professionals/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Big-data-technology-767x633-2.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "From Fake News to Fake Views: New Challenges Posed by ChatGPT-Like AI"
     excerpt: "An infinite supply of plausible opinions from fake, AI-powered pundits threatens to crowd out genuine discourse."
     publishedDateTime: 2023-01-20T12:16:00Z

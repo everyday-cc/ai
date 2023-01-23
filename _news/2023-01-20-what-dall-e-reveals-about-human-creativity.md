@@ -59,15 +59,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "AI Is Improving Faster Than Most Humans Realize"
-    excerpt: "Technologies such as ChatGPT will profoundly change the economy, but they are getting better so quickly that it’s impossible to say how."
-    publishedDateTime: 2023-01-23T13:29:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-01-23/chatgpt-is-only-going-to-get-better-and-we-better-get-used-to-it"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "Commentary: Artificial intelligence can’t reproduce the wonders of original human creativity"
     excerpt: "The biggest story of the year — the story we should all be paying attention to — is the increasing power of artificial intelligence. Computer code can write itself, chatbots"
     publishedDateTime: 2023-01-21T08:00:00Z
@@ -83,6 +74,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/b/91/b91f8270-96ef-11ed-a539-7bf89a46a19d/63c78198bfc59.image.jpg?resize=1024%2C655"
         width: 1024
         height: 655
+        isCached: true
+  - title: "AI Is Improving Faster Than Most Humans Realize"
+    excerpt: "Technologies such as ChatGPT will profoundly change the economy, but they are getting better so quickly that it’s impossible to say how."
+    publishedDateTime: 2023-01-23T07:44:00Z
+    webUrl: "https://www.washingtonpost.com/business/ai-is-improving-faster-than-most-humans-realize/2023/01/23/43972ea2-9b24-11ed-93e0-38551e88239c_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IIRW4WU3EQI63E7AHBKR5CBDTQ.jpg&w=1440"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "j3NPEpR0shIMH8+aQWPUIefC7bmDPsZ99mSzCOkhVHNDEJel3zCxR8yg7I8pLWXkoZbQU1hKSn/Io1gnIixQZrvFGKPK3zIbDw/m4jSSlXSdvmfkaLbT0aqSste4nc0LiAYtv9gajuKHyPu5RbY5+/S30MryDMScjvbD7dDKiLQeGe0c5Vr+JCx1kuZTlilCl1RfMLtsZO5FYQOzw6BJ9LxfbyHiqIhwBbGMevNiGBMoePpC60PFCoD4l8qGw6ZE6RQO7FKC6Ymgu+bIAATdxUktJB7s61WmCBjWfXwWa2X874C2U3trx2MODkpMxSA/1re7lNHpNa6rTdmmgoaP5KITzJDWOOW3r1YfiZgxmWzUymgTpvUXvj26TMToTELtUuEr2Vimg3ceaGvMjlWDhanZm21jnjCHv9ZUGgCOGmVQGgduxaIYFCgUiqUPqwaiZj7bA0um6a2rETAWVG0pRH/NwuXRcOvjQiZLUH4Tp4HAMOXIOe7NIYFOWuj6uFVRB2O2s0HedjPJ+5ALPM8R2A==;FvNWhbf8Vjcjyt37oLV0nA=="

@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence Global Market Report 2022: Rising Demand for Smart Robotics in Manufacturing Industries Presents Opportunities"
+    excerpt: "The \"Artificial Intelligence Market by Component, Deployment, Application, and End-User Industry: Global Opportunity Analysis and Industry Forecast, 2022-2030\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2023-01-23T17:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-global-market-report-2022-rising-demand-/2023/01/23/9747446.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
   - title: "China Autonomous Vehicles Market Report 2022: Sector to Reach $98.89 Billion by 2030 with Self-Driving Vehicles Gaining Traction"
     excerpt: "The autonomous vehicle is also known as a self-driving or driverless car that can sense and read the environment and operate with minimal human input. Self-driving cars have becom"
     publishedDateTime: 2023-01-20T13:00:00Z

@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Mobile Speech Recognition Software Professional Market 2023-2029 (New Report): Know Technology Exploding in Popularity |115 Pages Research"
-    excerpt: "A cost-effective Latest “Mobile Speech Recognition Software Professional Market” report that deliver top-notch"
-    publishedDateTime: 2023-01-20T05:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-professional-market-2023-2029-new-report-know-technology-exploding-in-popularity-115-pages-research-2023-01-20"
+  - title: "AI in Agriculture Market 2023 (New Report): Size is set to Grow at an Outstanding Pace in the Upcoming Years till 2029"
+    excerpt: "AI in Agriculture Market Share report provides overview of market ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Solar EVA Sheets Market Share, Size Global Growth Analysis, Gross Margin ..."
+    publishedDateTime: 2023-01-19T10:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-agriculture-market-2023-new-report-size-is-set-to-grow-at-an-outstanding-pace-in-the-upcoming-years-till-2029-2023-01-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

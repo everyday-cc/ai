@@ -43,15 +43,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "AI Is Improving Faster Than Most Humans Realize"
-    excerpt: "Technologies such as ChatGPT will profoundly change the economy, but they are getting better so quickly that it’s impossible to say how."
-    publishedDateTime: 2023-01-23T13:29:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-01-23/chatgpt-is-only-going-to-get-better-and-we-better-get-used-to-it"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "Commentary: Artificial intelligence can’t reproduce the wonders of original human creativity"
     excerpt: "The biggest story of the year — the story we should all be paying attention to — is the increasing power of artificial intelligence. Computer code can write itself, chatbots"
     publishedDateTime: 2023-01-21T08:00:00Z
@@ -83,6 +74,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2023/what-dall-e-reveals-ab.jpg"
         width: 960
         height: 731
+        isCached: true
+  - title: "AI Is Improving Faster Than Most Humans Realize"
+    excerpt: "Technologies such as ChatGPT will profoundly change the economy, but they are getting better so quickly that it’s impossible to say how."
+    publishedDateTime: 2023-01-23T07:44:00Z
+    webUrl: "https://www.washingtonpost.com/business/ai-is-improving-faster-than-most-humans-realize/2023/01/23/43972ea2-9b24-11ed-93e0-38551e88239c_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IIRW4WU3EQI63E7AHBKR5CBDTQ.jpg&w=1440"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "9dhcBfHHzlS+VDb0m9jD/cFtPXi9BC5ii/TKcNO/wOI/scvDYPx3paU0++gQUz3itb7h6GWTP+c2jh/OWZ6nuxhUd5fWt6VzzIyH7dxROrhcS7ePmUFmy02Dr/TNyhICg0/vIaHuAaauQb2yKYbFDtTNfRPK1RG9Fp1Bg9Qh7H0CBTywhdhbQYByPfwALWMIok5vBFOsmV8uGVCmtYq/YhOngwSgKmlX/guiMwrA4GvJIXv7e/xgn7oZIusiWX/fwNJ+ylAabrNNMxaB1xvr3+HGh5BxlJYnVPBAbwFy5oyggS+yzJsHuhxeQ/P8MqYJaEMGzTrhfFkFGoaPsq/OFyK7PUQAYfiWGvtnYvEOfec=;zHHFxzvz0qPugCu/2ouZdw=="

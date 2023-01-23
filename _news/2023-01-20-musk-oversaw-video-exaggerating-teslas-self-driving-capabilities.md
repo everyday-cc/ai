@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Musk oversaw video exaggerating Tesla's self-driving capabilities"
-excerpt: "In an Oct. 19 call with reporters and blog post, Tesla said that all its cars from that day forward would ship with the hardware necessary for full self-driving capability. \"Just want to be ..."
-publishedDateTime: 2023-01-20T10:53:00Z
-originalUrl: "https://www.autonews.com/regulation-safety/musk-oversaw-video-exaggerating-teslas-self-driving-capabilities"
-webUrl: "https://www.autonews.com/regulation-safety/musk-oversaw-video-exaggerating-teslas-self-driving-capabilities"
+title: "Musk oversaw video exaggerating Tesla’s self-driving capabilities"
+excerpt: "The company’s CEO wrote to Tesla’s Autopilot team after 2 a.m. California time in October 2016 to emphasize the importance of a demonstration drive to promote the system"
+publishedDateTime: 2023-01-20T03:50:00Z
+originalUrl: "https://www.ocregister.com/2023/01/19/musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/"
+webUrl: "https://www.ocregister.com/2023/01/19/musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/"
+ampWebUrl: "https://www.ocregister.com/2023/01/19/musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/amp/"
+cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/01/19/musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/amp/"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: Orange County Register
+  domain: ocregister.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.ocregister.com/wp-content/uploads/2023/01/OCR-Z-TESLA-MUSK.jpg?w=1024&h=683"
+    width: 1024
+    height: 682
+    isCached: true
 
 related:
   - title: "Musk oversaw staged Tesla self-driving video, emails show"
@@ -166,6 +174,6 @@ related:
       domain: thedetroitbureau.com
     quality: 14
 
-secured: "HSfo32B6ek8RbGtRIqZld63bcrEHX0H+w9PAOedt/94enrsClgypqopFcrTmJnHnXNXWqbjwjYoCp8lsEQp3by7RDnq2IWbe0SJyzQwirUBU3ReyLz1Y4h3RCk4PtmeaXq9AAUXkHPzzxUWQHcMTKSAoKwzlsNKDqN293RgvESxhARgTDjnBXBK5IaKsF7FxUvSnFByH3dhU41grxILoem1/ukMWSepoYAE1K8/gsg79n4lm4g/Ogk9hN9Qh7MwNLVGQxePZ2iw/g7/6NJX8m4X2qExauNW7Ns8FdDo8+Oh9iUddsf5dmmI6rZjsYrj4HaQKgREjaR6GLtlVba6wZGDrZ1Lbz3W06WVUaMrM+1A=;ajBsrTfTLmg1BYsxzkpzRg=="
+secured: "r/E1RV1JoVhIEwyNwrYSsTAM1qTQxWju9RZ8M6sRI+qWw8ucS7f2hNbFQihMFKVIu0OtgKtckD5MiImBe9Xd5J0PRJ0LWJIxmN+y8gdSFKJVd26e/7mxV7myutiCktbD6RXVqwZ7WBYFUM8oYlnoOahFLIqSzrU44SKhdIrUyBJsHh1zgUz3X/Qo8eQnoUbEwwzZw61/D1uflrLvSX+JsN1EZIzRIJp4jGo7dUIu6egoJkKxP9GHqCgaA2+5PyJiAFUoBDzclI6haN9eySbEBevwRi+ZHQnqNFNTWuZIZDLcYH4k/E5X4VgC5Plha5HC688powobxSqhFAURWcQs40jg16E05KGaB2VRZjkL8Vk=;zn6cR3d8mA8aR/ZuGEBJqQ=="
 ---
 

@@ -2,24 +2,27 @@
 category: news
 title: "AI Is Improving Faster Than Most Humans Realize"
 excerpt: "Technologies such as ChatGPT will profoundly change the economy, but they are getting better so quickly that it’s impossible to say how."
-publishedDateTime: 2023-01-23T13:29:00Z
-originalUrl: "https://www.bloomberg.com/opinion/articles/2023-01-23/chatgpt-is-only-going-to-get-better-and-we-better-get-used-to-it"
-webUrl: "https://www.bloomberg.com/opinion/articles/2023-01-23/chatgpt-is-only-going-to-get-better-and-we-better-get-used-to-it"
+publishedDateTime: 2023-01-23T07:44:00Z
+originalUrl: "https://www.washingtonpost.com/business/ai-is-improving-faster-than-most-humans-realize/2023/01/23/43972ea2-9b24-11ed-93e0-38551e88239c_story.html"
+webUrl: "https://www.washingtonpost.com/business/ai-is-improving-faster-than-most-humans-realize/2023/01/23/43972ea2-9b24-11ed-93e0-38551e88239c_story.html"
 type: article
-quality: 47
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg L.P.
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
+  - Machine Learning
   - AI
+
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IIRW4WU3EQI63E7AHBKR5CBDTQ.jpg&w=1440"
+    width: 1024
+    height: 683
+    isCached: true
 
 related:
   - title: "Artificial Intelligence Is Coming for Human Creativity"
@@ -87,6 +90,6 @@ related:
         height: 731
         isCached: true
 
-secured: "a8xCdIko/s3mW01mf7VtMQ8ybm6YFtkP+/fhASj5dqMc8dOE9d+JEg0nng9gF1BMA7cs/DaUQYTQPetBoaGKkZZMcYVyuZJGB9aFSi7TNKIGl6X35z2Ad2eJYGf5A+EQ//0NXxV6G9kkApmh+8iVOzt+rFE1/G13Hnlt4wIwt0WgZEpw/AQg1ZF2zuQ8jxYq7AiivKTIuW8ZU9kZA6cQZUZB504V4LEV3FYaZ87Ohei7HwcL7UZrYuVXF6jCGjXrq3BuZ/J8OyG5WFAgUw1nk/TyIpRRQjczkWZfLxBvztD7MP81r4ag4FvkRXBU6OTY+hwOpFNqqavD+N0bP+5GXK7oareGFaejl7otV/cN7sOq1aE83Vj9OGvsrHw9MSG5PwgNN749ftaElB7fqc/KtMXSegRiOCxC+Nc89hLDRRRsbCQENSlVFNYCsh8s1AJN7O19eKSLMByoNXE5bS+Jg0kk5S4vPw0dCT987CxOF9hNIDeeUxi6QxgaglC7y3rNCJZ/rs/6CwL3WVpdXbC32w==;/YLc6aZQ1pZpElJx17+NJw=="
+secured: "s+i8Ck+elvQViZTmweDoq/8ifSpLV1aXTnRapD5epfMbHZJRbXwMBnWMEmDVp+3Fa7/iihJrMTJs/Uh9z3Llbem9BcYV2e0HknUPHj+kBpCn/UqJ/LRktQH5EeQa2zh9fHSJ2KigFCM/53a+2bJFoaU+UJQn2F4QRcdev2nAzdVJk2BB6uVZMFp4UXYQlh+cwOSP7o2B1tiiS2eOGBHYe6jdWVW27ZkyoDkvLV9L649CFDvjJ/H/BM/KQb995J8rPYvPMstzAHzOgaPmlnUA6HMIWxCBONFcTTB1bLhUNFsBaYndG63NrYJGn5OGa1qLUZCZUQLvZ/Q+JWFJb3qhsIQ8xcp77o7iyqYQslAXEv8=;KnUkGdCddv1XSGX1ctWIuw=="
 ---
 
