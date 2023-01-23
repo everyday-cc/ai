@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
         width: 1920
         height: 875
         isCached: true
-  - title: "4 healthcare AI updates"
-    excerpt: "Artificial intelligence has the potential to transform healthcare delivery, and hospitals across the country are making serious investments in AI. Four AI in healthcare updates Becker's has covered since Jan."
-    publishedDateTime: 2023-01-20T23:07:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/4-healthcare-ai-updates.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
 
 secured: "yAt7roeydIthwE+oxO+VKMNSYGNLG8VnjhBJRPQc3ZxLJNbAO74jdANK6c8NpBnc7qPvM9mSyFbeXJqi2AhlWsRItk4VEwzmdd9YasqeAOxc51XTik2qBGl7ILpUyz7z5ey16ODLlryGohbbDDWIRcqft35e22IbRWyviH7JMsxmblgC7P637SvSGHz8XKqbUkA4OAv0k677smF/2SLyx7mn6sYr2YZtnHfLsw0Pz9KJVbVL7wLJhTpB5O+kv7CWjTsJPzCvNFW2xFqYE7xq4kwJ6zBt+yKEQiTBP5yzgoKH6Or3YwDkJJa46/qnM01GBiNBUEae/T4rV/QaIhpPEBNv2onZtiFEuxOObceEnML/vkpcoSd+ZtLOEv5qmUfz/BEyhkR1zZhhGJC0Y59xUeTZCUXB1jaGLtmMYtoWl9w5wCEqEhm8/FLgTPZn3qGtkN94UJ0rebm7YnCQsOYHcjD1RmRHV0yMGIJkp4vmQjR5D4n7uVPgtJZ70lHXmCmGAhcXVZWDopCHtMZTlBVZWA==;D5z085m/hOjmx4cl2OPBdA=="
 ---

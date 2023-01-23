@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1986757/IBM_MBZUAI_AI_Center.jpg"
         width: 400
         height: 256
+        isCached: true
+  - title: "Generative AI and the Ensuing Computer Human Whisperer"
+    excerpt: "Rather than people having to learn how to work with computers, generative AI-based computers will increasingly be learning how to work with humans."
+    publishedDateTime: 2023-01-23T12:00:00Z
+    webUrl: "https://www.technewsworld.com/story/generative-ai-and-the-ensuing-computer-human-whisperer-177689.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 39
+    images:
+      - url: "https://www.technewsworld.com/wp-content/uploads/sites/3/2023/01/generative-ai.jpg"
+        width: 1000
+        height: 520
         isCached: true
   - title: "Therapy by chatbot? The promise and challenges in using AI for mental health"
     excerpt: "director of MIT's Affective Computing Research Group. \"We know we can elicit the feeling that the AI cares for you,\" she says. But, because all AI systems actually do is respond based on a series ..."

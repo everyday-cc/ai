@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Is Aggressively Investing In Healthcare AI"
+    excerpt: "On the clinical front, Paige’s AI tools enable advanced diagnostics in the lab with computational pathology, which can be leveraged to identify complex tissue patterns. On the pharmaceutical front, the company’s tools offer new ways to identify and analyze tissue biomarkers,"
+    publishedDateTime: 2023-01-23T09:59:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2023/01/23/microsoft-is-aggressively-investing-in-healthcare-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/01/23/microsoft-is-aggressively-investing-in-healthcare-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/01/23/microsoft-is-aggressively-investing-in-healthcare-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 121
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63ce1dbef798d5bde6766ebe/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 829
+        isCached: true
   - title: "Microsoft CEO Satya Nadella Claims Artificial Intelligence Will Redefine Business And Work"
     excerpt: "Microsoft CEO Satya Nadella said on Wednesday that the world is approaching a golden age of artificial intelligence by citing a recent instance in which an Indian farmer utilized a ChatGPT interface to access a secret government program online despite only understanding a local dialect."
     publishedDateTime: 2023-01-19T12:18:00Z
@@ -93,6 +109,22 @@ related:
         width: 768
         height: 439
         isCached: true
+  - title: "Microsoft exec: AI will reinvent Windows user experience, define ‘our time’"
+    excerpt: "At least one Microsoft executive has made it clear artificial intelligence will continue to play a big role in future Windows features."
+    publishedDateTime: 2023-01-23T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.html"
+    ampWebUrl: "https://www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 72
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Golden age of Artificial Intelligence is here, says Microsoft boss Satya Nadella"
     excerpt: "The cutting-edge chatbot ChatGPT is capturing the world's imagination. The new artificial intelligence site amassed 1 million users in just five days after its recent launch. It is but one of a dozen AI-driven so-called apps that are expected to transform human productivity and the future of work."
     publishedDateTime: 2023-01-19T05:35:00Z
@@ -123,6 +155,66 @@ related:
         width: 1070
         height: 580
         isCached: true
+  - title: "Microsoft Azure will be adding ChatGPT to its cloud services soon"
+    excerpt: "Microsoft announced the broad availability of its Azure OpenAI Service and customers will also be able to access ChatGPT."
+    publishedDateTime: 2023-01-19T00:15:00Z
+    webUrl: "https://techwireasia.com/2023/01/microsoft-azure-will-be-adding-chatgpt-on-its-cloud-services-soon/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/03/shutterstock_1357496909-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "New Microsoft Azure Vulnerability Uncovered — Experts Warn of RCE Attacks"
+    excerpt: "Microsoft Azure vulnerability discovered. Could be exploited to completely take control of targeted apps or steal sensitive data."
+    publishedDateTime: 2023-01-19T14:20:00Z
+    webUrl: "https://thehackernews.com/2023/01/new-microsoft-azure-vulnerability.html"
+    type: article
+    provider:
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 53
+    images:
+      - url: "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEgeXE12VhXLZAYDxEX5x1goQta8TteHtiO_1r15UBLZSuYCiCD2hrxyBYkHRm_u6PBSWRIZR3l-x4cfGsW5kPmhSReTi6e--JREoPCgfMmLgg09UEN4r5Ewbe4EKFq1BFgDKLI6_icuM1X8tQaXYddXvhUANdBwF1BseQSn0dLD5o1efdp_0Ar-TwZK/s728-rj-e3650/azure.png"
+        width: 728
+        height: 380
+        isCached: true
+  - title: "Microsoft rolling out Azure OpenAI service with access to ChatGPT soon"
+    excerpt: "The Azure OpenAI service features a number of AI models made by OpenAI including GPT-3.5, Codex, and DALL-E, so businesses and developers can utilize these systems in their own apps and workloads. Microsoft essentially packages up GPT-3."
+    publishedDateTime: 2023-01-18T21:03:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20230118/4028043.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 49
+  - title: "OpenAI Co-Founder Sam Altman Doesn't See Artificial Intelligence Ending Google, Discusses Microsoft Partnership And More"
+    excerpt: "OpenAI co-founder Sam Altman shares thoughts on what could be ahead for artificial intelligence. One of the hottest topics of 2023 is likely to be artificial intelligence and the company OpenAI ..."
+    publishedDateTime: 2023-01-20T16:03:00Z
+    webUrl: "https://www.benzinga.com/news/23/01/30491171/openai-co-founder-sam-altman-doesnt-see-artificial-intelligence-ending-google-discusses-microsoft-pa"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 46
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/01/20/samaltman.thegrove.flickr.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "4 healthcare AI updates"
+    excerpt: "Artificial intelligence has the potential to transform healthcare delivery, and hospitals across the country are making serious investments in AI. Four AI in healthcare updates Becker's has covered since Jan."
+    publishedDateTime: 2023-01-20T23:07:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/4-healthcare-ai-updates.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
   - title: "Satya Nadella says golden age of Artificial Intelligence is here, good for humanity"
     excerpt: "In a session at the ongoing five-day annual meeting of the World Economic Forum, Nadella said that technology will provide more and more ways to bring people together."
     publishedDateTime: 2023-01-19T05:45:00Z
@@ -137,7 +229,16 @@ related:
         width: 1280
         height: 750
         isCached: true
+  - title: "Cross-site forgery bug would facilitate remote code execution in Microsoft Azure services"
+    excerpt: "The bug, reported to Microsoft on Oct. 26 and remediated Dec. 6, is the result of manipulating a series of misconfigurations and security bypasses in Kudu, a back-end source control management (SCM) tool that helps manage and modify web applications and is used by major Microsoft cloud services like Azure Functions,"
+    publishedDateTime: 2023-01-19T13:00:00Z
+    webUrl: "https://www.scmagazine.com/analysis/application-security/cross-site-forgery-bug-would-facilitate-remote-code-execution-in-microsoft-azure-services"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 25
 
-secured: "IJWbiFtwUzUkHxI9o1XQOIOm0qQ4uKpR7TzyZO2mGg/Zr4/A1p6BP8qHeLT43SA8/aoPYCVe3NTmxt0yW8S6XpEX3NpdQD0f+swFXjw97l5tU0RfT/3aJCssZXKiTyKUSdrHt8BZ3qhOSBzXfWmfLifGlRQK0xAxFcIjOO1LpDvauHMnLww+8EoFkYuU5HtkTQQ8rhxplqvyXFULIzx1TN3Dzl+oIAJt9sGBrY3S1mmk7se0xr2Y9uVnUyIbrpmFLYmu2yCdJCTbuTjHo+n/Vn5bRTtJhk63z8nOb+T7tau2t6hpFok291kEb+J4HYiH/C8D9SDckSgwqxOAirQ41x3XguzGHVuEKtpXbCgzQO0=;wKkqeAUzWz4m9AcObqrOpw=="
+secured: "UrfUN6rtrzTxuf0YRQuJhzCCmh2L04sbY9FxId3AcOGfQYwQPGEvLYFRbRY/jeU2JY8rJCFm7i+TRqVBEP67fj9S997T06Rwrt7bWQYaJOTv7f0hCfQ8zlPc2aovvtYdxok9F/k0zoby0UNA2eCyVEQuX2pgzvjFzIlclMkJLWvuXHdbRaikc9SNNl92UQjRnGopXVIHGEMBqQHa/QQF8r9s6Z7sfQCkcmhTWNeWtwfqqlbTxyP3I9RJbcOqn0T2dD770BnFXQJ7I7/uZQuhLrPmYEZ65H079zrovtRa3bb+CjcG0hpVU/O3Sj/5zlH+zhywt8FMyTGb7FIdukXUwvqFFSnrZ0NwpGgGreu7pTYc8zbBDfN8JFs6La6KmX7bZaOcsD8XgtW8dluQEnM6+UBXlurn5ZoX7fhstA/oTx3UqnM5KcFqsqx58gnZSNLa2dVAeJl9PZ1fo3d9mPhLO96yR59vdndeM/onw67TJ92aGWU+u8yrvDtTbWgl0sEFUvhZiTch/EqiWeBSK4LLEg==;+leIrFTI6hA5+S+xDgx3GQ=="
 ---
 

@@ -19,38 +19,220 @@ topics:
   - AI
 
 related:
-  - title: "Federated learning AI model could lead to healthcare breakthrough"
-    excerpt: "AI biotech vendor Owkin has revealed just how powerful the federated model can be for healthcare, including breast cancer treatment."
-    publishedDateTime: 2023-01-19T21:15:00Z
-    webUrl: "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/"
-    ampWebUrl: "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/amp/"
+  - title: "Microsoft Is Aggressively Investing In Healthcare AI"
+    excerpt: "On the clinical front, Paige’s AI tools enable advanced diagnostics in the lab with computational pathology, which can be leveraged to identify complex tissue patterns. On the pharmaceutical front, the company’s tools offer new ways to identify and analyze tissue biomarkers,"
+    publishedDateTime: 2023-01-23T09:59:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2023/01/23/microsoft-is-aggressively-investing-in-healthcare-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/01/23/microsoft-is-aggressively-investing-in-healthcare-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/01/23/microsoft-is-aggressively-investing-in-healthcare-ai/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
+      name: Forbes
+      domain: forbes.com
+    quality: 121
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1365534802.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63ce1dbef798d5bde6766ebe/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 748
+        height: 829
         isCached: true
-  - title: "First ever use of federated learning to train deep learning models on multiple hospitals, without data leaving firewalls"
-    excerpt: "In research published in Nature Medicine today, AI biotech company Owkin has demonstrated for the first time that federated learning (FL) can be used to train deep learning models on data from multiple hospitals on histopathology data without the data leaving hospital firewalls."
-    publishedDateTime: 2023-01-19T17:40:00Z
-    webUrl: "https://medicalxpress.com/news/2023-01-federated-deep-multiple-hospitals-firewalls.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-01-federated-deep-multiple-hospitals-firewalls.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-federated-deep-multiple-hospitals-firewalls.amp"
+  - title: "Microsoft CEO Satya Nadella Claims Artificial Intelligence Will Redefine Business And Work"
+    excerpt: "Microsoft CEO Satya Nadella said on Wednesday that the world is approaching a golden age of artificial intelligence by citing a recent instance in which an Indian farmer utilized a ChatGPT interface to access a secret government program online despite only understanding a local dialect."
+    publishedDateTime: 2023-01-19T12:18:00Z
+    webUrl: "https://in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work"
+    ampWebUrl: "https://in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work?amp=1"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 49
+      name: in.mashable
+      domain: mashable.com
+    quality: 109
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-1.jpg"
-        width: 1920
-        height: 875
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/803e1912-a021-46f2-9614-a3c081e6b95c_efqm.620.jpg"
+        width: 620
+        height: 349
         isCached: true
+  - title: "Microsoft Integrates OpenAI AI tools in Workplace Emails and Spreadsheets"
+    excerpt: "With Azure OpenAI Service now generally available, more businesses can apply for access to the most advanced AI models in the world,” the announcement states. This allows companies to integrate AI capabilities into their products and services to improve efficiency and automate their processes."
+    publishedDateTime: 2023-01-23T09:52:00Z
+    webUrl: "https://www.gizmochina.com/2023/01/23/microsoft-integrates-openai-ai-tools-to-its-products/"
+    ampWebUrl: "https://www.gizmochina.com/2023/01/23/microsoft-integrates-openai-ai-tools-to-its-products/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2023/01/23/microsoft-integrates-openai-ai-tools-to-its-products/?amp=1"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 103
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/01/microsoft-integrates-openai-ai-tools-to-its-products.jpeg"
+        width: 1067
+        height: 600
+        isCached: true
+  - title: "Microsoft rolling out Azure Open AI service with access to Chat GPT soon"
+    excerpt: "American tech giant Microsoft is all set to roll out Azure Open AI service this week, which will allow businesses to integrate tools like DALL-E into their own cloud apps. According to The Verge, an American technology news website,"
+    publishedDateTime: 2023-01-19T11:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/videoshow/97134538.cms"
+    ampWebUrl: "https://m.timesofindia.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/amp_videoshow/97134538.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/amp_videoshow/97134538.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 88
+    images:
+      - url: "https://static.toiimg.com/photo/msid-97134538/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Microsoft and Google Will Both Have to Bear AI’s Costs"
+    excerpt: "Tools such as ChatGPT could upend search and cloud computing, but the cost will be high as profit margins draw more scrutiny."
+    publishedDateTime: 2023-01-19T00:03:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-and-google-will-both-have-to-bear-ais-costs-11674006102?mod=hp_minor_pos19"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-705153/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Golden Age Of Artificial Intelligence Underway: Microsoft Chief Nadella"
+    excerpt: "An Indian farmer recently used a ChatGPT interface to access an opaque government programme via the internet despite knowing only a local dialect, Microsoft chief Satya Nadella said on Wednesday to underline that the world is entering a golden age of artificial intelligence."
+    publishedDateTime: 2023-01-18T22:26:00Z
+    webUrl: "https://www.republicworld.com/world-news/global-event-news/golden-age-of-artificial-intelligence-underway-microsoft-chief-nadella-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/world-news/global-event-news/golden-age-of-artificial-intelligence-underway-microsoft-chief-nadella-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/global-event-news/golden-age-of-artificial-intelligence-underway-microsoft-chief-nadella-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 74
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/utanwltgki3qr9tw_1674080761.jpeg"
+        width: 768
+        height: 439
+        isCached: true
+  - title: "Microsoft exec: AI will reinvent Windows user experience, define ‘our time’"
+    excerpt: "At least one Microsoft executive has made it clear artificial intelligence will continue to play a big role in future Windows features."
+    publishedDateTime: 2023-01-23T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.html"
+    ampWebUrl: "https://www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 72
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Golden age of Artificial Intelligence is here, says Microsoft boss Satya Nadella"
+    excerpt: "The cutting-edge chatbot ChatGPT is capturing the world's imagination. The new artificial intelligence site amassed 1 million users in just five days after its recent launch. It is but one of a dozen AI-driven so-called apps that are expected to transform human productivity and the future of work."
+    publishedDateTime: 2023-01-19T05:35:00Z
+    webUrl: "https://www.hindustantimes.com/technology/golden-age-of-artificial-intelligence-is-here-says-microsoft-boss-satya-nadella-101674106282171.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/golden-age-of-artificial-intelligence-is-here-says-microsoft-boss-satya-nadella-101674106282171-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/golden-age-of-artificial-intelligence-is-here-says-microsoft-boss-satya-nadella-101674106282171-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 69
+    images:
+      - url: "https://images.hindustantimes.com/img/2023/01/19/1600x900/Satya_Nadella_1674106354561_1674106354888_1674106354888.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Microsoft is all set to roll out Azure Open AI service with access to ChatGPT soon"
+    excerpt: "American tech giant Microsoft is all set to roll out Azure Open AI service this week, which will allow businesses to integrate tools like DALL-E into their own cloud apps. According to The Verge, an American technology news website,"
+    publishedDateTime: 2023-01-19T10:39:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/microsoft-is-all-set-to-roll-out-azure-open-ai-service-with-access-to-chatgpt-soon/videoshow/97130916.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 63
+    images:
+      - url: "https://img.etimg.com/thumb/msid-97130916,width-1070,height-580,overlay-economictimes/photo.jpg"
+        width: 1070
+        height: 580
+        isCached: true
+  - title: "Microsoft Azure will be adding ChatGPT to its cloud services soon"
+    excerpt: "Microsoft announced the broad availability of its Azure OpenAI Service and customers will also be able to access ChatGPT."
+    publishedDateTime: 2023-01-19T00:15:00Z
+    webUrl: "https://techwireasia.com/2023/01/microsoft-azure-will-be-adding-chatgpt-on-its-cloud-services-soon/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/03/shutterstock_1357496909-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "New Microsoft Azure Vulnerability Uncovered — Experts Warn of RCE Attacks"
+    excerpt: "Microsoft Azure vulnerability discovered. Could be exploited to completely take control of targeted apps or steal sensitive data."
+    publishedDateTime: 2023-01-19T14:20:00Z
+    webUrl: "https://thehackernews.com/2023/01/new-microsoft-azure-vulnerability.html"
+    type: article
+    provider:
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 53
+    images:
+      - url: "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEgeXE12VhXLZAYDxEX5x1goQta8TteHtiO_1r15UBLZSuYCiCD2hrxyBYkHRm_u6PBSWRIZR3l-x4cfGsW5kPmhSReTi6e--JREoPCgfMmLgg09UEN4r5Ewbe4EKFq1BFgDKLI6_icuM1X8tQaXYddXvhUANdBwF1BseQSn0dLD5o1efdp_0Ar-TwZK/s728-rj-e3650/azure.png"
+        width: 728
+        height: 380
+        isCached: true
+  - title: "Microsoft rolling out Azure OpenAI service with access to ChatGPT soon"
+    excerpt: "The Azure OpenAI service features a number of AI models made by OpenAI including GPT-3.5, Codex, and DALL-E, so businesses and developers can utilize these systems in their own apps and workloads. Microsoft essentially packages up GPT-3."
+    publishedDateTime: 2023-01-18T21:03:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20230118/4028043.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 49
+  - title: "OpenAI Co-Founder Sam Altman Doesn't See Artificial Intelligence Ending Google, Discusses Microsoft Partnership And More"
+    excerpt: "OpenAI co-founder Sam Altman shares thoughts on what could be ahead for artificial intelligence. One of the hottest topics of 2023 is likely to be artificial intelligence and the company OpenAI ..."
+    publishedDateTime: 2023-01-20T16:03:00Z
+    webUrl: "https://www.benzinga.com/news/23/01/30491171/openai-co-founder-sam-altman-doesnt-see-artificial-intelligence-ending-google-discusses-microsoft-pa"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 46
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/01/20/samaltman.thegrove.flickr.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Satya Nadella says golden age of Artificial Intelligence is here, good for humanity"
+    excerpt: "In a session at the ongoing five-day annual meeting of the World Economic Forum, Nadella said that technology will provide more and more ways to bring people together."
+    publishedDateTime: 2023-01-19T05:45:00Z
+    webUrl: "https://telanganatoday.com/satya-nadella-says-golden-age-of-artificial-intelligence-is-here-good-for-humanity"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 31
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/01/Satya-Nadella-says-golden-age-of-Artificial-Intelligence-is-here-good-for-humanity.jpg"
+        width: 1280
+        height: 750
+        isCached: true
+  - title: "Cross-site forgery bug would facilitate remote code execution in Microsoft Azure services"
+    excerpt: "The bug, reported to Microsoft on Oct. 26 and remediated Dec. 6, is the result of manipulating a series of misconfigurations and security bypasses in Kudu, a back-end source control management (SCM) tool that helps manage and modify web applications and is used by major Microsoft cloud services like Azure Functions,"
+    publishedDateTime: 2023-01-19T13:00:00Z
+    webUrl: "https://www.scmagazine.com/analysis/application-security/cross-site-forgery-bug-would-facilitate-remote-code-execution-in-microsoft-azure-services"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 25
 
 secured: "DDlkmoCVEF5DyAKmtbWwhRyqirGJ2WdB5ScO2QA55ZZdX6rQtvV9Wdc5aBogeLXOpnv5Lg90NUDjO32HKoB8+4IRZGtojvSLpQ75xX5Jhib/uBgtvexE92SmeuNNaZ2agsXeoGVzIAy++7QKJRS0lgUEIKXLbKFWejr7UaNrcBPd3L9q/f6NWWpbyKkK4Rd3jWX8RQDFazmwaazWBcWUxSkS1jFo01EehapGdloC+wXbXqLk9GaeWArpWRdZYG2Tpw7TsXMYFFnuc3Eo6GhsLyitdZfmrqzGOlSIKKXyN0ahsjY4e+q1K86U2v5JcnQTlNny5Ac1uGSR1xb8VceBw/DuLUxA1HnN6AxARI8GaYM=;lAXGHM31/ScGZVZxsEajQg=="
 ---

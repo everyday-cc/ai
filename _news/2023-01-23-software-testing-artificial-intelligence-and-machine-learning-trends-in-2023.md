@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-23T10:21:00Z
 originalUrl: "https://www.infoq.com/articles/software-testing-ai-ml-2023/"
 webUrl: "https://www.infoq.com/articles/software-testing-ai-ml-2023/"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI Ethics
 
 images:
   - url: "https://res.infoq.com/articles/software-testing-ai-ml-2023/en/headerimage/generatedHeaderImage-1674221439156.jpg"
@@ -42,6 +43,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Jfar/i7OVhrQzU7Np6XB8V7iJT7SWL1T5B8LXTcbl3aimdfhQfRgrmYlhtBq4Fqh9qCorK1fnXScJ8cVw9RmUl2oNs/3vqMPSp5PoOBgjvYPYVOT2W6uef9gDM282ZwDOE4PZcp0TvG7YvIVdSfwAUVXmqv32mTH6+p0ErEz+wvxy0HauJP5Ev1u1/CZLtiigDnhXpK4ZR7Z3TEKr7UsWj75N841Vo8wy0ZTnD5vMQR1zyxVlDMlkspihVsCzWu0rkyu1N1MhNGGlYv2sCUqO7UzNXVr1RmaaV+QgCX8OAvxEOt2VFrWARFOB7JGynaXA/wF3wSo9d0INXBbWOcyzJpH4m1JEJROiOQ4vzKa964=;WJnl/ZPmIW7iNP1rcv8Xqg=="
+secured: "sO9qW7bGu0ClwqERYQTk+122SyjpZ/WiG8WCjrYvmuNfLowqR1EI3kHLRwl3gpP/jLIUeidrCeVJgB22v+B5gmPF2br5ByMOH2dOnC/k3Hp730yHfL4ODiQcTBLjLBZ8S2OguwYCrIHCr5nNVVKyT4ZnKMN0Gg8U/RnxHRXN183WTXzpRaRhesAxlu/ZE43gBo4hv0+bib/bxVvCw2g+khoX7VbPcCML0NkaPWzbnGbTIlvSTEfbj/wLpqLjd+QkfI8TOmhewVD/s3MqBCYkx4lhRj4bprjX7PsdTuEwPtTMM3iud8GmT6GdmbTmpny7K8UJiV5Ih3Dx4OvFQp0ZMkZvgAM1PWHVR+dx0w/9lVDdPAGCkn9dgNsJmm2ATyqgAkDxDjgVb/Zr3UEXgxiPmEsBMsKryON31d0JDr6ITTRZplLAYQzGuf0KI607jrtj3K4HPk6bkM9JPqI4v0KUCs6OTCREkpSHerL1tpUXDdkSl4HeTiPYfFOWmbdqpnFIrLK5YsMI86DUyswaXJYRtA==;RdDScOtF5Gunc9oc8GwxVQ=="
 ---
 

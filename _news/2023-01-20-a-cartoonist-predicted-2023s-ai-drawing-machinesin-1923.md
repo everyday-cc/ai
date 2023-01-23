@@ -38,7 +38,7 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://res.infoq.com/articles/software-testing-ai-ml-2023/en/headerimage/generatedHeaderImage-1674221439156.jpg"
         width: 1200

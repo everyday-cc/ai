@@ -3,18 +3,18 @@ category: news
 title: "AI tools can create new images, but who is the real artist?"
 excerpt: "With some generated images traveling on social networks and potentially going viral, they can be challenging to debunk since they can’t be traced back to a specific tool or data source"
 publishedDateTime: 2023-01-20T15:38:00Z
-originalUrl: "https://www.wcvb.com/article/ai-images-who-is-real-artist/42592783"
-webUrl: "https://www.wcvb.com/article/ai-images-who-is-real-artist/42592783"
-ampWebUrl: "https://www.wcvb.com/amp/article/ai-images-who-is-real-artist/42592783"
-cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/ai-images-who-is-real-artist/42592783"
+originalUrl: "https://www.kmbc.com/article/ai-images-who-is-real-artist/42592783"
+webUrl: "https://www.kmbc.com/article/ai-images-who-is-real-artist/42592783"
+ampWebUrl: "https://www.kmbc.com/amp/article/ai-images-who-is-real-artist/42592783"
+cdnAmpWebUrl: "https://www-kmbc-com.cdn.ampproject.org/c/s/www.kmbc.com/amp/article/ai-images-who-is-real-artist/42592783"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WCVB Channel 5 Boston
-  domain: wcvb.com
+  name: KMBC Kansas City
+  domain: kmbc.com
 
 topics:
   - AI Ethics
@@ -88,6 +88,6 @@ related:
         height: 480
         isCached: true
 
-secured: "Y7vse5UWlJRPJ/QdKchaNu3/eZBBhSETM7s9Wk3dB+n9ZF12Q8Bpu9wTF0jmHeedJLlzQG/m3DbDv/u2QgVA75fiSW2wY3z97lUkla3ol48XQE0Vt4asUd2Vz2c6rgGf4inS3OXFS+D4eS92+RAXEkOYWzRVkaVkc5V4suGk2tV0M/LEJASJcimHNOEEY54+dxME7yuQWFMv/nddJo25i5fG+/5w1fPLkfI7ypYDWkKp9c8YXkWlknA6ZkTo/GeMsW0iJmWjyZszHd/h0ROFvIqkngCeay9tJ57+ADujloaXFdBwDQVpCYRRYfpUTJyXYVb/H/LpGaOUaO3VIKbmtSdzRByhB2ap4UcBit1M3KU=;pVUdF/SRZHfT/YFbSP00gw=="
+secured: "Ds1tqeaLOpIpvkhHtY0tUZEEX57Vbgq/ZyKtAW9LEGDZA4aTdzczhqUzDp2h2l4CaGbGv6VPvrlt5+a7LSxBhp0Bmb+QSH6JYQfENzAqJepEPoEN7J9nIJzUHkf931RZ1mVUzI6b4boruEKsjVyD1YWAHRwvXcB1Us5VOZqP+G2LjKQJZJOSoZf2AFD5cDJv0VRhyOfiJBPMFJvCZBarcTYenT3+isLtXfcyFo3sSH3UH02rYXTRyGaqgYg9gOqH0nO/lIDr83GjtLAtawDU2m3eO1cOJkNKGmcr6TaOvPBXTK1ntY0Bbo/HcUmhlkocjxu5gSSFyIbGQEhBj4R9pgRoYP40SaWvFrTnZYKEFAE=;tYq9MMJa5UiEtglOBijrlg=="
 ---
 

@@ -49,11 +49,25 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://techbullion.com/wp-content/uploads/2023/01/uuuuuuuuuuuuuuuuuuuuuuu.png"
         width: 671
         height: 418
+        isCached: true
+  - title: "What’s in store for FinTech in 2023?"
+    excerpt: "Russia’s illegal invasion of Ukraine and its impact on inflation, to the continued ripple effects of Brexit and changing consumer habits."
+    publishedDateTime: 2023-01-23T12:23:00Z
+    webUrl: "https://www.fstech.co.uk/fst/Whats_In_Store_For_FinTech_In_2023_Feature.php"
+    type: article
+    provider:
+      name: fstech
+      domain: fstech.co.uk
+    quality: 24
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/businessman-buttons-virtual-fintech-m.jpg"
+        width: 5580
+        height: 3138
         isCached: true
 
 secured: "pzPuRw3u+m+fRYW1+n8StCTySlpN/0/io+nQLbqaXXf0qMVCbhTrgC0bwcTX7pDHYO8L8dG2roObdnxDgJrtdPVvBTdnEEQGd3l1CeBZDuNtyYEoIeQWWmn4BDg8HEACuihraCljNm0SjMseowLWp7Ejz9WjvKmF/r97XP10AdqaB6PCxBhzuMKfu+LX1zWxfVmNc1DzJHw3BjPSIxvDv9hLPEegOlrwmwLioXVXz3hUSjzCJnFuZYUOFo7AJ0wC/M1E+6rqn47yJ7MAVGMhuwQF9SJw32zPmATTmyCyLqMnXN/Qwllyb3BnhAAzB7C4L4tb7UFjtTGEC4e/bYoX7eRLPzGVlkJh1GG2LnSxOcv6eXydoAH43YNRI3KH3FKNQq+wSdYzuSEqlNTlQ5In/blfBEtL8ATn+8pMV/cPAabO3wMNdX1PRp7aL82SUDhifij3W6VQxTS3PBzVAIRUqN1sGLNYCvzzK0B8VyWf9QMz7bb+biHbSLXOmphoi+xwlfpj+4TRkObH5wGfuLz/rg==;p2M11SFK/myfbiC2iQAVhg=="

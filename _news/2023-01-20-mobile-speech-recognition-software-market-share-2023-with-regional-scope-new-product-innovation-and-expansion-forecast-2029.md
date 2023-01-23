@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Market Growth Analysis, Size growth, business Share and Business Opportunities to 2029"
+    excerpt: "The “ Artificial Intelligence (AI) Market ” Research 2023 provides deep insights into prosperous growth opportunities, trends, and challenges. It highlights current and futuristic market scenarios, specific growth patterns,"
+    publishedDateTime: 2023-01-23T06:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-growth-analysis-size-growth-business-share-and-business-opportunities-to-2029-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing For Healthcare And Life Sciences Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 19, 2023 (The Expresswire) -- Natural Language Processing For Healthcare And Life Sciences Market Size is projected to Reach Multimillion USD by 2029, In comparison to ..."
     publishedDateTime: 2023-01-20T02:01:00Z

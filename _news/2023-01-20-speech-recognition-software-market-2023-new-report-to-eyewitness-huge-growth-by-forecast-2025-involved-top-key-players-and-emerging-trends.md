@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Global Market Report 2022: Increased Adoption of AI Technology in Healthcare Boosts Growth - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial Intelligence Market by Component ... aerospace and defense, automotive, healthcare IT & telecom, manufacturing, education, retail & e-commerce, energy & utilities, media ..."
-    publishedDateTime: 2023-01-18T20:41:00Z
-    webUrl: "https://www.eagletribune.com/region/artificial-intelligence-global-market-report-2022-increased-adoption-of-ai-technology-in-healthcare-boosts-growth/article_c20fe850-b636-5bd0-9962-615da3af202b.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 15
 
 secured: "tXyv7c2iR1QKV9z/1IgpwJsYQxfs647JjDjq1dC0QIMVj39OWFL/rEmY6m5/Wb9kpM46qhWbE52y23R69gV8uaNth4BEx/9zsWKcJGDiLxPIxngE6dsqeKmDTg9j/8/yabIVdNsswofdpfu/D8eTGeEzDb1lt6pujrKG7eSEgpSOOpEuB1ZG+3gDy9E4xlPPmaQvV01/YWnYzu4b39bCodMNtMfNAmceJs3b03u0X978qP+t1ijH6jfY7aAvOEq29/iqB0LDjsx31CyGcrkf2nRivbF93TqCuwpStAcXPDzO5pMENprKE5rOELO923OvhkieC8eFtC/IkLZL2NkSg5Np8MTpXUKhI+9tHQwpig8=;KPDKHiDcjvTJ/+mQG7wnJw=="
 ---

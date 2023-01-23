@@ -9,7 +9,7 @@ ampWebUrl: "https://health.wusf.usf.edu/npr-health/npr-health/2023-01-19/revisit
 cdnAmpWebUrl: "https://health-wusf-usf-edu.cdn.ampproject.org/c/s/health.wusf.usf.edu/npr-health/npr-health/2023-01-19/revisiting-the-idea-of-whether-ai-might-help-those-dealing-with-isolation-depression?_amp=true"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 480
     height: 270
     isCached: true
-
-related:
-  - title: "Conversational AI Is Changing How We Deal With Data"
-    excerpt: "With Akkio's Chat Data Prep, users can simply type in conversational language to make changes to their spreadsheet data. Leveraging AI and large language models, the platform interprets the user's requests and makes the necessary changes to the data."
-    publishedDateTime: 2023-01-18T19:48:00Z
-    webUrl: "https://www.forbes.com/sites/craigsmith/2023/01/18/conversational-ai-is-changing-how-we-deal-with-data/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "X3Xr6d14edy0oR1qZwUxFOKH4FAI5IAaVweA1pHrTQZ0EvikXDKdccIK9W98Ng4WndGmuecDZguWdedRtgja6AZqyw7CXokWLFQQA921mGdsm4yQKre4fUHWExMgLBBB8VG3IPnjojTIDYbEuRsO12j1f0fnMdA5lHqvz/T1uNCrzzVvYoipFPsr7QDqwK7pni5sOBlwdha4meyKE0I2gdQZXXxCpxCyZNDb05IH7rPUrLE2eWg7ruXMYEtvIrCxsrzDV6zLH67BJfmQaZS/pilJsRph6bcliJJF5EfbWHa1Xtb8e0WYSUMitQrKZ90iqiXxt0pIeqiztu6/2FUgCo9V2mKbYhcpoKzkTOsMm+A=;7m7+776lMzglGMHf9ssK7Q=="
 ---

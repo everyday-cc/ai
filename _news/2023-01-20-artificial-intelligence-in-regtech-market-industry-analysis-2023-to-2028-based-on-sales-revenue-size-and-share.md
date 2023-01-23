@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-industry-analysis-2023-to-2028-based-on-sales-revenue-size-and-share-2023-01-19"
 type: article
 quality: 64
-heat: 244
+heat: 254
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Market Growth Analysis, Size growth, business Share and Business Opportunities to 2029"
+    excerpt: "The “ Artificial Intelligence (AI) Market ” Research 2023 provides deep insights into prosperous growth opportunities, trends, and challenges. It highlights current and futuristic market scenarios, specific growth patterns,"
+    publishedDateTime: 2023-01-23T06:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-growth-analysis-size-growth-business-share-and-business-opportunities-to-2029-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

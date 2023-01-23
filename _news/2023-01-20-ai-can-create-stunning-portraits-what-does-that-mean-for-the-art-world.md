@@ -29,13 +29,13 @@ related:
   - title: "AI tools can create new images, but who is the real artist?"
     excerpt: "With some generated images traveling on social networks and potentially going viral, they can be challenging to debunk since they can’t be traced back to a specific tool or data source"
     publishedDateTime: 2023-01-20T15:38:00Z
-    webUrl: "https://www.wcvb.com/article/ai-images-who-is-real-artist/42592783"
-    ampWebUrl: "https://www.wcvb.com/amp/article/ai-images-who-is-real-artist/42592783"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/ai-images-who-is-real-artist/42592783"
+    webUrl: "https://www.kmbc.com/article/ai-images-who-is-real-artist/42592783"
+    ampWebUrl: "https://www.kmbc.com/amp/article/ai-images-who-is-real-artist/42592783"
+    cdnAmpWebUrl: "https://www-kmbc-com.cdn.ampproject.org/c/s/www.kmbc.com/amp/article/ai-images-who-is-real-artist/42592783"
     type: article
     provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
+      name: KMBC Kansas City
+      domain: kmbc.com
     quality: 59
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap23011863010313-1-1674235508.jpg?crop=1.00xw:0.846xh;0,0.0337xh&resize=1200:*"

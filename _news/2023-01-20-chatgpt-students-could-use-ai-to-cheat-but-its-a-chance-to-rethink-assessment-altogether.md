@@ -179,6 +179,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 62
+  - title: "How will ChatGPT, DALL-E and other AI tools impact the future of work? We asked 5 experts"
+    excerpt: "Could the rise of advanced AI tools mean the end of some creative and knowledge jobs? Here's what the experts had to say."
+    publishedDateTime: 2023-01-23T11:54:00Z
+    webUrl: "https://thenextweb.com/news/how-will-chatgpt-dall-e-and-other-ai-tools-impact-the-future-of-work-we-asked-5-experts"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 60
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F01%2FUntitled-design-1-4.jpg&signature=49a0eaf18d6a9ed5139bdb7a17178718"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Adani is hooked on ChatGPT, says race for AI to get complex"
     excerpt: "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amount of information to generate natural-sounding text on virtually anything - from crafting jokes to writing ad copy,"
     publishedDateTime: 2023-01-20T12:19:00Z
@@ -210,20 +224,6 @@ related:
       - url: "https://bmmagazine.co.uk/wp-content/uploads/2023/01/shutterstock_2237752713-1-scaled.jpg"
         width: 850
         height: 567
-        isCached: true
-  - title: "Microsoft Azure will be adding ChatGPT to its cloud services soon"
-    excerpt: "Microsoft announced the broad availability of its Azure OpenAI Service and customers will also be able to access ChatGPT."
-    publishedDateTime: 2023-01-19T00:15:00Z
-    webUrl: "https://techwireasia.com/2023/01/microsoft-azure-will-be-adding-chatgpt-on-its-cloud-services-soon/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2022/03/shutterstock_1357496909-scaled.jpg"
-        width: 2560
-        height: 1707
         isCached: true
   - title: "Worried ChatGPT will steal your job? You’ll have to out-think artificial intelligence"
     excerpt: "Does ChatGPT really come across as human? If it can do Task X, could it also do Task Y? And, perhaps most importantly: How frightened should I be of this thing taking my job? Such questions can be amusing and addictive,"
@@ -271,15 +271,22 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "Microsoft rolling out Azure OpenAI service with access to ChatGPT soon"
-    excerpt: "The Azure OpenAI service features a number of AI models made by OpenAI including GPT-3.5, Codex, and DALL-E, so businesses and developers can utilize these systems in their own apps and workloads. Microsoft essentially packages up GPT-3."
-    publishedDateTime: 2023-01-18T21:03:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20230118/4028043.html"
+  - title: "Google plans to demo a version of its search engine with AI chatbot features and launch 20 new products, following ChatGPT 'code red,' report says"
+    excerpt: "Google is increasingly focusing on AI projects, following the launch of OpenAI's ChatGPT, the New York Times reported."
+    publishedDateTime: 2023-01-23T11:41:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-search-chatgpt-code-red-new-products-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/google-ai-search-chatgpt-code-red-new-products-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-ai-search-chatgpt-code-red-new-products-2023-1?amp"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
+      name: YAHOO!News
+      domain: businessinsider.com
     quality: 49
+    images:
+      - url: "https://i.insider.com/63ce5869fcc41d0018a3a3b4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Adani, a ChatGPT user, claims that the race for AI will become as complex as the chip battle"
     excerpt: "Adani, a ChatGPT user, claims that the race for AI will become as complex as the chip battle - Gautam Adani, the richest man in Asia, is addicted to ChatGPT, a tool that scours large quantities of"
     publishedDateTime: 2023-01-21T04:20:00Z
