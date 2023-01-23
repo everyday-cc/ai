@@ -2,6 +2,41 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-30-bests-review-spotlights-machine-learning-and-ai-risk-opportunities-duaes-expansion-plan.md",
+      "title": "Best’s Review Spotlights Machine Learning and AI Risk Opportunities, DUAE’s Expansion Plan",
+      "excerpt": "Best’s Review is AM Best’s monthly insurance magazine, covering emerging issues and trends and evaluating their impact on the marketplace. Access to the complete content of Best’s Review is available here. AM Best is a global credit rating agency ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/bests-review-spotlights-machine-learning-and-ai-risk-opportunities-duaes-expansion-plan/",
+      "originalUrl": "https://www.01net.it/bests-review-spotlights-machine-learning-and-ai-risk-opportunities-duaes-expansion-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T20:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-aws-adds-machine-learning-capabilities-to-amazon-connect.md",
       "title": "AWS adds machine learning capabilities to Amazon Connect",
       "excerpt": "Amazon Web Services announced the general availability of forecasting, capacity planning, scheduling, and Contact Lens features for its Amazon Connect contact center service, while introducing two new features in preview.",
@@ -1320,50 +1355,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-an-optical-chip-that-can-train-machine-learning-hardware.md",
-      "title": "An optical chip that can train machine learning hardware",
-      "excerpt": "A multi-institution research team has developed an optical chip that can train machine learning hardware. Their research is published today in Optica.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-11-optical-chip-machine-hardware.html",
-      "originalUrl": "https://techxplore.com/news/2022-11-optical-chip-machine-hardware.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/teaching-photonic-chip.jpg",
-          "width": 1944,
-          "height": 1944,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-11-optical-chip-machine-hardware.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-optical-chip-machine-hardware.amp",
-      "publishedDateTime": "2022-11-23T01:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

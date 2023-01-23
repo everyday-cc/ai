@@ -43,15 +43,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "India to face 'tsunami' of chronic diseases like cancer: US-based oncologist"
-    excerpt: "As per the Globocan estimates, the cancer burden worldwide is expected to be 28.4 million cases in 2040, a 47 per cent rise from 2020, due to demographic changes."
-    publishedDateTime: 2023-01-18T13:22:00Z
-    webUrl: "https://www.newindianexpress.com/nation/2023/jan/18/india-to-face-tsunami-of-chronic-diseases-like-cancer-us-based-oncologist-2539039.html"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 1
 
 secured: "kjBmtXTKqhGCIgYupahFLp36h336o9q7pr3mMU37ypva6PFUGu/wg4xAezx0u1w1WwtSE/8p6OB55d/ZUwLsqO7vBfwviBdMwX5CP/nkORIOh5pUClpn/+at3TjHFJ0zeNwNJ+CYsuMOQ0NK41BRsw1DqF1uDlYwPkkizRGha2QMU9c0+9Wbil66QpMJR9nhKQOGGr3++fDoe0u3fpBSKNYbAsIdUlcnjNI4E2HgZ4rnge3E1lvCFD1XyH6jeScARI1fNH7PZxjf06IpBSraiOo3kGheRo8/aO7mrt0AA33XlP+iJEX/6LEcm+iuGJXmPwaJEQ6kCzNvHpvnWIsi8YZmhS0Ul5cXXD/aJAPXRMA=;gHV5YT5aSdjiyktnwmveLg=="
 ---

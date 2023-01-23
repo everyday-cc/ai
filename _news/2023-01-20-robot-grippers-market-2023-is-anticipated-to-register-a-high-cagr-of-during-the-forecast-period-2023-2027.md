@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/robot-grippers-market-20
 webUrl: "https://www.marketwatch.com/press-release/robot-grippers-market-2023-is-anticipated-to-register-a-high-cagr-of-during-the-forecast-period-2023-2027-2023-01-20"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Based Medical Device Market is Set to Grow in forecast period 2029"
+    excerpt: "Artificial Intelligence Based Medical Device Market Report Insights: (Report Pages: 110) “The Artificial Intelligence"
+    publishedDateTime: 2023-01-18T15:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-is-set-to-grow-in-forecast-period-2029-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Call Center AI Market is to grow at 13.5% During the Forecast Period 2022 to 2032"
     excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
     publishedDateTime: 2023-01-19T14:59:00Z
@@ -38,15 +52,6 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 14
-  - title: "Citizen Services AI Market Size Hits $41.0 Billion by 2027, growing at a CAGR of 44.5%: Report by MarketsandMarkets™"
-    excerpt: "The global Citizen Services AI Market size is projected to grow from USD 6.5 Billion in 2022 to USD 41.0 Billion by 2027, at a CAGR of 44.5% during the forecast period,"
-    publishedDateTime: 2023-01-20T12:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30501393/citizen-services-ai-market-size-hits-41-0-billion-by-2027-growing-at-a-cagr-of-44-5-report-by-mark"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "AbespRsnEOlrqByYuTk1Ly0CABZf9LdKzd1zUgmRvTSho1pYcpvXh80bkSvAgF3dmCNh6HCzXPnfCKcBzxZPZJQovPN7oCzLQ+I3b4Cv7LWiuoCBXEJlJPnBLe0MhX+6F9aGgdrQFDjSvV1Utmm3c1byS8AqNM+f+zARr1Kzyd07J31EWkBlyNoIW/wkyWZpIhu8YUFefE3moEqeWxdyLfzcoPUmEi5K/Ac1hlK5AvwyQRMqaYqa37Fgd4wkLxo3VcB1GelaK22qgan8sag4yARt0O3rLGl0wXfRT54KPbuqWidSRL+CUX9AbD/Ce0fXqR0ocy5IzNLmRezoPNLxc6MJD2NmIUOU3O7USrA4aB0=;nEHIHr1kfZA0/8O6oeS+mw=="
 ---

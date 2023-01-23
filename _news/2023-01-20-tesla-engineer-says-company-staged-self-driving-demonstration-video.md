@@ -145,22 +145,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla faked 2016 self-driving video, according to engineer's deposition testimony"
-    excerpt: "Tesla staged a video showing its self-driving capability, Ashok Elluswamy, director of Autopilot, said in a 2022 deposition."
-    publishedDateTime: 2023-01-18T13:54:00Z
-    webUrl: "https://www.autoblog.com/2023/01/18/tesla-faked-self-driving-video-deposition-testimony/"
-    ampWebUrl: "https://www.autoblog.com/amp/2023/01/18/tesla-faked-self-driving-video-deposition-testimony/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/01/18/tesla-faked-self-driving-video-deposition-testimony/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 54
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/6015x3383+0+947/resize/800x450!/format/jpg/quality/85/https://media.zenfs.com/en/insider_articles_922/8050fe51a55b97368be98f6f319f1a38"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Tesla engineer testifies 2016 self-driving video was staged"
     excerpt: "A 2016 video that purported to show the self-driving capabilities of a Tesla car was staged, a senior engineer testified."
     publishedDateTime: 2023-01-18T16:45:00Z

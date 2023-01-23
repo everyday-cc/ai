@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202301/companys-enemies-list-enfor
 webUrl: "https://www.biometricupdate.com/202301/companys-enemies-list-enforced-with-facial-recognition-prompts-legal-challenge-debate"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 2048
     height: 1259
     isCached: true
-
-related:
-  - title: "The ‘Enemies List’ at Madison Square Garden"
-    excerpt: "This is “The Daily.” [THEME MUSIC] Today, with little warning or regulation, more and more companies have begun using facial recognition technology on their customers, they say as a security ..."
-    publishedDateTime: 2023-01-18T13:52:00Z
-    webUrl: "https://www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.html"
-    ampWebUrl: "https://www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.amp.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: "https://static01.nyt.com/images/2023/01/19/multimedia/18daily-1/13Daily-MSG-audio-app-zcgv-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "FaGRVC5j3otcJvmoNP1JyY5URj6EMoT0ie5pBWvdkxHUp2bOnsIOJWTkW6Nw3LQY5kW7cDlZqC/Psfmj81CSSgj/PLQwghLsI0wXdNs6xnFujdDFcwM2ljhqtyYnKrqe109rNYzLALrvdkslm7oYO/h4gOJkx+JwLOy8PuMQ45Dg7IS7gvASByrJpJPQCw/g0Vm0Kp55fH0nL5ErdVQb3OeW9VbrcJxsBz0wmuGdJrCJwqp2ThHkRULvY+QuKcQ7giKgtk8/hYl16/9gnvU2nIPTAk5udo6h2a0YttpY0lPqPtD3KE3nMfzypolP6vTP5KAxlojw5SZCtWwh2E1CnzKCxbT5iqeKmhZiiGlTF3zJC1V3m7r6iz8aCGjrMmojZQdMwFP3Bsx0neyO9VVOsbZ6KCDm/1l45JfY2M38S7TpyXK523mcy+ATPvlpycYfSxW64DBJkt7sZYu2HwZo82uEHQuJMhTF1cwCrT5OsUweFgJleOU14YcON8vszA9xjanpMxDUj0Ml99fac7fjJg==;UORQp7ZsvhtSb+y/sMEaCg=="
 ---

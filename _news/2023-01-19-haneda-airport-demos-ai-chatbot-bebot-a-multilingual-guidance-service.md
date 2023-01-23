@@ -57,15 +57,6 @@ related:
         width: 2500
         height: 1250
         isCached: true
-  - title: "Google Research and DeepMind develop AI medical chatbot"
-    excerpt: "A new AI-powered medical-specific chatbot developed by Google and DeepMind has shown some potential for clinical applications."
-    publishedDateTime: 2023-01-18T13:35:00Z
-    webUrl: "https://www.digitalhealth.net/2023/01/google-research-and-deepmind-develop-ai-medical-chatbot/"
-    type: article
-    provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 34
   - title: "AI chatbot poses test for business schools with pass in MBA course exam"
     excerpt: "A professor at the University of Pennsylvania’s Wharton School said ChatGPT earned a ‘B to B-’ on his operations management test © Bloomberg AI chatbot poses test for business schools with pass in MBA"
     publishedDateTime: 2023-01-21T14:00:00Z

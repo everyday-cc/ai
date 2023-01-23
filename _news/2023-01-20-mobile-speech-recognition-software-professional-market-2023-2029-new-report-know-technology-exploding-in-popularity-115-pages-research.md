@@ -29,48 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Legal Tech Artificial Intelligence Market Latest Research Report 2023-2029"
-    excerpt: "As per Market Growth Report, “The Men Eye-Cream market has witnessed growth from USD million to USD million from 2017"
-    publishedDateTime: 2023-01-20T04:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-latest-research-report-2023-2029-2023-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In RegTech Market : Industry Analysis 2023 To 2028 based on Sales, Revenue, Size and Share"
-    excerpt: "Artificial Intelligence In RegTech Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
-    publishedDateTime: 2023-01-20T02:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-industry-analysis-2023-to-2028-based-on-sales-revenue-size-and-share-2023-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Robots Market Research Report 2022 by Product Type, Application, Region And Global Forecast to 2030"
-    excerpt: "Jan 19, 2023 (Heraldkeepers) -- The Artificial Intelligence (AI) Robots Market is segmented on the Basis of Offering Type, Robot Type, Application Type and Regional Analysis. By Offering Type this ..."
-    publishedDateTime: 2023-01-19T00:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-report-2022-by-product-type-application-region-and-global-forecast-to-2030-2023-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Agriculture Market 2023 (New Report): Size is set to Grow at an Outstanding Pace in the Upcoming Years till 2029"
     excerpt: "AI in Agriculture Market Share report provides overview of market ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Solar EVA Sheets Market Share, Size Global Growth Analysis, Gross Margin ..."
     publishedDateTime: 2023-01-19T10:58:00Z
@@ -99,42 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Legal Tech Artificial Intelligence Market Analysis Report 2023 Along with Statistics Figures, till 2029"
-    excerpt: "As per Market Growth Report, “The Legal Tech Artificial Intelligence market has witnessed growth from USD million to"
-    publishedDateTime: 2023-01-20T17:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-01-20"
+  - title: "Speech Recognition Software Market 2023 [New Report]: to Eyewitness Huge Growth by Forecast 2025 | Involved Top Key Players and Emerging Trends"
+    excerpt: "A cost-effective Latest “ Speech Recognition Software Market ” report that deliver top-notch insights into the Industrialmarket. The report also applies both primary and secondary research methodologies to identify new opportunities for development for the Industrial Speech Recognition Software market during the estimated forecast period,"
+    publishedDateTime: 2023-01-20T05:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-2023-new-report-to-eyewitness-huge-growth-by-forecast-2025-involved-top-key-players-and-emerging-trends-2023-01-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
-  - title: "Artificial Intelligence Global Market Report 2022: Increased Adoption of AI Technology in Healthcare Boosts Growth - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial Intelligence Market by Component ... aerospace and defense, automotive, healthcare IT & telecom, manufacturing, education, retail & e-commerce, energy & utilities, media ..."
-    publishedDateTime: 2023-01-18T20:41:00Z
-    webUrl: "https://www.eagletribune.com/region/artificial-intelligence-global-market-report-2022-increased-adoption-of-ai-technology-in-healthcare-boosts-growth/article_c20fe850-b636-5bd0-9962-615da3af202b.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 15
-  - title: "Artificial Intelligence Based Medical Device Market is Taking Hike in Revenue Along With Top Key Players Profile and Forecast 2023 To 2029"
-    excerpt: "\"Artificial Intelligence Based Medical Device Market\" Research Report explains how the market growth has been unfolding over the recent past and what would be the future market projections during the anticipated period from 2023 to 2029."
-    publishedDateTime: 2023-01-20T03:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-is-taking-hike-in-revenue-along-with-top-key-players-profile-and-forecast-2023-to-2029-2023-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
-  - title: "Speech & Voice Recognition Systems Market : Research Report Provides an In-Depth Insight of Trends 2023 To 2028"
-    excerpt: "Pages Report] Rising demand for Internet & Communication Industry will drive the Speech & Voice Recognition Systems segment growth over the next five years. Global Market Anal"
-    publishedDateTime: 2023-01-19T01:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-research-report-provides-an-in-depth-insight-of-trends-2023-to-2028-2023-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 14
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ag67e1NJofGguqgHsDz7Gup9FzjBi9KK0i2kobXKXeD/t1y/0BKSFdWiGk7Uj51WkKILmTsloFBAI44IYbHiQnUY9Jk7Jbt6BCrZj2+dbM+/79D+jT7Zzh5x4IJZ1XZyUbCeH0v2Odn7+D04i8OpY7fvON6Rl3tblHz15AMeneua6xYoLmY48IxAjRAfgKg9h6hFiYPt33eMlm4LyrYbVWUfzxdhgZEKfUDAzglUVviso/FrKDPAP1maZ87kssnC8ZzsaFlOzLnnWnM8nH9WHE5j1CD8Mm9G35UVQBsJScl7Mj1Zqzfv4M5Q6v5/hxQF7lO/A/rKFdykmkCmzOZCsDXifYxsLzvMojE5SiP8gzk=;F8Xv5rleADXA0sE/sbKsmg=="
 ---

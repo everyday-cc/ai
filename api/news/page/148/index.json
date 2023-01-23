@@ -2,6 +2,230 @@
   "page": 148,
   "value": [
     {
+      "path": "_news/2022-09-12-the-ftc-is-closing-in-on-runaway-ai.md",
+      "title": "The FTC Is Closing In on Runaway AI",
+      "excerpt": "The US regulator is eager to end unfair use of artificial intelligence and commercial surveillance, but experts remain skeptical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ftc-ai-regulation/",
+      "originalUrl": "https://www.wired.com/story/ftc-ai-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/631a70b320bc56769c413043/master/pass/business-ftc-ai.jpg",
+          "width": 2401,
+          "height": 1351,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ftc-ai-regulation/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ftc-ai-regulation/amp",
+      "publishedDateTime": "2022-09-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-insights-into-gpu-for-deep-learnings-growth-through-2028.md",
+      "title": "Insights into GPU for Deep Learning’s growth through 2028",
+      "excerpt": "GPU for Deep Learning Market From 2022 to 2028 According to the GPU for Deep Learning Market research report, the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/insights-into-gpu-for-deep-learnings-growth-through-2028-2022-09-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/insights-into-gpu-for-deep-learnings-growth-through-2028-2022-09-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
+      "title": "Truly autonomous cars may be impossible without helpful human touch",
+      "excerpt": "The central premise of autonomous vehicles — that computers and artificial intelligence will dramatically ... An operator controls a Fetch driverless car from the office of Imperium Drive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dawn.com/news/1709723",
+      "originalUrl": "https://www.dawn.com/news/1709723",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dawn.com/large/2022/09/12151924f71b6ff.jpg?r=152506",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dawn",
+        "domain": "dawn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up.md",
+      "title": "Amazon’s Alexa inventor Tunstall-Pedoe raises $20m for AI start-up",
+      "excerpt": "Cambridge- and London-based company, Unlikely AI, will start hiring developers of a new type of artificial-intelligence software",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesslive.co.za/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
+      "originalUrl": "https://www.businesslive.co.za/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/VLjtmzFKD1z7eYCoxeEx4CSKQc3U5rT_BbleCyhZwv2isWzzu350eDYF39-ksetybKmDelGAp7n4RKSik2_tBDFVpU659CtMRRsFhP2KW0F8vAI=s512",
+          "width": 512,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesslive.co.za/amp/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
+      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
+      "publishedDateTime": "2022-09-12T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
+      "title": "INSIGHT-Truly autonomous cars may be impossible without helpful human touch",
+      "excerpt": "Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-0",
+      "originalUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-0?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-0?amp",
+      "publishedDateTime": "2022-09-12T01:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-best-interactive-voice-response-services-of-2022.md",
       "title": "Best Interactive Voice Response services of 2022",
       "excerpt": "The IVR feature aims to provide an intuitive self-service using advanced voice recognition technology, to help improve the customer experience whilst freeing up agents to handle more complex queries.",
@@ -843,239 +1067,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-deloittes-beena-ammanath-on-ethics-in-artificial-intelligence.md",
-      "title": "Deloitte’s Beena Ammanath on Ethics in Artificial Intelligence",
-      "excerpt": "Does the torrid pace of investment in AI create challenges for the development of an ethical practice in this emerging technology?",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/video/deloitte-ethics-in-artificial-intelligence/",
-      "originalUrl": "https://www.eweek.com/video/deloitte-ethics-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/09/eSPEAKS-thumbnail-2.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-nvidias-flagship-ai-chip-reportedly-up-to-45x-faster-than-the-previous-champ.md",
-      "title": "Nvidia’s flagship AI chip reportedly up to 4.5x faster than the previous champ",
-      "excerpt": "No GPUs for you: US blocks sales of AI chips to China and Russia Nvidia positions the H100 as a high-end data center GPU chip designed for AI and supercomputer applications such as image ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/09/nvidias-flagship-ai-chip-reportedly-4-5x-faster-than-the-previous-champ/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/09/nvidias-flagship-ai-chip-reportedly-4-5x-faster-than-the-previous-champ/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/nvidia_h100_hero_3-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate.md",
-      "title": "EU AI Act’s possible open-source regulation sparks Twitter debate",
-      "excerpt": "Alex Engler never expected his Brookings article about the EU’s attempt to regulate open-source AI to stir up Twitter debate.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/",
-      "originalUrl": "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1213704893.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/amp/",
-      "publishedDateTime": "2022-09-09T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-artificial-intelligence-is-now-used-to-track-down-hate-speech.md",
-      "title": "Artificial intelligence is now used to track down hate speech",
-      "excerpt": "AI can help alleviate that burden by scaling up or down to fill in those gaps based on new influxes of users. Facebook, for instance, has seen massive growth, from 400 million users in the early ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newschannel5.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
-      "originalUrl": "https://www.newschannel5.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsy.com/images/videos/m/1660250991_F4WYcV.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newschannel5.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
-      "cdnAmpWebUrl": "https://www-newschannel5-com.cdn.ampproject.org/c/s/www.newschannel5.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
-      "publishedDateTime": "2022-09-09T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTVF",
-        "domain": "newschannel5.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-to-my-darling-mama-thank-you-tearful-king-charles-chokes-up-in-emotional-first-tv-address-to-his-subjects.md",
-      "title": "'To my darling Mama, thank you': Tearful King Charles chokes up in emotional first TV address to his subjects",
-      "excerpt": "In a moving speech that was screened at a service of ... praising his 'darling wife Camilla' who becomes Queen Consort 'in recognition of her own loyal public service since our marriage 17 years ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-11197927/King-Charles-III-makes-historic-speech-nation.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-11197927/King-Charles-III-makes-historic-speech-nation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

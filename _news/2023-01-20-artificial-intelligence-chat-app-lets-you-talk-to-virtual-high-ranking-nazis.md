@@ -8,8 +8,8 @@ webUrl: "https://forward.com/news/532624/artificial-intelligence-historical-figu
 ampWebUrl: "https://forward.com/news/532624/artificial-intelligence-historical-figures-chat-nazis/?amp=1"
 cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/news/532624/artificial-intelligence-historical-figures-chat-nazis/?amp=1"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://forward.com/wp-content/uploads/2023/01/himmler-ai-graphic-2400-×-1350-px.png"

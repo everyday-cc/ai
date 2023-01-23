@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-09-19-global-deep-learning-software-market-foreseen-to-grow-exponentially-by-2030.md",
+      "title": "global Deep Learning Software Market Foreseen to Grow Exponentially by 2030",
+      "excerpt": "According to the Regional Research Reports, the global Deep Learning Software Market size was valued at USD 3.4 billion",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-software-market-foreseen-to-grow-exponentially-by-2030-2022-09-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-software-market-foreseen-to-grow-exponentially-by-2030-2022-09-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-even-smartest-ai-models-dont-match-human-visual-processing-study.md",
       "title": "Even smartest AI models don't match human visual processing: Study",
       "excerpt": "Deep convolutional neural networks (DCNNs) do not see objects the way humans do -- using configural shape perception -- and that could be dangerous in real-world",
@@ -1293,50 +1345,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-new-method-for-comparing-neural-networks-exposes-how-artificial-intelligence-works.md",
-      "title": "New method for comparing neural networks exposes how artificial intelligence works",
-      "excerpt": "Neural networks are high performance, but fragile. For example, self-driving cars use neural networks to detect signs. When conditions are ideal, they do this quite well. However, the smallest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/964598",
-      "originalUrl": "https://www.eurekalert.org/news-releases/964598",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/87aac4f7-8dbc-46a2-a15c-f5e5bf4d2be7/Rendition/thumbnail/Content/Public",
-          "width": 263,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

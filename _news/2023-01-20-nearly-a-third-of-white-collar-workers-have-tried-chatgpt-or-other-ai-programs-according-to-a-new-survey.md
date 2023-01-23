@@ -125,20 +125,20 @@ related:
         height: 276
         isCached: true
   - title: "Adani is hooked on ChatGPT, says race for AI to get complex as chip war"
-    excerpt: "Stating that generative AI will have massive ramifications, he said pioneering of chip design and large-scale production put the US ahead of the rest of the world and pave way for precision and ..."
-    publishedDateTime: 2023-01-20T14:29:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war/97178683"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war/97178683"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war/97178683"
+    excerpt: "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amounts of information to generate natural-sounding text on virtually anything - from crafting jokes to writing ad copy,"
+    publishedDateTime: 2023-01-20T11:57:00Z
+    webUrl: "https://www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war"
+    ampWebUrl: "https://www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war?amp"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
+      name: devdiscourse
+      domain: devdiscourse.com
     quality: 74
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-97178683,imgsize-34342,width-1200,height-628,overlay-ettelecom/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/30_08_2022_02_53_58_2717576.jpg?width=1280"
+        width: 1280
+        height: 960
         isCached: true
   - title: "Gautam Adani is hooked on ChatGPT, says race for AI to get complex as chip war"
     excerpt: "Gautam Adani, the CEO of Adani Group, notes that advancements in AI, specifically generative AI, were a major topic of discussion at the World Economic Forum, mentioning that the recent release of ChatGPT is a \"transformational moment in the democratization of AI\"."
@@ -302,15 +302,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
-  - title: "Microsoft Has Entered the Chat: Azure OpenAI Service Launches, ChatGPT Access Coming Soon"
-    excerpt: "Software giant Microsoft has launched general availability of access to OpenAI's advanced AI models, including GPT-3.5, Codex and DALL•E 2, through Azure OpenAI Service, and says ChatGPT access will follow shortly."
-    publishedDateTime: 2023-01-18T13:58:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/01/18/microsoft-has-entered-the-chat-azure-openai-service-launches-chatgpt-access-coming-soon/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 40
   - title: "GPT 101: Decoding ChatGPT's Generative AI for Legal Professionals"
     excerpt: "While ChatGPT has caught the attention of many in the legal market, its underlying AI engine is where the real power—and disruption—lies."
     publishedDateTime: 2023-01-19T01:09:00Z

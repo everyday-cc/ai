@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Adani is hooked on ChatGPT, says race for AI to get complex as chip war"
-excerpt: "Stating that generative AI will have massive ramifications, he said pioneering of chip design and large-scale production put the US ahead of the rest of the world and pave way for precision and ..."
-publishedDateTime: 2023-01-20T14:29:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war/97178683"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war/97178683"
-ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war/97178683"
-cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war/97178683"
+excerpt: "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amounts of information to generate natural-sounding text on virtually anything - from crafting jokes to writing ad copy,"
+publishedDateTime: 2023-01-20T11:57:00Z
+originalUrl: "https://www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war"
+webUrl: "https://www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war"
+ampWebUrl: "https://www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war?amp"
+cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war?amp"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: telecom.economictimes.indiatimes
-  domain: indiatimes.com
+  name: devdiscourse
+  domain: devdiscourse.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-97178683,imgsize-34342,width-1200,height-628,overlay-ettelecom/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war.jpg"
-    width: 1200
-    height: 628
+  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/30_08_2022_02_53_58_2717576.jpg?width=1280"
+    width: 1280
+    height: 960
     isCached: true
 
 related:
@@ -299,15 +299,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
-  - title: "Microsoft Has Entered the Chat: Azure OpenAI Service Launches, ChatGPT Access Coming Soon"
-    excerpt: "Software giant Microsoft has launched general availability of access to OpenAI's advanced AI models, including GPT-3.5, Codex and DALL•E 2, through Azure OpenAI Service, and says ChatGPT access will follow shortly."
-    publishedDateTime: 2023-01-18T13:58:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/01/18/microsoft-has-entered-the-chat-azure-openai-service-launches-chatgpt-access-coming-soon/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 40
   - title: "GPT 101: Decoding ChatGPT's Generative AI for Legal Professionals"
     excerpt: "While ChatGPT has caught the attention of many in the legal market, its underlying AI engine is where the real power—and disruption—lies."
     publishedDateTime: 2023-01-19T01:09:00Z
@@ -420,6 +411,6 @@ related:
       domain: says.com
     quality: 2
 
-secured: "g5hi4Q7BepA+oRUmyZexCSyY847RSmaHiEE0YwEXDyrio4jdl/KMNgnfVmo5e85eDnjny0xCTrmOZPnKIkoM4ekU4n0GY7DzOFoMfbt8oOMShhwgTZ//EdbDLrFwWl7gKqHuxJtnVVDeaCBtC9+SpA0azg3MWv0Z87UGU4TIic7wSjNH2qQWjbyEO0DQAbS5RKtq3Ul5vWYlFlT4hfyQxgDUwv4B5ub0SV1kqEg7TZkgD4LA3A412v+X9BruxSuT9GZ74h62J8A3/mmjI8pFn6tA//VNqxR9LGp1TXDoywxlxc7VcUMAffn1ndllzq++EDC5byxpk3yuCWPExxtms+nsafrQ4rp5yaK0jOTk+A4=;hwrEhmIec2cXOu2S/4C6sg=="
+secured: "je7VNAIOc5Cydpgilfnz5rTfg2CiveL6sa/ZJQWYM1q8EQIbErJSH/x0JDsF2CZ6dt7PZyYHMp+tTY+KxSnX4sQXfMbK9tyudg2txTfomm2JJ5vsYZBOQbJptKgnItZjS7S09cxX92tcCf4HcqpfZdt+Di5AINv9ZGKP7LOf7hf48g7jlD2XAGUzbFNd7DRKTHyhy1BSemxeOOQUAAPYHbaxODl0tjs36zbWq/dvjvqBdxxuxbuVOR2Ybr41qpZKTCFlsHqadIlwsTat9QlahX3poCuQm3oFnov3j2FYKfjZGlzRfYcNkGWvqdQZt1PpW2PoBoQKqlgDuW+sQoO8RYKPtrxNY0IcofFZMt46xYA=;xPqytr4LK1I51I7W1EXxEA=="
 ---
 

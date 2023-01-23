@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-10-top-machine-learning-trends-to-watch-out-for-in-2023.md",
+      "title": "Top Machine Learning Trends to Watch out for in 2023",
+      "excerpt": "Using automated machine learning, professionals can design effective tech models that improve production and efficiency. Fremont, CA: We can",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioapplications.com/news/top-machine-learning-trends-to-watch-out-for-in-2023-nid-10447.html",
+      "originalUrl": "https://www.cioapplications.com/news/top-machine-learning-trends-to-watch-out-for-in-2023-nid-10447.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioapplications.com/newstransfer/upload/zdtphcioapp450-308.jpg",
+          "width": 450,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T03:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO Applications",
+        "domain": "cioapplications.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-machine-learning-accelerates-drug-formulation-development-changing-the-game-for-pharmaceutical-research.md",
       "title": "Machine Learning Accelerates Drug Formulation Development, Changing the Game for Pharmaceutical Research",
       "excerpt": "New study demonstrates the potential for machine learning to accelerate the development of innovative drug delivery technologies. Scientists at the University of Toronto have successfully tested the use of machine learning models to guide the design of long-acting injectable drug formulations.",
@@ -1280,50 +1323,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-tencent-cloud-named-as-major-player-in-idc-marketscape-worldwide-general-purpose-computer-vision-ai-software-platforms-2022-vendor-assessment.md",
-      "title": "Tencent Cloud Named as Major Player in IDC MarketScape: Worldwide General-Purpose Computer Vision AI Software Platforms 2022 Vendor Assessment",
-      "excerpt": "Tencent Cloud – the cloud business of global technology company Tencent, today announced that it has been named a Major Player in the IDC MarketScape:",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/tencent-cloud-named-major-player-idc-marketscape-worldwide-general-purpose-computer-vision",
-      "originalUrl": "https://www.asiaone.com/business/tencent-cloud-named-major-player-idc-marketscape-worldwide-general-purpose-computer-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jan2023/pr-newswire_500_4_199.jpg?h=7de12b8a&itok=70c_cR8I",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T23:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

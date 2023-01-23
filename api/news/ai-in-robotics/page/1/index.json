@@ -98,58 +98,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-20-robot-grippers-market-2023-is-anticipated-to-register-a-high-cagr-of-during-the-forecast-period-2023-2027.md",
-      "title": "Robot Grippers Market 2023 is Anticipated to Register a High CAGR of During the Forecast Period 2023-2027",
-      "excerpt": "The global Robot Grippers market size was valued at USD 946.42 million in 2021 and is expected to expand at a CAGR of 14.24% during the forecast period, reaching USD 2103.99 million by 2027.” | Ask For Sample Report Moreover,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/robot-grippers-market-2023-is-anticipated-to-register-a-high-cagr-of-during-the-forecast-period-2023-2027-2023-01-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/robot-grippers-market-2023-is-anticipated-to-register-a-high-cagr-of-during-the-forecast-period-2023-2027-2023-01-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-19T20:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-20-odisha-soa-signs-mous-with-start-ups-specialising-in-robotics-ai-drone-technology.md",
       "title": "Odisha: SOA signs MoUs with start-ups specialising in robotics, AI, drone technology",
       "excerpt": "The signatories to the MoU were Prof Pradipta Kumar Nanda, Pro-Vice-Chancellor, SOA and Subhajit Nayak and Dhrutidhar Behera",
@@ -481,7 +429,7 @@
     {
       "path": "_news/2023-01-18-dlr-launches-ground-breaking-robot-control-software.md",
       "title": "DLR Launches Ground-breaking Robot Control Software",
-      "excerpt": "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative",
+      "excerpt": "BINYAMINA, Israel, Jan. 17, 2023 /PRNewswire/ -- Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control ...",
       "sourceUrl": null,
       "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30449359/dlr-launches-ground-breaking-robot-control-software",
       "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30449359/dlr-launches-ground-breaking-robot-control-software",
@@ -1383,6 +1331,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-ai-powered-robot-lawyer-will-be-first-of-its-kind-to-represent-defendant-in-court.md",
+      "title": "AI-powered \"robot\" lawyer will be first of its kind to represent defendant in court",
+      "excerpt": "A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month. Joshua Browder, CEO of DoNotPay, said the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
+      "originalUrl": "https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/09/4d7e5ab8-9ca0-4aa9-8961-8fd582dadcf4/thumbnail/1200x630/ec2ecdf82deb69149d4bac7ec82f389a/screen-shot-2023-01-09-at-4-00-19-pm.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
+      "publishedDateTime": "2023-01-09T09:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

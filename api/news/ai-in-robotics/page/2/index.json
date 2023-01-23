@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-01-10-ai-powered-robot-lawyer-will-be-first-of-its-kind-to-represent-defendant-in-court.md",
-      "title": "AI-powered \"robot\" lawyer will be first of its kind to represent defendant in court",
-      "excerpt": "A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month. Joshua Browder, CEO of DoNotPay, said the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
-      "originalUrl": "https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/09/4d7e5ab8-9ca0-4aa9-8961-8fd582dadcf4/thumbnail/1200x630/ec2ecdf82deb69149d4bac7ec82f389a/screen-shot-2023-01-09-at-4-00-19-pm.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
-      "publishedDateTime": "2023-01-09T09:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-09-cobalt-robotics-expands-deployment-with-ally-financial-to-secure-its-facilities-keep-employees-safe-save-money-and-tackle-labor-shortage.md",
       "title": "Cobalt Robotics Expands Deployment with Ally Financial to Secure Its Facilities, Keep Employees Safe, Save Money, and Tackle Labor Shortage",
       "excerpt": "Cobalt Robotics, the only machine learning company to automate repetitive manual security and facility tasks with autonomous robots around the world, today announced it has expanded its customer implementation with Ally Financial,",
@@ -1317,6 +1274,58 @@
         "name": "The Hindu",
         "domain": "thehindu.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-22-ukraine-has-become-the-worlds-testing-ground-for-military-robots.md",
+      "title": "Ukraine has become the world’s testing ground for military robots",
+      "excerpt": "Artificial intelligence-powered vehicles have been used in war for decades, but the Russian War on Ukraine is the modern world's testing bed.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ukraine-has-become-worlds-testing-ground-for-military-robots",
+      "originalUrl": "https://thenextweb.com/news/ukraine-has-become-worlds-testing-ground-for-military-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F12%2Fmilremspecs.jpg&signature=e3193e6efd2ff6b5221db5b1f1ff5a31",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-21T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

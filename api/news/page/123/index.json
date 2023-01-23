@@ -2,6 +2,250 @@
   "page": 123,
   "value": [
     {
+      "path": "_news/2022-09-30-build-flexible-and-scalable-distributed-training-architectures-using-kubeflow-on-aws-and-amazon-sagemaker.md",
+      "title": "Build flexible and scalable distributed training architectures using Kubeflow on AWS and Amazon SageMaker",
+      "excerpt": "In this post, we demonstrate how Kubeflow on AWS (an AWS-specific distribution of Kubeflow) used with AWS Deep Learning Containers and Amazon Elastic File System (Amazon EFS) simplifies collaboration and provides flexibility in training deep learning models at scale on both Amazon Elastic Kubernetes",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-flexible-and-scalable-distributed-training-architectures-using-kubeflow-on-aws-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-flexible-and-scalable-distributed-training-architectures-using-kubeflow-on-aws-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/23/Solution-1228x630.png",
+          "width": 1228,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T10:56:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-machine-learning-finds-new-patterns-of-decline-in-als-alzheimers.md",
+      "title": "Machine Learning Finds New Patterns of Decline in ALS, Alzheimer’s",
+      "excerpt": "An MIT machine-learning method has found new patterns of disease progression in ALS and other neurodegenerative diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/machine-learning-finds-new-patterns-of-decline-in-als-alzheimers",
+      "originalUrl": "https://healthitanalytics.com/news/machine-learning-finds-new-patterns-of-decline-in-als-alzheimers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/GettyImages-852404126-e4b00c1efb9503a805928b101c78b499.jpg",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/machine-learning-finds-new-patterns-of-decline-in-als-alzheimers",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-finds-new-patterns-of-decline-in-als-alzheimers",
+      "publishedDateTime": "2022-09-30T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-beyond-killer-robots-how-ai-impacts-security-military-affairs.md",
+      "title": "Beyond Killer Robots: How AI impacts security, military affairs",
+      "excerpt": "Nations that set limits on AI capabilities may encounter adversaries who have no qualms about doing so, putting them at a disadvantage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.c4isrnet.com/unmanned/robotics/2022/09/30/beyond-killer-robots-how-ai-impacts-security-military-affairs/",
+      "originalUrl": "https://www.c4isrnet.com/unmanned/robotics/2022/09/30/beyond-killer-robots-how-ai-impacts-security-military-affairs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.c4isrnet.com/resizer/Uwpm-Wm0MVv3xtPlt_6-IJ3KRpk=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/7375MPBJAZHYPBNQR5NDGYYKGM.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-bundesliga-match-fact-win-probability-quantifying-the-effect-of-in-game-events-on-winning-chances-using-machine-learning-on-aws.md",
+      "title": "Bundesliga Match Fact Win Probability: Quantifying the effect of in-game events on winning chances using machine learning on AWS",
+      "excerpt": "Ten years from now, the technological fitness of clubs will be a key contributor towards their success. Today we’re already witnessing the potential of technology to revolutionize the understanding of football. xGoals quantifies and allows comparison of goal scoring potential of any shooting situation,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-win-probability-quantifying-the-effect-of-in-game-events-on-winning-chances-using-machine-learning-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-win-probability-quantifying-the-effect-of-in-game-events-on-winning-chances-using-machine-learning-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/30/ML-11374-image011.jpg",
+          "width": 1400,
+          "height": 865,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T09:28:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-deep-dive-how-synthetic-data-can-enhance-arvr-and-the-metaverse.md",
+      "title": "Deep Dive: How synthetic data can enhance AR/VR and the metaverse",
+      "excerpt": "The metaverse will rely heavily on synthetic data, which is gaining traction as a tool to help train AI/ML models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/deep-dive-how-synthetic-data-can-enhance-ar-vr-and-the-metaverse/",
+      "originalUrl": "https://venturebeat.com/ai/deep-dive-how-synthetic-data-can-enhance-ar-vr-and-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/image2-5.png?w=1200&strip=all",
+          "width": 1198,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/deep-dive-how-synthetic-data-can-enhance-ar-vr-and-the-metaverse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deep-dive-how-synthetic-data-can-enhance-ar-vr-and-the-metaverse/amp/",
+      "publishedDateTime": "2022-09-30T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks.md",
       "title": "Tesla robot walks, waves, but doesn’t show off complex tasks",
       "excerpt": "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a",
@@ -958,238 +1202,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-ai-tech-startup-spokesperson.md",
-      "title": "AI Tech Startup Spokesperson",
-      "excerpt": "Casting a spokesperson for an AI tech startup, producing a short 5 minute sales video/explainer video for the launch of their new product. Looking to contract a male between 25-35 who can record ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.backstage.com/casting/ai-tech-startup-spokesperson-2514399/",
-      "originalUrl": "https://www.backstage.com/casting/ai-tech-startup-spokesperson-2514399/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Backstage",
-        "domain": "backstage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-why-ai-is-the-next-step-in-digitization-of-the-finance-sector.md",
-      "title": "Why AI Is the Next Step In Digitization Of the Finance Sector",
-      "excerpt": "And this is merely the start. As we move to the next frontier of technological discovery, and research and development, let us delve into the role of AI in disrupting the financial sector ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/technology/why-ai-is-the-next-step-in-digitization-of-the-finance/436277",
-      "originalUrl": "https://www.entrepreneur.com/en-in/technology/why-ai-is-the-next-step-in-digitization-of-the-finance/436277",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1664428624-Myproject-196.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath.md",
-      "title": "How AI predicts hurricanes and answers calls for help in their aftermath",
-      "excerpt": "AI helps keep the lines of communication open during a disaster and also better predict the intensity of hurricanes in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/01/hurricane-shutterstock_712360393.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/amp/",
-      "publishedDateTime": "2022-09-29T15:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-house-democrats-debut-new-bill-to-limit-us-police-use-of-facial-recognition.md",
-      "title": "House Democrats debut new bill to limit US police use of facial recognition",
-      "excerpt": "The bill, if passed, would require police across the United States to first obtain a warrant before using facial recognition technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/",
-      "originalUrl": "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition-tech.gif?resize=1200,799",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/amp/",
-      "publishedDateTime": "2022-09-29T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-meta-is-using-ai-to-generate-videos-from-just-a-few-words.md",
-      "title": "Meta is using AI to generate videos from just a few words",
-      "excerpt": "Now, Meta researchers are taking AI a step further: they’re using it to concoct videos from a text prompt. Meta CEO Mark Zuckerberg posted on Facebook on Thursday about the research, called Make ...",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research",
-      "originalUrl": "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

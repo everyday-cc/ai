@@ -24,17 +24,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Government of Canada announces the recipients of support from INOVAIT's Focus Fund"
-    excerpt: "Funding to support new innovative medical solutions that will better equip Canada's medical system and bring important benefits to Canadians TORONTO, /CNW/ - The pandemic has shown how important it is"
-    publishedDateTime: 2023-01-18T14:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/n30464975/government-of-canada-announces-the-recipients-of-support-from-inovaits-focus-fund"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
-
 secured: "KS6cK7esvVAt1/Ve5ci/zni6QWn6tF/QLFrmYFLOtlRhfZTGk6Syw4LXuKSwryNUF6O50POHgeZ96pxKDsuJTNQ9CHasxV2ZZsRQPXrxgP9SgSODZ3NoOjUGQA/YhYCiXouwtGKal+ZpAnAQT1+mSfM9V1AcKFdMJSNAi95i0pyo/Ev0RtplLZHA6g3jO6dI0ExcO9GWQ4Pz3DTpk60Smq5Fu4cXqHcZHGpug1PEV1G2MzPC1wQ0fRLfiEweUOWrKr5mVv5oADENf7Ew6eyNMhhjKDzMgbtY9W0b/RMaphFMcYifp0zrlwP88DS+TtOfX2ebjm3EsC8dqRydtjNabqzwU1we6b9haRauPS+sm4M=;bIRinN0TnbRkabIVtggc2A=="
 ---
 

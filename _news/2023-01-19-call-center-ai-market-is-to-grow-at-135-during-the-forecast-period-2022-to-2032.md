@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence Based Medical Device Market is Set to Grow in forecast period 2029"
+    excerpt: "Artificial Intelligence Based Medical Device Market Report Insights: (Report Pages: 110) “The Artificial Intelligence"
+    publishedDateTime: 2023-01-18T15:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-is-set-to-grow-in-forecast-period-2029-2023-01-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Robot Grippers Market 2023 is Anticipated to Register a High CAGR of During the Forecast Period 2023-2027"
     excerpt: "The global Robot Grippers market size was valued at USD 946.42 million in 2021 and is expected to expand at a CAGR of 14.24% during the forecast period, reaching USD 2103.99 million by 2027.” | Ask For Sample Report Moreover,"
     publishedDateTime: 2023-01-20T04:10:00Z
@@ -33,15 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Citizen Services AI Market Size Hits $41.0 Billion by 2027, growing at a CAGR of 44.5%: Report by MarketsandMarkets™"
-    excerpt: "The global Citizen Services AI Market size is projected to grow from USD 6.5 Billion in 2022 to USD 41.0 Billion by 2027, at a CAGR of 44.5% during the forecast period,"
-    publishedDateTime: 2023-01-20T12:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30501393/citizen-services-ai-market-size-hits-41-0-billion-by-2027-growing-at-a-cagr-of-44-5-report-by-mark"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "YdLIuOp7hEEXLaR6LikzYc3DDWYv28nKSgXSBXkTOeGFc9iOTwVJmP3paFpsIFTZcSeux9gONY39kJLearJBqopQ3ylId69f2ukvgUBnjw10/HStoYu0cmqVHkOBJDfDyD9LspU2GfXYVewBMuHUCdFsr1xeraPJNNa4/1a6zlQYos1wwXZdPKEesadUBtmciTjv3d4UxGX2NC0OqmGQvq+VEnfAr191HhOJE1Vy8U4M2bwD0jeHqfSGV/9Mo+cSBcCMyTuhuiPEV4l0i8okQcSKq9hpSAPbiPFTPyGFDuKYHpnMUZ8hF9ajTlgURAiDt6iFoSVpAE00cUiJf0SwJGV8KMFGSLJma9r6jcqAAgY=;PuHpaL4h/M5BZRyMLU6aFw=="
 ---

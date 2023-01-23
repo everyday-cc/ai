@@ -151,22 +151,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla faked 2016 self-driving video, according to engineer's deposition testimony"
-    excerpt: "Tesla staged a video showing its self-driving capability, Ashok Elluswamy, director of Autopilot, said in a 2022 deposition."
-    publishedDateTime: 2023-01-18T13:54:00Z
-    webUrl: "https://www.autoblog.com/2023/01/18/tesla-faked-self-driving-video-deposition-testimony/"
-    ampWebUrl: "https://www.autoblog.com/amp/2023/01/18/tesla-faked-self-driving-video-deposition-testimony/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/01/18/tesla-faked-self-driving-video-deposition-testimony/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 54
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/6015x3383+0+947/resize/800x450!/format/jpg/quality/85/https://media.zenfs.com/en/insider_articles_922/8050fe51a55b97368be98f6f319f1a38"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Musk Personally Oversaw Tesla's Staged Self-Driving Video"
     excerpt: "Tesla CEO Elon Musk personally oversaw the 2016 video that exaggerated Autopilot's self-driving capabilities which is now the subject of a wrongful death lawsuit. The update comes from Bloomberg which claims it's viewed internal Tesla emails attesting to Musk's direct involvement in the video's production."
     publishedDateTime: 2023-01-21T15:35:00Z

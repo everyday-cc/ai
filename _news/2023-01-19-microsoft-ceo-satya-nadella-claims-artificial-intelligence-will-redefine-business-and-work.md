@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claim
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work?amp=1"
 type: article
 quality: 109
-heat: 199
+heat: 179
 published: true
 
 provider:
@@ -119,15 +119,6 @@ related:
         width: 1070
         height: 580
         isCached: true
-  - title: "Microsoft is working on an AI called VALL-E that can clone your voice from a 3-second audio clip"
-    excerpt: "The tech giant's new AI project comes after its plans to invest $10 billion in OpenAI's ChatGPT. VALL-E is a text-to-speech AI tool that can mimic voices."
-    publishedDateTime: 2023-01-18T14:36:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-chatgpt-vall-e-valle-voice-text-clone-listen-clip"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "Satya Nadella says golden age of Artificial Intelligence is here, good for humanity"
     excerpt: "In a session at the ongoing five-day annual meeting of the World Economic Forum, Nadella said that technology will provide more and more ways to bring people together."
     publishedDateTime: 2023-01-19T05:45:00Z
@@ -142,15 +133,6 @@ related:
         width: 1280
         height: 750
         isCached: true
-  - title: "Microsoft laying off 10,000 workers, reports say"
-    excerpt: "Microsoft Corp. (Nasdaq: MSFT) is laying off 10,000 employees starting Wednesday, according to multiple news reports, making it the latest tech giant to do so amid a worsening economic climate."
-    publishedDateTime: 2023-01-18T14:08:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/01/18/microsoft-layoffs-thousands-this-week.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "jMcm8xEHXlYTLJBaO4MKe2LcOTUcmPpqLizW/0S4yhZiFa1j6R+CZAAjpfVfdzp7+mT99JE8ZnNvuYlTdq1PlenN2yp6s5w0p5dx6iAQ3i97o48UgyuF9UpUR+dpf978pUNCUaPio62cV0+LM+XK194WuZKKZ8BBttRGchv3MaGOuULVGxT5WpBZQqRKISpmZ+irUvCBK/ja4BCsT8SjQW6XIrChwzjGSorYLPxgvrN390hFpRgL4cJvigZ0wnM/dzWiSGA81Et4NP7Dwwzoy1kWHAy96gg9K/SEMueWbT/kJUkyXdx4rj9MJ3KnYbNSyAzjZl0VeLqeamcdiGarcivJIcXm8TQTTE/GYF0Gjwk=;0Wxr3UL79oXUx0xO69NNXQ=="
 ---

@@ -132,24 +132,6 @@ related:
         width: 1070
         height: 580
         isCached: true
-  - title: "Microsoft is working on an AI called VALL-E that can clone your voice from a 3-second audio clip"
-    excerpt: "The tech giant's new AI project comes after its plans to invest $10 billion in OpenAI's ChatGPT. VALL-E is a text-to-speech AI tool that can mimic voices."
-    publishedDateTime: 2023-01-18T14:36:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-chatgpt-vall-e-valle-voice-text-clone-listen-clip"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-  - title: "Microsoft laying off 10,000 workers, reports say"
-    excerpt: "Microsoft Corp. (Nasdaq: MSFT) is laying off 10,000 employees starting Wednesday, according to multiple news reports, making it the latest tech giant to do so amid a worsening economic climate."
-    publishedDateTime: 2023-01-18T14:08:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/01/18/microsoft-layoffs-thousands-this-week.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "GjudejInRcs+JCK+XjdnOdZlJZsvm4QUnJkGsuKULt51l6LmghrBI/9Hq/Lq5DpRAQrS1+0dhElqKLJneZqu4S8qwHNeZ8qNi9eg2xSYjSqaaPeUQOECh+/zrwfTrjUQErcUuil69A+0pJoB6OBo9XSXOnbHfbI8kpfliF/3ZD595zquSLOnhprwXswlJ15u6C+LMNRU/vQBZF4PZSvCQe4XVLUSVkTgZZdF3CUUeaBqunUsEuCzgvodQ7B2GBxadQftDACTStoQ314xElJuyjJcJzvPNJpRudUDoKlEw5EPPRI2VltRWfadcBoy6I2OUqJ4Pp4JAsMGhGT0VWak+TqNzAufO79RVGicwp1UI24=;MRctwS42NPiObjHPp/gGQQ=="
 ---

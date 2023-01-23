@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving truck startup Waabi brings on Volvo VC as strategic investor"
-    excerpt: "The partnership also symbolizes Volvo’s own commitment to self-driving trucking. Volvo Group has been exploring autonomous mobility solutions for years. As early as 2017, Volvo had developed an autonomous concept truck that would be used for hub-to-hub ..."
-    publishedDateTime: 2023-01-18T13:57:00Z
-    webUrl: "https://techcrunch.com/2023/01/18/self-driving-truck-startup-waabi-brings-on-volvo-vc-as-strategic-investor/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 33
   - title: "Volvo Group Invests in Autonomous-Truck Developer Waabi"
     excerpt: "Volvo believes that fully autonomous trucking transports are key to provide additional capacity, better safety and improved efficiency. It's putting its money where its mouth is with an investment in Waabi."
     publishedDateTime: 2023-01-18T20:59:00Z

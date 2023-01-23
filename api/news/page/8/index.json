@@ -2,6 +2,188 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-01-14-l4-autonomous-driving-may-commercialize-before-l3-says-baidu-ceo-robin-li.md",
+      "title": "L4 autonomous driving may commercialize before L3, says Baidu CEO Robin Li",
+      "excerpt": "Baidu co-founder, chairman, and CEO Robin Li, at Baidu Create 2022 on January 10, said autonomous driving will become reality sooner than people have expected, while the commercialization of L4 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20230113VL209.html",
+      "originalUrl": "https://www.digitimes.com/news/a20230113VL209.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-13T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-14-alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.md",
+      "title": "Alphabet robotics subsidiary Intrinsic lays off 20% staff",
+      "excerpt": "It is a robotics firm that is working on developing artificial intelligence-based software to bolster the use of robots in industries and commercial environments. The news about the company’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.html",
+      "originalUrl": "https://www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2022/06/laid-off-worker-layoff-resignation-by-lee-charlie-via-shutterstock-100928642-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.amp.html",
+      "publishedDateTime": "2023-01-13T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-global-x-funds-global-x-robotics-artificial-intelligence-etf-nasdaq-botz.md",
+      "title": "Global X Funds - Global X Robotics & Artificial Intelligence ETF (NASDAQ: BOTZ)",
+      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 01/13/2023. Discounted offers are only available to new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/quote/nasdaq/botz/",
+      "originalUrl": "https://www.fool.com/quote/nasdaq/botz/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
+          "width": 843,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-13T06:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-why-tensorflow-for-python-is-dying-a-slow-death.md",
+      "title": "Why TensorFlow for Python is dying a slow death",
+      "excerpt": "Many developers who use Python for machine learning are now switching to PyTorch. Find out why and what the future could hold for TensorFlow.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/why-tensorflow-for-python-is-dying-a-slow-death",
+      "originalUrl": "https://thenextweb.com/news/why-tensorflow-for-python-is-dying-a-slow-death",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F01%2FAdd-a-heading-1.jpg&signature=0118422d6dab7f09d89f3c0b7b7e58df",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-13T06:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-hpe-buys-ai-startup-pachyderm-to-build-new-ai-ml-platform.md",
       "title": "HPE Buys AI Startup Pachyderm To Build New AI, ML Platform",
       "excerpt": "HPE acquires AI startup Pachyderm to boost artificial intelligence portfolio, create a new HPE platform and increase customer adoption of machine learning.",
@@ -986,187 +1168,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech.md",
-      "title": "Framework Science Revolutionizes Hiring Process with Cost-Effective, AI-Powered Staff Augmentation Services and Fintech",
-      "excerpt": "Our focus on cost-effectiveness, AI-powered processes, and fintech payments set us apart from other providers.”— Jesus Romero SAN FRANCISCO, CALIFORNIA, UNITED STATES, January 12, 2023/ EINPresswire.com / -- Framework Science Revolutionizes Hiring Process with Cost-Effective,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/mexico-ein-presswire-newsmatics-business-6b2dbec690e258cbae8c4b14731138db",
-      "originalUrl": "https://apnews.com/article/mexico-ein-presswire-newsmatics-business-6b2dbec690e258cbae8c4b14731138db",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T12:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-datastax-acquires-machine-learning-services-firm-kaskada.md",
-      "title": "DataStax acquires machine learning services firm Kaskada",
-      "excerpt": "Seattle-based Kaskada claims to be the first company to train machines using event-based data and real-time data being fed from streaming sources.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.html",
-      "originalUrl": "https://www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/21/14/handshake_deal_partnership_teamwork_contract_merger_network_by_metamorworks_gettyimages-933315234_2400x1600-100788512-large-100922376-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.amp.html",
-      "publishedDateTime": "2023-01-12T11:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-internet-shudders-at-ai-designed-to-sext-users-with-roleplaying-and-pictures.md",
-      "title": "Internet shudders at AI designed to sext users with roleplaying and pictures",
-      "excerpt": "The team behind the artificial intelligence chatbot named Replika is copping some backlash from social media and Replika users for their recent advertisements attempting to sell the chatbot to new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/89998/internet-shudders-at-ai-designed-to-sext-users-with-roleplaying-and-pictures/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/89998/internet-shudders-at-ai-designed-to-sext-users-with-roleplaying-and-pictures/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T11:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-the-year-ahead-in-autonomous-responsibility.md",
-      "title": "The Year Ahead in Autonomous Responsibility",
-      "excerpt": "But what if the technology is doing more harm than good? As increasing numbers of companies rely on artificial intelligence to power their tech, we see more cases of dangerous AI dysfunction ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/autonomy-artificial-intelligence-predictions-2023-1849914786",
-      "originalUrl": "https://gizmodo.com/autonomy-artificial-intelligence-predictions-2023-1849914786",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dedc7c6fda52d16de9b1f876ee0e2416.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

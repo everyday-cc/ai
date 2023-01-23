@@ -119,15 +119,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft is working on an AI called VALL-E that can clone your voice from a 3-second audio clip"
-    excerpt: "The tech giant's new AI project comes after its plans to invest $10 billion in OpenAI's ChatGPT. VALL-E is a text-to-speech AI tool that can mimic voices."
-    publishedDateTime: 2023-01-18T14:36:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-chatgpt-vall-e-valle-voice-text-clone-listen-clip"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "Satya Nadella says golden age of Artificial Intelligence is here, good for humanity"
     excerpt: "In a session at the ongoing five-day annual meeting of the World Economic Forum, Nadella said that technology will provide more and more ways to bring people together."
     publishedDateTime: 2023-01-19T05:45:00Z
@@ -142,15 +133,6 @@ related:
         width: 1280
         height: 750
         isCached: true
-  - title: "Microsoft laying off 10,000 workers, reports say"
-    excerpt: "Microsoft Corp. (Nasdaq: MSFT) is laying off 10,000 employees starting Wednesday, according to multiple news reports, making it the latest tech giant to do so amid a worsening economic climate."
-    publishedDateTime: 2023-01-18T14:08:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/01/18/microsoft-layoffs-thousands-this-week.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "o/82GlONIpv9NDtc2ZPFikMSt9vmhMqwtD3bLvJ7Ob13trMdSS9xWacrzykDlDNEDL/kCPW3tVyGu4RO63I0qPxEBvBu1B29crkWbkpwPwKoR27BC51d8PJV6LGpRCvRkNI4izuU/NL5RaRRDkFHN0hS9SdLRvzZl9vPoBu+/uI7XQ7INla+PQys81eojo2ZROkKffeLsN/5vCBM4giJE38FDCkuM+A6T/DqJlVZiN6+reqN1VtQgAmeCZcW9NX7vdzKXl/9NS8X2BVVdcZ//JLguidvACDvXrXEXIetNuFciOoEbxiPtxrYY4cEkTp527O9dY3k4nN0XWXojbFzIOR8JMrWPNKo0wAYP8nfdPw/fPDjIeVVlkGjCtpe+YQ0Qe580+q0y7oyMCXDlvqHMyFolbSj6BygdJka3guJt1AznyidwNmRge+akhqmHjNpg36Zz46zHUjvp13q5uM4eMtGum1hs+UOLk/tGkz/bYGyUCu/aNvU1kk2VK011rGo9jKmcGY3apYHh1PfeRssuQ==;CjU7Jrjruy9S2JZF3D4ukg=="
 ---

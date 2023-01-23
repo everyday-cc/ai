@@ -119,15 +119,6 @@ related:
         width: 1070
         height: 580
         isCached: true
-  - title: "Microsoft is working on an AI called VALL-E that can clone your voice from a 3-second audio clip"
-    excerpt: "The tech giant's new AI project comes after its plans to invest $10 billion in OpenAI's ChatGPT. VALL-E is a text-to-speech AI tool that can mimic voices."
-    publishedDateTime: 2023-01-18T14:36:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-chatgpt-vall-e-valle-voice-text-clone-listen-clip"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "Satya Nadella says golden age of Artificial Intelligence is here, good for humanity"
     excerpt: "In a session at the ongoing five-day annual meeting of the World Economic Forum, Nadella said that technology will provide more and more ways to bring people together."
     publishedDateTime: 2023-01-19T05:45:00Z
@@ -142,15 +133,6 @@ related:
         width: 1280
         height: 750
         isCached: true
-  - title: "Microsoft laying off 10,000 workers, reports say"
-    excerpt: "Microsoft Corp. (Nasdaq: MSFT) is laying off 10,000 employees starting Wednesday, according to multiple news reports, making it the latest tech giant to do so amid a worsening economic climate."
-    publishedDateTime: 2023-01-18T14:08:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/01/18/microsoft-layoffs-thousands-this-week.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "yBsaArafhE6rGZC+z//y+m2DLgWmb+dsfKSPYaVtEsMT2fq4q9XCsXk3g6sDuBu9kwpqsJfIUkxUXecEsyIthcQJRSgcA0zv7MC0zfWqvt43TylV3Qe3LeMz9/IuqATpn5TmlS/YuZqkbbHcQEBZYFw9tWHOAGlnSJaxqpaALlDuyXWD6ZptC6HptuhEcfdnlYayZzIjClUciYlKWVjno1/1KkYQ60gS5Fl8VVqsWoG3SJG3FDqYHgnqGQcatZw6pAZgujdsrg7cpGyulChiC1Cb2C2Xsqr6vgyENcSn8WBW+EC0vKxMrREbFfGg9Kb/sd/6KJ8lKfuJfanpzxPWdQ+einW37jBRJhyEF9Ptu+A=;RU87JUHaG6t4/ItRKPIwjA=="
 ---

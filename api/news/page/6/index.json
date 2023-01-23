@@ -2,6 +2,197 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-01-16-general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits.md",
+      "title": "General availability of Azure OpenAI Service expands access to large, advanced AI models with added enterprise benefits",
+      "excerpt": "With Azure OpenAI Service now generally available, more businesses can apply for access to the most advanced AI models in the world—including GPT-3.5, Codex, and DALL•E 2—backed by the trusted enterprise-grade capabilities and AI-optimized infrastructure of Microsoft Azure, to create cutting-edge applications.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/",
+      "originalUrl": "https://azure.microsoft.com/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6218d54-3c27-4c17-bc25-33ce1d1a268e.png",
+          "width": 808,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T09:00:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-stable-diffusion-ai-art-lawsuit-plus-caution-from-openai-deepmind-the-ai-beat.md",
+      "title": "Stable Diffusion AI art lawsuit, plus caution from OpenAI, DeepMind | The AI Beat",
+      "excerpt": "Stability AI and Midjourney were hit with a copyright infringement lawsuit, while OpenAI and DeepMind are signaling generative AI caution.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-16-at-10.28.05-AM-e1673882948444.png?w=1200&strip=all",
+          "width": 703,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/",
+      "publishedDateTime": "2023-01-16T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-the-advantages-of-artificial-intelligence-ai.md",
+      "title": "The advantages of artificial intelligence (AI)",
+      "excerpt": "DURING the last two months or so, there has been much discussion around the world regarding the potential benefits and threats in the fast development in recent years of",
+      "sourceUrl": null,
+      "webUrl": "https://www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594",
+      "originalUrl": "https://www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.manilatimes.net/manilatimes/uploads/images/2023/01/17/148178.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594/amp",
+      "cdnAmpWebUrl": "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594/amp",
+      "publishedDateTime": "2023-01-16T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manilatimes",
+        "domain": "manilatimes.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-deepminds-ai-chatbot-can-do-things-that-chatgpt-cannot-ceo-claims.md",
+      "title": "DeepMind’s AI chatbot can do things that ChatGPT cannot, CEO claims",
+      "excerpt": "Google’s DeepMind has pioneered advances in artificial intelligence since its founding in 2010, with the ultimate goal of creating a human-level AI (Alan Warburton / Better Images of AI / CC ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/deepmind-ai-chatbot-chatgpt-openai-b2262862.html",
+      "originalUrl": "https://www.independent.co.uk/tech/deepmind-ai-chatbot-chatgpt-openai-b2262862.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/05/17/10/deepmind%20ai%20artificial%20general%20intelligence.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T07:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-16-how-soon-will-m3gan-become-reality-robot-ethicists-weigh-in.md",
       "title": "How soon will M3gan become reality? Robot ethicists weigh in",
       "excerpt": "The horror movie’s hi-tech star may be fiction, but concerns over the human relationship with AI are real",
@@ -986,197 +1177,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-15-machine-machinations-how-tech-remains-both-a-divisive-and-unifying-force-can-be-disturbing.md",
-      "title": "Machine machinations: How tech remains both a divisive and unifying force can be disturbing",
-      "excerpt": "The Equality Machine is a disturbing book. On the one hand, it tells you about the wonders that artificial intelligence and machine learning can ... supplying goods and services free of cost ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/lifestyle/machine-machinations-how-tech-remains-both-a-divisive-and-unifying-force-can-be-disturbing/2948383/",
-      "originalUrl": "https://www.financialexpress.com/lifestyle/machine-machinations-how-tech-remains-both-a-divisive-and-unifying-force-can-be-disturbing/2948383/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-14T21:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-15-how-machine-learning-can-help-alleviate-the-us-labor-shortage.md",
-      "title": "How machine learning can help alleviate the U.S. labor shortage",
-      "excerpt": "Advances in machine learning can identify causalities and correlations to help recruiters and job seekers find successful matches.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-machine-learning-can-help-alleviate-the-u-s-labor-shortage/",
-      "originalUrl": "https://venturebeat.com/ai/how-machine-learning-can-help-alleviate-the-u-s-labor-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/03/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.3x2.jpg?w=1200&strip=all",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-machine-learning-can-help-alleviate-the-u-s-labor-shortage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-machine-learning-can-help-alleviate-the-u-s-labor-shortage/amp/",
-      "publishedDateTime": "2023-01-14T17:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-15-global-automated-machine-learning-automl-market-2023-latest-report-is-booming-in-near-future-2029-103-pages-report.md",
-      "title": "Global Automated Machine Learning (AutoML) Market 2023 (Latest Report) is booming in near Future 2029| 103 Pages Report",
-      "excerpt": "Global Automated Machine Learning (AutoML) Market Report 2023 is spread across 103 pages and provides exclusive vital statistics, data, information, trends, and competitive landscape insights in this niche sector. In a nutshell, this report is a must-read ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-automated-machine-learning-automl-market-2023-latest-report-is-booming-in-near-future-2029-103-pages-report-2023-01-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-automated-machine-learning-automl-market-2023-latest-report-is-booming-in-near-future-2029-103-pages-report-2023-01-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-15-remote-control-eod-robot-market-research-report-2023-2028.md",
-      "title": "Remote Control EOD Robot Market Research Report 2023-2028",
-      "excerpt": "Jan 15, 2023 (The Expresswire) -- The \"Remote Control EOD Robot Market\" provides a value chain analysis of revenue for the anticipated period from 2023 to 2028. The report will include a full and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/remote-control-eod-robot-market-research-report-2023-2028-2023-01-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/remote-control-eod-robot-market-research-report-2023-2028-2023-01-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

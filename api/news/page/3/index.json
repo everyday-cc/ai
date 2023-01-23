@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-19-cheaters-hacked-an-ai-botand-beat-the-rocket-league-elite.md",
+      "title": "Cheaters Hacked an AI Bot—and Beat the Rocket League Elite",
+      "excerpt": "Expert players of the popular vehicular soccer game have been caught out by lesser players using a superhuman bot built on cutting-edge machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/cheaters-hacked-an-ai-bot-and-beat-the-rocket-league-elite/",
+      "originalUrl": "https://www.wired.com/story/cheaters-hacked-an-ai-bot-and-beat-the-rocket-league-elite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63c85c5cd58658572e6f21a2/master/pass/Rocket-League-AI-Bots-Business.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/cheaters-hacked-an-ai-bot-and-beat-the-rocket-league-elite/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/cheaters-hacked-an-ai-bot-and-beat-the-rocket-league-elite/amp",
+      "publishedDateTime": "2023-01-19T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-weride-l4-self-driving-minibus-receives-beijings-first-road-test-license.md",
+      "title": "WeRide L4 Self Driving Minibus Receives Beijing’s First Road Test License",
+      "excerpt": "WeRide announced that its autonomous technology enabled minibus was the first to officially obtain the road test license in Beijing. The bus is equipped with L4 self driving technology and is a major milestone for the brand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/01/19/weride-self-driving-bus-beijing-license/",
+      "originalUrl": "https://www.gizmochina.com/2023/01/19/weride-self-driving-bus-beijing-license/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/01/3caa4ac2-6d02-415f-ab79-f5e38fb17107.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2023/01/19/weride-self-driving-bus-beijing-license/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2023/01/19/weride-self-driving-bus-beijing-license/?amp=1",
+      "publishedDateTime": "2023-01-19T03:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-9-ways-entrepreneurs-can-leverage-machine-learning-to-elevate-their-business.md",
+      "title": "9 Ways Entrepreneurs Can Leverage Machine Learning To Elevate Their Business",
+      "excerpt": "However, few are more exciting or have more potential to transform life as we know it than machine learning (ML). Machine learning is a branch of artificial intelligence that describes applications that learn and improve from experience without being explicitly programmed,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/19/9-ways-entrepreneurs-can-leverage-machine-learning-to-elevate-their-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/19/9-ways-entrepreneurs-can-leverage-machine-learning-to-elevate-their-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f4e95e4f671590c4412a595/0x0.jpg?format=jpg&crop=7500,4219,x0,y437,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/19/9-ways-entrepreneurs-can-leverage-machine-learning-to-elevate-their-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/19/9-ways-entrepreneurs-can-leverage-machine-learning-to-elevate-their-business/amp/",
+      "publishedDateTime": "2023-01-19T03:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-19-artificial-intelligence-is-coming-for-human-creativity.md",
       "title": "Artificial Intelligence Is Coming for Human Creativity",
       "excerpt": "Second, the development of artificial intelligence poses a challenge to our claims to creative uniqueness. With the defeat of Garry Kasparov by Big Blue in 1997, many people lost interest in chess ...",
@@ -10,7 +165,7 @@
       "originalUrl": "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -53,7 +208,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -612,6 +767,57 @@
       ]
     },
     {
+      "path": "_news/2023-01-18-artificial-intelligence-based-medical-device-market-is-set-to-grow-in-forecast-period-2029.md",
+      "title": "Artificial Intelligence Based Medical Device Market is Set to Grow in forecast period 2029",
+      "excerpt": "Artificial Intelligence Based Medical Device Market Report Insights: (Report Pages: 110) “The Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-is-set-to-grow-in-forecast-period-2029-2023-01-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-is-set-to-grow-in-forecast-period-2029-2023-01-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-18T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-18-the-enemies-list-at-madison-square-garden.md",
       "title": "The ‘Enemies List’ at Madison Square Garden",
       "excerpt": "This is “The Daily.” [THEME MUSIC] Today, with little warning or regulation, more and more companies have begun using facial recognition technology on their customers, they say as a security ...",
@@ -1001,208 +1207,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-computer-vision-market-2023-size-sales-drivers-restraints-growth-strategies-major-players-regional-overview-forecast-till-2029.md",
-      "title": "Computer Vision Market 2023 Size, Sales, Drivers, Restraints, Growth Strategies, Major Players, Regional Overview Forecast till 2029",
-      "excerpt": "Global Computer Vision MarketNEW UPDATED REPORT 2023 presents a trusted overview of the current market situation",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-size-sales-drivers-restraints-growth-strategies-major-players-regional-overview-forecast-till-2029-2023-01-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-size-sales-drivers-restraints-growth-strategies-major-players-regional-overview-forecast-till-2029-2023-01-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T23:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-kfintech-drives-digital-transformation-in-financial-services-industry-with-aws.md",
-      "title": "KFintech drives digital transformation in financial services industry with AWS",
-      "excerpt": "KFin Technologies Limited (KFintech), a technology-driven financial services ... an exchange filing. The services include interactive dashboards that use AWS machine learning to automatically ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/kfintech-drives-digital-transformation-in-financial-services-industry-with-aws",
-      "originalUrl": "https://www.freepressjournal.in/business/kfintech-drives-digital-transformation-in-financial-services-industry-with-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/freepressjournal/2023-01/fda45f49-3fb5-4804-9d79-6cdef98dd1e5/271811522_467231791450465_3483139141691130993_n.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/kfintech-drives-digital-transformation-in-financial-services-industry-with-aws",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/kfintech-drives-digital-transformation-in-financial-services-industry-with-aws",
-      "publishedDateTime": "2023-01-17T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data.md",
-      "title": "Artificial Intelligence (AI) in Medical Market : Reliable Business Data Analysis and Forecast by 2029 with Top Countries Data",
-      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. A recent",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-2023-01-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-2023-01-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T20:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-microsoft-wants-to-put-chat-gpt-style-ai-tools-in-every-product.md",
-      "title": "Microsoft Wants To Put Chat GPT-style AI Tools in Every Product",
-      "excerpt": "Can AI experience cognitive dissonance? Microsoft CEO Satya Nadella told Davos attendees on Tuesday that the tech giant plans to use OpenAI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/01/17/microsoft-wants-to-put-chat-gpt-style-ai-tools-in/",
-      "originalUrl": "https://www.fool.com/investing/2023/01/17/microsoft-wants-to-put-chat-gpt-style-ai-tools-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/716949/featured-daily-upside-image.jpg",
-          "width": 2000,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T18:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/art
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Is Coming for Human Creativity"
+    excerpt: "Second, the development of artificial intelligence poses a challenge to our claims to creative uniqueness. With the defeat of Garry Kasparov by Big Blue in 1997, many people lost interest in chess ..."
+    publishedDateTime: 2023-01-20T13:43:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/Is%20AI%20coming%20for%20Creativity%2C%203%2C%20Joseph%20Ayerle.jpg?itok=clf3nLZg"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "Commentary: Artificial intelligence can’t reproduce the wonders of original human creativity"
     excerpt: "The biggest story of the year — the story we should all be paying attention to — is the increasing power of artificial intelligence. Computer code can write itself, chatbots"
     publishedDateTime: 2023-01-21T08:00:00Z

@@ -1,0 +1,61 @@
+---
+category: news
+title: "Law enforcement across Minnesota turning to Hennepin County Sheriff's Office for its facial recognition software"
+excerpt: "Police across Minnesota turning to Hennepin County Sheriff for facial recognition software 02:02 MINNEAPOLIS – Facial recognition software has become a common option to help Minnesota police ..."
+publishedDateTime: 2023-01-19T22:10:00Z
+originalUrl: "https://www.cbsnews.com/minnesota/news/law-enforcement-across-minnesota-turning-to-hennepin-county-sheriffs-office-for-its-facial-recognition-software/"
+webUrl: "https://www.cbsnews.com/minnesota/news/law-enforcement-across-minnesota-turning-to-hennepin-county-sheriffs-office-for-its-facial-recognition-software/"
+ampWebUrl: "https://www.cbsnews.com/amp/minnesota/news/law-enforcement-across-minnesota-turning-to-hennepin-county-sheriffs-office-for-its-facial-recognition-software/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/minnesota/news/law-enforcement-across-minnesota-turning-to-hennepin-county-sheriffs-office-for-its-facial-recognition-software/"
+type: article
+quality: 38
+heat: 38
+published: false
+
+provider:
+  name: CBS News
+  domain: cbsnews.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/20/2dfeb6bc-ef6a-422b-a448-cd1148615e7e/thumbnail/1200x630/468fd08ac29cf2de527db4ac89d5a8f7/10p-pkg-police-facial-r-wcco2p7k.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Police across Minnesota turning to Hennepin County Sheriff for facial recognition software"
+    excerpt: "Officers around Minnesota are enlisting the help of the Hennepin County Sheriff's Office, the only law enforcement agency in the state that has facial recognition technology."
+    publishedDateTime: 2023-01-20T04:26:00Z
+    webUrl: "https://www.cbsnews.com/minnesota/video/police-across-minnesota-turning-to-hennepin-county-sheriff-for-facial-recognition-software/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 29
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/20/ca7f4bad-0aa9-443b-a0e9-79d47d51b7ce/thumbnail/1200x630/19711a9905a09f78232e7bdf36f2b6ac/144611d2db0715e6b59d7ed781619b0e.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Law enforcement agencies around Minnesota tap Hennepin County’s facial recognition software"
+    excerpt: "Plus: Wage inequality is down even as wages lose ground to inflation; St. Paul rec center employee charged with attempted murder; Vikings fire DC Ed Donatell; and more."
+    publishedDateTime: 2023-01-20T21:49:00Z
+    webUrl: "https://www.minnpost.com/glean/2023/01/law-enforcement-agencies-around-minnesota-tap-hennepin-countys-facial-recognition-software/"
+    type: article
+    provider:
+      name: MinnPost
+      domain: minnpost.com
+    quality: 29
+    images:
+      - url: "https://www.minnpost.com/wp-content/uploads/2023/01/PoliceCarLights740.jpg?strip=all"
+        width: 740
+        height: 494
+        isCached: true
+
+secured: "UQVo6sYtPmKR8kndhn6FrGQyfQFlU8R0KnvROfNtG+3NOWveLcBnbi2Kfd6JZP9owxYVOuyds9eFK4AQgZVEnXPYgn4vakvzJeNqyAMCzFwreCCjaZ3oazMgQQvdN5S8g+J6heRIMpqHHEEU4I6Vg/ZnYYjgl7nP3O6MIXp8DKrbwShvDc31eFgchPmAiZ/3p86LRHnYHT4u886Fbfb9RzcvHFxz0YxyJR9Iuxs5AinPGfALJt4bpYOcKMrJFGWS7i4T+rczO585A+jKkrG+gKmb7YTNha/hCDgxCg5JFg0WywuZqu+RPP6z5kPu+dojwdd5LQzHkH+UdJrLFXUP9iAQ46QYVYZsMWVHn5Ao88o=;h86hh5H13ScdCgwGqy8itA=="
+---
+

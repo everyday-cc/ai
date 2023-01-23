@@ -42,6 +42,22 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Artificial Intelligence Is Coming for Human Creativity"
+    excerpt: "Second, the development of artificial intelligence poses a challenge to our claims to creative uniqueness. With the defeat of Garry Kasparov by Big Blue in 1997, many people lost interest in chess ..."
+    publishedDateTime: 2023-01-20T13:43:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/Is%20AI%20coming%20for%20Creativity%2C%203%2C%20Joseph%20Ayerle.jpg?itok=clf3nLZg"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "What DALL-E reveals about human creativity"
     excerpt: "The often delightful and arresting images created by the latest generation of text-to-image generators, exemplified by DALL-E 2, Midjourney, and Stable Diffusion, have stirred up lots of buzz in both the arts and the AI worlds."
     publishedDateTime: 2023-01-19T18:26:00Z

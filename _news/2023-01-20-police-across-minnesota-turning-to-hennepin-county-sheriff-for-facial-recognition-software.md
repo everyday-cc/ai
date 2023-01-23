@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/minnesota/video/police-across-minnesota-tu
 webUrl: "https://www.cbsnews.com/minnesota/video/police-across-minnesota-turning-to-hennepin-county-sheriff-for-facial-recognition-software/"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Law enforcement across Minnesota turning to Hennepin County Sheriff's Office for its facial recognition software"
+    excerpt: "Police across Minnesota turning to Hennepin County Sheriff for facial recognition software 02:02 MINNEAPOLIS – Facial recognition software has become a common option to help Minnesota police ..."
+    publishedDateTime: 2023-01-19T22:10:00Z
+    webUrl: "https://www.cbsnews.com/minnesota/news/law-enforcement-across-minnesota-turning-to-hennepin-county-sheriffs-office-for-its-facial-recognition-software/"
+    ampWebUrl: "https://www.cbsnews.com/amp/minnesota/news/law-enforcement-across-minnesota-turning-to-hennepin-county-sheriffs-office-for-its-facial-recognition-software/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/minnesota/news/law-enforcement-across-minnesota-turning-to-hennepin-county-sheriffs-office-for-its-facial-recognition-software/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 38
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/20/2dfeb6bc-ef6a-422b-a448-cd1148615e7e/thumbnail/1200x630/468fd08ac29cf2de527db4ac89d5a8f7/10p-pkg-police-facial-r-wcco2p7k.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Law enforcement agencies around Minnesota tap Hennepin County’s facial recognition software"
     excerpt: "Plus: Wage inequality is down even as wages lose ground to inflation; St. Paul rec center employee charged with attempted murder; Vikings fire DC Ed Donatell; and more."
     publishedDateTime: 2023-01-20T21:49:00Z

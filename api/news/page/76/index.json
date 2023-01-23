@@ -2,6 +2,221 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2022-11-12-how-2022-became-the-year-of-generative-ai.md",
+      "title": "How 2022 became the year of generative AI",
+      "excerpt": "In 2022, generative AI saw better algorithms and larger models and datasets, which created better images and higher-quality software code.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/",
+      "originalUrl": "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/",
+      "publishedDateTime": "2022-11-11T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-hucuai-joins-startup-health-perks-program-to-help-health-tech-companies-achieve-health-moonshots.md",
+      "title": "Hucu.ai Joins StartUp Health Perks Program to Help Health-Tech Companies Achieve Health Moonshots",
+      "excerpt": "Hucu.ai joins the StartUp Health Perks Program, alongside existing vendors including Google, Amazon, Microsoft, ADP, Twilio, Hubspot, to easily connect and partner with other StartUp Health portfolio companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-hucuai-joins-startup-health-perks-program-help-health-/2022/11/11/9711556.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-hucuai-joins-startup-health-perks-program-help-health-/2022/11/11/9711556.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T09:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-ibms-new-23-billion-transistor-aiu-could-establish-a-trend-in-the-ai-hardware-market.md",
+      "title": "IBM’s New 23 Billion Transistor AIU Could Establish A Trend In The AI Hardware Market",
+      "excerpt": "IBM provided no release date for the AIU The IBM Research AI Hardware Center developed the new AIU chip over five years. The center focuses on developing next-gen chips and AI systems to improve AI hardware efficiency by 2.5x annually and be able to train ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/11/11/ibms-new-23-billion-transistor-aiu-could-establish-a-trend-in-the-ai-hardware-market/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/11/11/ibms-new-23-billion-transistor-aiu-could-establish-a-trend-in-the-ai-hardware-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/636e6f1b79421870b17fde5f/0x0.png?format=png&width=1200",
+          "width": 1200,
+          "height": 754,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/11/11/ibms-new-23-billion-transistor-aiu-could-establish-a-trend-in-the-ai-hardware-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/11/11/ibms-new-23-billion-transistor-aiu-could-establish-a-trend-in-the-ai-hardware-market/amp/",
+      "publishedDateTime": "2022-11-11T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-the-rise-of-the-robots-and-the-impact-on-dubais-economy.md",
+      "title": "The rise of the robots and the impact on Dubai's economy",
+      "excerpt": "Experts have noted that increased efficiency means a serious addition to the economy, while reports suggest AI could add up to 13 trillion Euros to the global economy by 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
+      "originalUrl": "https://www.euronews.com/next/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/07/17/42/50/1000x563_cmsv2_693a1a49-5f55-5ad8-b104-0ea65f309f3c-7174250.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.euronews.com/next/amp/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
+      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
+      "publishedDateTime": "2022-11-11T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-net-health-announces-new-ai-powered-solution-for-hospital-outpatient-rehab-therapy-clinics.md",
+      "title": "Net Health® Announces New AI-Powered Solution for Hospital Outpatient Rehab Therapy Clinics",
+      "excerpt": "To help outpatient rehab therapy clinics reduce the number of missed patient visits, boost revenue and improve patient outcomes, Net Health® recently released a first-of-its kind predictive analytics solution for hospital-based rehab therapy organizations called the Missed Visit Prediction Indicator.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/11/11/9711431.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/11/11/9711431.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-artificial-intelligence-the-latest-architecture-and-news.md",
       "title": "Artificial Intelligence: The Latest Architecture and News",
       "excerpt": "The promise of the metaverse, this new type of three-dimensional and immersive digital space, is proving to become more and more appealing to architects eager to explore the new realm of virtual ...",
@@ -928,249 +1143,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-now-anyone-can-hail-a-waymo-robotaxi-in-downtown-phoenix.md",
-      "title": "Now anyone can hail a Waymo robotaxi in downtown Phoenix",
-      "excerpt": "Waymo has opened up its fully driverless ride-hail service in downtown Phoenix to members of the general public. Previously, the company had only been operating a commercial service with no safety ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/10/now-anyone-can-hail-a-waymo-robotaxi-in-downtown-phoenix/",
-      "originalUrl": "https://techcrunch.com/2022/11/10/now-anyone-can-hail-a-waymo-robotaxi-in-downtown-phoenix/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/DTPHX_W1_Open.png?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/10/now-anyone-can-hail-a-waymo-robotaxi-in-downtown-phoenix/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/now-anyone-can-hail-a-waymo-robotaxi-in-downtown-phoenix/amp/",
-      "publishedDateTime": "2022-11-10T10:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-amazon-debuts-sparrow-a-new-bin-picking-robot-arm.md",
-      "title": "Amazon debuts Sparrow, a new bin-picking robot arm",
-      "excerpt": "The new arm is a more sophisticated take on the company’s existing robotics, adding the ability to pick and place specific objects from bins.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/",
-      "originalUrl": "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/Sparrow_DSC02992.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/amp/",
-      "publishedDateTime": "2022-11-10T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry.md",
-      "title": "alwaysAI® Partners with John Abbamondi to Bring the Power of Computer Vision to the Sports and Entertainment Industry",
-      "excerpt": "SAN DIEGO, Nov. 10, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision solutions leader, announces their partnership with John Abbamondi, former CEO of BSE Global, the parent company of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news10.com/business/press-releases/globenewswire/8693622/alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry/",
-      "originalUrl": "https://www.news10.com/business/press-releases/globenewswire/8693622/alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTEN",
-        "domain": "news10.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-kodiak-robotics-shows-what-happens-when-a-robotruck-blows-a-tire.md",
-      "title": "Kodiak Robotics Shows What Happens When A Robotruck Blows A Tire",
-      "excerpt": "Kodiak Robotics in a statement. “We can’t control the hazards trucks will face on the open road, but we can control how the trucks behave when a critical situation occurs. By demonstrating ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/edgarsten/2022/11/10/kodiak-robotics-shows-what-happens-when-a-robotruck-blows-a-tire/",
-      "originalUrl": "https://www.forbes.com/sites/edgarsten/2022/11/10/kodiak-robotics-shows-what-happens-when-a-robotruck-blows-a-tire/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/636bc184f5ccfe2dcfaf29b7/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2022/11/10/kodiak-robotics-shows-what-happens-when-a-robotruck-blows-a-tire/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/11/10/kodiak-robotics-shows-what-happens-when-a-robotruck-blows-a-tire/amp/",
-      "publishedDateTime": "2022-11-10T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-identifying-and-avoiding-common-data-issues-while-building-no-code-ml-models-with-amazon-sagemaker-canvas.md",
-      "title": "Identifying and avoiding common data issues while building no code ML models with Amazon SageMaker Canvas",
-      "excerpt": "Business analysts work with data and like to analyze, explore, and understand data to achieve effective business outcomes. To address business problems, they often rely on machine learning (ML) practitioners such as data scientists to assist with techniques such as utilizing ML to build models using",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identifying-and-avoiding-common-data-issues-while-building-no-code-ml-models-with-amazon-sagemaker-canvas/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identifying-and-avoiding-common-data-issues-while-building-no-code-ml-models-with-amazon-sagemaker-canvas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/10/avoiding-common-data-issues-sagemaker-canvas.jpg",
-          "width": 1550,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T08:44:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],
