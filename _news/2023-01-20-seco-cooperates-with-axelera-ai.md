@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-19T16:14:00Z
 originalUrl: "https://www.elektroniknet.de/international/seco-cooperates-with-axelera-ai.201532.html"
 webUrl: "https://www.elektroniknet.de/international/seco-cooperates-with-axelera-ai.201532.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Elektronik Net

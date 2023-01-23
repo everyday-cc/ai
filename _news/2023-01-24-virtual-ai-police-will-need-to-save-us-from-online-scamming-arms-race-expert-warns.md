@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T17:58:00Z
 originalUrl: "https://www.thesun.co.uk/tech/21141289/virtual-ai-police-friendly-artificial-intelligence-scam/"
 webUrl: "https://www.thesun.co.uk/tech/21141289/virtual-ai-police-friendly-artificial-intelligence-scam/"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: The Sun

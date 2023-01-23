@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-24-seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023.md",
+      "title": "Seamless Checkout, AI, Robotics News From Microsoft, Google, Brain Corp And More At NRF 2023",
+      "excerpt": "Vice President and Principal Analyst Melody Brue looks at some of the companies and products showcased at NRF 2023 that maximize the three pillars of an excellent shopping experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ceffd2b891403906766ec0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/amp/",
+      "publishedDateTime": "2023-01-23T12:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-23-first-ai-powered-robot-lawyer-will-represent-defendant-in-court-next-month.md",
       "title": "First AI-powered \"robot\" lawyer will represent defendant in court next month",
       "excerpt": "A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month. Joshua Browder, CEO of DoNotPay, said the company's AI-creation runs on a smartphone,",
@@ -1311,49 +1364,6 @@
       "provider": {
         "name": "techxplore",
         "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-robotics-team-begins-their-season-with-annual-kickoff-event.md",
-      "title": "Robotics team begins their season with annual kickoff event",
-      "excerpt": "On Saturday, January 7 the Robotics team of just over 50 members watched an international Twitch livestream of the season kickoff, which is watched by teams internationally. An animation was shown to introduce the game for the season,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mvnews.org/robotics-team-begins-their-season-with-annual-kickoff-event/",
-      "originalUrl": "https://www.mvnews.org/robotics-team-begins-their-season-with-annual-kickoff-event/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mvnews.org/wp-content/uploads/2023/01/Screen-Shot-2023-01-10-at-8.23.25-AM-900x423.png",
-          "width": 900,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T09:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mill Valley News",
-        "domain": "mvnews.org",
         "images": null,
         "publishers": null,
         "authors": null

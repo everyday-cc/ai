@@ -25,29 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Penn students, faculty weigh in on concerns about ChatGPT use in education"
-    excerpt: "ChatGPT, which was developed by OpenAI, can complete tasks like writing essays or code and solving math problems."
-    publishedDateTime: 2023-01-19T03:56:00Z
-    webUrl: "https://www.thedp.com/article/2023/01/penn-chat-gpt-influence-plagiarism-technology"
+  - title: "Opinion: ChatGPT could be a game-changer for marketers, but it won't replace humans any time soon"
+    excerpt: "The recent release of the ChatGPT chatbot in November 2022 has generated significant public interest. In essence, ChatGPT is an AI-powered chatbot allowing users to simulate human-like conversations with an AI."
+    publishedDateTime: 2023-01-23T17:08:00Z
+    webUrl: "https://techxplore.com/news/2023-01-opinion-chatgpt-game-changer-wont-humans.html"
+    ampWebUrl: "https://techxplore.com/news/2023-01-opinion-chatgpt-game-changer-wont-humans.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-opinion-chatgpt-game-changer-wont-humans.amp"
     type: article
     provider:
-      name: The Daily Pennsylvanian
-      domain: thedp.com
-    quality: 39
+      name: techxplore
+      domain: techxplore.com
+    quality: 31
     images:
-      - url: "https://snworksceo.imgix.net/dpn/dbb755ec-4a3d-4c89-97ae-bb848a124ce9.sized-1000x1000.jpg?w=800"
-        width: 800
-        height: 533
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/chatgpt-could-be-a-gam.jpg"
+        width: 600
+        height: 400
         isCached: true
-  - title: "Scores of Stanford students used ChatGPT on final exams, survey suggests"
-    excerpt: "About 17% of student respondents on an anonymous poll admitted to using ChatGPT in their fall quarter final assignments. The majority agree that using the AI tool is a violation of the"
-    publishedDateTime: 2023-01-23T00:04:00Z
-    webUrl: "https://stanforddaily.com/2023/01/22/scores-of-stanford-students-used-chatgpt-on-final-exams-survey-suggests/"
+  - title: "Is ChatGPT a form of magic or the apocalypse?"
+    excerpt: "The new generation of artificial intelligence has ingested an internet’s worth of data and generates content that appears to be magical. It might also be a form of creative bankruptcy from which humans never recover."
+    publishedDateTime: 2023-01-23T18:00:00Z
+    webUrl: "https://www.afr.com/technology/is-chatgpt-a-form-of-magic-or-the-apocalypse-20230117-p5cd4p"
     type: article
     provider:
-      name: The Stanford Daily
-      domain: stanforddaily.com
-    quality: 3
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: "https://static.ffx.io/images/$zoom_1.0347%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_248/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/17c81cf72fe7d0573f6927940263850e594b7139"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "ChatGPT could be a game-changer for marketers, but it won’t replace humans any time soon"
     excerpt: "This article was originally published on The Conversation, an independent and nonprofit source of news, analysis and commentary from academic experts. Disclosure information is available on the"
     publishedDateTime: 2023-01-23T17:49:00Z

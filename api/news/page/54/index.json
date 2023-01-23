@@ -2,6 +2,271 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2022-12-01-you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history.md",
+      "title": "You can use an AI Time Machine to see what you'd look like in different eras throughout history",
+      "excerpt": "A TikTok trend popularized the MyHeritage's AI Time Machine, which generates realistic photos of what you would have looked like in past eras.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history/",
+      "originalUrl": "https://www.zdnet.com/article/you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/86ddfe1750a7efb96b8b25cae5b8ae865ab2da1e/2022/11/30/f0f35286-c582-4dd0-9d7f-646a208b153f/2022.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history/",
+      "publishedDateTime": "2022-11-30T13:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future.md",
+      "title": "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future",
+      "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the/article_ba31c368-9cb5-59ae-b8ca-f429474c58d5.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the/article_ba31c368-9cb5-59ae-b8ca-f429474c58d5.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T13:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-san-francisco-votes-to-allow-police-to-deploy-robots-that-kill.md",
+      "title": "San Francisco votes to allow police to deploy robots that kill",
+      "excerpt": "City supervisors in San Francisco on Tuesday voted to give police the ability to deploy potentially lethal, remote-controlled robots in emergency situations. The move would allow officers to use ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/11/30/san-francisco-police-killer-robots-motion-passes/",
+      "originalUrl": "https://nypost.com/2022/11/30/san-francisco-police-killer-robots-motion-passes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T13:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-san-francisco-will-allow-police-to-deploy-robots-that-kill-in-extreme-circumstances.md",
+      "title": "San Francisco will allow police to deploy robots that kill 'in extreme circumstances'",
+      "excerpt": "SAN FRANCISCO – Supervisors in San Francisco voted Tuesday to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations – following an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2022/11/30/california-police-deploy-robots-kill/10801825002/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2022/11/30/california-police-deploy-robots-kill/10801825002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2022/11/30/USAT/919c69c3-daac-40d7-9a4c-af72bb516870-AP22333707907710.jpg?auto=webp&crop=2999,1687,x1,y184&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T12:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-alzheimers-drug-trial-shown-to-slow-cognitive-decline-in-long-fight-against-dementia.md",
+      "title": "Alzheimer's drug trial shown to slow cognitive decline in long fight against dementia",
+      "excerpt": "Alzheimer's Research UK described the outcome as a \"major step forward\" in reducing cognitive decline among patients. \"These exciting findings represent a major step forward for dementia research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html",
+      "originalUrl": "https://www.cnbc.com/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107158864-1669806496855-gettyimages-484332326-bb_fea-brainscan_108.jpeg?v=1669807708",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html",
+      "publishedDateTime": "2022-11-30T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-how-the-private-sector-can-help-close-the-public-sector-ai-knowledge-gap.md",
+      "title": "How the Private Sector Can Help Close The Public Sector AI Knowledge Gap",
+      "excerpt": "This blog focuses on how the private sector can help close the public sector knowledge gap in sustainable AI practices. 5 Strategies are positioned for consideration, underlying the security threats we face of not modernizing our government institutions more rapidly with sustaining AI capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6387cc1b52738817bac8a8c0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/amp/",
+      "publishedDateTime": "2022-11-30T12:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-state-of-ai-december-2022.md",
       "title": "State Of AI, December 2022",
       "excerpt": "Sentient or not, MineDojo got Nvidia’s researchers the NeurIPS 2022 Outstanding Datasets and Benchmarks Paper Award, demonstrating their belief that large language models in the future will be “embodied agents that proactively take actions,",
@@ -860,287 +1125,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry.md",
-      "title": "How ‘Zero-Shot’ AI Is Poised To Revolutionize The Chatbot Industry",
-      "excerpt": "\"AI will change the way that we work and run our businesses. Those who are best prepared, and who take advantage of new opportunities now, will reap the rewards.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63876f7248308995a1c8a8b8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/amp/",
-      "publishedDateTime": "2022-11-30T05:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable.md",
-      "title": "AI Is Powerless Without HI: Why Human Intelligence Is Irreplaceable",
-      "excerpt": "Companies are, by and large, in the early stages of becoming truly digital. Digitization includes fully adopting artificial intelligence (AI) and machine learning, investing in tech, and converting all existing information into digital formats. Over the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c43e64efebb056e142918d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/amp/",
-      "publishedDateTime": "2022-11-30T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-data-center-accelerator-global-market-report-2022-growing-use-of-deep-learning-technology-in-big-data-analytics-boosts-sector.md",
-      "title": "Data Center Accelerator Global Market Report 2022: Growing Use of Deep Learning Technology in Big Data Analytics Boosts Sector",
-      "excerpt": "The Data Center Accelerator market size is estimated to be USD 21.2 billion in 2022 and is projected to reach USD 64.0 billion by 2027, at a CAGR of 24.7% during the forecast period. The boom in the data center accelerator market is mostly due to the increasing number of companies offering machine learning as a service and increasing demand for FPGA-based accelerators.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/11/30/9721625.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/11/30/9721625.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T04:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-effective-altruism-is-pushing-a-dangerous-brand-of-ai-safety.md",
-      "title": "Effective Altruism Is Pushing a Dangerous Brand of ‘AI Safety’",
-      "excerpt": "EA is defined by the Center for Effective Altruism as “an intellectual project, using evidence and reason to figure out how to benefit others as much as possible.” And “evid",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried/",
-      "originalUrl": "https://www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6386b09e5d55ecbfa48785f3/master/pass/effective-altruism-dangerous-ai.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried/amp",
-      "publishedDateTime": "2022-11-30T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-artificial-intelligence-and-natural-language-processing-for-chronic-diseases-prediction.md",
-      "title": "Artificial intelligence and natural language processing for chronic diseases prediction",
-      "excerpt": "Recently, with the advancement in artificial intelligence (AI), AI based natural language processing (NLP) methods have been widely used in advancing EHR-based clinical research (Juhn and Liu, 2020; Kaswan et al., 2021). AI driven methods combining natural ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ulster.ac.uk/doctoralcollege/find-a-phd/1455980",
-      "originalUrl": "https://www.ulster.ac.uk/doctoralcollege/find-a-phd/1455980",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ulster University",
-        "domain": "ulster.ac.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-aws-adds-ai-features-to-textract-transcribe-and-kendra.md",
-      "title": "AWS adds AI features to Textract, Transcribe and Kendra",
-      "excerpt": "Amazon Web Services (AWS) on Tuesday added new artificial intelligence (AI) features to some of its services including Textract, Transcribe, Kendra, CodeWhisperer, and HealthLake. The new updates, according to the company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3681662/aws-adds-ai-features-to-textract-transcribe-and-kendra.html",
-      "originalUrl": "https://www.infoworld.com/article/3681662/aws-adds-ai-features-to-textract-transcribe-and-kendra.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/idgnsImport/2015/08/id-2958856-reinvent_2015_03_keynote_1-100601984-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3681662/aws-adds-ai-features-to-textract-transcribe-and-kendra.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3681662/aws-adds-ai-features-to-textract-transcribe-and-kendra.amp.html",
-      "publishedDateTime": "2022-11-30T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

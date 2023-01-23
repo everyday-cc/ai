@@ -9,7 +9,7 @@ ampWebUrl: "https://www.provideocoalition.com/vegas-pro-20-free-update-has-bette
 cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/vegas-pro-20-free-update-has-better-ai-and-enhances-color-grading/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1420
     height: 946
     isCached: true
+
+related:
+  - title: "Vegas Pro 20 Update Offers Support for More GPU Cards"
+    excerpt: "MADISON, Wisc.—Vegas Creative Software today announced a free update for its Vegas Pro 20 that adds the ONNX Runtime AI engine to make better use of GPU power from a wider selection graphics cards. The update, available today for free to existing users ..."
+    publishedDateTime: 2023-01-23T20:54:00Z
+    webUrl: "https://www.tvtechnology.com/news/vegas-pro-20-update-offers-support-for-more-gpu-cards"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/FcqjPUCdWrE3hKDtsQqzQY-1200-80.jpg"
+        width: 1100
+        height: 480
+        isCached: true
 
 secured: "Z75j44ZNT34L2qqNmVcpa08TrJBDwNbNMhl3vBREHphY143rkYlFg2UwyGk6+fEk5ve9QKDMTzU11DOnPB8CCU35N9xH0XTLlnF1hUO4i0GfisXL8huowZHsUGQ5rZNAjSvZYfLUQjIG4I0itSCFMoxgjy/Vk0Fzv9bupg0+kTDQQeudgRt9yCP8amh+V3iW+CpUsHRPLctZtACVcAfFq71CyjQps8ix4T7PgoBjEUy7TUbW4i1awpShIuQ5halnbIVPT0g+nKPPn8YaZSFTeXCvGYhEnl/zEI5GZyJk+xb3ZDfWYbZCKODswCiewbRtXOx4oBaYyayNtYolMNYXrpKhoH9JGN2wbdsaISsU4YCD/f8pSSpufoTKRtISJVu/OlJVZnkWhZlLmm0uzmsl9qalX1QZGDLHl2WsBr6c4eL/5Xx4WBa24fQMwybMQqc21BeqZdkMHOp2qfZtoZgSD8qu31IKg+4pvP3/Ie2W8wE74O4A+QiyyZ11+qo2ScebScFjVYfRU2CXe8YqXP3CUQ==;lOtfglt7cRYMH93gkCphIg=="
 ---

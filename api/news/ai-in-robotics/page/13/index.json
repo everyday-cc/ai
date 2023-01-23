@@ -2,6 +2,60 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-10-02-ai-ethics-and-ai-laws-reveal-troubling-concerns-from-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk.md",
+      "title": "AI Ethics And AI Laws Reveal Troubling Concerns From Tesla’s AI Day Showcase And The Ever Expanding AI Ambitions Of Elon Musk",
+      "excerpt": "A close look at the Tesla AI Day and crucial insights pertaining to AI Ethics and AI & Law that looms ahead for Tesla and Elon Musk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63393cf2f31b18ce542c2698/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/amp/",
+      "publishedDateTime": "2022-10-02T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-01-ai-experts-pan-teslas-humanoid-robot-reveal-next-level-cringeworthy.md",
       "title": "AI experts pan Tesla’s humanoid robot reveal: ‘next level cringeworthy’",
       "excerpt": "\"None of this is cutting edge,\" tweeted robotics expert Cynthia Yeung. \"Hire some PhDs and go to some robotics conferences Tesla.\"",
@@ -1348,49 +1402,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-robot-runs-100-meters-in-2473-seconds-breaks-world-record.md",
-      "title": "Robot runs 100 meters in 24.73 seconds, breaks world record",
-      "excerpt": "The development team said Cassie is the first bipedal robot to use machine learning to control a running gait ... ago Lottery player's sudden change of mind leads to $200,000 prize Oct. 4 (UPI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Odd_News/2022/09/27/Oregon-State-University-Guinness-World-Records-bipedal-robot-run/7051664311375/",
-      "originalUrl": "https://www.upi.com/Odd_News/2022/09/27/Oregon-State-University-Guinness-World-Records-bipedal-robot-run/7051664311375/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/7051664311375/2022/1/16643115732404/v1.5/Robot-runs-100-meters-in-2473-seconds-breaks-world-record.jpg",
-          "width": 1022,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Odd_News/2022/09/27/Oregon-State-University-Guinness-World-Records-bipedal-robot-run/7051664311375/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Odd_News/2022/09/27/Oregon-State-University-Guinness-World-Records-bipedal-robot-run/7051664311375/",
-      "publishedDateTime": "2022-09-26T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

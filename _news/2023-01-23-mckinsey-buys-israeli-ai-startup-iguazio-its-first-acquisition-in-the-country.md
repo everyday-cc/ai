@@ -9,8 +9,8 @@ ampWebUrl: "https://www.timesofisrael.com/mckinsey-buys-israeli-ai-startup-iguaz
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/mckinsey-buys-israeli-ai-startup-iguazio-its-first-acquisition-in-the-country/amp/"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: The Times of Israel
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "McKinsey acquires AI development startup Iguazio"
+    excerpt: "Iguazio previously raised $72 million from Samsung Electronics Co. Ltd. and other investors. McKinsey is one of the largest players in the management consulting market. The company, which doesn’t disclose financial data because it’s privately held,"
+    publishedDateTime: 2023-01-23T18:53:00Z
+    webUrl: "https://siliconangle.com/2023/01/23/mckinsey-acquires-ai-development-startup-iguazio/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
   - title: "McKinsey acquires Israeli AI startup Iguazio"
     excerpt: "McKinsey & Company today announced that it has acquired Tel Aviv-based AI and Machine Learning startup Iguazio. This is McKinsey's first acquisition in Israel. No financial details were disclosed but Iguazio,"
     publishedDateTime: 2023-01-23T16:22:00Z

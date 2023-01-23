@@ -55,6 +55,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "A Look at the Top Six Fintech Trends in the UK in 2023"
+    excerpt: "However, despite all these challenges, the UK fintech market has grown steadily and has provided businesses with ways to remain ahead of the curve and offer simpler, more accessible financial services."
+    publishedDateTime: 2023-01-23T19:30:00Z
+    webUrl: "https://financialit.net/blog/fintech/look-top-six-fintech-trends-uk-2023"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 4
 
 secured: "WXAhxSzmvtMVXwlVRKwXXxzNXe/jPlU9dDVcIjUsBlbHp/9cyKgjbKc6yBbsbGL+5biM43PKLFJP6xdSaMBeb0+wRCFoVW7ZcNfvHFPZOwj7u+GGbpHmSlvl12qbpzzIWBGiHyEPHEqFInzAtNWm0Z62sDhP047Ftfoh6tkjZHuQDZtZCC2mUyiRfhObFTr5MYAII0u/YZb10pwIQyDe3DaIyfznvp+5gdxNDvOj9NWZtjeAP9fTWv8nxP+Z45GCm8nKRap1lxYG/Iz22G6cQ+3Q3FV/LSKnU4Xzfk3zb+ZlUCk3VDUbmPwVaRlBcs8ul2a4jeCeAJeyCUX2WkGr2+yxkKxouTwJRCN3jHpRasg=;AbTdFEnXjoYHbY5dAAoF9w=="
 ---

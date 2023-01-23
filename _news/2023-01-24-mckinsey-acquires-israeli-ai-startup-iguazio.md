@@ -34,6 +34,15 @@ related:
         width: 640
         height: 400
         isCached: true
+  - title: "McKinsey acquires AI development startup Iguazio"
+    excerpt: "Iguazio previously raised $72 million from Samsung Electronics Co. Ltd. and other investors. McKinsey is one of the largest players in the management consulting market. The company, which doesn’t disclose financial data because it’s privately held,"
+    publishedDateTime: 2023-01-23T18:53:00Z
+    webUrl: "https://siliconangle.com/2023/01/23/mckinsey-acquires-ai-development-startup-iguazio/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
 secured: "Vx70lNydIL5QTgJroLJqzsvXg3xea0CwbR3JD7yX6dEDiNCHfDwF0eVwSKpUdLODZ6ArpXnTY8SHL+CqUck/nc1DaicIqAYVK8blwMezMosjz2ZO+Okhb+3LFqBK3MxnnPutDrVgc7Kig/leN9ed0PdrSvUKiAT0WliZsBlfHGQ8uteBGStiO0RTfks9pkuG1jrf+3GdNT6Lu8wqIaExyBL+WGxrxdmYFlZWZ/5cMVsUuVByoVOAzmGZZ1WaUnn/kVvtVkLTSYQGTYk004vIsSvZPeGABuS4h5iICRNdK/LJsoPcwxto5y6ClVnwbM/BHGcrcJxAU4O8tiHnwiLXcCoR1OJPo3RJhmpMvPcKMjo8vqZYX4s7/PC5xLJcJGHPcb2Owsry7KLNcNIsAZZF901YBSH/FrJQ+pllMvSBNZ6KiSFzIaZkmXHx7FVSLJd3foX5T8and3kI4saRGw/yDkGYHRJasd+l+O4N7nodSfT8wqJ2m8Y33Ai4UE2Ng1TBvTLctszDdMULeiPFVfjLYg==;lGbaGWbhc1wSqEvH9v+oSQ=="
 ---

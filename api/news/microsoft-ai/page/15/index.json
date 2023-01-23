@@ -2,6 +2,135 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-09-19-user-clip-chinese-cognitive-warfare.md",
+      "title": "User Clip: Chinese “Cognitive” Warfare",
+      "excerpt": "User-Created Clip by bigxav September 19, 2022 2022-09-19T13:10:32-04:00https://images.c-span.org/Files/61c/002/1663607466_002.jpgHow our adversaries are brainwashing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.c-span.org/video/?c5031762/user-clip-chinese-cognitive-warfare",
+      "originalUrl": "https://www.c-span.org/video/?c5031762/user-clip-chinese-cognitive-warfare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "c-span",
+        "domain": "c-span.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-17-daily-multivitamin-may-slow-down-cognitive-decline-in-older-adults.md",
+      "title": "Daily Multivitamin May Slow Down Cognitive Decline in Older Adults",
+      "excerpt": "Daily multivitamins may slow down cognitive decline among older adults. The corresponding study was published in Alzheimer's & Dementia. The Alzheimer's Association states that there are 6.5 million Americans living with Alzheimer's disease and that 1 in 3 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.labroots.com/trending/drug-discovery-and-development/23635/daily-multivitamin-slow-cognitive-decline-adults",
+      "originalUrl": "https://www.labroots.com/trending/drug-discovery-and-development/23635/daily-multivitamin-slow-cognitive-decline-adults",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.labroots.com/content_article_profile_image_5de5b999909a9e88a3f03d5a7f5a4f882dc6e244_1436.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-17T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Labroots",
+        "domain": "labroots.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-17-fierce-competition-who-could-win-the-intelligent-automation-arms-race.md",
+      "title": "Fierce competition: Who could win the intelligent automation arms race",
+      "excerpt": "Microsoft and Automation Anywhere are emerging as the main contenders for dominance of the business process automation market.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/",
+      "originalUrl": "https://venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1285575560.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/amp/",
+      "publishedDateTime": "2022-09-16T18:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-17-cognitive-health-may-benefit-from-balanced-meal-timing.md",
       "title": "Cognitive health may benefit from balanced meal timing",
       "excerpt": "However, evidence regarding the relationship between TPEI and cognitive function at the population level is relatively lacking. Previous studies in animal models have shown that the disruption in ...",
@@ -1166,127 +1295,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-cognitive-decline-tied-to-dental-health-monkeypox-and-the-brain-what-is-brain-fog.md",
-      "title": "Cognitive Decline Tied to Dental Health; Monkeypox and the Brain; What Is Brain Fog?",
-      "excerpt": "(Journal of the American Geriatrics Society) The 1-year incidence of cognitive decline was lower among long-term care residents in Canada during the COVID-19 pandemic than before it, which may be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/neurology/generalneurology/100688",
-      "originalUrl": "https://www.medpagetoday.com/neurology/generalneurology/100688",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/100xxx/100688.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-poor-oral-health-may-raise-cognitive-decline-dementia-risk.md",
-      "title": "Poor Oral Health May Raise Cognitive Decline, Dementia Risk",
-      "excerpt": "Poor periodontal health and tooth loss may increase the risk for cognitive decline and dementia ... and regular use of basic oral health services, which may lower dementia risk to some extent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/980703",
-      "originalUrl": "https://www.medscape.com/viewarticle/980703",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-artificial-neural-network-market-up-to-date-analysis-by-2028-by-ibm-corporation-microsoft-corporation-alyuda-research.md",
-      "title": "Artificial Neural Network Market : Up-To-Date Analysis by 2028 | by IBM Corporation, Microsoft Corporation, Alyuda Research",
-      "excerpt": "New Jersey, United States – Analysis of Artificial Neural Network Market 2022 to 2028, Size, Share, and Trends by Type, Component, Application, Opportunities, Growth Rate, and Regional Forecast ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-neural-network-market-up-to-date-analysis-by-2028-by-ibm-corporation-microsoft-corporation-alyuda-research",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-neural-network-market-up-to-date-analysis-by-2028-by-ibm-corporation-microsoft-corporation-alyuda-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/Forest-Fires-Europe-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

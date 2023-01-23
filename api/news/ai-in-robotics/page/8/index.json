@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-11-kodiak-robotics-shows-what-happens-when-a-robotruck-blows-a-tire.md",
+      "title": "Kodiak Robotics Shows What Happens When A Robotruck Blows A Tire",
+      "excerpt": "Kodiak Robotics in a statement. “We can’t control the hazards trucks will face on the open road, but we can control how the trucks behave when a critical situation occurs. By demonstrating ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edgarsten/2022/11/10/kodiak-robotics-shows-what-happens-when-a-robotruck-blows-a-tire/",
+      "originalUrl": "https://www.forbes.com/sites/edgarsten/2022/11/10/kodiak-robotics-shows-what-happens-when-a-robotruck-blows-a-tire/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/636bc184f5ccfe2dcfaf29b7/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2022/11/10/kodiak-robotics-shows-what-happens-when-a-robotruck-blows-a-tire/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/11/10/kodiak-robotics-shows-what-happens-when-a-robotruck-blows-a-tire/amp/",
+      "publishedDateTime": "2022-11-10T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-atomic-heart-rewriting-the-soviet-history-book-for-the-robotic-revolution.md",
       "title": "Atomic Heart: Rewriting the Soviet History Book For the Robotic Revolution",
       "excerpt": "Thought control over machines is just years away ... he began to design a 2.0 version of the system that would link a human mind with a robot’s operating system via a Polymer implant.",
@@ -1280,49 +1332,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-lego-is-discontinuing-its-mindstorms-buildable-robot-kits.md",
-      "title": "Lego Is Discontinuing Its Mindstorms Buildable Robot Kits",
-      "excerpt": "where the robots can be controlled and programmed, for another two years after that. Lego Mindstorms first debuted back in September of 1998, over 24 years ago, leveraging the company’s more ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177",
-      "originalUrl": "https://gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177/amp",
-      "publishedDateTime": "2022-11-02T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

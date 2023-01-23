@@ -380,20 +380,6 @@ related:
         width: 1500
         height: 1326
         isCached: true
-  - title: "AI research tool aims to supplement flawed ChatGPT"
-    excerpt: "It started out as a side project during his university studies, but Kieran Lindsay believes his automated Minerva research assistant could be a game-changer for academics struggling to keep up with the flood of publications – and an important step towards explainable AI."
-    publishedDateTime: 2023-01-19T03:36:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/ai-research-tool-aims-to-supplement-flawed-chatgpt.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 37
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/minerva%20academic%20papers.jpg"
-        width: 1000
-        height: 562
-        isCached: true
   - title: "ChatGPT - The AI that’s got everyone talking"
     excerpt: "ChatGPT is an AI chatbot that’s exploded in popularity since its launch in November 2022. From providing recipes to writing essays and solving equations – it has endless possibilities. But some worry it could eliminate writing and creative industries,"
     publishedDateTime: 2023-01-20T18:17:00Z

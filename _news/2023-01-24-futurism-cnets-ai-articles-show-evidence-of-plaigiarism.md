@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T20:35:00Z
 originalUrl: "https://talkingbiznews.com/media-news/futurism-cnets-ai-articles-show-evidence-of-plaigiarism/"
 webUrl: "https://talkingbiznews.com/media-news/futurism-cnets-ai-articles-show-evidence-of-plaigiarism/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Talking Biz News

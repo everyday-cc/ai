@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T19:10:00Z
 originalUrl: "https://www.latech.edu/2023/01/23/innovation-enterprise-plans-forum-on-ai-for-jan-26/"
 webUrl: "https://www.latech.edu/2023/01/23/innovation-enterprise-plans-forum-on-ai-for-jan-26/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: latech

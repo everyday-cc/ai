@@ -2,6 +2,249 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-01-16-unveiling-the-mystery-of-the-human-brain-for-ai-advancements.md",
+      "title": "Unveiling the Mystery of the Human Brain for AI Advancements",
+      "excerpt": "While machines can learn how to predict words, we have yet to understand how the human brain does it, and Dr LI Jixing’s research aims to uncover the secret",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/presented/news/hong-kong/education/topics/creating-age-friendly-smart-city/article/3206106/unveiling-mystery-human-brain-ai-advancements",
+      "originalUrl": "https://www.scmp.com/presented/news/hong-kong/education/topics/creating-age-friendly-smart-city/article/3206106/unveiling-mystery-human-brain-ai-advancements",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2023/01/10/472A1314_client.jpg?itok=AccVnber",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T00:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-the-10-scariest-future-tech-trends-everyone-must-know-about-right-now.md",
+      "title": "The 10 Scariest Future Tech Trends Everyone Must Know About Right Now",
+      "excerpt": "Is technology in the news keeping you awake at night? Should it be? Here are some of the scariest future tech trends that should be on your radar.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/16/the-10-scariest-future-tech-trends-everyone-must-know-about-right-now/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/16/the-10-scariest-future-tech-trends-everyone-must-know-about-right-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c4f26d17dacdb903c92cf2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/16/the-10-scariest-future-tech-trends-everyone-must-know-about-right-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/16/the-10-scariest-future-tech-trends-everyone-must-know-about-right-now/amp/",
+      "publishedDateTime": "2023-01-15T21:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-driverless-cars-may-worsen-congestion-by-85-percent-a-report-claims-amid-2025-rollout.md",
+      "title": "Driverless cars may worsen congestion by 85 percent, a report claims amid 2025 rollout",
+      "excerpt": "It has been claimed in a Government report that driverless cars may worsen congestion by 85 percent. The claim by the Department of Transport comes amid thoughts of such vehicles becoming ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont",
+      "originalUrl": "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/1/590x/Traffic-1721675.jpg?r=1673839653328",
+          "width": 590,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont/amp",
+      "publishedDateTime": "2023-01-15T20:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-advocates-demand-madison-square-garden-stop-using-facial-recognition.md",
+      "title": "Advocates demand Madison Square Garden stop using facial recognition",
+      "excerpt": "Lawmakers and privacy advocates are calling on James Dolan, owner of Madison Square Garden and Radio City Music Hall, to stop surveilling guests for non-security purposes.",
+      "sourceUrl": null,
+      "webUrl": "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/",
+      "originalUrl": "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pix11.com/wp-content/uploads/sites/25/2022/11/AP22318781223165.jpg?w=1280",
+          "width": 1280,
+          "height": 851,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/amp/",
+      "publishedDateTime": "2023-01-15T15:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pix11",
+        "domain": "pix11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-microsofts-panos-panay-teases-next-gen-ai-powered-windows-11-windows-120-0.md",
+      "title": "Microsoft's Panos Panay teases next gen AI-powered Windows 11 & Windows 120 0",
+      "excerpt": "Next-gen Windows 11 and Windows 12 OSs could be drastically different from what we have now. Senior executive of Microsoft, Panos Panay recently shared some very early details regarding this.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
+      "originalUrl": "https://www.neowin.net/news/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/01/1673818486_win_11_wallpaper_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
+      "publishedDateTime": "2023-01-15T14:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-16-chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot.md",
       "title": "ChatGBT Shows Scary Implications Of AI: Sports Owners And The Robot",
       "excerpt": "Kind of like when you call the airline and they ask for your number and say they will text you when you are next in line.",
@@ -934,256 +1177,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-given-a-platform-14-years-ago-by-hudson-miracle-this-hero-pilot-has-used-it-to-promote-airline-safety.md",
-      "title": "Given A Platform 14 Years Ago By Hudson Miracle, This Hero Pilot Has Used It To Promote Airline Safety",
-      "excerpt": "In Charlotte, where a museum was renamed to honor him, hero pilot Sully Sullenberger said the failure of an FAA safety system provides an opportunity to fix it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedreed/2023/01/14/fourteen-years-after-hudson-miracle-hero-pilot-sullenberger-says-dont-waste-a--crisisfix-notam/",
-      "originalUrl": "https://www.forbes.com/sites/tedreed/2023/01/14/fourteen-years-after-hudson-miracle-hero-pilot-sullenberger-says-dont-waste-a--crisisfix-notam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c085fb88737cf94d964a48/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedreed/2023/01/14/fourteen-years-after-hudson-miracle-hero-pilot-sullenberger-says-dont-waste-a--crisisfix-notam/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedreed/2023/01/14/fourteen-years-after-hudson-miracle-hero-pilot-sullenberger-says-dont-waste-a--crisisfix-notam/amp/",
-      "publishedDateTime": "2023-01-14T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-singapore-based-fintech-actyvai-raises-funding-to-support-expansion-product-enhancement.md",
-      "title": "Singapore based Fintech actyv.ai Raises Funding to Support Expansion, Product Enhancement",
-      "excerpt": "Singapore-headquartered, category creator in the enterprise SaaS with embedded B2B BNPL and insurance space, has raised $12M.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/01/201058-singapore-based-fintech-actyv-ai-raises-funding-to-support-expansion-product-enhancement/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/01/201058-singapore-based-fintech-actyv-ai-raises-funding-to-support-expansion-product-enhancement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2016/03/Singapore-Skyline-1024x725.jpg",
-          "width": 1024,
-          "height": 725,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/01/201058-singapore-based-fintech-actyv-ai-raises-funding-to-support-expansion-product-enhancement/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/01/201058-singapore-based-fintech-actyv-ai-raises-funding-to-support-expansion-product-enhancement/amp/",
-      "publishedDateTime": "2023-01-14T05:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-ai-is-taking-on-ever-larger-puzzles.md",
-      "title": "AI Is Taking On Ever-Larger Puzzles",
-      "excerpt": "But eight months later, still in the midst of the pandemic, AI solved a nearly 50-year-old grand challenge in biology: the protein-structure prediction problem. Life science experts described this breakthrough as “the singular and momentous advance in life science that demonstrates the power of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-puzzles/",
-      "originalUrl": "https://www.wired.com/story/artificial-intelligence-puzzles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63bc6563145a571e203e3b3c/master/pass/04_AI-takes-on-ever-larger-puzzles.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-puzzles/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-puzzles/amp",
-      "publishedDateTime": "2023-01-14T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-why-ai-and-creativity-are-not-at-war.md",
-      "title": "Why AI and creativity are not at war",
-      "excerpt": "Why AI won't steal your job, and why The field of strategic creative analysis will become important as generative AI becomes ubiquitous.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-ai-and-creativity-are-not-at-war/",
-      "originalUrl": "https://venturebeat.com/ai/why-ai-and-creativity-are-not-at-war/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_507812257.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-ai-and-creativity-are-not-at-war/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-and-creativity-are-not-at-war/amp/",
-      "publishedDateTime": "2023-01-13T21:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out.md",
-      "title": "Can AI detectors save us from ChatGPT? I tried 3 online tools to find out",
-      "excerpt": "With the sudden arrival of ChatGPT, educators and editors are facing a worrying surge of automated content submissions. We look at the problem and what might be done.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/",
-      "originalUrl": "https://www.zdnet.com/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/69f53b17fd222baf337bde0508984dc0abbc56a2/2023/01/13/1b3cc46b-7c9b-445f-a88d-dc026d97e8e3/gettyimages-1418475387-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/",
-      "publishedDateTime": "2023-01-13T17:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

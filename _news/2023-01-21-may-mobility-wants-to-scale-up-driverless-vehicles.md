@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Is GM-Backed Driverless Car Really Road-Ready?"
-    excerpt: "Cruise first entered the market in September with operators and started driverless rides for \"friends and family of Cruisers\" in mid-December, according to Megan Prichard, the company's vice ..."
-    publishedDateTime: 2023-01-19T06:53:00Z
-    webUrl: "https://www.austinchronicle.com/news/2023-01-20/is-gm-backed-driverless-car-really-road-ready/"
-    type: article
-    provider:
-      name: The Austin Chronicle
-      domain: austinchronicle.com
-    quality: 39
-    images:
-      - url: "https://www.austinchronicle.com/imager/b/original/2996041/5435/pols_feature26.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "1ief5iYoTN+wHCSpL+oDQuup828C6cX7oo07uCmRnv53Jt0/zS/QWYmYebFNZ3EqsSK79xAPIX30AqelbXxeivfsXbgdGFFTGnyHZ6EJ/ig35xHTi9ehyxfCFYUsGWEtRASrz2WHNTSjvyowR/Uj1Xi4FyKjdwXGOr5PUTM5f4FyU+mF2ZIf9yaLbCavaZU37/4BjnrNX/knXh6yVAqtYOWW8DkBK/2DAIAhpITbKEVR01xFYjDsRCh3KuFLCSQPlCoPYS8clDuAcmuJWPnNfK9tsueo4WUjmYJbKs5YTfTrBeWoRLsI1xTGwj5r8NTiBCpheOJABtgvjts3b4RVgTcZQipN/b5OFMlq6jMs350=;/gMVP5PrHWzaMP7Yol/hUA=="
 ---

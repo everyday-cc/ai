@@ -2,6 +2,59 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-09-13-tesla-ai-day-2022-everything-you-need-to-know.md",
+      "title": "Tesla AI Day 2022: Everything You Need To Know",
+      "excerpt": "The tech obsessed watch to see how Tesla is pushing the envelope in bringing new and exciting innovations to the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/09/13/tesla-ai-day-2022-everything-you-need-to-know/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/13/tesla-ai-day-2022-everything-you-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6320a0f9a400968b15fe585a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/13/tesla-ai-day-2022-everything-you-need-to-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/13/tesla-ai-day-2022-everything-you-need-to-know/amp/",
+      "publishedDateTime": "2022-09-13T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-heres-the-exclusive-16-slide-pitch-deck-that-startup-alcatraz-ai-used-to-raise-25-million-to-open-doors-with-facial-recognition.md",
       "title": "Here's the exclusive 16-slide pitch deck that startup Alcatraz AI used to raise $25 million to open doors with facial recognition",
       "excerpt": "AI startup Alcatraz AI's funding was led by global VC firm Almaz Capital, and involved several new and existing investors.",

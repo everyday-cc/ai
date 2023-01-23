@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Fluent.ai collaboration to offer embedded voice recognition for Cadence Tensilica"
+    excerpt: "Fluent.ai provides offline, noise speech recognition that can support any language or accent. The software solution allows users to trigger over 30 TWS actions through 101 natural and flexible ..."
+    publishedDateTime: 2023-01-19T22:53:00Z
+    webUrl: "https://www.canadianmanufacturing.com/manufacturing/fluent-ai-collaboration-to-offer-embedded-voice-recognition-for-cadence-tensilica-288690/"
+    type: article
+    provider:
+      name: Canadian Manufacturing
+      domain: canadianmanufacturing.com
+    quality: 14
   - title: "Fluent.ai Announces Collaboration to Offer Embedded Voice Recognition for Cadence Tensilica HiFi 5 DSP-Based True Wireless Stereo Products"
     excerpt: "MONTREAL, Jan. 19, 2023 (GLOBE NEWSWIRE) -- Fluent.ai – a leader in small footprint embedded, noise robust and multilingual/multi-accent speech recognition software ..."
     publishedDateTime: 2023-01-19T14:32:00Z

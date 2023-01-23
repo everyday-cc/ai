@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna67011"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna67011"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 174
+published: true
 
 provider:
   name: NBC News
@@ -27,127 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Is Aggressively Investing In Healthcare AI"
-    excerpt: "On the clinical front, Paige’s AI tools enable advanced diagnostics in the lab with computational pathology, which can be leveraged to identify complex tissue patterns. On the pharmaceutical front, the company’s tools offer new ways to identify and analyze tissue biomarkers,"
-    publishedDateTime: 2023-01-23T09:59:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2023/01/23/microsoft-is-aggressively-investing-in-healthcare-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/01/23/microsoft-is-aggressively-investing-in-healthcare-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/01/23/microsoft-is-aggressively-investing-in-healthcare-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63ce1dbef798d5bde6766ebe/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 829
-        isCached: true
-  - title: "Microsoft CEO Satya Nadella Claims Artificial Intelligence Will Redefine Business And Work"
-    excerpt: "Microsoft CEO Satya Nadella said on Wednesday that the world is approaching a golden age of artificial intelligence by citing a recent instance in which an Indian farmer utilized a ChatGPT interface to access a secret government program online despite only understanding a local dialect."
-    publishedDateTime: 2023-01-19T12:18:00Z
-    webUrl: "https://in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work"
-    ampWebUrl: "https://in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work?amp=1"
-    type: article
-    provider:
-      name: in.mashable
-      domain: mashable.com
-    quality: 109
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/photo/default/803e1912-a021-46f2-9614-a3c081e6b95c_efqm.620.jpg"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "Microsoft extends AI partnership with ChatGPT and Dall-E maker OpenAI"
-    excerpt: "OpenAI is the creator of popular image generation tool Dall-E and the chatbot ChatGPT. Microsoft invested $1bn (£808m) in the company, founded by Elon Musk and tech investor Sam Altman in 2019. The Windows and Xbox maker plans up to 10,"
-    publishedDateTime: 2023-01-23T17:43:00Z
-    webUrl: "https://www.bbc.com/news/technology-64374283"
-    ampWebUrl: "https://www.bbc.com/news/technology-64374283.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-64374283.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/8C9E/production/_128389953_gettyimages-1176203598.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Microsoft Integrates OpenAI AI tools in Workplace Emails and Spreadsheets"
-    excerpt: "With Azure OpenAI Service now generally available, more businesses can apply for access to the most advanced AI models in the world,” the announcement states. This allows companies to integrate AI capabilities into their products and services to improve efficiency and automate their processes."
-    publishedDateTime: 2023-01-23T09:52:00Z
-    webUrl: "https://www.gizmochina.com/2023/01/23/microsoft-integrates-openai-ai-tools-to-its-products/"
-    ampWebUrl: "https://www.gizmochina.com/2023/01/23/microsoft-integrates-openai-ai-tools-to-its-products/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2023/01/23/microsoft-integrates-openai-ai-tools-to-its-products/?amp=1"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 103
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/01/microsoft-integrates-openai-ai-tools-to-its-products.jpeg"
-        width: 1067
-        height: 600
-        isCached: true
-  - title: "OpenAI and Microsoft reaffirm shared quest for powerful AI with new investment"
-    excerpt: "OpenAI has been behind several key technologies that made 2022 the year that generative AI went mainstream, including DALL-E image synthesis, the ChatGPT chat bot (powered by GPT-3 ), and GitHub Copilot for programming assistance."
-    publishedDateTime: 2023-01-23T17:49:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/01/openai-and-microsoft-reaffirm-shared-quest-for-powerful-ai-with-new-investment/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/01/openai-and-microsoft-reaffirm-shared-quest-for-powerful-ai-with-new-investment/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/openai-and-microsoft-reaffirm-shared-quest-for-powerful-ai-with-new-investment/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 100
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/microsoft_openai_hero_1-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "From Teams to PowerPoint: 10 ways Azure AI enhances the Microsoft Apps we use everyday"
-    excerpt: "Azure AI is driving innovation and improving experiences for employees, users, and customers in a variety of ways, from increasing workday productivity to promoting inclusion and accessibility. The…"
-    publishedDateTime: 2023-01-23T08:00:35Z
-    webUrl: "https://azure.microsoft.com/blog/from-teams-to-powerpoint-10-ways-azure-ai-enhances-the-microsoft-apps-we-use-everyday/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 91
-  - title: "Microsoft rolling out Azure Open AI service with access to Chat GPT soon"
-    excerpt: "American tech giant Microsoft is all set to roll out Azure Open AI service this week, which will allow businesses to integrate tools like DALL-E into their own cloud apps. According to The Verge, an American technology news website,"
-    publishedDateTime: 2023-01-19T11:49:00Z
-    webUrl: "https://timesofindia.indiatimes.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/videoshow/97134538.cms"
-    ampWebUrl: "https://m.timesofindia.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/amp_videoshow/97134538.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/amp_videoshow/97134538.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 88
-    images:
-      - url: "https://static.toiimg.com/photo/msid-97134538/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Microsoft announces major investment in artificial intelligence startup OpenAI"
-    excerpt: "Microsoft says it is making a “multiyear, multibillion dollar investment” in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can generate readable text, images and computer code."
-    publishedDateTime: 2023-01-23T16:45:00Z
-    webUrl: "https://www.pbs.org/newshour/science/microsoft-announces-major-investment-in-artificial-intelligence-startup-openai"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/science/microsoft-announces-major-investment-in-artificial-intelligence-startup-openai"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/science/microsoft-announces-major-investment-in-artificial-intelligence-startup-openai"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 85
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/12/hackattack1-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Microsoft invests billions in ChatGPT-maker OpenAI"
     excerpt: "Microsoft says it is making a \"multiyear, multibillion dollar investment\" in the artificial intelligence startup OpenAI, maker of ChatGPT"
     publishedDateTime: 2023-01-23T14:15:00Z
@@ -163,54 +42,6 @@ related:
       - url: "https://mynorthwest.com/wp-content/uploads/2023/01/ap_c7a0f33914bc4ca8aad55e0c8fac20be.jpg"
         width: 1280
         height: 951
-        isCached: true
-  - title: "Microsoft exec: AI will reinvent Windows user experience, define ‘our time’"
-    excerpt: "At least one Microsoft executive has made it clear artificial intelligence will continue to play a big role in future Windows features."
-    publishedDateTime: 2023-01-23T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.html"
-    ampWebUrl: "https://www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft to invest billions in maker of viral AI ChatGPT"
-    excerpt: "Microsoft says it is making a “multiyear, multibillion dollar investment” in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can write readable text and generate new images."
-    publishedDateTime: 2023-01-23T17:14:00Z
-    webUrl: "https://www.oregonlive.com/business/2023/01/microsoft-to-invest-billions-in-maker-of-viral-ai-chatgpt.html"
-    ampWebUrl: "https://www.oregonlive.com/business/2023/01/microsoft-to-invest-billions-in-maker-of-viral-ai-chatgpt.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/business/2023/01/microsoft-to-invest-billions-in-maker-of-viral-ai-chatgpt.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 74
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VNDWT2UXERGS5D6XYF6MMB2LG4.jpg"
-        width: 4121
-        height: 2747
-        isCached: true
-  - title: "Golden age of Artificial Intelligence is here, says Microsoft boss Satya Nadella"
-    excerpt: "The cutting-edge chatbot ChatGPT is capturing the world's imagination. The new artificial intelligence site amassed 1 million users in just five days after its recent launch. It is but one of a dozen AI-driven so-called apps that are expected to transform human productivity and the future of work."
-    publishedDateTime: 2023-01-19T05:35:00Z
-    webUrl: "https://www.hindustantimes.com/technology/golden-age-of-artificial-intelligence-is-here-says-microsoft-boss-satya-nadella-101674106282171.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/golden-age-of-artificial-intelligence-is-here-says-microsoft-boss-satya-nadella-101674106282171-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/golden-age-of-artificial-intelligence-is-here-says-microsoft-boss-satya-nadella-101674106282171-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 69
-    images:
-      - url: "https://images.hindustantimes.com/img/2023/01/19/1600x900/Satya_Nadella_1674106354561_1674106354888_1674106354888.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Microsoft to invest billions in AI startup behind ChaptGPT for writing, image creation"
     excerpt: "Microsoft says it is making a “multiyear, multibillion dollar investment” in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can write readable text and generate new images."
@@ -228,50 +59,6 @@ related:
         width: 772
         height: 434
         isCached: true
-  - title: "Microsoft Invests Billions More Into AI, Which It Believes Could Be As Big As The Internet"
-    excerpt: "Microsoft believes AI could be a \"transformative\" technology that could make an impact as big as the PC, the internet, and mobile devices."
-    publishedDateTime: 2023-01-23T14:48:00Z
-    webUrl: "https://www.gamespot.com/articles/microsoft-invests-billions-more-into-ai-which-it-believes-could-be-as-big-as-the-internet/1100-6510758/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/microsoft-invests-billions-more-into-ai-which-it-believes-could-be-as-big-as-the-internet/1100-6510758/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/microsoft-invests-billions-more-into-ai-which-it-believes-could-be-as-big-as-the-internet/1100-6510758/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 64
-    images:
-      - url: "https://www.gamespot.com/a/uploads/original/1179/11799911/4089708-screenshot2023-01-23at9.42.58am.png"
-        width: 371
-        height: 219
-        isCached: true
-  - title: "Microsoft is all set to roll out Azure Open AI service with access to ChatGPT soon"
-    excerpt: "American tech giant Microsoft is all set to roll out Azure Open AI service this week, which will allow businesses to integrate tools like DALL-E into their own cloud apps. According to The Verge, an American technology news website,"
-    publishedDateTime: 2023-01-19T10:39:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/microsoft-is-all-set-to-roll-out-azure-open-ai-service-with-access-to-chatgpt-soon/videoshow/97130916.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 63
-    images:
-      - url: "https://img.etimg.com/thumb/msid-97130916,width-1070,height-580,overlay-economictimes/photo.jpg"
-        width: 1070
-        height: 580
-        isCached: true
-  - title: "Microsoft investing $10bn in Open AI’s ChatGPT"
-    excerpt: "Landmark AI tool ChatGPT is to get $10bn in funding from Microsoft Microsoft investing $10bn in Open AI's ChatGPT Artificial intelligence, ChatGPT, Microsoft Technology"
-    publishedDateTime: 2023-01-23T15:46:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/microsoft-investing-10bn-in-open-ais-chatgpt"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 54
-    images:
-      - url: "https://www.arabianbusiness.com/cloud/2023/01/12/ChatGPT-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft Officially Extends Partnership With OpenAI"
     excerpt: "Microsoft has just officially announced that its partnership with ChatGPT maker OpenAI is entering its third phase, with a new \"multiyear, multibillion dollar investment\" to democratize OpenAI's cutting-edge AI technology."
     publishedDateTime: 2023-01-23T14:44:00Z
@@ -286,75 +73,52 @@ related:
         width: 1066
         height: 600
         isCached: true
-  - title: "New Microsoft Azure Vulnerability Uncovered — Experts Warn of RCE Attacks"
-    excerpt: "Microsoft Azure vulnerability discovered. Could be exploited to completely take control of targeted apps or steal sensitive data."
-    publishedDateTime: 2023-01-19T14:20:00Z
-    webUrl: "https://thehackernews.com/2023/01/new-microsoft-azure-vulnerability.html"
+  - title: "Microsoft and OpenAI extend partnership to ‘democratize AI’"
+    excerpt: "The latest phase in the collaboration between the two brands will aim in part to develop supercomputing systems and integrate OpenAI’s models – including ChatGPT and DALL·E 2 – into Microsoft consumer and enterprise products."
+    publishedDateTime: 2023-01-23T22:03:00Z
+    webUrl: "https://www.thedrum.com/news/2023/01/23/microsoft-and-openai-extend-partnership-democratize-ai"
     type: article
     provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 53
+      name: The Drum
+      domain: thedrum.com
+    quality: 54
     images:
-      - url: "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEgeXE12VhXLZAYDxEX5x1goQta8TteHtiO_1r15UBLZSuYCiCD2hrxyBYkHRm_u6PBSWRIZR3l-x4cfGsW5kPmhSReTi6e--JREoPCgfMmLgg09UEN4r5Ewbe4EKFq1BFgDKLI6_icuM1X8tQaXYddXvhUANdBwF1BseQSn0dLD5o1efdp_0Ar-TwZK/s728-rj-e3650/azure.png"
-        width: 728
-        height: 380
-        isCached: true
-  - title: "OpenAI Co-Founder Sam Altman Doesn't See Artificial Intelligence Ending Google, Discusses Microsoft Partnership And More"
-    excerpt: "OpenAI co-founder Sam Altman shares thoughts on what could be ahead for artificial intelligence. One of the hottest topics of 2023 is likely to be artificial intelligence and the company OpenAI ..."
-    publishedDateTime: 2023-01-20T16:03:00Z
-    webUrl: "https://www.benzinga.com/news/23/01/30491171/openai-co-founder-sam-altman-doesnt-see-artificial-intelligence-ending-google-discusses-microsoft-pa"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 46
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/01/20/samaltman.thegrove.flickr.png?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "4 healthcare AI updates"
-    excerpt: "Artificial intelligence has the potential to transform healthcare delivery, and hospitals across the country are making serious investments in AI. Four AI in healthcare updates Becker's has covered since Jan."
-    publishedDateTime: 2023-01-20T23:07:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/4-healthcare-ai-updates.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
-  - title: "Microsoft Expands Access to AI Tools for Businesses"
-    excerpt: "Microsoft wants every single one of its products to have some AI capabilities and is investing billions to make that happen."
-    publishedDateTime: 2023-01-23T14:48:00Z
-    webUrl: "https://tech.co/news/microsoft-azure-openai"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 34
-  - title: "Satya Nadella says golden age of Artificial Intelligence is here, good for humanity"
-    excerpt: "In a session at the ongoing five-day annual meeting of the World Economic Forum, Nadella said that technology will provide more and more ways to bring people together."
-    publishedDateTime: 2023-01-19T05:45:00Z
-    webUrl: "https://telanganatoday.com/satya-nadella-says-golden-age-of-artificial-intelligence-is-here-good-for-humanity"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 31
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/01/Satya-Nadella-says-golden-age-of-Artificial-Intelligence-is-here-good-for-humanity.jpg"
+      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/untitled_design_-_2023-01-23t160702.024.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
         width: 1280
-        height: 750
+        height: 720
         isCached: true
-  - title: "Cross-site forgery bug would facilitate remote code execution in Microsoft Azure services"
-    excerpt: "The bug, reported to Microsoft on Oct. 26 and remediated Dec. 6, is the result of manipulating a series of misconfigurations and security bypasses in Kudu, a back-end source control management (SCM) tool that helps manage and modify web applications and is used by major Microsoft cloud services like Azure Functions,"
-    publishedDateTime: 2023-01-19T13:00:00Z
-    webUrl: "https://www.scmagazine.com/analysis/application-security/cross-site-forgery-bug-would-facilitate-remote-code-execution-in-microsoft-azure-services"
+  - title: "Microsoft's huge bet on ChatGPT is a 'game changing AI investment' that could boost the stock by 20%, Wedbush says"
+    excerpt: "Microsoft just confirmed its $10 billion partnership expansion with OpenAI. That could make it a leader in the artificial intelligence space, Wedbush said."
+    publishedDateTime: 2023-01-23T17:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-open-ai-game-changer-tech-wedbush-2023-1"
     type: article
     provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 25
+      name: YAHOO!News
+      domain: businessinsider.com
+    quality: 42
+  - title: "ChatGPT won’t give OpenAI sustainable first-mover advantage"
+    excerpt: "But in our view, though the hype around ChatGPT is justified, we don’t believe OpenAI will lock up the market with its first-mover advantage. Rather, we believe that success in this market will be directly proportional to the quality and quantity of data that a technology company has at its disposal,"
+    publishedDateTime: 2023-01-20T03:40:00Z
+    webUrl: "https://siliconangle.com/2023/01/19/chatgpt-wont-give-openai-sustainable-first-mover-advantage/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/AdobeStock_553851695.jpeg"
+        width: 3072
+        height: 2048
+        isCached: true
+  - title: "Microsoft deepens commitment to OpenAI in Azure cloud and enterprise products with reported $10B stake"
+    excerpt: "Microsoft deepens commitment to OpenAI in Azure cloud and enterprise products with reported $10B stake - SiliconANGLE"
+    publishedDateTime: 2023-01-23T19:00:00Z
+    webUrl: "https://siliconangle.com/2023/01/23/microsoft-deepens-commitment-openai-azure-cloud-enterprise-products/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
 
 secured: "A3H6hMqd99VEybnLMvoGQ8JxqfOd5mNyqP9AGzec6R8wcBCJultr8X8yBlsHCdg583PgAbxFq+F5YZ1PQQD90HOjRIWz+DEpj4geV41kUQ8pZtgW7FfGu3KTN+mF68yYy3KYAY+3gExD1lZYeE0cykHieOBx9iMFeZ2g8jqQG3DAwTygZsve+M+rSiKrWNcrImtSDJqTvDyuEYWk2VNAYuFsXVWM5WXS4N2B+Uxai7F4fbYO+nIRUZRRj7xKgC1n4d0O3vYJteDWoyrURJ0TyGozFB46/REzGD+OMjRFgjeRk2kSyFqdmMzj83x4Kzl3YEbg47jkIg/OMBnTT67MVQllE+W+og8fnZTXZpnINuc=;a1wVR4V8r5SV8ELm+IHt2w=="
 ---

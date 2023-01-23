@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T17:58:00Z
 originalUrl: "https://neurosciencenews.com/spatial-temporal-memory-22328/"
 webUrl: "https://neurosciencenews.com/spatial-temporal-memory-22328/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Neuroscience News

@@ -2,6 +2,281 @@
   "page": 143,
   "value": [
     {
+      "path": "_news/2022-09-15-artist-ai-weiwei-warns-against-hubris-in-troublesome-times.md",
+      "title": "Artist Ai Weiwei warns against hubris in ‘troublesome’ times",
+      "excerpt": "VENICE, Italy (AP) — Chinese dissident and artist Ai Weiwei lampoons the surveillance state and social media with his first glass sculpture, made on the Venetian island of Murano. Titled “The ...",
+      "sourceUrl": null,
+      "webUrl": "https://localnews8.com/news/ap-national/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/",
+      "originalUrl": "https://localnews8.com/news/ap-national/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://localnews8.b-cdn.net/2020/12/US-World-logo-new_KIFIMIFI-860x484.jpg",
+          "width": 860,
+          "height": 484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T15:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local News 8",
+        "domain": "localnews8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-symbee-launches-two-new-expedited-avaya-migration-offerings-to-allow-companies-to-mitigate-the-risks-associated-with-recent-events.md",
+      "title": "Symbee Launches Two New Expedited Avaya Migration Offerings to Allow Companies to Mitigate the Risks Associated With Recent Events.",
+      "excerpt": "Customers needing to mitigate the risk of Avaya Solution(s) by migrating rapidly to the Amazon Customer Experience (CX) ecosystem based on recent",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28874153/symbee-launches-two-new-expedited-avaya-migration-offerings-to-allow-companies-to-mitigate-the-ris",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28874153/symbee-launches-two-new-expedited-avaya-migration-offerings-to-allow-companies-to-mitigate-the-ris",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg",
+          "width": 700,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28874153",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28874153",
+      "publishedDateTime": "2022-09-14T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-multivitamins-may-slow-cognitive-decline-in-older-adults-study-says.md",
+      "title": "Multivitamins May Slow Cognitive Decline in Older Adults, Study Says",
+      "excerpt": "Share on Pinterest Researchers say taking a multivitamin daily can help slow cognitive aging. Fly View Productions/Getty Images Researchers say a new study indicates that taking a multivitamin ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthline.com/health-news/multivitamins-may-slow-cognitive-decline-in-older-adults-study-says",
+      "originalUrl": "https://www.healthline.com/health-news/multivitamins-may-slow-cognitive-decline-in-older-adults-study-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.healthline.com/wp-content/uploads/2022/09/female-couch-pills-1200x628-facebook-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthline",
+        "domain": "healthline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-intelligent-cooperation-to-provide-surveillance-and-epidemic-services-in-smart-cities.md",
+      "title": "Intelligent cooperation to provide surveillance and epidemic services in smart cities",
+      "excerpt": "have designed an Artificial Intelligence (AI)-assisted cooperative infrastructure for UAVs and mobile robots. In a paper published in volume 36 issue 3 of IEEE Network on 13 July 2022, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220914102005.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220914102005.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-chinas-most-advanced-ai-image-generator-already-blocks-political-content.md",
+      "title": "China’s most advanced AI image generator already blocks political content",
+      "excerpt": "ViLG, censors political text such as \"Tiananmen Square\" or names of political leaders, reports Zeyi Yang for MIT Technology Review. Image synthesis has proven popular (and controversial) recently on social media and in online art communities.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/09/chinas-leading-ai-image-generator-nixes-political-content-surprising-no-one/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/09/chinas-leading-ai-image-generator-nixes-political-content-surprising-no-one/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/chinese_image_syntesis-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-watch-a-robot-excavator-controlled-like-a-videogame.md",
+      "title": "Watch a robot excavator controlled like a videogame",
+      "excerpt": "I could watch this robot excavator dig all day. Remote control could also make excavation safer and more economical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/watch-robot-excavator-controlled-like-a-videogame/",
+      "originalUrl": "https://www.zdnet.com/article/watch-robot-excavator-controlled-like-a-videogame/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/808d01e132edafd391e87b12a42e3a8bd3f8815a/2022/09/14/b144d8e0-d4e7-420a-bbff-447305662975/sri-excavator.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/watch-robot-excavator-controlled-like-a-videogame/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/watch-robot-excavator-controlled-like-a-videogame/",
+      "publishedDateTime": "2022-09-14T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
       "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
       "excerpt": "New Jersey, NJ -- (SBWIRE) -- 09/14/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
@@ -824,247 +1099,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-existential-catastrophe-caused-by-ai-is-likely-unavoidable-deepmind-researcher-warns.md",
-      "title": "‘Existential catastrophe’ caused by AI is likely unavoidable, DeepMind researcher warns",
-      "excerpt": "Researchers from the University of Oxford and Google’s artificial intelligence division DeepMind have claimed that there is a high probability of advanced forms of AI becoming “existentially ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/independentpremium/uk-news/artificial-intelligence-deepmind-ai-catastrophe-b2168120.html",
-      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/artificial-intelligence-deepmind-ai-catastrophe-b2168120.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records.md",
-      "title": "NVIDIA’s New H100 GPU Smashes Artificial Intelligence Benchmarking Records",
-      "excerpt": "Goodson, dives in as the technical community has been looking forward to seeing how NVIDIA’s monster Hopper H100 Tensor Core GPU would perform ever since its March announcement at GTC2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6321ed3e42854ded081b8dca/0x0.jpg?format=jpg&width=1200",
-          "width": 624,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/amp/",
-      "publishedDateTime": "2022-09-14T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-chooch-to-feature-computer-vision-for-smart-cities-at-its-world-congress.md",
-      "title": "Chooch to feature Computer Vision for Smart Cities at ITS World Congress",
-      "excerpt": "LOS ANGELES, Sept. 14, 2022 (GLOBE NEWSWIRE) -- ITSWC2022 -- Leading AI Computer Vision Platform, Chooch, will showcase Computer Vision for Smart Cities at ITS World Congress in Los Angeles, September 18-22, 2022. Featuring a complete Vision AI platform ...",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/09/14/9673524.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/09/14/9673524.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-anyclip-launches-teams-connector-in-microsoft-azure-marketplace.md",
-      "title": "ANYCLIP LAUNCHES 'TEAMS CONNECTOR' IN MICROSOFT AZURE MARKETPLACE",
-      "excerpt": "Available now through the Microsoft Azure Marketplace, this new app integrates with AnyClip's Genius Work™, the AI-powered internal communications product that allows companies to manage their video content—including call recordings—through the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28866506/anyclip-launches-teams-connector-in-microsoft-azure-marketplace",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28866506/anyclip-launches-teams-connector-in-microsoft-azure-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1517441/ANYCLIP.jpg",
-          "width": 400,
-          "height": 218,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28866506",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28866506",
-      "publishedDateTime": "2022-09-14T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-ai-may-destroy-humanity-deepmind-scientists-claim-in-co-authored-paper.md",
-      "title": "AI may destroy humanity, DeepMind scientists claim in co-authored paper",
-      "excerpt": "A paper co-authored with the University of Oxford argues that advanced AI may want to implement a reward system that would harm humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/innovation/ai-may-destroy-humanity-deepmind",
-      "originalUrl": "https://interestingengineering.com/innovation/ai-may-destroy-humanity-deepmind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/2022/09/14/image/jpeg/nHhLLZVLZFuzjzQfMz3AQhayfDcqXyn0x6n1ZUX6.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-alphabets-googl-waymo-makes-way-to-bellevue-boosts-efforts.md",
-      "title": "Alphabet's (GOOGL) Waymo Makes Way to Bellevue, Boosts Efforts",
-      "excerpt": "Alphabet GOOGL is leaving no stone unturned to expand its Waymo ride-hailing service across the United States. This is evident from the latest move of testing its self-driving vehicles on the streets of Bellevue,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/alphabets-googl-waymo-makes-way-to-bellevue-boosts-efforts",
-      "originalUrl": "https://www.nasdaq.com/articles/alphabets-googl-waymo-makes-way-to-bellevue-boosts-efforts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/alphabets-googl-waymo-makes-way-to-bellevue-boosts-efforts?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/alphabets-googl-waymo-makes-way-to-bellevue-boosts-efforts?amp",
-      "publishedDateTime": "2022-09-14T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

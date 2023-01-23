@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/calendar-event/seattle-fintech-meetup-mea
 webUrl: "https://www.geekwire.com/calendar-event/seattle-fintech-meetup-measure-what-matters-dei-in-fintech/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "A Look at the Top Six Fintech Trends in the UK in 2023"
+    excerpt: "However, despite all these challenges, the UK fintech market has grown steadily and has provided businesses with ways to remain ahead of the curve and offer simpler, more accessible financial services."
+    publishedDateTime: 2023-01-23T19:30:00Z
+    webUrl: "https://financialit.net/blog/fintech/look-top-six-fintech-trends-uk-2023"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 4
 
 secured: "Hx5OPs56MhXssRkHqob3Dlnj6FPNqvYear6q0Nbcbjfr5QjBabVXHNnRGJNI41gh7Sp0yJgWWn+ToDOHlSjy/r03YlL074zV+PILNhY3bTOyBRwEAdr10FVfWCpwyF6uT4KdBPE+fw/sxKETbmZ894kVQm+qIysDpBI5tkM9dbFpLl08aevK9Vvwffd48BxpsKoNJ85vwcH8PujWz66e/KMeVknfPS4p2r8aKaRAb82/k1tEkfdaHjeGC9BIKmTUtWIoukxBxW7q9GTnXwOIk/mlh/H/9lhKZs5iMPXGhe+aDDykiAqp1JogDB7mRe+L9DRBvubuWKUEMrDULLJHW7aQk8hyrfgJBMCGjIsODs0=;JTqRA4VPgdk34ofbCWewTA=="
 ---

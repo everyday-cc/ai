@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna66531"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna66531"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: NBC News
@@ -26,35 +26,42 @@ images:
     isCached: true
 
 related:
-  - title: "Investigation exposes murkier side of AI chatbot industry"
-    excerpt: "A Time investigation has exposed the murkier side of the AI chatbot industry, highlighting how at least one startup has been using questionable practices."
-    publishedDateTime: 2023-01-19T03:30:00Z
-    webUrl: "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/?amp"
+  - title: "New AI app slammed for allowing users to chat with Hitler and Jesus"
+    excerpt: "Historical Figures became available on Apple’s App Store earlier this month and is climbing the charts in the “Education” category."
+    publishedDateTime: 2023-01-23T17:12:00Z
+    webUrl: "https://nypost.com/2023/01/23/historical-ai-app-slammed-for-allowing-users-to-chat-with-hitler-jesus/"
+    ampWebUrl: "https://nypost.com/2023/01/23/historical-ai-app-slammed-for-allowing-users-to-chat-with-hitler-jesus/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/01/23/historical-ai-app-slammed-for-allowing-users-to-chat-with-hitler-jesus/amp/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
+      name: New York Post
+      domain: nypost.com
+    quality: 59
     images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/01/ChatGPT-OpenAI-logo.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/01/comp1-9.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Artificial intelligence chat app lets you talk to virtual high-ranking Nazis"
+    excerpt: "An artificial intelligence app available in the Apple Store lets you chat with 20,000 avatars but whitewashes much of history."
+    publishedDateTime: 2023-01-19T21:38:00Z
+    webUrl: "https://forward.com/news/532624/artificial-intelligence-historical-figures-chat-nazis/"
+    ampWebUrl: "https://forward.com/news/532624/artificial-intelligence-historical-figures-chat-nazis/?amp=1"
+    cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/news/532624/artificial-intelligence-historical-figures-chat-nazis/?amp=1"
+    type: article
+    provider:
+      name: The Forward
+      domain: forward.com
+    quality: 58
+    images:
+      - url: "https://forward.com/wp-content/uploads/2023/01/himmler-ai-graphic-2400-×-1350-px.png"
+        width: 2400
+        height: 1350
         isCached: true
   - title: "AI chatbot poses test for business schools with pass in MBA course exam"
     excerpt: "A professor at the University of Pennsylvania’s Wharton School said ChatGPT earned a ‘B to B-’ on his operations management test © Bloomberg AI chatbot poses test for business schools with pass in MBA"
     publishedDateTime: 2023-01-21T14:00:00Z
     webUrl: "https://www.ft.com/content/7229ba86-142a-49f6-9821-f55c07536b7c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-  - title: "AI chatbot’s MBA exam pass poses test for business schools"
-    excerpt: "Elon Musk has long dismissed the MBA as irrelevant or damaging, but now a company backed by the outspoken tech entrepreneur is threatening to directly undermine the value of the flagship business degree: the artificial intelligence chatbot ChatGPT."
-    publishedDateTime: 2023-01-21T14:00:00Z
-    webUrl: "https://www.ft.com/content/7229ba86-142a-49f6-9821-f55c07536b7c?amp"
     type: article
     provider:
       name: The Financial Times

@@ -2,6 +2,233 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-19-natural-language-processing-in-artificial-intelligence-what-it-is-and-why-it-matters.md",
+      "title": "Natural Language Processing in Artificial Intelligence: What It Is and Why It Matters",
+      "excerpt": "F or the past few decades, the idea of Artificial Intelligence (AI) has moved from being the stuff of pure science fiction to something that seems to be inching closer to reality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence:-what-it-is-and-why-it-matters",
+      "originalUrl": "https://www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence:-what-it-is-and-why-it-matters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence%3A-what-it-is-and-why-it-matters?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence%3A-what-it-is-and-why-it-matters?amp",
+      "publishedDateTime": "2023-01-18T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-artificial-intelligence-based-medical-device-market-is-set-to-grow-in-forecast-period-2029.md",
+      "title": "Artificial Intelligence Based Medical Device Market is Set to Grow in forecast period 2029",
+      "excerpt": "Artificial Intelligence Based Medical Device Market Report Insights: (Report Pages: 110) “The Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-is-set-to-grow-in-forecast-period-2029-2023-01-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-is-set-to-grow-in-forecast-period-2029-2023-01-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-18T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-the-enemies-list-at-madison-square-garden.md",
+      "title": "The ‘Enemies List’ at Madison Square Garden",
+      "excerpt": "This is “The Daily.” [THEME MUSIC] Today, with little warning or regulation, more and more companies have begun using facial recognition technology on their customers, they say as a security ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.html",
+      "originalUrl": "https://www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/19/multimedia/18daily-1/13Daily-MSG-audio-app-zcgv-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.amp.html",
+      "publishedDateTime": "2023-01-18T05:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-ai-bill-of-rights-industry-should-police-itself-claims-ml-company.md",
+      "title": "AI Bill of Rights - industry should police itself, claims ML company",
+      "excerpt": "So, in the long tail of the Facebook/Meta and Cambridge Analytica ... downsides when governments directly regulate an industry like AI or machine learning. It’s a very fast-moving area. Research is rapidly developing and it’s impossible or impractical ...",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ai-bill-rights-industry-should-police-itself-claims-ml-company",
+      "originalUrl": "https://diginomica.com/ai-bill-rights-industry-should-police-itself-claims-ml-company",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-11/5E7E9601-C1C5-4EA8-94A0-7E3ECA1A6C2D.jpeg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/ai-bill-rights-industry-should-police-itself-claims-ml-company?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-bill-rights-industry-should-police-itself-claims-ml-company?amp",
+      "publishedDateTime": "2023-01-18T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning",
+        "AI Ethics",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-microsoft-expands-availability-of-azure-openai-service.md",
+      "title": "Microsoft expands availability of Azure OpenAI Service",
+      "excerpt": "Microsoft announced that it’s expanding the general availability of Azure OpenAI, which allows more businesses to apply for access to AI models such as GPT-3.5, Codex and DALL•E 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmagazine.com/news/emerging-technology/microsoft-expands-availability-of-azure-openai-service",
+      "originalUrl": "https://www.scmagazine.com/news/emerging-technology/microsoft-expands-availability-of-azure-openai-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.scmagazine.com/wp-content/uploads/2023/01/011823_microsoft_logo.jpg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-18T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SC Media",
+        "domain": "scmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-18-how-russias-marker-combat-robots-could-impact-ukraine-war.md",
       "title": "How Russia's 'Marker' Combat Robots Could Impact Ukraine War",
       "excerpt": "Russian \"Marker\" combat robots are unlikely to be sent into the heavy battles taking place in Ukraine, Newsweek was told after Russian state media announced testing in the country. On Sunday, Dmitry Rogozin,",
@@ -969,239 +1196,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-dlr-launches-ground-breaking-robot-control-software.md",
-      "title": "DLR Launches Ground-breaking Robot Control Software",
-      "excerpt": "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for the first time at DLR's CES booth in Las Vegas last week- allows users to teach robots tasks in the most natural and intuitive way possible - by simply demonstrating the task.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/01/17/9744604.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/01/17/9744604.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T11:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-whats-going-on-with-baidu-shares.md",
-      "title": "What's Going On With Baidu Shares",
-      "excerpt": "Baidu Inc BIDU shares are trading lower by 6.23% to $130.30 during Tuesday's trading session. Shares of Chinese companies at large are trading lower after China's GDP growth slowed in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/01/30447092/whats-going-on-with-baidu-shares",
-      "originalUrl": "https://www.benzinga.com/news/23/01/30447092/whats-going-on-with-baidu-shares",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/01/17/analysis-4937349_0.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources.md",
-      "title": "AI21 Labs intros an AI writing assistant that cites its sources",
-      "excerpt": "AI21 Labs new AI-powered writing assistant, called Wordtune Spices, cites its sources -- perhaps better than ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/01/17/ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources/",
-      "originalUrl": "https://techcrunch.com/2023/01/17/ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1094956900-e1559746431929.jpg?resize=1200,819",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/01/17/ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/17/ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources/amp/",
-      "publishedDateTime": "2023-01-17T10:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-elon-musks-appetite-for-destruction.md",
-      "title": "Elon Musk’s Appetite for Destruction",
-      "excerpt": "A wave of lawsuits argue that Tesla’s self-driving software is dangerously overhyped. What can its blind spots teach us about the company’s erratic C.E.O.? Credit...Photo illustration by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/01/17/magazine/tesla-autopilot-self-driving-elon-musk.html",
-      "originalUrl": "https://www.nytimes.com/2023/01/17/magazine/tesla-autopilot-self-driving-elon-musk.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/01/22/magazine/22mag-tesla2/22mag-tesla2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/01/17/magazine/tesla-autopilot-self-driving-elon-musk.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/17/magazine/tesla-autopilot-self-driving-elon-musk.amp.html",
-      "publishedDateTime": "2023-01-17T10:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-tech-moves-ex-lululemon-chief-joins-seattle-startup-microsoft-ai-ethics-leader-now-at-google.md",
-      "title": "Tech Moves: Ex-Lululemon chief joins Seattle startup; Microsoft AI ethics leader now at Google",
-      "excerpt": "Correll, the former chief technology officer at Lululemon Studio, joined Seattle startup Littlebird as CTO. D’Ambrosio-Correll joined home fitness startup Mirror in 2018 and led engineering. The company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/tech-moves-ex-lululemon-chief-joins-seattle-startup-littlebird-microsoft-ai-ethics-leader-now-at-google/",
-      "originalUrl": "https://www.geekwire.com/2023/tech-moves-ex-lululemon-chief-joins-seattle-startup-littlebird-microsoft-ai-ethics-leader-now-at-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/01/kristiedc.jpeg",
-          "width": 1010,
-          "height": 1010,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

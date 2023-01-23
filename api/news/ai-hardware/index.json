@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-sales-cagr-and-competition-data-from-2023-to-2028-2023-01-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -700,6 +700,40 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-01-12-quectels-embedded-iot-modules-enable-ai-capability.md",
+      "title": "Quectel's Embedded IoT Modules Enable AI Capability",
+      "excerpt": "Naveen Kumar demonstrated one of Quectel Wireless’s higher-end smart-module portfolios, which incorporates some of Qualcomm's high-performance chipsets, giving users extra runtime for AI-based capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mwrf.com/technologies/systems/video/21257905/electronic-design-quectels-embedded-iot-modules-enable-ai-capability",
+      "originalUrl": "https://www.mwrf.com/technologies/systems/video/21257905/electronic-design-quectels-embedded-iot-modules-enable-ai-capability",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-11T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microwaves & RF",
+        "domain": "mwrf.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1417,49 +1451,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-nvidia-reportedly-using-ai-optimized-drivers-to-improve-their-gpu-drivers.md",
-      "title": "NVIDIA Reportedly Using AI-Optimized Drivers To Improve Their GPU Drivers",
-      "excerpt": "NVIDIA is reportedly looking to include artificial intelligence (AI) in its new GPU (Graphics Processing Unit) drivers expected to release in the first",
-      "sourceUrl": null,
-      "webUrl": "https://www.techworm.net/2023/01/nvidia-ai-optimized-drivers-gpu-driver.html",
-      "originalUrl": "https://www.techworm.net/2023/01/nvidia-ai-optimized-drivers-gpu-driver.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techworm.net/wp-content/uploads/2023/01/NVIDIA.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T08:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techworm.net",
-        "domain": "techworm.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

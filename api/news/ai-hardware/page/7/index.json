@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-08-what-advantages-does-taiwan-have-in-the-era-of-ai-and-smart-vehicles-knerons-ceo-points-out-three.md",
+      "title": "What advantages does Taiwan have in the era of AI and smart vehicles? Kneron's CEO points out three",
+      "excerpt": "With an increasing demand for customized AI chips, such components cannot be produced in traditional supply chain models. Both edge and environmental computing also require AI chips with high ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/what-advantages-does-taiwan-have-in-the-era-of-ai-and-smart-vehicles-kneron-s-ceo-points-out-three-1031885482",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-advantages-does-taiwan-have-in-the-era-of-ai-and-smart-vehicles-kneron-s-ceo-points-out-three-1031885482",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1937823/image_5018046_24751601.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-08-nvidia-has-advanced-chip-for-china-that-meets-us-exports-rules.md",
       "title": "Nvidia Has Advanced Chip for China That Meets US Exports Rules",
       "excerpt": "The chip was developed after the US government told the chipmaker to restrict sales of a chip designed for AI applications.",
@@ -1351,40 +1403,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-edge-ai-hardware-market-worth-2716-million-units-by-2027-exclusive-report-by-marketsandmarkets.md",
-      "title": "Edge AI Hardware Market Worth $2,716 Million Units by 2027 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "Edge AI hardware market is projected to grow from 1,056 million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast period according to a new report by MarketsandMarkets™.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-edge-ai-hardware-market-worth-2716-million-units-/2022/10/24/9698227.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-edge-ai-hardware-market-worth-2716-million-units-/2022/10/24/9698227.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

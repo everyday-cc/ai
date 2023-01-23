@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T20:13:00Z
 originalUrl: "https://menafn.com/1105467745/UAE-Puts-Its-Best-Foot-Forward-To-Develop-World-Class-Robotics-Ecosystem"
 webUrl: "https://menafn.com/1105467745/UAE-Puts-Its-Best-Foot-Forward-To-Develop-World-Class-Robotics-Ecosystem"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: Mena FN

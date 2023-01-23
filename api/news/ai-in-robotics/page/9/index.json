@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-11-03-lego-is-discontinuing-its-mindstorms-buildable-robot-kits.md",
+      "title": "Lego Is Discontinuing Its Mindstorms Buildable Robot Kits",
+      "excerpt": "where the robots can be controlled and programmed, for another two years after that. Lego Mindstorms first debuted back in September of 1998, over 24 years ago, leveraging the company’s more ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177",
+      "originalUrl": "https://gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177/amp",
+      "publishedDateTime": "2022-11-02T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-louisvilles-amp-robotics-raises-91m-in-series-c-funding-round.md",
       "title": "Louisville’s AMP Robotics raises $91M in Series C funding round",
       "excerpt": "Louisville’s AMP Robotics Corp. has raised $91 million in a Series C equity funding round, with the company planning to scale its business while continuing international expansion.",
@@ -1314,59 +1357,6 @@
       "topics": [
         "AI",
         "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-hardware.md",
-      "title": "AI chip startup Axelera lands $27M in capital to commercialize its hardware",
-      "excerpt": "Axelera, a startup developing an AI chip for accelerated processing, has landed $27 million in fresh venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/",
-      "originalUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1060938604-1.jpg?resize=1200,742",
-          "width": 1200,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/",
-      "publishedDateTime": "2022-10-25T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
         "AI in Robotics"
       ]
     }

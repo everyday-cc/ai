@@ -2,58 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2022-09-19-artificial-intelligence-ai-in-manufacturing-market-is-predicted-to-see-substantial-increase-in-growth-and-demand-2028-intel-ibm-siemens.md",
-      "title": "Artificial Intelligence (AI) in Manufacturing Market Is Predicted To See Substantial Increase In Growth And Demand 2028 | Intel, IBM, Siemens",
-      "excerpt": "Market research based on the terms Artificial Intelligence (AI) in Manufacturing provides useful information, such as the study of effects on important aspects, alternatives, and constraints. Graphical analysis of emotion detection and recognition demand forecasts for predicted periods can demonstrate the financial needs of the global emotion detection and recognition industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-is-predicted-to-see-substantial-increase-in-growth-and-demand-2028-intel-ibm-siemens-2022-09-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-is-predicted-to-see-substantial-increase-in-growth-and-demand-2028-intel-ibm-siemens-2022-09-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-19-weride-launches-the-first-self-driving-robobus-test-ride-in-saudi-arabia-at-2022-global-ai-summit.md",
       "title": "WeRide Launches the First Self-driving Robobus Test Ride in Saudi Arabia at 2022 Global AI Summit",
       "excerpt": "WeRide launched the first driverless public Robotaxi service in the Middle East in Abu Dhabi, capital of the United Arab Emirates. The launch of the driverless robobus in Riyadh becomes another important milestone in WeRide's global footprint,",
@@ -1394,6 +1342,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-china-says-automakers-must-have-licences-for-mapping-data-in-smart-cars.md",
+      "title": "China says automakers must have licences for mapping data in smart cars",
+      "excerpt": "SHANGHAI/BEIJING: China has said that automakers must apply for licences to collect geographic data using sensors on their intelligent vehicles, highlighting Beijing's security concerns about the growing sophistication of smart cars' mapping capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carsifu.my/news/china-says-automakers-must-have-licences-for-mapping-data-in-smart-cars",
+      "originalUrl": "https://www.carsifu.my/news/china-says-automakers-must-have-licences-for-mapping-data-in-smart-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/09/pexels-pixabay-373543.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T00:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CarSifu",
+        "domain": "carsifu.my",
+        "images": null,
         "publishers": null,
         "authors": null
       },

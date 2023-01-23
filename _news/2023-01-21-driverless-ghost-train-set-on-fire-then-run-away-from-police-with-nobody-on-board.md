@@ -43,20 +43,6 @@ related:
         width: 600
         height: 343
         isCached: true
-  - title: "Is GM-Backed Driverless Car Really Road-Ready?"
-    excerpt: "Cruise first entered the market in September with operators and started driverless rides for \"friends and family of Cruisers\" in mid-December, according to Megan Prichard, the company's vice ..."
-    publishedDateTime: 2023-01-19T06:53:00Z
-    webUrl: "https://www.austinchronicle.com/news/2023-01-20/is-gm-backed-driverless-car-really-road-ready/"
-    type: article
-    provider:
-      name: The Austin Chronicle
-      domain: austinchronicle.com
-    quality: 39
-    images:
-      - url: "https://www.austinchronicle.com/imager/b/original/2996041/5435/pols_feature26.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "May Mobility Wants To Scale Up Driverless Vehicles"
     excerpt: "DETROIT — For more than a decade, Kathy Winter has been working to get autonomous vehicles on the road, first at auto supplier Delphi and then as general manager of Intel’s autonomous transportation unit. Now the 30-year industry veteran has been named ..."
     publishedDateTime: 2023-01-21T06:20:00Z

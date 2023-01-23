@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T17:53:00Z
 originalUrl: "https://www.foxnews.com/health/european-union-aggregate-cancer-imaging-data-artificial-intelligence-speed-early-diagnosis"
 webUrl: "https://www.foxnews.com/health/european-union-aggregate-cancer-imaging-data-artificial-intelligence-speed-early-diagnosis"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: Fox News

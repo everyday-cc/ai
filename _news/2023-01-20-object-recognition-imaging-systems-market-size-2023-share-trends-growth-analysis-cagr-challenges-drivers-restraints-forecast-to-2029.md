@@ -127,15 +127,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Call Center AI Market is Poised to Expand at a CAGR of 13.5% from 2022 to 2032 | Future Market Insights, Inc."
-    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
-    publishedDateTime: 2023-01-19T04:38:00Z
-    webUrl: "https://www.fmiblog.com/2023/01/19/call-center-ai-market-is-poised-to-expand-at-a-cagr-of-13-5-from-2022-to-2032-future-market-insights-inc/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "xWRuJhx7wXbGGP3oaL1Jt/afhBjk2b5Psij+j6pvqrbUblt4Mj0K0cxn+rFmLm2TglW4ppKVZ0RUqpFEge2O4uDfrfVDQU/ATecr7mNbpi0dAMcgzPvaL7UCROduQwhlQeZsSoiynLIfHlee8vlic0YhcLq7+6lXBHwiXOFyRb2gJHSIYkY5FbQwU3quGrNUbTUMtlHAy3/5OEqmdzWX1S2q1VL09A3RGpryJob54iFjxcQDWuvqGjmoh5fmO3Ye1ZHxG2PZECqQjvcIB+zfObgsdJwGdyFx9c9N5dBIuUTP96oGz4nkOH+RpRojSou7DXw1s2Lz+BY1Vi3tt10tM7iOjAcWtKdLWsmTD86E9a0=;9j6oJ2UvIAYbzWPzh3CZ0A=="
 ---

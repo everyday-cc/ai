@@ -10,7 +10,7 @@
       "originalUrl": "https://metro.co.uk/2023/01/20/germany-driverless-train-catches-fire-then-escapes-from-police-18141658/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -136,49 +136,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-artificial-intelligence-is-coming-for-human-creativity.md",
-      "title": "Artificial Intelligence Is Coming for Human Creativity",
-      "excerpt": "Second, the development of artificial intelligence poses a challenge to our claims to creative uniqueness. With the defeat of Garry Kasparov by Big Blue in 1997, many people lost interest in chess ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/Is%20AI%20coming%20for%20Creativity%2C%203%2C%20Joseph%20Ayerle.jpg?itok=clf3nLZg",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp",
-      "publishedDateTime": "2023-01-18T23:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1355,6 +1312,58 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-baidu-create-2022-outlines-new-strategy-for-ai-development-based-on-feedback-driven-innovation.md",
+      "title": "Baidu Create 2022 Outlines New Strategy for AI Development Based on Feedback-Driven Innovation",
+      "excerpt": "Major technology innovations powered by deep learning algorithms such as autonomous driving and intelligent ... further enrich Baidu AI Base, China's first full-stack self-researched AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-create-2022-outlines-new-strategy-for-ai-development-based-on-feedback-driven-innovation-1032009402",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-create-2022-outlines-new-strategy-for-ai-development-based-on-feedback-driven-innovation-1032009402",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1980663/image_5009157_44357444.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

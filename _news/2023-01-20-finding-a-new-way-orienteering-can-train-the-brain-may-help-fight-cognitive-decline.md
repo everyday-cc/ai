@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-20T00:00:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2023/01/230120154924.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/01/230120154924.htm"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Science Daily

@@ -2,6 +2,289 @@
   "page": 109,
   "value": [
     {
+      "path": "_news/2022-10-14-heres-why-machine-learning-benefits-biz-developers.md",
+      "title": "Here's Why Machine Learning Benefits Biz Developers",
+      "excerpt": "In a day and age where content creation is a way to drive inbound traffic and help nurture the customer journey, leveraging machine learning helps automate this process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63481c09f7e15d5caade06a9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/amp/",
+      "publishedDateTime": "2022-10-13T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-tatio-ai-based-work-simulations-help-diverse-job-seekers-showcase-their-skills.md",
+      "title": "TaTio AI-based work simulations help diverse job seekers showcase their skills",
+      "excerpt": "TaTio, an Israeli startup, helps companies source job candidates from historically underrepresented groups using AI-based work simulations.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/13/tatio-uses-ai-based-testing-to-get-diverse-candidates-past-the-resume-roadblock/",
+      "originalUrl": "https://techcrunch.com/2022/10/13/tatio-uses-ai-based-testing-to-get-diverse-candidates-past-the-resume-roadblock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-526660996.jpg",
+          "width": 1024,
+          "height": 833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/13/tatio-uses-ai-based-testing-to-get-diverse-candidates-past-the-resume-roadblock/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/13/tatio-uses-ai-based-testing-to-get-diverse-candidates-past-the-resume-roadblock/amp/",
+      "publishedDateTime": "2022-10-13T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-when-the-ai-goes-haywire-bring-on-the-humans.md",
+      "title": "When the AI goes haywire, bring on the humans",
+      "excerpt": "Surveys found that most organizations are not regularly monitoring AI-based programs after launching them. But human oversight can be crucial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/ai-goes-haywire-bring-humans-rcna52079",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/ai-goes-haywire-bring-humans-rcna52079",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-10/221013-grocery-store-line-2020-ew-1127a-f8562f.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna52079",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna52079",
+      "publishedDateTime": "2022-10-13T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-a-sort-of-driverless-cars-journey-through-san-francisco.md",
+      "title": "A (sort of) driverless car’s journey through San Francisco",
+      "excerpt": "A Waymo Jaguar SUV outside Mission High School. Photo by Yujie Zhou. Subscribe to our daily newsletter and have the latest stories from Mission Local delivered directly to your inbox. The electric car that emerged from the fog on Monday morning might have ...",
+      "sourceUrl": null,
+      "webUrl": "https://missionlocal.org/2022/10/waymo-driverless-car-san-francisco-cruise/",
+      "originalUrl": "https://missionlocal.org/2022/10/waymo-driverless-car-san-francisco-cruise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://missionloca.s3.amazonaws.com/mission/wp-content/uploads/2022/10/selfDrivingCar_banner.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mission Local",
+        "domain": "missionlocal.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-the-role-of-recognition-in-supporting-offline-remote-and-hybrid-employees.md",
+      "title": "The Role Of Recognition In Supporting Offline, Remote And Hybrid Employees",
+      "excerpt": "Knowing how to properly recognize employees outside of a traditional workplace setting is vital for ensuring their job satisfaction and productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/13/the-role-of-recognition-in-supporting-offline-remote-and-hybrid-employees/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/13/the-role-of-recognition-in-supporting-offline-remote-and-hybrid-employees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/1141999796/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/13/the-role-of-recognition-in-supporting-offline-remote-and-hybrid-employees/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/10/13/the-role-of-recognition-in-supporting-offline-remote-and-hybrid-employees/amp/",
+      "publishedDateTime": "2022-10-13T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-a-remote-controlled-car-with-a-flag-on-a-pole-can-herd-cattle.md",
+      "title": "A remote-controlled car with a flag on a pole can herd cattle",
+      "excerpt": "A small remote-controlled vehicle proved effective at keeping cows away from overgrazed areas, and the animals showed few signs of fear or aggression",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2342409-a-remote-controlled-car-with-a-flag-on-a-pole-can-herd-cattle/",
+      "originalUrl": "https://www.newscientist.com/article/2342409-a-remote-controlled-car-with-a-flag-on-a-pole-can-herd-cattle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2022/10/13133633/SEI_129097097.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-why-vodafone-needed-an-ai-booster-to-scale-data-science.md",
       "title": "Why Vodafone needed an AI Booster to scale data science",
       "excerpt": "Scaling thousands of machine learning workloads led to a host of challenges that Vodafone is now solving with the help of Google Cloud.",
@@ -927,292 +1210,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-money-laundering.md",
-      "title": "Resistant AI and ComplyAdvantage Launch AI Transaction Monitoring Solution To Combat Fraud and Money Laundering",
-      "excerpt": "Founded in 2019, Resistant AI uses AI and machine learning to provide identity forensic solutions that protect automated financial services from fraud and manipulation, including customer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.darkreading.com/application-security/resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-money-laundering",
-      "originalUrl": "https://www.darkreading.com/application-security/resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-money-laundering",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Reading",
-        "domain": "darkreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-smart-plastic-material-is-step-forward-toward-soft-flexible-robotics-and-electronics.md",
-      "title": "'Smart plastic' material is step forward toward soft, flexible robotics and electronics",
-      "excerpt": "\"The ability to control crystallization ... potentially transformative for wearable electronics or actuators in soft robotics.\" Scientists have long sought to mimic the properties of living ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/10/221013145622.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/10/221013145622.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-what-happened-to-teslas-stock-price-since-the-last-ai-day.md",
-      "title": "What Happened To Tesla’s Stock Price Since The Last AI Day?",
-      "excerpt": "What happened with Tesla’s stock price after AI Day? We look at the recent Tesla news that has come out in the 12 days since the event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/10/12/what-happened-to-teslas-stock-price-since-the-last-ai-day/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/12/what-happened-to-teslas-stock-price-since-the-last-ai-day/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634732031f70464cae6ce3c3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 825,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/12/what-happened-to-teslas-stock-price-since-the-last-ai-day/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/12/what-happened-to-teslas-stock-price-since-the-last-ai-day/amp/",
-      "publishedDateTime": "2022-10-12T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-thanks-to-ai-you-can-now-create-automations-in-power-automate-by-simply-describing-them.md",
-      "title": "Thanks to AI, you can now create automations in Power Automate by simply describing them",
-      "excerpt": "Microsoft debuted a new feature that leverages OpenAI's Codex AI system to streamline workflow creation in Power Automate.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/12/2420274/",
-      "originalUrl": "https://techcrunch.com/2022/10/12/2420274/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1354846583.jpeg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/12/2420274/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/12/2420274/amp/",
-      "publishedDateTime": "2022-10-12T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next.md",
-      "title": "Google focuses on data innovations for enterprise users at Cloud Next",
-      "excerpt": "At this year’s Google Cloud Next conference, Google has treated enterprises with some notable product developments, starting with the launch of new AI agents and software delivery shield to new cloud regions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next/amp/",
-      "publishedDateTime": "2022-10-12T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-microsofts-teams-premium-service-uses-ai-to-recap-your-meetings.md",
-      "title": "Microsoft's Teams Premium service uses AI to recap your meetings",
-      "excerpt": "Premium also uses AI to translate captions in real time for 40 spoken languages, so you won't always need to wait for after-the-fact translations to understand what happened. Meeting guides automatically set up the \"right\" options for a discussion,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/microsoft-teams-premium-365-160053805.html",
-      "originalUrl": "https://www.engadget.com/microsoft-teams-premium-365-160053805.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/ee3124b0-499b-11ed-b9dd-b770a62b524f",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

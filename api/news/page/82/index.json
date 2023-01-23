@@ -2,6 +2,283 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-11-08-no-you-cannot-buy-a-self-driving-car-today.md",
+      "title": "No, You Cannot Buy a Self-Driving Car Today",
+      "excerpt": "But unless you have another person drive for you, take public transit, or live in one of the few specific areas where prototype self-driving taxis are in service, you’ll have to drive (or walk ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.consumerreports.org/cars/autonomous-driving/no-you-cannot-buy-a-self-driving-car-today-a4355089516/",
+      "originalUrl": "https://www.consumerreports.org/cars/autonomous-driving/no-you-cannot-buy-a-self-driving-car-today-a4355089516/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1667572170/prod/content/dam/CRO-Images-2022/Cars/11November/CR-Cars-InlineHero-Chevrolet-Bolt-EUV-Super-Cruise-11-22",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Consumer Reports",
+        "domain": "consumerreports.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-new-go-playing-trick-defeats-world-class-go-aibut-loses-to-human-amateurs.md",
+      "title": "New Go-playing trick defeats world-class Go AI—but loses to human amateurs",
+      "excerpt": "By playing unexpected moves outside of KataGo's training set, a much weaker adversarial Go-playing program (that amateur humans can defeat) can trick KataGo into losing. To wrap our minds around this achievement and its implications,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/go_board_hero_1200-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/amp/",
+      "publishedDateTime": "2022-11-07T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-software-used-on-suspected-khashoggi-killers-may-have-identified-missing-british-aristocrat.md",
+      "title": "Software used on suspected Khashoggi killers may have identified missing British aristocrat",
+      "excerpt": "A world-renowned face recognition expert believes his acclaimed software has identified the long-lost Lord Lucan as an 87-year-old man living as a pensioner in Brisbane, Australia, he told the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/news/crime/facial-recognition-missing-aristocrat",
+      "originalUrl": "https://www.washingtonexaminer.com/news/crime/facial-recognition-missing-aristocrat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T10:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-07-cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler.md",
+      "title": "Cost-effective data preparation for machine learning using SageMaker Data Wrangler",
+      "excerpt": "Amazon SageMaker Data Wrangler is a capability of Amazon SageMaker that makes it faster for data scientists and engineers to prepare high-quality features for machine learning (ML) applications via a visual interface. Data Wrangler reduces the time it takes to aggregate and prepare data for ML from weeks",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/07/cost-effective-data-preparation.jpg",
+          "width": 1553,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T10:16:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-eight-ways-to-reduce-ai-burnout.md",
+      "title": "Eight ways to reduce AI burnout",
+      "excerpt": "Responsible and ethical artificial intelligence has become the hot-button issue of our times, especially as AI seeps into every aspect of decision making and automation. 35% of companies now report using AI in their businesses and 42% are exploring the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/eight-ways-to-reduce-ai-burnout/",
+      "originalUrl": "https://www.zdnet.com/article/eight-ways-to-reduce-ai-burnout/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/6c40aa780c005f0c8fd592a610e85f8e9f3081d1/2021/07/16/17b162b7-11cd-4a0a-9c87-13fb721e5e72/artificial-intelligence-shutterstock-1218220324.jpg?auto=webp&width=768",
+          "width": 768,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/eight-ways-to-reduce-ai-burnout/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eight-ways-to-reduce-ai-burnout/",
+      "publishedDateTime": "2022-11-07T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-pittsburgh-area-tech-companies-look-to-fill-open-roles-following-closure-of-local-robotics-firms.md",
+      "title": "Pittsburgh-area tech companies look to fill open roles following closure of local robotics firms",
+      "excerpt": "The recent closures of Strip District-based autonomous vehicle startup Argo AI LLC and South Side-based vertical farming startup Fifth Season Inc. have resulted in the termination of an estimated 800 jobs in the region,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wpxi.com/news/business/pittsburgh-area-tech-companies-look-fill-open-roles-following-closure-local-robotics-firms/HP5GTJ5XDFCH3KSG6IGQISA7PM/",
+      "originalUrl": "https://www.wpxi.com/news/business/pittsburgh-area-tech-companies-look-fill-open-roles-following-closure-local-robotics-firms/HP5GTJ5XDFCH3KSG6IGQISA7PM/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/H51_Y_684lEtaFXUe48V1-tVinE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/IOE7T6U4MNGC3AAVT64SJKWN5U.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wpxi.com/news/business/pittsburgh-area-tech-companies-look-fill-open-roles-following-closure-local-robotics-firms/HP5GTJ5XDFCH3KSG6IGQISA7PM/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/business/pittsburgh-area-tech-companies-look-fill-open-roles-following-closure-local-robotics-firms/HP5GTJ5XDFCH3KSG6IGQISA7PM/?outputType=amp",
+      "publishedDateTime": "2022-11-07T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPXI",
+        "domain": "wpxi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-08-lacework-2022-top-startups-for-the-enterprise.md",
       "title": "Lacework: 2022 Top Startups for the Enterprise",
       "excerpt": "machine learning, software-defined security Lacework: Cybersecurity Lacework is a cybersecurity company that relies on a patented form of machine learning built specifically within the cloud to protect an organization from the inside out. This approach ...",
@@ -859,292 +1136,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-the-biggest-opportunity-in-generative-ai-is-language-not-images.md",
-      "title": "The Biggest Opportunity In Generative AI Is Language, Not Images",
-      "excerpt": "AI-powered copywriting has seen stunning revenue growth over ... and will prefer to work with a neutral startup that deploys its solution on-premise. This will be particularly true in highly regulated industries like financial services and healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportunity-in-generative-ai-is-language-not-images/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportunity-in-generative-ai-is-language-not-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63672833959962e11fa38215/0x0.jpg?format=jpg&crop=1024,576,x0,y199,safe&width=1200",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportunity-in-generative-ai-is-language-not-images/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/11/06/the-biggest-opportunity-in-generative-ai-is-language-not-images/amp/",
-      "publishedDateTime": "2022-11-06T17:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-artificial-intelligence-deciphers-detector-clouds-to-accelerate-materials-research.md",
-      "title": "Artificial intelligence deciphers detector 'clouds' to accelerate materials research",
-      "excerpt": "\"This new algorithm will really help.\" The speed boost offered by artificial intelligence promises to also alter the experimental process itself. Instead of making decisions after data collection ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221107135815.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221107135815.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-is-it-just-hype-how-investors-can-vet-a-companys-ai-claims.md",
-      "title": "Is it just hype? How investors can vet a company’s AI claims",
-      "excerpt": "There are basic training processes and advanced techniques, including automated machine learning (AutoML), hyperparameter tuning, active learning and weak supervision. A company’s ability to use these advanced techniques leads to reduced costs and ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/is-it-just-hype-how-investors-can-vet-a-companys-ai-claims/",
-      "originalUrl": "https://venturebeat.com/ai/is-it-just-hype-how-investors-can-vet-a-companys-ai-claims/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1336522614-e1649786490326.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/is-it-just-hype-how-investors-can-vet-a-companys-ai-claims/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/is-it-just-hype-how-investors-can-vet-a-companys-ai-claims/amp/",
-      "publishedDateTime": "2022-11-06T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-06-recognition-of-the-rights-of-nature-a-must.md",
-      "title": "Recognition of the Rights of Nature a Must",
-      "excerpt": "The Tightens Bond to the Growing Number of Countries Pushing for the Recognition of the Rights of Nature “Typhoons Paeng and Karding are cries",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressenza.com/2022/11/recognition-of-the-rights-of-nature-a-must/",
-      "originalUrl": "https://www.pressenza.com/2022/11/recognition-of-the-rights-of-nature-a-must/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn77.pressenza.com/wp-content/uploads/2022/11/PSWS_of_Typhoon_Noru_Kardingre.jpg",
-          "width": 1920,
-          "height": 1574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-06T02:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PRESSENZA",
-        "domain": "pressenza.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-06-which-doctor-should-i-see-for-dementia-and-cognitive-decline.md",
-      "title": "Which Doctor Should I See for Dementia and Cognitive Decline?",
-      "excerpt": "But, especially in older adults, they could also be early signs of cognitive decline or dementia ... to ensure safety or adding caregiving services. “If you’re considering alternative ...",
-      "sourceUrl": null,
-      "webUrl": "https://health.usnews.com/health-care/patient-advice/which-doctor-should-i-see-for-dementia-and-cognitive-decline",
-      "originalUrl": "https://health.usnews.com/health-care/patient-advice/which-doctor-should-i-see-for-dementia-and-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-05T17:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-06-driving-the-2023-bmw-7-series-exceptional-luxury-and-creeping-featuritis.md",
-      "title": "Driving The 2023 BMW 7 Series - Exceptional Luxury And Creeping Featuritis",
-      "excerpt": "BMW 7 series is now available with a choice of 6 or 8 cylinder mild hybrid drivetrains or as an all electric i7 with up to 318 miles of range. It drives better than its 3-ton mass would suggest, but p",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2022/11/05/driving-the-2023-bmw-7-seriesexceptional-luxury-and-creeping-featuritis/",
-      "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2022/11/05/driving-the-2023-bmw-7-seriesexceptional-luxury-and-creeping-featuritis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6366c597c7ce31316a13b51b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2022/11/05/driving-the-2023-bmw-7-seriesexceptional-luxury-and-creeping-featuritis/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/11/05/driving-the-2023-bmw-7-seriesexceptional-luxury-and-creeping-featuritis/amp/",
-      "publishedDateTime": "2022-11-05T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-sales-cagr-and-competition-data-from-2023-to-2028-2023-01-23"
 type: article
 quality: 103
-heat: 183
+heat: 173
 published: true
 
 provider:
@@ -129,15 +129,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Call Center AI Market is Poised to Expand at a CAGR of 13.5% from 2022 to 2032 | Future Market Insights, Inc."
-    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
-    publishedDateTime: 2023-01-19T04:38:00Z
-    webUrl: "https://www.fmiblog.com/2023/01/19/call-center-ai-market-is-poised-to-expand-at-a-cagr-of-13-5-from-2022-to-2032-future-market-insights-inc/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "RFZHloKqcGtgpb3hCM6Qm546pupp4K1Ip7siCZpcfCNvfNbWUgjE8Cff3MmeVJVMrfhgEAFPBwpYKzXR7NIgfAIVsBD0zbAEk8WK4BpQNMX7sBXkYDWSi6rEHjg9v2ao9wv0IGjsqca+2v89u/fAcHV2oZrDJGLTNCtjHN7KrDEo6Mmtav0+5NotwwKKODfCHvjKTgO0+T5zkiZ3vpnt1sKKmnCYixCErGqSVcvQSz/OM3qViubJ2xC6IntzsVNhtIOtWsSuhEBvD68rm8yuntHfv2b8xQSzUhjd1BOaRL6fj5YrqOnT+XjZ2JWmJPmrjPoai7RxBlUpPjKaxdp8gfkXqJesbiua2OomoB64uVc=;+8jYA9El70OOVTeNRrQgFw=="
 ---
