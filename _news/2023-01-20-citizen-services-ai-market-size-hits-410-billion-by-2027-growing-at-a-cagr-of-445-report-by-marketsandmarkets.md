@@ -19,20 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence In Robotics Market Size Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts 2023-2033"
-    excerpt: "The Artificial Intelligence in Robotics market is expected to register a CAGR of 28% during the forecast period. Artificial intelligence (AI) and robotics prove to be a powerful combination for ..."
-    publishedDateTime: 2023-01-18T10:10:00Z
-    webUrl: "https://menafn.com/1105444556/Artificial-Intelligence-In-Robotics-Market-Size-Opportunities-Size-Share-Emerging-Trends-Technological-Innovation-And-Forecasts-2023-2033"
+  - title: "Robot Grippers Market 2023 is Anticipated to Register a High CAGR of During the Forecast Period 2023-2027"
+    excerpt: "The global Robot Grippers market size was valued at USD 946.42 million in 2021 and is expected to expand at a CAGR of 14.24% during the forecast period, reaching USD 2103.99 million by 2027.” | Ask For Sample Report Moreover,"
+    publishedDateTime: 2023-01-20T04:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robot-grippers-market-2023-is-anticipated-to-register-a-high-cagr-of-during-the-forecast-period-2023-2027-2023-01-20"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?411393"
-        width: 376
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Call Center AI Market is to grow at 13.5% During the Forecast Period 2022 to 2032"
+    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
+    publishedDateTime: 2023-01-19T14:59:00Z
+    webUrl: "https://www.fmiblog.com/2023/01/19/call-center-ai-market-is-to-grow-at-13-5-during-the-forecast-period-2022-to-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 14
 
 secured: "7EZriGtJCPQ/2dtE+LeISE5jqQO2IR1Q07BRi3GtEjpuvMYeRYjZyhkwht5KqWoaAyUDbewXHL72nwWu7onhaKGOhCI5WS4/Ssz67ERtxdEc244OFqzC1CLpQw0A5gqJqxLR97fuEbgLulfqCQ8+iLa5Bt0FTr7HsCDpTpePPJQD8pLyteO7ACRWYj8xN2L80pCLy5tE3TPTMmgMdsD2Rhs/pzYQnojBdPid7wzizGNA+dkWmc+SkbLJZdPQ93tC6G2IwWG6gwB8zjRlBzUd1YMkBUEhlhNdGZiSIhHRAkFvOQRoIfhrNeK3pv/8VGOPqsTQGAz4YospgdXaZDVJM+ak50p8ZpkkMkNzSUJ/nlA=;UZJ8yYKUXsZq91me/DXqzA=="
 ---

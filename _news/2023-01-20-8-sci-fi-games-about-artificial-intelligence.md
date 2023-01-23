@@ -24,6 +24,22 @@ images:
     height: 1000
     isCached: true
 
+related:
+  - title: "An AI-Drawn Manga Is About to Make Its Debut"
+    excerpt: "With the new year upon us, it seems the budding controversy regarding AI art is only getting bigger. From harsh ethical debates to ownership issues, AI-generated art has prompted all sorts of ..."
+    publishedDateTime: 2023-01-19T22:44:00Z
+    webUrl: "https://comicbook.com/anime/news/manga-ai-art-controversy/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 39
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/2023/01/19/2ee8976d-0873-4d65-9217-6da6cb2c561f/ai-manga-art.png?width=1200"
+        width: 888
+        height: 542
+        isCached: true
+
 secured: "LhHF/QQYSM4JsxCJ4NCEoBtNOGajxfxZR+kU3STNchhmmDNDdrqc95i/YVVaFGKWtlKS8CXTRrNESRQcnDcbFX6QMLFjKAy5RCGQ7tBCepc695J6vHFn0N9FXrqgs/nz8WZFGcXb9zvguParLWMvs1box2xDCF5IBxNXOvIwhk3AKG72DKMI7ZxrRFx5VlHXZHIgyhpDqiZzOmEPBCkL5oweo2XAYMSEskqBZn2QH7e7BEKuneWvUc65cogxmzSqxWbGg1G/Xk3Litn0UNRIvr2DHJMK+O7MLKgeTYLryIg7EYJOrCX2WbN6iabMYHH9+v+cNH71P6Pb8F8XW/353/mHLuCAB7KsAIlCK84f9Vc=;2nOTc/Oz66AJy4O6QBwmQg=="
 ---
 

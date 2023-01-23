@@ -40,17 +40,6 @@ related:
         width: 708
         height: 419
         isCached: true
-  - title: "Scientists use locust antennae to give robot a sense of smell"
-    excerpt: "Scientists at Tel Aviv University in Isreal have created a robot that can recognise smells with 10,000 times more sensitivity than specialised devices, Neuroscience News reports. The robot features a biological sensor comprising the antennae from a desert locust,"
-    publishedDateTime: 2023-01-18T08:21:00Z
-    webUrl: "https://mybroadband.co.za/news/science/476797-scientists-use-locust-antennae-to-give-robot-a-sense-of-smell.html"
-    ampWebUrl: "https://mybroadband.co.za/news/science/476797-scientists-use-locust-antennae-to-give-robot-a-sense-of-smell.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/science/476797-scientists-use-locust-antennae-to-give-robot-a-sense-of-smell.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
 
 secured: "0sFBqaYZLKUHwMFk9NSfC7DAIldlWTtHO93awyGQYJIB4jqOMcOM+SZFv7jwvbT37qmNyjTcspYwJx8/3F4RpN5zF4NgAtylF1MapMe1JGsLq9YwmUIG1w+xxVIxgFzUbMB8Thkvx+kIgMb7ycSUFSuMKGrtflskbHu2LK35xhOFLsCrFbekhM/wvuOAHnwf1IihygWaUY8DFEWNudb8PXiZkb/824UrXzU+ObSxsliHdoCMe7etaAZQb4z57k9bZ8PI4UNAslPcx/QouxjJleIJlWaN0TYAGDrm/ZppOUmAYbiiAAmuHcx/wk4xnLsTPOqLp2G26RlC2SW0JB0iWG2NUqO9CI4ubYtnoxW8UfsVCQ08TVkOqLuEfloiC8fUuYs51k4+eLAaY3AQe2EsO4+VLqFDeKZYnjdhfcjfGtXee13b2fHeKSB2OK5qdcHRm+KxHplPqnV7T2zKdkfVrQYjS7PtAwF/lrqZc34hu9/pE/+lCiEDgseTAQdMG34OCg/GQJx911TfO5rR2FVrdA==;u7Cn/aQGNhn6VyAbAFyMcA=="
 ---

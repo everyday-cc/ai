@@ -68,15 +68,6 @@ related:
         width: 728
         height: 380
         isCached: true
-  - title: "Microsoft announces general availability of Azure OpenAI Service"
-    excerpt: "Large language models are quickly becoming an essential platform for people to innovate, apply AI to solve big problems, and imagine what’s possible. By Eric Boyd, corporate vice-president: AI platform at Microsoft Today,"
-    publishedDateTime: 2023-01-18T08:48:00Z
-    webUrl: "https://it-online.co.za/2023/01/18/microsoft-announces-general-availability-of-azure-openai-service/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 49
   - title: "Cross-site forgery bug would facilitate remote code execution in Microsoft Azure services"
     excerpt: "The bug, reported to Microsoft on Oct. 26 and remediated Dec. 6, is the result of manipulating a series of misconfigurations and security bypasses in Kudu, a back-end source control management (SCM) tool that helps manage and modify web applications and is used by major Microsoft cloud services like Azure Functions,"
     publishedDateTime: 2023-01-19T13:00:00Z

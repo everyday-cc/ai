@@ -47,6 +47,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Robots Market Research Report 2022 by Product Type, Application, Region And Global Forecast to 2030"
+    excerpt: "Jan 19, 2023 (Heraldkeepers) -- The Artificial Intelligence (AI) Robots Market is segmented on the Basis of Offering Type, Robot Type, Application Type and Regional Analysis. By Offering Type this ..."
+    publishedDateTime: 2023-01-19T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-report-2022-by-product-type-application-region-and-global-forecast-to-2030-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Agriculture Market 2023 (New Report): Size is set to Grow at an Outstanding Pace in the Upcoming Years till 2029"
+    excerpt: "AI in Agriculture Market Share report provides overview of market ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Solar EVA Sheets Market Share, Size Global Growth Analysis, Gross Margin ..."
+    publishedDateTime: 2023-01-19T10:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-agriculture-market-2023-new-report-size-is-set-to-grow-at-an-outstanding-pace-in-the-upcoming-years-till-2029-2023-01-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech Recognition Software Market 2023 (New Report): Size is set to Grow at an Outstanding Pace in the Upcoming Years till 2029"
     excerpt: "Global Speech Recognition Software Market Research Report 2023 is spread across 120 pages and provides Size, Share, Growth, and Forecast with exclusive vital statistics, data, information, trends, and competitive landscape details in this niche sector."
     publishedDateTime: 2023-01-19T07:36:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/calendar-event/seattle-fintech-meetup-mea
 webUrl: "https://www.geekwire.com/calendar-event/seattle-fintech-meetup-measure-what-matters-dei-in-fintech/"
 type: article
 quality: 54
-heat: 78
+heat: 74
 published: true
 
 provider:

@@ -120,20 +120,20 @@ related:
         height: 276
         isCached: true
   - title: "Adani is hooked on ChatGPT, says race for AI to get complex as chip war"
-    excerpt: "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amounts of information to generate natural-sounding text on virtually anything - from crafting jokes to writing ad copy,"
-    publishedDateTime: 2023-01-20T11:35:00Z
-    webUrl: "https://www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war"
-    ampWebUrl: "https://www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war?amp"
+    excerpt: "Stating that generative AI will have massive ramifications, he said pioneering of chip design and large-scale production put the US ahead of the rest of the world and pave way for precision and ..."
+    publishedDateTime: 2023-01-20T14:29:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war/97178683"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war/97178683"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war/97178683"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
     quality: 74
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/30_08_2022_02_53_58_2717576.jpg?width=1280"
-        width: 1280
-        height: 960
+      - url: "https://etimg.etb2bimg.com/thumb/msid-97178683,imgsize-34342,width-1200,height-628,overlay-ettelecom/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Gautam Adani is hooked on ChatGPT, says race for AI to get complex as chip war"
     excerpt: "Gautam Adani, the CEO of Adani Group, notes that advancements in AI, specifically generative AI, were a major topic of discussion at the World Economic Forum, mentioning that the recent release of ChatGPT is a \"transformational moment in the democratization of AI\"."
@@ -447,6 +447,20 @@ related:
       - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/minerva%20academic%20papers.jpg"
         width: 1000
         height: 562
+        isCached: true
+  - title: "ChatGPT - The AI that’s got everyone talking"
+    excerpt: "ChatGPT is an AI chatbot that’s exploded in popularity since its launch in November 2022. From providing recipes to writing essays and solving equations – it has endless possibilities. But some worry it could eliminate writing and creative industries,"
+    publishedDateTime: 2023-01-20T18:17:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p0dxrnyv"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0dxsk9z.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Adani is hooked on ChatGPT, says the race for AI to get as complex as chip war"
     excerpt: "Adani, whose conglomerate has in recent years diversified from mines, ports and power plants into airports, data centres and defence, penned musing from his visit to Davos to attend the World Economic Forum meeting."

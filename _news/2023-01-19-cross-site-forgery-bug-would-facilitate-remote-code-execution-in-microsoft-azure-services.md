@@ -61,15 +61,6 @@ related:
         width: 728
         height: 380
         isCached: true
-  - title: "Microsoft announces general availability of Azure OpenAI Service"
-    excerpt: "Large language models are quickly becoming an essential platform for people to innovate, apply AI to solve big problems, and imagine what’s possible. By Eric Boyd, corporate vice-president: AI platform at Microsoft Today,"
-    publishedDateTime: 2023-01-18T08:48:00Z
-    webUrl: "https://it-online.co.za/2023/01/18/microsoft-announces-general-availability-of-azure-openai-service/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 49
   - title: "OpenAI Co-Founder Sam Altman Doesn't See Artificial Intelligence Ending Google, Discusses Microsoft Partnership And More"
     excerpt: "OpenAI co-founder Sam Altman shares thoughts on what could be ahead for artificial intelligence. One of the hottest topics of 2023 is likely to be artificial intelligence and the company OpenAI ..."
     publishedDateTime: 2023-01-20T16:03:00Z

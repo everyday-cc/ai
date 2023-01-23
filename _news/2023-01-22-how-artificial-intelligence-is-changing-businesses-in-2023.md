@@ -42,34 +42,6 @@ related:
         width: 900
         height: 629
         isCached: true
-  - title: "The Top Trends in Artificial Intelligence in 2023"
-    excerpt: "Artificial intelligence (AI) technologies have become dramatically more sophisticated in the 70 years since scientist Arthur Samuel developed the first program that could learn on its own — a checkers-playing game that competed against humans."
-    publishedDateTime: 2023-01-18T16:13:00Z
-    webUrl: "https://www.mddionline.com/digital-health/top-trends-artificial-intelligence-2023"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 41
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_2023-1-18-110145.jpg"
-        width: 770
-        height: 400
-        isCached: true
-  - title: "Top 7 AI trends to watch for in 2023"
-    excerpt: "The leaps AI made last year are expected to boost digital transformation while disrupting various sectors such as cybersecurity and autotech."
-    publishedDateTime: 2023-01-19T15:24:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/ai-predictions-tech-trends-2023"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/01/AdobeStock_358292329.jpeg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "MYCMACZw34ezBjs6/qkavaeAJ4aMuTUVOZUgMZrnT2VayfyP8r1LqR2JacqEE2/fM4DBorgx8JcJNePFwt71oNhMvT7yN6mG8wrFcC2rc5xT32Ey3eLwhE5PO2pUP5VrrqcBnXb+QpNQ4OlxhMwcuxYFgxzTH8pXtmNz0V3kC11u5X22/aWBfjjxZuhTn0SOEZNje3cjuPaLzdB9uJjQN+DbEVTJhu0FdwRz3gen+pBS9TTwUjSXF/2ubPqVWhJZZPUS0avASIrygpsAYY/19Hc5TK19k2IsST3xINuL9kixzz5B3m/6t8N45wit1VOTayjxNJIEJODhU6Rt4B0trxtxFj7Oa1DJ3+WiJSzaOp9aukDxl/DQvCkqeXUDHYZ3qL72spJBwnpzBzltxjep8v6n2YvwTvqkb0zJIXkePmjjtIMXqKFD7Y0PUt86RnFYBLJnuLjJWowJOPRSPb/29DMrt3NILF8+FdIUi0ilm+Hsj+8AyjKpC592QbS3emt/kuqjEmirCWl75XYd8qS7qw==;NHek5IpkRxoiZto9zK3FtQ=="
 ---

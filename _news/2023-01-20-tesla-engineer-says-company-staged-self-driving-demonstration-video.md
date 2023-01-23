@@ -175,20 +175,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Tesla’s 2016 video promoting self-driving technology ‘staged’ company’s engineer claims"
-    excerpt: "Tesla’s 2016 video promoting the company’s self-driving technology was staged to show features that its systems did not have, a senior engineer has claimed. The video, now archived on Tesla ..."
-    publishedDateTime: 2023-01-18T07:02:00Z
-    webUrl: "https://www.independent.co.uk/tech/tesla-self-driving-video-staged-b2264159.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 46
-    images:
-      - url: "https://static.independent.co.uk/2022/12/31/08/SEI138709060.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 883
-        isCached: true
   - title: "Tesla engineer testified that promotional self-driving video was staged"
     excerpt: "(Ethan Miller/Getty Images) A 2016 video that Tesla used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior ..."
     publishedDateTime: 2023-01-18T12:14:00Z
@@ -240,20 +226,6 @@ related:
       name: Transport Topics
       domain: ttnews.com
     quality: 34
-  - title: "Tesla Engineer Tells US Court That the Firm Staged 2016 Video Promoting Self-Driving Capabilities"
-    excerpt: "The video was released in October 2016 and promoted on Twitter by Chief Executive Elon Musk as evidence that “Tesla drives itself.”"
-    publishedDateTime: 2023-01-18T07:58:00Z
-    webUrl: "https://www.gadgets360.com/transportation/news/tesla-engineer-reveals-self-driving-2016-promotional-video-staged-elon-musk-shareholder-trial-3702330"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 26
-    images:
-      - url: "https://i.gadgets360cdn.com/large/tesla_reuters_1653725379866.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Elon Musk oversaw video exaggerating Tesla’s self-driving capabilities"
     excerpt: "The company’s CEO wrote to Tesla’s Autopilot team after 2 a.m. California time in October 2016 to emphasize the importance of a demonstration drive to promote the system"
     publishedDateTime: 2023-01-20T14:13:00Z

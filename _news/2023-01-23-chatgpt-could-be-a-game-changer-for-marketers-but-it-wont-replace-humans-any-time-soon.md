@@ -41,15 +41,6 @@ related:
         width: 1345
         height: 900
         isCached: true
-  - title: "ChatGPT Sounds Exactly Like Us. How Is That a Good Thing?"
-    excerpt: "For 70 years, programmers have tried to make computers more like people. Now that they’ve succeeded, we still don’t have the secret to human consciousness."
-    publishedDateTime: 2023-01-18T07:44:00Z
-    webUrl: "https://www.washingtonpost.com/business/chatgpt-sounds-exactly-like-us-how-is-that-a-good-thing/2023/01/18/6aedf446-9736-11ed-a173-61e055ec24ef_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 4
 
 secured: "3kDdre2lIvMi7na3DXNL4aMQn0rwzchA5Rqty26aKd1kfPiyNWOismo1rJMSf/+eNjSZalzRfCV+msnhRZRhE5gRSnyXDepFHvmzo54RtJZ/F1+7Q2rRhFRoJfF6Lb6rPG4lVECOxdFRO3JVTxGCMA/ZWuebhrcKhF7SJ1hc8X2ImbrENwYmzYgFgNgYo7SO1rxbUx9NfYBxW2MPqgLb76SkxGYdx7GvSO0tWUFZUHjS+bGMN/o6t2R0k4AWH2tUhSQQSDUwDOmUOijGmR1T7J77RycFzpWaYlewdaYTgOJIqXeR7UBkBLg+S1oomi1GvhlFOsxXDPTZHQ6lZ3R2lfTb5tQiQixT5opIFN6vuBgiHtOGD272V9kQpLrMRJdV1m46vVfiPTAoXNP63Y2nva9YLnYaSqkR1/8WwUWfsqV+OYfrl4DFx6FWOrUZ5bAC/z1hrTq63UeNo/0ianjf0Mor5LDjbn136ejJuBOIq8edSMI4TaciVccUc+a/bdZ8gpyCb8Ebun3JdYptmFRoug==;6F+a3nTGYuYC2cK9DW+XlQ=="
 ---

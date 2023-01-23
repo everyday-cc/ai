@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/robots-can-smell-the-roses-now-than
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/robots-can-smell-the-roses-now-thanks-to-ai-and-a-biological-sensor"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists use locust antennae to give robot a sense of smell"
-    excerpt: "Scientists at Tel Aviv University in Isreal have created a robot that can recognise smells with 10,000 times more sensitivity than specialised devices, Neuroscience News reports. The robot features a biological sensor comprising the antennae from a desert locust,"
-    publishedDateTime: 2023-01-18T08:21:00Z
-    webUrl: "https://mybroadband.co.za/news/science/476797-scientists-use-locust-antennae-to-give-robot-a-sense-of-smell.html"
-    ampWebUrl: "https://mybroadband.co.za/news/science/476797-scientists-use-locust-antennae-to-give-robot-a-sense-of-smell.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/science/476797-scientists-use-locust-antennae-to-give-robot-a-sense-of-smell.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
   - title: "How Artificial Intelligence Found the Words To Kill Cancer Cells"
     excerpt: "A predictive model has been developed that enables researchers to encode instructions for cells to execute. Scientists at the University of California, San Francisco (UCSF) and IBM Research have created a virtual library of thousands of \"command sentences\" for cells using machine learning."
     publishedDateTime: 2023-01-19T00:09:00Z

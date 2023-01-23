@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Adani is hooked on ChatGPT, says race for AI to get complex as chip war"
-excerpt: "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amounts of information to generate natural-sounding text on virtually anything - from crafting jokes to writing ad copy,"
-publishedDateTime: 2023-01-20T11:35:00Z
-originalUrl: "https://www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war"
-webUrl: "https://www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war"
-ampWebUrl: "https://www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war?amp"
-cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war?amp"
+excerpt: "Stating that generative AI will have massive ramifications, he said pioneering of chip design and large-scale production put the US ahead of the rest of the world and pave way for precision and ..."
+publishedDateTime: 2023-01-20T14:29:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war/97178683"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war/97178683"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war/97178683"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war/97178683"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: devdiscourse
-  domain: devdiscourse.com
+  name: telecom.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/30_08_2022_02_53_58_2717576.jpg?width=1280"
-    width: 1280
-    height: 960
+  - url: "https://etimg.etb2bimg.com/thumb/msid-97178683,imgsize-34342,width-1200,height-628,overlay-ettelecom/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -445,6 +445,20 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "ChatGPT - The AI that’s got everyone talking"
+    excerpt: "ChatGPT is an AI chatbot that’s exploded in popularity since its launch in November 2022. From providing recipes to writing essays and solving equations – it has endless possibilities. But some worry it could eliminate writing and creative industries,"
+    publishedDateTime: 2023-01-20T18:17:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p0dxrnyv"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0dxsk9z.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Adani is hooked on ChatGPT, says the race for AI to get as complex as chip war"
     excerpt: "Adani, whose conglomerate has in recent years diversified from mines, ports and power plants into airports, data centres and defence, penned musing from his visit to Davos to attend the World Economic Forum meeting."
     publishedDateTime: 2023-01-20T12:51:00Z
@@ -482,6 +496,6 @@ related:
       domain: says.com
     quality: 2
 
-secured: "pq7rsKkVRjqHhxKwaqTkD5zCq8zKgoOnjuZvNefgbvDcnQhghBAlxl0POoiQt1ug7AoUYH37eSP4Kqb2mP4WNj6XjRiecrEBvnMGJHpE1uZcB9IMesscd0PSSk0buOSA9l8yryiinpCfpzdEje8+rljyMyDB1MtL/y9N3hAQzdy4Mg1tG8FAhbyAxhAr4pVdudaoGx6WrxmHkm4fC6pZngp/98rKyCJvlEC0jROpb5BY8k2lPz5BPXW0CmZSjliccvV8c2gq026A77NiM1Rjz2oXIryZDncvc8pHJ3WJA16SSViJ7kpzW12YZexgMfiR8xab2oQCQHFv68nBl6GzgOTV9mC5G+nM6XZt7bwOoefdO4eVWun90y3VhMbntg6yyWgqLRmc/VqQEVsomNmbJy9Y6SZCdXpjgw4MbherOEyb/7Ttl+a1EL5ii3dkaTdPVlUaaqhrWP4Mmr1momCUzTDrJ1Ae+hbzKTWzURqTxiO2FsuHo3xswIJhlYSj17RUT4L9A8Q79cYQmn7sWgnqkA==;86x0CCqXfQBAULRwULgXxg=="
+secured: "aYzJqKcnzC2cLF9giMoEyV7Z6315B3osCG70Be0BWWxBo3v0Kp65VfxfEM3C+P1TcD5V48G3FzVlaxxZzbPtDAr7CwfM2KYfscUoZv7djuCgKUM0Di88wK1qTMCyzEkNQ7z9DcP7A6g5jKtkvUH79ICDUuVhEJGTiI2umvPmOnwt5QNhUaK8O1yLKNWu14QAiIMkTxc6wTITyFKEF8Tck6YK7WJl/085pVl8rWW0BeKdYKh2M6PNKBWxKre/JKWbQFgXJZrORwSWOZ9FPaVOVVBnEUsMpXjfFoQucCzQ4cwgSPgw9iVNVxCD8YRCHIXsBdG6gvUpItql97eWFhWjHwcdFcUA2f2X9SvEZi4v5Bo=;Q3+9NXWrt7paug8e63L6QA=="
 ---
 
