@@ -2,6 +2,257 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2022-10-27-ford-disbands-argo-ai-autonomous-vehicle-unit-posts-loss.md",
+      "title": "Ford disbands Argo AI autonomous vehicle unit, posts loss",
+      "excerpt": "Ford is pulling out of its investment in Argo AI, an autonomous vehicle company ... said Guidehouse Research mobility analyst Sam Abuelsamid. The business, he said, has required big investments ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickondetroit.com/business/2022/10/26/ford-disbands-argo-ai-autonomous-vehicle-unit-posts-loss/",
+      "originalUrl": "https://www.clickondetroit.com/business/2022/10/26/ford-disbands-argo-ai-autonomous-vehicle-unit-posts-loss/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5K6T4TO3RRAM5IWMVK7LHUIG5Y.jpg?_a=ATO2Bfe0",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.clickondetroit.com/business/2022/10/26/ford-disbands-argo-ai-autonomous-vehicle-unit-posts-loss/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/business/2022/10/26/ford-disbands-argo-ai-autonomous-vehicle-unit-posts-loss/?outputType=amp",
+      "publishedDateTime": "2022-10-26T18:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "clickondetroit.com",
+        "domain": "clickondetroit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-everyday-ai-could-become-as-ubiquitous-and-necessary-as-electricity.md",
+      "title": "Everyday AI could become as ubiquitous and necessary as electricity",
+      "excerpt": "Like electricity, there will likely be a day when we can’t imagine life without AI. There’s a lot of work to do to put the pieces into place.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/everyday-ai-could-become-as-ubiquitous-and-necessary-as-electricity/",
+      "originalUrl": "https://venturebeat.com/ai/everyday-ai-could-become-as-ubiquitous-and-necessary-as-electricity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/04/lightbulb-idea_-shutterstock_527533855.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/everyday-ai-could-become-as-ubiquitous-and-necessary-as-electricity/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/everyday-ai-could-become-as-ubiquitous-and-necessary-as-electricity/amp/",
+      "publishedDateTime": "2022-10-26T18:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-teslas-optimus-bot-are-humaniform-robots-the-right-path-forward.md",
+      "title": "Tesla’s Optimus Bot: Are Humaniform Robots The Right Path Forward?",
+      "excerpt": "One thing is undeniable: there’s an abiding appeal to human shaped and human sized robots. Part of the value of copying the human form: the world is built for humans. Cars, homes, machines, factories,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633885ad873cb08a2c57e040/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/amp/",
+      "publishedDateTime": "2022-10-26T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-intels-mobileye-unit-for-self-driving-cars-opens-above-ipo-range.md",
+      "title": "Intel's Mobileye Unit for Self-Driving Cars Opens Above IPO Range",
+      "excerpt": "The chip giant's subsidiary opened at $26.71 on Wednesday, higher than the $18 to $20 range previously expected.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/intels-mobileye-self-driving-car-unit-opens-above-ipo-range/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/intels-mobileye-self-driving-car-unit-opens-above-ipo-range/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/91d7fade41a5e3df6b3a03426955b3734741bf64/hub/2022/04/26/f6588c04-14b7-45da-be30-72310a85b709/intel-mobileye-autonomous-test-vehicles.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/intels-mobileye-self-driving-car-unit-opens-above-ipo-range/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intels-mobileye-self-driving-car-unit-opens-above-ipo-range/",
+      "publishedDateTime": "2022-10-26T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-ford-posts-loss-as-it-takes-27-billion-charge-on-argo-driverless-venture.md",
+      "title": "Ford Posts Loss as It Takes $2.7 Billion Charge on Argo Driverless Venture",
+      "excerpt": "Ford Motor Co. swung to a third-quarter loss because of a hefty charge associated with the shutdown of the auto maker’s autonomous-driving venture Argo AI, the latest setback in the pursuit of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ford-to-take-2-7-billion-charge-on-argo-driverless-startup-stake-11666816138",
+      "originalUrl": "https://www.wsj.com/articles/ford-to-take-2-7-billion-charge-on-argo-driverless-startup-stake-11666816138",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-652612/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-autonomous-vehicle-startup-argo-ai-is-shutting-down.md",
       "title": "Autonomous vehicle startup Argo AI is shutting down",
       "excerpt": "In an earnings report, Ford (a major investor in Argo AI) noted that the company is being wound down and that it will hire engineers from the startup to expand and speed up development of Level 2 ...",
@@ -966,256 +1217,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-vleeschhouwer-microsoft-cloud-computing-services-are-growing.md",
-      "title": "Vleeschhouwer: Microsoft cloud computing services are growing",
-      "excerpt": "Jay Vleeschhouwer, Managing Director of Software Research at Griffin Securities, joins Worldwide Exchange to discuss Microsoft's Q1 ... info about our products and services. ©",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2022/10/26/vleeschhouwer-microsoft-cloud-computing-services-are-growing.html",
-      "originalUrl": "https://www.cnbc.com/video/2022/10/26/vleeschhouwer-microsoft-cloud-computing-services-are-growing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-microsofts-end-to-end-arm-development-environment-is-here-at-last.md",
-      "title": "Microsoft’s end-to-end Arm development environment is here at last",
-      "excerpt": "It’s just in time, too, as the latest generation of Surface devices puts Microsoft’s Qualcomm-based SQ3 processor in the same hardware as Intel’s i7. What’s perhaps most interesting about Microsoft’s Arm focus is its link to building machine learning–driven applications into Windows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.html",
-      "originalUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/08/25/16/istock-1368001929-100931622-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.amp.html",
-      "publishedDateTime": "2022-10-26T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-the-best-travel-agent-is-an-ai-algorithm.md",
-      "title": "The best travel agent is an AI algorithm",
-      "excerpt": "By tapping into petabytes of data, Expedia's AI and ML models know more about your travel preferences than any human ever could.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-best-travel-agent-is-an-ai-algorithm/",
-      "originalUrl": "https://www.zdnet.com/article/the-best-travel-agent-is-an-ai-algorithm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c5e34ad19d5fe93e13b48192470c5760a552f80f/2021/09/13/cb8e3919-d9cc-43c3-a95a-219d546bdd98/greece-laptop.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-best-travel-agent-is-an-ai-algorithm/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-best-travel-agent-is-an-ai-algorithm/",
-      "publishedDateTime": "2022-10-26T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-a-top-aws-exec-shares-advice-on-what-you-should-do-when-the-company-you-want-to-work-for-is-in-a-hiring-freeze.md",
-      "title": "A top AWS exec shares advice on what you should do when the company you want to work for is in a hiring freeze",
-      "excerpt": "The director of product and engineering at AWS says job seekers should \"boost their own marketability\" while waiting for recruiting to thaw.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/aws-nancy-wang-advice-for-job-seekers-in-hiring-freeze-2022-10",
-      "originalUrl": "https://www.businessinsider.com/aws-nancy-wang-advice-for-job-seekers-in-hiring-freeze-2022-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/634f12056bd52700191534c6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-introducing-vision-studio-a-ui-based-demo-interface-for-computer-vision.md",
-      "title": "Introducing Vision Studio, a UI-based demo interface for Computer Vision",
-      "excerpt": "Are you looking to improve the analysis and management of images and videos? The Computer Vision API provides access to advanced algorithms for processing media and returning information.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/introducing-vision-studio-a-uibased-demo-interface-for-computer-vision/",
-      "originalUrl": "https://azure.microsoft.com/blog/introducing-vision-studio-a-uibased-demo-interface-for-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/97d85a19-b0dc-47b0-8532-dc8f7b366e05.png",
-          "width": 1024,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T01:00:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "Computer Vision"
       ]
     }
   ],

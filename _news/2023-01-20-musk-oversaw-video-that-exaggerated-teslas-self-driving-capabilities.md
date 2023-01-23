@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A Tesla crashed into a fence during filming for the company's self-driving ad, Autopilot director testified"
-    excerpt: "An engineer said the car crashed into a fence trying to park itself and that drivers had to take control in test runs for the video, Reuters reported."
-    publishedDateTime: 2023-01-18T16:41:00Z
-    webUrl: "https://www.businessinsider.com/tesla-crashed-fence-filimg-autopilot-fsd-self-driving-ad-report-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/tesla-crashed-fence-filimg-autopilot-fsd-self-driving-ad-report-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-crashed-fence-filimg-autopilot-fsd-self-driving-ad-report-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://i.insider.com/63c7fef7eee94d001a78c743?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Musk oversaw video exaggerating Tesla’s self-driving capabilities"
     excerpt: "The company’s CEO wrote to Tesla’s Autopilot team after 2 a.m. California time in October 2016 to emphasize the importance of a demonstration drive to promote the system"
     publishedDateTime: 2023-01-19T20:50:00Z
@@ -140,20 +124,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-97166614,imgsize-31024,width-1200,height-628,overlay-etauto/elon-musk-oversaw-video-that-exaggerated-tesla-s-self-driving-capabilities.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla engineer testifies 2016 self-driving video was staged"
-    excerpt: "A 2016 video that purported to show the self-driving capabilities of a Tesla car was staged, a senior engineer testified."
-    publishedDateTime: 2023-01-18T16:45:00Z
-    webUrl: "https://www.stltoday.com/news/national/tesla-engineer-testifies-2016-self-driving-video-was-staged/article_37c9fd77-0ec1-553b-bc13-e3827518db0f.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/7c/37c9fd77-0ec1-553b-bc13-e3827518db0f/63c8200c3b33e.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Musk Personally Oversaw Tesla's Staged Self-Driving Video"
     excerpt: "Tesla CEO Elon Musk personally oversaw the 2016 video that exaggerated Autopilot's self-driving capabilities which is now the subject of a wrongful death lawsuit. The update comes from Bloomberg which claims it's viewed internal Tesla emails attesting to Musk's direct involvement in the video's production."

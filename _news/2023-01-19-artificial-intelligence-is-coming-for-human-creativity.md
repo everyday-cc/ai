@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/art
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 960
         height: 731
         isCached: true
-  - title: "How AI is combatting burnout"
-    excerpt: "Kintsugi last year raised $20mn Series A funding for the development of its AI tech that can detect depression and anxiety using short audio clips of someone’s speech. Kintsugi is already helping clinicians conduct mental health screenings."
-    publishedDateTime: 2023-01-18T17:00:00Z
-    webUrl: "https://www.ft.com/content/0ae4f152-dec1-4d8e-9ffb-656c09e7c83b"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
 
 secured: "9dhcBfHHzlS+VDb0m9jD/cFtPXi9BC5ii/TKcNO/wOI/scvDYPx3paU0++gQUz3itb7h6GWTP+c2jh/OWZ6nuxhUd5fWt6VzzIyH7dxROrhcS7ePmUFmy02Dr/TNyhICg0/vIaHuAaauQb2yKYbFDtTNfRPK1RG9Fp1Bg9Qh7H0CBTywhdhbQYByPfwALWMIok5vBFOsmV8uGVCmtYq/YhOngwSgKmlX/guiMwrA4GvJIXv7e/xgn7oZIusiWX/fwNJ+ylAabrNNMxaB1xvr3+HGh5BxlJYnVPBAbwFy5oyggS+yzJsHuhxeQ/P8MqYJaEMGzTrhfFkFGoaPsq/OFyK7PUQAYfiWGvtnYvEOfec=;zHHFxzvz0qPugCu/2ouZdw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1674066815-SOPAImagesContributor.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "What AI art means for society, according to Yale experts"
+    excerpt: "Will AI art elevate human creativity? Will AI be a tool or a replacement for artists? Is AI art, art? Yale experts weigh in."
+    publishedDateTime: 2023-01-23T07:02:00Z
+    webUrl: "https://yaledailynews.com/blog/2023/01/23/what-ai-art-means-for-society-according-to-yale-experts/"
+    type: article
+    provider:
+      name: Yale Daily News
+      domain: yaledailynews.com
+    quality: 41
+    images:
+      - url: "https://yaledailynews.com/wp-content/uploads/2023/01/Screen_Shot_2023-01-22_at_5.33.01_PM-839x1024.png"
+        width: 839
+        height: 1024
         isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."

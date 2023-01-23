@@ -53,6 +53,17 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Computers that power self-driving cars could be a big driver of global carbon emissions"
+    excerpt: "Autonomous, or self-driving cars, sometimes still feel like a fixture of the future. Though significant advances have been made, there is still much more w | Technology"
+    publishedDateTime: 2023-01-19T18:00:00Z
+    webUrl: "https://www.labroots.com/trending/technology/24465/computers-power-self-driving-cars-driver-global-carbon-emissions"
+    ampWebUrl: "https://www.labroots.com/trending/technology/24465/computers-power-self-driving-cars-driver-global-carbon-emissions/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/24465/computers-power-self-driving-cars-driver-global-carbon-emissions/amp"
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 16
   - title: "How an increase in self-driving cars could harm the environment"
     excerpt: "PARIS: Self-driving vehicles are expected to go mainstream in the near future, but mass numbers of such vehicles could result in a significant increase in CO2 emissions, mainly due to the energy needed for the computers managing all the hardware and software on board."
     publishedDateTime: 2023-01-19T14:41:00Z

@@ -3,18 +3,18 @@ category: news
 title: "AI tools can create new images, but who is the real artist?"
 excerpt: "With some generated images traveling on social networks and potentially going viral, they can be challenging to debunk since they can’t be traced back to a specific tool or data source"
 publishedDateTime: 2023-01-20T15:38:00Z
-originalUrl: "https://www.wcvb.com/article/ai-images-who-is-real-artist/42592783"
-webUrl: "https://www.wcvb.com/article/ai-images-who-is-real-artist/42592783"
-ampWebUrl: "https://www.wcvb.com/amp/article/ai-images-who-is-real-artist/42592783"
-cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/ai-images-who-is-real-artist/42592783"
+originalUrl: "https://www.kcci.com/article/ai-images-who-is-real-artist/42592783"
+webUrl: "https://www.kcci.com/article/ai-images-who-is-real-artist/42592783"
+ampWebUrl: "https://www.kcci.com/amp/article/ai-images-who-is-real-artist/42592783"
+cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/ai-images-who-is-real-artist/42592783"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WCVB Channel 5 Boston
-  domain: wcvb.com
+  name: KCCI Des Moines
+  domain: kcci.com
 
 topics:
   - AI Ethics
@@ -88,6 +88,6 @@ related:
         height: 480
         isCached: true
 
-secured: "lAmZXxWN8UpfO4qWy16NJF4w2N/a0OAACXxpvdDQXsg/ohEVkXKGSwxgsE+wn9YHpVYcBAL1kc61E/DAJ/r0BnjJZyjzA0rtL1NuHsdMr3bostkhMkNuqvXWSrFDA+7YHGUD3JLUIxBaPvATHBZSat2P7d7uE9fa6UwTf9Wy3/3klydD23YGxqsuDYXZIKW+YEqXBMcpScYM0nu/1XoJrWiEOA9goVGADW9oPOErh6ExtlhsrQAVJVYkolFUVZOfsAuY9NoE/WqdrVFNM3D4hxxJ5SDw/S7k05sxj9d8frWdxO/98zMNiOMGXvNIDuv6cs2PxJscqz+oOcMLVLNV2ua3xCoojjOyOVbAGVgUmg/Sp2q2gx/a+cMv1kBchqG91qMJKVGP3mXWLQaiEHoQJAiOhYClkOGeEUCkQsyffO6qBkA0rMOHJCtmBuzmAbrmxOeAsXBF33cD68DX9B9BMM9jDl31TOnwQTW13dGcGhWBnr3mCdRRwoQRGiNWBldJoDLEtmrXtpsV5hvEDXpYtA==;Tezr4MRX92jLc2tRLike+w=="
+secured: "SHgkXBCxWEqMjkeT8M3s5TuEbTMU0YHwUc98cxAa6WMwPeEedU0Z0YJNr2e+NQ39eDVxVUnrzqhckbIlfI3erMLBGjH+QyPQ/urKdPkF6J+FiGb+Y8qiPnjRN7SZ0sPi8lfd0kM84epCuYZw13DwRKFaBvaUbOHWpx6A3XNfqsmyTh4yI/mBp1RjYRAdnpGg7GZjLEDcbUlSMCnPv9etnQVTqb4RLHxoXJD4rFO/8+M1xFCFI3d/GcVvZW6FBIuP4OB/R1YGrkZZ/ROfkVjgMTVqjug2VAiqp3CZ5FlgIdpx57SbegekRQqBArS33JRXFZaIJ0NwIbRnLCYQKClGlCG5jrZ/+qXeafZEpab3/xw=;5LSAgd81Jlq923a5FoN6jg=="
 ---
 

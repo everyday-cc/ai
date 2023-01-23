@@ -2,6 +2,241 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2022-12-24-this-week-in-xr-see-santa-fly-the-year-of-ai-carmacks-parting-shot.md",
+      "title": "This Week In XR: See Santa Fly, The Year Of AI, Carmack’s Parting Shot",
+      "excerpt": "Thanks to webXR pioneer 8th Wall, now part of Niantic, you can click this link See Santa Fly and hold up your smartphone. No matter how cloudy it is, you can see Santa's sleigh using 8th Wall's WebAR application.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2022/12/23/this-week-in-xr-this-week-in-xr-see-santa-fly-the-year-of-ai-carmacks-parting-shot/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2022/12/23/this-week-in-xr-this-week-in-xr-see-santa-fly-the-year-of-ai-carmacks-parting-shot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63a665efe3aa898ee79a8a09/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2022/12/23/this-week-in-xr-this-week-in-xr-see-santa-fly-the-year-of-ai-carmacks-parting-shot/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2022/12/23/this-week-in-xr-this-week-in-xr-see-santa-fly-the-year-of-ai-carmacks-parting-shot/amp/",
+      "publishedDateTime": "2022-12-23T17:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-24-artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients.md",
+      "title": "Artificial Intelligence may Predict Success of Botox Treatment in Dystonia Patients",
+      "excerpt": "Innovative artificial intelligence (AI) platform called DystoniaBoTXNet may help predict which patients with dystonia respond to Botox treatment with 96 percent accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/botulinum-toxin-could-produce-remote-effects.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm",
+      "publishedDateTime": "2022-12-23T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-24-how-analytics-and-ai-can-help-you-build-a-better-customer-experience.md",
+      "title": "How analytics and AI can help you build a better customer experience",
+      "excerpt": "With the help of advanced technology, you can improve customer engagement and retention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/sc/how-analytics-and-ai-can-help-you-build-a-better-customer-experience",
+      "originalUrl": "https://www.businessinsider.com/sc/how-analytics-and-ai-can-help-you-build-a-better-customer-experience",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63a34e92ae4bde0019503d8c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-23T10:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "IBM AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-12-23-how-to-redact-pii-data-in-conversation-transcripts.md",
+      "title": "How to redact PII data in conversation transcripts",
+      "excerpt": "Customer service interactions often contain personally identifiable information (PII) such as names, phone numbers, and dates of birth. As organizations incorporate machine learning (ML) and analytics into their applications, using this data can provide insights on how to create more seamless customer",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/23/Featured-images-for-ml-12825.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-23T10:09:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-24-tsas-facial-recognition-technology-raises-security-privacy-concerns.md",
+      "title": "TSA's facial recognition technology raises security, privacy concerns",
+      "excerpt": "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
+      "originalUrl": "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-23T09:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "kjrh.com",
+        "domain": "kjrh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-12-24-how-to-assess-your-ai-projects-roi-as-recession-hits.md",
       "title": "How to assess your AI projects’ ROI as recession hits",
       "excerpt": "Advice for organizations as they assess the ROI and risk/return tradeoffs of their AI initiatives in the coming recession.",
@@ -997,247 +1232,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats.md",
-      "title": "New Version of HITRUST CSF Helps Healthcare Tackle Emerging Cybersecurity Threats",
-      "excerpt": "HITRUST will release CSF version 11 in January 2023, promising improved mitigations against emerging cybersecurity threats and an AI-based standards development toolkit.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitsecurity.com/news/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats",
-      "originalUrl": "https://healthitsecurity.com/news/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitsecurity.com/images/sized/GettyImages-1276687348_2-39a26234983c4eca9381530cb872a66d.jpg",
-          "width": 480,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitsecurity.com/news/amp/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats",
-      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats",
-      "publishedDateTime": "2022-12-22T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Security",
-        "domain": "healthitsecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-leveraging-ai-in-agency-work.md",
-      "title": "Leveraging AI In Agency Work",
-      "excerpt": "Artificial intelligence has reshaped many aspects of our business, personal and social worlds—you probably interact with AI daily and may not even realize it. As AI tools and solutions become less sci-fi and more business as usual,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/22/leveraging-ai-in-agency-work/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/22/leveraging-ai-in-agency-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/22/leveraging-ai-in-agency-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/12/22/leveraging-ai-in-agency-work/amp/",
-      "publishedDateTime": "2022-12-22T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-keep-autonomous-killing-machines-off-our-streets-opinion.md",
-      "title": "Keep Autonomous Killing Machines Off Our Streets | Opinion",
-      "excerpt": "Robots are not, yet, autonomous killing machines. Even the rule briefly considered in San Francisco, would have kept a human operator in the decision loop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/keep-autonomous-killing-machines-off-our-streets-opinion-1768564",
-      "originalUrl": "https://www.newsweek.com/keep-autonomous-killing-machines-off-our-streets-opinion-1768564",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2167946/robot-warriors.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/keep-autonomous-killing-machines-off-our-streets-opinion-1768564?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/keep-autonomous-killing-machines-off-our-streets-opinion-1768564?amp=1",
-      "publishedDateTime": "2022-12-22T02:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-airtel-apollo-hospitals-and-aws-carry-out-indias-first-5g-driven-colonoscopy-trial.md",
-      "title": "Airtel, Apollo Hospitals and AWS carry out India’s first 5G-driven colonoscopy trial",
-      "excerpt": "Proving this fact, Bharti Airtel and Apollo Hospitals, along with HealthNet Global, AWS, and Avesha companies, have conducted India’s first 5G-driven, artificial intelligence (AI)-guided colonoscopy trial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fonearena.com/blog/381372/airtel-apollo-hospitals-aws-5g-colonoscopy-trial.html",
-      "originalUrl": "https://www.fonearena.com/blog/381372/airtel-apollo-hospitals-aws-5g-colonoscopy-trial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.fonearena.com/blog/wp-content/uploads/2022/10/Airtel-5G-Plus.jpg",
-          "width": 574,
-          "height": 303,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fonearena.com/blog/381372/airtel-apollo-hospitals-aws-5g-colonoscopy-trial.html/amp",
-      "cdnAmpWebUrl": "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/381372/airtel-apollo-hospitals-aws-5g-colonoscopy-trial.html/amp",
-      "publishedDateTime": "2022-12-22T00:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FoneArena",
-        "domain": "fonearena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-self-driving-truck-company-tusimple-to-lay-off-25-of-workforce.md",
-      "title": "Self-driving truck company TuSimple to lay off 25% of workforce",
-      "excerpt": "Autonomous trucking company TuSimple will lay off 25% of staff, or 350 workers, as part of a broader restructuring plan.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/21/self-driving-truck-company-tusimple-to-lay-off-25-of-workforce/",
-      "originalUrl": "https://techcrunch.com/2022/12/21/self-driving-truck-company-tusimple-to-lay-off-25-of-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/TuSimple_Truck_6.jpg?resize=1200,633",
-          "width": 1200,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/21/self-driving-truck-company-tusimple-to-lay-off-25-of-workforce/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/21/self-driving-truck-company-tusimple-to-lay-off-25-of-workforce/amp/",
-      "publishedDateTime": "2022-12-21T14:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

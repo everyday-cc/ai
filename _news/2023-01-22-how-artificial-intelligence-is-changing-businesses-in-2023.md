@@ -42,20 +42,6 @@ related:
         width: 900
         height: 629
         isCached: true
-  - title: "The Top Trends in Artificial Intelligence in 2023"
-    excerpt: "Artificial intelligence (AI) technologies have become dramatically more sophisticated in the 70 years since scientist Arthur Samuel developed the first program that could learn on its own — a checkers-playing game that competed against humans."
-    publishedDateTime: 2023-01-18T16:13:00Z
-    webUrl: "https://www.mddionline.com/digital-health/top-trends-artificial-intelligence-2023"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 41
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_2023-1-18-110145.jpg"
-        width: 770
-        height: 400
-        isCached: true
   - title: "Top 7 AI trends to watch for in 2023"
     excerpt: "The leaps AI made last year are expected to boost digital transformation while disrupting various sectors such as cybersecurity and autotech."
     publishedDateTime: 2023-01-19T15:24:00Z

@@ -2,6 +2,271 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-14-avra-medical-robotics-inc-otc-avmr-provides-update-on-merger.md",
+      "title": "AVRA Medical Robotics, Inc. (OTC: AVMR) PROVIDES UPDATE ON MERGER",
+      "excerpt": "AVRA Medical Robotics, Inc. (\"AVRA\" or \"the Company\") (OTC:AVMR), a medical robotics software and artificial intelligence company announced that it is continuing to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/g30076650/avra-medical-robotics-inc-otc-avmr-provides-update-on-merger",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/g30076650/avra-medical-robotics-inc-otc-avmr-provides-update-on-merger",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30076650",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30076650",
+      "publishedDateTime": "2022-12-14T05:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-robot-controlled-by-rat-brain-cells.md",
+      "title": "Robot Controlled by Rat Brain Cells",
+      "excerpt": "Researchers from the University of Reading have made a robot that is controlled by brain cells extracted from rats. The cells are cultured and connected to the control circuit. The cells are alive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2010/12/robot_controlled_by_rat_brain_cells.html",
+      "originalUrl": "https://www.medgadget.com/2010/12/robot_controlled_by_rat_brain_cells.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-this-force-controlled-robot-gripper-is-less-likely-to-break-stuff.md",
+      "title": "This Force Controlled Robot Gripper Is Less Likely To Break Stuff",
+      "excerpt": "While robotic arms can handle a wide variety of ... it may be desired to have a force controlled gripper to avoid damage. [James Bruton] has been whipping up a design of his own for just this ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/03/25/this-force-controlled-robot-gripper-is-less-likely-to-break-stuff/",
+      "originalUrl": "https://hackaday.com/2019/03/25/this-force-controlled-robot-gripper-is-less-likely-to-break-stuff/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/03/arm800.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-4-mind-boggling-technology-advances-in-store-for-2023.md",
+      "title": "4 Mind-Boggling Technology Advances In Store For 2023",
+      "excerpt": "In 2023 the trend will continue as the pace of innovation and development of potentially disruptive emerging technologies exponentially increases every year",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
+      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63990ad004b32ca023bf8641/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
+      "publishedDateTime": "2022-12-13T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Computer Vision",
+        "Natural Language Processing",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-could-artificial-intelligence-help-us-build-a-technological-world-that-is-more-ethical.md",
+      "title": "Could artificial intelligence help us build a technological world that is more ethical?",
+      "excerpt": "A robot may not injure a human being or, through inaction, allow a human being to come to harm. A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.html",
+      "originalUrl": "https://techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/could-artificial-intel.jpg",
+          "width": 883,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.amp",
+      "publishedDateTime": "2022-12-13T08:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-opinion-ill-bet-you-didnt-write-that-an-artificial-intelligence-robot-did.md",
+      "title": "Opinion: I’ll bet you didn’t write that. An artificial intelligence robot did",
+      "excerpt": "Write an 800-word opinion piece about what ChatGPT is, as well as its benefits and drawbacks.” In seconds it delivered a sensible, fair-minded description. No doubt ChatGPT and tools like it will become much more valuable and human-sounding — especially when these products ingest and learn from millions of emails and texts to create more personalized responses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-write-that-an-artificial-intelligencer-robot-did/",
+      "originalUrl": "https://www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-write-that-an-artificial-intelligencer-robot-did/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/12/OPED-ROBOT-WRITING-COMMENTARY-DMT.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-write-that-an-artificial-intelligencer-robot-did/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-write-that-an-artificial-intelligencer-robot-did/amp/",
+      "publishedDateTime": "2022-12-13T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-did-a-robot-write-this-we-need-watermarks-to-spot-ai.md",
       "title": "Did a Robot write this? we need watermarks to spot AI",
       "excerpt": "And remarkably, it will soon get better. OpenAI is widely expected to release its next iteration known as GPT-4 in the coming months, and early testers say it is better than anything that came before.",
@@ -1009,292 +1274,6 @@
         "name": "YAHOO!News",
         "domain": "usatoday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-san-francisco-reverses-plans-to-allow-police-robots-to-kill-suspects.md",
-      "title": "San Francisco reverses plans to allow police robots to kill suspects",
-      "excerpt": "The board originally approved the policy to let the San Francisco Police Department (SFPD) use remote-controlled robots “as a deadly force option when risk of loss of life to members of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/12/7/23497922/killer-robot-policy-san-francisco-reversed",
-      "originalUrl": "https://www.theverge.com/2022/12/7/23497922/killer-robot-policy-san-francisco-reversed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/8pXGhkQoJhZ33vR9Usg4Xf90d4w=/0x0:4500x3004/1200x628/filters:focal(2250x1502:2251x1503)/cdn.vox-cdn.com/uploads/chorus_asset/file/24272583/1244684956.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T03:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-its-official-adobe-stock-sells-images-generated-by-artificial-intelligence.md",
-      "title": "It's Official! Adobe Stock Sells Images Generated By Artificial Intelligence",
-      "excerpt": "SEE ALSO: Sony Is Technologically Ready To Make Humanoid Robots Once The Usage Becomes Clear According to reports, producers of fine art have been cautioned by the policy not to abuse artificial intelligence and flood the galleries with comparable images.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/43199/its-official-adobe-stock-sells-images-generated-by-artificial-intelligence",
-      "originalUrl": "https://in.mashable.com/tech/43199/its-official-adobe-stock-sells-images-generated-by-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/92272ed9-4bde-496d-a708-be418ff442c3_scv9.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/43199/its-official-adobe-stock-sells-images-generated-by-artificial-intelligence?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/43199/its-official-adobe-stock-sells-images-generated-by-artificial-intelligence?amp=1",
-      "publishedDateTime": "2022-12-07T01:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-san-francisco-pauses-policy-arming-robocops-with-explosives.md",
-      "title": "San Francisco pauses policy arming robocops with explosives",
-      "excerpt": "The city’s Board of Supervisors voted Tuesday to suspend a controversial policy allowing police to deploy potentially lethal, remote-controlled robots in ... Mar changed his mind after ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/12/06/san-fransisco-pauses-policy-arming-police-robots-with-explosives/",
-      "originalUrl": "https://nypost.com/2022/12/06/san-fransisco-pauses-policy-arming-police-robots-with-explosives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/12/sf-robot-reversal-index.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/12/06/san-fransisco-pauses-policy-arming-police-robots-with-explosives/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/12/06/san-fransisco-pauses-policy-arming-police-robots-with-explosives/amp/",
-      "publishedDateTime": "2022-12-06T17:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-artificial-intelligence-talking-robots-could-help-detect-utis-at-early-stage.md",
-      "title": "Artificial Intelligence, Talking Robots could help detect UTIs at early stage",
-      "excerpt": "The £1.1 million FEATHER project, led by the School of Informatics, aims to increase an individual’s wellbeing and reduce the number of serious outcomes from incorrect or late diagnoses of urinary tract infections (UTIs).",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/artificial-intelligence-talking-robots-could-help-detect-utis-at-early-stage/",
-      "originalUrl": "https://indiaeducationdiary.in/artificial-intelligence-talking-robots-could-help-detect-utis-at-early-stage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/artificial-intelligence-talking-robots-could-help-detect-utis-at-early-stage/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/artificial-intelligence-talking-robots-could-help-detect-utis-at-early-stage/",
-      "publishedDateTime": "2022-12-06T17:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-s10ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe.md",
-      "title": "S10.AI Inc Introduces the World’s First Robot Virtual Medical Scribe",
-      "excerpt": "S10.AI Inc. is a startup that has been in operation since 2022. They are excited to announce their newest development, S10.AI, the World's First Robot Virtual Medical Scribe. The S10.AI robot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/s10ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe-2022-12-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/s10ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe-2022-12-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-see-how-mcdonalds-subway-chipotle-and-other-chains-are-using-robots-and-ai-to-make-faster-orders-with-fewer-workers.md",
-      "title": "See how McDonald's, Subway, Chipotle and other chains are using robots and AI to make faster orders with fewer workers",
-      "excerpt": "In the fall, fast-casual chain Panera Bread began testing AI-powered drive-thru tech at two upstate New York restaurants. An automated bot named \"Tori\" created by the startup OpenCity takes orders ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mcdonalds-subway-chipotle-add-tech-robots-ai-to-speed-up-orders-2022-12",
-      "originalUrl": "https://www.businessinsider.com/mcdonalds-subway-chipotle-add-tech-robots-ai-to-speed-up-orders-2022-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/638f85da8580f70019f7b216?width=1200&format=jpeg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mcdonalds-subway-chipotle-add-tech-robots-ai-to-speed-up-orders-2022-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcdonalds-subway-chipotle-add-tech-robots-ai-to-speed-up-orders-2022-12?amp",
-      "publishedDateTime": "2022-12-06T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ooredoo Qatar deploys cognitive software to optimize 5G user experiences"
-    excerpt: "Doha: Ooredoo Qatar, in collaboration with Ericsson, managed to provide Artificial Intelligence (AI) solutions on top of trusted Microsoft cloud in"
-    publishedDateTime: 2023-01-18T15:51:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/18/01/2023/ooredoo-qatar-deploys-cognitive-software-to-optimize-5g-user-experiences"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 23
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20230118_1674057339-860.jpg?1674057339"
-        width: 840
-        height: 630
-        isCached: true
   - title: "Ooredoo Qatar Deploys Cognitive Software To Optimize 5G User Experiences"
     excerpt: "Ooredoo Qatar, in collaboration with Ericsson, managed to provide Artificial Intelligence (AI) solutions on top of trusted Microsof"
     publishedDateTime: 2023-01-18T22:26:00Z

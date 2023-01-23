@@ -2,6 +2,275 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-10-artificial-intelligence-ai-robots-market-outlook-2022-and-forecast-to-2030-by-abb-alphabet-amazon.md",
+      "title": "Artificial Intelligence (AI) Robots Market Outlook 2022 and Forecast to 2030 | By -ABB, Alphabet, Amazon",
+      "excerpt": "Robots Market Research Report (2022 -2030) here: The study report offers a comprehensive analysis of the global Artificial Intelligence (AI) Robots Market size across the globe as regional and country-level market size analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-outlook-2022-and-forecast-to-2030-by--abb-alphabet-amazon-2022-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-outlook-2022-and-forecast-to-2030-by--abb-alphabet-amazon-2022-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T20:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-amazons-new-robot-should-strike-fear-into-its-hundreds-of-thousands-of-warehouse-workers.md",
+      "title": "Amazon's new robot should strike fear into its hundreds of thousands of warehouse workers",
+      "excerpt": "What do you call a robotic arm that relies on computer vision, artificial intelligence, and suction cups to pick up items? In Amazon's world, it's called a \"Sparrow.\" The tech giant unveiled a robot on Thursday that's capable of identifying individual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon-released-warehouse-robot-sparrow-it-could-wipe-out-jobs-2022-11",
+      "originalUrl": "https://www.businessinsider.com/amazon-released-warehouse-robot-sparrow-it-could-wipe-out-jobs-2022-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/636d9d4ef5877200181c683a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/amazon-released-warehouse-robot-sparrow-it-could-wipe-out-jobs-2022-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-released-warehouse-robot-sparrow-it-could-wipe-out-jobs-2022-11?amp",
+      "publishedDateTime": "2022-11-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-mimicking-life-breakthrough-in-non-living-materials.md",
+      "title": "Mimicking life: Breakthrough in non-living materials",
+      "excerpt": "\"Soft robots do already exist, for example microparticles controlled externally through magnetic or electric fields. But ultimately you'd want a robot to be able to control itself: to see for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221110114254.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221110114254.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae.md",
+      "title": "Robotic Vision Platform Luxonis Announces its First Open Source Personal Robot, rae",
+      "excerpt": "OAK Camera Line Creators Launch Kickstarter Campaign to Develop Open Source Robot for Everyone: rae LITTLETON, Colo., Nov. 9, 2022 // -- Luxonis, a Colorado-based robotic vision platform, is thrilled",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29641695/robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29641695/robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29641695",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29641695",
+      "publishedDateTime": "2022-11-09T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-robotics-innovation-leading-companies-in-autopilot-mine-shuttles.md",
+      "title": "Robotics innovation: Leading companies in autopilot mine shuttles",
+      "excerpt": "The mining industry continues to be a hotbed of innovation, with activity driven by the need to enhance safety,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mining-technology.com/data-insights/innovators-autopilot-mine-shuttle-mining-2/",
+      "originalUrl": "https://www.mining-technology.com/data-insights/innovators-autopilot-mine-shuttle-mining-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mining-technology.com/wp-content/uploads/sites/19/2022/11/Autopilot-mine-shuttles.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mining Technology",
+        "domain": "mining-technology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-miso-robotics-automatic-burger-flippers-plot-european-takeover.md",
+      "title": "Miso Robotics’ automatic burger flippers plot European takeover",
+      "excerpt": "tech startup’s products have been sent to work ... Flippy 2, the modular frying robot; Sippy, the automatic beverage dispenser; and CookRight, the AI-powered sensor system which I assume is the more taciturn of the bunch. To explain how they work would ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/997572/miso-robotics-automatic-burger-flippers-plot-european-takeover-997572.html",
+      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/997572/miso-robotics-automatic-burger-flippers-plot-european-takeover-997572.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzExXC9mbGlwcHkuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactive Investors",
+        "domain": "proactiveinvestors.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-08-robot-with-brain-near-cheltenham-sorting-plastic-waste.md",
       "title": "Robot with 'brain' near Cheltenham sorting plastic waste",
       "excerpt": "The Zen Robotics machine learns to remember plastic in a similar way to which humans learn to recognise items. The company hopes the Grundon can capture. The 'Fast Picker' arm is supplied by Helsinki-based supplier of robotic waste separation technology - Zen Robotics.",
@@ -1060,256 +1329,6 @@
       "provider": {
         "name": "Daily Camera",
         "domain": "dailycamera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-artificial-intelligence-ai-robots-market-size-with-top-countries-data-analysis-by-leading-key-players-in-machinery-equipment-sector.md",
-      "title": "Artificial Intelligence (AI) Robots Market Size with Top Countries Data, Analysis by Leading Key Players in Machinery & Equipment Sector",
-      "excerpt": "The Global Artificial Intelligence (AI ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Market Growth Reports is the credible source ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-with-top-countries-data-analysis-by-leading-key-players-in-machinery-equipment-sector-2022-11-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-with-top-countries-data-analysis-by-leading-key-players-in-machinery-equipment-sector-2022-11-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-ai-company-secures-91m-for-fleet-of-automated-recycling-robots.md",
-      "title": "AI company secures $91M for fleet of automated recycling robots",
-      "excerpt": "AMP Robotics said a recent flood of funding will support the technology needed to do better with the recycling of plastics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/2431667403016/2022/1/911d0aad918d0cc8241708e8274f6bcc/v1.5/AI-company-secures-91M-for-fleet-of-automated-recycling-robots.jpg",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/11/02/amprobotics-recycling-plastics-AI-trash/2431667403016/",
-      "publishedDateTime": "2022-11-02T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-uspto-issues-landmark-patent-to-artificial-intelligence-startup-orbai.md",
-      "title": "USPTO Issues Landmark Patent to Artificial Intelligence Startup, ORBAI",
-      "excerpt": "What we usually think of as Artificial Intelligence (AI) today, when we see human-like robots and holograms in ... ORBAI is a California-based startup developing artificial general intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/ein-presswire/587925827/uspto-issues-landmark-patent-to-artificial-intelligence-startup-orbai/",
-      "originalUrl": "https://ktla.com/business/press-releases/ein-presswire/587925827/uspto-issues-landmark-patent-to-artificial-intelligence-startup-orbai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-amp-robotics-raises-91-million-in-series-c-financing.md",
-      "title": "AMP Robotics Raises $91 Million in Series C Financing",
-      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has raised $",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20221102005209/en/AMP-Robotics-Raises-91-Million-in-Series-C-Financing",
-      "originalUrl": "https://www.businesswire.com/news/home/20221102005209/en/AMP-Robotics-Raises-91-Million-in-Series-C-Financing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsroom.businesswire.com",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-tomahawk-robotics-successfully-hosts-microsoft-azure-sdk-on-kxm-body-worn-edge-processor.md",
-      "title": "Tomahawk Robotics Successfully Hosts Microsoft Azure SDK on KxM Body-Worn Edge Processor",
-      "excerpt": "Tomahawk Robotics, a leading innovator of common control solutions, is pleased to share we have successfully hosted Microsoft Azure SDK on our KxM edge device, a body-worn Kinesis Ecosystem extension to provide processing and network management at the edge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-tomahawk-robotics-successfully-hosts-microsoft-azure-sdk-kxm-/2022/11/01/9703942.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-tomahawk-robotics-successfully-hosts-microsoft-azure-sdk-kxm-/2022/11/01/9703942.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1935465/Tomahawk_Robotics_KxM.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-farm-robotics-technology-company-buys-big-santa-clara-office-building.md",
-      "title": "Farm robotics technology company buys big Santa Clara office building",
-      "excerpt": "A farm robotics company whose technologies could revolutionize farming and food production has bought a big Santa Clara office building that it had previously subleased.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2022/10/31/farm-robotics-tech-buy-big-santa-clara-office-real-estate-blue-river/",
-      "originalUrl": "https://www.eastbaytimes.com/2022/10/31/farm-robotics-tech-buy-big-santa-clara-office-real-estate-blue-river/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/10/SJM-L-SCLABUY-x-01-1.jpg?w=1024&h=523",
-          "width": 1024,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2022/10/31/farm-robotics-tech-buy-big-santa-clara-office-real-estate-blue-river/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/10/31/farm-robotics-tech-buy-big-santa-clara-office-real-estate-blue-river/amp/",
-      "publishedDateTime": "2022-10-31T17:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
         "images": null,
         "publishers": null,
         "authors": null

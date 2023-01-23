@@ -40,22 +40,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "How Microsoft can become the biggest winner of generative AI"
-    excerpt: "Azure OpenAI Service can be Microsoft’s winning card in the race to dominate the fast-growing market for generative AI."
-    publishedDateTime: 2023-01-18T15:43:00Z
-    webUrl: "https://venturebeat.com/ai/how-microsoft-can-become-the-biggest-winner-of-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/how-microsoft-can-become-the-biggest-winner-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-microsoft-can-become-the-biggest-winner-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/01/VB_Microsoft_azure_openai_service_logos_011823.jpg?w=1200&strip=all"
-        width: 1200
-        height: 594
-        isCached: true
   - title: "Microsoft rolling out Azure Open AI service with access to Chat GPT soon"
     excerpt: "American tech giant Microsoft is all set to roll out Azure Open AI service this week, which will allow businesses to integrate tools like DALL-E into their own cloud apps. According to The Verge, an American technology news website,"
     publishedDateTime: 2023-01-19T11:49:00Z

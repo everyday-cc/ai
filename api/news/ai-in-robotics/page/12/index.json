@@ -2,6 +2,284 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-10-09-tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks.md",
+      "title": "Tesla robot walks, waves, but doesn’t show off complex tasks",
+      "excerpt": "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned and waved to a cheering crowd at the company’s artificial intelligence event",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
+      "originalUrl": "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/10/TDP-Z-NPWZX6YZ-01.jpg?w=1024&h=605",
+          "width": 1024,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/",
+      "publishedDateTime": "2022-10-08T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-08-explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games.md",
+      "title": "Explained: How Artificial Intelligence can be used to cheat in chess games",
+      "excerpt": "The issue cheating in chess has resurfaced after World Champion Magnus Carlsen refused to play against Hans Niemann, apparently alleging cheating.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/technology/explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games-101665217813692.html",
+      "originalUrl": "https://www.hindustantimes.com/technology/explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games-101665217813692.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/10/08/1600x900/chess_1665218963112_1665218963387_1665218963387.jpeg",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/technology/explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games-101665217813692-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games-101665217813692-amp.html",
+      "publishedDateTime": "2022-10-08T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-08-who-wants-to-swim-with-robot-dolphins-more-people-than-you-may-think.md",
+      "title": "Who wants to swim with robot dolphins? More people than you may think.",
+      "excerpt": "A thin, barely perceptible cord running from its navel to a control panel nearby is the only obvious sign that this is no dolphin—it’s a robot. Delle, a prototype animatronic dolphin currently ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/environment/robot-dolphins/",
+      "originalUrl": "https://www.popsci.com/environment/robot-dolphins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2022/10/07/robot-dolphin.com_.jpg?auto=webp",
+          "width": 2000,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/environment/robot-dolphins/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/robot-dolphins/?amp",
+      "publishedDateTime": "2022-10-07T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-08-ncs-robotics-adding-security-robot-capabilities-to-open-rmf.md",
+      "title": "NCS Robotics adding security robot capabilities to Open-RMF",
+      "excerpt": "NCS Robotics is working with Open Robotics to extend the Open-RMF capabilities to support security robot use cases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/ncs-robotics-adding-security-robot-capabilities-to-open-rmf/",
+      "originalUrl": "https://www.therobotreport.com/ncs-robotics-adding-security-robot-capabilities-to-open-rmf/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/10/featured-web-ncs-robotics.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-07T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-10-07-ai-music-generators-could-be-a-boon-for-artists-but-also-problematic.md",
+      "title": "AI music generators could be a boon for artists — but also problematic",
+      "excerpt": "Stability AI is funding an effort to create a music-generating system using the same AI techniques behind Stable Diffusion.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/07/ai-music-generator-dance-diffusion/",
+      "originalUrl": "https://techcrunch.com/2022/10/07/ai-music-generator-dance-diffusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/DALL·E-2022-10-07-00.01.33-a-robot-composing-music-musical-notes-synthesizer-saturated-colors-shadows-trending-on-artstation-abstract-1-e1665150702829.png?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/07/ai-music-generator-dance-diffusion/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/07/ai-music-generator-dance-diffusion/amp/",
+      "publishedDateTime": "2022-10-07T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-07-boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers.md",
+      "title": "Boston Dynamics: We won't weaponize our robots and neither should our customers",
+      "excerpt": "The company's open letter highlights that consumers' trust in robots has waned after seeing weapons combined with autonomous and remotely controlled robots. Also: The White House passes an AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers/",
+      "originalUrl": "https://www.zdnet.com/article/boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/718372034ce92ee7772a751ee6c975e2498c3e13/2020/06/16/a4a4823e-ca8b-440e-a820-258bff48d5f8/spot.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 961,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers/",
+      "publishedDateTime": "2022-10-07T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-robot-ai-da-will-speak-to-the-house-of-lords-in-westminster.md",
       "title": "Robot Ai-Da will speak to the House of Lords in Westminster",
       "excerpt": "A robot called Ai-Da will become the first robot to speak in the House of Lords in Westminster. The robot will speak to the Lords about Artificial Intelligence (AI) and the future of arts, design, fashion and music industries.",
@@ -1119,287 +1397,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-tesla-robot-walks-and-waves-but-doesnt-show-off-complex-tasks.md",
-      "title": "Tesla robot walks and waves, but doesn't show off complex tasks",
-      "excerpt": "DETROIT — An early prototype of Tesla's proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2022/10/01/tesla-robot-optimus-ai/",
-      "originalUrl": "https://www.autoblog.com/2022/10/01/tesla-robot-optimus-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2022/10/01074706/Screen-Shot-2022-10-01-at-7.46.35-AM.png",
-          "width": 1062,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2022/10/01/tesla-robot-optimus-ai/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/01/tesla-robot-optimus-ai/",
-      "publishedDateTime": "2022-10-01T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000.md",
-      "title": "Tesla AI Day 2022: Musk Promises Optimus Humanoid Robot For Under $20,000",
-      "excerpt": "Elon Musk showed off a working prototype of the Optimus robot at Tesla AI Day 2022, claiming it will cost under $20,000. Synchronized twerking with Elon Musk was not involved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000/",
-      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 343,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63383717f2eee70962377afb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000/amp/",
-      "publishedDateTime": "2022-10-01T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders.md",
-      "title": "Tesla Robot Shows Some Skills, But Falls Flat With Some Robotics Insiders",
-      "excerpt": "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence event ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcdfw.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3086381/",
-      "originalUrl": "https://www.nbcdfw.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3086381/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcdfw.com/2022/09/AP22269595150521.jpg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcdfw.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3086381/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3086381/?amp=1",
-      "publishedDateTime": "2022-10-01T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC DFW",
-        "domain": "nbcdfw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-tesla-unveils-humanoid-optimus-robot-at-ai-event.md",
-      "title": "Tesla unveils humanoid 'Optimus' robot at AI event",
-      "excerpt": "Musk presented the robot during his display at Tesla's AI Day on Friday. The bot runs on the company's artificial intelligence software, which is used in Tesla vehicles for full self-driving and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/news/tesla-unveils-humanoid-optimus-robot-ai-event",
-      "originalUrl": "https://www.washingtonexaminer.com/news/tesla-unveils-humanoid-optimus-robot-ai-event",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/9447613/2147483647/strip/true/crop/2390x1255+0+56/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fa3%2F9d%2F4575bea54fcbbf8d55137e0fa42d%2Ftesla.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T19:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-this-robot-ran-a-world-record-but-its-trainer-says-its-not-dangerous-yet.md",
-      "title": "This robot ran a world record — but its trainer says it's 'not dangerous yet'",
-      "excerpt": "Cassie first made a name for itself in 2021 by completing a 5K on campus with a time of 53 minutes. After months of training, the machine has now set a Guinness World Record for the fastest 100 metre dash by a bipedal robot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/radio/asithappens/this-robot-ran-a-world-record-but-its-trainer-says-it-s-not-dangerous-yet-1.6600931",
-      "originalUrl": "https://www.cbc.ca/radio/asithappens/this-robot-ran-a-world-record-but-its-trainer-says-it-s-not-dangerous-yet-1.6600931",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.6601376.1664575671!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/robot-running.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.6600931",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6600931",
-      "publishedDateTime": "2022-09-30T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-rit-researchers-develop-humanoid-robotic-system-to-teach-tai-chi.md",
-      "title": "RIT researchers develop humanoid robotic system to teach Tai Chi",
-      "excerpt": "RIT researchers develop humanoid robotic system to teach Tai Chi Sep 30, 2022 (PRNewswire via COMTEX) -- PR Newswire ROCHESTER, N.Y., September 30, 2022",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/rit-researchers-develop-humanoid-robotic-system-to-teach-tai-chi-2022-09-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/rit-researchers-develop-humanoid-robotic-system-to-teach-tai-chi-2022-09-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

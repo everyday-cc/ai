@@ -2,6 +2,242 @@
   "page": 135,
   "value": [
     {
+      "path": "_news/2022-09-21-frontline-systems-releases-rasonr-v2023-platform-with-patent-pending-risk-analysis-for-machine-learning-models.md",
+      "title": "Frontline Systems Releases RASON(R) V2023 Platform with Patent-Pending Risk Analysis for Machine Learning Models",
+      "excerpt": "V2023 Platform with Patent-Pending Risk Analysis for Machine Learning Models Sep 21, 2022 (PRNewswire via COMTEX) --",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/frontline-systems-releases-rasonr-v2023-platform-with-patent-pending-risk-analysis-for-machine-learning-models-2022-09-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/frontline-systems-releases-rasonr-v2023-platform-with-patent-pending-risk-analysis-for-machine-learning-models-2022-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-machine-learning-market-2022-size-share-industry-development-scenario-and-forecast-2030.md",
+      "title": "Machine Learning Market 2022 Size, Share, Industry Development Scenario and Forecast 2030",
+      "excerpt": "The global machine learning market was valued at INR 839.55 Bn in 2020. It is expected to reach INR 7632.45 Bn by 2027, expanding at a CAGR of ~37.16% during the 2021 2027 period. Request To Download Free Sample of This Strategic Report: - Machine learning (ML) is the application of artificial intelligence (AI) for developing systems capability to learn automatically and improve their overall performance through experience,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-2022-size-share-industry-development-scenario-and-forecast-2030-2022-09-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-2022-size-share-industry-development-scenario-and-forecast-2030-2022-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T23:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-healthcare-artificial-intelligence-market-to-reach-513-billion-by-2027-growing-at-a-cagr-of-414-from-2020-meticulous-researchr-analysis.md",
+      "title": "Healthcare Artificial Intelligence Market to Reach $51.3 Billion by 2027, Growing at a CAGR of 41.4% from 2020- Meticulous Research(R) Analysis",
+      "excerpt": "Meticulous Research(R) in its latest publication titled \"Healthcare Artificial Intelligence Market by Product and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-to-reach-513-billion-by-2027-growing-at-a-cagr-of-414-from-2020--meticulous-researchr-analysis-2022-09-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-to-reach-513-billion-by-2027-growing-at-a-cagr-of-414-from-2020--meticulous-researchr-analysis-2022-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-how-machine-learning-stock-market-will-grow-worldwide.md",
+      "title": "How Machine Learning Stock Market will Grow Worldwide?",
+      "excerpt": "Pages Report] The global “Machine Learning Stock Market” is expected to rise with an impressive CAGR and generate",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/how-machine-learning-stock-market-will-grow-worldwide-2022-09-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/how-machine-learning-stock-market-will-grow-worldwide-2022-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing.md",
+      "title": "Nvidia unveils new gaming chip with AI features, taps TSMC for manufacturing",
+      "excerpt": "Nvidia Corp on Tuesday (Sept 20) announced new flagship chips for video gamers that use artificial intelligence (AI) to enhance graphics, saying it has tapped Taiwan Semiconductor Manufacturing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/digital/nvidia-unveils-new-gaming-chip-ai-features-taps-tsmc-manufacturing",
+      "originalUrl": "https://www.asiaone.com/digital/nvidia-unveils-new-gaming-chip-ai-features-taps-tsmc-manufacturing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2022/20220920_nvidia_reuters.jpg?h=21a04224&itok=nv6kzfGz",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-smart-microrobots-walk-autonomously-with-electronic-brains.md",
       "title": "Smart microrobots walk autonomously with electronic 'brains'",
       "excerpt": "Researchers have installed electronic 'brains' on solar-powered robots that are 100 to 250 micrometers in size -- smaller than an ant's head -- so that they can walk autonomously without being ...",
@@ -952,239 +1188,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-computer-vision-in-aerospace-and-defense-market-outlook-2022-and-forecast-to-2030-by-airbus-iai-lockheed-martin-raytheon.md",
-      "title": "Computer Vision in Aerospace and Defense Market Outlook 2022 and Forecast to 2030 | By -Airbus, IAI, Lockheed Martin, Raytheon",
-      "excerpt": "New Jersey, United States-The review examines the global Computer Vision in Aerospace and Defense market’s trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-aerospace-and-defense-market-outlook-2022-and-forecast-to-2030-by--airbus-iai-lockheed-martin-raytheon-2022-09-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-aerospace-and-defense-market-outlook-2022-and-forecast-to-2030-by--airbus-iai-lockheed-martin-raytheon-2022-09-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-global-artificial-neural-network-market-to-reach-25845-million-by-2027-researchandmarketscom.md",
-      "title": "Global Artificial Neural Network Market to Reach $258.45 Million by 2027 - ResearchAndMarkets.com",
-      "excerpt": "The Global Artificial Neural Network Market is estimated to be worth USD 171.88 million in 2022, and is expected to reach USD 258.45 million by 2027, growing at a CAGR of 8.5%. The Global Artificial Neural Network Market is segmented based on Component,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2022-9-20-global-artificial-neural-network-market-to-reach-25845-million-by-2027-researchandmarketscom",
-      "originalUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2022-9-20-global-artificial-neural-network-market-to-reach-25845-million-by-2027-researchandmarketscom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-hopper-time-nvidias-most-powerful-ai-chip-yet-ships-in-october.md",
-      "title": "Hopper time: Nvidia’s most powerful AI chip yet ships in October",
-      "excerpt": "The H100, part of the \"Hopper\" architecture, is the most powerful AI-focused GPU Nvidia has ever made, surpassing its previous high-end chip, the A100. The H100 includes 80 billion transistors and a special \"Transformer Engine\" to accelerate machine learning tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/09/hopper-time-nvidias-most-powerful-ai-chip-yet-ships-in-october/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/09/hopper-time-nvidias-most-powerful-ai-chip-yet-ships-in-october/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/NVIDIA-Hopper-GTC-Fall-22_1000-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-macron-no-international-recognition-for-russia-organised-ukraine-referendums.md",
-      "title": "Macron: No international recognition for Russia-organised Ukraine referendums",
-      "excerpt": "French President Emmanuel Macron said on Tuesday that referendums planned in Russian-occupied Ukrainian regions on joining Russia will not be recognised by the international community.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/europe/macron-no-international-recognition-russia-organised-ukraine-referendums-2022-09-20/",
-      "originalUrl": "https://www.reuters.com/world/europe/macron-no-international-recognition-russia-organised-ukraine-referendums-2022-09-20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/8AQzzDAbY7surcAs5sXqf5H_ltY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4BG2GIZQMNJKPC5J5HGGQJP7CI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-how-the-brain-develops-a-new-way-to-shed-light-on-cognition.md",
-      "title": "How the brain develops: A new way to shed light on cognition",
-      "excerpt": "A new study introduces a new neurocomputational model of the human brain that could shed light on how the brain develops complex cognitive abilities and advance neural artificial intelligence research.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-09-brain-cognition.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-09-brain-cognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/how-the-brain-develops.jpg",
-          "width": 2045,
-          "height": 1489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-09-brain-cognition.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-brain-cognition.amp",
-      "publishedDateTime": "2022-09-20T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

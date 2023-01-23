@@ -107,6 +107,58 @@
       ]
     },
     {
+      "path": "_news/2023-01-20-robot-grippers-market-2023-is-anticipated-to-register-a-high-cagr-of-during-the-forecast-period-2023-2027.md",
+      "title": "Robot Grippers Market 2023 is Anticipated to Register a High CAGR of During the Forecast Period 2023-2027",
+      "excerpt": "The global Robot Grippers market size was valued at USD 946.42 million in 2021 and is expected to expand at a CAGR of 14.24% during the forecast period, reaching USD 2103.99 million by 2027.” | Ask For Sample Report Moreover,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/robot-grippers-market-2023-is-anticipated-to-register-a-high-cagr-of-during-the-forecast-period-2023-2027-2023-01-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/robot-grippers-market-2023-is-anticipated-to-register-a-high-cagr-of-during-the-forecast-period-2023-2027-2023-01-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-19T20:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-odisha-soa-signs-mous-with-start-ups-specialising-in-robotics-ai-drone-technology.md",
       "title": "Odisha: SOA signs MoUs with start-ups specialising in robotics, AI, drone technology",
       "excerpt": "The signatories to the MoU were Prof Pradipta Kumar Nanda, Pro-Vice-Chancellor, SOA and Subhajit Nayak and Dhrutidhar Behera",
@@ -682,7 +734,7 @@
       "originalUrl": "https://www.therobotreport.com/soft-robotics-mgripai-uses-simulation-to-train-in-nvidia-isaac-sim/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1122,7 +1174,7 @@
       "originalUrl": "https://in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1154,58 +1206,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-styles-of-machine-learning-intro-to-neural-networks.md",
-      "title": "Styles of machine learning: Intro to neural networks",
-      "excerpt": "Artificial intelligence (AI ... A prominent style of architecture is known as the neural network, a form of so-called deep learning. This article introduces you to neural networks and how ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3683314/styles-of-machine-learning-intro-to-neural-networks.html",
-      "originalUrl": "https://www.infoworld.com/article/3683314/styles-of-machine-learning-intro-to-neural-networks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2022/11/istock-1188134154-100934502-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3683314/styles-of-machine-learning-intro-to-neural-networks.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3683314/styles-of-machine-learning-intro-to-neural-networks.amp.html",
-      "publishedDateTime": "2023-01-19T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

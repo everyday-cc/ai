@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/health/2327456-study-shows-mach
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2327456-study-shows-machine-learning-can-predict-development-of-brain-tumours?amp"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 1280
     height: 960
     isCached: true
-
-related:
-  - title: "Deep-Learning Tool Can Predict Lung Cancer Risk Within Six Years"
-    excerpt: "The tool accurately predicts the risk of lung cancer for individuals with or without a significant smoking history."
-    publishedDateTime: 2023-01-18T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/deep-learning-tool-can-predict-lung-cancer-risk-within-six-years"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/deep-learning-tool-can-predict-lung-cancer-risk-within-six-years"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/deep-learning-tool-can-predict-lung-cancer-risk-within-six-years"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 24
 
 secured: "TN0ck9uRfDmfYLcPzFwdRgxp1qsdAP32uexKPETLbBdtrO2UqHxh3jRJRT+rPf6qVg6AhiUKczTnTfdDU4bA9E1kZZRJaS6rCdjO6PUF5g1y62zKskEnFvMMTLInv14gunR+qjVDoMbBJt1Etydp6bZAvscX8IRT3BMIJ4gLtPlDeR+5mDX3xYzUlU+ZOfSR6zL1nsq7HT1Bp30XLONO2cy8YMI0U5wUqbxcw0bMu2+gIw8V67SF4Tfrtn9EVv4UzbLjHWP3DXXhRjtHuWJZi5aST4zAAbCfa7wzsPqGhhIAdbufnnO21r53vcohfkLICIMzuzkLegLfw2mqOmrTMsJ0Jzhmi16nh+9Rog6yAxqhW56i3MiitAurf2YXwuzASyx9bXUrc6LD85pHN060Pz8SwQA/0H5vxQJYy9mcLrgQm94HwYFd8w9+EYA9hagyxhS+ruv6XQ2EwD7VpBUi32Mzx3GtiLR48IZEHx3I5D1VJpM3mPYViWgX4c6vXbVX50U4wWcRLic9Ctp9we+tDQ==;B/MjpBBu7cweaqaWKFPl+g=="
 ---

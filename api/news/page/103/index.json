@@ -2,6 +2,249 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2022-10-19-metaverse-ai-and-super-apps-watch-out-for-these-top-tech-trends-in-2023.md",
+      "title": "Metaverse, AI and 'super apps': Watch out for these top tech trends in 2023",
+      "excerpt": "Gartner lays out the tech trends that could change how companies operate in 2023 and beyond. As many companies prepare for economic turmoil, IT leaders need to figure out how to save costs while also moving digital projects forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/metaverse-ai-and-super-apps-watch-out-for-these-top-tech-trends-in-2023/",
+      "originalUrl": "https://www.zdnet.com/article/metaverse-ai-and-super-apps-watch-out-for-these-top-tech-trends-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4346b3576e7cda4bb8e38c359fa8dde659b1dee6/2022/10/19/7cc04e5c-5618-48c8-a7f7-f2c40dc3d977/innovation-metaverse-future-tech.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/metaverse-ai-and-super-apps-watch-out-for-these-top-tech-trends-in-2023/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metaverse-ai-and-super-apps-watch-out-for-these-top-tech-trends-in-2023/",
+      "publishedDateTime": "2022-10-19T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament.md",
+      "title": "AI Law And AI Ethics Deeply Disturbed By That Recent “History-Making Moment” Of An AI Robot Testifying To The UK Parliament",
+      "excerpt": "An AI robot spoke to the UK Parliament in a committee hearing, which has been heralded as historic and meanwhile scoffed at as being nothing more than a cheap stunt. We take a close look at what occurred and examine the true limits of AI and robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634dd406801f9839f3ad84c7/0x0.jpg?format=jpg&crop=3835,2159,x0,y240,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/amp/",
+      "publishedDateTime": "2022-10-19T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-asc-solution-for-compliance-recording-is-first-to-be-listed-in-the-microsoft-cloud-for-financial-services.md",
+      "title": "ASC Solution for Compliance Recording is first to be listed in the Microsoft Cloud for Financial Services",
+      "excerpt": "As Teams becomes increasingly important as a platform for financial services ASC and Microsoft have been working together to make regulatory compliance as easy as possible via a Teams–based ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/asc-solution-for-compliance-recording-is-first-to-be-listed-in-the-microsoft-cloud-for-financial-services-1031816791",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/asc-solution-for-compliance-recording-is-first-to-be-listed-in-the-microsoft-cloud-for-financial-services-1031816791",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-general-robotics-launches-naval-rcws.md",
+      "title": "General Robotics launches naval RCWS",
+      "excerpt": "Israel-based General Robotics has launched a naval version of its Remote Controlled Weapon Station (RCWS). Known as Shark, the RCWS is designed for small manned and unmanned naval vessels ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.janes.com/defence-news/news-detail/general-robotics-launches-naval-rcws",
+      "originalUrl": "https://www.janes.com/defence-news/news-detail/general-robotics-launches-naval-rcws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.janes.com/images/default-source/news-images/bsp_44013-idr-19424.jpg?sfvrsn=c6cabfbd_2",
+          "width": 600,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.janes.com/amp/general-robotics-launches-naval-rcws/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
+      "cdnAmpWebUrl": "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/general-robotics-launches-naval-rcws/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
+      "publishedDateTime": "2022-10-19T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jane's Information Group",
+        "domain": "janes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-7-ways-to-better-sell-artificial-intelligence-to-the-business.md",
+      "title": "7 Ways To Better Sell Artificial Intelligence To The Business",
+      "excerpt": "AI transforms the systems and processes that have defined the way business is done. Selling AI as a new way requires some degree of finesse and business sense.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634f37c78835ec41abc9a291/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/amp/",
+      "publishedDateTime": "2022-10-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-artificial-intelligence-in-defense-market-size-worth-1315bn-globally-by-2028-at-108-cagr.md",
       "title": "Artificial Intelligence in Defense Market Size Worth $13.15Bn, Globally, by 2028 at 10.8% CAGR",
       "excerpt": "The latest research study on \"Artificial Intelligence in Defense Market Forecast to 2028 – COVID-19 Impact and",
@@ -942,232 +1185,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-revolutionizing-the-food-industry-and-beyond-through-robots-with-a-human-touch.md",
-      "title": "Revolutionizing the food industry and beyond – through robots with a human touch",
-      "excerpt": "Enter thtRobotics – a Finnish-Norwegian startup revolutionizing the food packaging ... “We see true potential in this company. Not only is the robot gripper one-of-a-kind, but combined with their AI-software, it delivers a complete package that has ...",
-      "sourceUrl": null,
-      "webUrl": "https://arcticstartup.com/voima-ventures-invests-in-thtrobotics/",
-      "originalUrl": "https://arcticstartup.com/voima-ventures-invests-in-thtrobotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://arcticstartup.com/wp-content/uploads/2022/10/voima-ventures-invests-in-thtrobotics-1024x577.png",
-          "width": 1024,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ArcticStartup",
-        "domain": "arcticstartup.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-deep-learning-in-healthcare-market-is-dazzling-worldwide-micron-technology-aws-mythic.md",
-      "title": "Deep Learning in Healthcare Market Is Dazzling Worldwide | Micron Technology, AWS, Mythic",
-      "excerpt": "The Deep Learning in Healthcare – Market Development Outlook Study has been added to HTF MI repository. The study",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-healthcare-market-is-dazzling-worldwide-micron-technology-aws-mythic-2022-10-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-healthcare-market-is-dazzling-worldwide-micron-technology-aws-mythic-2022-10-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-ceremorphic-tapes-out-ai-supercomputing-chip-on-tsmc-5nm-node.md",
-      "title": "Ceremorphic tapes out AI supercomputing chip on TSMC 5nm node",
-      "excerpt": "HYDERABAD: Ceramorphic Inc announced here on Tuesday, that it has successfully taped out its first 5nm chip with its partner TSMC. As the only AI supercomputing chip to solve the high-performance computing needs in reliability,",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanchronicle.com/business/companies/181022/ceremorphic-tapes-out-ai-supercomputing-chip-on-tsmc-5nm-node.html",
-      "originalUrl": "https://www.deccanchronicle.com/business/companies/181022/ceremorphic-tapes-out-ai-supercomputing-chip-on-tsmc-5nm-node.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-ldihcdctlqe67bp5pk7198tm63-20221018221343.Medi.jpeg",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.deccanchronicle.com/amp/business/companies/181022/ceremorphic-tapes-out-ai-supercomputing-chip-on-tsmc-5nm-node.html",
-      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/business/companies/181022/ceremorphic-tapes-out-ai-supercomputing-chip-on-tsmc-5nm-node.html",
-      "publishedDateTime": "2022-10-18T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Chronicle",
-        "domain": "deccanchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-dog-like-robots-will-make-deliveries-on-a-texas-campus-to-see-how-people-robots-interact.md",
-      "title": "Dog-like robots will make deliveries on a Texas campus to see how people, robots interact",
-      "excerpt": "Four-legged autonomous delivery robots will be coming to the University of Texas as part of a study on interactions between people and robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/education/2022/10/18/university-texas-dog-robots-deliver/10532562002/",
-      "originalUrl": "https://www.freep.com/story/news/education/2022/10/18/university-texas-dog-robots-deliver/10532562002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/10/17/NAAS/a71f36f1-4c32-4b62-a708-193923484ef2-Robot.png?auto=webp&crop=875,493,x0,y49&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-nvidia-and-oracle-announce-expanded-cloud-ai-partnership.md",
-      "title": "Nvidia and Oracle announce expanded cloud AI partnership",
-      "excerpt": "Nvidia and Oracle announced an expanded, multiyear partnership today at Oracle CloudWorld to help customers speed AI adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/NVIDA-H100-SXM-image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/amp/",
-      "publishedDateTime": "2022-10-18T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

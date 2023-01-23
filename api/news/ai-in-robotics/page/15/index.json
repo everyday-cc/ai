@@ -2,6 +2,294 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-09-16-can-ai-powered-robots-laugh-for-human-jokes.md",
+      "title": "Can AI-Powered Robots Laugh for Human Jokes?",
+      "excerpt": "Artificial intelligence-powered robot Erica is now trained to laugh for human jokes. Since at least the time of inquiring minds like Plato, philosophers and scientists have puzzled over the question,",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm",
+      "originalUrl": "https://www.medindia.net/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/smile1.jpg.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm",
+      "publishedDateTime": "2022-09-16T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-nala-robotics-and-saudi-excellence-co-to-establish-first-ai-based-robotic-cloud-kitchen-and-rd-center-in-saudi-arabia.md",
+      "title": "Nala Robotics and Saudi Excellence Co. to Establish First AI-Based Robotic Cloud Kitchen and R&D Center in Saudi Arabia",
+      "excerpt": "NAPERVILLE, Ill. and RIYADH, Saudi Arabia, Sept. 15, 2022 /PRNewswire/ -- Nala Robotics, a U.S.-based AI robotics company disrupting the culinary",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nala-robotics-and-saudi-excellence-co-to-establish-first-ai-based-robotic-cloud-kitchen-and-r-d-center-in-saudi-arabia-1031746917",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nala-robotics-and-saudi-excellence-co-to-establish-first-ai-based-robotic-cloud-kitchen-and-r-d-center-in-saudi-arabia-1031746917",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1900242/20220915_112904.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-these-tiny-robots-are-faster-than-a-bugatti-chiron.md",
+      "title": "These Tiny Robots Are Faster Than a Bugatti Chiron",
+      "excerpt": "There have been some fascinating developments in the world of tiny robots recently. We’ve already had the world’s smallest remote control robot, and now a group of scientists has created one ...",
+      "sourceUrl": null,
+      "webUrl": "https://jalopnik.com/these-tiny-robots-are-faster-than-a-bugatti-chiron-1849539483",
+      "originalUrl": "https://jalopnik.com/these-tiny-robots-are-faster-than-a-bugatti-chiron-1849539483",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://jalopnik.com/these-tiny-robots-are-faster-than-a-bugatti-chiron-1849539483/amp",
+      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/these-tiny-robots-are-faster-than-a-bugatti-chiron-1849539483/amp",
+      "publishedDateTime": "2022-09-15T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jalopnik",
+        "domain": "jalopnik.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-buzz-lightyear-is-being-turned-into-a-robot-you-can-buy.md",
+      "title": "Buzz Lightyear Is Being Turned Into A Robot You Can Buy",
+      "excerpt": "Regardless, this robot Space Ranger packs recorded dialog and sounds from the 2022 film, and uses multiple precision servo motors and microchips to control several points of articulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1010644/buzz-lightyear-is-being-turned-into-a-robot-you-can-buy/",
+      "originalUrl": "https://www.slashgear.com/1010644/buzz-lightyear-is-being-turned-into-a-robot-you-can-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/buzz-lightyear-is-being-turned-into-a-robot-you-can-buy/l-intro-1663278039.jpg",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-tomahawk-robotics-awarded-65m-contract-with-united-states-marine-corps.md",
+      "title": "Tomahawk Robotics Awarded $6.5M Contract with United States Marine Corps",
+      "excerpt": "Tomahawk Robotics is thrilled to announce the award of the Autonomy and Robotics Enhanced Multi-Domain Infantry Squad (ARTEMIS) program through the Marine Corps Warfighting Laboratory (MCWL). The $6.5M award spans activities and deliveries scheduled from 2022 through 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-6-5m-contract-with-united-states-marine-corps-1031746080",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-6-5m-contract-with-united-states-marine-corps-1031746080",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1899890/Tomahawk_Robotics_Raid_Plate_System.jpg",
+          "width": 300,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-artificial-intelligence-chip-market-size-2022-2027-share-trends-analysis-and-forecast.md",
+      "title": "Artificial Intelligence Chip Market Size 2022-2027, Share, Trends, Analysis and Forecast",
+      "excerpt": "The latest research study \" Artificial Intelligence Chip Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \" by IMARC Group, finds that the global artificial intelligence chip market size reached a value of US$ 9.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-2022-2027-share-trends-analysis-and-forecast-2022-09-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-2022-2027-share-trends-analysis-and-forecast-2022-09-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-get-global-exposure-to-japans-robotics-industry-with-this-etf.md",
       "title": "Get Global Exposure to Japan’s Robotics Industry With This ETF",
       "excerpt": "There's no doubt that robotics is going to experience unprecedented growth over the next decade as the world becomes more automated, but certain countries have been leading the charge towards that shift,",
@@ -1089,276 +1377,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-robot-software-market-research-insights-with-upcoming-trends-opportunities-competitive-analysis-forecast-to-2022-2031.md",
-      "title": "Robot Software Market Research Insights with Upcoming Trends, Opportunities, Competitive Analysis, Forecast to 2022-2031",
-      "excerpt": "Increasing adoption of Internet of Things (IoT) and Artificial Intelligence (AI) is the key driver for the growth of the robot software market The robot software market size is expected to grow from USD 1,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/robot-software-market-research-insights-with-upcoming-trends-opportunities-competitive-analysis-forecast-to-2022-2031-2022-09-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/robot-software-market-research-insights-with-upcoming-trends-opportunities-competitive-analysis-forecast-to-2022-2031-2022-09-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-overview-of-the-classic-and-advanced-technologies-of-continuum-robots.md",
-      "title": "Overview of the classic and advanced technologies of continuum robots",
-      "excerpt": "A review paper by scientists at the Zhejiang University summarized the development of continuum robots from the aspects of design, actuation, modeling and control field. The new review paper ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220908/Overview-of-the-classic-and-advanced-technologies-of-continuum-robots.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220908/Overview-of-the-classic-and-advanced-technologies-of-continuum-robots.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/6/Chem_Lab_c618f8c3be2845828afd242b15eaaa94-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-review-paper-tiny-biohybrid-robots-for-intelligent-drug-delivery.md",
-      "title": "Review paper: Tiny biohybrid robots for intelligent drug delivery",
-      "excerpt": "A review paper by scientists at Zhejiang University summarized the development of continuum robots from the aspects of design, actuation, modeling and control. The new review paper, published on ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-09-paper-tiny-biohybrid-robots-intelligent.html",
-      "originalUrl": "https://phys.org/news/2022-09-paper-tiny-biohybrid-robots-intelligent.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-robotic-assistance-devices-to-unveil-the-long-awaited-rio-project-at-gsx.md",
-      "title": "Robotic Assistance Devices to unveil the long-awaited RIO project at GSX",
-      "excerpt": "Artificial Intelligence Technology Solutions announced that its wholly owned subsidiary Robotic Assistance Devices will formally unveil the long-awaited RIO project at GSX this month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityinfowatch.com/gsx/article/21280006/robotic-assistance-devices-rad-robotic-assistance-devices-to-unveil-the-longawaited-rio-project-at-gsx",
-      "originalUrl": "https://www.securityinfowatch.com/gsx/article/21280006/robotic-assistance-devices-rad-robotic-assistance-devices-to-unveil-the-longawaited-rio-project-at-gsx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/09/RIO_Gsx_2022.63190ab78f766.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security",
-        "domain": "securityinfowatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning.md",
-      "title": "Is Intel Labs’ brain-inspired AI approach the future of robot learning?",
-      "excerpt": "Intel Labs’ new neuromorphic computing approach is aimed primarily at future applications such as robotic assistants.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/",
-      "originalUrl": "https://venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/Intel.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/amp/",
-      "publishedDateTime": "2022-09-07T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-the-company-that-says-it-is-pioneering-the-golden-age-of-robotics.md",
-      "title": "The Company That Says It Is Pioneering the Golden Age of Robotics",
-      "excerpt": "That's why Ally Robotics has pioneered user-friendly, low-cost robotic arms to meet this demand and is seeking investors to help them expand. And with so many manufacturers, restaurants, and others yet to adopt automation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/leadership/the-company-that-says-it-is-pioneering-the-golden-age-of/434638",
-      "originalUrl": "https://www.entrepreneur.com/leadership/the-company-that-says-it-is-pioneering-the-golden-age-of/434638",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1662129913-Ally-Image2.png",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

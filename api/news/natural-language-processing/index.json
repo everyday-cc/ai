@@ -193,58 +193,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-19-what-happens-when-ai-has-read-everything.md",
-      "title": "What Happens When AI Has Read Everything?",
-      "excerpt": "The dream of an artificial mind may never become a reality if AI runs out of quality prose to ingest—and there isn’t much left.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/technology/archive/2023/01/artificial-intelligence-ai-chatgpt-dall-e-2-learning/672754/",
-      "originalUrl": "https://www.theatlantic.com/technology/archive/2023/01/artificial-intelligence-ai-chatgpt-dall-e-2-learning/672754/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/YtelEHhCyUFO0EOlrvm4EfYIo5E=/0x24:1200x649/1200x625/media/img/mt/2023/01/AI_Limits_Final_04/original.gif",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-19-natural-language-processing-in-artificial-intelligence-what-it-is-and-why-it-matters.md",
       "title": "Natural Language Processing in Artificial Intelligence: What It Is and Why It Matters",
       "excerpt": "F or the past few decades, the idea of Artificial Intelligence (AI) has moved from being the stuff of pure science fiction to something that seems to be inching closer to reality.",
@@ -1427,6 +1375,40 @@
       "provider": {
         "name": "News Medical",
         "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-natural-language-processing-market-size-worth-usd-16181-billion-by-2029-report-by-fortune-business-insights.md",
+      "title": "Natural Language Processing Market size Worth USD 161.81 Billion by 2029 | Report by Fortune Business Insights",
+      "excerpt": "Moreover, rising adoption of electronics elevated natural language processing adoption. Also rapid digitalization in companies enhanced the adoption of the software. These factors enhanced this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/g30329142/natural-language-processing-market-size-worth-usd-161-81-billion-by-2029-report-by-fortune-busines",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/g30329142/natural-language-processing-market-size-worth-usd-161-81-billion-by-2029-report-by-fortune-busines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T03:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

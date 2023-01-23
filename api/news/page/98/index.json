@@ -2,6 +2,221 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2022-10-23-clinical-natural-language-processing-market-future-growth-and-business-opportunities-2022-2029recent-research-report.md",
+      "title": "Clinical Natural Language Processing Market Future Growth and Business Opportunities 2022-2029|Recent Research Report",
+      "excerpt": "Global Clinical Natural Language Processing Market report discusses the innovative concepts of top key players, current industry status, and SWOT analysis which will help the organization to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/clinical-natural-language-processing-market-future-growth-and-business-opportunities-2022-2029recent-research-report",
+      "originalUrl": "https://www.digitaljournal.com/pr/clinical-natural-language-processing-market-future-growth-and-business-opportunities-2022-2029recent-research-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.postimg.cc/VNFBndzq/Social-Media-Graph-01-1-500.png",
+          "width": 500,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-23T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-23-aetina-launches-new-mxm-gpu-modules-for-ai-performance-boost-at-the-edge.md",
+      "title": "Aetina Launches New MXM GPU Modules for AI Performance Boost at the Edge",
+      "excerpt": "The model names of the new Aetina MXM GPU modules powered by NVIDIA RTX A1000, NVIDIA RTX A2000, and NVIDIA RTX A4500 are M3A1000-PP, M3A2000-VY, and M3A4500-WP, respectively. These models support CUDA Compute version 8.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/10/23/9697751.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/10/23/9697751.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1927424/Aetina_Launches_New_MXM_GPU_Modules_Powered_NVIDIA_AI_Performance.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-23-mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion.md",
+      "title": "Mind control: The metaverse may be the ultimate tool of persuasion",
+      "excerpt": "In an unregulated metaverse, a controlling force with deep knowledge of users can use feedback loops to drive them toward a desired goal.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/virtual/mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion/",
+      "originalUrl": "https://venturebeat.com/virtual/mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Metaverse-Mind-Control-image-001.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/virtual/mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/virtual/mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion/amp/",
+      "publishedDateTime": "2022-10-22T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-23-driverless-tractor-kills-pedestrian-in-southeast-kansas.md",
+      "title": "Driverless tractor kills pedestrian in southeast Kansas",
+      "excerpt": "CHEROKEE COUNTY, Kan. (KSNW) — A Cherokee, Kansas man has died after being hit by a driverless tractor in eastern Kansas on Saturday. The Kansas Highway Patrol Crash Log says a 190 Allis ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksn.com/news/state-regional/driverless-tractor-kills-pedestrian-in-southeast-kansas/",
+      "originalUrl": "https://www.ksn.com/news/state-regional/driverless-tractor-kills-pedestrian-in-southeast-kansas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-22T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ksn.com",
+        "domain": "ksn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-23-the-amazing-race-fans-speculate-which-season-34-racer-contracts-covid-19.md",
+      "title": "‘The Amazing Race’ Fans Speculate Which Season 34 Racer Contracts COVID-19",
+      "excerpt": "Following the premiere of The Amazing Race Season 34 Episode 5, CBS aired a preview for episode 6. It appears as though the teams will stay in Jordan for the fifth leg of the race. The pairs will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cheatsheet.com/entertainment/the-amazing-race-fans-speculate-season-34-racer-contracts-covid-19.html/",
+      "originalUrl": "https://www.cheatsheet.com/entertainment/the-amazing-race-fans-speculate-season-34-racer-contracts-covid-19.html/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cheatsheet.com/wp-content/uploads/2022/10/The-Amazing-Race-Season-34-1.jpg?w=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-22T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Cheat Sheet",
+        "domain": "cheatsheet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-23-driverless-car-quest-has-made-a-bonfire-out-of-75-billion.md",
       "title": "Driverless car quest has made a bonfire out of $75 billion",
       "excerpt": "Autonomous vehicle companies and suppliers have collectively spent around $75 billion developing self-driving technology, with scant sign of meaningful revenue emerging from robo-car services ...",
@@ -929,238 +1144,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-how-ai-can-help-in-the-fight-against-breast-cancer.md",
-      "title": "How AI can help in the fight against breast cancer",
-      "excerpt": "In 2020, there were 2.3 million people diagnosed with breast cancer and 685,000 deaths globally. Early cancer detection is key to better health outcomes. But screenings are work intensive, and patients often find getting mammogramsand waiting for results stressful.In response to these challenges, Google",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/how-ai-can-help-in-the-fight-against-breast-cancer/",
-      "originalUrl": "https://blog.google/technology/health/how-ai-can-help-in-the-fight-against-breast-cancer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Mammo_Image_2.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-post-covid-cognitive-impairments-similar-to-being-sleep-deprived-canadian-led-study.md",
-      "title": "Post-COVID cognitive impairments similar to being 'sleep deprived': Canadian-led study",
-      "excerpt": "A new Western University-led study has shed more light on the impacts of COVID-19, suggesting patients may experience short- and long-term cognitive impairments following infection, which can be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/health/coronavirus/post-covid-cognitive-impairments-similar-to-being-sleep-deprived-canadian-led-study-1.6117002",
-      "originalUrl": "https://www.ctvnews.ca/health/coronavirus/post-covid-cognitive-impairments-similar-to-being-sleep-deprived-canadian-led-study-1.6117002",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-databrickss-chris-dagostino-on-ai-and-data-management.md",
-      "title": "Databricks’s Chris D’Agostino on AI and Data Management",
-      "excerpt": "A new survey details major market trends in the data and AI sectors, and reveals how these two technologies closely interoperate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/database/databricks-ai-and-data-management/",
-      "originalUrl": "https://www.eweek.com/database/databricks-ai-and-data-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/10/eSPEAKS-thumbnail-5.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-billiondollarbreaks-d-wave-quantum-inc-nyse-qbts-now-available-in-aws-marketplace.md",
-      "title": "BillionDollarBreaks - D-Wave Quantum Inc. (NYSE: QBTS) Now Available in AWS Marketplace",
-      "excerpt": "D-Wave Quantum Inc. (NYSE: QBTS), a leader in quantum computing systems, software and services, and the only quantum computing company building both annealing and gate-model quantum computers, has launched in AWS Marketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/billiondollarbreaks---d-wave-quantum-inc-nyse-qbts-now-available-in-aws-marketplace-2022-10-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/billiondollarbreaks---d-wave-quantum-inc-nyse-qbts-now-available-in-aws-marketplace-2022-10-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-new-flexible-steerable-device-placed-in-live-brains-by-minimally-invasive-robot.md",
-      "title": "New flexible, steerable device placed in live brains by minimally invasive robot",
-      "excerpt": "Imperial College London scientists have successfully placed a bioinspired steerable catheter into the brain of an animal for the first time.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-flexible-steerable-device-brains-minimally.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-flexible-steerable-device-brains-minimally.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/new-flexible-steerable.jpg",
-          "width": 1934,
-          "height": 1894,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-flexible-steerable-device-brains-minimally.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-flexible-steerable-device-brains-minimally.amp",
-      "publishedDateTime": "2022-10-21T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

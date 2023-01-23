@@ -43,22 +43,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "How Microsoft can become the biggest winner of generative AI"
-    excerpt: "Azure OpenAI Service can be Microsoft’s winning card in the race to dominate the fast-growing market for generative AI."
-    publishedDateTime: 2023-01-18T15:43:00Z
-    webUrl: "https://venturebeat.com/ai/how-microsoft-can-become-the-biggest-winner-of-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/how-microsoft-can-become-the-biggest-winner-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-microsoft-can-become-the-biggest-winner-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/01/VB_Microsoft_azure_openai_service_logos_011823.jpg?w=1200&strip=all"
-        width: 1200
-        height: 594
-        isCached: true
   - title: "Microsoft and Google Will Both Have to Bear AI’s Costs"
     excerpt: "Tools such as ChatGPT could upend search and cloud computing, but the cost will be high as profit margins draw more scrutiny."
     publishedDateTime: 2023-01-19T00:03:00Z

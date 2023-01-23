@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-23T05:24:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/273415614/artificial-intelligence-created-the-design-of-pet-supplies"
 webUrl: "https://www.bignewsnetwork.com/news/273415614/artificial-intelligence-created-the-design-of-pet-supplies"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn.bignewsnetwork.com/cus1674192965371.jpg"
