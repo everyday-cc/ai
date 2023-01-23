@@ -2,19 +2,27 @@
 category: news
 title: "New driverless rideshare Cruise caught on video driving in the wrong lane multiple times"
 excerpt: "AUSTIN, Texas — A new driverless rideshare, Cruise LLC, was seen driving in the wrong lane multiple times over the weekend. It's a rideshare company similar to Uber, except there's no human driver."
-publishedDateTime: 2023-01-10T18:23:00Z
-originalUrl: "https://www.kvue.com/article/traffic/cruise-driverless-rideshare-austin-bike-lane/269-c8826ccb-526b-42f5-9e96-8437740ff21b"
-webUrl: "https://www.kvue.com/article/traffic/cruise-driverless-rideshare-austin-bike-lane/269-c8826ccb-526b-42f5-9e96-8437740ff21b"
+publishedDateTime: 2023-01-11T11:39:00Z
+originalUrl: "https://www.khou.com/article/traffic/cruise-driverless-rideshare-austin-bike-lane/269-c8826ccb-526b-42f5-9e96-8437740ff21b"
+webUrl: "https://www.khou.com/article/traffic/cruise-driverless-rideshare-austin-bike-lane/269-c8826ccb-526b-42f5-9e96-8437740ff21b"
+ampWebUrl: "https://www.khou.com/amp/article/tech/cruise-driverless-rideshare-austin-bike-lane/269-c8826ccb-526b-42f5-9e96-8437740ff21b"
+cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/tech/cruise-driverless-rideshare-austin-bike-lane/269-c8826ccb-526b-42f5-9e96-8437740ff21b"
 type: article
 
 provider:
-  name: KVUE
-  domain: kvue.com
+  name: KHOU 11
+  domain: khou.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "4MSOJCYrLSQAs43FdjfkQaCkRLUMrD+kxCSVie+M0QRQx0mNlHObiI25scvqUpxb+5RXc1/FiHssOqGLNFxvW4cW8X+aFkZXLarJD1ViQKculo2zhRWyAY+Q9y10nP+JuIXCOzk83WiZO3NHyOT51B3rSg3fefmUTzIxZnnYOOGqcV8AhVQ/sYm+s2zsPafPkePv5PiYOKL5SBJtAipb5xRiVDeJeI5sYkA+ZaJvVuL8uvT8x2tcUdyhqzc8WmyQ/uUrxlex4aePxYIxexo/gYFCqzy9a77t//zuCtozJH4jj8693dQ7ejxCkj0xhRXEsSS9ZR1rmomyO+PY8GRNl8yNuEHR/N96A2gnMsKhqv0=;K58L5WJUjsMZJdg3un3kjQ=="
+images:
+  - url: "https://media.khou.com/assets/KVUE/images/adc61435-61cc-4e7b-bf6b-f1f20e3cc86e/adc61435-61cc-4e7b-bf6b-f1f20e3cc86e_1140x641.jpg"
+    width: 1140
+    height: 641
+    isCached: true
+
+secured: "HGfuiL2FTqQRjYLpoSRU2qGRaXuP6M0SXnEnICdY1WGfAr5zH2K6n2imxZ0gLBZckBL5KSEGZje+2uAWqtFauIT/rkEeNMFwljRhMo2cgHOB5uyEGm+afNW6fjigZqDnd5rX5aqZabSerkJk+wfNw9JTpLVAHJQS3A4tv8Ufb4FNz0EORd8tteqqi7Kw6XaL8piDulNYZAJSrFv/YPPIWBLIWAcrC+qPioH7s9sB6Q2lZ4xtiiXyTYMaxHSLDJMiMODkf7qnL58Bp7cHZic0OScBuwyoAeRGHPXtfzAIIoheMwCCG5edn9mvdojlS1sNnygV4nqOCBoq5rVzFYmV3c45sAuPJBYwTW+0Vav9NIo=;WEnHZGkIEvoot7BFu0kedg=="
 ---
 

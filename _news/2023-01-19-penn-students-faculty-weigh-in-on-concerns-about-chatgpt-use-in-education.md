@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chatgpt Could Be A Game-Changer For Marketers, But It Won't Replace Humans Any Time Soon"
+    excerpt: "The recent release of the ChatGPT chatbot in November 2022 has generated significant public interest . In essence, ChatGPT is an AI-powered chatb"
+    publishedDateTime: 2023-01-22T18:26:00Z
+    webUrl: "https://menafn.com/1105462407/Chatgpt-Could-Be-A-Game-Changer-For-Marketers-But-It-Wont-Replace-Humans-Any-Time-Soon"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 15
+    images:
+      - url: "https://menafn.com/updates/pr/2023-01/22/TC_06612image_story.jpg"
+        width: 1250
+        height: 703
+        isCached: true
   - title: "Scores of Stanford students used ChatGPT on final exams, survey suggests"
     excerpt: "About 17% of student respondents on an anonymous poll admitted to using ChatGPT in their fall quarter final assignments. The majority agree that using the AI tool is a violation of the"
     publishedDateTime: 2023-01-23T00:04:00Z

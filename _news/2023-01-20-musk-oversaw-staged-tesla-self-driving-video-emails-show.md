@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/amp/"
 type: article
 quality: 104
-heat: 264
+heat: 254
 published: true
 
 provider:
@@ -156,20 +156,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/6015x3383+0+947/resize/800x450!/format/jpg/quality/85/https://media.zenfs.com/en/insider_articles_922/8050fe51a55b97368be98f6f319f1a38"
         width: 800
         height: 450
-        isCached: true
-  - title: "Tesla engineer testified that promotional self-driving video was staged"
-    excerpt: "(Ethan Miller/Getty Images) A 2016 video that Tesla used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior ..."
-    publishedDateTime: 2023-01-18T12:14:00Z
-    webUrl: "https://www.cbc.ca/news/business/tesla-deposition-self-driving-claim-1.6717564"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 39
-    images:
-      - url: "https://i.cbc.ca/1.6717570.1674041200!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/630933360.jpg"
-        width: 620
-        height: 349
         isCached: true
   - title: "Tesla engineer testifies 2016 self-driving video was staged"
     excerpt: "A 2016 video that purported to show the self-driving capabilities of a Tesla car was staged, a senior engineer testified."

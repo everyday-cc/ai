@@ -177,22 +177,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 62
-  - title: "ChatGPT, a new AI Bot in town: Top 7 things you should know"
-    excerpt: "It does have shortcomings since it is AI. However, it tends to warn the user incase it does not have enough knowledge on the subject. While ChatGPT is focussed on human-like text, Google Search's forte is image or voice recognition, language translation ..."
-    publishedDateTime: 2023-01-18T12:52:00Z
-    webUrl: "https://www.bgr.in/webstories/news/chatgpt-a-new-ai-bot-in-town-top-7-things-you-should-know-1357013/"
-    ampWebUrl: "https://www.bgr.in/webstories/news/chatgpt-a-new-ai-bot-in-town-top-7-things-you-should-know-1357013/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/webstories/news/chatgpt-a-new-ai-bot-in-town-top-7-things-you-should-know-1357013/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 59
-    images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2023/01/Untitled-design-2023-01-18T154735.163.jpg"
-        width: 640
-        height: 853
-        isCached: true
   - title: "Adani is hooked on ChatGPT, says race for AI to get complex"
     excerpt: "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amount of information to generate natural-sounding text on virtually anything - from crafting jokes to writing ad copy,"
     publishedDateTime: 2023-01-20T12:19:00Z
@@ -225,15 +209,6 @@ related:
         width: 850
         height: 567
         isCached: true
-  - title: "How to Invest in ChatGPT? You Can’t. Here Are 3 AI Stock Alternatives."
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips How to invest in ChatGPT is a difficult problem to solve, but if you’re"
-    publishedDateTime: 2023-01-18T11:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-invest-in-chatgpt-you-cant-here-are-3-ai-stock-alternatives-1032025067"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
   - title: "Microsoft Azure will be adding ChatGPT to its cloud services soon"
     excerpt: "Microsoft announced the broad availability of its Azure OpenAI Service and customers will also be able to access ChatGPT."
     publishedDateTime: 2023-01-19T00:15:00Z
@@ -434,15 +409,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 30
-  - title: "Artificial intelligence software ChatGPT’s mock exam answers pass plagiarism checks, but AI detection software available"
-    excerpt: "Universities are having to adapt to combat potential plagiarism using artificial intelligence. Dr Popenici also encouraged education institutions to embrace AI. “Let’s use AI to enhance more significant ways to assess what our students learn and what ..."
-    publishedDateTime: 2023-01-18T12:03:00Z
-    webUrl: "https://www.goldcoastbulletin.com.au/news/queensland/artificial-intelligence-software-chatgpts-mock-exam-answers-pass-plagiarism-checks-but-ai-detection-software-available/news-story/7e612a21840fbb19eb6f8f3422d9d087"
-    type: article
-    provider:
-      name: Gold Coast Sun
-      domain: goldcoastbulletin.com.au
-    quality: 7
   - title: "We Used ChatGPT To Write An Article About... ChatGPT. This Is What Happened"
     excerpt: "Many people are talking about ChatGPT because it is a very advanced computer programme that can understand and respond to human language in a very natural way. It can answer questions, have conversations,"
     publishedDateTime: 2023-01-19T08:49:00Z
@@ -453,6 +419,6 @@ related:
       domain: says.com
     quality: 2
 
-secured: "ElC+e9jmfmPwf/juUxpj3qsElGtijDHpbOR2gE/0m4thq79Y4ODaL5Z4m1PC1LbhslwOE6KyJCxe0iB73HxH6VNo3oVV2xiwM50RVws18/cNRRZjBuiZ0javRyYY+0qS6RLRQxMS66CR9GgcDyXt5z88wjnZFCwPxyJuuF0eB7q7yr+yapkU2IPz814HeMKzbVZQE7JJel2QKWK0advxvRa6pJvwRqYr7NVpIx1x0Db9lz85S9cAGHPmt5DDcfNKRhO3BlVuGCL8+6bu0OoiwvOUKm0bn0fDIGr1v3hhmVEg7C6yZlEY4q5AgBC0y6ATm3jAEldTJ5jMWavX6tuCVIBzwKGJh/jzgiVJ8EJoqLw=;7i5nfe0N3AIHyd66HBXjgg=="
+secured: "wvNX89sYOza2EnY9WrgdIz2hcF7BCTZQaNtrkupIZwRG7wFulzv5JntNrsEsb1HRYXTSQIdOeTREpyLeL1bsxPB9gQUCdA45w/O5nwebKjEXVKACFwM5/ziDx+93SapA7EDroD1/aZ099VAcrw1wOBZuoBCi9RrHRECKGbU6rxASc2Qe9L9jOKKLoI8ueaePH3GMfBy7PJsWiDQuYgVGOUp2V4wWQkzAqXxs9Nszk4dFFl1Jq/8WK+HLvNVhBxVw8lusBoniQDfuvv2gWVvTjsOholVZDT3XtG3kn3dNQ2j7BHj8mEDdppz0c765ifQfLqCE8/baahq2tq42AaxJQTBucM0yjy/bqfMZREItxp0uST9sVOnBnGIAfeSn+tVMsR+x/q62BvsbIw2URvjddIIBhD6NoQNqYNvSK3+CFeoSc0HUbMK/EVsvPQygzswpYNfdeJsrQw2H4gCKPvcpUxulh3LeCIPEfCE5WTULU202yVVNfz54gP6IO2bVJCa3kNxqy0nFugqoAF37vY3waw==;ZOt/e1JvEGAs8yBgIuYjJw=="
 ---
 

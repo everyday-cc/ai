@@ -50,6 +50,20 @@ related:
         width: 3024
         height: 2530
         isCached: true
+  - title: "Michigan teachers wary of new artificial intelligence software"
+    excerpt: "ChatGPT has been around since November and has taken the internet by storm, but is raising questions in Michigan classrooms."
+    publishedDateTime: 2023-01-23T03:02:00Z
+    webUrl: "https://www.detroitnews.com/story/news/education/2023/01/23/michigan-teachers-wary-of-new-artificial-intelligence-software-chatgpt/69827626007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 37
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/31/PDTN/d24ffaa2-673b-4ac9-a796-0798f6ce1752-genericschool.jpg?auto=webp&crop=5186,2917,x106,y876&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "HHY9l8ossZ23mXpD4kP0Oqz7I41aVS0sBKQa1Bb4fArEZP/Ii8NiLAMcbk5kR6zCRzQutoNIrKsd4JGxNKFsGV5aGePioaYrhroUGkavIs1dG5MtpO8t4Ucm554bm4oRE9aQRqG85JgWr6ZPTi6+HWgGNNuSoEkde2WNOSFnTud1DcvHt5JYg+c77e5VgVT/u0a9dFDXiElxGcFAvXdrIMOAe05rikkku4HlZWfTzo4hbee6XWedwR0Sap2ffccXKSlgF9Lbgdg2uoMS3deoZ1/Qncf8SOYUYb/I+yEI5fF0yKwtH7ZTjE6YumIDiD5Tee5bxl9DA0j0rgqTCwSA9l/XY+p9swBb2Fc5u60oEO0dWqEb7EGUHhvJVnUCiGlarN95OT9eyZN6UczlS7MH2F9UH3hHmRlf3g+z+yQbak0g4q7YwaQmoU0u7/uQqioJwmI4Zzr/6Edd1jGITDI3kJv455EZZijxnQbVy16I4S0JygJ5xMh55W4wSNAkqWL6VRYnmW4+qiIbT57fO6+KVg==;LDr+McBD8EWI4+tvMvKlHQ=="
 ---

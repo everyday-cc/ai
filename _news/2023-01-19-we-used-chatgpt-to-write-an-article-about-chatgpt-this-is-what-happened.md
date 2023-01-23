@@ -172,22 +172,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 62
-  - title: "ChatGPT, a new AI Bot in town: Top 7 things you should know"
-    excerpt: "It does have shortcomings since it is AI. However, it tends to warn the user incase it does not have enough knowledge on the subject. While ChatGPT is focussed on human-like text, Google Search's forte is image or voice recognition, language translation ..."
-    publishedDateTime: 2023-01-18T12:52:00Z
-    webUrl: "https://www.bgr.in/webstories/news/chatgpt-a-new-ai-bot-in-town-top-7-things-you-should-know-1357013/"
-    ampWebUrl: "https://www.bgr.in/webstories/news/chatgpt-a-new-ai-bot-in-town-top-7-things-you-should-know-1357013/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/webstories/news/chatgpt-a-new-ai-bot-in-town-top-7-things-you-should-know-1357013/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 59
-    images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2023/01/Untitled-design-2023-01-18T154735.163.jpg"
-        width: 640
-        height: 853
-        isCached: true
   - title: "Adani is hooked on ChatGPT, says race for AI to get complex"
     excerpt: "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amount of information to generate natural-sounding text on virtually anything - from crafting jokes to writing ad copy,"
     publishedDateTime: 2023-01-20T12:19:00Z
@@ -220,15 +204,6 @@ related:
         width: 850
         height: 567
         isCached: true
-  - title: "How to Invest in ChatGPT? You Can’t. Here Are 3 AI Stock Alternatives."
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips How to invest in ChatGPT is a difficult problem to solve, but if you’re"
-    publishedDateTime: 2023-01-18T11:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-invest-in-chatgpt-you-cant-here-are-3-ai-stock-alternatives-1032025067"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
   - title: "Microsoft Azure will be adding ChatGPT to its cloud services soon"
     excerpt: "Microsoft announced the broad availability of its Azure OpenAI Service and customers will also be able to access ChatGPT."
     publishedDateTime: 2023-01-19T00:15:00Z
@@ -443,15 +418,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 30
-  - title: "Artificial intelligence software ChatGPT’s mock exam answers pass plagiarism checks, but AI detection software available"
-    excerpt: "Universities are having to adapt to combat potential plagiarism using artificial intelligence. Dr Popenici also encouraged education institutions to embrace AI. “Let’s use AI to enhance more significant ways to assess what our students learn and what ..."
-    publishedDateTime: 2023-01-18T12:03:00Z
-    webUrl: "https://www.goldcoastbulletin.com.au/news/queensland/artificial-intelligence-software-chatgpts-mock-exam-answers-pass-plagiarism-checks-but-ai-detection-software-available/news-story/7e612a21840fbb19eb6f8f3422d9d087"
-    type: article
-    provider:
-      name: Gold Coast Sun
-      domain: goldcoastbulletin.com.au
-    quality: 7
 
 secured: "VYRU+u55nPOdl/t1vY6RJVDrU7Kv4qB2w4FKMz+uJP2JtdhVlKFAJ0whhKFd70g8z3IlEwVg6nWfPyFO9P/PMsLgSxdscdF0RHvrl7fQVvdp+zFnzgAMt9KvyneX6OXX9dDGErWnbWeq7HK31L5XnH3zMYh9ZFDjw46nzsNUoDoYkGjTC5whD8ByVztD5lGrPOvCYhGCgLWA81eD0GtskgYaxUXF3SnDQXQ7uloi8NRjZtTgWUbgMzfRdZVej5UPxjZjpRyvOrambHg4yu0PoaKnkVm9zSxK+sEkYHHxsEZhp9ly63J05kaowvjmI2vez8EzaVSE2vH17Z9ZQ/coHvpCn+LAtXk+MEy+uQl6jAN27E/YRcJo2i19KbnHdy6LuVdhtn12aihCrL1gtxt+d5Cc9pPzK3vZDMpN9EUoJ1ACWQ+YtgMFM/3cI7hL07ya5/wvx/PE7luswNNDniJx3RULlu0NABJDg/FT6ZKgi8OSJefOX7t8bJwvXjfJxsKaUESqMAf0RHp7Qj52SXiVog==;Y4zUdXfqGImEFNNrav1fiA=="
 ---

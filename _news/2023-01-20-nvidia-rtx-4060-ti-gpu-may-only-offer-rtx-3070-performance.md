@@ -24,6 +24,22 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "NVIDIA RTX 6000 Ada workstation GPU listed at $6800 with 48GB of memory"
+    excerpt: "Built on the NVIDIA Ada Lovelace GPU architecture, the RTX 6000 combines third-generation RT Cores, fourth-generation Tensor Cores, and next-gen CUDA cores with 48GB of graphics memory for unprecedented rendering, AI, graphics, and compute performance."
+    publishedDateTime: 2023-01-23T03:08:00Z
+    webUrl: "https://www.tweaktown.com/news/90105/nvidia-rtx-6000-ada-workstation-gpu-listed-at-6800-with-48gb-of-memory/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
+    images:
+      - url: "https://static.tweaktown.com/news/9/0/90105_01_nvidia-rtx-a6000-ada-workstation-gpu-listed-at-6800-with-48gb-of-memory.jpg"
+        width: 620
+        height: 325
+        isCached: true
+
 secured: "ureOSqCyQPvMuCrQFfiYnZq6j4RgnDaGx+jHU2TwYa2SfKmQbApbR3GckU95uRz992JzF+BiYYE5X6Lvto2xQvja7wlttPyYfY+0Ghgk5rPGXhYbVpOfX6XmnCg0EzeUNpH41x06fSxtvK9F9s3FDRSmBOCWGAexmv4GfN/Cbx2997sqBaZLMpcs3t4Gl+7GKazFUwblzWIGnbbmrFc6Xnlfj4CB51w2MDDXJn8eJMgGHKejcliZUcOKI3IBeII+nJ16k2cq3LpyhK6lL+ssdb6hxKCyF5C8ZLPnnOmaRL2pnl13YsJw0TBFqsGQMb+06fvh7BmoDhYZawuiN3j72n7fzqM46yDwB+lQG0fN7m4F6xHnaLcRU1DEV/PIXGkwxCQ8n+zLmUl9CAhrogwybo1H2vXj5pxjuzWSnyHx704AILfuEWj38bDz8BEDkahSohAJm32kf5e/Je1fos/2qr2DA6ddIl6udoO9SrdaATvFyW18bYo9nmoLCYhjt3k79WcqckKRXhcWFwi7q09AEA==;zd4uu99A1oy9A9jlKtaBqg=="
 ---
 

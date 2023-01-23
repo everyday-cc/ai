@@ -167,20 +167,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Tesla engineer testified that promotional self-driving video was staged"
-    excerpt: "(Ethan Miller/Getty Images) A 2016 video that Tesla used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior ..."
-    publishedDateTime: 2023-01-18T12:14:00Z
-    webUrl: "https://www.cbc.ca/news/business/tesla-deposition-self-driving-claim-1.6717564"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 39
-    images:
-      - url: "https://i.cbc.ca/1.6717570.1674041200!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/630933360.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Tesla engineer testifies 2016 self-driving video was staged"
     excerpt: "A 2016 video that purported to show the self-driving capabilities of a Tesla car was staged, a senior engineer testified."
     publishedDateTime: 2023-01-18T16:45:00Z

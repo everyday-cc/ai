@@ -25,22 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind's Sparrow is Google's answer to ChatGPT"
-    excerpt: "Ever since the launch of OpenAI’s ChatGPT, Google has been scrambling to build a rival. Now, Google’s subsidiary DeepMind, known for its pioneering work in AI research, has announced plans to launch a new chatbot called Sparrow. The company ..."
-    publishedDateTime: 2023-01-18T12:38:00Z
-    webUrl: "https://www.androidheadlines.com/2023/01/deepmind-sparrow-google-answer-to-chatgpt.html"
-    ampWebUrl: "https://www.androidheadlines.com/2023/01/deepmind-sparrow-google-answer-to-chatgpt.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/01/deepmind-sparrow-google-answer-to-chatgpt.html?amp"
+  - title: "Penn students, faculty weigh in on concerns about ChatGPT use in education"
+    excerpt: "ChatGPT, which was developed by OpenAI, can complete tasks like writing essays or code and solving math problems."
+    publishedDateTime: 2023-01-19T03:56:00Z
+    webUrl: "https://www.thedp.com/article/2023/01/penn-chat-gpt-influence-plagiarism-technology"
     type: article
     provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
+      name: The Daily Pennsylvanian
+      domain: thedp.com
+    quality: 39
     images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/11/artificial-intelligence-image-8398439438.jpg"
-        width: 1345
-        height: 900
+      - url: "https://snworksceo.imgix.net/dpn/dbb755ec-4a3d-4c89-97ae-bb848a124ce9.sized-1000x1000.jpg?w=800"
+        width: 800
+        height: 533
         isCached: true
+  - title: "Scores of Stanford students used ChatGPT on final exams, survey suggests"
+    excerpt: "About 17% of student respondents on an anonymous poll admitted to using ChatGPT in their fall quarter final assignments. The majority agree that using the AI tool is a violation of the"
+    publishedDateTime: 2023-01-23T00:04:00Z
+    webUrl: "https://stanforddaily.com/2023/01/22/scores-of-stanford-students-used-chatgpt-on-final-exams-survey-suggests/"
+    type: article
+    provider:
+      name: The Stanford Daily
+      domain: stanforddaily.com
+    quality: 3
 
 secured: "3kDdre2lIvMi7na3DXNL4aMQn0rwzchA5Rqty26aKd1kfPiyNWOismo1rJMSf/+eNjSZalzRfCV+msnhRZRhE5gRSnyXDepFHvmzo54RtJZ/F1+7Q2rRhFRoJfF6Lb6rPG4lVECOxdFRO3JVTxGCMA/ZWuebhrcKhF7SJ1hc8X2ImbrENwYmzYgFgNgYo7SO1rxbUx9NfYBxW2MPqgLb76SkxGYdx7GvSO0tWUFZUHjS+bGMN/o6t2R0k4AWH2tUhSQQSDUwDOmUOijGmR1T7J77RycFzpWaYlewdaYTgOJIqXeR7UBkBLg+S1oomi1GvhlFOsxXDPTZHQ6lZ3R2lfTb5tQiQixT5opIFN6vuBgiHtOGD272V9kQpLrMRJdV1m46vVfiPTAoXNP63Y2nva9YLnYaSqkR1/8WwUWfsqV+OYfrl4DFx6FWOrUZ5bAC/z1hrTq63UeNo/0ianjf0Mor5LDjbn136ejJuBOIq8edSMI4TaciVccUc+a/bdZ8gpyCb8Ebun3JdYptmFRoug==;6F+a3nTGYuYC2cK9DW+XlQ=="
 ---
