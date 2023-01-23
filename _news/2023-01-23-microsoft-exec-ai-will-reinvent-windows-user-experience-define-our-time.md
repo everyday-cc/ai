@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AI Hardware
 
 images:
   - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70"
@@ -235,6 +236,6 @@ related:
       domain: scmagazine.com
     quality: 25
 
-secured: "1DwwjS0bs0wvVAOP+C2D6Xxt406hx66cw4Oyiz5PShUF72H8H8hvprFN/FS+28FBCgZ0GtQde1MbCwFLQEySjvpbThExGJnBHd4kpYbTB1NvgiBYYQn+gEAEflnoql0QjjiwwNq6dU9ArKYbLUIgLEcexARGmMT6OdvSORLEmFL6kzh0HLk3m4/X1OVXxMdXBdQ5gKg7LuJmy6dlUpMz4zesFnxoneo39s0OS3CD2j9urgJOe6z5fZHbMRmzFhzBDCrY58avaLkmBY+srDpCYKJ0DVpxWJmgg0idLfVDZqX0e0wCHrNimN9QJMw1YdmoHSseyd3Vmot6GZlOT8qtgX0Ve3Xa1teLnI5XBOUpjWM=;T7AMQUajyYYLf1dkWSxopg=="
+secured: "GqU6zE5rtC0KW4AmimMjPnPcclgAVGfnwAJDTboBAHPUCFMjhY5YkxFloKOkvKxBZtEyASiVWpt4Dx10AmiRAm3ocHzbnen0FRg9y5kYjJa9nt4o90kSLz869C8LCB/0NBFGTwRH+OXQSOh7rpPVpG+WscJvGoJOchcLrYmCPMglHU3+ZSy5gs4wl/AuaL9wZ1xrB6yFeEheBpAq9le47lOdKMDQmtSalf1owJWp8JlzB4zMd03NvnsJFirXjFe1i0zI09pV6rcQrvXu1sDnwJGUZCTgyoBuORUgpMDrLVbMk3AHmeNqbkYzHoBiqcdpiCA915uMzFZphs2a8Vx12agD+TDOZ1fyAFAS6o1DbZiBPfW1HZrkllyMRnwZ30Rrg/AIumZCehuBORKC1JJv5j1bVCGdJnTzRlau0XLKxAzAxD9N3bCiHBcBDosDo9h5bCcvlKLyUocgsbLjd7XZ2HF5t9oRxo0oWa844ouzClMa7Ffo/T0CQMb2DGvwdZ15p36VBlgu/254cAi/f1noPg==;u+Efp9H7crgM77zkI5UtxA=="
 ---
 
