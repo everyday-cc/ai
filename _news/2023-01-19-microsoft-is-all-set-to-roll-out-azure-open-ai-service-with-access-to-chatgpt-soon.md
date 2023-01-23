@@ -119,15 +119,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft and Google Will Both Have to Bear AI’s Costs"
-    excerpt: "Tools such as ChatGPT could upend search and cloud computing, but the cost will be high as profit margins draw more scrutiny."
-    publishedDateTime: 2023-01-18T10:30:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-and-google-will-both-have-to-bear-ais-costs-11674006102?mod=business_minor_pos10"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
   - title: "Microsoft is working on an AI called VALL-E that can clone your voice from a 3-second audio clip"
     excerpt: "The tech giant's new AI project comes after its plans to invest $10 billion in OpenAI's ChatGPT. VALL-E is a text-to-speech AI tool that can mimic voices."
     publishedDateTime: 2023-01-18T14:36:00Z

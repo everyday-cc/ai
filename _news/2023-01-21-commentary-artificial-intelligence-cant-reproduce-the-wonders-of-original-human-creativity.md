@@ -42,22 +42,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Commentary: Artificial intelligence can’t reproduce the wonders of original human creativity"
-    excerpt: "The biggest story of the year — the story we should all be paying attention to — is the increasing power of artificial intelligence. Computer code can write itself, chatbots can generate academic papers,"
-    publishedDateTime: 2023-01-18T10:05:00Z
-    webUrl: "https://www.westhawaiitoday.com/2023/01/18/opinion/national-views/commentary-artificial-intelligence-cant-reproduce-the-wonders-of-original-human-creativity/"
-    ampWebUrl: "https://www.westhawaiitoday.com/2023/01/18/opinion/national-views/commentary-artificial-intelligence-cant-reproduce-the-wonders-of-original-human-creativity/amp/"
-    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2023/01/18/opinion/national-views/commentary-artificial-intelligence-cant-reproduce-the-wonders-of-original-human-creativity/amp/"
-    type: article
-    provider:
-      name: West Hawaii Today
-      domain: westhawaiitoday.com
-    quality: 50
-    images:
-      - url: "https://www.westhawaiitoday.com/wp-content/uploads/2021/08/og_image_logo.png"
-        width: 400
-        height: 400
-        isCached: true
   - title: "What DALL-E reveals about human creativity"
     excerpt: "The often delightful and arresting images created by the latest generation of text-to-image generators, exemplified by DALL-E 2, Midjourney, and Stable Diffusion, have stirred up lots of buzz in both the arts and the AI worlds."
     publishedDateTime: 2023-01-19T18:26:00Z

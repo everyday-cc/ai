@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/art
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Commentary: Artificial intelligence can’t reproduce the wonders of original human creativity"
-    excerpt: "The biggest story of the year — the story we should all be paying attention to — is the increasing power of artificial intelligence. Computer code can write itself, chatbots can generate academic papers,"
-    publishedDateTime: 2023-01-18T10:05:00Z
-    webUrl: "https://www.westhawaiitoday.com/2023/01/18/opinion/national-views/commentary-artificial-intelligence-cant-reproduce-the-wonders-of-original-human-creativity/"
-    ampWebUrl: "https://www.westhawaiitoday.com/2023/01/18/opinion/national-views/commentary-artificial-intelligence-cant-reproduce-the-wonders-of-original-human-creativity/amp/"
-    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2023/01/18/opinion/national-views/commentary-artificial-intelligence-cant-reproduce-the-wonders-of-original-human-creativity/amp/"
-    type: article
-    provider:
-      name: West Hawaii Today
-      domain: westhawaiitoday.com
-    quality: 50
-    images:
-      - url: "https://www.westhawaiitoday.com/wp-content/uploads/2021/08/og_image_logo.png"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Commentary: Artificial intelligence can’t reproduce the wonders of original human creativity"
     excerpt: "The biggest story of the year — the story we should all be paying attention to — is the increasing power of artificial intelligence. Computer code can write itself, chatbots"
     publishedDateTime: 2023-01-21T08:00:00Z

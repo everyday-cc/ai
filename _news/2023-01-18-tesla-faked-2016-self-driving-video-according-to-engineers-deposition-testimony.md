@@ -153,20 +153,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla alleged to have faked self driving video"
-    excerpt: "Musk used it as evidence that his cars drove themselves  A 2016 video that Tesla used to promote its self-driving technology gave the vehicle features which were vapourware so that its owner Elon Musk as could prove that “Tesla drives itself."
-    publishedDateTime: 2023-01-18T10:34:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/56168-tesla-alleged-to-have-faked-self-driving-video"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/6a16ac686af8b80dd1c5c6e6faf178db_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Tesla engineer testified that promotional self-driving video was staged"
     excerpt: "(Ethan Miller/Getty Images) A 2016 video that Tesla used to promote its self-driving technology was staged to show capabilities like stopping at a red light and accelerating at a green light that the system did not have, according to testimony by a senior ..."
     publishedDateTime: 2023-01-18T12:14:00Z

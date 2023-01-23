@@ -7,7 +7,7 @@ originalUrl: "https://www.victoriaadvocate.com/opinion/syndicated-column-artific
 webUrl: "https://www.victoriaadvocate.com/opinion/syndicated-column-artificial-intelligence-can-t-reproduce-the-wonders-of-original-human-creativity/article_932e140a-99c4-11ed-a4c0-83b2447add40.html"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 769
     height: 404
     isCached: true
-
-related:
-  - title: "Opinion: Artificial intelligence can’t reproduce the wonders of original human creativity"
-    excerpt: "The biggest story of the year – the story we should all be paying attention to – is the increasing power of artificial intelligence. Computer code can write itself, chatbots can generate academic papers,"
-    publishedDateTime: 2023-01-18T10:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/18/opinion-artificial-intelligence-cant-reproduce-the-wonders-of-original-human-creativity"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 28
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/01/18/1906846.jpg"
-        width: 1240
-        height: 793
-        isCached: true
 
 secured: "ZCKxAF+q/Y+XS2+xbn4NqryAd/ZsKJ5YTSdCwVs1Y/1dG6ndkxnVN3TwtDQ6ZF5RhQPbgpk4JUvj2zPfCmgZePUBbRYqIjR5R/ntxwdgxUjmyuNF4HQulqbM4cVcYTEs8RwIXlzsndH4BqT6jWO44DtCmAj7LczrAL3OmhsFg53sbzVFpmYnzQis5Xf9ErmN6zTlNiY/tn/dAc44yovWhx1ZYnvRJA1GM31KkRtW9lJrKFGCHgyTGdt/7WKjQM8f2ozUib7pMvFG2W9OfsMOQsJu992X3/3TqmZRAV2RI7clGolzQ/83kDspalOjfjrF/ra17MF7BQkLtjyMnRDX4bHJeQksCQDk6mlanA4gWfxIzU1r7/jCO8ubLxgBKDaTKqwR0qbJz4n9sbC2vEPMyZsnI5f93jEPwnJg9LNyg+XdQ0giQ/oOL+61WAyw6eEDOtn8zWdH71CmULS5hwEoNnaq6iGbvhmQhrvalh3ne2CZb1AJrsKUzZ1bLPlS4xW3goBKQq8OBaJqmFRK/2qIeg==;3r7YSiSjv/268rKpiRkiaQ=="
 ---

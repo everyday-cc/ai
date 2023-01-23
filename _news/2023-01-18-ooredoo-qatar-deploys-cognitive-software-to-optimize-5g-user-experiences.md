@@ -7,7 +7,7 @@ originalUrl: "https://thepeninsulaqatar.com/article/18/01/2023/ooredoo-qatar-dep
 webUrl: "https://thepeninsulaqatar.com/article/18/01/2023/ooredoo-qatar-deploys-cognitive-software-to-optimize-5g-user-experiences"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ericsson, Ooredoo Qatar Provide AI Solutions for 5G CX"
+    excerpt: "Ericsson and Ooredoo Qatar provide Artificial Intelligence solutions for customer experience leveraging Microsoft Cloud Datacenter"
+    publishedDateTime: 2023-01-23T01:48:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/29955-ericsson-ooredoo-qatar-provide-ai-solutions-for-5g-cx"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/cd2b36e2f919d711b1b57ed8e03753ad.jpg?t=20230123_014354"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Ooredoo Qatar Deploys Cognitive Software To Optimize 5G User Experiences"
     excerpt: "Ooredoo Qatar, in collaboration with Ericsson, managed to provide Artificial Intelligence (AI) solutions on top of trusted Microsof"
     publishedDateTime: 2023-01-18T22:26:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-fo
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand-2023-01-19"
 type: article
 quality: 62
-heat: 302
+heat: 292
 published: true
 
 provider:
@@ -280,20 +280,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Robotics Market Size Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts 2023-2033"
-    excerpt: "The Artificial Intelligence in Robotics market is expected to register a CAGR of 28% during the forecast period. Artificial intelligence (AI) and robotics prove to be a powerful combination for ..."
-    publishedDateTime: 2023-01-18T10:10:00Z
-    webUrl: "https://menafn.com/1105444556/Artificial-Intelligence-In-Robotics-Market-Size-Opportunities-Size-Share-Emerging-Trends-Technological-Innovation-And-Forecasts-2023-2033"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?411393"
-        width: 376
-        height: 250
         isCached: true
   - title: "Cloud AI in Fintech Market : Analysis by Size, Share Trends, Future Growth, Emerging Trends, Qualitative Outlook and Global Forecast to 2028"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Cloud AI in Fintech"

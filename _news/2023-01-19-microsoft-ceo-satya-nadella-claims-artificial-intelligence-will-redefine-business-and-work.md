@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claim
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/45748/microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work?amp=1"
 type: article
 quality: 109
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -105,15 +105,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft and Google Will Both Have to Bear AI’s Costs"
-    excerpt: "Tools such as ChatGPT could upend search and cloud computing, but the cost will be high as profit margins draw more scrutiny."
-    publishedDateTime: 2023-01-18T10:30:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-and-google-will-both-have-to-bear-ais-costs-11674006102?mod=business_minor_pos10"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
   - title: "Microsoft is all set to roll out Azure Open AI service with access to ChatGPT soon"
     excerpt: "American tech giant Microsoft is all set to roll out Azure Open AI service this week, which will allow businesses to integrate tools like DALL-E into their own cloud apps. According to The Verge, an American technology news website,"
     publishedDateTime: 2023-01-19T10:39:00Z

@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Lawsuit claims IBM falsely used mainframe sales to boost AI, cloud businesses"
-excerpt: "A securities fraud lawsuit filed against IBM accuses the tech giant of deceiving investors by shifting mainframe revenue to make its cloud and AI-based Watson products appear to be in high demand."
-publishedDateTime: 2023-01-18T23:45:00Z
-originalUrl: "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html"
-webUrl: "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html"
+excerpt: "IBM is also alleged to have reallocated revenue from its non-strategic Global Business Services (GBS) segment to the company’s Watson-branded AI products — a strategic imperative included in ..."
+publishedDateTime: 2023-01-19T10:45:00Z
+originalUrl: "https://www.arnnet.com.au/article/704841/lawsuit-claims-ibm-falsely-used-mainframe-sales-boost-ai-cloud-businesses/"
+webUrl: "https://www.arnnet.com.au/article/704841/lawsuit-claims-ibm-falsely-used-mainframe-sales-boost-ai-cloud-businesses/"
 type: article
-quality: 33
-heat: 33
+quality: 53
+heat: 53
 published: false
 
 provider:
-  name: CIO
-  domain: cio.com
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - IBM AI
   - AI
   - AI in Sales
 
-secured: "1KGKwxNnolSB/a7wyx6QqXWFIY4prQLZeJONlFoZNeiFpF0Y4w7Nk3RP405wZ17P9CU/qmXYyvEu4/GJHR1jNJGGj20UIxdJuKwtXpWJMFGbT9ySpOC7ouBfc8WzTU0ofnrTQfPGEM2BzQjzMTByXMBev8CDVDtxARhzc+rpLvXa5T96tVE50Xlcl3Nl8VHKf/qjvkZuR22TepRcru8xzs0NaZBPX8VLny6TFdXZOhoALy9IkuYgcZ7dvP9f+m08YnCk4UnibeYH3EPmCz334nLg4m7brOf3NvkJQVFsXb2NlqjsINdpxYS5136FJ9ASsNUm7cEPX0svRTzss7BmkRjfyuxE1lF7M3xEbT6BXadctcq1y0ARGNAxNlQ5clgILACWkn25nZB7UIxIm2GMuNhpSVswnQUa2b4n+XdZ0N7OJhQa4qKQDvmoSNvxpLvAKXhp6VlmlP0ODkgj+bDDbaOtSZ1kLHbOQTHoDPhEotNtvb1wsyKgkK7fkftHKtUKjhka0CvdpBw4/VZRV7PUYQ==;/koSdKvJv03cgHnqu7SELw=="
+images:
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_204939925_9.jpg"
+    width: 473
+    height: 315
+    isCached: true
+
+secured: "Vwk6lA/mpgCno37S7JTDL6+wqgWCk1/zg0+yxERzIJRTOZe/+qY35VTlTTO+17yJMr4UG5n7Ml/OXLcFnJTS7ai2fv+FK6p4pJw5fPK3t9nZdLEz+xRxueNRFF+gwUYG3Yf4wO4T9yuwNJWTn+zMPacqOmNb1UeHo+/uubEbmAiknPv7rRAqCbGwEsZeVsIEvZfLVEaOrX6Gt1jStPiaRH/KnKA3v1CVu6ErfLLK33fP1tdJpPcDyMpO/ay9n8fiNUgA7BXFV10iAw+SPfxuFs10s+7XUYCFG8IWMzXpO0Dp9XSXfgPY8dB/LjPvZ6A/5TeOEDnjIF5YiC8EFhd9IJGN/AD5NfcThEFd4mgKMEg=;A3MvzcEtbMpbUAQfSuz0pg=="
 ---
 

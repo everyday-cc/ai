@@ -158,34 +158,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Microsoft rolling out Azure OpenAI service with access to ChatGPT soon"
-    excerpt: "American tech giant Microsoft is all set to roll out Azure OpenAI service this week which will allow businesses to integrate tools like DALL-E into their own c"
-    publishedDateTime: 2023-01-18T09:32:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273389916/microsoft-rolling-out-azure-openai-service-with-access-to-chatgpt-soon"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 69
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1674034037.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "ChatGPT And AI Will Fuel New EdTech Boom"
-    excerpt: "Venture capitalists predict artificial intelligence, virtual reality and video-learning startups will dominate the space in 2023."
-    publishedDateTime: 2023-01-18T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/emmawhitford/2023/01/18/chatgpt-and-ai-will-fuel-new-edtech-boom/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63c75360008c41557a766ebe/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Azure OpenAI and ChatGPT services are now available to enterprise customers"
     excerpt: "In a nutshell: Microsoft is opening access to machine learning-based models for Azure customers, giving businesses and enterprises the chance to employ the world's most advanced (and talked about) AI services created by OpenAI research laboratories."
     publishedDateTime: 2023-01-19T19:55:00Z
@@ -226,20 +198,6 @@ related:
       - url: "https://im.rediff.com/345-230/money/2023/jan/20construction.jpg"
         width: 345
         height: 230
-        isCached: true
-  - title: "Here are the 12 top power players at Google leading the fight in AI against the smash hit ChatGPT"
-    excerpt: "ChatGPT could influence Google's dominance in search. Here are the 12 people inside the search giant developing AI-based technology to keep up."
-    publishedDateTime: 2023-01-18T10:07:00Z
-    webUrl: "https://www.businessinsider.com/google-ai-power-players-chatgpt-artificial-intelligence-2023-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/63c0772f1f388b00195f4423?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Why UK SME’s could be saving time and money by using AI tools like ChatGPT"
     excerpt: "SMEs need to find new and innovative ways to engage with customers and improve their bottom line. One solution to achieve these goals is the use of ChatGPT"

@@ -36,22 +36,6 @@ related:
         height: 800
         isCached: true
   - title: "Commentary: Artificial intelligence can’t reproduce the wonders of original human creativity"
-    excerpt: "The biggest story of the year — the story we should all be paying attention to — is the increasing power of artificial intelligence. Computer code can write itself, chatbots can generate academic papers,"
-    publishedDateTime: 2023-01-18T10:05:00Z
-    webUrl: "https://www.westhawaiitoday.com/2023/01/18/opinion/national-views/commentary-artificial-intelligence-cant-reproduce-the-wonders-of-original-human-creativity/"
-    ampWebUrl: "https://www.westhawaiitoday.com/2023/01/18/opinion/national-views/commentary-artificial-intelligence-cant-reproduce-the-wonders-of-original-human-creativity/amp/"
-    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2023/01/18/opinion/national-views/commentary-artificial-intelligence-cant-reproduce-the-wonders-of-original-human-creativity/amp/"
-    type: article
-    provider:
-      name: West Hawaii Today
-      domain: westhawaiitoday.com
-    quality: 50
-    images:
-      - url: "https://www.westhawaiitoday.com/wp-content/uploads/2021/08/og_image_logo.png"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Commentary: Artificial intelligence can’t reproduce the wonders of original human creativity"
     excerpt: "The biggest story of the year — the story we should all be paying attention to — is the increasing power of artificial intelligence. Computer code can write itself, chatbots"
     publishedDateTime: 2023-01-21T08:00:00Z
     webUrl: "https://www.yakimaherald.com/opinion/commentary-artificial-intelligence-can-t-reproduce-the-wonders-of-original-human-creativity/article_7587b1c2-96ef-11ed-b879-ef837a5d11ec.html"
