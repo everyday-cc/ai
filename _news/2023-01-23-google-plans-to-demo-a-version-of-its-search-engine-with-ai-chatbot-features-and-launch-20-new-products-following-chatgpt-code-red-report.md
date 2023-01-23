@@ -325,6 +325,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
+  - title: "Kagan: Questions, concerns on ChatGPT and Artificial Intelligence"
+    excerpt: "Will ChatGPT lead in the AI space going forward or it is just one step that will be replaced by another more advanced technology?"
+    publishedDateTime: 2023-01-23T15:30:00Z
+    webUrl: "https://www.rcrwireless.com/20230123/ai-ml/kagan-questions-concerns-on-chatgpt-and-artificial-intelligence"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 41
+    images:
+      - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2023/01/155772243_m-1068x580.jpg?lossy=1&strip=1&webp=1"
+        width: 1068
+        height: 580
+        isCached: true
   - title: "GPT 101: Decoding ChatGPT's Generative AI for Legal Professionals"
     excerpt: "While ChatGPT has caught the attention of many in the legal market, its underlying AI engine is where the real power—and disruption—lies."
     publishedDateTime: 2023-01-19T01:09:00Z
@@ -427,6 +441,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 30
+  - title: "ChatGPT Is Just the Beginning – AI Is Quietly Reshaping Every Aspect of Your Life"
+    excerpt: "ChatGPT became a viral sensation upon its release to the public on Nov. 30, 2022. It hit over 1 million users in under a week and has only continued to grow, with hundreds of companies using its application programming interface (API) integrations to create or improve their products."
+    publishedDateTime: 2023-01-23T13:28:00Z
+    webUrl: "https://www.benzinga.com/news/23/01/30524031/chatgpt-is-just-the-beginning-ai-is-quietly-reshaping-every-aspect-of-your-life"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
   - title: "We Used ChatGPT To Write An Article About... ChatGPT. This Is What Happened"
     excerpt: "Many people are talking about ChatGPT because it is a very advanced computer programme that can understand and respond to human language in a very natural way. It can answer questions, have conversations,"
     publishedDateTime: 2023-01-19T08:49:00Z
@@ -437,6 +460,6 @@ related:
       domain: says.com
     quality: 2
 
-secured: "jpTX07khEvLdwZQxL3r/zQwkhjxgQDJmisuC+dnVOJwtDKs188AsiX1TJ7uMMGU+638ARqiF6JiKsGjrK7IaugZ0LpDFnw6qf1tFqeTlcZ74jC3+i+e1WFjn/tKdP9ngdCyZwRtf6uzmxOkFKBwN9JUWACaRKhTu06qYDWwVqWRc7T/4J4WewcB+r8uvXTYZJDT+XlPgNEVZcJ7/rJdb5Q+K0LTdHX8tFxH7KxN2Rp4Wk+qI7EpNfVeffvYYtNJa+74Xyrt0keTQIq+yuE7wHqqpxT0i1DTulkKL6CRGdO22QVRDOhzr3ehUceXZy4li5nEZ/NwmYVnHlAQHSHwZdOaxjy2OqecuA4s8HzCbtIA=;++66NrT0hhk4RlCLN7XZJg=="
+secured: "mCjxYEqQFP+XpFkkjuD7gaW/IihnvnvYYo1TurA+y5lvP+QxrIlPS/ab5VJ3HiDCnJ5k2HXxbWWdKnXxBBz8zQepFdaOTguRduD5869FqOiQ8HjerpR700GtRuFIWDLvYqNdPUv9TwmUL1Z/G0EGh5+o2ZKVptuRPgyKSXaqwzu3voBZZjb5oEFZ0l0/n+eXnSpYAvig80x1OE82bGESM6pQCxq1yfCjGSRJO42S9IoOfheEkWb21hgL1LDo8DbMt1b/zBYkoafq0yBazINTG/OEPu3/vNmtZnVsW6/mVR/NpYUWNo5Lft8AEP3MHUBndn2CKFD93NUNl9YfkIKyAkak1pmwmmAfVU8O9O4L9lm8xRkrorFUg1zthh/H+KZNw/7GSLIBnUZVChzLFspvEO8msv1zWvTKqJ6o6Lx99EjhU5JV6xVhLW4WPqm5+pQmwLdrCwwzEvPlHwonLgpPj/xVeCVMdgFR4Rb63HFllrOh/T2GC85r+qE/5oWKIWvDTqwAY4MkSNmaTRRuMtjDjA==;WpKCuITOCiRi31Bk/Rc72g=="
 ---
 

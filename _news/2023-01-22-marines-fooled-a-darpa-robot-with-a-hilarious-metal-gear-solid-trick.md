@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/marines-trick-ai-using-video-game-t
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/marines-trick-ai-using-video-game-tactics"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 708
     height: 398
     isCached: true
+
+related:
+  - title: "Marines fooled a DARPA robot by hiding in a cardboard box while giggling and pretending to be trees"
+    excerpt: "team trained its robots with a team of Marines for six days to improve its artificial intelligence systems. Scharre did not immediately respond to Insider's requests for comment. \"Four ..."
+    publishedDateTime: 2023-01-21T09:16:00Z
+    webUrl: "https://www.businessinsider.com/marines-fooled-darpa-robot-hiding-in-box-doing-somersaults-book-2023-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
 
 secured: "DPGZI6R3931qznv5P8xoXhTfjtFSdDk4JvOb82OqUjXA2COM/VWDkooIvWsAWMWgBQQ4ZE/SpW+3BrK1xF79Vux7yE0srPek0ViHRg6TqjpRliTDVAhb75Xx405sPka7RUzE2+cNnu8b4TOBNzvWXp6iRP4DOjeT7TpCOYYXGvrjRZuj9NjawKWslxTH4TpniR8joI3Q1UVxDDZYkuyi1VPw3gl1kpyHJniUKVIq1VLb+NCSraGIplmxvA2ijdApgLZ8Qn2gaHeu4Fp4wgxODiwuUiYrDTP2HRu7eUqTQRHGPUfZIVmCja0yqqlNzYewYfyfRtspaBPlo7qEp0JtBXe5tVL5XUC1enAthIeYrN3MijlxTaJmCsMnOAclxwlRxmvEnwnxv8mrEY5kzp0mh2IsEslBXpPqrkkCzvKUgjVF/h+QVr40oWRHQJKthb8Sihc9r7fki5NcsGJSQV5lOA7DK9c6rJCsl0CR5ItFvVO27g8JcU8de4ujWxmbQP9zdiyaFDFUvuuSWBFyuGHFmA==;Mt6TTz8RpJzkvZ2fLo5kTg=="
 ---

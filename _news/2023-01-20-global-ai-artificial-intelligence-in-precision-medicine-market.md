@@ -47,34 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Systems Market Size, Status, Global outlook 2023 To 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. This research"
-    publishedDateTime: 2023-01-19T00:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-systems-market-size-status-global-outlook-2023-to-2028-2023-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Insurance Market Size 2023 with Factor Outlook, Deployment Viewpoint, Society Size Outlook"
-    excerpt: "Artificial Intelligence in Insurance market has witnessed a growth from USD million to USD million from 2017 to 2022."
-    publishedDateTime: 2023-01-19T00:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurance-market-size-2023-with-factor-outlook-deployment-viewpoint-society-size-outlook-2023-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Legal Tech Artificial Intelligence Market Analysis Report 2023 Along with Statistics Figures, till 2029"
     excerpt: "As per Market Growth Report, “The Legal Tech Artificial Intelligence market has witnessed growth from USD million to"
     publishedDateTime: 2023-01-20T17:16:00Z

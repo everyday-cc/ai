@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T14:52:00Z
 originalUrl: "https://www.design-reuse.com/news/53367/guc-tsmc-n3-n5-cadence.html"
 webUrl: "https://www.design-reuse.com/news/53367/guc-tsmc-n3-n5-cadence.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Design-Reuse

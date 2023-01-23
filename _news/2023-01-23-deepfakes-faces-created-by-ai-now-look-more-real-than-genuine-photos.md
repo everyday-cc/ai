@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T13:16:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/273418654/deepfakes-faces-created-by-ai-now-look-more-real-than-genuine-photos"
 webUrl: "https://www.bignewsnetwork.com/news/273418654/deepfakes-faces-created-by-ai-now-look-more-real-than-genuine-photos"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Big News Network.com

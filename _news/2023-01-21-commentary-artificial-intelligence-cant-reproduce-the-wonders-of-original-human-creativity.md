@@ -58,6 +58,15 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "AI Is Improving Faster Than Most Humans Realize"
+    excerpt: "Technologies such as ChatGPT will profoundly change the economy, but they are getting better so quickly that it’s impossible to say how."
+    publishedDateTime: 2023-01-23T13:29:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-01-23/chatgpt-is-only-going-to-get-better-and-we-better-get-used-to-it"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "What DALL-E reveals about human creativity"
     excerpt: "The often delightful and arresting images created by the latest generation of text-to-image generators, exemplified by DALL-E 2, Midjourney, and Stable Diffusion, have stirred up lots of buzz in both the arts and the AI worlds."
     publishedDateTime: 2023-01-19T18:26:00Z

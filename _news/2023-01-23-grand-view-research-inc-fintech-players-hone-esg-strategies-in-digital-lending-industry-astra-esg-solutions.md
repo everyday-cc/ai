@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T13:12:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-01/58122974-grand-view-research-inc-fintech-players-hone-esg-strategies-in-digital-lending-industry-astra-esg-solutions-008.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-01/58122974-grand-view-research-inc-fintech-players-hone-esg-strategies-in-digital-lending-industry-astra-esg-solutions-008.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Finanznachrichten

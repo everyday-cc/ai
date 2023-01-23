@@ -35,22 +35,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Tesla Engineer Reportedly Testifies That Self-Driving Video Was Staged"
-    excerpt: "A video released by Tesla in 2016 purportedly showing the carmaker's self-driving technology in use on the road was actually staged, according to testimony from a senior Tesla engineer, Reuters reported on Wednesday. The video states that the \"car is ..."
-    publishedDateTime: 2023-01-19T00:25:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-engineer-reportedly-testifies-that-self-driving-video-was-staged/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-engineer-reportedly-testifies-that-self-driving-video-was-staged/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-engineer-reportedly-testifies-that-self-driving-video-was-staged/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/resize/56842f696816b2aebc9775f387607ad99f371f37/hub/2023/01/19/a3cd4700-7b48-434d-93c0-fd4560d47ae9/gettyimages-1199703559-1.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Musk Oversaw Video That Exaggerated Tesla’s Self-Driving Capabilities"
     excerpt: "Elon Musk oversaw the creation of a 2016 video that exaggerated the abilities of Tesla Inc.’s driver-assistance system Autopilot, even dictating the opening text that claimed the company’s car drove itself,"
     publishedDateTime: 2023-01-19T19:58:00Z
@@ -64,22 +48,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiHMJZsdzTDA/v0/1200x800.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Musk oversaw video exaggerating Tesla’s self-driving capabilities"
-    excerpt: "The company’s CEO wrote to Tesla’s Autopilot team after 2 a.m. California time in October 2016 to emphasize the importance of a demonstration drive to promote the system"
-    publishedDateTime: 2023-01-19T20:50:00Z
-    webUrl: "https://www.ocregister.com/2023/01/19/musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/"
-    ampWebUrl: "https://www.ocregister.com/2023/01/19/musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/01/19/musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 59
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2023/01/OCR-Z-TESLA-MUSK.jpg?w=1024&h=683"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Musk oversaw falsified video of Tesla 'self-driving' capabilities"
     excerpt: "In an October 19 call with reporters and in a blog post, Tesla said that all its cars from that day forward would ship with the hardware necessary for full self-driving capability. “Just want to be absolutely clear that everyone’s top priority is ..."
@@ -129,6 +97,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk Reportedly Oversaw Staged Tesla Self-Driving Demo"
+    excerpt: "The Tesla \"Full Self Driving\" feature is one of the brand's biggest draws for potential consumers. According to Tesla, the $15,000 feature allows the car to change lanes automatically ..."
+    publishedDateTime: 2023-01-20T17:12:00Z
+    webUrl: "https://www.slashgear.com/1173675/elon-musk-reportedly-oversaw-staged-tesla-self-driving-demo/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 49
   - title: "Musk Personally Oversaw Tesla's Staged Self-Driving Video"
     excerpt: "Tesla CEO Elon Musk personally oversaw the 2016 video that exaggerated Autopilot's self-driving capabilities which is now the subject of a wrongful death lawsuit. The update comes from Bloomberg which claims it's viewed internal Tesla emails attesting to Musk's direct involvement in the video's production."
     publishedDateTime: 2023-01-21T15:35:00Z
@@ -152,6 +129,15 @@ related:
       name: Transport Topics
       domain: ttnews.com
     quality: 34
+  - title: "Musk oversaw video exaggerating Tesla's self-driving capabilities"
+    excerpt: "In an Oct. 19 call with reporters and blog post, Tesla said that all its cars from that day forward would ship with the hardware necessary for full self-driving capability. \"Just want to be ..."
+    publishedDateTime: 2023-01-20T10:53:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/musk-oversaw-video-exaggerating-teslas-self-driving-capabilities"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
   - title: "Tesla Engineer Says Company Staged Self-Driving Demonstration Video"
     excerpt: "A senior Tesla engineer testified in a deposition last July that the automaker promoted its self-driving technology in a staged 2016 video. The video was then shared on Twitter by CEO Elon Musk. It remains archived on Tesla's official website."
     publishedDateTime: 2023-01-19T20:12:00Z
@@ -161,6 +147,15 @@ related:
       name: https//carbuzz
       domain: carbuzz.com
     quality: 19
+  - title: "Elon Musk oversaw video that exaggerated Tesla self-driving capabilities"
+    excerpt: "In an Oct. 19 call with reporters and blog post, Tesla said that all its cars from that day forward would ship with the hardware necessary for full self-driving capability. “Just want to be ..."
+    publishedDateTime: 2023-01-20T23:31:00Z
+    webUrl: "https://www.autoblog.com/2023/01/19/elon-musk-tesla-autopilot-exaggerated-video/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 18
   - title: "Musk Led Effort to Exaggerate Tesla’s Self-Driving Capabilities, Documents Reveal"
     excerpt: "Tesla CEO Elon Musk personally dictated language used in a company video which, critics charge, overstated the capabilities the capabilities of the company’s Autopilot driver-assistance system. The re"
     publishedDateTime: 2023-01-20T19:03:00Z

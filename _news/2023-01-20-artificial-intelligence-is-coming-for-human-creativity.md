@@ -43,6 +43,15 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "AI Is Improving Faster Than Most Humans Realize"
+    excerpt: "Technologies such as ChatGPT will profoundly change the economy, but they are getting better so quickly that it’s impossible to say how."
+    publishedDateTime: 2023-01-23T13:29:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-01-23/chatgpt-is-only-going-to-get-better-and-we-better-get-used-to-it"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Commentary: Artificial intelligence can’t reproduce the wonders of original human creativity"
     excerpt: "The biggest story of the year — the story we should all be paying attention to — is the increasing power of artificial intelligence. Computer code can write itself, chatbots"
     publishedDateTime: 2023-01-21T08:00:00Z

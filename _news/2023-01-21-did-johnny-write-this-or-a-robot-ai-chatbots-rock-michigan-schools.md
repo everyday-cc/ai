@@ -43,6 +43,20 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Chatbots are creating thorny ethical questions about transparency in mental health care"
+    excerpt: "The mental health field is increasingly looking to chatbots to relieve escalating pressure on a limited pool of licensed therapists."
+    publishedDateTime: 2023-01-23T16:19:00Z
+    webUrl: "https://www.statnews.com/2023/01/23/mental-health-chatbot-chatgpt/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 33
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2023/01/AdobeStock_136361225-1024x576.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "CRQ744q80QTTUA0RaRLLjATqhb0PsB9UQXfhb4+WTw7bpRKxYP6rvdQn0Ar2fqEUUg0QKrVvH8xX2kUWW0bmO0+0CLTY9DIJLqUP0aZM0Q9TjKCu4hTAkP1AEizXqR6ztIOMC4ZGrCvHUBotvCoKQwU3ct4prrPXjBeNMAqph6xuCHUJIJtf4i4CmSY5ov0Frl/41tLY3ooJCqtLdabiFXKmKiGvazofwyplpyOextcEKn2LPwP8FQm0bG2MfoH9+VqhVPwbqWy/PqKrQyEQ7QlpC6Q3YxbHxr7ZYTA/To4xkMCRsDwKnZ2qrx6VmrBrPkjq6xWqReJ2A6JGu5X9HvqLBBJNvYREbRXWFe/P9zKnvpQPlogyEq/dxN/cz8m0I7M0AuRzC3A4Eptb7Uy/kidWyK1TfVxmCqR2h0kke597wZoKa9BDrzG917+8xfC5nCooBeChNP8uDqFdyH9hj4UeFmlRUaBDupyou0ifwJ8h+7BNuCccNzaUvGHmKO0GDuymtu2xW31NjobGKU4nHg==;Fmf8h0OS+HdQTEXgwDDv4w=="
 ---

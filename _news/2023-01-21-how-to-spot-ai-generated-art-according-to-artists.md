@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 87
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-robot_drawing_AI-image_text-to-image_generative-ai_180822246.jpg?w=1200&strip=all"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "The human side of generative AI’s gold rush | The AI Beat"
+    excerpt: "The current gold rush to capitalize on generative AI is, ultimately, about financial gain. Let's not forget the human toll."
+    publishedDateTime: 2023-01-23T16:36:00Z
+    webUrl: "https://venturebeat.com/ai/the-human-side-of-generative-ais-gold-rush-the-ai-beat/"
+    ampWebUrl: "https://venturebeat.com/ai/the-human-side-of-generative-ais-gold-rush-the-ai-beat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-human-side-of-generative-ais-gold-rush-the-ai-beat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/pexels-pixabay-47047.jpg?w=1200&strip=all"
         width: 1200
         height: 900
         isCached: true

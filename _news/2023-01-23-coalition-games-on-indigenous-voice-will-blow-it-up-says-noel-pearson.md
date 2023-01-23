@@ -35,6 +35,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Sowing doubt and confusion about an Indigenous voice is Dutton’s game plan"
+    excerpt: "If the Coalition supported a voice to parliament enshrined in the constitution, it would have said so a long time ago"
+    publishedDateTime: 2023-01-23T13:03:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/jan/24/sowing-doubt-and-confusion-about-an-indigenous-voice-is-duttons-game-plan"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 2
 
 secured: "/lYZNR749Pb3011hIJO1MFfM+cYeqsfzftWeAwaDYu/BlZvITRs1GgWuBRC439tD1EvTcLAHzUTkbbQ6N61CPUhZlOumNVJ6UMDVC3aCVdeX2/GrTSNXdrNMsRtkgBihbUOH4sNUw56SasyXNoETXyi10/ouEJmpDHZJLhpqyyZPymdLC5e3qCOux0IeJbFCYUjj+IrYPmiBWMf5go85aIBtpyTzi+FBYrw7u/y8/MKCLYQDjjjs+UbiLmpUFExyzGhA4Sq4ZTorGX9HzfR7ZgD9xsHfp06yUyv0WL+yJyRDAnzaGgam6oW3L5Ae+99Jpi/Xq2m2AedvlvbqwSh2poap03s85fbLfJV0vJ2123j6RL0dHjVGtzR4AdZTZi7b05jMAcgXJlG9KujT7qN3UfmBSvfJmsS0/lNokYYAkd+jUh1edrtDOSc1vAyieIFPKU/6/OzQMMl8v/YSTxNQ49hnSCvFn4yOzy6KqSIdwUTHXB6D5J59yjihS6gE1ssJQwTAa6YbWOA436TRFjXuEg==;JY3/EFJvhq7coa/zxX4xUw=="
 ---

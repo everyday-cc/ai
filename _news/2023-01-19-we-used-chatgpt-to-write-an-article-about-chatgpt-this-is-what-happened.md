@@ -330,6 +330,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
+  - title: "Kagan: Questions, concerns on ChatGPT and Artificial Intelligence"
+    excerpt: "Will ChatGPT lead in the AI space going forward or it is just one step that will be replaced by another more advanced technology?"
+    publishedDateTime: 2023-01-23T15:30:00Z
+    webUrl: "https://www.rcrwireless.com/20230123/ai-ml/kagan-questions-concerns-on-chatgpt-and-artificial-intelligence"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 41
+    images:
+      - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2023/01/155772243_m-1068x580.jpg?lossy=1&strip=1&webp=1"
+        width: 1068
+        height: 580
+        isCached: true
   - title: "GPT 101: Decoding ChatGPT's Generative AI for Legal Professionals"
     excerpt: "While ChatGPT has caught the attention of many in the legal market, its underlying AI engine is where the real power—and disruption—lies."
     publishedDateTime: 2023-01-19T01:09:00Z
@@ -432,6 +446,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 30
+  - title: "ChatGPT Is Just the Beginning – AI Is Quietly Reshaping Every Aspect of Your Life"
+    excerpt: "ChatGPT became a viral sensation upon its release to the public on Nov. 30, 2022. It hit over 1 million users in under a week and has only continued to grow, with hundreds of companies using its application programming interface (API) integrations to create or improve their products."
+    publishedDateTime: 2023-01-23T13:28:00Z
+    webUrl: "https://www.benzinga.com/news/23/01/30524031/chatgpt-is-just-the-beginning-ai-is-quietly-reshaping-every-aspect-of-your-life"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
 
 secured: "VYRU+u55nPOdl/t1vY6RJVDrU7Kv4qB2w4FKMz+uJP2JtdhVlKFAJ0whhKFd70g8z3IlEwVg6nWfPyFO9P/PMsLgSxdscdF0RHvrl7fQVvdp+zFnzgAMt9KvyneX6OXX9dDGErWnbWeq7HK31L5XnH3zMYh9ZFDjw46nzsNUoDoYkGjTC5whD8ByVztD5lGrPOvCYhGCgLWA81eD0GtskgYaxUXF3SnDQXQ7uloi8NRjZtTgWUbgMzfRdZVej5UPxjZjpRyvOrambHg4yu0PoaKnkVm9zSxK+sEkYHHxsEZhp9ly63J05kaowvjmI2vez8EzaVSE2vH17Z9ZQ/coHvpCn+LAtXk+MEy+uQl6jAN27E/YRcJo2i19KbnHdy6LuVdhtn12aihCrL1gtxt+d5Cc9pPzK3vZDMpN9EUoJ1ACWQ+YtgMFM/3cI7hL07ya5/wvx/PE7luswNNDniJx3RULlu0NABJDg/FT6ZKgi8OSJefOX7t8bJwvXjfJxsKaUESqMAf0RHp7Qj52SXiVog==;Y4zUdXfqGImEFNNrav1fiA=="
 ---

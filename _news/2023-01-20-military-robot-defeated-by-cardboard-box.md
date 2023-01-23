@@ -24,6 +24,22 @@ images:
     height: 465
     isCached: true
 
+related:
+  - title: "Marines Evaded a Military Robot by Hiding Inside a Cardboard Box \"Like Bugs Bunny in a Looney Tunes Cartoon\""
+    excerpt: "According to a former analyst, the Pentagon's robots, trained to identity human targets, were easily fooled by soldiers hiding in cardboard boxes."
+    publishedDateTime: 2023-01-23T16:03:00Z
+    webUrl: "https://futurism.com/the-byte/marines-evaded-military-robot-hiding-inside-cardboard-box"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 20
+    images:
+      - url: "https://wp-assets.futurism.com/2023/01/marines-evaded-military-robot-hiding-inside-cardboard-box.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "PIht1cP2xaMpSpVqcm9sBNLsZaWkoWT8dhDWNXRAjdLbMqz7ck6UBhhaBmTdwiWrE5gawuP1ABrXDY3lK1okZs589jJMUqgUhQiFQkwBc8O20iJr/CXfr85uey/3ZsdSSsol9YMxAAzourPExcZHsJOj3/Pp187Lfbzp6g7i5R2SUeYhqGdy3LSyJBJV2qeUF4XLBJIOqLuJRDeRJ57Er0Qr1rzR5pra+NLMKpWoge+vzWl6NnCXjTT8h5pBqd/PcgGiyFnFJ77xj7RIE8K8UBZvCOKetW9dTnjRrIUTnlRiJfn0bSXWqV2vQqKqtN7f9iaIdrGNvSLg/NvXIclEN4bSH2RLZD4vFn/OIBpjxvvPsSevS3MInHUY4mUHeJH4e9F7sBsFdOtAOyPq9ldT4qWdApa/VE1zYmw1wJlKwUUg3Lf3KmR7eqTSqaTAqrAjLzCUePb7UaE5rxaHtDBhbYiyhnStLNIjiOQceiFFDN7oK9AnEi+5dei+3uU/bO8oqKNuTmOgJP+T9f+H8zldJg==;1wN+q8haYtATye7OgAMjzA=="
 ---
 

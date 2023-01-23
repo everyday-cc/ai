@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T12:45:00Z
 originalUrl: "https://idw-online.de/de/news808047"
 webUrl: "https://idw-online.de/de/news808047"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: idw

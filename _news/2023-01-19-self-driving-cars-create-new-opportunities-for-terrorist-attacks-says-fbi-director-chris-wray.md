@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-19T10:25:00Z
 originalUrl: "https://www.foxnews.com/politics/self-driving-cars-create-new-opportunities-terrorist-attacks-fbi-director-chris-wray"
 webUrl: "https://www.foxnews.com/politics/self-driving-cars-create-new-opportunities-terrorist-attacks-fbi-director-chris-wray"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Fox News

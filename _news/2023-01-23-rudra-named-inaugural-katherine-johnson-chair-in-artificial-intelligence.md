@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T13:40:00Z
 originalUrl: "https://www.buffalo.edu/ubnow/stories/2023/01/rudra-johnson-chair.html"
 webUrl: "https://www.buffalo.edu/ubnow/stories/2023/01/rudra-johnson-chair.html"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: Medicine Buffalo

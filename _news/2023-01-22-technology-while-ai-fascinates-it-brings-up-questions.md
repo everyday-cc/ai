@@ -23,6 +23,17 @@ images:
     height: 676
     isCached: true
 
+related:
+  - title: "Artificial intelligence on forefront thanks to new technology"
+    excerpt: "Artificial intelligence is a hot topic nowadays thanks to programs like ChatGPT and Dalle. Michael Williams speaks with Infostream CEO Alan Crowetz about the future of artificial intelligence."
+    publishedDateTime: 2023-01-22T18:02:00Z
+    webUrl: "https://www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology"
+    type: article
+    provider:
+      name: WPTV-TV
+      domain: wptv.com
+    quality: 17
+
 secured: "EiOdRsUP161Rj5h+EZh/aXncJS1mU3KTMEDAfKpq/gXRQhzg/dwNGR0SSu+yoDMRusAe/7PafyuWV0UyLxs9dUrymctHbIOM3nvTm4UkLNgLKLZPHFTkqcMkJGxfxBsZyoX9a3NyPsPsDglG/kcKD92+QLgezNofANdI2vp1rZdldzIOZIEXaazj5Qfb0vDz1ujR9tdruY0B5IKW1oWnLESHLZjb83RAzF5IKWrCYyWcu//AKJIpbVa2ZXjZEkWosJxkrPxk3iHe1MYtoV5PjUTO9VcC0DJHmvAp6jHBYodYHVvo9v/zVh9BE81fMWQeRXwmABsAQegP2y7C9A5RbKXcQ1uqzuCukutTkTaDDBD83+g06AZLM9JUIRUsVOZLEfsStcnBe65+rQhawt6AXUjIJfUJHlnDQliVxjCQ2Rg5s1ihyIKmjGmRjXIpm7GA5Ql7+5+VnnAbwy9i+mnOLmEMffiHdQahIwNJX5J9FhrfBzDgTjyI/5zWbtQUyC8oqPHiq9FmFVlTc0usvQ6NCA==;yMoMa3ya7GWQKADaYVeTaA=="
 ---
 

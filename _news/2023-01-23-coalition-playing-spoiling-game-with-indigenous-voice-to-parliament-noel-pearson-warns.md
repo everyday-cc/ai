@@ -40,6 +40,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 3
+  - title: "Sowing doubt and confusion about an Indigenous voice is Dutton’s game plan"
+    excerpt: "If the Coalition supported a voice to parliament enshrined in the constitution, it would have said so a long time ago"
+    publishedDateTime: 2023-01-23T13:03:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/jan/24/sowing-doubt-and-confusion-about-an-indigenous-voice-is-duttons-game-plan"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 2
 
 secured: "KEPSQ16z30nfMeddZT6gu7NUkHVh592mZLPv1VXD7UV1Wscf6MLE768tj+ZrzVSN2BStzlHew+04Trc887kqiIYAe8WYjn9IqHhEuOJhzjrXO4IXp3VzJQvXMGYf2fvFcwzuHkAa/QtSgsjELTMkOiw9jhYA3HKX8PlZTFoJ9B6z1Vl15A0fHX01r3U5Fa1VQFIHw69yHRwo8RO2dpM/UbEtm+ya0FTfECxHOa+YMyQbCofxq71S0JzMDcamoujqPRm63uuWP/ilFe3ueYkif9RUkmS9f58zwrXgofCpkKF4sACjiOn6JkRrA3+9sHeWLaQKyt2yW8Q48xqOVIs3Vyd6PRvkeao2cssfU2DOseu/U0CYGyADh9rz4WL5qAvygtI0izi9+XQjVQYNUrQzvGLxp2Kb+CU02F56WpoMh6pUHuysncwAI+Ag+rdg6WCHITBBIrb4G0K17/S2LWXHULqs3BI5X1vsdq5Ollw7efoeoVdHtroXHweIkqbur5tRk5p6hmqmfowbA0lWARxJDQ==;iYVWH6u+Qnjap7d5/ElueA=="
 ---

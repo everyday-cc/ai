@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T13:05:00Z
 originalUrl: "https://www.zdnet.com/article/chatgpt-is-not-particularly-innovative-and-nothing-revolutionary-says-metas-chief-ai-scientist/"
 webUrl: "https://www.zdnet.com/article/chatgpt-is-not-particularly-innovative-and-nothing-revolutionary-says-metas-chief-ai-scientist/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: ZDNet

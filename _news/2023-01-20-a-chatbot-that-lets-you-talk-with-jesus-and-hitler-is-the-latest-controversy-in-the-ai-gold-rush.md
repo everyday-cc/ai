@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Haneda Airport Demos AI Chatbot 'Bebot,' a Multilingual Guidance Service"
-    excerpt: "Bebot boasts a high degree of accuracy in answering questions that travelers need, including information on airport facilities and flight information."
-    publishedDateTime: 2023-01-18T22:27:00Z
-    webUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21292923/ai-chatbot-bebot-launches-multilingual-guidance-service-pilot-at-haneda-airport"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 38
-    images:
-      - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2023/01/image.63c86a837801c.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI chatbot poses test for business schools with pass in MBA course exam"
     excerpt: "A professor at the University of Pennsylvania’s Wharton School said ChatGPT earned a ‘B to B-’ on his operations management test © Bloomberg AI chatbot poses test for business schools with pass in MBA"
     publishedDateTime: 2023-01-21T14:00:00Z

@@ -1,20 +1,23 @@
 ---
 category: news
 title: "Affective Computing Market is expected to generate a revenue of USD 622.02 Billion by 2030, Globally, at 36.50% CAGR: Verified Market Research®"
-excerpt: "Verified Market Research® recently published a report, \"Affective Computing Market\" By Vertical (Media and Entertainment, Healthcare and"
-publishedDateTime: 2023-01-23T13:29:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/affective-computing-market-is-expected-to-generate-a-revenue-of-usd-622-02-billion-by-2030--globally-at-36-50-cagr-verified-market-research-301728054.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/affective-computing-market-is-expected-to-generate-a-revenue-of-usd-622-02-billion-by-2030--globally-at-36-50-cagr-verified-market-research-301728054.html"
+excerpt: "Verified Market Research® recently published a report, \" Affective Computing Market \" By Vertical (Media and Entertainment, Healthcare and Life Sciences), By Component (Hardware, Analytics Software, Cameras),"
+publishedDateTime: 2023-01-23T15:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-affective-computing-market-expected-generate-revenue-usd-62202-/2023/01/23/9747275.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-affective-computing-market-expected-generate-revenue-usd-62202-/2023/01/23/9747275.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "TUDHPaDbqbw+re+I0XG7MIypTb0zx5YcYLyNEnb5q5bSZ8WWAIWuiWqFEK/8l59m5n85K4waU6gYFtTo9qC1pFRCQJLPYHkZlRlpnJa9k3NRgiogNLZwOarzfmD62JXmwXFvp+OM23DvJb4L0cj8WnryOUQ21PgwichqQD5MUhIxzUTtMbEIA/KNwcKsAABdMZMCyQ1cczZly3JGSPpl7Fs3I8/8mPji+Mu8VodrEWBAYxYjncn+zN73gcnech994LvPFppKfse2i9byMUL7jpzVMydYTU3LKVYKgdyjgtcf7NkQ1ANcuwVhYOc9jSdQlaz1ecgs9gHEfS5Ov+eJiabu0lDAZnixTTy+uemghJ/WZyHl2gBBLoxvYFj1KolTP5klf51ULPnxiDH3Qr/UxezGXtuVXSAow8WNiK/4/YKJ5p907cRoW0efJ2/NG3TtqMEuc0wrGdX3Q5Dpm1hxwzQTfo8Y5FkODEu1BDMm+/GMOmWz+BuEyn6g3TUc/dW8vXdZvG6Cmifex+Y6enOnSQ==;w6MPR6Nd046SoPxqIP/0ow=="
+secured: "YeeqhRAJePIar6R1EXRobUqw3lsmq2+Yay45G0xIReSL32D705GoatD1MoPQaSTVIaA9zCUsk/Wj9BQY2gOEu8ODdBAV4QkEWCQoXQV0G73/rLzeZOR9gvR2Hf8CjxGPFys9jNwmTMxAvBuIhiSphac5Ij+dALHpFqfBmEpTQTKIFQxzbBTu5nr8851dcuYoJ90NoKAIpXb0AzaJ/NbhhLhzpN5lSsXKh8rWYlIQhOf6impJAqtlhI0hlZ+mJpmQJqCfa4cuZckywyfl5NhStWbGWLhkNrxgh2X3czZQgTXiP9aha8Gb2+FrtqwiN56do79mPHfgpGyKzKqNTemfUQ82xWC/UUsbCKqr58hUsd4=;I2Mw7b17/ehUf/+g4aA8PQ=="
 ---
 

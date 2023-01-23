@@ -62,6 +62,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "The human side of generative AI’s gold rush | The AI Beat"
+    excerpt: "The current gold rush to capitalize on generative AI is, ultimately, about financial gain. Let's not forget the human toll."
+    publishedDateTime: 2023-01-23T16:36:00Z
+    webUrl: "https://venturebeat.com/ai/the-human-side-of-generative-ais-gold-rush-the-ai-beat/"
+    ampWebUrl: "https://venturebeat.com/ai/the-human-side-of-generative-ais-gold-rush-the-ai-beat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-human-side-of-generative-ais-gold-rush-the-ai-beat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/pexels-pixabay-47047.jpg?w=1200&strip=all"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "AI art generators face separate copyright lawsuits from Getty Images and a group of artists"
     excerpt: "Three artists have launched a class action against the companies behind Stable Diffusion, Midjourney, and DreamUp."
     publishedDateTime: 2023-01-19T10:29:00Z

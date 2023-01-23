@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-ccc-intelligent-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-ccc-intelligent-solutions-created-a-custom-approach-for-hosting-complex-ai-models-using-amazon-sagemaker/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 800
     height: 400
     isCached: true
-
-related:
-  - title: "AWS Makes it Simpler to Share ML Models and Notebooks with Amazon SageMaker JumpStart"
-    excerpt: "SageMaker JumpStart also provides access to large-scale machine learning models with billions of parameters, which can be used for tasks like article summarization and generating text, images, or ..."
-    publishedDateTime: 2023-01-19T00:00:00Z
-    webUrl: "https://www.infoq.com/news/2022/12/aws-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 64
-    images:
-      - url: "https://res.infoq.com/news/2022/12/aws-sagemaker-jumpstart/en/headerimage/generatedHeaderImage-1671496681710.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "NBcIurLkKqsfRI8z7m0u0WA0MKRrJwpAzQPDNJBR0q/eY54veDFbesNz4/QhAycBYjVXxWgeaJAJJbMlwjQCC5PFWfmovhgf2Nu2QnvkQ5hEYGjF6utTPqYqUwNjN1Mt6tfYa9A0UCWLxaAHCC0UOHMVLIdYfudqvAqN+yjmQUWaOjDiMgTJVBDnH8lV3tYzBsj1hf7wZ8GMNe5cwn1A5OIY34/DDaNmLgxPI2q6CuwG81enrnP9zsYp6TA1b0GJQyZoWoM0L7+MITY+5MltBUjawJNssGj/tDymZj3SgP3iOzWxOBX+WhyVyIotADc/3EC26QoSkSB9KOAIkan6JFvx3d7z/LUgkfdBXPHMyjg=;YmJ2PgSoaR/rRAQKlSVyrQ=="
 ---

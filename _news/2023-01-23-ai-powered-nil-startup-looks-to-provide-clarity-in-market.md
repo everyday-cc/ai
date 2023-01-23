@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T13:46:00Z
 originalUrl: "https://www.sportsbusinessjournal.com/SB-Blogs/SBJ-Power-Up/2023/01/23/Startup.aspx"
 webUrl: "https://www.sportsbusinessjournal.com/SB-Blogs/SBJ-Power-Up/2023/01/23/Startup.aspx"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Sports Business Journal

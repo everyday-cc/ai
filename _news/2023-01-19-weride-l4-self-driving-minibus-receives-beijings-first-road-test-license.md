@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2023/01/19/weride-self-driving-bus-beijin
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2023/01/19/weride-self-driving-bus-beijing-license/?amp=1"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 800
     height: 533
     isCached: true
+
+related:
+  - title: "UK’s first self-driving electric bus unveiled"
+    excerpt: "First Group said it will analyse how people respond to autonomous buses on public roads at a business and technology park in Oxfordshire."
+    publishedDateTime: 2023-01-23T13:46:00Z
+    webUrl: "https://www.aol.com/uk-first-self-driving-electric-134739430.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 4
 
 secured: "4/g80WHyBpfj/DCKsj8i+vv8E4BPPJrTOp3wUSUwYLfuA6yN1J4gptNxRH9rgdzsImDVO1RyLgsMsq69ajcuq5/k/dDynhLzBwe83T2TyrR1iIH1o9ZKj8dqeeQEN3DS2cO5kzjxZUpxUhbkPOfF2S26X51wsHjoZ6x+5+qy3VZ1vnFxit4rrrDc7LWrIuOtIit6v5uzm0VxXQKZAOdGCGU9Rd7GV0dAxY9lxSheRhO6YrPNUXwVuRanLP67ZBgTZA2u5q1Pj6uM/ntazV8hSShrKzWX7Fk7/lVL4m8OQ9ie9K9+WbUxSc4U+dHRApBUmwp4doBcYuDeUInPiZEUsbFBTfZuH8aEaQif8bc+75PV+RGT29HfoI3V3e42Li8JPVVbojXcmWFvIJPs78fNNZoK3bdAmyxpmKgOS33xAFl/ohC2BpZfiQ8A71I6eN/0IUXL60v9BEkrxmbPTZTSX5yIiJ3o/MBQ1DetGQrr+JXv8cpneJMWy0Fy8mF059XBp+WDXwW1YuZ+WLEOd3s18g==;0u7NNOGmjMhO/67QxXuRkQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T11:40:00Z
 originalUrl: "https://seekingalpha.com/article/4571593-irbo-current-price-great-entry-point-gain-exposure-ai-robotics"
 webUrl: "https://seekingalpha.com/article/4571593-irbo-current-price-great-entry-point-gain-exposure-ai-robotics"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: Seeking Alpha

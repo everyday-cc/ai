@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T14:54:00Z
 originalUrl: "https://www.bucknell.edu/news/nemesis-machine-utopia-dystopia-or-both"
 webUrl: "https://www.bucknell.edu/news/nemesis-machine-utopia-dystopia-or-both"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: researchbysubject.bucknell.edu

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T12:56:00Z
 originalUrl: "https://www.delmartimes.net/lifestyle/story/2023-01-23/extensions-of-our-mind-personalized-artificial-intelligence-is-on-the-way-courtesy-of-local-company"
 webUrl: "https://www.delmartimes.net/lifestyle/story/2023-01-23/extensions-of-our-mind-personalized-artificial-intelligence-is-on-the-way-courtesy-of-local-company"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Del Mar Times

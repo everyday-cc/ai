@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T14:57:00Z
 originalUrl: "https://cyber.harvard.edu/story/2023-01/announcing-dr-rumman-chowdhury-berkman-klein-center-responsible-ai-fellow"
 webUrl: "https://cyber.harvard.edu/story/2023-01/announcing-dr-rumman-chowdhury-berkman-klein-center-responsible-ai-fellow"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
   name: Harvard Medical School
@@ -14,7 +17,14 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
-secured: "VIEYeSDOZZ3SRqyiSzzCImvC52AqvBiafVXXvBo5SOh7ousyAMM9n8oQf5xAopEsdrDRO+K1hygxQxW812GpWMVVxNDMn9T2by7iGEEq6P9StK3k0zTt6uenH/QOept8slCrdCna8Cs9IUt4uo+SIzMmjoPYzd5sXuKF0TAhuYTnWxaYKG+S1pUftKw+WjFTf3y2tL84Gvs4G/neHCb30a/xvqHOyrtTw5PHO6pYrt6hY0FO1PJNg50jhBIz1CfJjhIzsIi/YdlXax74MUBMOnl88kkgMowxJ01oR3L5TfvCGZRtdnOMEHR7wGGIoOa0g9a19gsze2cyQ3M5cK/q25FXpdezHU9mjOaEA+ifsfI9vWngvdGuiqOyTTxMvOvJ1j81+D6Ix8W3DCFM/OgwcFwLpN5qiyecQtvVGUwOGCJXfC9Q4w9W7R3B4IbJHnjK2FeszSaKJqnJu2m8CArBUGG/N+/a7n6qHxB/x023f5hG8Vnaod+NFwJgUgAD5Y5TDN3zBzCIyaE+DApzqPSV7Q==;HL+y2yFZJSe2nu++J0ce4g=="
+images:
+  - url: "https://cyber.harvard.edu/sites/default/files/styles/image_large/public/2023-01/vfhndih90iigjrmpa0qf52afj5848610-final2.jpeg?h=4997dc06&itok=3p-x3soh"
+    width: 1000
+    height: 600
+    isCached: true
+
+secured: "aURl+7sMX56wLqAQABwswmrktqfN4xXf5T2+ICuKQm6PsE0GE65SMd5+hK6mozJ0gVKt+9nCrk7WIg5dM+GNojgliEXKnpMMuyrE1cTrL6VGRNQrNkdr5dLjdiauuPubhEkrOBMG2mdYx9pq8RmouD4gHGwkmFPkp0Guts28IYrQFbC8BLAPolrgw5eo020gVHGDGrBdzvRrrPY1VdLqR/y+OPABE9eptzR7hvt9cdxy1jYldsJNjc1Mx8sZ6UXT+faFynGjWtMS/oKR18CaxDUIDBN1N5VMjLghuQJP0P9hgIcn/hX4DBrYiO/tGexQJke+pdrPcMoITd2tS7qRJxZ/lsWYqTgnmWYMD5ioid0=;I+Vm2THyYtiIu2XwYaLlwg=="
 ---
 

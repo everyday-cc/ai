@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-industry-analysis-2023-to-2028-based-on-sales-revenue-size-and-share-2023-01-19"
 type: article
 quality: 64
-heat: 254
+heat: 184
 published: true
 
 provider:
@@ -30,34 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Computer Vision Forecast for 2028, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
-    excerpt: "The major players covered in the AI in Computer Vision market report are: AI in Computer Vision Marketsize, segment (mainly coveringMajorType (, Hardware, Software, ,),End Users (, Automotive, Sports and Entertainment,"
-    publishedDateTime: 2023-01-20T02:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand-2023-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Market Growth Analysis, Size growth, business Share and Business Opportunities to 2029"
-    excerpt: "The “ Artificial Intelligence (AI) Market ” Research 2023 provides deep insights into prosperous growth opportunities, trends, and challenges. It highlights current and futuristic market scenarios, specific growth patterns,"
-    publishedDateTime: 2023-01-23T06:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-growth-analysis-size-growth-business-share-and-business-opportunities-to-2029-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing For Healthcare And Life Sciences Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 19, 2023 (The Expresswire) -- Natural Language Processing For Healthcare And Life Sciences Market Size is projected to Reach Multimillion USD by 2029, In comparison to ..."
     publishedDateTime: 2023-01-20T02:01:00Z
@@ -72,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Robots Market Research Report 2022 by Product Type, Application, Region And Global Forecast to 2030"
-    excerpt: "Jan 19, 2023 (Heraldkeepers) -- The Artificial Intelligence (AI) Robots Market is segmented on the Basis of Offering Type, Robot Type, Application Type and Regional Analysis. By Offering Type this ..."
-    publishedDateTime: 2023-01-19T00:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-report-2022-by-product-type-application-region-and-global-forecast-to-2030-2023-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Systems Market : Competitive Landscape and Analysis by Recent Trends 2023 to 2029"
     excerpt: "A recent research report published by Precision Reports provides an overview of the \"Face Recognition Systems Market\" along with precise insights into potential future scenarios. The report suggests that this industry is expected to experience an annual ..."
     publishedDateTime: 2023-01-19T10:07:00Z
@@ -95,48 +53,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Object Recognition Imaging Systems Market Size 2023, Share, Trends, Growth Analysis, CAGR, Challenges, Drivers, Restraints Forecast to 2029"
-    excerpt: "The Global Object Recognition Imaging Systems Market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2029. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-01-20T05:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-size-2023-share-trends-growth-analysis-cagr-challenges-drivers-restraints-forecast-to-2029-2023-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence as a Service (AIaaS) for Government Market Share : Industry Trends, Growth, Size and Segmentation by 2023 to 2028"
-    excerpt: "Artificial Intelligence as a Service (AIaaS) for Government Market Size is projected to Reach Multimillion USD by 2029,"
-    publishedDateTime: 2023-01-20T01:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-aiaas-for-government-market-share-industry-trends-growth-size-and-segmentation-by-2023-to-2028-2023-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Construction Forecast for 2028, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
-    excerpt: "Artificial Intelligence (AI) in Construction Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,"
-    publishedDateTime: 2023-01-19T00:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand-2023-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -170,6 +86,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Natural Language Processing (NLP) Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2028 with Top Countries Data"
+    excerpt: "Healthcare Natural Language Processing (NLP) Market Size is projected to Reach Multimillion USD by 2029, In comparison"
+    publishedDateTime: 2023-01-23T10:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-share-industry-size-opportunities-analysis-and-forecast-to-2028-with-top-countries-data-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
   - title: "Artificial Intelligence in Industrial Market : Analysis, Forecast, Size, New Trends and Insights, Update, COVID-19 Impact"
     excerpt: "Artificial Intelligence in Industrial Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
     publishedDateTime: 2023-01-19T01:31:00Z
@@ -179,34 +104,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "3D Facial Recognition Market Statistics 2023 : Industry Demand, Prominent Players Strategies, Size, SWOT Analysis and Forecast 2028"
-    excerpt: "Rising demand for Banking & Finance, Consumer Electronics, Government & Defense, Healthcare, Commercial Security, Residential, Others will drive the 3D Facial Recognition segment"
-    publishedDateTime: 2023-01-19T00:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-statistics-2023-industry-demand-prominent-players-strategies-size-swot-analysis-and-forecast-2028-2023-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Data Science and Machine Learning Service Forecast for 2028, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
-    excerpt: "Data Science and Machine Learning Service Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,"
-    publishedDateTime: 2023-01-18T23:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand-2023-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -254,6 +151,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning in CT Scanners Market Size [2023-2028] | Industry Share, Growth Factor, Revenue And Trends Outlook Report"
+    excerpt: "Deep Learning in CT Scanners Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-23T11:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-size-2023-2028-industry-share-growth-factor-revenue-and-trends-outlook-report-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
   - title: "Mobile Speech Recognition Software Market Share 2023 with Regional Scope, New Product Innovation, and Expansion Forecast 2029"
     excerpt: "Global \"Mobile Speech Recognition Software Market\" Analysis and Outlook 2023| Latest Report [ No of Pages 115] In"
     publishedDateTime: 2023-01-19T17:34:00Z
@@ -272,15 +178,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 15
-  - title: "Speech & Voice Recognition Systems Market : Research Report Provides an In-Depth Insight of Trends 2023 To 2028"
-    excerpt: "Pages Report] Rising demand for Internet & Communication Industry will drive the Speech & Voice Recognition Systems segment growth over the next five years. Global Market Anal"
-    publishedDateTime: 2023-01-19T01:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-research-report-provides-an-in-depth-insight-of-trends-2023-to-2028-2023-01-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 14
 
 secured: "eFBAfVtI1P9XthVjMwnTW0Effk8/EDhbqz2DwyhlUq5fr0LFGphOwhXbIA04zftiPZZc6wUPKlLZaCdQ8sIOj+lMh03CidCvG03lTv9ya0As8ZczGov0PtlG6DyrRbk6crmCZsvS/DUgDj/+vmLfY3IC5ViO0+wNzRwk/mr1VurQXKC5mQlX+tA95j7nWA9v/2xhdS2EhHgvqmZ6nX15Rh7ARLa+zY6aonjKkGrcw3/20Bngv3+3QU0rZaE/BZJgcMk/MoZCNfnsATXq/QdzG9m76E9fJtX3vPI/aJKWOR10jPmt9DV99RsnPFMLGIBa6zd0PwcpIcF/NkSOZWq6oSOO2oPsxxwjjy0gvi2KgSs=;3Bp3kDKIIUgbIYunnbpWLw=="
 ---

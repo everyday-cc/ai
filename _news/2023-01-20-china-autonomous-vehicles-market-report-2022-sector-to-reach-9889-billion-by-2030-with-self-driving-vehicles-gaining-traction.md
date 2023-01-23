@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30501691/china-auton
 webUrl: "https://www.benzinga.com/pressreleases/23/01/n30501691/china-autonomous-vehicles-market-report-2022-sector-to-reach-98-89-billion-by-2030-with-self-drivi"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Artificial Intelligence Global Market Report 2022: Rising Demand for Smart Robotics in Manufacturing Industries Presents Opportunities"
+    excerpt: "The \"Artificial Intelligence Market by Component, Deployment, Application, and End-User Industry: Global Opportunity Analysis and Industry Forecast, 2022-2030\" report has"
+    publishedDateTime: 2023-01-23T14:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/n30526238/artificial-intelligence-global-market-report-2022-rising-demand-for-smart-robotics-in-manufacturin"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "o9epmaCdvqYhyEgv3+tI5ihNGlSuuibCjGRuAJoJaoy6FK0JgNB/kZYhm/iFzY2rSQZQrmaS98phuru7E9DbcMiFrw098E8mIXxPd3VlAWsouilI6rzGX22RyaDSxV0lgD5i+fc+O/WPZ/a3j/Buj5MYj7XJW2l+7jMWFDM6L9jVnfgBAkUpqE4z6xcncWFHjYI7q/sVw9w7numS75Kf+Ad5jT34aK1OzTOqXxJVbGkrL0cmk34R1U6/4dEkYys2IbE+7yHqsHeb0YRMBGFy90ud3Gnd7zNeF/md8fXEEHvZJkSZQJmBL89K+ht3piS1VJ8aD/lfK6bzho0DiWiSUX2nBPk/VzprjNkxR+DuYHg=;+uuswxA7HhO5XXGemJ5igg=="
 ---

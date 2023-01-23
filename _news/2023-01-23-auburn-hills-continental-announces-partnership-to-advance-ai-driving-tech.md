@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T12:00:00Z
 originalUrl: "https://www.dbusiness.com/tech-mobility-news/auburn-hills-continental-announces-partnership-to-advance-ai-driving-tech/"
 webUrl: "https://www.dbusiness.com/tech-mobility-news/auburn-hills-continental-announces-partnership-to-advance-ai-driving-tech/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: DBusiness Magazine

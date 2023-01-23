@@ -24,22 +24,6 @@ images:
     height: 408
     isCached: true
 
-related:
-  - title: "Ooredoo Qatar Deploys Cognitive Software To Optimize 5G User Experiences"
-    excerpt: "Ooredoo Qatar, in collaboration with Ericsson, managed to provide Artificial Intelligence (AI) solutions on top of trusted Microsof"
-    publishedDateTime: 2023-01-18T22:26:00Z
-    webUrl: "https://menafn.com/1105447760/Ooredoo-Qatar-Deploys-Cognitive-Software-To-Optimize-5G-User-Experiences"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 23
-    images:
-      - url: "https://menafn.com/updates/pr/2023-01/18/TP_f7f6bimage_story.jpg"
-        width: 840
-        height: 630
-        isCached: true
-
 secured: "+SkQ3zAsd8T3AlZbywgvRGfOYNDYFV5j/PbD+CAyR1y0FDRotZEzPTuYFGTmwXAPBiuIOWu+vpd9MBN+WKUWHd66SI1qiOIdWK2VJoy86o1o2o+2oeBIbKPag5ehGtVdQ4jv0xNV0uKBH8p+k7KRDd4cJrcpep8pdtuW17rPryH9yWt+ZZNeOrHh40gLsbilrwXoYWLOORGzZOur/kwKXzCVnRCsn9NBl6RPTxHG+tWb9YFPs/y/Z7xj3xLtsJuT35EE2oHgibzsAadQniJacwE4O7lR13qtX4fmbZm2RpLWFdi/CKOVNchSDlMpktzKoW3Ng8f6ddTKq/zyVrZSXo5H+rHpxAmaI+V0sjEW5oktahQ7TxHhkjrWPDCplr+FnDf6Id6rAHP6T8Vq7B3dzlTpLQ5kSjycGDqX2E5l310Ql/itsuw/n5LLTfqYwbH2F7dfEr8IF1TEZqOFfo3dzFsm8JQiN7olPph//6Y6sBNkiGYLZoj7Xile/BvWVwZS9f68saBSAoL91wNXszdqBA==;Er66LDQ4sdjL6NfHXzEajw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.a
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/20/technology/chatbots-turing-test.amp.html"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://www.bridgemi.com/sites/default/files/styles/large/public/2023-01/teacher%20with%20student.jpg?itok=0Njw6XVo"
         width: 480
         height: 320
+        isCached: true
+  - title: "Chatbots are creating thorny ethical questions about transparency in mental health care"
+    excerpt: "The mental health field is increasingly looking to chatbots to relieve escalating pressure on a limited pool of licensed therapists."
+    publishedDateTime: 2023-01-23T16:19:00Z
+    webUrl: "https://www.statnews.com/2023/01/23/mental-health-chatbot-chatgpt/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 33
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2023/01/AdobeStock_136361225-1024x576.jpeg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "FBH09fcT/Ys7HhdLl6Fo1GWEvX+k6zSmfq71LMvS0sj8h63xR+6ErHi5mLhXJq3R2rv+xPTGZqtlxiOsnHfSHdIIYCuRWwc9O9PcoK6exzntrbZWaX++q8vfnWSlaufULLFapET2A0zdbX0FnYcfegAqgdp9RHdKXPE9PbSwISooUFL/lExe7o4ySkD3JuT+AY2hvWGXG1fSyBDMYNvm8WCItNwftpHfcDbVHCYOgPlUgk9or2fe7xPq6PaX6BWJRpkU4Xj5XKDDVYwh5r/s7G3qyvmf8TGyudmTop9GkigqAbGH+wPqi9Qiy7pY0CX54oVepK3d84gwnHx9Xo24vG54bnBkw3mB0G07Nt/u9gvY06Oz5dhcBuhS0Djcfx+vB+e0kALzKwnZ8j6zoVk4p/F0BsrCPlUOHPWmJUgHQTcB6nGquI7e85w1Tk/A5v9CfRIgUhy7+Yb8DnYw8tPySjA8sdjm8Gyfa3iOCCrKawEBhJ0e6xul6ljnbUG8amCkKRxDW1CKZjo3ik9taNqJgw==;ASqxZ8/9HgK7yULwKGfj9Q=="

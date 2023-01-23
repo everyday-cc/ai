@@ -7,7 +7,7 @@ originalUrl: "https://www.newson6.com/story/63cdffc05ae97f072749c1cd/oklahoma-sc
 webUrl: "https://www.newson6.com/story/63cdffc05ae97f072749c1cd/oklahoma-schools-react-to-developments-in-artificial-intelligence-"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Massachusetts Institute of Technology-developed AI gains real-world industry experience"
+    excerpt: "Taking what they learned conceptually about artificial intelligence and machine learning (ML) this year, students from across the Greater Boston area had the opportunity to apply their new skills to r"
+    publishedDateTime: 2023-01-23T10:25:00Z
+    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-developed-ai-gains-real-world-industry-experience/"
+    ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-developed-ai-gains-real-world-industry-experience/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-developed-ai-gains-real-world-industry-experience/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 51
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg?fit=600%2C400&ssl=1"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "ig9a/r+ch+vi3SZxC2VUz9OiLhQk7vDgcAeBhNI1q6pty2M8eQFDoQC+zE2KXQ0TIvqX5DVYxDgniMIpTfmPcdv6d0m7kiBI5RgBVck4+JpOYMl14Vj59Y+rLwzblr4MeR8emb8xwmrUyeOO3oltklTE4+jjgjfNwL5pDWiARJJeggpHc6G8v4VB1iy1XEbVxpz03DmJj2z9yv8C81VC47N5IydhW2hdJEthUrQVDyai1UhP2XIctWcYaJGly4MndhTPXOFPMDmdBQjO4BAv9rFazzFm55C66+wwOiEckzqas7lPaVgfhP3Us3FC8ls6n55A3NUngj1T1WxdPwLvGWN6IEGvI7lY/oDXG2KXoAKtVETtfoMyD6L0iokYGjB3ZYMMyhSXFK3DX0Gtr/McG1g3RTZF43hfZEZ0uTmIxnlyLRWO/96lkKlnYNTRg1TZ57BqA+hwR7AUbbc2c7pkDTR1Plj9ysj22teeavc7RiqVs6KExwLw79vy+4OoA50S7aDrQwJpAQHMNfKC3CQapw==;dKQr1a8gRCax8YFhIE89cw=="
 ---
