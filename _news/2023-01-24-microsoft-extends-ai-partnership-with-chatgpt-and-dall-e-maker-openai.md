@@ -3,18 +3,22 @@ category: news
 title: "Microsoft extends AI partnership with ChatGPT and Dall-E maker OpenAI"
 excerpt: "OpenAI is the creator of popular image generation tool Dall-E and the chatbot ChatGPT. Microsoft invested $1bn (£808m) in the company, founded by Elon Musk and tech investor Sam Altman in 2019. The Windows and Xbox maker plans up to 10,"
 publishedDateTime: 2023-01-23T17:43:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-64374283"
-webUrl: "https://www.bbc.co.uk/news/technology-64374283"
-ampWebUrl: "https://www.bbc.co.uk/news/technology-64374283.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-64374283.amp"
+originalUrl: "https://www.bbc.com/news/technology-64374283"
+webUrl: "https://www.bbc.com/news/technology-64374283"
+ampWebUrl: "https://www.bbc.com/news/technology-64374283.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-64374283.amp"
 type: article
-quality: 74
+quality: 104
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -192,6 +196,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft and OpenAI enter third phase of AI acceleration partnership"
+    excerpt: "Microsoft has announced a new multi-billion dollar investment in OpenAI, extending their partnership to accelerate AI development"
+    publishedDateTime: 2023-01-24T10:15:00Z
+    webUrl: "https://www.information-age.com/microsoft-openai-enter-third-phase-of-ai-acceleration-partnership-123501236/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 54
+    images:
+      - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-openai-enter-third-phase-of-ai-acceleration-partnership-scaled.jpg"
+        width: 2560
+        height: 1703
+        isCached: true
   - title: "Microsoft & OpenAI Extend Deal To Make AI Accessible To Everyone"
     excerpt: "Microsoft to extend multi-billion dollar investment in OpenAI to speed up development, democratize AI and make it accessible to everyone."
     publishedDateTime: 2023-01-23T20:42:00Z
@@ -248,6 +266,6 @@ related:
       domain: bbc.co.uk
     quality: 27
 
-secured: "s7UchjPhxUBiXS0EosTN+AgPtjsiH+Bj/ZkuHXIlzjTh5smC+9QqRpMeHQAGOaqoDM9GsE8iYxN8HrPcA6h65j93Dwkt1srvPmBAIh9WNK/bYds6X0vIQibjY58cQBgO6RHE7a2iUI8q83Y66xCM+taqmWwkUNokVj9ow3t+MBMgGLQcDG0+WQKQKiUirPlEZZtyRHRYLJXBPwmUsuouAuNoYSnxY3a6xWGPzCbpqb9DKdnShzILew8pmwuxLmlUGbpA2vhBCTunYrp1c4YATYpKiSOpyX/qulj7vQk03CCdlWqzJ2cK0iEL+MrMAkuepKyjdOgQHlGoOuJB4cXtLeOg7aFKSDFco5ByJnKoEXKRW909/QHrG6zCsRqojjPU2XLIaugbD1Xmjb5mGAEtk0IIZk2Z03wFC3fbocb8bZQ4Dz2E9U0qOM+FxrWoMUBidAcawWWbPABnEgedVGgNVsg/9d6iIPXPAmIO1GOUltwlQzxw/Z+PSY9+rpKQK/gLTfe32wtPT4kL0KKd6i9ang==;Fetx/Fzr55tK2HfemnPF4A=="
+secured: "yBumkmaIC0THRiezlTXQbYl6XBEhFRqLQXeem80F/horahy8bCYtzrYD6mOszJsN5/eV/NLsDvujB4osw60r6if3IMjxkyh+/PLkx4/90d7DjicQbW/E3IYcHzaUgT2NKA0yq2mp2WAlu9cPf4KeXQfW0Ox81ABodN6VLor6Kou4dDS27FO7Ml6vC3bI86C4rvqj8M9nBg+RQgMJdXNfMDlLn6zVlKt8B2oYUIjMWVazv7ADLTDYYkwBXlA3Qsg6XW3N7VdJbc2Z/WYV++6Tg8EmfS4u0Yz248XDNExq1ebAuTAUfoQWsrN71SaBw2uOa3WWspdksRimSufkvDxA7Jwf/bO6TVNanlA7+IgNfQs=;7xMJTgW2Wl/BOJYtYpBRtw=="
 ---
 

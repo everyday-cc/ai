@@ -205,6 +205,22 @@ related:
         width: 850
         height: 567
         isCached: true
+  - title: "Tech View: ChatGPT is latest foray into artificial intelligence"
+    excerpt: "Although it doesn’t have as cool a name as Alexa, Siri or even Hal, ChatGPT is the latest and most advanced foray into the technology known as artificial intelligence, or AI. What exactly is ChatGPT,"
+    publishedDateTime: 2023-01-24T10:05:00Z
+    webUrl: "https://www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/"
+    ampWebUrl: "https://www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 57
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/01/web1_13345119-97d7ef2b4a2b421ca8e633f719ef92ce.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "Worried ChatGPT will steal your job? You’ll have to out-think artificial intelligence"
     excerpt: "Does ChatGPT really come across as human? If it can do Task X, could it also do Task Y? And, perhaps most importantly: How frightened should I be of this thing taking my job? Such questions can be amusing and addictive,"
     publishedDateTime: 2023-01-20T03:59:00Z
@@ -266,22 +282,6 @@ related:
       - url: "https://i.insider.com/63ce5869fcc41d0018a3a3b4?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "ChatGPT: Students could use AI to cheat, but it's a chance to rethink assessment altogether"
-    excerpt: "ChatGPT is a powerful language model developed by OpenAI that has the ability to generate human-like text, making it capable of engaging in natural language conversations. This technology has the potential to revolutionize the way we interact with computers,"
-    publishedDateTime: 2023-01-19T18:07:00Z
-    webUrl: "https://phys.org/news/2023-01-chatgpt-students-ai-chance-rethink.html"
-    ampWebUrl: "https://phys.org/news/2023-01-chatgpt-students-ai-chance-rethink.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-chatgpt-students-ai-chance-rethink.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 47
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-1.jpg"
-        width: 1920
-        height: 1175
         isCached: true
   - title: "Adani, a ChatGPT user, claims that the race for AI will become as complex as the chip battle"
     excerpt: "Adani, a ChatGPT user, claims that the race for AI will become as complex as the chip battle - Gautam Adani, the richest man in Asia, is addicted to ChatGPT, a tool that scours large quantities of"

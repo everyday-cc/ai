@@ -35,6 +35,20 @@ related:
         width: 4001
         height: 1485
         isCached: true
+  - title: "CNET's AI Journalist Appears to Have Committed Extensive Plagiarism"
+    excerpt: "CNET's AI-generated articles appear to show deep structural similarities, amounting to plagiarism, with previously published work elsewhere."
+    publishedDateTime: 2023-01-24T09:34:00Z
+    webUrl: "https://futurism.com/cnet-ai-plagiarism"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 39
+    images:
+      - url: "https://wp-assets.futurism.com/2023/01/cnet-ai-plagiarism-1.jpg"
+        width: 1200
+        height: 707
+        isCached: true
 
 secured: "w/b/DmOP60az8rQdzm6jYYIjhBLNr7dhbpSf1NNBveoko7AXMVDx8yQfpRGMAPLAVuWR/KnaxpLZ2+mJZ7FHg2Vu+9wMJz2lhQXB38mL9H3y64aBgUwbASK5U9xHJ23hOQiJKl0nqn2sBbxMVUn2z+NM6J/t7zrEPg6mhqSsH8+4VzsZJ/w7OI/dtJ1hs5FVOLDfaILSYhuHueldhrhZlZdFzLAOap2u05IaMgoe3BRlFMvu0H3IJ9/mrjgKjqdEcl0za0KlCpPM8ujVjNv5PTwWejdM3L4WwUCsAgP1x1rXvYQNhB5bLRt2M1w7aUKMMhnLbxkLz/SXwdH8MJ7bypRf2jeOkj6FQk6UZmcmh/ZaV1LeakSLB3hsfE7zVfOcfu59Yo0qnVBZYpf5jPhiwcJdM+cCwIpFakT7dBre36ktkhgv3GcGbF9FYam03Z+y7bYqFVUmQI0ThzP3rwCYLN0xijFnPnpTl61urZ+AKSEHnuPVNcsI4LXxgT28YVu/MmGBt+g48h0ZY7r75R0pIA==;Ag52nAl/Yqi0z36mKnc0MA=="
 ---

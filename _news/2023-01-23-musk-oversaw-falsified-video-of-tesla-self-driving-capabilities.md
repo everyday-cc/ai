@@ -73,22 +73,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Tesla hits a new bump, accused of staging self-driving promotional video"
-    excerpt: "A senior Tesla engineer has testified that the 2016 video released by the carmaker to showcase its EVs' self-driving technology was staged."
-    publishedDateTime: 2023-01-19T17:59:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-hits-a-new-bump-accused-of-staging-self-driving-promotional-video-41674107708779.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/electric-vehicles/tesla-hits-a-new-bump-accused-of-staging-self-driving-promotional-video/amp-41674107708779.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/electric-vehicles/tesla-hits-a-new-bump-accused-of-staging-self-driving-promotional-video/amp-41674107708779.html"
-    type: article
-    provider:
-      name: Auto News India
-      domain: hindustantimes.com
-    quality: 58
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2023/01/19/1600x900/2021-tesla-model-x_1621055198406_1674109685302_1674109685302.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Elon Musk oversaw video that exaggerated Tesla's self-driving capabilities"
     excerpt: "Just want to be absolutely clear that everyone’s top priority is achieving an amazing Autopilot demo drive,” Musk said in the email. “Since this is a demo, it is fine to hardcode some of it, since we will backfill with production code later in an OTA update,"
     publishedDateTime: 2023-01-20T08:10:00Z

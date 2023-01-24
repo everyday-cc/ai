@@ -1,17 +1,15 @@
 ---
 category: news
 title: "Lawsuit claims IBM falsely used mainframe sales to boost AI, cloud businesses"
-excerpt: "A lawsuit has been filed against 13 current and former IBM executives, including CEO and Chairman Arvind Krishna and former CEO Ginni Rometty, accusing the company of securities fraud — bundling ..."
-publishedDateTime: 2023-01-19T01:26:00Z
-originalUrl: "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html"
-webUrl: "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html"
-ampWebUrl: "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html/amp/"
-cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html/amp/"
+excerpt: "IBM is also alleged to have reallocated revenue from its non-strategic Global Business Services (GBS) segment to the company’s Watson-branded AI products — a strategic imperative included in ..."
+publishedDateTime: 2023-01-19T10:45:00Z
+originalUrl: "https://www.arnnet.com.au/article/704841/lawsuit-claims-ibm-falsely-used-mainframe-sales-boost-ai-cloud-businesses/"
+webUrl: "https://www.arnnet.com.au/article/704841/lawsuit-claims-ibm-falsely-used-mainframe-sales-boost-ai-cloud-businesses/"
 type: article
 
 provider:
-  name: CIO
-  domain: cio.com
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - IBM AI
@@ -19,11 +17,11 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://www.cio.com/wp-content/uploads/2023/01/ibm-sign-5.jpg?quality=50&strip=all&w=1024"
-    width: 1024
-    height: 682
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_204939925_9.jpg"
+    width: 473
+    height: 315
     isCached: true
 
-secured: "B0//1L3PaJAY5jcfE9ENwIZYvT4YYwk0Pw/vK2u6ah6bqCUBUQQfpznjbe9a/kMFUnsStVun9RiMNE8cjGUf25u70sqUDJrFvf2+Wen5v/oH+mbixmXXgorMba31ieKXFpD1YHa0k+aN2S/Zh9cO8TjYPmrafHnDSp77Bv0EIJXR/UpXKyrXrt6Jqh0+8e3YEimBC1qF6UA19wB5Z1YAy0P9THKonCoSsa0PkipJwVRDX6gX69S2MnBB3uukOh5XPQAskd6Zz41sBSNQRkLN5OVOoGlDHETVWHomUnLzJrKaB1Anhx9Hr5KwIDQOwdkgTb9G4j6QgzfyZDIEih9grhk8SuKKmnfqzIVRS5Bnscw=;pTbIP2exsCEQ4hTroMcUDA=="
+secured: "G0A5hngmHZe3J5Iaj659mxdeetHuSlNTFPS1TWhMEbVtx03nCwDOxCZVa9g6++qIuf1/uyLEMjt60DiW7IVi6pJN/QytPTq2OJSq/RJWOAtinJiijZi6reJua+nKRwu5qWabSjS4v0aPCXSSHKmrktuZ2t9G9iDUW/OkjUKflx6mLrPwCpVqmUS5Bs4JzNFxXeeFd8NBIFyvyosL+YPJaio9ezg/jIU9Jv5dfI9rmjK/khT74qLS/cv3Ni8mdvh/3HAbejl5bJnbLRvuXoruDx4FB7tYkVRAF1ebNLuU8rhW1dQMgIkVMdyx3jU8A2JAEydTqErlQ6OTnu63O9Mei3wrramYeaRxCt4yr3EX3YM=;TY5OzGoJU/4yoqC/3otSDg=="
 ---
 

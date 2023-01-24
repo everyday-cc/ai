@@ -30,6 +30,17 @@ images:
     height: 372
     isCached: true
 
+related:
+  - title: "Referendum not about the details, say Indigenous voice supporters"
+    excerpt: "Indigenous leaders campaigning for the voice say the referendum is solely about whether Australians support constitutional recognition and a voice to parliament, with details of how the advisory body would work to be decided afterwards by politicians."
+    publishedDateTime: 2023-01-24T10:54:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/referendum-not-about-the-details-say-indigenous-voice-supporters/news-story/a7c8ecb8cbe55892e2793704b8b44101"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
+
 secured: "3i2CCUgou9TA7y74IfZlUxGkR+Jgl/kJtdoH38DbfYRiefml1hakVlnhO/kxTvjlscrNdywpvNFvSjKjCSEV+mgimCF+exte4PitD77jpjnDD8khlffOblKgoQ0CrBWvyBtVfRSd8WAP1+PtuGkGZWH2ezv+2FRHbHbQZYHAFKpf43x8V2n7eE06ozBv/Y9KU4vz+EGPM7Ich6ZRIrMXmNbLJJnt2XfhByB//uMbcnunEIX8M1TPiqKxyUlFePDD6ezpeZAHKffuwFAFNXHPwhVS7sRkJ+rUgDKW9SseofaWaRAfjvS+K69+MdRmGXCS/xvG6Gu30Vxqb4vQbzSi3ulTsgmoZqxr71lbFxuYdqTa5zLpu5VSpcRvmgEEFgKQqG1R/HTg1gKllMYOxyavpc67M7BPJ/s9uMcLYT3Sra0wpLs3muSctY/EeFrNobMDyjH3QGI4agK3pUuVc/zwR8oxpQ9BJwpHZVYwFXcwTEiAFHTa4Fj3B5FuzKJN6fT4aeFNe39TMw1uZTyOdk7BIA==;F/w/R+ttBEg5/3jTmcSFPA=="
 ---
 

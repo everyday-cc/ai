@@ -2,9 +2,9 @@
 category: news
 title: "Baidu-backed Chinese startup to push self-driving sweeping vehicles"
 excerpt: "BEIJING -- Chinese self-driving sweeping vehicle startup Yunchuang Zhixing has raised funds in a pre-Series A+ round led solely by Baidu Ventures, a unit of Chinese tech group Baidu. The company ..."
-publishedDateTime: 2023-01-15T05:20:00Z
-originalUrl: "https://asia.nikkei.com/cms/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles"
-webUrl: "https://asia.nikkei.com/cms/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles"
+publishedDateTime: 2023-01-15T13:36:00Z
+originalUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles"
+webUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "MjXfDgaQXb8u3M7d04sO31GSJtNAQgomerpEOer75cffhakB1B/37YREJpi5McLVrRrrea96+x0zbBBFqu5piUy/bLyXIhdYnsFUMWEZteHb5BgAGVovBDMhoe0LmwvZ7E7w3nmunbZ9RwK7yzqXBdaW3EfCICYHim5GgEAIx+lFxcmFxImhnjRF83RIbb/Ekw8YD1bt428f1MveeeEzzHBpRtaRmo5oPKi07nfwQ5TMnd1C2x8ud5Sec7V/Yvf/+xVYrn1crQeXnRisxXzPrJOUU0Dvgx5JnXvyB0sVM5GemyQ3AM1MSX75eoMLhnV279QAGRjjCmoeMAQKjBK9wFJmH+P7HH1C3roCIFArCjY=;6410YqzfDmH662H0N4m64g=="
+secured: "PnTFt+uAQPM6m1V0SHNY3UREo3uTyFa/1YAiJFu3fcwvjI1P1GwCga9LKbaQLNypokeYLkFBrMPPGQtXixQY4DYNBUwNx2ceUZN9hpAAQMBfSOpSVFhQAZrJ568XYWCkPx4OiCHQta54PH7kixQa1jrx5jS3BMaXf8IAYJN84XHRZ68T8cY588i63b6a4195/whrtx+YCrrsQRpq8cxU389kvZnpYUZCUrFgiCQNvRZJStslbKJUA7WjXtAUjqpJiLmfaFIT2/e60O4aqAu25ybsb9GKJmZOnsWO10EfQ1AHUtNmvdzDqk+itG2kr5QTK4u8qUqyK2b+Ev1eYGDWviUMxWYfO4sfY9qhON3kvV0=;lc+x/sfd+21BIg/H+PR++A=="
 ---
 

@@ -18,17 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Fluent.ai Announces Collaboration to Offer Embedded Voice Recognition for Cadence Tensilica HiFi 5 DSP-Based True Wireless Stereo Products"
-    excerpt: "Fluent.ai – a leader in small footprint embedded, noise robust and multilingual/multi-accent speech recognition software solutions, today announced its embedded voice recognition solution for True Wireless Stereo (TWS) and other hearable products running on the Cadence ® Tensilica ® HiFi 5 DSP in partnership with Airoha,"
-    publishedDateTime: 2023-01-19T18:00:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/01/19/9746105.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "mdus+NqQCMLNTPIxpazKAOH2KawSZjr5v1TE7UraRzWFdRVYt6VsdU7PySnrDa3EjoDBtvlT+JtnMMou0xnIFAm8kczrhMIFHiKl+kBI3I+OGzcMgUZD20rVgP9DHuek+3awV2QfpODMSXugQrOqzUFc2d8lkcf0OYpssuN3RJ6EHdqzF3Z5S4KLT5iflh6bWyw3X5LI8V3aEXyybvKJXGvWbD6WiMx6qVw+InDeNJ3FFds5YMzn/iZLTBwFKd3G7znrUdMHG7K6p7k9j3ZH+nD9+W0Ll4wep9UbcQ7F7kyx/y+uJ5lRXHXf0xEtFfSBXXUH9H3ObGJ8en/eYqSxEuDL9JZtL2/hJ963BDrFivc=;FZf4qS7iu792eF1laKWsrw=="
 ---
 

@@ -29,6 +29,22 @@ images:
     height: 372
     isCached: true
 
+related:
+  - title: "AWS launches new Australian cloud region in Melbourne"
+    excerpt: "First announced in December 2020, this is the second cloud region AWS has in the country, following the opening of Sydney in 2012. “We are excited about the launch of a second A"
+    publishedDateTime: 2023-01-24T10:47:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/aws-launches-new-australian-cloud-region-in-melbourne/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/gettyimages-600688368-170667a.2e16d0ba.fill-1200x630.jpg"
+        width: 509
+        height: 269
+        isCached: true
+
 secured: "o6O5n1l1LhcS/fVzgPdI8FJZa8X3M6x2Zcg7nbd+UGicSRqmyRtldaI5vHhOjQ9WqHMnTNxGqjG6b2QNaJiGFA3VkDJOPvX+5S3xR4n2XLkhxLpY1eAVMAtjVbzhDPURWNdS6tpKE/ycU86Rs1QGeV0C/lIwL7BOBt/wJEK5S/BJ4Vg+umr2Sk59vzw2R1Y7vcKL2fNdvpngvMeLu/aEyGTyH/gfQMWNsH2mOILBsOBVpe9H2Z+x3f2X3Ec6VJfxXVHlEnqKjKfLiBCnexsGIyq0XT9h/Ah5d+YN23k8yLVx465Q5dlzvkIgNp0o6F0QwmOq9qGxrsa0ToPaZ2j9qtAj3B3XOrQlLSVGMtqZrEBw3eloXcFuQ+nm2RHuM36NiINyA3liUAisCC2tUfvdJ1+j0NsAV1yO9wRMMqlXxqMBRs48ldHRc/lHvqWLjVvr22yZl6FAR/E3OCVZxOu0fwQOZ/xdTCGJ42uzmgIsDH//uV5jonMj3Z0aTD2MKv0h/QPwHo9ipYgZ2rrL4Lm2iQ==;ZtLHKg3tkg8fBMUL8rW9iw=="
 ---
 

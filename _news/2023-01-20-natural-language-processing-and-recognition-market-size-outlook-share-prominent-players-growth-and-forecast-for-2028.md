@@ -141,6 +141,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Forecast 2028 for the Mobile Artificial Intelligence Market in terms of size, returns, gross margin, and market share"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 24, 2023 (The Expresswire) -- Mobile Artificial Intelligence Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 116 Pages ..."
+    publishedDateTime: 2023-01-24T09:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-mobile-artificial-intelligence-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Video Analytics and Artificial Intelligence Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2029"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-01-20T01:25:00Z
@@ -234,15 +248,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 25
-  - title: "Mobile Speech Recognition Software Market Share 2023 with Regional Scope, New Product Innovation, and Expansion Forecast 2029"
-    excerpt: "Global \"Mobile Speech Recognition Software Market\" Analysis and Outlook 2023| Latest Report [ No of Pages 115] In"
-    publishedDateTime: 2023-01-19T17:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-share-2023-with-regional-scope-new-product-innovation-and-expansion-forecast-2029-2023-01-19"
+  - title: "Self-driving Cars and Trucks Market Research report forecast 2023 To 2028, Latest Industry News, Top Company Analysis, Research Methodology"
+    excerpt: "Self-driving Cars and Trucks Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-24T00:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-research-report-forecast-2023-to-2028-latest-industry-news-top-company-analysis-research-methodology-2023-01-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 22
+    quality: 20
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "4S6qhTaCVNinvgkGzLB9OrOmSL2/SPtLthw25mPJ1L5AKBrjjcu3A2eB+NGXT7+/qKUcQeRNpsss3hx4oOrvcxyTd+S/1OfRgklVJ1YXLQNPZNI4B/EFNoOh7x3qxnVZy7TZY8AgmpytTJ+PR66jAHMsVxqfOF5XHmT1dCVApLJsiAceLIRn2eKldlexIvRWKBY2M+Z1wFvB/4nKlf62UvEpxA7kELP2XV82rpeh3CpJWquEsYOjqZmpfAtC6Rrvu9ZFyPfUmLw1wTh+r57YVc131i7HtFjOzGXLAwUXlOe4FsCPwWKaqF6l/olef/p5DuB2qcOYUF4Oqvv+mR21i1XR4+9bZfDabwWGL2KVZDY=;y/ybD72bdt3Yvyr39aVzjw=="
 ---
