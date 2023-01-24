@@ -1,31 +1,20 @@
 ---
 category: news
 title: "She was denied entry to a Rockettes show — then the facial recognition debate ignited"
-excerpt: "They told her their facial recognition system already knew who she was, and more importantly, where she worked, Conlon told The New York Times. The issue was her law firm was involved in ..."
-publishedDateTime: 2023-01-21T12:04:00Z
-originalUrl: "https://www.wwno.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
-webUrl: "https://www.wwno.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
-ampWebUrl: "https://www.wwno.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited?_amp=true"
-cdnAmpWebUrl: "https://www-wwno-org.cdn.ampproject.org/c/s/www.wwno.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited?_amp=true"
+excerpt: "When a lawyer was denied entry to a Rockettes show, it became a flashpoint in the debate over facial recognition technology. Does it keep people... One evening in late November, New Jersey ..."
+publishedDateTime: 2023-01-21T12:03:00Z
+originalUrl: "https://www.northcountrypublicradio.org/news/npr/1150289272/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
+webUrl: "https://www.northcountrypublicradio.org/news/npr/1150289272/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
 type: article
-quality: 52
-heat: 52
-published: false
 
 provider:
-  name: WWNO
-  domain: wwno.org
+  name: Northcountrypublicradio.org
+  domain: northcountrypublicradio.org
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/562e9cc/2147483647/strip/true/crop/5196x3200+247+0/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F20%2Fjesse-zhang-face-ai-final_custom-20c61e8560ae339ccf6c0ef0ae5b2734e6a0a10f.jpg"
-    width: 880
-    height: 542
-    isCached: true
-
-secured: "4w79Zwif7tJf1AVu/LBq/ZDSCfSVdUZn6JinGxsaHf88lcLEnm5xLSwsYyOck87sxN9LtDVtS+7skscmomrE4T2YTQmfMtUTpGKB1gF7NQvS1zouADzjJU5P078LFPB5MO+zDQ6CLYkIcf5tyKJbAV6es/hRTIXQJIWRJWn9Pi4HhWMOUOncpbpxdaQEJ/YV/yplnP84OxoLwIQz3QLEyKNmsOu/ikea0stz12Lq2nauL7R8l1yoJjGLiOWmr8p3Ts3qVEcvVHmcCq24pcwtL1Rg9SLe1P9Rb6NxB0WAeZ7V/1G+jvn6GreEbUrHanlA/3C514DyFWkV62j/YWRQtUXd+RUNYyxtBAGsOW5UWUk=;GCyABFTMfifKR/qz4hScww=="
+secured: "u6wd2u1mTCp+6/hNN+Omroy6whOxnSQjLdvXL9KKYVm8ULdIXwGWFXHHO/h/q3bWHkFea9BClOzA6/hll5WYAiLfNcUbYqGCEpztHJmQ0ww8ExGZVygBX85/UriYDWcZiqnx0ThjT+7U/Mknft08kAbYjRR24dwsmAAJ189S9WFdvDvUHIPWfUx//jC2IdUVrVzhzdqpq1GzdM7kYVi4N4t11QIy7xvoMpswlC4rWubVdG/8TG7y7fl7uBaXHjSlXryAd4Di8BVIbuKf40OOSqgs+L1B8oJIXzkytVJlztoN0CEvplccEhmlyeS62E2WvSn7LAQ22UvneiDrBWO7HfZBlGOvvheo7p2GXxcqK1E=;4RHs/EjWeD7Uq9Ap5stIJg=="
 ---
 

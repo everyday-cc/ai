@@ -1,24 +1,21 @@
 ---
 category: news
 title: "Lawsuit claims IBM falsely used mainframe sales to boost AI, cloud businesses"
-excerpt: "A lawsuit has been filed against 13 current and former IBM executives, including CEO and Chairman Arvind Krishna and former CEO Ginni Rometty, accusing the company of securities fraud — bundling ..."
-publishedDateTime: 2023-01-19T01:26:00Z
-originalUrl: "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html"
-webUrl: "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html"
+excerpt: "IBM is also alleged to have reallocated revenue from its non-strategic Global Business Services (GBS) segment to the company’s Watson-branded AI products — a strategic imperative included in ..."
+publishedDateTime: 2023-01-19T10:45:00Z
+originalUrl: "https://www.arnnet.com.au/article/704841/lawsuit-claims-ibm-falsely-used-mainframe-sales-boost-ai-cloud-businesses/"
+webUrl: "https://www.arnnet.com.au/article/704841/lawsuit-claims-ibm-falsely-used-mainframe-sales-boost-ai-cloud-businesses/"
 type: article
-quality: 33
-heat: 33
-published: false
 
 provider:
-  name: CIO
-  domain: cio.com
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - IBM AI
   - AI
   - AI in Sales
 
-secured: "qQdz1znYfMDqsuWvlNVOz2HPjpNWQQPk/nBS/B/0tBdVCAmUHve0WcZM/jI1inPxHRgoBTYYSXRv2dcAo1VweEQWvF+XJj5zpZJIwVQHcLxXWW3OHXt3ewj1KEJTML3MTrloh2X9aitlMot9d6Egs8YpS7lcrBc56+BEza/NI5nEwibR3wuZZYGXzpNnpUAZ/rzf3MNVdxifJMwtPe4DsZhcjgNh56eUFRYmYD7P4ysGRBMnIX7Lb8f9RBNN825hyKTOLZOxObgUU29hjvgVVt0ufLia842jvD1CvXpd73IjI+c6Rv79RYCgncy2JcTTBdyhPWw+UBsmLw9bjKDYCFXz61cEq/UMiKjG8zseLBk=;0xpmMDcvDCG7U1wr22L3TA=="
+secured: "Nh9vYxCx3kFPmdtnJtdsB3cktDkS5QSh2QaZGagUKzbVmhJ0eGQ9pkqSYn371AOVEmkf89rg6Vgf4qAcnFRJzvuOtJZzzXwDRYD4NrtW24NBivWoEL7eEuoIR8looqscSkQzQ90OfY7YGq0IJ6b661WUxUObaCVVm6M1p4cve0zIDRL6JoAW9WQq8vC3sqF2EcPHUXaFATSPPqwfNv8+lmcP6saooN9sfoVQkAOlTEe8Dn31BWrp3eqqqWZHLODxo1JqgyEgwTAqa4VYqSGF3P320NibclbRD48yIv2QQ/zUlICNGvfatz6slvv3dRem0smX/ibeRP1XGNkOby68N8V6AgjMFsu9azWeb56N7Vg=;7/C7tBTfLB+PwkUXBf1WkQ=="
 ---
 
