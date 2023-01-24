@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 19150688
+        "followers": 19151263
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -40,7 +40,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 606,
+      "heat": 607,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_400x400.png",
@@ -79,7 +79,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 107776
+        "followers": 107783
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -135,7 +135,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1089002
+        "followers": 1089000
       },
       "yearFounded": 0,
       "locations": [
@@ -177,7 +177,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 37330
+        "followers": 37332
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -240,7 +240,7 @@
       "twitter": {
         "username": "aurora_inno",
         "url": "https://twitter.com/aurora_inno",
-        "followers": 14693
+        "followers": 14700
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -299,7 +299,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 78168
+        "followers": 78170
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -547,7 +547,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 21512
+        "followers": 21513
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -1131,7 +1131,7 @@
       "twitter": {
         "username": "neurala",
         "url": "https://twitter.com/neurala",
-        "followers": 2757
+        "followers": 2758
       },
       "size": "11-50 employees",
       "yearFounded": 2006,
