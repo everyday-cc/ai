@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-01-24-how-artificial-intelligence-is-transforming-banking.md",
-      "title": "How Artificial Intelligence is Transforming Banking",
-      "excerpt": "By Ankur Rawat, Director, Products and Solutions, Banking and Financial Services, Newgen Software Banking has transformed over the years. It has come a long way from unorganized peer-to-peer banking to organized branch-based banking,",
+      "path": "_news/2023-01-24-artificial-intelligence-and-machine-learning-market-growth-opportunity-trends-service-forecast-to-2028.md",
+      "title": "Artificial Intelligence and Machine Learning Market Growth, Opportunity, Trends, Service, Forecast To 2028",
+      "excerpt": "Artificial Intelligence and Machine Learning Market Size is projected to Reach Multimillion USD by 2029, In comparison",
       "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/how-artificial-intelligence-is-transforming-banking/",
-      "originalUrl": "https://www.globalbankingandfinance.com/how-artificial-intelligence-is-transforming-banking/",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-growth-opportunity-trends-service-forecast-to-2028-2023-01-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-growth-opportunity-trends-service-forecast-to-2028-2023-01-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 140,
       "tags": null,
       "images": [
         {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2023/01/iStock-1168748420.jpg",
-          "width": 750,
-          "height": 530,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/how-artificial-intelligence-is-transforming-banking/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-artificial-intelligence-is-transforming-banking/",
-      "publishedDateTime": "2023-01-23T14:57:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-24T02:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +49,10 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "AI in Finance",
+        "AI in Healthcare"
       ]
     },
     {
@@ -53,7 +64,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-sales-cagr-and-competition-data-from-2023-to-2028-2023-01-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 213,
+      "heat": 193,
       "tags": null,
       "images": [
         {

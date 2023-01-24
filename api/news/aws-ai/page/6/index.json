@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-11-09-serve-multiple-models-with-amazon-sagemaker-and-triton-inference-server.md",
+      "title": "Serve multiple models with Amazon SageMaker and Triton Inference Server",
+      "excerpt": "Amazon SageMaker is a fully managed service for data science and machine learning (ML) workflows. It helps data scientists and developers prepare, build, train, and deploy high-quality ML models quickly by bringing together a broad set of capabilities purpose-built for ML. In 2021, AWS announced the",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/serve-multiple-models-with-amazon-sagemaker-and-triton-inference-server/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/serve-multiple-models-with-amazon-sagemaker-and-triton-inference-server/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/09/serve-multiple-models-sagemaker-triton-f.jpg",
+          "width": 1549,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T09:07:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-cloud-giants-file-major-eu-antitrust-suit-against-microsoft.md",
       "title": "Cloud giants file major EU antitrust suit against Microsoft",
       "excerpt": "A cloud computing industry group has filed an antitrust complaint about Microsoft to the European Commission’s Directorate-General for Competition. The body, dubbed Cloud Infrastructure Service Providers in Europe or \"Cispe\",",
@@ -1361,60 +1413,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform.md",
-      "title": "D2iQ Simplifies Artificial Intelligence and Machine Learning Operations with Industry-First Enhancements to Kaptain AI/ML Platform",
-      "excerpt": "D2iQ Simplifies Artificial Intelligence and Machine Learning Operations with Industry-First Enhancements to Kaptain AI/ML Platform Oct 24, 2022",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform-2022-10-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform-2022-10-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

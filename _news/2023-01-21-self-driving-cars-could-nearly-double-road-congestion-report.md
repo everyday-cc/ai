@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How an increase in self-driving cars could harm the environment"
-    excerpt: "Self-driving vehicles are expected to go mainstream in the near future, but mass numbers of such vehicles could result in a significant increase in CO2 emissions, mainly due to the energy needed for the computers managing all the hardware and software on board."
-    publishedDateTime: 2023-01-20T02:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/20/how-an-increase-in-self-driving-cars-could-harm-the-environment"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/01/19/1908682.jpg"
-        width: 1240
-        height: 697
-        isCached: true
   - title: "Human-Like Perception for Self-Driving Cars"
     excerpt: "This ability is still lacking in the current algorithms that enable robots and self-driving vehicles to perceive their ... which is evaluated with the help of artificial intelligence. In this way, the vehicles are trained to identify other road users ..."
     publishedDateTime: 2023-01-20T07:13:00Z
@@ -53,6 +39,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "China Autonomous Vehicles Market Report 2022: Sector to Reach $98.89 Billion by 2030 with Self-Driving Vehicles Gaining Traction"
+    excerpt: "The autonomous vehicle is also known as a self-driving or driverless car that can sense and read the environment and operate with minimal human input. Self-driving cars have becom"
+    publishedDateTime: 2023-01-20T13:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/n30501691/china-autonomous-vehicles-market-report-2022-sector-to-reach-98-89-billion-by-2030-with-self-drivi"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "wXReWPE69Jpw3YRyGJt6vGkk21bLE0ERDeuQ92jlwUHpGfQd5hUExSpqGUzpGuFs+a7XTO4PqguxK3nGUGbrAuYoInqJU1xQ0CV4Pp1f2+tPJEcz9oX0Ch5DonqIR+Tyeuk9qeb3JiiGqIm00KhSO17g4pcsb0pXTBdgLjsj9MqKostJrdnniO8o0IK12dhJ6W1XrwFUUZvCRDGd71stCkfL53reoBmNdqQsQGjtmlB/lOJrsO+Xeu+NOlsajNfU0aYT/43I+u+SV7wt9VHtz2qvn2ak2Gqg3pQA4wcz9jnmX3bfgzSturFJeAGY/+5h68vx2hb93xKI5anACpGlInGidLg/wj9Zj7YBlGhsCFw=;vHJixhoycpaK+S7iHvZYUQ=="
 ---

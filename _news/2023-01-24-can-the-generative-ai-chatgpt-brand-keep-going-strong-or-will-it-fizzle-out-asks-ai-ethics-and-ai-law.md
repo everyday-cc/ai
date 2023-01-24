@@ -195,6 +195,22 @@ related:
         width: 345
         height: 230
         isCached: true
+  - title: "Experts warn about possible misuse of new AI tool ChatGPT"
+    excerpt: "The functions of the powerful new technology, known as ChatGPT, are causing experts to warn about the risk of misuse."
+    publishedDateTime: 2023-01-24T16:44:00Z
+    webUrl: "https://www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/"
+    ampWebUrl: "https://www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kcrg-com.cdn.ampproject.org/c/s/www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
+    type: article
+    provider:
+      name: ABC Kcrg  9
+      domain: kcrg.com
+    quality: 59
+    images:
+      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/rHS0lidZxCLKaUAjmNq43_mZzUE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/ZIYVSTOR6RFGHOTXVJOUDCHNUQ.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Why UK SME’s could be saving time and money by using AI tools like ChatGPT"
     excerpt: "SMEs need to find new and innovative ways to engage with customers and improve their bottom line. One solution to achieve these goals is the use of ChatGPT"
     publishedDateTime: 2023-01-21T14:53:00Z
@@ -275,19 +291,21 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Nearly a Third of White-Collar Workers Have Tried ChatGPT or Other AI Programs, According to a New Survey"
-    excerpt: "Many are using the technology to draft emails, generate ideas, write and troubleshoot bits of code and summarize research or meeting notes"
-    publishedDateTime: 2023-01-20T02:59:00Z
-    webUrl: "https://time.com/6248707/survey-chatgpt-ai-use-at-work/"
+  - title: "Microsoft to invest billions in parent company of controversial AI chatbot ChatGPT that could mean the end of Google"
+    excerpt: "MICROSOFT has revealed plans to invest billions into ChartGPT’s parent company OpenAI. On Monday, Microsoft announced it was making a “multi-year multibillion-dollar investment”"
+    publishedDateTime: 2023-01-24T15:58:00Z
+    webUrl: "https://www.thesun.co.uk/tech/21152114/microsoft-invest-billions-ai-chatbot-chatgpt-google/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/21152114/microsoft-invest-billions-ai-chatbot-chatgpt-google/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21152114/microsoft-invest-billions-ai-chatbot-chatgpt-google/amp/"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 50
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 51
     images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/01/SC-Microsoft-AI-Off-Plat-copy.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Google plans to demo a version of its search engine with AI chatbot features and launch 20 new products, following ChatGPT 'code red,' report says"
     excerpt: "Google is increasingly focusing on AI projects, following the launch of OpenAI's ChatGPT, the New York Times reported."
@@ -369,6 +387,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2023/01/20/1909914.jpeg"
         width: 1240
         height: 786
+        isCached: true
+  - title: "College student busted submitting paper written by Open AI's ChatGPT"
+    excerpt: "Popular Now: AI creates 1980s 'Matrix' starring Jeff Goldblum as Morpheus Chatbots such as OpenAI's ChatGPT are free and have very powerful capabilities that are resulted in them going viral."
+    publishedDateTime: 2023-01-22T16:22:00Z
+    webUrl: "https://www.tweaktown.com/news/90083/college-student-busted-submitting-paper-written-by-open-ais-chatgpt/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
+    images:
+      - url: "https://static.tweaktown.com/news/9/0/90083_02_college-student-caught-submitting-paper-using-chatgpt.jpg"
+        width: 620
+        height: 413
         isCached: true
   - title: "Google Sparrow: an AI to compete with ChatGPT"
     excerpt: "In response to the danger posed by ChatGPT, Google is preparing its response with its own artificial intelligence. Created by DeepMind and called Sparrow, it must provide reliable and sourced answers while respecting certain limits."

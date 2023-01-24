@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Achieving reliable generative AI"
-    excerpt: "Generative AI systems like DALL·E 2 and ChatGPT are fun. Here are some ways we'll be able to make them reliable and truly useful."
-    publishedDateTime: 2023-01-20T02:07:00Z
-    webUrl: "https://venturebeat.com/ai/achieving-reliable-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/achieving-reliable-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/achieving-reliable-generative-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-robot_drawing_AI-image_text-to-image_generative-ai_180822246.jpg?w=1200&strip=all"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "The human side of generative AI’s gold rush | The AI Beat"
     excerpt: "The current gold rush to capitalize on generative AI is, ultimately, about financial gain. Let's not forget the human toll."
     publishedDateTime: 2023-01-23T16:36:00Z
@@ -95,6 +79,20 @@ related:
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-01-21T01:00:00Z
     webUrl: "https://www.law.com/legaltechnews/2023/01/20/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-01-24T18:46:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/01/24/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
     type: article
     provider:
       name: Law

@@ -7,7 +7,7 @@ originalUrl: "https://www.foxnews.com/video/6318967719112"
 webUrl: "https://www.foxnews.com/video/6318967719112"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "MSG faces backlash for using facial recognition technology"
-    excerpt: "Sen. Kristen Gonzalez joined advocates sounding off last weekend, demanding that MSG Entertainment seize the use of the technology on fans."
-    publishedDateTime: 2023-01-21T07:14:00Z
-    webUrl: "https://brooklyn.news12.com/msg-faces-backlash-for-using-facial-recognition-technology"
-    ampWebUrl: "https://brooklyn.news12.com/amp/msg-faces-backlash-for-using-facial-recognition-technology"
-    cdnAmpWebUrl: "https://brooklyn-news12-com.cdn.ampproject.org/c/s/brooklyn.news12.com/amp/msg-faces-backlash-for-using-facial-recognition-technology"
-    type: article
-    provider:
-      name: News 12 Networks
-      domain: news12.com
-    quality: 59
-    images:
-      - url: "https://images.ctfassets.net/3kqcuzntcg31/6MoUTJYfbgBxQxVY46j4WD/a5ea15e7a69faaa364b96a99ef9d8b77/3b96f50a-c2f9-4d18-afe0-ff8ec91a49a6.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Facial recognition: Can fake data produce real results?"
     excerpt: "Diversifying training datasets with computer-generated faces may help break down bias in the technology, but one expert says using synthetic images is a step too far."
     publishedDateTime: 2023-01-20T21:46:00Z

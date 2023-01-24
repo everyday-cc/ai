@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-07-3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt.md",
+      "title": "3 things the AI Bill of Rights does (and 3 things it doesn’t)",
+      "excerpt": "Expectations were high for the White House's Blueprint for an AI Bill of Rights released this week. Here's what what it does and doesn't do.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/",
+      "originalUrl": "https://venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-167852886.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/amp/",
+      "publishedDateTime": "2022-10-07T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-google-demos-two-new-text-to-video-ai-systems-focusing-on-quality-and-length.md",
       "title": "Google demos two new text-to-video AI systems, focusing on quality and length",
       "excerpt": "Last week, Facebook’s parent company Meta shared a new AI model that turns text prompts ... elude to these matters briefly in their research paper. “Video generative models can be used to ...",
@@ -1426,59 +1479,6 @@
       ],
       "topics": [
         "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-ai-act-what-does-general-purpose-ai-gpai-even-mean.md",
-      "title": "AI Act: What does general purpose AI (GPAI) even mean?",
-      "excerpt": "In a discussion about the EU's AI Act this week, panelists discussed the difficulty of defining GPAI and other new AI technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/",
-      "originalUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/eu-elections-parliament-e1663194279910.jpg?fit=800%2C496&strip=all",
-          "width": 800,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/amp/",
-      "publishedDateTime": "2022-09-15T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
         "Facebook AI"
       ]
     }

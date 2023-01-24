@@ -3,8 +3,8 @@ category: news
 title: "I’m a copywriter. I’m pretty sure artificial intelligence is going to take my job"
 excerpt: "My amusement turned to horror: it took ChatGPT 30 seconds to create, for free, an article that would take me hours to write"
 publishedDateTime: 2023-01-24T13:08:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/jan/24/chatgpt-artificial-intelligence-jobs-economy?amp"
-webUrl: "https://www.theguardian.com/commentisfree/2023/jan/24/chatgpt-artificial-intelligence-jobs-economy?amp"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/jan/24/chatgpt-artificial-intelligence-jobs-economy"
+webUrl: "https://www.theguardian.com/commentisfree/2023/jan/24/chatgpt-artificial-intelligence-jobs-economy"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jan/24/chatgpt-artificial-intelligence-jobs-economy"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jan/24/chatgpt-artificial-intelligence-jobs-economy"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "bqSK0LOE3BEphQCkrCdlIwdlVhjNyfG8YtmABbrRwY4uC0LZlMVlA8asCwGVEd71Egm1GbVatPQM0F2rgW4ipzHeCwjAmirEE0yt0TmHaemvegNlakeicAqCTzjYLxnKhtNQUnNa3W71Wx8FxJciQr8CO6a0pRqzAHxdDMfcWaOxzl+9NvLYKkyJA9Ex6pTQR9M/15Njsrh1caZs5MjHrdSvW7GiwsLuJAUhJ9RgKCCHAwszKhdpBG59197IgC+eMnhffm3jOf+0cu3tFnD54suGnZHdiW8DGOQmj3c6eSycOGcfRs0P5TDVhkdzqzrPteJZebZraAYYok6mpkH1ERs19eteQl2t6KPdUyoY+Vc=;c4ZwHZII5z9C7/KtZPuQIQ=="
+secured: "Wuqm4f6R0Od0/EeXgKzmWROB7rDvfeN7UHVjWhNKuSK/ER9GKqKSbc3lOymbXKAWV5TR+26wg+4sxITjPHwzTF3cWQvWcYbZJMuV9a279FPUcWlBdDPFjUdzCbIsFwTHnpDVtQfYu+QFsQMUJdlt4QY1uNnUxy8oUDKp4FAm/1pZLMYXUS8QLfDJcsrn1z5GJxL641qjmgLHPCBk58GoW0gs8eRV3H+AbQr9UP4hzB1UV2NC3WEeG52BHOpHmJ4dxIhYrhLPxnm6fN3PPUAlK0shGEYT3CdUAKtgbV/uPOLzO/FF2muI5aOa5YrHAhjvwePnpJySHb3CSVzJmWXeoDdAijM4RKtJJrMDkecwyf8=;Ih6hqeD+pHxWobb97W58pw=="
 ---
 

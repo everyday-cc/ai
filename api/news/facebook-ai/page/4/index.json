@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-10-meta-layoffs-hit-an-entire-ml-research-team-focused-on-infrastructure.md",
+      "title": "Meta layoffs hit an entire ML research team focused on infrastructure",
+      "excerpt": "After today's Meta layoffs, a researcher said entire team focused on applying ML across the infrastructure stack was cut.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/",
+      "originalUrl": "https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/zuck.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/amp/",
+      "publishedDateTime": "2022-11-09T20:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-elon-musk-has-fired-twitters-ethical-ai-team.md",
       "title": "Elon Musk Has Fired Twitter’s ‘Ethical AI’ Team",
       "excerpt": "As part of a wave of layoffs, the new CEO disbanded a group working to make Twitter’s algorithms more transparent and fair.",
@@ -1363,59 +1416,6 @@
       "topics": [
         "AI",
         "Natural Language Processing",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt.md",
-      "title": "3 things the AI Bill of Rights does (and 3 things it doesn’t)",
-      "excerpt": "Expectations were high for the White House's Blueprint for an AI Bill of Rights released this week. Here's what what it does and doesn't do.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/",
-      "originalUrl": "https://venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-167852886.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/amp/",
-      "publishedDateTime": "2022-10-07T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
         "Facebook AI"
       ]
     }

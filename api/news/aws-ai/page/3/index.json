@@ -2,6 +2,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-06-amazons-new-chip-moves-aws-into-high-performance-computing.md",
+      "title": "Amazon’s new chip moves AWS into high-performance computing",
+      "excerpt": "Peter DeSantis, a senior vice president who oversees most of AWS’s engineering teams, said in an interview that the product is a springboard for making what the industry calls high-performance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/amazons-new-chip-moves-aws-into-high-performance-computing/",
+      "originalUrl": "https://www.seattletimes.com/business/amazons-new-chip-moves-aws-into-high-performance-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T12:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker.md",
       "title": "Foursquare to Power Geospatial Data Visualization in Amazon SageMaker",
       "excerpt": "Foursquare, the leading independent location technology company, exclusively powers data visualization for the new Amazon SageMaker geospatial capabilities announced last week at Amazon Web ...",
@@ -1331,42 +1366,6 @@
         "AWS AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-artificial-intelligence-in-fmcg-and-retail-market-size-in-2022-business-statistics-with-top-countries-data-ibmmicrosoftnvidiaamazon-web.md",
-      "title": "Artificial Intelligence in FMCG and Retail Market Size In 2022 Business Statistics with Top Countries Data | IBM,Microsoft,Nvidia,Amazon Web Services",
-      "excerpt": "A qualitative report published by Market intelligence data research on “Artificial Intelligence in FMCG and Retail Market” this research report offers an in-depth examination of the current ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fmcg-and-retail-market-size-in-2022-business-statistics-with-top-countries-data-ibmmicrosoftnvidiaamazon-web-services",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fmcg-and-retail-market-size-in-2022-business-statistics-with-top-countries-data-ibmmicrosoftnvidiaamazon-web-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T02:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],

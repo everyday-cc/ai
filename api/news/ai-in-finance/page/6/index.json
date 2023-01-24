@@ -2,6 +2,61 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-04-machine-learning-as-a-service-market-projected-to-discern-stable-expansion-during-2022-2028-amazon-web-services-bigml-inc-microsoft-corporation.md",
+      "title": "Machine Learning as a Service Market projected to discern stable expansion during 2022-2028 | Amazon Web Services, BigML Inc., Microsoft Corporation",
+      "excerpt": "Machine Learning as a Service Market - Global Outlook and Forecast 2022-2028 is latest research study released by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-projected-to-discern-stable-expansion-during-2022-2028-amazon-web-services-bigml-inc-microsoft-corporation-2022-10-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-projected-to-discern-stable-expansion-during-2022-2028-amazon-web-services-bigml-inc-microsoft-corporation-2022-10-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-techstars-ceo-on-the-future-of-fintech.md",
       "title": "TechStars CEO On The Future Of FinTech",
       "excerpt": "Meeting up with TechStars CEO Maëlle Gavet at the Collision conference in Toronto. Here’s what she is excited about in financial technology.",
@@ -1352,59 +1407,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-nala-robotics-and-saudi-excellence-co-to-establish-first-ai-based-robotic-cloud-kitchen-and-rd-center-in-saudi-arabia.md",
-      "title": "Nala Robotics and Saudi Excellence Co. to Establish First AI-Based Robotic Cloud Kitchen and R&D Center in Saudi Arabia",
-      "excerpt": "NAPERVILLE, Ill. and RIYADH, Saudi Arabia, Sept. 15, 2022 /PRNewswire/ -- Nala Robotics, a U.S.-based AI robotics company disrupting the culinary",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nala-robotics-and-saudi-excellence-co-to-establish-first-ai-based-robotic-cloud-kitchen-and-r-d-center-in-saudi-arabia-1031746917",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nala-robotics-and-saudi-excellence-co-to-establish-first-ai-based-robotic-cloud-kitchen-and-r-d-center-in-saudi-arabia-1031746917",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1900242/20220915_112904.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

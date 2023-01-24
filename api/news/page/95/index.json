@@ -2,6 +2,91 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2022-10-27-uaes-minister-for-artificial-intelligences-praise-for-jaishankar.md",
+      "title": "UAE’s Minister for Artificial Intelligence’s praise for Jaishankar",
+      "excerpt": "Omar Sultan Al Olama, Minister of State for Artificial Intelligence, United Arab Emirates virtually joined in CyFY2022 organised by Observer Research Foundation (ORF) on October 26. While commenting on managing UAE’s geo-political headwinds,",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/videos/news/uaes-minister-for-artificial-intelligences-praise-for-jaishankar/videoshow/95107771.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/videos/news/uaes-minister-for-artificial-intelligences-praise-for-jaishankar/videoshow/95107771.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-95107771/videos/news/uaes-minister-for-artificial-intelligences-praise-for-jaishankar.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/videos/news/uaes-minister-for-artificial-intelligences-praise-for-jaishankar/amp_videoshow/95107771.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/news/uaes-minister-for-artificial-intelligences-praise-for-jaishankar/amp_videoshow/95107771.cms",
+      "publishedDateTime": "2022-10-26T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-parents-of-boys-shown-to-have-faster-rate-of-cognitive-decline-than-those-with-girls.md",
+      "title": "Parents of boys shown to have 'faster rate of cognitive decline' than those with girls",
+      "excerpt": "But what about your children? A new study has considered whether the gender of the next generation can affect cognitive health. A new study published in the United States has found that parents of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/health/1687908/parents-boys-faster-rate-of-cognitive-decline",
+      "originalUrl": "https://www.express.co.uk/life-style/health/1687908/parents-boys-faster-rate-of-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/11/590x/How-you-age-1687908.jpg?r=1666778811254",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/health/1687908/parents-boys-faster-rate-of-cognitive-decline/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1687908/parents-boys-faster-rate-of-cognitive-decline/amp",
+      "publishedDateTime": "2022-10-26T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-iot-world-the-ai-summit-austin-nov-2-3.md",
       "title": "IoT World & The AI Summit Austin, Nov. 2-3",
       "excerpt": "IoT World & The AI Summit Austin celebrates the convergence of IoT and AI — two transformative technologies used in everyday life by everyone. Jenalea Howell, the vice president of AI &",
@@ -1121,110 +1206,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-speech-recognition-for-consumer-electronics-market-strategic-imperatives-for-growth-analysis-and-success-rate-by-2026-newst-99-pages-report.md",
-      "title": "Speech Recognition for Consumer Electronics Market – Strategic Imperatives for Growth Analysis and Success Rate By 2026 | Newst 99 Pages Report",
-      "excerpt": "In 2022, Current Speech Recognition for Consumer Electronics Market Size with Newest [99] Pages Report The latest",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-for-consumer-electronics-market-strategic-imperatives-for-growth-analysis-and-success-rate-by-2026-newst-99-pages-report-2022-10-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-for-consumer-electronics-market-strategic-imperatives-for-growth-analysis-and-success-rate-by-2026-newst-99-pages-report-2022-10-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T21:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-speech-recognition-market-report-entails-a-detailed-qualitative-and-quantitative-analysis-by-2030-141-report-pages.md",
-      "title": "Speech Recognition Market Report Entails a Detailed Qualitative and Quantitative Analysis By 2030 | 141 Report Pages",
-      "excerpt": "Pages No.] Speech Recognition Market report are massive business with critical facilities designed to efficiently support robust opportunities, scalable applications and are often associated with big data-producing companies such as ,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-market-report-entails-a-detailed-qualitative-and-quantitative-analysis-by-2030-141-report-pages-2022-10-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-market-report-entails-a-detailed-qualitative-and-quantitative-analysis-by-2030-141-report-pages-2022-10-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

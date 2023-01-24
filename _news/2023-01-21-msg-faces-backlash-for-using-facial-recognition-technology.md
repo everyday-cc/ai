@@ -27,34 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Individuals barred from top NYC venues slam use of facial recognition: ‘Slippery slope’"
-    excerpt: "Kelly Conlon, who was kept from seeing the Rockettes, and Sam Davis, who was barred from attending a Rangers game, speak out against MSG Entertainment and James Dolan for their use of facial recognition on 'America's Newsroom."
-    publishedDateTime: 2023-01-20T16:50:00Z
-    webUrl: "https://www.foxnews.com/video/6318967719112"
+  - title: "Researchers Used Facial Recognition Technology to Identify a Long Lost Painting By Raphael"
+    excerpt: "A new study concludes that the previously unattributed de Brécy Tondo is nearly certainly a work by the Italian Old Master."
+    publishedDateTime: 2023-01-24T17:05:00Z
+    webUrl: "https://news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583"
+    ampWebUrl: "https://news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583/amp-page"
+    cdnAmpWebUrl: "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583/amp-page"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 61
+      name: Artnet
+      domain: artnet.com
+    quality: 64
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a59fcf2c-07db-48d9-8cb6-3d4e5c54cb91/c444767f-fa42-4280-b081-73c50a1754d4/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        width: 1024
-        height: 512
+      - url: "https://p-news-uploads.storage.googleapis.com/2020/03/de-Bre%CC%81cy-Tondo-painting.x7ee14c4d.jpeg"
+        width: 1270
+        height: 1270
         isCached: true
-  - title: "Facial recognition: Can fake data produce real results?"
-    excerpt: "Diversifying training datasets with computer-generated faces may help break down bias in the technology, but one expert says using synthetic images is a step too far."
-    publishedDateTime: 2023-01-20T21:46:00Z
-    webUrl: "https://gcn.com/emerging-tech/2023/01/facial-recognition-can-fake-data-produce-real-results/382050/"
+  - title: "Artificial intelligence study determined a painting with mysterious origins is a likely a Raphael, researchers say"
+    excerpt: "The technology found the de Brécy Tondo, which features a woman and baby, closely matched Raphael's Sistine Madonna."
+    publishedDateTime: 2023-01-24T17:34:00Z
+    webUrl: "https://www.cbsnews.com/news/artificial-intelligence-study-finds-painting-likely-raphael/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/artificial-intelligence-study-finds-painting-likely-raphael/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-study-finds-painting-likely-raphael/"
     type: article
     provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
+      name: CBS News
+      domain: cbsnews.com
+    quality: 52
     images:
-      - url: "https://cdn.gcn.com/media/img/cd/2023/01/20/01202023_levinson_facialrec2-3/860x394.jpg?1674251006"
-        width: 860
-        height: 394
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/24/671f4227-bd0f-4bd4-bc75-1da2e97616f3/thumbnail/1200x630g2/0086d84eeb4a7cf532d9183a9f1bbcc3/raphael-tondo-sistine-madonna-xb5d3f5c5.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Famous venue is advised to stop using facial recognition technology"
+    excerpt: "State lawmakers have warned the Madison Square Garden stadium in New York City not to use face recognition technology as a weapon against visitors if"
+    publishedDateTime: 2023-01-22T13:36:00Z
+    webUrl: "https://menafn.com/1105462269/Famous-venue-is-advised-to-stop-using-facial-recognition-technology"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "QvTOdOc+BGK0KxTYfj/cIy2j3DXCuuxfcgtS8NA6PaKyWKE9rYXoK3bUySvjjndkE7UlsE2p6MEz3eEL6InA70Ljn1kgk5OnWB15gtwtZ2NVL4XW1BWBbnfY/sIDTx9TL/APEARsX3egQACbnVpMveuMI3v8wUuPIrjQOA5lMOZTxZ5gsg7DpBdDCKXl69GjDg2t5Y7qNG7VJVGe2yHjm4g5TMMT3+qI7riM1et4p3nDm7Apu5l2P4hVeIngfuCA8Mql2f7PgylbUSSLf/NyPA/GH+e9u2jKTwIHpEK56Hy5Cnj65xyfpSx6aKfPvr4KfLude/Yoyhot5Nlnf/fV7e3Z2aR7tD8QPvDSfEHyZiDcKI3w/MuFAasxaFAABL9SdfNzYFqJw+fEJXTp8DNmqc35hwm2tz7gd7ZvPmOfFUGccKQbGu0iX3i6GAGoZ99moLcMSytHpbCnzrN5ciwQSnjTiZnSs2gbVdbunWN0t097i4Q+G3AfWmJG1/Z5Dk0xVeizkfith257R1bo2mg7LA==;vto0ZgYlk77C+TbvWC4uwQ=="
 ---

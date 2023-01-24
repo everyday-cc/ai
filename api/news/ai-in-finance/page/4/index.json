@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-17-fintech-investment-innovation-ideology-and-technology-swift-growth-in-new-technology-such-as-ai-vital-for-sector-expansion.md",
+      "title": "FinTech Investment, Innovation, Ideology and Technology: Swift Growth in New Technology Such as AI Vital for Sector Expansion",
+      "excerpt": "Dublin, Nov. 17, 2022 (GLOBE NEWSWIRE) -- The \"FinTech: Investment, Innovation, Ideology and Technology\" report has been added to ResearchAndMarkets.com's offering. The fintech sector includes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/g29765867/fintech-investment-innovation-ideology-and-technology-swift-growth-in-new-technology-such-as-ai-vi",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/g29765867/fintech-investment-innovation-ideology-and-technology-swift-growth-in-new-technology-such-as-ai-vi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29765867",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29765867",
+      "publishedDateTime": "2022-11-17T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-ai-in-fintech-market-size-development-possibilities-income-investigation-future-interest-advancement-patterns-deals-channel-and-estimate.md",
       "title": "AI in FinTech Market Size, Development Possibilities, Income Investigation, Future Interest, Advancement Patterns, Deals Channel, and Estimate to 2027",
       "excerpt": "AI in FinTech Report Customization and Knowledge of Russian Invasion of Ukraine & Post-Pre Covid-19 covered in this report. The “AI in FinTech Market” added with the data set of superb bits of ...",
@@ -1308,59 +1342,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-how-ai-and-machine-learning-quietly-went-mainstream.md",
-      "title": "How AI And Machine Learning Quietly Went Mainstream",
-      "excerpt": "Now that the novelty, and frankly, some of the fear factor, around AI has begun to fade, we’re entering a generation in which technology will just be better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/",
-      "originalUrl": "https://www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6361209b71c915fecc08fd14/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/amp/",
-      "publishedDateTime": "2022-11-01T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

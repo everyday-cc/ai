@@ -32,34 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In RegTech Market : Industry Analysis 2023 To 2028 based on Sales, Revenue, Size and Share"
-    excerpt: "Artificial Intelligence In RegTech Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
-    publishedDateTime: 2023-01-20T02:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-industry-analysis-2023-to-2028-based-on-sales-revenue-size-and-share-2023-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Medical Artificial Intelligence Market Profiled Key Players to Show Impressive Revenue Growth by 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Medical Artificial"
-    publishedDateTime: 2023-01-20T01:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/medical-artificial-intelligence-market-profiled-key-players-to-show-impressive-revenue-growth-by-2028-2023-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Neural Networks Market Insights : Industry dynamics, New Technologies and Forecast to 2029"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. A latest"
     publishedDateTime: 2023-01-23T07:52:00Z
@@ -116,10 +88,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Forecast 2028 for the Automatic Speech Recognition Market in terms of size, returns, gross margin, and market share"
-    excerpt: "Automatic Speech Recognition Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
-    publishedDateTime: 2023-01-20T02:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-automatic-speech-recognition-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-19"
+  - title: "Face Recognition Technology Market 2023 Booming Growth in Future Scope, Market Share, Sales and Revenue by Top Key Player and Forecast 2028 Research"
+    excerpt: "Global Face Recognition Technology Market New Research Report 2023| The Face Recognition Technology Market Size"
+    publishedDateTime: 2023-01-24T05:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-booming-growth-in-future-scope-market-share-sales-and-revenue-by-top-key-player-and-forecast-2028-research-2023-01-24"
     type: article
     provider:
       name: MarketWatch
@@ -153,34 +125,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing and Recognition Market Size, Outlook, Share, Prominent Players, Growth, and Forecast for 2028"
-    excerpt: "Natural Language Processing and Recognition Market Size is projected to Reach Multimillion USD by 2029, In comparison"
-    publishedDateTime: 2023-01-20T02:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-and-recognition-market-size-outlook-share-prominent-players-growth-and-forecast-for-2028-2023-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Video Analytics and Artificial Intelligence Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2029"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-01-20T01:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-analytics-and-artificial-intelligence-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2029-2023-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -265,29 +209,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning in CT Scanners Market Size [2023-2028] | Industry Share, Growth Factor, Revenue And Trends Outlook Report"
-    excerpt: "Deep Learning in CT Scanners Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
-    publishedDateTime: 2023-01-23T11:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-size-2023-2028-industry-share-growth-factor-revenue-and-trends-outlook-report-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
-  - title: "Self-driving Cars and Trucks Market Research report forecast 2023 To 2028, Latest Industry News, Top Company Analysis, Research Methodology"
-    excerpt: "Self-driving Cars and Trucks Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
-    publishedDateTime: 2023-01-24T00:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-research-report-forecast-2023-to-2028-latest-industry-news-top-company-analysis-research-methodology-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

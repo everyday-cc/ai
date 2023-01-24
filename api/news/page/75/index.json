@@ -2,6 +2,93 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2022-11-15-use-of-tech-like-ai-and-ml-has-the-potential-to-transform-higher-education.md",
+      "title": "Use of tech like AI and ML has the potential to transform higher education",
+      "excerpt": "Technologies like AI and ML are rapidly transforming every aspect of human lives; yet, one industry that has seen limited use of this new technology but offers incredible potential and opportunity, is education. The magic of software applications ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/education/news/use-of-tech-like-ai-and-ml-has-the-potential-to-transform-higher-education-101668513305169.html",
+      "originalUrl": "https://www.hindustantimes.com/education/news/use-of-tech-like-ai-and-ml-has-the-potential-to-transform-higher-education-101668513305169.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/11/15/1600x900/AI_and_ML_in_Higher_education_1668514399749_1668514399882_1668514399882.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/education/news/use-of-tech-like-ai-and-ml-has-the-potential-to-transform-higher-education-101668513305169-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/education/news/use-of-tech-like-ai-and-ml-has-the-potential-to-transform-higher-education-101668513305169-amp.html",
+      "publishedDateTime": "2022-11-15T04:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-ceva-introduces-voice-user-interface-solution-for-ti-simplelink-wi-fi-wireless-mcus.md",
+      "title": "CEVA Introduces Voice User Interface Solution for TI SimpleLink™ Wi-Fi® Wireless MCUs",
+      "excerpt": "ROCKVILLE, Md., Nov. 15, 2022 -- CEVA, Inc. (NASDAQ: CEVA), the leading licensor of wireless connectivity and smart sensing technologies and co-creation solutions, announced today the availability of its WhisPro™ speech recognition and control software ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/news/53020/ceva-voice-user-interface-solution-for-ti-simplelink-wi-fi-wireless-mcus.html",
+      "originalUrl": "https://www.design-reuse.com/news/53020/ceva-voice-user-interface-solution-for-ti-simplelink-wi-fi-wireless-mcus.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.design-reuse.com/news_img2/homepage53020/cevb.jpg",
+          "width": 1074,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T04:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated.md",
       "title": "Reports Of The Death Of Self-Driving Cars Are Greatly Exaggerated",
       "excerpt": "Recent weeks have seen a number of reports of the death of self-driving cars, triggered mostly by the closure of Argo.AI, the self-driving startup funded by Ford and VW. That shutdown hasn’t been the only bad news in a year of bad news for almost all of ...",
@@ -1059,92 +1146,6 @@
       "provider": {
         "name": "Healthcare Dive",
         "domain": "healthcaredive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-were-getting-a-better-idea-of-ais-true-carbon-footprint.md",
-      "title": "We’re getting a better idea of AI’s true carbon footprint",
-      "excerpt": "AI startup Hugging Face has undertaken the tech sector’s first attempt to estimate the broader carbon footprint of a large language model. Large language models (LLMs) have a dirty secret: they require vast amounts of energy to train and run. What’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/11/14/1063192/were-getting-a-better-idea-of-ais-true-carbon-footprint/",
-      "originalUrl": "https://www.technologyreview.com/2022/11/14/1063192/were-getting-a-better-idea-of-ais-true-carbon-footprint/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/11/nuclear-power-BLOOMa.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/11/14/1063192/were-getting-a-better-idea-of-ais-true-carbon-footprint/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/14/1063192/were-getting-a-better-idea-of-ais-true-carbon-footprint/amp/",
-      "publishedDateTime": "2022-11-14T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-official-jumps-from-10th-floor-of-intelligence-agency-raws-office.md",
-      "title": "Official Jumps From 10th Floor Of Intelligence Agency R&AW's Office",
-      "excerpt": "An official of India's spy agency Research And Analysis Wing or R&AW jumped from the 10th floor of the agency's building in Delhi on Monday, said police. He died on the spot, police added. The man ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/india-news/official-jumps-from-10th-floor-of-intelligence-agency-r-aws-office-3520229",
-      "originalUrl": "https://www.ndtv.com/india-news/official-jumps-from-10th-floor-of-intelligence-agency-r-aws-office-3520229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/delhi-police-generic-pti_625x300_1528917240983.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/india-news/official-jumps-from-10th-floor-of-intelligence-agency-r-aws-office-3520229/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/official-jumps-from-10th-floor-of-intelligence-agency-r-aws-office-3520229/amp/1",
-      "publishedDateTime": "2022-11-14T09:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
         "images": null,
         "publishers": null,
         "authors": null

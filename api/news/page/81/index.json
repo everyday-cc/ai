@@ -2,6 +2,100 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2022-11-09-anything-world-raises-75m-to-assist-content-creators-using-ai-based-animation.md",
+      "title": "Anything World raises $7.5M to assist content creators using AI-based animation",
+      "excerpt": "Anything World has raised $7.5 million in funding to create an AI-based animation system that creators can use to be more expressive.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/anything-world-raises-7-5m-to-assist-content-creators-with-ai/",
+      "originalUrl": "https://venturebeat.com/games/anything-world-raises-7-5m-to-assist-content-creators-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/anything-Environments_Forest_3_colour_full.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/anything-world-raises-7-5m-to-assist-content-creators-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/anything-world-raises-7-5m-to-assist-content-creators-with-ai/amp/",
+      "publishedDateTime": "2022-11-09T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-how-machine-learning-powered-campaigns-are-propelling-business-strategies.md",
+      "title": "How machine learning powered campaigns are propelling business strategies?",
+      "excerpt": "In the modern era, driven by technology, the adoption of machine learning is proliferating among businesses. While it enables firms to solve complex problems on the back of meaningful information derived from the careful",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-machine-learning-powered-campaigns-are-propelling-business-strategies/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-machine-learning-powered-campaigns-are-propelling-business-strategies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Akhil.png",
+          "width": 434,
+          "height": 474,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-machine-learning-powered-campaigns-are-propelling-business-strategies/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-machine-learning-powered-campaigns-are-propelling-business-strategies/",
+      "publishedDateTime": "2022-11-09T02:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-axiomtek-launches-the-newest-medical-grade-artificial-intelligence-computing-system-mbox100.md",
       "title": "Axiomtek launches the newest medical grade artificial intelligence computing system - mBOX100",
       "excerpt": "Axiomtek – a world-renowned leader relentlessly devoted to the research, development, and manufacturing of innovative and reliable industrial computer products of high efficiency – is pleased to announce the release of the mBOX100,",
@@ -1064,110 +1158,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-id-selfie-improving-digital-identity-verification-using-aws.md",
-      "title": "“ID + Selfie” – Improving digital identity verification using AWS",
-      "excerpt": "The COVID-19 global pandemic has accelerated the need to verify and onboard users online across several industries, such as financial services, insurance, and healthcare. When it comes to user experience it is crucial to provide a frictionless transaction while maintaining a high standard for identity",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/id-selfie-improving-digital-identity-verification-using-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/id-selfie-improving-digital-identity-verification-using-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/08/id-selfie-rekognition.jpg",
-          "width": 1547,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T10:55:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-getting-started-with-deploying-real-time-models-on-amazon-sagemaker.md",
-      "title": "Getting started with deploying real-time models on Amazon SageMaker",
-      "excerpt": "Amazon SageMaker is a fully-managed service that provides every developer and data scientist with the ability to quickly build, train, and deploy machine learning (ML) models at scale. ML is realized in inference. SageMaker offers four Inference options: Real-Time Inference Serverless Inference Asynchronous",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-deploying-real-time-models-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-deploying-real-time-models-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/08/getting-started-real-time-sagemaker.jpg",
-          "width": 1548,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T10:51:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

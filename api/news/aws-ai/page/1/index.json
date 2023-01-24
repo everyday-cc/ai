@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-20-wipro-canadas-aws-launch-pad-centre-now-open-for-business.md",
+      "title": "Wipro Canada's AWS Launch Pad Centre now open for business",
+      "excerpt": "Technology services and consulting company Wipro Limited Canada yesterday opened its newest Wipro-AWS Launch Pad Centre in Toronto, which the company said will allow its clients to experience the “art of the possible” in digital transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://thestarphoenix.com/technology/wipro-canadas-aws-launch-pad-centre-now-open-for-business",
+      "originalUrl": "https://thestarphoenix.com/technology/wipro-canadas-aws-launch-pad-centre-now-open-for-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/01/wipro-launch-pad-image-1024x690-1.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thestarphoenix.com/technology/wipro-canadas-aws-launch-pad-centre-now-open-for-business/wcm/d47a073e-9735-4a4e-9384-69bba97d2f9c/amp/",
+      "cdnAmpWebUrl": "https://thestarphoenix-com.cdn.ampproject.org/c/s/thestarphoenix.com/technology/wipro-canadas-aws-launch-pad-centre-now-open-for-business/wcm/d47a073e-9735-4a4e-9384-69bba97d2f9c/amp/",
+      "publishedDateTime": "2023-01-19T18:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The StarPhoenix",
+        "domain": "thestarphoenix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-18-kfintech-drives-digital-transformation-in-financial-services-industry-with-aws.md",
       "title": "KFintech drives digital transformation in financial services industry with AWS",
       "excerpt": "KFin Technologies Limited (KFintech), a technology-driven financial services ... an exchange filing. The services include interactive dashboards that use AWS machine learning to automatically ...",
@@ -1352,58 +1395,6 @@
         "name": "FoneArena",
         "domain": "fonearena.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-aws-reinvent-2022-aims-to-evolve-telcos-into-tech-cos.md",
-      "title": "AWS Re:Invent 2022 Aims To Evolve Telcos Into Tech-Cos",
-      "excerpt": "Vice President, Security, Carriers and Enterprise Networking, Will Townsend. The Amazon Web Services (AWS) re:Invent conference is decidedly back post-pandemic. He would like to share his insights into some of the more exciting telecom news and announcements that emerged from re:Invent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/12/21/aws-reinvent-2022-aims-to-evolve-telcos-into-tech-cos/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/12/21/aws-reinvent-2022-aims-to-evolve-telcos-into-tech-cos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63a381e68cc45940bdc9d510/0x0.jpg?format=jpg&width=1200",
-          "width": 936,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/12/21/aws-reinvent-2022-aims-to-evolve-telcos-into-tech-cos/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/12/21/aws-reinvent-2022-aims-to-evolve-telcos-into-tech-cos/amp/",
-      "publishedDateTime": "2022-12-21T13:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

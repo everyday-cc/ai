@@ -2,6 +2,60 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-24-d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform.md",
+      "title": "D2iQ Simplifies Artificial Intelligence and Machine Learning Operations with Industry-First Enhancements to Kaptain AI/ML Platform",
+      "excerpt": "D2iQ Simplifies Artificial Intelligence and Machine Learning Operations with Industry-First Enhancements to Kaptain AI/ML Platform Oct 24, 2022",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform-2022-10-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform-2022-10-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-24-5-modelops-capabilities-that-boost-data-science-productivity.md",
       "title": "5 modelops capabilities that boost data science productivity",
       "excerpt": "Organizations are hiring data scientists to develop ML models and experiment with AI, but the business impact is lagging for many large enterprises.",
@@ -1328,60 +1382,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-four-thoughts-on-ai-deep-learning-in-2022.md",
-      "title": "Four thoughts on AI deep learning in 2022",
-      "excerpt": "As we wrap up 2022 and prepare to embrace 2023, here are some of the most notable overarching trends that marked this year in deep learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/",
-      "originalUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/03/deeplearninglimits_VB_1200px_web.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/amp/",
-      "publishedDateTime": "2022-10-17T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
         "AWS AI"
       ]
     }

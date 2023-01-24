@@ -2,6 +2,92 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2022-11-17-deep-learning-unit-market-2023-future-growth-segments-latest-opportunities-industry-revenue-size-share-and-leading-players-forecast-to.md",
+      "title": "Deep Learning Unit Market 2023 | Future Growth Segments, Latest Opportunities, Industry Revenue, Size, Share and Leading Players Forecast to 2028",
+      "excerpt": "Nov 16, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Deep Learning Unit Market”",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-unit-market-2023-future-growth-segments-latest-opportunities-industry-revenue-size-share-and-leading-players-forecast-to-2028-2022-11-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-unit-market-2023-future-growth-segments-latest-opportunities-industry-revenue-size-share-and-leading-players-forecast-to-2028-2022-11-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T19:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-senior-suffering-cognitive-decline-surrenders-72-dogs-in-cabazon.md",
+      "title": "Senior Suffering Cognitive Decline Surrenders 72 Dogs in Cabazon",
+      "excerpt": "A Cabazon senior suffering cognitive decline surrendered more than 70 canines to the Riverside County Department of Animal Services Wednesday. A Cabazon senior suffering cognitive decline ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbclosangeles.com/news/local/senior-suffering-cognitive-decline-surrenders-72-canines-in-cabazon/3035872/",
+      "originalUrl": "https://www.nbclosangeles.com/news/local/senior-suffering-cognitive-decline-surrenders-72-canines-in-cabazon/3035872/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T19:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Los Angeles",
+        "domain": "nbclosangeles.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-toyota-bz-suv-concept-is-a-muscular-ev-powered-by-ai-assistant.md",
       "title": "Toyota bZ SUV Concept Is a Muscular EV Powered by AI Assistant",
       "excerpt": "This aggressive \"Beyond Zero\" EV showcases Toyota's sustainable design and brings the brand's conceptual AI assistant, Yui, along for the ride.",
@@ -1062,101 +1148,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-why-shelf-vision-matters-and-why-retail-businesses-health-starts-at-the-shelf.md",
-      "title": "Why shelf vision matters – and why retail businesses’ health starts at the shelf",
-      "excerpt": "The humble store shelf has moved from being a convenient place to range goods to a critical indicator of the performance of the whole retail business, and cameras can now monitor the status of the business at all times,",
-      "sourceUrl": null,
-      "webUrl": "https://internationalsupermarketnews.com/why-shelf-vision-matters-and-why-retail-businesses-health-starts-at-the-shelf/",
-      "originalUrl": "https://internationalsupermarketnews.com/why-shelf-vision-matters-and-why-retail-businesses-health-starts-at-the-shelf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://internationalsupermarketnews.com/wp-content/uploads/Magnus-Larsson-acting-CEO-Pricer.jpg",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Supermarket News",
-        "domain": "internationalsupermarketnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-worrying-loophole-in-italys-facial-recognition-ban-points-to-the-eus-future.md",
-      "title": "Worrying loophole in Italy’s facial recognition ban points to the EU’s future",
-      "excerpt": "Italy has introduced a new facial recognition ban, but it features a glaring exemption that is set to echo across the EU. “The moratorium stems from the need to regulate eligibility requirements, conditions, and guarantees relating to facial recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/italy-facial-recognition-ban-loophole-police-reflects-eu-plans",
-      "originalUrl": "https://thenextweb.com/news/italy-facial-recognition-ban-loophole-police-reflects-eu-plans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F11%2FUntitled-design-1-1.jpg&signature=cf49e9e1a46730c9aa7ab700afd7781f",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T07:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

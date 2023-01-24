@@ -2,6 +2,91 @@
   "page": 149,
   "value": [
     {
+      "path": "_news/2022-09-12-driverless-cars-may-be-impossible-without-drivers-claim-intelligent-serious-people.md",
+      "title": "'Driverless Cars May Be Impossible Without Drivers' Claim Intelligent, Serious People",
+      "excerpt": "Photo: Dietmar Rabich / Wikimedia Commons / “San Francisco (CA, USA), Point Lobos Avenue, Autonomes Auto — 2022 — 3049” / CC BY-SA 4.0 Reuters spoke with Kyle Vogt, CEO of GM’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://jalopnik.com/driverless-cars-may-be-impossible-without-drivers-claim-1849524087",
+      "originalUrl": "https://jalopnik.com/driverless-cars-may-be-impossible-without-drivers-claim-1849524087",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jalopnik",
+        "domain": "jalopnik.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-how-diveplane-uses-explainable-ai-to-bolster-ai-adoption.md",
+      "title": "How Diveplane uses explainable AI to bolster AI adoption",
+      "excerpt": "Diveplane has raised $25M in series A funding for its explainable AI solutions supporting transparent decision-making and data privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/",
+      "originalUrl": "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-black_box_AI_explainable_AI_1324510115-e1662994691115.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/amp/",
+      "publishedDateTime": "2022-09-12T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-third-paris-metro-line-introduces-driverless-trains.md",
       "title": "Third Paris Metro line introduces driverless trains",
       "excerpt": "Almost half (20) of the trains on the line will be driverless by the end of 2022 and the entire line is expected to be fully automated by the end of 2023, as the RATP promises a “70 percent ...",
@@ -1060,92 +1145,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
-      "title": "INSIGHT-Truly autonomous cars may be impossible without helpful human touch",
-      "excerpt": "Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-0",
-      "originalUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-0?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-0?amp",
-      "publishedDateTime": "2022-09-12T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-best-interactive-voice-response-services-of-2022.md",
-      "title": "Best Interactive Voice Response services of 2022",
-      "excerpt": "The IVR feature aims to provide an intuitive self-service using advanced voice recognition technology, to help improve the customer experience whilst freeing up agents to handle more complex queries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/best/best-interactive-voice-response-ivr-services",
-      "originalUrl": "https://www.techradar.com/best/best-interactive-voice-response-ivr-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/yu9btmXK2MPsv5ZFBBcGAg-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

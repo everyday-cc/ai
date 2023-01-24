@@ -27,35 +27,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing For Healthcare And Life Sciences Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 19, 2023 (The Expresswire) -- Natural Language Processing For Healthcare And Life Sciences Market Size is projected to Reach Multimillion USD by 2029, In comparison to ..."
-    publishedDateTime: 2023-01-20T02:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning-as-a-Service (MLaaS) Market Size, Trends, Share, Growth Status, and Forecast 2028 with Top Countries Data"
-    excerpt: "Rising demand for IT and Telecom, Automotive, Healthcare, Aerospace and Defense, Retail, Government, BFSI, Other End Users will drive the Machine Learning-as-a-Service (MLaaS) seg"
-    publishedDateTime: 2023-01-20T01:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-trends-share-growth-status-and-forecast-2028-with-top-countries-data-2023-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
+    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -84,6 +56,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
+  - title: "Deep Learning in CT Scanners Market Size [2023-2028] | Industry Share, Growth Factor, Revenue And Trends Outlook Report"
+    excerpt: "Deep Learning in CT Scanners Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-23T11:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-size-2023-2028-industry-share-growth-factor-revenue-and-trends-outlook-report-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
   - title: "Global Data Science and Machine-Learning Platforms Market (New Report-2023) Outlook and Forecast to 2029 with Top Competitors Data"
     excerpt: "Global Data Science and Machine-Learning Platforms MarketNEW REPORT 2023 presents an exclusive overview of the"
     publishedDateTime: 2023-01-23T06:08:00Z
@@ -93,6 +74,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 24
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Cars and Trucks Market Research report forecast 2023 To 2028, Latest Industry News, Top Company Analysis, Research Methodology"
+    excerpt: "Self-driving Cars and Trucks Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-24T00:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-research-report-forecast-2023-to-2028-latest-industry-news-top-company-analysis-research-methodology-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
