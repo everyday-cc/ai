@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20230119/Speech-neuroprostheses-
 webUrl: "https://www.news-medical.net/news/20230119/Speech-neuroprostheses-can-decode-speech-based-on-brain-activity.aspx"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Neural prosthesis uses brain activity to decode speech"
-    excerpt: "Researchers from HSE University and the Moscow State University of Medicine and Dentistry have developed a machine learning model that can predict the word about to be uttered by a subject, based on their neural activity recorded with a small set of minimally invasive electrodes."
-    publishedDateTime: 2023-01-19T21:43:00Z
-    webUrl: "https://medicalxpress.com/news/2023-01-neural-prosthesis-brain-decode-speech.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-01-neural-prosthesis-brain-decode-speech.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-neural-prosthesis-brain-decode-speech.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/neural-prosthesis-uses.jpg"
-        width: 1000
-        height: 643
-        isCached: true
 
 secured: "Q/P+mr3Vij/LCQh8LNqGJv7FJPDrTZ+853yk6LsV8d0MQNNl8cEA8BxPVhROX7PYxBScDhYhIKxacqefGCdkEKaMBFyci+Epv8WN0N6MD33X4vJz880duZGZdIqCOx57qoFfmvwEO61vddAb3RpdCIShVKmo8931xseA9inwXRPhiIp+3ccV4KoTf4ltFrq/Yjb3y2QlX6gKcqk7Z5CODpfMXB42T/Liv051I+Ldt9dXdwwpB8XHyp7KrkcILp0gCFQl9Al5hNr9PZiqSTtgblYsaN41m+HbBIsKvFrDe+a2NSA7/9zTniduqosWDijo5GjIzyE6DNyHr+sSjNZbs0rZ3TnZ0lRdqK0j2GyckFw=;cyQyERRjE7O/gdW26KMgrA=="
 ---

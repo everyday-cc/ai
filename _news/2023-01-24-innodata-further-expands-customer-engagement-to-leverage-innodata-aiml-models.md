@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T14:21:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/273424253/innodata-further-expands-customer-engagement-to-leverage-innodata-aiml-models"
 webUrl: "https://www.bignewsnetwork.com/news/273424253/innodata-further-expands-customer-engagement-to-leverage-innodata-aiml-models"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: Big News Network.com

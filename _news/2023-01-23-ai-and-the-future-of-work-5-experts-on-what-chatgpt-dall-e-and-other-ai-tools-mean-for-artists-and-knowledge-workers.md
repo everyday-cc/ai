@@ -25,53 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI can create stunning portraits. What does that mean for the art world?"
-    excerpt: "Amazing artwork is being made using artificial intelligence and image rendering software, but it's raising questions about creativity, copyrights and commerce. NBC News’ Jacob Ward shares his own story of unintentionally buying AI-generated art."
-    publishedDateTime: 2023-01-20T00:17:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/ai-can-create-stunning-portraits-what-does-that-mean-for-the-art-world-160238149972"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo160238149972"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo160238149972"
+  - title: "Experts (and ChatGPT) on AI & marketing: ‘It will create the majority of the work’"
+    excerpt: "AI models such as ChatGPT, Midjourney and Lensa AI have taken the advertising world by storm in recent months. We asked five experts to respond to the rise of this revolutionary new technology and its potential impacts on the marketing industry."
+    publishedDateTime: 2023-01-23T15:44:00Z
+    webUrl: "https://www.thedrum.com/news/2023/01/23/ad-execs-and-chatgpt-ai-marketing-it-will-create-the-majority-the-work"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 86
+      name: The Drum
+      domain: thedrum.com
+    quality: 50
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_01/1674173785367_nn_jwa_ai_art_2301119_1920x1080-lyu5r7.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "AI tools can create new images, but who is the real artist?"
-    excerpt: "With some generated images traveling on social networks and potentially going viral, they can be challenging to debunk since they can’t be traced back to a specific tool or data source"
-    publishedDateTime: 2023-01-20T15:38:00Z
-    webUrl: "https://www.kmbc.com/article/ai-images-who-is-real-artist/42592783"
-    ampWebUrl: "https://www.kmbc.com/amp/article/ai-images-who-is-real-artist/42592783"
-    cdnAmpWebUrl: "https://www-kmbc-com.cdn.ampproject.org/c/s/www.kmbc.com/amp/article/ai-images-who-is-real-artist/42592783"
-    type: article
-    provider:
-      name: KMBC Kansas City
-      domain: kmbc.com
-    quality: 59
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap23011863010313-1-1674235508.jpg?crop=1.00xw:0.846xh;0,0.0337xh&resize=1200:*"
-        width: 1200
-        height: 677
-        isCached: true
-  - title: "How startups are using AI for fixing challenges in traditional financial services"
-    excerpt: "Startups using AI are making better data-driven decisions, increasing profits directly by efficient targeting, automating repetitive tasks, and much more to unlock competitive advantages"
-    publishedDateTime: 2023-01-20T02:47:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services-11674182424472.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services/amp-11674182424472.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services/amp-11674182424472.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 54
-    images:
-      - url: "https://images.livemint.com/img/2023/01/20/600x338/AI_1674182789785_1674182790018_1674182790018.jpg"
-        width: 600
-        height: 337
+      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/untitled_design_-_2023-01-20t131059.523.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "/jFWr3qLcDPhlM3tuCsEp6k6EuiYTzusQBLtHewCv70iborvx3ANldPlQXGyCt8B+5ABMNdz4lG/Xkzz8nGfxwoWW1fqExYYTRxI/btjPncH3Ke9qcUSkKngkAKu9Vs5PqMKn3S8w/s8axamDFUtFa1njnbGrDH5HUU92tgHAseThBTRYy68SihyQsgD5KNvIX0CUWX366vq4eGDhBr5yiGClBmJDdkVdYdnKlRwKSKoCkhsGhbd5CA01ESqHa0glJ6aKy04+YFSJJYcf692f+o3u1P00jPJKcPBlMLatK/4I5Eo8Ws4jp2PZVqUPlXsNf6T93NMKGSbXfKTLHz2DYuXZ/VsublOaqsj5f9/Hgo=;r5g3HiHDRPcGOl7BmKQh+Q=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digit.in/article/amp/machine-learning-and-ai/66910/pagin
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/66910/paging-dr-ai-to-the-emergency-room-artificial-intelligence-passes-us-medical-licensing-exam"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
     images:
       - url: "https://www.beckershospitalreview.com/images/13thAnnualReviewerButton.png"
         width: 2200
-        height: 900
-        isCached: true
-  - title: "AI Passes U.S. Medical Licensing Exam"
-    excerpt: "Two artificial intelligence (AI) programs -- including ChatGPT -- have passed the U.S. Medical Licensing Examination (USMLE), according to two recent papers. The papers highlighted different approaches to using large language models to take the USMLE,"
-    publishedDateTime: 2023-01-19T21:47:00Z
-    webUrl: "https://www.medpagetoday.com/special-reports/exclusives/102705"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 41
-    images:
-      - url: "https://assets.medpagetoday.net/media/images/102xxx/102705.jpg"
-        width: 1600
         height: 900
         isCached: true
 

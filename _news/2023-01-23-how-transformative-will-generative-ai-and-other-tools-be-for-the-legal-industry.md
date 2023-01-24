@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markcohen1/2023/01/23/how-transformativ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markcohen1/2023/01/23/how-transformative-will-generative-ai-and-other-tools-be-for-the-legal-industry/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 122
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "How generative AI will help power your presentation in 2023"
+    excerpt: "New generative AI options integrating tools like GPT-3 and DALL-E can deck out your slide deck and make storytelling less of a slog."
+    publishedDateTime: 2023-01-24T14:00:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-will-help-power-your-presentation-in-2023/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Canada has leading AI experts. But does Ottawa have the right plan to support an AI industry?"
     excerpt: "Many leaders in Canada’s innovation sector say the government’s strategy to build on the country’s early lead in AI is emblematic of how Ottawa routinely fails to leverage the country’s brains to prod"
     publishedDateTime: 2023-01-23T06:00:00Z
@@ -53,6 +62,15 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 17
+  - title: "SENA Panel: How is Artificial Intelligence Going to Disrupt the Seafood Industry?"
+    excerpt: "The 28 individual presentations from SENA and the 21 sessions from SEG featured exclusive information and insight from seafood industry experts, including economic forecasts and analysis on the trends and topics impacting the global seafood industry as it navigates issues of trade,"
+    publishedDateTime: 2023-01-24T14:00:00Z
+    webUrl: "https://www.seafoodsource.com/news/supply-trade/sena-panel-how-is-artificial-intelligence-going-to-disrupt-the-seafood-industry"
+    type: article
+    provider:
+      name: SeafoodSource
+      domain: seafoodsource.com
+    quality: 14
 
 secured: "VwQrFqOU2HrCsfGBRzDSdgN+AUkWEk+MmNfPoi2kcN7984WsPDC+fsnEjP1Gji4FqYRpaCqjfMa+SrYXUKtkX2IqaABqy35xRtF0jNHE5ffVwuVg+gXDHudyd8ylzCn6rjk6UEFqqj8N7HJfBHcfprQ4oxYxDFTay14BQVsKTg+ylh89a7J0CV4zGEEsk9Bz+x1pDGH1wOLsQmrYTn5UthjYOUQEX3fPzHzCEt4KB/M96V7j3wMiT7VKjyKVcEgzq0lzQiQIQgEdobXB6H8PNr8j9/Yz1QGqY6wkVn7LH6DeEV6bEm94Mz0hkoPeNiLKr7cbzAdUxCWEabkGN02I0A4zI2rPwfXCrKcJnh92D7WP0SePeTciqst2QGbsK+FdHhYkTmUdxX6UJuBRxeHDNxbn0ob99Ydrc/d3rydDhdKrJ41wS2mlPt3IJ3i8GlSZ8K/vpU81VIbhrwy088bdFwfta7BiVUzsv0GSojWHFaDtKYk/y+3h5XXqjxRW4HKqnWZKP6AQcL8o0354fK29kA==;sI4crb4d7Rmxo29Izqvveg=="
 ---

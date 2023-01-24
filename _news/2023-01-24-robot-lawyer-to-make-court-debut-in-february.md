@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T11:00:00Z
 originalUrl: "https://www.itworldcanada.com/post/robot-lawyer-to-make-court-debut-in-february"
 webUrl: "https://www.itworldcanada.com/post/robot-lawyer-to-make-court-debut-in-february"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: IT World Canada

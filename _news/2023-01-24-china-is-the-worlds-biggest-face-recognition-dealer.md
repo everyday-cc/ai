@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T12:00:00Z
 originalUrl: "https://www.wired.com/story/china-is-the-worlds-biggest-face-recognition-dealer/"
 webUrl: "https://www.wired.com/story/china-is-the-worlds-biggest-face-recognition-dealer/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Wired

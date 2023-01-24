@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T13:01:00Z
 originalUrl: "https://venturebeat.com/ai/demand-for-ai-skills-on-the-rise-as-fiverr-searches-spike-for-freelancers/"
 webUrl: "https://venturebeat.com/ai/demand-for-ai-skills-on-the-rise-as-fiverr-searches-spike-for-freelancers/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: VentureBeat

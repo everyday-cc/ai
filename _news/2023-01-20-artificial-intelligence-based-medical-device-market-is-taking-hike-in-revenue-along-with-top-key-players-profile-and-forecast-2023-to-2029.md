@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence and Machine Learning Market Growth, Opportunity, Trends, Service, Forecast To 2028"
+    excerpt: "Artificial Intelligence and Machine Learning Market Size is projected to Reach Multimillion USD by 2029, In comparison"
+    publishedDateTime: 2023-01-24T10:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-growth-opportunity-trends-service-forecast-to-2028-2023-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing For Healthcare And Life Sciences Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 19, 2023 (The Expresswire) -- Natural Language Processing For Healthcare And Life Sciences Market Size is projected to Reach Multimillion USD by 2029, In comparison to ..."
     publishedDateTime: 2023-01-20T02:01:00Z
@@ -51,6 +65,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Enterprise Artificial Intelligence Market : Overview With the Best Scope, Trends, Benefits, Opportunities to 2028"
+    excerpt: "Enterprise Artificial Intelligence Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-24T10:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2028-2023-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare Natural Language Processing (NLP) Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2028 with Top Countries Data"
     excerpt: "Healthcare Natural Language Processing (NLP) Market Size is projected to Reach Multimillion USD by 2029, In comparison"
     publishedDateTime: 2023-01-23T10:36:00Z
@@ -74,6 +102,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Citizen Services AI Market Size Hits $41.0 Billion by 2027, growing at a CAGR of 44.5%: Report by MarketsandMarkets™"
+    excerpt: "The global Citizen Services AI Market size is projected to grow from USD 6.5 Billion in 2022 to USD 41.0 Billion by 2027, at a CAGR of 44.5% during the forecast period,"
+    publishedDateTime: 2023-01-20T12:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30501393/citizen-services-ai-market-size-hits-41-0-billion-by-2027-growing-at-a-cagr-of-44-5-report-by-mark"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "NFsbWZnZ4i+vSZfQzqm1z7goPpc7vgPGTSyJOSDuUf9W8VjLpX4ZzZqxMrPYKbngZ8hYFQB6+IQ4RcMnaYTeDfnq3At0qz7jeUo2it/Qb/RLwtQ7+Wyw6KjM1QB/YsaP5Fh9jRCFxDV+SKuHWYa19JxuQEmhDUCP15DWqwj3f/3juww0Z7PW5CQMtjcwS/aJGo8FjQaCzfRCS3aAFNIzyqxbn3aWMd/fzbd00/vMm04rWbaKPl58Aqzpc5r6iXlu8x3no69ONy7FVBrzy73LQt3UGGmShKd3x4QAJrKLlWgJ15T4aqoY3s2OWZXsYHqbAWaSi3hxio4D75L171uBQiECADiOKufDS/F6yGs25ew=;K34QfeJ5/dOfDkB7WwY3aA=="
 ---

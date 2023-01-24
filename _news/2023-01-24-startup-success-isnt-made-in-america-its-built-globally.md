@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T12:45:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/24/startup-success-isnt-made-in-america-its-built-globally/"
 webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/24/startup-success-isnt-made-in-america-its-built-globally/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Forbes

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T14:30:00Z
 originalUrl: "https://www.entrepreneur.com/science-technology/5-ways-ai-companions-are-poised-to-deepen-human-connections/442855"
 webUrl: "https://www.entrepreneur.com/science-technology/5-ways-ai-companions-are-poised-to-deepen-human-connections/442855"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Entrepreneur

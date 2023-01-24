@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T13:33:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-deepmarkit-ai-subsidiary-explores-natural-language-opportunities-/2023/01/24/9747873.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-deepmarkit-ai-subsidiary-explores-natural-language-opportunities-/2023/01/24/9747873.htm"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: TMCnet

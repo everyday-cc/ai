@@ -27,51 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI can create stunning portraits. What does that mean for the art world?"
-    excerpt: "Amazing artwork is being made using artificial intelligence and image rendering software, but it's raising questions about creativity, copyrights and commerce. NBC News’ Jacob Ward shares his own story of unintentionally buying AI-generated art."
-    publishedDateTime: 2023-01-20T00:17:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/ai-can-create-stunning-portraits-what-does-that-mean-for-the-art-world-160238149972"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo160238149972"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo160238149972"
+  - title: "How Artificial Intelligence is Transforming Banking"
+    excerpt: "By Ankur Rawat, Director, Products and Solutions, Banking and Financial Services, Newgen Software Banking has transformed over the years. It has come a long way from unorganized peer-to-peer banking to organized branch-based banking,"
+    publishedDateTime: 2023-01-23T22:57:00Z
+    webUrl: "https://www.globalbankingandfinance.com/how-artificial-intelligence-is-transforming-banking/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/how-artificial-intelligence-is-transforming-banking/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-artificial-intelligence-is-transforming-banking/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 86
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_01/1674173785367_nn_jwa_ai_art_2301119_1920x1080-lyu5r7.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "AI tools can create new images, but who is the real artist?"
-    excerpt: "With some generated images traveling on social networks and potentially going viral, they can be challenging to debunk since they can’t be traced back to a specific tool or data source"
-    publishedDateTime: 2023-01-20T15:38:00Z
-    webUrl: "https://www.kmbc.com/article/ai-images-who-is-real-artist/42592783"
-    ampWebUrl: "https://www.kmbc.com/amp/article/ai-images-who-is-real-artist/42592783"
-    cdnAmpWebUrl: "https://www-kmbc-com.cdn.ampproject.org/c/s/www.kmbc.com/amp/article/ai-images-who-is-real-artist/42592783"
-    type: article
-    provider:
-      name: KMBC Kansas City
-      domain: kmbc.com
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
     quality: 59
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap23011863010313-1-1674235508.jpg?crop=1.00xw:0.846xh;0,0.0337xh&resize=1200:*"
-        width: 1200
-        height: 677
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2023/01/iStock-1168748420.jpg"
+        width: 750
+        height: 530
         isCached: true
-  - title: "AI and The Future of Work: 5 experts on what ChatGPT, DALL-E and other AI tools mean for artists and knowledge workers"
-    excerpt: "By Lynne Parker, University of Tennessee; Casey Greene, University of Colorado Anschutz Medical Campus; Daniel Acuña, University of Colorado Boulder; Kentaro Toyama, University of Michigan, & Mark Finlayson,"
-    publishedDateTime: 2023-01-22T16:02:00Z
-    webUrl: "https://businessmirror.com.ph/2023/01/23/ai-and-the-future-of-work-5-experts-on-what-chatgpt-dall-e-and-other-ai-tools-mean-for-artists-and-knowledge-workers/"
+  - title: "How AI Will Change Writing Forever"
+    excerpt: "From universities to newsrooms, the introduction of ChatGPT and other AI bots will transform writing across our society."
+    publishedDateTime: 2023-01-20T16:09:00Z
+    webUrl: "https://observer.com/2023/01/how-ai-will-change-writing-forever/"
     type: article
     provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 15
+      name: observer
+      domain: observer.com
+    quality: 39
     images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/01/explainer01-012323.jpg"
-        width: 720
-        height: 480
+      - url: "https://observer.com/wp-content/uploads/sites/2/2023/01/GettyImages-1140613459.jpg?quality=80&#038;strip"
+        width: 7200
+        height: 4229
         isCached: true
 
 secured: "n8jcZNVov7G/c+1hFmDgjtGrPqeRLQGjVmnpeBUT5fMo0zX+DjG+ffTR0DRLkH2uiocfyv0PY/AMNl8Cqj20rEkpsRkL0UGWpkcCmCLasYoRrmFlqW6sFofxc2T1QoM9KEC301vl+lQTc3bdKzDZjWuTxSbzZiZY3iAfJrbVbbVROzxZ1jCrBuVrGV73KduXNfNHXJ3M2668LpB2izVOAPf164fHue3rHn/N1t3ERwDiGpIwUxk1BkqpZNK2dEd6yjO04FbSYnZPzbNeYnvgJRXWDecgE5kU5tVXwCKCp9rgeR4j6MLFMJ5pyfds2k/Wyk725FnNMmuUr4Na7jKAt19dpw379JJqEWEocxOMEGQLuwfgUndc9DB3QUw2mD8hCBAmTCNrqvuqEYR0V63anHOXZgSq/vSkR84/hivvK5OIMQhl+NqxQfR89oRnCeqsWDt/POsCFsNO5tfc5IV6HHmL/OI1YlRTEVFdq4NH5cJxQ7ce1KrseE0zdRhDxnbl4fQX6bTCsAis0TVg96A0bA==;hvnLmy5eGAClVp+1d7Lubg=="

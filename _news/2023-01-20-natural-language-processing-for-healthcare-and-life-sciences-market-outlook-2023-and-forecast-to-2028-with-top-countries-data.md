@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-01-19"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence and Machine Learning Market Growth, Opportunity, Trends, Service, Forecast To 2028"
+    excerpt: "Artificial Intelligence and Machine Learning Market Size is projected to Reach Multimillion USD by 2029, In comparison"
+    publishedDateTime: 2023-01-24T10:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-growth-opportunity-trends-service-forecast-to-2028-2023-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning-as-a-Service (MLaaS) Market Size, Trends, Share, Growth Status, and Forecast 2028 with Top Countries Data"
     excerpt: "Rising demand for IT and Telecom, Automotive, Healthcare, Aerospace and Defense, Retail, Government, BFSI, Other End Users will drive the Machine Learning-as-a-Service (MLaaS) seg"
     publishedDateTime: 2023-01-20T01:32:00Z
@@ -39,6 +53,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Enterprise Artificial Intelligence Market : Overview With the Best Scope, Trends, Benefits, Opportunities to 2028"
+    excerpt: "Enterprise Artificial Intelligence Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-24T10:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2028-2023-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -76,6 +104,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 15
+  - title: "Citizen Services AI Market Size Hits $41.0 Billion by 2027, growing at a CAGR of 44.5%: Report by MarketsandMarkets™"
+    excerpt: "The global Citizen Services AI Market size is projected to grow from USD 6.5 Billion in 2022 to USD 41.0 Billion by 2027, at a CAGR of 44.5% during the forecast period,"
+    publishedDateTime: 2023-01-20T12:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30501393/citizen-services-ai-market-size-hits-41-0-billion-by-2027-growing-at-a-cagr-of-44-5-report-by-mark"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "9naUjsv3YSuo8lUVWd6HToDSd0qMSwVUkHaKg4xmR5X5z/Jyj/nLV0ENxlENK23XRcZoKHb8BKZIKaqQlCkBdf1EJTK5+MV4z1vtdjV3xl/A6kmZtenTZjEd6FbQ9AUjSBlWXlRiuHfvVlHTr8DpFBTiKwSiXVNdtwzO0/jgZNlCL6wdNkIde319SU4mni5HNJOMFHkNCogQjukRwvESKqhERPC+5pH86fMl188vT2ngzxkO5kja7ozFAwqNIgtMqvQVc7rlVDDQicF/GepkoqCeiiMO43A+mbMVk4uZNNzKMcnWUEE3DlOR0PCYunG/ZnCfo/i+LpsoT8Oe4qa+Ppc89pLvaJf9TxXgBV/KeDc=;Y+uvTlDj+BrlPBiLmsIwqg=="
 ---

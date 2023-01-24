@@ -39,6 +39,15 @@ related:
         width: 620
         height: 325
         isCached: true
+  - title: "Marvel’s Midnight Suns is getting an Nvidia RTX 4000 GPU boost"
+    excerpt: "Nvidia has revealed that Marvel's Midnight Suns will gain DLSS 3 support, and you'll also be able to boost fps in Hitman 3 using an RTX 4000 graphics card"
+    publishedDateTime: 2023-01-24T14:00:00Z
+    webUrl: "https://www.pcgamesn.com/marvel-midnight-suns/nvidia-rtx-4000-dlss-3"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 19
 
 secured: "ureOSqCyQPvMuCrQFfiYnZq6j4RgnDaGx+jHU2TwYa2SfKmQbApbR3GckU95uRz992JzF+BiYYE5X6Lvto2xQvja7wlttPyYfY+0Ghgk5rPGXhYbVpOfX6XmnCg0EzeUNpH41x06fSxtvK9F9s3FDRSmBOCWGAexmv4GfN/Cbx2997sqBaZLMpcs3t4Gl+7GKazFUwblzWIGnbbmrFc6Xnlfj4CB51w2MDDXJn8eJMgGHKejcliZUcOKI3IBeII+nJ16k2cq3LpyhK6lL+ssdb6hxKCyF5C8ZLPnnOmaRL2pnl13YsJw0TBFqsGQMb+06fvh7BmoDhYZawuiN3j72n7fzqM46yDwB+lQG0fN7m4F6xHnaLcRU1DEV/PIXGkwxCQ8n+zLmUl9CAhrogwybo1H2vXj5pxjuzWSnyHx704AILfuEWj38bDz8BEDkahSohAJm32kf5e/Je1fos/2qr2DA6ddIl6udoO9SrdaATvFyW18bYo9nmoLCYhjt3k79WcqckKRXhcWFwi7q09AEA==;zd4uu99A1oy9A9jlKtaBqg=="
 ---

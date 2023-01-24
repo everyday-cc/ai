@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 829
         isCached: true
-  - title: "Microsoft extends AI partnership with ChatGPT and Dall-E maker OpenAI"
-    excerpt: "OpenAI is the creator of popular image generation tool Dall-E and the chatbot ChatGPT. Microsoft invested $1bn (£808m) in the company, founded by Elon Musk and tech investor Sam Altman in 2019. The Windows and Xbox maker plans up to 10,"
-    publishedDateTime: 2023-01-23T17:43:00Z
-    webUrl: "https://www.bbc.com/news/technology-64374283"
-    ampWebUrl: "https://www.bbc.com/news/technology-64374283.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-64374283.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/8C9E/production/_128389953_gettyimages-1176203598.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Microsoft Integrates OpenAI AI tools in Workplace Emails and Spreadsheets"
     excerpt: "With Azure OpenAI Service now generally available, more businesses can apply for access to the most advanced AI models in the world,” the announcement states. This allows companies to integrate AI capabilities into their products and services to improve efficiency and automate their processes."
     publishedDateTime: 2023-01-23T09:52:00Z
@@ -186,6 +170,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft says AI will be as important as the invention of the PC and internet"
+    excerpt: "In the company's blog post, Microsoft described the investment as the \"third phase of our long-term partnership\" with OpenAI, promising to advance the technology and make it available to everyone globally."
+    publishedDateTime: 2023-01-24T14:11:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-says-ai-will-be-as-important-as-the-invention-of-the-pc-and-internet"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 60
   - title: "Microsoft investing $10bn in Open AI’s ChatGPT"
     excerpt: "Landmark AI tool ChatGPT is to get $10bn in funding from Microsoft Microsoft investing $10bn in Open AI's ChatGPT Artificial intelligence, ChatGPT, Microsoft Technology"
     publishedDateTime: 2023-01-23T15:46:00Z
@@ -228,6 +221,29 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "Microsoft and OpenAI extend partnerships in AI supercomputing and research"
+    excerpt: "Microsoft has extended its partnership with OpenAI for the third time as the agreement follows previous investments in 2019 and 2021."
+    publishedDateTime: 2023-01-24T14:27:00Z
+    webUrl: "https://yourstory.com/2023/01/microsoft-and-openai-extend-partnerships-ai-azure-satya-nadella"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 52
+    images:
+      - url: "https://images.yourstory.com/cs/1/2745082002f511eaaae56760054455e0/Imageyqxh-1595863630136.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Microsoft doubles down on healthcare AI investments"
+    excerpt: "Microsoft is doubling down on its healthcare artificial intelligence investments with two new partnerships. The first partnership the company inked this year was with AI-powered pathology company Paige."
+    publishedDateTime: 2023-01-24T15:29:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/microsoft-doubles-down-on-healthcare-ai-investments.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 51
   - title: "OpenAI Co-Founder Sam Altman Doesn't See Artificial Intelligence Ending Google, Discusses Microsoft Partnership And More"
     excerpt: "OpenAI co-founder Sam Altman shares thoughts on what could be ahead for artificial intelligence. One of the hottest topics of 2023 is likely to be artificial intelligence and the company OpenAI ..."
     publishedDateTime: 2023-01-20T16:03:00Z
@@ -250,6 +266,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 34
+  - title: "Microsoft extends AI partnership with ChatGPT and Dall-E maker OpenAI"
+    excerpt: "Microsoft has announced a multi-year, multibillion dollar investment in artificial intelligence (AI) as it extends its partnership with OpenAI. OpenAI is the creator of popular image generation tool Dall-E and the chatbot ChatGPT."
+    publishedDateTime: 2023-01-23T17:43:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-64374283.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
     quality: 34
   - title: "Why is Microsoft putting billions of dollars into an Artificial Intelligence chatbot?"
     excerpt: "Microsoft has announced a multi-year, multibillion dollar investment in artificial intelligence (AI) as it extends its partnership with OpenAI. Show more Microsoft has announced a multi-year, multibillion dollar investment in artificial intelligence (AI) as it extends its partnership with OpenAI."

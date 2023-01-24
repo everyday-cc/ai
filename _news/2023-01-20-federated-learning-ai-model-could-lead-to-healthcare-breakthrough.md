@@ -24,6 +24,7 @@ topics:
   - AI
   - AI in Healthcare
   - Machine Learning
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1365534802.jpg?w=1200&strip=all"

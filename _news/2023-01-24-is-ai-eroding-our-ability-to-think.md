@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T13:01:00Z
 originalUrl: "https://www.forbes.com/sites/adigaskell/2023/01/24/is-ai-eroding-our-ability-to-think/"
 webUrl: "https://www.forbes.com/sites/adigaskell/2023/01/24/is-ai-eroding-our-ability-to-think/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

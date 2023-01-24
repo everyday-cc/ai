@@ -41,6 +41,22 @@ related:
         width: 750
         height: 530
         isCached: true
+  - title: "How startups are using AI for fixing challenges in traditional financial services"
+    excerpt: "Startups using AI are making better data-driven decisions, increasing profits directly by efficient targeting, automating repetitive tasks, and much more to unlock competitive advantages"
+    publishedDateTime: 2023-01-20T02:47:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services-11674182424472.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services/amp-11674182424472.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services/amp-11674182424472.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 54
+    images:
+      - url: "https://images.livemint.com/img/2023/01/20/600x338/AI_1674182789785_1674182790018_1674182790018.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "s983MizPHtw+IctBGdvQQDJTGoBPmMCd2pe6oL54gJMpDMd6GG5ZpHcpy7o52yJfHHseZpWEiOnQ2hbfnyDdv6xkchWpUkMxCQ187Hd7dIye1rqN+n41a8gDRfYQDcoqDzC94YIiA+h2gdM9VLaDq+gRvlJHLbLm/9TnMWmg6U6SX4rqN5qLfktQ6BMFnneFtGX4pngo53AkGDtRY7vwpDfYOaCmpA0aIKGQBcrGfiKXX3SWi9t8OcB7g4RoS0NinuoH6GLnqd/BQgy/aAhOoklqUgtDFrsQLkEwP+K0OBAVV7RAZ20KoFod8wK6y4EiIWMMepfZ21D9MdzmWeGHNav6f9KlPndBmP5bWFX3iQao5Hra86r5biBF6/6jvxNX69Ztf7cM2JyvbTYQWSH+P9G3ziAjSxhHLrSqyW0gL60xxscIZIOx61BPs7IWdVZDxawI+/P/RLGKzxeAq0hSr797/owdiDNIQ6qFKtNhu091O6p/NYOrxKsLCwCNWO0S4SQCXrvrj2w9Q52eUqH5xA==;rMJAFr35Syp0Dj+fesYQjQ=="
 ---

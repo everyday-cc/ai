@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T13:01:00Z
 originalUrl: "https://www.forbes.com/sites/edgarsten/2023/01/24/carmax-to-screen-auction-cars-with-uveye-ai-drive-through-inspection-tech/"
 webUrl: "https://www.forbes.com/sites/edgarsten/2023/01/24/carmax-to-screen-auction-cars-with-uveye-ai-drive-through-inspection-tech/"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: Forbes

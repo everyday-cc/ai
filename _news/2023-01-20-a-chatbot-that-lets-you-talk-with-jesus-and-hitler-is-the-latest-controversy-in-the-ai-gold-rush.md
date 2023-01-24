@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna66531"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna66531"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2023/01/comp1-9.jpg?quality=75&strip=all&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Artificial intelligence chat app lets you talk to virtual high-ranking Nazis"
-    excerpt: "An artificial intelligence app available in the Apple Store lets you chat with 20,000 avatars but whitewashes much of history."
-    publishedDateTime: 2023-01-19T21:38:00Z
-    webUrl: "https://forward.com/news/532624/artificial-intelligence-historical-figures-chat-nazis/"
-    ampWebUrl: "https://forward.com/news/532624/artificial-intelligence-historical-figures-chat-nazis/?amp=1"
-    cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/news/532624/artificial-intelligence-historical-figures-chat-nazis/?amp=1"
-    type: article
-    provider:
-      name: The Forward
-      domain: forward.com
-    quality: 58
-    images:
-      - url: "https://forward.com/wp-content/uploads/2023/01/himmler-ai-graphic-2400-×-1350-px.png"
-        width: 2400
-        height: 1350
         isCached: true
   - title: "AI chatbot poses test for business schools with pass in MBA course exam"
     excerpt: "A professor at the University of Pennsylvania’s Wharton School said ChatGPT earned a ‘B to B-’ on his operations management test © Bloomberg AI chatbot poses test for business schools with pass in MBA"

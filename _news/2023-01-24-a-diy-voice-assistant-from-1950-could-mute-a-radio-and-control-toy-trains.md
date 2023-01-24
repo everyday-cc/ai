@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T14:00:00Z
 originalUrl: "https://www.popsci.com/diy/diy-voice-assistant-vintage/"
 webUrl: "https://www.popsci.com/diy/diy-voice-assistant-vintage/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Popular Science

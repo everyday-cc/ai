@@ -50,22 +50,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Artificial intelligence chat app lets you talk to virtual high-ranking Nazis"
-    excerpt: "An artificial intelligence app available in the Apple Store lets you chat with 20,000 avatars but whitewashes much of history."
-    publishedDateTime: 2023-01-19T21:38:00Z
-    webUrl: "https://forward.com/news/532624/artificial-intelligence-historical-figures-chat-nazis/"
-    ampWebUrl: "https://forward.com/news/532624/artificial-intelligence-historical-figures-chat-nazis/?amp=1"
-    cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/news/532624/artificial-intelligence-historical-figures-chat-nazis/?amp=1"
-    type: article
-    provider:
-      name: The Forward
-      domain: forward.com
-    quality: 58
-    images:
-      - url: "https://forward.com/wp-content/uploads/2023/01/himmler-ai-graphic-2400-×-1350-px.png"
-        width: 2400
-        height: 1350
-        isCached: true
 
 secured: "F+KeWWefbCkMT3zXMdKH7Way/vPiPOfAUJWr5R/KI1TwD417tYCBEu2i46TmzuWjoGuX61fmvM5MBgGgAAK+dWR7WdaKxLzjCttQHeGhv4+hZQa6e9pQLLrFEAdrvuKtcN5IB39wacEIulxNyczkIRvj68pjUaBDQtv0rPdUVrmwCafcsFQX9wwnstOC77b1QuynyhJIIN2tERMC89ydxyjSdYU6U1b7yk7b0uKK0/4FOCqa6AwjO3EETyYPwEZrYGMT3maL4W35Wvo4e3gV9QFH6HFMLHjsQNnOnqrvkjdbw8ZnGngGaZ0pwoXGIUhGcX7SZ2QYX6qR5rJdn3nw+TEaf7PDcq2Yq7awgIdRbSFdbnQ6p8fkp4sq+LkY5xvBz4e+5daenGrlJj+y3h8KNyQPEbMEs7bFKGgJzBESHbuPBVnfWdohAl8OA1wdK4IY0YsjpU1e9OqXZGS1fC0fxCHmnsZPzQzFGr/IryVQY6SHwOODPugzIs3ehaGTXstCaWC2HAe3J0fxQ9KPU7k+GA==;wdT/qyQYzW33twMaKE9j8A=="
 ---

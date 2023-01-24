@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T13:14:00Z
 originalUrl: "https://www.bizjournals.com/denver/news/2023/01/24/longmont-scythe-robotics-series-b-lawn-mowers.html"
 webUrl: "https://www.bizjournals.com/denver/news/2023/01/24/longmont-scythe-robotics-series-b-lawn-mowers.html"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: The Business Journals

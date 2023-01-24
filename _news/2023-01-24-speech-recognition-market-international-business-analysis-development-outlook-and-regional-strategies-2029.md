@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Technologies of Voice Recognition Market Research Report 2023-2027"
+    excerpt: "The “Technologies of Voice Recognition market” research study provides a detailed examination of the market based"
+    publishedDateTime: 2023-01-24T07:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/technologies-of-voice-recognition-market-research-report-2023-2027-2023-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Data Science and Machine Learning Service Market Analysis Report 2023 Along with Statistics Figures, till 2029"
     excerpt: "As per latest research on Data Science and Machine Learning Service Market (Report spread across 102 Pages), the growth"
     publishedDateTime: 2023-01-23T03:28:00Z
@@ -234,6 +248,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in ICT (Information and Communications Technology) Market 2023 Company Challenges, Latest Advancements, Growth Prediction, and Forecast by 2029"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this AI in ICT (Information"
+    publishedDateTime: 2023-01-24T03:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-ict-information-and-communications-technology-market-2023-company-challenges-latest-advancements-growth-prediction-and-forecast-by-2029-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

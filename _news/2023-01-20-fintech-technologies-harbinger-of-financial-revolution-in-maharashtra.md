@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-technologie
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/fintech-technologies-harbinger-of-financial-revolution-in-maharashtra/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Seattle Fintech Meetup: “Measure What Matters: DEI in Fintech”"
-    excerpt: "Included.ai and Remitly are excited to co-host a special event focusing on an important topic near to our hearts: diversity, equity, and inclusion in tech. Our theme is “Measure What… Read More"
-    publishedDateTime: 2023-01-20T00:32:00Z
-    webUrl: "https://www.geekwire.com/calendar-event/seattle-fintech-meetup-measure-what-matters-dei-in-fintech/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 54
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/01/Fintech-Meetup-2.png"
-        width: 1828
-        height: 958
-        isCached: true
   - title: "7 FinTech tweets you should see!"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-01-20T11:46:00Z
@@ -78,6 +64,15 @@ related:
       name: Financial IT
       domain: financialit.net
     quality: 4
+  - title: "The GTV of KSA Fintech Market is expected to reach USD ~100 bn by 2027F owing to major government initiatives and technology adoption: Ken Research"
+    excerpt: "Fintech Market in KSA has various players ... The industry is moving towards digital advancement and technologies such as AI and ML to improve capabilities. Other government regulations and ..."
+    publishedDateTime: 2023-01-20T09:29:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30497615/the-gtv-of-ksa-fintech-market-is-expected-to-reach-usd-100-bn-by-2027f-owing-to-major-government-i"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "WXAhxSzmvtMVXwlVRKwXXxzNXe/jPlU9dDVcIjUsBlbHp/9cyKgjbKc6yBbsbGL+5biM43PKLFJP6xdSaMBeb0+wRCFoVW7ZcNfvHFPZOwj7u+GGbpHmSlvl12qbpzzIWBGiHyEPHEqFInzAtNWm0Z62sDhP047Ftfoh6tkjZHuQDZtZCC2mUyiRfhObFTr5MYAII0u/YZb10pwIQyDe3DaIyfznvp+5gdxNDvOj9NWZtjeAP9fTWv8nxP+Z45GCm8nKRap1lxYG/Iz22G6cQ+3Q3FV/LSKnU4Xzfk3zb+ZlUCk3VDUbmPwVaRlBcs8ul2a4jeCeAJeyCUX2WkGr2+yxkKxouTwJRCN3jHpRasg=;AbTdFEnXjoYHbY5dAAoF9w=="
 ---

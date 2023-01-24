@@ -9,8 +9,8 @@ ampWebUrl: "https://www.globalbankingandfinance.com/how-artificial-intelligence-
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-artificial-intelligence-is-transforming-banking/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: List of Banks in Belarus
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How startups are using AI for fixing challenges in traditional financial services"
+    excerpt: "Startups using AI are making better data-driven decisions, increasing profits directly by efficient targeting, automating repetitive tasks, and much more to unlock competitive advantages"
+    publishedDateTime: 2023-01-20T02:47:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services-11674182424472.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services/amp-11674182424472.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/how-startups-are-using-ai-for-fixing-challenges-in-traditional-financial-services/amp-11674182424472.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 54
+    images:
+      - url: "https://images.livemint.com/img/2023/01/20/600x338/AI_1674182789785_1674182790018_1674182790018.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "How AI Will Change Writing Forever"
     excerpt: "From universities to newsrooms, the introduction of ChatGPT and other AI bots will transform writing across our society."
     publishedDateTime: 2023-01-20T16:09:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/273407545/ai-tools-can-create-
 webUrl: "https://www.bignewsnetwork.com/news/273407545/ai-tools-can-create-new-images-but-who-is-the-real-artist"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 630
     height: 420
     isCached: true
+
+related:
+  - title: "AI tools can create new images, but who is the real artist?"
+    excerpt: "With some generated images traveling on social networks and potentially going viral, they can be challenging to debunk since they can’t be traced back to a specific tool or data source"
+    publishedDateTime: 2023-01-20T15:38:00Z
+    webUrl: "https://www.kmbc.com/article/ai-images-who-is-real-artist/42592783"
+    ampWebUrl: "https://www.kmbc.com/amp/article/ai-images-who-is-real-artist/42592783"
+    cdnAmpWebUrl: "https://www-kmbc-com.cdn.ampproject.org/c/s/www.kmbc.com/amp/article/ai-images-who-is-real-artist/42592783"
+    type: article
+    provider:
+      name: KMBC Kansas City
+      domain: kmbc.com
+    quality: 59
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap23011863010313-1-1674235508.jpg?crop=1.00xw:0.846xh;0,0.0337xh&resize=1200:*"
+        width: 1200
+        height: 677
+        isCached: true
 
 secured: "bMoNC3eOltOPk0I/AXgtC90WgzhIL5YPp//GgC45UUrlNacb8jAh+Rz3hkkkn6qAQlPn/i958WZhjhkoVeS+A9wMvt7fM0oX79qdZbct9/CDLFATMPqk43W9H8oruGM/SS+rhXzEegilr4Mpjky++SVTgIl697s+8s8Xtd27038xjGEPfI77dHmM/jqBpj25Sme+dy6O4nIMvNWtGqdp/ZAhR7N0TmPvkZ7JV1yu6b3bx/yXSKMIlC8sqZyzXpGc4tPH//fRzXKKMYOcFsYobvLe3iRpbVokj6fEGl4YUGENnaLB1udokINSflFJbfmPB2ddnp7cYWa1+TSh2UhobZDykxTaVEQTs7yW2eYD1Xw=;NhHpqPG9GByLCUHmpc2A0w=="
 ---

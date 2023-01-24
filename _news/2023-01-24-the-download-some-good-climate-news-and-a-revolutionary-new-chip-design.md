@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T13:10:00Z
 originalUrl: "https://www.technologyreview.com/2023/01/24/1067237/download-good-climate-news-revolutionary-new-chip-design/"
 webUrl: "https://www.technologyreview.com/2023/01/24/1067237/download-good-climate-news-revolutionary-new-chip-design/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: MIT Technology Review

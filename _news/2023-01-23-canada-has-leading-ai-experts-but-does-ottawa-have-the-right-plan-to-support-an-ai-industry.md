@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How generative AI will help power your presentation in 2023"
+    excerpt: "New generative AI options integrating tools like GPT-3 and DALL-E can deck out your slide deck and make storytelling less of a slog."
+    publishedDateTime: 2023-01-24T14:00:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-will-help-power-your-presentation-in-2023/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "How generative AI will supercharge productivity"
     excerpt: "Imagine software programmers using an AI assistant to write code in their company’s style to four times their output. This is beginning to happen today. Enhanced productivity is now possible with generative tech,"
     publishedDateTime: 2023-01-20T04:00:00Z
@@ -50,6 +59,15 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 17
+  - title: "SENA Panel: How is Artificial Intelligence Going to Disrupt the Seafood Industry?"
+    excerpt: "The 28 individual presentations from SENA and the 21 sessions from SEG featured exclusive information and insight from seafood industry experts, including economic forecasts and analysis on the trends and topics impacting the global seafood industry as it navigates issues of trade,"
+    publishedDateTime: 2023-01-24T14:00:00Z
+    webUrl: "https://www.seafoodsource.com/news/supply-trade/sena-panel-how-is-artificial-intelligence-going-to-disrupt-the-seafood-industry"
+    type: article
+    provider:
+      name: SeafoodSource
+      domain: seafoodsource.com
+    quality: 14
 
 secured: "mNvoRC2UGvTxGk2VGHRHSxo6zPF7AMR82tKPcYUWUltoAZqhT9RH91wLbSPllvK9IZh6wRI5kTj4hRCq3RLi/xSsq3DC3rWJIGGvFjQ2P1LYZTokwK8Vi0t8zDRyFggc1xkaT8BYQuwbPZ70n51APS79RXa0wZZXg32ygIvJt7/qI6jLZmUyhBInAAmfvY/sD7Rpc0sJ+ZCMCqdbciESZWXR0vrI3Ye8yGI0k6ynT8wwDbRELg5LgpaILiQ0UtP5cI+GRULMX7YLZJ+EzzfUx3KnqotHqd/wdw86GCPFTXRpa/MM5rTXay11sVX/eY77x4BP6Rk5BiDcks7fA688PJGFLLP7XKworbfZrNSU9JDZ7IRAp7jD/Y3AL68BSxkhlS96vq1Lq4hlbOv05JpTbBxuawUG8JML3Xlo6VPtzEgR5/f92yL636J78jALD3W8DnLt/DeYtTQY50D4XqQLdLX/Z0Ub2jnOByDcp3U2xGJwuzAmTAhBpZVRVNHlswJEAydqNQzJftQHPc7AexDLSw==;KVNzrl0l0JvR/L5eFzKlpg=="
 ---

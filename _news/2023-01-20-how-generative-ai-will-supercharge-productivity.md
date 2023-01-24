@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How generative AI will help power your presentation in 2023"
+    excerpt: "New generative AI options integrating tools like GPT-3 and DALL-E can deck out your slide deck and make storytelling less of a slog."
+    publishedDateTime: 2023-01-24T14:00:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-will-help-power-your-presentation-in-2023/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Canada has leading AI experts. But does Ottawa have the right plan to support an AI industry?"
     excerpt: "Many leaders in Canada’s innovation sector say the government’s strategy to build on the country’s early lead in AI is emblematic of how Ottawa routinely fails to leverage the country’s brains to prod"
     publishedDateTime: 2023-01-23T06:00:00Z
@@ -48,6 +57,15 @@ related:
         width: 1200
         height: 880
         isCached: true
+  - title: "SENA Panel: How is Artificial Intelligence Going to Disrupt the Seafood Industry?"
+    excerpt: "The 28 individual presentations from SENA and the 21 sessions from SEG featured exclusive information and insight from seafood industry experts, including economic forecasts and analysis on the trends and topics impacting the global seafood industry as it navigates issues of trade,"
+    publishedDateTime: 2023-01-24T14:00:00Z
+    webUrl: "https://www.seafoodsource.com/news/supply-trade/sena-panel-how-is-artificial-intelligence-going-to-disrupt-the-seafood-industry"
+    type: article
+    provider:
+      name: SeafoodSource
+      domain: seafoodsource.com
+    quality: 14
 
 secured: "3d2cSSkb7evvOk34OLzb25Rc//tNRvdIGwnpruHD9BvdgZgMFSKBN2wcat/SI4ltao3ftTSProKPFwElkwFlRrO5DbGSDHIdCjJRS+Hmn+a/DpMVWulQB2ZqQxDQKulwio1HzMwYN62XyeOALcmKvXLuZ5RxjG7rfUC6P1vlizwyp2BfaSlPCgWzkIEdHipn8+MiVtIzfCvYWgs6W7BnjkZp2UNyfUwKtLoz/K9xWUGNXjrKZRBqtTYUKQmChWi3gV8nIcCff8vRhwo+/UOpyVnAtQtzNKLYddXSF5LDHcOritUTfP7WBXIO8DZ0Y/uqgm9mK2ZrHLweYICxv/K7DJoOftKheQPbo77+Q5cJnXavZ/8wRrq0eyRMputxbukmKP21OTE3CyNMgyptSBzPuLxEWzrrHCfafM40nIMhFMWlcSLat5qfEXSOeQnumsCHHzp3MOqZiP4qMq3dYbYZYBHbwrttlO6NKPQUmC6KOQZIH3HA30qu7gpzR6REKof8H/y8uhGeaQFTEPu2ddZVOA==;4PiNTmJemqkWQyv3rruYQw=="
 ---

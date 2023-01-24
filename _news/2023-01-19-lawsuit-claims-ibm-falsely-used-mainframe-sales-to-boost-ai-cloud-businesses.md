@@ -1,21 +1,29 @@
 ---
 category: news
 title: "Lawsuit claims IBM falsely used mainframe sales to boost AI, cloud businesses"
-excerpt: "IBM is also alleged to have reallocated revenue from its non-strategic Global Business Services (GBS) segment to the company’s Watson-branded AI products — a strategic imperative included in ..."
-publishedDateTime: 2023-01-19T10:45:00Z
-originalUrl: "https://www.arnnet.com.au/article/704841/lawsuit-claims-ibm-falsely-used-mainframe-sales-boost-ai-cloud-businesses/"
-webUrl: "https://www.arnnet.com.au/article/704841/lawsuit-claims-ibm-falsely-used-mainframe-sales-boost-ai-cloud-businesses/"
+excerpt: "A lawsuit has been filed against 13 current and former IBM executives, including CEO and Chairman Arvind Krishna and former CEO Ginni Rometty, accusing the company of securities fraud — bundling ..."
+publishedDateTime: 2023-01-19T03:03:00Z
+originalUrl: "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html"
+webUrl: "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html"
+ampWebUrl: "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html/amp/"
+cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html/amp/"
 type: article
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: CIO
+  domain: cio.com
 
 topics:
   - IBM AI
   - AI
   - AI in Sales
 
-secured: "/m+NtypOtz3bfaIOnWItyk0qP8QXo74lOt8t7ooI9l0JJ7q7S/77+rYCXcfPFKDlQ7MkXUSbQbj6NCaZKos23+JPqz+UeLtblbICX6cdABGeYai6f4DoG8Hol54H2WLG/wizHooyM9DFwWMs0/7lEf0H/RhRtnCiKUjbK5Rr/yEndevv/SPauYf2MurW/1xXmCBWmY+4OxlX5hD9/Z5F3ob6FIdMuJEU322WbJ2qW1f7L5pHEanlDotgZjJB//lM44ouphKjGZDhtCFBmfo/mzTLiSXkjLcHmg99Y3ZRrl3Q8uRZ//We2PazAhCQ2OsldL67s30cf9nbMdos8yXc1D/eCQRb+2+1lyK+y6bc8kA=;k8EWTBOicIWhAoakVXABXw=="
+images:
+  - url: "https://www.cio.com/wp-content/uploads/2023/01/ibm-sign-5.jpg?quality=50&strip=all&w=1024"
+    width: 1024
+    height: 682
+    isCached: true
+
+secured: "gI3A2xoPFoW10Occh6VbZLcH+/JVhOpYJuwDrU5V2rtJBXLsLnPGgSg6Q00BIPjctDdwTOORV0Ai/cV7sMjucY8//1qM797ld4gK8qyk7j/XVm0Un+pm9lK2ifrq34m6HDCz/qfWDawDeHMZ8Vbqv2dyliHr3b3xse46D8qcZqBWS66boNlVrr0boh5Ajyg9cWS/eaHIQXqNWIq9B5jaNShiIFjic34uKGrn23LETInA3qCOfT/RXxLc/aSRoMYy0M7SDt76PB07UweRNGUlPx275O+3aigam8I6XJTU3tFLtrEyKN+aoZ3c4sw8O338i+5r5Mfo1KCirpnbzyZeMIh5VKyFjikJ5UAHcZtuGDQ=;lJrXqfWzmUT19z0vy+NbLA=="
 ---
 

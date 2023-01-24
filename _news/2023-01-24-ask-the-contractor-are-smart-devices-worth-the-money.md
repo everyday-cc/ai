@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T14:02:00Z
 originalUrl: "https://www.forbes.com/home-improvement/contractor/ask-the-contractor-smart-devices/"
 webUrl: "https://www.forbes.com/home-improvement/contractor/ask-the-contractor-smart-devices/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T10:11:00Z
 originalUrl: "https://diginomica.com/viva-la-revolution-ai-use-cases-b2c-commerce-its-time-move-forward"
 webUrl: "https://diginomica.com/viva-la-revolution-ai-use-cases-b2c-commerce-its-time-move-forward"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Diginomica

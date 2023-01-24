@@ -297,6 +297,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Can The Generative AI ChatGPT Brand Keep Going Strong Or Will It Fizzle Out, Asks AI Ethics And AI Law"
+    excerpt: "Generative AI ChatGPT is an AI app that has caught the world by storm. Indeed, ChatGPT has now entered into the rarified air of being considered a brand. There are lots of upcoming potholes that can undercut this new brand."
+    publishedDateTime: 2023-01-24T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/24/can-the-generative-ai-chatgpt-brand-keep-going-strong-or-will-it-fizzle-out-asks-ai-ethics-and-ai-law/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 48
   - title: "Adani, a ChatGPT user, claims that the race for AI will become as complex as the chip battle"
     excerpt: "Adani, a ChatGPT user, claims that the race for AI will become as complex as the chip battle - Gautam Adani, the richest man in Asia, is addicted to ChatGPT, a tool that scours large quantities of"
     publishedDateTime: 2023-01-21T04:20:00Z

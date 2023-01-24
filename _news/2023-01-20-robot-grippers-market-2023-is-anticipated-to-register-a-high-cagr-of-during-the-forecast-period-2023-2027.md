@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/robot-grippers-market-20
 webUrl: "https://www.marketwatch.com/press-release/robot-grippers-market-2023-is-anticipated-to-register-a-high-cagr-of-during-the-forecast-period-2023-2027-2023-01-20"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Citizen Services AI Market Size Hits $41.0 Billion by 2027, growing at a CAGR of 44.5%: Report by MarketsandMarkets™"
-    excerpt: "The global Citizen Services AI Market size is projected to grow from USD 6.5 Billion in 2022 to USD 41.0 Billion by 2027, at a CAGR of 44.5% during the forecast period,"
-    publishedDateTime: 2023-01-20T12:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30501393/citizen-services-ai-market-size-hits-41-0-billion-by-2027-growing-at-a-cagr-of-44-5-report-by-mark"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "AbespRsnEOlrqByYuTk1Ly0CABZf9LdKzd1zUgmRvTSho1pYcpvXh80bkSvAgF3dmCNh6HCzXPnfCKcBzxZPZJQovPN7oCzLQ+I3b4Cv7LWiuoCBXEJlJPnBLe0MhX+6F9aGgdrQFDjSvV1Utmm3c1byS8AqNM+f+zARr1Kzyd07J31EWkBlyNoIW/wkyWZpIhu8YUFefE3moEqeWxdyLfzcoPUmEi5K/Ac1hlK5AvwyQRMqaYqa37Fgd4wkLxo3VcB1GelaK22qgan8sag4yARt0O3rLGl0wXfRT54KPbuqWidSRL+CUX9AbD/Ce0fXqR0ocy5IzNLmRezoPNLxc6MJD2NmIUOU3O7USrA4aB0=;nEHIHr1kfZA0/8O6oeS+mw=="
 ---

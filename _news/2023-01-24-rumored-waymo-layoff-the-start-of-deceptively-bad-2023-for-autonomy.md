@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T13:41:00Z
 originalUrl: "https://www.forbes.com/sites/stefanseltz-axmacher/2023/01/24/amid-rumored-waymo-layoffa-deceptively-bad-2023-for-autonomy/"
 webUrl: "https://www.forbes.com/sites/stefanseltz-axmacher/2023/01/24/amid-rumored-waymo-layoffa-deceptively-bad-2023-for-autonomy/"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: Forbes
