@@ -5,12 +5,7 @@ excerpt: "They told her their facial recognition system already knew who she was
 publishedDateTime: 2023-01-21T12:04:00Z
 originalUrl: "https://www.wwno.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
 webUrl: "https://www.wwno.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
-ampWebUrl: "https://www.wwno.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited?_amp=true"
-cdnAmpWebUrl: "https://www-wwno-org.cdn.ampproject.org/c/s/www.wwno.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited?_amp=true"
 type: article
-quality: 52
-heat: 62
-published: false
 
 provider:
   name: WWNO
@@ -20,23 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/562e9cc/2147483647/strip/true/crop/5196x3200+247+0/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F20%2Fjesse-zhang-face-ai-final_custom-20c61e8560ae339ccf6c0ef0ae5b2734e6a0a10f.jpg"
-    width: 880
-    height: 542
-    isCached: true
-
-related:
-  - title: "She was denied entry to a Rockettes show — then the facial recognition debate ignited"
-    excerpt: "When a lawyer was denied entry to a Rockettes show, it became a flashpoint in the debate over facial recognition technology. Does it keep people safe, or risk further harm?"
-    publishedDateTime: 2023-01-21T16:00:00Z
-    webUrl: "https://wusfnews.wusf.usf.edu/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
-    type: article
-    provider:
-      name: wusfnews.wusf.usf.edu
-      domain: usf.edu
-    quality: 12
-
-secured: "cu/zD+ghXV4Bh39QzCUZw6OSYqR/SUbLd+dh/APVcyLoO0buJFRVt5IZTr2t47ESKLUQ6xI/C1sNjJut2WbwwDPVxtoS+auwWD079kgR9LsdtnlURf3+S8uttIVFfUCwQvbD+uYB3ZYpoE0zcMlFPHtoRpKcr5Tv64dVqXuKeumte2BPb7NPOK/d1oy3mwgpcm20cLqLhy1SOg4xNROw10ZwQEaDrge21CSCPsovvBthvf3V4Dnx9PYTvMSgNeAp5a165LVCsCTgCLfwxlBYQ9CcP4GddwGMDx2WlAZqWQoKac0UprNgrgBAQoaWWE8ID0S4tpaWAoswizzR0Ws+U79cMn/hRIx9DrYJZbOPNmE=;Ri8vzlsUYaLZ7pJh35OdWw=="
+secured: "wXSqro8MDJZSw3sxvD7MOA1iMF9i5SDNgv94DSE255AoEuXMYd/feehvmqMS9WzWBWn+xdiUUzU3APeE17q1czs3VJMQkIBY7bhs8PdrvCUBVfWc4//355qE9nifZBWgB11JC+QDSNlZUYBDkybmlQ6T08+Dj60qjFefkG3V6Eu9KlzUUH2k8T7QBfWKoWVn3lz6KNr3Q8K725nL+5tNAXUNc0schZnwXEHkMS6M5x3bDZ9rtkOOAheGV3xTWe/52qfG2UtXLJu++dQcxZn7SIQxLhPtexF6t9Kezyf5JpvFJsvzT/O+5L+5YOz7j/FJ5LSO/ZfoB6aTCvQTM+KXHlHY4JqYmYzowyX1uiQ4NGI=;M4vWYGfZpSrCwu2SV7P+hg=="
 ---
 
