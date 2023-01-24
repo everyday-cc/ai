@@ -1,40 +1,20 @@
 ---
 category: news
 title: "She was denied entry to a Rockettes show — then the facial recognition debate ignited"
-excerpt: "When a lawyer was denied entry to a Rockettes show, it became a flashpoint in the debate over facial recognition technology. Does it keep people... One evening in late November, New Jersey ..."
-publishedDateTime: 2023-01-21T12:03:00Z
-originalUrl: "https://www.northcountrypublicradio.org/news/npr/1150289272/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
-webUrl: "https://www.northcountrypublicradio.org/news/npr/1150289272/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
+excerpt: "They told her their facial recognition system already knew who she was, and more importantly, where she worked, Conlon told The New York Times. The issue was her law firm was involved in ..."
+publishedDateTime: 2023-01-21T12:04:00Z
+originalUrl: "https://www.wwno.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
+webUrl: "https://www.wwno.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
 type: article
-quality: 32
-heat: 32
-published: false
 
 provider:
-  name: Northcountrypublicradio.org
-  domain: northcountrypublicradio.org
+  name: WWNO
+  domain: wwno.org
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://media.npr.org/assets/img/2023/01/20/jesse-zhang-face-ai-final-369816e8b5ed55bbba513f965630976c384028ca.jpg?s=6"
-    width: 948
-    height: 709
-    isCached: true
-
-related:
-  - title: "She was denied entry to a Rockettes show — then the facial recognition debate ignited"
-    excerpt: "When a lawyer was denied entry to a Rockettes show, it became a flashpoint in the debate over facial recognition technology. Does it keep people safe, or risk further harm?"
-    publishedDateTime: 2023-01-21T16:00:00Z
-    webUrl: "https://wusfnews.wusf.usf.edu/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
-    type: article
-    provider:
-      name: wusfnews.wusf.usf.edu
-      domain: usf.edu
-    quality: 12
-
-secured: "RbgV7NvQkqpR1Y+qzYLxWxoZtijWXKhvnuI54SknjeA/8N/pSzSUZMtUOlHr0JPBnqZApsclfnAhMyT5IH2nwLQR++TgQcqBpUBXmk5WIsE5VmqBhhBlT1sbxy48sorkVfDSHuWms8ISAqlmwedY6C4yz0Yd3Wj2yGkzObj9SIYVhtBt8/R+EMdXeXBWD0sbPtRLHLwP7GEhHv1PzvNFxEdtlYWPM6sVrdepIIoDFkzk6oV0hIKbuhdyElgHhdkFOIbvUyDp7Q23G8TmDvyk6OExkzhloFPWRW9+k7JSHNyA6OUkqNjO6wbgTriEVWeezpHEsZL+ouA3od5gc2zIlyEr/j5KhMisbZ0/iLx+cX8=;rJZ2Fro8eTWBx1hrf/mb9g=="
+secured: "YFEOXCG4Tr4Vj7TwN0gMuNQ46n9J5lSqfK3jfB074P664WqkBH2GeVIUWa5+FmQ0TxtObrsrC5kHZKyIntI9JmROteYnWGRfQyJmbLh5RXOdOF0QIAXfGMqKHfg6UxOyNFpcMz7s1wuVuP/VI+W1PkqGTV42RJ8p9JLuI89N21FcZM7K6jeQfe61KDD3K5ESMxO5ruI2735q4/PcuAyRfBdVatoRVZU107hA+HH6BRdFBcDANCMwOUImFFq86j1y66vpwbth8Oc3XIx4VFxGv7rreWkuI/20K2PzXvSHCPspXYKf3vaPUzSlUFsKvURBEoySbS4dmf2cvuFYjKk+CplORyz97I5/rcPqyX6z/GU=;wNYllRGVysqXNSHl6eZbgw=="
 ---
 

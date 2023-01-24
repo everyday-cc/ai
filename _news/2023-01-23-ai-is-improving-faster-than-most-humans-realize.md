@@ -2,72 +2,19 @@
 category: news
 title: "AI Is Improving Faster Than Most Humans Realize"
 excerpt: "Technologies such as ChatGPT will profoundly change the economy, but they are getting better so quickly that it’s impossible to say how."
-publishedDateTime: 2023-01-23T13:29:00Z
-originalUrl: "https://www.bloomberg.com/opinion/articles/2023-01-23/chatgpt-is-only-going-to-get-better-and-we-better-get-used-to-it"
-webUrl: "https://www.bloomberg.com/opinion/articles/2023-01-23/chatgpt-is-only-going-to-get-better-and-we-better-get-used-to-it"
+publishedDateTime: 2023-01-23T07:44:00Z
+originalUrl: "https://www.washingtonpost.com/business/ai-is-improving-faster-than-most-humans-realize/2023/01/23/43972ea2-9b24-11ed-93e0-38551e88239c_story.html"
+webUrl: "https://www.washingtonpost.com/business/ai-is-improving-faster-than-most-humans-realize/2023/01/23/43972ea2-9b24-11ed-93e0-38551e88239c_story.html"
 type: article
-quality: 67
-heat: 97
-published: true
 
 provider:
-  name: Bloomberg L.P.
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
+  - Machine Learning
   - AI
 
-images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icjMwQbWL2OE/v2/1200x800.jpg"
-    width: 1200
-    height: 800
-    isCached: true
-
-related:
-  - title: "Artificial Intelligence Is Coming for Human Creativity"
-    excerpt: "Second, the development of artificial intelligence poses a challenge to our claims to creative uniqueness. With the defeat of Garry Kasparov by Big Blue in 1997, many people lost interest in chess ..."
-    publishedDateTime: 2023-01-20T13:43:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 61
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/Is%20AI%20coming%20for%20Creativity%2C%203%2C%20Joseph%20Ayerle.jpg?itok=clf3nLZg"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "Artificial Intelligence is no match for the human heart"
-    excerpt: "Artificial intelligence is changing the way we live, but what it can't do is touch our emotions, or write a decent tune"
-    publishedDateTime: 2023-01-23T07:00:00Z
-    webUrl: "https://www.bigissue.com/opinion/artificial-intelligence-is-no-match-for-the-human-heart/"
-    type: article
-    provider:
-      name: The Big Issue
-      domain: bigissue.com
-    quality: 37
-    images:
-      - url: "https://wordpress.bigissue.com/wp-content/uploads/2023/01/possessed-photography-U3sOwViXhkY-unsplash.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "AI is improving faster than most humans realise"
-    excerpt: "ARTIFICIAL intelligence advances in a manner that’s hard for the human mind to grasp. For a long time nothing happens, and then all of a sudden something does. The current revolution of Large Language Models (LLMs) such as ChatGPT resulted from the advent of “transformer neural networks” in about 2017."
-    publishedDateTime: 2023-01-24T04:50:00Z
-    webUrl: "https://www.businesstimes.com.sg/opinion-features/ai-improving-faster-most-humans-realise"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 19
-
-secured: "dpfSoFAZPcqkzPefF/wRYnIyA6hH0HmTeJzLCcdJeKfdXJDCh8uShIggRnWuHeLmBmdlg0Ibd55eBAhiU9WPElNFFDgSTGNJC0norcJRY6PEE5/F8ahzmt+VbO3qStE9iUPG62FcYUlM6o38+m6pMEvKBVyfZ2ILS3DCDrFBbKlio0FbvqArU2mu0f2nTHMYAgh35jQBnA6zVXSg5aTSI0vmFEa3qXsN93BjfekzLVbtM7ds2fDsa2rZkWYFgyL2b9MV3RoDurF6OFN61V3w5C9inj9qWDjX1+clI83rz2HvZcL1YFOBkUJDks25WEtcVO7PGCuwhJUZ6U3d0aIEpE8QwfF+Km5jyutvA2wRjyk=;zkNiu9jArheqszlVRV8SIw=="
+secured: "cLuQfK/eRgLbJlECo+NG29dGnNrxBhwPPpNAhEA4St92XxTlOrUUwwX4fF6BFS66xuT/uBi/Df76UZ5ohY9humHrqedyzJJA1bvA4UaTWQc8J1AqwYXhClt/Gqk1XwtzUC1OnbNKlo8UiqAk2Mofu2xLiFTizbEfF0Zn11jSecd74x+KNOHw3D8pPukW80srD6f3cbuQ6eH7+VIECuv2Jz9vpKXOfAayIslrB6sCDQEjH7tsIaMBNAADLOO+21pBTsRX972DJ7zwXKHBy256XtzsQOuC6QPCLKlfB0dXdsTi2eUd/0ZKZZ/w+EP8PUpxAJAqyr40lMHTHaIyh3NEVLDH8NF22tGipZD9Ueo8zvXjegXcMfnAU1c+IpUPw1OtQlZ5T/ZgwEPWQTaeaW0OeD7ujTmB1wZj9FZSIjfwxstcqPDzUV/C4Sl/q8IcG4mMmJupwVwZ7mSgO3e/Q9FlQCvIBW58qoFMYXLjJC8k+dG/brVoiskyFNpFW5szL3av5sxywZONj6PkTkXNjBV8ew==;7vJpRbwXXvnMPkEKx+A32w=="
 ---
 

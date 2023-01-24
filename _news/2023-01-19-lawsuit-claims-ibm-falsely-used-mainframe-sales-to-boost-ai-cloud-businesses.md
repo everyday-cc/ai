@@ -16,12 +16,6 @@ topics:
   - AI
   - AI in Sales
 
-images:
-  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_204939925_9.jpg"
-    width: 473
-    height: 315
-    isCached: true
-
-secured: "7Sz6Nfu+9dMb5C5fiDxqUwk8f7n2uQkJrPxjfCeIgfN6ZrBgD2DxTaH2Aauxo5Gp5EhaW5yXATZj0klbAJupFLRpzXvvfVCg6+0s0vSmYC8YIlMR8hy/jetzLIsoTuMQCj/w4IyF4QC8FBjNWX1VXyGR7+nmTZotQidYdN/LntSOJJCO4Nq2ql7wX4LK0Tunym7fsdQ1HFCs+Tt+ZICu1jGzkg6QqSle+BiUz5E2qPCApb7ILbfTELtmXft9brRJH30va7aZhPloScOL6viUCs781pLVaYlYg4ZYy73gwwAEmIJWRQcUpdyeNRHwFaL89sWU3u8WF+uC4eM2ciMUn1mnThnbPswRB3WWn0fp4aM=;C8d3CURkzOZYOPTFUlJa0A=="
+secured: "/m+NtypOtz3bfaIOnWItyk0qP8QXo74lOt8t7ooI9l0JJ7q7S/77+rYCXcfPFKDlQ7MkXUSbQbj6NCaZKos23+JPqz+UeLtblbICX6cdABGeYai6f4DoG8Hol54H2WLG/wizHooyM9DFwWMs0/7lEf0H/RhRtnCiKUjbK5Rr/yEndevv/SPauYf2MurW/1xXmCBWmY+4OxlX5hD9/Z5F3ob6FIdMuJEU322WbJ2qW1f7L5pHEanlDotgZjJB//lM44ouphKjGZDhtCFBmfo/mzTLiSXkjLcHmg99Y3ZRrl3Q8uRZ//We2PazAhCQ2OsldL67s30cf9nbMdos8yXc1D/eCQRb+2+1lyK+y6bc8kA=;k8EWTBOicIWhAoakVXABXw=="
 ---
 
