@@ -2,7 +2,7 @@
 name: "MOV.AI"
 overview: "MOV.AI  provides an industry-grade operating system to change mobile machines into autonomous intelligent collaborative robots for universal commercial use."
 type: "profile"
-heat: 50
+heat: 57
 
 website: http://mov.ai/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=KF0y_gPMnGI"
 
-secured: "temyyMQ9fFdKwCIKO0fq9bHsfMhi0ZXQ0ewy4etpIo1EapFkaYDe98Dbk224WiefmX8sRNL/JUDcQbslDzmPSgj83nUl2Kc4iJAEUCdG3Onr8yNr/icSpY4EFJU3ezIvm0JpoMnuuRsgTgJzLJZNBfkBjtJfCrBtuGpDVmYejHueuAEHbBFbWAe7uHsQP5kfB5sWLM2fZcO6rqfUw+UkNBwFhmptGtIunO5QSNkFYZcHg9b+d2b0AeKhwCeJ2Ev/HU9wq0f7cGcnURibSXRkaR14MWbgjvjT04PI36l9qnF38YFGIzEGMtXwz0DsV7o7K1ZpfQJ9+MLwa0o1e0kqhRqC+M8GKf4Jou84kHhSv9mpFdhysaxwiHvDvbiF75Uta9julA9eKeAwgR/zSw7poQ==;ZrAyaVGSfhOSUUVRHjnnrA=="
+secured: "bYmaa00FcjIuQjyL2gHZ2GVzG/Wfj1GDuTzwG36WMkWUUD/OSDIyzhj27Yjw+8AqtPhu90WTkNXb2CWvo6xfKJGwlxkk37uqrvMJU401uMx+kM/SQxfJmpOIdCVbUg2Ss+31ELoW/UTOBY/LOH2EB90cn3XjJ+jqdRB38lNYtyMoi5i9uKNRRkBZ6vCdGw6EFjzz/7Xh2kyDXfKfTxyYjL3CMjJK/G5bsAH4QEUX0DSBkV0OIZbFKna2t9mlcW2cIdYj5m6LR1GtQIC6X7MeHXo7qD7eOL9N6TSxqNTI4t5PocMxgjbr+ZmHjrT1CONnHbThXOMwGSmP2xSlhqGkuot3Ujeb183XuarbqHN5vOOg7bSdhgzV9yTBsQm8G930IvTel/uAMYitgBBK2E1bHQ==;+vF9tYp4Ln78gWdt+0Js8Q=="
 ---
 

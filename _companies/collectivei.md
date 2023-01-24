@@ -2,7 +2,7 @@
 name: "Collective[i]"
 overview: "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue."
 type: "profile"
-heat: 57
+heat: 151
 
 website: https://www.collectivei.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "collectivei"
   url: "https://twitter.com/collectivei"
-  followers: 1283
+  followers: 1286
 
 locations:
   - New York, NY
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Collective[i]"
 
-secured: "Y9eDXHhy6GB8BTJRJYpYMe1bDHOnvyOAkN2NZgrGZOTGxlUFNyqEw5744E1b/cqrot6SEXndR8S/8CYmgXGxIsaojbiVoST1sLTQy0g0OwYZdjVYR+2+bbrOADJesE29NJIPZ8XPYvjKeG2ugMwYDZ3bVmicxBRe44n3Ba7TRMoUkg1WnYo4zH02dDpxKZbsYK73nXsyti8Qxojd4nU1+nF75JVXYFMaSoJSIa1M1mvYgSmyfL8IQH81lU+h/XpGPojvsPGgvqPmq7FpweJMvlAAFpS76mDdZ1dN7CM+8ArL4vDuaejSB3AamNrgD91QJmA5PdmGDLLSoACOX9DmyBlObiQxzWoDsgrtk8coIC1jMZ8/Sd1x55RwtkEYOa/ehRoma7fKyqe5ipztVtzNL0o81K+oFW/F3SghyIA7XGo=;FHP5QrGEraezixUYKDNCIw=="
+secured: "hu6gzOQuxSGsyxDqmFHPsyrTa2ACLm9wqSX3QWBuR1lZgMCQhzAH+tiuw371AhHr1aDs0wzXD4+CDzBzaqkEtG25+wNZclKseQL+iCeYT8YPXD+I2ptm4qIxK9ouFmPSfinAcyYdmDECv/F2iHQY6UjmWn9GBaSWHqKWqhYX9m8i0Npy90FfsaZ+oCxfyw2bgpjl+glJ8KBYlP6NA2W1MWQmp1dAu37rOYh+qXBlpvx0Ta0NB4wLRvcujqqT33WLX+EgpoKUU66PrApc5ytM+gITNZxc5FDEgs1Y43m8y/3lBS8AWikRBjnmosuqBUe9u7yMulj4UGpVX83EMvruUETXTC5ovYb6/hvpW83EdGJTgDFkGbbhvZzsIYgYsS5iGsiFvmq4oZsVlIEzBMn6DrVTI1vTbktTQNgnXnQAgDE=;qWBt8gapQk3up2inb8aAcg=="
 ---
 

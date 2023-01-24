@@ -2,7 +2,7 @@
 name: "Signal AI"
 overview: "Media monitoring, reputation management, regulatory compliance and market intelligence solutions powered by AI. Get a demo: https://t.co/mz2HzMdJ4v."
 type: "profile"
-heat: 42
+heat: 50
 
 website: http://www.signal-ai.com/
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=QWC7T-G_reQ"
 
-secured: "D03kH/ab06s0TbVgoclJqo/1wXa7FEufq+FR7DPXbmkBQeAOb4QRwhWHdfxAUcIfGbu0hmnfqeR+cn8B0HLI1cjq6+cW2uFBJIs2BGGCzUsEcajOqTeZjmg3B6kzIyGi4K0UMBMKnVRkQaZOVCgAswDOfsJl1LjoX8MgC24TI81Y5LrZe8n0XdDuNWgxwIU4nPRGargOVgidW8NlMB6SNJcNnM0srKnmSd60nastzEeryOu1c/pj8dWuGLmpS+Lb/CdNP/lybdVcxAZl1/l4pPQlkbaXKx0G9tE9qQeBB77X1Z4d5Dy9pmJBZa7AIle9rjoxlz8KiMnlF1Y2q8eMQ6Oek6nZNpQ0yQIqAHmLX9vwu6rlRT992XsSd2d9X3U+RXOQPNESJx7pfow3LaeZsFUT/QKpWmy8S9RZ235xoTE=;MwweGUVMzPl8ENMcS0BZ0A=="
+secured: "ysNQWnGKni20GAemCIFXdgL3Iv/R3szhDqyYNKsbKYCBenxKX3z9AAMjEH9swehFVaYbHtTsNkiJwLjDk9dXUucR+fKjbjlRINTL0xyEXyf4Q9BIzkseTqm9JnfCRAGsO1oq93Kdd8dMQVue6iSEQiHxs7+jqfr4CnqqIIkVZzc/vlQOkw2ouImnvovJg5VZ/B8Kt3gtJy1b07WQI2PXciHME6fOeOPR3EcmePXrW/UsTpjgigBGmboSm89UkAcog+DWP7iWbOra8tgmPz1T4f8x0xcc2S5/ipajyJ0CXUbD8U2OFchLeYGl27x0WbhzxpXEHSToWscL9Ky0NJcCD5jZXXteDPYVI3jiBrLqWDn9ttFsPD654Kyvyd8DvCGm0QAEukt8ZlLW+vlMZ7y/NRekhNEsAEUq7kQoL/VARgw=;qqFcdHLx/kLyjD8BA8iF2w=="
 ---
 
