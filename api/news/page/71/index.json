@@ -2,6 +2,163 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2022-11-17-the-robots-are-coming-to-address-the-labor-shortage.md",
+      "title": "The Robots Are Coming (To Address The Labor Shortage)",
+      "excerpt": "Robots can convert dangerous ... From generative design to construction optioneering, the use of artificial intelligence (AI) can help transform your project planning, workflow and efficiency—before you ever break ground. Today’s AI-driven tools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/the-robots-are-coming-to-address-the-labor-shortage/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/the-robots-are-coming-to-address-the-labor-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6374e138b1ae5c9506f59b91/0x0.jpg?format=jpg&crop=1910,1074,x107,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/the-robots-are-coming-to-address-the-labor-shortage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/17/the-robots-are-coming-to-address-the-labor-shortage/amp/",
+      "publishedDateTime": "2022-11-17T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning.md",
+      "title": "IBM Research helps extend PyTorch to enable open-source cloud-native machine learning",
+      "excerpt": "IBM Research has contributed code to the open-source PyTorch machine learning project that could help to significantly accelerate training.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/",
+      "originalUrl": "https://venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1668643364867.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/amp/",
+      "publishedDateTime": "2022-11-17T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-how-you-can-get-the-most-out-of-sentiment-analysis.md",
+      "title": "How You Can Get The Most Out Of Sentiment Analysis",
+      "excerpt": "This article will explore the uses of sentiment analysis, how proper sentiment analysis is achieved and why companies should explore its use across various business areas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/how-you-can-get-the-most-out-of-sentiment-analysis/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/how-you-can-get-the-most-out-of-sentiment-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62a255ae259caf06f4876076/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/how-you-can-get-the-most-out-of-sentiment-analysis/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/17/how-you-can-get-the-most-out-of-sentiment-analysis/amp/",
+      "publishedDateTime": "2022-11-17T03:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-artificial-neural-network-creates-synthetic-x-ray-images-to-overcome-regulatory-limitations.md",
       "title": "Artificial neural network creates synthetic x-ray images to overcome regulatory limitations",
       "excerpt": "Researchers at the University of Jyväskylä Digital Health Intelligence Laboratory addressed the problem and developed an artificial neural network that creates synthetic x-ray images that can fool even medical experts. A group of researchers from ...",
@@ -1035,135 +1192,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company.md",
-      "title": "Co-founder takes control of TuSimple amid federal probe into self-driving trucking company",
-      "excerpt": "TuSimple Holdings Inc. co-founder Mo Chen has taken control of the self-driving trucking company as federal authorities continue to investigate",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=hp_minor_pos26",
-      "originalUrl": "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=hp_minor_pos26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-315600/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T16:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-handing-off-control-while-keeping-the-human-engaged-is-a-constant-challenge-with-surgical-robotics-says-industry-expert.md",
-      "title": "Handing Off Control While Keeping the Human Engaged Is a Constant Challenge with Surgical Robotics, Says Industry Expert",
-      "excerpt": "As surgical robotics get smaller, more flexible, and more mechanically complex, new challenges arise, such as whether we should rely on the doctor to sort out the control of the devices, or if control should be offloaded to a semi or fully autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/robotics/handing-control-while-keeping-human-engaged-constant-challenge-surgical-robotics-says",
-      "originalUrl": "https://www.mddionline.com/robotics/handing-control-while-keeping-human-engaged-constant-challenge-surgical-robotics-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/hand-3685829_640_web.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-how-ai-is-being-used-in-our-daily-lives.md",
-      "title": "How AI is being used in our daily lives",
-      "excerpt": "This article aims to explain some of the ways in which AI is being used in our daily lives. Social media platforms such as Twitter, Instagram, and Facebook all use AI behind the scenes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2022/11/how-ai-is-being-used-in-our-daily-lives.html",
-      "originalUrl": "https://www.androidheadlines.com/2022/11/how-ai-is-being-used-in-our-daily-lives.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

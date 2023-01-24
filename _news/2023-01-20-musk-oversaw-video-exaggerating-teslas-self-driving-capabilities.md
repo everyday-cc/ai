@@ -43,20 +43,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Musk Oversaw Video That Exaggerated Tesla’s Self-Driving Capabilities"
-    excerpt: "Elon Musk oversaw the creation of a 2016 video that exaggerated the abilities of Tesla Inc.’s driver-assistance system Autopilot, even dictating the opening text that claimed the company’s car drove itself,"
-    publishedDateTime: 2023-01-19T19:58:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-01-19/elon-musk-directed-tesla-autopilot-video-saying-car-drove-itself-tsla"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiHMJZsdzTDA/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Musk oversaw falsified video of Tesla 'self-driving' capabilities"
     excerpt: "In an October 19 call with reporters and in a blog post, Tesla said that all its cars from that day forward would ship with the hardware necessary for full self-driving capability. “Just want to be absolutely clear that everyone’s top priority is ..."
     publishedDateTime: 2023-01-22T18:48:00Z
@@ -112,15 +98,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Musk Oversaw Video That Exaggerated Tesla’s Self-Driving, Emails Show"
-    excerpt: "Elon Musk oversaw the creation of a 2016 video that exaggerated the abilities of Tesla Inc.’s driver-assistance system Autopilot, even dictating the opening text that claimed the company’s car drove itself."
-    publishedDateTime: 2023-01-19T19:58:00Z
-    webUrl: "https://www.ttnews.com/articles/musk-oversaw-video-exaggerated-teslas-self-driving-emails-show"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 34
   - title: "Elon Musk oversaw video exaggerating Tesla’s self-driving capabilities"
     excerpt: "The company’s CEO wrote to Tesla’s Autopilot team after 2 a.m. California time in October 2016 to emphasize the importance of a demonstration drive to promote the system"
     publishedDateTime: 2023-01-20T14:13:00Z
@@ -129,15 +106,6 @@ related:
     provider:
       name: East Bay Times
       domain: eastbaytimes.com
-    quality: 19
-  - title: "Tesla Engineer Says Company Staged Self-Driving Demonstration Video"
-    excerpt: "A senior Tesla engineer testified in a deposition last July that the automaker promoted its self-driving technology in a staged 2016 video. The video was then shared on Twitter by CEO Elon Musk. It remains archived on Tesla's official website."
-    publishedDateTime: 2023-01-19T20:12:00Z
-    webUrl: "https://carbuzz.com/news/tesla-engineer-says-company-staged-self-driving-demonstration-video"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
     quality: 19
   - title: "Elon Musk oversaw video that exaggerated Tesla self-driving capabilities"
     excerpt: "In an Oct. 19 call with reporters and blog post, Tesla said that all its cars from that day forward would ship with the hardware necessary for full self-driving capability. “Just want to be ..."

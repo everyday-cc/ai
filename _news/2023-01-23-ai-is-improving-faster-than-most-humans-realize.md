@@ -2,26 +2,29 @@
 category: news
 title: "AI Is Improving Faster Than Most Humans Realize"
 excerpt: "Technologies such as ChatGPT will profoundly change the economy, but they are getting better so quickly that it’s impossible to say how."
-publishedDateTime: 2023-01-23T07:44:00Z
-originalUrl: "https://www.washingtonpost.com/business/ai-is-improving-faster-than-most-humans-realize/2023/01/23/43972ea2-9b24-11ed-93e0-38551e88239c_story.html"
-webUrl: "https://www.washingtonpost.com/business/ai-is-improving-faster-than-most-humans-realize/2023/01/23/43972ea2-9b24-11ed-93e0-38551e88239c_story.html"
+publishedDateTime: 2023-01-23T13:29:00Z
+originalUrl: "https://www.bloomberg.com/opinion/articles/2023-01-23/chatgpt-is-only-going-to-get-better-and-we-better-get-used-to-it"
+webUrl: "https://www.bloomberg.com/opinion/articles/2023-01-23/chatgpt-is-only-going-to-get-better-and-we-better-get-used-to-it"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 67
+heat: 97
+published: true
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: Bloomberg L.P.
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IIRW4WU3EQI63E7AHBKR5CBDTQ.jpg&w=1440"
-    width: 1024
-    height: 683
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icjMwQbWL2OE/v2/1200x800.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -41,21 +44,19 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Commentary: Artificial intelligence can’t reproduce the wonders of original human creativity"
-    excerpt: "The biggest story of the year — the story we should all be paying attention to — is the increasing power of artificial intelligence. Computer code can write itself, chatbots"
-    publishedDateTime: 2023-01-21T08:00:00Z
-    webUrl: "https://www.yakimaherald.com/opinion/commentary-artificial-intelligence-can-t-reproduce-the-wonders-of-original-human-creativity/article_7587b1c2-96ef-11ed-b879-ef837a5d11ec.html"
-    ampWebUrl: "https://www.yakimaherald.com/opinion/commentary-artificial-intelligence-can-t-reproduce-the-wonders-of-original-human-creativity/article_7587b1c2-96ef-11ed-b879-ef837a5d11ec.amp.html"
-    cdnAmpWebUrl: "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/commentary-artificial-intelligence-can-t-reproduce-the-wonders-of-original-human-creativity/article_7587b1c2-96ef-11ed-b879-ef837a5d11ec.amp.html"
+  - title: "Artificial Intelligence is no match for the human heart"
+    excerpt: "Artificial intelligence is changing the way we live, but what it can't do is touch our emotions, or write a decent tune"
+    publishedDateTime: 2023-01-23T07:00:00Z
+    webUrl: "https://www.bigissue.com/opinion/artificial-intelligence-is-no-match-for-the-human-heart/"
     type: article
     provider:
-      name: Yakima Herald-Republic
-      domain: yakimaherald.com
-    quality: 46
+      name: The Big Issue
+      domain: bigissue.com
+    quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/b/91/b91f8270-96ef-11ed-a539-7bf89a46a19d/63c78198bfc59.image.jpg?resize=1024%2C655"
-        width: 1024
-        height: 655
+      - url: "https://wordpress.bigissue.com/wp-content/uploads/2023/01/possessed-photography-U3sOwViXhkY-unsplash.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "AI is improving faster than most humans realise"
     excerpt: "ARTIFICIAL intelligence advances in a manner that’s hard for the human mind to grasp. For a long time nothing happens, and then all of a sudden something does. The current revolution of Large Language Models (LLMs) such as ChatGPT resulted from the advent of “transformer neural networks” in about 2017."
@@ -67,6 +68,6 @@ related:
       domain: businesstimes.com.sg
     quality: 19
 
-secured: "m4AGzJ4opeTq+CGxZXeEOtrCEk167npeSBRkrpMN8pnM547f1f7hJm8BTN2ilFqp5tuOT1ZTXoUtGsomJXbb4SNvgq3kePvPDz07z/VaZX8j+SCc0bsHohr1CiYLgBlsbSZryTY1GP/5XAER1WlO/1XqRsX9lq1vRk99CzsYLmiuOVGMCX/tL+SBwJ5ah7npI4pbMvGIWYMLXiwchA2gdr6/aCEf19MU+GcciHhnehd5PB4ytqn7RW3yQXavDvFvpEPuv15o6/vh/gvGPkwI4kqR9UJE/4mj2efzQ0umL/Dn2zpQu1GM49IiXd7ry2JDJRQb3YHMwj+/WI+p+PE8OYueTQcJkM2McSjBlhMpHl0=;JQ7d1eikHX1CnxJUgz5XpA=="
+secured: "dpfSoFAZPcqkzPefF/wRYnIyA6hH0HmTeJzLCcdJeKfdXJDCh8uShIggRnWuHeLmBmdlg0Ibd55eBAhiU9WPElNFFDgSTGNJC0norcJRY6PEE5/F8ahzmt+VbO3qStE9iUPG62FcYUlM6o38+m6pMEvKBVyfZ2ILS3DCDrFBbKlio0FbvqArU2mu0f2nTHMYAgh35jQBnA6zVXSg5aTSI0vmFEa3qXsN93BjfekzLVbtM7ds2fDsa2rZkWYFgyL2b9MV3RoDurF6OFN61V3w5C9inj9qWDjX1+clI83rz2HvZcL1YFOBkUJDks25WEtcVO7PGCuwhJUZ6U3d0aIEpE8QwfF+Km5jyutvA2wRjyk=;zkNiu9jArheqszlVRV8SIw=="
 ---
 

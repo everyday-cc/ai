@@ -43,6 +43,20 @@ related:
         width: 900
         height: 629
         isCached: true
+  - title: "How AI will impact the future of work and life"
+    excerpt: "Artificial Intelligence (AI) is rapidly becoming one of the most important and rapidly-evolving technologies of our time. With advancements in machine learning, natural language processing, and computer vision,"
+    publishedDateTime: 2023-01-24T11:42:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/shikshacoach/how-ai-will-impact-the-future-of-work-and-life-49577/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
   - title: "What’s in store for FinTech in 2023?"
     excerpt: "Russia’s illegal invasion of Ukraine and its impact on inflation, to the continued ripple effects of Brexit and changing consumer habits."
     publishedDateTime: 2023-01-23T12:23:00Z

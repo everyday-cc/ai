@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Is C3.ai Stock a ChatGPT Artificial Intelligence Play?"
+    excerpt: "You've seen the headlines about the artificial intelligence (AI) platform ChatGPT being able to write term papers and articles in a matter of minutes."
+    publishedDateTime: 2023-01-23T08:00:00Z
+    webUrl: "https://www.entrepreneur.com/finance/is-c3ai-stock-a-chatgpt-artificial-intelligence-play/443534"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 84
+    images:
+      - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-443534.jpeg"
+        width: 1000
+        height: 340
+        isCached: true
   - title: "Generative AI ChatGPT Is Going To Be Everywhere Once The API Portal Gets Soon Opened, Stupefying AI Ethics And AI Law"
     excerpt: "Generative AI ChatGPT is already in the news and will likely garner added attention once the API portal access is opened, leading to either a boon in new uses or a bust in terms of adverse consequences."
     publishedDateTime: 2023-01-22T12:00:00Z
@@ -146,15 +160,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Azure OpenAI and ChatGPT services are now available to enterprise customers"
-    excerpt: "In a nutshell: Microsoft is opening access to machine learning-based models for Azure customers, giving businesses and enterprises the chance to employ the world's most advanced (and talked about) AI services created by OpenAI research laboratories."
-    publishedDateTime: 2023-01-19T19:55:00Z
-    webUrl: "https://www.techspot.com/news/97317-azure-openai-chatgpt-services-now-available-enterprise-customers.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 62
   - title: "How will ChatGPT, DALL-E and other AI tools impact the future of work? We asked 5 experts"
     excerpt: "Could the rise of advanced AI tools mean the end of some creative and knowledge jobs? Here's what the experts had to say."
     publishedDateTime: 2023-01-23T11:54:00Z
@@ -200,6 +205,22 @@ related:
       - url: "https://bmmagazine.co.uk/wp-content/uploads/2023/01/shutterstock_2237752713-1-scaled.jpg"
         width: 850
         height: 567
+        isCached: true
+  - title: "AI ChatGPT is helping CEOs think. Will it also take your job?"
+    excerpt: "Chatbots will devalue some workers' skills, but also could create higher quality jobs that require a human's judgment."
+    publishedDateTime: 2023-01-24T09:00:00Z
+    webUrl: "https://www.cbsnews.com/news/chatgpt-chatbot-artificial-intelligence-job-replacement/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/chatgpt-chatbot-artificial-intelligence-job-replacement/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/chatgpt-chatbot-artificial-intelligence-job-replacement/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 57
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/22/3e5ebe21-b2cc-4692-9e99-9c37fff7be78/thumbnail/1200x630/def6aa3c6cd71698b2fd33d66abd4116/gettyimages-1246453874.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tech View: ChatGPT is latest foray into artificial intelligence"
     excerpt: "Although it doesn’t have as cool a name as Alexa, Siri or even Hal, ChatGPT is the latest and most advanced foray into the technology known as artificial intelligence, or AI. What exactly is ChatGPT,"

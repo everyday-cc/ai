@@ -2,58 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2022-09-13-bot-services-market-trends-and-challenges-2022-supporting-growth-top-players-strategy-size-share-estimation-and-forecast-report-till-2028.md",
-      "title": "Bot Services Market Trends and Challenges 2022 Supporting Growth, Top Players Strategy, Size, Share Estimation and Forecast Report till 2028",
-      "excerpt": "Global Bot Services Market is valued at approximately USD $million in 2021 and is anticipated to grow with a healthy growth rate of more than % over the forecast period 2022-2028. A bot is a software application that performs automated tasks such as messaging,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/bot-services-market-trends-and-challenges-2022-supporting-growth-top-players-strategy-size-share-estimation-and-forecast-report-till-2028-2022-09-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/bot-services-market-trends-and-challenges-2022-supporting-growth-top-players-strategy-size-share-estimation-and-forecast-report-till-2028-2022-09-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-13-china-says-automakers-must-have-licences-for-mapping-data-in-smart-cars.md",
       "title": "China says automakers must have licences for mapping data in smart cars",
       "excerpt": "SHANGHAI/BEIJING: China has said that automakers must apply for licences to collect geographic data using sensors on their intelligent vehicles, highlighting Beijing's security concerns about the growing sophistication of smart cars' mapping capabilities.",
@@ -1277,6 +1225,49 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it.md",
+      "title": "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it",
+      "excerpt": "Tesla’s price for the feature it calls “full self-driving” has increased again. This time to $15,000, making it an unusually expensive option for a car. “After wide release of FSD Beta 10. ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pe.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/",
+      "originalUrl": "https://www.pe.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pe.com/wp-content/uploads/2022/09/hypatia-h_f83a5bee143b3b89282e5807cb1c97e9-h_c8f834e95ae4db3b0c1cf5aa23866cd0.jpg?w=1024&h=1024",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pe.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/",
+      "cdnAmpWebUrl": "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/",
+      "publishedDateTime": "2022-09-07T23:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Press-Enterprise",
+        "domain": "pe.com",
         "images": null,
         "publishers": null,
         "authors": null

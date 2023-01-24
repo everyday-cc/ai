@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/games/scenario-plans-to-launch-its-ai-art-pl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/scenario-plans-to-launch-its-ai-art-platform-for-20k-creators/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: VentureBeat
@@ -30,21 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "Scenario lands $6M for its AI platform that generates game art assets"
-    excerpt: "Scenario, a startup developing a platform for creating game assets with AI, has raised $6 million in seed funding."
-    publishedDateTime: 2023-01-19T19:16:00Z
-    webUrl: "https://techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/"
-    ampWebUrl: "https://techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/amp/"
+  - title: "InsurTech start-up Peppercorn launches AI platform"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-01-20T05:55:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/insurtech-start-up-peppercorn-launches-ai-platform/"
     type: article
     provider:
-      name: YAHOO!News
-      domain: techcrunch.com
-    quality: 87
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 37
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/01/Little-Robots-collage-1-e1673991425721.jpeg?resize=1200,660"
-        width: 1200
-        height: 660
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/01/Peppercorn-AI-Group.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Bit Index AI Review - Scam Or Legit Crypto Trading Platform?"
+    excerpt: "AM Eastern Standard Time bit index ai is a cryptocurrency trading platform that claims to provide access to top coins like Bitcoin, Ethereum, and more. Our Bit Index AI review will study this trading platform's available features,"
+    publishedDateTime: 2023-01-21T00:49:00Z
+    webUrl: "https://menafn.com/1105457848/Bit-Index-AI-Review-Scam-Or-Legit-Crypto-Trading-Platform"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?873919"
+        width: 372
+        height: 250
         isCached: true
 
 secured: "MT+vMhotBbV1IWUF4vBgL3ij0dgAJoGvVbBF84gZU3DN9G4fpSmgtF7gE1//Cq5VsCpc7b5dElRpZuRct8kOYmIT1hzLjvk3f3B51/g2xPEER+xiJZS3nae6Lx2FI8oSrrDE6hVOftEvBNlFbfnLwFDIWBU41iMjMa0Knz/YrVJB0OA3aSZjAl2cSoCENo9rJGH71lVfZT5taFy4fgARQatiOAQNieLfA1u/mukggUlJvhJbXeFFau7l1YDSTAWpxBSNbTBO/bTOkJXaikKnFw6lSXlTrvCOTKzs9N89+RnXR7H83mHpWbhaLQNObTmb0pga5tBD/EQRqyJl4HkojLFVv5QOnJ/6DQB/8XPcsdTAh9tPCOJP00HvIV138E4nhCcHrRbyYivsM/l6rv/v1RLVPNC4/26O/gTqX08k/7T+QJ8mBeZbVw5IhM3pb2GUlfpGj9UYWFgnUpnisktZPy7J/L1AVuN3vid2ASspgBi8bYGetTus68gpe3td2QWN7alaRlD0/n8zsnMby7HM8A==;zEMLsNYSAVAHSjlfRc9sOA=="

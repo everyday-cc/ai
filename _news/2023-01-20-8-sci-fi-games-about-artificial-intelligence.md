@@ -39,20 +39,6 @@ related:
         width: 888
         height: 542
         isCached: true
-  - title: "The Scary Part About AI Is That a Lot of Writers Like It"
-    excerpt: "Another underlying challenge to large-language, generative AI systems like GPT-3 is intellectual property. Everything ChatGPT does draws on work previously done by someone, and future generative models will constantly be sucking in new material to “train” them."
-    publishedDateTime: 2023-01-23T17:16:00Z
-    webUrl: "https://observer.com/2023/01/the-scary-part-about-ai-is-that-a-lot-of-writers-like-it/"
-    type: article
-    provider:
-      name: observer
-      domain: observer.com
-    quality: 37
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2023/01/GettyImages-72367586.jpg?quality=80&#038;strip"
-        width: 2992
-        height: 1968
-        isCached: true
 
 secured: "LhHF/QQYSM4JsxCJ4NCEoBtNOGajxfxZR+kU3STNchhmmDNDdrqc95i/YVVaFGKWtlKS8CXTRrNESRQcnDcbFX6QMLFjKAy5RCGQ7tBCepc695J6vHFn0N9FXrqgs/nz8WZFGcXb9zvguParLWMvs1box2xDCF5IBxNXOvIwhk3AKG72DKMI7ZxrRFx5VlHXZHIgyhpDqiZzOmEPBCkL5oweo2XAYMSEskqBZn2QH7e7BEKuneWvUc65cogxmzSqxWbGg1G/Xk3Litn0UNRIvr2DHJMK+O7MLKgeTYLryIg7EYJOrCX2WbN6iabMYHH9+v+cNH71P6Pb8F8XW/353/mHLuCAB7KsAIlCK84f9Vc=;2nOTc/Oz66AJy4O6QBwmQg=="
 ---

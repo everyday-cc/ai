@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Educators worry about students using artificial intelligence to cheat"
-    excerpt: "New York City public schools blocked access to the popular artificial intelligence tool ChatGPT. Educators are concerned that students could use this technology to write papers – the tool wasn’t even a month old when a college professor in South Carolina caught a student using it to write an essay in philosophy class."
-    publishedDateTime: 2023-01-23T17:25:00Z
-    webUrl: "https://www.pbs.org/newshour/classroom/2023/01/educators-worry-about-students-using-artificial-intelligence-to-cheat/"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 19
 
 secured: "g51SDl5fjpHuxLGZPS8lRzuOv4IlKSMSXGrvQAbVZe3V/lcn8NOWKWtj6k0eVDieSJ8Z584xZsoUZNKSTxSoyQz39BF+Xxi1K/7xC4HDltWeNDDKM3RNIlJu36xPvcsNUl21NZnpz4oFpqo7d55AznW+A+ehXLtXJC/vkUu5pRavYa3TMsNhby/+PHqJG/LaPFixRZh9vdEPGt/HQw87spwTUZHQFts+2uGXSkO8Oj72Z/Gm/87kLlsBbPLpuknorhYG0LlpxUw86+FIjm+VLjujR9qqT3v4zxjDijXzY5YAB09M1ThBBV6rOjarOJ88nnf4JmDKDsr303JAA5W0ypIxlkUsjsz/wUYnvptwvH4WRlHndbvdinemafYgqIfK/TynfRklkTponaB83q4eZOc33wS8ZpPv7DVUwaa901ZD6VFo1A1vdT5H3Sk0/8lunXUUKvqqzgEITXvCdS22QVgmqJtudlATegwbPwkF/NJmqJ25AgLOGfrPxLGBbkkv2yMiDNL3ToyliExOW/qdKg==;Rc7VZMlSaPJHojsO17QeXw=="
 ---

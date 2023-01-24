@@ -2,6 +2,126 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-01-06-artificial-intelligence-market-regional-opportunities-and-future-scope-report-2030.md",
+      "title": "Artificial Intelligence Market Regional Opportunities And Future Scope Report 2030",
+      "excerpt": "Artificial Intelligence Industry Overview The global artificial intelligence market size was valued at USD 93.5 billion in 2021 and is projected to expand at a compound annual growth rate (CAGR) of 38.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vingle.net/posts/5170783",
+      "originalUrl": "https://www.vingle.net/posts/5170783",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T22:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Erin1980",
+        "domain": "vingle.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-amd-unveils-monster-instinct-mi300-hybrid-cpu-gpu-ai-accelerator-and-skynet-smiles.md",
+      "title": "AMD Unveils Monster Instinct MI300 Hybrid CPU-GPU AI Accelerator And Skynet Smiles",
+      "excerpt": "AMD's RDNA 3 GPU architecture found in the Radeon RX 7900 ... CEO Dr. Lisa Su announced the Instinct MI300, the latest in AMD's AI and other compute accelerators with a big focus on sustainability ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/amd-announces-instinct-mi300-accelerator-ai",
+      "originalUrl": "https://hothardware.com/news/amd-announces-instinct-mi300-accelerator-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/60568/content/small_amd-lisa-su-with-mi300.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/amd-announces-instinct-mi300-accelerator-ai",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-announces-instinct-mi300-accelerator-ai",
+      "publishedDateTime": "2023-01-05T22:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-amazon-alexa-to-allow-voice-initiated-electric-vehicle-charging.md",
+      "title": "Amazon Alexa To Allow Voice-initiated Electric Vehicle Charging",
+      "excerpt": "Now, automakers are quickly bringing this convenience to the cabins of vehicles. Voice recognition has been around for a few decades now and while it still isn't 100 percent proficient ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/amazon-alexa-allow-voice-initiated-electric-vehicle-charging-1770504",
+      "originalUrl": "https://www.newsweek.com/amazon-alexa-allow-voice-initiated-electric-vehicle-charging-1770504",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T21:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-06-lenovo-turns-to-ai-to-optimize-its-2023-gaming-laptops.md",
       "title": "Lenovo turns to 'AI' to optimize its 2023 gaming laptops",
       "excerpt": "Four new models at CES 2023 include the Lenovo LA AI chip, which the company says can dynamically adjust frame rates, increase the maximum heat threshold and boost overall performance ...",
@@ -958,135 +1078,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-worx-introduces-new-landroid-vision-robotic-lawn-mower-industrys-first-robotic-mower-with-neural-network-technology.md",
-      "title": "WORX Introduces New LANDROID Vision Robotic Lawn Mower, Industry's First Robotic Mower with Neural Network Technology",
-      "excerpt": "equipped with the top-level neural network – artificial intelligence that is trained to distinguish between grass and non-grass. Through its on-board HDR camera and VISION AI, Worx's new ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/worx-introduces-new-landroid-vision-robotic-lawn-mower-industry-s-first-robotic-mower-with-neural-network-technology-1032002701",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/worx-introduces-new-landroid-vision-robotic-lawn-mower-industry-s-first-robotic-mower-with-neural-network-technology-1032002701",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T09:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-amd-launches-new-ai-powered-pc-chips-at-ces.md",
-      "title": "AMD Launches New AI-Powered PC Chips at CES",
-      "excerpt": "Last year was a tough one for Advanced Micro Devices The microprocessor company was hurt in particular by a sharp falloff in personal computer demand, as a pandemic-era surge in PC purchases faded away.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/amd-ryzen-radeon-chips-stock-price-ces-51672867182",
-      "originalUrl": "https://www.barrons.com/articles/amd-ryzen-radeon-chips-stock-price-ces-51672867182",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-696996/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/amd-ryzen-radeon-chips-stock-price-ces-51672867182",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-ryzen-radeon-chips-stock-price-ces-51672867182",
-      "publishedDateTime": "2023-01-05T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-the-physics-principle-that-inspired-modern-ai-art.md",
-      "title": "The Physics Principle That Inspired Modern AI Art",
-      "excerpt": "Diffusion models generate incredible images by learning to reverse the process that, among other things, causes ink to spread through water.",
-      "sourceUrl": null,
-      "webUrl": "https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art-20230105/",
-      "originalUrl": "https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art-20230105/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/Youtube_Article_160.jpg",
-          "width": 320,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quanta Magazine",
-        "domain": "quantamagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

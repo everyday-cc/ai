@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Is C3.ai Stock a ChatGPT Artificial Intelligence Play?"
+    excerpt: "You've seen the headlines about the artificial intelligence (AI) platform ChatGPT being able to write term papers and articles in a matter of minutes."
+    publishedDateTime: 2023-01-23T08:00:00Z
+    webUrl: "https://www.entrepreneur.com/finance/is-c3ai-stock-a-chatgpt-artificial-intelligence-play/443534"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 84
+    images:
+      - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-443534.jpeg"
+        width: 1000
+        height: 340
+        isCached: true
   - title: "Generative AI ChatGPT Is Going To Be Everywhere Once The API Portal Gets Soon Opened, Stupefying AI Ethics And AI Law"
     excerpt: "Generative AI ChatGPT is already in the news and will likely garner added attention once the API portal access is opened, leading to either a boon in new uses or a bust in terms of adverse consequences."
     publishedDateTime: 2023-01-22T12:00:00Z
@@ -154,15 +168,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Azure OpenAI and ChatGPT services are now available to enterprise customers"
-    excerpt: "In a nutshell: Microsoft is opening access to machine learning-based models for Azure customers, giving businesses and enterprises the chance to employ the world's most advanced (and talked about) AI services created by OpenAI research laboratories."
-    publishedDateTime: 2023-01-19T19:55:00Z
-    webUrl: "https://www.techspot.com/news/97317-azure-openai-chatgpt-services-now-available-enterprise-customers.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 62
   - title: "How will ChatGPT, DALL-E and other AI tools impact the future of work? We asked 5 experts"
     excerpt: "Could the rise of advanced AI tools mean the end of some creative and knowledge jobs? Here's what the experts had to say."
     publishedDateTime: 2023-01-23T11:54:00Z
@@ -208,6 +213,22 @@ related:
       - url: "https://bmmagazine.co.uk/wp-content/uploads/2023/01/shutterstock_2237752713-1-scaled.jpg"
         width: 850
         height: 567
+        isCached: true
+  - title: "AI ChatGPT is helping CEOs think. Will it also take your job?"
+    excerpt: "Chatbots will devalue some workers' skills, but also could create higher quality jobs that require a human's judgment."
+    publishedDateTime: 2023-01-24T09:00:00Z
+    webUrl: "https://www.cbsnews.com/news/chatgpt-chatbot-artificial-intelligence-job-replacement/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/chatgpt-chatbot-artificial-intelligence-job-replacement/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/chatgpt-chatbot-artificial-intelligence-job-replacement/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 57
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/22/3e5ebe21-b2cc-4692-9e99-9c37fff7be78/thumbnail/1200x630/def6aa3c6cd71698b2fd33d66abd4116/gettyimages-1246453874.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Worried ChatGPT will steal your job? You’ll have to out-think artificial intelligence"
     excerpt: "Does ChatGPT really come across as human? If it can do Task X, could it also do Task Y? And, perhaps most importantly: How frightened should I be of this thing taking my job? Such questions can be amusing and addictive,"
@@ -406,6 +427,6 @@ related:
       domain: benzinga.com
     quality: 12
 
-secured: "XairybA0zpU27eHIldzHmYwWCTj6eWyO6F38LxGy9UFTywKGmfusig7WXOLLDEH6teb4twiXcLo7DVbxsbAzwwbu4X3xRC5vVKRov7Isd+LGvqmjRIKnp9e0kv2R3kkOcRXc1/rX/4nI/YhAy2cQ11oz7Z31XEblZ1mOyGLl611wMuO1oW5wnHajLX7oN3tUZHFSk8uYfERTe6qTFCgCxANNFljoJ/b9tWJBoBFZiWuQvXfx2imypgScvAL52rMrscDfkZRQG6EThD+/Pay+brCbevlbQ+ikQm9Q9m7iGSsors87VWbwPjuJ/TIyudBuRU4V6qr50q4BA7gJAZ7tIkDHdHT8qeqJ0E6FuzYvWns=;5Lh5jUjlIKwPPnTVS5BNqw=="
+secured: "GPXqAr3mK9/oUGwWL740eNDF3+XDQyzpdpoDfROJoyY7DzpnY7fGeS6w9eWFxVumNzS58UfDVEus3DOB3xfTGUCF+BEKZpanVzTpOURAngPB1YxL3jU4k9wuTzXVXNTCiayW+N1UG5/M7zvSvJKpYSrgrdbKn1NQrAoGu32iM87V9QfZ3Cfs7YRnE+dHSyQK5wth/l6LdYesscYr3vQXKDwM26/EHG+z0ut4ZWu6VPRFM0Z0Io3jZj4/sEgPu7sOzZJZhe60C7DbqqE19vdkucv69uRFJrH1nY+PWLLWJmvA+wn5y6Ari5D+5lMPre0lt67ODyYyqqCDN98VJW/1RhBUj6Sd+srSMLVw8jmExN++GKpDeux2xgHD/75BS2gwna5uSMDIMlweDKkd6UkwDe6fHIQ/yXQwH+ioKnhB4L/iKj1W1LrnT5IpKKsGf8citcw29kCH9D3a6aE50Yqbi6Bx58x1yau5yBQuZl3lG/UiQ5EYSr89hAzx/xBMjlBvGYxze1ZN+0H5LUDXwfVDDw==;WqID/oiFotaX36gnVZGO4Q=="
 ---
 

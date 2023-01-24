@@ -2,6 +2,143 @@
   "page": 115,
   "value": [
     {
+      "path": "_news/2022-10-10-the-four-pillars-to-ai-innovation-how-businesses-can-jumpstart-the-ai-journey.md",
+      "title": "The Four Pillars To AI Innovation: How Businesses Can Jumpstart The AI Journey",
+      "excerpt": "AI solution providers can work with enterprises on these obstacles by keeping these four pillars in mind: creating a center of excellence and a collaborative AI team, prioritizing data modernization,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/the-four-pillars-to-ai-innovation-how-businesses-can-jumpstart-the-ai-journey/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/the-four-pillars-to-ai-innovation-how-businesses-can-jumpstart-the-ai-journey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634040e8cee09e33ac752e80/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/the-four-pillars-to-ai-innovation-how-businesses-can-jumpstart-the-ai-journey/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/10/the-four-pillars-to-ai-innovation-how-businesses-can-jumpstart-the-ai-journey/amp/",
+      "publishedDateTime": "2022-10-10T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-ratio-shift-of-protein-in-brain-cells-causes-changes-underlying-early-cognitive-decline.md",
+      "title": "Ratio shift of protein in brain cells causes changes underlying early cognitive decline",
+      "excerpt": "Early cognitive decline may result from a shift in the ratio of a protein sub-type in our brain cells triggering cell-loss. This new study, published in Scientific Reports, shows how this might be ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-10-ratio-shift-protein-brain-cells.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-ratio-shift-protein-brain-cells.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ratio-shift-of-protein-1.jpg",
+          "width": 1444,
+          "height": 1124,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-10-ratio-shift-protein-brain-cells.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ratio-shift-protein-brain-cells.amp",
+      "publishedDateTime": "2022-10-10T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-research.md",
+      "title": "NEC Selects Supermicro GPU Systems for One of Japan's Largest Supercomputers for Advanced AI Research",
+      "excerpt": "\"Supermicro GPU servers have been installed at NEC Corporation and are used to conduct state-of-the-art AI research. Our servers are designed for the most demanding AI workloads using the highest ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29201236/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-resear",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29201236/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-resear",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg",
+          "width": 400,
+          "height": 206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29201236",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29201236",
+      "publishedDateTime": "2022-10-10T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-10-ai-in-fintech-market-to-eyewitness-massive-growth-by-2030-amazon-web-services-inc-complyadvantage-google-llc.md",
       "title": "AI in fintech Market to Eyewitness Massive Growth by 2030 | Amazon Web Services, Inc., ComplyAdvantage, Google LLC",
       "excerpt": "The research serves as a manual and road map for doing an exhaustive investigation of the worldwide AI in fintech, target market, rivalry, and other factors. The AI in fintech market offers a quantitative analysis of the relevant industry.",
@@ -1031,135 +1168,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-09-pixel-7-pro-cameras-ai-and-zoom-could-make-you-rethink-that-iphone.md",
-      "title": "Pixel 7 Pro Cameras' AI and Zoom Could Make You Rethink That iPhone",
-      "excerpt": "Exclusive: New camera hardware and the Tensor G2 AI brain in Google's $899 phone help you zoom, focus, unblur faces and shoot in the dark.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/pixel-7-pro-cameras-ai-and-zoom-could-make-you-rethink-that-iphone/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/pixel-7-pro-cameras-ai-and-zoom-could-make-you-rethink-that-iphone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/2b56bc33224279670d5e1671c88881442bb892df/hub/2022/10/05/08e8679f-14b3-406c-b6e0-163c409e846e/google-pixel-7-pro-hazel-close-up.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/pixel-7-pro-cameras-ai-and-zoom-could-make-you-rethink-that-iphone/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/pixel-7-pro-cameras-ai-and-zoom-could-make-you-rethink-that-iphone/",
-      "publishedDateTime": "2022-10-09T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-09-see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show.md",
-      "title": "See Dubai’s driverless Cruise car for the first time at GITEX 2022 show",
-      "excerpt": "Dubai: Dubai’s Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 42nd edition of GITEX 2022, which starts tomorrow,",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/uae/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594",
-      "originalUrl": "https://gulfnews.com/uae/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-09T01:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-09-tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks.md",
-      "title": "Tesla robot walks, waves, but doesn’t show off complex tasks",
-      "excerpt": "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned and waved to a cheering crowd at the company’s artificial intelligence event",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
-      "originalUrl": "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/10/TDP-Z-NPWZX6YZ-01.jpg?w=1024&h=605",
-          "width": 1024,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/",
-      "publishedDateTime": "2022-10-08T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

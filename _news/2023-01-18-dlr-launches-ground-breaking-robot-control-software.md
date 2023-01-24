@@ -1,20 +1,20 @@
 ---
 category: news
 title: "DLR Launches Ground-breaking Robot Control Software"
-excerpt: "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for the first time at DLR's CES booth in Las Vegas last week- allows users to teach robots tasks in the most natural and intuitive way possible - by simply demonstrating the task."
-publishedDateTime: 2023-01-17T19:43:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/01/17/9744604.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/01/17/9744604.htm"
+excerpt: "BINYAMINA, Israel, Jan. 17, 2023 /PRNewswire/ -- Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control ..."
+publishedDateTime: 2023-01-17T19:53:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30449359/dlr-launches-ground-breaking-robot-control-software"
+webUrl: "https://www.benzinga.com/pressreleases/23/01/n30449359/dlr-launches-ground-breaking-robot-control-software"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "wE+HAb89ViBeOatGYkWrXUY/otILUz+o65dBuekhVOO2Ii2AhwvWhm/3dPsnJc5xrZCIYdn9Fx1ukHqbko4qMnxS725QdFXm2ltqeQaD7ulfvpswq2trvO+DwjYnpSh/C9Ryuerdg89tONOKpURg94sTwcAwZjoaJ++LT6lA5iY1kojS3gISi18UxSeMhj3DAK2xV90OqweR2gcA8a4kJnZeGl1lpkbBIZgT/kAVSKy1WGez2gLv4K6GXNnEXyOgGPpz62S7v37iPt1RQKWRrVpsapQoc4v6DOSWaDaSr7xt+cmxyFKUJAHqNMjGhRaHd7H+yJnICwYY91UsL3xmf8qaYxoX+5eiAb6r19yZtgs=;Uwy7TlXBiQJpZlRFKkDgMw=="
+secured: "HyWlGTwTaECwU7h/UItuYPxRIfSpQNQ+/XJGoAqpqR9XEmyIUNxC9WPZluXW+P117V3z5AWDkML3a1Ubi5pBQVUUZbplffd3Aacw6Wn3UbbQiTJKDHfq6Oa28dC3ssTxA+b5Yw6GzR6MDvJLw6uaARbF2Rg3S6P18mfI2IqJDFhatCQTqnXUN8r7DYOIe//+H0PFsjA39iqYrJMwMQ4dW1LicWPCbJVCZfhGgHk5Fo4ASW0AVu/TGptr4KMDaASxujw2FdpqndF4MW4iBdlyOIE1OKFB9U/ZLeDWlwe0PO9GIM8Q9OYvis279CLhqhl/+axgSokhMW3FRkvQQSDF8Nm3Oaewx3lYlcHIN0gGeUk=;zOtH//8J3whuxCwra5ZYkA=="
 ---
 

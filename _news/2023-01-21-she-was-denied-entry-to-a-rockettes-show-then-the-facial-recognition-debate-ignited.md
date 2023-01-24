@@ -1,29 +1,27 @@
 ---
 category: news
 title: "She was denied entry to a Rockettes show — then the facial recognition debate ignited"
-excerpt: "They told her their facial recognition system already knew who she was, and more importantly, where she worked, Conlon told The New York Times. The issue was her law firm was involved in ..."
-publishedDateTime: 2023-01-21T12:04:00Z
-originalUrl: "https://www.wshu.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
-webUrl: "https://www.wshu.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
-ampWebUrl: "https://www.wshu.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited?_amp=true"
-cdnAmpWebUrl: "https://www-wshu-org.cdn.ampproject.org/c/s/www.wshu.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited?_amp=true"
+excerpt: "When a lawyer was denied entry to a Rockettes show, it became a flashpoint in the debate over facial recognition technology. Does it keep people... One evening in late November, New Jersey ..."
+publishedDateTime: 2023-01-21T12:03:00Z
+originalUrl: "https://www.northcountrypublicradio.org/news/npr/1150289272/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
+webUrl: "https://www.northcountrypublicradio.org/news/npr/1150289272/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
 type: article
-quality: 52
-heat: 62
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: WSHU news
-  domain: wshu.org
+  name: Northcountrypublicradio.org
+  domain: northcountrypublicradio.org
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/562e9cc/2147483647/strip/true/crop/5196x3200+247+0/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F20%2Fjesse-zhang-face-ai-final_custom-20c61e8560ae339ccf6c0ef0ae5b2734e6a0a10f.jpg"
-    width: 880
-    height: 542
+  - url: "https://media.npr.org/assets/img/2023/01/20/jesse-zhang-face-ai-final-369816e8b5ed55bbba513f965630976c384028ca.jpg?s=6"
+    width: 948
+    height: 709
     isCached: true
 
 related:
@@ -37,6 +35,6 @@ related:
       domain: usf.edu
     quality: 12
 
-secured: "MwE207xaQ3hQ37LXR/4yz5Hs52tTHnDdz5BXrJ1QR4Cb4t7Ti2J3MIYIv2P9/UECnHSmQ7fVfanUuSaLjRcDxtCtLn+BAu+Cwjmw7/WMlDwO2ZMS8vcOVS0f9uLXqpqUGXX/bU3Q6si9CWzguQyUKBU8ITs1Q5mtqV16anTdy0AcraY/ANlvA2gghPUfeFowvxuJRgcKzlo537qTHs1BCZvKS6DJBU4T2+q6Zzlwyeg/xhecpXIXOSsYcJQJaB2xKgfMBpBOe+RBccC3mHe/h3/BUdlqK8PmTkCOxc0mKY1FXc1ezB0QGNhwdgk0ijwXEgGyca/gIpcKMQA89JzaSYz7uKZz9nm9uVhUyE6JZ5w=;kiXmMOZkuTNaGjJ8qVrUmg=="
+secured: "RbgV7NvQkqpR1Y+qzYLxWxoZtijWXKhvnuI54SknjeA/8N/pSzSUZMtUOlHr0JPBnqZApsclfnAhMyT5IH2nwLQR++TgQcqBpUBXmk5WIsE5VmqBhhBlT1sbxy48sorkVfDSHuWms8ISAqlmwedY6C4yz0Yd3Wj2yGkzObj9SIYVhtBt8/R+EMdXeXBWD0sbPtRLHLwP7GEhHv1PzvNFxEdtlYWPM6sVrdepIIoDFkzk6oV0hIKbuhdyElgHhdkFOIbvUyDp7Q23G8TmDvyk6OExkzhloFPWRW9+k7JSHNyA6OUkqNjO6wbgTriEVWeezpHEsZL+ouA3od5gc2zIlyEr/j5KhMisbZ0/iLx+cX8=;rJZ2Fro8eTWBx1hrf/mb9g=="
 ---
 

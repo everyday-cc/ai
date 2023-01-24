@@ -2,6 +2,143 @@
   "page": 121,
   "value": [
     {
+      "path": "_news/2022-10-04-biden-proposes-new-bill-of-rights-to-protect-americans-from-ai-snooping.md",
+      "title": "Biden proposes new “Bill of Rights” to protect Americans from AI snooping",
+      "excerpt": "It touches on concerns about bias in AI systems, AI-based surveillance, unfair health care or insurance decisions, data security—and much more—in the context of American civil liberties, criminal justice,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/10/biden-proposes-new-bill-of-rights-to-protect-americans-from-ai-snooping/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/10/biden-proposes-new-bill-of-rights-to-protect-americans-from-ai-snooping/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/ai_whitehouse_hero_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-meta-launches-ai-software-tools-to-ease-switching-between-nvidia-amd-chips.md",
+      "title": "Meta launches AI software tools to ease switching between Nvidia, AMD chips",
+      "excerpt": "REUTERS/Benoit Tessier Oct 3 (Reuters) - Facebook parent Meta Platforms Inc (META.O) said on Monday it has launched a new set of free software tools for artificial intelligence applications that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/meta-launches-ai-software-tools-help-speed-up-work-blog-2022-10-03/",
+      "originalUrl": "https://www.reuters.com/technology/meta-launches-ai-software-tools-help-speed-up-work-blog-2022-10-03/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-artificial-intelligence-used-to-better-monitor-maines-forests.md",
+      "title": "Artificial intelligence used to better monitor Maine's forests",
+      "excerpt": "Monitoring and measuring forest ecosystems are complex challenges because software, collection systems and computing environments require increasing amounts of energy. Now, the University of Maine's Wireless Sensor Networks laboratory,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-10-artificial-intelligence-maine-forests.html",
+      "originalUrl": "https://phys.org/news/2022-10-artificial-intelligence-maine-forests.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/maine-forest.jpg",
+          "width": 1800,
+          "height": 1362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-10-artificial-intelligence-maine-forests.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-artificial-intelligence-maine-forests.amp",
+      "publishedDateTime": "2022-10-04T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate.md",
       "title": "Meta seeks to accelerate AI inference with open-source AITemplate",
       "excerpt": "Meta is open sourcing its AITemplate technology that enables AI inference to run across multiple hardware vendors, with the claim of better performance.",
@@ -989,144 +1126,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-ferrari-ceo-says-there-will-never-be-a-self-driving-ferrari.md",
-      "title": "Ferrari CEO Says There Will Never Be a Self-Driving Ferrari",
-      "excerpt": "gave an interesting response when asked by reporters whether we'd ever see a fully self-driving Ferrari. From Bloomberg: The Italian company recently hosted a couple of artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.esquire.com/lifestyle/cars/a41502540/ferrari-ceo-says-no-self-driving-ferrari/",
-      "originalUrl": "https://www.esquire.com/lifestyle/cars/a41502540/ferrari-ceo-says-no-self-driving-ferrari/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod/images/lor5763-1625593683.jpg?crop=1.00xw:0.753xh;0,0.181xh&resize=1200:*",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T18:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Esquire",
-        "domain": "esquire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-self-driving-cars-keep-causing-traffic-jams-in-san-francisco.md",
-      "title": "Self-driving cars keep causing traffic jams in San Francisco",
-      "excerpt": "San Francisco local Emma Becerra happened to catch the incident, and shared pictures of the emperiled vehicle on Twitter. Becerra also provided additional images, showing a worker",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/self-driving-car-blocks-traffic/?view=login",
-      "originalUrl": "https://www.popsci.com/technology/self-driving-car-blocks-traffic/?view=login",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2022/10/03/cruise-self-driving-car-traffic-jam.jpg?auto=webp",
-          "width": 2000,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/self-driving-car-blocks-traffic/?view=login&amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/self-driving-car-blocks-traffic/?view=login&amp",
-      "publishedDateTime": "2022-10-03T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-advances-in-computer-vision-propel-transportation-autonomy.md",
-      "title": "Advances In Computer Vision Propel Transportation Autonomy",
-      "excerpt": "Autonomous self-driving car is recognizing road signs. Computer vision and artificial intelligence ... [+] concept. Vision is a powerful human sensory input. It enables complex tasks and processes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/",
-      "originalUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6331c112fe78f82ae6dd5384/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/amp/",
-      "publishedDateTime": "2022-10-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

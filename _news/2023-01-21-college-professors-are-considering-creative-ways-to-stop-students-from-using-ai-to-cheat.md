@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-chatgpt-college-professors-studen
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-chatgpt-college-professors-students-cheating-2023-1?amp"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 712
         height: 400
         isCached: true
-  - title: "Educators worry about students using artificial intelligence to cheat"
-    excerpt: "New York City public schools blocked access to the popular artificial intelligence tool ChatGPT. Educators are concerned that students could use this technology to write papers – the tool wasn’t even a month old when a college professor in South Carolina caught a student using it to write an essay in philosophy class."
-    publishedDateTime: 2023-01-23T17:25:00Z
-    webUrl: "https://www.pbs.org/newshour/classroom/2023/01/educators-worry-about-students-using-artificial-intelligence-to-cheat/"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 19
 
 secured: "6nedpXjbmSKlLDVRb0Dipr/pdup4KELX5Sqt6DkT1pdBYDJpRgIIrZu2h7LRV8QbUljyaXGAPmL2YupkYYotRdT9ENndQrPTlR2CpjwFE6igeXP4RegnGnJTf9n4OImXVTl4kRphPhF1s+lPKHtHSEsjxq77g1uIw2no0fjDY0/H/UNU7HZW3qLcsya+r+ZMBXSTeNq0eeLo1Q1KWZH4s0I1+SMZ6v7txVayiqOQeqJ7kpsYqFd//5oKY+e4Kw4AzJ9YTCbS3VygndfV2A15SUN29oV2nm1ACXu6mi98ITizvbaBD6NI4tVTzRPpzIpn77LLenbcilmdRaY4uio3OaiCnxILumLTyjXze92rTMQOf3O78U7URzqm73ROaRZOKVBHzKOCh1fFnPxIF0Pen4z01eabCd8KQ6ZWRDuZ92JkLrpkuTVjqP9SnnKVjihbncmFeJZkoaOOhWdyC2/pejAJ+A4eLVvmkgqVJXBozDXYwqevJLkZG8IjzhWGJ2YyAT3K/hCBHip73Vhx0Seh1w==;joCPs+WftbLO9Z5kbOddGQ=="
 ---

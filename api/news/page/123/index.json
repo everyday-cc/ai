@@ -2,6 +2,146 @@
   "page": 123,
   "value": [
     {
+      "path": "_news/2022-10-03-how-will-openais-whisper-model-impact-ai-applications.md",
+      "title": "How will OpenAI’s Whisper model impact AI applications?",
+      "excerpt": "OpenAI's Whisper is a deep learning model that shows promise in transcribing audio in several languages. It's also a nod to open source.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-will-openais-whisper-model-impact-ai-applications/",
+      "originalUrl": "https://venturebeat.com/ai/how-will-openais-whisper-model-impact-ai-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1226941220_multilingual_computer-e1657589130957.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-will-openais-whisper-model-impact-ai-applications/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-will-openais-whisper-model-impact-ai-applications/amp/",
+      "publishedDateTime": "2022-10-03T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-three-reasons-why-artificial-intelligence-wins-with-specialization.md",
+      "title": "Three Reasons Why Artificial Intelligence Wins With Specialization",
+      "excerpt": "When I began learning about artificial intelligence (AI) and machine learning (ML), it was from the perspective of trying to help very smart people do challenging tasks. This is opposed to learning about an AI algorithm and trying to see how far I could push it for the sake of science (which has its own merits) and then searching for an application in the real world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/626946974c931989078c7b6c/0x0.jpg?format=jpg&crop=1497,842,x0,y214,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/amp/",
+      "publishedDateTime": "2022-10-03T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-cognitive-media-solutions-market-size-to-grow-by-usd-449-bn-digital-transformation-in-industries-to-drive-growth-technavio.md",
+      "title": "Cognitive Media Solutions Market Size to Grow by USD 4.49 Bn, Digital Transformation in Industries to Drive Growth - Technavio",
+      "excerpt": "The Cognitive Media Solutions Market size is anticipated to grow by USD 4.49 billion. However, the growth momentum is expected to decelerate at a CAGR of 27.14% during the forecast",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29113313/cognitive-media-solutions-market-size-to-grow-by-usd-4-49-bn-digital-transformation-in-industries-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29113313/cognitive-media-solutions-market-size-to-grow-by-usd-4-49-bn-digital-transformation-in-industries-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29113313",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29113313",
+      "publishedDateTime": "2022-10-03T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-03-advancing-anomaly-detection-with-aiopsintroducing-aidice.md",
       "title": "Advancing anomaly detection with AIOps—introducing AiDice",
       "excerpt": "We introduce AiDice, a novel anomaly detection algorithm developed jointly by Microsoft Research and Microsoft Azure that identifies anomalies in large-scale, multi-dimensional time series data. AiDice captures incidents quickly and provides engineers with important context that helps them diagnose issues",
@@ -999,154 +1139,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-google-pixel-7-and-pro-might-support-secure-face-unlock.md",
-      "title": "Google Pixel 7 and Pro might support secure Face Unlock",
-      "excerpt": "Reports in April hinted that Google is working on face recognition support for its Pixel phones despite ditching its Face ID-like technology. Google introduced its version of 3D face recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/tech/google-pixel-7-and-pro-might-support-secure-face-unlock/",
-      "originalUrl": "https://bgr.com/tech/google-pixel-7-and-pro-might-support-secure-face-unlock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2022/05/Pixel-7-and-Pixel-7-Pro.jpg?quality=82&strip=all",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/tech/google-pixel-7-and-pro-might-support-secure-face-unlock/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/google-pixel-7-and-pro-might-support-secure-face-unlock/amp/",
-      "publishedDateTime": "2022-09-30T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-celebrate-over-20-years-of-aiml-at-innovation-day.md",
-      "title": "Celebrate over 20 years of AI/ML at Innovation Day",
-      "excerpt": "Be our guest as we celebrate 20 years of AI/ML innovation on October 25, 2022, 9:00 AM – 10:30 AM PT. &nbsp;The first 1,500 people to register will receive $50 of AWS credits. Register here. Over the past 20 years, Amazon has delivered many world firsts for artificial intelligence (AI) and machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/celebrate-over-20-years-of-ai-ml-at-innovation-day/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/celebrate-over-20-years-of-ai-ml-at-innovation-day/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/30/celebrate-ai-ml-innovation.jpg",
-          "width": 1533,
-          "height": 764,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T16:23:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-putins-satanism-speech-compared-to-rhetoric-from-maga-republicans.md",
-      "title": "Putin's 'Satanism' Speech Compared to Rhetoric From MAGA Republicans",
-      "excerpt": "Russian President Vladimir Putin accused the West of \"Satanism\" and bemoaned that \"there are supposedly genders besides women and men\" on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094",
-      "originalUrl": "https://www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2126488/vladmir-putin-satanism-republicans-maga-trump-rhetoric.jpg",
-          "width": 1939,
-          "height": 1342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094?amp=1",
-      "publishedDateTime": "2022-09-30T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

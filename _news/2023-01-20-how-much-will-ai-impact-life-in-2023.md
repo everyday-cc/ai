@@ -9,7 +9,7 @@ ampWebUrl: "https://www.consumeraffairs.com/amp/news/how-much-will-ai-impact-lif
 cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/how-much-will-ai-impact-life-in-2023-012023.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/01/uuuuuuuuuuuuuuuuuuuuuuu.png"
         width: 671
         height: 418
+        isCached: true
+  - title: "How AI will impact the future of work and life"
+    excerpt: "Artificial Intelligence (AI) is rapidly becoming one of the most important and rapidly-evolving technologies of our time. With advancements in machine learning, natural language processing, and computer vision,"
+    publishedDateTime: 2023-01-24T11:42:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/shikshacoach/how-ai-will-impact-the-future-of-work-and-life-49577/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
         isCached: true
   - title: "What’s in store for FinTech in 2023?"
     excerpt: "Russia’s illegal invasion of Ukraine and its impact on inflation, to the continued ripple effects of Brexit and changing consumer habits."

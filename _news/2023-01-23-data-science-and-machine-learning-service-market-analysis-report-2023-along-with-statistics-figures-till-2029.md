@@ -262,6 +262,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "RegTech Global Market Report 2023: Introduction Of Artificial Intelligence to Reshape Sector - ResearchAndMarkets.com"
+    excerpt: "The global RegTech market reached a value of nearly $9,692.2 million in 2021, having increased at a compound annual growth rate (CAGR) of 21.0% since 2016. The market is expected to grow from $9,692.2 million in 2021 to $22,"
+    publishedDateTime: 2023-01-24T11:36:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/24/9747825.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "214bjyFTKbFY6EubrD30oF3c4O1IxPeTKpDONgUkSo4HptKntE/QoM34tbx0kGpSj3JFWqcpOHUMlB5LT1Iqe0YXgX9oNhaogOXrgeVKt1cFTXdhaERyEJpmuwzsEeVxIFvVYqhmhyK/yHjnYPBhN81Z1b+oTZz5PKTnXa2mZrUYMuErKLaj3vM6hHeRWo0ycCtLrsQtUg5k/KibQrZi8hEAH7Fxqr051/xp1bTKFmHGojCQUigTjPorfQBOjV8R8Mp8SXxVxfg9YS+WghB98M00UwOyBUqbSIzpsKbb4doRL63gVfOWKpnnrNqTFhu4R1u77MTmE051q04OTYbBKen4Iu+EF5VyyZxkWPZGDVw=;b/AsEKuI1jfFSvOJfiWk7w=="
 ---

@@ -2,6 +2,162 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2022-12-03-nvidia-and-amd-gpu-prices-could-skyrocket-again-in-2023-heres-why.md",
+      "title": "Nvidia and AMD GPU prices could skyrocket again in 2023. Here’s why",
+      "excerpt": "That could hurt badly, especially since, after several years of rapidly increasing GPU prices and limited availability, graphics cards supplies have somewhat stabilized, along with prices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/nvidia-amd-gpu-prices-could-skyrocket-in-2023/",
+      "originalUrl": "https://www.digitaltrends.com/computing/nvidia-amd-gpu-prices-could-skyrocket-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2021/08/best-1080p-gpu-featured.jpg?p=1",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/nvidia-amd-gpu-prices-could-skyrocket-in-2023/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/nvidia-amd-gpu-prices-could-skyrocket-in-2023/?amp",
+      "publishedDateTime": "2022-12-02T15:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-03-apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix.md",
+      "title": "Apple slices its AI image synthesis times in half with new Stable Diffusion fix",
+      "excerpt": "On Wednesday, Apple released optimizations that allow the Stable Diffusion AI image generator to run on Apple Silicon ... SD optimizations can generate a 512×512 50-step image on an M1 chip in 35 seconds. An M2 does the task in 23 seconds, and Apple's ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/12/apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/12/apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/apple_stable_diffusion_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/12/apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix/amp/",
+      "publishedDateTime": "2022-12-02T14:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-03-how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent.md",
+      "title": "How BMW Group has embraced AI for positive use cases and to improve sustainability | AWS re:Invent",
+      "excerpt": "Among the most exciting use cases is for fully autonomous vehicles, but that’s not the only area where AI is having an impact. For example, Microsoft and Mercedes-Benz are working together to improve automobile production efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/",
+      "originalUrl": "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/VB_BMW_AWS_reinvent_120223.png?w=1200&strip=all",
+          "width": 837,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/amp/",
+      "publishedDateTime": "2022-12-02T14:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-03-ai-art-generator-dreamup-illustrates-the-collision-between-artistic-consent-and-ai-datasets.md",
       "title": "AI art generator DreamUp illustrates the collision between artistic consent and AI datasets",
       "excerpt": "Should it be an issue that countless data points of artwork are used to train AI that spits out art in under a minute?",
@@ -1023,144 +1179,6 @@
         "AI",
         "AI Ethics",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-top-10-chinese-ai-chip-companies-in-2022.md",
-      "title": "Top 10 Chinese AI chip companies in 2022",
-      "excerpt": "MediaTek Inc grabbed second spot on this year's ranking of top 50 Chinese AI chip companies, followed by Horizon Robotics. Let's take a look at the top 10 Chinese AI chip companies in 2022. Copyright 1995 - 2022 .",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202212/02/WS63892d40a31057c47eba233a.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202212/02/WS63892d40a31057c47eba233a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202212/02/638938f0a31057c4b4b0cb36.jpeg",
-          "width": 698,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-02T01:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-pci-sig-calls-out-gpu-chipmakers-over-flaming-plugs.md",
-      "title": "PCI-SIG calls out GPU chipmakers over flaming plugs",
-      "excerpt": "The Peripheral Component Interconnect Special Interest Group [PCI-SIG] has waded into companies like Nvidia for peddling products with the 16-pin 12VHPWR power connector, such as Nvidia's GeForce ...",
-      "sourceUrl": null,
-      "webUrl": "https://fudzilla.com/news/pc-hardware/55930-pci-sig-calls-out-gpu-chipmakers-over-flaming-plugs",
-      "originalUrl": "https://fudzilla.com/news/pc-hardware/55930-pci-sig-calls-out-gpu-chipmakers-over-flaming-plugs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fudzilla.com/media/k2/items/cache/e5300ed26fcded86cbf7f1cdf1b5a5ce_L.jpg",
-          "width": 620,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-02T01:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-artificial-intelligence-robots-market-share-projections-future-opportunities-recorded-for-the-period-until-2022-2030.md",
-      "title": "Artificial Intelligence Robots Market Share, Projections & Future Opportunities Recorded For The Period Until 2022-2030",
-      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-share-projections-future-opportunities-recorded-for-the-period-until-2022-2030-2022-12-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-share-projections-future-opportunities-recorded-for-the-period-until-2022-2030-2022-12-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-02T01:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

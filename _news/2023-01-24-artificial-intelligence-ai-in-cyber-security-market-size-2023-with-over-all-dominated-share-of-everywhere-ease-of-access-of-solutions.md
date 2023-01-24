@@ -86,15 +86,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global (AI) Artificial Intelligence in Precision Medicine Market"
-    excerpt: "According to the research report, the global (AI) artificial intelligence in precision medicine market size & share was valued at USD 1.26 Billion in 2022 and is expected to reach USD 26.24 Billion by 2032,"
-    publishedDateTime: 2023-01-20T14:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-ai-artificial-intelligence-precision-medicine-market-size-/2023/01/20/9746711.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "Legal Tech Artificial Intelligence Market Analysis Report 2023 Along with Statistics Figures, till 2029"
     excerpt: "As per Market Growth Report, “The Legal Tech Artificial Intelligence market has witnessed growth from USD million to"
     publishedDateTime: 2023-01-20T17:16:00Z

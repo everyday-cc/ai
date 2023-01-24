@@ -2,6 +2,145 @@
   "page": 135,
   "value": [
     {
+      "path": "_news/2022-09-21-amazon-comprehend-targeted-sentiment-adds-synchronous-support.md",
+      "title": "Amazon Comprehend Targeted Sentiment adds synchronous support",
+      "excerpt": "Earlier this year, Amazon Comprehend, a natural language processing (NLP) service that uses machine learning (ML) to discover insights from text, launched the Targeted Sentiment feature. With Targeted Sentiment, you can identify groups of mentions (co-reference groups) corresponding to a single real-world",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-targeted-sentiment-adds-synchronous-support/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-targeted-sentiment-adds-synchronous-support/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/21/comprehend-targeted-sentiment-synchronous.jpg",
+          "width": 1533,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T14:27:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-nvidia-gives-updates-on-new-gpu-technologies-at-gtc-conference.md",
+      "title": "NVIDIA gives updates on new GPU technologies at GTC conference",
+      "excerpt": "It announced the GeForce RTX 40 Series GPUs, which are powered by the company’s new Ada Lovelace architecture.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/nvidia-gives-updates-on-new-gpu-technologies-at-gtc-conference/",
+      "originalUrl": "https://sdtimes.com/ai/nvidia-gives-updates-on-new-gpu-technologies-at-gtc-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2022/09/gtc22-fall-web-keynote-blog-image-jhh-rtx4090-1280x680-r2-1.jpg",
+          "width": 1280,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion.md",
+      "title": "Sopra Steria and Algoan Strengthen Their Partnership to Accelerate Financial Inclusion",
+      "excerpt": "Sopra Steria, via Sopra Steria Ventures, has invested in Algoan, the leading French fintech in API-based credit scoring. Sopra Banking Software (SBS), a key technology partner to more than 1,500 financial institutions worldwide,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion/article_ca936379-bf3b-5884-a8d3-a28733d33f12.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion/article_ca936379-bf3b-5884-a8d3-a28733d33f12.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-responsible-ai-is-a-top-management-concern-so-why-arent-organizations-deploying-it.md",
       "title": "Responsible AI is a top management concern, so why aren’t organizations deploying it?",
       "excerpt": "Factors working against the adoption of responsible AI include a lack of agreement on what 'responsible AI' means along with a lack of talent, prioritization, and funding.",
@@ -1073,144 +1212,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-the-role-of-explainable-ai-in-increasing-inclusion-in-talent.md",
-      "title": "The Role Of Explainable AI In Increasing Inclusion In Talent",
-      "excerpt": "Abakar Saidov is co-founder and CEO of Beamery, a leader in talent lifecycle management. In the wake of the \" Great Reshuffle ,\" companies continue to reevaluate their approach to recruitment and retention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/21/the-role-of-explainable-ai-in-increasing-inclusion-in-talent/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/21/the-role-of-explainable-ai-in-increasing-inclusion-in-talent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6329b997b369a03f8d7b42bf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/21/the-role-of-explainable-ai-in-increasing-inclusion-in-talent/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/21/the-role-of-explainable-ai-in-increasing-inclusion-in-talent/amp/",
-      "publishedDateTime": "2022-09-21T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority.md",
-      "title": "UNESCO urges government to consider ethics of AI in education as an absolute priority",
-      "excerpt": "The report analysed that the AI market in India has the potential to touch INR 780 crores by 2025 at a compound annual growth rate (CAGR) of 20.2% A report by the United Nations Educational, Scientific and Cultural Organisation (UNESCO) launched in Delhi on Tuesday encouraged an overall regulatory framework for use of artificial intelligence (AI) tools in education.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943",
-      "originalUrl": "https://www.telegraphindia.com/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2022/Sep/1663753381_unesco.png",
-          "width": 2560,
-          "height": 1907,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943",
-      "publishedDateTime": "2022-09-21T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence.md",
-      "title": "Dementia diagnosis could be fast-tracked using artificial intelligence",
-      "excerpt": "Dr Roman Bauer, senior author of the study from the University of Surrey, said: \"Our study shows that using artificial intelligence analysis of EEG data as a diagnostic tool to identify dementia could be life-changing for many people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence",
-      "originalUrl": "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.surrey.ac.uk/sites/default/files/styles/image_gallery/public/2022-09/GettyImages-1132352689.jpg?itok=slQvzZv_",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "University of Surrey",
-        "domain": "surrey.ac.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

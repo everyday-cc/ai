@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/fbi-chief-deeply-conce
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/fbi-chief-deeply-concerned-chinas-ai-program-96537139"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: ABC
@@ -40,15 +40,6 @@ related:
         width: 787
         height: 525
         isCached: true
-  - title: "FBI chief says he’s ‘deeply concerned’ by China’s artificial intelligence program"
-    excerpt: "FBI Director Christopher Wray said Thursday that he was “deeply concerned” about the Chinese government’s artificial intelligence program, asserting that it was “not constrained by the rule of law.”"
-    publishedDateTime: 2023-01-19T19:38:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/jan/19/fbi-chief-says-hes-deeply-concerned-by-chinas-arti/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 12
 
 secured: "ycDSaORp1y6/XcfIA32bNEWq3Lt2QBcF33LrVDoaGuj8tz2EGFn89tU0NvxdPMe4JCi9Q0AN6X6oHe+oFSNcGNmYIx/Ub0ofodvG5sOWNOZ4D9rtaegxbcoOrsAiQXIw1yqda/5X6Z0irp/DTQYUPogkOjxphXnWiASmYxEaAb6/ljdWI1jDoQsuntBPNuTaXnjKIsuFo3+VHZmqQD1LDbVPZnPoEFrnV7LfAIprUJcDoAQ6kRMo4xZ9ukikc6k619Fg1P3yYMyR1wc1aqqr5CP/lXz9AEqFIjzOmqyfmOpwZuo62oND6SEWXQb0/LENPn+N5x7RQMsqEgy2mSpbE/cn2vIGz0pA6AtioXxTGtjRhJsl02bBWgiU1NQqnlZCHalmpp1YVZJo1IJTKcg1ZZmMfdPGn/qiW/Si++HuPBXBVyAQRZI92gopiMoXtpNDlPaattNR/tCXddFrkwsOtWpYuvr0ybewZNU44flD9kxvEAJtrB2GByEXzyiUNYvaDa0STsYkf95AodMrYD6Hnw==;7JG/uZuzfr/+fjeQ6HJDuw=="
 ---

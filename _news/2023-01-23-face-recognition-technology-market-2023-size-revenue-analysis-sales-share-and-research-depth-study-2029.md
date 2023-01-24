@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/face-recognition-technol
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2029-2023-01-23"
 type: article
 quality: 68
-heat: 238
+heat: 248
 published: true
 
 provider:
@@ -263,6 +263,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "RegTech Global Market Report 2023: Introduction Of Artificial Intelligence to Reshape Sector - ResearchAndMarkets.com"
+    excerpt: "The global RegTech market reached a value of nearly $9,692.2 million in 2021, having increased at a compound annual growth rate (CAGR) of 21.0% since 2016. The market is expected to grow from $9,692.2 million in 2021 to $22,"
+    publishedDateTime: 2023-01-24T11:36:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/24/9747825.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "84hC+w99H367411UVHG3QjJu+wM8KIGNcSRV5ajBy67LlKbiXAMkF8umhjkqYm2iDYfcL0b5PnxAiEa/5NYCZDeHLRiuLmj16lVmJtYW1SIIwQORrsPLezEJpUcq8fM4fRsXc/o42oXiKFzbFkKhBplcbYrDRCVN4/qlpfYvhPCoHUADZ7acdjx+2SPdRfmwKFs6tLYLcNOHqb3x/tcmnUJRGoaThxbpUN22GKy2XKnfSsLt4sbBDjeo3kBie7juHYgyqMfUNvw0sycDrEPaMU2WSucPi2SJ2ZGgoGhd08rK2TbRJfEGf37OoJdmrPf6AygqM6l/dPJ36Yhu03dk5BnhjLx1WEt+2FNJ4l4FYdA=;adVmYUQfbqWiusm1DRY99Q=="
 ---

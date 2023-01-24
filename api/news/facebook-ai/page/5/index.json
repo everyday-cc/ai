@@ -2,6 +2,106 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-06-how-to-invest-in-artificial-intelligence.md",
+      "title": "How To Invest In Artificial Intelligence",
+      "excerpt": "We all see the power of artificial intelligence. As investors, we must consider the best way to get into AI so that we don’t get left behind. Here are 10 AI investments to consider right now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633e204571c3bea087209bbc/0x0.jpg?format=jpg&crop=1766,993,x0,y137,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-10-05T17:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics",
+        "Machine Learning",
+        "AWS AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-meta-made-dall-e-for-video-and-theres-no-way-this-ends-well.md",
+      "title": "Meta Made DALL-E for Video and There’s No Way This Ends Well",
+      "excerpt": "Now Meta (Facebook’s parent company ... a Superhero outfit with red cape flying through the sky. “Generative AI research is pushing creative expression forward by giving people tools to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailybeast.com/facebooks-parent-company-meta-unveils-make-a-video-an-ai-content-creator-like-dall-e-with-the-same-flaws",
+      "originalUrl": "https://www.thedailybeast.com/facebooks-parent-company-meta-unveils-make-a-video-an-ai-content-creator-like-dall-e-with-the-same-flaws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1664918545/100522-tran-meta-hero_ikuxsq",
+          "width": 1480,
+          "height": 832,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Beast",
+        "domain": "thedailybeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-haystacksai-successfully-completes-sfr-portfolio-trade-pilot.md",
       "title": "Haystacks.AI successfully completes SFR portfolio trade pilot",
       "excerpt": "Haystacks.AI, a property intelligence platform for investors, announced piloting its 1031 exchange solution to executive a SFR trade.",
@@ -1371,107 +1471,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-artist-ai-weiwei-warns-against-hubris-in-troublesome-times.md",
-      "title": "Artist Ai Weiwei warns against hubris in ‘troublesome’ times",
-      "excerpt": "VENICE, Italy (AP) — Chinese dissident and artist Ai Weiwei lampoons the surveillance state and social media with his first glass sculpture, made on the Venetian island of Murano. Titled “The ...",
-      "sourceUrl": null,
-      "webUrl": "https://localnews8.com/news/ap-national/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/",
-      "originalUrl": "https://localnews8.com/news/ap-national/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://localnews8.b-cdn.net/2020/12/US-World-logo-new_KIFIMIFI-860x484.jpg",
-          "width": 860,
-          "height": 484,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T15:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local News 8",
-        "domain": "localnews8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-10-years-later-deep-learning-revolution-rages-on-say-ai-pioneers-hinton-lecun-and-li.md",
-      "title": "10 years later, deep learning ‘revolution’ rages on, say AI pioneers Hinton, LeCun and Li",
-      "excerpt": "On the 10th anniversary of key research that led to deep learning breakthroughs, AI luminaries say the 'revolution' will continue.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/",
-      "originalUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1004013312.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/amp/",
-      "publishedDateTime": "2022-09-14T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI Ethics",
-        "Computer Vision",
-        "AI Hardware",
-        "Facebook AI"
       ]
     }
   ],

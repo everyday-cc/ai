@@ -24,33 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "8 Sci-Fi Games About Artificial Intelligence"
-    excerpt: "This applies to the development of artificial and virtual intelligence as well, something that Cyberpunk 2077 discusses in immense detail. AI gaining sentience is something that is discussed ..."
-    publishedDateTime: 2023-01-20T15:42:00Z
-    webUrl: "https://gamerant.com/sci-fi-games-artificial-intelligence/"
+  - title: "It’s not artificial intelligence but users of it who may take our jobs"
+    excerpt: "Much has been written about ChatGPT, but let me right away address the elephant in the room: Will ChatGPT take our jobs? Such questions over technology are not new; it bothered Ned Ludd in 1779 ..."
+    publishedDateTime: 2023-01-23T06:20:00Z
+    webUrl: "https://www.livemint.com/opinion/columns/its-not-artificial-intelligence-but-users-of-it-who-may-take-our-jobs-11674149794153.html"
+    ampWebUrl: "https://www.livemint.com/opinion/columns/its-not-artificial-intelligence-but-users-of-it-who-may-take-our-jobs/amp-11674149794153.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/its-not-artificial-intelligence-but-users-of-it-who-may-take-our-jobs/amp-11674149794153.html"
     type: article
     provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 39
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/collage-maker-13-jan-2023-07-57-am.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
-  - title: "An AI-Drawn Manga Is About to Make Its Debut"
-    excerpt: "With the new year upon us, it seems the budding controversy regarding AI art is only getting bigger. From harsh ethical debates to ownership issues, AI-generated art has prompted all sorts of ..."
-    publishedDateTime: 2023-01-19T22:44:00Z
-    webUrl: "https://comicbook.com/anime/news/manga-ai-art-controversy/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 39
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2023/01/19/2ee8976d-0873-4d65-9217-6da6cb2c561f/ai-manga-art.png?width=1200"
-        width: 888
-        height: 542
+      - url: "https://images.livemint.com/img/2023/01/19/600x338/AI_1674149900589_1674149900766_1674149900766.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "dKGOpy4URRX7S7ErdJK8Xl0ukb8r8UgwXL20oCOv0I0ao2mUQ4XG1l/fdTbmIbHKCbU33HEH5DYNSIb1C/CAvdC+nQTRITStHzq6etxcXJ6d79vbpXadYH+lrfhGPCptvw4QrjebmXI9NFtqq6oENXwLZFYtpkETUhOribOkwKRK9pCXh+0g26zJViNP4y0bW3SaRNe+mc7Mlo+Funy/1pSm3IlcjtJ80TLAQjey02nPi/E7F+gDQo1QI6jAUkuSSx0ebh/u2KjmmMMjVUQoJCuPdVdZqHJ0zxwOcIKMsreOXx2GWYoxXHWHMwRqmQHn3QD5VhX0dNbYrFggGDctewyDj44V5qz+esnX2Vc7/0w=;slmnLZWDkv53Q6SKKz3Ccw=="

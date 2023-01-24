@@ -55,6 +55,20 @@ related:
         width: 671
         height: 418
         isCached: true
+  - title: "How AI will impact the future of work and life"
+    excerpt: "Artificial Intelligence (AI) is rapidly becoming one of the most important and rapidly-evolving technologies of our time. With advancements in machine learning, natural language processing, and computer vision,"
+    publishedDateTime: 2023-01-24T11:42:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/shikshacoach/how-ai-will-impact-the-future-of-work-and-life-49577/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "Z1AXbk5HinCm2oe2VLK+0tnqLxeHMBY+FeBWvae3VhtoI9e7c8P2y+WehJMafk2u/NzzXaTLT/p34rX28Dp9SNoFhiUTLb7G3IrTz859zeBzVKl9uUXfoZ4+BOTR6ZRq1+dzClRiW78Q0KbKFCmVr0pUvhO12+OSlyccQwFQJA+x2r1kLHhiCGYHdGWYvlUBf0bBN9On/BHp4OIFAYzuO/pqjel3OZf42CVGrYJq653n9cAmbETYD/qAAoQPOIhReTUEnuL1q4GwpOhCiLt8jwTqfSImF/p8k1YPFdpu23UjFSMyIMWVQGt4kvprcQvBivNYQlk7JJCX9mbBjfzJYToe4dlsSJu21rirW6ueC5Y=;vkRS0e2QsCW3kbboK5jytg=="
 ---

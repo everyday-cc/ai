@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/jim-keller-becomes-ceo-
 webUrl: "https://www.datacenterdynamics.com/en/news/jim-keller-becomes-ceo-of-ai-chip-company-tenstorrent/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 853
     height: 449
     isCached: true
+
+related:
+  - title: "Google's director of strategic alliances Keith Witek joins AI chip company Tenstorrent"
+    excerpt: "Artificial intelligence chip company Tenstorrent has hired Keith Witek as its chief operating officer. Witek was previously the director of strategic relationships and deals at Google. “There has never been a better time in the industry to drive heterogeneous compute with AI and RISC-V,"
+    publishedDateTime: 2023-01-24T11:12:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/googles-director-of-strategic-alliances-keith-witek-joins-ai-chip-company-tenstorrent/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 46
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/tenstorrent.2e16d0ba.fill-1200x630.png"
+        width: 807
+        height: 425
+        isCached: true
 
 secured: "/++dYaBga10+UEcP5X7ZRfqfAiWF8QVuGPJgzb9FGSO+pXUJbsxFt3Jq62WRZ+i5LO381y0AzTHOo49MxqCrhAX5S4B1MF2eY/Uy2YW5Wtx64sLp73c+yssnEgtfiX3qa5ZbEwe2zIy59KGiHItsy1ELX4cOcC2GaSIXPfmX/GFPuRUSrx+eUipD4XPYpxGhMaCRSjX7STezB8W2YpyrZZqiyQyyTQ0fmH172zLzVbNw1gN/zwTYx7Sn9dgUaRPpBBlBKSTOojHaPtET/oWxGoqZl8Kjj51IVTgZg6KCt2xxJgfZa+yiSQTqKTxBMY+0aT2Ckp6e8n5AylmWYXuLCHB6lHjf0kw51xQ5/wmUQymqfq0JZR46gbj4yS43d2QEUZMCELgstGorkYQG0yMdNiaU1I6qjVpMaTgyTI+UPFCMBpnvLkRq5a5uQam786sAiHEKGutKO63rFSJL9pRBbfO+g/a7Y835wbSrp7yp4X3XJyzpUjRQv1jgBf9nu/GPkomaQ7aNWNpL+0Kkc+F34g==;9wqTCwSt1M3vy3ZJoP+f3g=="
 ---

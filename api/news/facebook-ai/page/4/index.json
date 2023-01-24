@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-03-dear-artists-do-not-fear-ai-image-generators.md",
+      "title": "Dear Artists: Do Not Fear AI Image Generators",
+      "excerpt": "True, new systems devalue craft, shift power, and wreck cultures and scenes. But didn’t the piano do that to the harpsichord?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/",
+      "originalUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63486e89acf5cc5989c3517c/master/pass/WI110122_ST_Ford_01.jpg",
+          "width": 1396,
+          "height": 1524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/artists-do-not-fear-ai-image-generators/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artists-do-not-fear-ai-image-generators/amp",
+      "publishedDateTime": "2022-11-03T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-if-youre-a-facebook-user-youre-also-a-research-subject.md",
+      "title": "If you're a Facebook user, you're also a research subject",
+      "excerpt": "According to its public database of published research, Facebook's written more than 180 public papers about artificial intelligence but just one study about elections, based on an experiment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.inforum.com/business/if-youre-a-facebook-user-youre-also-a-research-subject",
+      "originalUrl": "https://www.inforum.com/business/if-youre-a-facebook-user-youre-also-a-research-subject",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inforum",
+        "domain": "inforum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-1811-ai-the-metaverse-and-the-documentary-approach-to-photography.md",
       "title": "18.11 - AI, the metaverse and the documentary approach to photography",
       "excerpt": "Francesco Anselmi Born in 1984 in Milan, Francesco Anselmi lives between Italy and the United States. He graduated from the International Center of Photography in NYC, receiving the New York Times ...",
@@ -1319,106 +1406,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-how-to-invest-in-artificial-intelligence.md",
-      "title": "How To Invest In Artificial Intelligence",
-      "excerpt": "We all see the power of artificial intelligence. As investors, we must consider the best way to get into AI so that we don’t get left behind. Here are 10 AI investments to consider right now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633e204571c3bea087209bbc/0x0.jpg?format=jpg&crop=1766,993,x0,y137,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-10-05T17:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics",
-        "Machine Learning",
-        "AWS AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-meta-made-dall-e-for-video-and-theres-no-way-this-ends-well.md",
-      "title": "Meta Made DALL-E for Video and There’s No Way This Ends Well",
-      "excerpt": "Now Meta (Facebook’s parent company ... a Superhero outfit with red cape flying through the sky. “Generative AI research is pushing creative expression forward by giving people tools to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailybeast.com/facebooks-parent-company-meta-unveils-make-a-video-an-ai-content-creator-like-dall-e-with-the-same-flaws",
-      "originalUrl": "https://www.thedailybeast.com/facebooks-parent-company-meta-unveils-make-a-video-an-ai-content-creator-like-dall-e-with-the-same-flaws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1664918545/100522-tran-meta-hero_ikuxsq",
-          "width": 1480,
-          "height": 832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Beast",
-        "domain": "thedailybeast.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

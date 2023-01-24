@@ -2,6 +2,144 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-01-04-pretax-profits-at-tuam-driverless-car-firm-surge.md",
+      "title": "Pretax profits at Tuam driverless car firm surge",
+      "excerpt": "Pretax profits at the Tuam firm at the cutting edge of driverless car technology ... generating software intellectual property with artificial intelligence. A note with the accounts said that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.irishtimes.com/business/2023/01/03/pre-tax-profits-at-tuam-driverless-car-firm-surge/",
+      "originalUrl": "https://www.irishtimes.com/business/2023/01/03/pre-tax-profits-at-tuam-driverless-car-firm-surge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.irishtimes.com/resizer/DlvuTnioTDNFgvvlbQ4uAbjcVzM=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/EOZV4SVHRBLHHEVPK6IKNZKPZI.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Irish Times",
+        "domain": "irishtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-nvidia-partners-with-foxconn-to-build-drive-orin-chips-for-future-self-driving-cars.md",
+      "title": "Nvidia Partners With Foxconn to Build Drive Orin Chips for Future Self-Driving Cars",
+      "excerpt": "with plans to use Drive's artificial intelligence tech in their next-generation driver aid systems and automated cars. Foxconn's recent entry into the electric vehicle race is beginning to pick up ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/nvidia-partners-with-foxconn-to-build-drive-orin-chips-for-future-self-driving-cars/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/nvidia-partners-with-foxconn-to-build-drive-orin-chips-for-future-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/15ba4cac8f27af1fe0e5ea9ab0fa76b1909e1f9b/hub/2023/01/03/32bfcefc-a8b7-4fef-9859-327db2e0c5aa/foxconn-rs-ogi.jpg?auto=webp",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-partners-with-foxconn-to-build-drive-orin-chips-for-future-self-driving-cars/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-partners-with-foxconn-to-build-drive-orin-chips-for-future-self-driving-cars/",
+      "publishedDateTime": "2023-01-03T09:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-nvidia-unveils-advances-in-autonomous-robotics-simulation-using-ai.md",
+      "title": "Nvidia unveils advances in autonomous robotics simulation using AI",
+      "excerpt": "Nvidia Corp. today at CES 2023 announced major updates to Isaac Sim, its robotics simulation tool that allows designers and engineers to build and test virtual robots in realistic environments, such as warehouses,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/01/03/nvidia-unveils-advances-autonomous-robotics-simulation-using-ai/",
+      "originalUrl": "https://siliconangle.com/2023/01/03/nvidia-unveils-advances-autonomous-robotics-simulation-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/Isaac-Sim-Improves-RTX-Lidar-and-Sensor-Support.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-04-deep-learning-model-can-detect-disease-causing-mosaic-mutations.md",
       "title": "Deep-Learning Model Can Detect Disease-Causing Mosaic Mutations",
       "excerpt": "California-based researchers described how they trained a deep-learning model to detect DNA mutations called mosaic mutations that could support the development of treatments for several diseases.",
@@ -957,126 +1095,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-principles-that-lead-to-the-ethics-of-ai.md",
-      "title": "Principles that lead to the ethics of AI",
-      "excerpt": "The idea of putting this article out is to make leaders and industry veterans enforce and ensure that their teams are abiding by the ethics framework for building Artificial Intelligence based product",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/brand-stories/principles-that-lead-to-the-ethics-of-ai-11672653912365.html",
-      "originalUrl": "https://www.livemint.com/brand-stories/principles-that-lead-to-the-ethics-of-ai-11672653912365.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2023/01/02/600x338/Sesh_1672654008197_1672654022306_1672654022306.PNG",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/brand-stories/principles-that-lead-to-the-ethics-of-ai/amp-11672653912365.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/principles-that-lead-to-the-ethics-of-ai/amp-11672653912365.html",
-      "publishedDateTime": "2023-01-02T16:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-are-databases-becoming-just-query-engines-for-big-object-stores.md",
-      "title": "Are Databases Becoming Just Query Engines for Big Object Stores?",
-      "excerpt": "One of the benefits of storing massive amounts of data in object storage is the ability to access it using different query engines. This is the simple recognition that what works best for low-latency ad-hoc analytics is probably not what works best for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2023/01/03/are-databases-becoming-just-query-engines-for-big-object-stores/",
-      "originalUrl": "https://www.datanami.com/2023/01/03/are-databases-becoming-just-query-engines-for-big-object-stores/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2016/10/object-storage-system.png",
-          "width": 630,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-deep-learning-can-predict-tsunami-impacts-in-less-than-a-second.md",
-      "title": "Deep Learning Can Predict Tsunami Impacts in Less Than a Second",
-      "excerpt": "Researchers at Japan's RIKEN Prediction Science Laboratory applied deep learning to predict the impact of tsunamis in less than a second.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/268368-deep-learning-can-predict-tsunami-impacts-in-less-than-a-second",
-      "originalUrl": "https://cacm.acm.org/news/268368-deep-learning-can-predict-tsunami-impacts-in-less-than-a-second",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

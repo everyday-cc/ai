@@ -41,15 +41,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "FBI chief says he’s ‘deeply concerned’ by China’s artificial intelligence program"
-    excerpt: "FBI Director Christopher Wray said Thursday that he was “deeply concerned” about the Chinese government’s artificial intelligence program, asserting that it was “not constrained by the rule of law.”"
-    publishedDateTime: 2023-01-19T19:38:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/jan/19/fbi-chief-says-hes-deeply-concerned-by-chinas-arti/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 12
 
 secured: "00J+cGTEiuv/5W1h6TrSe45yqvJT3WymaAlSG2ITLkoAyuI8nW8y8S04UOtWYN6OJDJkhqCqCyi33w+rlT2BKVkgBWcdzGj6FTCWmYtXJRx8QDNTBEYuueDwtXAja1R6zOIruEdUCczB6g5pSRyeJGu9ZOW/RYYUmF+lFNyrFQOJ6YRvC0f0F4J7yPY4TeZwwcElg2mrCzmqxdjyZ4Yem+/7VqqJsyZsxpJ3Uqt/0AoXlkMNKFVbOc+0jqjt4h9VxWpXqVBzM6CnB4/+SQ4WO1s/YvuPl/oRSeo2dOZMN5HbFZlUXftkg0rgz5gi3BEEjgHA/ivbt11bu0ECA0adzMe+62oeEybhHMS/ekFBlRXb/sE9zIOFrrWR4DZ6VaqNH5AcsbC0p5ZqrDDeMeQLCunCAEVGX6uLb3rRTQ3snJa7UFKEa3QFhJrLnwskYqWNLBxC4lrZ5DTYYert6EHJpV6QfIa3KfHLIAl4VSl7QK+T3H+Iq/4sztNRU32oI5FzPlqg7bNTDW1mMWyIGm83qA==;BNAigftIXOWGVZak46JjFA=="
 ---
