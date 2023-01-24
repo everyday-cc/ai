@@ -155,20 +155,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Recognition Software Market 2023 (New Report): Size is set to Grow at an Outstanding Pace in the Upcoming Years till 2029"
-    excerpt: "Global Speech Recognition Software Market Research Report 2023 is spread across 120 pages and provides Size, Share, Growth, and Forecast with exclusive vital statistics, data, information, trends, and competitive landscape details in this niche sector."
-    publishedDateTime: 2023-01-19T07:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-2023-new-report-size-is-set-to-grow-at-an-outstanding-pace-in-the-upcoming-years-till-2029-2023-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Forecast 2028 for the Artificial Intelligence based Personalization Market in terms of size, returns, gross margin, and market share"
     excerpt: "Artificial Intelligence based Personalization Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,"
     publishedDateTime: 2023-01-23T04:23:00Z
@@ -257,20 +243,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 22
-  - title: "Pet Accessories Market Set To Reach Valuation Of USD 14.77 Billion By 2029, Size, Share, Demand, Future Growth, Challenges And Competitive Analysis'"
-    excerpt: "By keeping in mind the end user's point of view ... Livestock), Application (Identification & Tracking; Behaviour Monitoring & Control; Facilitation, Safety & Security; Medical Diagnosis & Treatment), End-Use (Commercial; Household), Country (U.S ..."
-    publishedDateTime: 2023-01-19T09:00:00Z
-    webUrl: "https://menafn.com/1105450102/Pet-Accessories-Market-Set-To-Reach-Valuation-Of-USD-1477-Billion-By-2029-Size-Share-Demand-Future-Growth-Challenges-And-Competitive-Analysis"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?219022"
-        width: 311
-        height: 250
-        isCached: true
 
 secured: "J3d5ISWclswtT8YxPi5W8vCb4yiNw/PkrQc9dRYkHowzNxYNzHyDI+vxLuli6qf/v20AiWlg7wQqrEpFXK0mnr0y1cd08tt2mscMyQM3mPM5tprFQTgRYoH1yyZorUsUIbAgVd5a8msinlcXWQ2rYGEcS6BXpDUpWKbly6ba+uvluHIgmVf181eoh6oQcAO3wO3TBsaPxQUi32VdodVoijCpO1qLQU1MjKsNvAzHfKwIOaluF26NoYPHaX4sYaPTcdc3hnbo94le1Q/pnDmRiKB4zX5wx+w627U1NKjmFv7QDu0f5vwKqDmxJPaibFD92hdGAtFkvi62Pgr7FbcGXr+XO8CukbgJAsFugUwSvPs=;eHrzSnYNt3z8HR8oR4wy6w=="
 ---

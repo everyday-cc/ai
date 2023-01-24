@@ -54,22 +54,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Artificial Intelligence Is Coming for Human Creativity"
-    excerpt: "Second, the development of artificial intelligence poses a challenge to our claims to creative uniqueness. With the defeat of Garry Kasparov by Big Blue in 1997, many people lost interest in chess ..."
-    publishedDateTime: 2023-01-19T07:14:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/Is%20AI%20coming%20for%20Creativity%2C%203%2C%20Joseph%20Ayerle.jpg?itok=clf3nLZg"
-        width: 1528
-        height: 800
-        isCached: true
 
 secured: "2YLfCJzcG76SB+x/V4fwYatWVmK6FaTU8EisuA7CXWFzC2rMzIfHqcglldY5PxTEF5dsZyQcc+S12H8NlPMKTE76+4K9MmB9TLDovXl6TKXDExfa+Z9fvVcSryhbFLbbQPutAp1s97h3kK4eVepr6xACSHK9sRdq27KyDURT7OAt85idsh3xasnWPWAfI25r/44NRzg3n/HaHhdVqeycMwBaGDJLbk2b27POCPVCmddYhaHwD+qNhgNccPDbD9thFlE7GmHAS3a45BT5Q6Ri/NHFOXaL5nx1zoxNo9CHMuQP2xdWvsZ3/qFDNp95nYwmIQozjGVIXqNSYxa+E61QtE6Fb+x/cASu0NpKp1w0yBI=;LBtuMMMYgkT1sCjz5M8gsw=="
 ---

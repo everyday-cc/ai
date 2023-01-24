@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Denodo Achieves AWS Data and Analytics ISV Competency Status"
-excerpt: "Denodo, a leader in data management, today announced that it has achieved the Amazon Web Services (AWS) Data and Analytics ISV Competency status. Attaining this status differentiates Denodo as an AWS Partner that has successfully demonstrated deep expertise in data integration,"
-publishedDateTime: 2023-01-11T08:26:00Z
-originalUrl: "https://www.afp.com/en/news/1314/denodo-achieves-aws-data-and-analytics-isv-competency-status-202301100054891"
-webUrl: "https://www.afp.com/en/news/1314/denodo-achieves-aws-data-and-analytics-isv-competency-status-202301100054891"
+excerpt: "Denodo, a leader in data management, today announced that it has achieved the Amazon Web Services (AWS) Data and"
+publishedDateTime: 2023-01-10T16:53:00Z
+originalUrl: "https://www.datanami.com/this-just-in/denodo-achieves-aws-data-and-analytics-isv-competency-status/"
+webUrl: "https://www.datanami.com/this-just-in/denodo-achieves-aws-data-and-analytics-isv-competency-status/"
 type: article
 
 provider:
-  name: AFP
-  domain: afp.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "Cl1OI69UwJLZ22jkXEpjeNrwn8yjwtbfWH7LHk6WyICx8YaaUIUpfvhT3ANOrRdUZj7Tobfz513KtbZPESgHWjaTY5IKh4rE+H7keNYdupeMjl6sKLnbzLP1+TKRhDeX5tfo7amUmIcBmiY93+RWn33XBsLC8nDcpLZMm0n8B4VMKyYfq+8uNPNo8EIB5CmNffahmPv6kCuEap7er9SbDIe/wIgZw1Z3Rlgv68TUsXCdCFsv7xGSRmOzHEfQXlgl68FkPByb5LKbPFudrCkb9exsqSRyZNt5DRH3cZtQyHEiD4GKVdI9hbkRLOcGab41368XijbyyaxNjDg6Xn7w9bR8CoH1h7cIiFNSX01J9O8=;bSEbEPKBjEGuSUBFGyBmXg=="
+secured: "8IMKRs4LwXa0NVZkPWlV5YV6YpKx9oCsccD4G7p/gMLNaKaU1hl3pUQnN9qz3Iig2+YTBFCCpu/LXHr4nF0ETZUPegjt/6GCjAXSzq2sKN6AW2wLYAQqUc7Iu1+kBiJz90Ax+kH3k9ZXMQS8TK2VuQHljMEfrBsoAaBMlA/DsxmT0BysMZYin+ukKHeO6kVbTUTwXPGcmPfzWyPwbCw8YrgIa3emTjwuDkV50rBfUb/BxnvKYHyC7LNCb0IYPbd9nHIyXXv3WnEALj7d1g/Xz8x2If5Y87RahCVtMuo2Cjb7vC/Q9kFbvw+xMCgthfyE69lCBywspWr8Yl5jcGS7WzEJX28yoibISTI2sPhfP2O/icCxTKHFWZQCbGOf+G0qIkYVirYdDskLWIL0mw/AyzS5h+fHBSARoRBFQgUd7n7bz+7uMiWuUCNvmANNQ8+l3tq1Hd+stvcgYAUPvW9eErUw87HqmruYmg5rJe0KaqlRO7lgic1HyoF8tHCIoUoEeh3G+JZihdNxxPbEmuCwHQ==;UMMZGsD0K5ybMUkxXOK8Dw=="
 ---
 

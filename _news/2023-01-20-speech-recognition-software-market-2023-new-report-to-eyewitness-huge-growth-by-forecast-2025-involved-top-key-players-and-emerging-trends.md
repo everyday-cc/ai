@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Agriculture Market 2023 (New Report): Size is set to Grow at an Outstanding Pace in the Upcoming Years till 2029"
-    excerpt: "AI in Agriculture Market Share report provides overview of market ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Solar EVA Sheets Market Share, Size Global Growth Analysis, Gross Margin ..."
-    publishedDateTime: 2023-01-19T10:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-agriculture-market-2023-new-report-size-is-set-to-grow-at-an-outstanding-pace-in-the-upcoming-years-till-2029-2023-01-19"
+  - title: "Facial Recognition Market is Estimated to Accelerate Industry Growth in Analytics Sector with Top Significant Players"
+    excerpt: "Facial Recognition Market Report 2023 is spread across 112 Pages and provides exclusive statistics data, and competitive landscape of Facial Recognition Market in niche sector. The global Facial Recognition market size was valued at USD 3975."
+    publishedDateTime: 2023-01-23T16:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-is-estimated-to-accelerate-industry-growth-in-analytics-sector-with-top-significant-players-2023-01-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

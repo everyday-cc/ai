@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/how-ai-and-data-enrichment-can-prot
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/how-ai-and-data-enrichment-can-protect-the-vulnerable-during-a-recession/amp/"
 type: article
 quality: 86
-heat: 90
+heat: 86
 published: true
 
 provider:

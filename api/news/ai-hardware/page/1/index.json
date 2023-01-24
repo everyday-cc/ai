@@ -650,6 +650,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-12-stylish-savage-and-smarter-lenovo-unveils-the-worlds-most-powerful-16-inch-ai-tuned-gaming-laptops-and-an-ecosystem-of-gaming-products.md",
+      "title": "Stylish, Savage, and Smarter: Lenovo unveils the world’s most powerful 16-inch AI-tuned gaming laptops and an ecosystem of gaming products",
+      "excerpt": "Lenovo Legion lineup of battle-ready PCs, monitors, and accessories are unveiled, setting a new standard in PC gaming for 2023 that give",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/stylish-savage-and-smarter-lenovo-unveils-world’s-most-powerful-16-inch-ai-tuned-gaming",
+      "originalUrl": "https://www.albawaba.com/business/pr/stylish-savage-and-smarter-lenovo-unveils-world’s-most-powerful-16-inch-ai-tuned-gaming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2023-01/Legion-towers-scaled.jpg?itok=3sQWnrqm",
+          "width": 2048,
+          "height": 1230,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/stylish-savage-and-smarter-lenovo-unveils-world%E2%80%99s-most-powerful-16-inch-ai-tuned-gaming",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/stylish-savage-and-smarter-lenovo-unveils-world%E2%80%99s-most-powerful-16-inch-ai-tuned-gaming",
+      "publishedDateTime": "2023-01-12T00:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-12-4-ai-and-ml-job-hunting-tips-from-chip-huyen.md",
       "title": "4 AI and ML job hunting tips from Chip Huyen",
       "excerpt": "It may be a tough market, but author and computer scientist Chip Huyen says there are several ways AI and ML job hunters can stand out.",
@@ -1399,58 +1442,6 @@
         "name": "TweakTown",
         "domain": "tweaktown.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-nvidia-rumored-to-be-developing-ai-optimized-drivers-with-serious-performance-enhancements.md",
-      "title": "Nvidia rumored to be developing AI-optimized drivers with serious performance enhancements",
-      "excerpt": "This is the first rumor we've seen about AI-driven driver development although we know chip makers already use AI to enhance chip research and development, this",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/97204-nvidia-rumored-developing-ai-optimized-drivers-serious-performance.html",
-      "originalUrl": "https://www.techspot.com/news/97204-nvidia-rumored-developing-ai-optimized-drivers-serious-performance.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-09-image-12.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T11:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

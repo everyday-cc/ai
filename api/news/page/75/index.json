@@ -2,6 +2,49 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2022-11-15-google-epic-partnering-to-allow-epic-hospital-clients-to-run-ehrs-on-google-cloud.md",
+      "title": "Google, Epic partnering to allow Epic hospital clients to run EHRs on Google Cloud",
+      "excerpt": "Instead, Cerner elected to go with AWS, despite being offered about $250 million in ... center Mayo Clinic and for-profit behemoth HCA, and building up its artificial intelligence and machine-learning offerings. For example, Google Cloud announced ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcaredive.com/news/google-epic-cloud-partnership-host-ehr-hackensack/636400/",
+      "originalUrl": "https://www.healthcaredive.com/news/google-epic-cloud-partnership-host-ehr-hackensack/636400/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthcaredive.com/imgproxy/Od7194B5yckvKHMTZrM1r_6AnOc1BJC1kBAy2vLsaII/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTUwODAwMzc2LmpwZw.jpg",
+          "width": 770,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthcare Dive",
+        "domain": "healthcaredive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-were-getting-a-better-idea-of-ais-true-carbon-footprint.md",
       "title": "We’re getting a better idea of AI’s true carbon footprint",
       "excerpt": "AI startup Hugging Face has undertaken the tech sector’s first attempt to estimate the broader carbon footprint of a large language model. Large language models (LLMs) have a dirty secret: they require vast amounts of energy to train and run. What’s ...",
@@ -1107,49 +1150,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-intel-unveils-prototype-neuromorphic-chip-for-ai-on-the-edge.md",
-      "title": "Intel Unveils Prototype Neuromorphic Chip for AI on the Edge",
-      "excerpt": "For example, a common fruit fly, an insect studied for AI research, has about 250,000 neurons and 10 million synapses. “This has been a major research effort by Intel and today we have a fully functioning neuromorphic research chip,” Intel CEO Brian ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/intel-unveils-prototype-neuromorphic-chip-ai-edge",
-      "originalUrl": "https://www.designnews.com/electronics-test/intel-unveils-prototype-neuromorphic-chip-ai-edge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Intel-Neuromorphic-chip-Loihi-2.jpg",
-          "width": 1709,
-          "height": 1722,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-13T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

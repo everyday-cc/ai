@@ -107,17 +107,17 @@ related:
     quality: 91
   - title: "Microsoft invests billions in artificial intelligence startup OpenAI"
     excerpt: "The tech giant described its new agreement as the third stage of a growing partnership with San Francisco-based OpenAI that began with a $1 billion investment in 2019."
-    publishedDateTime: 2023-01-23T18:39:00Z
-    webUrl: "https://www.fox10phoenix.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai"
-    ampWebUrl: "https://www.fox10phoenix.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
-    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
+    publishedDateTime: 2023-01-23T18:38:00Z
+    webUrl: "https://www.fox7austin.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai"
+    ampWebUrl: "https://www.fox7austin.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
+    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
     type: article
     provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
     quality: 89
     images:
-      - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2023/01/932/470/microsoft1.jpg?ve=1&tl=1"
+      - url: "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2023/01/932/470/microsoft1.jpg?ve=1&tl=1"
         width: 932
         height: 470
         isCached: true

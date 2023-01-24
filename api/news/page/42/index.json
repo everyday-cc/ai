@@ -2,6 +2,40 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-12-09-new-research-shows-empowering-advertisements-fall-short-in-cognitive-tests.md",
+      "title": "New research shows 'empowering' advertisements fall short in cognitive tests",
+      "excerpt": "Those that neither mentioned empowerment nor focused on women's physical beauty—think commercials for Apple, Geico, Allstate and Microsoft—were designated as low on both metrics. After viewing ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-12-empowering-advertisements-fall-short-cognitive.html",
+      "originalUrl": "https://phys.org/news/2022-12-empowering-advertisements-fall-short-cognitive.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T11:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-deepminds-alphacode-ai-system-performs-competitively-in-programming-competitions.md",
       "title": "Deepmind’s AlphaCode AI system performs competitively in programming competitions",
       "excerpt": "AlphaCode – a new Artificial Intelligence (AI) system for developing computer code developed by DeepMind – can achieve average human-level performance in solving programming contests ...",
@@ -1096,49 +1130,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-deutsche-bank-partners-with-nvidia-to-embed-ai-into-financial-services.md",
-      "title": "Deutsche Bank partners with NVIDIA to embed AI into financial services",
-      "excerpt": "Deutsche Bank has unveiled a multi-year partnership with NVIDIA that’s intended to accelerate the use of artificial intelligence (AI) and machine learning (ML) in the financial services sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/content/news/deutsche-bank-partners-with-nvidia-to-embed-ai-into-financial-services",
-      "originalUrl": "https://www.newelectronics.co.uk/content/news/deutsche-bank-partners-with-nvidia-to-embed-ai-into-financial-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/media/ngbph4qk/future-of-banking.jpg?width=1200&height=630&mode=crop",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T00:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -43,22 +43,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "From Illinois to India: Artificial Intelligence platform looks to make digital healthcare accessible to all following clinical trials in India"
-    excerpt: "An Illinois-based Artificial Intelligence (AI) platform that offers actionable medical advice through biometric monitoring is looking to make digital healthcare accessible to all as it conducts cuttin"
-    publishedDateTime: 2023-01-19T18:34:00Z
-    webUrl: "https://indiaeducationdiary.in/from-illinois-to-india-artificial-intelligence-platform-looks-to-make-digital-healthcare-accessible-to-all-following-clinical-trials-in-india/"
-    ampWebUrl: "https://indiaeducationdiary.in/from-illinois-to-india-artificial-intelligence-platform-looks-to-make-digital-healthcare-accessible-to-all-following-clinical-trials-in-india/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/from-illinois-to-india-artificial-intelligence-platform-looks-to-make-digital-healthcare-accessible-to-all-following-clinical-trials-in-india/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 38
-    images:
-      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1"
-        width: 534
-        height: 462
-        isCached: true
 
 secured: "Lyhlq7eNNWEyKNleDIPgmoMKXVNToKUEP7wq1TEG413DGmJN0wEf3uf7nqc35x+jYw2iIvao8WKCR1hwVrBKrtin0XRu9heWHd6ffFK35pb95cROKlg1q82hPy9QYbA7/MBZtHght1byzhyMvoEolTqPopbtT0suWD2QEkUnxK+SBhsT+EltdVzMwic6fPMeERWfmmhO2KQY0nWQTyykZdrVzgXBAbgtQOTq9AYveK1zrqzgyzgRlh4k+Aea4H+KF1eeGPs3lk3LKa2Hmi7QDrFk3pCF6t8od8J1wCtwbpk4JTiC6LQSb8NV6unsVqvQzL6OHr12qxyOMVi/SEHrj1o+//LSclhvnkneuVtoCoOKJpjcGIjSTGdVUGT1Rc+S0GTFGFTNkvGZ0+lPKEbwcSNi9FB7Glv5KcLwWm8IRyfpmcygppWcw2OarN3cigHKFBdxIsKqkgo53b7C91XqOfeyF/AMAUJR2LzqNLEaDzWivmx7/h8X+hBGdeoxYmrGOnbsS9WnNwlfwpetJvPbvA==;4nOwSe76aAfm5OZVrA0MEQ=="
 ---

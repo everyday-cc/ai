@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/health/2327456-study-shows-mach
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2327456-study-shows-machine-learning-can-predict-development-of-brain-tumours?amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1280
     height: 960
     isCached: true
+
+related:
+  - title: "AI Deep Learning Predicts Brain Tumor Growth"
+    excerpt: "Artificial intelligence (AI) deep learning combined with patient imaging data is opening a new world of possibilities for medical clinicians and researchers, especially in neuroscience. A new study published in the Journal of Theoretical Biology demonstrates how AI deep learning can predict brain tumor progression for glioblastoma from medical images to accelerate precision medicine."
+    publishedDateTime: 2023-01-23T22:55:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 74
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/pic07825.jpg?itok=E3c4ivWu"
+        width: 1528
+        height: 800
+        isCached: true
 
 secured: "TN0ck9uRfDmfYLcPzFwdRgxp1qsdAP32uexKPETLbBdtrO2UqHxh3jRJRT+rPf6qVg6AhiUKczTnTfdDU4bA9E1kZZRJaS6rCdjO6PUF5g1y62zKskEnFvMMTLInv14gunR+qjVDoMbBJt1Etydp6bZAvscX8IRT3BMIJ4gLtPlDeR+5mDX3xYzUlU+ZOfSR6zL1nsq7HT1Bp30XLONO2cy8YMI0U5wUqbxcw0bMu2+gIw8V67SF4Tfrtn9EVv4UzbLjHWP3DXXhRjtHuWJZi5aST4zAAbCfa7wzsPqGhhIAdbufnnO21r53vcohfkLICIMzuzkLegLfw2mqOmrTMsJ0Jzhmi16nh+9Rog6yAxqhW56i3MiitAurf2YXwuzASyx9bXUrc6LD85pHN060Pz8SwQA/0H5vxQJYy9mcLrgQm94HwYFd8w9+EYA9hagyxhS+ruv6XQ2EwD7VpBUi32Mzx3GtiLR48IZEHx3I5D1VJpM3mPYViWgX4c6vXbVX50U4wWcRLic9Ctp9we+tDQ==;B/MjpBBu7cweaqaWKFPl+g=="
 ---

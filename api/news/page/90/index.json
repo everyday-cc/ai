@@ -2,6 +2,49 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2022-10-31-a-system-that-allows-users-to-communicate-with-others-remotely-while-embodying-a-humanoid-robot.md",
+      "title": "A system that allows users to communicate with others remotely while embodying a humanoid robot",
+      "excerpt": "Recent technological advancements are opening new and exciting opportunities for communicating with others and visiting places remotely. These advancements include telepresence robots, moving robotic systems that allow users to virtually navigate remote environments and interact with people in these environments.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-10-users-remotely-embodying-humanoid-robot.html",
+      "originalUrl": "https://techxplore.com/news/2022-10-users-remotely-embodying-humanoid-robot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/a-system-that-allows-u.jpg",
+          "width": 1012,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-10-users-remotely-embodying-humanoid-robot.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-users-remotely-embodying-humanoid-robot.amp",
+      "publishedDateTime": "2022-10-31T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-31-self-driving-truck-startup-tusimple-fires-its-ceo-over-improper-ties-to-a-chinese-firm.md",
       "title": "Self-driving truck startup TuSimple fires its CEO over improper ties to a Chinese firm",
       "excerpt": "Self-driving truck startup TuSimple has fired its CEO, Xiaodi Hou, after an internal investigation found improper dealings and possible tech transfer to a Chinese firm led by TuSimple’s now-departed co-founder,",
@@ -1108,49 +1151,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-29-texas-attorney-general-sues-google-again-this-time-over-facial-recognition-in-photos.md",
-      "title": "Texas Attorney General Sues Google Again, This Time Over Facial Recognition in Photos",
-      "excerpt": "which uses facial recognition to sort together photos of the same people. Even if you gave Google permission to collect your own facial recognition data, the people you’ve taken pictures of ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912",
-      "originalUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912/amp",
-      "publishedDateTime": "2022-10-28T19:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

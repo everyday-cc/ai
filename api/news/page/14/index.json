@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-01-10-deep-learning-in-manufacturing-market-global-and-regional-analysis-and-forecast-2028.md",
+      "title": "Deep Learning in Manufacturing Market Global and Regional Analysis and Forecast 2028",
+      "excerpt": "Deep Learning in Manufacturing Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-global-and-regional-analysis-and-forecast-2028-2023-01-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-global-and-regional-analysis-and-forecast-2028-2023-01-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T19:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-artificial-intelligence-in-small-and-medium-business-market-top-factors-responsible-for-the-rapid-growth-in-the-coming-years-2028.md",
       "title": "Artificial Intelligence In Small And Medium Business Market | Top Factors Responsible for the Rapid Growth in the Coming Years 2028",
       "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence",
@@ -1066,58 +1118,6 @@
         "name": "Medicine Buffalo",
         "domain": "buffalo.edu",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-will-ai-make-creative-workers-redundant.md",
-      "title": "Will AI Make Creative Workers Redundant?",
-      "excerpt": "Software has turned human language translators into editors. ChatGPT and other programs may do something similar to writers and other artists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/will-ai-make-creative-workers-redundant-machine-learning-artificial-intelligence-technology-human-art-11673303015",
-      "originalUrl": "https://www.wsj.com/articles/will-ai-make-creative-workers-redundant-machine-learning-artificial-intelligence-technology-human-art-11673303015",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-699715/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T14:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

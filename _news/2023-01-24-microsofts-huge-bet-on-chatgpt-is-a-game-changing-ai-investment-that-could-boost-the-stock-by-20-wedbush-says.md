@@ -39,6 +39,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Fearing ChatGPT, Google enlists founders Brin and Page in AI fight"
+    excerpt: "ChatGPT has Google spooked. On Friday, The New York Times reported that Google founders Larry Page and Sergey Brin held several emergency meetings with company executives about OpenAI's new chatbot, which Google feels could threaten its $149 billion search business."
+    publishedDateTime: 2023-01-23T23:47:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 89
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/chatgpt_threat_hero-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Microsoft invests billions in ChatGPT-maker OpenAI"
     excerpt: "Microsoft says it is making a \"multiyear, multibillion dollar investment\" in the artificial intelligence startup OpenAI, maker of ChatGPT"
     publishedDateTime: 2023-01-23T14:15:00Z
@@ -99,6 +115,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft makes 'multiyear, multibillion dollar investment' in startup behind ChatGPT"
+    excerpt: "Microsoft's partnership enables it to capitalize on OpenAI's technology. Microsoft's supercomputers are helping to power the startup's energy-hungry AI systems, while the Redmond, Washington-based tech giant will be able to further integrate OpenAI ..."
+    publishedDateTime: 2023-01-24T00:51:00Z
+    webUrl: "https://www.13newsnow.com/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
+    ampWebUrl: "https://www.13newsnow.com/amp/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
+    cdnAmpWebUrl: "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
+    type: article
+    provider:
+      name: WVEC
+      domain: 13newsnow.com
+    quality: 52
+    images:
+      - url: "https://media.13newsnow.com/assets/CCT/images/e0045acf-a14c-4bdf-a476-7f33b2c4a928/e0045acf-a14c-4bdf-a476-7f33b2c4a928_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "ChatGPT won’t give OpenAI sustainable first-mover advantage"
     excerpt: "But in our view, though the hype around ChatGPT is justified, we don’t believe OpenAI will lock up the market with its first-mover advantage. Rather, we believe that success in this market will be directly proportional to the quality and quantity of data that a technology company has at its disposal,"
     publishedDateTime: 2023-01-20T03:40:00Z
@@ -122,6 +154,20 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 33
+  - title: "Microsoft drops gauntlet on Google, announces 'multibillion-dollar' investment in ChatGPT creator"
+    excerpt: "Software giant Microsoft just revealed plans to invest billions in OpenAI, the company behind the ChatGPT artificial intelligence tool that's drawn a tidal wave of interest, and conjecture, since its November release."
+    publishedDateTime: 2023-01-23T21:50:00Z
+    webUrl: "https://www.ksl.com/article/50563669/microsoft-drops-gauntlet-on-google-announces-multibillion-dollar-investment-in-chatgpt-creator"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 26
+    images:
+      - url: "https://img.ksl.com/slc/2912/291233/29123388.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
 
 secured: "BGwOkNFNv+IkBMNoiXX1jri0cAwUHcPVRKaw/VapAK4K8B2ce6B0wABI70bISbAIsNIyde9kY/NqS67gzzDhsVVgZOgBvodPZf2ljqMkhkjFnu84B4peBFEbTIaKDj127ICookuNOWg0tg+S6DKutR6VJEIgauA4TGY52E3R2QswvHmQHf3nYMr2wz4MW1uaYZtSwVpaGBwVzMdHAI+VaAHQVXAna3wStCsGWU4lgtGgM+9gAUDK4PkJ4piGV1dOZu3+7I9KFeBFE/mMIhLm5j3eHt/QQRB95Fi5BpYJkv1zbbYljpUHoovk7YXejTvx/psS1mAu6kLMnmhiWOxyw2Ui8qzWRgMAm8G2PRrGWlZvj4/SJIKNHNC33Xb/7XHBZl3oXYZ80r/hcSLyrQ/reY56KujJK07lRZQpycbAvyw5dH+KL8sLQ/daCOz5rKvtj1Qpt60NpoGun5E6OGvGsbtar2CRJ7QzH4WpBkiAn4ILD7Di1Q3Qehpa0iScQ+J0XYtDzivqdEISYizy6XytYw==;Qvtl0SsshIhO4UNlg/aRrQ=="
 ---

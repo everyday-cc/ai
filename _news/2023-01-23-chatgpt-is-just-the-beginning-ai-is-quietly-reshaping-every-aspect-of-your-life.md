@@ -417,15 +417,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 30
-  - title: "We Used ChatGPT To Write An Article About... ChatGPT. This Is What Happened"
-    excerpt: "Many people are talking about ChatGPT because it is a very advanced computer programme that can understand and respond to human language in a very natural way. It can answer questions, have conversations,"
-    publishedDateTime: 2023-01-19T08:49:00Z
-    webUrl: "https://says.com/my/tech/we-used-chatgpt-to-write-an-article-about-chatgpt"
-    type: article
-    provider:
-      name: Latest on SAYS
-      domain: says.com
-    quality: 2
 
 secured: "+c4Ln4U+0iSM6hB7yj4LsCsUsIEAD1xQLNhdrAptbLAYMhgEOdqDf7uOPzTE19aGN4T3lHbZaP4FN0FCTJ4yShFtfG5gl6zstqTXuCqgh/UyNOlG0UpPg84mf4TmC/VjeS0xB2gBRa+PUhJAU2WrjQ0gDkPFlcODz6Zwx7gQhxnmyQtSXDyJz6urZy7cAo5BnSRJxBHwxRcVFf+fpNVZtDF+QIEf1MDqV9qrB5nGlhwhBCr9xrEinVumGHE7ffp8SbZOy0tZfqkICzAM8P6QvKYfFJv9edqk6CaymquTUEYE7ZlBfPw0uHm5t/jtXFXE31+Ygif+Jdw0dyXAfXQS+1me4ma5BZ2wb6OGZYoEhk4=;89gtBbC/HRH11KVuoHX3mA=="
 ---

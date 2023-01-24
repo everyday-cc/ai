@@ -41,6 +41,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Fearing ChatGPT, Google enlists founders Brin and Page in AI fight"
+    excerpt: "ChatGPT has Google spooked. On Friday, The New York Times reported that Google founders Larry Page and Sergey Brin held several emergency meetings with company executives about OpenAI's new chatbot, which Google feels could threaten its $149 billion search business."
+    publishedDateTime: 2023-01-23T23:47:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 89
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/chatgpt_threat_hero-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Microsoft invests billions in ChatGPT-maker OpenAI"
     excerpt: "Microsoft says it is making a \"multiyear, multibillion dollar investment\" in the artificial intelligence startup OpenAI, maker of ChatGPT"
     publishedDateTime: 2023-01-23T14:15:00Z
@@ -87,6 +103,22 @@ related:
         width: 1066
         height: 600
         isCached: true
+  - title: "Microsoft makes 'multiyear, multibillion dollar investment' in startup behind ChatGPT"
+    excerpt: "Microsoft's partnership enables it to capitalize on OpenAI's technology. Microsoft's supercomputers are helping to power the startup's energy-hungry AI systems, while the Redmond, Washington-based tech giant will be able to further integrate OpenAI ..."
+    publishedDateTime: 2023-01-24T00:51:00Z
+    webUrl: "https://www.13newsnow.com/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
+    ampWebUrl: "https://www.13newsnow.com/amp/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
+    cdnAmpWebUrl: "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
+    type: article
+    provider:
+      name: WVEC
+      domain: 13newsnow.com
+    quality: 52
+    images:
+      - url: "https://media.13newsnow.com/assets/CCT/images/e0045acf-a14c-4bdf-a476-7f33b2c4a928/e0045acf-a14c-4bdf-a476-7f33b2c4a928_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Microsoft's huge bet on ChatGPT is a 'game changing AI investment' that could boost the stock by 20%, Wedbush says"
     excerpt: "Microsoft just confirmed its $10 billion partnership expansion with OpenAI. That could make it a leader in the artificial intelligence space, Wedbush said."
     publishedDateTime: 2023-01-23T17:42:00Z
@@ -119,7 +151,21 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 33
+  - title: "Microsoft drops gauntlet on Google, announces 'multibillion-dollar' investment in ChatGPT creator"
+    excerpt: "Software giant Microsoft just revealed plans to invest billions in OpenAI, the company behind the ChatGPT artificial intelligence tool that's drawn a tidal wave of interest, and conjecture, since its November release."
+    publishedDateTime: 2023-01-23T21:50:00Z
+    webUrl: "https://www.ksl.com/article/50563669/microsoft-drops-gauntlet-on-google-announces-multibillion-dollar-investment-in-chatgpt-creator"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 26
+    images:
+      - url: "https://img.ksl.com/slc/2912/291233/29123388.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
 
-secured: "Xix1EkK1II90JPG5NgPkU5w9DtZNXeSNUe4CrcUqlQN/usyh5kpNmmUnkOtRu6g2ICuwxMR+Jzuv/VQMoGJyIAHdpFHyL9VpEIkwfjVdRHx3XcJ5ja4XPfcK5qUwCLnKUsIBtQWFsRdVGLrbnr5QfuSnGvLOmWdgTI8H8a72izSAWOV7LMzGRQWhk5ogoTmIb05X7HZGWVOeByW5/w7DyWhx9SyWcEq6OJ5Fjbc3135/+AhW3QT8t8yHIjgE1fLxyoAWckZN39lWTGwmNMI7VK6LcdsT+z7gTn7vj4FUT+tJsNNzUKnF8TLHO+iIy99nJ6cH+zlKAtsOhEBC7zeT0bT3Cs6UzCAZcUsBYKQwwTM=;GZdel9HPQX119NU1WfcaGQ=="
+secured: "e6ZzKqs1ALIMjrnhwaBH5KVZQR7XdGnqadDB8eD7eV7YRDzf57/qGEeO9/aS1ygm7pW51FTLmOMQLeEE6+B8/qsmbulnn+VxMeqxXkeS8ONW/r3s+nwl5MRYiRivUO3x+GG1IYzIWCnxo+QIWAW8DMrFjJy1d3de0B2NNME+CVe5nXko4BQdkiOiq0+uHEV2PV5iCjyUCWnjQibJFmz9HgY4JJRigLFyqzqCKTOVVC6jtMawjwkH5ITgF3xGSf9YbkXdIfuVgWDMXNoEMn23cxITiz4aiu+RW2q7upw5S1wz8WMh7pJOb/V9gXsXoxGqkrevu0NcV7NEPUUG5KupZpbGDqgnX9QwgdG8vMz+1BE2WASMi/HeOVSSJauMh5/ONuPHptDf8McM/AUEWnGuvCSL18X8e2Dy4lJHN/klvz/BqzFuLXsgF6Rf1lUQcZs1/QhbG4jcanlCMqSQKlPTnaOdPtc/gSEu//S4qM0sMm7gm6kH+YZYheh0jr1ibvB4oWQGHwF92I9lF82I/TjayA==;zd2tQ/hnPMta9B+PNGb0xg=="
 ---
 

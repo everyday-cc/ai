@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/chatgpt-secure-cloud/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/chatgpt-secure-cloud/amp/"
 type: article
 quality: 104
-heat: 394
+heat: 384
 published: true
 
 provider:
@@ -423,15 +423,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 12
-  - title: "We Used ChatGPT To Write An Article About... ChatGPT. This Is What Happened"
-    excerpt: "Many people are talking about ChatGPT because it is a very advanced computer programme that can understand and respond to human language in a very natural way. It can answer questions, have conversations,"
-    publishedDateTime: 2023-01-19T08:49:00Z
-    webUrl: "https://says.com/my/tech/we-used-chatgpt-to-write-an-article-about-chatgpt"
-    type: article
-    provider:
-      name: Latest on SAYS
-      domain: says.com
-    quality: 2
 
 secured: "QhRDCVZlKbRtkJ81fJ5vr8qxWj/xbQKyr36EEuPmQuln0cLSsdnVEFLxqZu4VnSpFL/A14Tct8UzfDxmU/CxoPHgX7ZjcZ5cn1M43aRWqj+Gzs1sFK1U+ty9Obby/23Gxi9MV4nGkzjThL+GqJMnMnd/284c2oV4GRTJozd3E3LHxGrd+clhIhP6ZU9FglcUCqwmBxmDdKlne0VIyyZ0qOr9oxadmZMziOQUvSQrtvG4omYcnvHa0hRijCX8uQNRAbW9Bi0L8F0CtFk99qFl9Tn4OWvrT9EPQs31DzQU1Q6ShvEYIr9ohBsLjCshXavyLVRrEXueDD+jUpWQfwFQF2YkvKxWi8SjKeuog/bUezl8+HESqxxilUycXoblMfvL82lq13/9Dv0I/0Czx2E0J45qf3SnSZVIYrKxZz9Qn9fMVPEwn51ysTUlahEDzsnTeN3tOIDYouBVGNVDuQXLG3vvBYgeTrMZK3BKlcw6JBw6j3Yzja68xwzadpRCCn/dMMQW6bWz+d0PemGPlPop9A==;f9Cl/NyqxfsQi1Fd7usixA=="
 ---

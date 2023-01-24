@@ -106,17 +106,17 @@ related:
     quality: 91
   - title: "Microsoft invests billions in artificial intelligence startup OpenAI"
     excerpt: "The tech giant described its new agreement as the third stage of a growing partnership with San Francisco-based OpenAI that began with a $1 billion investment in 2019."
-    publishedDateTime: 2023-01-23T18:39:00Z
-    webUrl: "https://www.fox10phoenix.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai"
-    ampWebUrl: "https://www.fox10phoenix.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
-    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
+    publishedDateTime: 2023-01-23T18:38:00Z
+    webUrl: "https://www.fox7austin.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai"
+    ampWebUrl: "https://www.fox7austin.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
+    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
     type: article
     provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
     quality: 89
     images:
-      - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2023/01/932/470/microsoft1.jpg?ve=1&tl=1"
+      - url: "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2023/01/932/470/microsoft1.jpg?ve=1&tl=1"
         width: 932
         height: 470
         isCached: true
@@ -268,6 +268,6 @@ related:
       domain: scmagazine.com
     quality: 25
 
-secured: "L1UkmrvNkUQkJPLd8scfdCHFZUpV6Qa4Iwf5l2/CgvlapnpCptnDYER8VcH3EeZGGzXJcN7gO4YOdMRGk0QmwskE742Rk14hIQzW7wKPX8kHOvI7y0nfFxTnkbtEYxQK8CQ9WGNhYS2ATRhzNdzw0FBtDg8+Ra6tf/gvaDJuaqsjJPpa/EPHHPlwFSV8VB0h7ZOBydELFEu29U/C7DYQsT+F7P9UIiiG6MAh9PIpKFnZvWiIBkyugw/4yTIa2GPMOosmjpHTcCu4Ig/WrMOZRfTUC/6AujPCbTwCZrckSx1XpxOslvaBIm5WCyZEr3veIKtsMaOMzRrMxwgRCoXa62hbyYQg2Js2DZvy9GwR7HY=;Rvy3n46tFx//6yJupp2tag=="
+secured: "n00jNmh6A7Msc+deZiT+EU+YpeBmqoA2iRkVDUuN+XE5Nmw+vT2Tsx+g7Dtg8hfgKAbgNqkT+yJ7T3FSAY64jRr7DhJT1C5DvRB2K1VMYG17GwmcAHII4TvmB5tDzwBzs2YJVxWRwKnAgzUz7uU8C0c53FZtHgE1vpXkEq3f7E/86K66IPJ3+oFkIpxF9+uID4ZcPBYlyXcO83VWWOsf7EY0KMO0dC4aYrE2dEcvxaN4caZ+em13KhGW/wsV62BdaJ+EtXX/r8nryfzKDgKyDAAWz6Kf/XnwTZFyQhdLIcxHgH0dG7AWT3929FyaU/LbIjwh0vSV4kFQyVJjr9IRK3/JXImdKbU2+SKR0WRFtB7Gn+p0BHN7tRoGa7WtJ8kchK65B9CJG3ksSi+O/soHxb4rzOSxJ5+TrcEY4JP649P11LYc8j8giHivZDSk34hSzmdN7Sakl0AeqG7cvbYQTOGWgFFSt3V0hYa2VI7WB6g8390A18hoIlyfyWZa92PsKNw2CQS9ztFzoRtsHEA4AA==;LFmdt2Nr0GM15K9bOO7pAw=="
 ---
 

@@ -419,15 +419,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 12
-  - title: "We Used ChatGPT To Write An Article About... ChatGPT. This Is What Happened"
-    excerpt: "Many people are talking about ChatGPT because it is a very advanced computer programme that can understand and respond to human language in a very natural way. It can answer questions, have conversations,"
-    publishedDateTime: 2023-01-19T08:49:00Z
-    webUrl: "https://says.com/my/tech/we-used-chatgpt-to-write-an-article-about-chatgpt"
-    type: article
-    provider:
-      name: Latest on SAYS
-      domain: says.com
-    quality: 2
 
 secured: "nrptgpnIzHQCF0sX4A74ebiSUTi24A3ZXed2eSVWtbt8LG06m04GKUmCqSVCF2i9Zbg9cJqPWr7OfEKp7OW72U/L+YVlAjDiKnXlPeDNZWNog5BvR7wl4GJ/FhSlqjlws1lvug1YWzVJzPTkAnbh9oY3+iIV5Fork/j9YPx8DGoP7QIRJP411jJI+ZbMaffB1xgZVNM2rLoF8ccdX0nyPxjX34Ke6VToyrwYDSiTNRN60GAUWVCNVyDJEM1fgrRPs/iJL5eZRAt06GpUtU8zsvYwQotyYADcGSHIvAclCkdUMatYMUUvLtb3UIL2dtzZrRXe3+as+F8KcjRN8kItxBzXJUKL6lGXuYTzp3l3YxZFP56o1CzDuyA/piRDJf/KjLOhkk1HkIP1etiqqFOsRMxehlsNKWQ/JQkcE6CYDK9rWx/8UsGxehyZGm2GDyWe2jw9QEixufk5poP3wihDQ45cyAGdtnCdCoOrCK8G32kZfwNEesfvyZNuFdQPLcgSt2Du8Fg2t6MCVMGTLEHjww==;v605zUggqwBOH7ICfk+KEw=="
 ---
