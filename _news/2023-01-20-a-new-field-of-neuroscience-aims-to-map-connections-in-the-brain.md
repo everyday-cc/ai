@@ -7,7 +7,7 @@ originalUrl: "https://medicalxpress.com/news/2023-01-field-neuroscience-aims-bra
 webUrl: "https://medicalxpress.com/news/2023-01-field-neuroscience-aims-brain.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "A New Field of Neuroscience Aims to Map Connections in the Brain"
-    excerpt: "Wei-Chung Allen Lee, Harvard Medical School associate professor of neurology at Boston Children’s Hospital, is working in a new field of neuroscience called connectomics, which aims to comprehensively map connections between neurons in the brain."
-    publishedDateTime: 2023-01-19T12:00:00Z
-    webUrl: "https://hms.harvard.edu/news/new-field-neuroscience-aims-map-connections-brain"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 19
 
 secured: "UsGVmpSCkem0/NXBIvOj1KqWTT6xfyVDa8YP8Dzzku3oCT1mzaehmCoIYnjdUpzZR9JKZyaTv/Z3Du7SHlsNl75c/x2e0w+8JBLE18OsqvFq2f72BFCsUGek1Qkza5vkNGGhAkUmGSdJ9Qdcevmbna6U4l6olN9ova5opKr5mVPeS+4594FQtdimTngvYEr95O/TO0SEuNIlqUgtAgDqyapukXVvgJp52SWExPnn/u9KTzy9rNA8SK2ObYIariA3DsqDAr8Eqj0LsWIxXsr7SCJhN/tYqbR62JIZl2ZI7AwO4O7k49PKNIDjJq3Ur7/f43yeeVDeTAYjtWgBPEJRcT4i5BlBWFlm54H1evvN9iVmecz9UgQSwPrTlDMlUmDH5j0bDaGWss71eb3w0LHtZBh5F8j8jADdc/Qe/ILVcpug/XZhw4+C1eC/XmtLIlPVNs/UTecYn4SQrz6ij8mp/M6d1d617BvWl5ri7JzzdX4W9zJRc+UnnLGEQ1FenLanR0+lx/2ndRvn31GrJFOx+g==;BlHf6g+h9tb1m08+Vzlb6Q=="
 ---

@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Technology: Enhancing empathic support with artificial intelligence"
+    excerpt: "An artificial intelligence (AI)-based chat interface, named HAILEY, that offers assistance to mental health peer supporters who interact online with individuals seeking support, is described in a paper published in Nature Machine Intelligence."
+    publishedDateTime: 2023-01-24T01:28:00Z
+    webUrl: "https://www.natureasia.com/en/research/highlight/14361"
+    type: article
+    provider:
+      name: nature　asia
+      domain: natureasia.com
+    quality: 19
   - title: "Artificial intelligence on forefront thanks to new technology"
     excerpt: "Artificial intelligence is a hot topic nowadays thanks to programs like ChatGPT and Dalle. Michael Williams speaks with Infostream CEO Alan Crowetz about the future of artificial intelligence."
     publishedDateTime: 2023-01-22T18:02:00Z

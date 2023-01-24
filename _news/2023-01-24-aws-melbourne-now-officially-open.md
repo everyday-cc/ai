@@ -39,6 +39,15 @@ related:
         width: 460
         height: 285
         isCached: true
+  - title: "AWS launches Melbourne region"
+    excerpt: "Cloud giant Amazon Web Services has launched the AWS Asia Pacific (Melbourne) Region, its second infrastructure region in Australia. The new region comprises three availability zones – data centres that are sufficiently separated to ensure continuity of operation,"
+    publishedDateTime: 2023-01-24T01:11:00Z
+    webUrl: "https://itwire.com/it-industry-news/enterprise-cloud/aws-launches-melbourne-region.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 19
 
 secured: "krwEILCqQC9HpEPJiVvcPHC9vUpcZNRqFq81XG1s0jnDylGsxUKK2Kjj844gdhjmrDly+0ugo9rRV68fG11NYLLFwPegE/NfWaBE9OSpjY6MH3gz4y427tOBmkIKVszlDNAJRLxJM1FSo3f8RIQ+Cb0JU3xIJWd+3NMxeKPpaU4s4PjCs5oXGp8kgTT3gra1TLgmW/BA7wuRQT+loL7/aVhCFPSSUM/3wJFLVMYVCip2DRtufEqDRvI746tBh2X2JY3+kS05mO+U69VvIt/zDiMU+jSeTBes5d1nNdElr0JGGO2rVOBeqI0+78Jk5q0cHUYIpPHUQ6TyFK77C9sMH4sRUat468XpLRFEJsLeXX8BcOuCs3LFlS9iKTf9emlpvH4I1ip4uYIV7OhLljmRH1WaPio4VoIH3tMkM4rPpjjqyc1qioPeCB+ZbL/C3mu70kGHUXNVqV9mOu7LVZaItrEWW9VMhElf5+tDjNLpBVV888h6u6H5qeYwgpOxfyAOl6L8qTKtIZgwUMnf4SJQbw==;1EVh2aF5LKJ9ZAXvMJaDyQ=="
 ---

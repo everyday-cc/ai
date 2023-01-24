@@ -130,22 +130,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Microsoft rolling out Azure Open AI service with access to Chat GPT soon"
-    excerpt: "American tech giant Microsoft is all set to roll out Azure Open AI service this week, which will allow businesses to integrate tools like DALL-E into their own cloud apps. According to The Verge, an American technology news website,"
-    publishedDateTime: 2023-01-19T11:49:00Z
-    webUrl: "https://timesofindia.indiatimes.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/videoshow/97134538.cms"
-    ampWebUrl: "https://m.timesofindia.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/amp_videoshow/97134538.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/amp_videoshow/97134538.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 88
-    images:
-      - url: "https://static.toiimg.com/photo/msid-97134538/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Microsoft announces major investment in artificial intelligence startup OpenAI"
     excerpt: "Microsoft says it is making a “multiyear, multibillion dollar investment” in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can generate readable text, images and computer code."
     publishedDateTime: 2023-01-23T16:45:00Z
@@ -194,20 +178,6 @@ related:
         width: 371
         height: 219
         isCached: true
-  - title: "Microsoft is all set to roll out Azure Open AI service with access to ChatGPT soon"
-    excerpt: "American tech giant Microsoft is all set to roll out Azure Open AI service this week, which will allow businesses to integrate tools like DALL-E into their own cloud apps. According to The Verge, an American technology news website,"
-    publishedDateTime: 2023-01-19T10:39:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/microsoft-is-all-set-to-roll-out-azure-open-ai-service-with-access-to-chatgpt-soon/videoshow/97130916.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 63
-    images:
-      - url: "https://img.etimg.com/thumb/msid-97130916,width-1070,height-580,overlay-economictimes/photo.jpg"
-        width: 1070
-        height: 580
-        isCached: true
   - title: "Microsoft & OpenAI Extend Deal To Make AI Accessible To Everyone"
     excerpt: "Microsoft to extend multi-billion dollar investment in OpenAI to speed up development, democratize AI and make it accessible to everyone."
     publishedDateTime: 2023-01-23T20:42:00Z
@@ -254,15 +224,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "Cross-site forgery bug would facilitate remote code execution in Microsoft Azure services"
-    excerpt: "The bug, reported to Microsoft on Oct. 26 and remediated Dec. 6, is the result of manipulating a series of misconfigurations and security bypasses in Kudu, a back-end source control management (SCM) tool that helps manage and modify web applications and is used by major Microsoft cloud services like Azure Functions,"
-    publishedDateTime: 2023-01-19T13:00:00Z
-    webUrl: "https://www.scmagazine.com/analysis/application-security/cross-site-forgery-bug-would-facilitate-remote-code-execution-in-microsoft-azure-services"
+  - title: "Why is Microsoft putting billions of dollars into an Artificial Intelligence chatbot?"
+    excerpt: "Microsoft has announced a multi-year, multibillion dollar investment in artificial intelligence (AI) as it extends its partnership with OpenAI. Show more Microsoft has announced a multi-year, multibillion dollar investment in artificial intelligence (AI) as it extends its partnership with OpenAI."
+    publishedDateTime: 2023-01-24T01:45:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/w172ydq97sfhqn7"
     type: article
     provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 25
+      name: BBC
+      domain: bbc.co.uk
+    quality: 27
 
 secured: "noCTDZE4gejujU9RfnELzgv7AhKaVHlzXsdBc+/20NFDIDSLJlxtnP5Veb4S4ksEAAKt27XnvCfwUKxdnMyFRKxfDRHtt8fdVFgzcmjlLZfcHN0oo0r8UiZVrEbRzq5jPGG2d8lJAap1autUBGsrShsWUAapgvoNUUauEVQYFKPW5Fz6no1nH5IGd/krs48RSQtDInHrLZS9wC0yvxd/1a76ypNzikwZ9kCETT+B4hFHMik7Tn0k8uTP65xEpMu5oxtaRfZ8oXjjBooh3SVK8z1EN6dw6dd4DoCMyZ6AfgMs90PpiBXMOovaC4ooZpYVtkbzmJPxlqZYv9SP032WA01kT31l8X8wc3OeVFRtcd410ePAhmtyS1SZp/ual6SwT88v/dF/Uzt7PoalWUpIAVhz7i8vZxr+yAG6WVX70XQ0xxS285koKPbHSGqQA6yWof67RQJDogyxxnvy5/aQS9B+w6jyMGPeI9alvWmiLaT9/Dmp8HsN2gnFaxD2yE6kkP4xkAlh8wHxfJ7S/qvqcA==;LDoyC94alczNI8CwAYCVNg=="
 ---

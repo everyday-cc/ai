@@ -19,6 +19,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://gumlet.assettype.com/freepressjournal/2023-01/4f19101e-cddf-4866-a73f-5d0b59426126/Featured_4.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"

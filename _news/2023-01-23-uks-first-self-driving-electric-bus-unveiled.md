@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "WeRide L4 Self Driving Minibus Receives Beijing’s First Road Test License"
-    excerpt: "WeRide announced that its autonomous technology enabled minibus was the first to officially obtain the road test license in Beijing. The bus is equipped with L4 self driving technology and is a major milestone for the brand."
-    publishedDateTime: 2023-01-19T11:35:00Z
-    webUrl: "https://www.gizmochina.com/2023/01/19/weride-self-driving-bus-beijing-license/"
-    ampWebUrl: "https://www.gizmochina.com/2023/01/19/weride-self-driving-bus-beijing-license/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2023/01/19/weride-self-driving-bus-beijing-license/?amp=1"
+  - title: "Passengers travel on full-size self-driving bus in UK first"
+    excerpt: "Operator Stagecoach said 22 volunteers were taken on a journey by the autonomous vehicle across the Forth Road Bridge as part of testing."
+    publishedDateTime: 2023-01-20T11:24:00Z
+    webUrl: "https://www.aol.com/passengers-travel-full-size-self-122323908.html"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 88
+      name: AOL
+      domain: aol.com
+    quality: 24
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/01/3caa4ac2-6d02-415f-ab79-f5e38fb17107.jpg"
-        width: 800
-        height: 533
+      - url: "https://s.yimg.com/ny/api/res/1.2/G1mCJtmRKvboNWo.DsOS_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/6b9d89cfe4ae56120eebd0ecb2436263"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "S+ETXnjMTm1fQOiPcT3muYcLFmbP4VpFyyM5kMcQm/jbsOZlIv2yyO0t+7lZNzPVpRXEAt5xSUWqlWm4TvdBhqjqKQlTQ/VxHVQl0B6sHFHQ5RXDXznmT9kZtv8YpD9A11T3J+YH3eTN4dlK0P5bN0uPeIHTBPa0J63jshPnJKZUIQ8ulQfIh4e8tZPGSoC2VGBSlgGZQPZuvy1oo/UyE2jYzsMFZ1gBFTurK4r2tkClj006hyBzce0HimyHT395KABmA+iKH6mWB0iMVRBgmF057VM/2co73CHTjV39K1+u0ncql21V1JyZ7ZkVDqdjzgVD0wHc5As7wv7T/oyCk8o8raXih/3uUsdX1a4JFBPAnazIlBS2EyBYoX6IUEaExV108ngd42zyxtZ7Ss1OsZEh5bY+qqQbTevaXlnQX/tI2/8Bm4n38LhSCuFXzburQV3T+RtFNZA9r1qWavtfh5lfvTGY5oFBo6esNQa2CRvpq3Jy7ePuKDEvLVK9fy9r7DEzaAkbUvU9sfJMDqmQzQ==;Vj9bj+1MFGDG5a7x2TKXhQ=="

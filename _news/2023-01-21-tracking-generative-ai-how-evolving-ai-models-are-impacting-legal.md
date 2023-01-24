@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "AI art generators face separate copyright lawsuits from Getty Images and a group of artists"
-    excerpt: "Three artists have launched a class action against the companies behind Stable Diffusion, Midjourney, and DreamUp."
-    publishedDateTime: 2023-01-19T10:29:00Z
-    webUrl: "https://www.businessinsider.com/ai-art-artists-getty-images-lawsuits-stable-diffusion-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/ai-art-artists-getty-images-lawsuits-stable-diffusion-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-art-artists-getty-images-lawsuits-stable-diffusion-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://i.insider.com/63c82647eee94d001a78ce29?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "What AI art means for society, according to Yale experts"
     excerpt: "Will AI art elevate human creativity? Will AI be a tool or a replacement for artists? Is AI art, art? Yale experts weigh in."
     publishedDateTime: 2023-01-23T07:02:00Z
@@ -170,14 +154,14 @@ related:
       name: Independent Online
       domain: iol.co.za
     quality: 19
-  - title: "AI tools can create new images, but who is the real artist?"
-    excerpt: "Artificial intelligence systems are training themselves on a vast collection of digitized artworks to produce new images that can be conjured in seconds from a smartphone app"
-    publishedDateTime: 2023-01-19T09:06:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ai-tools-create-new-images-real-artist-96532225"
+  - title: "CNET’s AI-Generated Articles Riddled With Plagiarism"
+    excerpt: "CNET has dug itself into an AI-generated pit. Earlier this month, the tech-focused website was caught quietly publishing AI-generated articles without disclosing the development to readers. Then, the site was embroiled in potential legal trouble when it came to light that a multitude of errors and plagiarism were discovered in the bot’s work by another tech outlet,"
+    publishedDateTime: 2023-01-24T01:16:00Z
+    webUrl: "https://www.thedailybeast.com/cnets-ai-generated-articles-riddled-with-errors-and-plagiarism"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Daily Beast
+      domain: thedailybeast.com
     quality: 17
 
 secured: "8FwcAadDATjYHkFBkewmBlQ0SWoumBuFpdasbYs55qfD8b19IrLB8g+0i2oDRnJxPt96NtkjldVjcQnkz7IGfLZs28kCtAie2kdqw/w1J/dJYbOi3XbyY7CFsvsKMCABVxrK1MbMJUz3puRdvXgZ+R02Z/caA8k9MB8jsTjT3e/5flIKzEn8wUsZKeuX4UMaVUoBIZmnHfjnUpgE8fXr6s3+ywDM8uUd2tRYLz71Hz4RZhS63Qzn/TbiVEfeHwETU7w1K6zzxZzNqYjaGQ580oJPRQKOrNpjkcqkPi2hQE8ha9q5vm2qVSzqiXakzp3MXcLBz5LBB5UFM5uy8JE8a/EtLSzfayaeaL+nYzQhqKClumHQr+OaSPb5e0T3j5Nzr/r4yykeNS51EpMoxwXtmNEObKxbpm3A84vG2H+Q+RDNBie6zBBLdSzTpqfCxMR5gei0F+GzbkyUzcW8CfQfn6bXVx0YLRuf3ZeABfjLAN1T9w9mNJjTzdN09MGbeTrjNUZSugClsZM6danSAK9xEA==;Fc/84xhIcwgwEygB+NfwCg=="

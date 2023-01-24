@@ -16,6 +16,12 @@ topics:
   - AI
   - AI in Sales
 
-secured: "Nh9vYxCx3kFPmdtnJtdsB3cktDkS5QSh2QaZGagUKzbVmhJ0eGQ9pkqSYn371AOVEmkf89rg6Vgf4qAcnFRJzvuOtJZzzXwDRYD4NrtW24NBivWoEL7eEuoIR8looqscSkQzQ90OfY7YGq0IJ6b661WUxUObaCVVm6M1p4cve0zIDRL6JoAW9WQq8vC3sqF2EcPHUXaFATSPPqwfNv8+lmcP6saooN9sfoVQkAOlTEe8Dn31BWrp3eqqqWZHLODxo1JqgyEgwTAqa4VYqSGF3P320NibclbRD48yIv2QQ/zUlICNGvfatz6slvv3dRem0smX/ibeRP1XGNkOby68N8V6AgjMFsu9azWeb56N7Vg=;7/C7tBTfLB+PwkUXBf1WkQ=="
+images:
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_204939925_9.jpg"
+    width: 473
+    height: 315
+    isCached: true
+
+secured: "WD3ca8oiys1oI3TFS3z1Yk9PMDf4LbrEW06Ohz0WjFMjtZ3NiCv241FV4Ig55YxMyXVFR5XCrYhw2W47D6s60D791Xwgr380QBSltberjL3QOq1QAwN9Tjfc0pvdHehzojv2b4itu80tSImGvsSeAXdR48jCxdnewqgIhD0riK7KHoBAJXB+NXyt598P7tkAW4SkVEYnS31C7VAtx5/87VvUptIcShcxiTTDipl8jNoIoszhEFalCKt582RExa/1ER+j51QyQiNfsCY1xwGK2/d0mo5a29NKRtD/u1qzBAQE79SZZhe/kQgXXVLIb2FBVYc7mZNdQ8bmyoVEU9CpeGS8DXJsfbRiwmmquPoT+Kk=;x28yt8x9lAPcrpukXAESIw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://atlantablackstar.com/2023/01/23/another-good-reason-to-wea
 webUrl: "https://atlantablackstar.com/2023/01/23/another-good-reason-to-wear-a-mask-video-of-nypd-cops-recording-drake-concertgoers-raises-facial-recognition-concerns/"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Woman finds ‘twin’ through facial recognition software - but they are not even related"
-    excerpt: "Ambra and Jennifer look so alike that Jessica's mother asked if she was adopted, but the two women are completely unrelated"
-    publishedDateTime: 2023-01-19T10:44:00Z
-    webUrl: "https://www.mirror.co.uk/news/us-news/woman-finds-twin-through-facial-28995786"
-    ampWebUrl: "https://www.mirror.co.uk/news/us-news/woman-finds-twin-through-facial-28995786.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/woman-finds-twin-through-facial-28995786.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 51
-    images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article28995538.ece/ALTERNATES/s1200/0_facial.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "hNDlxZSgwmVrK6v0qmA3eZbWZsmK0BV2AnXflYls9oodEC6k7uTmoL1ToX5So4Mekm3XdB1oVekoJgKNMVfPYYTV5hL9ktEs+4JTZfOVTEbI/JJwKeR2hAMAVTX2FlazYRBc1kjTE+Ynr76afOYaLiLxIlBRjiVPHqxT4CYRHJrtdeLvaS/0BojM8xH7y1vO9sPfeXH6R0LNlqhbt/SFJA9go+EmS8SETdXpCBVjVh4efUL5V+vJnAVpdq0vP1x9Vlsn6a4jWMIQMY4CSjknpy46lI8CxsLujxie3ms2vRefCnvntdzM41qZIcnPmDbn9GwZAzzXHgMwDMHVt8ypTlGIR27m0DiENNziqRXDJE4=;hkMVzbUe0MhpqG8Pa9EAdQ=="
 ---

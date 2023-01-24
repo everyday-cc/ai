@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T00:48:00Z
 originalUrl: "https://www.eweek.com/big-data-and-analytics/snowflake-vs-informatica/"
 webUrl: "https://www.eweek.com/big-data-and-analytics/snowflake-vs-informatica/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: eWeek

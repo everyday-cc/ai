@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/boston-dynamics-humanoi
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/boston-dynamics-humanoid-robot-atlas-shows-off-impressive-skills-take-a-look-9897001.html/amp"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: moneycontrol.com
@@ -36,20 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 44
-  - title: "Boston Dynamics’ Atlas robot can now grab and throw objects"
-    excerpt: "Boston Dynamics has shown off its Atlas robot once again, and this time it can be seen grabbing, throwing, and backflipping through a simulated construction site."
-    publishedDateTime: 2023-01-19T10:49:00Z
-    webUrl: "https://www.dexerto.com/tech/boston-dynamics-atlas-robot-grab-throw-2037198/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 39
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/01/19/Boston-Dynamics-Atlas.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "XlVQszSkjHbTQixLFhDsy8MwWhdAM/kZFn1HhwIAM91c9JGmLus/NosuH8Kj9o+J25mSit20r0wnkp9X4SETKqvO64t7n7zyc2zE4ozhq+eFyPNovQkF49EDrYVz9kE/fyzclmBqPjgZJ3WDUZn2L7fR0bzQ+LN3M8Plw43PSHGM4evpaAsSCp4OiKyJ9iNy5wKtugCjPC0dBgz95seYCKQLWYjQ3kFNYBARQ5z+sAyfh4av/eBgzPbvCrN21skS+aKcD2pcYzdHT9UXXGUvSJohl2v7nRPGVcZcVsFtUfX9hlu3uT4VaytanGCJ3zH5NkSP9g5Z3c+P5QTuxmQ6lvCFAKwS2fjv/KmhcY7YuRg=;scxirFvkW9C9x8ff7EIbHQ=="
 ---

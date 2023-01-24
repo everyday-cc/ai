@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T01:11:00Z
 originalUrl: "https://itwire.com/it-industry-news/enterprise-cloud/aws-launches-melbourne-region.html"
 webUrl: "https://itwire.com/it-industry-news/enterprise-cloud/aws-launches-melbourne-region.html"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: ITWire
@@ -14,6 +17,36 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "AWS Melbourne now officially open"
+    excerpt: "Amazon Web Services has announced the general availability of its Melbourne region. This will feature three Availability Zones, and is the second AWS region in Australia. The regi"
+    publishedDateTime: 2023-01-23T23:18:00Z
+    webUrl: "https://www.crn.com.au/news/aws-melbourne-now-officially-open-590073"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/whichcloud_shutterstock_66520039.jpg"
+        width: 1000
+        height: 665
+        isCached: true
+  - title: "AWS opens Melbourne region"
+    excerpt: "The Melbourne region follows a long way behind AWS’s original entry into the Australian market, the Sydney region which launched in 2012. The region consists of three availabili"
+    publishedDateTime: 2023-01-24T00:32:00Z
+    webUrl: "https://www.itnews.com.au/news/aws-opens-melbourne-region-590074"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/20140325062424_20130918094129_CRN-amazon-cloud-aws.jpg"
+        width: 460
+        height: 285
+        isCached: true
 
 secured: "kL0+N5NHvO2yHjZgBY0LFjrk2CnCxiFPKLO/Zt8zOv6rC2rR8Bc3z1DTPWyEtbBhUljpR4aJFge+GvhLXhGM7Mfp7HR9XBwO1S0DVDo/MAZe2PqTvpTM6apQGOz7mziZ/2erzUMRmidUWDLHcT1hFYpSHwM5rwwE3F+DZAGwaxBVrQMRs6DEMh3GYSnvHjjCvUkZbLg0SdQ2d5WiPoVMeg0E2Lg4L57D8+jNX7gJTj37HahNG1AyXqL+RNcejdM1LY/DEw9iWOWazsRBpHVpKTpOrbwn6e1ecd0yn/z/vBffZiF+ea4TpcTymeV3eZcYW14R7HHHOJp8dXQLUWkpTkGgVJPkXLJ354xCTGJYgNE5rzNqVkA2Vh+KEvF+lUoT56NJFMDrDRaqy5xhPkyvwGY0nWVuvzqLGSjMuKcZzdeGer0yglZTB12mLRmm6Hy5L9dgzoyThZPB929uuJclUYXOPiH1Kb9H7YiBMYCUb47S6xjzCuFr0NQQoKChRAoSfPrYB6l8J0q2c90dDfel/w==;45X+rsMiaJPKQnWXAbYrdg=="
 ---

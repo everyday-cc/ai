@@ -124,22 +124,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Microsoft rolling out Azure Open AI service with access to Chat GPT soon"
-    excerpt: "American tech giant Microsoft is all set to roll out Azure Open AI service this week, which will allow businesses to integrate tools like DALL-E into their own cloud apps. According to The Verge, an American technology news website,"
-    publishedDateTime: 2023-01-19T11:49:00Z
-    webUrl: "https://timesofindia.indiatimes.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/videoshow/97134538.cms"
-    ampWebUrl: "https://m.timesofindia.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/amp_videoshow/97134538.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/amp_videoshow/97134538.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 88
-    images:
-      - url: "https://static.toiimg.com/photo/msid-97134538/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Microsoft announces major investment in artificial intelligence startup OpenAI"
     excerpt: "Microsoft says it is making a “multiyear, multibillion dollar investment” in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can generate readable text, images and computer code."
     publishedDateTime: 2023-01-23T16:45:00Z
@@ -187,20 +171,6 @@ related:
       - url: "https://www.gamespot.com/a/uploads/original/1179/11799911/4089708-screenshot2023-01-23at9.42.58am.png"
         width: 371
         height: 219
-        isCached: true
-  - title: "Microsoft is all set to roll out Azure Open AI service with access to ChatGPT soon"
-    excerpt: "American tech giant Microsoft is all set to roll out Azure Open AI service this week, which will allow businesses to integrate tools like DALL-E into their own cloud apps. According to The Verge, an American technology news website,"
-    publishedDateTime: 2023-01-19T10:39:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/microsoft-is-all-set-to-roll-out-azure-open-ai-service-with-access-to-chatgpt-soon/videoshow/97130916.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 63
-    images:
-      - url: "https://img.etimg.com/thumb/msid-97130916,width-1070,height-580,overlay-economictimes/photo.jpg"
-        width: 1070
-        height: 580
         isCached: true
   - title: "Microsoft investing $10bn in Open AI’s ChatGPT"
     excerpt: "Landmark AI tool ChatGPT is to get $10bn in funding from Microsoft Microsoft investing $10bn in Open AI's ChatGPT Artificial intelligence, ChatGPT, Microsoft Technology"
@@ -253,15 +223,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "Cross-site forgery bug would facilitate remote code execution in Microsoft Azure services"
-    excerpt: "The bug, reported to Microsoft on Oct. 26 and remediated Dec. 6, is the result of manipulating a series of misconfigurations and security bypasses in Kudu, a back-end source control management (SCM) tool that helps manage and modify web applications and is used by major Microsoft cloud services like Azure Functions,"
-    publishedDateTime: 2023-01-19T13:00:00Z
-    webUrl: "https://www.scmagazine.com/analysis/application-security/cross-site-forgery-bug-would-facilitate-remote-code-execution-in-microsoft-azure-services"
+  - title: "Why is Microsoft putting billions of dollars into an Artificial Intelligence chatbot?"
+    excerpt: "Microsoft has announced a multi-year, multibillion dollar investment in artificial intelligence (AI) as it extends its partnership with OpenAI. Show more Microsoft has announced a multi-year, multibillion dollar investment in artificial intelligence (AI) as it extends its partnership with OpenAI."
+    publishedDateTime: 2023-01-24T01:45:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/w172ydq97sfhqn7"
     type: article
     provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 25
+      name: BBC
+      domain: bbc.co.uk
+    quality: 27
 
 secured: "otaAqy1DpUCOdzUlrvLV/cwagUBXzLt3kmYq5QrSbAqFy7eCnPZofjce739E57XO+HO68qMR04vAJDG3oDma/GJyr7KXQJkDVubUIObZGGhuUdraq10LsGKJIorik1a0XO35Wd3fikLFcpTsPeQhg9XQrww8u8lMHXmTvwwbx2kBQL9SBrSaezxdWQmYxSvKz2DIX00xErVOD3bpSUffwSlja/vtlljw+xeglLWWahkQ6P+lXCf7ZV1aZWvT1Ub+9KXSk/0DT9riZosDQrEnWiD7GsI0Nxn6d/q+ycWRoF4rLmABkLjjcQKbgCSoXjrh8sFPPfl7DzJn2C8ZuM4topv22VzghvuT/II1Taa5QNDUzGLjoW2+ELEM0ANpICG4gjhSNJUu1S+9D4ZC+zDC5Mik5Dae2qx9Bm5E9JdaAnIJmvaR5nwv77FqeJsH8q+ewXrcmzLl0PAMtLgUcyrvkePMb2HxGEhwWHtDerAlMgIhBXzHHbfQAEjoVVfo7yGfJWmfk/pR/VA/phKGlafbmA==;zOUkzMugRnTBlJGF+NB8lA=="
 ---

@@ -117,22 +117,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft makes 'multiyear, multibillion dollar investment' in startup behind ChatGPT"
-    excerpt: "Microsoft's partnership enables it to capitalize on OpenAI's technology. Microsoft's supercomputers are helping to power the startup's energy-hungry AI systems, while the Redmond, Washington-based tech giant will be able to further integrate OpenAI ..."
-    publishedDateTime: 2023-01-24T00:51:00Z
-    webUrl: "https://www.13newsnow.com/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
-    ampWebUrl: "https://www.13newsnow.com/amp/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
-    cdnAmpWebUrl: "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
-    type: article
-    provider:
-      name: WVEC
-      domain: 13newsnow.com
-    quality: 52
-    images:
-      - url: "https://media.13newsnow.com/assets/CCT/images/e0045acf-a14c-4bdf-a476-7f33b2c4a928/e0045acf-a14c-4bdf-a476-7f33b2c4a928_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Microsoft's huge bet on ChatGPT is a 'game changing AI investment' that could boost the stock by 20%, Wedbush says"
     excerpt: "Microsoft just confirmed its $10 billion partnership expansion with OpenAI. That could make it a leader in the artificial intelligence space, Wedbush said."
     publishedDateTime: 2023-01-23T17:42:00Z
@@ -165,7 +149,25 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 33
+  - title: "Microsoft Invests $10 Billion in ChatGPT Creator OpenAI To Develop 'powerful' AI System"
+    excerpt: "Microsoft has confirmed that it is making a \"multibillion-dollar\" investment in OpenAI, the company that created ChatGPT, an artificial intelligence chatbot."
+    publishedDateTime: 2023-01-24T01:48:00Z
+    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/microsoft-invests-10-dollars-billion-in-chatgpt-creator-openai-to-develop-powerful-ai-system-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 26
+  - title: "Microsoft makes 'multiyear, multibillion dollar investment' in startup behind ChatGPT"
+    excerpt: "The partnership will allow Microsoft to sharpen its competition with Google in commercializing new AI breakthroughs."
+    publishedDateTime: 2023-01-23T22:20:00Z
+    webUrl: "https://www.wfaa.com/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
+    type: article
+    provider:
+      name: WFAA8
+      domain: wfaa.com
+    quality: 12
 
-secured: "29UtydxCwyiGy0fGBwonL26qyGqiPVk8+aAJvx+ADM8YPdW9//HhpNSzfT/t3ocRQnpUgYqO8jLBmBIS6IqWbGO50QyMLgjPnxz0f0tv2YXpZP0Blv+soxNXQoKbGjdAz62zGTmJytD3TxvvpHPF3jZ7BcJxunvSIMkAoruObMl8dTteL+ncShEEzeh2TBA0ywbvnPo02p2rvi6d2Vvs1e0O8S2VlZmLpsQjbBqVJUXkAJSntMyDdMlWK2p+Kpj/hdnUYg7QGv8Gtoa0GXodkWGugRtq5bky+CoQ3M1khxbc0T2JGJXH0T7oPzBhmYc7PeBAO/NyqMfMUzC8faIdrlV6RFJ3Vix9qYOUp6wuJAI=;TcXppSM/PFK4bm5ii2hLAA=="
+secured: "KHdjJU0GleHGhpeuTs1YorJwbKenpCaT5EV9AAxPffnYxZskK4a64KlFNCcyBuSdMmJ6E+B1XzzSU1ymeudjPHcHF54SeWezWX0ibch7BVBV9zp4QPF4gxpdsIA1BYevdw7nGce42hc+f5whrNgrlkfvzvoR8PDzZBUw2PsNhLfE04UNrvQwbK0gYTF0Y6E43q91MYzehBx17XuiG/DNA2nr428i63YlVIWYQb3B00sIZJeLpfKRLEvTwJF6dyhE+pyqjoMcnhgSeEISIchFo5ZZlWVk04t432o65RqhkSco3+npSJoeKSOaUSqvK14F+rLdnvbSFJEL6KPzcf3e0K/eSX9AR9bdnfghUMAel54mcXZoiaqpeglz+JUjYqajNj8JM2XhpxBYX5w4WReBPwJRFpyf9rq8zEwDnR/ztIlRsxYA0aQn9rReaH5mZnlUu0uQNWhBoVfhQcRQ1AmrbpNmp+CZeUQsZxAeZRhfV9oi0ppZLXAjZxj7NYiN+HvHiH9CAKc5eQEBxdkiK1ojoA==;dA3iv5Cf/QeMuBy4CCxrwQ=="
 ---
 

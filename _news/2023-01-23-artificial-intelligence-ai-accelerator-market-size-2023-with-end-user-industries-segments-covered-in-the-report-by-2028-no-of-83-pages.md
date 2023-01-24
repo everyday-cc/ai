@@ -126,6 +126,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Market Size in 2023 Industry Demand, Industry News, Business Growth, Top Key Players Update till 2029"
+    excerpt: "In 2023, Current Voice Recognition Market Size | 2029 | Newest [111] Pages Report Voice Recognition Market Size Outlook"
+    publishedDateTime: 2023-01-24T03:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-in-2023-industry-demand-industry-news-business-growth-top-key-players-update-till-2029-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Computer Networks Market : Key Player, Competition Weakness and Strengths from 2023 to 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence"
+    publishedDateTime: 2023-01-23T22:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-key-player-competition-weakness-and-strengths-from-2023-to-2028-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
 
 secured: "u+l+llp6m9xInB1m13HdLAv0ScpYyAG98lgabfYfeBApFNvTPyIqF/v3sIfOkDNY5e3DMiaNFsLFjFezCnPmXSJ2WlX2NM6u+PJ2WH22Ixr+corQY/ftXWQKfiksIGpZMTd2nZetvYmDqUcpv8wFUk5oI/tr+u3fxIXZAmqqTG/SClZflZFGORKD1aVOwBDpl9WDBJ9e35pd3zTLoa/TKgt54m2dAd+iFe7vuFnfrQkegAecDXQ1ep4f8UMzpS4sFG7SwI6Oa+wQr14AHfARkwFKz+wtec/MhPvsmvsyQq9oJpVTXLpZ4LZZ4kZCdtu85Ei+nzJDfiH2+J0rBkLEngM4JpRhCrQZXJShL+57meY=;LTzMja6flCMF8tC2l640dA=="
 ---

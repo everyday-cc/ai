@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checko
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/amp/"
 type: article
 quality: 125
-heat: 295
+heat: 275
 published: true
 
 provider:
@@ -121,22 +121,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Microsoft rolling out Azure Open AI service with access to Chat GPT soon"
-    excerpt: "American tech giant Microsoft is all set to roll out Azure Open AI service this week, which will allow businesses to integrate tools like DALL-E into their own cloud apps. According to The Verge, an American technology news website,"
-    publishedDateTime: 2023-01-19T11:49:00Z
-    webUrl: "https://timesofindia.indiatimes.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/videoshow/97134538.cms"
-    ampWebUrl: "https://m.timesofindia.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/amp_videoshow/97134538.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon/amp_videoshow/97134538.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 88
-    images:
-      - url: "https://static.toiimg.com/photo/msid-97134538/videos/tech/microsoft-rolling-out-azure-open-ai-service-with-access-to-chat-gpt-soon.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Microsoft announces major investment in artificial intelligence startup OpenAI"
     excerpt: "Microsoft says it is making a “multiyear, multibillion dollar investment” in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can generate readable text, images and computer code."
     publishedDateTime: 2023-01-23T16:45:00Z
@@ -184,20 +168,6 @@ related:
       - url: "https://www.gamespot.com/a/uploads/original/1179/11799911/4089708-screenshot2023-01-23at9.42.58am.png"
         width: 371
         height: 219
-        isCached: true
-  - title: "Microsoft is all set to roll out Azure Open AI service with access to ChatGPT soon"
-    excerpt: "American tech giant Microsoft is all set to roll out Azure Open AI service this week, which will allow businesses to integrate tools like DALL-E into their own cloud apps. According to The Verge, an American technology news website,"
-    publishedDateTime: 2023-01-19T10:39:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/microsoft-is-all-set-to-roll-out-azure-open-ai-service-with-access-to-chatgpt-soon/videoshow/97130916.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 63
-    images:
-      - url: "https://img.etimg.com/thumb/msid-97130916,width-1070,height-580,overlay-economictimes/photo.jpg"
-        width: 1070
-        height: 580
         isCached: true
   - title: "Microsoft investing $10bn in Open AI’s ChatGPT"
     excerpt: "Landmark AI tool ChatGPT is to get $10bn in funding from Microsoft Microsoft investing $10bn in Open AI's ChatGPT Artificial intelligence, ChatGPT, Microsoft Technology"
@@ -259,15 +229,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "Cross-site forgery bug would facilitate remote code execution in Microsoft Azure services"
-    excerpt: "The bug, reported to Microsoft on Oct. 26 and remediated Dec. 6, is the result of manipulating a series of misconfigurations and security bypasses in Kudu, a back-end source control management (SCM) tool that helps manage and modify web applications and is used by major Microsoft cloud services like Azure Functions,"
-    publishedDateTime: 2023-01-19T13:00:00Z
-    webUrl: "https://www.scmagazine.com/analysis/application-security/cross-site-forgery-bug-would-facilitate-remote-code-execution-in-microsoft-azure-services"
+  - title: "Why is Microsoft putting billions of dollars into an Artificial Intelligence chatbot?"
+    excerpt: "Microsoft has announced a multi-year, multibillion dollar investment in artificial intelligence (AI) as it extends its partnership with OpenAI. Show more Microsoft has announced a multi-year, multibillion dollar investment in artificial intelligence (AI) as it extends its partnership with OpenAI."
+    publishedDateTime: 2023-01-24T01:45:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/w172ydq97sfhqn7"
     type: article
     provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 25
+      name: BBC
+      domain: bbc.co.uk
+    quality: 27
 
 secured: "8+fVMSpRnwudIphyh6/yIGBPDjma3F3BrMBsa1KlnXuOAsvvm5RN9a9p9XKbqaF8XUNZ2nfuaTNz2GO3pW+sqWBXboXZge4pAHcE5jyq10ML9yezy16v/fOGZJ+bIPRKA5OlwxvK3Ap/YZvs6HmqE04iGreDwPcBFUjp0IHNUVouAVfvsAcoyNfO5TRIfQgpiDEfSFzlCH/+TWNAyuGR8BamS5P4As6CmOai1A7oxd4vywxIh03rP0un/zuxuC+hdzY1meElfOesRJ8g3KpQiJvglIj9K+P9sXhg7ahHJ9XKAAsyAHoyzRFaQoNOE32K/yos2O5x/k5v9ooNbktaGXKyKlDGVstI1TUDpj5GXSXObDamVZz6plCHyLvRqJUysIYmyt/RgRpeS4jTEZXdZy/Es5NB8a8zv7Mh4ySUTgAsWcYzvSWNsO2/b4W1xplXkrx2vKk/cZ5tVhfMkUR1Gv1VOTAWGM8YecR5CxuptQyTxp45J2vFAODq5GxC3DXaeypnPikjQXElHPeqHyMtUg==;adSn4wfhp3Awqfq79oGvfw=="
 ---

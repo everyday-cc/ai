@@ -7,7 +7,7 @@ originalUrl: "https://herald-review.com/opinion/editorial/what-others-are-saying
 webUrl: "https://herald-review.com/opinion/editorial/what-others-are-saying-online-ai-tool-isnt-foolproof-yet/article_412c4ace-9775-11ed-bbd1-a3c96f4c4cd0.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Teachers are adapting to concerns about a powerful new AI tool"
-    excerpt: "When Kristen Asplin heard about a powerful new AI chatbot tool called ChatGPT going viral online recently with its ability to write frighteningly good essays in seconds, she worried about how her students could use it to cheat."
-    publishedDateTime: 2023-01-19T12:29:00Z
-    webUrl: "https://www.cnn.com/2023/01/19/tech/chatgpt-teachers-adjusting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
 
 secured: "L0k8tqbefdVEkWqsmhB2/imUi3RsSN2av4LexAl/xp6spS3mrpL/cIrTPHrN+SLop44ZWoOTVEl9k67R3E9ZM3MNJvAQIUfj9dEN5pqCzmqKjjJhlC4yM06hQiFf5lok6K670Dg/Ulu6NzrXYtUShdKFFq/EBBr14XzXAZZsdm1kOTnqCBBes3l1Us5BYH4kY2zQKdioEZ9fub9KZe0iRR44ku3NW4smJoYcz7PBtDMQtxZmvQXTLZ4fmY/CwENrHmI9K5+txn8ohSMeYLhW8TSED7bWyWiK8q1wE55GYwYSq5aiTgEx0xIFvQZw1kJCe0hLXh4TMTuz7qamYrUhBfFav4yE7EeWlNLjSo6ABfM=;CkzFsSfWAwel+bKJpMM6cw=="
 ---
